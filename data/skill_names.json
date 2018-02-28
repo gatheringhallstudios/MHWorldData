@@ -1,0 +1,542 @@
+[
+    {
+        "name_en": "Affinity Sliding",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Agitator",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Airborne",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Artillery",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Attack Boost",
+        "name_jp": null,
+        "levels": 7
+    },
+    {
+        "name_en": "Aquatic Expert",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "BBQ Master",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Blast Attack",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Blast Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Bleeding Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Blight Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Blindsider",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Bombardier",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Botanist",
+        "name_jp": null,
+        "levels": 4
+    },
+    {
+        "name_en": "Capacity Boost",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Carving Pro",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Cliffhanger",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Constitution",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Critical Boost",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Critical Eye",
+        "name_jp": null,
+        "levels": 7
+    },
+    {
+        "name_en": "Defense Boost",
+        "name_jp": null,
+        "levels": 7
+    },
+    {
+        "name_en": "Detector",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Divine Blessing",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Dragon Attack",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Dragon Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Dungmaster",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Earplugs",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Effluvia Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Effluvial Expert",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Entomologist",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Evade Extender",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Evade Window",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Fire Attack",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Fire Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Flinch Free",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Focus",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Forager's Luck",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Fortify",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Free Elem/Ammo Up",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Free Meal",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Geologist",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Guard",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Handicraft",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Health Boost",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Heat Guard",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Heavy Artillery",
+        "name_jp": null,
+        "levels": 2
+    },
+    {
+        "name_en": "Honey Hunter",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Horn Maestro",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Hunger Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Ice Attack",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Ice Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Intimidator",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Iron Skin",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Item prolonger",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Jump Master",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Latent Power",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Leap of Faith",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Marathon Runner",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Master Fisher",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Master Gatherer",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Master Mounter",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Maximum Might",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Mushroomancer",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Muck Resistance",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Non-elemental Boost",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Normal Shots",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Palico Rally",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Paralysis Attack",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Paralysis Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Partbreaker",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Peak Performance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Piercing Shots",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Poison Attack",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Poison Functionality",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Poison Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Power Prolonger",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Pro Transporter",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Quick Sheath",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Recovery Speed",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Recovery Up",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Resentment",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Resuscitate",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Scenthound",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Scholar",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Scoutfly Range Up",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Sleep Attack",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Sleep Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Slinger Capacity",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Slugger",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Special Ammo Boost",
+        "name_jp": null,
+        "levels": 2
+    },
+    {
+        "name_en": "Speed Crawler",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Speed Eating",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Speed Sharpening",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Sporepuff Expert",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Spread/Power Shots",
+        "name_jp": null,
+        "levels": 1
+    },
+    {
+        "name_en": "Stamina Surge",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Stamina Thief",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Stealth",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Stun Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Thunder Attack",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Thunder Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Tool Specialist",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Tremor Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Water Attack",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Water Resistance",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Weakness Exploit",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
+        "name_en": "Wide-Range",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
+        "name_en": "Windproof",
+        "name_jp": null,
+        "levels": 5
+    }
+]
