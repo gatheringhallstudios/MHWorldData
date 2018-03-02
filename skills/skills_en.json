@@ -435,11 +435,11 @@
             },
             {
                 "level": 4,
-                "description_en": "Dragon attack +5%"
+                "description_en": "Dragon attack +5% Bonus: +100"
             },
             {
                 "level": 5,
-                "description_en": "Dragon attack +10%"
+                "description_en": "Dragon attack +10% Bonus: +100"
             }
         ]
     },

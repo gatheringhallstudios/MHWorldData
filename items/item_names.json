@@ -1,0 +1,2062 @@
+[
+    {
+        "name_en": "Potion",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Potion",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Max Potion",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ancient Potion",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Antidote",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Herbal Medicine",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nulberry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Energy Drink",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ration",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rare Steak",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Well-done Steak",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Burnt Meat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cool Drink",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nutrients",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Nutrients",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Immunizer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Astera Jerky",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dash Juice",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Dash Juice",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Might Seed",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Demondrug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Demondrug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Might Pill",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Adamant Seed",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Armorskin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Armorskin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Adamant Pill",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lifepowder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Herbal Powder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Demon Powder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hardshell Powder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Honey",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Herb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Antidote Herb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fire Herb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flowfern",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Snow Herb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sleep Herb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ivy",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Smokenut",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonfell Berry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Mushroom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mandragora",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nitroshroom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Devil's Blight",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Parashroom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Toadstool",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Exciteshroom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chillshroom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bitterbug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flashbug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Godbug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderbug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baitbug",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kelbi Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dash Extract",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nourishing Extract",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Screamer Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Catalyst",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tranq Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flash Pod",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Screamer Pod",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dung Pod",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Smoke Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Poison Smoke Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Farcaster",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Raw Meat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Poisoned Meat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tinged Meat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Drugged Meat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gunpowder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Small Barrel",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barrel Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bounce Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Bounce Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Large Barrel",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Large Barrel Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mega Barrel Bomb",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spider Web",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Net",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Trap Tool",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pitfall Trap",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shock Trap",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rolled-up Dung",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dung",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arowana Bait",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gunpowderfish Bait",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Goldenfish Bait",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Boomerang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Binoculars",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Powercharm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Powertalon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Armorcharm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Armortalon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Needleberry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blastnut",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonstrike nut",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Slashberry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Latchberry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bomberry",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flamenut",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazenut",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gunpowder Level 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gunpowser Level 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Whetfish Fin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Whetfish Fin+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sushifish Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Sushifish Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gunpowderfish Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Gunpowderfish Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Burst Arowana Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Burst Arowana Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bomb Arowana Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bomb Arowana Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Empty Phial",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Machalite Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonite Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carbalite Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fucium Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Earth Crystal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Coral Crystal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonvein Crystal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightcrystal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Novacrystal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Firecell Stone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aquacore Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiritcore Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dreamcore Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragoncore Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Armor Sphere",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Armor Sphere+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Advanced Armor Sphere",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Armor Sphere",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Armor Sphere",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sturdy Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Quality Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ancient Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Boulder Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Coral Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warped Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brutal Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Relic",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Unknown Skull",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Hornfly",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sinister Cloth",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Bone S",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Bone M",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Bone L",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Bone+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Keenbone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Hardbone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elder Dragon Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sharp Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Piercing Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Fluid",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monster Broth",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Poison Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Toxin Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paralysis Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Omniplegia Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sleep Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Coma Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Inferno Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Torrent Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freezer Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Electro Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bird Wyvern Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elder Dragon Blood",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mosswine Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warm Pelt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High-quality Pelt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Innerwing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Head",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Innerwing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Skin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Whisker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Grand Gajau Whisker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wingdrake Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wingdrake Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Talon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Scalp",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Mane",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Jagras Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Plume",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Beak",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Plume+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu-Ya-Ku Beak+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Quill",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Sac",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei-Pukei Sac+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Ridge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Scalp",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fertile Mud",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Ridge+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Fin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyuratodus Fin+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Pelt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Membrane",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Electrode",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Pelt+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tobi-Kadachi Electrode+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Pelt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Nosebone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Pelt+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Nosebone+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anjanath Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Spike",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Spike+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Ruby",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pink Rathian Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pink Rathian Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Photophore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi-Ya-Ku Photophore+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Pelt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Pelt+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Carapace+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Paolumu Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Hood",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Hood+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Girros Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Oilshell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Bonemass",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Marrow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Medulla",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Tail Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Sinew",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Sinew+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Wingtalon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Marrow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Medulla",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Ruby",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Rathalos Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Rathalos Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Rathalos Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Rathalos Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Ridge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Tailcase",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Twisted Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Marrow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Ridge+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Majestic Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blos Medulla",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Black Diablos Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Black Diablos Ridge+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Black Spiral Horn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Hide",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Mane",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Thunderhorn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Thundertail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Azure Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Heat Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Ridge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Pleura",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Magma",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Magdaros Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Hide+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Jaw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Talon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Fin+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Jaw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Scute",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Marrow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Ruby",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Nugget",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Fuse",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Talon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelgeuse Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Immortal Dragonscale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Horn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Talon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Regrowth Plate",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Deceased Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Membrane",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Fang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Talon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Mane",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Horn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fire Dragon Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Powder",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Carapace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Dragon Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Webbing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Horn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Claw+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Soulscale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Shell",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Veil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Claw",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Gem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tailraider Voucher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajalaka Sketch",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Black Bandage",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Black Crystal Ticket",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wiggler Ticket",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Watcher Lens",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nora Brave Trophy",
+        "name_jp": ""
+    },
+    {
+        "name_en": "SFV Ticket",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Star Shard",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mysterious Feystone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glowing Feystone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Worn Feystone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warped Feystone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sullied Streamstone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shining Streamstone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Streamstone Shard",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Streamstone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gleaming Streamstone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Sword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Hammer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Lance",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Axe",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Shaft",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Warrior's Streamstone: Ranged",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Sword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Hammer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Lance",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Axe",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Shaft",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hero's Streamstone: Ranged",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Voucher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "First Wyverian Print",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Deluxe First Wyverian Print",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Wyverian Print",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Silver Wyverian Print",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gold Wyverian Print",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commendation",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Commendation",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Research Commission Ticket",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brute Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flying Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pinnacle Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter King Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ace Hunter Coin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Egg",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Silver Egg",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Golden Egg",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chipped Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Large Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Beautiful Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lustrous Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glimmering Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bhernastone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dundormarin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Loc Lac Ore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Val Habar Quartz",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Minegardenite",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Golden Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Golden Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Platinum Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Platinum Scale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gilded Scale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gilded Scale+",
+        "name_jp": ""
+    }
+]

@@ -1,0 +1,2558 @@
+[
+    {
+        "name_en": "Bone Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Headgear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Vest",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Gloves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Belt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Trousers",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Boots",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Headgear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Guards",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Headpiece",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Headgear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Gloves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Belt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Trousers",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Hood",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Vertex",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Thorax",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Brachia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Elytra",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Crura",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mask",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Braces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Vertex",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Thorax",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Brachia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Elytra",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Crura",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Hat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Goggles",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Headgear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Lobos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Suit",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Boots",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Brain",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Muscle",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Grip",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Bowels",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Heels",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Jacket",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Longarms",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Hoop",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg Guards",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Helm",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Mail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Vambraces",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Coil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Greaves",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Jacket Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Jacket Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Vertex Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Thorax Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Brachia Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Elytra Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Crura Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Vertex Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Thorax Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Brachia Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Elytra Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Crura Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Armor Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Gloves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Belt Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Trousers Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Armor Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Gloves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Belt Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Trousers Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Boots Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Boots Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Horn Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Horn Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mask Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mask Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Guards Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Guards Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Vertex Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Thorax Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Brachia Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Elytra Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Crura Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Vertex Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Thorax Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Brachia Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Elytra Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Crura Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Headpiece Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Headpiece Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Gloves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Belt Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Trousers Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Gloves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Belt Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Trousers Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Hat Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Hat Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mosswine Mask Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Hood Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Hood Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sealed Eyepatch Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Goggles Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Goggles Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Lobos Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Suit Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Boots Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Lobos Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Suit Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Boots Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Faux Felyne Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Braces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Braces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Horn Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Jacket Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Longarms Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Hoop Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Horn Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Jacket Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Longarms Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Hoop Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg Guards Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg Guards Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Braces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Braces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Strategist Spectacles Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Hide Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Claws Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Spine Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Spurs Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Hide Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Claws Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Spine Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Spurs Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Brain Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Muscle Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Grip Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Bowels Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Heel Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Brain Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Muscle Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Grip Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Bowels Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Heel Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Braces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Braces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Braces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Braces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Skull Mask Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Gorget Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Jacket Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Belt Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Pants Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Gorget Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Jacket Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Belt Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Pants Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonking Eyepatch Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Circlet Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Suit Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Boots Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Circlet Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Suit Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Boots Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Crown Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Crown Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Glare Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Cista Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Grip Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Cocoon Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Crus Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Glare Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Cista Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Grip Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Cocoon Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Crus Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Vambraces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Vambraces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Helm Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Mail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Braces Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Coil Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Greaves Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Helm Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Mail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Braces Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Coil Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Greaves Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Headgear Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Hide Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Claws Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Spine Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Spurs Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Headgear Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Hide Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Claws Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Spine Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Spurs Beta",
+        "name_jp": ""
+    }
+]
