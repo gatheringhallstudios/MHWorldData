@@ -1,44 +1,14 @@
 import os
-import os.path
 
 import json
-from src.translatemap import TranslateMap
-import src.data as data
-
-import sqlalchemy
+import re
 import sqlalchemy.orm
 
-import re
+from src.translatemap import TranslateMap
+import src.db as db
 
 output_filename = 'mhw.db'
 supported_languages = ['en']
-
-def recreate_database(output_filename):
-    "Recreates the database file, returning a session manager"
-    if os.path.exists(output_filename):
-        os.remove(output_filename)
-   
-    dbpath = f'sqlite:///{output_filename}'
-    engine = sqlalchemy.create_engine(dbpath, echo=False)
-    data.Base.metadata.create_all(engine)
-
-    return sqlalchemy.orm.sessionmaker(bind=engine)
-
-from contextlib import contextmanager
-
-# adapted for sqlalchemy docs
-@contextmanager
-def session_scope(sessionmaker):
-    """Provide a transactional scope around a series of operations."""
-    session = sessionmaker()
-    try:
-        yield session
-        session.commit()
-    except:
-        session.rollback()
-        raise
-    finally:
-        session.close()
 
 # todo: move somewhere
 def load_translate_map(data_file):
@@ -100,11 +70,11 @@ def build_monsters(session : sqlalchemy.orm.Session):
     description = load_language_data(monster_map, 'monsters/monster_descriptions')
 
     for row in monster_map:
-        monster = data.Monster(id=row.id)
+        monster = db.Monster(id=row.id)
         session.add(monster)
 
         for language in supported_languages:
-            monster_text = data.MonsterText(id=row.id, lang_id=language)
+            monster_text = db.MonsterText(id=row.id, lang_id=language)
             monster_text.name = monster_map[row.id][language]
             monster_text.description = description[row.id][language][f'description_{language}']
             session.add(monster_text)
@@ -119,9 +89,9 @@ def build_items(session : sqlalchemy.orm.Session):
 def build_armor(session : sqlalchemy.orm.Session):
     pass
 
-sessionbuilder = recreate_database(output_filename)
+sessionbuilder = db.recreate_database(output_filename)
 
-with session_scope(sessionbuilder) as session:
+with db.session_scope(sessionbuilder) as session:
     build_monsters(session)
     build_skills(session)
     build_items(session)
