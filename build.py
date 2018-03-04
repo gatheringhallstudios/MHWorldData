@@ -138,6 +138,7 @@ def build_items(session : sqlalchemy.orm.Session):
 def build_armor(session : sqlalchemy.orm.Session):
     data_map = load_data_map(armor_map, 'armors/armor_data.json')
     for row in armor_map:
+        armor_name_en = row['en']
         data = data_map[row.id]
 
         armor = db.Armor(id = row.id)
@@ -160,6 +161,28 @@ def build_armor(session : sqlalchemy.orm.Session):
             armor_text = db.ArmorText(id=row.id, lang_id=language)
             armor_text.name = row[language]
             session.add(armor_text)
+
+        # Armor Skills
+        for skill, level in data['skills'].items():
+            skill_id = skill_map.id_of('en', skill)
+            if not skill_id:
+                raise Exception(f"ERROR: Skill {skill} in Armor {armor_name_en} does not exist")
+            session.add(db.ArmorSkill(
+                armor_id = row.id,
+                skill_id = skill_id,
+                level = level
+            ))
+        
+        # Armor Crafting
+        for item, quantity in data['craft'].items():
+            item_id = item_map.id_of('en', item)
+            if not item_id:
+                raise Exception(f"ERROR: Item {item} in Armor {armor_name_en} does not exist")
+            session.add(db.ArmorRecipe(
+                armor_id = row.id,
+                item_id = item_id,
+                quantity = quantity
+            ))
 
     print("Built Armor")
 

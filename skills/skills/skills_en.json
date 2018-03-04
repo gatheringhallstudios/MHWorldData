@@ -322,6 +322,24 @@
         ]
     },
     {
+        "name_en": "Critical Draw",
+        "description_en": "Increases affinity when performing draw attacks.",
+        "effects": [
+            {
+                "level": 1,
+                "description_en": "Draw attack affinity +30%"
+            },
+            {
+                "level": 2,
+                "description_en": "Draw attack affinity +60%."
+            },
+            {
+                "level": 3,
+                "description_en": "Draw attack affinity +100%"
+            }
+        ]
+    },
+    {
         "name_en": "Critical Eye",
         "description_en": "Increases affinity.",
         "effects": [
@@ -828,6 +846,32 @@
         ]
     },
     {
+        "name_en": "Heroics",
+        "description_en": "Increases attack power and defense when health drops to 35% or lower.",
+        "effects": [
+            {
+                "level": 1,
+                "description_en": "While active, Attack +5% and Defense +15"
+            },
+            {
+                "level": 2,
+                "description_en": "While active, Attack +10% and Defense +20"
+            },
+            {
+                "level": 3,
+                "description_en": "While active, Attack +15% and Defense +25"
+            },
+            {
+                "level": 4,
+                "description_en": "While active, Attack +20% and Defense +30"
+            },
+            {
+                "level": 5,
+                "description_en": "While active, Attack +30% and Defense +40"
+            }
+        ]
+    },
+    {
         "name_en": "Honey Hunter",
         "description_en": "Increases the quantity of honey you receive when gathering in the field.",
         "effects": [
@@ -946,7 +990,7 @@
         ]
     },
     {
-        "name_en": "Item prolonger",
+        "name_en": "Item Prolonger",
         "description_en": "Extends the duration of some item effects.",
         "effects": [
             {

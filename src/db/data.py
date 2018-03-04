@@ -68,3 +68,15 @@ class ArmorText(Base, TextMixin):
     __tablename__ = "armor_text"
     
     name = Column(String)
+
+class ArmorSkill(Base):
+    __tablename__ = 'armor_skill'
+    armor_id = Column(Integer, primary_key=True)
+    skill_id = Column(Integer, primary_key=True)
+    level = Column(Integer)
+
+class ArmorRecipe(Base):
+    __tablename__ = 'armor_recipe'
+    armor_id = Column(Integer, primary_key=True)
+    item_id = Column(Integer, primary_key=True)
+    quantity = Column(Integer)

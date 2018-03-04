@@ -95,6 +95,11 @@
         "levels": 3
     },
     {
+        "name_en": "Critical Draw",
+        "name_jp": null,
+        "levels": 3
+    },
+    {
         "name_en": "Critical Eye",
         "name_jp": null,
         "levels": 7
@@ -230,6 +235,11 @@
         "levels": 2
     },
     {
+        "name_en": "Heroics",
+        "name_jp": null,
+        "levels": 5
+    },
+    {
         "name_en": "Honey Hunter",
         "name_jp": null,
         "levels": 1
@@ -265,7 +275,7 @@
         "levels": 3
     },
     {
-        "name_en": "Item prolonger",
+        "name_en": "Item Prolonger",
         "name_jp": null,
         "levels": 3
     },
