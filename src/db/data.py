@@ -31,6 +31,11 @@ class SkillTreeText(Base, TextMixin):
     name = Column(String)
     description = Column(String)
 
+class Skill(Base, TextMixin):
+    __tablename__ = 'skill'
+    level = Column(Integer, primary_key=True)
+    description = Column(String)
+
 class Item(Base):
     __tablename__ = "item"
 

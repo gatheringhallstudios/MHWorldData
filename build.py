@@ -22,6 +22,20 @@ def load_translate_map(data_file):
         id += 1
     return map
 
+def load_data_map(parent_map : TranslateMap, data_file):
+    result = {}
+
+    data = json.load(open(data_file, encoding="utf-8"))
+    for row in data:
+        name = row.get('name_en', None)
+        if not name:
+            raise Exception(f"ERROR: Data file {data_file} does not contain a name_en field")
+        id = parent_map.id_of('en', name)
+        if not id:
+            raise Exception(f"ERROR: Entry {name} in {data_file} is an invalid name")
+        result[id] = row
+    return result
+
 def load_language_data(parent_map : TranslateMap, data_directory):
     """Loads a directory containing sub-json for each language.
     Each entry in the sub-json must have a name_language field for that language.
@@ -61,8 +75,8 @@ def load_language_data(parent_map : TranslateMap, data_directory):
         
 
 monster_map = load_translate_map("monsters/monster_names.json")
-skills_map = load_translate_map("skills/skill_names.json")
-items_map = load_translate_map("items/item_names.json")
+skill_map = load_translate_map("skills/skill_names.json")
+item_map = load_translate_map("items/item_names.json")
 armor_map = load_translate_map("armors/armor_names.json")
 
 def build_monsters(session : sqlalchemy.orm.Session):
@@ -75,19 +89,80 @@ def build_monsters(session : sqlalchemy.orm.Session):
 
         for language in supported_languages:
             monster_text = db.MonsterText(id=row.id, lang_id=language)
-            monster_text.name = monster_map[row.id][language]
+            monster_text.name = row[language]
             monster_text.description = description[row.id][language][f'description_{language}']
             session.add(monster_text)
+    print("Built Monsters")
 
 
 def build_skills(session : sqlalchemy.orm.Session):
-    pass
+    skilldata = load_language_data(skill_map, 'skills/skills')
+    for row in skill_map:
+        skilltree = db.SkillTree(id=row.id)
+        session.add(skilltree)
+
+        for language in supported_languages:
+            skilldata_row = skilldata[row.id][language] 
+
+            name = row[language]
+            description = skilldata_row[f'description_{language}']
+
+            session.add(db.SkillTreeText(
+                id=row.id, lang_id=language, name=name, description=description))
+
+            for effect in skilldata_row['effects']:
+                level = effect['level']
+                effect_description = effect[f'description_{language}']
+                session.add(db.Skill(
+                    id=row.id,
+                    lang_id=language,
+                    level = level,
+                    description=effect_description
+                ))
+    
+    print("Built Skills")
 
 def build_items(session : sqlalchemy.orm.Session):
-    pass
+    # Only item names exist now...so this is simple
+    for row in item_map:
+        item = db.Item(id=row.id)
+        session.add(item)
+
+        for language in supported_languages:
+            item_text = db.ItemText(id=row.id, lang_id=language)
+            item_text.name = row[language]
+            session.add(item_text)
+    
+    print("Built Items")
 
 def build_armor(session : sqlalchemy.orm.Session):
-    pass
+    data_map = load_data_map(armor_map, 'armors/armor_data.json')
+    for row in armor_map:
+        data = data_map[row.id]
+
+        armor = db.Armor(id = row.id)
+        armor.rarity = data['rarity']
+        armor.part = data['part']
+        armor.male = data['male']
+        armor.female = data['female']
+        armor.slot_1 = data['slots'][0]
+        armor.slot_2 = data['slots'][1]
+        armor.slot_3 = data['slots'][2]
+        armor.defense = data['defense']
+        armor.fire = data['fire']
+        armor.water = data['water']
+        armor.thunder = data['thunder']
+        armor.ice = data['ice']
+        armor.dragon = data['dragon']
+        session.add(armor)
+
+        for language in supported_languages:
+            armor_text = db.ArmorText(id=row.id, lang_id=language)
+            armor_text.name = row[language]
+            session.add(armor_text)
+
+    print("Built Armor")
+
 
 sessionbuilder = db.recreate_database(output_filename)
 
