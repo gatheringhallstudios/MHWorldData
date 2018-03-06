@@ -29,6 +29,12 @@ class TranslateMap:
         """
         return filter(lambda a: a, map(lambda e: e.get(language_code), self))
 
+    def all_items(self):
+        "Returns an exhaustive set of (id, language, name) pairs"
+        for entry in self:
+            for language, name in entry.items():
+                yield (entry.id, language, name)
+
     def __getitem__(self, id):
         return self._entries[id]
 
@@ -46,6 +52,10 @@ class TranslationMapEntry:
 
     def __setitem__(self, code, value):
         self._translations[code] = value
+
+    def items(self):
+        "Returns (language, name) tuples"
+        return self._translations.items()
 
     def get(self, code, d=None):
         try:

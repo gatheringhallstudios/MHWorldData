@@ -1,13 +1,13 @@
 # Defines SQL objects.
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, String, Boolean
+from sqlalchemy import Column, Integer, Text, Boolean
 
 Base = declarative_base()
 
 class TextMixin():
     id = Column(Integer, primary_key=True)
-    lang_id = Column(String, primary_key=True)
+    lang_id = Column(Text, primary_key=True)
 
 class Monster(Base):
     __tablename__ = 'monster'
@@ -17,8 +17,8 @@ class Monster(Base):
 class MonsterText(Base, TextMixin):
     __tablename__ = 'monster_text'
 
-    name = Column(String)
-    description = Column(String)
+    name = Column(Text)
+    description = Column(Text)
 
 class SkillTree(Base):
     __tablename__ = 'skilltree'
@@ -28,13 +28,15 @@ class SkillTree(Base):
 class SkillTreeText(Base, TextMixin):
     __tablename__ = 'skilltree_text'
 
-    name = Column(String)
-    description = Column(String)
+    name = Column(Text)
+    description = Column(Text)
 
-class Skill(Base, TextMixin):
+class Skill(Base):
     __tablename__ = 'skill'
+    skilltree_id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     level = Column(Integer, primary_key=True)
-    description = Column(String)
+    description = Column(Text)
 
 class Item(Base):
     __tablename__ = "item"
@@ -44,14 +46,16 @@ class Item(Base):
 class ItemText(Base, TextMixin):
     __tablename__ = "item_text"
 
-    name = Column(String)
+    name = Column(Text)
 
 class Armor(Base):
     __tablename__ = "armor"
 
     id = Column(Integer, primary_key=True)
     rarity = Column(Integer)
-    part = Column(String) # todo: enum
+    part = Column(Text)
+    armorset_id = Column(Integer)
+
     male = Column(Boolean)
     female = Column(Boolean)
     slot_1 = Column(Integer)
@@ -67,7 +71,12 @@ class Armor(Base):
 class ArmorText(Base, TextMixin):
     __tablename__ = "armor_text"
     
-    name = Column(String)
+    name = Column(Text)
+
+class ArmorSet(Base, TextMixin):
+    __tablename__ = "armorset_text"
+
+    name = Column(Text)
 
 class ArmorSkill(Base):
     __tablename__ = 'armor_skill'

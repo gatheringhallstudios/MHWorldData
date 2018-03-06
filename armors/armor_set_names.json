@@ -1,0 +1,586 @@
+[
+    {
+        "name_en": "Bone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barnos Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Butterfly Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chainmail Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dodogama Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gajau Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gastodon Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hornetaur Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kestodon Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Beetle Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leather Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mosswine Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pukei Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathian Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sealed Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shamos Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tzitzi Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vespoid Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brigade Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Faux Felyne Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Metal Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ingot Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Leg Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lavasioth Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odogaron Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Heart Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Strategist Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Zorah Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Damascus Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Death Stench Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Nero Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dober Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Soul Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Skull Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Uragaan Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Commission Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonking Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Guild Cross Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kaiser Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kushala Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergigante Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vaal Hazak Beta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Alpha",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno'jiiva Beta",
+        "name_jp": ""
+    }
+]

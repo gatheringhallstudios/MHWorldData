@@ -78,6 +78,9 @@ monster_map = load_translate_map("monsters/monster_names.json")
 skill_map = load_translate_map("skills/skill_names.json")
 item_map = load_translate_map("items/item_names.json")
 armor_map = load_translate_map("armors/armor_names.json")
+armorset_map = load_translate_map("armors/armor_set_names.json")
+
+# TODO: Validate translation maps somehow
 
 def build_monsters(session : sqlalchemy.orm.Session):
     # Load additional files
@@ -114,7 +117,7 @@ def build_skills(session : sqlalchemy.orm.Session):
                 level = effect['level']
                 effect_description = effect[f'description_{language}']
                 session.add(db.Skill(
-                    id=row.id,
+                    skilltree_id=row.id,
                     lang_id=language,
                     level = level,
                     description=effect_description
@@ -136,6 +139,11 @@ def build_items(session : sqlalchemy.orm.Session):
     print("Built Items")
 
 def build_armor(session : sqlalchemy.orm.Session):
+    # Write entries for all armor set names first
+    for (id, language, name) in armorset_map.all_items():
+        armorset = db.ArmorSet(id=id, lang_id=language, name=name)
+        session.add(armorset)
+
     data_map = load_data_map(armor_map, 'armors/armor_data.json')
     for row in armor_map:
         armor_name_en = row['en']
@@ -155,6 +163,12 @@ def build_armor(session : sqlalchemy.orm.Session):
         armor.thunder = data['thunder']
         armor.ice = data['ice']
         armor.dragon = data['dragon']
+
+        armorset_id = armorset_map.id_of("en", data['set'])
+        if not armorset_id:
+            raise Exception(f"ERROR: Armorset {data['set']} in Armor {armor_name_en} does not exist")
+        armor.armorset_id = armorset_id
+
         session.add(armor)
 
         for language in supported_languages:
