@@ -164,7 +164,7 @@ def build_armor(session : sqlalchemy.orm.Session):
 
         armor = db.Armor(id = row.id)
         armor.rarity = data['rarity']
-        armor.part = data['part']
+        armor.armor_type = data['armor_type']
         armor.male = data['male']
         armor.female = data['female']
         armor.slot_1 = data['slots'][0]

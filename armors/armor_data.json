@@ -2,7 +2,7 @@
     {
         "name_en": "Bone Helm",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 200,
@@ -29,7 +29,7 @@
     {
         "name_en": "Bone Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 200,
@@ -56,7 +56,7 @@
     {
         "name_en": "Bone Vambraces",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -83,7 +83,7 @@
     {
         "name_en": "Bone Coil",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 200,
@@ -110,7 +110,7 @@
     {
         "name_en": "Bone Greaves",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -137,7 +137,7 @@
     {
         "name_en": "Chainmail Headgear",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 100,
@@ -163,7 +163,7 @@
     {
         "name_en": "Chainmail Vest",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 100,
@@ -187,7 +187,7 @@
     {
         "name_en": "Chainmail Gloves",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 100,
@@ -211,7 +211,7 @@
     {
         "name_en": "Chainmail Belt",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 100,
@@ -235,7 +235,7 @@
     {
         "name_en": "Chainmail Trousers",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 100,
@@ -259,7 +259,7 @@
     {
         "name_en": "Gajau Boots",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -286,7 +286,7 @@
     {
         "name_en": "Hunter's Headgear",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 200,
@@ -313,7 +313,7 @@
     {
         "name_en": "Hunter's Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 200,
@@ -340,7 +340,7 @@
     {
         "name_en": "Hunter's Vambraces",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -367,7 +367,7 @@
     {
         "name_en": "Hunter's Coil",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 200,
@@ -394,7 +394,7 @@
     {
         "name_en": "Hunter's Greaves",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -421,7 +421,7 @@
     {
         "name_en": "Jagras Helm",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 200,
@@ -450,7 +450,7 @@
     {
         "name_en": "Jagras Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 200,
@@ -479,7 +479,7 @@
     {
         "name_en": "Jagras Vambraces",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -507,7 +507,7 @@
     {
         "name_en": "Jagras Coil",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 200,
@@ -536,7 +536,7 @@
     {
         "name_en": "Jagras Greaves",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -565,7 +565,7 @@
     {
         "name_en": "Kestodon Guards",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -592,7 +592,7 @@
     {
         "name_en": "Kulu Headpiece",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 200,
@@ -620,7 +620,7 @@
     {
         "name_en": "Kulu Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 200,
@@ -649,7 +649,7 @@
     {
         "name_en": "Kulu Vambraces",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -677,7 +677,7 @@
     {
         "name_en": "Kulu Coil",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 200,
@@ -705,7 +705,7 @@
     {
         "name_en": "Kulu Greaves",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -733,7 +733,7 @@
     {
         "name_en": "Leather Headgear",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 100,
@@ -759,7 +759,7 @@
     {
         "name_en": "Leather Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 100,
@@ -783,7 +783,7 @@
     {
         "name_en": "Leather Gloves",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 100,
@@ -807,7 +807,7 @@
     {
         "name_en": "Leather Belt",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 100,
@@ -831,7 +831,7 @@
     {
         "name_en": "Leather Trousers",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 100,
@@ -855,7 +855,7 @@
     {
         "name_en": "Vespoid Helm",
         "rarity": 1,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 200,
@@ -882,7 +882,7 @@
     {
         "name_en": "Vespoid Mail",
         "rarity": 1,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 200,
@@ -909,7 +909,7 @@
     {
         "name_en": "Vespoid Vambraces",
         "rarity": 1,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 200,
@@ -936,7 +936,7 @@
     {
         "name_en": "Vespoid Coil",
         "rarity": 1,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 200,
@@ -963,7 +963,7 @@
     {
         "name_en": "Vespoid Greaves",
         "rarity": 1,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 200,
@@ -990,7 +990,7 @@
     {
         "name_en": "Alloy Helm",
         "rarity": 2,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 500,
@@ -1018,7 +1018,7 @@
     {
         "name_en": "Alloy Mail",
         "rarity": 2,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 500,
@@ -1046,7 +1046,7 @@
     {
         "name_en": "Alloy Vambraces",
         "rarity": 2,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 500,
@@ -1074,7 +1074,7 @@
     {
         "name_en": "Alloy Coil",
         "rarity": 2,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 500,
@@ -1102,7 +1102,7 @@
     {
         "name_en": "Alloy Greaves",
         "rarity": 2,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 500,
@@ -1130,7 +1130,7 @@
     {
         "name_en": "Barroth Helm",
         "rarity": 2,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 500,
@@ -1159,7 +1159,7 @@
     {
         "name_en": "Barroth Mail",
         "rarity": 2,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 500,
@@ -1188,7 +1188,7 @@
     {
         "name_en": "Barroth Vambraces",
         "rarity": 2,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 500,
@@ -1217,7 +1217,7 @@
     {
         "name_en": "Barroth Coil",
         "rarity": 2,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 500,
@@ -1245,7 +1245,7 @@
     {
         "name_en": "Barroth Greaves",
         "rarity": 2,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 500,
@@ -1274,7 +1274,7 @@
     {
         "name_en": "Jyura Helm",
         "rarity": 2,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 500,
@@ -1303,7 +1303,7 @@
     {
         "name_en": "Jyura Mail",
         "rarity": 2,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 500,
@@ -1332,7 +1332,7 @@
     {
         "name_en": "Jyura Vambraces",
         "rarity": 2,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 500,
@@ -1360,7 +1360,7 @@
     {
         "name_en": "Jyura Coil",
         "rarity": 2,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 500,
@@ -1388,7 +1388,7 @@
     {
         "name_en": "Jyura Greaves",
         "rarity": 2,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 500,
@@ -1417,7 +1417,7 @@
     {
         "name_en": "Kadachi Helm",
         "rarity": 2,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 500,
@@ -1446,7 +1446,7 @@
     {
         "name_en": "Kadachi Mail",
         "rarity": 2,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 500,
@@ -1475,7 +1475,7 @@
     {
         "name_en": "Kadachi Vambraces",
         "rarity": 2,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 500,
@@ -1504,7 +1504,7 @@
     {
         "name_en": "Kadachi Coil",
         "rarity": 2,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 500,
@@ -1532,7 +1532,7 @@
     {
         "name_en": "Kadachi Greaves",
         "rarity": 2,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 500,
@@ -1560,7 +1560,7 @@
     {
         "name_en": "Pukei Hood",
         "rarity": 2,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 500,
@@ -1589,7 +1589,7 @@
     {
         "name_en": "Pukei Mail",
         "rarity": 2,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 500,
@@ -1617,7 +1617,7 @@
     {
         "name_en": "Pukei Vambraces",
         "rarity": 2,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 500,
@@ -1645,7 +1645,7 @@
     {
         "name_en": "Pukei Coil",
         "rarity": 2,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 500,
@@ -1674,7 +1674,7 @@
     {
         "name_en": "Pukei Greaves",
         "rarity": 2,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 500,
@@ -1703,7 +1703,7 @@
     {
         "name_en": "Anja Helm",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1732,7 +1732,7 @@
     {
         "name_en": "Anja Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1761,7 +1761,7 @@
     {
         "name_en": "Anja Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1790,7 +1790,7 @@
     {
         "name_en": "Anja Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1819,7 +1819,7 @@
     {
         "name_en": "Anja Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1848,7 +1848,7 @@
     {
         "name_en": "Baan Helm",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1877,7 +1877,7 @@
     {
         "name_en": "Baan Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1906,7 +1906,7 @@
     {
         "name_en": "Baan Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1935,7 +1935,7 @@
     {
         "name_en": "Baan Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1964,7 +1964,7 @@
     {
         "name_en": "Baan Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -1993,7 +1993,7 @@
     {
         "name_en": "Butterfly Vertex",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": false,
         "female": true,
         "price": 1500,
@@ -2022,7 +2022,7 @@
     {
         "name_en": "Butterfly Thorax",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": false,
         "female": true,
         "price": 1500,
@@ -2051,7 +2051,7 @@
     {
         "name_en": "Butterfly Brachia",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": false,
         "female": true,
         "price": 1500,
@@ -2080,7 +2080,7 @@
     {
         "name_en": "Butterfly Elytra",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": false,
         "female": true,
         "price": 1500,
@@ -2109,7 +2109,7 @@
     {
         "name_en": "Butterfly Crura",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": false,
         "female": true,
         "price": 1500,
@@ -2138,7 +2138,7 @@
     {
         "name_en": "Girros Mask",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2167,7 +2167,7 @@
     {
         "name_en": "Girros Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2196,7 +2196,7 @@
     {
         "name_en": "Girros Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2224,7 +2224,7 @@
     {
         "name_en": "Girros Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2253,7 +2253,7 @@
     {
         "name_en": "Girros Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2282,7 +2282,7 @@
     {
         "name_en": "High Metal Helm",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2310,7 +2310,7 @@
     {
         "name_en": "High Metal Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2339,7 +2339,7 @@
     {
         "name_en": "High Metal Braces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2368,7 +2368,7 @@
     {
         "name_en": "High Metal Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2396,7 +2396,7 @@
     {
         "name_en": "High Metal Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2424,7 +2424,7 @@
     {
         "name_en": "Hornetaur Helm",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2453,7 +2453,7 @@
     {
         "name_en": "Hornetaur Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2482,7 +2482,7 @@
     {
         "name_en": "Hornetaur Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2511,7 +2511,7 @@
     {
         "name_en": "Hornetaur Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2540,7 +2540,7 @@
     {
         "name_en": "Hornetaur Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2569,7 +2569,7 @@
     {
         "name_en": "King Beetle Vertex",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": false,
         "price": 1500,
@@ -2598,7 +2598,7 @@
     {
         "name_en": "King Beetle Thorax",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": false,
         "price": 1500,
@@ -2627,7 +2627,7 @@
     {
         "name_en": "King Beetle Brachia",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": false,
         "price": 1500,
@@ -2656,7 +2656,7 @@
     {
         "name_en": "King Beetle Elytra",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": false,
         "price": 1500,
@@ -2685,7 +2685,7 @@
     {
         "name_en": "King Beetle Crura",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": false,
         "price": 1500,
@@ -2714,7 +2714,7 @@
     {
         "name_en": "Lumu Hat",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2743,7 +2743,7 @@
     {
         "name_en": "Lumu Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2772,7 +2772,7 @@
     {
         "name_en": "Lumu Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2800,7 +2800,7 @@
     {
         "name_en": "Lumu Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2828,7 +2828,7 @@
     {
         "name_en": "Lumu Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2857,7 +2857,7 @@
     {
         "name_en": "Rathian Helm",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2886,7 +2886,7 @@
     {
         "name_en": "Rathian Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2915,7 +2915,7 @@
     {
         "name_en": "Rathian Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2944,7 +2944,7 @@
     {
         "name_en": "Rathian Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -2973,7 +2973,7 @@
     {
         "name_en": "Rathian Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3002,7 +3002,7 @@
     {
         "name_en": "Shamos Goggles",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3031,7 +3031,7 @@
     {
         "name_en": "Tzitzi Headgear",
         "rarity": 3,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3060,7 +3060,7 @@
     {
         "name_en": "Tzitzi Mail",
         "rarity": 3,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3089,7 +3089,7 @@
     {
         "name_en": "Tzitzi Vambraces",
         "rarity": 3,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3118,7 +3118,7 @@
     {
         "name_en": "Tzitzi Coil",
         "rarity": 3,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3146,7 +3146,7 @@
     {
         "name_en": "Tzitzi Greaves",
         "rarity": 3,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 1500,
@@ -3174,7 +3174,7 @@
     {
         "name_en": "Brigade Lobos",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3203,7 +3203,7 @@
     {
         "name_en": "Brigade Suit",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3232,7 +3232,7 @@
     {
         "name_en": "Brigade Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3261,7 +3261,7 @@
     {
         "name_en": "Brigade Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3290,7 +3290,7 @@
     {
         "name_en": "Brigade Boots",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3319,7 +3319,7 @@
     {
         "name_en": "Death Stench Brain",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3348,7 +3348,7 @@
     {
         "name_en": "Death Stench Muscle",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3377,7 +3377,7 @@
     {
         "name_en": "Death Stench Grip",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3406,7 +3406,7 @@
     {
         "name_en": "Death Stench Bowels",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3435,7 +3435,7 @@
     {
         "name_en": "Death Stench Heels",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3464,7 +3464,7 @@
     {
         "name_en": "Diablos Helm",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3493,7 +3493,7 @@
     {
         "name_en": "Diablos Mail",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3522,7 +3522,7 @@
     {
         "name_en": "Diablos Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3551,7 +3551,7 @@
     {
         "name_en": "Diablos Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3580,7 +3580,7 @@
     {
         "name_en": "Diablos Greaves",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3609,7 +3609,7 @@
     {
         "name_en": "Ingot Helm",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3638,7 +3638,7 @@
     {
         "name_en": "Ingot Mail",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3667,7 +3667,7 @@
     {
         "name_en": "Ingot Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3696,7 +3696,7 @@
     {
         "name_en": "Ingot Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3725,7 +3725,7 @@
     {
         "name_en": "Ingot Greaves",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3754,7 +3754,7 @@
     {
         "name_en": "Kirin Horn",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3783,7 +3783,7 @@
     {
         "name_en": "Kirin Jacket",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3812,7 +3812,7 @@
     {
         "name_en": "Kirin Longarms",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3841,7 +3841,7 @@
     {
         "name_en": "Kirin Hoop",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3870,7 +3870,7 @@
     {
         "name_en": "Kirin Leg Guards",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3898,7 +3898,7 @@
     {
         "name_en": "Legiana Helm",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3927,7 +3927,7 @@
     {
         "name_en": "Legiana Mail",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3956,7 +3956,7 @@
     {
         "name_en": "Legiana Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -3985,7 +3985,7 @@
     {
         "name_en": "Legiana Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4014,7 +4014,7 @@
     {
         "name_en": "Legiana Greaves",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4043,7 +4043,7 @@
     {
         "name_en": "Odogaron Helm",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4072,7 +4072,7 @@
     {
         "name_en": "Odogaron Mail",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4101,7 +4101,7 @@
     {
         "name_en": "Odogaron Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4130,7 +4130,7 @@
     {
         "name_en": "Odogaron Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4159,7 +4159,7 @@
     {
         "name_en": "Odogaron Greaves",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4188,7 +4188,7 @@
     {
         "name_en": "Rathalos Helm",
         "rarity": 4,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4217,7 +4217,7 @@
     {
         "name_en": "Rathalos Mail",
         "rarity": 4,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4246,7 +4246,7 @@
     {
         "name_en": "Rathalos Vambraces",
         "rarity": 4,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4275,7 +4275,7 @@
     {
         "name_en": "Rathalos Coil",
         "rarity": 4,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4304,7 +4304,7 @@
     {
         "name_en": "Rathalos Greaves",
         "rarity": 4,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -4333,7 +4333,7 @@
     {
         "name_en": "Alloy Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4363,7 +4363,7 @@
     {
         "name_en": "Alloy Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4392,7 +4392,7 @@
     {
         "name_en": "Alloy Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4422,7 +4422,7 @@
     {
         "name_en": "Alloy Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4452,7 +4452,7 @@
     {
         "name_en": "Alloy Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4481,7 +4481,7 @@
     {
         "name_en": "Alloy Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4510,7 +4510,7 @@
     {
         "name_en": "Alloy Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4539,7 +4539,7 @@
     {
         "name_en": "Alloy Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4568,7 +4568,7 @@
     {
         "name_en": "Alloy Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4597,7 +4597,7 @@
     {
         "name_en": "Alloy Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -4626,7 +4626,7 @@
     {
         "name_en": "Anja Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4656,7 +4656,7 @@
     {
         "name_en": "Anja Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4686,7 +4686,7 @@
     {
         "name_en": "Anja Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4716,7 +4716,7 @@
     {
         "name_en": "Anja Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4746,7 +4746,7 @@
     {
         "name_en": "Anja Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4775,7 +4775,7 @@
     {
         "name_en": "Anja Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4804,7 +4804,7 @@
     {
         "name_en": "Anja Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4833,7 +4833,7 @@
     {
         "name_en": "Anja Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4862,7 +4862,7 @@
     {
         "name_en": "Anja Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4891,7 +4891,7 @@
     {
         "name_en": "Anja Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4920,7 +4920,7 @@
     {
         "name_en": "Barnos Jacket Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4950,7 +4950,7 @@
     {
         "name_en": "Barnos Jacket Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -4979,7 +4979,7 @@
     {
         "name_en": "Barroth Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5008,7 +5008,7 @@
     {
         "name_en": "Barroth Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5037,7 +5037,7 @@
     {
         "name_en": "Barroth Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5067,7 +5067,7 @@
     {
         "name_en": "Barroth Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5096,7 +5096,7 @@
     {
         "name_en": "Barroth Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5126,7 +5126,7 @@
     {
         "name_en": "Barroth Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5155,7 +5155,7 @@
     {
         "name_en": "Barroth Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5184,7 +5184,7 @@
     {
         "name_en": "Barroth Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5213,7 +5213,7 @@
     {
         "name_en": "Barroth Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5241,7 +5241,7 @@
     {
         "name_en": "Barroth Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5270,7 +5270,7 @@
     {
         "name_en": "Bone Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5299,7 +5299,7 @@
     {
         "name_en": "Bone Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5327,7 +5327,7 @@
     {
         "name_en": "Bone Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5356,7 +5356,7 @@
     {
         "name_en": "Bone Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5385,7 +5385,7 @@
     {
         "name_en": "Bone Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5413,7 +5413,7 @@
     {
         "name_en": "Bone Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5441,7 +5441,7 @@
     {
         "name_en": "Bone Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5469,7 +5469,7 @@
     {
         "name_en": "Bone Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5497,7 +5497,7 @@
     {
         "name_en": "Bone Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5525,7 +5525,7 @@
     {
         "name_en": "Bone Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5553,7 +5553,7 @@
     {
         "name_en": "Butterfly Vertex Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5583,7 +5583,7 @@
     {
         "name_en": "Butterfly Thorax Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5613,7 +5613,7 @@
     {
         "name_en": "Butterfly Brachia Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5643,7 +5643,7 @@
     {
         "name_en": "Butterfly Elytra Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5673,7 +5673,7 @@
     {
         "name_en": "Butterfly Crura Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5703,7 +5703,7 @@
     {
         "name_en": "Butterfly Vertex Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5732,7 +5732,7 @@
     {
         "name_en": "Butterfly Thorax Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5761,7 +5761,7 @@
     {
         "name_en": "Butterfly Brachia Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5790,7 +5790,7 @@
     {
         "name_en": "Butterfly Elytra Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5819,7 +5819,7 @@
     {
         "name_en": "Butterfly Crura Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": false,
         "female": true,
         "price": 6000,
@@ -5848,7 +5848,7 @@
     {
         "name_en": "Chainmail Headgear Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5876,7 +5876,7 @@
     {
         "name_en": "Chainmail Armor Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5903,7 +5903,7 @@
     {
         "name_en": "Chainmail Gloves Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5930,7 +5930,7 @@
     {
         "name_en": "Chainmail Belt Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5957,7 +5957,7 @@
     {
         "name_en": "Chainmail Trousers Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -5984,7 +5984,7 @@
     {
         "name_en": "Chainmail Headgear Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6011,7 +6011,7 @@
     {
         "name_en": "Chainmail Armor Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6036,7 +6036,7 @@
     {
         "name_en": "Chainmail Gloves Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6061,7 +6061,7 @@
     {
         "name_en": "Chainmail Belt Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6086,7 +6086,7 @@
     {
         "name_en": "Chainmail Trousers Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6111,7 +6111,7 @@
     {
         "name_en": "Dodogama Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6140,7 +6140,7 @@
     {
         "name_en": "Dodogama Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6169,7 +6169,7 @@
     {
         "name_en": "Dodogama Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6198,7 +6198,7 @@
     {
         "name_en": "Dodogama Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6228,7 +6228,7 @@
     {
         "name_en": "Dodogama Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6258,7 +6258,7 @@
     {
         "name_en": "Dodogama Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6287,7 +6287,7 @@
     {
         "name_en": "Dodogama Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6316,7 +6316,7 @@
     {
         "name_en": "Dodogama Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6345,7 +6345,7 @@
     {
         "name_en": "Dodogama Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6374,7 +6374,7 @@
     {
         "name_en": "Dodogama Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6403,7 +6403,7 @@
     {
         "name_en": "Gajau Boots Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6432,7 +6432,7 @@
     {
         "name_en": "Gajau Boots Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6461,7 +6461,7 @@
     {
         "name_en": "Gastodon Horn Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6491,7 +6491,7 @@
     {
         "name_en": "Gastodon Horn Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -6520,7 +6520,7 @@
     {
         "name_en": "Girros Mask Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6550,7 +6550,7 @@
     {
         "name_en": "Girros Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6579,7 +6579,7 @@
     {
         "name_en": "Girros Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6608,7 +6608,7 @@
     {
         "name_en": "Girros Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6638,7 +6638,7 @@
     {
         "name_en": "Girros Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6667,7 +6667,7 @@
     {
         "name_en": "Girros Mask Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6696,7 +6696,7 @@
     {
         "name_en": "Girros Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6725,7 +6725,7 @@
     {
         "name_en": "Girros Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6754,7 +6754,7 @@
     {
         "name_en": "Girros Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6783,7 +6783,7 @@
     {
         "name_en": "Girros Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6812,7 +6812,7 @@
     {
         "name_en": "Hornetaur Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6841,7 +6841,7 @@
     {
         "name_en": "Hornetaur Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6871,7 +6871,7 @@
     {
         "name_en": "Hornetaur Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6900,7 +6900,7 @@
     {
         "name_en": "Hornetaur Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6929,7 +6929,7 @@
     {
         "name_en": "Hornetaur Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6959,7 +6959,7 @@
     {
         "name_en": "Hornetaur Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -6987,7 +6987,7 @@
     {
         "name_en": "Hornetaur Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7016,7 +7016,7 @@
     {
         "name_en": "Hornetaur Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7044,7 +7044,7 @@
     {
         "name_en": "Hornetaur Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7072,7 +7072,7 @@
     {
         "name_en": "Hornetaur Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7101,7 +7101,7 @@
     {
         "name_en": "Hunter's Headgear Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7129,7 +7129,7 @@
     {
         "name_en": "Hunter's Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7156,7 +7156,7 @@
     {
         "name_en": "Hunter's Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7183,7 +7183,7 @@
     {
         "name_en": "Hunter's Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7211,7 +7211,7 @@
     {
         "name_en": "Hunter's Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7239,7 +7239,7 @@
     {
         "name_en": "Hunter's Headgear Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7266,7 +7266,7 @@
     {
         "name_en": "Hunter's Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7293,7 +7293,7 @@
     {
         "name_en": "Hunter's Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7320,7 +7320,7 @@
     {
         "name_en": "Hunter's Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7347,7 +7347,7 @@
     {
         "name_en": "Hunter's Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7374,7 +7374,7 @@
     {
         "name_en": "Jagras Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7403,7 +7403,7 @@
     {
         "name_en": "Jagras Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7432,7 +7432,7 @@
     {
         "name_en": "Jagras Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7462,7 +7462,7 @@
     {
         "name_en": "Jagras Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7492,7 +7492,7 @@
     {
         "name_en": "Jagras Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7522,7 +7522,7 @@
     {
         "name_en": "Jagras Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7551,7 +7551,7 @@
     {
         "name_en": "Jagras Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7580,7 +7580,7 @@
     {
         "name_en": "Jagras Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7609,7 +7609,7 @@
     {
         "name_en": "Jagras Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7638,7 +7638,7 @@
     {
         "name_en": "Jagras Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -7667,7 +7667,7 @@
     {
         "name_en": "Jyura Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7696,7 +7696,7 @@
     {
         "name_en": "Jyura Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7726,7 +7726,7 @@
     {
         "name_en": "Jyura Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7756,7 +7756,7 @@
     {
         "name_en": "Jyura Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7784,7 +7784,7 @@
     {
         "name_en": "Jyura Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7813,7 +7813,7 @@
     {
         "name_en": "Jyura Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7842,7 +7842,7 @@
     {
         "name_en": "Jyura Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7871,7 +7871,7 @@
     {
         "name_en": "Jyura Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7900,7 +7900,7 @@
     {
         "name_en": "Jyura Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7928,7 +7928,7 @@
     {
         "name_en": "Jyura Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7957,7 +7957,7 @@
     {
         "name_en": "Kadachi Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -7986,7 +7986,7 @@
     {
         "name_en": "Kadachi Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8016,7 +8016,7 @@
     {
         "name_en": "Kadachi Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8045,7 +8045,7 @@
     {
         "name_en": "Kadachi Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8075,7 +8075,7 @@
     {
         "name_en": "Kadachi Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8105,7 +8105,7 @@
     {
         "name_en": "Kadachi Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8134,7 +8134,7 @@
     {
         "name_en": "Kadachi Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8163,7 +8163,7 @@
     {
         "name_en": "Kadachi Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8192,7 +8192,7 @@
     {
         "name_en": "Kadachi Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8221,7 +8221,7 @@
     {
         "name_en": "Kadachi Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -8250,7 +8250,7 @@
     {
         "name_en": "Kestodon Guards Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8279,7 +8279,7 @@
     {
         "name_en": "Kestodon Guards Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8307,7 +8307,7 @@
     {
         "name_en": "King Beetle Vertex Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8337,7 +8337,7 @@
     {
         "name_en": "King Beetle Thorax Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8367,7 +8367,7 @@
     {
         "name_en": "King Beetle Brachia Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8397,7 +8397,7 @@
     {
         "name_en": "King Beetle Elytra Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8427,7 +8427,7 @@
     {
         "name_en": "King Beetle Crura Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8457,7 +8457,7 @@
     {
         "name_en": "King Beetle Vertex Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8486,7 +8486,7 @@
     {
         "name_en": "King Beetle Thorax Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8515,7 +8515,7 @@
     {
         "name_en": "King Beetle Brachia Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8544,7 +8544,7 @@
     {
         "name_en": "King Beetle Elytra Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8573,7 +8573,7 @@
     {
         "name_en": "King Beetle Crura Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": false,
         "price": 6000,
@@ -8602,7 +8602,7 @@
     {
         "name_en": "Kulu Headpiece Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8631,7 +8631,7 @@
     {
         "name_en": "Kulu Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8661,7 +8661,7 @@
     {
         "name_en": "Kulu Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8690,7 +8690,7 @@
     {
         "name_en": "Kulu Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8719,7 +8719,7 @@
     {
         "name_en": "Kulu Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8749,7 +8749,7 @@
     {
         "name_en": "Kulu Headpiece Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8777,7 +8777,7 @@
     {
         "name_en": "Kulu Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8806,7 +8806,7 @@
     {
         "name_en": "Kulu Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8834,7 +8834,7 @@
     {
         "name_en": "Kulu Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8863,7 +8863,7 @@
     {
         "name_en": "Kulu Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8892,7 +8892,7 @@
     {
         "name_en": "Leather Headgear Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8919,7 +8919,7 @@
     {
         "name_en": "Leather Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8946,7 +8946,7 @@
     {
         "name_en": "Leather Gloves Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -8973,7 +8973,7 @@
     {
         "name_en": "Leather Belt Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9000,7 +9000,7 @@
     {
         "name_en": "Leather Trousers Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9027,7 +9027,7 @@
     {
         "name_en": "Leather Headgear Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9054,7 +9054,7 @@
     {
         "name_en": "Leather Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9079,7 +9079,7 @@
     {
         "name_en": "Leather Gloves Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9104,7 +9104,7 @@
     {
         "name_en": "Leather Belt Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9129,7 +9129,7 @@
     {
         "name_en": "Leather Trousers Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9154,7 +9154,7 @@
     {
         "name_en": "Lumu Hat Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9183,7 +9183,7 @@
     {
         "name_en": "Lumu Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9213,7 +9213,7 @@
     {
         "name_en": "Lumu Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9242,7 +9242,7 @@
     {
         "name_en": "Lumu Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9271,7 +9271,7 @@
     {
         "name_en": "Lumu Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9301,7 +9301,7 @@
     {
         "name_en": "Lumu Hat Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9330,7 +9330,7 @@
     {
         "name_en": "Lumu Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9359,7 +9359,7 @@
     {
         "name_en": "Lumu Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9388,7 +9388,7 @@
     {
         "name_en": "Lumu Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9417,7 +9417,7 @@
     {
         "name_en": "Lumu Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9446,7 +9446,7 @@
     {
         "name_en": "Mosswine Mask Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 3000,
@@ -9475,7 +9475,7 @@
     {
         "name_en": "Pukei Hood Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9504,7 +9504,7 @@
     {
         "name_en": "Pukei Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9533,7 +9533,7 @@
     {
         "name_en": "Pukei Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9562,7 +9562,7 @@
     {
         "name_en": "Pukei Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9591,7 +9591,7 @@
     {
         "name_en": "Pukei Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9621,7 +9621,7 @@
     {
         "name_en": "Pukei Hood Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9650,7 +9650,7 @@
     {
         "name_en": "Pukei Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9678,7 +9678,7 @@
     {
         "name_en": "Pukei Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9706,7 +9706,7 @@
     {
         "name_en": "Pukei Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9735,7 +9735,7 @@
     {
         "name_en": "Pukei Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -9764,7 +9764,7 @@
     {
         "name_en": "Rathian Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9794,7 +9794,7 @@
     {
         "name_en": "Rathian Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9824,7 +9824,7 @@
     {
         "name_en": "Rathian Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9853,7 +9853,7 @@
     {
         "name_en": "Rathian Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9883,7 +9883,7 @@
     {
         "name_en": "Rathian Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9912,7 +9912,7 @@
     {
         "name_en": "Rathian Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9942,7 +9942,7 @@
     {
         "name_en": "Rathian Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -9972,7 +9972,7 @@
     {
         "name_en": "Rathian Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10001,7 +10001,7 @@
     {
         "name_en": "Rathian Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10031,7 +10031,7 @@
     {
         "name_en": "Rathian Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10060,7 +10060,7 @@
     {
         "name_en": "Sealed Eyepatch Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10089,7 +10089,7 @@
     {
         "name_en": "Shamos Goggles Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10118,7 +10118,7 @@
     {
         "name_en": "Shamos Goggles Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10146,7 +10146,7 @@
     {
         "name_en": "Tzitzi Headgear Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10176,7 +10176,7 @@
     {
         "name_en": "Tzitzi Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10206,7 +10206,7 @@
     {
         "name_en": "Tzitzi Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10236,7 +10236,7 @@
     {
         "name_en": "Tzitzi Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10266,7 +10266,7 @@
     {
         "name_en": "Tzitzi Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10295,7 +10295,7 @@
     {
         "name_en": "Tzitzi Headgear Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10324,7 +10324,7 @@
     {
         "name_en": "Tzitzi Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10353,7 +10353,7 @@
     {
         "name_en": "Tzitzi Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10382,7 +10382,7 @@
     {
         "name_en": "Tzitzi Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10411,7 +10411,7 @@
     {
         "name_en": "Tzitzi Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10440,7 +10440,7 @@
     {
         "name_en": "Vespoid Helm Alpha",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10469,7 +10469,7 @@
     {
         "name_en": "Vespoid Mail Alpha",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10497,7 +10497,7 @@
     {
         "name_en": "Vespoid Vambraces Alpha",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10526,7 +10526,7 @@
     {
         "name_en": "Vespoid Coil Alpha",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10554,7 +10554,7 @@
     {
         "name_en": "Vespoid Greaves Alpha",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10584,7 +10584,7 @@
     {
         "name_en": "Vespoid Helm Beta",
         "rarity": 5,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10612,7 +10612,7 @@
     {
         "name_en": "Vespoid Mail Beta",
         "rarity": 5,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10640,7 +10640,7 @@
     {
         "name_en": "Vespoid Vambraces Beta",
         "rarity": 5,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10669,7 +10669,7 @@
     {
         "name_en": "Vespoid Coil Beta",
         "rarity": 5,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10697,7 +10697,7 @@
     {
         "name_en": "Vespoid Greaves Beta",
         "rarity": 5,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 4000,
@@ -10726,7 +10726,7 @@
     {
         "name_en": "Baan Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10755,7 +10755,7 @@
     {
         "name_en": "Baan Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10785,7 +10785,7 @@
     {
         "name_en": "Baan Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10815,7 +10815,7 @@
     {
         "name_en": "Baan Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10844,7 +10844,7 @@
     {
         "name_en": "Baan Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10873,7 +10873,7 @@
     {
         "name_en": "Baan Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10902,7 +10902,7 @@
     {
         "name_en": "Baan Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10931,7 +10931,7 @@
     {
         "name_en": "Baan Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10961,7 +10961,7 @@
     {
         "name_en": "Baan Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 6000,
@@ -10990,7 +10990,7 @@
     {
         "name_en": "Baan Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 6000,
@@ -11019,7 +11019,7 @@
     {
         "name_en": "Brigade Lobos Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11049,7 +11049,7 @@
     {
         "name_en": "Brigade Suit Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11078,7 +11078,7 @@
     {
         "name_en": "Brigade Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11108,7 +11108,7 @@
     {
         "name_en": "Brigade Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11138,7 +11138,7 @@
     {
         "name_en": "Brigade Boots Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11168,7 +11168,7 @@
     {
         "name_en": "Brigade Lobos Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11197,7 +11197,7 @@
     {
         "name_en": "Brigade Suit Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11226,7 +11226,7 @@
     {
         "name_en": "Brigade Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11255,7 +11255,7 @@
     {
         "name_en": "Brigade Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11284,7 +11284,7 @@
     {
         "name_en": "Brigade Boots Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11313,7 +11313,7 @@
     {
         "name_en": "Diablos Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11343,7 +11343,7 @@
     {
         "name_en": "Diablos Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11373,7 +11373,7 @@
     {
         "name_en": "Diablos Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11403,7 +11403,7 @@
     {
         "name_en": "Diablos Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11433,7 +11433,7 @@
     {
         "name_en": "Diablos Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11463,7 +11463,7 @@
     {
         "name_en": "Diablos Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11492,7 +11492,7 @@
     {
         "name_en": "Diablos Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11521,7 +11521,7 @@
     {
         "name_en": "Diablos Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11550,7 +11550,7 @@
     {
         "name_en": "Diablos Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11579,7 +11579,7 @@
     {
         "name_en": "Diablos Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11608,7 +11608,7 @@
     {
         "name_en": "Faux Felyne Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11637,7 +11637,7 @@
     {
         "name_en": "High Metal Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11667,7 +11667,7 @@
     {
         "name_en": "High Metal Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11697,7 +11697,7 @@
     {
         "name_en": "High Metal Braces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11727,7 +11727,7 @@
     {
         "name_en": "High Metal Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11757,7 +11757,7 @@
     {
         "name_en": "High Metal Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11787,7 +11787,7 @@
     {
         "name_en": "High Metal Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11816,7 +11816,7 @@
     {
         "name_en": "High Metal Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11846,7 +11846,7 @@
     {
         "name_en": "High Metal Braces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11875,7 +11875,7 @@
     {
         "name_en": "High Metal Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11904,7 +11904,7 @@
     {
         "name_en": "High Metal Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11933,7 +11933,7 @@
     {
         "name_en": "Ingot Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11962,7 +11962,7 @@
     {
         "name_en": "Ingot Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -11991,7 +11991,7 @@
     {
         "name_en": "Ingot Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12021,7 +12021,7 @@
     {
         "name_en": "Ingot Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12050,7 +12050,7 @@
     {
         "name_en": "Ingot Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12080,7 +12080,7 @@
     {
         "name_en": "Ingot Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12109,7 +12109,7 @@
     {
         "name_en": "Ingot Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12138,7 +12138,7 @@
     {
         "name_en": "Ingot Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12167,7 +12167,7 @@
     {
         "name_en": "Ingot Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12196,7 +12196,7 @@
     {
         "name_en": "Ingot Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12225,7 +12225,7 @@
     {
         "name_en": "Kirin Horn Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12255,7 +12255,7 @@
     {
         "name_en": "Kirin Jacket Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12285,7 +12285,7 @@
     {
         "name_en": "Kirin Longarms Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12315,7 +12315,7 @@
     {
         "name_en": "Kirin Hoop Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12345,7 +12345,7 @@
     {
         "name_en": "Kirin Horn Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12374,7 +12374,7 @@
     {
         "name_en": "Kirin Jacket Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12403,7 +12403,7 @@
     {
         "name_en": "Kirin Longarms Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12432,7 +12432,7 @@
     {
         "name_en": "Kirin Hoop Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12461,7 +12461,7 @@
     {
         "name_en": "Kirin Leg Guards Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12491,7 +12491,7 @@
     {
         "name_en": "Kirin Leg Guards Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12520,7 +12520,7 @@
     {
         "name_en": "Lavasioth Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12550,7 +12550,7 @@
     {
         "name_en": "Lavasioth Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12580,7 +12580,7 @@
     {
         "name_en": "Lavasioth Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12610,7 +12610,7 @@
     {
         "name_en": "Lavasioth Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12640,7 +12640,7 @@
     {
         "name_en": "Lavasioth Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12670,7 +12670,7 @@
     {
         "name_en": "Lavasioth Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12700,7 +12700,7 @@
     {
         "name_en": "Lavasioth Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12729,7 +12729,7 @@
     {
         "name_en": "Lavasioth Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12758,7 +12758,7 @@
     {
         "name_en": "Lavasioth Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12787,7 +12787,7 @@
     {
         "name_en": "Lavasioth Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12816,7 +12816,7 @@
     {
         "name_en": "Legiana Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12846,7 +12846,7 @@
     {
         "name_en": "Legiana Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12876,7 +12876,7 @@
     {
         "name_en": "Legiana Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12906,7 +12906,7 @@
     {
         "name_en": "Legiana Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12936,7 +12936,7 @@
     {
         "name_en": "Legiana Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12966,7 +12966,7 @@
     {
         "name_en": "Legiana Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -12995,7 +12995,7 @@
     {
         "name_en": "Legiana Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13024,7 +13024,7 @@
     {
         "name_en": "Legiana Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13053,7 +13053,7 @@
     {
         "name_en": "Legiana Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13082,7 +13082,7 @@
     {
         "name_en": "Legiana Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13111,7 +13111,7 @@
     {
         "name_en": "Odogaron Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13141,7 +13141,7 @@
     {
         "name_en": "Odogaron Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13171,7 +13171,7 @@
     {
         "name_en": "Odogaron Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13201,7 +13201,7 @@
     {
         "name_en": "Odogaron Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13231,7 +13231,7 @@
     {
         "name_en": "Odogaron Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13261,7 +13261,7 @@
     {
         "name_en": "Odogaron Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13290,7 +13290,7 @@
     {
         "name_en": "Odogaron Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13319,7 +13319,7 @@
     {
         "name_en": "Odogaron Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13348,7 +13348,7 @@
     {
         "name_en": "Odogaron Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13377,7 +13377,7 @@
     {
         "name_en": "Odogaron Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13406,7 +13406,7 @@
     {
         "name_en": "Rath Heart Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13436,7 +13436,7 @@
     {
         "name_en": "Rath Heart Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13465,7 +13465,7 @@
     {
         "name_en": "Rath Heart Braces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13494,7 +13494,7 @@
     {
         "name_en": "Rath Heart Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13524,7 +13524,7 @@
     {
         "name_en": "Rath Heart Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13554,7 +13554,7 @@
     {
         "name_en": "Rath Heart Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13583,7 +13583,7 @@
     {
         "name_en": "Rath Heart Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13612,7 +13612,7 @@
     {
         "name_en": "Rath Heart Braces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13641,7 +13641,7 @@
     {
         "name_en": "Rath Heart Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13670,7 +13670,7 @@
     {
         "name_en": "Rath Heart Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13699,7 +13699,7 @@
     {
         "name_en": "Rathalos Helm Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13729,7 +13729,7 @@
     {
         "name_en": "Rathalos Mail Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13759,7 +13759,7 @@
     {
         "name_en": "Rathalos Vambraces Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13789,7 +13789,7 @@
     {
         "name_en": "Rathalos Coil Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13819,7 +13819,7 @@
     {
         "name_en": "Rathalos Greaves Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13849,7 +13849,7 @@
     {
         "name_en": "Rathalos Helm Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13878,7 +13878,7 @@
     {
         "name_en": "Rathalos Mail Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13907,7 +13907,7 @@
     {
         "name_en": "Rathalos Vambraces Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13936,7 +13936,7 @@
     {
         "name_en": "Rathalos Coil Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13965,7 +13965,7 @@
     {
         "name_en": "Rathalos Greaves Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -13994,7 +13994,7 @@
     {
         "name_en": "Strategist Spectacles Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14022,7 +14022,7 @@
     {
         "name_en": "Zorah Headgear Alpha",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14052,7 +14052,7 @@
     {
         "name_en": "Zorah Hide Alpha",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14082,7 +14082,7 @@
     {
         "name_en": "Zorah Claws Alpha",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14112,7 +14112,7 @@
     {
         "name_en": "Zorah Spine Alpha",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14142,7 +14142,7 @@
     {
         "name_en": "Zorah Spurs Alpha",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14172,7 +14172,7 @@
     {
         "name_en": "Zorah Headgear Beta",
         "rarity": 6,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14201,7 +14201,7 @@
     {
         "name_en": "Zorah Hide Beta",
         "rarity": 6,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14230,7 +14230,7 @@
     {
         "name_en": "Zorah Claws Beta",
         "rarity": 6,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14259,7 +14259,7 @@
     {
         "name_en": "Zorah Spine Beta",
         "rarity": 6,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14288,7 +14288,7 @@
     {
         "name_en": "Zorah Spurs Beta",
         "rarity": 6,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 9000,
@@ -14317,7 +14317,7 @@
     {
         "name_en": "Bazel Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14347,7 +14347,7 @@
     {
         "name_en": "Bazel Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14377,7 +14377,7 @@
     {
         "name_en": "Bazel Vambraces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14407,7 +14407,7 @@
     {
         "name_en": "Bazel Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14437,7 +14437,7 @@
     {
         "name_en": "Bazel Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14467,7 +14467,7 @@
     {
         "name_en": "Bazel Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14496,7 +14496,7 @@
     {
         "name_en": "Bazel Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14525,7 +14525,7 @@
     {
         "name_en": "Bazel Vambraces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14554,7 +14554,7 @@
     {
         "name_en": "Bazel Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14583,7 +14583,7 @@
     {
         "name_en": "Bazel Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14612,7 +14612,7 @@
     {
         "name_en": "Damascus Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14642,7 +14642,7 @@
     {
         "name_en": "Damascus Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14672,7 +14672,7 @@
     {
         "name_en": "Damascus Vambraces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14702,7 +14702,7 @@
     {
         "name_en": "Damascus Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14732,7 +14732,7 @@
     {
         "name_en": "Damascus Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14762,7 +14762,7 @@
     {
         "name_en": "Damascus Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14791,7 +14791,7 @@
     {
         "name_en": "Damascus Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14820,7 +14820,7 @@
     {
         "name_en": "Damascus Vambraces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14849,7 +14849,7 @@
     {
         "name_en": "Damascus Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14878,7 +14878,7 @@
     {
         "name_en": "Damascus Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14907,7 +14907,7 @@
     {
         "name_en": "Death Stench Brain Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14937,7 +14937,7 @@
     {
         "name_en": "Death Stench Muscle Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14967,7 +14967,7 @@
     {
         "name_en": "Death Stench Grip Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -14997,7 +14997,7 @@
     {
         "name_en": "Death Stench Bowels Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15027,7 +15027,7 @@
     {
         "name_en": "Death Stench Heel Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15057,7 +15057,7 @@
     {
         "name_en": "Death Stench Brain Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15086,7 +15086,7 @@
     {
         "name_en": "Death Stench Muscle Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15115,7 +15115,7 @@
     {
         "name_en": "Death Stench Grip Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15144,7 +15144,7 @@
     {
         "name_en": "Death Stench Bowels Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15173,7 +15173,7 @@
     {
         "name_en": "Death Stench Heel Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15202,7 +15202,7 @@
     {
         "name_en": "Diablos Nero Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15231,7 +15231,7 @@
     {
         "name_en": "Diablos Nero Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15260,7 +15260,7 @@
     {
         "name_en": "Diablos Nero Braces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15290,7 +15290,7 @@
     {
         "name_en": "Diablos Nero Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15320,7 +15320,7 @@
     {
         "name_en": "Diablos Nero Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15350,7 +15350,7 @@
     {
         "name_en": "Diablos Nero Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15379,7 +15379,7 @@
     {
         "name_en": "Diablos Nero Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15408,7 +15408,7 @@
     {
         "name_en": "Diablos Nero Braces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15437,7 +15437,7 @@
     {
         "name_en": "Diablos Nero Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15466,7 +15466,7 @@
     {
         "name_en": "Diablos Nero Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15495,7 +15495,7 @@
     {
         "name_en": "Dober Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15525,7 +15525,7 @@
     {
         "name_en": "Dober Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15555,7 +15555,7 @@
     {
         "name_en": "Dober Vambraces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15585,7 +15585,7 @@
     {
         "name_en": "Dober Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15615,7 +15615,7 @@
     {
         "name_en": "Dober Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15645,7 +15645,7 @@
     {
         "name_en": "Dober Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15674,7 +15674,7 @@
     {
         "name_en": "Dober Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15703,7 +15703,7 @@
     {
         "name_en": "Dober Vambraces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15733,7 +15733,7 @@
     {
         "name_en": "Dober Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15762,7 +15762,7 @@
     {
         "name_en": "Dober Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15791,7 +15791,7 @@
     {
         "name_en": "Rath Soul Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15821,7 +15821,7 @@
     {
         "name_en": "Rath Soul Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15851,7 +15851,7 @@
     {
         "name_en": "Rath Soul Braces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15881,7 +15881,7 @@
     {
         "name_en": "Rath Soul Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15911,7 +15911,7 @@
     {
         "name_en": "Rath Soul Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15941,7 +15941,7 @@
     {
         "name_en": "Rath Soul Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15970,7 +15970,7 @@
     {
         "name_en": "Rath Soul Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -15999,7 +15999,7 @@
     {
         "name_en": "Rath Soul Braces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16028,7 +16028,7 @@
     {
         "name_en": "Rath Soul Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16057,7 +16057,7 @@
     {
         "name_en": "Rath Soul Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16086,7 +16086,7 @@
     {
         "name_en": "Skull Mask Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16115,7 +16115,7 @@
     {
         "name_en": "Uragaan Helm Alpha",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16144,7 +16144,7 @@
     {
         "name_en": "Uragaan Mail Alpha",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16173,7 +16173,7 @@
     {
         "name_en": "Uragaan Vambraces Alpha",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16203,7 +16203,7 @@
     {
         "name_en": "Uragaan Coil Alpha",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16233,7 +16233,7 @@
     {
         "name_en": "Uragaan Greaves Alpha",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16262,7 +16262,7 @@
     {
         "name_en": "Uragaan Helm Beta",
         "rarity": 7,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16291,7 +16291,7 @@
     {
         "name_en": "Uragaan Mail Beta",
         "rarity": 7,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16320,7 +16320,7 @@
     {
         "name_en": "Uragaan Vambraces Beta",
         "rarity": 7,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16349,7 +16349,7 @@
     {
         "name_en": "Uragaan Coil Beta",
         "rarity": 7,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16378,7 +16378,7 @@
     {
         "name_en": "Uragaan Greaves Beta",
         "rarity": 7,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 12000,
@@ -16407,7 +16407,7 @@
     {
         "name_en": "Commission Gorget Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16437,7 +16437,7 @@
     {
         "name_en": "Commission Jacket Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16467,7 +16467,7 @@
     {
         "name_en": "Commission Vambraces Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16497,7 +16497,7 @@
     {
         "name_en": "Commission Belt Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16527,7 +16527,7 @@
     {
         "name_en": "Commission Pants Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16557,7 +16557,7 @@
     {
         "name_en": "Commission Gorget Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16586,7 +16586,7 @@
     {
         "name_en": "Commission Jacket Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16615,7 +16615,7 @@
     {
         "name_en": "Commission Vambraces Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16644,7 +16644,7 @@
     {
         "name_en": "Commission Belt Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16673,7 +16673,7 @@
     {
         "name_en": "Commission Pants Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 20000,
@@ -16702,7 +16702,7 @@
     {
         "name_en": "Dragonking Eyepatch Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16730,7 +16730,7 @@
     {
         "name_en": "Guild Cross Circlet Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16760,7 +16760,7 @@
     {
         "name_en": "Guild Cross Suit Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16790,7 +16790,7 @@
     {
         "name_en": "Guild Cross Vambraces Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16820,7 +16820,7 @@
     {
         "name_en": "Guild Cross Coil Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16850,7 +16850,7 @@
     {
         "name_en": "Guild Cross Boots Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16880,7 +16880,7 @@
     {
         "name_en": "Guild Cross Circlet Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16909,7 +16909,7 @@
     {
         "name_en": "Guild Cross Suit Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16938,7 +16938,7 @@
     {
         "name_en": "Guild Cross Vambraces Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16967,7 +16967,7 @@
     {
         "name_en": "Guild Cross Coil Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -16996,7 +16996,7 @@
     {
         "name_en": "Guild Cross Boots Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17025,7 +17025,7 @@
     {
         "name_en": "Kaiser Crown Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17054,7 +17054,7 @@
     {
         "name_en": "Kaiser Mail Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17084,7 +17084,7 @@
     {
         "name_en": "Kaiser Vambraces Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17113,7 +17113,7 @@
     {
         "name_en": "Kaiser Coil Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17143,7 +17143,7 @@
     {
         "name_en": "Kaiser Greaves Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17173,7 +17173,7 @@
     {
         "name_en": "Kaiser Crown Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17202,7 +17202,7 @@
     {
         "name_en": "Kaiser Mail Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17231,7 +17231,7 @@
     {
         "name_en": "Kaiser Vambraces Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17260,7 +17260,7 @@
     {
         "name_en": "Kaiser Coil Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17289,7 +17289,7 @@
     {
         "name_en": "Kaiser Greaves Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17318,7 +17318,7 @@
     {
         "name_en": "Kushala Glare Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17348,7 +17348,7 @@
     {
         "name_en": "Kushala Cista Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17378,7 +17378,7 @@
     {
         "name_en": "Kushala Grip Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17408,7 +17408,7 @@
     {
         "name_en": "Kushala Cocoon Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17438,7 +17438,7 @@
     {
         "name_en": "Kushala Crus Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17468,7 +17468,7 @@
     {
         "name_en": "Kushala Glare Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17497,7 +17497,7 @@
     {
         "name_en": "Kushala Cista Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17526,7 +17526,7 @@
     {
         "name_en": "Kushala Grip Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17555,7 +17555,7 @@
     {
         "name_en": "Kushala Cocoon Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17584,7 +17584,7 @@
     {
         "name_en": "Kushala Crus Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17613,7 +17613,7 @@
     {
         "name_en": "Nergigante Helm Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17643,7 +17643,7 @@
     {
         "name_en": "Nergigante Mail Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17673,7 +17673,7 @@
     {
         "name_en": "Nergigante Vambraces Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17703,7 +17703,7 @@
     {
         "name_en": "Nergigante Coil Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17733,7 +17733,7 @@
     {
         "name_en": "Nergigante Greaves Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17763,7 +17763,7 @@
     {
         "name_en": "Nergigante Helm Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17792,7 +17792,7 @@
     {
         "name_en": "Nergigante Mail Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17821,7 +17821,7 @@
     {
         "name_en": "Nergigante Vambraces Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17850,7 +17850,7 @@
     {
         "name_en": "Nergigante Coil Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17879,7 +17879,7 @@
     {
         "name_en": "Nergigante Greaves Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17908,7 +17908,7 @@
     {
         "name_en": "Vaal Hazak Helm Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17938,7 +17938,7 @@
     {
         "name_en": "Vaal Hazak Mail Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17968,7 +17968,7 @@
     {
         "name_en": "Vaal Hazak Braces Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -17998,7 +17998,7 @@
     {
         "name_en": "Vaal Hazak Coil Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18028,7 +18028,7 @@
     {
         "name_en": "Vaal Hazak Greaves Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18058,7 +18058,7 @@
     {
         "name_en": "Vaal Hazak Helm Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18087,7 +18087,7 @@
     {
         "name_en": "Vaal Hazak Mail Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18116,7 +18116,7 @@
     {
         "name_en": "Vaal Hazak Braces Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18145,7 +18145,7 @@
     {
         "name_en": "Vaal Hazak Coil Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18174,7 +18174,7 @@
     {
         "name_en": "Vaal Hazak Greaves Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -18203,7 +18203,7 @@
     {
         "name_en": "Xeno'jiiva Headgear Alpha",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18233,7 +18233,7 @@
     {
         "name_en": "Xeno'jiiva Hide Alpha",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18263,7 +18263,7 @@
     {
         "name_en": "Xeno'jiiva Claws Alpha",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18293,7 +18293,7 @@
     {
         "name_en": "Xeno'jiiva Spine Alpha",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18323,7 +18323,7 @@
     {
         "name_en": "Xeno'jiiva Spurs Alpha",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18353,7 +18353,7 @@
     {
         "name_en": "Xeno'jiiva Headgear Beta",
         "rarity": 8,
-        "part": "head",
+        "armor_type": "head",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18382,7 +18382,7 @@
     {
         "name_en": "Xeno'jiiva Hide Beta",
         "rarity": 8,
-        "part": "body",
+        "armor_type": "chest",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18411,7 +18411,7 @@
     {
         "name_en": "Xeno'jiiva Claws Beta",
         "rarity": 8,
-        "part": "arms",
+        "armor_type": "arms",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18440,7 +18440,7 @@
     {
         "name_en": "Xeno'jiiva Spine Beta",
         "rarity": 8,
-        "part": "waist",
+        "armor_type": "waist",
         "male": true,
         "female": true,
         "price": 20000,
@@ -18469,7 +18469,7 @@
     {
         "name_en": "Xeno'jiiva Spurs Beta",
         "rarity": 8,
-        "part": "legs",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 20000,

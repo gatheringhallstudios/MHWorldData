@@ -53,7 +53,7 @@ class Armor(Base):
 
     id = Column(Integer, primary_key=True)
     rarity = Column(Integer)
-    part = Column(Text)
+    armor_type = Column(Text)
     armorset_id = Column(Integer)
 
     male = Column(Boolean)
