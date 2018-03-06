@@ -13,30 +13,45 @@ supported_languages = ['en']
 # todo: move somewhere
 def load_translate_map(data_file):
     "Loads a translation map object using a _names.json file"
+    languages_with_errors = set()
+
     map = TranslateMap()
     data = json.load(open(data_file, encoding="utf-8"))
     id = 1
     for row in data:
         for lang in supported_languages:
-            map.add_entry(id, lang, row['name_' + lang])
+            value = row['name_' + lang]
+            if not value:
+                languages_with_errors.add(lang)
+            else:
+                map.add_entry(id, lang, value)
         id += 1
+
+    if languages_with_errors:
+        raise Exception("ERROR: Missing language entries for " +
+            f"{', '.join(languages_with_errors)} While loading {data_file}")
     return map
 
-def load_data_map(parent_map : TranslateMap, data_file):
+
+def load_data_map(parent_map : TranslateMap, data_file, lang="en"):
+    """Loads a data file, using a translation map to anchor it to id
+    The result is a dictionary of id -> data row
+    """
     result = {}
 
+    name_field = f'name_{lang}'
     data = json.load(open(data_file, encoding="utf-8"))
     for row in data:
-        name = row.get('name_en', None)
+        name = row.get(name_field, None)
         if not name:
-            raise Exception(f"ERROR: Data file {data_file} does not contain a name_en field")
-        id = parent_map.id_of('en', name)
+            raise Exception(f"ERROR: Data file {data_file} does not contain a {name_field} field")
+        id = parent_map.id_of(lang, name)
         if not id:
             raise Exception(f"ERROR: Entry {name} in {data_file} is an invalid name")
         result[id] = row
     return result
 
-def load_language_data(parent_map : TranslateMap, data_directory):
+def load_language_data_dir(parent_map : TranslateMap, data_directory):
     """Loads a directory containing sub-json for each language.
     Each entry in the sub-json must have a name_language field for that language.
     The result is a dictionary mapping id->language->data
@@ -80,11 +95,9 @@ item_map = load_translate_map("items/item_names.json")
 armor_map = load_translate_map("armors/armor_names.json")
 armorset_map = load_translate_map("armors/armor_set_names.json")
 
-# TODO: Validate translation maps somehow
-
 def build_monsters(session : sqlalchemy.orm.Session):
     # Load additional files
-    description = load_language_data(monster_map, 'monsters/monster_descriptions')
+    description = load_language_data_dir(monster_map, 'monsters/monster_descriptions')
 
     for row in monster_map:
         monster = db.Monster(id=row.id)
@@ -99,7 +112,7 @@ def build_monsters(session : sqlalchemy.orm.Session):
 
 
 def build_skills(session : sqlalchemy.orm.Session):
-    skilldata = load_language_data(skill_map, 'skills/skills')
+    skilldata = load_language_data_dir(skill_map, 'skills/skills')
     for row in skill_map:
         skilltree = db.SkillTree(id=row.id)
         session.add(skilltree)

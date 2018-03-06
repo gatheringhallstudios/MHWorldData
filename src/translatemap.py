@@ -7,21 +7,24 @@ class TranslateMap:
     def __init__(self):
         # key'd by id
         self._entries = {}
+        
+        # key'd by (language, value)
+        self._reverse_entries = {}
 
     def id_of(self, language_code, value):
         "Returns the id of the map entry that contains the code+value. Otherwise returns None"
         # note: this algorithm is brute force and slow. We can improve it later if we need to
-        for entry in self._entries.values():
-            if entry.get(language_code, None) == value:
-                return entry.id
-        return None
+        key = (language_code, value)
+        return self._reverse_entries.get(key, None)
 
     def add_entry(self, id, language_code, value):
+        "Adds an entry to the translate map, that can be used to retrieve ids later"
         entry = self._entries.get(id, None)
         if not entry:
             entry = TranslationMapEntry(id, self)
             self._entries[id] = entry
-        entry[language_code] = value
+        entry._add(language_code, value)
+        self._reverse_entries[(language_code, value)] = id
 
     def names_for(self, language_code):
         """Returns a generator that can be used to iterate over the names of a single language.
@@ -50,7 +53,8 @@ class TranslationMapEntry:
     def __getitem__(self, code):
         return self._translations.__getitem__(code)
 
-    def __setitem__(self, code, value):
+    def _add(self, code, value):
+        "Internal add function"
         self._translations[code] = value
 
     def items(self):
