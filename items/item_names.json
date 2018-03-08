@@ -17,15 +17,15 @@
     },
     {
         "name_en": "Antidote",
-        "name_jp": ""
+        "name_jp": "解毒薬"
     },
     {
         "name_en": "Herbal Medicine",
-        "name_jp": ""
+        "name_jp": "漢方薬"
     },
     {
         "name_en": "Nulberry",
-        "name_jp": ""
+        "name_jp": "ウチケシの実"
     },
     {
         "name_en": "Energy Drink",
@@ -53,11 +53,11 @@
     },
     {
         "name_en": "Nutrients",
-        "name_jp": ""
+        "name_jp": "栄養剤"
     },
     {
         "name_en": "Mega Nutrients",
-        "name_jp": ""
+        "name_jp": "栄養剤グレート"
     },
     {
         "name_en": "Immunizer",
@@ -109,7 +109,7 @@
     },
     {
         "name_en": "Lifepowder",
-        "name_jp": ""
+        "name_jp": "生命の粉塵"
     },
     {
         "name_en": "Herbal Powder",
@@ -165,7 +165,7 @@
     },
     {
         "name_en": "Blue Mushroom",
-        "name_jp": ""
+        "name_jp": "アオキノコ"
     },
     {
         "name_en": "Mandragora",
@@ -197,7 +197,7 @@
     },
     {
         "name_en": "Bitterbug",
-        "name_jp": ""
+        "name_jp": "にが虫"
     },
     {
         "name_en": "Flashbug",
@@ -205,7 +205,7 @@
     },
     {
         "name_en": "Godbug",
-        "name_jp": ""
+        "name_jp": "不死虫"
     },
     {
         "name_en": "Thunderbug",
@@ -617,7 +617,7 @@
     },
     {
         "name_en": "Piercing Claw",
-        "name_jp": ""
+        "name_jp": "鋭利な爪"
     },
     {
         "name_en": "Monster Fluid",
@@ -1801,7 +1801,7 @@
     },
     {
         "name_en": "SFV Ticket",
-        "name_jp": ""
+        "name_jp": "SFVチケット"
     },
     {
         "name_en": "Azure Star Shard",
@@ -1873,31 +1873,31 @@
     },
     {
         "name_en": "Hero's Streamstone: Sword",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・剣"
     },
     {
         "name_en": "Hero's Streamstone: Blade",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・刃"
     },
     {
         "name_en": "Hero's Streamstone: Hammer",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・鎚"
     },
     {
         "name_en": "Hero's Streamstone: Lance",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・槍"
     },
     {
         "name_en": "Hero's Streamstone: Axe",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・斧"
     },
     {
         "name_en": "Hero's Streamstone: Shaft",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・柄"
     },
     {
         "name_en": "Hero's Streamstone: Ranged",
-        "name_jp": ""
+        "name_jp": "英雄の龍脈石・弩"
     },
     {
         "name_en": "Voucher",
