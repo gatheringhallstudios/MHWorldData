@@ -8,7 +8,7 @@ class TranslateMap:
         # key'd by id
         self._entries = {}
         
-        # key'd by (language, value)
+        # key'd by (language, value), value is id
         self._reverse_entries = {}
 
     def id_of(self, language_code, value):
@@ -16,6 +16,11 @@ class TranslateMap:
         # note: this algorithm is brute force and slow. We can improve it later if we need to
         key = (language_code, value)
         return self._reverse_entries.get(key, None)
+
+    def entry_of(self, language_code, value):
+        "Returns the entry that contains the code+value, which can be used to get other languages. Otherwise none"
+        id_value = self.id_of(language_code, value)
+        return self._entries.get(id_value, None)
 
     def add_entry(self, id, language_code, value):
         "Adds an entry to the translate map, that can be used to retrieve ids later"
