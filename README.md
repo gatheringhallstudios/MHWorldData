@@ -16,3 +16,6 @@ Lang is a translation code like en or jp. For an example, look up the monster de
 To contribute, create a pull request adding the data or translation you wish to add. 
 If the translation is for a language that is not supported, 
 feel free to create an issue and I will populate the *names* data files with dummy data.
+
+## License
+The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data itself is unlicensed data pertaining to Monster Hunter World, which is owned by Capcom.
