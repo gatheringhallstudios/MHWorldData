@@ -3870,7 +3870,7 @@
     {
         "name_en": "Kirin Leg Guards",
         "rarity": 4,
-        "armor_type": "arms",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 3000,
@@ -12461,7 +12461,7 @@
     {
         "name_en": "Kirin Leg Guards Alpha",
         "rarity": 6,
-        "armor_type": "arms",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
@@ -12491,7 +12491,7 @@
     {
         "name_en": "Kirin Leg Guards Beta",
         "rarity": 6,
-        "armor_type": "arms",
+        "armor_type": "legs",
         "male": true,
         "female": true,
         "price": 16000,
