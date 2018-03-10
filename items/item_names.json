@@ -461,47 +461,47 @@
     },
     {
         "name_en": "Iron Ore",
-        "name_jp": ""
+        "name_jp": "鉄鉱石"
     },
     {
         "name_en": "Machalite Ore",
-        "name_jp": ""
+        "name_jp": "マカライト鉱石"
     },
     {
         "name_en": "Dragonite Ore",
-        "name_jp": ""
+        "name_jp": "ドラグライト鉱石"
     },
     {
         "name_en": "Carbalite Ore",
-        "name_jp": ""
+        "name_jp": "カブレライト鉱石"
     },
     {
         "name_en": "Fucium Ore",
-        "name_jp": ""
+        "name_jp": "ユニオン鉱石"
     },
     {
         "name_en": "Earth Crystal",
-        "name_jp": ""
+        "name_jp": "大地の結晶"
     },
     {
         "name_en": "Coral Crystal",
-        "name_jp": ""
+        "name_jp": "深海の結晶"
     },
     {
         "name_en": "Dragonvein Crystal",
-        "name_jp": ""
+        "name_jp": "龍脈の結晶"
     },
     {
         "name_en": "Lightcrystal",
-        "name_jp": ""
+        "name_jp": "ライトクリスタル"
     },
     {
         "name_en": "Novacrystal",
-        "name_jp": ""
+        "name_jp": "ノヴァクリスタル"
     },
     {
         "name_en": "Firecell Stone",
-        "name_jp": ""
+        "name_jp": "獄炎石"
     },
     {
         "name_en": "Aquacore Ore",
@@ -541,35 +541,35 @@
     },
     {
         "name_en": "Sturdy Bone",
-        "name_jp": ""
+        "name_jp": "頑丈な骨"
     },
     {
         "name_en": "Quality Bone",
-        "name_jp": ""
+        "name_jp": "上質な堅骨"
     },
     {
         "name_en": "Ancient Bone",
-        "name_jp": ""
+        "name_jp": "太古の大骨"
     },
     {
         "name_en": "Boulder Bone",
-        "name_jp": ""
+        "name_jp": "強固な岩骨"
     },
     {
         "name_en": "Coral Bone",
-        "name_jp": ""
+        "name_jp": "サンゴの紅骨"
     },
     {
         "name_en": "Warped Bone",
-        "name_jp": ""
+        "name_jp": "いびつな狂骨"
     },
     {
         "name_en": "Brutal Bone",
-        "name_jp": ""
+        "name_jp": "荒々しい蛮骨"
     },
     {
         "name_en": "Dragonbone Relic",
-        "name_jp": ""
+        "name_jp": "いにしえの龍骨"
     },
     {
         "name_en": "Unknown Skull",
@@ -577,43 +577,43 @@
     },
     {
         "name_en": "Great Hornfly",
-        "name_jp": ""
+        "name_jp": "オオツノアゲハ"
     },
     {
         "name_en": "Sinister Cloth",
-        "name_jp": ""
+        "name_jp": "禍々しい布"
     },
     {
         "name_en": "Monster Bone S",
-        "name_jp": ""
+        "name_jp": "竜骨【小】"
     },
     {
         "name_en": "Monster Bone M",
-        "name_jp": ""
+        "name_jp": "竜骨【中】"
     },
     {
         "name_en": "Monster Bone L",
-        "name_jp": ""
+        "name_jp": "竜骨【大】"
     },
     {
         "name_en": "Monster Bone+",
-        "name_jp": ""
+        "name_jp": "上竜骨"
     },
     {
         "name_en": "Monster Keenbone",
-        "name_jp": ""
+        "name_jp": "尖竜骨"
     },
     {
         "name_en": "Monster Hardbone",
-        "name_jp": ""
+        "name_jp": "堅竜骨"
     },
     {
         "name_en": "Elder Dragon Bone",
-        "name_jp": ""
+        "name_jp": "古龍骨"
     },
     {
         "name_en": "Sharp Claw",
-        "name_jp": ""
+        "name_jp": "とがった爪"
     },
     {
         "name_en": "Piercing Claw",
@@ -621,27 +621,27 @@
     },
     {
         "name_en": "Monster Fluid",
-        "name_jp": ""
+        "name_jp": "モンスターの体液"
     },
     {
         "name_en": "Monster Broth",
-        "name_jp": ""
+        "name_jp": "モンスターの濃汁"
     },
     {
         "name_en": "Poison Sac",
-        "name_jp": ""
+        "name_jp": "毒袋"
     },
     {
         "name_en": "Toxin Sac",
-        "name_jp": ""
+        "name_jp": "猛毒袋"
     },
     {
         "name_en": "Paralysis Sac",
-        "name_jp": ""
+        "name_jp": "麻痺袋"
     },
     {
         "name_en": "Omniplegia Sac",
-        "name_jp": ""
+        "name_jp": "強力麻痺袋"
     },
     {
         "name_en": "Sleep Sac",
@@ -649,39 +649,39 @@
     },
     {
         "name_en": "Coma Sac",
-        "name_jp": ""
+        "name_jp": "昏睡袋"
     },
     {
         "name_en": "Flame Sac",
-        "name_jp": ""
+        "name_jp": "火炎袋"
     },
     {
         "name_en": "Inferno Sac",
-        "name_jp": ""
+        "name_jp": "爆炎袋"
     },
     {
         "name_en": "Aqua Sac",
-        "name_jp": ""
+        "name_jp": "水袋"
     },
     {
         "name_en": "Torrent Sac",
-        "name_jp": ""
+        "name_jp": "大水袋"
     },
     {
         "name_en": "Frost Sac",
-        "name_jp": ""
+        "name_jp": "氷結袋"
     },
     {
         "name_en": "Freezer Sac",
-        "name_jp": ""
+        "name_jp": "凍結袋"
     },
     {
         "name_en": "Electro Sac",
-        "name_jp": ""
+        "name_jp": "電気袋"
     },
     {
         "name_en": "Thunder Sac",
-        "name_jp": ""
+        "name_jp": "電撃袋"
     },
     {
         "name_en": "Bird Wyvern Gem",
@@ -689,11 +689,11 @@
     },
     {
         "name_en": "Wyvern Gem",
-        "name_jp": ""
+        "name_jp": "竜玉"
     },
     {
         "name_en": "Elder Dragon Blood",
-        "name_jp": ""
+        "name_jp": "古龍の血"
     },
     {
         "name_en": "Mosswine Hide",
@@ -705,43 +705,43 @@
     },
     {
         "name_en": "High-quality Pelt",
-        "name_jp": ""
+        "name_jp": "上質な毛皮"
     },
     {
         "name_en": "Vespoid Shell",
-        "name_jp": ""
+        "name_jp": "ランゴスタの甲殻"
     },
     {
         "name_en": "Vespoid Carapace",
-        "name_jp": ""
+        "name_jp": "ランゴスタの堅殻"
     },
     {
         "name_en": "Vespoid Wing",
-        "name_jp": ""
+        "name_jp": "ランゴスタの羽"
     },
     {
         "name_en": "Vespoid Innerwing",
-        "name_jp": ""
+        "name_jp": "ランゴスタの薄羽"
     },
     {
         "name_en": "Hornetaur Shell",
-        "name_jp": ""
+        "name_jp": "カンタロスの甲殻"
     },
     {
         "name_en": "Hornetaur Wing",
-        "name_jp": ""
+        "name_jp": "カンタロスの羽"
     },
     {
         "name_en": "Hornetaur Head",
-        "name_jp": ""
+        "name_jp": "カンタロスの頭"
     },
     {
         "name_en": "Hornetaur Carapace",
-        "name_jp": ""
+        "name_jp": "カンタロスの堅殻"
     },
     {
         "name_en": "Hornetaur Innerwing",
-        "name_jp": ""
+        "name_jp": "カンタロスの薄羽"
     },
     {
         "name_en": "Gajau Skin",
@@ -749,59 +749,59 @@
     },
     {
         "name_en": "Gajau Whisker",
-        "name_jp": ""
+        "name_jp": "咬魚のヒゲ"
     },
     {
         "name_en": "Gajau Scale",
-        "name_jp": ""
+        "name_jp": "咬魚の上皮"
     },
     {
         "name_en": "Grand Gajau Whisker",
-        "name_jp": ""
+        "name_jp": "咬魚の大ヒゲ"
     },
     {
         "name_en": "Wingdrake Hide",
-        "name_jp": ""
+        "name_jp": "翼竜の皮"
     },
     {
         "name_en": "Wingdrake Hide+",
-        "name_jp": ""
+        "name_jp": "翼竜の上皮"
     },
     {
         "name_en": "Barnos Hide+",
-        "name_jp": ""
+        "name_jp": "バルノスの上皮"
     },
     {
         "name_en": "Barnos Talon",
-        "name_jp": ""
+        "name_jp": "バルノスの尖爪"
     },
     {
         "name_en": "Kestodon Shell",
-        "name_jp": ""
+        "name_jp": "ケストドンの甲殻"
     },
     {
         "name_en": "Kestodon Scalp",
-        "name_jp": ""
+        "name_jp": "ケストドンの頭殻"
     },
     {
         "name_en": "Kestodon Carapace",
-        "name_jp": ""
+        "name_jp": "ケストドンの堅殻"
     },
     {
         "name_en": "Gastodon Carapace",
-        "name_jp": ""
+        "name_jp": "ガストドンの堅殻"
     },
     {
         "name_en": "Gastodon Horn",
-        "name_jp": ""
+        "name_jp": "ガストドンの尖角"
     },
     {
         "name_en": "Jagras Scale",
-        "name_jp": ""
+        "name_jp": "ジャグラスの鱗"
     },
     {
         "name_en": "Jagras Hide",
-        "name_jp": ""
+        "name_jp": "ジャグラスの皮"
     },
     {
         "name_en": "Jagras Scale+",
@@ -809,35 +809,35 @@
     },
     {
         "name_en": "Jagras Hide+",
-        "name_jp": ""
+        "name_jp": "ジャグラスの上皮"
     },
     {
         "name_en": "Shamos Scale",
-        "name_jp": ""
+        "name_jp": "シャムオスの鱗"
     },
     {
         "name_en": "Shamos Hide",
-        "name_jp": ""
+        "name_jp": "シャムオスの皮"
     },
     {
         "name_en": "Shamos Scale+",
-        "name_jp": ""
+        "name_jp": "シャムオスの上鱗"
     },
     {
         "name_en": "Shamos Hide+",
-        "name_jp": ""
+        "name_jp": "シャムオスの上皮"
     },
     {
         "name_en": "Girros Scale",
-        "name_jp": ""
+        "name_jp": "ギルオスの鱗"
     },
     {
         "name_en": "Girros Hide",
-        "name_jp": ""
+        "name_jp": "ギルオスの皮"
     },
     {
         "name_en": "Girros Fang",
-        "name_jp": ""
+        "name_jp": "ギルオスの麻痺牙"
     },
     {
         "name_en": "Girros Scale+",
@@ -849,55 +849,55 @@
     },
     {
         "name_en": "Great Jagras Scale",
-        "name_jp": ""
+        "name_jp": "賊竜の鱗"
     },
     {
         "name_en": "Great Jagras Hide",
-        "name_jp": ""
+        "name_jp": "賊竜の皮"
     },
     {
         "name_en": "Great Jagras Mane",
-        "name_jp": ""
+        "name_jp": "賊竜のたてがみ"
     },
     {
         "name_en": "Great Jagras Claw",
-        "name_jp": ""
+        "name_jp": "賊竜の爪"
     },
     {
         "name_en": "Great Jagras Scale+",
-        "name_jp": ""
+        "name_jp": "賊竜の上鱗"
     },
     {
         "name_en": "Great Jagras Hide+",
-        "name_jp": ""
+        "name_jp": "賊竜の上皮"
     },
     {
         "name_en": "Great Jagras Claw+",
-        "name_jp": ""
+        "name_jp": "賊竜の尖爪"
     },
     {
         "name_en": "Kulu-Ya-Ku Scale",
-        "name_jp": ""
+        "name_jp": "掻鳥の鱗"
     },
     {
         "name_en": "Kulu-Ya-Ku Hide",
-        "name_jp": ""
+        "name_jp": "掻鳥の皮"
     },
     {
         "name_en": "Kulu-Ya-Ku Plume",
-        "name_jp": ""
+        "name_jp": "掻鳥の飾り羽"
     },
     {
         "name_en": "Kulu-Ya-Ku Beak",
-        "name_jp": ""
+        "name_jp": "掻鳥のクチバシ"
     },
     {
         "name_en": "Kulu-Ya-Ku Scale+",
-        "name_jp": ""
+        "name_jp": "掻鳥の上鱗"
     },
     {
         "name_en": "Kulu-Ya-Ku Hide+",
-        "name_jp": ""
+        "name_jp": "掻鳥の上皮"
     },
     {
         "name_en": "Kulu-Ya-Ku Plume+",
@@ -905,15 +905,15 @@
     },
     {
         "name_en": "Kulu-Ya-Ku Beak+",
-        "name_jp": ""
+        "name_jp": "掻鳥の大クチバシ"
     },
     {
         "name_en": "Pukei-Pukei Scale",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の鱗"
     },
     {
         "name_en": "Pukei-Pukei Shell",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の甲殻"
     },
     {
         "name_en": "Pukei-Pukei Quill",
@@ -921,11 +921,11 @@
     },
     {
         "name_en": "Pukei-Pukei Sac",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の喉袋"
     },
     {
         "name_en": "Pukei-Pukei Tail",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の尻尾"
     },
     {
         "name_en": "Pukei-Pukei Scale+",
@@ -933,23 +933,23 @@
     },
     {
         "name_en": "Pukei-Pukei Carapace",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の堅殻"
     },
     {
         "name_en": "Pukei-Pukei Wing",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の翼"
     },
     {
         "name_en": "Pukei-Pukei Sac+",
-        "name_jp": ""
+        "name_jp": "毒妖鳥の大喉袋"
     },
     {
         "name_en": "Barroth Shell",
-        "name_jp": ""
+        "name_jp": "土砂竜の甲殻"
     },
     {
         "name_en": "Barroth Ridge",
-        "name_jp": ""
+        "name_jp": "土砂竜の背甲"
     },
     {
         "name_en": "Barroth Claw",
@@ -957,23 +957,23 @@
     },
     {
         "name_en": "Barroth Scalp",
-        "name_jp": ""
+        "name_jp": "土砂竜の頭殻"
     },
     {
         "name_en": "Barroth Tail",
-        "name_jp": ""
+        "name_jp": "土砂竜の尻尾"
     },
     {
         "name_en": "Fertile Mud",
-        "name_jp": ""
+        "name_jp": "肥沃なドロ"
     },
     {
         "name_en": "Barroth Carapace",
-        "name_jp": ""
+        "name_jp": "土砂竜の堅殻"
     },
     {
         "name_en": "Barroth Ridge+",
-        "name_jp": ""
+        "name_jp": "土砂竜の堅甲"
     },
     {
         "name_en": "Barroth Claw+",
@@ -981,63 +981,63 @@
     },
     {
         "name_en": "Jyuratodus Scale",
-        "name_jp": ""
+        "name_jp": "泥魚竜の鱗"
     },
     {
         "name_en": "Jyuratodus Shell",
-        "name_jp": ""
+        "name_jp": "泥魚竜の甲殻"
     },
     {
         "name_en": "Jyuratodus Fang",
-        "name_jp": ""
+        "name_jp": "泥魚竜の牙"
     },
     {
         "name_en": "Jyuratodus Fin",
-        "name_jp": ""
+        "name_jp": "泥魚竜のヒレ"
     },
     {
         "name_en": "Jyuratodus Scale+",
-        "name_jp": ""
+        "name_jp": "泥魚竜の上鱗"
     },
     {
         "name_en": "Jyuratodus Carapace",
-        "name_jp": ""
+        "name_jp": "泥魚竜の堅殻"
     },
     {
         "name_en": "Jyuratodus Fang+",
-        "name_jp": ""
+        "name_jp": "泥魚竜の鋭牙"
     },
     {
         "name_en": "Jyuratodus Fin+",
-        "name_jp": ""
+        "name_jp": "泥魚竜の上ヒレ"
     },
     {
         "name_en": "Tobi-Kadachi Scale",
-        "name_jp": ""
+        "name_jp": "飛雷竜の鱗"
     },
     {
         "name_en": "Tobi-Kadachi Pelt",
-        "name_jp": ""
+        "name_jp": "飛雷竜の毛皮"
     },
     {
         "name_en": "Tobi-Kadachi Membrane",
-        "name_jp": ""
+        "name_jp": "飛雷竜の皮膜"
     },
     {
         "name_en": "Tobi-Kadachi Claw",
-        "name_jp": ""
+        "name_jp": "飛雷竜の爪"
     },
     {
         "name_en": "Tobi-Kadachi Electrode",
-        "name_jp": ""
+        "name_jp": "飛雷竜の電極針"
     },
     {
         "name_en": "Tobi-Kadachi Scale+",
-        "name_jp": ""
+        "name_jp": "飛雷竜の上鱗"
     },
     {
         "name_en": "Tobi-Kadachi Pelt+",
-        "name_jp": ""
+        "name_jp": "飛雷竜の上毛皮"
     },
     {
         "name_en": "Tobi-Kadachi Claw+",
@@ -1045,27 +1045,27 @@
     },
     {
         "name_en": "Tobi-Kadachi Electrode+",
-        "name_jp": ""
+        "name_jp": "飛雷竜の電極針"
     },
     {
         "name_en": "Anjanath Scale",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の鱗"
     },
     {
         "name_en": "Anjanath Pelt",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の毛皮"
     },
     {
         "name_en": "Anjanath Fang",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の牙"
     },
     {
         "name_en": "Anjanath Nosebone",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の鼻骨"
     },
     {
         "name_en": "Anjanath Tail",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の尻尾"
     },
     {
         "name_en": "Anjanath Plate",
@@ -1073,43 +1073,43 @@
     },
     {
         "name_en": "Anjanath Scale+",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の上鱗"
     },
     {
         "name_en": "Anjanath Pelt+",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の上毛皮"
     },
     {
         "name_en": "Anjanath Fang+",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の鋭牙"
     },
     {
         "name_en": "Anjanath Nosebone+",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の大鼻骨"
     },
     {
         "name_en": "Anjanath Gem",
-        "name_jp": ""
+        "name_jp": "蛮顎竜の宝玉"
     },
     {
         "name_en": "Rathian Scale",
-        "name_jp": ""
+        "name_jp": "雌火竜の鱗"
     },
     {
         "name_en": "Rathian Shell",
-        "name_jp": ""
+        "name_jp": "雌火竜の甲殻"
     },
     {
         "name_en": "Rathian Webbing",
-        "name_jp": ""
+        "name_jp": "雌火竜の翼膜"
     },
     {
         "name_en": "Rathian Spike",
-        "name_jp": ""
+        "name_jp": "雌火竜の棘"
     },
     {
         "name_en": "Rathian Plate",
-        "name_jp": ""
+        "name_jp": "雌火竜の逆鱗"
     },
     {
         "name_en": "Rathian Scale+",
@@ -1117,99 +1117,99 @@
     },
     {
         "name_en": "Rathian Carapace",
-        "name_jp": ""
+        "name_jp": "雌火竜の堅殻"
     },
     {
         "name_en": "Rathian Spike+",
-        "name_jp": ""
+        "name_jp": "雌火竜の上棘"
     },
     {
         "name_en": "Rathian Ruby",
-        "name_jp": ""
+        "name_jp": "雌火竜の紅玉"
     },
     {
         "name_en": "Pink Rathian Scale+",
-        "name_jp": ""
+        "name_jp": "桜火竜の上鱗"
     },
     {
         "name_en": "Pink Rathian Carapace",
-        "name_jp": ""
+        "name_jp": "桜火竜の堅殻"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Scale",
-        "name_jp": ""
+        "name_jp": "眩鳥の鱗"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Hide",
-        "name_jp": ""
+        "name_jp": "眩鳥の皮"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Claw",
-        "name_jp": ""
+        "name_jp": "眩鳥の爪"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Photophore",
-        "name_jp": ""
+        "name_jp": "眩鳥の発光膜"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Scale+",
-        "name_jp": ""
+        "name_jp": "眩鳥の上鱗"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Hide+",
-        "name_jp": ""
+        "name_jp": "眩鳥の上皮"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Claw+",
-        "name_jp": ""
+        "name_jp": "眩鳥の尖爪"
     },
     {
         "name_en": "Tzitzi-Ya-Ku Photophore+",
-        "name_jp": ""
+        "name_jp": "眩鳥の閃光膜"
     },
     {
         "name_en": "Paolumu Pelt",
-        "name_jp": ""
+        "name_jp": "浮空竜の毛皮"
     },
     {
         "name_en": "Paolumu Scale",
-        "name_jp": ""
+        "name_jp": "浮空竜の鱗"
     },
     {
         "name_en": "Paolumu Shell",
-        "name_jp": ""
+        "name_jp": "ゴム質の甲殻"
     },
     {
         "name_en": "Paolumu Webbing",
-        "name_jp": ""
+        "name_jp": "浮空竜の翼膜"
     },
     {
         "name_en": "Paolumu Pelt+",
-        "name_jp": ""
+        "name_jp": "浮空竜の上毛皮"
     },
     {
         "name_en": "Paolumu Scale+",
-        "name_jp": ""
+        "name_jp": "浮空竜の上鱗"
     },
     {
         "name_en": "Paolumu Carapace+",
-        "name_jp": ""
+        "name_jp": "ゴム質の堅殻"
     },
     {
         "name_en": "Paolumu Wing",
-        "name_jp": ""
+        "name_jp": "浮空竜の翼"
     },
     {
         "name_en": "Great Girros Scale",
-        "name_jp": ""
+        "name_jp": "痺賊竜の鱗"
     },
     {
         "name_en": "Great Girros Hide",
-        "name_jp": ""
+        "name_jp": "痺賊竜の皮"
     },
     {
         "name_en": "Great Girros Hood",
-        "name_jp": ""
+        "name_jp": "痺賊竜の頭巾殻"
     },
     {
         "name_en": "Great Girros Fang",
@@ -1217,87 +1217,87 @@
     },
     {
         "name_en": "Great Girros Tail",
-        "name_jp": ""
+        "name_jp": "痺賊竜の尻尾"
     },
     {
         "name_en": "Great Girros Scale+",
-        "name_jp": ""
+        "name_jp": "痺賊竜の上鱗"
     },
     {
         "name_en": "Great Girros Hide+",
-        "name_jp": ""
+        "name_jp": "痺賊竜の上皮"
     },
     {
         "name_en": "Great Girros Hood+",
-        "name_jp": ""
+        "name_jp": "痺賊竜の大頭巾"
     },
     {
         "name_en": "Great Girros Fang+",
-        "name_jp": ""
+        "name_jp": "痺賊竜の鋭牙"
     },
     {
         "name_en": "Radobaan Scale",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の鱗"
     },
     {
         "name_en": "Radobaan Shell",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の甲殻"
     },
     {
         "name_en": "Radobaan Oilshell",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の黒油殻"
     },
     {
         "name_en": "Wyvern Bonemass",
-        "name_jp": ""
+        "name_jp": "竜骨塊"
     },
     {
         "name_en": "Radobaan Marrow",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の骨髄"
     },
     {
         "name_en": "Radobaan Scale+",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の上鱗"
     },
     {
         "name_en": "Radobaan Carapace",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の堅殻"
     },
     {
         "name_en": "Radobaan Medulla",
-        "name_jp": ""
+        "name_jp": "骨鎚竜の延髄"
     },
     {
         "name_en": "Legiana Scale",
-        "name_jp": ""
+        "name_jp": "風漂竜の鱗"
     },
     {
         "name_en": "Legiana Hide",
-        "name_jp": ""
+        "name_jp": "風漂竜の皮"
     },
     {
         "name_en": "Legiana Claw",
-        "name_jp": ""
+        "name_jp": "風漂竜の爪"
     },
     {
         "name_en": "Legiana Webbing",
-        "name_jp": ""
+        "name_jp": "風漂竜の皮"
     },
     {
         "name_en": "Legiana Tail Webbing",
-        "name_jp": ""
+        "name_jp": "風漂竜の尾膜"
     },
     {
         "name_en": "Legiana Plate",
-        "name_jp": ""
+        "name_jp": "風漂竜の逆鱗"
     },
     {
         "name_en": "Legiana Scale+",
-        "name_jp": ""
+        "name_jp": "風漂竜の上鱗"
     },
     {
         "name_en": "Legiana Hide+",
-        "name_jp": ""
+        "name_jp": "風漂竜の上皮"
     },
     {
         "name_en": "Legiana Claw+",
@@ -1305,119 +1305,119 @@
     },
     {
         "name_en": "Legiana Wing",
-        "name_jp": ""
+        "name_jp": "風漂竜の翼"
     },
     {
         "name_en": "Legiana Gem",
-        "name_jp": ""
+        "name_jp": "風漂竜の宝玉"
     },
     {
         "name_en": "Odogaron Scale",
-        "name_jp": ""
+        "name_jp": "惨爪竜の鱗"
     },
     {
         "name_en": "Odogaron Sinew",
-        "name_jp": ""
+        "name_jp": "惨爪竜の硬筋"
     },
     {
         "name_en": "Odogaron Claw",
-        "name_jp": ""
+        "name_jp": "惨爪竜の爪"
     },
     {
         "name_en": "Odogaron Fang",
-        "name_jp": ""
+        "name_jp": "惨爪竜の牙"
     },
     {
         "name_en": "Odogaron Tail",
-        "name_jp": ""
+        "name_jp": "惨爪竜の尻尾"
     },
     {
         "name_en": "Odogaron Plate",
-        "name_jp": ""
+        "name_jp": "惨爪竜の逆鱗"
     },
     {
         "name_en": "Odogaron Scale+",
-        "name_jp": ""
+        "name_jp": "惨爪竜の上鱗"
     },
     {
         "name_en": "Odogaron Sinew+",
-        "name_jp": ""
+        "name_jp": "惨爪竜の大硬筋"
     },
     {
         "name_en": "Odogaron Claw+",
-        "name_jp": ""
+        "name_jp": "惨爪竜の尖爪"
     },
     {
         "name_en": "Odogaron Fang+",
-        "name_jp": ""
+        "name_jp": "惨爪竜の鋭牙"
     },
     {
         "name_en": "Odogaron Gem",
-        "name_jp": ""
+        "name_jp": "惨爪竜の宝玉"
     },
     {
         "name_en": "Rathalos Scale",
-        "name_jp": ""
+        "name_jp": "火竜の鱗"
     },
     {
         "name_en": "Rathalos Shell",
-        "name_jp": ""
+        "name_jp": "火竜の甲殻"
     },
     {
         "name_en": "Rathalos Webbing",
-        "name_jp": ""
+        "name_jp": "火竜の翼膜"
     },
     {
         "name_en": "Rathalos Tail",
-        "name_jp": ""
+        "name_jp": "火竜の尻尾"
     },
     {
         "name_en": "Rath Wingtalon",
-        "name_jp": ""
+        "name_jp": "火竜の翼爪"
     },
     {
         "name_en": "Rathalos Marrow",
-        "name_jp": ""
+        "name_jp": "火竜の骨髄"
     },
     {
         "name_en": "Rathalos Plate",
-        "name_jp": ""
+        "name_jp": "火竜の逆鱗"
     },
     {
         "name_en": "Rathalos Scale+",
-        "name_jp": ""
+        "name_jp": "火竜の上鱗"
     },
     {
         "name_en": "Rathalos Carapace",
-        "name_jp": ""
+        "name_jp": "火竜の堅殻"
     },
     {
         "name_en": "Rathalos Wing",
-        "name_jp": ""
+        "name_jp": "火竜の翼"
     },
     {
         "name_en": "Rathalos Medulla",
-        "name_jp": ""
+        "name_jp": "火竜の延髄"
     },
     {
         "name_en": "Rathalos Ruby",
-        "name_jp": ""
+        "name_jp": "火竜の紅玉"
     },
     {
         "name_en": "Azure Rathalos Scale+",
-        "name_jp": ""
+        "name_jp": "蒼火竜の上鱗"
     },
     {
         "name_en": "Azure Rathalos Carapace",
-        "name_jp": ""
+        "name_jp": "蒼火竜の堅殻"
     },
     {
         "name_en": "Azure Rathalos Tail",
-        "name_jp": ""
+        "name_jp": "蒼火竜の尻尾"
     },
     {
         "name_en": "Azure Rathalos Wing",
-        "name_jp": ""
+        "name_jp": "蒼火竜の翼"
     },
     {
         "name_en": "Diablos Shell",
@@ -1425,19 +1425,19 @@
     },
     {
         "name_en": "Diablos Ridge",
-        "name_jp": ""
+        "name_jp": "角竜の背甲"
     },
     {
         "name_en": "Diablos Tailcase",
-        "name_jp": ""
+        "name_jp": "角竜の尾甲"
     },
     {
         "name_en": "Diablos Fang",
-        "name_jp": ""
+        "name_jp": "角竜の牙"
     },
     {
         "name_en": "Twisted Horn",
-        "name_jp": ""
+        "name_jp": "ねじれた角"
     },
     {
         "name_en": "Diablos Marrow",
@@ -1445,71 +1445,71 @@
     },
     {
         "name_en": "Diablos Carapace",
-        "name_jp": ""
+        "name_jp": "角竜の堅殻"
     },
     {
         "name_en": "Diablos Ridge+",
-        "name_jp": ""
+        "name_jp": "角竜の堅甲"
     },
     {
         "name_en": "Majestic Horn",
-        "name_jp": ""
+        "name_jp": "上質なねじれた角"
     },
     {
         "name_en": "Blos Medulla",
-        "name_jp": ""
+        "name_jp": "角竜の延髄"
     },
     {
         "name_en": "Black Diablos Carapace",
-        "name_jp": ""
+        "name_jp": "黒角竜の堅殻"
     },
     {
         "name_en": "Black Diablos Ridge+",
-        "name_jp": ""
+        "name_jp": "黒角竜の堅甲"
     },
     {
         "name_en": "Black Spiral Horn+",
-        "name_jp": ""
+        "name_jp": "上質な黒巻き角"
     },
     {
         "name_en": "Kirin Hide",
-        "name_jp": ""
+        "name_jp": "幻獣の皮"
     },
     {
         "name_en": "Kirin Tail",
-        "name_jp": ""
+        "name_jp": "幻獣の尾"
     },
     {
         "name_en": "Kirin Mane",
-        "name_jp": ""
+        "name_jp": "幻獣のたてがみ"
     },
     {
         "name_en": "Kirin Thunderhorn",
-        "name_jp": ""
+        "name_jp": "幻獣の雷角"
     },
     {
         "name_en": "Kirin Hide+",
-        "name_jp": ""
+        "name_jp": "幻獣の上皮"
     },
     {
         "name_en": "Kirin Thundertail",
-        "name_jp": ""
+        "name_jp": "幻獣の雷尾"
     },
     {
         "name_en": "Kirin Azure Horn",
-        "name_jp": ""
+        "name_jp": "幻獣の蒼角"
     },
     {
         "name_en": "Zorah Magdaros Heat Scale",
-        "name_jp": ""
+        "name_jp": "熔山龍の熱鱗"
     },
     {
         "name_en": "Zorah Magdaros Carapace",
-        "name_jp": ""
+        "name_jp": "熔山龍の岩殻"
     },
     {
         "name_en": "Zorah Magdaros Ridge",
-        "name_jp": ""
+        "name_jp": "熔山龍の背甲"
     },
     {
         "name_en": "Zorah Magdaros Pleura",
@@ -1517,71 +1517,71 @@
     },
     {
         "name_en": "Zorah Magdaros Magma",
-        "name_jp": ""
+        "name_jp": "熔山龍のマグマ"
     },
     {
         "name_en": "Zorah Magdaros Gem",
-        "name_jp": ""
+        "name_jp": "熔山龍の宝玉"
     },
     {
         "name_en": "Dodogama Scale+",
-        "name_jp": ""
+        "name_jp": "岩賊竜の上鱗"
     },
     {
         "name_en": "Dodogama Hide+",
-        "name_jp": ""
+        "name_jp": "岩賊竜の上皮"
     },
     {
         "name_en": "Dodogama Jaw",
-        "name_jp": ""
+        "name_jp": "岩賊竜の顎"
     },
     {
         "name_en": "Dodogama Talon",
-        "name_jp": ""
+        "name_jp": "岩賊竜の尖爪"
     },
     {
         "name_en": "Dodogama Tail",
-        "name_jp": ""
+        "name_jp": "岩賊竜の尻尾"
     },
     {
         "name_en": "Lavasioth Scale+",
-        "name_jp": ""
+        "name_jp": "溶岩竜の上鱗"
     },
     {
         "name_en": "Lavasioth Carapace",
-        "name_jp": ""
+        "name_jp": "溶岩竜の堅殻"
     },
     {
         "name_en": "Lavasioth Fang+",
-        "name_jp": ""
+        "name_jp": "溶岩竜の鋭牙"
     },
     {
         "name_en": "Lavasioth Fin+",
-        "name_jp": ""
+        "name_jp": "溶岩竜の上ヒレ"
     },
     {
         "name_en": "Uragaan Scale+",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の上鱗"
     },
     {
         "name_en": "Uragaan Carapace",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の堅殻"
     },
     {
         "name_en": "Uragaan Jaw",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の顎"
     },
     {
         "name_en": "Uragaan Scute",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の耐熱殻"
     },
     {
         "name_en": "Uragaan Marrow",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の延髄"
     },
     {
         "name_en": "Uragaan Ruby",
-        "name_jp": ""
+        "name_jp": "爆鎚竜の紅玉"
     },
     {
         "name_en": "Lava Nugget",
@@ -1593,7 +1593,7 @@
     },
     {
         "name_en": "Bazelgeuse Carapace",
-        "name_jp": ""
+        "name_jp": "爆鱗竜の堅殻"
     },
     {
         "name_en": "Bazelgeuse Tail",
@@ -1601,11 +1601,11 @@
     },
     {
         "name_en": "Bazelgeuse Fuse",
-        "name_jp": ""
+        "name_jp": "爆鱗竜の爆腺"
     },
     {
         "name_en": "Bazelgeuse Talon",
-        "name_jp": ""
+        "name_jp": "爆鱗竜の尖爪"
     },
     {
         "name_en": "Bazelgeuse Wing",
@@ -1613,55 +1613,55 @@
     },
     {
         "name_en": "Bazelgeuse Gem",
-        "name_jp": ""
+        "name_jp": "爆鱗竜の宝玉"
     },
     {
         "name_en": "Immortal Dragonscale",
-        "name_jp": ""
+        "name_jp": "不滅の龍鱗"
     },
     {
         "name_en": "Nergigante Carapace",
-        "name_jp": ""
+        "name_jp": "滅尽龍の堅殻"
     },
     {
         "name_en": "Nergigante Tail",
-        "name_jp": ""
+        "name_jp": "滅尽龍の尻尾"
     },
     {
         "name_en": "Nergigante Horn+",
-        "name_jp": ""
+        "name_jp": "滅尽龍の大角"
     },
     {
         "name_en": "Nergigante Talon",
-        "name_jp": ""
+        "name_jp": "滅尽龍の尖爪"
     },
     {
         "name_en": "Nergigante Regrowth Plate",
-        "name_jp": ""
+        "name_jp": "滅尽龍の再生殻"
     },
     {
         "name_en": "Nergigante Gem",
-        "name_jp": ""
+        "name_jp": "滅尽龍の宝玉"
     },
     {
         "name_en": "Deceased Scale",
-        "name_jp": ""
+        "name_jp": "死屍の龍鱗"
     },
     {
         "name_en": "Vaal Hazak Carapace",
-        "name_jp": ""
+        "name_jp": "屍套龍の堅殻"
     },
     {
         "name_en": "Vaal Hazak Membrane",
-        "name_jp": ""
+        "name_jp": "屍套龍の被膜"
     },
     {
         "name_en": "Vaal Hazak Tail",
-        "name_jp": ""
+        "name_jp": "屍套龍の尻尾"
     },
     {
         "name_en": "Vaal Hazak Fang+",
-        "name_jp": ""
+        "name_jp": "屍套龍の鋭牙"
     },
     {
         "name_en": "Vaal Hazak Talon",
@@ -1669,19 +1669,19 @@
     },
     {
         "name_en": "Vaal Hazak Wing",
-        "name_jp": ""
+        "name_jp": "屍套龍の翼"
     },
     {
         "name_en": "Vaal Hazak Gem",
-        "name_jp": ""
+        "name_jp": "屍套龍の宝玉"
     },
     {
         "name_en": "Teostra Carapace",
-        "name_jp": ""
+        "name_jp": "炎王龍の堅殻"
     },
     {
         "name_en": "Teostra Mane",
-        "name_jp": ""
+        "name_jp": "炎王龍のたてがみ"
     },
     {
         "name_en": "Teostra Tail",
@@ -1689,11 +1689,11 @@
     },
     {
         "name_en": "Teostra Horn+",
-        "name_jp": ""
+        "name_jp": "炎王龍の尖角"
     },
     {
         "name_en": "Fire Dragon Scale+",
-        "name_jp": ""
+        "name_jp": "獄炎の龍鱗"
     },
     {
         "name_en": "Teostra Claw+",
@@ -1709,23 +1709,23 @@
     },
     {
         "name_en": "Teostra Gem",
-        "name_jp": ""
+        "name_jp": "炎龍の宝玉"
     },
     {
         "name_en": "Daora Carapace",
-        "name_jp": ""
+        "name_jp": "鋼龍の堅殻"
     },
     {
         "name_en": "Daora Dragon Scale+",
-        "name_jp": ""
+        "name_jp": "鋼の上龍鱗"
     },
     {
         "name_en": "Daora Webbing",
-        "name_jp": ""
+        "name_jp": "鋼龍の翼"
     },
     {
         "name_en": "Daora Horn+",
-        "name_jp": ""
+        "name_jp": "鋼龍の尖角"
     },
     {
         "name_en": "Daora Tail",
@@ -1733,23 +1733,23 @@
     },
     {
         "name_en": "Daora Claw+",
-        "name_jp": ""
+        "name_jp": "鋼龍の尖爪"
     },
     {
         "name_en": "Daora Gem",
-        "name_jp": ""
+        "name_jp": "鋼龍の宝玉"
     },
     {
         "name_en": "Xeno'jiiva Soulscale",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽鱗"
     },
     {
         "name_en": "Xeno'jiiva Shell",
-        "name_jp": ""
+        "name_jp": "冥灯龍の白殻"
     },
     {
         "name_en": "Xeno'jiiva Veil",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽幕"
     },
     {
         "name_en": "Xeno'jiiva Tail",
@@ -1757,19 +1757,19 @@
     },
     {
         "name_en": "Xeno'jiiva Horn",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽角"
     },
     {
         "name_en": "Xeno'jiiva Claw",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽爪"
     },
     {
         "name_en": "Xeno'jiiva Wing",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽翼"
     },
     {
         "name_en": "Xeno'jiiva Gem",
-        "name_jp": ""
+        "name_jp": "冥灯龍の幽玉"
     },
     {
         "name_en": "Tailraider Voucher",
@@ -1925,63 +1925,63 @@
     },
     {
         "name_en": "Commendation",
-        "name_jp": ""
+        "name_jp": "勇気の証"
     },
     {
         "name_en": "High Commendation",
-        "name_jp": ""
+        "name_jp": "勇気の証G"
     },
     {
         "name_en": "Research Commission Ticket",
-        "name_jp": ""
+        "name_jp": "調査団チケット"
     },
     {
         "name_en": "Pukei Coin",
-        "name_jp": ""
+        "name_jp": "プケプケコイン"
     },
     {
         "name_en": "Kulu Coin",
-        "name_jp": ""
+        "name_jp": "クルルコイン"
     },
     {
         "name_en": "Rathian Coin",
-        "name_jp": ""
+        "name_jp": "レイアコイン"
     },
     {
         "name_en": "Tzitzi Coin",
-        "name_jp": ""
+        "name_jp": "ツィツィコイン"
     },
     {
         "name_en": "Barroth Coin",
-        "name_jp": ""
+        "name_jp": "ボロスコイン"
     },
     {
         "name_en": "Gama Coin",
-        "name_jp": ""
+        "name_jp": "ガマルコイン"
     },
     {
         "name_en": "Rathalos Coin",
-        "name_jp": ""
+        "name_jp": "レウスコイン"
     },
     {
         "name_en": "Brute Coin",
-        "name_jp": ""
+        "name_jp": "獣竜コイン"
     },
     {
         "name_en": "Flying Coin",
-        "name_jp": ""
+        "name_jp": "飛竜コイン"
     },
     {
         "name_en": "Pinnacle Coin",
-        "name_jp": ""
+        "name_jp": "闘技王のコイン"
     },
     {
         "name_en": "Hunter King Coin",
-        "name_jp": ""
+        "name_jp": "狩猟王のコイン"
     },
     {
         "name_en": "Ace Hunter Coin",
-        "name_jp": ""
+        "name_jp": "撃龍王のコイン"
     },
     {
         "name_en": "Steel Egg",
