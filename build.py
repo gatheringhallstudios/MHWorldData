@@ -28,17 +28,18 @@ def build_monsters(session : sqlalchemy.orm.Session):
             monster_text.name = row[language]
             monster_text.description = description[row.id][language][f'description_{language}']
             session.add(monster_text)
+            
     print("Built Monsters")
 
 
 def build_skills(session : sqlalchemy.orm.Session):
-    skilldata = load_language_data_dir(skill_map, 'skills/skills')
+    skill_descriptions = load_language_data_dir(skill_map, 'skills/skills')
     for row in skill_map:
         skilltree = db.SkillTree(id=row.id)
         session.add(skilltree)
 
         for language in supported_languages:
-            skilldata_row = skilldata[row.id][language] 
+            skilldata_row = skill_descriptions[row.id][language] 
 
             name = row[language]
             description = skilldata_row[f'description_{language}']
