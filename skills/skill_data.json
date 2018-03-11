@@ -1,442 +1,442 @@
 [
     {
         "name_en": "Affinity Sliding",
-        "name_jp": "滑走強化"
+        "levels": 1
     },
     {
         "name_en": "Agitator",
-        "name_jp": "挑戦者"
+        "levels": 5
     },
     {
         "name_en": "Airborne",
-        "name_jp": "飛燕"
+        "levels": 1
     },
     {
         "name_en": "Artillery",
-        "name_jp": "砲術"
+        "levels": 3
     },
     {
         "name_en": "Attack Boost",
-        "name_jp": "攻撃"
+        "levels": 7
     },
     {
         "name_en": "Aquatic Expert",
-        "name_jp": "水場適応"
+        "levels": 3
     },
     {
         "name_en": "BBQ Master",
-        "name_jp": "肉焼き名人"
+        "levels": 1
     },
     {
         "name_en": "Blast Attack",
-        "name_jp": "爆破属性強化"
+        "levels": 3
     },
     {
         "name_en": "Blast Resistance",
-        "name_jp": "爆破やられ耐性"
+        "levels": 3
     },
     {
         "name_en": "Bleeding Resistance",
-        "name_jp": "裂傷耐性"
+        "levels": 3
     },
     {
         "name_en": "Blight Resistance",
-        "name_jp": "属性やられ耐性"
+        "levels": 3
     },
     {
         "name_en": "Blindsider",
-        "name_jp": "閃光強化"
+        "levels": 1
     },
     {
         "name_en": "Bombardier",
-        "name_jp": "ボマー"
+        "levels": 3
     },
     {
         "name_en": "Botanist",
-        "name_jp": "植生学"
+        "levels": 4
     },
     {
         "name_en": "Capacity Boost",
-        "name_jp": "砲弾装填数UP"
+        "levels": 1
     },
     {
         "name_en": "Carving Pro",
-        "name_jp": "剥ぎ取り鉄人"
+        "levels": 1
     },
     {
         "name_en": "Cliffhanger",
-        "name_jp": "クライマー"
+        "levels": 1
     },
     {
         "name_en": "Constitution",
-        "name_jp": "体術"
+        "levels": 5
     },
     {
         "name_en": "Critical Boost",
-        "name_jp": "超会心"
+        "levels": 3
     },
     {
         "name_en": "Critical Draw",
-        "name_jp": "抜刀術【技】"
+        "levels": 3
     },
     {
         "name_en": "Critical Eye",
-        "name_jp": "見切り"
+        "levels": 7
     },
     {
         "name_en": "Defense Boost",
-        "name_jp": "防御"
+        "levels": 7
     },
     {
         "name_en": "Detector",
-        "name_jp": "感知"
+        "levels": 1
     },
     {
         "name_en": "Divine Blessing",
-        "name_jp": "精霊の加護"
+        "levels": 3
     },
     {
         "name_en": "Dragon Attack",
-        "name_jp": "龍属性攻撃強化"
+        "levels": 5
     },
     {
         "name_en": "Dragon Resistance",
-        "name_jp": "龍耐性"
+        "levels": 3
     },
     {
         "name_en": "Dungmaster",
-        "name_jp": "こやし名人"
+        "levels": 1
     },
     {
         "name_en": "Earplugs",
-        "name_jp": "耳栓"
+        "levels": 5
     },
     {
         "name_en": "Effluvia Resistance",
-        "name_jp": "瘴気耐性"
+        "levels": 3
     },
     {
         "name_en": "Effluvial Expert",
-        "name_jp": "瘴気環境適応"
+        "levels": 1
     },
     {
         "name_en": "Entomologist",
-        "name_jp": "昆虫標本の達人"
+        "levels": 3
     },
     {
         "name_en": "Evade Extender",
-        "name_jp": "回避距離UP"
+        "levels": 3
     },
     {
         "name_en": "Evade Window",
-        "name_jp": "回避性能"
+        "levels": 5
     },
     {
         "name_en": "Fire Attack",
-        "name_jp": "火属性攻撃強化"
+        "levels": 5
     },
     {
         "name_en": "Fire Resistance",
-        "name_jp": "火耐性"
+        "levels": 3
     },
     {
         "name_en": "Flinch Free",
-        "name_jp": "ひるみ軽減"
+        "levels": 3
     },
     {
         "name_en": "Focus",
-        "name_jp": "集中"
+        "levels": 3
     },
     {
         "name_en": "Forager's Luck",
-        "name_jp": "探索者の幸運"
+        "levels": 1
     },
     {
         "name_en": "Fortify",
-        "name_jp": "不屈"
+        "levels": 1
     },
     {
         "name_en": "Free Elem/Ammo Up",
-        "name_jp": "属性解放/装填拡張"
+        "levels": 3
     },
     {
         "name_en": "Free Meal",
-        "name_jp": "満足感"
+        "levels": 1
     },
     {
         "name_en": "Geologist",
-        "name_jp": "地質学"
+        "levels": 3
     },
     {
         "name_en": "Guard",
-        "name_jp": "ガード性能"
+        "levels": 5
     },
     {
         "name_en": "Handicraft",
-        "name_jp": "匠"
+        "levels": 5
     },
     {
         "name_en": "Health Boost",
-        "name_jp": "体力増強"
+        "levels": 3
     },
     {
         "name_en": "Heat Guard",
-        "name_jp": "熱ダメージ無効"
+        "levels": 1
     },
     {
         "name_en": "Heavy Artillery",
-        "name_jp": "砲撃手"
+        "levels": 2
     },
     {
         "name_en": "Heroics",
-        "name_jp": "火事場力"
+        "levels": 5
     },
     {
         "name_en": "Honey Hunter",
-        "name_jp": "ハニーハンター"
+        "levels": 1
     },
     {
         "name_en": "Horn Maestro",
-        "name_jp": "笛吹き名人"
+        "levels": 1
     },
     {
         "name_en": "Hunger Resistance",
-        "name_jp": "腹減り耐性"
+        "levels": 3
     },
     {
         "name_en": "Ice Attack",
-        "name_jp": "氷属性攻撃強化"
+        "levels": 5
     },
     {
         "name_en": "Ice Resistance",
-        "name_jp": "氷耐性"
+        "levels": 3
     },
     {
         "name_en": "Intimidator",
-        "name_jp": "威嚇"
+        "levels": 3
     },
     {
         "name_en": "Iron Skin",
-        "name_jp": "防御力DOWN耐性"
+        "levels": 3
     },
     {
         "name_en": "Item Prolonger",
-        "name_jp": "アイテム使用強化"
+        "levels": 3
     },
     {
         "name_en": "Jump Master",
-        "name_jp": "ジャンプ鉄人"
+        "levels": 1
     },
     {
         "name_en": "Latent Power",
-        "name_jp": "力の解放"
+        "levels": 5
     },
     {
         "name_en": "Leap of Faith",
-        "name_jp": "飛び込み"
+        "levels": 1
     },
     {
         "name_en": "Marathon Runner",
-        "name_jp": "ランナー"
+        "levels": 3
     },
     {
         "name_en": "Master Fisher",
-        "name_jp": "釣り名人"
+        "levels": 1
     },
     {
         "name_en": "Master Gatherer",
-        "name_jp": "採集の達人"
+        "levels": 1
     },
     {
         "name_en": "Master Mounter",
-        "name_jp": "乗り名人"
+        "levels": 1
     },
     {
         "name_en": "Maximum Might",
-        "name_jp": "渾身"
+        "levels": 3
     },
     {
         "name_en": "Mushroomancer",
-        "name_jp": "キノコ大好き"
+        "levels": 3
     },
     {
         "name_en": "Muck Resistance",
-        "name_jp": "泥耐性"
+        "levels": 1
     },
     {
         "name_en": "Non-elemental Boost",
-        "name_jp": ""
+        "levels": 1
     },
     {
         "name_en": "Normal Shots",
-        "name_jp": "通常弾・通常矢強化"
+        "levels": 1
     },
     {
         "name_en": "Palico Rally",
-        "name_jp": "オトモへの采配"
+        "levels": 5
     },
     {
         "name_en": "Paralysis Attack",
-        "name_jp": "麻痺属性強化"
+        "levels": 3
     },
     {
         "name_en": "Paralysis Resistance",
-        "name_jp": "麻痺耐性"
+        "levels": 3
     },
     {
         "name_en": "Partbreaker",
-        "name_jp": "破壊王"
+        "levels": 3
     },
     {
         "name_en": "Peak Performance",
-        "name_jp": "フルチャージ"
+        "levels": 3
     },
     {
         "name_en": "Piercing Shots",
-        "name_jp": "貫通弾・竜の一矢強化"
+        "levels": 1
     },
     {
         "name_en": "Poison Attack",
-        "name_jp": "毒属性強化"
+        "levels": 3
     },
     {
         "name_en": "Poison Functionality",
-        "name_jp": ""
+        "levels": 1
     },
     {
         "name_en": "Poison Resistance",
-        "name_jp": "毒耐性"
+        "levels": 3
     },
     {
         "name_en": "Power Prolonger",
-        "name_jp": "強化持続"
+        "levels": 3
     },
     {
         "name_en": "Pro Transporter",
-        "name_jp": "運搬の達人"
+        "levels": 1
     },
     {
         "name_en": "Quick Sheath",
-        "name_jp": "納刀術"
+        "levels": 3
     },
     {
         "name_en": "Recovery Speed",
-        "name_jp": "回復速度"
+        "levels": 3
     },
     {
         "name_en": "Recovery Up",
-        "name_jp": "体力回復量UP"
+        "levels": 3
     },
     {
         "name_en": "Resentment",
-        "name_jp": "逆恨み"
+        "levels": 5
     },
     {
         "name_en": "Resuscitate",
-        "name_jp": "死中に活"
+        "levels": 1
     },
     {
         "name_en": "Scenthound",
-        "name_jp": "追跡の達人"
+        "levels": 1
     },
     {
         "name_en": "Scholar",
-        "name_jp": "研究者"
+        "levels": 1
     },
     {
         "name_en": "Scoutfly Range Up",
-        "name_jp": "導蟲反応距離UP"
+        "levels": 1
     },
     {
         "name_en": "Sleep Attack",
-        "name_jp": "睡眠属性強化"
+        "levels": 3
     },
     {
         "name_en": "Sleep Resistance",
-        "name_jp": "睡眠耐性"
+        "levels": 3
     },
     {
         "name_en": "Slinger Capacity",
-        "name_jp": "スリンガー装填数UP"
+        "levels": 3
     },
     {
         "name_en": "Slugger",
-        "name_jp": "KO術"
+        "levels": 3
     },
     {
         "name_en": "Special Ammo Boost",
-        "name_jp": "特殊射撃強化"
+        "levels": 2
     },
     {
         "name_en": "Speed Crawler",
-        "name_jp": "しゃがみ移動速度UP"
+        "levels": 1
     },
     {
         "name_en": "Speed Eating",
-        "name_jp": "早食い"
+        "levels": 3
     },
     {
         "name_en": "Speed Sharpening",
-        "name_jp": "砥石使用高速化"
+        "levels": 3
     },
     {
         "name_en": "Sporepuff Expert",
-        "name_jp": "綿胞子草の知識"
+        "levels": 3
     },
     {
         "name_en": "Spread/Power Shots",
-        "name_jp": "散弾・剛射強化"
+        "levels": 1
     },
     {
         "name_en": "Stamina Surge",
-        "name_jp": "スタミナ急速回復"
+        "levels": 3
     },
     {
         "name_en": "Stamina Thief",
-        "name_jp": "スタミナ奪取"
+        "levels": 3
     },
     {
         "name_en": "Stealth",
-        "name_jp": "潜伏"
+        "levels": 3
     },
     {
         "name_en": "Stun Resistance",
-        "name_jp": "気絶耐性"
+        "levels": 3
     },
     {
         "name_en": "Thunder Attack",
-        "name_jp": "雷属性攻撃強化"
+        "levels": 5
     },
     {
         "name_en": "Thunder Resistance",
-        "name_jp": "雷耐性"
+        "levels": 3
     },
     {
         "name_en": "Tool Specialist",
-        "name_jp": "整備"
+        "levels": 3
     },
     {
         "name_en": "Tremor Resistance",
-        "name_jp": "耐震"
+        "levels": 3
     },
     {
         "name_en": "Water Attack",
-        "name_jp": "水属性攻撃強化"
+        "levels": 5
     },
     {
         "name_en": "Water Resistance",
-        "name_jp": "水耐性"
+        "levels": 3
     },
     {
         "name_en": "Weakness Exploit",
-        "name_jp": "弱点特効"
+        "levels": 3
     },
     {
         "name_en": "Wide-Range",
-        "name_jp": "広域化"
+        "levels": 5
     },
     {
         "name_en": "Windproof",
-        "name_jp": "風圧耐性"
+        "levels": 5
     }
 ]
