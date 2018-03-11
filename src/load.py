@@ -31,22 +31,36 @@ def load_translate_map(data_file, validate=True):
     return map
 
 
-def load_data_map(parent_map : TranslateMap, data_file, lang="en"):
+def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True):
     """Loads a data file, using a translation map to anchor it to id
     The result is a dictionary of id -> data row
     """
     result = {}
+
+    missing_fields = 0
+    invalid_entries = set()
 
     name_field = f'name_{lang}'
     data = json.load(open(data_file, encoding="utf-8"))
     for row in data:
         name = row.get(name_field, None)
         if not name:
-            raise Exception(f"ERROR: Data file {data_file} does not contain a {name_field} field")
+            missing_fields += 1
+            continue
+            
         id = parent_map.id_of(lang, name)
         if not id:
-            raise Exception(f"ERROR: Entry {name} in {data_file} is an invalid name")
+            invalid_entries.add(name)
+            continue
+            
         result[id] = row
+
+    # todo: print more errors if more than one
+    if validate and missing_fields:
+        raise Exception(f"ERROR: {missing_fields} entries in data file {data_file} does not contain a {name_field} field")
+    if validate and invalid_entries:
+        raise Exception(f"ERROR: Entry {invalid_entries.pop()} in {data_file} is an invalid name")
+
     return result
 
 def load_language_data_dir(parent_map : TranslateMap, data_directory):
