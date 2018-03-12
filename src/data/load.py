@@ -2,6 +2,7 @@ import os
 import json
 import re
 from .translatemap import TranslateMap
+from .datamap import DataMap
 from .config import get_languages, get_data_path
 
 def load_translate_map(data_file, validate=True):
@@ -29,7 +30,7 @@ def load_translate_map(data_file, validate=True):
 
 def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True):
     """Loads a data file, using a translation map to anchor it to id
-    The result is a dictionary of id -> data row
+    The result is a DataMap object mapping id -> data row
     """
     data_file = get_data_path(data_file)
     result = {}
@@ -58,7 +59,7 @@ def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True
     if validate and invalid_entries:
         raise Exception(f"ERROR: Entry {invalid_entries.pop()} in {data_file} is an invalid name")
 
-    return result
+    return DataMap(parent_map, result)
 
 def load_language_data_dir(parent_map : TranslateMap, data_directory):
     """Loads a directory containing sub-json for each language.

@@ -15,4 +15,5 @@ def get_languages():
 def get_data_path(file_in_data_folder):
     "Returns a file path to something stored in the data folder. Used internally"
     this_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(this_dir, '../../data/', file_in_data_folder)
+    data_dir = os.path.join(this_dir, '../../data/', file_in_data_folder)
+    return os.path.normpath(data_dir)

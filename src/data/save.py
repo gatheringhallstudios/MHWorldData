@@ -13,3 +13,9 @@ def save_translate_map(location, translate_map):
 
     with open(location, 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
+
+def save_data_map(location, data_map):
+    "Write a DataMap to a location in the data directory in translatemap order"
+    location = get_data_path(location)
+    with open(location, 'w', encoding='utf-8') as f:
+        json.dump(list(result.values()), f, indent=4, ensure_ascii=False)

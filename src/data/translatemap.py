@@ -50,6 +50,12 @@ class TranslateMap:
         # key'd by (language, value), value is id
         self._reverse_entries = {}
 
+    def __getitem__(self, id):
+        return self._entries[id]
+
+    def __iter__(self) -> typing.Iterator[TranslateMapEntry]:
+        return self._entries.values().__iter__()
+
     def _entry_added(self, id, language_code, value):
         "Called by the translation map entry when an entry is added"
         self._reverse_entries[(language_code, value)] = id
@@ -79,14 +85,13 @@ class TranslateMap:
         """
         return filter(lambda a: a, map(lambda e: e.get(language_code), self))
 
+    def keys(self):
+        "Returns a generator that iterates over ids"
+        for item in self:
+            yield item.id
+
     def all_items(self) -> typing.Tuple[int, str, str]:
         "Returns an exhaustive set of (id, language, name) pairs"
         for entry in self:
             for language, name in entry.items():
                 yield (entry.id, language, name)
-
-    def __getitem__(self, id):
-        return self._entries[id]
-
-    def __iter__(self) -> typing.Iterator[TranslateMapEntry]:
-        return self._entries.values().__iter__()
