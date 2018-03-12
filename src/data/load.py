@@ -1,23 +1,19 @@
 import os
 import json
 import re
-from src.translatemap import TranslateMap
-
-supported_languages = ['en']
-
-def set_languages(languages):
-    global supported_languages
-    supported_languages = languages
+from .translatemap import TranslateMap
+from .config import get_languages, get_data_path
 
 def load_translate_map(data_file, validate=True):
     "Loads a translation map object using a _names.json file"
+    data_file = get_data_path(data_file)
     languages_with_errors = set()
 
     map = TranslateMap()
     data = json.load(open(data_file, encoding="utf-8"))
     id = 1
     for row in data:
-        for lang in supported_languages:
+        for lang in get_languages():
             value = row['name_' + lang]
             if not value:
                 languages_with_errors.add(lang)
@@ -35,6 +31,7 @@ def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True
     """Loads a data file, using a translation map to anchor it to id
     The result is a dictionary of id -> data row
     """
+    data_file = get_data_path(data_file)
     result = {}
 
     missing_fields = 0
@@ -68,6 +65,7 @@ def load_language_data_dir(parent_map : TranslateMap, data_directory):
     Each entry in the sub-json must have a name_language field for that language.
     The result is a dictionary mapping id->language->data
     """
+    data_directory = get_data_path(data_directory)
     result = {}
     for dir_entry in os.scandir(data_directory):
         if not dir_entry.is_file():
@@ -76,7 +74,7 @@ def load_language_data_dir(parent_map : TranslateMap, data_directory):
         if not match:
             continue
         language = match.group(1).lower()
-        if language not in supported_languages:
+        if language not in get_languages():
             continue
 
         # If we want a validation phase, then we'll need to split this function

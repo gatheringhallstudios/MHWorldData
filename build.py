@@ -1,7 +1,7 @@
 import sqlalchemy.orm
 import src.db as db
 
-from src.load import (
+from src.data import (
     set_languages, load_data_map, load_translate_map, load_language_data_dir
 )
 

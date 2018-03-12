@@ -1,20 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9d196177dc853d2628655729d2b6006e44f6f6cc0a58e18909ed95e9835ec207"
-        },
-        "host-environment-markers": {
-            "implementation_name": "cpython",
-            "implementation_version": "3.6.3",
-            "os_name": "nt",
-            "platform_machine": "AMD64",
-            "platform_python_implementation": "CPython",
-            "platform_release": "10",
-            "platform_system": "Windows",
-            "platform_version": "10.0.16299",
-            "python_full_version": "3.6.3",
-            "python_version": "3.6",
-            "sys_platform": "win32"
+            "sha256": "eaaf3df3ab05753d3f59b65a5ab15bd6de1c13e2e83400b82e9f91733702c5ec"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -27,11 +14,17 @@
         ]
     },
     "default": {
+        "rope": {
+            "hashes": [
+                "sha256:a09edfd2034fd50099a67822f9bd851fbd0f4e98d3b87519f6267b60e50d80d1"
+            ],
+            "version": "==0.10.7"
+        },
         "sqlalchemy": {
             "hashes": [
-                "sha256:6997507af46b10630e13b605ac278b78885fd683d038896dbee0e7ec41d809d2"
+                "sha256:249000654107a420a40200f1e0b555a79dfd4eff235b2ff60bc77714bd045f2d"
             ],
-            "version": "==1.2.4"
+            "version": "==1.2.5"
         }
     },
     "develop": {}
