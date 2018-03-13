@@ -1,0 +1,4598 @@
+[
+    {
+        "name_en": "Buster Sword 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buster Sword 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buster Sword 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buster Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buster Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buster Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Razor 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Razor 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Judicator",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Purgation's Atrocity",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Punisher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Punisher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Punisher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blaze 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blaze 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Hacker 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Hacker 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Hacker 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Kiss 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Kiss 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Kiss 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Blaze 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Blaze 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaze 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaze 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaze 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Red Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Wing",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Glinsword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Slasher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Slasher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Slasher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Giant Jawblade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Giant Jawblade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Kys",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Leviathan's Fury",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenzahn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenzahn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gnshing Flammenzahn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Slasher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Slasher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Slasher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Golum 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Golum 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Golum 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Buster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Buster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Buster 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shredder 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shredder 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shredder 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Slab 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Slab 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Radobaan Slab 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cleaver 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cleaver 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cleaver 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thundersword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Thundersword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "King Thundersword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Potestas 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Potestas 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Chopper 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Chopper 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Edge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Decimator",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Maliq",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Jawblade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Wyvern Jawblade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Katana 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Katana 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Katana 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Grace 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Grace 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Grace 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Gospel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Gospel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Reaver",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Extermination's Edge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flickering Glow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flickering Glow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dazzling Flash 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dazzling Flash 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dazzling Flash 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "First Dance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "First Dance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "First Dance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Last Dance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Last Dance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Last Dance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brazenridge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brazenridge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Leaf\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Verde\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Holly\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Fall\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Blood\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Azure\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Blade \"Indigo\"",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shotel 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Shotel 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Reaper 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Reaper 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rookslayer Long Sword",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Varga Rookslayer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Scimitar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Scimitar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Scimitar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Shotel 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dipterus 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dipterus 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dipterus 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Grosser 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Grosser 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shotel 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Fang 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Fang 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Fang 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Stealer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Stealer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Shotel 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Shotel 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Scimitar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Scimitar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Scimitar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Stabber 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Stabber 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Stabber 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Facultas 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Facultas 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Long Sword 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Long Sword 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Imperial Saber",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Imperial Shimmer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Cypher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Supermacy Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Divine Slasher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Star Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Knife 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Knife 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Slicer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Slicer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Jack",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Eradication Vanguard",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heat Edge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Corona",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bang+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Master Bang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Messer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Messer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Messer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rogue Wave 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rogue Wave 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rogue Wave 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Grace 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Grace 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rimespire",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Rimespire",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Rapier",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Queen Rapier",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Queen Rose",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Royal Rose",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Tabar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Tabar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Tabar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Knife 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blossom 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blossom 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blossom 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Knife 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Knife 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Tabar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Tabar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Tabar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Kukri 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Kukri 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Kukri 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chief Kukri 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chief Kukri 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chief Kukri 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Grand Barong 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Grand Barong 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Edge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Edge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Claw 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Claw 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Claw 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Edge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Edge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Edge 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Garotte 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Garotte 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Garotte 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Edge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Edge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Nemesis 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Nemesis 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Nemesis 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Edge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Edge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Edge 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Club 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Club 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Club 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Edge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Edge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammensucher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gnashing Flammensucher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Sword 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Sword 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Sword 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fulminator",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderbolt Sword 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderbolt Sword 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Sword 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Sword 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Spada",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Emblem",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Mabura",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Matched Slicers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Matched Slicers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Matched Slicers 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Slicers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Slicers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Slicers 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Slicers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Slicers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Gouge",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Decimation Claws",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Daggers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Daggers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Destroyers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Destroyers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Destroyers 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rookslayer Handaxes",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelhawk Rookslayer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Daggers 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Daggers 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Chain 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Chain 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rending Beaks 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rending Beaks 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rending Beaks 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arcanaria 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arcanaria 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arcanaria 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sworn Rapiers",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sworn Rapiers+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Holy Sabers",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Hachets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Hachets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Hachets 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wild Hachets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wild Hachets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Wild Hachets 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Strong Hatchets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Strong Hatchets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Hachets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Hachets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cyclone 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cyclone 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cyclone 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Hachets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Hachets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Clubs 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Clubs 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Pangas 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Pangas 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Pangas 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Hatchets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Hatchets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Hatchets 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Cyclone 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Cyclone 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Taurus Pangas 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Taurus Pangas 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Ripper 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Ripper 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Ripper 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Hachets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Hachets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Hachets 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Claws 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Claws 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Claws 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Hatchets 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Hatchets 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blood-drinker Chainblade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Twinblades 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Twinblades 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Enduring Schism",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Bolts",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Bolts+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Monarch",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Ungulae 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Ungulae 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Twins 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Twins 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Twin Nails",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fire and Ice",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Raqs",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Hammer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Demon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Demon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Demon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Archdemon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Archdemon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Crusher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Obliteration's Footfall",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frozen Core",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frozen Core+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cocytus",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Hammer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Basher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Basher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Basher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Fist 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Fist 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Malady's Fist 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Hammer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buon Fiore",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Buona Flora",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Bash 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Bash 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Bash 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Bludgeon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Bludgeon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Bludgeon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fossil Bludgeon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fossil Bludgeon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fossil Bludgeon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Grandrock 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Grandrock 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Vlafos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pandemonium's Root",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Spike 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Spike 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Strike 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Strike 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Strike 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brazenbreak 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brazenbreak 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Beak 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Beak 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Beak 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Crushing Beak 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Crushing Beak 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Crushing Beak 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Sledge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Sledge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Shatterer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Shatterer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Sledge 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Sledge 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Sledge 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Breaker 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Breaker 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Breaker 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Striker 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Striker 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Striker 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Basher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Basher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Basher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Floga",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ragefire Magda Floga",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Hammer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Hammer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Hammer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Colossus",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Maph'agarna",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jail Hammer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Binder Mace",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Metal Bagpipe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Metal Bagpipe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Metal Bagpipe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bagpipe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bagpipe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bagpipe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fortissimo 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fortissimo 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Groove",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Desolation's Overture",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Gaida 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Gaida 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Drum 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Drum 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Drum 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Duda 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Duda 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Duda 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dancing Davul 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dancing Davul 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dancing Davul 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Valkyrie Chordmaker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Queen Chordmaker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Coral Chordmaker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Royal Chordmaker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Bagpipe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Bagpipe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Bagpipe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Tamtam 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Tamtam 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Tamtam 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Bagpipe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Bagpipe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sectored",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Sectored",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bone Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bone Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Barone 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Barone 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Barone 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Barone 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Barone 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Barone 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rookslayer Drum",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazelreid Rookslayer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sonic Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sonic Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sonic Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glass Royale",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glass Royale+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Queen Vespoid Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Auldhorn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Auldhorn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Auldhorn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thundercry Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderbolt Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderbolt Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Dragonhorn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Dragonhorn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Tiple",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Orphée",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Manasheena",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Impaler",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Perdition's Hand",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Halberd 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Halberd 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Hasta 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Hasta 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Hasta 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Pilebunker 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Pilebunker 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Spire 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Spire 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Spire 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Pike 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Pike 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Pike 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Red Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Tail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Prominence",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bone Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Bone Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Wächter",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Love's Sorrow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Taurus Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Taurus Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Stinger 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Stinger 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dark Stinger 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Stinger 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Stinger 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Stinger 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Dhara 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Dhara 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Horn 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Horn 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Horn 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Spike 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Spike 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Spike 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Lance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rookslayer Lance",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Myniad Rookslayer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderpike",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderspear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunderpiercer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Lance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Lance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Spear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Fang",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Zauta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Babel Spear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elder Babel Spear",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Ram",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Eradication Flame",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Striker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Striker+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mythic Kadachi Striker",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rath Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Red Rook",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Rook",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blue Chariot",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Panoply",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Panoply+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rose Burst",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Royal Burst",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Blaster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Blaster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Blaster 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legiana Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bone Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bone Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Buster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Buster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glutton Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glutton Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glutton Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Deathfang Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Deathfang Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Deathfang Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Spysa 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Spysa 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Blaster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Blaster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Blaster 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Gunlance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Lahat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Earthshaker Magda Lahat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Gunlance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Gunlance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Gunlance",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Brigia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Hemta",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Iron Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Iron Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Iron Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Improved Steel Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Improved Steel Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Improved Steel Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Perfected Alloy Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Perfected Alloy Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Gash",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dying Light",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frostreaver",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Frostreaver",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Chopper 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Chopper 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Chopper 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Motor Chopper 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Motor Chopper 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Rider 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Rider 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Rider 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Rider 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Rider 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathalos Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathbringer Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathbringer Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Smasher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Smasher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Smasher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Smasher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Smasher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Demios 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Demios 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Drought 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Drought 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Drought 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Smasher 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Smasher 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Smasher 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Grinder 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Grinder 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Grinder 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Axe Semper Tyrannis",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Axe of Thanatos",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Axe of Demons",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenbeil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenbeil+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gnashing Flammenbeil",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Slicer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Slicer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Slicer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Peal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Peal+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kirin Thunderpeal",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Switch Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Switch Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Arx",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Castle",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Martshu",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Commision Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Commision Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Proto Commision Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elite Commision Axe 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elite Commision Axe 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Elite Commision Axe 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Guardian 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Guardian 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Lacerator",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Devastation's Thorns",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathsblade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathsblade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Axelion Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Halberion Blade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mudslide Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mudslide Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mudslide Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Depth 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Depth 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Depth 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Everfrost Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Everfrost Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gigafrost 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gigafrost 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dear Lutemis",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dear Lutemia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dear Hecatel",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dear Hecatelia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Strongarm 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Strongarm 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mighty Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mighty Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Wall 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Wall 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Tyrannis 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Tyrannis 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Strongarm 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Escudo 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Escudo 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Escudo 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Silt 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Silt 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Nadja 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Nadja 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Girros Nadja 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Aspida 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Aspida 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Strongarm 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Kaina 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Kaina 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Kaina 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Strongarm 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Strongarm 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hate's Undying Flame",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Odium",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cutter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cutter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cutter 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Manus",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Avenging Magda Manus",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Charger 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Charger 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Casca",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Thwartoise",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Ra'atz",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Reaper",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Catastrophe's Light",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathmaul",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Firedance Rathmaul",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ya-Ku Wrath 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ya-Ku Wrath 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Ya-Ku Wrath 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Destroyer Bo 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Destroyer Bo 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Destroyer Bo 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Gale 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Freeze Gale 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Glaive 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blade 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blade 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blade 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Cane 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Cane 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Rod 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hard Bone Rod 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aerial Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aerial Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Entoma 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Entoma 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenkaefer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenkaefer+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gnashing Flammenkaefer",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Rod 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Glaive 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tyrannis Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Tyrannis Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Rod 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Pillar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Pillar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Pillar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Rod 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Rod 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Temptation's Trident",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Vice",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Glaive 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Indigo Flash",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Azure Bolt",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Verdant Levin",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Glaive 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Glaive 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Entom",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Tethidine",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Shmaena",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chain Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chain Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chain Blitz 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Chain Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Chain Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "High Chain Blitz 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cross Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cross Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Spitter",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cataclysm's Trigger",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Typhon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Typhon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lumu Typhon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Typhoon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bazel Typhoon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Blitz 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Fire 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Fire 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Fire 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flame Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathbuster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathbuster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Thunder Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lightning Blitz 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Snow Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Snow Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blitz 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Frost Blitz 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Rifle 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Rifle 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sniper Shot 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Sniper Shot 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Ereipia",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gulgoleth's Wail",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Buster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Buster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Buster 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Madness Rifle 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Bullet 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Bullet 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jyura Bullet 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Bullet 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Lava Bullet 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Carapace Rifle 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shot 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shot 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Barroth Shot 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Rifle 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Garon Rifle 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Fate's Ember",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Karma",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bowgun 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bowgun 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bowgun 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Onigashima",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dai-Onigashima",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mythical Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mythical Horn+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Mythical Three-Horn",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Crossbow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Crossbow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Wasp",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Hornet",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Neqiina",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cross Bowgun",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Bowgun",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Assault 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Assault 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Chrome Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Roar",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Destruction's Fusillade",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Assault 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Luminous Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arma Destroyer 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arma Destroyer 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Arma Destroyer 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shattercryst",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Shattercryst+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Shattercryst",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Assault 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Jagras Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Assault 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Assault 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flammenkanone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gnashing Flammenkanone",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Bone Shooter 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Heavy Shooter 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Power Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dual Threat",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nero's Blazooka",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Griffon Blazooka",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Shooter 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaster 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaster 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura Blaster 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Spiked Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Roar 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Roar 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Baan Roar 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gama Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shooter 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shooter 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Shooter 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Lion 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Lion 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Lion 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Cannon 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Quickcaster",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Quickcaster+",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Quickquiver",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Gemitus 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Magda Gemitus 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Cannon 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Cannon 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Artillery",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Teostra's Flames",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Jiiqa",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Iron Bow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Steel Bow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Alloy Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Nergal Whisper",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Doom's Shaft",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Arrow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Arrow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kulu Arrow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Archer's Dance 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Archer's Dance 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Archer's Dance 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Brazencord",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Gigacles",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Arrow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Arrow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Princess Arrow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathslinger 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathslinger 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Rathslinger 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Arrow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Arrow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Aqua Arrow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Shot 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Shot 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Water Shot 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Arrow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Glacial Arrow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Snowfletcher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Legia Snowfletcher",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Bow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Stoutbow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Stoutbow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Stoutbow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Proudbow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hunter's Proudbow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Velos 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Hazak Velos 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Diablos Coilbender",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Galebender",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cera Coilbender",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Arch 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Arch 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blooming Arch 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura String 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura String 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Datura String 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blazing Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Arch 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Arch 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Anja Arch 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Pulsar Bow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Kadachi Strikebow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Flying Kadachi Strikebow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Dragonbone Bow 3",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Bow 1",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Blacksteel Bow 2",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Icesteel Bow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Daora's Sagittarii",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Xeno Metora",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Cross Hunter's Bow",
+        "name_jp": ""
+    },
+    {
+        "name_en": "Great Hunter's Bow",
+        "name_jp": ""
+    }
+]
