@@ -16,5 +16,8 @@ To contribute, create a pull request adding the data or translation you wish to 
 If the translation is for a language that is not supported, 
 feel free to create an issue and I will populate the *names* data files with dummy data.
 
+## Data Sources
+The data collected by this project is an accumulation of various sources, including the game itself, [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico, and multiple Japanese sites. Only data that came from the game itself (visibly or reverse engineered) and official booklets are collected. Handwritten tips and tricks do not come from the game and are currently not accepted in the repository.
+
 ## License
 The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data itself is unlicensed data pertaining to Monster Hunter World, which is owned by Capcom.
