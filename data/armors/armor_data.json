@@ -1783,7 +1783,7 @@
             "Anjanath Pelt": 2,
             "Anjanath Scale": 2,
             "Anjanath Nosebone": 1,
-            "Monster Bone L": 1
+            "Monster Bone L": 2
         },
         "set": "Anja"
     },
@@ -2331,7 +2331,7 @@
         "craft": {
             "Dragonite Ore": 2,
             "Machalite Ore": 2,
-            "Iron Ore": 2,
+            "Earth crystal": 2,
             "Sharp Claw": 2
         },
         "set": "High Metal"
@@ -2588,7 +2588,7 @@
             "Evade Window": 1
         },
         "craft": {
-            "Great Hornfly": 2,
+            "Great Hornfly": 1,
             "Dragonite Ore": 2,
             "Coral Crystal": 2,
             "Flame Sac": 1
@@ -2648,7 +2648,7 @@
         "craft": {
             "Great Hornfly": 1,
             "Earth Crystal": 2,
-            "Coral Crystal": 1,
+            "Coral Crystal": 2,
             "Aqua Sac": 1
         },
         "set": "King Beetle"
@@ -2992,7 +2992,7 @@
             "Recovery Up": 1
         },
         "craft": {
-            "Rathian Shell": 4,
+            "Rathian Shell": 3,
             "Rathian Spike": 1,
             "Rath Wingtalon": 2,
             "Rathian Plate": 1
@@ -3570,7 +3570,7 @@
             "Marathon Runner": 1
         },
         "craft": {
-            "Diablos Shell": 1,
+            "Diablos Shell": 2,
             "Diablos Ridge": 1,
             "Diablos Fang": 1,
             "Monster Bone L": 2
@@ -3768,7 +3768,7 @@
         "water": -2,
         "thunder": 4,
         "ice": -2,
-        "dragon": 3,
+        "dragon": 2,
         "skills": {
             "Marathon Runner": 1
         },
@@ -3797,7 +3797,7 @@
         "water": -2,
         "thunder": 4,
         "ice": -2,
-        "dragon": 3,
+        "dragon": 2,
         "skills": {
             "Divine Blessing": 1
         },
@@ -3826,7 +3826,7 @@
         "water": -2,
         "thunder": 4,
         "ice": -2,
-        "dragon": 3,
+        "dragon": 2,
         "skills": {
             "Blight Resistance": 1
         },
@@ -3855,7 +3855,7 @@
         "water": -2,
         "thunder": 4,
         "ice": -2,
-        "dragon": 3,
+        "dragon": 2,
         "skills": {
             "Thunder Attack": 1
         },
@@ -3884,7 +3884,7 @@
         "water": -2,
         "thunder": 4,
         "ice": -2,
-        "dragon": 3,
+        "dragon": 2,
         "skills": {
             "Thunder Resistance": 1
         },
@@ -3977,7 +3977,7 @@
         "craft": {
             "Legiana Hide": 2,
             "Legiana Scale": 2,
-            "Legiana Webbing": 1,
+            "Legiana Tail Webbing": 1,
             "Frost Sac": 1
         },
         "set": "Legiana"
@@ -4323,7 +4323,7 @@
             "Jump Master": 1
         },
         "craft": {
-            "Rathalos Shell": 2,
+            "Rathalos Shell": 3,
             "Rathalos Scale": 2,
             "Rath Wingtalon": 2,
             "Rathalos Tail": 1
@@ -5060,7 +5060,7 @@
             "Barroth Ridge+": 4,
             "Barroth Scalp": 2,
             "Kestodon Carapace": 3,
-            "Bird Wyvern Gem": 1
+            "Wyvern Gem": 1
         },
         "set": "Barroth Alpha"
     },
@@ -5206,7 +5206,7 @@
             "Barroth Ridge+": 4,
             "Barroth Scalp": 2,
             "Kestodon Carapace": 3,
-            "Bird Wyvern Gem": 1
+            "Wyvern Gem": 1
         },
         "set": "Barroth Beta"
     },
@@ -5315,7 +5315,7 @@
         "ice": 0,
         "dragon": 2,
         "skills": {
-            "Attack Boost": 1
+            "Attack Boost": 2
         },
         "craft": {
             "Quality Bone": 2,
@@ -6003,7 +6003,7 @@
             "Master Gatherer": 1
         },
         "craft": {
-            "Carbalite Ore": 2,
+            "Carbalite Ore": 3,
             "Dragonite Ore": 2
         },
         "set": "Chainmail Beta"
@@ -6423,7 +6423,7 @@
             "Water Attack": 1
         },
         "craft": {
-            "Gajau Skin": 4,
+            "Gajau Scale": 4,
             "Grand Gajau Whisker": 2,
             "Carbalite Ore": 3
         },
@@ -6452,7 +6452,7 @@
             "Water Attack": 1
         },
         "craft": {
-            "Gajau Skin": 4,
+            "Gajau Scale": 4,
             "Grand Gajau Whisker": 2,
             "Carbalite Ore": 3
         },
@@ -7232,7 +7232,7 @@
         },
         "craft": {
             "Jagras Hide+": 2,
-            "Jagras Scale+": 3
+            "Quality Bone": 3
         },
         "set": "Hunter's Alpha"
     },
@@ -7367,7 +7367,7 @@
         },
         "craft": {
             "Jagras Hide+": 2,
-            "Jagras Scale+": 3
+            "Quality Bone": 3
         },
         "set": "Hunter's Beta"
     },
@@ -8652,7 +8652,7 @@
         },
         "craft": {
             "Kulu-Ya-Ku Hide+": 4,
-            "Kulu-Ya-Ku Plume+": 2,
+            "Kulu-Ya-Ku Plume+": 3,
             "Kulu-Ya-Ku Beak+": 2,
             "Bird Wyvern Gem": 1
         },
@@ -8797,7 +8797,7 @@
         },
         "craft": {
             "Kulu-Ya-Ku Hide+": 4,
-            "Kulu-Ya-Ku Plume+": 2,
+            "Kulu-Ya-Ku Plume+": 3,
             "Kulu-Ya-Ku Beak+": 2,
             "Bird Wyvern Gem": 1
         },
@@ -9613,7 +9613,7 @@
         "craft": {
             "Pukei-Pukei Carapace": 2,
             "Pukei-Pukei Sac+": 2,
-            "Pukei-Pukei Scale+": 2,
+            "Pukei-Pukei Scale+": 4,
             "Monster Keenbone": 2
         },
         "set": "Pukei Alpha"
@@ -9756,7 +9756,7 @@
         "craft": {
             "Pukei-Pukei Carapace": 2,
             "Pukei-Pukei Sac+": 2,
-            "Pukei-Pukei Scale+": 2,
+            "Pukei-Pukei Scale+": 4,
             "Monster Keenbone": 2
         },
         "set": "Pukei Beta"
@@ -9843,7 +9843,7 @@
             "Poison Attack": 2
         },
         "craft": {
-            "Rathian Carapace": 2,
+            "Rathian Carapace": 4,
             "Rathian Scale+": 4,
             "Rathian Spike+": 2,
             "Monster Keenbone": 4
@@ -9991,7 +9991,7 @@
             "Poison Attack": 1
         },
         "craft": {
-            "Rathian Carapace": 2,
+            "Rathian Carapace": 4,
             "Rathian Scale+": 4,
             "Rathian Spike+": 2,
             "Monster Keenbone": 4
@@ -10485,7 +10485,7 @@
         "ice": 1,
         "dragon": 2,
         "skills": {
-            "Windproof": 1
+            "Windproof": 2
         },
         "craft": {
             "Vespoid Carapace": 3,
@@ -10513,7 +10513,7 @@
         "ice": 1,
         "dragon": 2,
         "skills": {
-            "Paralysis Attack": 1
+            "Paralysis Attack": 2
         },
         "craft": {
             "Vespoid Carapace": 4,
@@ -11453,7 +11453,7 @@
             "Slugger": 1
         },
         "craft": {
-            "Diablos Ridge+": 4,
+            "Diablos Ridge+": 6,
             "Diablos Carapace": 4,
             "Majestic Horn": 1,
             "Blos Medulla": 1
@@ -11598,7 +11598,7 @@
             "Tremor Resistance": 2
         },
         "craft": {
-            "Diablos Ridge+": 4,
+            "Diablos Ridge+": 6,
             "Diablos Carapace": 4,
             "Majestic Horn": 1,
             "Blos Medulla": 1
@@ -12344,7 +12344,7 @@
     },
     {
         "name_en": "Kirin Horn Beta",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "head",
         "male": true,
         "female": true,
@@ -12373,7 +12373,7 @@
     },
     {
         "name_en": "Kirin Jacket Beta",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "chest",
         "male": true,
         "female": true,
@@ -12402,7 +12402,7 @@
     },
     {
         "name_en": "Kirin Longarms Beta",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "arms",
         "male": true,
         "female": true,
@@ -12431,7 +12431,7 @@
     },
     {
         "name_en": "Kirin Hoop Beta",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "waist",
         "male": true,
         "female": true,
@@ -12460,7 +12460,7 @@
     },
     {
         "name_en": "Kirin Leg Guards Alpha",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "legs",
         "male": true,
         "female": true,
@@ -12490,7 +12490,7 @@
     },
     {
         "name_en": "Kirin Leg Guards Beta",
-        "rarity": 6,
+        "rarity": 8,
         "armor_type": "legs",
         "male": true,
         "female": true,
@@ -16428,7 +16428,7 @@
         },
         "craft": {
             "Research Commission Ticket": 1,
-            "Rathian Scale+": 8,
+            "Rathalos Scale+": 8,
             "Sinister Cloth": 2,
             "High Commendation": 2
         },
@@ -16459,7 +16459,7 @@
         "craft": {
             "Research Commission Ticket": 1,
             "Odogaron Scale+": 8,
-            "Great Hornfly": 2,
+            "Great Hornfly": 3,
             "High Commendation": 2
         },
         "set": "Commission Alpha"
@@ -16490,7 +16490,7 @@
             "Research Commission Ticket": 1,
             "Legiana Scale+": 8,
             "Sinister Cloth": 2,
-            "High Commendation": 2
+            "High Commendation": 1
         },
         "set": "Commission Alpha"
     },
@@ -16519,8 +16519,8 @@
         "craft": {
             "Research Commission Ticket": 1,
             "Diablos Carapace": 8,
-            "Great Hornfly": 2,
-            "High Commendation": 2
+            "Great Hornfly": 3,
+            "High Commendation": 1
         },
         "set": "Commission Alpha"
     },
@@ -16577,7 +16577,7 @@
         },
         "craft": {
             "Research Commission Ticket": 1,
-            "Rathian Scale+": 8,
+            "Rathalos Scale+": 8,
             "Sinister Cloth": 2,
             "High Commendation": 2
         },
@@ -16607,7 +16607,7 @@
         "craft": {
             "Research Commission Ticket": 1,
             "Odogaron Scale+": 8,
-            "Great Hornfly": 2,
+            "Great Hornfly": 3,
             "High Commendation": 2
         },
         "set": "Commission Beta"
@@ -16637,7 +16637,7 @@
             "Research Commission Ticket": 1,
             "Legiana Scale+": 8,
             "Sinister Cloth": 2,
-            "High Commendation": 2
+            "High Commendation": 1
         },
         "set": "Commission Beta"
     },
@@ -16665,8 +16665,8 @@
         "craft": {
             "Research Commission Ticket": 1,
             "Diablos Carapace": 8,
-            "Great Hornfly": 2,
-            "High Commendation": 2
+            "Great Hornfly": 3,
+            "High Commendation": 1
         },
         "set": "Commission Beta"
     },
@@ -17136,7 +17136,7 @@
             "Fire Dragon Scale+": 4,
             "Teostra Carapace": 4,
             "Teostra Mane": 1,
-            "Elder Dragon Bone": 3
+            "Elder Dragon Blood": 3
         },
         "set": "Kaiser Alpha"
     },
@@ -17282,7 +17282,7 @@
             "Fire Dragon Scale+": 4,
             "Teostra Carapace": 4,
             "Teostra Mane": 1,
-            "Elder Dragon Bone": 3
+            "Elder Dragon Blood": 3
         },
         "set": "Kaiser Beta"
     },
@@ -17756,7 +17756,7 @@
             "Nergigante Carapace": 4,
             "Immortal Dragonscale": 4,
             "Nergigante Regrowth Plate": 2,
-            "Elder Dragon Bone": 2
+            "Elder Dragon Blood": 2
         },
         "set": "Nergigante Alpha"
     },
@@ -17901,7 +17901,7 @@
             "Nergigante Carapace": 4,
             "Immortal Dragonscale": 4,
             "Nergigante Regrowth Plate": 2,
-            "Elder Dragon Bone": 2
+            "Elder Dragon Blood": 2
         },
         "set": "Nergigante Beta"
     },
