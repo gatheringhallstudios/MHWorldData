@@ -217,7 +217,7 @@
     },
     {
         "name_en": "Kelbi Horn",
-        "name_jp": ""
+        "name_jp": "ケルビの角"
     },
     {
         "name_en": "Dash Extract",
@@ -698,6 +698,10 @@
     {
         "name_en": "Mosswine Hide",
         "name_jp": "モスの苔皮"
+    },
+    {
+        "name_en": "White Liver",
+        "name_jp": "ホワイトレバ"
     },
     {
         "name_en": "Warm Pelt",

@@ -416,6 +416,11 @@
                         "percentage": 60
                     },
                     {
+                        "item_en": "White Liver",
+                        "stack": 1,
+                        "percentage": 25
+                    },
+                    {
                         "item_en": "Raw Meat",
                         "stack": 1,
                         "percentage": 15
@@ -426,6 +431,11 @@
                         "item_en": "High-quality Pelt",
                         "stack": 1,
                         "percentage": 60
+                    },
+                    {
+                        "item_en": "White Liver",
+                        "stack": 1,
+                        "percentage": 25
                     },
                     {
                         "item_en": "Raw Meat",
