@@ -1,41 +1,66 @@
-class DataMap:
+from collections.abc import MutableMapping, Mapping
+import collections
+import typing
+
+class DataMapRow(MutableMapping):
+    """Defines a single row of a datamap object.
+    These objects are regular dictionaries that can also get translated names.
+    """
+
+    def __init__(self, translate_map, id : int, datarowdict: dict):
+        self._translate_map = translate_map
+        self._id = id
+        self._data = datarowdict
+
+    @property
+    def id(self):
+        "Returns the id associated with this DataMapRow"
+        return self._id
+
+    def name(self, lang_id):
+        "Returns the name of this data map row in a specific language"
+        return self._translate_map[self.id][lang_id]
+
+    def names(self):
+        "Returns a collection of (language, name) tuples for this row"
+        return self._translate_map[self.id].items()
+
+    def __getitem__(self, key):
+        return self._data[key]
+
+    def __setitem__(self, key, value):
+        self._data[key] = value
+    
+    def __delitem__(self, key):
+        del self._data[key]
+
+    def __iter__(self):
+        return self._data.__iter__()
+
+    def __len__(self):
+        return self._data.__len__()
+
+class DataMap(typing.Mapping[int, DataMapRow]):
     def __init__(self, translate_map, datadict: dict):
         """Constructs a new DataMap object. DataDict is an id->entry mapping.
         It is recommended to use a load function instead."""
         self._translate_map = translate_map
-        self._data = datadict
 
-        shared_items = set(datadict.keys()) & set(translate_map.keys())
-        self._len = len(shared_items)
+        # build keys. Keys need to be in translate map order, but contain our entries
+        self._keys = []
+        self._data = collections.OrderedDict()
+        for key in translate_map.keys():
+            data_row_raw = datadict.get(key, None)
+            if data_row_raw:
+                self._keys.append(key)
+                self._data[key] = DataMapRow(translate_map, key, data_row_raw)
 
-    def __getitem__(self, id):
+    def __getitem__(self, id) -> DataMapRow:
         return self._data[id]
 
     def __len__(self):
-        return self._len
+        return len(self._keys)
 
-    def items(self):
-        """Iterates over the map as (id, row) entries.
-        Ordering is decided by the translate map order.
-        """
-        for item in self._translate_map:
-            item_id = item.id
-            data_row = self._data.get(item_id, 0)
-            if data_row:
-                yield (item_id, data_row)
-
-    def keys(self):
-        for id, value in self.items():
-            yield id
-
-    def values(self):
-        for id, value in self.items():
-            yield value
-
-    def get(self, id, d=None):
-        try:
-            return self._data[id]
-        except KeyError:
-            return d
-
+    def __iter__(self):
+        return self._keys.__iter__()
 
