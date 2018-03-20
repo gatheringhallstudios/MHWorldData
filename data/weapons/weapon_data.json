@@ -17431,7 +17431,7 @@
         }
     },
     {
-        "name_en": "Teostra's OrphÃ©e",
+        "name_en": "Teostra's Orphée",
         "weapon_type": "hunting-horn",
         "rarity": 8,
         "attack": 798,
@@ -19056,7 +19056,7 @@
         }
     },
     {
-        "name_en": "Hazak WÃ¤chter",
+        "name_en": "Hazak Wächter",
         "weapon_type": "lance",
         "rarity": 7,
         "attack": 437,
@@ -19117,7 +19117,7 @@
             "Vaal Hazak Talon": 6,
             "Xeno'jiiva Veil": 3
         },
-        "previous": "Hazak WÃ¤chter",
+        "previous": "Hazak Wächter",
         "upgrade": {
             "Vaal Hazak Gem": 1,
             "Vaal Hazak Tail": 2,
