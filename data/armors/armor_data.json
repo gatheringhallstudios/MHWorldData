@@ -13203,6 +13203,38 @@
         "set": "Kirin Alpha"
     },
     {
+        "name_en": "Kirin Leg Guards Alpha",
+        "rarity": 8,
+        "armor_type": "legs",
+        "male": true,
+        "female": true,
+        "price": 16000,
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "defense_base": 64,
+        "defense_max": 70,
+        "defense_augment_max": 84,
+        "fire": -3,
+        "water": -2,
+        "thunder": 4,
+        "ice": -2,
+        "dragon": 2,
+        "skills": {
+            "Free Elem/Ammo Up": 2,
+            "Thunder Resistance": 2
+        },
+        "craft": {
+            "Kirin Hide+": 3,
+            "Kirin Thundertail": 3,
+            "Paolumu Carapace+": 3,
+            "Dragonbone Relic": 1
+        },
+        "set": "Kirin Leg Alpha"
+    },
+    {
         "name_en": "Kirin Horn Beta",
         "rarity": 8,
         "armor_type": "head",
@@ -13325,38 +13357,6 @@
             "Novacrystal": 1
         },
         "set": "Kirin Beta"
-    },
-    {
-        "name_en": "Kirin Leg Guards Alpha",
-        "rarity": 8,
-        "armor_type": "legs",
-        "male": true,
-        "female": true,
-        "price": 16000,
-        "slots": [
-            0,
-            0,
-            0
-        ],
-        "defense_base": 64,
-        "defense_max": 70,
-        "defense_augment_max": 84,
-        "fire": -3,
-        "water": -2,
-        "thunder": 4,
-        "ice": -2,
-        "dragon": 2,
-        "skills": {
-            "Free Elem/Ammo Up": 2,
-            "Thunder Resistance": 2
-        },
-        "craft": {
-            "Kirin Hide+": 3,
-            "Kirin Thundertail": 3,
-            "Paolumu Carapace+": 3,
-            "Dragonbone Relic": 1
-        },
-        "set": "Kirin Leg Alpha"
     },
     {
         "name_en": "Kirin Leg Guards Beta",
