@@ -94,53 +94,54 @@ def build_armor(session : sqlalchemy.orm.Session):
         session.add(armorset)
 
     data_map = load_data_map(armor_map, 'armors/armor_data.json')
-    for data in data_map.values():
-        armor_name_en = data.name('en')
+    for entry in data_map.values():
+        armor_name_en = entry.name('en')
 
-        armor = db.Armor(id = data.id)
-        armor.rarity = data['rarity']
-        armor.armor_type = data['armor_type']
-        armor.male = data['male']
-        armor.female = data['female']
-        armor.slot_1 = data['slots'][0]
-        armor.slot_2 = data['slots'][1]
-        armor.slot_3 = data['slots'][2]
-        armor.defense = data['defense']
-        armor.fire = data['fire']
-        armor.water = data['water']
-        armor.thunder = data['thunder']
-        armor.ice = data['ice']
-        armor.dragon = data['dragon']
+        armor = db.Armor(id = entry.id)
+        armor.rarity = entry['rarity']
+        armor.armor_type = entry['armor_type']
+        armor.male = entry['male']
+        armor.female = entry['female']
+        armor.slot_1 = entry['slots'][0]
+        armor.slot_2 = entry['slots'][1]
+        armor.slot_3 = entry['slots'][2]
+        armor.defense = entry['defense']
+        armor.fire = entry['fire']
+        armor.water = entry['water']
+        armor.thunder = entry['thunder']
+        armor.ice = entry['ice']
+        armor.dragon = entry['dragon']
 
-        armorset_id = armorset_map.id_of("en", data['set'])
+        armorset_id = armorset_map.id_of("en", entry['set'])
         if not armorset_id:
             raise Exception(f"ERROR: Armorset {data['set']} in Armor {armor_name_en} does not exist")
         armor.armorset_id = armorset_id
 
         session.add(armor)
 
-        for language, name in supported_languages:
-            armor_text = db.ArmorText(id=data.id, lang_id=language, name=name)
+        for language in supported_languages:
+            armor_name = entry.name(language)
+            armor_text = db.ArmorText(id=entry.id, lang_id=language, name=armor_name)
             session.add(armor_text)
 
         # Armor Skills
-        for skill, level in data['skills'].items():
+        for skill, level in entry['skills'].items():
             skill_id = skill_map.id_of('en', skill)
             ensure(skill_id, f"Skill {skill} in Armor {armor_name_en} does not exist")
             
             session.add(db.ArmorSkill(
-                armor_id = data.id,
+                armor_id = entry.id,
                 skill_id = skill_id,
                 level = level
             ))
         
         # Armor Crafting
-        for item, quantity in data['craft'].items():
+        for item, quantity in entry['craft'].items():
             item_id = item_map.id_of('en', item)
             ensure(item_id, f"Item {item} in Armor {armor_name_en} does not exist")
             
             session.add(db.ArmorRecipe(
-                armor_id = data.id,
+                armor_id = entry.id,
                 item_id = item_id,
                 quantity = quantity
             ))
@@ -171,6 +172,12 @@ def build_weapons(session : sqlalchemy.orm.Session):
 
         session.add(weapon)
 
+        # Add language translations
+        for language in supported_languages:
+            weapon_name = entry.name(language)
+            session.add(db.WeaponText(id=weapon_id, lang_id=language, name=weapon_name))
+
+        # Add crafting/upgrade recipes
         for recipe_type in ('craft', 'upgrade'):
             recipe = entry.get(recipe_type, {}) or {}
             for item, quantity in recipe.items():

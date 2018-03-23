@@ -145,7 +145,7 @@ class Weapon(Base):
 
     previous_weapon = Column(ForeignKey("weapon.id"), nullable=True)
 
-class WeaponText(TextMixin):
+class WeaponText(Base, TextMixin):
     __tablename__ = "weapon_text"
 
     name = Column(Text)
