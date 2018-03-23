@@ -1,0 +1,2742 @@
+[
+    {
+        "name_en": "Hunter's Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 1,
+        "attack": 112,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Hunter's Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 1,
+        "attack": 126,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hunter's Knife I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Hunter's Knife III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 140,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 18,
+            "yellow": 7,
+            "green": 13,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hunter's Knife II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Steel Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hunter's Knife III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Steel Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Knife I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Steel Knife III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Sleep",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Knife II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Chrome Slicer I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Sleep",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Knife III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Chrome Slicer II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Sleep",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 12,
+            "orange": 15,
+            "yellow": 5,
+            "green": 38,
+            "blue": 17,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Slicer I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Jack",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 280,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Slicer I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Eradication Vanguard",
+        "weapon_type": "sword-and-shield",
+        "rarity": 8,
+        "attack": 294,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 25,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Jack",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Flame Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Knife I",
+        "upgrade": {
+            "Flame Sac": 2,
+            "Rathalos Marrow": 1,
+            "Rathalos Scale": 1,
+            "Rathalos Webbing": 2
+        }
+    },
+    {
+        "name_en": "Flame Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 20,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flame Knife I",
+        "upgrade": {
+            "Inferno Sac": 3,
+            "Rathalos Plate": 1,
+            "Rathalos Scale": 6,
+            "Rathalos Tail": 2
+        }
+    },
+    {
+        "name_en": "Heat Edge",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flame Knife II",
+        "upgrade": {
+            "Rathalos Carapace": 4,
+            "Rathalos Medulla": 1,
+            "Rathalos Scale+": 6,
+            "Rathalos Wing": 2
+        }
+    },
+    {
+        "name_en": "Corona",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 266,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Heat Edge",
+        "upgrade": {
+            "Azure Rathalos Carapace": 4,
+            "Azure Rathalos Scale+": 6,
+            "Azure Rathalos Wing": 3,
+            "Rathalos Ruby": 1
+        }
+    },
+    {
+        "name_en": "Heavy Bang",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 10,
+            "orange": 12,
+            "yellow": 20,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Knife I",
+        "upgrade": {
+            "Commendation": 1,
+            "Diablos Fang": 2,
+            "Odogaron Claw": 2,
+            "Rathalos Tail": 1
+        }
+    },
+    {
+        "name_en": "Heavy Bang+",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Thunder",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Bang",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Carbalite Ore": 10,
+            "Odogaron Claw+": 3,
+            "Odogaron Tail": 2
+        }
+    },
+    {
+        "name_en": "Master Bang",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 280,
+        "element_type": "Thunder",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Heavy Bang+",
+        "upgrade": {
+            "Bazelgeuse Talon": 3,
+            "Daora Claw+": 3,
+            "High Commendation": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Aqua Messer I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 140,
+        "element_type": "Water",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hunter's Knife II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Earth Crystal": 3,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Aqua Messer II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": "Water",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Messer I",
+        "upgrade": {
+            "Dragonite Ore": 5,
+            "Gajau Skin": 3,
+            "Jyuratodus Fang": 2,
+            "Jyuratodus Fin": 3
+        }
+    },
+    {
+        "name_en": "Aqua Messer III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 196,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Messer II",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Rogue Wave I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 20,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Messer III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Scale+": 3
+        }
+    },
+    {
+        "name_en": "Rogue Wave II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Water",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Rogue Wave I",
+        "upgrade": {
+            "Fucium Ore": 5,
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Rogue Wave III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Water",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Rogue Wave II",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Glacial Grace I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": "Ice",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Messer II",
+        "upgrade": {
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Glacial Grace II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Ice",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Grace I",
+        "upgrade": {
+            "Legiana Claw": 4,
+            "Legiana Plate": 1,
+            "Legiana Tail Webbing": 3,
+            "Paolumu Wing": 4
+        }
+    },
+    {
+        "name_en": "Rimespire",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 210,
+        "element_type": "Ice",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Grace II",
+        "upgrade": {
+            "Freezer Sac": 2,
+            "Legiana Claw+": 3,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Legia Rimespire",
+        "weapon_type": "sword-and-shield",
+        "rarity": 8,
+        "attack": 224,
+        "element_type": "Ice",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 7,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 5
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rimespire",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Legiana Claw+": 5,
+            "Legiana Gem": 1,
+            "Legiana Hide+": 3
+        }
+    },
+    {
+        "name_en": "Princess Rapier",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": "Poison",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Machalite Ore": 10,
+            "Poison Sac": 3,
+            "Rathian Plate": 1,
+            "Rathian Shell": 5
+        },
+        "previous": "Aqua Messer I",
+        "upgrade": {
+            "Rathian Scale": 5,
+            "Rathian Shell": 4,
+            "Rathian Spike": 3
+        }
+    },
+    {
+        "name_en": "Queen Rapier",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Poison",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Princess Rapier",
+        "upgrade": {
+            "Rathian Carapace": 4,
+            "Rathian Plate": 1,
+            "Rathian Scale+": 5,
+            "Rathian Spike+": 3
+        }
+    },
+    {
+        "name_en": "Queen Rose",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Poison",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Queen Rapier",
+        "upgrade": {
+            "Pink Rathian Carapace": 4,
+            "Pink Rathian Scale+": 5,
+            "Rathian Spike+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Royal Rose",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 266,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Queen Rose",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Pink Rathian Scale+": 6,
+            "Rathian Ruby": 1,
+            "Rathian Spike+": 5
+        }
+    },
+    {
+        "name_en": "Lumu Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Messer I",
+        "upgrade": {
+            "Paolumu Pelt": 2,
+            "Paolumu Scale": 3,
+            "Paolumu Shell": 1
+        }
+    },
+    {
+        "name_en": "Lumu Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Knife I",
+        "upgrade": {
+            "Diablos Shell": 3,
+            "Paolumu Shell": 3,
+            "Paolumu Webbing": 2,
+            "Shamos Scale": 5
+        }
+    },
+    {
+        "name_en": "Lumu Tabar I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Blast",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Knife II",
+        "upgrade": {
+            "Paolumu Carapace+": 3,
+            "Paolumu Pelt+": 4,
+            "Paolumu Scale+": 5,
+            "Shamos Scale+": 5
+        }
+    },
+    {
+        "name_en": "Lumu Tabar II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Tabar I",
+        "upgrade": {
+            "Blos Medulla": 2,
+            "Novacrystal": 1,
+            "Paolumu Carapace+": 4,
+            "Paolumu Wing": 3
+        }
+    },
+    {
+        "name_en": "Lumu Tabar III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Blast",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Tabar II",
+        "upgrade": {
+            "Elder Dragon Bone": 3,
+            "Paolumu Carapace+": 5,
+            "Paolumu Scale+": 7,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Blooming Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 154,
+        "element_type": "Poison",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hunter's Knife II",
+        "upgrade": {
+            "Poison Sac": 1,
+            "Pukei-Pukei Quill": 2,
+            "Pukei-Pukei Scale": 3
+        }
+    },
+    {
+        "name_en": "Blooming Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 182,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Knife I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Pukei-Pukei Sac": 2,
+            "Pukei-Pukei Shell": 3,
+            "Pukei-Pukei Tail": 1
+        }
+    },
+    {
+        "name_en": "Blooming Knife III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 196,
+        "element_type": "Poison",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 10,
+            "orange": 12,
+            "yellow": 20,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Knife II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Poison Sac": 2,
+            "Pukei-Pukei Quill": 4,
+            "Pukei-Pukei Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blossom I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Poison",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Knife III",
+        "upgrade": {
+            "Pukei-Pukei Scale+": 3,
+            "Pukei-Pukei Wing": 2,
+            "Quality Bone": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blossom II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Poison",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Blossom I",
+        "upgrade": {
+            "Monster Hardbone": 3,
+            "Pukei-Pukei Carapace": 5,
+            "Pukei-Pukei Wing": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blossom III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Poison",
+        "element_damage": 390,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Blossom II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Pukei-Pukei Sac+": 4,
+            "Pukei-Pukei Wing": 6,
+            "Vaal Hazak Wing": 2
+        }
+    },
+    {
+        "name_en": "Girros Knife I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": "Paralysis",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Knife I",
+        "upgrade": {
+            "Girros Fang": 3,
+            "Great Girros Fang": 1,
+            "Great Girros Scale": 3
+        }
+    },
+    {
+        "name_en": "Girros Knife II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": "Paralysis",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Girros Knife I",
+        "upgrade": {
+            "Diablos Fang": 2,
+            "Great Girros Fang": 3,
+            "Great Girros Hood": 2,
+            "Paralysis Sac": 2
+        }
+    },
+    {
+        "name_en": "Malady's Tabar I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Paralysis",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Girros Knife II",
+        "upgrade": {
+            "Girros Scale+": 6,
+            "Great Girros Fang+": 3,
+            "Great Girros Scale+": 5,
+            "Great Girros Tail": 2
+        }
+    },
+    {
+        "name_en": "Malady's Tabar II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 210,
+        "element_type": "Paralysis",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Malady's Tabar I",
+        "upgrade": {
+            "Blos Medulla": 1,
+            "Great Girros Fang+": 4,
+            "Great Girros Hood+": 2,
+            "Omniplegia Sac": 4
+        }
+    },
+    {
+        "name_en": "Malady's Tabar III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Paralysis",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Malady's Tabar II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Great Girros Fang+": 5,
+            "Great Girros Hood+": 3,
+            "Vaal Hazak Fang+": 2
+        }
+    },
+    {
+        "name_en": "Bone Kukri I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 1,
+        "attack": 140,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 13,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Kukri II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 1,
+        "attack": 154,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 18,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Kukri III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Chief Kukri I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Chief Kukri II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chief Kukri I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Chief Kukri III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Paralysis",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Chief Kukri II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Grand Barong I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Paralysis",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Chief Kukri III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Grand Barong II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Paralysis",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Grand Barong I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Spiked Edge I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 182,
+        "element_type": "Sleep",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri III",
+        "upgrade": {
+            "Radobaan Scale": 4,
+            "Sleep Sac": 2,
+            "Wyvern Bonemass": 2
+        }
+    },
+    {
+        "name_en": "Spiked Edge II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 196,
+        "element_type": "Sleep",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Spiked Edge I",
+        "upgrade": {
+            "Monster Bone+": 3,
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Wyvern Bonemass": 3
+        }
+    },
+    {
+        "name_en": "Baan Claw I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 238,
+        "element_type": "Sleep",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Spiked Edge II",
+        "upgrade": {
+            "Coma Sac": 2,
+            "Monster Keenbone": 3,
+            "Radobaan Carapace": 4,
+            "Radobaan Oilshell": 3
+        }
+    },
+    {
+        "name_en": "Baan Claw II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Sleep",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Baan Claw I",
+        "upgrade": {
+            "Coma Sac": 3,
+            "Monster Hardbone": 5,
+            "Radobaan Medulla": 1,
+            "Radobaan Scale+": 8
+        }
+    },
+    {
+        "name_en": "Baan Claw III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Sleep",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Baan Claw II",
+        "upgrade": {
+            "Coma Sac": 4,
+            "Elder Dragon Bone": 5,
+            "Radobaan Carapace": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Jagras Edge I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri II",
+        "upgrade": {
+            "Great Jagras Claw": 1,
+            "Great Jagras Hide": 1,
+            "Great Jagras Scale": 3,
+            "Sharp Claw": 1
+        }
+    },
+    {
+        "name_en": "Jagras Edge II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Edge I",
+        "upgrade": {
+            "Coral Bone": 2,
+            "Great Jagras Claw": 2,
+            "Great Jagras Mane": 2,
+            "Tzitzi-Ya-Ku Claw": 3
+        }
+    },
+    {
+        "name_en": "Jagras Edge III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Edge II",
+        "upgrade": {
+            "Great Jagras Claw": 3,
+            "Great Jagras Mane": 3,
+            "Great Jagras Scale": 5,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Jagras Garotte I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 238,
+        "element_type": "Water",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Edge III",
+        "upgrade": {
+            "Great Jagras Claw+": 4,
+            "Great Jagras Mane": 6,
+            "Great Jagras Scale+": 6,
+            "Piercing Claw": 5
+        }
+    },
+    {
+        "name_en": "Jagras Garotte II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Water",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Garotte I",
+        "upgrade": {
+            "Great Jagras Claw+": 6,
+            "Jagras Hide+": 6,
+            "Monster Hardbone": 4,
+            "Tzitzi-Ya-Ku Claw+": 5
+        }
+    },
+    {
+        "name_en": "Jagras Garotte III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Water",
+        "element_damage": 360,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            1
+        ],
+        "craft": null,
+        "previous": "Jagras Garotte II",
+        "upgrade": {
+            "Great Jagras Claw+": 8,
+            "Great Jagras Hide+": 6,
+            "Novacrystal": 1,
+            "Vaal Hazak Talon": 2
+        }
+    },
+    {
+        "name_en": "Thunder Edge I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 182,
+        "element_type": "Thunder",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Edge I",
+        "upgrade": {
+            "Electro Sac": 1,
+            "Sturdy Bone": 5,
+            "Tobi-Kadachi Claw": 2,
+            "Tobi-Kadachi Electrode": 1
+        }
+    },
+    {
+        "name_en": "Thunder Edge II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunder Edge I",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2,
+            "Warped Bone": 2
+        }
+    },
+    {
+        "name_en": "Lightning Nemesis I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunder Edge II",
+        "upgrade": {
+            "Quality Bone": 5,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4,
+            "Vespoid Innerwing": 3
+        }
+    },
+    {
+        "name_en": "Lightning Nemesis II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Thunder",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Nemesis I",
+        "upgrade": {
+            "Monster Hardbone": 3,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Membrane": 4
+        }
+    },
+    {
+        "name_en": "Lightning Nemesis III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Thunder",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Nemesis II",
+        "upgrade": {
+            "Elder Dragon Bone": 4,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Carapace Edge I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 2,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Kukri II",
+        "upgrade": {
+            "Barroth Claw": 1,
+            "Barroth Ridge": 2,
+            "Barroth Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Edge II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Edge I",
+        "upgrade": {
+            "Barroth Claw": 2,
+            "Barroth Tail": 1,
+            "Dragonite Ore": 3,
+            "Kestodon Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Edge III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 224,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Edge II",
+        "upgrade": {
+            "Barroth Claw": 4,
+            "Barroth Scalp": 2,
+            "Diablos Shell": 3,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Barroth Club I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 252,
+        "element_type": "Paralysis",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Edge III",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 2,
+            "Barroth Ridge+": 2,
+            "Kestodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Club II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Paralysis",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Club I",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 4,
+            "Diablos Carapace": 3,
+            "Gastodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Club III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 294,
+        "element_type": "Paralysis",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Club II",
+        "upgrade": {
+            "Barroth Claw+": 5,
+            "Barroth Ridge+": 5,
+            "Nergigante Horn+": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Blazing Edge I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Edge I",
+        "upgrade": {
+            "Anjanath Fang": 2,
+            "Anjanath Scale": 3,
+            "Flame Sac": 1
+        }
+    },
+    {
+        "name_en": "Blazing Edge II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 224,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Edge I",
+        "upgrade": {
+            "Anjanath Fang": 4,
+            "Anjanath Nosebone": 1,
+            "Anjanath Tail": 1,
+            "Rathalos Marrow": 1
+        }
+    },
+    {
+        "name_en": "Flammensucher",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 266,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Anjanath Fang+": 5,
+            "Anjanath Pelt+": 6,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 6
+        },
+        "previous": "Blazing Edge II",
+        "upgrade": {
+            "Anjanath Fang+": 4,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 5,
+            "Inferno Sac": 3
+        }
+    },
+    {
+        "name_en": "Gnashing Flammensucher",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 294,
+        "element_type": "Fire",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flammensucher",
+        "upgrade": {
+            "Anjanath Fang+": 6,
+            "Anjanath Gem": 1,
+            "Anjanath Nosebone+": 2,
+            "Teostra Mane": 2
+        }
+    },
+    {
+        "name_en": "Dragonbone Sword I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 3,
+        "attack": 140,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Sword II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 154,
+        "element_type": "Dragon",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Sword I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Dragonbone Sword III",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 196,
+        "element_type": "Dragon",
+        "element_damage": 450,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 25,
+            "yellow": 8,
+            "green": 7,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Sword II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Fulminator",
+        "weapon_type": "sword-and-shield",
+        "rarity": 4,
+        "attack": 154,
+        "element_type": "Thunder",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 10,
+            "orange": 12,
+            "yellow": 20,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Sword I",
+        "upgrade": {
+            "Kirin Hide": 3,
+            "Kirin Tail": 1,
+            "Kirin Thunderhorn": 3,
+            "Lightcrystal": 1
+        }
+    },
+    {
+        "name_en": "Thunderbolt Sword I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 210,
+        "element_type": "Thunder",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 38,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Fulminator",
+        "upgrade": {
+            "Dragonvein Crystal": 5,
+            "Kirin Azure Horn": 4,
+            "Kirin Hide+": 5,
+            "Kirin Mane": 4
+        }
+    },
+    {
+        "name_en": "Thunderbolt Sword II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 224,
+        "element_type": "Thunder",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 33,
+            "blue": 17,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunderbolt Sword I",
+        "upgrade": {
+            "Kirin Azure Horn": 6,
+            "Kirin Thundertail": 3,
+            "Novacrystal": 2,
+            "Xeno'jiiva Shell": 4
+        }
+    },
+    {
+        "name_en": "Blacksteel Sword I",
+        "weapon_type": "sword-and-shield",
+        "rarity": 5,
+        "attack": 140,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 28,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Sword II",
+        "weapon_type": "sword-and-shield",
+        "rarity": 6,
+        "attack": 154,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Sword I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Teostra's Spada",
+        "weapon_type": "sword-and-shield",
+        "rarity": 7,
+        "attack": 252,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Sword II",
+        "upgrade": {
+            "Teostra Carapace": 5,
+            "Teostra Claw+": 2,
+            "Teostra Mane": 2,
+            "Teostra Powder": 4
+        }
+    },
+    {
+        "name_en": "Teostra's Emblem",
+        "weapon_type": "sword-and-shield",
+        "rarity": 8,
+        "attack": 266,
+        "element_type": "Blast",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 15,
+            "green": 30,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Teostra's Spada",
+        "upgrade": {
+            "Teostra Claw+": 2,
+            "Teostra Gem": 1,
+            "Teostra Horn+": 5,
+            "Xeno'jiiva Soulscale": 5
+        }
+    },
+    {
+        "name_en": "Xeno Mabura",
+        "weapon_type": "sword-and-shield",
+        "rarity": 8,
+        "attack": 238,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Sword II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    }
+]

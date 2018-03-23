@@ -1,0 +1,2502 @@
+[
+    {
+        "name_en": "Iron Lance I",
+        "weapon_type": "lance",
+        "rarity": 1,
+        "attack": 184,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Iron Lance II",
+        "weapon_type": "lance",
+        "rarity": 1,
+        "attack": 207,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Lance I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Iron Lance III",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 230,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Lance II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Steel Lance I",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 253,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Lance III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Steel Lance II",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Lance I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Steel Lance III",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 322,
+        "element_type": "Paralysis",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Lance II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Chrome Lance I",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Paralysis",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 13,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Lance III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Chrome Lance II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 414,
+        "element_type": "Paralysis",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 15,
+            "orange": 15,
+            "yellow": 5,
+            "green": 37,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Lance I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Impaler",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 460,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 18,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Lance I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Perdition's Hand",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 483,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Impaler",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Glacial Lance I",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": "Ice",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Lance I",
+        "upgrade": {
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Glacial Lance II",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 322,
+        "element_type": "Ice",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Lance I",
+        "upgrade": {
+            "Legiana Claw": 4,
+            "Legiana Plate": 1,
+            "Legiana Tail Webbing": 3,
+            "Paolumu Wing": 4
+        }
+    },
+    {
+        "name_en": "Legiana Halberd I",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 345,
+        "element_type": "Ice",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Lance II",
+        "upgrade": {
+            "Freezer Sac": 2,
+            "Legiana Claw+": 3,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Legiana Halberd II",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 368,
+        "element_type": "Ice",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Legiana Halberd I",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Legiana Claw+": 5,
+            "Legiana Gem": 1,
+            "Legiana Hide+": 3
+        }
+    },
+    {
+        "name_en": "Kulu Lance I",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 253,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Lance II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 1,
+            "Kulu-Ya-Ku Hide": 2,
+            "Kulu-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "Kulu Lance II",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 276,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Lance I",
+        "upgrade": {
+            "Boulder Bone": 3,
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 2,
+            "Radobaan Scale": 3
+        }
+    },
+    {
+        "name_en": "Kulu Lance III",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Lance II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 4,
+            "Odogaron Claw": 2,
+            "Warped Bone": 3
+        }
+    },
+    {
+        "name_en": "Kulu Hasta I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 345,
+        "element_type": "Sleep",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Carbalite Ore": 10,
+            "Kulu-Ya-Ku Beak+": 3,
+            "Kulu-Ya-Ku Hide+": 6,
+            "Kulu-Ya-Ku Scale+": 6
+        },
+        "previous": "Kulu Lance III",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak+": 3,
+            "Kulu-Ya-Ku Hide+": 4,
+            "Kulu-Ya-Ku Scale+": 6
+        }
+    },
+    {
+        "name_en": "Kulu Hasta II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Sleep",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Hasta I",
+        "upgrade": {
+            "Brutal Bone": 3,
+            "Kulu-Ya-Ku Beak+": 4,
+            "Kulu-Ya-Ku Plume+": 3,
+            "Odogaron Claw+": 2
+        }
+    },
+    {
+        "name_en": "Kulu Hasta III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Sleep",
+        "element_damage": 360,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Hasta II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Kulu-Ya-Ku Beak+": 5,
+            "Kulu-Ya-Ku Plume+": 4,
+            "Nergigante Talon": 2
+        }
+    },
+    {
+        "name_en": "Gama Pilebunker I",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Hasta I",
+        "upgrade": {
+            "Dodogama Hide+": 4,
+            "Dodogama Scale+": 6,
+            "Dodogama Talon": 4
+        }
+    },
+    {
+        "name_en": "Gama Pilebunker II",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 391,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Gama Pilebunker I",
+        "upgrade": {
+            "Dodogama Jaw": 4,
+            "Dodogama Tail": 3,
+            "Fire Dragon Scale+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Thunder Lance I",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 276,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 20,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kulu Lance I",
+        "upgrade": {
+            "Dragonite Ore": 5,
+            "Electro Sac": 1,
+            "Tobi-Kadachi Claw": 2,
+            "Tobi-Kadachi Electrode": 1
+        }
+    },
+    {
+        "name_en": "Thunder Lance II",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 322,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunder Lance I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2
+        }
+    },
+    {
+        "name_en": "Lightning Spire I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 368,
+        "element_type": "Thunder",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 28,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunder Lance II",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4,
+            "Vespoid Innerwing": 3
+        }
+    },
+    {
+        "name_en": "Lightning Spire II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Thunder",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Spire I",
+        "upgrade": {
+            "Fucium Ore": 5,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Membrane": 4
+        }
+    },
+    {
+        "name_en": "Lightning Spire III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 414,
+        "element_type": "Thunder",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Spire II",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Blooming Lance I",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 230,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Lance II",
+        "upgrade": {
+            "Poison Sac": 1,
+            "Pukei-Pukei Quill": 2,
+            "Pukei-Pukei Scale": 3
+        }
+    },
+    {
+        "name_en": "Blooming Lance II",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 253,
+        "element_type": "Poison",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Lance I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Pukei-Pukei Sac": 2,
+            "Pukei-Pukei Shell": 3,
+            "Pukei-Pukei Tail": 1
+        }
+    },
+    {
+        "name_en": "Blooming Lance III",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": "Poison",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Lance II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Poison Sac": 2,
+            "Pukei-Pukei Quill": 4,
+            "Pukei-Pukei Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Pike I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 345,
+        "element_type": "Poison",
+        "element_damage": 420,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Lance III",
+        "upgrade": {
+            "Pukei-Pukei Scale+": 3,
+            "Pukei-Pukei Wing": 2,
+            "Quality Bone": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Pike II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Poison",
+        "element_damage": 480,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Pike I",
+        "upgrade": {
+            "Monster Hardbone": 3,
+            "Pukei-Pukei Carapace": 5,
+            "Pukei-Pukei Wing": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Pike III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Poison",
+        "element_damage": 540,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Pike II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Pukei-Pukei Sac+": 4,
+            "Pukei-Pukei Wing": 6,
+            "Vaal Hazak Wing": 2
+        }
+    },
+    {
+        "name_en": "Flame Lance I",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Lance II",
+        "upgrade": {
+            "Flame Sac": 2,
+            "Rathalos Marrow": 1,
+            "Rathalos Scale": 1,
+            "Rathalos Webbing": 2
+        }
+    },
+    {
+        "name_en": "Flame Lance II",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 322,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 20,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flame Lance I",
+        "upgrade": {
+            "Inferno Sac": 3,
+            "Rathalos Plate": 1,
+            "Rathalos Scale": 6,
+            "Rathalos Tail": 2
+        }
+    },
+    {
+        "name_en": "Red Tail",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Fire",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flame Lance II",
+        "upgrade": {
+            "Rathalos Carapace": 4,
+            "Rathalos Medulla": 1,
+            "Rathalos Scale+": 6,
+            "Rathalos Wing": 2
+        }
+    },
+    {
+        "name_en": "Blue Tail",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 414,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Red Tail",
+        "upgrade": {
+            "Azure Rathalos Carapace": 4,
+            "Azure Rathalos Scale+": 6,
+            "Azure Rathalos Wing": 3,
+            "Rathalos Ruby": 1
+        }
+    },
+    {
+        "name_en": "Blue Prominence",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 437,
+        "element_type": "Fire",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blue Tail",
+        "upgrade": {
+            "Azure Rathalos Scale+": 8,
+            "Azure Rathalos Tail": 3,
+            "Rathalos Ruby": 1,
+            "Teostra Horn+": 2
+        }
+    },
+    {
+        "name_en": "Bone Lance I",
+        "weapon_type": "lance",
+        "rarity": 1,
+        "attack": 207,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Lance II",
+        "weapon_type": "lance",
+        "rarity": 1,
+        "attack": 230,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Lance I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Lance III",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 253,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Lance II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Hard Bone Lance I",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 322,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Lance III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Hard Bone Lance II",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 345,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Lance I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Hard Bone Lance III",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 368,
+        "element_type": "Poison",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Lance II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Heavy Bone Lance I",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Poison",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Lance III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Heavy Bone Lance II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 437,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Heavy Bone Lance I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Hazak Wächter",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 437,
+        "element_type": "Dragon",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Bone Lance I",
+        "upgrade": {
+            "Deceased Scale": 6,
+            "Vaal Hazak Fang+": 5,
+            "Vaal Hazak Membrane": 4,
+            "Vaal Hazak Talon": 4
+        }
+    },
+    {
+        "name_en": "Love's Sorrow",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 460,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hazak Wächter",
+        "upgrade": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Tail": 2,
+            "Vaal Hazak Talon": 6,
+            "Xeno'jiiva Veil": 3
+        }
+    },
+    {
+        "name_en": "Taurus Lance I",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 276,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Lance III",
+        "upgrade": {
+            "Hornetaur Shell": 3,
+            "Hornetaur Wing": 2,
+            "Monster Fluid": 2
+        }
+    },
+    {
+        "name_en": "Taurus Lance II",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Taurus Lance I",
+        "upgrade": {
+            "Hornetaur Head": 2,
+            "Hornetaur Shell": 5,
+            "Hornetaur Wing": 4,
+            "Odogaron Fang": 2
+        }
+    },
+    {
+        "name_en": "Dark Stinger I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 322,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": {
+            "Hornetaur Carapace": 6,
+            "Hornetaur Head": 1,
+            "Hornetaur Innerwing": 4,
+            "Novacrystal": 1
+        },
+        "previous": "Taurus Lance II",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Monster Broth": 2
+        }
+    },
+    {
+        "name_en": "Dark Stinger II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 345,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dark Stinger I",
+        "upgrade": {
+            "Azure Rathalos Wing": 2,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Novacrystal": 1
+        }
+    },
+    {
+        "name_en": "Dark Stinger III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Blast",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 7
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dark Stinger II",
+        "upgrade": {
+            "Hornetaur Carapace": 8,
+            "Hornetaur Innerwing": 6,
+            "Vaal Hazak Fang+": 3,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Carapace Lance I",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 253,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Lance II",
+        "upgrade": {
+            "Barroth Claw": 1,
+            "Barroth Ridge": 2,
+            "Barroth Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Lance II",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 276,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Lance I",
+        "upgrade": {
+            "Barroth Claw": 2,
+            "Barroth Tail": 1,
+            "Dragonite Ore": 3,
+            "Kestodon Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Lance III",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 345,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Lance II",
+        "upgrade": {
+            "Barroth Claw": 4,
+            "Barroth Scalp": 2,
+            "Diablos Shell": 3,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Barroth Stinger I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 391,
+        "element_type": "Paralysis",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Lance III",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 2,
+            "Barroth Ridge+": 2,
+            "Kestodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Stinger II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 437,
+        "element_type": "Paralysis",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 23,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Stinger I",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 4,
+            "Diablos Carapace": 3,
+            "Gastodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Stinger III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 460,
+        "element_type": "Paralysis",
+        "element_damage": 390,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Stinger II",
+        "upgrade": {
+            "Barroth Claw+": 5,
+            "Barroth Ridge+": 5,
+            "Nergigante Horn+": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Garon Lance I",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 299,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Lance II",
+        "upgrade": {
+            "Odogaron Claw": 2,
+            "Odogaron Fang": 2,
+            "Odogaron Scale": 4
+        }
+    },
+    {
+        "name_en": "Garon Lance II",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 322,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Garon Lance I",
+        "upgrade": {
+            "Odogaron Claw": 2,
+            "Odogaron Plate": 1,
+            "Odogaron Tail": 2,
+            "Quality Bone": 5
+        }
+    },
+    {
+        "name_en": "Garon Dhara I",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 345,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Garon Lance II",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Odogaron Claw+": 4,
+            "Odogaron Fang+": 3,
+            "Odogaron Scale+": 8
+        }
+    },
+    {
+        "name_en": "Garon Dhara II",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 391,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 42,
+            "orange": 25,
+            "yellow": 8,
+            "green": 7,
+            "blue": 10,
+            "white": 8
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Garon Dhara I",
+        "upgrade": {
+            "Odogaron Claw+": 6,
+            "Odogaron Fang+": 5,
+            "Odogaron Gem": 1,
+            "Teostra Claw+": 2
+        }
+    },
+    {
+        "name_en": "Aqua Horn I",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 253,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Lance II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Boulder Bone": 2,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Aqua Horn II",
+        "weapon_type": "lance",
+        "rarity": 2,
+        "attack": 276,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Horn I",
+        "upgrade": {
+            "Gajau Skin": 3,
+            "Jyuratodus Fang": 2,
+            "Jyuratodus Fin": 3,
+            "Sturdy Bone": 5
+        }
+    },
+    {
+        "name_en": "Aqua Horn III",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 322,
+        "element_type": "Water",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Horn II",
+        "upgrade": {
+            "Coral Bone": 2,
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Water Spike I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 345,
+        "element_type": "Water",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Horn III",
+        "upgrade": {
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Scale+": 3,
+            "Quality Bone": 5
+        }
+    },
+    {
+        "name_en": "Water Spike II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 391,
+        "element_type": "Water",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Water Spike I",
+        "upgrade": {
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Monster Hardbone": 3,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Water Spike III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 437,
+        "element_type": "Water",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Water Spike II",
+        "upgrade": {
+            "Elder Dragon Bone": 4,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Dragonbone Lance I",
+        "weapon_type": "lance",
+        "rarity": 3,
+        "attack": 230,
+        "element_type": "Dragon",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Lance II",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 253,
+        "element_type": "Dragon",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Lance I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Dragonbone Lance III",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 368,
+        "element_type": "Dragon",
+        "element_damage": 420,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Lance II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Rookslayer Lance",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 414,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Lance II",
+        "upgrade": {
+            "Bazelgeuse Fuse": 4,
+            "Bazelgeuse Scale+": 5,
+            "Bazelgeuse Talon": 3,
+            "Firecell Stone": 1
+        }
+    },
+    {
+        "name_en": "Bazel Myniad Rookslayer",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 460,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 30,
+            "yellow": 20,
+            "green": 15,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rookslayer Lance",
+        "upgrade": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 4,
+            "Bazelgeuse Wing": 4,
+            "Xeno'jiiva Wing": 3
+        }
+    },
+    {
+        "name_en": "Thunderpike",
+        "weapon_type": "lance",
+        "rarity": 4,
+        "attack": 253,
+        "element_type": "Thunder",
+        "element_damage": 420,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Lance I",
+        "upgrade": {
+            "Kirin Hide": 3,
+            "Kirin Tail": 1,
+            "Kirin Thunderhorn": 3,
+            "Lightcrystal": 1
+        }
+    },
+    {
+        "name_en": "Thunderspear",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 345,
+        "element_type": "Thunder",
+        "element_damage": 480,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 38,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunderpike",
+        "upgrade": {
+            "Dragonvein Crystal": 5,
+            "Kirin Azure Horn": 4,
+            "Kirin Hide+": 5,
+            "Kirin Mane": 4
+        }
+    },
+    {
+        "name_en": "Thunderpiercer",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 368,
+        "element_type": "Thunder",
+        "element_damage": 540,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 35,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunderspear",
+        "upgrade": {
+            "Kirin Azure Horn": 6,
+            "Kirin Thundertail": 3,
+            "Novacrystal": 2,
+            "Xeno'jiiva Shell": 4
+        }
+    },
+    {
+        "name_en": "Blacksteel Lance I",
+        "weapon_type": "lance",
+        "rarity": 5,
+        "attack": 230,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 28,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Lance II",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 253,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Lance I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Icesteel Spear",
+        "weapon_type": "lance",
+        "rarity": 7,
+        "attack": 391,
+        "element_type": "Ice",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Lance II",
+        "upgrade": {
+            "Daora Claw+": 3,
+            "Daora Tail": 2,
+            "Daora Webbing": 4,
+            "Nergigante Carapace": 5
+        }
+    },
+    {
+        "name_en": "Daora's Fang",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 414,
+        "element_type": "Ice",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Icesteel Spear",
+        "upgrade": {
+            "Daora Claw+": 4,
+            "Daora Gem": 1,
+            "Daora Horn+": 5,
+            "Xeno'jiiva Wing": 2
+        }
+    },
+    {
+        "name_en": "Xeno Zauta",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 391,
+        "element_type": "Dragon",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Lance II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    },
+    {
+        "name_en": "Babel Spear",
+        "weapon_type": "lance",
+        "rarity": 6,
+        "attack": 414,
+        "element_type": "Fire",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 30,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": {
+            "Gama Coin": 4,
+            "Hunter King Coin": 5,
+            "Novacrystal": 1,
+            "Rathalos Coin": 4
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Elder Babel Spear",
+        "weapon_type": "lance",
+        "rarity": 8,
+        "attack": 460,
+        "element_type": "Fire",
+        "element_damage": 330,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Babel Spear",
+        "upgrade": {
+            "Ace Hunter Coin": 5,
+            "Brute Coin": 4,
+            "Flying Coin": 4,
+            "Wyvern Gem": 2
+        }
+    }
+]

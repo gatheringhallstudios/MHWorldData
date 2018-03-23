@@ -1,0 +1,2411 @@
+[
+    {
+        "name_en": "Iron Katana I",
+        "weapon_type": "long-sword",
+        "rarity": 1,
+        "attack": 264,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Iron Katana II",
+        "weapon_type": "long-sword",
+        "rarity": 1,
+        "attack": 297,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Katana I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Iron Katana III",
+        "weapon_type": "long-sword",
+        "rarity": 2,
+        "attack": 330,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Katana II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Iron Grace I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 363,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Katana III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Iron Grace II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 429,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Grace I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Iron Grace III",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 462,
+        "element_type": "Water",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Grace II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Iron Gospel I",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 528,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 13,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Grace III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Iron Gospel II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 594,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 12,
+            "orange": 15,
+            "yellow": 5,
+            "green": 38,
+            "blue": 17,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Gospel I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Reaver",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 627,
+        "element_type": "Dragon",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 18,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Gospel I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Extermination's Edge",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 693,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Reaver",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Flickering Glow I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 429,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Katana III",
+        "upgrade": {
+            "Tzitzi-Ya-Ku Claw": 2,
+            "Tzitzi-Ya-Ku Photophore": 1,
+            "Tzitzi-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "Flickering Glow II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 462,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flickering Glow I",
+        "upgrade": {
+            "Legiana Tail Webbing": 2,
+            "Sharp Claw": 3,
+            "Tzitzi-Ya-Ku Claw": 3,
+            "Tzitzi-Ya-Ku Photophore": 2
+        }
+    },
+    {
+        "name_en": "Dazzling Flash I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 528,
+        "element_type": "Thunder",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Flickering Glow II",
+        "upgrade": {
+            "Lightcrystal": 1,
+            "Tzitzi-Ya-Ku Claw+": 3,
+            "Tzitzi-Ya-Ku Photophore+": 1,
+            "Tzitzi-Ya-Ku Scale+": 5
+        }
+    },
+    {
+        "name_en": "Dazzling Flash II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Thunder",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dazzling Flash I",
+        "upgrade": {
+            "Legiana Wing": 2,
+            "Piercing Claw": 5,
+            "Tzitzi-Ya-Ku Claw+": 4,
+            "Tzitzi-Ya-Ku Photophore+": 2
+        }
+    },
+    {
+        "name_en": "Dazzling Flash III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 594,
+        "element_type": "Thunder",
+        "element_damage": 360,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dazzling Flash II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Daora Webbing": 2,
+            "Tzitzi-Ya-Ku Claw+": 5,
+            "Tzitzi-Ya-Ku Photophore+": 3
+        }
+    },
+    {
+        "name_en": "First Dance I",
+        "weapon_type": "long-sword",
+        "rarity": 2,
+        "attack": 330,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Katana II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 1,
+            "Kulu-Ya-Ku Hide": 2,
+            "Kulu-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "First Dance II",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 363,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "First Dance I",
+        "upgrade": {
+            "Boulder Bone": 3,
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 2,
+            "Radobaan Scale": 3
+        }
+    },
+    {
+        "name_en": "First Dance III",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 429,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "First Dance II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 4,
+            "Odogaron Claw": 2,
+            "Warped Bone": 3
+        }
+    },
+    {
+        "name_en": "Last Dance I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 495,
+        "element_type": "Sleep",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "First Dance III",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak+": 3,
+            "Kulu-Ya-Ku Hide+": 4,
+            "Kulu-Ya-Ku Scale+": 6
+        }
+    },
+    {
+        "name_en": "Last Dance II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 528,
+        "element_type": "Sleep",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Last Dance I",
+        "upgrade": {
+            "Brutal Bone": 3,
+            "Kulu-Ya-Ku Beak+": 4,
+            "Kulu-Ya-Ku Plume+": 3,
+            "Odogaron Claw+": 2
+        }
+    },
+    {
+        "name_en": "Last Dance III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Sleep",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Last Dance II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Kulu-Ya-Ku Beak+": 5,
+            "Kulu-Ya-Ku Plume+": 4,
+            "Nergigante Talon": 2
+        }
+    },
+    {
+        "name_en": "Brazenridge I",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 594,
+        "element_type": "Fire",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Last Dance I",
+        "upgrade": {
+            "Uragaan Carapace": 4,
+            "Uragaan Jaw": 1,
+            "Uragaan Marrow": 1,
+            "Uragaan Scale+": 6
+        }
+    },
+    {
+        "name_en": "Brazenridge II",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 660,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Brazenridge I",
+        "upgrade": {
+            "Teostra Carapace": 4,
+            "Uragaan Jaw": 2,
+            "Uragaan Ruby": 1,
+            "Uragaan Scute": 4
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Leaf\"",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 363,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 20,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Machalite Ore": 10,
+            "Poison Sac": 4,
+            "Rathian Plate": 1,
+            "Rathian Shell": 5
+        },
+        "previous": "First Dance I",
+        "upgrade": {
+            "Rathian Scale": 5,
+            "Rathian Shell": 4,
+            "Rathian Spike": 3
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Verde\"",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 495,
+        "element_type": "Poison",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Leaf\"",
+        "upgrade": {
+            "Rathian Carapace": 4,
+            "Rathian Plate": 1,
+            "Rathian Scale+": 5,
+            "Rathian Spike+": 3
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Holly\"",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 627,
+        "element_type": "Poison",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Verde\"",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Pink Rathian Scale+": 6,
+            "Rathian Ruby": 1,
+            "Rathian Spike+": 5
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Fall\"",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 396,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Leaf\"",
+        "upgrade": {
+            "Flame Sac": 2,
+            "Rath Wingtalon": 3,
+            "Rathalos Marrow": 1,
+            "Rathalos Shell": 2
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Blood\"",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 528,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Fall\"",
+        "upgrade": {
+            "Rathalos Carapace": 4,
+            "Rathalos Plate": 1,
+            "Rathalos Scale+": 6,
+            "Rathalos Wing": 2
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Azure\"",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 561,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Blood\"",
+        "upgrade": {
+            "Azure Rathalos Carapace": 4,
+            "Azure Rathalos Scale+": 6,
+            "Azure Rathalos Wing": 3,
+            "Rathalos Medulla": 1
+        }
+    },
+    {
+        "name_en": "Wyvern Blade \"Indigo\"",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 627,
+        "element_type": "Fire",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 15,
+            "green": 30,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wyvern Blade \"Azure\"",
+        "upgrade": {
+            "Azure Rathalos Scale+": 8,
+            "Azure Rathalos Tail": 3,
+            "Rathalos Ruby": 1,
+            "Teostra Horn+": 2
+        }
+    },
+    {
+        "name_en": "Bone Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 1,
+        "attack": 297,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 1,
+        "attack": 330,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Shotel III",
+        "weapon_type": "long-sword",
+        "rarity": 2,
+        "attack": 396,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 15,
+            "yellow": 15,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Hard Bone Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 429,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Hard Bone Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 495,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Shotel I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Hard Bone Shotel III",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 528,
+        "element_type": "Sleep",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Shotel II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Bone Reaper I",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Sleep",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hard Bone Shotel III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Bone Reaper II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 627,
+        "element_type": "Sleep",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Bone Reaper I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Rookslayer Long Sword",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Blast",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Reaper I",
+        "upgrade": {
+            "Bazelgeuse Fuse": 4,
+            "Bazelgeuse Scale+": 5,
+            "Bazelgeuse Talon": 3,
+            "Firecell Stone": 1
+        }
+    },
+    {
+        "name_en": "Bazel Varga Rookslayer",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 660,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 30,
+            "yellow": 20,
+            "green": 15,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rookslayer Long Sword",
+        "upgrade": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 4,
+            "Bazelgeuse Wing": 4,
+            "Xeno'jiiva Wing": 3
+        }
+    },
+    {
+        "name_en": "Blazing Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 462,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel III",
+        "upgrade": {
+            "Anjanath Fang": 2,
+            "Anjanath Scale": 3,
+            "Flame Sac": 1
+        }
+    },
+    {
+        "name_en": "Blazing Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 528,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Shotel I",
+        "upgrade": {
+            "Anjanath Fang": 4,
+            "Anjanath Nosebone": 1,
+            "Anjanath Tail": 1,
+            "Rathalos Marrow": 1
+        }
+    },
+    {
+        "name_en": "Anja Scimitar I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 594,
+        "element_type": "Fire",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Shotel II",
+        "upgrade": {
+            "Anjanath Fang+": 4,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 5,
+            "Inferno Sac": 3
+        }
+    },
+    {
+        "name_en": "Anja Scimitar II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 660,
+        "element_type": "Fire",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Anja Scimitar I",
+        "upgrade": {
+            "Anjanath Fang+": 5,
+            "Anjanath Pelt+": 4,
+            "Firecell Stone": 1,
+            "Rathalos Medulla": 2
+        }
+    },
+    {
+        "name_en": "Anja Scimitar III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 693,
+        "element_type": "Fire",
+        "element_damage": 390,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Anja Scimitar II",
+        "upgrade": {
+            "Anjanath Fang+": 6,
+            "Anjanath Gem": 1,
+            "Anjanath Nosebone+": 2,
+            "Teostra Mane": 2
+        }
+    },
+    {
+        "name_en": "Jyura Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 2,
+        "attack": 396,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Jyuratodus Fin": 1,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Jyura Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 429,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Shotel I",
+        "upgrade": {
+            "Gajau Skin": 3,
+            "Great Girros Hide": 2,
+            "Jyuratodus Fin": 3,
+            "Jyuratodus Shell": 3
+        }
+    },
+    {
+        "name_en": "Jyura Shotel III",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 462,
+        "element_type": "Water",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Shotel II",
+        "upgrade": {
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Jyuratodus Shell": 3,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Dipterus I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 495,
+        "element_type": "Water",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": {
+            "Carbalite Ore": 6,
+            "Jyuratodus Carapace": 3,
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Scale+": 6
+        },
+        "previous": "Jyura Shotel III",
+        "upgrade": {
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Fin+": 2,
+            "Jyuratodus Scale+": 3
+        }
+    },
+    {
+        "name_en": "Dipterus II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Water",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dipterus I",
+        "upgrade": {
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Monster Hardbone": 3,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Dipterus III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 627,
+        "element_type": "Water",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 42,
+            "orange": 25,
+            "yellow": 8,
+            "green": 7,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dipterus II",
+        "upgrade": {
+            "Elder Dragon Bone": 2,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Hazak Grosser I",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 627,
+        "element_type": "Dragon",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 40,
+            "orange": 25,
+            "yellow": 7,
+            "green": 8,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dipterus II",
+        "upgrade": {
+            "Deceased Scale": 6,
+            "Vaal Hazak Fang+": 5,
+            "Vaal Hazak Membrane": 4,
+            "Vaal Hazak Talon": 4
+        }
+    },
+    {
+        "name_en": "Hazak Grosser II",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 660,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hazak Grosser I",
+        "upgrade": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Tail": 2,
+            "Vaal Hazak Talon": 6,
+            "Xeno'jiiva Veil": 3
+        }
+    },
+    {
+        "name_en": "Pulsar Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 363,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shotel II",
+        "upgrade": {
+            "Tobi-Kadachi Claw": 1,
+            "Tobi-Kadachi Pelt": 2,
+            "Tobi-Kadachi Scale": 3
+        }
+    },
+    {
+        "name_en": "Pulsar Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 396,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shotel I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Electro Sac": 2,
+            "Tobi-Kadachi Claw": 3,
+            "Tobi-Kadachi Electrode": 2
+        }
+    },
+    {
+        "name_en": "Pulsar Shotel III",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 462,
+        "element_type": "Thunder",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shotel II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2,
+            "Warped Bone": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Fang I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 528,
+        "element_type": "Thunder",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shotel III",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Tobi-Kadachi Claw+": 3,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4
+        }
+    },
+    {
+        "name_en": "Kadachi Fang II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Thunder",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Fang I",
+        "upgrade": {
+            "Majestic Horn": 2,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Claw+": 4,
+            "Tobi-Kadachi Electrode+": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Fang III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 594,
+        "element_type": "Thunder",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 25,
+            "yellow": 8,
+            "green": 7,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Fang II",
+        "upgrade": {
+            "Nergigante Talon": 2,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Glacial Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 429,
+        "element_type": "Ice",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shotel II",
+        "upgrade": {
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Glacial Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 462,
+        "element_type": "Ice",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Shotel I",
+        "upgrade": {
+            "Legiana Claw": 4,
+            "Legiana Plate": 1,
+            "Legiana Tail Webbing": 3,
+            "Paolumu Wing": 4
+        }
+    },
+    {
+        "name_en": "Stealer",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 495,
+        "element_type": "Ice",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Shotel II",
+        "upgrade": {
+            "Freezer Sac": 2,
+            "Legiana Claw+": 3,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Legia Stealer",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 528,
+        "element_type": "Ice",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 60,
+            "orange": 5,
+            "yellow": 5,
+            "green": 5,
+            "blue": 7,
+            "white": 5
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Stealer",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Legiana Claw+": 5,
+            "Legiana Gem": 1,
+            "Legiana Hide+": 3
+        }
+    },
+    {
+        "name_en": "Dark Shotel I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 396,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shotel I",
+        "upgrade": {
+            "Hornetaur Shell": 3,
+            "Hornetaur Wing": 2,
+            "Monster Fluid": 2
+        }
+    },
+    {
+        "name_en": "Dark Shotel II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 429,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Shotel I",
+        "upgrade": {
+            "Hornetaur Head": 2,
+            "Hornetaur Shell": 5,
+            "Hornetaur Wing": 4,
+            "Odogaron Fang": 2
+        }
+    },
+    {
+        "name_en": "Dark Scimitar I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 462,
+        "element_type": "Paralysis",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Shotel II",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Monster Broth": 2
+        }
+    },
+    {
+        "name_en": "Dark Scimitar II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 495,
+        "element_type": "Paralysis",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Scimitar I",
+        "upgrade": {
+            "Azure Rathalos Wing": 2,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Novacrystal": 1
+        }
+    },
+    {
+        "name_en": "Dark Scimitar III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 528,
+        "element_type": "Paralysis",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 7
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Scimitar II",
+        "upgrade": {
+            "Hornetaur Carapace": 8,
+            "Hornetaur Innerwing": 6,
+            "Vaal Hazak Fang+": 3,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Dragonbone Stabber I",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 330,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Stabber II",
+        "weapon_type": "long-sword",
+        "rarity": 4,
+        "attack": 363,
+        "element_type": "Dragon",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Stabber I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Dragonbone Stabber III",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 528,
+        "element_type": "Dragon",
+        "element_damage": 420,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 25,
+            "yellow": 8,
+            "green": 7,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Stabber II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Magda Facultas I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 528,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Stabber I",
+        "upgrade": {
+            "Zorah Magdaros Carapace": 8,
+            "Zorah Magdaros Gem": 1,
+            "Zorah Magdaros Heat Scale": 4,
+            "Zorah Magdaros Magma": 4
+        }
+    },
+    {
+        "name_en": "Magda Facultas II",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 726,
+        "element_type": "Blast",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 52,
+            "orange": 8,
+            "yellow": 10,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Magda Facultas I",
+        "upgrade": {
+            "Firecell Stone": 3,
+            "Xeno'jiiva Shell": 4,
+            "Zorah Magdaros Pleura": 2,
+            "Zorah Magdaros Ridge": 2
+        }
+    },
+    {
+        "name_en": "Blacksteel Long Sword I",
+        "weapon_type": "long-sword",
+        "rarity": 5,
+        "attack": 330,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 28,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Long Sword II",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 363,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Long Sword I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Imperial Saber",
+        "weapon_type": "long-sword",
+        "rarity": 7,
+        "attack": 561,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Long Sword II",
+        "upgrade": {
+            "Teostra Carapace": 5,
+            "Teostra Claw+": 2,
+            "Teostra Mane": 2,
+            "Teostra Powder": 4
+        }
+    },
+    {
+        "name_en": "Imperial Shimmer",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 627,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 15,
+            "green": 30,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Imperial Saber",
+        "upgrade": {
+            "Teostra Claw+": 2,
+            "Teostra Gem": 1,
+            "Teostra Horn+": 5,
+            "Xeno'jiiva Soulscale": 5
+        }
+    },
+    {
+        "name_en": "Xeno Cypher",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 594,
+        "element_type": "Dragon",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Long Sword II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    },
+    {
+        "name_en": "Supermacy Blade",
+        "weapon_type": "long-sword",
+        "rarity": 6,
+        "attack": 561,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": {
+            "Hunter King Coin": 5,
+            "Novacrystal": 1,
+            "Rathalos Coin": 4
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Divine Slasher",
+        "weapon_type": "long-sword",
+        "rarity": 8,
+        "attack": 693,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Supermacy Blade",
+        "upgrade": {
+            "Ace Hunter Coin": 5,
+            "Brute Coin": 4,
+            "Flying Coin": 4,
+            "Wyvern Gem": 2
+        }
+    },
+    {
+        "name_en": "Azure Star Blade",
+        "weapon_type": "long-sword",
+        "rarity": 3,
+        "attack": 363,
+        "element_type": "Water",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 13,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Azure Star Shard": 3,
+            "Great Jagras Claw": 4,
+            "Lightcrystal": 1,
+            "Monster Bone M": 4
+        },
+        "previous": null,
+        "upgrade": null
+    }
+]

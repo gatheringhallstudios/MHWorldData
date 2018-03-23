@@ -1,0 +1,2357 @@
+[
+    {
+        "name_en": "Proto Iron Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 1,
+        "attack": 280,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Proto Iron Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 1,
+        "attack": 315,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Proto Iron Axe I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Proto Iron Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 2,
+        "attack": 350,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Proto Iron Axe II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Improved Steel Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 385,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Proto Iron Axe III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Improved Steel Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 455,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Improved Steel Axe I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Improved Steel Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 490,
+        "element_type": "Poison",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Improved Steel Axe II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Perfected Alloy Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 560,
+        "element_type": "Poison",
+        "element_damage": 360,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 13,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Improved Steel Axe III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Perfected Alloy Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 630,
+        "element_type": "Poison",
+        "element_damage": 420,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 15,
+            "orange": 15,
+            "yellow": 5,
+            "green": 37,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Perfected Alloy Axe I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Gash",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 665,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 18,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Perfected Alloy Axe I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Dying Light",
+        "weapon_type": "switch-axe",
+        "rarity": 8,
+        "attack": 700,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Gash",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Glacial Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 455,
+        "element_type": "Ice",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Improved Steel Axe I",
+        "upgrade": {
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Glacial Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 490,
+        "element_type": "Ice",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Axe I",
+        "upgrade": {
+            "Legiana Claw": 4,
+            "Legiana Plate": 1,
+            "Legiana Tail Webbing": 3,
+            "Paolumu Wing": 4
+        }
+    },
+    {
+        "name_en": "Frostreaver",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 525,
+        "element_type": "Ice",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Glacial Axe II",
+        "upgrade": {
+            "Freezer Sac": 2,
+            "Legiana Claw+": 3,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Legia Frostreaver",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 560,
+        "element_type": "Ice",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Frostreaver",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Legiana Claw+": 5,
+            "Legiana Gem": 1,
+            "Legiana Hide+": 3
+        }
+    },
+    {
+        "name_en": "Thunder Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 420,
+        "element_type": "Thunder",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 20,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Proto Iron Axe III",
+        "upgrade": {
+            "Dragonite Ore": 5,
+            "Electro Sac": 1,
+            "Tobi-Kadachi Claw": 2,
+            "Tobi-Kadachi Electrode": 1
+        }
+    },
+    {
+        "name_en": "Thunder Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 490,
+        "element_type": "Thunder",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Thunder Axe I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2
+        }
+    },
+    {
+        "name_en": "Lightning Chopper I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": {
+            "Carbalite Ore": 7,
+            "Lightcrystal": 1,
+            "Thunder Sac": 4,
+            "Tobi-Kadachi Scale+": 3
+        },
+        "previous": "Thunder Axe II",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4,
+            "Vespoid Innerwing": 3
+        }
+    },
+    {
+        "name_en": "Lightning Chopper II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 595,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Chopper I",
+        "upgrade": {
+            "Fucium Ore": 5,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Membrane": 4
+        }
+    },
+    {
+        "name_en": "Lightning Chopper III",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 630,
+        "element_type": "Thunder",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Chopper II",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Motor Chopper I",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 630,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Lightning Chopper I",
+        "upgrade": {
+            "Uragaan Carapace": 4,
+            "Uragaan Jaw": 1,
+            "Uragaan Marrow": 1,
+            "Uragaan Scale+": 6
+        }
+    },
+    {
+        "name_en": "Motor Chopper II",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 735,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 20,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Motor Chopper I",
+        "upgrade": {
+            "Teostra Carapace": 4,
+            "Uragaan Jaw": 2,
+            "Uragaan Ruby": 1,
+            "Uragaan Scute": 4
+        }
+    },
+    {
+        "name_en": "Jagras Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 2,
+        "attack": 385,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Proto Iron Axe II",
+        "upgrade": {
+            "Great Jagras Claw": 1,
+            "Great Jagras Hide": 1,
+            "Great Jagras Scale": 3,
+            "Sharp Claw": 1
+        }
+    },
+    {
+        "name_en": "Jagras Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 420,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Axe I",
+        "upgrade": {
+            "Coral Bone": 2,
+            "Great Jagras Claw": 2,
+            "Great Jagras Mane": 2,
+            "Tzitzi-Ya-Ku Claw": 3
+        }
+    },
+    {
+        "name_en": "Jagras Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 490,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Axe II",
+        "upgrade": {
+            "Great Jagras Claw": 3,
+            "Great Jagras Mane": 3,
+            "Great Jagras Scale": 5,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Jagras Rider I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": "Sleep",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Axe III",
+        "upgrade": {
+            "Great Jagras Claw+": 4,
+            "Great Jagras Mane": 6,
+            "Great Jagras Scale+": 6,
+            "Piercing Claw": 5
+        }
+    },
+    {
+        "name_en": "Jagras Rider II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 630,
+        "element_type": "Sleep",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Rider I",
+        "upgrade": {
+            "Great Jagras Claw+": 6,
+            "Jagras Hide+": 6,
+            "Monster Hardbone": 4,
+            "Tzitzi-Ya-Ku Claw+": 5
+        }
+    },
+    {
+        "name_en": "Jagras Rider III",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 665,
+        "element_type": "Sleep",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            1
+        ],
+        "craft": null,
+        "previous": "Jagras Rider II",
+        "upgrade": {
+            "Great Jagras Claw+": 8,
+            "Great Jagras Hide+": 6,
+            "Novacrystal": 1,
+            "Vaal Hazak Talon": 2
+        }
+    },
+    {
+        "name_en": "Bazel Rider I",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 665,
+        "element_type": "Blast",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Rider I",
+        "upgrade": {
+            "Bazelgeuse Fuse": 4,
+            "Bazelgeuse Scale+": 5,
+            "Bazelgeuse Talon": 3,
+            "Firecell Stone": 1
+        }
+    },
+    {
+        "name_en": "Bazel Rider II",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 700,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 30,
+            "yellow": 20,
+            "green": 15,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bazel Rider I",
+        "upgrade": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 4,
+            "Bazelgeuse Wing": 4,
+            "Xeno'jiiva Wing": 3
+        }
+    },
+    {
+        "name_en": "Rathalos Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 455,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Axe II",
+        "upgrade": {
+            "Flame Sac": 2,
+            "Rathalos Marrow": 1,
+            "Rathalos Scale": 1,
+            "Rathalos Webbing": 2
+        }
+    },
+    {
+        "name_en": "Rathalos Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 490,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 20,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rathalos Axe I",
+        "upgrade": {
+            "Inferno Sac": 3,
+            "Rathalos Plate": 1,
+            "Rathalos Scale": 6,
+            "Rathalos Tail": 2
+        }
+    },
+    {
+        "name_en": "Rathbringer Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 560,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rathalos Axe II",
+        "upgrade": {
+            "Rathalos Carapace": 4,
+            "Rathalos Medulla": 1,
+            "Rathalos Scale+": 6,
+            "Rathalos Wing": 2
+        }
+    },
+    {
+        "name_en": "Rathbringer Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 665,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rathbringer Axe I",
+        "upgrade": {
+            "Azure Rathalos Carapace": 4,
+            "Azure Rathalos Scale+": 6,
+            "Azure Rathalos Wing": 3,
+            "Rathalos Ruby": 1
+        }
+    },
+    {
+        "name_en": "Bone Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 1,
+        "attack": 315,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 1,
+        "attack": 350,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Axe I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 2,
+        "attack": 385,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Axe II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Bone Smasher I",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 490,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Axe III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Bone Smasher II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 525,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Smasher I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Bone Smasher III",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Smasher II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Power Smasher I",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 595,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Smasher III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Power Smasher II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 665,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Power Smasher I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Hazak Demios I",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 665,
+        "element_type": "Dragon",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Power Smasher I",
+        "upgrade": {
+            "Deceased Scale": 6,
+            "Vaal Hazak Fang+": 5,
+            "Vaal Hazak Membrane": 4,
+            "Vaal Hazak Talon": 4
+        }
+    },
+    {
+        "name_en": "Hazak Demios II",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 700,
+        "element_type": "Dragon",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Hazak Demios I",
+        "upgrade": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Tail": 2,
+            "Vaal Hazak Talon": 6,
+            "Xeno'jiiva Veil": 3
+        }
+    },
+    {
+        "name_en": "Madness Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 2,
+        "attack": 385,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Axe II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Jyuratodus Fin": 1,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Madness Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 420,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Axe I",
+        "upgrade": {
+            "Gajau Skin": 3,
+            "Great Girros Hide": 2,
+            "Jyuratodus Fin": 3,
+            "Jyuratodus Shell": 3
+        }
+    },
+    {
+        "name_en": "Madness Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 490,
+        "element_type": "Water",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Axe II",
+        "upgrade": {
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Jyuratodus Shell": 3,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Jyura Drought I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": "Water",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 15,
+            "yellow": 20,
+            "green": 13,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": {
+            "Carbalite Ore": 5,
+            "Jyuratodus Carapace": 4,
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Scale+": 5
+        },
+        "previous": "Madness Axe III",
+        "upgrade": {
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Fin+": 2,
+            "Jyuratodus Scale+": 3
+        }
+    },
+    {
+        "name_en": "Jyura Drought II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 630,
+        "element_type": "Water",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Drought I",
+        "upgrade": {
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Monster Hardbone": 3,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Jyura Drought III",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 665,
+        "element_type": "Water",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Drought II",
+        "upgrade": {
+            "Elder Dragon Bone": 2,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Lumu Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 420,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Axe I",
+        "upgrade": {
+            "Paolumu Pelt": 2,
+            "Paolumu Scale": 3,
+            "Paolumu Shell": 1
+        }
+    },
+    {
+        "name_en": "Lumu Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 490,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Axe I",
+        "upgrade": {
+            "Diablos Shell": 3,
+            "Paolumu Shell": 3,
+            "Paolumu Webbing": 2,
+            "Shamos Scale": 5
+        }
+    },
+    {
+        "name_en": "Lumu Smasher I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 525,
+        "element_type": "Blast",
+        "element_damage": 360,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Axe II",
+        "upgrade": {
+            "Paolumu Carapace+": 3,
+            "Paolumu Pelt+": 4,
+            "Paolumu Scale+": 5,
+            "Shamos Scale+": 5
+        }
+    },
+    {
+        "name_en": "Lumu Smasher II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 560,
+        "element_type": "Blast",
+        "element_damage": 390,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Lumu Smasher I",
+        "upgrade": {
+            "Blos Medulla": 2,
+            "Novacrystal": 1,
+            "Paolumu Carapace+": 4,
+            "Paolumu Wing": 3
+        }
+    },
+    {
+        "name_en": "Lumu Smasher III",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 595,
+        "element_type": "Blast",
+        "element_damage": 420,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 25,
+            "yellow": 7,
+            "green": 8,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Lumu Smasher II",
+        "upgrade": {
+            "Elder Dragon Bone": 3,
+            "Paolumu Carapace+": 5,
+            "Paolumu Scale+": 7,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Carapace Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 2,
+        "attack": 420,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Axe II",
+        "upgrade": {
+            "Barroth Claw": 1,
+            "Barroth Ridge": 2,
+            "Barroth Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 490,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Axe I",
+        "upgrade": {
+            "Barroth Claw": 2,
+            "Barroth Tail": 1,
+            "Dragonite Ore": 3,
+            "Kestodon Shell": 3
+        }
+    },
+    {
+        "name_en": "Carapace Axe III",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Axe II",
+        "upgrade": {
+            "Barroth Claw": 4,
+            "Barroth Scalp": 2,
+            "Diablos Shell": 3,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Barroth Grinder I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 595,
+        "element_type": "Paralysis",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Axe III",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 2,
+            "Barroth Ridge+": 2,
+            "Kestodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Grinder II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 665,
+        "element_type": "Paralysis",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Grinder I",
+        "upgrade": {
+            "Barroth Carapace": 3,
+            "Barroth Claw+": 4,
+            "Diablos Carapace": 3,
+            "Gastodon Carapace": 5
+        }
+    },
+    {
+        "name_en": "Barroth Grinder III",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 735,
+        "element_type": "Paralysis",
+        "element_damage": 300,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 25,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Barroth Grinder II",
+        "upgrade": {
+            "Barroth Claw+": 5,
+            "Barroth Ridge+": 5,
+            "Nergigante Horn+": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Diablos Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 595,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Axe II",
+        "upgrade": {
+            "Diablos Fang": 2,
+            "Diablos Shell": 4,
+            "Monster Bone+": 3,
+            "Twisted Horn": 1
+        }
+    },
+    {
+        "name_en": "Diablos Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 630,
+        "element_type": "Ice",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Axe I",
+        "upgrade": {
+            "Diablos Marrow": 1,
+            "Diablos Ridge": 4,
+            "Diablos Tailcase": 2,
+            "Monster Keenbone": 4
+        }
+    },
+    {
+        "name_en": "Axe Semper Tyrannis",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 735,
+        "element_type": "Ice",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Axe II",
+        "upgrade": {
+            "Blos Medulla": 1,
+            "Diablos Carapace": 6,
+            "Diablos Ridge+": 5,
+            "Majestic Horn": 3
+        }
+    },
+    {
+        "name_en": "Axe of Thanatos",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 770,
+        "element_type": "Ice",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Axe Semper Tyrannis",
+        "upgrade": {
+            "Black Diablos Carapace": 4,
+            "Black Diablos Ridge+": 2,
+            "Black Spiral Horn+": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Axe of Demons",
+        "weapon_type": "switch-axe",
+        "rarity": 8,
+        "attack": 805,
+        "element_type": "Ice",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 30,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Axe of Thanatos",
+        "upgrade": {
+            "Black Diablos Carapace": 6,
+            "Black Spiral Horn+": 3,
+            "Dragonbone Relic": 2,
+            "Xeno'jiiva Tail": 2
+        }
+    },
+    {
+        "name_en": "Flammenbeil",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 455,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Carapace Axe I",
+        "upgrade": {
+            "Anjanath Fang": 3,
+            "Anjanath Pelt": 2,
+            "Anjanath Scale": 3,
+            "Flame Sac": 2
+        }
+    },
+    {
+        "name_en": "Flammenbeil+",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 560,
+        "element_type": "Fire",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 3,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flammenbeil",
+        "upgrade": {
+            "Anjanath Fang+": 4,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 5,
+            "Inferno Sac": 3
+        }
+    },
+    {
+        "name_en": "Gnashing Flammenbeil",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 735,
+        "element_type": "Fire",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flammenbeil+",
+        "upgrade": {
+            "Anjanath Gem": 1,
+            "Anjanath Nosebone+": 2,
+            "Anjanath Pelt+": 4,
+            "Vaal Hazak Fang+": 5
+        }
+    },
+    {
+        "name_en": "Dragonbone Slicer I",
+        "weapon_type": "switch-axe",
+        "rarity": 3,
+        "attack": 350,
+        "element_type": "Dragon",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Slicer II",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 385,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Slicer I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Dragonbone Slicer III",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 560,
+        "element_type": "Dragon",
+        "element_damage": 330,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 27,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Slicer II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Peal",
+        "weapon_type": "switch-axe",
+        "rarity": 4,
+        "attack": 385,
+        "element_type": "Thunder",
+        "element_damage": 360,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Slicer I",
+        "upgrade": {
+            "Kirin Hide": 3,
+            "Kirin Tail": 1,
+            "Kirin Thunderhorn": 3,
+            "Lightcrystal": 1
+        }
+    },
+    {
+        "name_en": "Peal+",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 490,
+        "element_type": "Thunder",
+        "element_damage": 390,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 38,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Peal",
+        "upgrade": {
+            "Dragonvein Crystal": 5,
+            "Kirin Azure Horn": 4,
+            "Kirin Hide+": 5,
+            "Kirin Mane": 4
+        }
+    },
+    {
+        "name_en": "Kirin Thunderpeal",
+        "weapon_type": "switch-axe",
+        "rarity": 8,
+        "attack": 560,
+        "element_type": "Thunder",
+        "element_damage": 420,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 35,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Peal+",
+        "upgrade": {
+            "Kirin Azure Horn": 6,
+            "Kirin Thundertail": 3,
+            "Novacrystal": 2,
+            "Xeno'jiiva Shell": 4
+        }
+    },
+    {
+        "name_en": "Blacksteel Switch Axe I",
+        "weapon_type": "switch-axe",
+        "rarity": 5,
+        "attack": 350,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 28,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Switch Axe II",
+        "weapon_type": "switch-axe",
+        "rarity": 6,
+        "attack": 385,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Switch Axe I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Teostra's Arx",
+        "weapon_type": "switch-axe",
+        "rarity": 7,
+        "attack": 630,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Switch Axe II",
+        "upgrade": {
+            "Teostra Carapace": 5,
+            "Teostra Claw+": 2,
+            "Teostra Mane": 2,
+            "Teostra Powder": 4
+        }
+    },
+    {
+        "name_en": "Teostra's Castle",
+        "weapon_type": "switch-axe",
+        "rarity": 8,
+        "attack": 665,
+        "element_type": "Blast",
+        "element_damage": 300,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Teostra's Arx",
+        "upgrade": {
+            "Teostra Claw+": 2,
+            "Teostra Gem": 1,
+            "Teostra Horn+": 5,
+            "Xeno'jiiva Soulscale": 5
+        }
+    },
+    {
+        "name_en": "Xeno Martshu",
+        "weapon_type": "switch-axe",
+        "rarity": 8,
+        "attack": 595,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 2
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Switch Axe II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    }
+]

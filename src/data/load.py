@@ -5,6 +5,37 @@ from .translatemap import TranslateMap
 from .datamap import DataMap
 from .config import get_languages, get_data_path
 
+class JoinResult:
+    def __init__(self, obj, invalid, missing_count, join_field):
+        self.obj = obj
+        self.invalid_entries = invalid
+        self.missing_count = missing_count
+        self.join_field = join_field
+
+def _join(parent_map, data_list : list, lang):
+    """Inner function to join a parent_map to a data_obj, 
+    returning a JoinResult
+    """
+    result = {}
+    missing_fields = 0
+    invalid_entries = set()
+    name_field = f'name_{lang}'
+
+    for row in data_list:
+        name = row.get(name_field, None)
+        if not name:
+            missing_fields += 1
+            continue
+            
+        id = parent_map.id_of(lang, name)
+        if not id:
+            invalid_entries.add(name)
+            continue
+            
+        result[id] = row
+
+    return JoinResult(result, invalid_entries, missing_fields, name_field)
+
 def load_translate_map(data_file, validate=True):
     "Loads a translation map object using a _names.json file"
     data_file = get_data_path(data_file)
@@ -33,33 +64,55 @@ def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True
     The result is a DataMap object mapping id -> data row
     """
     data_file = get_data_path(data_file)
-    result = {}
-
-    missing_fields = 0
-    invalid_entries = set()
-
-    name_field = f'name_{lang}'
     data = json.load(open(data_file, encoding="utf-8"))
-    for row in data:
-        name = row.get(name_field, None)
-        if not name:
-            missing_fields += 1
-            continue
-            
-        id = parent_map.id_of(lang, name)
-        if not id:
-            invalid_entries.add(name)
-            continue
-            
-        result[id] = row
+
+    result = _join(parent_map, data, lang=lang)
 
     # todo: print more errors if more than one
-    if validate and missing_fields:
-        raise Exception(f"ERROR: {missing_fields} entries in data file {data_file} does not contain a {name_field} field")
-    if validate and invalid_entries:
-        raise Exception(f"ERROR: Entry {invalid_entries.pop()} in {data_file} is an invalid name")
+    if validate and result.missing_count:
+        raise Exception(f"ERROR: {result.missing_count} entries in " +
+            f"data file {data_file} does not contain a {result.join_field} field")
+    if validate and result.invalid_entries:
+        raise Exception(f"ERROR: Entry {result.invalid_entries.pop()} in " +
+            f"{data_file} is an invalid name")
 
-    return DataMap(parent_map, result)
+    return DataMap(parent_map, result.obj)
+
+def load_split_data_map(parent_map : TranslateMap, data_directory, lang="en", validate=True):
+    """Loads a data map by combining separate maps in a folder into one.
+    Just like a normal data map, it is anchored to the translation map.
+    """
+    data_directory = get_data_path(data_directory)
+    results = []
+    
+    for dir_entry in os.scandir(data_directory):
+        if not dir_entry.is_file():
+            continue
+        if not dir_entry.name.lower().endswith('.json'):
+            continue
+
+        subdata_json = json.load(open(dir_entry, encoding="utf-8"))
+        result = _join(parent_map, subdata_json, lang=lang)
+
+        if validate and result.missing_count:
+            raise Exception(f"ERROR: {result.missing_count} entries in " +
+                f"{dir_entry.name} does not contain a {result.join_field} field")
+        if validate and result.invalid_entries:
+            raise Exception(f"ERROR: Entry {result.invalid_entries.pop()} in " +
+                f"{dir_entry.name} is an invalid name")
+
+        results.append([dir_entry.name, result])
+
+    final_obj = {}
+    for (filename, result) in results:
+        intersection = final_obj.keys() & result.obj
+        # todo: identify both sources of the conflict. We only know one source
+        if validate and intersection:
+            raise Exception(f"ERROR: Data maps in {data_directory} have conflicting entries")
+
+        final_obj.update(result.obj)
+
+    return DataMap(parent_map, final_obj)
 
 def load_language_data_dir(parent_map : TranslateMap, data_directory):
     """Loads a directory containing sub-json for each language.
@@ -83,7 +136,7 @@ def load_language_data_dir(parent_map : TranslateMap, data_directory):
         # We also need to make sure that every single row has a result....we'll do that later using the translatemap.names_of function.
 
         name_field = f'name_{language}'
-        data = json.load(open(dir_entry))
+        data = json.load(open(dir_entry, encoding='utf-8'))
         for row in data:
             name = row.get(name_field, None)
             if not name:

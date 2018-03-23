@@ -1,0 +1,2472 @@
+[
+    {
+        "name_en": "Matched Slicers I",
+        "weapon_type": "dual-blades",
+        "rarity": 1,
+        "attack": 112,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Matched Slicers II",
+        "weapon_type": "dual-blades",
+        "rarity": 1,
+        "attack": 126,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Matched Slicers I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Matched Slicers III",
+        "weapon_type": "dual-blades",
+        "rarity": 2,
+        "attack": 140,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 18,
+            "yellow": 7,
+            "green": 13,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Matched Slicers II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Dual Slicers I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 154,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Matched Slicers III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Dual Slicers II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Slicers I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Dual Slicers III",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Poison",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Slicers II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Chrome Slicers I",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Poison",
+        "element_damage": 240,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Slicers III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Chrome Slicers II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Poison",
+        "element_damage": 270,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 15,
+            "orange": 15,
+            "yellow": 5,
+            "green": 37,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Slicers I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Gouge",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 280,
+        "element_type": "Dragon",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Slicers I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Decimation Claws",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 294,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 30,
+            "yellow": 10,
+            "green": 13,
+            "blue": 25,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Gouge",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Luminous Daggers I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 20,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Matched Slicers III",
+        "upgrade": {
+            "Tzitzi-Ya-Ku Claw": 2,
+            "Tzitzi-Ya-Ku Photophore": 1,
+            "Tzitzi-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "Luminous Daggers II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 196,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Luminous Daggers I",
+        "upgrade": {
+            "Legiana Tail Webbing": 2,
+            "Sharp Claw": 3,
+            "Tzitzi-Ya-Ku Claw": 3,
+            "Tzitzi-Ya-Ku Photophore": 2
+        }
+    },
+    {
+        "name_en": "Dual Destroyers I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": {
+            "Novacrystal": 1,
+            "Tzitzi-Ya-Ku Claw+": 5,
+            "Tzitzi-Ya-Ku Photophore+": 3,
+            "Tzitzi-Ya-Ku Scale+": 6
+        },
+        "previous": "Luminous Daggers II",
+        "upgrade": {
+            "Lightcrystal": 1,
+            "Tzitzi-Ya-Ku Claw+": 3,
+            "Tzitzi-Ya-Ku Photophore+": 1,
+            "Tzitzi-Ya-Ku Scale+": 5
+        }
+    },
+    {
+        "name_en": "Dual Destroyers II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Destroyers I",
+        "upgrade": {
+            "Legiana Wing": 2,
+            "Piercing Claw": 5,
+            "Tzitzi-Ya-Ku Claw+": 4,
+            "Tzitzi-Ya-Ku Photophore+": 2
+        }
+    },
+    {
+        "name_en": "Dual Destroyers III",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Thunder",
+        "element_damage": 210,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Dual Destroyers II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Daora Webbing": 2,
+            "Tzitzi-Ya-Ku Claw+": 5,
+            "Tzitzi-Ya-Ku Photophore+": 3
+        }
+    },
+    {
+        "name_en": "Rookslayer Handaxes",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Blast",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Destroyers I",
+        "upgrade": {
+            "Bazelgeuse Fuse": 4,
+            "Bazelgeuse Scale+": 5,
+            "Bazelgeuse Talon": 3,
+            "Firecell Stone": 1
+        }
+    },
+    {
+        "name_en": "Bazelhawk Rookslayer",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 280,
+        "element_type": "Blast",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 30,
+            "yellow": 20,
+            "green": 15,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rookslayer Handaxes",
+        "upgrade": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 4,
+            "Bazelgeuse Wing": 4,
+            "Xeno'jiiva Wing": 3
+        }
+    },
+    {
+        "name_en": "Freeze Daggers I",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": "Ice",
+        "element_damage": 60,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Luminous Daggers I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Freeze Daggers II",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Ice",
+        "element_damage": 60,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Freeze Daggers I",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Legiana Tail Webbing": 2,
+            "Legiana Webbing": 3,
+            "Shamos Scale": 5
+        }
+    },
+    {
+        "name_en": "Freeze Chain I",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Ice",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Freeze Daggers II",
+        "upgrade": {
+            "Freezer Sac": 3,
+            "Fucium Ore": 5,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Freeze Chain II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Ice",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Freeze Chain I",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Legiana Claw+": 5,
+            "Legiana Hide+": 3,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Rending Beaks I",
+        "weapon_type": "dual-blades",
+        "rarity": 2,
+        "attack": 154,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 17,
+            "yellow": 8,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Slicers II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 1,
+            "Kulu-Ya-Ku Hide": 2,
+            "Kulu-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "Rending Beaks II",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rending Beaks I",
+        "upgrade": {
+            "Boulder Bone": 3,
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 2,
+            "Radobaan Scale": 3
+        }
+    },
+    {
+        "name_en": "Rending Beaks III",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rending Beaks II",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 4,
+            "Odogaron Claw": 2,
+            "Warped Bone": 3
+        }
+    },
+    {
+        "name_en": "Arcanaria I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Sleep",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rending Beaks III",
+        "upgrade": {
+            "Kulu-Ya-Ku Beak+": 3,
+            "Kulu-Ya-Ku Hide+": 4,
+            "Kulu-Ya-Ku Scale+": 6
+        }
+    },
+    {
+        "name_en": "Arcanaria II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Sleep",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 20,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Arcanaria I",
+        "upgrade": {
+            "Brutal Bone": 3,
+            "Kulu-Ya-Ku Beak+": 4,
+            "Kulu-Ya-Ku Plume+": 3,
+            "Odogaron Claw+": 2
+        }
+    },
+    {
+        "name_en": "Arcanaria III",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Sleep",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Arcanaria II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Kulu-Ya-Ku Beak+": 5,
+            "Kulu-Ya-Ku Plume+": 4,
+            "Nergigante Talon": 2
+        }
+    },
+    {
+        "name_en": "Sworn Rapiers",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 182,
+        "element_type": "Water",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 12,
+            "orange": 13,
+            "yellow": 20,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Rending Beaks I",
+        "upgrade": {
+            "Dragonite Ore": 3,
+            "Earth Crystal": 6,
+            "Lightcrystal": 1,
+            "Machalite Ore": 5
+        }
+    },
+    {
+        "name_en": "Sworn Rapiers+",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 210,
+        "element_type": "Water",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Sworn Rapiers",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Commendation": 2,
+            "Coral Crystal": 8,
+            "Dragonvein Crystal": 4
+        }
+    },
+    {
+        "name_en": "Holy Sabers",
+        "weapon_type": "dual-blades",
+        "rarity": 252,
+        "attack": 252,
+        "element_type": "Water",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Sworn Rapiers+",
+        "upgrade": {
+            "Dragonvein Crystal": 6,
+            "High Commendation": 3,
+            "Novacrystal": 2,
+            "Wyvern Gem": 2
+        }
+    },
+    {
+        "name_en": "Bone Hachets I",
+        "weapon_type": "dual-blades",
+        "rarity": 1,
+        "attack": 140,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Hachets II",
+        "weapon_type": "dual-blades",
+        "rarity": 1,
+        "attack": 154,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Hachets III",
+        "weapon_type": "dual-blades",
+        "rarity": 2,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Wild Hachets I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Wild Hachets II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Wild Hachets I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Wild Hachets III",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Blast",
+        "element_damage": 120,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Wild Hachets II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Strong Hatchets I",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Blast",
+        "element_damage": 150,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 15,
+            "orange": 15,
+            "yellow": 15,
+            "green": 25,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Wild Hachets III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Strong Hatchets II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 12,
+            "green": 20,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Strong Hatchets I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Blazing Hachets I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 196,
+        "element_type": "Fire",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets III",
+        "upgrade": {
+            "Anjanath Fang": 2,
+            "Anjanath Scale": 3,
+            "Flame Sac": 1
+        }
+    },
+    {
+        "name_en": "Blazing Hachets II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Hachets I",
+        "upgrade": {
+            "Anjanath Fang": 4,
+            "Anjanath Nosebone": 1,
+            "Anjanath Tail": 1,
+            "Rathalos Marrow": 1
+        }
+    },
+    {
+        "name_en": "Anja Cyclone I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 238,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Hachets II",
+        "upgrade": {
+            "Anjanath Fang+": 4,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 5,
+            "Inferno Sac": 3
+        }
+    },
+    {
+        "name_en": "Anja Cyclone II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 32,
+            "orange": 18,
+            "yellow": 7,
+            "green": 18,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Anja Cyclone I",
+        "upgrade": {
+            "Anjanath Fang+": 5,
+            "Anjanath Pelt+": 4,
+            "Firecell Stone": 1,
+            "Rathalos Medulla": 2
+        }
+    },
+    {
+        "name_en": "Anja Cyclone III",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 294,
+        "element_type": "Fire",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 30,
+            "yellow": 10,
+            "green": 12,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Anja Cyclone II",
+        "upgrade": {
+            "Anjanath Fang+": 6,
+            "Anjanath Gem": 1,
+            "Anjanath Nosebone+": 2,
+            "Teostra Mane": 2
+        }
+    },
+    {
+        "name_en": "Diablos Hachets I",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 224,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Hachets I",
+        "upgrade": {
+            "Diablos Fang": 2,
+            "Diablos Shell": 4,
+            "Monster Bone+": 3,
+            "Twisted Horn": 1
+        }
+    },
+    {
+        "name_en": "Diablos Hachets II",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 266,
+        "element_type": "Ice",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Hachets I",
+        "upgrade": {
+            "Diablos Marrow": 1,
+            "Diablos Ridge": 4,
+            "Diablos Tailcase": 2,
+            "Monster Keenbone": 4
+        }
+    },
+    {
+        "name_en": "Diablos Clubs I",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 294,
+        "element_type": "Ice",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Hachets II",
+        "upgrade": {
+            "Blos Medulla": 1,
+            "Diablos Carapace": 6,
+            "Diablos Ridge+": 5,
+            "Majestic Horn": 3
+        }
+    },
+    {
+        "name_en": "Diablos Clubs II",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 322,
+        "element_type": "Ice",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 13,
+            "yellow": 15,
+            "green": 30,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Clubs I",
+        "upgrade": {
+            "Black Diablos Carapace": 4,
+            "Black Spiral Horn+": 3,
+            "Nergigante Horn+": 2,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Madness Pangas I",
+        "weapon_type": "dual-blades",
+        "rarity": 2,
+        "attack": 154,
+        "element_type": "Water",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 12,
+            "yellow": 13,
+            "green": 5,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Jyuratodus Fin": 1,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Madness Pangas II",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 182,
+        "element_type": "Water",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 17,
+            "yellow": 8,
+            "green": 7,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Pangas I",
+        "upgrade": {
+            "Gajau Skin": 3,
+            "Great Girros Hide": 2,
+            "Jyuratodus Fin": 3,
+            "Jyuratodus Shell": 3
+        }
+    },
+    {
+        "name_en": "Madness Pangas III",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": "Water",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Pangas II",
+        "upgrade": {
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Jyuratodus Shell": 3,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Jyura Hatchets I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 238,
+        "element_type": "Water",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 17,
+            "yellow": 8,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": {
+            "Carbalite Ore": 5,
+            "Jyuratodus Carapace": 4,
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Scale+": 5
+        },
+        "previous": "Madness Pangas III",
+        "upgrade": {
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Fin+": 2,
+            "Jyuratodus Scale+": 3
+        }
+    },
+    {
+        "name_en": "Jyura Hatchets II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Water",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Hatchets I",
+        "upgrade": {
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Monster Hardbone": 3,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Jyura Hatchets III",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 266,
+        "element_type": "Water",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 40,
+            "orange": 25,
+            "yellow": 7,
+            "green": 8,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Hatchets II",
+        "upgrade": {
+            "Elder Dragon Bone": 2,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Lava Cyclone I",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Fire",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Jyura Hatchets I",
+        "upgrade": {
+            "Lavasioth Fang+": 2,
+            "Lavasioth Fin+": 2,
+            "Lavasioth Scale+": 4
+        }
+    },
+    {
+        "name_en": "Lava Cyclone II",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 252,
+        "element_type": "Fire",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            2,
+            0
+        ],
+        "craft": null,
+        "previous": "Lava Cyclone I",
+        "upgrade": {
+            "Lavasioth Fang+": 3,
+            "Lavasioth Fin+": 3,
+            "Teostra Mane": 2,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Taurus Pangas I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Madness Pangas I",
+        "upgrade": {
+            "Hornetaur Shell": 3,
+            "Hornetaur Wing": 2,
+            "Monster Fluid": 2
+        }
+    },
+    {
+        "name_en": "Taurus Pangas II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Taurus Pangas I",
+        "upgrade": {
+            "Hornetaur Head": 2,
+            "Hornetaur Shell": 5,
+            "Hornetaur Wing": 4,
+            "Odogaron Fang": 2
+        }
+    },
+    {
+        "name_en": "Dark Ripper I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Paralysis",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Taurus Pangas II",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Monster Broth": 2
+        }
+    },
+    {
+        "name_en": "Dark Ripper II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 210,
+        "element_type": "Paralysis",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Ripper I",
+        "upgrade": {
+            "Azure Rathalos Wing": 2,
+            "Hornetaur Carapace": 5,
+            "Hornetaur Innerwing": 4,
+            "Novacrystal": 1
+        }
+    },
+    {
+        "name_en": "Dark Ripper III",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 224,
+        "element_type": "Paralysis",
+        "element_damage": 90,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 27,
+            "orange": 8,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 7
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dark Ripper II",
+        "upgrade": {
+            "Hornetaur Carapace": 8,
+            "Hornetaur Innerwing": 6,
+            "Vaal Hazak Fang+": 3,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Pulsar Hachets I",
+        "weapon_type": "dual-blades",
+        "rarity": 2,
+        "attack": 154,
+        "element_type": "Thunder",
+        "element_damage": 60,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 13,
+            "yellow": 12,
+            "green": 8,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Hachets II",
+        "upgrade": {
+            "Tobi-Kadachi Claw": 1,
+            "Tobi-Kadachi Pelt": 2,
+            "Tobi-Kadachi Scale": 3
+        }
+    },
+    {
+        "name_en": "Pulsar Hachets II",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 168,
+        "element_type": "Thunder",
+        "element_damage": 60,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 17,
+            "yellow": 8,
+            "green": 12,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Hachets I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Electro Sac": 2,
+            "Tobi-Kadachi Claw": 3,
+            "Tobi-Kadachi Electrode": 2
+        }
+    },
+    {
+        "name_en": "Pulsar Hachets III",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 196,
+        "element_type": "Thunder",
+        "element_damage": 60,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 18,
+            "yellow": 7,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Hachets II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2,
+            "Warped Bone": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Claws I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Thunder",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 5,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Hachets III",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Tobi-Kadachi Claw+": 3,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4
+        }
+    },
+    {
+        "name_en": "Kadachi Claws II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 238,
+        "element_type": "Thunder",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Claws I",
+        "upgrade": {
+            "Majestic Horn": 2,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Claw+": 4,
+            "Tobi-Kadachi Electrode+": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Claws III",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 252,
+        "element_type": "Thunder",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Claws II",
+        "upgrade": {
+            "Nergigante Talon": 2,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Garon Hatchets I",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 182,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 20,
+            "orange": 17,
+            "yellow": 8,
+            "green": 17,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Hachets II",
+        "upgrade": {
+            "Odogaron Claw": 2,
+            "Odogaron Fang": 2,
+            "Odogaron Scale": 4
+        }
+    },
+    {
+        "name_en": "Garon Hatchets II",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 196,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 22,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 8,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Garon Hatchets I",
+        "upgrade": {
+            "Odogaron Claw": 2,
+            "Odogaron Plate": 1,
+            "Odogaron Tail": 2,
+            "Quality Bone": 5
+        }
+    },
+    {
+        "name_en": "Blood-drinker Chainblade",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 210,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 20,
+            "orange": 25,
+            "yellow": 10,
+            "green": 10,
+            "blue": 10,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Garon Hatchets II",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Odogaron Claw+": 4,
+            "Odogaron Fang+": 3,
+            "Odogaron Scale+": 8
+        }
+    },
+    {
+        "name_en": "Sin",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 224,
+        "element_type": "Fire",
+        "element_damage": 180,
+        "element_hidden": true,
+        "sharpness": {
+            "red": 50,
+            "orange": 17,
+            "yellow": 5,
+            "green": 5,
+            "blue": 13,
+            "white": 10
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blood-drinker Chainblade",
+        "upgrade": {
+            "Odogaron Claw+": 6,
+            "Odogaron Fang+": 5,
+            "Odogaron Gem": 1,
+            "Teostra Claw+": 2
+        }
+    },
+    {
+        "name_en": "Dragonbone Twinblades I",
+        "weapon_type": "dual-blades",
+        "rarity": 3,
+        "attack": 140,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 18,
+            "yellow": 7,
+            "green": 10,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Twinblades II",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 168,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Twinblades I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Enduring Schism",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 196,
+        "element_type": "Dragon",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 28,
+            "yellow": 10,
+            "green": 10,
+            "blue": 12,
+            "white": 0
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Twinblades II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Kirin Bolts",
+        "weapon_type": "dual-blades",
+        "rarity": 4,
+        "attack": 154,
+        "element_type": "Thunder",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 17,
+            "orange": 18,
+            "yellow": 7,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Twinblades I",
+        "upgrade": {
+            "Kirin Hide": 3,
+            "Kirin Tail": 1,
+            "Kirin Thunderhorn": 3,
+            "Lightcrystal": 1
+        }
+    },
+    {
+        "name_en": "Kirin Bolts+",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 196,
+        "element_type": "Thunder",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 35,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kirin Bolts",
+        "upgrade": {
+            "Dragonvein Crystal": 5,
+            "Kirin Azure Horn": 4,
+            "Kirin Hide+": 5,
+            "Kirin Mane": 4
+        }
+    },
+    {
+        "name_en": "Monarch",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 224,
+        "element_type": "Thunder",
+        "element_damage": 270,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 5,
+            "yellow": 5,
+            "green": 30,
+            "blue": 20,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kirin Bolts+",
+        "upgrade": {
+            "Kirin Azure Horn": 6,
+            "Kirin Thundertail": 3,
+            "Novacrystal": 2,
+            "Xeno'jiiva Shell": 4
+        }
+    },
+    {
+        "name_en": "Magda Ungulae I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 224,
+        "element_type": "Blast",
+        "element_damage": 180,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 27,
+            "orange": 13,
+            "yellow": 20,
+            "green": 15,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Twinblades I",
+        "upgrade": {
+            "Zorah Magdaros Carapace": 8,
+            "Zorah Magdaros Gem": 1,
+            "Zorah Magdaros Heat Scale": 4,
+            "Zorah Magdaros Magma": 4
+        }
+    },
+    {
+        "name_en": "Magda Ungulae II",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 308,
+        "element_type": "Blast",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 45,
+            "orange": 7,
+            "yellow": 15,
+            "green": 20,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Magda Ungulae I",
+        "upgrade": {
+            "Firecell Stone": 3,
+            "Xeno'jiiva Shell": 4,
+            "Zorah Magdaros Pleura": 2,
+            "Zorah Magdaros Ridge": 2
+        }
+    },
+    {
+        "name_en": "Blacksteel Twins I",
+        "weapon_type": "dual-blades",
+        "rarity": 5,
+        "attack": 140,
+        "element_type": "Dragon",
+        "element_damage": 90,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 37,
+            "orange": 28,
+            "yellow": 10,
+            "green": 0,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Twins II",
+        "weapon_type": "dual-blades",
+        "rarity": 6,
+        "attack": 154,
+        "element_type": "Dragon",
+        "element_damage": 120,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 35,
+            "orange": 27,
+            "yellow": 10,
+            "green": 3,
+            "blue": 0,
+            "white": 0
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Twins I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Twin Nails",
+        "weapon_type": "dual-blades",
+        "rarity": 7,
+        "attack": 238,
+        "element_type": "Ice",
+        "element_damage": 210,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 25,
+            "orange": 15,
+            "yellow": 20,
+            "green": 20,
+            "blue": 7,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Twins II",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Firecell Stone": 2,
+            "Teostra Claw+": 2,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Fire and Ice",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 252,
+        "element_type": "Ice",
+        "element_damage": 240,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 15,
+            "orange": 12,
+            "yellow": 15,
+            "green": 30,
+            "blue": 15,
+            "white": 0
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Twin Nails",
+        "upgrade": {
+            "Daora Horn+": 3,
+            "Novacrystal": 2,
+            "Teostra Horn+": 3,
+            "Xeno'jiiva Claw": 2
+        }
+    },
+    {
+        "name_en": "Xeno Raqs",
+        "weapon_type": "dual-blades",
+        "rarity": 8,
+        "attack": 238,
+        "element_type": "Dragon",
+        "element_damage": 150,
+        "element_hidden": false,
+        "sharpness": {
+            "red": 30,
+            "orange": 7,
+            "yellow": 15,
+            "green": 20,
+            "blue": 10,
+            "white": 5
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Twins II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    }
+]

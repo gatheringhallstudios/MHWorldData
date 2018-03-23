@@ -1,0 +1,7962 @@
+[
+    {
+        "name_en": "Iron Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 1,
+        "attack": 150,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Iron Ore": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Iron Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 1,
+        "attack": 165,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Assault I",
+        "upgrade": {
+            "Iron Ore": 2
+        }
+    },
+    {
+        "name_en": "Iron Assault III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 180,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Assault II",
+        "upgrade": {
+            "Earth Crystal": 2,
+            "Iron Ore": 5,
+            "Machalite Ore": 2
+        }
+    },
+    {
+        "name_en": "Steel Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Assault III",
+        "upgrade": {
+            "Dragonite Ore": 2,
+            "Machalite Ore": 5,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Steel Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Assault I",
+        "upgrade": {
+            "Coral Crystal": 2,
+            "Dragonite Ore": 5,
+            "Machalite Ore": 10,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Steel Assault III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Assault II",
+        "upgrade": {
+            "Carbalite Ore": 8,
+            "Dragonite Ore": 5,
+            "Dragonvein Crystal": 2
+        }
+    },
+    {
+        "name_en": "Chrome Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Steel Assault III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Dragonite Ore": 10,
+            "Dragonvein Crystal": 3,
+            "Fucium Ore": 8
+        }
+    },
+    {
+        "name_en": "Chrome Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                5,
+                4
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                3
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Assault I",
+        "upgrade": {
+            "Carbalite Ore": 20,
+            "Elder Dragon Blood": 2,
+            "Firecell Stone": 1,
+            "Fucium Ore": 13
+        }
+    },
+    {
+        "name_en": "Nergal Roar",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                0,
+                0
+            ],
+            "spread": [
+                1,
+                3,
+                3
+            ],
+            "sticky": [
+                0,
+                2,
+                1
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                1
+            ],
+            "sleep": [
+                0,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                4
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                2
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Chrome Assault I",
+        "upgrade": {
+            "Nergigante Carapace": 2,
+            "Nergigante Regrowth Plate": 4,
+            "Nergigante Tail": 2,
+            "Nergigante Talon": 3
+        }
+    },
+    {
+        "name_en": "Destruction's Fusillade",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 8,
+        "attack": 285,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                0,
+                0
+            ],
+            "spread": [
+                1,
+                3,
+                3
+            ],
+            "sticky": [
+                0,
+                2,
+                1
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                1
+            ],
+            "sleep": [
+                0,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                4
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                2
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nergal Roar",
+        "upgrade": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 5,
+            "Nergigante Talon": 5,
+            "Xeno'jiiva Horn": 2
+        }
+    },
+    {
+        "name_en": "Aqua Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 180,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Assault II",
+        "upgrade": {
+            "Aqua Sac": 1,
+            "Earth Crystal": 3,
+            "Jyuratodus Scale": 3,
+            "Jyuratodus Shell": 1
+        }
+    },
+    {
+        "name_en": "Aqua Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Assault I",
+        "upgrade": {
+            "Dragonite Ore": 5,
+            "Gajau Skin": 3,
+            "Jyuratodus Fang": 2,
+            "Jyuratodus Fin": 3
+        }
+    },
+    {
+        "name_en": "Aqua Assault III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Assault II",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Gajau Whisker": 3,
+            "Jyuratodus Fang": 4,
+            "Monster Bone+": 2
+        }
+    },
+    {
+        "name_en": "Water Cannon I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Assault III",
+        "upgrade": {
+            "Carbalite Ore": 5,
+            "Gajau Scale": 5,
+            "Jyuratodus Carapace": 2,
+            "Jyuratodus Scale+": 3
+        }
+    },
+    {
+        "name_en": "Water Cannon II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Water Cannon I",
+        "upgrade": {
+            "Fucium Ore": 5,
+            "Grand Gajau Whisker": 3,
+            "Jyuratodus Fin+": 4,
+            "Torrent Sac": 3
+        }
+    },
+    {
+        "name_en": "Water Cannon III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                6,
+                5,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                0
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                5
+            ],
+            "paralysis": [
+                1,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Water Cannon II",
+        "upgrade": {
+            "Elder Dragon Blood": 3,
+            "Jyuratodus Fang+": 5,
+            "Jyuratodus Fin+": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Luminous Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                3
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                3
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Aqua Assault I",
+        "upgrade": {
+            "Tzitzi-Ya-Ku Claw": 2,
+            "Tzitzi-Ya-Ku Photophore": 1,
+            "Tzitzi-Ya-Ku Scale": 3
+        }
+    },
+    {
+        "name_en": "Luminous Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                3
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                3
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Luminous Assault I",
+        "upgrade": {
+            "Legiana Tail Webbing": 2,
+            "Sharp Claw": 3,
+            "Tzitzi-Ya-Ku Claw": 3,
+            "Tzitzi-Ya-Ku Photophore": 2
+        }
+    },
+    {
+        "name_en": "Arma Destroyer I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                3
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                3
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Luminous Assault II",
+        "upgrade": {
+            "Lightcrystal": 1,
+            "Tzitzi-Ya-Ku Claw+": 3,
+            "Tzitzi-Ya-Ku Photophore+": 1,
+            "Tzitzi-Ya-Ku Scale+": 5
+        }
+    },
+    {
+        "name_en": "Arma Destroyer II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                3
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                3
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Arma Destroyer I",
+        "upgrade": {
+            "Legiana Wing": 2,
+            "Piercing Claw": 5,
+            "Tzitzi-Ya-Ku Claw+": 4,
+            "Tzitzi-Ya-Ku Photophore+": 2
+        }
+    },
+    {
+        "name_en": "Arma Destroyer III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                3,
+                3
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                3
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Arma Destroyer II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Daora Webbing": 2,
+            "Tzitzi-Ya-Ku Claw+": 5,
+            "Tzitzi-Ya-Ku Photophore+": 3
+        }
+    },
+    {
+        "name_en": "Shattercryst",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                10,
+                8,
+                6
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                3,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                1,
+                4
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                5
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Frost Sac": 3,
+            "Legiana Claw": 4,
+            "Legiana Plate": 1,
+            "Legiana Tail Webbing": 3
+        },
+        "previous": "Luminous Assault I",
+        "upgrade": {
+            "Frost Sac": 2,
+            "Legiana Claw": 3,
+            "Legiana Scale": 4
+        }
+    },
+    {
+        "name_en": "Shattercryst+",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                10,
+                8,
+                6
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                3,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                1,
+                4
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                5
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Shattercryst",
+        "upgrade": {
+            "Freezer Sac": 2,
+            "Legiana Claw+": 3,
+            "Legiana Scale+": 5,
+            "Legiana Wing": 3
+        }
+    },
+    {
+        "name_en": "Legia Shattercryst",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                10,
+                8,
+                6
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                3,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                1,
+                4
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                5
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Shattercryst+",
+        "upgrade": {
+            "Daora Claw+": 2,
+            "Legiana Claw+": 5,
+            "Legiana Gem": 1,
+            "Legiana Hide+": 3
+        }
+    },
+    {
+        "name_en": "Jagras Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 180,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Iron Assault II",
+        "upgrade": {
+            "Great Jagras Claw": 1,
+            "Great Jagras Hide": 1,
+            "Great Jagras Scale": 3,
+            "Sharp Claw": 1
+        }
+    },
+    {
+        "name_en": "Jagras Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Assault I",
+        "upgrade": {
+            "Coral Bone": 2,
+            "Great Jagras Claw": 2,
+            "Great Jagras Mane": 2,
+            "Tzitzi-Ya-Ku Claw": 3
+        }
+    },
+    {
+        "name_en": "Jagras Assault III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Assault II",
+        "upgrade": {
+            "Great Jagras Claw": 3,
+            "Great Jagras Mane": 3,
+            "Great Jagras Scale": 5,
+            "Monster Bone+": 3
+        }
+    },
+    {
+        "name_en": "Jagras Cannon I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Assault III",
+        "upgrade": {
+            "Great Jagras Claw+": 4,
+            "Great Jagras Mane": 6,
+            "Great Jagras Scale+": 6,
+            "Piercing Claw": 5
+        }
+    },
+    {
+        "name_en": "Jagras Cannon II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Cannon I",
+        "upgrade": {
+            "Great Jagras Claw+": 6,
+            "Jagras Hide+": 6,
+            "Monster Hardbone": 4,
+            "Tzitzi-Ya-Ku Claw+": 5
+        }
+    },
+    {
+        "name_en": "Jagras Cannon III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                0
+            ],
+            "pierce": [
+                5,
+                0,
+                0
+            ],
+            "spread": [
+                10,
+                6,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                0
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Cannon II",
+        "upgrade": {
+            "Great Jagras Claw+": 8,
+            "Great Jagras Hide+": 6,
+            "Novacrystal": 1,
+            "Vaal Hazak Talon": 2
+        }
+    },
+    {
+        "name_en": "Blazing Assault I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                6
+            ],
+            "pierce": [
+                9,
+                7,
+                0
+            ],
+            "spread": [
+                9,
+                6,
+                5
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                3,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                5,
+                5
+            ],
+            "paralysis": [
+                4,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Jagras Assault I",
+        "upgrade": {
+            "Anjanath Fang": 2,
+            "Anjanath Scale": 3,
+            "Flame Sac": 1
+        }
+    },
+    {
+        "name_en": "Blazing Assault II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                6
+            ],
+            "pierce": [
+                9,
+                7,
+                0
+            ],
+            "spread": [
+                9,
+                6,
+                5
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                3,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                5,
+                5
+            ],
+            "paralysis": [
+                4,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Assault I",
+        "upgrade": {
+            "Anjanath Fang": 4,
+            "Anjanath Nosebone": 1,
+            "Anjanath Tail": 1,
+            "Rathalos Marrow": 1
+        }
+    },
+    {
+        "name_en": "Flammenkanone",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                6
+            ],
+            "pierce": [
+                9,
+                7,
+                0
+            ],
+            "spread": [
+                9,
+                6,
+                5
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                3,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                5,
+                5
+            ],
+            "paralysis": [
+                4,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blazing Assault II",
+        "upgrade": {
+            "Anjanath Fang+": 4,
+            "Anjanath Plate": 1,
+            "Anjanath Scale+": 5,
+            "Inferno Sac": 3
+        }
+    },
+    {
+        "name_en": "Gnashing Flammenkanone",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 300,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                6
+            ],
+            "pierce": [
+                9,
+                7,
+                0
+            ],
+            "spread": [
+                9,
+                6,
+                5
+            ],
+            "sticky": [
+                4,
+                3,
+                0
+            ],
+            "cluster": [
+                3,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                5,
+                5
+            ],
+            "paralysis": [
+                4,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Flammenkanone",
+        "upgrade": {
+            "Anjanath Fang+": 6,
+            "Anjanath Gem": 1,
+            "Anjanath Nosebone+": 2,
+            "Teostra Mane": 2
+        }
+    },
+    {
+        "name_en": "Bone Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 1,
+        "attack": 150,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Monster Bone S": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Bone Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 1,
+        "attack": 165,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shooter I",
+        "upgrade": {
+            "Monster Bone S": 2
+        }
+    },
+    {
+        "name_en": "Bone Shooter III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shooter II",
+        "upgrade": {
+            "Ancient Bone": 1,
+            "Monster Bone M": 2
+        }
+    },
+    {
+        "name_en": "Heavy Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shooter III",
+        "upgrade": {
+            "Boulder Bone": 2,
+            "Monster Bone L": 1,
+            "Monster Bone M": 5
+        }
+    },
+    {
+        "name_en": "Heavy Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Shooter I",
+        "upgrade": {
+            "Monster Bone L": 1,
+            "Monster Bone+": 2,
+            "Sturdy Bone": 4
+        }
+    },
+    {
+        "name_en": "Heavy Shooter III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Shooter II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Monster Keenbone": 2,
+            "Quality Bone": 2
+        }
+    },
+    {
+        "name_en": "Power Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Shooter III",
+        "upgrade": {
+            "Monster Hardbone": 4,
+            "Monster Keenbone": 6,
+            "Quality Bone": 10
+        }
+    },
+    {
+        "name_en": "Power Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                9,
+                6,
+                5
+            ],
+            "pierce": [
+                7,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                4,
+                0
+            ],
+            "sticky": [
+                3,
+                0,
+                0
+            ],
+            "cluster": [
+                2,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                4,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                3,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                3
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            1
+        ],
+        "craft": null,
+        "previous": "Power Shooter I",
+        "upgrade": {
+            "Dragonbone Relic": 1,
+            "Elder Dragon Bone": 4,
+            "Monster Hardbone": 6,
+            "Quality Bone": 20
+        }
+    },
+    {
+        "name_en": "Diablos Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Heavy Shooter I",
+        "upgrade": {
+            "Diablos Fang": 2,
+            "Diablos Shell": 4,
+            "Monster Bone+": 3,
+            "Twisted Horn": 1
+        }
+    },
+    {
+        "name_en": "Diablos Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Shooter I",
+        "upgrade": {
+            "Diablos Marrow": 1,
+            "Diablos Ridge": 4,
+            "Diablos Tailcase": 2,
+            "Monster Keenbone": 4
+        }
+    },
+    {
+        "name_en": "Dual Threat",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 300,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Diablos Shooter II",
+        "upgrade": {
+            "Blos Medulla": 1,
+            "Diablos Carapace": 6,
+            "Diablos Ridge+": 5,
+            "Majestic Horn": 3
+        }
+    },
+    {
+        "name_en": "Nero's Blazooka",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 315,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dual Threat",
+        "upgrade": {
+            "Black Diablos Carapace": 4,
+            "Black Diablos Ridge+": 2,
+            "Black Spiral Horn+": 1,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Griffon Blazooka",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 8,
+        "attack": 330,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                1,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Nero's Blazooka",
+        "upgrade": {
+            "Black Diablos Carapace": 6,
+            "Black Spiral Horn+": 3,
+            "Dragonbone Relic": 2,
+            "Xeno'jiiva Tail": 2
+        }
+    },
+    {
+        "name_en": "Blooming Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 180,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shooter II",
+        "upgrade": {
+            "Poison Sac": 1,
+            "Pukei-Pukei Quill": 2,
+            "Pukei-Pukei Scale": 3
+        }
+    },
+    {
+        "name_en": "Blooming Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Shooter I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Pukei-Pukei Sac": 2,
+            "Pukei-Pukei Shell": 3,
+            "Pukei-Pukei Tail": 1
+        }
+    },
+    {
+        "name_en": "Blooming Shooter III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Shooter II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Poison Sac": 2,
+            "Pukei-Pukei Quill": 4,
+            "Pukei-Pukei Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blaster I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Shooter III",
+        "upgrade": {
+            "Pukei-Pukei Scale+": 3,
+            "Pukei-Pukei Wing": 2,
+            "Quality Bone": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blaster II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Blaster I",
+        "upgrade": {
+            "Monster Hardbone": 3,
+            "Pukei-Pukei Carapace": 5,
+            "Pukei-Pukei Wing": 3,
+            "Toxin Sac": 2
+        }
+    },
+    {
+        "name_en": "Datura Blaster III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                10,
+                8,
+                0
+            ],
+            "spread": [
+                3,
+                2,
+                1
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                3,
+                0,
+                0
+            ],
+            "recover": [
+                1,
+                1
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                2,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Datura Blaster II",
+        "upgrade": {
+            "Bird Wyvern Gem": 1,
+            "Pukei-Pukei Sac+": 4,
+            "Pukei-Pukei Wing": 6,
+            "Vaal Hazak Wing": 2
+        }
+    },
+    {
+        "name_en": "Spiked Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                1,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                1
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                4
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blooming Shooter I",
+        "upgrade": {
+            "Radobaan Scale": 4,
+            "Sleep Sac": 2,
+            "Wyvern Bonemass": 2
+        }
+    },
+    {
+        "name_en": "Spiked Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                1,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                1
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                4
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Spiked Shooter I",
+        "upgrade": {
+            "Monster Bone+": 3,
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Wyvern Bonemass": 3
+        }
+    },
+    {
+        "name_en": "Baan Roar I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                1,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                1
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                4
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Radobaan Carapace": 6,
+            "Radobaan Medulla": 2,
+            "Radobaan Oilshell": 5,
+            "Wyvern Gem": 1
+        },
+        "previous": "Spiked Shooter II",
+        "upgrade": {
+            "Coma Sac": 2,
+            "Monster Keenbone": 3,
+            "Radobaan Carapace": 4,
+            "Radobaan Oilshell": 3
+        }
+    },
+    {
+        "name_en": "Baan Roar II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                1,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                1
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                4
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Baan Roar I",
+        "upgrade": {
+            "Coma Sac": 3,
+            "Monster Hardbone": 5,
+            "Radobaan Medulla": 1,
+            "Radobaan Scale+": 8
+        }
+    },
+    {
+        "name_en": "Baan Roar III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                2
+            ],
+            "spread": [
+                1,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                0,
+                0
+            ],
+            "cluster": [
+                1,
+                1,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                0
+            ],
+            "paralysis": [
+                2,
+                1
+            ],
+            "sleep": [
+                2,
+                1
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                4
+            ],
+            "water": [
+                4
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                1
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Baan Roar II",
+        "upgrade": {
+            "Coma Sac": 4,
+            "Elder Dragon Bone": 5,
+            "Radobaan Carapace": 6,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Gama Cannon I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                0
+            ],
+            "spread": [
+                1,
+                3,
+                0
+            ],
+            "sticky": [
+                2,
+                2,
+                1
+            ],
+            "cluster": [
+                0,
+                1,
+                1
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                4
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Baan Roar I",
+        "upgrade": {
+            "Dodogama Hide+": 4,
+            "Dodogama Scale+": 6,
+            "Dodogama Talon": 4
+        }
+    },
+    {
+        "name_en": "Gama Cannon II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                1,
+                5,
+                3
+            ],
+            "pierce": [
+                4,
+                3,
+                0
+            ],
+            "spread": [
+                1,
+                3,
+                0
+            ],
+            "sticky": [
+                2,
+                2,
+                1
+            ],
+            "cluster": [
+                0,
+                1,
+                1
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                2,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                4
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                2
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Gama Cannon I",
+        "upgrade": {
+            "Dodogama Jaw": 4,
+            "Dodogama Tail": 3,
+            "Fire Dragon Scale+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Pulsar Shooter I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 2,
+        "attack": 180,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Bone Shooter II",
+        "upgrade": {
+            "Tobi-Kadachi Claw": 1,
+            "Tobi-Kadachi Pelt": 2,
+            "Tobi-Kadachi Scale": 3
+        }
+    },
+    {
+        "name_en": "Pulsar Shooter II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shooter I",
+        "upgrade": {
+            "Coral Crystal": 3,
+            "Electro Sac": 2,
+            "Tobi-Kadachi Claw": 3,
+            "Tobi-Kadachi Electrode": 2
+        }
+    },
+    {
+        "name_en": "Pulsar Shooter III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shooter II",
+        "upgrade": {
+            "Monster Bone+": 2,
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Membrane": 2,
+            "Warped Bone": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Lion I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 225,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Pulsar Shooter III",
+        "upgrade": {
+            "Dragonvein Crystal": 3,
+            "Tobi-Kadachi Claw+": 3,
+            "Tobi-Kadachi Pelt+": 3,
+            "Tobi-Kadachi Scale+": 4
+        }
+    },
+    {
+        "name_en": "Kadachi Lion II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Lion I",
+        "upgrade": {
+            "Majestic Horn": 2,
+            "Thunder Sac": 3,
+            "Tobi-Kadachi Claw+": 4,
+            "Tobi-Kadachi Electrode+": 2
+        }
+    },
+    {
+        "name_en": "Kadachi Lion III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "None",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                10,
+                9,
+                0
+            ],
+            "pierce": [
+                9,
+                7,
+                5
+            ],
+            "spread": [
+                9,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                3,
+                0
+            ],
+            "cluster": [
+                0,
+                2,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                4,
+                3
+            ],
+            "sleep": [
+                4,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                4
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Kadachi Lion II",
+        "upgrade": {
+            "Nergigante Talon": 2,
+            "Tobi-Kadachi Claw+": 6,
+            "Tobi-Kadachi Electrode+": 4,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Dragonbone Cannon I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 3,
+        "attack": 150,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                0,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                0
+            ],
+            "exhaust": [
+                7,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                3
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Ancient Bone": 5,
+            "Boulder Bone": 5,
+            "Coral Bone": 5,
+            "Warped Bone": 5
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Dragonbone Cannon II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 210,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                0,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                0
+            ],
+            "exhaust": [
+                7,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                3
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Cannon I",
+        "upgrade": {
+            "Monster Bone L": 8,
+            "Monster Bone+": 6,
+            "Sturdy Bone": 8
+        }
+    },
+    {
+        "name_en": "Dragonbone Cannon III",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                0,
+                0
+            ],
+            "pierce": [
+                6,
+                0,
+                0
+            ],
+            "spread": [
+                6,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                7,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                5,
+                0
+            ],
+            "exhaust": [
+                7,
+                0
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                3
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Cannon II",
+        "upgrade": {
+            "Brutal Bone": 4,
+            "Dragonbone Relic": 2,
+            "Elder Dragon Bone": 10,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Quickcaster",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 4,
+        "attack": 195,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                5,
+                3
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                6
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                7
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Cannon I",
+        "upgrade": {
+            "Kirin Hide": 3,
+            "Kirin Tail": 1,
+            "Kirin Thunderhorn": 3,
+            "Lightcrystal": 1
+        }
+    },
+    {
+        "name_en": "Quickcaster+",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                5,
+                3
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                6
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                7
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Quickcaster",
+        "upgrade": {
+            "Dragonvein Crystal": 5,
+            "Kirin Azure Horn": 4,
+            "Kirin Hide+": 5,
+            "Kirin Mane": 4
+        }
+    },
+    {
+        "name_en": "Quickquiver",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 8,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                0
+            ],
+            "pierce": [
+                6,
+                5,
+                3
+            ],
+            "spread": [
+                0,
+                0,
+                0
+            ],
+            "sticky": [
+                4,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                1,
+                4
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                6
+            ],
+            "flaming": [
+                0
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                7
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Quickcaster+",
+        "upgrade": {
+            "Kirin Azure Horn": 6,
+            "Kirin Thundertail": 3,
+            "Novacrystal": 2,
+            "Xeno'jiiva Shell": 4
+        }
+    },
+    {
+        "name_en": "Magda Gemitus I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 240,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                0,
+                0,
+                3
+            ],
+            "spread": [
+                0,
+                0,
+                3
+            ],
+            "sticky": [
+                0,
+                3,
+                3
+            ],
+            "cluster": [
+                0,
+                1,
+                1
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                0,
+                5
+            ],
+            "paralysis": [
+                0,
+                4
+            ],
+            "sleep": [
+                0,
+                3
+            ],
+            "exhaust": [
+                7,
+                6
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Dragonbone Cannon I",
+        "upgrade": {
+            "Zorah Magdaros Carapace": 8,
+            "Zorah Magdaros Gem": 1,
+            "Zorah Magdaros Heat Scale": 4,
+            "Zorah Magdaros Magma": 4
+        }
+    },
+    {
+        "name_en": "Magda Gemitus II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 315,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "High",
+        "special_ammo": "Wyvernsnipe",
+        "ammo": {
+            "normal": [
+                7,
+                6,
+                4
+            ],
+            "pierce": [
+                0,
+                0,
+                3
+            ],
+            "spread": [
+                0,
+                0,
+                3
+            ],
+            "sticky": [
+                0,
+                3,
+                3
+            ],
+            "cluster": [
+                0,
+                1,
+                1
+            ],
+            "recover": [
+                2,
+                0
+            ],
+            "poison": [
+                0,
+                5
+            ],
+            "paralysis": [
+                0,
+                4
+            ],
+            "sleep": [
+                0,
+                3
+            ],
+            "exhaust": [
+                7,
+                6
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                0
+            ],
+            "armor": [
+                2
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            1,
+            0
+        ],
+        "craft": null,
+        "previous": "Magda Gemitus I",
+        "upgrade": {
+            "Firecell Stone": 3,
+            "Xeno'jiiva Shell": 4,
+            "Zorah Magdaros Pleura": 2,
+            "Zorah Magdaros Ridge": 2
+        }
+    },
+    {
+        "name_en": "Blacksteel Cannon I",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 5,
+        "attack": 150,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                3,
+                0,
+                0
+            ],
+            "pierce": [
+                4,
+                0,
+                0
+            ],
+            "spread": [
+                3,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                6,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                5,
+                0
+            ],
+            "exhaust": [
+                5,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                2
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": {
+            "Coral Crystal": 10,
+            "Dragonvein Crystal": 10,
+            "Earth Crystal": 10,
+            "Lightcrystal": 1
+        },
+        "previous": null,
+        "upgrade": null
+    },
+    {
+        "name_en": "Blacksteel Cannon II",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 6,
+        "attack": 165,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                3,
+                0,
+                0
+            ],
+            "pierce": [
+                4,
+                0,
+                0
+            ],
+            "spread": [
+                3,
+                0,
+                0
+            ],
+            "sticky": [
+                0,
+                0,
+                0
+            ],
+            "cluster": [
+                0,
+                0,
+                0
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                6,
+                0
+            ],
+            "paralysis": [
+                3,
+                0
+            ],
+            "sleep": [
+                5,
+                0
+            ],
+            "exhaust": [
+                5,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                2
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Cannon I",
+        "upgrade": {
+            "Carbalite Ore": 10,
+            "Firecell Stone": 1,
+            "Fucium Ore": 5,
+            "Wyvern Gem": 1
+        }
+    },
+    {
+        "name_en": "Teostra's Artillery",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 7,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                5,
+                4,
+                2
+            ],
+            "spread": [
+                10,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                2,
+                1
+            ],
+            "cluster": [
+                1,
+                1,
+                1
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                2
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Blacksteel Cannon II",
+        "upgrade": {
+            "Teostra Carapace": 5,
+            "Teostra Claw+": 2,
+            "Teostra Mane": 2,
+            "Teostra Powder": 4
+        }
+    },
+    {
+        "name_en": "Teostra's Flames",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 8,
+        "attack": 270,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Low",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                5,
+                4,
+                3
+            ],
+            "pierce": [
+                5,
+                4,
+                2
+            ],
+            "spread": [
+                10,
+                0,
+                0
+            ],
+            "sticky": [
+                2,
+                2,
+                1
+            ],
+            "cluster": [
+                1,
+                1,
+                1
+            ],
+            "recover": [
+                0,
+                0
+            ],
+            "poison": [
+                3,
+                2
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                0
+            ],
+            "flaming": [
+                5
+            ],
+            "water": [
+                0
+            ],
+            "freeze": [
+                0
+            ],
+            "thunder": [
+                0
+            ],
+            "dragon": [
+                0
+            ],
+            "slicing": [
+                1
+            ],
+            "wyvern": [
+                2
+            ],
+            "demon": [
+                1
+            ],
+            "armor": [
+                0
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "craft": null,
+        "previous": "Teostra's Artillery",
+        "upgrade": {
+            "Teostra Claw+": 2,
+            "Teostra Gem": 1,
+            "Teostra Horn+": 5,
+            "Xeno'jiiva Soulscale": 5
+        }
+    },
+    {
+        "name_en": "Xeno Jiiqa",
+        "weapon_type": "heavy-bowgun",
+        "rarity": 8,
+        "attack": 255,
+        "element_type": null,
+        "element_damage": null,
+        "element_hidden": false,
+        "deviation": "Average",
+        "special_ammo": "Wyvernheart",
+        "ammo": {
+            "normal": [
+                10,
+                0,
+                6
+            ],
+            "pierce": [
+                0,
+                7,
+                5
+            ],
+            "spread": [
+                0,
+                6,
+                5
+            ],
+            "sticky": [
+                0,
+                0,
+                2
+            ],
+            "cluster": [
+                0,
+                0,
+                1
+            ],
+            "recover": [
+                0,
+                2
+            ],
+            "poison": [
+                0,
+                0
+            ],
+            "paralysis": [
+                0,
+                0
+            ],
+            "sleep": [
+                0,
+                0
+            ],
+            "exhaust": [
+                0,
+                6
+            ],
+            "flaming": [
+                7
+            ],
+            "water": [
+                7
+            ],
+            "freeze": [
+                7
+            ],
+            "thunder": [
+                7
+            ],
+            "dragon": [
+                3
+            ],
+            "slicing": [
+                0
+            ],
+            "wyvern": [
+                1
+            ],
+            "demon": [
+                2
+            ],
+            "armor": [
+                3
+            ],
+            "tranq": [
+                3
+            ]
+        },
+        "slots": [
+            0,
+            0,
+            2
+        ],
+        "craft": null,
+        "previous": "Blacksteel Cannon II",
+        "upgrade": {
+            "Xeno'jiiva Claw": 4,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Shell": 6,
+            "Xeno'jiiva Tail": 2
+        }
+    }
+]

@@ -4,7 +4,8 @@ import src.db as db
 from src.util import ensure, ensure_warn, get_duplicates
 
 from src.data import (
-    set_languages, load_data_map, load_translate_map, load_language_data_dir
+    set_languages, load_translate_map, 
+    load_data_map, load_split_data_map, load_language_data_dir
 )
 
 output_filename = 'mhw.db'
@@ -152,7 +153,7 @@ def build_armor(session : sqlalchemy.orm.Session):
     print("Built Armor")
 
 def build_weapons(session : sqlalchemy.orm.Session):
-    weapon_data = load_data_map(weapon_map, "weapons/weapon_data.json")
+    weapon_data = load_split_data_map(weapon_map, "weapons/weapon_data")
 
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
