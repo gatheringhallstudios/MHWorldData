@@ -177,7 +177,13 @@ def build_weapons(session : sqlalchemy.orm.Session):
         weapon.element_damage = entry['element_damage']
         weapon.element_hidden = entry['element_hidden']
 
-        # todo: sharpness, coatings, ammo, deviation, special ammo
+        # todo: sharpness, coatings, ammo
+
+        # Note: High probably the way this is stored in data will be refactored
+        # Possibilities are either split weapon_data files, or separated sub-data files
+        weapon.glaive_boost_type = entry.get('glaive_boost_type', None)
+        weapon.deviation = entry.get('deviation', None)
+        weapon.special_ammo = entry.get('special_ammo', None)
         
         weapon.craftable = bool(entry.get('craft', False))
         weapon.final = weapon_id in all_final
