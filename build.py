@@ -1,5 +1,6 @@
 import sqlalchemy.orm
 import src.db as db
+
 from src.util import ensure, ensure_warn, get_duplicates
 
 from src.data import (
@@ -150,6 +151,19 @@ def build_armor(session : sqlalchemy.orm.Session):
 
 def build_weapons(session : sqlalchemy.orm.Session):
     weapon_data = load_data_map(weapon_map, "weapons/weapon_data.json")
+
+    # Prepass to determine which weapons are "final"
+    # All items that are a previous to another are "not final"
+    all_final = set(weapon_data.keys())
+    for entry in weapon_data.values():
+        if not entry.get('previous', None):
+            continue
+        try:
+            prev_id = weapon_map.id_of('en', entry['previous'])
+            all_final.remove(prev_id)
+        except KeyError:
+            pass
+
     for weapon_id, entry in weapon_data.items():
         weapon = db.Weapon(id = weapon_id)
         weapon.weapon_type = entry['weapon_type']
@@ -164,6 +178,9 @@ def build_weapons(session : sqlalchemy.orm.Session):
         weapon.element_hidden = entry['element_hidden']
 
         # todo: sharpness, coatings, ammo, deviation, special ammo
+        
+        weapon.craftable = bool(entry.get('craft', False))
+        weapon.final = weapon_id in all_final
 
         if entry.get('previous', None):
             previous_weapon_id = weapon_map.id_of("en", entry['previous'])

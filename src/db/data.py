@@ -144,6 +144,9 @@ class Weapon(Base):
     special_ammo = Column(Text)
 
     previous_weapon = Column(ForeignKey("weapon.id"), nullable=True)
+    
+    craftable = Column(Boolean, default=False)
+    final = Column(Boolean, default=False)
 
 class WeaponText(Base, TextMixin):
     __tablename__ = "weapon_text"
