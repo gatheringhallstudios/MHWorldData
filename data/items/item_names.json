@@ -2062,5 +2062,17 @@
     {
         "name_en": "Gilded Scale+",
         "name_jp": ""
+    },
+    {
+        "name_en": "Wyvern Tear",
+        "name_jp": "竜のナミダ"
+    },
+    {
+        "name_en": "Large Wyvern Tear",
+        "name_jp": "竜の大粒ナミダ"
+    },
+    {
+        "name_en": "Dragon Treasure",
+        "name_jp": "龍秘宝"
     }
 ]
