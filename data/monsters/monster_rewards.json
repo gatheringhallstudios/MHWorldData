@@ -651,6 +651,11 @@
                         "item_en": "Great Girros Fang",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -663,6 +668,11 @@
                         "item_en": "Great Girros Fang+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -677,6 +687,11 @@
                         "item_en": "Great Girros Fang",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -689,6 +704,11 @@
                         "item_en": "Great Girros Fang+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -1116,6 +1136,11 @@
                         "item_en": "Dodogama Talon",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 12
                     }
                 ]
             },
@@ -1130,6 +1155,11 @@
                         "item_en": "Dodogama Talon",
                         "stack": 1,
                         "percentage": 28
+                    },
+                                       {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ]
             },
@@ -1244,12 +1274,12 @@
                     {
                         "item_en": "Dodogama Jaw",
                         "stack": 1,
-                        "percentage": 30
+                        "percentage": 36
                     },
                     {
                         "item_en": "Dodogama Talon",
                         "stack": 1,
-                        "percentage": 26
+                        "percentage": 30
                     },
                     {
                         "item_en": "Nourishing Extract",
@@ -1355,6 +1385,11 @@
                         "item_en": "Black Diablos Ridge+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Large wyvern Gem",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -1369,6 +1404,11 @@
                         "item_en": "Black Diablos Ridge+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Large wyvern Gem",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -1615,11 +1655,6 @@
                     {
                         "item_en": "Diablos Shell",
                         "stack": 1,
-                        "percentage": 100
-                    },
-                    {
-                        "item_en": "Diablos Shell",
-                        "stack": 1,
                         "percentage": 31
                     },
                     {
@@ -1786,6 +1821,11 @@
                         "item_en": "Diablos Ridge",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -1798,6 +1838,11 @@
                         "item_en": "Diablos Ridge+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                                       {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ]
             },
@@ -1812,6 +1857,11 @@
                         "item_en": "Diablos Ridge",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -1824,6 +1874,11 @@
                         "item_en": "Diablos Ridge+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2234,6 +2289,11 @@
                         "item_en": "Xeno'jiiva Soulscale",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2248,6 +2308,11 @@
                         "item_en": "Xeno'jiiva Soulscale",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2449,6 +2514,11 @@
                         "item_en": "Deceased Scale",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2463,6 +2533,11 @@
                         "item_en": "Deceased Scale",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2766,6 +2841,11 @@
                         "item_en": "Uragaan Scale+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Large Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -2780,6 +2860,11 @@
                         "item_en": "Uragaan Scale+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Large Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -3111,6 +3196,28 @@
                         "item_en": "Tzitzi-Ya-Ku Claw",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }
+                ],
+                "hr": [
+                    {
+                        "item_en": "Tzitzi-Ya-Ku Scale",
+                        "stack": 1,
+                        "percentage": 50
+                    },
+                    {
+                        "item_en": "Tzitzi-Ya-Ku Claw",
+                        "stack": 1,
+                        "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -3125,6 +3232,11 @@
                         "item_en": "Tzitzi-Ya-Ku Claw",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -3137,6 +3249,11 @@
                         "item_en": "Tzitzi-Ya-Ku Claw+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -3259,7 +3376,7 @@
                     {
                         "item_en": "Tzitzi-Ya-Ku Photophore+",
                         "stack": 1,
-                        "percentage": 40
+                        "percentage": 20
                     },
                     {
                         "item_en": "Tzitzi-Ya-Ku Scale+",
@@ -4039,6 +4156,11 @@
                         "item_en": "Teostra Claw+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -4053,7 +4175,12 @@
                         "item_en": "Fire Dragon Scale+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -4268,7 +4395,7 @@
                     {
                         "item_en": "Zorah Magdaros Pleura",
                         "stack": 1,
-                        "percentage": 3
+                        "percentage": 100
                     }
                 ]
             },
@@ -4370,7 +4497,7 @@
                     {
                         "item_en": "Zorah Magdaros Magma",
                         "stack": 2,
-                        "percentage": 30
+                        "percentage": 33 
                     }
                 ]
             },
@@ -11031,7 +11158,12 @@
                         "item_en": "Jyuratodus Fin",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -11043,7 +11175,12 @@
                         "item_en": "Jyuratodus Fin+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                     
                 ]
             },
             "Palico Bonus": {
@@ -11057,7 +11194,12 @@
                         "item_en": "Jyuratodus Fin",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    } 
                 ],
                 "hr": [
                     {
@@ -11069,7 +11211,12 @@
                         "item_en": "Jyuratodus Fin+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    } 
                 ]
             },
             "Plunderblade": {
@@ -11172,7 +11319,7 @@
                         "percentage": 36
                     },
                     {
-                        "item_en": "Jyuratodus Scale",
+                        "item_en": "Jyuratodus Carapace",
                         "stack": 1,
                         "percentage": 28
                     },
@@ -11194,7 +11341,7 @@
                         "percentage": 36
                     },
                     {
-                        "item_en": "Jyuratodus Carapace",
+                        "item_en": "Jyuratodus Carapace+",
                         "stack": 1,
                         "percentage": 27
                     },
@@ -11951,7 +12098,12 @@
                         "item_en": "Barroth Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -11963,7 +12115,12 @@
                         "item_en": "Barroth Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -11977,7 +12134,12 @@
                         "item_en": "Barroth Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -11989,7 +12151,12 @@
                         "item_en": "Barroth Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -12388,7 +12555,12 @@
                         "item_en": "Bazelgeuse Talon",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Large Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -12402,7 +12574,12 @@
                         "item_en": "Bazelgeuse Talon",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -12825,7 +13002,13 @@
                         "item_en": "Anjanath Fang",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
+
                 ],
                 "hr": [
                     {
@@ -12837,6 +13020,11 @@
                         "item_en": "Anjanath Fang+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ]
             },
@@ -12851,6 +13039,11 @@
                         "item_en": "Anjanath Fang",
                         "stack": 1,
                         "percentage": 28
+                    },                    
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -12863,7 +13056,12 @@
                         "item_en": "Anjanath Fang+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyern Tear",
+                        "stack": ,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -13213,7 +13411,7 @@
                     {
                         "item_en": "Shamos Hide+",
                         "stack": 1,
-                        "percentage": 30
+                        "percentage": 50
                     },
                     {
                         "item_en": "Piercing Claw",
@@ -13232,7 +13430,7 @@
                     {
                         "item_en": "Coral Crystal",
                         "stack": 1,
-                        "percentage": 50
+                        "percentage": 12
                     },
                     {
                         "item_en": "Shamos Hide",
@@ -13242,44 +13440,44 @@
                     {
                         "item_en": "Sharp Claw",
                         "stack": 1,
-                        "percentage": 20
+                        "percentage": 24
                     },
                     {
                         "item_en": "Shamos Scale",
                         "stack": 1,
-                        "percentage": 20
+                        "percentage": 22
                     },
                     {
                         "item_en": "Sturdy Bone",
                         "stack": 1,
-                        "percentage": 15
+                        "percentage": 12
                     }
                 ],
                 "hr": [
                     {
                         "item_en": "Shamos Hide+",
                         "stack": 1,
-                        "percentage": 20
+                        "percentage": 30
                     },
                     {
                         "item_en": "Piercing Claw",
                         "stack": 1,
-                        "percentage": 20
+                        "percentage": 24
                     },
                     {
                         "item_en": "Shamos Scale+",
                         "stack": 1,
-                        "percentage": 15
+                        "percentage": 22
                     },
                     {
                         "item_en": "Monster Keenbone",
                         "stack": 1,
-                        "percentage": 15
+                        "percentage": 12
                     },
                     {
                         "item_en": "Coral Crystal",
                         "stack": 2,
-                        "percentage": 0
+                        "percentage": 12
                     }
                 ]
             }
