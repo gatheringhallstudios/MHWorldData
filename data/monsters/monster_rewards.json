@@ -3733,6 +3733,11 @@
                         "item_en": "Tobi-Kadachi Claw",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ],
                 "hr": [
@@ -3745,7 +3750,12 @@
                         "item_en": "Tobi-Kadachi Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -3759,7 +3769,12 @@
                         "item_en": "Tobi-Kadachi Claw",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -3771,7 +3786,12 @@
                         "item_en": "Tobi-Kadachi Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -4912,7 +4932,12 @@
                         "item_en": "Rathian Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -4924,7 +4949,12 @@
                         "item_en": "Rathian Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -4938,7 +4968,12 @@
                         "item_en": "Rathian Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -4950,7 +4985,12 @@
                         "item_en": "Rathian Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -5394,7 +5434,12 @@
                         "item_en": "Azure Rathalos Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Large Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -5408,7 +5453,12 @@
                         "item_en": "Azure Rathalos Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Large Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -5765,7 +5815,12 @@
                         "item_en": "Pink Rathian Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Large Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -5779,7 +5834,12 @@
                         "item_en": "Pink Rathian Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Large Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -6224,7 +6284,12 @@
                         "item_en": "Rathalos Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -6236,7 +6301,12 @@
                         "item_en": "Rathalos Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -6250,7 +6320,12 @@
                         "item_en": "Rathalos Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -6262,7 +6337,12 @@
                         "item_en": "Rathalos Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -6796,7 +6876,12 @@
                         "item_en": "Radobaan Scale",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -6808,7 +6893,12 @@
                         "item_en": "Wyvern Bonemass",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Wound Back": {
@@ -6858,7 +6948,12 @@
                         "item_en": "Radobaan Scale",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -6870,7 +6965,12 @@
                         "item_en": "Wyvern Bonemass",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Back Mining": {
@@ -7416,7 +7516,12 @@
                         "item_en": "Pukei-Pukei Quill",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -7428,7 +7533,12 @@
                         "item_en": "Pukei-Pukei Wing",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -7442,7 +7552,12 @@
                         "item_en": "Pukei-Pukei Quill",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -7454,7 +7569,12 @@
                         "item_en": "Pukei-Pukei Wing",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                  
                 ]
             },
             "Plunderblade": {
@@ -7919,7 +8039,12 @@
                         "item_en": "Paolumu Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -7931,7 +8056,12 @@
                         "item_en": "Paolumu Carapace+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -7945,7 +8075,12 @@
                         "item_en": "Paolumu Shell",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ],
                 "hr": [
                     {
@@ -7957,7 +8092,12 @@
                         "item_en": "Paolumu Carapace+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Plunderblade": {
@@ -8297,7 +8437,12 @@
                         "item_en": "Nergigante Talon",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                    
                 ]
             },
             "Palico Bonus": {
@@ -8311,7 +8456,12 @@
                         "item_en": "Immortal Dragonscale",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -8603,7 +8753,7 @@
                     {
                         "item_en": "Odogaron Claw+",
                         "stack": 1,
-                        "percentage": 72
+                        "percentage": 75
                     },
                     {
                         "item_en": "Odogaron Scale+",
@@ -8731,7 +8881,12 @@
                         "item_en": "Odogaron Fang",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ],
                 "hr": [
                     {
@@ -8743,7 +8898,12 @@
                         "item_en": "Odogaron Fang+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -8757,7 +8917,12 @@
                         "item_en": "Odogaron Fang",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                        
                 ],
                 "hr": [
                     {
@@ -8769,7 +8934,12 @@
                         "item_en": "Odogaron Fang+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -9344,7 +9514,12 @@
                         "item_en": "Legiana Claw",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ],
                 "hr": [
                     {
@@ -9356,7 +9531,12 @@
                         "item_en": "Legiana Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -9370,7 +9550,12 @@
                         "item_en": "Legiana Claw",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ],
                 "hr": [
                     {
@@ -9382,7 +9567,12 @@
                         "item_en": "Legiana Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -9748,7 +9938,12 @@
                         "item_en": "Lavasioth Fin+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -9762,7 +9957,12 @@
                         "item_en": "Lavasioth Fin+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -10031,7 +10231,12 @@
                         "item_en": "Daora Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -10045,7 +10250,12 @@
                         "item_en": "Daora Carapace",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -10353,7 +10563,12 @@
                         "item_en": "Kulu-Ya-Ku Plume",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ],
                 "hr": [
                     {
@@ -10365,7 +10580,12 @@
                         "item_en": "Kulu-Ya-Ku Plume+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -10379,7 +10599,12 @@
                         "item_en": "Kulu-Ya-Ku Plume",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ],
                 "hr": [
                     {
@@ -10391,7 +10616,12 @@
                         "item_en": "Kulu-Ya-Ku Plume+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Plunderblade": {
@@ -10758,7 +10988,12 @@
                         "item_en": "Kirin Mane",
                         "stack": 1,
                         "percentage": 23
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 9
+                    }                     
                 ],
                 "hr": [
                     {
@@ -10770,7 +11005,12 @@
                         "item_en": "Kirin Mane",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                      
                 ]
             },
             "Palico Bonus": {
@@ -10784,7 +11024,12 @@
                         "item_en": "Kirin Mane",
                         "stack": 1,
                         "percentage": 23
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 9
+                    }                     
                 ],
                 "hr": [
                     {
@@ -10796,7 +11041,12 @@
                         "item_en": "Kirin Mane",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Dragon Treasure",
+                        "stack": 1,
+                        "percentage": 22
+                    }                     
                 ]
             },
             "Plunderblade": {
@@ -11506,7 +11756,7 @@
                     {
                         "item_en": "Great Jagras Hide+",
                         "stack": 2,
-                        "percentage": 27
+                        "percentage": 37
                     }
                 ]
             },
@@ -11640,7 +11890,12 @@
                         "item_en": "Great Jagras Hide",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                     
                 ],
                 "hr": [
                     {
@@ -11652,7 +11907,12 @@
                         "item_en": "Great Jagras Claw+",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                     
                 ]
             },
             "Palico Bonus": {
@@ -11666,7 +11926,12 @@
                         "item_en": "Great Jagras Claw",
                         "stack": 1,
                         "percentage": 28
-                    }
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
+                    }                     
                 ],
                 "hr": [
                     {
@@ -11678,6 +11943,11 @@
                         "item_en": "Great Jagras Claw+",
                         "stack": 1,
                         "percentage": 28
+                    },
+                    {
+                        "item_en": "Wyvern Tear",
+                        "stack": 1,
+                        "percentage": 22
                     }
                 ]
             },
@@ -12156,7 +12426,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
