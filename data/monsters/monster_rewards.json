@@ -1140,7 +1140,7 @@
                     {
                         "item_en": "Wyvern Tear",
                         "stack": 1,
-                        "percentage": 12
+                        "percentage": 22
                     }
                 ]
             },
@@ -3519,20 +3519,6 @@
                         "item_en": "Bird Wyvern Gem",
                         "stack": 1,
                         "percentage": 8
-                    }
-                ]
-            },
-            "Shiny": {
-                "hr": [
-                    {
-                        "item_en": "Tzitzi-Ya-Ku Scale+",
-                        "stack": 1,
-                        "percentage": 50
-                    },
-                    {
-                        "item_en": "Tzitzi-Ya-Ku Claw+",
-                        "stack": 1,
-                        "percentage": 28
                     }
                 ]
             }
