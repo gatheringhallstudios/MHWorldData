@@ -1,0 +1,492 @@
+[
+    {
+        "name": {
+            "en": "Apceros",
+            "ja": "アプケロス"
+        },
+        "description": {
+            "en": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gajalaka",
+            "ja": "ガジャブー"
+        },
+        "description": {
+            "en": "",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur",
+            "ja": "カンタロス"
+        },
+        "description": {
+            "en": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with a slinger",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau",
+            "ja": "ガライーバ"
+        },
+        "description": {
+            "en": "Vicious piscine that forms groups to defend their territory from intruders. Be sure not to venture too close to their habitat!",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros",
+            "ja": "ギルオス"
+        },
+        "description": {
+            "en": "Monsters that are known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They are known for crippling targets with their paralyzing fangs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barnos",
+            "ja": "バルノス"
+        },
+        "description": {
+            "en": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Grimalkyne",
+            "ja": "テトルー"
+        },
+        "description": {
+            "en": "In-game monster description goes here. Threat level too!",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gastodon",
+            "ja": "ガストドン"
+        },
+        "description": {
+            "en": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kelbi",
+            "ja": "ケルビ"
+        },
+        "description": {
+            "en": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aptonoth",
+            "ja": "アプトノス"
+        },
+        "description": {
+            "en": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros",
+            "ja": "ドスギルオス"
+        },
+        "description": {
+            "en": "A monster that scavenges for meals dropped from the Coral Highlands.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras",
+            "ja": "ジャグラス"
+        },
+        "description": {
+            "en": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They are also known for ambushing larger monsters at a moment's notice.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama",
+            "ja": "ドドガマル"
+        },
+        "description": {
+            "en": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Black Diablos",
+            "ja": "ディアブロス亜種"
+        },
+        "description": {
+            "en": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos",
+            "ja": "ディアブロス"
+        },
+        "description": {
+            "en": "The apex monster of the Wildspire Waste.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Deviljho",
+            "ja": "イビルジョー"
+        },
+        "description": {
+            "en": "A monster that must feed constantly and will devour anything in its path, even feeding on the largest of monsters with its massive jowls.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva",
+            "ja": "ゼノ・ジーヴァ"
+        },
+        "description": {
+            "en": "In-game monster description goes here. Threat level too!",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak",
+            "ja": "ヴァルハザク"
+        },
+        "description": {
+            "en": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan",
+            "ja": "ウラガンキン"
+        },
+        "description": {
+            "en": "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku",
+            "ja": "ツィツィヤック"
+        },
+        "description": {
+            "en": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi",
+            "ja": "トビカガチ"
+        },
+        "description": {
+            "en": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra",
+            "ja": "テオ・テスカトル"
+        },
+        "description": {
+            "en": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros",
+            "ja": "ゾラ・マグダラオス"
+        },
+        "description": {
+            "en": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian",
+            "ja": "リオレイア"
+        },
+        "description": {
+            "en": "A wyvern known as the \"Queen of the Land.\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Rathalos",
+            "ja": "リオレウス亜種"
+        },
+        "description": {
+            "en": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pink Rathian",
+            "ja": "リオレイア"
+        },
+        "description": {
+            "en": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos",
+            "ja": "リオレウス"
+        },
+        "description": {
+            "en": "The apex monster of the Ancient Forest, also known as the \"King of the Skies\".",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan",
+            "ja": "ラドバルキン"
+        },
+        "description": {
+            "en": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei",
+            "ja": "プケプケ"
+        },
+        "description": {
+            "en": "A flying wyvern known to possess poisonous toxins in its body.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu",
+            "ja": "パオウルムー"
+        },
+        "description": {
+            "en": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante",
+            "ja": "ネルギガンテ"
+        },
+        "description": {
+            "en": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron",
+            "ja": "オドガロン"
+        },
+        "description": {
+            "en": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana",
+            "ja": "レイギエナ"
+        },
+        "description": {
+            "en": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth",
+            "ja": "ヴォルガノス"
+        },
+        "description": {
+            "en": "Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kushala Daora",
+            "ja": "クシャルダオラ"
+        },
+        "description": {
+            "en": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku",
+            "ja": "クルルヤック"
+        },
+        "description": {
+            "en": "An odd bird wyvern that has developed limbs capable of carrying weapons.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin",
+            "ja": "キリン"
+        },
+        "description": {
+            "en": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus",
+            "ja": "ジュラトドス"
+        },
+        "description": {
+            "en": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras",
+            "ja": "ドスジャグラス"
+        },
+        "description": {
+            "en": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth",
+            "ja": "ボルボロス"
+        },
+        "description": {
+            "en": "Barroths seek out ants, their favorite snack, and mark their territory with mud.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse",
+            "ja": "バゼルギウス"
+        },
+        "description": {
+            "en": "A nefariousflying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey one whatever gets caught in the blast.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath",
+            "ja": "アンジャナフ"
+        },
+        "description": {
+            "en": "The Anjanath patrols the Ancient Forest looking for its favorite meal, Aptonoth.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos",
+            "ja": "シャムオス"
+        },
+        "description": {
+            "en": "Small nocturnal monsters. They are particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Raphinos",
+            "ja": "ラフィノス"
+        },
+        "description": {
+            "en": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Noios",
+            "ja": "ノイオス"
+        },
+        "description": {
+            "en": "Wingdrakes that will produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them as transportation",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid",
+            "ja": "ランゴスタ"
+        },
+        "description": {
+            "en": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mosswine",
+            "ja": "モス"
+        },
+        "description": {
+            "en": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting around for mushrooms, follow the Mosswine to the motherlode.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mernos",
+            "ja": "メルノス"
+        },
+        "description": {
+            "en": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon",
+            "ja": "ケストドン"
+        },
+        "description": {
+            "en": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks",
+            "ja": null
+        }
+    }
+]

@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Hammer I",
+{
+    "Iron Hammer I": {
         "weapon_type": "hammer",
         "rarity": 1,
         "attack": 416,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Hammer II",
+    "Iron Hammer II": {
         "weapon_type": "hammer",
         "rarity": 1,
         "attack": 468,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Hammer III",
+    "Iron Hammer III": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 520,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Iron Demon I",
+    "Iron Demon I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 572,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Iron Demon II",
+    "Iron Demon II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 676,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Iron Demon III",
+    "Iron Demon III": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 728,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Iron Archdemon I",
+    "Iron Archdemon I": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Iron Archdemon II",
+    "Iron Archdemon II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 936,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Crusher",
+    "Nergal Crusher": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 1040,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Obliteration's Footfall",
+    "Obliteration's Footfall": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 1092,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Frozen Core",
+    "Frozen Core": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 624,
@@ -320,8 +309,7 @@
             "Lightcrystal": 3
         }
     },
-    {
-        "name_en": "Frozen Core+",
+    "Frozen Core+": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -350,8 +338,7 @@
             "Novacrystal": 3
         }
     },
-    {
-        "name_en": "Cocytus",
+    "Cocytus": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 936,
@@ -380,8 +367,7 @@
             "Novacrystal": 6
         }
     },
-    {
-        "name_en": "Aqua Hammer I",
+    "Aqua Hammer I": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 572,
@@ -410,8 +396,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Hammer II",
+    "Aqua Hammer II": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 624,
@@ -440,8 +425,7 @@
             "Jyuratodus Fin": 3
         }
     },
-    {
-        "name_en": "Aqua Hammer III",
+    "Aqua Hammer III": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 676,
@@ -470,8 +454,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Water Basher I",
+    "Water Basher I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 780,
@@ -500,8 +483,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Water Basher II",
+    "Water Basher II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -530,8 +512,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Water Basher III",
+    "Water Basher III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 936,
@@ -560,8 +541,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Girros Hammer I",
+    "Girros Hammer I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 624,
@@ -589,8 +569,7 @@
             "Great Girros Scale": 3
         }
     },
-    {
-        "name_en": "Girros Hammer II",
+    "Girros Hammer II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 676,
@@ -619,8 +598,7 @@
             "Paralysis Sac": 2
         }
     },
-    {
-        "name_en": "Malady's Fist I",
+    "Malady's Fist I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 728,
@@ -649,8 +627,7 @@
             "Great Girros Tail": 2
         }
     },
-    {
-        "name_en": "Malady's Fist II",
+    "Malady's Fist II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 780,
@@ -679,8 +656,7 @@
             "Omniplegia Sac": 4
         }
     },
-    {
-        "name_en": "Malady's Fist III",
+    "Malady's Fist III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -709,8 +685,7 @@
             "Vaal Hazak Fang+": 2
         }
     },
-    {
-        "name_en": "Blooming Hammer I",
+    "Blooming Hammer I": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 520,
@@ -738,8 +713,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Hammer II",
+    "Blooming Hammer II": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 624,
@@ -768,8 +742,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Hammer III",
+    "Blooming Hammer III": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 728,
@@ -798,8 +771,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Buon Fiore",
+    "Buon Fiore": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 780,
@@ -833,8 +805,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Buona Flora",
+    "Buona Flora": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 936,
@@ -863,8 +834,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Thunder Hammer I",
+    "Thunder Hammer I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 676,
@@ -893,8 +863,7 @@
             "Tobi-Kadachi Electrode": 1
         }
     },
-    {
-        "name_en": "Thunder Hammer II",
+    "Thunder Hammer II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 780,
@@ -923,8 +892,7 @@
             "Tobi-Kadachi Membrane": 2
         }
     },
-    {
-        "name_en": "Lightning Bash I",
+    "Lightning Bash I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 832,
@@ -953,8 +921,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Lightning Bash II",
+    "Lightning Bash II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 884,
@@ -983,8 +950,7 @@
             "Tobi-Kadachi Membrane": 4
         }
     },
-    {
-        "name_en": "Lightning Bash III",
+    "Lightning Bash III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -1013,8 +979,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Bone Bludgeon I",
+    "Bone Bludgeon I": {
         "weapon_type": "hammer",
         "rarity": 1,
         "attack": 520,
@@ -1040,8 +1005,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Bludgeon II",
+    "Bone Bludgeon II": {
         "weapon_type": "hammer",
         "rarity": 1,
         "attack": 572,
@@ -1067,8 +1031,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Bludgeon III",
+    "Bone Bludgeon III": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 624,
@@ -1095,8 +1058,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Fossil Bludgeon I",
+    "Fossil Bludgeon I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 728,
@@ -1124,8 +1086,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Fossil Bludgeon II",
+    "Fossil Bludgeon II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 780,
@@ -1153,8 +1114,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Fossil Bludgeon III",
+    "Fossil Bludgeon III": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 832,
@@ -1182,8 +1142,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Grandrock I",
+    "Grandrock I": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 884,
@@ -1211,8 +1170,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Grandrock II",
+    "Grandrock II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -1241,8 +1199,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Hazak Vlafos",
+    "Hazak Vlafos": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 988,
@@ -1271,8 +1228,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Pandemonium's Root",
+    "Pandemonium's Root": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 1040,
@@ -1301,8 +1257,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Bone Spike I",
+    "Bone Spike I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 676,
@@ -1330,8 +1285,7 @@
             "Wyvern Bonemass": 2
         }
     },
-    {
-        "name_en": "Bone Spike II",
+    "Bone Spike II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 728,
@@ -1360,8 +1314,7 @@
             "Wyvern Bonemass": 3
         }
     },
-    {
-        "name_en": "Baan Strike I",
+    "Baan Strike I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 780,
@@ -1395,8 +1348,7 @@
             "Radobaan Oilshell": 3
         }
     },
-    {
-        "name_en": "Baan Strike II",
+    "Baan Strike II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 884,
@@ -1425,8 +1377,7 @@
             "Radobaan Scale+": 8
         }
     },
-    {
-        "name_en": "Baan Strike III",
+    "Baan Strike III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -1455,8 +1406,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Brazenbreak I",
+    "Brazenbreak I": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -1485,8 +1435,7 @@
             "Uragaan Scale+": 6
         }
     },
-    {
-        "name_en": "Brazenbreak II",
+    "Brazenbreak II": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 1092,
@@ -1515,8 +1464,7 @@
             "Uragaan Scute": 4
         }
     },
-    {
-        "name_en": "Kulu Beak I",
+    "Kulu Beak I": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 624,
@@ -1544,8 +1492,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Beak II",
+    "Kulu Beak II": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 676,
@@ -1574,8 +1521,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Beak III",
+    "Kulu Beak III": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 728,
@@ -1604,8 +1550,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Crushing Beak I",
+    "Crushing Beak I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 780,
@@ -1633,8 +1578,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Crushing Beak II",
+    "Crushing Beak II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -1663,8 +1607,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Crushing Beak III",
+    "Crushing Beak III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 884,
@@ -1693,8 +1636,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Diablos Sledge I",
+    "Diablos Sledge I": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 884,
@@ -1723,8 +1665,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Sledge II",
+    "Diablos Sledge II": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 988,
@@ -1753,8 +1694,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Diablos Shatterer I",
+    "Diablos Shatterer I": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 1092,
@@ -1783,8 +1723,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Diablos Shatterer II",
+    "Diablos Shatterer II": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 1196,
@@ -1813,8 +1752,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Carapace Sledge I",
+    "Carapace Sledge I": {
         "weapon_type": "hammer",
         "rarity": 2,
         "attack": 676,
@@ -1842,8 +1780,7 @@
             "Barroth Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Sledge II",
+    "Carapace Sledge II": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 728,
@@ -1872,8 +1809,7 @@
             "Kestodon Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Sledge III",
+    "Carapace Sledge III": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 832,
@@ -1902,8 +1838,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Barroth Breaker I",
+    "Barroth Breaker I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 936,
@@ -1932,8 +1867,7 @@
             "Kestodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Breaker II",
+    "Barroth Breaker II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -1962,8 +1896,7 @@
             "Gastodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Breaker III",
+    "Barroth Breaker III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 1040,
@@ -1992,8 +1925,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blazing Hammer I",
+    "Blazing Hammer I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 780,
@@ -2021,8 +1953,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Hammer II",
+    "Blazing Hammer II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 832,
@@ -2051,8 +1982,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Striker I",
+    "Anja Striker I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 884,
@@ -2081,8 +2011,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Striker II",
+    "Anja Striker II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 988,
@@ -2111,8 +2040,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Striker III",
+    "Anja Striker III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 1092,
@@ -2141,8 +2069,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Dragonbone Basher I",
+    "Dragonbone Basher I": {
         "weapon_type": "hammer",
         "rarity": 3,
         "attack": 520,
@@ -2171,8 +2098,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Basher II",
+    "Dragonbone Basher II": {
         "weapon_type": "hammer",
         "rarity": 4,
         "attack": 572,
@@ -2200,8 +2126,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Basher III",
+    "Dragonbone Basher III": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -2230,8 +2155,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Magda Floga",
+    "Magda Floga": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 832,
@@ -2260,8 +2184,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Ragefire Magda Floga",
+    "Ragefire Magda Floga": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 1144,
@@ -2290,8 +2213,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Hammer I",
+    "Blacksteel Hammer I": {
         "weapon_type": "hammer",
         "rarity": 5,
         "attack": 520,
@@ -2320,8 +2242,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Hammer II",
+    "Blacksteel Hammer II": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 572,
@@ -2350,8 +2271,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Icesteel Hammer",
+    "Icesteel Hammer": {
         "weapon_type": "hammer",
         "rarity": 7,
         "attack": 988,
@@ -2380,8 +2300,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Colossus",
+    "Daora's Colossus": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 1040,
@@ -2410,8 +2329,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Maph'agarna",
+    "Xeno Maph'agarna": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 884,
@@ -2440,8 +2358,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Jail Hammer",
+    "Jail Hammer": {
         "weapon_type": "hammer",
         "rarity": 6,
         "attack": 832,
@@ -2470,8 +2387,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Binder Mace",
+    "Binder Mace": {
         "weapon_type": "hammer",
         "rarity": 8,
         "attack": 936,
@@ -2500,4 +2416,4 @@
             "Wyvern Gem": 2
         }
     }
-]
+}

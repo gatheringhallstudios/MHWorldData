@@ -1,0 +1,3116 @@
+[
+    {
+        "name": {
+            "en": "Potion",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Potion",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Max Potion",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ancient Potion",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Antidote",
+            "ja": "解毒薬"
+        }
+    },
+    {
+        "name": {
+            "en": "Herbal Medicine",
+            "ja": "漢方薬"
+        }
+    },
+    {
+        "name": {
+            "en": "Nulberry",
+            "ja": "ウチケシの実"
+        }
+    },
+    {
+        "name": {
+            "en": "Energy Drink",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ration",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rare Steak",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Well-done Steak",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Burnt Meat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cool Drink",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nutrients",
+            "ja": "栄養剤"
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Nutrients",
+            "ja": "栄養剤グレート"
+        }
+    },
+    {
+        "name": {
+            "en": "Immunizer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Astera Jerky",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dash Juice",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Dash Juice",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Might Seed",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Demondrug",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Demondrug",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Might Pill",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Adamant Seed",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Armorskin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Armorskin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Adamant Pill",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lifepowder",
+            "ja": "生命の粉塵"
+        }
+    },
+    {
+        "name": {
+            "en": "Herbal Powder",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Demon Powder",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hardshell Powder",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Honey",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Herb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Antidote Herb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fire Herb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flowfern",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Snow Herb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Herb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ivy",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Smokenut",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonfell Berry",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Mushroom",
+            "ja": "アオキノコ"
+        }
+    },
+    {
+        "name": {
+            "en": "Mandragora",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nitroshroom",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Devil's Blight",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Parashroom",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Toadstool",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Exciteshroom",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chillshroom",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bitterbug",
+            "ja": "にが虫"
+        }
+    },
+    {
+        "name": {
+            "en": "Flashbug",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Godbug",
+            "ja": "不死虫"
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderbug",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baitbug",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kelbi Horn",
+            "ja": "ケルビの角"
+        }
+    },
+    {
+        "name": {
+            "en": "Dash Extract",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nourishing Extract",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Screamer Sac",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Catalyst",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tranq Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flash Pod",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Screamer Pod",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dung Pod",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Smoke Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Poison Smoke Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Farcaster",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Raw Meat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Poisoned Meat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tinged Meat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Drugged Meat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gunpowder",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Small Barrel",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barrel Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bounce Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Bounce Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Large Barrel",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Large Barrel Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mega Barrel Bomb",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spider Web",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Net",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Trap Tool",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pitfall Trap",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shock Trap",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rolled-up Dung",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dung",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arowana Bait",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gunpowderfish Bait",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Goldenfish Bait",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Boomerang",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Binoculars",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Powercharm",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Powertalon",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Armorcharm",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Armortalon",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Needleberry",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blastnut",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonstrike nut",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Slashberry",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Latchberry",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bomberry",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flamenut",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazenut",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gunpowder Level 2",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gunpowser Level 3",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Whetfish Fin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Whetfish Fin+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sushifish Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Sushifish Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gunpowderfish Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Gunpowderfish Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Burst Arowana Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Burst Arowana Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bomb Arowana Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bomb Arowana Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Empty Phial",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Ore",
+            "ja": "鉄鉱石"
+        }
+    },
+    {
+        "name": {
+            "en": "Machalite Ore",
+            "ja": "マカライト鉱石"
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonite Ore",
+            "ja": "ドラグライト鉱石"
+        }
+    },
+    {
+        "name": {
+            "en": "Carbalite Ore",
+            "ja": "カブレライト鉱石"
+        }
+    },
+    {
+        "name": {
+            "en": "Fucium Ore",
+            "ja": "ユニオン鉱石"
+        }
+    },
+    {
+        "name": {
+            "en": "Earth Crystal",
+            "ja": "大地の結晶"
+        }
+    },
+    {
+        "name": {
+            "en": "Coral Crystal",
+            "ja": "深海の結晶"
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonvein Crystal",
+            "ja": "龍脈の結晶"
+        }
+    },
+    {
+        "name": {
+            "en": "Lightcrystal",
+            "ja": "ライトクリスタル"
+        }
+    },
+    {
+        "name": {
+            "en": "Novacrystal",
+            "ja": "ノヴァクリスタル"
+        }
+    },
+    {
+        "name": {
+            "en": "Firecell Stone",
+            "ja": "獄炎石"
+        }
+    },
+    {
+        "name": {
+            "en": "Aquacore Ore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiritcore Ore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dreamcore Ore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragoncore Ore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Armor Sphere",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Armor Sphere+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Advanced Armor Sphere",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Armor Sphere",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Armor Sphere",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sturdy Bone",
+            "ja": "頑丈な骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Quality Bone",
+            "ja": "上質な堅骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Ancient Bone",
+            "ja": "太古の大骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Boulder Bone",
+            "ja": "強固な岩骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Coral Bone",
+            "ja": "サンゴの紅骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Warped Bone",
+            "ja": "いびつな狂骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Brutal Bone",
+            "ja": "荒々しい蛮骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Relic",
+            "ja": "いにしえの龍骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Unknown Skull",
+            "ja": "なぞの頭骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Hornfly",
+            "ja": "オオツノアゲハ"
+        }
+    },
+    {
+        "name": {
+            "en": "Sinister Cloth",
+            "ja": "禍々しい布"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Bone S",
+            "ja": "竜骨【小】"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Bone M",
+            "ja": "竜骨【中】"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Bone L",
+            "ja": "竜骨【大】"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Bone+",
+            "ja": "上竜骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Keenbone",
+            "ja": "尖竜骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Hardbone",
+            "ja": "堅竜骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Elder Dragon Bone",
+            "ja": "古龍骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Sharp Claw",
+            "ja": "とがった爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Piercing Claw",
+            "ja": "鋭利な爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Fluid",
+            "ja": "モンスターの体液"
+        }
+    },
+    {
+        "name": {
+            "en": "Monster Broth",
+            "ja": "モンスターの濃汁"
+        }
+    },
+    {
+        "name": {
+            "en": "Poison Sac",
+            "ja": "毒袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Toxin Sac",
+            "ja": "猛毒袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Paralysis Sac",
+            "ja": "麻痺袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Omniplegia Sac",
+            "ja": "強力麻痺袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Sac",
+            "ja": "睡眠袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Coma Sac",
+            "ja": "昏睡袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Sac",
+            "ja": "火炎袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Inferno Sac",
+            "ja": "爆炎袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Sac",
+            "ja": "水袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Torrent Sac",
+            "ja": "大水袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Sac",
+            "ja": "氷結袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Freezer Sac",
+            "ja": "凍結袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Electro Sac",
+            "ja": "電気袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Sac",
+            "ja": "電撃袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Bird Wyvern Gem",
+            "ja": "鳥竜玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Gem",
+            "ja": "竜玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Elder Dragon Blood",
+            "ja": "古龍の血"
+        }
+    },
+    {
+        "name": {
+            "en": "Mosswine Hide",
+            "ja": "モスの苔皮"
+        }
+    },
+    {
+        "name": {
+            "en": "White Liver",
+            "ja": "ホワイトレバ"
+        }
+    },
+    {
+        "name": {
+            "en": "Warm Pelt",
+            "ja": "暖かい毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "High-quality Pelt",
+            "ja": "上質な毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Shell",
+            "ja": "ランゴスタの甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Carapace",
+            "ja": "ランゴスタの堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Wing",
+            "ja": "ランゴスタの羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Innerwing",
+            "ja": "ランゴスタの薄羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Shell",
+            "ja": "カンタロスの甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Wing",
+            "ja": "カンタロスの羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Head",
+            "ja": "カンタロスの頭"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Carapace",
+            "ja": "カンタロスの堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Innerwing",
+            "ja": "カンタロスの薄羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau Skin",
+            "ja": "咬魚の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau Whisker",
+            "ja": "咬魚のヒゲ"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau Scale",
+            "ja": "咬魚の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Grand Gajau Whisker",
+            "ja": "咬魚の大ヒゲ"
+        }
+    },
+    {
+        "name": {
+            "en": "Wingdrake Hide",
+            "ja": "翼竜の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Wingdrake Hide+",
+            "ja": "翼竜の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Barnos Hide+",
+            "ja": "バルノスの上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Barnos Talon",
+            "ja": "バルノスの尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon Shell",
+            "ja": "ケストドンの甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon Scalp",
+            "ja": "ケストドンの頭殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon Carapace",
+            "ja": "ケストドンの堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Gastodon Carapace",
+            "ja": "ガストドンの堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Gastodon Horn",
+            "ja": "ガストドンの尖角"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Scale",
+            "ja": "ジャグラスの鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Hide",
+            "ja": "ジャグラスの皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Scale+",
+            "ja": "ジャグラスの上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Hide+",
+            "ja": "ジャグラスの上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Scale",
+            "ja": "シャムオスの鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Hide",
+            "ja": "シャムオスの皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Scale+",
+            "ja": "シャムオスの上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Hide+",
+            "ja": "シャムオスの上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Scale",
+            "ja": "ギルオスの鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Hide",
+            "ja": "ギルオスの皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Fang",
+            "ja": "ギルオスの麻痺牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Scale+",
+            "ja": "ギルオスの上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Hide+",
+            "ja": "ギルオスの上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Scale",
+            "ja": "賊竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Hide",
+            "ja": "賊竜の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Mane",
+            "ja": "賊竜のたてがみ"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Claw",
+            "ja": "賊竜の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Scale+",
+            "ja": "賊竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Hide+",
+            "ja": "賊竜の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Jagras Claw+",
+            "ja": "賊竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Scale",
+            "ja": "掻鳥の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Hide",
+            "ja": "掻鳥の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Plume",
+            "ja": "掻鳥の飾り羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Beak",
+            "ja": "掻鳥のクチバシ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Scale+",
+            "ja": "掻鳥の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Hide+",
+            "ja": "掻鳥の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Plume+",
+            "ja": "掻鳥の大飾り羽"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Beak+",
+            "ja": "掻鳥の大クチバシ"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Scale",
+            "ja": "毒妖鳥の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Shell",
+            "ja": "毒妖鳥の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Quill",
+            "ja": "毒妖鳥の羽根"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Sac",
+            "ja": "毒妖鳥の喉袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Tail",
+            "ja": "毒妖鳥の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Scale+",
+            "ja": "毒妖鳥の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Carapace",
+            "ja": "毒妖鳥の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Wing",
+            "ja": "毒妖鳥の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei-Pukei Sac+",
+            "ja": "毒妖鳥の大喉袋"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shell",
+            "ja": "土砂竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Ridge",
+            "ja": "土砂竜の背甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Claw",
+            "ja": "土砂竜の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Scalp",
+            "ja": "土砂竜の頭殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Tail",
+            "ja": "土砂竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Fertile Mud",
+            "ja": "肥沃なドロ"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Carapace",
+            "ja": "土砂竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Ridge+",
+            "ja": "土砂竜の堅甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Claw+",
+            "ja": "土砂竜の鋭爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Scale",
+            "ja": "泥魚竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Shell",
+            "ja": "泥魚竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Fang",
+            "ja": "泥魚竜の牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Fin",
+            "ja": "泥魚竜のヒレ"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Scale+",
+            "ja": "泥魚竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Carapace",
+            "ja": "泥魚竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Fang+",
+            "ja": "泥魚竜の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyuratodus Fin+",
+            "ja": "泥魚竜の上ヒレ"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Scale",
+            "ja": "飛雷竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Pelt",
+            "ja": "飛雷竜の毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Membrane",
+            "ja": "飛雷竜の皮膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Claw",
+            "ja": "飛雷竜の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Electrode",
+            "ja": "飛雷竜の電極針"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Scale+",
+            "ja": "飛雷竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Pelt+",
+            "ja": "飛雷竜の上毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Claw+",
+            "ja": "飛雷竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Tobi-Kadachi Electrode+",
+            "ja": "飛雷竜の雷極針"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Scale",
+            "ja": "蛮顎竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Pelt",
+            "ja": "蛮顎竜の毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Fang",
+            "ja": "蛮顎竜の牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Nosebone",
+            "ja": "蛮顎竜の鼻骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Tail",
+            "ja": "蛮顎竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Plate",
+            "ja": "蛮顎竜の逆鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Scale+",
+            "ja": "蛮顎竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Pelt+",
+            "ja": "蛮顎竜の上毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Fang+",
+            "ja": "蛮顎竜の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Nosebone+",
+            "ja": "蛮顎竜の大鼻骨"
+        }
+    },
+    {
+        "name": {
+            "en": "Anjanath Gem",
+            "ja": "蛮顎竜の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Scale",
+            "ja": "雌火竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Shell",
+            "ja": "雌火竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Webbing",
+            "ja": "雌火竜の翼膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Spike",
+            "ja": "雌火竜の棘"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Plate",
+            "ja": "雌火竜の逆鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Scale+",
+            "ja": "雌火竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Carapace",
+            "ja": "雌火竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Spike+",
+            "ja": "雌火竜の上棘"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Ruby",
+            "ja": "雌火竜の紅玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Pink Rathian Scale+",
+            "ja": "桜火竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Pink Rathian Carapace",
+            "ja": "桜火竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Scale",
+            "ja": "眩鳥の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Hide",
+            "ja": "眩鳥の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Claw",
+            "ja": "眩鳥の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Photophore",
+            "ja": "眩鳥の発光膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Scale+",
+            "ja": "眩鳥の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Hide+",
+            "ja": "眩鳥の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Claw+",
+            "ja": "眩鳥の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi-Ya-Ku Photophore+",
+            "ja": "眩鳥の閃光膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Pelt",
+            "ja": "浮空竜の毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Scale",
+            "ja": "浮空竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Shell",
+            "ja": "ゴム質の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Webbing",
+            "ja": "浮空竜の翼膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Pelt+",
+            "ja": "浮空竜の上毛皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Scale+",
+            "ja": "浮空竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Carapace+",
+            "ja": "ゴム質の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Paolumu Wing",
+            "ja": "浮空竜の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Scale",
+            "ja": "痺賊竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Hide",
+            "ja": "痺賊竜の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Hood",
+            "ja": "痺賊竜の頭巾殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Fang",
+            "ja": "痺賊竜の牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Tail",
+            "ja": "痺賊竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Scale+",
+            "ja": "痺賊竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Hide+",
+            "ja": "痺賊竜の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Hood+",
+            "ja": "痺賊竜の大頭巾"
+        }
+    },
+    {
+        "name": {
+            "en": "Great Girros Fang+",
+            "ja": "痺賊竜の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Scale",
+            "ja": "骨鎚竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Shell",
+            "ja": "骨鎚竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Oilshell",
+            "ja": "骨鎚竜の黒油殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Bonemass",
+            "ja": "竜骨塊"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Marrow",
+            "ja": "骨鎚竜の骨髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Scale+",
+            "ja": "骨鎚竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Carapace",
+            "ja": "骨鎚竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Medulla",
+            "ja": "骨鎚竜の延髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Scale",
+            "ja": "風漂竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Hide",
+            "ja": "風漂竜の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Claw",
+            "ja": "風漂竜の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Webbing",
+            "ja": "風漂竜の翼膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Tail Webbing",
+            "ja": "風漂竜の尾膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Plate",
+            "ja": "風漂竜の逆鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Scale+",
+            "ja": "風漂竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Hide+",
+            "ja": "風漂竜の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Claw+",
+            "ja": "風漂竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Wing",
+            "ja": "風漂竜の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Gem",
+            "ja": "風漂竜の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Scale",
+            "ja": "惨爪竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Sinew",
+            "ja": "惨爪竜の硬筋"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Claw",
+            "ja": "惨爪竜の爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Fang",
+            "ja": "惨爪竜の牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Tail",
+            "ja": "惨爪竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Plate",
+            "ja": "惨爪竜の逆鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Scale+",
+            "ja": "惨爪竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Sinew+",
+            "ja": "惨爪竜の大硬筋"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Claw+",
+            "ja": "惨爪竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Fang+",
+            "ja": "惨爪竜の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Gem",
+            "ja": "惨爪竜の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Scale",
+            "ja": "火竜の鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Shell",
+            "ja": "火竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Webbing",
+            "ja": "火竜の翼膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Tail",
+            "ja": "火竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Wingtalon",
+            "ja": "火竜の翼爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Marrow",
+            "ja": "火竜の骨髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Plate",
+            "ja": "火竜の逆鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Scale+",
+            "ja": "火竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Carapace",
+            "ja": "火竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Wing",
+            "ja": "火竜の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Medulla",
+            "ja": "火竜の延髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Ruby",
+            "ja": "火竜の紅玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Rathalos Scale+",
+            "ja": "蒼火竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Rathalos Carapace",
+            "ja": "蒼火竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Rathalos Tail",
+            "ja": "蒼火竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Rathalos Wing",
+            "ja": "蒼火竜の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Shell",
+            "ja": "角竜の甲殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Ridge",
+            "ja": "角竜の背甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Tailcase",
+            "ja": "角竜の尾甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Fang",
+            "ja": "角竜の牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Twisted Horn",
+            "ja": "ねじれた角"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Marrow",
+            "ja": "角竜の骨髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Carapace",
+            "ja": "角竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Ridge+",
+            "ja": "角竜の堅甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Majestic Horn",
+            "ja": "上質なねじれた角"
+        }
+    },
+    {
+        "name": {
+            "en": "Blos Medulla",
+            "ja": "角竜の延髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Black Diablos Carapace",
+            "ja": "黒角竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Black Diablos Ridge+",
+            "ja": "黒角竜の堅甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Black Spiral Horn+",
+            "ja": "上質な黒巻き角"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Hide",
+            "ja": "幻獣の皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Tail",
+            "ja": "幻獣の尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Mane",
+            "ja": "幻獣のたてがみ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Thunderhorn",
+            "ja": "幻獣の雷角"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Hide+",
+            "ja": "幻獣の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Thundertail",
+            "ja": "幻獣の雷尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Azure Horn",
+            "ja": "幻獣の蒼角"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Heat Scale",
+            "ja": "熔山龍の熱鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Carapace",
+            "ja": "熔山龍の岩殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Ridge",
+            "ja": "熔山龍の背甲"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Pleura",
+            "ja": "熔山龍の胸殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Magma",
+            "ja": "熔山龍のマグマ"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Magdaros Gem",
+            "ja": "熔山龍の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Scale+",
+            "ja": "岩賊竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Hide+",
+            "ja": "岩賊竜の上皮"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Jaw",
+            "ja": "岩賊竜の顎"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Talon",
+            "ja": "岩賊竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Tail",
+            "ja": "岩賊竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Scale+",
+            "ja": "溶岩竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Carapace",
+            "ja": "溶岩竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Fang+",
+            "ja": "溶岩竜の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Fin+",
+            "ja": "溶岩竜の上ヒレ"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Scale+",
+            "ja": "爆鎚竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Carapace",
+            "ja": "爆鎚竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Jaw",
+            "ja": "爆鎚竜の顎"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Scute",
+            "ja": "爆鎚竜の耐熱殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Marrow",
+            "ja": "爆鎚竜の延髄"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Ruby",
+            "ja": "爆鎚竜の紅玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Nugget",
+            "ja": "溶岩塊"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Scale+",
+            "ja": "爆鱗竜の上鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Carapace",
+            "ja": "爆鱗竜の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Tail",
+            "ja": "爆鱗竜の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Fuse",
+            "ja": "爆鱗竜の爆腺"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Talon",
+            "ja": "爆鱗竜の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Wing",
+            "ja": "爆鱗竜の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelgeuse Gem",
+            "ja": "爆鱗竜の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Immortal Dragonscale",
+            "ja": "不滅の龍鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Carapace",
+            "ja": "滅尽龍の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Tail",
+            "ja": "滅尽龍の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Horn+",
+            "ja": "滅尽龍の大角"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Talon",
+            "ja": "滅尽龍の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Regrowth Plate",
+            "ja": "滅尽龍の再生殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Gem",
+            "ja": "滅尽龍の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Deceased Scale",
+            "ja": "死屍の龍鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Carapace",
+            "ja": "屍套龍の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Membrane",
+            "ja": "屍套龍の被膜"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Tail",
+            "ja": "屍套龍の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Fang+",
+            "ja": "屍套龍の鋭牙"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Talon",
+            "ja": "屍套龍の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Wing",
+            "ja": "屍套龍の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Gem",
+            "ja": "屍套龍の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Carapace",
+            "ja": "炎王龍の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Mane",
+            "ja": "炎王龍のたてがみ"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Tail",
+            "ja": "炎王龍の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Horn+",
+            "ja": "炎王龍の尖角"
+        }
+    },
+    {
+        "name": {
+            "en": "Fire Dragon Scale+",
+            "ja": "獄炎の龍鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Claw+",
+            "ja": "炎龍の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Webbing",
+            "ja": "炎龍の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Powder",
+            "ja": "炎龍の塵粉"
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra Gem",
+            "ja": "炎龍の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Carapace",
+            "ja": "鋼龍の堅殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Dragon Scale+",
+            "ja": "鋼の上龍鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Webbing",
+            "ja": "鋼龍の翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Horn+",
+            "ja": "鋼龍の尖角"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Tail",
+            "ja": "鋼龍の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Claw+",
+            "ja": "鋼龍の尖爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Daora Gem",
+            "ja": "鋼龍の宝玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Soulscale",
+            "ja": "冥灯龍の幽鱗"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Shell",
+            "ja": "冥灯龍の白殻"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Veil",
+            "ja": "冥灯龍の幽幕"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Tail",
+            "ja": "冥灯龍の尻尾"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Horn",
+            "ja": "冥灯龍の幽角"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Claw",
+            "ja": "冥灯龍の幽爪"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Wing",
+            "ja": "冥灯龍の幽翼"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Gem",
+            "ja": "冥灯龍の幽玉"
+        }
+    },
+    {
+        "name": {
+            "en": "Tailraider Voucher",
+            "ja": "オトモダチケット"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajalaka Sketch",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Black Bandage",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Black Crystal Ticket",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wiggler Ticket",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Watcher Lens",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nora Brave Trophy",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "SFV Ticket",
+            "ja": "SFVチケット"
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Star Shard",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mysterious Feystone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glowing Feystone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Worn Feystone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warped Feystone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sullied Streamstone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shining Streamstone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Streamstone Shard",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Streamstone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gleaming Streamstone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Sword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Blade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Hammer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Lance",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Axe",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Shaft",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Warrior's Streamstone: Ranged",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Sword",
+            "ja": "英雄の龍脈石・剣"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Blade",
+            "ja": "英雄の龍脈石・刃"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Hammer",
+            "ja": "英雄の龍脈石・鎚"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Lance",
+            "ja": "英雄の龍脈石・槍"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Axe",
+            "ja": "英雄の龍脈石・斧"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Shaft",
+            "ja": "英雄の龍脈石・柄"
+        }
+    },
+    {
+        "name": {
+            "en": "Hero's Streamstone: Ranged",
+            "ja": "英雄の龍脈石・弩"
+        }
+    },
+    {
+        "name": {
+            "en": "Voucher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "First Wyverian Print",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Deluxe First Wyverian Print",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Wyverian Print",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Silver Wyverian Print",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gold Wyverian Print",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Commendation",
+            "ja": "勇気の証"
+        }
+    },
+    {
+        "name": {
+            "en": "High Commendation",
+            "ja": "勇気の証G"
+        }
+    },
+    {
+        "name": {
+            "en": "Research Commission Ticket",
+            "ja": "調査団チケット"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei Coin",
+            "ja": "プケプケコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Coin",
+            "ja": "クルルコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Coin",
+            "ja": "レイアコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi Coin",
+            "ja": "ツィツィコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Coin",
+            "ja": "ボロスコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Coin",
+            "ja": "ガマルコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Coin",
+            "ja": "レウスコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Brute Coin",
+            "ja": "獣竜コイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Flying Coin",
+            "ja": "飛竜コイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Pinnacle Coin",
+            "ja": "闘技王のコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter King Coin",
+            "ja": "狩猟王のコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Ace Hunter Coin",
+            "ja": "撃龍王のコイン"
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Egg",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Silver Egg",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Golden Egg",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chipped Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Large Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Beautiful Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lustrous Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glimmering Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bhernastone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dundormarin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Loc Lac Ore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Val Habar Quartz",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Minegardenite",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Golden Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Golden Scale+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Platinum Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Platinum Scale+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gilded Scale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gilded Scale+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Tear",
+            "ja": "竜のナミダ"
+        }
+    },
+    {
+        "name": {
+            "en": "Large Wyvern Tear",
+            "ja": "竜の大粒ナミダ"
+        }
+    },
+    {
+        "name": {
+            "en": "Dragon Treasure",
+            "ja": "龍秘宝"
+        }
+    }
+]

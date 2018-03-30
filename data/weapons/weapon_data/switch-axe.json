@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Proto Iron Axe I",
+{
+    "Proto Iron Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 1,
         "attack": 280,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Proto Iron Axe II",
+    "Proto Iron Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 1,
         "attack": 315,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Proto Iron Axe III",
+    "Proto Iron Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 2,
         "attack": 350,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Improved Steel Axe I",
+    "Improved Steel Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 385,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Improved Steel Axe II",
+    "Improved Steel Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 455,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Improved Steel Axe III",
+    "Improved Steel Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 490,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Perfected Alloy Axe I",
+    "Perfected Alloy Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 560,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Perfected Alloy Axe II",
+    "Perfected Alloy Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 630,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Gash",
+    "Nergal Gash": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 665,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Dying Light",
+    "Dying Light": {
         "weapon_type": "switch-axe",
         "rarity": 8,
         "attack": 700,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Glacial Axe I",
+    "Glacial Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 455,
@@ -319,8 +308,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Axe II",
+    "Glacial Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 490,
@@ -349,8 +337,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Frostreaver",
+    "Frostreaver": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 525,
@@ -379,8 +366,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Frostreaver",
+    "Legia Frostreaver": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 560,
@@ -409,8 +395,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Thunder Axe I",
+    "Thunder Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 420,
@@ -439,8 +424,7 @@
             "Tobi-Kadachi Electrode": 1
         }
     },
-    {
-        "name_en": "Thunder Axe II",
+    "Thunder Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 490,
@@ -469,8 +453,7 @@
             "Tobi-Kadachi Membrane": 2
         }
     },
-    {
-        "name_en": "Lightning Chopper I",
+    "Lightning Chopper I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -504,8 +487,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Lightning Chopper II",
+    "Lightning Chopper II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 595,
@@ -534,8 +516,7 @@
             "Tobi-Kadachi Membrane": 4
         }
     },
-    {
-        "name_en": "Lightning Chopper III",
+    "Lightning Chopper III": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 630,
@@ -564,8 +545,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Motor Chopper I",
+    "Motor Chopper I": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 630,
@@ -594,8 +574,7 @@
             "Uragaan Scale+": 6
         }
     },
-    {
-        "name_en": "Motor Chopper II",
+    "Motor Chopper II": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 735,
@@ -624,8 +603,7 @@
             "Uragaan Scute": 4
         }
     },
-    {
-        "name_en": "Jagras Axe I",
+    "Jagras Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 2,
         "attack": 385,
@@ -654,8 +632,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Axe II",
+    "Jagras Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 420,
@@ -684,8 +661,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Axe III",
+    "Jagras Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 490,
@@ -714,8 +690,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Jagras Rider I",
+    "Jagras Rider I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -744,8 +719,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Jagras Rider II",
+    "Jagras Rider II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 630,
@@ -774,8 +748,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Jagras Rider III",
+    "Jagras Rider III": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 665,
@@ -804,8 +777,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Bazel Rider I",
+    "Bazel Rider I": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 665,
@@ -834,8 +806,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazel Rider II",
+    "Bazel Rider II": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 700,
@@ -864,8 +835,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Rathalos Axe I",
+    "Rathalos Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 455,
@@ -894,8 +864,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Rathalos Axe II",
+    "Rathalos Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 490,
@@ -924,8 +893,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Rathbringer Axe I",
+    "Rathbringer Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 560,
@@ -954,8 +922,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Rathbringer Axe II",
+    "Rathbringer Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 665,
@@ -984,8 +951,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Bone Axe I",
+    "Bone Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 1,
         "attack": 315,
@@ -1011,8 +977,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Axe II",
+    "Bone Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 1,
         "attack": 350,
@@ -1038,8 +1003,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Axe III",
+    "Bone Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 2,
         "attack": 385,
@@ -1066,8 +1030,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Bone Smasher I",
+    "Bone Smasher I": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 490,
@@ -1095,8 +1058,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Bone Smasher II",
+    "Bone Smasher II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 525,
@@ -1124,8 +1086,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Bone Smasher III",
+    "Bone Smasher III": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -1153,8 +1114,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Power Smasher I",
+    "Power Smasher I": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 595,
@@ -1182,8 +1142,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Power Smasher II",
+    "Power Smasher II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 665,
@@ -1212,8 +1171,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Hazak Demios I",
+    "Hazak Demios I": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 665,
@@ -1242,8 +1200,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Demios II",
+    "Hazak Demios II": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 700,
@@ -1272,8 +1229,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Madness Axe I",
+    "Madness Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 2,
         "attack": 385,
@@ -1302,8 +1258,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Madness Axe II",
+    "Madness Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 420,
@@ -1332,8 +1287,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Madness Axe III",
+    "Madness Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 490,
@@ -1362,8 +1316,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Jyura Drought I",
+    "Jyura Drought I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -1397,8 +1350,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Jyura Drought II",
+    "Jyura Drought II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 630,
@@ -1427,8 +1379,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Jyura Drought III",
+    "Jyura Drought III": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 665,
@@ -1457,8 +1408,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Lumu Axe I",
+    "Lumu Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 420,
@@ -1486,8 +1436,7 @@
             "Paolumu Shell": 1
         }
     },
-    {
-        "name_en": "Lumu Axe II",
+    "Lumu Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 490,
@@ -1516,8 +1465,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Lumu Smasher I",
+    "Lumu Smasher I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 525,
@@ -1546,8 +1494,7 @@
             "Shamos Scale+": 5
         }
     },
-    {
-        "name_en": "Lumu Smasher II",
+    "Lumu Smasher II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 560,
@@ -1576,8 +1523,7 @@
             "Paolumu Wing": 3
         }
     },
-    {
-        "name_en": "Lumu Smasher III",
+    "Lumu Smasher III": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 595,
@@ -1606,8 +1552,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Carapace Axe I",
+    "Carapace Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 2,
         "attack": 420,
@@ -1635,8 +1580,7 @@
             "Barroth Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Axe II",
+    "Carapace Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 490,
@@ -1665,8 +1609,7 @@
             "Kestodon Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Axe III",
+    "Carapace Axe III": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -1695,8 +1638,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Barroth Grinder I",
+    "Barroth Grinder I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 595,
@@ -1725,8 +1667,7 @@
             "Kestodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Grinder II",
+    "Barroth Grinder II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 665,
@@ -1755,8 +1696,7 @@
             "Gastodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Grinder III",
+    "Barroth Grinder III": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 735,
@@ -1785,8 +1725,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Diablos Axe I",
+    "Diablos Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 595,
@@ -1815,8 +1754,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Axe II",
+    "Diablos Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 630,
@@ -1845,8 +1783,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Axe Semper Tyrannis",
+    "Axe Semper Tyrannis": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 735,
@@ -1875,8 +1812,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Axe of Thanatos",
+    "Axe of Thanatos": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 770,
@@ -1905,8 +1841,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Axe of Demons",
+    "Axe of Demons": {
         "weapon_type": "switch-axe",
         "rarity": 8,
         "attack": 805,
@@ -1935,8 +1870,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Flammenbeil",
+    "Flammenbeil": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 455,
@@ -1965,8 +1899,7 @@
             "Flame Sac": 2
         }
     },
-    {
-        "name_en": "Flammenbeil+",
+    "Flammenbeil+": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 560,
@@ -1995,8 +1928,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Gnashing Flammenbeil",
+    "Gnashing Flammenbeil": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 735,
@@ -2025,8 +1957,7 @@
             "Vaal Hazak Fang+": 5
         }
     },
-    {
-        "name_en": "Dragonbone Slicer I",
+    "Dragonbone Slicer I": {
         "weapon_type": "switch-axe",
         "rarity": 3,
         "attack": 350,
@@ -2055,8 +1986,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Slicer II",
+    "Dragonbone Slicer II": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 385,
@@ -2084,8 +2014,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Slicer III",
+    "Dragonbone Slicer III": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 560,
@@ -2114,8 +2043,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Peal",
+    "Peal": {
         "weapon_type": "switch-axe",
         "rarity": 4,
         "attack": 385,
@@ -2144,8 +2072,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Peal+",
+    "Peal+": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 490,
@@ -2174,8 +2101,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Kirin Thunderpeal",
+    "Kirin Thunderpeal": {
         "weapon_type": "switch-axe",
         "rarity": 8,
         "attack": 560,
@@ -2204,8 +2130,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Blacksteel Switch Axe I",
+    "Blacksteel Switch Axe I": {
         "weapon_type": "switch-axe",
         "rarity": 5,
         "attack": 350,
@@ -2234,8 +2159,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Switch Axe II",
+    "Blacksteel Switch Axe II": {
         "weapon_type": "switch-axe",
         "rarity": 6,
         "attack": 385,
@@ -2264,8 +2188,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Teostra's Arx",
+    "Teostra's Arx": {
         "weapon_type": "switch-axe",
         "rarity": 7,
         "attack": 630,
@@ -2294,8 +2217,7 @@
             "Teostra Powder": 4
         }
     },
-    {
-        "name_en": "Teostra's Castle",
+    "Teostra's Castle": {
         "weapon_type": "switch-axe",
         "rarity": 8,
         "attack": 665,
@@ -2324,8 +2246,7 @@
             "Xeno'jiiva Soulscale": 5
         }
     },
-    {
-        "name_en": "Xeno Martshu",
+    "Xeno Martshu": {
         "weapon_type": "switch-axe",
         "rarity": 8,
         "attack": 595,
@@ -2354,4 +2275,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

@@ -141,14 +141,45 @@ class Weapon(Base):
 
     # todo: sharpness, once we decide how we're storing it
 
+    previous_weapon = Column(ForeignKey("weapon.id"), nullable=True)
+    craftable = Column(Boolean, default=False)
+    final = Column(Boolean, default=False)
+
     glaive_boost_type = Column(Text)
     deviation = Column(Text)
     special_ammo = Column(Text)
 
-    previous_weapon = Column(ForeignKey("weapon.id"), nullable=True)
-    
-    craftable = Column(Boolean, default=False)
-    final = Column(Boolean, default=False)
+    ammo_normal_1 = Column(Integer)
+    ammo_normal_2 = Column(Integer)
+    ammo_normal_3 = Column(Integer)
+    ammo_pierce_1 = Column(Integer)
+    ammo_pierce_2 = Column(Integer)
+    ammo_pierce_3 = Column(Integer)
+    ammo_spread_1 = Column(Integer)
+    ammo_spread_2 = Column(Integer)
+    ammo_spread_3 = Column(Integer)
+    ammo_sticky_1 = Column(Integer)
+    ammo_sticky_2 = Column(Integer)
+    ammo_sticky_3 = Column(Integer)
+    ammo_cluster_1 = Column(Integer)
+    ammo_cluster_2 = Column(Integer)
+    ammo_cluster_3 = Column(Integer)
+    ammo_recover_1 = Column(Integer)
+    ammo_recover_2 = Column(Integer)
+    ammo_sleep_1 = Column(Integer)
+    ammo_sleep_2 = Column(Integer)
+    ammo_exhaust_1 = Column(Integer)
+    ammo_exhaust_2 = Column(Integer)
+    ammo_flaming = Column(Integer)
+    ammo_water = Column(Integer)
+    ammo_freeze = Column(Integer)
+    ammo_thunder = Column(Integer)
+    ammo_dragon = Column(Integer)
+    ammo_slicing = Column(Integer)
+    ammo_wyvern = Column(Integer)
+    ammo_demon = Column(Integer)
+    ammo_armor = Column(Integer)
+    ammo_tranq = Column(Integer)
 
 class WeaponText(Base, TextMixin):
     __tablename__ = "weapon_text"

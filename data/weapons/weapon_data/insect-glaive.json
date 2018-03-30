@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Blade I",
+{
+    "Iron Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 1,
         "attack": 248,
@@ -27,8 +26,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Blade II",
+    "Iron Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 1,
         "attack": 279,
@@ -55,8 +53,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Blade III",
+    "Iron Blade III": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 310,
@@ -85,8 +82,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Steel Blade I",
+    "Steel Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 341,
@@ -115,8 +111,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Steel Blade II",
+    "Steel Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 403,
@@ -146,8 +141,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Steel Blade III",
+    "Steel Blade III": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 434,
@@ -176,8 +170,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Blade I",
+    "Chrome Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -207,8 +200,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Blade II",
+    "Chrome Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 558,
@@ -238,8 +230,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Reaper",
+    "Nergal Reaper": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 620,
@@ -269,8 +260,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Catastrophe's Light",
+    "Catastrophe's Light": {
         "weapon_type": "insect-glaive",
         "rarity": 8,
         "attack": 651,
@@ -300,8 +290,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Flame Glaive I",
+    "Flame Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 372,
@@ -331,8 +320,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Flame Glaive II",
+    "Flame Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 465,
@@ -362,8 +350,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Rathmaul",
+    "Rathmaul": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -393,8 +380,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Firedance Rathmaul",
+    "Firedance Rathmaul": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 589,
@@ -424,8 +410,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Kulu Blade I",
+    "Kulu Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 310,
@@ -454,8 +439,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Blade II",
+    "Kulu Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 341,
@@ -485,8 +469,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Blade III",
+    "Kulu Blade III": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 434,
@@ -516,8 +499,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Ya-Ku Wrath I",
+    "Ya-Ku Wrath I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 465,
@@ -546,8 +528,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Ya-Ku Wrath II",
+    "Ya-Ku Wrath II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -577,8 +558,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Ya-Ku Wrath III",
+    "Ya-Ku Wrath III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -608,8 +588,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Luminous Blade I",
+    "Luminous Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 372,
@@ -638,8 +617,7 @@
             "Tzitzi-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Luminous Blade II",
+    "Luminous Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 434,
@@ -669,8 +647,7 @@
             "Tzitzi-Ya-Ku Photophore": 2
         }
     },
-    {
-        "name_en": "Destroyer Bo I",
+    "Destroyer Bo I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 496,
@@ -700,8 +677,7 @@
             "Tzitzi-Ya-Ku Scale+": 5
         }
     },
-    {
-        "name_en": "Destroyer Bo II",
+    "Destroyer Bo II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -731,8 +707,7 @@
             "Tzitzi-Ya-Ku Photophore+": 2
         }
     },
-    {
-        "name_en": "Destroyer Bo III",
+    "Destroyer Bo III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 558,
@@ -762,8 +737,7 @@
             "Tzitzi-Ya-Ku Photophore+": 3
         }
     },
-    {
-        "name_en": "Frost Blade I",
+    "Frost Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 434,
@@ -793,8 +767,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Frost Blade II",
+    "Frost Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 465,
@@ -824,8 +797,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Freeze Gale I",
+    "Freeze Gale I": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -855,8 +827,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Freeze Gale II",
+    "Freeze Gale II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -886,8 +857,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blooming Glaive I",
+    "Blooming Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 310,
@@ -916,8 +886,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Glaive II",
+    "Blooming Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 341,
@@ -947,8 +916,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Glaive III",
+    "Blooming Glaive III": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 403,
@@ -978,8 +946,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blade I",
+    "Datura Blade I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 465,
@@ -1014,8 +981,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blade II",
+    "Datura Blade II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -1045,8 +1011,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blade III",
+    "Datura Blade III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -1076,8 +1041,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Gama Cane I",
+    "Gama Cane I": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -1106,8 +1070,7 @@
             "Dodogama Talon": 4
         }
     },
-    {
-        "name_en": "Gama Cane II",
+    "Gama Cane II": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 527,
@@ -1137,8 +1100,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Bone Rod I",
+    "Bone Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 1,
         "attack": 279,
@@ -1165,8 +1127,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Rod II",
+    "Bone Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 1,
         "attack": 310,
@@ -1193,8 +1154,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Rod III",
+    "Bone Rod III": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 341,
@@ -1222,8 +1182,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Hard Bone Rod I",
+    "Hard Bone Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 434,
@@ -1252,8 +1211,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Hard Bone Rod II",
+    "Hard Bone Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 465,
@@ -1282,8 +1240,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Hard Bone Rod III",
+    "Hard Bone Rod III": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 496,
@@ -1312,8 +1269,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Aerial Rod I",
+    "Aerial Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -1342,8 +1298,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Aerial Rod II",
+    "Aerial Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 589,
@@ -1373,8 +1328,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Hazak Entoma I",
+    "Hazak Entoma I": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 589,
@@ -1404,8 +1358,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Entoma II",
+    "Hazak Entoma II": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 620,
@@ -1435,8 +1388,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Flammenkaefer",
+    "Flammenkaefer": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 403,
@@ -1471,8 +1423,7 @@
             "Flame Sac": 2
         }
     },
-    {
-        "name_en": "Flammenkaefer+",
+    "Flammenkaefer+": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 558,
@@ -1502,8 +1453,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Gnashing Flammenkaefer",
+    "Gnashing Flammenkaefer": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 651,
@@ -1533,8 +1483,7 @@
             "Vaal Hazak Fang+": 5
         }
     },
-    {
-        "name_en": "Aqua Rod I",
+    "Aqua Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 341,
@@ -1564,8 +1513,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Rod II",
+    "Aqua Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 372,
@@ -1595,8 +1543,7 @@
             "Sturdy Bone": 5
         }
     },
-    {
-        "name_en": "Aqua Rod III",
+    "Aqua Rod III": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 434,
@@ -1626,8 +1573,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Water Glaive I",
+    "Water Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 465,
@@ -1657,8 +1603,7 @@
             "Quality Bone": 5
         }
     },
-    {
-        "name_en": "Water Glaive II",
+    "Water Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -1688,8 +1633,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Water Glaive III",
+    "Water Glaive III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 589,
@@ -1719,8 +1663,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Diablos Rod I",
+    "Diablos Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 496,
@@ -1750,8 +1693,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Rod II",
+    "Diablos Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 620,
@@ -1781,8 +1723,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Tyrannis Glaive I",
+    "Tyrannis Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 682,
@@ -1812,8 +1753,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Tyrannis Glaive II",
+    "Tyrannis Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 713,
@@ -1843,8 +1783,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Pulsar Rod I",
+    "Pulsar Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 2,
         "attack": 341,
@@ -1873,8 +1812,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Rod II",
+    "Pulsar Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 372,
@@ -1904,8 +1842,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Rod III",
+    "Pulsar Rod III": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 434,
@@ -1935,8 +1872,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Pillar I",
+    "Kadachi Pillar I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 465,
@@ -1966,8 +1902,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Pillar II",
+    "Kadachi Pillar II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 527,
@@ -1997,8 +1932,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Kadachi Pillar III",
+    "Kadachi Pillar III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 558,
@@ -2028,8 +1962,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Garon Rod I",
+    "Garon Rod I": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 403,
@@ -2058,8 +1991,7 @@
             "Odogaron Scale": 4
         }
     },
-    {
-        "name_en": "Garon Rod II",
+    "Garon Rod II": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 434,
@@ -2089,8 +2021,7 @@
             "Quality Bone": 5
         }
     },
-    {
-        "name_en": "Temptation's Trident",
+    "Temptation's Trident": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 465,
@@ -2120,8 +2051,7 @@
             "Odogaron Scale+": 8
         }
     },
-    {
-        "name_en": "Vice",
+    "Vice": {
         "weapon_type": "insect-glaive",
         "rarity": 8,
         "attack": 496,
@@ -2151,8 +2081,7 @@
             "Teostra Claw+": 2
         }
     },
-    {
-        "name_en": "Dragonbone Glaive I",
+    "Dragonbone Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 3,
         "attack": 310,
@@ -2182,8 +2111,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Glaive II",
+    "Dragonbone Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 341,
@@ -2212,8 +2140,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Glaive III",
+    "Dragonbone Glaive III": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 496,
@@ -2243,8 +2170,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Indigo Flash",
+    "Indigo Flash": {
         "weapon_type": "insect-glaive",
         "rarity": 4,
         "attack": 341,
@@ -2274,8 +2200,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Azure Bolt",
+    "Azure Bolt": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 434,
@@ -2305,8 +2230,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Verdant Levin",
+    "Verdant Levin": {
         "weapon_type": "insect-glaive",
         "rarity": 8,
         "attack": 496,
@@ -2336,8 +2260,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Blacksteel Glaive I",
+    "Blacksteel Glaive I": {
         "weapon_type": "insect-glaive",
         "rarity": 5,
         "attack": 310,
@@ -2367,8 +2290,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Glaive II",
+    "Blacksteel Glaive II": {
         "weapon_type": "insect-glaive",
         "rarity": 6,
         "attack": 341,
@@ -2398,8 +2320,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Daora's Entom",
+    "Daora's Entom": {
         "weapon_type": "insect-glaive",
         "rarity": 7,
         "attack": 527,
@@ -2429,8 +2350,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Tethidine",
+    "Daora's Tethidine": {
         "weapon_type": "insect-glaive",
         "rarity": 8,
         "attack": 558,
@@ -2460,8 +2380,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Shmaena",
+    "Xeno Shmaena": {
         "weapon_type": "insect-glaive",
         "rarity": 8,
         "attack": 558,
@@ -2491,4 +2410,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

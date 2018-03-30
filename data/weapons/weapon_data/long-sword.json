@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Katana I",
+{
+    "Iron Katana I": {
         "weapon_type": "long-sword",
         "rarity": 1,
         "attack": 264,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Katana II",
+    "Iron Katana II": {
         "weapon_type": "long-sword",
         "rarity": 1,
         "attack": 297,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Katana III",
+    "Iron Katana III": {
         "weapon_type": "long-sword",
         "rarity": 2,
         "attack": 330,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Iron Grace I",
+    "Iron Grace I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 363,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Iron Grace II",
+    "Iron Grace II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 429,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Iron Grace III",
+    "Iron Grace III": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 462,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Iron Gospel I",
+    "Iron Gospel I": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 528,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Iron Gospel II",
+    "Iron Gospel II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 594,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Reaver",
+    "Nergal Reaver": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 627,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Extermination's Edge",
+    "Extermination's Edge": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 693,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Flickering Glow I",
+    "Flickering Glow I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 429,
@@ -319,8 +308,7 @@
             "Tzitzi-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Flickering Glow II",
+    "Flickering Glow II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 462,
@@ -349,8 +337,7 @@
             "Tzitzi-Ya-Ku Photophore": 2
         }
     },
-    {
-        "name_en": "Dazzling Flash I",
+    "Dazzling Flash I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 528,
@@ -379,8 +366,7 @@
             "Tzitzi-Ya-Ku Scale+": 5
         }
     },
-    {
-        "name_en": "Dazzling Flash II",
+    "Dazzling Flash II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -409,8 +395,7 @@
             "Tzitzi-Ya-Ku Photophore+": 2
         }
     },
-    {
-        "name_en": "Dazzling Flash III",
+    "Dazzling Flash III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 594,
@@ -439,8 +424,7 @@
             "Tzitzi-Ya-Ku Photophore+": 3
         }
     },
-    {
-        "name_en": "First Dance I",
+    "First Dance I": {
         "weapon_type": "long-sword",
         "rarity": 2,
         "attack": 330,
@@ -468,8 +452,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "First Dance II",
+    "First Dance II": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 363,
@@ -498,8 +481,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "First Dance III",
+    "First Dance III": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 429,
@@ -528,8 +510,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Last Dance I",
+    "Last Dance I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 495,
@@ -557,8 +538,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Last Dance II",
+    "Last Dance II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 528,
@@ -587,8 +567,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Last Dance III",
+    "Last Dance III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -617,8 +596,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Brazenridge I",
+    "Brazenridge I": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 594,
@@ -647,8 +625,7 @@
             "Uragaan Scale+": 6
         }
     },
-    {
-        "name_en": "Brazenridge II",
+    "Brazenridge II": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 660,
@@ -677,8 +654,7 @@
             "Uragaan Scute": 4
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Leaf\"",
+    "Wyvern Blade \"Leaf\"": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 363,
@@ -711,8 +687,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Verde\"",
+    "Wyvern Blade \"Verde\"": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 495,
@@ -741,8 +716,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Holly\"",
+    "Wyvern Blade \"Holly\"": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 627,
@@ -771,8 +745,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Fall\"",
+    "Wyvern Blade \"Fall\"": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 396,
@@ -801,8 +774,7 @@
             "Rathalos Shell": 2
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Blood\"",
+    "Wyvern Blade \"Blood\"": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 528,
@@ -831,8 +803,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Azure\"",
+    "Wyvern Blade \"Azure\"": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 561,
@@ -861,8 +832,7 @@
             "Rathalos Medulla": 1
         }
     },
-    {
-        "name_en": "Wyvern Blade \"Indigo\"",
+    "Wyvern Blade \"Indigo\"": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 627,
@@ -891,8 +861,7 @@
             "Teostra Horn+": 2
         }
     },
-    {
-        "name_en": "Bone Shotel I",
+    "Bone Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 1,
         "attack": 297,
@@ -918,8 +887,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Shotel II",
+    "Bone Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 1,
         "attack": 330,
@@ -945,8 +913,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Shotel III",
+    "Bone Shotel III": {
         "weapon_type": "long-sword",
         "rarity": 2,
         "attack": 396,
@@ -973,8 +940,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Hard Bone Shotel I",
+    "Hard Bone Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 429,
@@ -1002,8 +968,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Hard Bone Shotel II",
+    "Hard Bone Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 495,
@@ -1031,8 +996,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Hard Bone Shotel III",
+    "Hard Bone Shotel III": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 528,
@@ -1060,8 +1024,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Bone Reaper I",
+    "Bone Reaper I": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -1089,8 +1052,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Bone Reaper II",
+    "Bone Reaper II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 627,
@@ -1119,8 +1081,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Rookslayer Long Sword",
+    "Rookslayer Long Sword": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -1149,8 +1110,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazel Varga Rookslayer",
+    "Bazel Varga Rookslayer": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 660,
@@ -1179,8 +1139,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Blazing Shotel I",
+    "Blazing Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 462,
@@ -1208,8 +1167,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Shotel II",
+    "Blazing Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 528,
@@ -1238,8 +1196,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Scimitar I",
+    "Anja Scimitar I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 594,
@@ -1268,8 +1225,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Scimitar II",
+    "Anja Scimitar II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 660,
@@ -1298,8 +1254,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Scimitar III",
+    "Anja Scimitar III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 693,
@@ -1328,8 +1283,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Jyura Shotel I",
+    "Jyura Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 2,
         "attack": 396,
@@ -1358,8 +1312,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Jyura Shotel II",
+    "Jyura Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 429,
@@ -1388,8 +1341,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Jyura Shotel III",
+    "Jyura Shotel III": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 462,
@@ -1418,8 +1370,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Dipterus I",
+    "Dipterus I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 495,
@@ -1453,8 +1404,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Dipterus II",
+    "Dipterus II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -1483,8 +1433,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Dipterus III",
+    "Dipterus III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 627,
@@ -1513,8 +1462,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Hazak Grosser I",
+    "Hazak Grosser I": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 627,
@@ -1543,8 +1491,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Grosser II",
+    "Hazak Grosser II": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 660,
@@ -1573,8 +1520,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Pulsar Shotel I",
+    "Pulsar Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 363,
@@ -1602,8 +1548,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Shotel II",
+    "Pulsar Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 396,
@@ -1632,8 +1577,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Shotel III",
+    "Pulsar Shotel III": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 462,
@@ -1662,8 +1606,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Fang I",
+    "Kadachi Fang I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 528,
@@ -1692,8 +1635,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Fang II",
+    "Kadachi Fang II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -1722,8 +1664,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Kadachi Fang III",
+    "Kadachi Fang III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 594,
@@ -1752,8 +1693,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Glacial Shotel I",
+    "Glacial Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 429,
@@ -1781,8 +1721,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Shotel II",
+    "Glacial Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 462,
@@ -1811,8 +1750,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Stealer",
+    "Stealer": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 495,
@@ -1841,8 +1779,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Stealer",
+    "Legia Stealer": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 528,
@@ -1871,8 +1808,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Dark Shotel I",
+    "Dark Shotel I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 396,
@@ -1900,8 +1836,7 @@
             "Monster Fluid": 2
         }
     },
-    {
-        "name_en": "Dark Shotel II",
+    "Dark Shotel II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 429,
@@ -1930,8 +1865,7 @@
             "Odogaron Fang": 2
         }
     },
-    {
-        "name_en": "Dark Scimitar I",
+    "Dark Scimitar I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 462,
@@ -1960,8 +1894,7 @@
             "Monster Broth": 2
         }
     },
-    {
-        "name_en": "Dark Scimitar II",
+    "Dark Scimitar II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 495,
@@ -1990,8 +1923,7 @@
             "Novacrystal": 1
         }
     },
-    {
-        "name_en": "Dark Scimitar III",
+    "Dark Scimitar III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 528,
@@ -2020,8 +1952,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dragonbone Stabber I",
+    "Dragonbone Stabber I": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 330,
@@ -2050,8 +1981,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Stabber II",
+    "Dragonbone Stabber II": {
         "weapon_type": "long-sword",
         "rarity": 4,
         "attack": 363,
@@ -2079,8 +2009,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Stabber III",
+    "Dragonbone Stabber III": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 528,
@@ -2109,8 +2038,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Magda Facultas I",
+    "Magda Facultas I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 528,
@@ -2139,8 +2067,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Magda Facultas II",
+    "Magda Facultas II": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 726,
@@ -2169,8 +2096,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Long Sword I",
+    "Blacksteel Long Sword I": {
         "weapon_type": "long-sword",
         "rarity": 5,
         "attack": 330,
@@ -2199,8 +2125,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Long Sword II",
+    "Blacksteel Long Sword II": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 363,
@@ -2229,8 +2154,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Imperial Saber",
+    "Imperial Saber": {
         "weapon_type": "long-sword",
         "rarity": 7,
         "attack": 561,
@@ -2259,8 +2183,7 @@
             "Teostra Powder": 4
         }
     },
-    {
-        "name_en": "Imperial Shimmer",
+    "Imperial Shimmer": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 627,
@@ -2289,8 +2212,7 @@
             "Xeno'jiiva Soulscale": 5
         }
     },
-    {
-        "name_en": "Xeno Cypher",
+    "Xeno Cypher": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 594,
@@ -2319,8 +2241,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Supermacy Blade",
+    "Supermacy Blade": {
         "weapon_type": "long-sword",
         "rarity": 6,
         "attack": 561,
@@ -2348,8 +2269,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Divine Slasher",
+    "Divine Slasher": {
         "weapon_type": "long-sword",
         "rarity": 8,
         "attack": 693,
@@ -2378,8 +2298,7 @@
             "Wyvern Gem": 2
         }
     },
-    {
-        "name_en": "Azure Star Blade",
+    "Azure Star Blade": {
         "weapon_type": "long-sword",
         "rarity": 3,
         "attack": 363,
@@ -2408,4 +2327,4 @@
         "previous": null,
         "upgrade": null
     }
-]
+}

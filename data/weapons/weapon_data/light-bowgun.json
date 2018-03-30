@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Chain Blitz I",
+{
+    "Chain Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 1,
         "attack": 130,
@@ -97,8 +96,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Chain Blitz II",
+    "Chain Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 1,
         "attack": 143,
@@ -195,8 +193,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Chain Blitz III",
+    "Chain Blitz III": {
         "weapon_type": "light-bowgun",
         "rarity": 2,
         "attack": 156,
@@ -294,8 +291,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "High Chain Blitz I",
+    "High Chain Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 169,
@@ -394,8 +390,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "High Chain Blitz II",
+    "High Chain Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 182,
@@ -494,8 +489,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "High Chain Blitz III",
+    "High Chain Blitz III": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 195,
@@ -594,8 +588,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Cross Blitz I",
+    "Cross Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 208,
@@ -695,8 +688,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Cross Blitz II",
+    "Cross Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 234,
@@ -796,8 +788,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Spitter",
+    "Nergal Spitter": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 247,
@@ -897,8 +888,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Cataclysm's Trigger",
+    "Cataclysm's Trigger": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 260,
@@ -998,8 +988,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Lumu Blitz I",
+    "Lumu Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 169,
@@ -1098,8 +1087,7 @@
             "Paolumu Shell": 1
         }
     },
-    {
-        "name_en": "Lumu Blitz II",
+    "Lumu Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 182,
@@ -1199,8 +1187,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Lumu Typhon I",
+    "Lumu Typhon I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 195,
@@ -1305,8 +1292,7 @@
             "Shamos Scale+": 5
         }
     },
-    {
-        "name_en": "Lumu Typhon II",
+    "Lumu Typhon II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 208,
@@ -1406,8 +1392,7 @@
             "Paolumu Wing": 3
         }
     },
-    {
-        "name_en": "Lumu Typhon III",
+    "Lumu Typhon III": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 221,
@@ -1507,8 +1492,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Bazel Typhoon I",
+    "Bazel Typhoon I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -1608,8 +1592,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazel Typhoon II",
+    "Bazel Typhoon II": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 260,
@@ -1709,8 +1692,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Jagras Blitz I",
+    "Jagras Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 2,
         "attack": 169,
@@ -1810,8 +1792,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Blitz II",
+    "Jagras Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 182,
@@ -1911,8 +1892,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Blitz III",
+    "Jagras Blitz III": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -2012,8 +1992,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Jagras Fire I",
+    "Jagras Fire I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -2113,8 +2092,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Jagras Fire II",
+    "Jagras Fire II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 234,
@@ -2214,8 +2192,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Jagras Fire III",
+    "Jagras Fire III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -2315,8 +2292,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Flame Blitz I",
+    "Flame Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -2416,8 +2392,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Flame Blitz II",
+    "Flame Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -2517,8 +2492,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Rathbuster I",
+    "Rathbuster I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -2618,8 +2592,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Rathbuster II",
+    "Rathbuster II": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 247,
@@ -2719,8 +2692,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Thunder Blitz I",
+    "Thunder Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 182,
@@ -2820,8 +2792,7 @@
             "Tobi-Kadachi Electrode": 1
         }
     },
-    {
-        "name_en": "Thunder Blitz II",
+    "Thunder Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -2921,8 +2892,7 @@
             "Tobi-Kadachi Membrane": 2
         }
     },
-    {
-        "name_en": "Lightning Blitz I",
+    "Lightning Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -3022,8 +2992,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Lightning Blitz II",
+    "Lightning Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -3123,8 +3092,7 @@
             "Tobi-Kadachi Membrane": 4
         }
     },
-    {
-        "name_en": "Lightning Blitz III",
+    "Lightning Blitz III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 234,
@@ -3224,8 +3192,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Snow Blitz I",
+    "Snow Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 182,
@@ -3325,8 +3292,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Snow Blitz II",
+    "Snow Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 195,
@@ -3426,8 +3392,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Frost Blitz I",
+    "Frost Blitz I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -3527,8 +3492,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Frost Blitz II",
+    "Frost Blitz II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -3628,8 +3592,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Hunter's Rifle I",
+    "Hunter's Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 1,
         "attack": 143,
@@ -3726,8 +3689,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Hunter's Rifle II",
+    "Hunter's Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 1,
         "attack": 156,
@@ -3824,8 +3786,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Hunter's Rifle III",
+    "Hunter's Rifle III": {
         "weapon_type": "light-bowgun",
         "rarity": 2,
         "attack": 169,
@@ -3923,8 +3884,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Power Rifle I",
+    "Power Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 182,
@@ -4023,8 +3983,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Power Rifle II",
+    "Power Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -4123,8 +4082,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Power Rifle III",
+    "Power Rifle III": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -4223,8 +4181,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Sniper Shot I",
+    "Sniper Shot I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -4328,8 +4285,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Sniper Shot II",
+    "Sniper Shot II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -4429,8 +4385,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Hazak Ereipia",
+    "Hazak Ereipia": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 247,
@@ -4530,8 +4485,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Gulgoleth's Wail",
+    "Gulgoleth's Wail": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 260,
@@ -4631,8 +4585,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Blazing Rifle I",
+    "Blazing Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -4731,8 +4684,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Rifle II",
+    "Blazing Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 221,
@@ -4832,8 +4784,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Buster I",
+    "Anja Buster I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 234,
@@ -4933,8 +4884,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Buster II",
+    "Anja Buster II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 260,
@@ -5034,8 +4984,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Buster III",
+    "Anja Buster III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 273,
@@ -5135,8 +5084,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Madness Rifle I",
+    "Madness Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 2,
         "attack": 169,
@@ -5236,8 +5184,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Madness Rifle II",
+    "Madness Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 182,
@@ -5337,8 +5284,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Madness Rifle III",
+    "Madness Rifle III": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -5438,8 +5384,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Jyura Bullet I",
+    "Jyura Bullet I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -5539,8 +5484,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Jyura Bullet II",
+    "Jyura Bullet II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 234,
@@ -5640,8 +5584,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Jyura Bullet III",
+    "Jyura Bullet III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -5741,8 +5684,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Lava Bullet I",
+    "Lava Bullet I": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -5841,8 +5783,7 @@
             "Lavasioth Scale+": 4
         }
     },
-    {
-        "name_en": "Lava Bullet II",
+    "Lava Bullet II": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 234,
@@ -5942,8 +5883,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Carapace Rifle I",
+    "Carapace Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 2,
         "attack": 169,
@@ -6042,8 +5982,7 @@
             "Barroth Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Rifle II",
+    "Carapace Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 182,
@@ -6143,8 +6082,7 @@
             "Kestodon Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Rifle III",
+    "Carapace Rifle III": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 208,
@@ -6244,8 +6182,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Barroth Shot I",
+    "Barroth Shot I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 234,
@@ -6345,8 +6282,7 @@
             "Kestodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Shot II",
+    "Barroth Shot II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 247,
@@ -6446,8 +6382,7 @@
             "Gastodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Shot III",
+    "Barroth Shot III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 260,
@@ -6547,8 +6482,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Garon Rifle I",
+    "Garon Rifle I": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -6647,8 +6581,7 @@
             "Odogaron Scale": 4
         }
     },
-    {
-        "name_en": "Garon Rifle II",
+    "Garon Rifle II": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 208,
@@ -6748,8 +6681,7 @@
             "Quality Bone": 5
         }
     },
-    {
-        "name_en": "Fate's Ember",
+    "Fate's Ember": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 221,
@@ -6849,8 +6781,7 @@
             "Odogaron Scale+": 8
         }
     },
-    {
-        "name_en": "Karma",
+    "Karma": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 234,
@@ -6950,8 +6881,7 @@
             "Teostra Claw+": 2
         }
     },
-    {
-        "name_en": "Dragonbone Bowgun I",
+    "Dragonbone Bowgun I": {
         "weapon_type": "light-bowgun",
         "rarity": 3,
         "attack": 130,
@@ -7051,8 +6981,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Bowgun II",
+    "Dragonbone Bowgun II": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 143,
@@ -7151,8 +7080,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Bowgun III",
+    "Dragonbone Bowgun III": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 208,
@@ -7252,8 +7180,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Onigashima",
+    "Onigashima": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 208,
@@ -7353,8 +7280,7 @@
             "High Commendation": 1
         }
     },
-    {
-        "name_en": "Dai-Onigashima",
+    "Dai-Onigashima": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 221,
@@ -7454,8 +7380,7 @@
             "Xeno'jiiva Claw": 4
         }
     },
-    {
-        "name_en": "Mythical Horn",
+    "Mythical Horn": {
         "weapon_type": "light-bowgun",
         "rarity": 4,
         "attack": 143,
@@ -7555,8 +7480,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Mythical Horn+",
+    "Mythical Horn+": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 182,
@@ -7656,8 +7580,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Mythical Three-Horn",
+    "Mythical Three-Horn": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 208,
@@ -7757,8 +7680,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Blacksteel Crossbow I",
+    "Blacksteel Crossbow I": {
         "weapon_type": "light-bowgun",
         "rarity": 5,
         "attack": 130,
@@ -7858,8 +7780,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Crossbow II",
+    "Blacksteel Crossbow II": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 143,
@@ -7959,8 +7880,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Icesteel Wasp",
+    "Icesteel Wasp": {
         "weapon_type": "light-bowgun",
         "rarity": 7,
         "attack": 221,
@@ -8060,8 +7980,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Hornet",
+    "Daora's Hornet": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 234,
@@ -8161,8 +8080,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Neqiina",
+    "Xeno Neqiina": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 234,
@@ -8262,8 +8180,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Cross Bowgun",
+    "Cross Bowgun": {
         "weapon_type": "light-bowgun",
         "rarity": 6,
         "attack": 234,
@@ -8363,8 +8280,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Great Bowgun",
+    "Great Bowgun": {
         "weapon_type": "light-bowgun",
         "rarity": 8,
         "attack": 260,
@@ -8464,4 +8380,4 @@
             "Wyvern Gem": 2
         }
     }
-]
+}

@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Matched Slicers I",
+{
+    "Matched Slicers I": {
         "weapon_type": "dual-blades",
         "rarity": 1,
         "attack": 112,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Matched Slicers II",
+    "Matched Slicers II": {
         "weapon_type": "dual-blades",
         "rarity": 1,
         "attack": 126,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Matched Slicers III",
+    "Matched Slicers III": {
         "weapon_type": "dual-blades",
         "rarity": 2,
         "attack": 140,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Dual Slicers I",
+    "Dual Slicers I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 154,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Dual Slicers II",
+    "Dual Slicers II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 182,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Dual Slicers III",
+    "Dual Slicers III": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 196,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Slicers I",
+    "Chrome Slicers I": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 224,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Slicers II",
+    "Chrome Slicers II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Gouge",
+    "Nergal Gouge": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 280,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Decimation Claws",
+    "Decimation Claws": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 294,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Luminous Daggers I",
+    "Luminous Daggers I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 168,
@@ -319,8 +308,7 @@
             "Tzitzi-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Luminous Daggers II",
+    "Luminous Daggers II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 196,
@@ -349,8 +337,7 @@
             "Tzitzi-Ya-Ku Photophore": 2
         }
     },
-    {
-        "name_en": "Dual Destroyers I",
+    "Dual Destroyers I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 224,
@@ -384,8 +371,7 @@
             "Tzitzi-Ya-Ku Scale+": 5
         }
     },
-    {
-        "name_en": "Dual Destroyers II",
+    "Dual Destroyers II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 238,
@@ -414,8 +400,7 @@
             "Tzitzi-Ya-Ku Photophore+": 2
         }
     },
-    {
-        "name_en": "Dual Destroyers III",
+    "Dual Destroyers III": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -444,8 +429,7 @@
             "Tzitzi-Ya-Ku Photophore+": 3
         }
     },
-    {
-        "name_en": "Rookslayer Handaxes",
+    "Rookslayer Handaxes": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -474,8 +458,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazelhawk Rookslayer",
+    "Bazelhawk Rookslayer": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 280,
@@ -504,8 +487,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Freeze Daggers I",
+    "Freeze Daggers I": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 182,
@@ -534,8 +516,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Freeze Daggers II",
+    "Freeze Daggers II": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 210,
@@ -564,8 +545,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Freeze Chain I",
+    "Freeze Chain I": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 238,
@@ -594,8 +574,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Freeze Chain II",
+    "Freeze Chain II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -624,8 +603,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Rending Beaks I",
+    "Rending Beaks I": {
         "weapon_type": "dual-blades",
         "rarity": 2,
         "attack": 154,
@@ -653,8 +631,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Rending Beaks II",
+    "Rending Beaks II": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 168,
@@ -683,8 +660,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "Rending Beaks III",
+    "Rending Beaks III": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 182,
@@ -713,8 +689,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Arcanaria I",
+    "Arcanaria I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 210,
@@ -742,8 +717,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Arcanaria II",
+    "Arcanaria II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 224,
@@ -772,8 +746,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Arcanaria III",
+    "Arcanaria III": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 238,
@@ -802,8 +775,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Sworn Rapiers",
+    "Sworn Rapiers": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 182,
@@ -832,8 +804,7 @@
             "Machalite Ore": 5
         }
     },
-    {
-        "name_en": "Sworn Rapiers+",
+    "Sworn Rapiers+": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 210,
@@ -862,8 +833,7 @@
             "Dragonvein Crystal": 4
         }
     },
-    {
-        "name_en": "Holy Sabers",
+    "Holy Sabers": {
         "weapon_type": "dual-blades",
         "rarity": 252,
         "attack": 252,
@@ -892,8 +862,7 @@
             "Wyvern Gem": 2
         }
     },
-    {
-        "name_en": "Bone Hachets I",
+    "Bone Hachets I": {
         "weapon_type": "dual-blades",
         "rarity": 1,
         "attack": 140,
@@ -919,8 +888,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Hachets II",
+    "Bone Hachets II": {
         "weapon_type": "dual-blades",
         "rarity": 1,
         "attack": 154,
@@ -946,8 +914,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Hachets III",
+    "Bone Hachets III": {
         "weapon_type": "dual-blades",
         "rarity": 2,
         "attack": 168,
@@ -974,8 +941,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Wild Hachets I",
+    "Wild Hachets I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 196,
@@ -1003,8 +969,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Wild Hachets II",
+    "Wild Hachets II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 210,
@@ -1032,8 +997,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Wild Hachets III",
+    "Wild Hachets III": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 224,
@@ -1061,8 +1025,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Strong Hatchets I",
+    "Strong Hatchets I": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 238,
@@ -1090,8 +1053,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Strong Hatchets II",
+    "Strong Hatchets II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 266,
@@ -1120,8 +1082,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Blazing Hachets I",
+    "Blazing Hachets I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 196,
@@ -1149,8 +1110,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Hachets II",
+    "Blazing Hachets II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 210,
@@ -1179,8 +1139,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Cyclone I",
+    "Anja Cyclone I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 238,
@@ -1209,8 +1168,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Cyclone II",
+    "Anja Cyclone II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 266,
@@ -1239,8 +1197,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Cyclone III",
+    "Anja Cyclone III": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 294,
@@ -1269,8 +1226,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Diablos Hachets I",
+    "Diablos Hachets I": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 224,
@@ -1299,8 +1255,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Hachets II",
+    "Diablos Hachets II": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 266,
@@ -1329,8 +1284,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Diablos Clubs I",
+    "Diablos Clubs I": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 294,
@@ -1359,8 +1313,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Diablos Clubs II",
+    "Diablos Clubs II": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 322,
@@ -1389,8 +1342,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Madness Pangas I",
+    "Madness Pangas I": {
         "weapon_type": "dual-blades",
         "rarity": 2,
         "attack": 154,
@@ -1419,8 +1371,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Madness Pangas II",
+    "Madness Pangas II": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 182,
@@ -1449,8 +1400,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Madness Pangas III",
+    "Madness Pangas III": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 210,
@@ -1479,8 +1429,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Jyura Hatchets I",
+    "Jyura Hatchets I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 238,
@@ -1514,8 +1463,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Jyura Hatchets II",
+    "Jyura Hatchets II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -1544,8 +1492,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Jyura Hatchets III",
+    "Jyura Hatchets III": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 266,
@@ -1574,8 +1521,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Lava Cyclone I",
+    "Lava Cyclone I": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -1603,8 +1549,7 @@
             "Lavasioth Scale+": 4
         }
     },
-    {
-        "name_en": "Lava Cyclone II",
+    "Lava Cyclone II": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 252,
@@ -1633,8 +1578,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Taurus Pangas I",
+    "Taurus Pangas I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 168,
@@ -1662,8 +1606,7 @@
             "Monster Fluid": 2
         }
     },
-    {
-        "name_en": "Taurus Pangas II",
+    "Taurus Pangas II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 182,
@@ -1692,8 +1635,7 @@
             "Odogaron Fang": 2
         }
     },
-    {
-        "name_en": "Dark Ripper I",
+    "Dark Ripper I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 196,
@@ -1722,8 +1664,7 @@
             "Monster Broth": 2
         }
     },
-    {
-        "name_en": "Dark Ripper II",
+    "Dark Ripper II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 210,
@@ -1752,8 +1693,7 @@
             "Novacrystal": 1
         }
     },
-    {
-        "name_en": "Dark Ripper III",
+    "Dark Ripper III": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 224,
@@ -1782,8 +1722,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Pulsar Hachets I",
+    "Pulsar Hachets I": {
         "weapon_type": "dual-blades",
         "rarity": 2,
         "attack": 154,
@@ -1811,8 +1750,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Hachets II",
+    "Pulsar Hachets II": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 168,
@@ -1841,8 +1779,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Hachets III",
+    "Pulsar Hachets III": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 196,
@@ -1871,8 +1808,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Claws I",
+    "Kadachi Claws I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 224,
@@ -1901,8 +1837,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Claws II",
+    "Kadachi Claws II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 238,
@@ -1931,8 +1866,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Kadachi Claws III",
+    "Kadachi Claws III": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 252,
@@ -1961,8 +1895,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Garon Hatchets I",
+    "Garon Hatchets I": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 182,
@@ -1990,8 +1923,7 @@
             "Odogaron Scale": 4
         }
     },
-    {
-        "name_en": "Garon Hatchets II",
+    "Garon Hatchets II": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 196,
@@ -2020,8 +1952,7 @@
             "Quality Bone": 5
         }
     },
-    {
-        "name_en": "Blood-drinker Chainblade",
+    "Blood-drinker Chainblade": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 210,
@@ -2050,8 +1981,7 @@
             "Odogaron Scale+": 8
         }
     },
-    {
-        "name_en": "Sin",
+    "Sin": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 224,
@@ -2080,8 +2010,7 @@
             "Teostra Claw+": 2
         }
     },
-    {
-        "name_en": "Dragonbone Twinblades I",
+    "Dragonbone Twinblades I": {
         "weapon_type": "dual-blades",
         "rarity": 3,
         "attack": 140,
@@ -2110,8 +2039,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Twinblades II",
+    "Dragonbone Twinblades II": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 168,
@@ -2139,8 +2067,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Enduring Schism",
+    "Enduring Schism": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 196,
@@ -2169,8 +2096,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Kirin Bolts",
+    "Kirin Bolts": {
         "weapon_type": "dual-blades",
         "rarity": 4,
         "attack": 154,
@@ -2199,8 +2125,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Kirin Bolts+",
+    "Kirin Bolts+": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 196,
@@ -2229,8 +2154,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Monarch",
+    "Monarch": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 224,
@@ -2259,8 +2183,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Magda Ungulae I",
+    "Magda Ungulae I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 224,
@@ -2289,8 +2212,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Magda Ungulae II",
+    "Magda Ungulae II": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 308,
@@ -2319,8 +2241,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Twins I",
+    "Blacksteel Twins I": {
         "weapon_type": "dual-blades",
         "rarity": 5,
         "attack": 140,
@@ -2349,8 +2270,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Twins II",
+    "Blacksteel Twins II": {
         "weapon_type": "dual-blades",
         "rarity": 6,
         "attack": 154,
@@ -2379,8 +2299,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Twin Nails",
+    "Twin Nails": {
         "weapon_type": "dual-blades",
         "rarity": 7,
         "attack": 238,
@@ -2409,8 +2328,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Fire and Ice",
+    "Fire and Ice": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 252,
@@ -2439,8 +2357,7 @@
             "Xeno'jiiva Claw": 2
         }
     },
-    {
-        "name_en": "Xeno Raqs",
+    "Xeno Raqs": {
         "weapon_type": "dual-blades",
         "rarity": 8,
         "attack": 238,
@@ -2469,4 +2386,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

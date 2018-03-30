@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Bow I",
+{
+    "Iron Bow I": {
         "weapon_type": "bow",
         "rarity": 1,
         "attack": 96,
@@ -22,8 +21,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Bow II",
+    "Iron Bow II": {
         "weapon_type": "bow",
         "rarity": 1,
         "attack": 108,
@@ -45,8 +43,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Bow III",
+    "Iron Bow III": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 120,
@@ -70,8 +67,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Steel Bow I",
+    "Steel Bow I": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 132,
@@ -95,8 +91,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Steel Bow II",
+    "Steel Bow II": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 156,
@@ -121,8 +116,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Steel Bow III",
+    "Steel Bow III": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 168,
@@ -146,8 +140,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Alloy Bow I",
+    "Alloy Bow I": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 180,
@@ -172,8 +165,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Alloy Bow II",
+    "Alloy Bow II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -198,8 +190,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Whisper",
+    "Nergal Whisper": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 228,
@@ -224,8 +215,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Doom's Shaft",
+    "Doom's Shaft": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 240,
@@ -250,8 +240,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Kulu Arrow I",
+    "Kulu Arrow I": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 120,
@@ -277,8 +266,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Arrow II",
+    "Kulu Arrow II": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 132,
@@ -305,8 +293,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Arrow III",
+    "Kulu Arrow III": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 156,
@@ -333,8 +320,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Archer's Dance I",
+    "Archer's Dance I": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 180,
@@ -365,8 +351,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Archer's Dance II",
+    "Archer's Dance II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 192,
@@ -393,8 +378,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Archer's Dance III",
+    "Archer's Dance III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -421,8 +405,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Brazencord",
+    "Brazencord": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -448,8 +431,7 @@
             "Uragaan Scale+": 6
         }
     },
-    {
-        "name_en": "Gigacles",
+    "Gigacles": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 228,
@@ -475,8 +457,7 @@
             "Uragaan Scute": 4
         }
     },
-    {
-        "name_en": "Princess Arrow I",
+    "Princess Arrow I": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 132,
@@ -501,8 +482,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Princess Arrow II",
+    "Princess Arrow II": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 192,
@@ -528,8 +508,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Princess Arrow III",
+    "Princess Arrow III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 216,
@@ -555,8 +534,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Rathslinger I",
+    "Rathslinger I": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 144,
@@ -582,8 +560,7 @@
             "Rathalos Shell": 2
         }
     },
-    {
-        "name_en": "Rathslinger II",
+    "Rathslinger II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -609,8 +586,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Rathslinger III",
+    "Rathslinger III": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 216,
@@ -636,8 +612,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Aqua Arrow I",
+    "Aqua Arrow I": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 120,
@@ -662,8 +637,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Arrow II",
+    "Aqua Arrow II": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 132,
@@ -688,8 +662,7 @@
             "Jyuratodus Fin": 3
         }
     },
-    {
-        "name_en": "Aqua Arrow III",
+    "Aqua Arrow III": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 144,
@@ -714,8 +687,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Water Shot I",
+    "Water Shot I": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 168,
@@ -740,8 +712,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Water Shot II",
+    "Water Shot II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 180,
@@ -766,8 +737,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Water Shot III",
+    "Water Shot III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -792,8 +762,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Glacial Arrow I",
+    "Glacial Arrow I": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 144,
@@ -819,8 +788,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Arrow II",
+    "Glacial Arrow II": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 156,
@@ -847,8 +815,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Snowfletcher",
+    "Snowfletcher": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 168,
@@ -875,8 +842,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Snowfletcher",
+    "Legia Snowfletcher": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 180,
@@ -903,8 +869,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Hunter's Bow I",
+    "Hunter's Bow I": {
         "weapon_type": "bow",
         "rarity": 1,
         "attack": 120,
@@ -927,8 +892,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Hunter's Bow II",
+    "Hunter's Bow II": {
         "weapon_type": "bow",
         "rarity": 1,
         "attack": 132,
@@ -951,8 +915,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Hunter's Bow III",
+    "Hunter's Bow III": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 144,
@@ -976,8 +939,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Hunter's Stoutbow I",
+    "Hunter's Stoutbow I": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 156,
@@ -1002,8 +964,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Hunter's Stoutbow II",
+    "Hunter's Stoutbow II": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 168,
@@ -1028,8 +989,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Hunter's Stoutbow III",
+    "Hunter's Stoutbow III": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 180,
@@ -1054,8 +1014,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Hunter's Proudbow I",
+    "Hunter's Proudbow I": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 192,
@@ -1080,8 +1039,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Hunter's Proudbow II",
+    "Hunter's Proudbow II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 216,
@@ -1107,8 +1065,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Hazak Velos I",
+    "Hazak Velos I": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 216,
@@ -1134,8 +1091,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Velos II",
+    "Hazak Velos II": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 228,
@@ -1161,8 +1117,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Diablos Bow I",
+    "Diablos Bow I": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 192,
@@ -1188,8 +1143,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Bow II",
+    "Diablos Bow II": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 216,
@@ -1215,8 +1169,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Diablos Coilbender",
+    "Diablos Coilbender": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 240,
@@ -1247,8 +1200,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Galebender",
+    "Galebender": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 252,
@@ -1274,8 +1226,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Cera Coilbender",
+    "Cera Coilbender": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 264,
@@ -1301,8 +1252,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Blooming Arch I",
+    "Blooming Arch I": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 144,
@@ -1327,8 +1277,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Arch II",
+    "Blooming Arch II": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 156,
@@ -1354,8 +1303,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Arch III",
+    "Blooming Arch III": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 168,
@@ -1381,8 +1329,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Datura String I",
+    "Datura String I": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 180,
@@ -1408,8 +1355,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura String II",
+    "Datura String II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 192,
@@ -1435,8 +1381,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura String III",
+    "Datura String III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 204,
@@ -1462,8 +1407,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Blazing Bow I",
+    "Blazing Bow I": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 156,
@@ -1488,8 +1432,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Bow II",
+    "Blazing Bow II": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 168,
@@ -1515,8 +1458,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Arch I",
+    "Anja Arch I": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 192,
@@ -1542,8 +1484,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Arch II",
+    "Anja Arch II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 216,
@@ -1569,8 +1510,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Arch III",
+    "Anja Arch III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 240,
@@ -1596,8 +1536,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Pulsar Bow I",
+    "Pulsar Bow I": {
         "weapon_type": "bow",
         "rarity": 2,
         "attack": 144,
@@ -1622,8 +1561,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Bow II",
+    "Pulsar Bow II": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 156,
@@ -1649,8 +1587,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Bow III",
+    "Pulsar Bow III": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 168,
@@ -1676,8 +1613,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Strikebow",
+    "Kadachi Strikebow": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 180,
@@ -1703,8 +1639,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Flying Kadachi Strikebow",
+    "Flying Kadachi Strikebow": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 204,
@@ -1730,8 +1665,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dragonbone Bow I",
+    "Dragonbone Bow I": {
         "weapon_type": "bow",
         "rarity": 3,
         "attack": 120,
@@ -1757,8 +1691,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Bow II",
+    "Dragonbone Bow II": {
         "weapon_type": "bow",
         "rarity": 4,
         "attack": 132,
@@ -1783,8 +1716,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Bow III",
+    "Dragonbone Bow III": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 180,
@@ -1810,8 +1742,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blacksteel Bow I",
+    "Blacksteel Bow I": {
         "weapon_type": "bow",
         "rarity": 5,
         "attack": 120,
@@ -1837,8 +1768,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Bow II",
+    "Blacksteel Bow II": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 132,
@@ -1864,8 +1794,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Icesteel Bow",
+    "Icesteel Bow": {
         "weapon_type": "bow",
         "rarity": 7,
         "attack": 192,
@@ -1890,8 +1819,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Sagittarii",
+    "Daora's Sagittarii": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 204,
@@ -1916,8 +1844,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Metora",
+    "Xeno Metora": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 204,
@@ -1944,8 +1871,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Cross Hunter's Bow",
+    "Cross Hunter's Bow": {
         "weapon_type": "bow",
         "rarity": 6,
         "attack": 216,
@@ -1973,8 +1899,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Great Hunter's Bow",
+    "Great Hunter's Bow": {
         "weapon_type": "bow",
         "rarity": 8,
         "attack": 228,
@@ -2002,4 +1927,4 @@
             "Wyvern Gem": 2
         }
     }
-]
+}

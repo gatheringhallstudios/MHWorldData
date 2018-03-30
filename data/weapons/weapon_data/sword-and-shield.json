@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Hunter's Knife I",
+{
+    "Hunter's Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 1,
         "attack": 112,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Hunter's Knife II",
+    "Hunter's Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 1,
         "attack": 126,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Hunter's Knife III",
+    "Hunter's Knife III": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 140,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Steel Knife I",
+    "Steel Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 168,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Steel Knife II",
+    "Steel Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 182,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Steel Knife III",
+    "Steel Knife III": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 196,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Slicer I",
+    "Chrome Slicer I": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Slicer II",
+    "Chrome Slicer II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Jack",
+    "Nergal Jack": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 280,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Eradication Vanguard",
+    "Eradication Vanguard": {
         "weapon_type": "sword-and-shield",
         "rarity": 8,
         "attack": 294,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Flame Knife I",
+    "Flame Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 182,
@@ -320,8 +309,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Flame Knife II",
+    "Flame Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 196,
@@ -350,8 +338,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Heat Edge",
+    "Heat Edge": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -380,8 +367,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Corona",
+    "Corona": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 266,
@@ -410,8 +396,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Heavy Bang",
+    "Heavy Bang": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 210,
@@ -440,8 +425,7 @@
             "Rathalos Tail": 1
         }
     },
-    {
-        "name_en": "Heavy Bang+",
+    "Heavy Bang+": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -470,8 +454,7 @@
             "Odogaron Tail": 2
         }
     },
-    {
-        "name_en": "Master Bang",
+    "Master Bang": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 280,
@@ -500,8 +483,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Aqua Messer I",
+    "Aqua Messer I": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 140,
@@ -530,8 +512,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Messer II",
+    "Aqua Messer II": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 168,
@@ -560,8 +541,7 @@
             "Jyuratodus Fin": 3
         }
     },
-    {
-        "name_en": "Aqua Messer III",
+    "Aqua Messer III": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 196,
@@ -590,8 +570,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Rogue Wave I",
+    "Rogue Wave I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 210,
@@ -620,8 +599,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Rogue Wave II",
+    "Rogue Wave II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -650,8 +628,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Rogue Wave III",
+    "Rogue Wave III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -680,8 +657,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Glacial Grace I",
+    "Glacial Grace I": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 182,
@@ -709,8 +685,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Grace II",
+    "Glacial Grace II": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 196,
@@ -739,8 +714,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Rimespire",
+    "Rimespire": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 210,
@@ -769,8 +743,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Rimespire",
+    "Legia Rimespire": {
         "weapon_type": "sword-and-shield",
         "rarity": 8,
         "attack": 224,
@@ -799,8 +772,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Princess Rapier",
+    "Princess Rapier": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 168,
@@ -833,8 +805,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Queen Rapier",
+    "Queen Rapier": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 210,
@@ -863,8 +834,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Queen Rose",
+    "Queen Rose": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 238,
@@ -893,8 +863,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Royal Rose",
+    "Royal Rose": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 266,
@@ -923,8 +892,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Lumu Knife I",
+    "Lumu Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 168,
@@ -952,8 +920,7 @@
             "Paolumu Shell": 1
         }
     },
-    {
-        "name_en": "Lumu Knife II",
+    "Lumu Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 182,
@@ -982,8 +949,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Lumu Tabar I",
+    "Lumu Tabar I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 210,
@@ -1012,8 +978,7 @@
             "Shamos Scale+": 5
         }
     },
-    {
-        "name_en": "Lumu Tabar II",
+    "Lumu Tabar II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -1042,8 +1007,7 @@
             "Paolumu Wing": 3
         }
     },
-    {
-        "name_en": "Lumu Tabar III",
+    "Lumu Tabar III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 238,
@@ -1072,8 +1036,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blooming Knife I",
+    "Blooming Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 154,
@@ -1101,8 +1064,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Knife II",
+    "Blooming Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 182,
@@ -1131,8 +1093,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Knife III",
+    "Blooming Knife III": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 196,
@@ -1161,8 +1122,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blossom I",
+    "Datura Blossom I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 210,
@@ -1191,8 +1151,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blossom II",
+    "Datura Blossom II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -1221,8 +1180,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blossom III",
+    "Datura Blossom III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 238,
@@ -1251,8 +1209,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Girros Knife I",
+    "Girros Knife I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 168,
@@ -1280,8 +1237,7 @@
             "Great Girros Scale": 3
         }
     },
-    {
-        "name_en": "Girros Knife II",
+    "Girros Knife II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 182,
@@ -1310,8 +1266,7 @@
             "Paralysis Sac": 2
         }
     },
-    {
-        "name_en": "Malady's Tabar I",
+    "Malady's Tabar I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 196,
@@ -1340,8 +1295,7 @@
             "Great Girros Tail": 2
         }
     },
-    {
-        "name_en": "Malady's Tabar II",
+    "Malady's Tabar II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 210,
@@ -1370,8 +1324,7 @@
             "Omniplegia Sac": 4
         }
     },
-    {
-        "name_en": "Malady's Tabar III",
+    "Malady's Tabar III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 224,
@@ -1400,8 +1353,7 @@
             "Vaal Hazak Fang+": 2
         }
     },
-    {
-        "name_en": "Bone Kukri I",
+    "Bone Kukri I": {
         "weapon_type": "sword-and-shield",
         "rarity": 1,
         "attack": 140,
@@ -1427,8 +1379,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Kukri II",
+    "Bone Kukri II": {
         "weapon_type": "sword-and-shield",
         "rarity": 1,
         "attack": 154,
@@ -1454,8 +1405,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Kukri III",
+    "Bone Kukri III": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 168,
@@ -1482,8 +1432,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Chief Kukri I",
+    "Chief Kukri I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 196,
@@ -1511,8 +1460,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Chief Kukri II",
+    "Chief Kukri II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 210,
@@ -1540,8 +1488,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Chief Kukri III",
+    "Chief Kukri III": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 224,
@@ -1569,8 +1516,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Grand Barong I",
+    "Grand Barong I": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 238,
@@ -1598,8 +1544,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Grand Barong II",
+    "Grand Barong II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 266,
@@ -1628,8 +1573,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Spiked Edge I",
+    "Spiked Edge I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 182,
@@ -1657,8 +1601,7 @@
             "Wyvern Bonemass": 2
         }
     },
-    {
-        "name_en": "Spiked Edge II",
+    "Spiked Edge II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 196,
@@ -1687,8 +1630,7 @@
             "Wyvern Bonemass": 3
         }
     },
-    {
-        "name_en": "Baan Claw I",
+    "Baan Claw I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 238,
@@ -1717,8 +1659,7 @@
             "Radobaan Oilshell": 3
         }
     },
-    {
-        "name_en": "Baan Claw II",
+    "Baan Claw II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -1747,8 +1688,7 @@
             "Radobaan Scale+": 8
         }
     },
-    {
-        "name_en": "Baan Claw III",
+    "Baan Claw III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 266,
@@ -1777,8 +1717,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Jagras Edge I",
+    "Jagras Edge I": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 168,
@@ -1807,8 +1746,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Edge II",
+    "Jagras Edge II": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 196,
@@ -1837,8 +1775,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Edge III",
+    "Jagras Edge III": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 210,
@@ -1867,8 +1804,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Jagras Garotte I",
+    "Jagras Garotte I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 238,
@@ -1897,8 +1833,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Jagras Garotte II",
+    "Jagras Garotte II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -1927,8 +1862,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Jagras Garotte III",
+    "Jagras Garotte III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 266,
@@ -1957,8 +1891,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Thunder Edge I",
+    "Thunder Edge I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 182,
@@ -1987,8 +1920,7 @@
             "Tobi-Kadachi Electrode": 1
         }
     },
-    {
-        "name_en": "Thunder Edge II",
+    "Thunder Edge II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 210,
@@ -2017,8 +1949,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Lightning Nemesis I",
+    "Lightning Nemesis I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 224,
@@ -2047,8 +1978,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Lightning Nemesis II",
+    "Lightning Nemesis II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 252,
@@ -2077,8 +2007,7 @@
             "Tobi-Kadachi Membrane": 4
         }
     },
-    {
-        "name_en": "Lightning Nemesis III",
+    "Lightning Nemesis III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 266,
@@ -2107,8 +2036,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Carapace Edge I",
+    "Carapace Edge I": {
         "weapon_type": "sword-and-shield",
         "rarity": 2,
         "attack": 182,
@@ -2136,8 +2064,7 @@
             "Barroth Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Edge II",
+    "Carapace Edge II": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 196,
@@ -2166,8 +2093,7 @@
             "Kestodon Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Edge III",
+    "Carapace Edge III": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 224,
@@ -2196,8 +2122,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Barroth Club I",
+    "Barroth Club I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 252,
@@ -2226,8 +2151,7 @@
             "Kestodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Club II",
+    "Barroth Club II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 266,
@@ -2256,8 +2180,7 @@
             "Gastodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Club III",
+    "Barroth Club III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 294,
@@ -2286,8 +2209,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blazing Edge I",
+    "Blazing Edge I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 196,
@@ -2315,8 +2237,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Edge II",
+    "Blazing Edge II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 224,
@@ -2345,8 +2266,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Flammensucher",
+    "Flammensucher": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 266,
@@ -2380,8 +2300,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Gnashing Flammensucher",
+    "Gnashing Flammensucher": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 294,
@@ -2410,8 +2329,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Dragonbone Sword I",
+    "Dragonbone Sword I": {
         "weapon_type": "sword-and-shield",
         "rarity": 3,
         "attack": 140,
@@ -2440,8 +2358,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Sword II",
+    "Dragonbone Sword II": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 154,
@@ -2469,8 +2386,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Sword III",
+    "Dragonbone Sword III": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 196,
@@ -2499,8 +2415,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Fulminator",
+    "Fulminator": {
         "weapon_type": "sword-and-shield",
         "rarity": 4,
         "attack": 154,
@@ -2529,8 +2444,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Thunderbolt Sword I",
+    "Thunderbolt Sword I": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 210,
@@ -2559,8 +2473,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Thunderbolt Sword II",
+    "Thunderbolt Sword II": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 224,
@@ -2589,8 +2502,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Blacksteel Sword I",
+    "Blacksteel Sword I": {
         "weapon_type": "sword-and-shield",
         "rarity": 5,
         "attack": 140,
@@ -2619,8 +2531,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Sword II",
+    "Blacksteel Sword II": {
         "weapon_type": "sword-and-shield",
         "rarity": 6,
         "attack": 154,
@@ -2649,8 +2560,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Teostra's Spada",
+    "Teostra's Spada": {
         "weapon_type": "sword-and-shield",
         "rarity": 7,
         "attack": 252,
@@ -2679,8 +2589,7 @@
             "Teostra Powder": 4
         }
     },
-    {
-        "name_en": "Teostra's Emblem",
+    "Teostra's Emblem": {
         "weapon_type": "sword-and-shield",
         "rarity": 8,
         "attack": 266,
@@ -2709,8 +2618,7 @@
             "Xeno'jiiva Soulscale": 5
         }
     },
-    {
-        "name_en": "Xeno Mabura",
+    "Xeno Mabura": {
         "weapon_type": "sword-and-shield",
         "rarity": 8,
         "attack": 238,
@@ -2739,4 +2647,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}
