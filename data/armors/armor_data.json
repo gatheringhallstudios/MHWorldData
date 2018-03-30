@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Bone Helm",
+{
+    "Bone Helm": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -28,8 +27,7 @@
         },
         "set": "Bone"
     },
-    {
-        "name_en": "Bone Mail",
+    "Bone Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -57,8 +55,7 @@
         },
         "set": "Bone"
     },
-    {
-        "name_en": "Bone Vambraces",
+    "Bone Vambraces": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -86,8 +83,7 @@
         },
         "set": "Bone"
     },
-    {
-        "name_en": "Bone Coil",
+    "Bone Coil": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -115,8 +111,7 @@
         },
         "set": "Bone"
     },
-    {
-        "name_en": "Bone Greaves",
+    "Bone Greaves": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -144,8 +139,7 @@
         },
         "set": "Bone"
     },
-    {
-        "name_en": "Chainmail Headgear",
+    "Chainmail Headgear": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -172,8 +166,7 @@
         },
         "set": "Chainmail"
     },
-    {
-        "name_en": "Chainmail Vest",
+    "Chainmail Vest": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -198,8 +191,7 @@
         },
         "set": "Chainmail"
     },
-    {
-        "name_en": "Chainmail Gloves",
+    "Chainmail Gloves": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -224,8 +216,7 @@
         },
         "set": "Chainmail"
     },
-    {
-        "name_en": "Chainmail Belt",
+    "Chainmail Belt": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -250,8 +241,7 @@
         },
         "set": "Chainmail"
     },
-    {
-        "name_en": "Chainmail Trousers",
+    "Chainmail Trousers": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -276,8 +266,7 @@
         },
         "set": "Chainmail"
     },
-    {
-        "name_en": "Gajau Boots",
+    "Gajau Boots": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -305,8 +294,7 @@
         },
         "set": "Gajau"
     },
-    {
-        "name_en": "Hunter's Headgear",
+    "Hunter's Headgear": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -334,8 +322,7 @@
         },
         "set": "Hunter's"
     },
-    {
-        "name_en": "Hunter's Mail",
+    "Hunter's Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -363,8 +350,7 @@
         },
         "set": "Hunter's"
     },
-    {
-        "name_en": "Hunter's Vambraces",
+    "Hunter's Vambraces": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -392,8 +378,7 @@
         },
         "set": "Hunter's"
     },
-    {
-        "name_en": "Hunter's Coil",
+    "Hunter's Coil": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -421,8 +406,7 @@
         },
         "set": "Hunter's"
     },
-    {
-        "name_en": "Hunter's Greaves",
+    "Hunter's Greaves": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -450,8 +434,7 @@
         },
         "set": "Hunter's"
     },
-    {
-        "name_en": "Jagras Helm",
+    "Jagras Helm": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -481,8 +464,7 @@
         },
         "set": "Jagras"
     },
-    {
-        "name_en": "Jagras Mail",
+    "Jagras Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -512,8 +494,7 @@
         },
         "set": "Jagras"
     },
-    {
-        "name_en": "Jagras Vambraces",
+    "Jagras Vambraces": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -542,8 +523,7 @@
         },
         "set": "Jagras"
     },
-    {
-        "name_en": "Jagras Coil",
+    "Jagras Coil": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -573,8 +553,7 @@
         },
         "set": "Jagras"
     },
-    {
-        "name_en": "Jagras Greaves",
+    "Jagras Greaves": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -604,8 +583,7 @@
         },
         "set": "Jagras"
     },
-    {
-        "name_en": "Kestodon Guards",
+    "Kestodon Guards": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -633,8 +611,7 @@
         },
         "set": "Kestodon"
     },
-    {
-        "name_en": "Kulu Headpiece",
+    "Kulu Headpiece": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -663,8 +640,7 @@
         },
         "set": "Kulu"
     },
-    {
-        "name_en": "Kulu Mail",
+    "Kulu Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -694,8 +670,7 @@
         },
         "set": "Kulu"
     },
-    {
-        "name_en": "Kulu Vambraces",
+    "Kulu Vambraces": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -724,8 +699,7 @@
         },
         "set": "Kulu"
     },
-    {
-        "name_en": "Kulu Coil",
+    "Kulu Coil": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -754,8 +728,7 @@
         },
         "set": "Kulu"
     },
-    {
-        "name_en": "Kulu Greaves",
+    "Kulu Greaves": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -784,8 +757,7 @@
         },
         "set": "Kulu"
     },
-    {
-        "name_en": "Leather Headgear",
+    "Leather Headgear": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -812,8 +784,7 @@
         },
         "set": "Leather"
     },
-    {
-        "name_en": "Leather Mail",
+    "Leather Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -838,8 +809,7 @@
         },
         "set": "Leather"
     },
-    {
-        "name_en": "Leather Gloves",
+    "Leather Gloves": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -864,8 +834,7 @@
         },
         "set": "Leather"
     },
-    {
-        "name_en": "Leather Belt",
+    "Leather Belt": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -890,8 +859,7 @@
         },
         "set": "Leather"
     },
-    {
-        "name_en": "Leather Trousers",
+    "Leather Trousers": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -916,8 +884,7 @@
         },
         "set": "Leather"
     },
-    {
-        "name_en": "Vespoid Helm",
+    "Vespoid Helm": {
         "rarity": 1,
         "armor_type": "head",
         "male": true,
@@ -945,8 +912,7 @@
         },
         "set": "Vespoid"
     },
-    {
-        "name_en": "Vespoid Mail",
+    "Vespoid Mail": {
         "rarity": 1,
         "armor_type": "chest",
         "male": true,
@@ -974,8 +940,7 @@
         },
         "set": "Vespoid"
     },
-    {
-        "name_en": "Vespoid Vambraces",
+    "Vespoid Vambraces": {
         "rarity": 1,
         "armor_type": "arms",
         "male": true,
@@ -1003,8 +968,7 @@
         },
         "set": "Vespoid"
     },
-    {
-        "name_en": "Vespoid Coil",
+    "Vespoid Coil": {
         "rarity": 1,
         "armor_type": "waist",
         "male": true,
@@ -1032,8 +996,7 @@
         },
         "set": "Vespoid"
     },
-    {
-        "name_en": "Vespoid Greaves",
+    "Vespoid Greaves": {
         "rarity": 1,
         "armor_type": "legs",
         "male": true,
@@ -1061,8 +1024,7 @@
         },
         "set": "Vespoid"
     },
-    {
-        "name_en": "Alloy Helm",
+    "Alloy Helm": {
         "rarity": 2,
         "armor_type": "head",
         "male": true,
@@ -1091,8 +1053,7 @@
         },
         "set": "Alloy"
     },
-    {
-        "name_en": "Alloy Mail",
+    "Alloy Mail": {
         "rarity": 2,
         "armor_type": "chest",
         "male": true,
@@ -1121,8 +1082,7 @@
         },
         "set": "Alloy"
     },
-    {
-        "name_en": "Alloy Vambraces",
+    "Alloy Vambraces": {
         "rarity": 2,
         "armor_type": "arms",
         "male": true,
@@ -1151,8 +1111,7 @@
         },
         "set": "Alloy"
     },
-    {
-        "name_en": "Alloy Coil",
+    "Alloy Coil": {
         "rarity": 2,
         "armor_type": "waist",
         "male": true,
@@ -1181,8 +1140,7 @@
         },
         "set": "Alloy"
     },
-    {
-        "name_en": "Alloy Greaves",
+    "Alloy Greaves": {
         "rarity": 2,
         "armor_type": "legs",
         "male": true,
@@ -1211,8 +1169,7 @@
         },
         "set": "Alloy"
     },
-    {
-        "name_en": "Barroth Helm",
+    "Barroth Helm": {
         "rarity": 2,
         "armor_type": "head",
         "male": true,
@@ -1242,8 +1199,7 @@
         },
         "set": "Barroth"
     },
-    {
-        "name_en": "Barroth Mail",
+    "Barroth Mail": {
         "rarity": 2,
         "armor_type": "chest",
         "male": true,
@@ -1273,8 +1229,7 @@
         },
         "set": "Barroth"
     },
-    {
-        "name_en": "Barroth Vambraces",
+    "Barroth Vambraces": {
         "rarity": 2,
         "armor_type": "arms",
         "male": true,
@@ -1304,8 +1259,7 @@
         },
         "set": "Barroth"
     },
-    {
-        "name_en": "Barroth Coil",
+    "Barroth Coil": {
         "rarity": 2,
         "armor_type": "waist",
         "male": true,
@@ -1334,8 +1288,7 @@
         },
         "set": "Barroth"
     },
-    {
-        "name_en": "Barroth Greaves",
+    "Barroth Greaves": {
         "rarity": 2,
         "armor_type": "legs",
         "male": true,
@@ -1365,8 +1318,7 @@
         },
         "set": "Barroth"
     },
-    {
-        "name_en": "Jyura Helm",
+    "Jyura Helm": {
         "rarity": 2,
         "armor_type": "head",
         "male": true,
@@ -1396,8 +1348,7 @@
         },
         "set": "Jyura"
     },
-    {
-        "name_en": "Jyura Mail",
+    "Jyura Mail": {
         "rarity": 2,
         "armor_type": "chest",
         "male": true,
@@ -1427,8 +1378,7 @@
         },
         "set": "Jyura"
     },
-    {
-        "name_en": "Jyura Vambraces",
+    "Jyura Vambraces": {
         "rarity": 2,
         "armor_type": "arms",
         "male": true,
@@ -1457,8 +1407,7 @@
         },
         "set": "Jyura"
     },
-    {
-        "name_en": "Jyura Coil",
+    "Jyura Coil": {
         "rarity": 2,
         "armor_type": "waist",
         "male": true,
@@ -1487,8 +1436,7 @@
         },
         "set": "Jyura"
     },
-    {
-        "name_en": "Jyura Greaves",
+    "Jyura Greaves": {
         "rarity": 2,
         "armor_type": "legs",
         "male": true,
@@ -1518,8 +1466,7 @@
         },
         "set": "Jyura"
     },
-    {
-        "name_en": "Kadachi Helm",
+    "Kadachi Helm": {
         "rarity": 2,
         "armor_type": "head",
         "male": true,
@@ -1549,8 +1496,7 @@
         },
         "set": "Kadachi"
     },
-    {
-        "name_en": "Kadachi Mail",
+    "Kadachi Mail": {
         "rarity": 2,
         "armor_type": "chest",
         "male": true,
@@ -1580,8 +1526,7 @@
         },
         "set": "Kadachi"
     },
-    {
-        "name_en": "Kadachi Vambraces",
+    "Kadachi Vambraces": {
         "rarity": 2,
         "armor_type": "arms",
         "male": true,
@@ -1611,8 +1556,7 @@
         },
         "set": "Kadachi"
     },
-    {
-        "name_en": "Kadachi Coil",
+    "Kadachi Coil": {
         "rarity": 2,
         "armor_type": "waist",
         "male": true,
@@ -1641,8 +1585,7 @@
         },
         "set": "Kadachi"
     },
-    {
-        "name_en": "Kadachi Greaves",
+    "Kadachi Greaves": {
         "rarity": 2,
         "armor_type": "legs",
         "male": true,
@@ -1671,8 +1614,7 @@
         },
         "set": "Kadachi"
     },
-    {
-        "name_en": "Pukei Hood",
+    "Pukei Hood": {
         "rarity": 2,
         "armor_type": "head",
         "male": true,
@@ -1702,8 +1644,7 @@
         },
         "set": "Pukei"
     },
-    {
-        "name_en": "Pukei Mail",
+    "Pukei Mail": {
         "rarity": 2,
         "armor_type": "chest",
         "male": true,
@@ -1732,8 +1673,7 @@
         },
         "set": "Pukei"
     },
-    {
-        "name_en": "Pukei Vambraces",
+    "Pukei Vambraces": {
         "rarity": 2,
         "armor_type": "arms",
         "male": true,
@@ -1762,8 +1702,7 @@
         },
         "set": "Pukei"
     },
-    {
-        "name_en": "Pukei Coil",
+    "Pukei Coil": {
         "rarity": 2,
         "armor_type": "waist",
         "male": true,
@@ -1793,8 +1732,7 @@
         },
         "set": "Pukei"
     },
-    {
-        "name_en": "Pukei Greaves",
+    "Pukei Greaves": {
         "rarity": 2,
         "armor_type": "legs",
         "male": true,
@@ -1824,8 +1762,7 @@
         },
         "set": "Pukei"
     },
-    {
-        "name_en": "Anja Helm",
+    "Anja Helm": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -1855,8 +1792,7 @@
         },
         "set": "Anja"
     },
-    {
-        "name_en": "Anja Mail",
+    "Anja Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -1886,8 +1822,7 @@
         },
         "set": "Anja"
     },
-    {
-        "name_en": "Anja Vambraces",
+    "Anja Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -1917,8 +1852,7 @@
         },
         "set": "Anja"
     },
-    {
-        "name_en": "Anja Coil",
+    "Anja Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -1948,8 +1882,7 @@
         },
         "set": "Anja"
     },
-    {
-        "name_en": "Anja Greaves",
+    "Anja Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -1979,8 +1912,7 @@
         },
         "set": "Anja"
     },
-    {
-        "name_en": "Baan Helm",
+    "Baan Helm": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2010,8 +1942,7 @@
         },
         "set": "Baan"
     },
-    {
-        "name_en": "Baan Mail",
+    "Baan Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2041,8 +1972,7 @@
         },
         "set": "Baan"
     },
-    {
-        "name_en": "Baan Vambraces",
+    "Baan Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2072,8 +2002,7 @@
         },
         "set": "Baan"
     },
-    {
-        "name_en": "Baan Coil",
+    "Baan Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -2103,8 +2032,7 @@
         },
         "set": "Baan"
     },
-    {
-        "name_en": "Baan Greaves",
+    "Baan Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -2134,8 +2062,7 @@
         },
         "set": "Baan"
     },
-    {
-        "name_en": "Butterfly Vertex",
+    "Butterfly Vertex": {
         "rarity": 3,
         "armor_type": "head",
         "male": false,
@@ -2165,8 +2092,7 @@
         },
         "set": "Butterfly"
     },
-    {
-        "name_en": "Butterfly Thorax",
+    "Butterfly Thorax": {
         "rarity": 3,
         "armor_type": "chest",
         "male": false,
@@ -2196,8 +2122,7 @@
         },
         "set": "Butterfly"
     },
-    {
-        "name_en": "Butterfly Brachia",
+    "Butterfly Brachia": {
         "rarity": 3,
         "armor_type": "arms",
         "male": false,
@@ -2227,8 +2152,7 @@
         },
         "set": "Butterfly"
     },
-    {
-        "name_en": "Butterfly Elytra",
+    "Butterfly Elytra": {
         "rarity": 3,
         "armor_type": "waist",
         "male": false,
@@ -2258,8 +2182,7 @@
         },
         "set": "Butterfly"
     },
-    {
-        "name_en": "Butterfly Crura",
+    "Butterfly Crura": {
         "rarity": 3,
         "armor_type": "legs",
         "male": false,
@@ -2289,8 +2212,7 @@
         },
         "set": "Butterfly"
     },
-    {
-        "name_en": "Girros Mask",
+    "Girros Mask": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2320,8 +2242,7 @@
         },
         "set": "Girros"
     },
-    {
-        "name_en": "Girros Mail",
+    "Girros Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2351,8 +2272,7 @@
         },
         "set": "Girros"
     },
-    {
-        "name_en": "Girros Vambraces",
+    "Girros Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2381,8 +2301,7 @@
         },
         "set": "Girros"
     },
-    {
-        "name_en": "Girros Coil",
+    "Girros Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -2412,8 +2331,7 @@
         },
         "set": "Girros"
     },
-    {
-        "name_en": "Girros Greaves",
+    "Girros Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -2443,8 +2361,7 @@
         },
         "set": "Girros"
     },
-    {
-        "name_en": "High Metal Helm",
+    "High Metal Helm": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2473,8 +2390,7 @@
         },
         "set": "High Metal"
     },
-    {
-        "name_en": "High Metal Mail",
+    "High Metal Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2504,8 +2420,7 @@
         },
         "set": "High Metal"
     },
-    {
-        "name_en": "High Metal Braces",
+    "High Metal Braces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2535,8 +2450,7 @@
         },
         "set": "High Metal"
     },
-    {
-        "name_en": "High Metal Coil",
+    "High Metal Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -2565,8 +2479,7 @@
         },
         "set": "High Metal"
     },
-    {
-        "name_en": "High Metal Greaves",
+    "High Metal Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -2595,8 +2508,7 @@
         },
         "set": "High Metal"
     },
-    {
-        "name_en": "Hornetaur Helm",
+    "Hornetaur Helm": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2626,8 +2538,7 @@
         },
         "set": "Hornetaur"
     },
-    {
-        "name_en": "Hornetaur Mail",
+    "Hornetaur Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2657,8 +2568,7 @@
         },
         "set": "Hornetaur"
     },
-    {
-        "name_en": "Hornetaur Vambraces",
+    "Hornetaur Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2688,8 +2598,7 @@
         },
         "set": "Hornetaur"
     },
-    {
-        "name_en": "Hornetaur Coil",
+    "Hornetaur Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -2719,8 +2628,7 @@
         },
         "set": "Hornetaur"
     },
-    {
-        "name_en": "Hornetaur Greaves",
+    "Hornetaur Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -2750,8 +2658,7 @@
         },
         "set": "Hornetaur"
     },
-    {
-        "name_en": "King Beetle Vertex",
+    "King Beetle Vertex": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2781,8 +2688,7 @@
         },
         "set": "King Beetle"
     },
-    {
-        "name_en": "King Beetle Thorax",
+    "King Beetle Thorax": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2812,8 +2718,7 @@
         },
         "set": "King Beetle"
     },
-    {
-        "name_en": "King Beetle Brachia",
+    "King Beetle Brachia": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2843,8 +2748,7 @@
         },
         "set": "King Beetle"
     },
-    {
-        "name_en": "King Beetle Elytra",
+    "King Beetle Elytra": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -2874,8 +2778,7 @@
         },
         "set": "King Beetle"
     },
-    {
-        "name_en": "King Beetle Crura",
+    "King Beetle Crura": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -2905,8 +2808,7 @@
         },
         "set": "King Beetle"
     },
-    {
-        "name_en": "Lumu Hat",
+    "Lumu Hat": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -2936,8 +2838,7 @@
         },
         "set": "Lumu"
     },
-    {
-        "name_en": "Lumu Mail",
+    "Lumu Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -2967,8 +2868,7 @@
         },
         "set": "Lumu"
     },
-    {
-        "name_en": "Lumu Vambraces",
+    "Lumu Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -2997,8 +2897,7 @@
         },
         "set": "Lumu"
     },
-    {
-        "name_en": "Lumu Coil",
+    "Lumu Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -3027,8 +2926,7 @@
         },
         "set": "Lumu"
     },
-    {
-        "name_en": "Lumu Greaves",
+    "Lumu Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -3058,8 +2956,7 @@
         },
         "set": "Lumu"
     },
-    {
-        "name_en": "Rathian Helm",
+    "Rathian Helm": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -3089,8 +2986,7 @@
         },
         "set": "Rathian"
     },
-    {
-        "name_en": "Rathian Mail",
+    "Rathian Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -3120,8 +3016,7 @@
         },
         "set": "Rathian"
     },
-    {
-        "name_en": "Rathian Vambraces",
+    "Rathian Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -3151,8 +3046,7 @@
         },
         "set": "Rathian"
     },
-    {
-        "name_en": "Rathian Coil",
+    "Rathian Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -3182,8 +3076,7 @@
         },
         "set": "Rathian"
     },
-    {
-        "name_en": "Rathian Greaves",
+    "Rathian Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -3213,8 +3106,7 @@
         },
         "set": "Rathian"
     },
-    {
-        "name_en": "Shamos Goggles",
+    "Shamos Goggles": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -3244,8 +3136,7 @@
         },
         "set": "Shamos"
     },
-    {
-        "name_en": "Tzitzi Headgear",
+    "Tzitzi Headgear": {
         "rarity": 3,
         "armor_type": "head",
         "male": true,
@@ -3275,8 +3166,7 @@
         },
         "set": "Tzitzi"
     },
-    {
-        "name_en": "Tzitzi Mail",
+    "Tzitzi Mail": {
         "rarity": 3,
         "armor_type": "chest",
         "male": true,
@@ -3306,8 +3196,7 @@
         },
         "set": "Tzitzi"
     },
-    {
-        "name_en": "Tzitzi Vambraces",
+    "Tzitzi Vambraces": {
         "rarity": 3,
         "armor_type": "arms",
         "male": true,
@@ -3337,8 +3226,7 @@
         },
         "set": "Tzitzi"
     },
-    {
-        "name_en": "Tzitzi Coil",
+    "Tzitzi Coil": {
         "rarity": 3,
         "armor_type": "waist",
         "male": true,
@@ -3367,8 +3255,7 @@
         },
         "set": "Tzitzi"
     },
-    {
-        "name_en": "Tzitzi Greaves",
+    "Tzitzi Greaves": {
         "rarity": 3,
         "armor_type": "legs",
         "male": true,
@@ -3397,8 +3284,7 @@
         },
         "set": "Tzitzi"
     },
-    {
-        "name_en": "Brigade Lobos",
+    "Brigade Lobos": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -3428,8 +3314,7 @@
         },
         "set": "Brigade"
     },
-    {
-        "name_en": "Brigade Suit",
+    "Brigade Suit": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -3459,8 +3344,7 @@
         },
         "set": "Brigade"
     },
-    {
-        "name_en": "Brigade Vambraces",
+    "Brigade Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -3490,8 +3374,7 @@
         },
         "set": "Brigade"
     },
-    {
-        "name_en": "Brigade Coil",
+    "Brigade Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -3521,8 +3404,7 @@
         },
         "set": "Brigade"
     },
-    {
-        "name_en": "Brigade Boots",
+    "Brigade Boots": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -3552,8 +3434,7 @@
         },
         "set": "Brigade"
     },
-    {
-        "name_en": "Death Stench Brain",
+    "Death Stench Brain": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -3583,8 +3464,7 @@
         },
         "set": "Death Stench"
     },
-    {
-        "name_en": "Death Stench Muscle",
+    "Death Stench Muscle": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -3614,8 +3494,7 @@
         },
         "set": "Death Stench"
     },
-    {
-        "name_en": "Death Stench Grip",
+    "Death Stench Grip": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -3645,8 +3524,7 @@
         },
         "set": "Death Stench"
     },
-    {
-        "name_en": "Death Stench Bowels",
+    "Death Stench Bowels": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -3676,8 +3554,7 @@
         },
         "set": "Death Stench"
     },
-    {
-        "name_en": "Death Stench Heels",
+    "Death Stench Heels": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -3707,8 +3584,7 @@
         },
         "set": "Death Stench"
     },
-    {
-        "name_en": "Diablos Helm",
+    "Diablos Helm": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -3738,8 +3614,7 @@
         },
         "set": "Diablos"
     },
-    {
-        "name_en": "Diablos Mail",
+    "Diablos Mail": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -3769,8 +3644,7 @@
         },
         "set": "Diablos"
     },
-    {
-        "name_en": "Diablos Vambraces",
+    "Diablos Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -3800,8 +3674,7 @@
         },
         "set": "Diablos"
     },
-    {
-        "name_en": "Diablos Coil",
+    "Diablos Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -3831,8 +3704,7 @@
         },
         "set": "Diablos"
     },
-    {
-        "name_en": "Diablos Greaves",
+    "Diablos Greaves": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -3862,8 +3734,7 @@
         },
         "set": "Diablos"
     },
-    {
-        "name_en": "Ingot Helm",
+    "Ingot Helm": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -3893,8 +3764,7 @@
         },
         "set": "Ingot"
     },
-    {
-        "name_en": "Ingot Mail",
+    "Ingot Mail": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -3924,8 +3794,7 @@
         },
         "set": "Ingot"
     },
-    {
-        "name_en": "Ingot Vambraces",
+    "Ingot Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -3955,8 +3824,7 @@
         },
         "set": "Ingot"
     },
-    {
-        "name_en": "Ingot Coil",
+    "Ingot Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -3986,8 +3854,7 @@
         },
         "set": "Ingot"
     },
-    {
-        "name_en": "Ingot Greaves",
+    "Ingot Greaves": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -4017,8 +3884,7 @@
         },
         "set": "Ingot"
     },
-    {
-        "name_en": "Kirin Horn",
+    "Kirin Horn": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -4048,8 +3914,7 @@
         },
         "set": "Kirin"
     },
-    {
-        "name_en": "Kirin Jacket",
+    "Kirin Jacket": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -4079,8 +3944,7 @@
         },
         "set": "Kirin"
     },
-    {
-        "name_en": "Kirin Longarms",
+    "Kirin Longarms": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -4110,8 +3974,7 @@
         },
         "set": "Kirin"
     },
-    {
-        "name_en": "Kirin Hoop",
+    "Kirin Hoop": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -4141,8 +4004,7 @@
         },
         "set": "Kirin"
     },
-    {
-        "name_en": "Kirin Leg Guards",
+    "Kirin Leg Guards": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -4171,8 +4033,7 @@
         },
         "set": "Kirin Leg"
     },
-    {
-        "name_en": "Legiana Helm",
+    "Legiana Helm": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -4202,8 +4063,7 @@
         },
         "set": "Legiana"
     },
-    {
-        "name_en": "Legiana Mail",
+    "Legiana Mail": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -4233,8 +4093,7 @@
         },
         "set": "Legiana"
     },
-    {
-        "name_en": "Legiana Vambraces",
+    "Legiana Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -4264,8 +4123,7 @@
         },
         "set": "Legiana"
     },
-    {
-        "name_en": "Legiana Coil",
+    "Legiana Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -4295,8 +4153,7 @@
         },
         "set": "Legiana"
     },
-    {
-        "name_en": "Legiana Greaves",
+    "Legiana Greaves": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -4326,8 +4183,7 @@
         },
         "set": "Legiana"
     },
-    {
-        "name_en": "Odogaron Helm",
+    "Odogaron Helm": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -4357,8 +4213,7 @@
         },
         "set": "Odogaron"
     },
-    {
-        "name_en": "Odogaron Mail",
+    "Odogaron Mail": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -4388,8 +4243,7 @@
         },
         "set": "Odogaron"
     },
-    {
-        "name_en": "Odogaron Vambraces",
+    "Odogaron Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -4419,8 +4273,7 @@
         },
         "set": "Odogaron"
     },
-    {
-        "name_en": "Odogaron Coil",
+    "Odogaron Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -4450,8 +4303,7 @@
         },
         "set": "Odogaron"
     },
-    {
-        "name_en": "Odogaron Greaves",
+    "Odogaron Greaves": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -4481,8 +4333,7 @@
         },
         "set": "Odogaron"
     },
-    {
-        "name_en": "Rathalos Helm",
+    "Rathalos Helm": {
         "rarity": 4,
         "armor_type": "head",
         "male": true,
@@ -4512,8 +4363,7 @@
         },
         "set": "Rathalos"
     },
-    {
-        "name_en": "Rathalos Mail",
+    "Rathalos Mail": {
         "rarity": 4,
         "armor_type": "chest",
         "male": true,
@@ -4543,8 +4393,7 @@
         },
         "set": "Rathalos"
     },
-    {
-        "name_en": "Rathalos Vambraces",
+    "Rathalos Vambraces": {
         "rarity": 4,
         "armor_type": "arms",
         "male": true,
@@ -4574,8 +4423,7 @@
         },
         "set": "Rathalos"
     },
-    {
-        "name_en": "Rathalos Coil",
+    "Rathalos Coil": {
         "rarity": 4,
         "armor_type": "waist",
         "male": true,
@@ -4605,8 +4453,7 @@
         },
         "set": "Rathalos"
     },
-    {
-        "name_en": "Rathalos Greaves",
+    "Rathalos Greaves": {
         "rarity": 4,
         "armor_type": "legs",
         "male": true,
@@ -4636,8 +4483,7 @@
         },
         "set": "Rathalos"
     },
-    {
-        "name_en": "Alloy Helm Alpha",
+    "Alloy Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -4668,8 +4514,7 @@
         },
         "set": "Alloy Alpha"
     },
-    {
-        "name_en": "Alloy Mail Alpha",
+    "Alloy Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -4699,8 +4544,7 @@
         },
         "set": "Alloy Alpha"
     },
-    {
-        "name_en": "Alloy Vambraces Alpha",
+    "Alloy Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -4731,8 +4575,7 @@
         },
         "set": "Alloy Alpha"
     },
-    {
-        "name_en": "Alloy Coil Alpha",
+    "Alloy Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -4763,8 +4606,7 @@
         },
         "set": "Alloy Alpha"
     },
-    {
-        "name_en": "Alloy Greaves Alpha",
+    "Alloy Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -4794,8 +4636,7 @@
         },
         "set": "Alloy Alpha"
     },
-    {
-        "name_en": "Alloy Helm Beta",
+    "Alloy Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -4825,8 +4666,7 @@
         },
         "set": "Alloy Beta"
     },
-    {
-        "name_en": "Alloy Mail Beta",
+    "Alloy Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -4856,8 +4696,7 @@
         },
         "set": "Alloy Beta"
     },
-    {
-        "name_en": "Alloy Vambraces Beta",
+    "Alloy Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -4887,8 +4726,7 @@
         },
         "set": "Alloy Beta"
     },
-    {
-        "name_en": "Alloy Coil Beta",
+    "Alloy Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -4918,8 +4756,7 @@
         },
         "set": "Alloy Beta"
     },
-    {
-        "name_en": "Alloy Greaves Beta",
+    "Alloy Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -4949,8 +4786,7 @@
         },
         "set": "Alloy Beta"
     },
-    {
-        "name_en": "Anja Helm Alpha",
+    "Anja Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -4981,8 +4817,7 @@
         },
         "set": "Anja Alpha"
     },
-    {
-        "name_en": "Anja Mail Alpha",
+    "Anja Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5013,8 +4848,7 @@
         },
         "set": "Anja Alpha"
     },
-    {
-        "name_en": "Anja Vambraces Alpha",
+    "Anja Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5045,8 +4879,7 @@
         },
         "set": "Anja Alpha"
     },
-    {
-        "name_en": "Anja Coil Alpha",
+    "Anja Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5077,8 +4910,7 @@
         },
         "set": "Anja Alpha"
     },
-    {
-        "name_en": "Anja Greaves Alpha",
+    "Anja Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5108,8 +4940,7 @@
         },
         "set": "Anja Alpha"
     },
-    {
-        "name_en": "Anja Helm Beta",
+    "Anja Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -5139,8 +4970,7 @@
         },
         "set": "Anja Beta"
     },
-    {
-        "name_en": "Anja Mail Beta",
+    "Anja Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5170,8 +5000,7 @@
         },
         "set": "Anja Beta"
     },
-    {
-        "name_en": "Anja Vambraces Beta",
+    "Anja Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5201,8 +5030,7 @@
         },
         "set": "Anja Beta"
     },
-    {
-        "name_en": "Anja Coil Beta",
+    "Anja Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5232,8 +5060,7 @@
         },
         "set": "Anja Beta"
     },
-    {
-        "name_en": "Anja Greaves Beta",
+    "Anja Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5263,8 +5090,7 @@
         },
         "set": "Anja Beta"
     },
-    {
-        "name_en": "Barnos Jacket Alpha",
+    "Barnos Jacket Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5295,8 +5121,7 @@
         },
         "set": "Barnos Alpha"
     },
-    {
-        "name_en": "Barnos Jacket Beta",
+    "Barnos Jacket Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5326,8 +5151,7 @@
         },
         "set": "Barnos Beta"
     },
-    {
-        "name_en": "Barroth Helm Alpha",
+    "Barroth Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -5357,8 +5181,7 @@
         },
         "set": "Barroth Alpha"
     },
-    {
-        "name_en": "Barroth Mail Alpha",
+    "Barroth Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5388,8 +5211,7 @@
         },
         "set": "Barroth Alpha"
     },
-    {
-        "name_en": "Barroth Vambraces Alpha",
+    "Barroth Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5420,8 +5242,7 @@
         },
         "set": "Barroth Alpha"
     },
-    {
-        "name_en": "Barroth Coil Alpha",
+    "Barroth Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5451,8 +5272,7 @@
         },
         "set": "Barroth Alpha"
     },
-    {
-        "name_en": "Barroth Greaves Alpha",
+    "Barroth Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5483,8 +5303,7 @@
         },
         "set": "Barroth Alpha"
     },
-    {
-        "name_en": "Barroth Helm Beta",
+    "Barroth Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -5514,8 +5333,7 @@
         },
         "set": "Barroth Beta"
     },
-    {
-        "name_en": "Barroth Mail Beta",
+    "Barroth Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5545,8 +5363,7 @@
         },
         "set": "Barroth Beta"
     },
-    {
-        "name_en": "Barroth Vambraces Beta",
+    "Barroth Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5576,8 +5393,7 @@
         },
         "set": "Barroth Beta"
     },
-    {
-        "name_en": "Barroth Coil Beta",
+    "Barroth Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5606,8 +5422,7 @@
         },
         "set": "Barroth Beta"
     },
-    {
-        "name_en": "Barroth Greaves Beta",
+    "Barroth Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5637,8 +5452,7 @@
         },
         "set": "Barroth Beta"
     },
-    {
-        "name_en": "Bone Helm Alpha",
+    "Bone Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -5668,8 +5482,7 @@
         },
         "set": "Bone Alpha"
     },
-    {
-        "name_en": "Bone Mail Alpha",
+    "Bone Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5698,8 +5511,7 @@
         },
         "set": "Bone Alpha"
     },
-    {
-        "name_en": "Bone Vambraces Alpha",
+    "Bone Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5729,8 +5541,7 @@
         },
         "set": "Bone Alpha"
     },
-    {
-        "name_en": "Bone Coil Alpha",
+    "Bone Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5760,8 +5571,7 @@
         },
         "set": "Bone Alpha"
     },
-    {
-        "name_en": "Bone Greaves Alpha",
+    "Bone Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5790,8 +5600,7 @@
         },
         "set": "Bone Alpha"
     },
-    {
-        "name_en": "Bone Helm Beta",
+    "Bone Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -5820,8 +5629,7 @@
         },
         "set": "Bone Beta"
     },
-    {
-        "name_en": "Bone Mail Beta",
+    "Bone Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -5850,8 +5658,7 @@
         },
         "set": "Bone Beta"
     },
-    {
-        "name_en": "Bone Vambraces Beta",
+    "Bone Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -5880,8 +5687,7 @@
         },
         "set": "Bone Beta"
     },
-    {
-        "name_en": "Bone Coil Beta",
+    "Bone Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -5910,8 +5716,7 @@
         },
         "set": "Bone Beta"
     },
-    {
-        "name_en": "Bone Greaves Beta",
+    "Bone Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -5940,8 +5745,7 @@
         },
         "set": "Bone Beta"
     },
-    {
-        "name_en": "Butterfly Vertex Alpha",
+    "Butterfly Vertex Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": false,
@@ -5972,8 +5776,7 @@
         },
         "set": "Butterfly Alpha"
     },
-    {
-        "name_en": "Butterfly Thorax Alpha",
+    "Butterfly Thorax Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": false,
@@ -6004,8 +5807,7 @@
         },
         "set": "Butterfly Alpha"
     },
-    {
-        "name_en": "Butterfly Brachia Alpha",
+    "Butterfly Brachia Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": false,
@@ -6036,8 +5838,7 @@
         },
         "set": "Butterfly Alpha"
     },
-    {
-        "name_en": "Butterfly Elytra Alpha",
+    "Butterfly Elytra Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": false,
@@ -6068,8 +5869,7 @@
         },
         "set": "Butterfly Alpha"
     },
-    {
-        "name_en": "Butterfly Crura Alpha",
+    "Butterfly Crura Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": false,
@@ -6100,8 +5900,7 @@
         },
         "set": "Butterfly Alpha"
     },
-    {
-        "name_en": "Butterfly Vertex Beta",
+    "Butterfly Vertex Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": false,
@@ -6131,8 +5930,7 @@
         },
         "set": "Butterfly Beta"
     },
-    {
-        "name_en": "Butterfly Thorax Beta",
+    "Butterfly Thorax Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": false,
@@ -6162,8 +5960,7 @@
         },
         "set": "Butterfly Beta"
     },
-    {
-        "name_en": "Butterfly Brachia Beta",
+    "Butterfly Brachia Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": false,
@@ -6193,8 +5990,7 @@
         },
         "set": "Butterfly Beta"
     },
-    {
-        "name_en": "Butterfly Elytra Beta",
+    "Butterfly Elytra Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": false,
@@ -6224,8 +6020,7 @@
         },
         "set": "Butterfly Beta"
     },
-    {
-        "name_en": "Butterfly Crura Beta",
+    "Butterfly Crura Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": false,
@@ -6255,8 +6050,7 @@
         },
         "set": "Butterfly Beta"
     },
-    {
-        "name_en": "Chainmail Headgear Alpha",
+    "Chainmail Headgear Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6285,8 +6079,7 @@
         },
         "set": "Chainmail Alpha"
     },
-    {
-        "name_en": "Chainmail Armor Alpha",
+    "Chainmail Armor Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -6314,8 +6107,7 @@
         },
         "set": "Chainmail Alpha"
     },
-    {
-        "name_en": "Chainmail Gloves Alpha",
+    "Chainmail Gloves Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -6343,8 +6135,7 @@
         },
         "set": "Chainmail Alpha"
     },
-    {
-        "name_en": "Chainmail Belt Alpha",
+    "Chainmail Belt Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -6372,8 +6163,7 @@
         },
         "set": "Chainmail Alpha"
     },
-    {
-        "name_en": "Chainmail Trousers Alpha",
+    "Chainmail Trousers Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6401,8 +6191,7 @@
         },
         "set": "Chainmail Alpha"
     },
-    {
-        "name_en": "Chainmail Headgear Beta",
+    "Chainmail Headgear Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6430,8 +6219,7 @@
         },
         "set": "Chainmail Beta"
     },
-    {
-        "name_en": "Chainmail Armor Beta",
+    "Chainmail Armor Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -6457,8 +6245,7 @@
         },
         "set": "Chainmail Beta"
     },
-    {
-        "name_en": "Chainmail Gloves Beta",
+    "Chainmail Gloves Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -6484,8 +6271,7 @@
         },
         "set": "Chainmail Beta"
     },
-    {
-        "name_en": "Chainmail Belt Beta",
+    "Chainmail Belt Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -6511,8 +6297,7 @@
         },
         "set": "Chainmail Beta"
     },
-    {
-        "name_en": "Chainmail Trousers Beta",
+    "Chainmail Trousers Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6538,8 +6323,7 @@
         },
         "set": "Chainmail Beta"
     },
-    {
-        "name_en": "Dodogama Helm Alpha",
+    "Dodogama Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6569,8 +6353,7 @@
         },
         "set": "Dodogama Alpha"
     },
-    {
-        "name_en": "Dodogama Mail Alpha",
+    "Dodogama Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -6600,8 +6383,7 @@
         },
         "set": "Dodogama Alpha"
     },
-    {
-        "name_en": "Dodogama Vambraces Alpha",
+    "Dodogama Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -6631,8 +6413,7 @@
         },
         "set": "Dodogama Alpha"
     },
-    {
-        "name_en": "Dodogama Coil Alpha",
+    "Dodogama Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -6663,8 +6444,7 @@
         },
         "set": "Dodogama Alpha"
     },
-    {
-        "name_en": "Dodogama Greaves Alpha",
+    "Dodogama Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6695,8 +6475,7 @@
         },
         "set": "Dodogama Alpha"
     },
-    {
-        "name_en": "Dodogama Helm Beta",
+    "Dodogama Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6726,8 +6505,7 @@
         },
         "set": "Dodogama Beta"
     },
-    {
-        "name_en": "Dodogama Mail Beta",
+    "Dodogama Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -6757,8 +6535,7 @@
         },
         "set": "Dodogama Beta"
     },
-    {
-        "name_en": "Dodogama Vambraces Beta",
+    "Dodogama Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -6788,8 +6565,7 @@
         },
         "set": "Dodogama Beta"
     },
-    {
-        "name_en": "Dodogama Coil Beta",
+    "Dodogama Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -6819,8 +6595,7 @@
         },
         "set": "Dodogama Beta"
     },
-    {
-        "name_en": "Dodogama Greaves Beta",
+    "Dodogama Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6850,8 +6625,7 @@
         },
         "set": "Dodogama Beta"
     },
-    {
-        "name_en": "Gajau Boots Alpha",
+    "Gajau Boots Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6881,8 +6655,7 @@
         },
         "set": "Gajau Alpha"
     },
-    {
-        "name_en": "Gajau Boots Beta",
+    "Gajau Boots Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -6912,8 +6685,7 @@
         },
         "set": "Gajau Beta"
     },
-    {
-        "name_en": "Gastodon Horn Alpha",
+    "Gastodon Horn Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6944,8 +6716,7 @@
         },
         "set": "Gastodon Alpha"
     },
-    {
-        "name_en": "Gastodon Horn Beta",
+    "Gastodon Horn Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -6975,8 +6746,7 @@
         },
         "set": "Gastodon Beta"
     },
-    {
-        "name_en": "Girros Mask Alpha",
+    "Girros Mask Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7007,8 +6777,7 @@
         },
         "set": "Girros Alpha"
     },
-    {
-        "name_en": "Girros Mail Alpha",
+    "Girros Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7038,8 +6807,7 @@
         },
         "set": "Girros Alpha"
     },
-    {
-        "name_en": "Girros Vambraces Alpha",
+    "Girros Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7069,8 +6837,7 @@
         },
         "set": "Girros Alpha"
     },
-    {
-        "name_en": "Girros Coil Alpha",
+    "Girros Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7101,8 +6868,7 @@
         },
         "set": "Girros Alpha"
     },
-    {
-        "name_en": "Girros Greaves Alpha",
+    "Girros Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7132,8 +6898,7 @@
         },
         "set": "Girros Alpha"
     },
-    {
-        "name_en": "Girros Mask Beta",
+    "Girros Mask Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7163,8 +6928,7 @@
         },
         "set": "Girros Beta"
     },
-    {
-        "name_en": "Girros Mail Beta",
+    "Girros Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7194,8 +6958,7 @@
         },
         "set": "Girros Beta"
     },
-    {
-        "name_en": "Girros Vambraces Beta",
+    "Girros Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7225,8 +6988,7 @@
         },
         "set": "Girros Beta"
     },
-    {
-        "name_en": "Girros Coil Beta",
+    "Girros Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7256,8 +7018,7 @@
         },
         "set": "Girros Beta"
     },
-    {
-        "name_en": "Girros Greaves Beta",
+    "Girros Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7287,8 +7048,7 @@
         },
         "set": "Girros Beta"
     },
-    {
-        "name_en": "Hornetaur Helm Alpha",
+    "Hornetaur Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7318,8 +7078,7 @@
         },
         "set": "Hornetaur Alpha"
     },
-    {
-        "name_en": "Hornetaur Mail Alpha",
+    "Hornetaur Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7350,8 +7109,7 @@
         },
         "set": "Hornetaur Alpha"
     },
-    {
-        "name_en": "Hornetaur Vambraces Alpha",
+    "Hornetaur Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7381,8 +7139,7 @@
         },
         "set": "Hornetaur Alpha"
     },
-    {
-        "name_en": "Hornetaur Coil Alpha",
+    "Hornetaur Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7412,8 +7169,7 @@
         },
         "set": "Hornetaur Alpha"
     },
-    {
-        "name_en": "Hornetaur Greaves Alpha",
+    "Hornetaur Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7444,8 +7200,7 @@
         },
         "set": "Hornetaur Alpha"
     },
-    {
-        "name_en": "Hornetaur Helm Beta",
+    "Hornetaur Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7474,8 +7229,7 @@
         },
         "set": "Hornetaur Beta"
     },
-    {
-        "name_en": "Hornetaur Mail Beta",
+    "Hornetaur Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7505,8 +7259,7 @@
         },
         "set": "Hornetaur Beta"
     },
-    {
-        "name_en": "Hornetaur Vambraces Beta",
+    "Hornetaur Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7535,8 +7288,7 @@
         },
         "set": "Hornetaur Beta"
     },
-    {
-        "name_en": "Hornetaur Coil Beta",
+    "Hornetaur Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7565,8 +7317,7 @@
         },
         "set": "Hornetaur Beta"
     },
-    {
-        "name_en": "Hornetaur Greaves Beta",
+    "Hornetaur Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7596,8 +7347,7 @@
         },
         "set": "Hornetaur Beta"
     },
-    {
-        "name_en": "Hunter's Headgear Alpha",
+    "Hunter's Headgear Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7626,8 +7376,7 @@
         },
         "set": "Hunter's Alpha"
     },
-    {
-        "name_en": "Hunter's Mail Alpha",
+    "Hunter's Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7655,8 +7404,7 @@
         },
         "set": "Hunter's Alpha"
     },
-    {
-        "name_en": "Hunter's Vambraces Alpha",
+    "Hunter's Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7684,8 +7432,7 @@
         },
         "set": "Hunter's Alpha"
     },
-    {
-        "name_en": "Hunter's Coil Alpha",
+    "Hunter's Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7714,8 +7461,7 @@
         },
         "set": "Hunter's Alpha"
     },
-    {
-        "name_en": "Hunter's Greaves Alpha",
+    "Hunter's Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7744,8 +7490,7 @@
         },
         "set": "Hunter's Alpha"
     },
-    {
-        "name_en": "Hunter's Headgear Beta",
+    "Hunter's Headgear Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7773,8 +7518,7 @@
         },
         "set": "Hunter's Beta"
     },
-    {
-        "name_en": "Hunter's Mail Beta",
+    "Hunter's Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7802,8 +7546,7 @@
         },
         "set": "Hunter's Beta"
     },
-    {
-        "name_en": "Hunter's Vambraces Beta",
+    "Hunter's Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7831,8 +7574,7 @@
         },
         "set": "Hunter's Beta"
     },
-    {
-        "name_en": "Hunter's Coil Beta",
+    "Hunter's Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -7860,8 +7602,7 @@
         },
         "set": "Hunter's Beta"
     },
-    {
-        "name_en": "Hunter's Greaves Beta",
+    "Hunter's Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -7889,8 +7630,7 @@
         },
         "set": "Hunter's Beta"
     },
-    {
-        "name_en": "Jagras Helm Alpha",
+    "Jagras Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -7920,8 +7660,7 @@
         },
         "set": "Jagras Alpha"
     },
-    {
-        "name_en": "Jagras Mail Alpha",
+    "Jagras Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -7951,8 +7690,7 @@
         },
         "set": "Jagras Alpha"
     },
-    {
-        "name_en": "Jagras Vambraces Alpha",
+    "Jagras Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -7983,8 +7721,7 @@
         },
         "set": "Jagras Alpha"
     },
-    {
-        "name_en": "Jagras Coil Alpha",
+    "Jagras Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8015,8 +7752,7 @@
         },
         "set": "Jagras Alpha"
     },
-    {
-        "name_en": "Jagras Greaves Alpha",
+    "Jagras Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8047,8 +7783,7 @@
         },
         "set": "Jagras Alpha"
     },
-    {
-        "name_en": "Jagras Helm Beta",
+    "Jagras Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8078,8 +7813,7 @@
         },
         "set": "Jagras Beta"
     },
-    {
-        "name_en": "Jagras Mail Beta",
+    "Jagras Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8109,8 +7843,7 @@
         },
         "set": "Jagras Beta"
     },
-    {
-        "name_en": "Jagras Vambraces Beta",
+    "Jagras Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8140,8 +7873,7 @@
         },
         "set": "Jagras Beta"
     },
-    {
-        "name_en": "Jagras Coil Beta",
+    "Jagras Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8171,8 +7903,7 @@
         },
         "set": "Jagras Beta"
     },
-    {
-        "name_en": "Jagras Greaves Beta",
+    "Jagras Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8202,8 +7933,7 @@
         },
         "set": "Jagras Beta"
     },
-    {
-        "name_en": "Jyura Helm Alpha",
+    "Jyura Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8233,8 +7963,7 @@
         },
         "set": "Jyura Alpha"
     },
-    {
-        "name_en": "Jyura Mail Alpha",
+    "Jyura Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8265,8 +7994,7 @@
         },
         "set": "Jyura Alpha"
     },
-    {
-        "name_en": "Jyura Vambraces Alpha",
+    "Jyura Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8297,8 +8025,7 @@
         },
         "set": "Jyura Alpha"
     },
-    {
-        "name_en": "Jyura Coil Alpha",
+    "Jyura Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8327,8 +8054,7 @@
         },
         "set": "Jyura Alpha"
     },
-    {
-        "name_en": "Jyura Greaves Alpha",
+    "Jyura Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8358,8 +8084,7 @@
         },
         "set": "Jyura Alpha"
     },
-    {
-        "name_en": "Jyura Helm Beta",
+    "Jyura Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8389,8 +8114,7 @@
         },
         "set": "Jyura Beta"
     },
-    {
-        "name_en": "Jyura Mail Beta",
+    "Jyura Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8420,8 +8144,7 @@
         },
         "set": "Jyura Beta"
     },
-    {
-        "name_en": "Jyura Vambraces Beta",
+    "Jyura Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8451,8 +8174,7 @@
         },
         "set": "Jyura Beta"
     },
-    {
-        "name_en": "Jyura Coil Beta",
+    "Jyura Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8481,8 +8203,7 @@
         },
         "set": "Jyura Beta"
     },
-    {
-        "name_en": "Jyura Greaves Beta",
+    "Jyura Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8512,8 +8233,7 @@
         },
         "set": "Jyura Beta"
     },
-    {
-        "name_en": "Kadachi Helm Alpha",
+    "Kadachi Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8543,8 +8263,7 @@
         },
         "set": "Kadachi Alpha"
     },
-    {
-        "name_en": "Kadachi Mail Alpha",
+    "Kadachi Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8575,8 +8294,7 @@
         },
         "set": "Kadachi Alpha"
     },
-    {
-        "name_en": "Kadachi Vambraces Alpha",
+    "Kadachi Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8606,8 +8324,7 @@
         },
         "set": "Kadachi Alpha"
     },
-    {
-        "name_en": "Kadachi Coil Alpha",
+    "Kadachi Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8638,8 +8355,7 @@
         },
         "set": "Kadachi Alpha"
     },
-    {
-        "name_en": "Kadachi Greaves Alpha",
+    "Kadachi Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8670,8 +8386,7 @@
         },
         "set": "Kadachi Alpha"
     },
-    {
-        "name_en": "Kadachi Helm Beta",
+    "Kadachi Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8701,8 +8416,7 @@
         },
         "set": "Kadachi Beta"
     },
-    {
-        "name_en": "Kadachi Mail Beta",
+    "Kadachi Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8732,8 +8446,7 @@
         },
         "set": "Kadachi Beta"
     },
-    {
-        "name_en": "Kadachi Vambraces Beta",
+    "Kadachi Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8763,8 +8476,7 @@
         },
         "set": "Kadachi Beta"
     },
-    {
-        "name_en": "Kadachi Coil Beta",
+    "Kadachi Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -8794,8 +8506,7 @@
         },
         "set": "Kadachi Beta"
     },
-    {
-        "name_en": "Kadachi Greaves Beta",
+    "Kadachi Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -8825,8 +8536,7 @@
         },
         "set": "Kadachi Beta"
     },
-    {
-        "name_en": "Kestodon Guards Alpha",
+    "Kestodon Guards Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8856,8 +8566,7 @@
         },
         "set": "Kestodon Alpha"
     },
-    {
-        "name_en": "Kestodon Guards Beta",
+    "Kestodon Guards Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8886,8 +8595,7 @@
         },
         "set": "Kestodon Beta"
     },
-    {
-        "name_en": "King Beetle Vertex Alpha",
+    "King Beetle Vertex Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -8918,8 +8626,7 @@
         },
         "set": "King Beetle Alpha"
     },
-    {
-        "name_en": "King Beetle Thorax Alpha",
+    "King Beetle Thorax Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -8950,8 +8657,7 @@
         },
         "set": "King Beetle Alpha"
     },
-    {
-        "name_en": "King Beetle Brachia Alpha",
+    "King Beetle Brachia Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -8982,8 +8688,7 @@
         },
         "set": "King Beetle Alpha"
     },
-    {
-        "name_en": "King Beetle Elytra Alpha",
+    "King Beetle Elytra Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9014,8 +8719,7 @@
         },
         "set": "King Beetle Alpha"
     },
-    {
-        "name_en": "King Beetle Crura Alpha",
+    "King Beetle Crura Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9046,8 +8750,7 @@
         },
         "set": "King Beetle Alpha"
     },
-    {
-        "name_en": "King Beetle Vertex Beta",
+    "King Beetle Vertex Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9077,8 +8780,7 @@
         },
         "set": "King Beetle Beta"
     },
-    {
-        "name_en": "King Beetle Thorax Beta",
+    "King Beetle Thorax Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9108,8 +8810,7 @@
         },
         "set": "King Beetle Beta"
     },
-    {
-        "name_en": "King Beetle Brachia Beta",
+    "King Beetle Brachia Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9139,8 +8840,7 @@
         },
         "set": "King Beetle Beta"
     },
-    {
-        "name_en": "King Beetle Elytra Beta",
+    "King Beetle Elytra Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9170,8 +8870,7 @@
         },
         "set": "King Beetle Beta"
     },
-    {
-        "name_en": "King Beetle Crura Beta",
+    "King Beetle Crura Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9201,8 +8900,7 @@
         },
         "set": "King Beetle Beta"
     },
-    {
-        "name_en": "Kulu Headpiece Alpha",
+    "Kulu Headpiece Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9232,8 +8930,7 @@
         },
         "set": "Kulu Alpha"
     },
-    {
-        "name_en": "Kulu Mail Alpha",
+    "Kulu Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9264,8 +8961,7 @@
         },
         "set": "Kulu Alpha"
     },
-    {
-        "name_en": "Kulu Vambraces Alpha",
+    "Kulu Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9295,8 +8991,7 @@
         },
         "set": "Kulu Alpha"
     },
-    {
-        "name_en": "Kulu Coil Alpha",
+    "Kulu Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9326,8 +9021,7 @@
         },
         "set": "Kulu Alpha"
     },
-    {
-        "name_en": "Kulu Greaves Alpha",
+    "Kulu Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9358,8 +9052,7 @@
         },
         "set": "Kulu Alpha"
     },
-    {
-        "name_en": "Kulu Headpiece Beta",
+    "Kulu Headpiece Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9388,8 +9081,7 @@
         },
         "set": "Kulu Beta"
     },
-    {
-        "name_en": "Kulu Mail Beta",
+    "Kulu Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9419,8 +9111,7 @@
         },
         "set": "Kulu Beta"
     },
-    {
-        "name_en": "Kulu Vambraces Beta",
+    "Kulu Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9449,8 +9140,7 @@
         },
         "set": "Kulu Beta"
     },
-    {
-        "name_en": "Kulu Coil Beta",
+    "Kulu Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9480,8 +9170,7 @@
         },
         "set": "Kulu Beta"
     },
-    {
-        "name_en": "Kulu Greaves Beta",
+    "Kulu Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9511,8 +9200,7 @@
         },
         "set": "Kulu Beta"
     },
-    {
-        "name_en": "Leather Headgear Alpha",
+    "Leather Headgear Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9540,8 +9228,7 @@
         },
         "set": "Leather Alpha"
     },
-    {
-        "name_en": "Leather Mail Alpha",
+    "Leather Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9569,8 +9256,7 @@
         },
         "set": "Leather Alpha"
     },
-    {
-        "name_en": "Leather Gloves Alpha",
+    "Leather Gloves Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9598,8 +9284,7 @@
         },
         "set": "Leather Alpha"
     },
-    {
-        "name_en": "Leather Belt Alpha",
+    "Leather Belt Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9627,8 +9312,7 @@
         },
         "set": "Leather Alpha"
     },
-    {
-        "name_en": "Leather Trousers Alpha",
+    "Leather Trousers Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9656,8 +9340,7 @@
         },
         "set": "Leather Alpha"
     },
-    {
-        "name_en": "Leather Headgear Beta",
+    "Leather Headgear Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9685,8 +9368,7 @@
         },
         "set": "Leather Beta"
     },
-    {
-        "name_en": "Leather Mail Beta",
+    "Leather Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9712,8 +9394,7 @@
         },
         "set": "Leather Beta"
     },
-    {
-        "name_en": "Leather Gloves Beta",
+    "Leather Gloves Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9739,8 +9420,7 @@
         },
         "set": "Leather Beta"
     },
-    {
-        "name_en": "Leather Belt Beta",
+    "Leather Belt Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9766,8 +9446,7 @@
         },
         "set": "Leather Beta"
     },
-    {
-        "name_en": "Leather Trousers Beta",
+    "Leather Trousers Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9793,8 +9472,7 @@
         },
         "set": "Leather Beta"
     },
-    {
-        "name_en": "Lumu Hat Alpha",
+    "Lumu Hat Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9824,8 +9502,7 @@
         },
         "set": "Lumu Alpha"
     },
-    {
-        "name_en": "Lumu Mail Alpha",
+    "Lumu Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -9856,8 +9533,7 @@
         },
         "set": "Lumu Alpha"
     },
-    {
-        "name_en": "Lumu Vambraces Alpha",
+    "Lumu Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -9887,8 +9563,7 @@
         },
         "set": "Lumu Alpha"
     },
-    {
-        "name_en": "Lumu Coil Alpha",
+    "Lumu Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -9918,8 +9593,7 @@
         },
         "set": "Lumu Alpha"
     },
-    {
-        "name_en": "Lumu Greaves Alpha",
+    "Lumu Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -9950,8 +9624,7 @@
         },
         "set": "Lumu Alpha"
     },
-    {
-        "name_en": "Lumu Hat Beta",
+    "Lumu Hat Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -9981,8 +9654,7 @@
         },
         "set": "Lumu Beta"
     },
-    {
-        "name_en": "Lumu Mail Beta",
+    "Lumu Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10012,8 +9684,7 @@
         },
         "set": "Lumu Beta"
     },
-    {
-        "name_en": "Lumu Vambraces Beta",
+    "Lumu Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10043,8 +9714,7 @@
         },
         "set": "Lumu Beta"
     },
-    {
-        "name_en": "Lumu Coil Beta",
+    "Lumu Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10074,8 +9744,7 @@
         },
         "set": "Lumu Beta"
     },
-    {
-        "name_en": "Lumu Greaves Beta",
+    "Lumu Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -10105,8 +9774,7 @@
         },
         "set": "Lumu Beta"
     },
-    {
-        "name_en": "Mosswine Mask Alpha",
+    "Mosswine Mask Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10136,8 +9804,7 @@
         },
         "set": "Mosswine Alpha"
     },
-    {
-        "name_en": "Pukei Hood Alpha",
+    "Pukei Hood Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10167,8 +9834,7 @@
         },
         "set": "Pukei Alpha"
     },
-    {
-        "name_en": "Pukei Mail Alpha",
+    "Pukei Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10198,8 +9864,7 @@
         },
         "set": "Pukei Alpha"
     },
-    {
-        "name_en": "Pukei Vambraces Alpha",
+    "Pukei Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10229,8 +9894,7 @@
         },
         "set": "Pukei Alpha"
     },
-    {
-        "name_en": "Pukei Coil Alpha",
+    "Pukei Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10260,8 +9924,7 @@
         },
         "set": "Pukei Alpha"
     },
-    {
-        "name_en": "Pukei Greaves Alpha",
+    "Pukei Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -10292,8 +9955,7 @@
         },
         "set": "Pukei Alpha"
     },
-    {
-        "name_en": "Pukei Hood Beta",
+    "Pukei Hood Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10323,8 +9985,7 @@
         },
         "set": "Pukei Beta"
     },
-    {
-        "name_en": "Pukei Mail Beta",
+    "Pukei Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10353,8 +10014,7 @@
         },
         "set": "Pukei Beta"
     },
-    {
-        "name_en": "Pukei Vambraces Beta",
+    "Pukei Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10383,8 +10043,7 @@
         },
         "set": "Pukei Beta"
     },
-    {
-        "name_en": "Pukei Coil Beta",
+    "Pukei Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10414,8 +10073,7 @@
         },
         "set": "Pukei Beta"
     },
-    {
-        "name_en": "Pukei Greaves Beta",
+    "Pukei Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -10445,8 +10103,7 @@
         },
         "set": "Pukei Beta"
     },
-    {
-        "name_en": "Rathian Helm Alpha",
+    "Rathian Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10477,8 +10134,7 @@
         },
         "set": "Rathian Alpha"
     },
-    {
-        "name_en": "Rathian Mail Alpha",
+    "Rathian Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10509,8 +10165,7 @@
         },
         "set": "Rathian Alpha"
     },
-    {
-        "name_en": "Rathian Vambraces Alpha",
+    "Rathian Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10540,8 +10195,7 @@
         },
         "set": "Rathian Alpha"
     },
-    {
-        "name_en": "Rathian Coil Alpha",
+    "Rathian Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10572,8 +10226,7 @@
         },
         "set": "Rathian Alpha"
     },
-    {
-        "name_en": "Rathian Greaves Alpha",
+    "Rathian Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -10603,8 +10256,7 @@
         },
         "set": "Rathian Alpha"
     },
-    {
-        "name_en": "Rathian Helm Beta",
+    "Rathian Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10635,8 +10287,7 @@
         },
         "set": "Rathian Beta"
     },
-    {
-        "name_en": "Rathian Mail Beta",
+    "Rathian Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10667,8 +10318,7 @@
         },
         "set": "Rathian Beta"
     },
-    {
-        "name_en": "Rathian Vambraces Beta",
+    "Rathian Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10698,8 +10348,7 @@
         },
         "set": "Rathian Beta"
     },
-    {
-        "name_en": "Rathian Coil Beta",
+    "Rathian Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10730,8 +10379,7 @@
         },
         "set": "Rathian Beta"
     },
-    {
-        "name_en": "Rathian Greaves Beta",
+    "Rathian Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -10761,8 +10409,7 @@
         },
         "set": "Rathian Beta"
     },
-    {
-        "name_en": "Sealed Eyepatch Alpha",
+    "Sealed Eyepatch Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10792,8 +10439,7 @@
         },
         "set": "Sealed Alpha"
     },
-    {
-        "name_en": "Shamos Goggles Alpha",
+    "Shamos Goggles Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10823,8 +10469,7 @@
         },
         "set": "Shamos Alpha"
     },
-    {
-        "name_en": "Shamos Goggles Beta",
+    "Shamos Goggles Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10853,8 +10498,7 @@
         },
         "set": "Shamos Beta"
     },
-    {
-        "name_en": "Tzitzi Headgear Alpha",
+    "Tzitzi Headgear Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -10885,8 +10529,7 @@
         },
         "set": "Tzitzi Alpha"
     },
-    {
-        "name_en": "Tzitzi Mail Alpha",
+    "Tzitzi Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -10917,8 +10560,7 @@
         },
         "set": "Tzitzi Alpha"
     },
-    {
-        "name_en": "Tzitzi Vambraces Alpha",
+    "Tzitzi Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -10949,8 +10591,7 @@
         },
         "set": "Tzitzi Alpha"
     },
-    {
-        "name_en": "Tzitzi Coil Alpha",
+    "Tzitzi Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -10981,8 +10622,7 @@
         },
         "set": "Tzitzi Alpha"
     },
-    {
-        "name_en": "Tzitzi Greaves Alpha",
+    "Tzitzi Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -11012,8 +10652,7 @@
         },
         "set": "Tzitzi Alpha"
     },
-    {
-        "name_en": "Tzitzi Headgear Beta",
+    "Tzitzi Headgear Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -11043,8 +10682,7 @@
         },
         "set": "Tzitzi Beta"
     },
-    {
-        "name_en": "Tzitzi Mail Beta",
+    "Tzitzi Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -11074,8 +10712,7 @@
         },
         "set": "Tzitzi Beta"
     },
-    {
-        "name_en": "Tzitzi Vambraces Beta",
+    "Tzitzi Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -11105,8 +10742,7 @@
         },
         "set": "Tzitzi Beta"
     },
-    {
-        "name_en": "Tzitzi Coil Beta",
+    "Tzitzi Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -11136,8 +10772,7 @@
         },
         "set": "Tzitzi Beta"
     },
-    {
-        "name_en": "Tzitzi Greaves Beta",
+    "Tzitzi Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -11167,8 +10802,7 @@
         },
         "set": "Tzitzi Beta"
     },
-    {
-        "name_en": "Vespoid Helm Alpha",
+    "Vespoid Helm Alpha": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -11198,8 +10832,7 @@
         },
         "set": "Vespoid Alpha"
     },
-    {
-        "name_en": "Vespoid Mail Alpha",
+    "Vespoid Mail Alpha": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -11228,8 +10861,7 @@
         },
         "set": "Vespoid Alpha"
     },
-    {
-        "name_en": "Vespoid Vambraces Alpha",
+    "Vespoid Vambraces Alpha": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -11259,8 +10891,7 @@
         },
         "set": "Vespoid Alpha"
     },
-    {
-        "name_en": "Vespoid Coil Alpha",
+    "Vespoid Coil Alpha": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -11289,8 +10920,7 @@
         },
         "set": "Vespoid Alpha"
     },
-    {
-        "name_en": "Vespoid Greaves Alpha",
+    "Vespoid Greaves Alpha": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -11321,8 +10951,7 @@
         },
         "set": "Vespoid Alpha"
     },
-    {
-        "name_en": "Vespoid Helm Beta",
+    "Vespoid Helm Beta": {
         "rarity": 5,
         "armor_type": "head",
         "male": true,
@@ -11351,8 +10980,7 @@
         },
         "set": "Vespoid Beta"
     },
-    {
-        "name_en": "Vespoid Mail Beta",
+    "Vespoid Mail Beta": {
         "rarity": 5,
         "armor_type": "chest",
         "male": true,
@@ -11381,8 +11009,7 @@
         },
         "set": "Vespoid Beta"
     },
-    {
-        "name_en": "Vespoid Vambraces Beta",
+    "Vespoid Vambraces Beta": {
         "rarity": 5,
         "armor_type": "arms",
         "male": true,
@@ -11412,8 +11039,7 @@
         },
         "set": "Vespoid Beta"
     },
-    {
-        "name_en": "Vespoid Coil Beta",
+    "Vespoid Coil Beta": {
         "rarity": 5,
         "armor_type": "waist",
         "male": true,
@@ -11442,8 +11068,7 @@
         },
         "set": "Vespoid Beta"
     },
-    {
-        "name_en": "Vespoid Greaves Beta",
+    "Vespoid Greaves Beta": {
         "rarity": 5,
         "armor_type": "legs",
         "male": true,
@@ -11473,8 +11098,7 @@
         },
         "set": "Vespoid Beta"
     },
-    {
-        "name_en": "Baan Helm Alpha",
+    "Baan Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -11504,8 +11128,7 @@
         },
         "set": "Baan Alpha"
     },
-    {
-        "name_en": "Baan Mail Alpha",
+    "Baan Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -11536,8 +11159,7 @@
         },
         "set": "Baan Alpha"
     },
-    {
-        "name_en": "Baan Vambraces Alpha",
+    "Baan Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -11568,8 +11190,7 @@
         },
         "set": "Baan Alpha"
     },
-    {
-        "name_en": "Baan Coil Alpha",
+    "Baan Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -11599,8 +11220,7 @@
         },
         "set": "Baan Alpha"
     },
-    {
-        "name_en": "Baan Greaves Alpha",
+    "Baan Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -11630,8 +11250,7 @@
         },
         "set": "Baan Alpha"
     },
-    {
-        "name_en": "Baan Helm Beta",
+    "Baan Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -11661,8 +11280,7 @@
         },
         "set": "Baan Beta"
     },
-    {
-        "name_en": "Baan Mail Beta",
+    "Baan Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -11692,8 +11310,7 @@
         },
         "set": "Baan Beta"
     },
-    {
-        "name_en": "Baan Vambraces Beta",
+    "Baan Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -11724,8 +11341,7 @@
         },
         "set": "Baan Beta"
     },
-    {
-        "name_en": "Baan Coil Beta",
+    "Baan Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -11755,8 +11371,7 @@
         },
         "set": "Baan Beta"
     },
-    {
-        "name_en": "Baan Greaves Beta",
+    "Baan Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -11786,8 +11401,7 @@
         },
         "set": "Baan Beta"
     },
-    {
-        "name_en": "Brigade Lobos Alpha",
+    "Brigade Lobos Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -11818,8 +11432,7 @@
         },
         "set": "Brigade Alpha"
     },
-    {
-        "name_en": "Brigade Suit Alpha",
+    "Brigade Suit Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -11849,8 +11462,7 @@
         },
         "set": "Brigade Alpha"
     },
-    {
-        "name_en": "Brigade Vambraces Alpha",
+    "Brigade Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -11881,8 +11493,7 @@
         },
         "set": "Brigade Alpha"
     },
-    {
-        "name_en": "Brigade Coil Alpha",
+    "Brigade Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -11913,8 +11524,7 @@
         },
         "set": "Brigade Alpha"
     },
-    {
-        "name_en": "Brigade Boots Alpha",
+    "Brigade Boots Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -11945,8 +11555,7 @@
         },
         "set": "Brigade Alpha"
     },
-    {
-        "name_en": "Brigade Lobos Beta",
+    "Brigade Lobos Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -11976,8 +11585,7 @@
         },
         "set": "Brigade Beta"
     },
-    {
-        "name_en": "Brigade Suit Beta",
+    "Brigade Suit Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12007,8 +11615,7 @@
         },
         "set": "Brigade Beta"
     },
-    {
-        "name_en": "Brigade Vambraces Beta",
+    "Brigade Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12038,8 +11645,7 @@
         },
         "set": "Brigade Beta"
     },
-    {
-        "name_en": "Brigade Coil Beta",
+    "Brigade Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12069,8 +11675,7 @@
         },
         "set": "Brigade Beta"
     },
-    {
-        "name_en": "Brigade Boots Beta",
+    "Brigade Boots Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12100,8 +11705,7 @@
         },
         "set": "Brigade Beta"
     },
-    {
-        "name_en": "Diablos Helm Alpha",
+    "Diablos Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12132,8 +11736,7 @@
         },
         "set": "Diablos Alpha"
     },
-    {
-        "name_en": "Diablos Mail Alpha",
+    "Diablos Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12164,8 +11767,7 @@
         },
         "set": "Diablos Alpha"
     },
-    {
-        "name_en": "Diablos Vambraces Alpha",
+    "Diablos Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12196,8 +11798,7 @@
         },
         "set": "Diablos Alpha"
     },
-    {
-        "name_en": "Diablos Coil Alpha",
+    "Diablos Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12228,8 +11829,7 @@
         },
         "set": "Diablos Alpha"
     },
-    {
-        "name_en": "Diablos Greaves Alpha",
+    "Diablos Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12260,8 +11860,7 @@
         },
         "set": "Diablos Alpha"
     },
-    {
-        "name_en": "Diablos Helm Beta",
+    "Diablos Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12291,8 +11890,7 @@
         },
         "set": "Diablos Beta"
     },
-    {
-        "name_en": "Diablos Mail Beta",
+    "Diablos Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12322,8 +11920,7 @@
         },
         "set": "Diablos Beta"
     },
-    {
-        "name_en": "Diablos Vambraces Beta",
+    "Diablos Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12353,8 +11950,7 @@
         },
         "set": "Diablos Beta"
     },
-    {
-        "name_en": "Diablos Coil Beta",
+    "Diablos Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12384,8 +11980,7 @@
         },
         "set": "Diablos Beta"
     },
-    {
-        "name_en": "Diablos Greaves Beta",
+    "Diablos Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12415,8 +12010,7 @@
         },
         "set": "Diablos Beta"
     },
-    {
-        "name_en": "Faux Felyne Alpha",
+    "Faux Felyne Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12446,8 +12040,7 @@
         },
         "set": "Faux Felyne Alpha"
     },
-    {
-        "name_en": "High Metal Helm Alpha",
+    "High Metal Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12478,8 +12071,7 @@
         },
         "set": "High Metal Alpha"
     },
-    {
-        "name_en": "High Metal Mail Alpha",
+    "High Metal Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12510,8 +12102,7 @@
         },
         "set": "High Metal Alpha"
     },
-    {
-        "name_en": "High Metal Braces Alpha",
+    "High Metal Braces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12542,8 +12133,7 @@
         },
         "set": "High Metal Alpha"
     },
-    {
-        "name_en": "High Metal Coil Alpha",
+    "High Metal Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12574,8 +12164,7 @@
         },
         "set": "High Metal Alpha"
     },
-    {
-        "name_en": "High Metal Greaves Alpha",
+    "High Metal Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12606,8 +12195,7 @@
         },
         "set": "High Metal Alpha"
     },
-    {
-        "name_en": "High Metal Helm Beta",
+    "High Metal Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12637,8 +12225,7 @@
         },
         "set": "High Metal Beta"
     },
-    {
-        "name_en": "High Metal Mail Beta",
+    "High Metal Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12669,8 +12256,7 @@
         },
         "set": "High Metal Beta"
     },
-    {
-        "name_en": "High Metal Braces Beta",
+    "High Metal Braces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12700,8 +12286,7 @@
         },
         "set": "High Metal Beta"
     },
-    {
-        "name_en": "High Metal Coil Beta",
+    "High Metal Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12731,8 +12316,7 @@
         },
         "set": "High Metal Beta"
     },
-    {
-        "name_en": "High Metal Greaves Beta",
+    "High Metal Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12762,8 +12346,7 @@
         },
         "set": "High Metal Beta"
     },
-    {
-        "name_en": "Ingot Helm Alpha",
+    "Ingot Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12793,8 +12376,7 @@
         },
         "set": "Ingot Alpha"
     },
-    {
-        "name_en": "Ingot Mail Alpha",
+    "Ingot Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12824,8 +12406,7 @@
         },
         "set": "Ingot Alpha"
     },
-    {
-        "name_en": "Ingot Vambraces Alpha",
+    "Ingot Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -12856,8 +12437,7 @@
         },
         "set": "Ingot Alpha"
     },
-    {
-        "name_en": "Ingot Coil Alpha",
+    "Ingot Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -12887,8 +12467,7 @@
         },
         "set": "Ingot Alpha"
     },
-    {
-        "name_en": "Ingot Greaves Alpha",
+    "Ingot Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -12919,8 +12498,7 @@
         },
         "set": "Ingot Alpha"
     },
-    {
-        "name_en": "Ingot Helm Beta",
+    "Ingot Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -12950,8 +12528,7 @@
         },
         "set": "Ingot Beta"
     },
-    {
-        "name_en": "Ingot Mail Beta",
+    "Ingot Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -12981,8 +12558,7 @@
         },
         "set": "Ingot Beta"
     },
-    {
-        "name_en": "Ingot Vambraces Beta",
+    "Ingot Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13012,8 +12588,7 @@
         },
         "set": "Ingot Beta"
     },
-    {
-        "name_en": "Ingot Coil Beta",
+    "Ingot Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13043,8 +12618,7 @@
         },
         "set": "Ingot Beta"
     },
-    {
-        "name_en": "Ingot Greaves Beta",
+    "Ingot Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -13074,8 +12648,7 @@
         },
         "set": "Ingot Beta"
     },
-    {
-        "name_en": "Kirin Horn Alpha",
+    "Kirin Horn Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -13106,8 +12679,7 @@
         },
         "set": "Kirin Alpha"
     },
-    {
-        "name_en": "Kirin Jacket Alpha",
+    "Kirin Jacket Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -13138,8 +12710,7 @@
         },
         "set": "Kirin Alpha"
     },
-    {
-        "name_en": "Kirin Longarms Alpha",
+    "Kirin Longarms Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13170,8 +12741,7 @@
         },
         "set": "Kirin Alpha"
     },
-    {
-        "name_en": "Kirin Hoop Alpha",
+    "Kirin Hoop Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13202,8 +12772,7 @@
         },
         "set": "Kirin Alpha"
     },
-    {
-        "name_en": "Kirin Leg Guards Alpha",
+    "Kirin Leg Guards Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -13234,8 +12803,7 @@
         },
         "set": "Kirin Leg Alpha"
     },
-    {
-        "name_en": "Kirin Horn Beta",
+    "Kirin Horn Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -13265,8 +12833,7 @@
         },
         "set": "Kirin Beta"
     },
-    {
-        "name_en": "Kirin Jacket Beta",
+    "Kirin Jacket Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -13296,8 +12863,7 @@
         },
         "set": "Kirin Beta"
     },
-    {
-        "name_en": "Kirin Longarms Beta",
+    "Kirin Longarms Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -13327,8 +12893,7 @@
         },
         "set": "Kirin Beta"
     },
-    {
-        "name_en": "Kirin Hoop Beta",
+    "Kirin Hoop Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -13358,8 +12923,7 @@
         },
         "set": "Kirin Beta"
     },
-    {
-        "name_en": "Kirin Leg Guards Beta",
+    "Kirin Leg Guards Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -13389,8 +12953,7 @@
         },
         "set": "Kirin Leg Beta"
     },
-    {
-        "name_en": "Lavasioth Helm Alpha",
+    "Lavasioth Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -13421,8 +12984,7 @@
         },
         "set": "Lavasioth Alpha"
     },
-    {
-        "name_en": "Lavasioth Mail Alpha",
+    "Lavasioth Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -13453,8 +13015,7 @@
         },
         "set": "Lavasioth Alpha"
     },
-    {
-        "name_en": "Lavasioth Vambraces Alpha",
+    "Lavasioth Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13485,8 +13046,7 @@
         },
         "set": "Lavasioth Alpha"
     },
-    {
-        "name_en": "Lavasioth Coil Alpha",
+    "Lavasioth Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13517,8 +13077,7 @@
         },
         "set": "Lavasioth Alpha"
     },
-    {
-        "name_en": "Lavasioth Greaves Alpha",
+    "Lavasioth Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -13549,8 +13108,7 @@
         },
         "set": "Lavasioth Alpha"
     },
-    {
-        "name_en": "Lavasioth Helm Beta",
+    "Lavasioth Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -13581,8 +13139,7 @@
         },
         "set": "Lavasioth Beta"
     },
-    {
-        "name_en": "Lavasioth Mail Beta",
+    "Lavasioth Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -13612,8 +13169,7 @@
         },
         "set": "Lavasioth Beta"
     },
-    {
-        "name_en": "Lavasioth Vambraces Beta",
+    "Lavasioth Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13643,8 +13199,7 @@
         },
         "set": "Lavasioth Beta"
     },
-    {
-        "name_en": "Lavasioth Coil Beta",
+    "Lavasioth Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13674,8 +13229,7 @@
         },
         "set": "Lavasioth Beta"
     },
-    {
-        "name_en": "Lavasioth Greaves Beta",
+    "Lavasioth Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -13705,8 +13259,7 @@
         },
         "set": "Lavasioth Beta"
     },
-    {
-        "name_en": "Legiana Helm Alpha",
+    "Legiana Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -13737,8 +13290,7 @@
         },
         "set": "Legiana Alpha"
     },
-    {
-        "name_en": "Legiana Mail Alpha",
+    "Legiana Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -13769,8 +13321,7 @@
         },
         "set": "Legiana Alpha"
     },
-    {
-        "name_en": "Legiana Vambraces Alpha",
+    "Legiana Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13801,8 +13352,7 @@
         },
         "set": "Legiana Alpha"
     },
-    {
-        "name_en": "Legiana Coil Alpha",
+    "Legiana Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13833,8 +13383,7 @@
         },
         "set": "Legiana Alpha"
     },
-    {
-        "name_en": "Legiana Greaves Alpha",
+    "Legiana Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -13865,8 +13414,7 @@
         },
         "set": "Legiana Alpha"
     },
-    {
-        "name_en": "Legiana Helm Beta",
+    "Legiana Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -13896,8 +13444,7 @@
         },
         "set": "Legiana Beta"
     },
-    {
-        "name_en": "Legiana Mail Beta",
+    "Legiana Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -13927,8 +13474,7 @@
         },
         "set": "Legiana Beta"
     },
-    {
-        "name_en": "Legiana Vambraces Beta",
+    "Legiana Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -13958,8 +13504,7 @@
         },
         "set": "Legiana Beta"
     },
-    {
-        "name_en": "Legiana Coil Beta",
+    "Legiana Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -13989,8 +13534,7 @@
         },
         "set": "Legiana Beta"
     },
-    {
-        "name_en": "Legiana Greaves Beta",
+    "Legiana Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14020,8 +13564,7 @@
         },
         "set": "Legiana Beta"
     },
-    {
-        "name_en": "Odogaron Helm Alpha",
+    "Odogaron Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14052,8 +13595,7 @@
         },
         "set": "Odogaron Alpha"
     },
-    {
-        "name_en": "Odogaron Mail Alpha",
+    "Odogaron Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14084,8 +13626,7 @@
         },
         "set": "Odogaron Alpha"
     },
-    {
-        "name_en": "Odogaron Vambraces Alpha",
+    "Odogaron Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14116,8 +13657,7 @@
         },
         "set": "Odogaron Alpha"
     },
-    {
-        "name_en": "Odogaron Coil Alpha",
+    "Odogaron Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14148,8 +13688,7 @@
         },
         "set": "Odogaron Alpha"
     },
-    {
-        "name_en": "Odogaron Greaves Alpha",
+    "Odogaron Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14180,8 +13719,7 @@
         },
         "set": "Odogaron Alpha"
     },
-    {
-        "name_en": "Odogaron Helm Beta",
+    "Odogaron Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14211,8 +13749,7 @@
         },
         "set": "Odogaron Beta"
     },
-    {
-        "name_en": "Odogaron Mail Beta",
+    "Odogaron Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14242,8 +13779,7 @@
         },
         "set": "Odogaron Beta"
     },
-    {
-        "name_en": "Odogaron Vambraces Beta",
+    "Odogaron Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14273,8 +13809,7 @@
         },
         "set": "Odogaron Beta"
     },
-    {
-        "name_en": "Odogaron Coil Beta",
+    "Odogaron Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14304,8 +13839,7 @@
         },
         "set": "Odogaron Beta"
     },
-    {
-        "name_en": "Odogaron Greaves Beta",
+    "Odogaron Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14335,8 +13869,7 @@
         },
         "set": "Odogaron Beta"
     },
-    {
-        "name_en": "Rath Heart Helm Alpha",
+    "Rath Heart Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14367,8 +13900,7 @@
         },
         "set": "Rath Heart Alpha"
     },
-    {
-        "name_en": "Rath Heart Mail Alpha",
+    "Rath Heart Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14398,8 +13930,7 @@
         },
         "set": "Rath Heart Alpha"
     },
-    {
-        "name_en": "Rath Heart Braces Alpha",
+    "Rath Heart Braces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14429,8 +13960,7 @@
         },
         "set": "Rath Heart Alpha"
     },
-    {
-        "name_en": "Rath Heart Coil Alpha",
+    "Rath Heart Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14461,8 +13991,7 @@
         },
         "set": "Rath Heart Alpha"
     },
-    {
-        "name_en": "Rath Heart Greaves Alpha",
+    "Rath Heart Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14493,8 +14022,7 @@
         },
         "set": "Rath Heart Alpha"
     },
-    {
-        "name_en": "Rath Heart Helm Beta",
+    "Rath Heart Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14524,8 +14052,7 @@
         },
         "set": "Rath Heart Beta"
     },
-    {
-        "name_en": "Rath Heart Mail Beta",
+    "Rath Heart Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14555,8 +14082,7 @@
         },
         "set": "Rath Heart Beta"
     },
-    {
-        "name_en": "Rath Heart Braces Beta",
+    "Rath Heart Braces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14586,8 +14112,7 @@
         },
         "set": "Rath Heart Beta"
     },
-    {
-        "name_en": "Rath Heart Coil Beta",
+    "Rath Heart Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14617,8 +14142,7 @@
         },
         "set": "Rath Heart Beta"
     },
-    {
-        "name_en": "Rath Heart Greaves Beta",
+    "Rath Heart Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14648,8 +14172,7 @@
         },
         "set": "Rath Heart Beta"
     },
-    {
-        "name_en": "Rathalos Helm Alpha",
+    "Rathalos Helm Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14680,8 +14203,7 @@
         },
         "set": "Rathalos Alpha"
     },
-    {
-        "name_en": "Rathalos Mail Alpha",
+    "Rathalos Mail Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14712,8 +14234,7 @@
         },
         "set": "Rathalos Alpha"
     },
-    {
-        "name_en": "Rathalos Vambraces Alpha",
+    "Rathalos Vambraces Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14744,8 +14265,7 @@
         },
         "set": "Rathalos Alpha"
     },
-    {
-        "name_en": "Rathalos Coil Alpha",
+    "Rathalos Coil Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14776,8 +14296,7 @@
         },
         "set": "Rathalos Alpha"
     },
-    {
-        "name_en": "Rathalos Greaves Alpha",
+    "Rathalos Greaves Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14808,8 +14327,7 @@
         },
         "set": "Rathalos Alpha"
     },
-    {
-        "name_en": "Rathalos Helm Beta",
+    "Rathalos Helm Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14839,8 +14357,7 @@
         },
         "set": "Rathalos Beta"
     },
-    {
-        "name_en": "Rathalos Mail Beta",
+    "Rathalos Mail Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -14870,8 +14387,7 @@
         },
         "set": "Rathalos Beta"
     },
-    {
-        "name_en": "Rathalos Vambraces Beta",
+    "Rathalos Vambraces Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -14901,8 +14417,7 @@
         },
         "set": "Rathalos Beta"
     },
-    {
-        "name_en": "Rathalos Coil Beta",
+    "Rathalos Coil Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -14932,8 +14447,7 @@
         },
         "set": "Rathalos Beta"
     },
-    {
-        "name_en": "Rathalos Greaves Beta",
+    "Rathalos Greaves Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -14963,8 +14477,7 @@
         },
         "set": "Rathalos Beta"
     },
-    {
-        "name_en": "Strategist Spectacles Alpha",
+    "Strategist Spectacles Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -14993,8 +14506,7 @@
         },
         "set": "Strategist Alpha"
     },
-    {
-        "name_en": "Zorah Headgear Alpha",
+    "Zorah Headgear Alpha": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -15025,8 +14537,7 @@
         },
         "set": "Zorah Alpha"
     },
-    {
-        "name_en": "Zorah Hide Alpha",
+    "Zorah Hide Alpha": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -15057,8 +14568,7 @@
         },
         "set": "Zorah Alpha"
     },
-    {
-        "name_en": "Zorah Claws Alpha",
+    "Zorah Claws Alpha": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -15089,8 +14599,7 @@
         },
         "set": "Zorah Alpha"
     },
-    {
-        "name_en": "Zorah Spine Alpha",
+    "Zorah Spine Alpha": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -15121,8 +14630,7 @@
         },
         "set": "Zorah Alpha"
     },
-    {
-        "name_en": "Zorah Spurs Alpha",
+    "Zorah Spurs Alpha": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -15153,8 +14661,7 @@
         },
         "set": "Zorah Alpha"
     },
-    {
-        "name_en": "Zorah Headgear Beta",
+    "Zorah Headgear Beta": {
         "rarity": 6,
         "armor_type": "head",
         "male": true,
@@ -15184,8 +14691,7 @@
         },
         "set": "Zorah Beta"
     },
-    {
-        "name_en": "Zorah Hide Beta",
+    "Zorah Hide Beta": {
         "rarity": 6,
         "armor_type": "chest",
         "male": true,
@@ -15215,8 +14721,7 @@
         },
         "set": "Zorah Beta"
     },
-    {
-        "name_en": "Zorah Claws Beta",
+    "Zorah Claws Beta": {
         "rarity": 6,
         "armor_type": "arms",
         "male": true,
@@ -15246,8 +14751,7 @@
         },
         "set": "Zorah Beta"
     },
-    {
-        "name_en": "Zorah Spine Beta",
+    "Zorah Spine Beta": {
         "rarity": 6,
         "armor_type": "waist",
         "male": true,
@@ -15277,8 +14781,7 @@
         },
         "set": "Zorah Beta"
     },
-    {
-        "name_en": "Zorah Spurs Beta",
+    "Zorah Spurs Beta": {
         "rarity": 6,
         "armor_type": "legs",
         "male": true,
@@ -15308,8 +14811,7 @@
         },
         "set": "Zorah Beta"
     },
-    {
-        "name_en": "Bazel Helm Alpha",
+    "Bazel Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -15340,8 +14842,7 @@
         },
         "set": "Bazel Alpha"
     },
-    {
-        "name_en": "Bazel Mail Alpha",
+    "Bazel Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -15372,8 +14873,7 @@
         },
         "set": "Bazel Alpha"
     },
-    {
-        "name_en": "Bazel Vambraces Alpha",
+    "Bazel Vambraces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -15404,8 +14904,7 @@
         },
         "set": "Bazel Alpha"
     },
-    {
-        "name_en": "Bazel Coil Alpha",
+    "Bazel Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -15436,8 +14935,7 @@
         },
         "set": "Bazel Alpha"
     },
-    {
-        "name_en": "Bazel Greaves Alpha",
+    "Bazel Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -15468,8 +14966,7 @@
         },
         "set": "Bazel Alpha"
     },
-    {
-        "name_en": "Bazel Helm Beta",
+    "Bazel Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -15499,8 +14996,7 @@
         },
         "set": "Bazel Beta"
     },
-    {
-        "name_en": "Bazel Mail Beta",
+    "Bazel Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -15530,8 +15026,7 @@
         },
         "set": "Bazel Beta"
     },
-    {
-        "name_en": "Bazel Vambraces Beta",
+    "Bazel Vambraces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -15561,8 +15056,7 @@
         },
         "set": "Bazel Beta"
     },
-    {
-        "name_en": "Bazel Coil Beta",
+    "Bazel Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -15592,8 +15086,7 @@
         },
         "set": "Bazel Beta"
     },
-    {
-        "name_en": "Bazel Greaves Beta",
+    "Bazel Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -15623,8 +15116,7 @@
         },
         "set": "Bazel Beta"
     },
-    {
-        "name_en": "Damascus Helm Alpha",
+    "Damascus Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -15655,8 +15147,7 @@
         },
         "set": "Damascus Alpha"
     },
-    {
-        "name_en": "Damascus Mail Alpha",
+    "Damascus Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -15687,8 +15178,7 @@
         },
         "set": "Damascus Alpha"
     },
-    {
-        "name_en": "Damascus Vambraces Alpha",
+    "Damascus Vambraces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -15719,8 +15209,7 @@
         },
         "set": "Damascus Alpha"
     },
-    {
-        "name_en": "Damascus Coil Alpha",
+    "Damascus Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -15751,8 +15240,7 @@
         },
         "set": "Damascus Alpha"
     },
-    {
-        "name_en": "Damascus Greaves Alpha",
+    "Damascus Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -15783,8 +15271,7 @@
         },
         "set": "Damascus Alpha"
     },
-    {
-        "name_en": "Damascus Helm Beta",
+    "Damascus Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -15814,8 +15301,7 @@
         },
         "set": "Damascus Beta"
     },
-    {
-        "name_en": "Damascus Mail Beta",
+    "Damascus Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -15845,8 +15331,7 @@
         },
         "set": "Damascus Beta"
     },
-    {
-        "name_en": "Damascus Vambraces Beta",
+    "Damascus Vambraces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -15876,8 +15361,7 @@
         },
         "set": "Damascus Beta"
     },
-    {
-        "name_en": "Damascus Coil Beta",
+    "Damascus Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -15907,8 +15391,7 @@
         },
         "set": "Damascus Beta"
     },
-    {
-        "name_en": "Damascus Greaves Beta",
+    "Damascus Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -15938,8 +15421,7 @@
         },
         "set": "Damascus Beta"
     },
-    {
-        "name_en": "Death Stench Brain Alpha",
+    "Death Stench Brain Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -15970,8 +15452,7 @@
         },
         "set": "Death Stench Alpha"
     },
-    {
-        "name_en": "Death Stench Muscle Alpha",
+    "Death Stench Muscle Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16002,8 +15483,7 @@
         },
         "set": "Death Stench Alpha"
     },
-    {
-        "name_en": "Death Stench Grip Alpha",
+    "Death Stench Grip Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16034,8 +15514,7 @@
         },
         "set": "Death Stench Alpha"
     },
-    {
-        "name_en": "Death Stench Bowels Alpha",
+    "Death Stench Bowels Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16066,8 +15545,7 @@
         },
         "set": "Death Stench Alpha"
     },
-    {
-        "name_en": "Death Stench Heel Alpha",
+    "Death Stench Heel Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16098,8 +15576,7 @@
         },
         "set": "Death Stench Alpha"
     },
-    {
-        "name_en": "Death Stench Brain Beta",
+    "Death Stench Brain Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16129,8 +15606,7 @@
         },
         "set": "Death Stench Beta"
     },
-    {
-        "name_en": "Death Stench Muscle Beta",
+    "Death Stench Muscle Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16160,8 +15636,7 @@
         },
         "set": "Death Stench Beta"
     },
-    {
-        "name_en": "Death Stench Grip Beta",
+    "Death Stench Grip Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16191,8 +15666,7 @@
         },
         "set": "Death Stench Beta"
     },
-    {
-        "name_en": "Death Stench Bowels Beta",
+    "Death Stench Bowels Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16222,8 +15696,7 @@
         },
         "set": "Death Stench Beta"
     },
-    {
-        "name_en": "Death Stench Heel Beta",
+    "Death Stench Heel Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16253,8 +15726,7 @@
         },
         "set": "Death Stench Beta"
     },
-    {
-        "name_en": "Diablos Nero Helm Alpha",
+    "Diablos Nero Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16284,8 +15756,7 @@
         },
         "set": "Diablos Nero Alpha"
     },
-    {
-        "name_en": "Diablos Nero Mail Alpha",
+    "Diablos Nero Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16315,8 +15786,7 @@
         },
         "set": "Diablos Nero Alpha"
     },
-    {
-        "name_en": "Diablos Nero Braces Alpha",
+    "Diablos Nero Braces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16347,8 +15817,7 @@
         },
         "set": "Diablos Nero Alpha"
     },
-    {
-        "name_en": "Diablos Nero Coil Alpha",
+    "Diablos Nero Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16379,8 +15848,7 @@
         },
         "set": "Diablos Nero Alpha"
     },
-    {
-        "name_en": "Diablos Nero Greaves Alpha",
+    "Diablos Nero Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16411,8 +15879,7 @@
         },
         "set": "Diablos Nero Alpha"
     },
-    {
-        "name_en": "Diablos Nero Helm Beta",
+    "Diablos Nero Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16442,8 +15909,7 @@
         },
         "set": "Diablos Nero Beta"
     },
-    {
-        "name_en": "Diablos Nero Mail Beta",
+    "Diablos Nero Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16473,8 +15939,7 @@
         },
         "set": "Diablos Nero Beta"
     },
-    {
-        "name_en": "Diablos Nero Braces Beta",
+    "Diablos Nero Braces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16504,8 +15969,7 @@
         },
         "set": "Diablos Nero Beta"
     },
-    {
-        "name_en": "Diablos Nero Coil Beta",
+    "Diablos Nero Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16535,8 +15999,7 @@
         },
         "set": "Diablos Nero Beta"
     },
-    {
-        "name_en": "Diablos Nero Greaves Beta",
+    "Diablos Nero Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16566,8 +16029,7 @@
         },
         "set": "Diablos Nero Beta"
     },
-    {
-        "name_en": "Dober Helm Alpha",
+    "Dober Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16598,8 +16060,7 @@
         },
         "set": "Dober Alpha"
     },
-    {
-        "name_en": "Dober Mail Alpha",
+    "Dober Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16630,8 +16091,7 @@
         },
         "set": "Dober Alpha"
     },
-    {
-        "name_en": "Dober Vambraces Alpha",
+    "Dober Vambraces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16662,8 +16122,7 @@
         },
         "set": "Dober Alpha"
     },
-    {
-        "name_en": "Dober Coil Alpha",
+    "Dober Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16694,8 +16153,7 @@
         },
         "set": "Dober Alpha"
     },
-    {
-        "name_en": "Dober Greaves Alpha",
+    "Dober Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16726,8 +16184,7 @@
         },
         "set": "Dober Alpha"
     },
-    {
-        "name_en": "Dober Helm Beta",
+    "Dober Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16757,8 +16214,7 @@
         },
         "set": "Dober Beta"
     },
-    {
-        "name_en": "Dober Mail Beta",
+    "Dober Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16788,8 +16244,7 @@
         },
         "set": "Dober Beta"
     },
-    {
-        "name_en": "Dober Vambraces Beta",
+    "Dober Vambraces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16820,8 +16275,7 @@
         },
         "set": "Dober Beta"
     },
-    {
-        "name_en": "Dober Coil Beta",
+    "Dober Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -16851,8 +16305,7 @@
         },
         "set": "Dober Beta"
     },
-    {
-        "name_en": "Dober Greaves Beta",
+    "Dober Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -16882,8 +16335,7 @@
         },
         "set": "Dober Beta"
     },
-    {
-        "name_en": "Rath Soul Helm Alpha",
+    "Rath Soul Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -16914,8 +16366,7 @@
         },
         "set": "Rath Soul Alpha"
     },
-    {
-        "name_en": "Rath Soul Mail Alpha",
+    "Rath Soul Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -16946,8 +16397,7 @@
         },
         "set": "Rath Soul Alpha"
     },
-    {
-        "name_en": "Rath Soul Braces Alpha",
+    "Rath Soul Braces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -16978,8 +16428,7 @@
         },
         "set": "Rath Soul Alpha"
     },
-    {
-        "name_en": "Rath Soul Coil Alpha",
+    "Rath Soul Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -17010,8 +16459,7 @@
         },
         "set": "Rath Soul Alpha"
     },
-    {
-        "name_en": "Rath Soul Greaves Alpha",
+    "Rath Soul Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -17042,8 +16490,7 @@
         },
         "set": "Rath Soul Alpha"
     },
-    {
-        "name_en": "Rath Soul Helm Beta",
+    "Rath Soul Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -17073,8 +16520,7 @@
         },
         "set": "Rath Soul Beta"
     },
-    {
-        "name_en": "Rath Soul Mail Beta",
+    "Rath Soul Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -17104,8 +16550,7 @@
         },
         "set": "Rath Soul Beta"
     },
-    {
-        "name_en": "Rath Soul Braces Beta",
+    "Rath Soul Braces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -17135,8 +16580,7 @@
         },
         "set": "Rath Soul Beta"
     },
-    {
-        "name_en": "Rath Soul Coil Beta",
+    "Rath Soul Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -17166,8 +16610,7 @@
         },
         "set": "Rath Soul Beta"
     },
-    {
-        "name_en": "Rath Soul Greaves Beta",
+    "Rath Soul Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -17197,8 +16640,7 @@
         },
         "set": "Rath Soul Beta"
     },
-    {
-        "name_en": "Skull Mask Alpha",
+    "Skull Mask Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -17228,8 +16670,7 @@
         },
         "set": "Skull Alpha"
     },
-    {
-        "name_en": "Uragaan Helm Alpha",
+    "Uragaan Helm Alpha": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -17259,8 +16700,7 @@
         },
         "set": "Uragaan Alpha"
     },
-    {
-        "name_en": "Uragaan Mail Alpha",
+    "Uragaan Mail Alpha": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -17290,8 +16730,7 @@
         },
         "set": "Uragaan Alpha"
     },
-    {
-        "name_en": "Uragaan Vambraces Alpha",
+    "Uragaan Vambraces Alpha": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -17322,8 +16761,7 @@
         },
         "set": "Uragaan Alpha"
     },
-    {
-        "name_en": "Uragaan Coil Alpha",
+    "Uragaan Coil Alpha": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -17354,8 +16792,7 @@
         },
         "set": "Uragaan Alpha"
     },
-    {
-        "name_en": "Uragaan Greaves Alpha",
+    "Uragaan Greaves Alpha": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -17385,8 +16822,7 @@
         },
         "set": "Uragaan Alpha"
     },
-    {
-        "name_en": "Uragaan Helm Beta",
+    "Uragaan Helm Beta": {
         "rarity": 7,
         "armor_type": "head",
         "male": true,
@@ -17416,8 +16852,7 @@
         },
         "set": "Uragaan Beta"
     },
-    {
-        "name_en": "Uragaan Mail Beta",
+    "Uragaan Mail Beta": {
         "rarity": 7,
         "armor_type": "chest",
         "male": true,
@@ -17447,8 +16882,7 @@
         },
         "set": "Uragaan Beta"
     },
-    {
-        "name_en": "Uragaan Vambraces Beta",
+    "Uragaan Vambraces Beta": {
         "rarity": 7,
         "armor_type": "arms",
         "male": true,
@@ -17478,8 +16912,7 @@
         },
         "set": "Uragaan Beta"
     },
-    {
-        "name_en": "Uragaan Coil Beta",
+    "Uragaan Coil Beta": {
         "rarity": 7,
         "armor_type": "waist",
         "male": true,
@@ -17509,8 +16942,7 @@
         },
         "set": "Uragaan Beta"
     },
-    {
-        "name_en": "Uragaan Greaves Beta",
+    "Uragaan Greaves Beta": {
         "rarity": 7,
         "armor_type": "legs",
         "male": true,
@@ -17540,8 +16972,7 @@
         },
         "set": "Uragaan Beta"
     },
-    {
-        "name_en": "Commission Gorget Alpha",
+    "Commission Gorget Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -17572,8 +17003,7 @@
         },
         "set": "Commission Alpha"
     },
-    {
-        "name_en": "Commission Jacket Alpha",
+    "Commission Jacket Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -17604,8 +17034,7 @@
         },
         "set": "Commission Alpha"
     },
-    {
-        "name_en": "Commission Vambraces Alpha",
+    "Commission Vambraces Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -17636,8 +17065,7 @@
         },
         "set": "Commission Alpha"
     },
-    {
-        "name_en": "Commission Belt Alpha",
+    "Commission Belt Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -17668,8 +17096,7 @@
         },
         "set": "Commission Alpha"
     },
-    {
-        "name_en": "Commission Pants Alpha",
+    "Commission Pants Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -17700,8 +17127,7 @@
         },
         "set": "Commission Alpha"
     },
-    {
-        "name_en": "Commission Gorget Beta",
+    "Commission Gorget Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -17731,8 +17157,7 @@
         },
         "set": "Commission Beta"
     },
-    {
-        "name_en": "Commission Jacket Beta",
+    "Commission Jacket Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -17762,8 +17187,7 @@
         },
         "set": "Commission Beta"
     },
-    {
-        "name_en": "Commission Vambraces Beta",
+    "Commission Vambraces Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -17793,8 +17217,7 @@
         },
         "set": "Commission Beta"
     },
-    {
-        "name_en": "Commission Belt Beta",
+    "Commission Belt Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -17824,8 +17247,7 @@
         },
         "set": "Commission Beta"
     },
-    {
-        "name_en": "Commission Pants Beta",
+    "Commission Pants Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -17855,8 +17277,7 @@
         },
         "set": "Commission Beta"
     },
-    {
-        "name_en": "Dragonking Eyepatch Alpha",
+    "Dragonking Eyepatch Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -17885,8 +17306,7 @@
         },
         "set": "Dragonking Alpha"
     },
-    {
-        "name_en": "Guild Cross Circlet Alpha",
+    "Guild Cross Circlet Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -17917,8 +17337,7 @@
         },
         "set": "Guild Cross Alpha"
     },
-    {
-        "name_en": "Guild Cross Suit Alpha",
+    "Guild Cross Suit Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -17949,8 +17368,7 @@
         },
         "set": "Guild Cross Alpha"
     },
-    {
-        "name_en": "Guild Cross Vambraces Alpha",
+    "Guild Cross Vambraces Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -17981,8 +17399,7 @@
         },
         "set": "Guild Cross Alpha"
     },
-    {
-        "name_en": "Guild Cross Coil Alpha",
+    "Guild Cross Coil Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18013,8 +17430,7 @@
         },
         "set": "Guild Cross Alpha"
     },
-    {
-        "name_en": "Guild Cross Boots Alpha",
+    "Guild Cross Boots Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18045,8 +17461,7 @@
         },
         "set": "Guild Cross Alpha"
     },
-    {
-        "name_en": "Guild Cross Circlet Beta",
+    "Guild Cross Circlet Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18076,8 +17491,7 @@
         },
         "set": "Guild Cross Beta"
     },
-    {
-        "name_en": "Guild Cross Suit Beta",
+    "Guild Cross Suit Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18107,8 +17521,7 @@
         },
         "set": "Guild Cross Beta"
     },
-    {
-        "name_en": "Guild Cross Vambraces Beta",
+    "Guild Cross Vambraces Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18138,8 +17551,7 @@
         },
         "set": "Guild Cross Beta"
     },
-    {
-        "name_en": "Guild Cross Coil Beta",
+    "Guild Cross Coil Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18169,8 +17581,7 @@
         },
         "set": "Guild Cross Beta"
     },
-    {
-        "name_en": "Guild Cross Boots Beta",
+    "Guild Cross Boots Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18200,8 +17611,7 @@
         },
         "set": "Guild Cross Beta"
     },
-    {
-        "name_en": "Kaiser Crown Alpha",
+    "Kaiser Crown Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18231,8 +17641,7 @@
         },
         "set": "Kaiser Alpha"
     },
-    {
-        "name_en": "Kaiser Mail Alpha",
+    "Kaiser Mail Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18263,8 +17672,7 @@
         },
         "set": "Kaiser Alpha"
     },
-    {
-        "name_en": "Kaiser Vambraces Alpha",
+    "Kaiser Vambraces Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18294,8 +17702,7 @@
         },
         "set": "Kaiser Alpha"
     },
-    {
-        "name_en": "Kaiser Coil Alpha",
+    "Kaiser Coil Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18326,8 +17733,7 @@
         },
         "set": "Kaiser Alpha"
     },
-    {
-        "name_en": "Kaiser Greaves Alpha",
+    "Kaiser Greaves Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18358,8 +17764,7 @@
         },
         "set": "Kaiser Alpha"
     },
-    {
-        "name_en": "Kaiser Crown Beta",
+    "Kaiser Crown Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18389,8 +17794,7 @@
         },
         "set": "Kaiser Beta"
     },
-    {
-        "name_en": "Kaiser Mail Beta",
+    "Kaiser Mail Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18420,8 +17824,7 @@
         },
         "set": "Kaiser Beta"
     },
-    {
-        "name_en": "Kaiser Vambraces Beta",
+    "Kaiser Vambraces Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18451,8 +17854,7 @@
         },
         "set": "Kaiser Beta"
     },
-    {
-        "name_en": "Kaiser Coil Beta",
+    "Kaiser Coil Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18482,8 +17884,7 @@
         },
         "set": "Kaiser Beta"
     },
-    {
-        "name_en": "Kaiser Greaves Beta",
+    "Kaiser Greaves Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18513,8 +17914,7 @@
         },
         "set": "Kaiser Beta"
     },
-    {
-        "name_en": "Kushala Glare Alpha",
+    "Kushala Glare Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18545,8 +17945,7 @@
         },
         "set": "Kushala Alpha"
     },
-    {
-        "name_en": "Kushala Cista Alpha",
+    "Kushala Cista Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18577,8 +17976,7 @@
         },
         "set": "Kushala Alpha"
     },
-    {
-        "name_en": "Kushala Grip Alpha",
+    "Kushala Grip Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18609,8 +18007,7 @@
         },
         "set": "Kushala Alpha"
     },
-    {
-        "name_en": "Kushala Cocoon Alpha",
+    "Kushala Cocoon Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18641,8 +18038,7 @@
         },
         "set": "Kushala Alpha"
     },
-    {
-        "name_en": "Kushala Crus Alpha",
+    "Kushala Crus Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18673,8 +18069,7 @@
         },
         "set": "Kushala Alpha"
     },
-    {
-        "name_en": "Kushala Glare Beta",
+    "Kushala Glare Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18704,8 +18099,7 @@
         },
         "set": "Kushala Beta"
     },
-    {
-        "name_en": "Kushala Cista Beta",
+    "Kushala Cista Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18735,8 +18129,7 @@
         },
         "set": "Kushala Beta"
     },
-    {
-        "name_en": "Kushala Grip Beta",
+    "Kushala Grip Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18766,8 +18159,7 @@
         },
         "set": "Kushala Beta"
     },
-    {
-        "name_en": "Kushala Cocoon Beta",
+    "Kushala Cocoon Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18797,8 +18189,7 @@
         },
         "set": "Kushala Beta"
     },
-    {
-        "name_en": "Kushala Crus Beta",
+    "Kushala Crus Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18828,8 +18219,7 @@
         },
         "set": "Kushala Beta"
     },
-    {
-        "name_en": "Nergigante Helm Alpha",
+    "Nergigante Helm Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -18860,8 +18250,7 @@
         },
         "set": "Nergigante Alpha"
     },
-    {
-        "name_en": "Nergigante Mail Alpha",
+    "Nergigante Mail Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -18892,8 +18281,7 @@
         },
         "set": "Nergigante Alpha"
     },
-    {
-        "name_en": "Nergigante Vambraces Alpha",
+    "Nergigante Vambraces Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -18924,8 +18312,7 @@
         },
         "set": "Nergigante Alpha"
     },
-    {
-        "name_en": "Nergigante Coil Alpha",
+    "Nergigante Coil Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -18956,8 +18343,7 @@
         },
         "set": "Nergigante Alpha"
     },
-    {
-        "name_en": "Nergigante Greaves Alpha",
+    "Nergigante Greaves Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -18988,8 +18374,7 @@
         },
         "set": "Nergigante Alpha"
     },
-    {
-        "name_en": "Nergigante Helm Beta",
+    "Nergigante Helm Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -19019,8 +18404,7 @@
         },
         "set": "Nergigante Beta"
     },
-    {
-        "name_en": "Nergigante Mail Beta",
+    "Nergigante Mail Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -19050,8 +18434,7 @@
         },
         "set": "Nergigante Beta"
     },
-    {
-        "name_en": "Nergigante Vambraces Beta",
+    "Nergigante Vambraces Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -19081,8 +18464,7 @@
         },
         "set": "Nergigante Beta"
     },
-    {
-        "name_en": "Nergigante Coil Beta",
+    "Nergigante Coil Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -19112,8 +18494,7 @@
         },
         "set": "Nergigante Beta"
     },
-    {
-        "name_en": "Nergigante Greaves Beta",
+    "Nergigante Greaves Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -19143,8 +18524,7 @@
         },
         "set": "Nergigante Beta"
     },
-    {
-        "name_en": "Vaal Hazak Helm Alpha",
+    "Vaal Hazak Helm Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -19175,8 +18555,7 @@
         },
         "set": "Vaal Hazak Alpha"
     },
-    {
-        "name_en": "Vaal Hazak Mail Alpha",
+    "Vaal Hazak Mail Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -19207,8 +18586,7 @@
         },
         "set": "Vaal Hazak Alpha"
     },
-    {
-        "name_en": "Vaal Hazak Braces Alpha",
+    "Vaal Hazak Braces Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -19239,8 +18617,7 @@
         },
         "set": "Vaal Hazak Alpha"
     },
-    {
-        "name_en": "Vaal Hazak Coil Alpha",
+    "Vaal Hazak Coil Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -19271,8 +18648,7 @@
         },
         "set": "Vaal Hazak Alpha"
     },
-    {
-        "name_en": "Vaal Hazak Greaves Alpha",
+    "Vaal Hazak Greaves Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -19303,8 +18679,7 @@
         },
         "set": "Vaal Hazak Alpha"
     },
-    {
-        "name_en": "Vaal Hazak Helm Beta",
+    "Vaal Hazak Helm Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -19334,8 +18709,7 @@
         },
         "set": "Vaal Hazak Beta"
     },
-    {
-        "name_en": "Vaal Hazak Mail Beta",
+    "Vaal Hazak Mail Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -19365,8 +18739,7 @@
         },
         "set": "Vaal Hazak Beta"
     },
-    {
-        "name_en": "Vaal Hazak Braces Beta",
+    "Vaal Hazak Braces Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -19396,8 +18769,7 @@
         },
         "set": "Vaal Hazak Beta"
     },
-    {
-        "name_en": "Vaal Hazak Coil Beta",
+    "Vaal Hazak Coil Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -19427,8 +18799,7 @@
         },
         "set": "Vaal Hazak Beta"
     },
-    {
-        "name_en": "Vaal Hazak Greaves Beta",
+    "Vaal Hazak Greaves Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -19458,8 +18829,7 @@
         },
         "set": "Vaal Hazak Beta"
     },
-    {
-        "name_en": "Xeno'jiiva Headgear Alpha",
+    "Xeno'jiiva Headgear Alpha": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -19490,8 +18860,7 @@
         },
         "set": "Xeno'jiiva Alpha"
     },
-    {
-        "name_en": "Xeno'jiiva Hide Alpha",
+    "Xeno'jiiva Hide Alpha": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -19522,8 +18891,7 @@
         },
         "set": "Xeno'jiiva Alpha"
     },
-    {
-        "name_en": "Xeno'jiiva Claws Alpha",
+    "Xeno'jiiva Claws Alpha": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -19554,8 +18922,7 @@
         },
         "set": "Xeno'jiiva Alpha"
     },
-    {
-        "name_en": "Xeno'jiiva Spine Alpha",
+    "Xeno'jiiva Spine Alpha": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -19586,8 +18953,7 @@
         },
         "set": "Xeno'jiiva Alpha"
     },
-    {
-        "name_en": "Xeno'jiiva Spurs Alpha",
+    "Xeno'jiiva Spurs Alpha": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -19618,8 +18984,7 @@
         },
         "set": "Xeno'jiiva Alpha"
     },
-    {
-        "name_en": "Xeno'jiiva Headgear Beta",
+    "Xeno'jiiva Headgear Beta": {
         "rarity": 8,
         "armor_type": "head",
         "male": true,
@@ -19649,8 +19014,7 @@
         },
         "set": "Xeno'jiiva Beta"
     },
-    {
-        "name_en": "Xeno'jiiva Hide Beta",
+    "Xeno'jiiva Hide Beta": {
         "rarity": 8,
         "armor_type": "chest",
         "male": true,
@@ -19680,8 +19044,7 @@
         },
         "set": "Xeno'jiiva Beta"
     },
-    {
-        "name_en": "Xeno'jiiva Claws Beta",
+    "Xeno'jiiva Claws Beta": {
         "rarity": 8,
         "armor_type": "arms",
         "male": true,
@@ -19711,8 +19074,7 @@
         },
         "set": "Xeno'jiiva Beta"
     },
-    {
-        "name_en": "Xeno'jiiva Spine Beta",
+    "Xeno'jiiva Spine Beta": {
         "rarity": 8,
         "armor_type": "waist",
         "male": true,
@@ -19742,8 +19104,7 @@
         },
         "set": "Xeno'jiiva Beta"
     },
-    {
-        "name_en": "Xeno'jiiva Spurs Beta",
+    "Xeno'jiiva Spurs Beta": {
         "rarity": 8,
         "armor_type": "legs",
         "male": true,
@@ -19773,4 +19134,4 @@
         },
         "set": "Xeno'jiiva Beta"
     }
-]
+}

@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Metal Bagpipe I",
+{
+    "Metal Bagpipe I": {
         "weapon_type": "hunting-horn",
         "rarity": 1,
         "attack": 336,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Metal Bagpipe II",
+    "Metal Bagpipe II": {
         "weapon_type": "hunting-horn",
         "rarity": 1,
         "attack": 378,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Metal Bagpipe III",
+    "Metal Bagpipe III": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 420,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Great Bagpipe I",
+    "Great Bagpipe I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 462,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Great Bagpipe II",
+    "Great Bagpipe II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 546,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Great Bagpipe III",
+    "Great Bagpipe III": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 588,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Fortissimo I",
+    "Fortissimo I": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Fortissimo II",
+    "Fortissimo II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Groove",
+    "Nergal Groove": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 840,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Desolation's Overture",
+    "Desolation's Overture": {
         "weapon_type": "hunting-horn",
         "rarity": 8,
         "attack": 882,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Thunder Gaida I",
+    "Thunder Gaida I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 504,
@@ -320,8 +309,7 @@
             "Tobi-Kadachi Electrode": 1
         }
     },
-    {
-        "name_en": "Thunder Gaida II",
+    "Thunder Gaida II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 546,
@@ -350,8 +338,7 @@
             "Tobi-Kadachi Membrane": 2
         }
     },
-    {
-        "name_en": "Lightning Drum I",
+    "Lightning Drum I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 630,
@@ -380,8 +367,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Lightning Drum II",
+    "Lightning Drum II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -410,8 +396,7 @@
             "Tobi-Kadachi Membrane": 4
         }
     },
-    {
-        "name_en": "Lightning Drum III",
+    "Lightning Drum III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -440,8 +425,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Kulu Duda I",
+    "Kulu Duda I": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 420,
@@ -469,8 +453,7 @@
             "Kulu-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Duda II",
+    "Kulu Duda II": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 504,
@@ -499,8 +482,7 @@
             "Radobaan Scale": 3
         }
     },
-    {
-        "name_en": "Kulu Duda III",
+    "Kulu Duda III": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 588,
@@ -529,8 +511,7 @@
             "Warped Bone": 3
         }
     },
-    {
-        "name_en": "Dancing Davul I",
+    "Dancing Davul I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 630,
@@ -558,8 +539,7 @@
             "Kulu-Ya-Ku Scale+": 6
         }
     },
-    {
-        "name_en": "Dancing Davul II",
+    "Dancing Davul II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -588,8 +568,7 @@
             "Odogaron Claw+": 2
         }
     },
-    {
-        "name_en": "Dancing Davul III",
+    "Dancing Davul III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -618,8 +597,7 @@
             "Nergigante Talon": 2
         }
     },
-    {
-        "name_en": "Valkyrie Chordmaker",
+    "Valkyrie Chordmaker": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 462,
@@ -652,8 +630,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Queen Chordmaker",
+    "Queen Chordmaker": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 630,
@@ -682,8 +659,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Coral Chordmaker",
+    "Coral Chordmaker": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -712,8 +688,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Royal Chordmaker",
+    "Royal Chordmaker": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 798,
@@ -742,8 +717,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Aqua Bagpipe I",
+    "Aqua Bagpipe I": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 420,
@@ -772,8 +746,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Bagpipe II",
+    "Aqua Bagpipe II": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 504,
@@ -802,8 +775,7 @@
             "Jyuratodus Fin": 3
         }
     },
-    {
-        "name_en": "Aqua Bagpipe III",
+    "Aqua Bagpipe III": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 546,
@@ -832,8 +804,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Water Tamtam I",
+    "Water Tamtam I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 588,
@@ -862,8 +833,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Water Tamtam II",
+    "Water Tamtam II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -892,8 +862,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Water Tamtam III",
+    "Water Tamtam III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -922,8 +891,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Glacial Bagpipe I",
+    "Glacial Bagpipe I": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 546,
@@ -951,8 +919,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Bagpipe II",
+    "Glacial Bagpipe II": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 588,
@@ -981,8 +948,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Sectored",
+    "Sectored": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 630,
@@ -1011,8 +977,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Sectored",
+    "Legia Sectored": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 672,
@@ -1041,8 +1006,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Bone Horn I",
+    "Bone Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 1,
         "attack": 420,
@@ -1068,8 +1032,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Horn II",
+    "Bone Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 1,
         "attack": 462,
@@ -1095,8 +1058,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Horn III",
+    "Bone Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 504,
@@ -1123,8 +1085,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Hard Bone Horn I",
+    "Hard Bone Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 588,
@@ -1152,8 +1113,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Hard Bone Horn II",
+    "Hard Bone Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 630,
@@ -1181,8 +1141,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Hard Bone Horn III",
+    "Hard Bone Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 672,
@@ -1210,8 +1169,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Heavy Bone Horn I",
+    "Heavy Bone Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -1239,8 +1197,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Heavy Bone Horn II",
+    "Heavy Bone Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 798,
@@ -1269,8 +1226,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Gama Horn I",
+    "Gama Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -1298,8 +1254,7 @@
             "Dodogama Talon": 4
         }
     },
-    {
-        "name_en": "Gama Horn II",
+    "Gama Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 798,
@@ -1328,8 +1283,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blazing Horn I",
+    "Blazing Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 546,
@@ -1357,8 +1311,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Horn II",
+    "Blazing Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 630,
@@ -1387,8 +1340,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Barone I",
+    "Anja Barone I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 672,
@@ -1417,8 +1369,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Barone II",
+    "Anja Barone II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 798,
@@ -1447,8 +1398,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Barone III",
+    "Anja Barone III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 882,
@@ -1477,8 +1427,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Blooming Horn I",
+    "Blooming Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 504,
@@ -1506,8 +1455,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Horn II",
+    "Blooming Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 546,
@@ -1536,8 +1484,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Horn III",
+    "Blooming Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 588,
@@ -1566,8 +1513,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Datura Horn I",
+    "Datura Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 630,
@@ -1596,8 +1542,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Horn II",
+    "Datura Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -1626,8 +1571,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Horn III",
+    "Datura Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -1656,8 +1600,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Lumu Horn I",
+    "Lumu Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 546,
@@ -1685,8 +1628,7 @@
             "Paolumu Shell": 1
         }
     },
-    {
-        "name_en": "Lumu Horn II",
+    "Lumu Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 588,
@@ -1715,8 +1657,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Lumu Barone I",
+    "Lumu Barone I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 630,
@@ -1750,8 +1691,7 @@
             "Shamos Scale+": 5
         }
     },
-    {
-        "name_en": "Lumu Barone II",
+    "Lumu Barone II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -1780,8 +1720,7 @@
             "Paolumu Wing": 3
         }
     },
-    {
-        "name_en": "Lumu Barone III",
+    "Lumu Barone III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 714,
@@ -1810,8 +1749,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Rookslayer Drum",
+    "Rookslayer Drum": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -1840,8 +1778,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazelreid Rookslayer",
+    "Bazelreid Rookslayer": {
         "weapon_type": "hunting-horn",
         "rarity": 8,
         "attack": 840,
@@ -1870,8 +1807,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Sonic Horn I",
+    "Sonic Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 2,
         "attack": 462,
@@ -1899,8 +1835,7 @@
             "Vespoid Wing": 1
         }
     },
-    {
-        "name_en": "Sonic Horn II",
+    "Sonic Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 504,
@@ -1929,8 +1864,7 @@
             "Vespoid Wing": 2
         }
     },
-    {
-        "name_en": "Sonic Horn III",
+    "Sonic Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 546,
@@ -1959,8 +1893,7 @@
             "Vespoid Wing": 3
         }
     },
-    {
-        "name_en": "Glass Royale",
+    "Glass Royale": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 588,
@@ -1989,8 +1922,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Glass Royale+",
+    "Glass Royale+": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 630,
@@ -2019,8 +1951,7 @@
             "Vespoid Innerwing": 6
         }
     },
-    {
-        "name_en": "Queen Vespoid Horn",
+    "Queen Vespoid Horn": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 672,
@@ -2049,8 +1980,7 @@
             "Vespoid Innerwing": 3
         }
     },
-    {
-        "name_en": "Spiked Horn I",
+    "Spiked Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 546,
@@ -2078,8 +2008,7 @@
             "Wyvern Bonemass": 2
         }
     },
-    {
-        "name_en": "Spiked Horn II",
+    "Spiked Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 588,
@@ -2108,8 +2037,7 @@
             "Wyvern Bonemass": 3
         }
     },
-    {
-        "name_en": "Baan Horn I",
+    "Baan Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 672,
@@ -2138,8 +2066,7 @@
             "Radobaan Oilshell": 3
         }
     },
-    {
-        "name_en": "Baan Horn II",
+    "Baan Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 756,
@@ -2168,8 +2095,7 @@
             "Radobaan Scale+": 8
         }
     },
-    {
-        "name_en": "Baan Horn III",
+    "Baan Horn III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 798,
@@ -2198,8 +2124,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dragonbone Auldhorn I",
+    "Dragonbone Auldhorn I": {
         "weapon_type": "hunting-horn",
         "rarity": 3,
         "attack": 420,
@@ -2228,8 +2153,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Auldhorn II",
+    "Dragonbone Auldhorn II": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 462,
@@ -2257,8 +2181,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Auldhorn III",
+    "Dragonbone Auldhorn III": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 672,
@@ -2287,8 +2210,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Thundercry Horn",
+    "Thundercry Horn": {
         "weapon_type": "hunting-horn",
         "rarity": 4,
         "attack": 504,
@@ -2317,8 +2239,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Thunderbolt Horn I",
+    "Thunderbolt Horn I": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 588,
@@ -2347,8 +2268,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Thunderbolt Horn II",
+    "Thunderbolt Horn II": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 672,
@@ -2377,8 +2297,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Blacksteel Dragonhorn I",
+    "Blacksteel Dragonhorn I": {
         "weapon_type": "hunting-horn",
         "rarity": 5,
         "attack": 420,
@@ -2407,8 +2326,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Dragonhorn II",
+    "Blacksteel Dragonhorn II": {
         "weapon_type": "hunting-horn",
         "rarity": 6,
         "attack": 462,
@@ -2437,8 +2355,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Teostra's Tiple",
+    "Teostra's Tiple": {
         "weapon_type": "hunting-horn",
         "rarity": 7,
         "attack": 756,
@@ -2467,8 +2384,7 @@
             "Teostra Powder": 4
         }
     },
-    {
-        "name_en": "Teostra's Orphée",
+    "Teostra's Orphée": {
         "weapon_type": "hunting-horn",
         "rarity": 8,
         "attack": 798,
@@ -2497,8 +2413,7 @@
             "Xeno'jiiva Soulscale": 5
         }
     },
-    {
-        "name_en": "Xeno Manasheena",
+    "Xeno Manasheena": {
         "weapon_type": "hunting-horn",
         "rarity": 8,
         "attack": 714,
@@ -2527,4 +2442,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

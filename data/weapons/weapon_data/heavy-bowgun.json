@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Assault I",
+{
+    "Iron Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 1,
         "attack": 150,
@@ -97,8 +96,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Assault II",
+    "Iron Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 1,
         "attack": 165,
@@ -195,8 +193,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Assault III",
+    "Iron Assault III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 180,
@@ -295,8 +292,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Steel Assault I",
+    "Steel Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -395,8 +391,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Steel Assault II",
+    "Steel Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -496,8 +491,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Steel Assault III",
+    "Steel Assault III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 225,
@@ -596,8 +590,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Assault I",
+    "Chrome Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -697,8 +690,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Assault II",
+    "Chrome Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -798,8 +790,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Roar",
+    "Nergal Roar": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 270,
@@ -899,8 +890,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Destruction's Fusillade",
+    "Destruction's Fusillade": {
         "weapon_type": "heavy-bowgun",
         "rarity": 8,
         "attack": 285,
@@ -1000,8 +990,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Aqua Assault I",
+    "Aqua Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 180,
@@ -1101,8 +1090,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Aqua Assault II",
+    "Aqua Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -1202,8 +1190,7 @@
             "Jyuratodus Fin": 3
         }
     },
-    {
-        "name_en": "Aqua Assault III",
+    "Aqua Assault III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -1303,8 +1290,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Water Cannon I",
+    "Water Cannon I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 225,
@@ -1404,8 +1390,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Water Cannon II",
+    "Water Cannon II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -1505,8 +1490,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Water Cannon III",
+    "Water Cannon III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -1606,8 +1590,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Luminous Assault I",
+    "Luminous Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -1706,8 +1689,7 @@
             "Tzitzi-Ya-Ku Scale": 3
         }
     },
-    {
-        "name_en": "Luminous Assault II",
+    "Luminous Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -1807,8 +1789,7 @@
             "Tzitzi-Ya-Ku Photophore": 2
         }
     },
-    {
-        "name_en": "Arma Destroyer I",
+    "Arma Destroyer I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 225,
@@ -1908,8 +1889,7 @@
             "Tzitzi-Ya-Ku Scale+": 5
         }
     },
-    {
-        "name_en": "Arma Destroyer II",
+    "Arma Destroyer II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -2009,8 +1989,7 @@
             "Tzitzi-Ya-Ku Photophore+": 2
         }
     },
-    {
-        "name_en": "Arma Destroyer III",
+    "Arma Destroyer III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -2110,8 +2089,7 @@
             "Tzitzi-Ya-Ku Photophore+": 3
         }
     },
-    {
-        "name_en": "Shattercryst",
+    "Shattercryst": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -2215,8 +2193,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Shattercryst+",
+    "Shattercryst+": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -2316,8 +2293,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legia Shattercryst",
+    "Legia Shattercryst": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 255,
@@ -2417,8 +2393,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Jagras Assault I",
+    "Jagras Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 180,
@@ -2518,8 +2493,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Assault II",
+    "Jagras Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -2619,8 +2593,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Assault III",
+    "Jagras Assault III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -2720,8 +2693,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Jagras Cannon I",
+    "Jagras Cannon I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 240,
@@ -2821,8 +2793,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Jagras Cannon II",
+    "Jagras Cannon II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -2922,8 +2893,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Jagras Cannon III",
+    "Jagras Cannon III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 270,
@@ -3023,8 +2993,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Blazing Assault I",
+    "Blazing Assault I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 210,
@@ -3123,8 +3092,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Assault II",
+    "Blazing Assault II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 225,
@@ -3224,8 +3192,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Flammenkanone",
+    "Flammenkanone": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 255,
@@ -3325,8 +3292,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Gnashing Flammenkanone",
+    "Gnashing Flammenkanone": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 300,
@@ -3426,8 +3392,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Bone Shooter I",
+    "Bone Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 1,
         "attack": 150,
@@ -3524,8 +3489,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Shooter II",
+    "Bone Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 1,
         "attack": 165,
@@ -3622,8 +3586,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Shooter III",
+    "Bone Shooter III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 195,
@@ -3721,8 +3684,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Heavy Shooter I",
+    "Heavy Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 210,
@@ -3821,8 +3783,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Heavy Shooter II",
+    "Heavy Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 225,
@@ -3921,8 +3882,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Heavy Shooter III",
+    "Heavy Shooter III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 240,
@@ -4021,8 +3981,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Power Shooter I",
+    "Power Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -4121,8 +4080,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Power Shooter II",
+    "Power Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 270,
@@ -4222,8 +4180,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Diablos Shooter I",
+    "Diablos Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 240,
@@ -4323,8 +4280,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Shooter II",
+    "Diablos Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 270,
@@ -4424,8 +4380,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Dual Threat",
+    "Dual Threat": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 300,
@@ -4525,8 +4480,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Nero's Blazooka",
+    "Nero's Blazooka": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 315,
@@ -4626,8 +4580,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Griffon Blazooka",
+    "Griffon Blazooka": {
         "weapon_type": "heavy-bowgun",
         "rarity": 8,
         "attack": 330,
@@ -4727,8 +4680,7 @@
             "Xeno'jiiva Tail": 2
         }
     },
-    {
-        "name_en": "Blooming Shooter I",
+    "Blooming Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 180,
@@ -4827,8 +4779,7 @@
             "Pukei-Pukei Scale": 3
         }
     },
-    {
-        "name_en": "Blooming Shooter II",
+    "Blooming Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -4928,8 +4879,7 @@
             "Pukei-Pukei Tail": 1
         }
     },
-    {
-        "name_en": "Blooming Shooter III",
+    "Blooming Shooter III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -5029,8 +4979,7 @@
             "Pukei-Pukei Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blaster I",
+    "Datura Blaster I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 225,
@@ -5130,8 +5079,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blaster II",
+    "Datura Blaster II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -5231,8 +5179,7 @@
             "Toxin Sac": 2
         }
     },
-    {
-        "name_en": "Datura Blaster III",
+    "Datura Blaster III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -5332,8 +5279,7 @@
             "Vaal Hazak Wing": 2
         }
     },
-    {
-        "name_en": "Spiked Shooter I",
+    "Spiked Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -5432,8 +5378,7 @@
             "Wyvern Bonemass": 2
         }
     },
-    {
-        "name_en": "Spiked Shooter II",
+    "Spiked Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -5533,8 +5478,7 @@
             "Wyvern Bonemass": 3
         }
     },
-    {
-        "name_en": "Baan Roar I",
+    "Baan Roar I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 225,
@@ -5639,8 +5583,7 @@
             "Radobaan Oilshell": 3
         }
     },
-    {
-        "name_en": "Baan Roar II",
+    "Baan Roar II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -5740,8 +5683,7 @@
             "Radobaan Scale+": 8
         }
     },
-    {
-        "name_en": "Baan Roar III",
+    "Baan Roar III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 270,
@@ -5841,8 +5783,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Gama Cannon I",
+    "Gama Cannon I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -5941,8 +5882,7 @@
             "Dodogama Talon": 4
         }
     },
-    {
-        "name_en": "Gama Cannon II",
+    "Gama Cannon II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 255,
@@ -6042,8 +5982,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Pulsar Shooter I",
+    "Pulsar Shooter I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 2,
         "attack": 180,
@@ -6142,8 +6081,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Shooter II",
+    "Pulsar Shooter II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 195,
@@ -6243,8 +6181,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Shooter III",
+    "Pulsar Shooter III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -6344,8 +6281,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Lion I",
+    "Kadachi Lion I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 225,
@@ -6445,8 +6381,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Lion II",
+    "Kadachi Lion II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 240,
@@ -6546,8 +6481,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Kadachi Lion III",
+    "Kadachi Lion III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -6647,8 +6581,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dragonbone Cannon I",
+    "Dragonbone Cannon I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 3,
         "attack": 150,
@@ -6748,8 +6681,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Cannon II",
+    "Dragonbone Cannon II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 210,
@@ -6848,8 +6780,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Cannon III",
+    "Dragonbone Cannon III": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 255,
@@ -6949,8 +6880,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Quickcaster",
+    "Quickcaster": {
         "weapon_type": "heavy-bowgun",
         "rarity": 4,
         "attack": 195,
@@ -7050,8 +6980,7 @@
             "Lightcrystal": 1
         }
     },
-    {
-        "name_en": "Quickcaster+",
+    "Quickcaster+": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 240,
@@ -7151,8 +7080,7 @@
             "Kirin Mane": 4
         }
     },
-    {
-        "name_en": "Quickquiver",
+    "Quickquiver": {
         "weapon_type": "heavy-bowgun",
         "rarity": 8,
         "attack": 255,
@@ -7252,8 +7180,7 @@
             "Xeno'jiiva Shell": 4
         }
     },
-    {
-        "name_en": "Magda Gemitus I",
+    "Magda Gemitus I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 240,
@@ -7353,8 +7280,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Magda Gemitus II",
+    "Magda Gemitus II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 315,
@@ -7454,8 +7380,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Cannon I",
+    "Blacksteel Cannon I": {
         "weapon_type": "heavy-bowgun",
         "rarity": 5,
         "attack": 150,
@@ -7555,8 +7480,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Cannon II",
+    "Blacksteel Cannon II": {
         "weapon_type": "heavy-bowgun",
         "rarity": 6,
         "attack": 165,
@@ -7656,8 +7580,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Teostra's Artillery",
+    "Teostra's Artillery": {
         "weapon_type": "heavy-bowgun",
         "rarity": 7,
         "attack": 255,
@@ -7757,8 +7680,7 @@
             "Teostra Powder": 4
         }
     },
-    {
-        "name_en": "Teostra's Flames",
+    "Teostra's Flames": {
         "weapon_type": "heavy-bowgun",
         "rarity": 8,
         "attack": 270,
@@ -7858,8 +7780,7 @@
             "Xeno'jiiva Soulscale": 5
         }
     },
-    {
-        "name_en": "Xeno Jiiqa",
+    "Xeno Jiiqa": {
         "weapon_type": "heavy-bowgun",
         "rarity": 8,
         "attack": 255,
@@ -7959,4 +7880,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

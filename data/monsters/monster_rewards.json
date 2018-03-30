@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Apceros",
+{
+    "Apceros": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -20,12 +19,10 @@
             }
         }
     },
-    {
-        "name_en": "Gajalaka",
+    "Gajalaka": {
         "rewards": {}
     },
-    {
-        "name_en": "Hornetaur",
+    "Hornetaur": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -121,8 +118,7 @@
             }
         }
     },
-    {
-        "name_en": "Gajau",
+    "Gajau": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -198,8 +194,7 @@
             }
         }
     },
-    {
-        "name_en": "Girros",
+    "Girros": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -295,8 +290,7 @@
             }
         }
     },
-    {
-        "name_en": "Barnos",
+    "Barnos": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -350,12 +344,10 @@
             }
         }
     },
-    {
-        "name_en": "Grimalkyne",
+    "Grimalkyne": {
         "rewards": {}
     },
-    {
-        "name_en": "Gastodon",
+    "Gastodon": {
         "rewards": {
             "Body Carve": {
                 "hr": [
@@ -373,8 +365,7 @@
             }
         }
     },
-    {
-        "name_en": "Kelbi",
+    "Kelbi": {
         "rewards": {
             "Horn Carve": {
                 "lr": [
@@ -446,8 +437,7 @@
             }
         }
     },
-    {
-        "name_en": "Aptonoth",
+    "Aptonoth": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -467,8 +457,7 @@
             }
         }
     },
-    {
-        "name_en": "Great Girros",
+    "Great Girros": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -994,8 +983,7 @@
             }
         }
     },
-    {
-        "name_en": "Jagras",
+    "Jagras": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -1081,8 +1069,7 @@
             }
         }
     },
-    {
-        "name_en": "Dodogama",
+    "Dodogama": {
         "rewards": {
             "Wound Head": {
                 "hr": [
@@ -1156,7 +1143,7 @@
                         "stack": 1,
                         "percentage": 28
                     },
-                                       {
+                    {
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
@@ -1334,8 +1321,7 @@
             }
         }
     },
-    {
-        "name_en": "Black Diablos",
+    "Black Diablos": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -1647,8 +1633,7 @@
             }
         }
     },
-    {
-        "name_en": "Diablos",
+    "Diablos": {
         "rewards": {
             "Capture": {
                 "lr": [
@@ -1839,7 +1824,7 @@
                         "stack": 1,
                         "percentage": 28
                     },
-                                       {
+                    {
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
@@ -2209,8 +2194,7 @@
             }
         }
     },
-    {
-        "name_en": "Xeno'jiiva",
+    "Xeno'jiiva": {
         "rewards": {
             "Wound Forearms": {
                 "hr": [
@@ -2425,8 +2409,7 @@
             }
         }
     },
-    {
-        "name_en": "Vaal Hazak",
+    "Vaal Hazak": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -2733,8 +2716,7 @@
             }
         }
     },
-    {
-        "name_en": "Uragaan",
+    "Uragaan": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -3069,8 +3051,7 @@
             }
         }
     },
-    {
-        "name_en": "Tzitzi-Ya-Ku",
+    "Tzitzi-Ya-Ku": {
         "rewards": {
             "Wound Antennae": {
                 "lr": [
@@ -3524,8 +3505,7 @@
             }
         }
     },
-    {
-        "name_en": "Tobi-Kadachi",
+    "Tobi-Kadachi": {
         "rewards": {
             "Wound Head": {
                 "lr": [
@@ -3741,7 +3721,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -3760,7 +3740,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -3777,7 +3757,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -4087,8 +4067,7 @@
             }
         }
     },
-    {
-        "name_en": "Teostra",
+    "Teostra": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -4186,7 +4165,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -4386,8 +4365,7 @@
             }
         }
     },
-    {
-        "name_en": "Zorah Magdaros",
+    "Zorah Magdaros": {
         "rewards": {
             "Wound Chest Shell": {
                 "lr": [
@@ -4503,7 +4481,7 @@
                     {
                         "item_en": "Zorah Magdaros Magma",
                         "stack": 2,
-                        "percentage": 33 
+                        "percentage": 33
                     }
                 ]
             },
@@ -4663,8 +4641,7 @@
             }
         }
     },
-    {
-        "name_en": "Rathian",
+    "Rathian": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -4923,7 +4900,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -4940,7 +4917,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -4959,7 +4936,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -4976,7 +4953,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -5311,8 +5288,7 @@
             }
         }
     },
-    {
-        "name_en": "Azure Rathalos",
+    "Azure Rathalos": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -5425,7 +5401,7 @@
                         "item_en": "Large Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -5444,7 +5420,7 @@
                         "item_en": "Large Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -5658,8 +5634,7 @@
             }
         }
     },
-    {
-        "name_en": "Pink Rathian",
+    "Pink Rathian": {
         "rewards": {
             "Quest Reward": {
                 "hr": [
@@ -5806,7 +5781,7 @@
                         "item_en": "Large Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -5825,7 +5800,7 @@
                         "item_en": "Large Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -6000,8 +5975,7 @@
             }
         }
     },
-    {
-        "name_en": "Rathalos",
+    "Rathalos": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -6275,7 +6249,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -6292,7 +6266,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -6311,7 +6285,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -6328,7 +6302,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -6663,8 +6637,7 @@
             }
         }
     },
-    {
-        "name_en": "Radobaan",
+    "Radobaan": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -6867,7 +6840,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -6884,7 +6857,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Wound Back": {
@@ -6939,7 +6912,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -6956,7 +6929,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Back Mining": {
@@ -7287,8 +7260,7 @@
             }
         }
     },
-    {
-        "name_en": "Pukei-Pukei",
+    "Pukei-Pukei": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -7507,7 +7479,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -7524,7 +7496,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -7543,7 +7515,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -7560,7 +7532,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                  
+                    }
                 ]
             },
             "Plunderblade": {
@@ -7850,8 +7822,7 @@
             }
         }
     },
-    {
-        "name_en": "Paolumu",
+    "Paolumu": {
         "rewards": {
             "Wound Neck Pouch": {
                 "lr": [
@@ -8030,7 +8001,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -8047,7 +8018,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -8066,7 +8037,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -8083,7 +8054,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -8353,8 +8324,7 @@
             }
         }
     },
-    {
-        "name_en": "Nergigante",
+    "Nergigante": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -8428,7 +8398,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -8447,7 +8417,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -8622,8 +8592,7 @@
             }
         }
     },
-    {
-        "name_en": "Odogaron",
+    "Odogaron": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -8872,7 +8841,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ],
                 "hr": [
                     {
@@ -8889,7 +8858,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -8908,7 +8877,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                        
+                    }
                 ],
                 "hr": [
                     {
@@ -8925,7 +8894,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -9250,8 +9219,7 @@
             }
         }
     },
-    {
-        "name_en": "Legiana",
+    "Legiana": {
         "rewards": {
             "Quest Reward": {
                 "lr": [
@@ -9505,7 +9473,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ],
                 "hr": [
                     {
@@ -9522,7 +9490,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -9541,7 +9509,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ],
                 "hr": [
                     {
@@ -9558,7 +9526,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -9883,8 +9851,7 @@
             }
         }
     },
-    {
-        "name_en": "Lavasioth",
+    "Lavasioth": {
         "rewards": {
             "Wound Head": {
                 "hr": [
@@ -9929,7 +9896,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -9948,7 +9915,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -10142,8 +10109,7 @@
             }
         }
     },
-    {
-        "name_en": "Kushala Daora",
+    "Kushala Daora": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -10222,7 +10188,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -10241,7 +10207,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -10416,8 +10382,7 @@
             }
         }
     },
-    {
-        "name_en": "Kulu-Ya-Ku",
+    "Kulu-Ya-Ku": {
         "rewards": {
             "Wound Head": {
                 "lr": [
@@ -10554,7 +10519,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ],
                 "hr": [
                     {
@@ -10571,7 +10536,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -10590,7 +10555,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ],
                 "hr": [
                     {
@@ -10607,7 +10572,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Plunderblade": {
@@ -10857,8 +10822,7 @@
             }
         }
     },
-    {
-        "name_en": "Kirin",
+    "Kirin": {
         "rewards": {
             "Wound Horn": {
                 "lr": [
@@ -10979,7 +10943,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 9
-                    }                     
+                    }
                 ],
                 "hr": [
                     {
@@ -10996,7 +10960,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                      
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -11015,7 +10979,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 9
-                    }                     
+                    }
                 ],
                 "hr": [
                     {
@@ -11032,7 +10996,7 @@
                         "item_en": "Dragon Treasure",
                         "stack": 1,
                         "percentage": 22
-                    }                     
+                    }
                 ]
             },
             "Plunderblade": {
@@ -11251,8 +11215,7 @@
             }
         }
     },
-    {
-        "name_en": "Jyuratodus",
+    "Jyuratodus": {
         "rewards": {
             "Wound Head": {
                 "lr": [
@@ -11399,7 +11362,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -11416,7 +11379,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                     
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -11435,7 +11398,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    } 
+                    }
                 ],
                 "hr": [
                     {
@@ -11452,7 +11415,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    } 
+                    }
                 ]
             },
             "Plunderblade": {
@@ -11722,8 +11685,7 @@
             }
         }
     },
-    {
-        "name_en": "Great Jagras",
+    "Great Jagras": {
         "rewards": {
             "Wound Head": {
                 "lr": [
@@ -11881,7 +11843,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                     
+                    }
                 ],
                 "hr": [
                     {
@@ -11898,7 +11860,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                     
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -11917,7 +11879,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                     
+                    }
                 ],
                 "hr": [
                     {
@@ -12159,8 +12121,7 @@
             }
         }
     },
-    {
-        "name_en": "Barroth",
+    "Barroth": {
         "rewards": {
             "Wound Forearms": {
                 "lr": [
@@ -12359,7 +12320,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -12376,7 +12337,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -12395,7 +12356,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ],
                 "hr": [
                     {
@@ -12717,8 +12678,7 @@
             }
         }
     },
-    {
-        "name_en": "Bazelgeuse",
+    "Bazelgeuse": {
         "rewards": {
             "Track": {
                 "hr": [
@@ -12816,7 +12776,7 @@
                         "item_en": "Large Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Palico Bonus": {
@@ -12835,7 +12795,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -13049,8 +13009,7 @@
             }
         }
     },
-    {
-        "name_en": "Anjanath",
+    "Anjanath": {
         "rewards": {
             "Wound Hindlegs": {
                 "lr": [
@@ -13264,7 +13223,6 @@
                         "stack": 1,
                         "percentage": 22
                     }
-
                 ],
                 "hr": [
                     {
@@ -13295,7 +13253,7 @@
                         "item_en": "Anjanath Fang",
                         "stack": 1,
                         "percentage": 28
-                    },                    
+                    },
                     {
                         "item_en": "Wyvern Tear",
                         "stack": 1,
@@ -13317,7 +13275,7 @@
                         "item_en": "Wyvern Tear",
                         "stack": 1,
                         "percentage": 22
-                    }                    
+                    }
                 ]
             },
             "Plunderblade": {
@@ -13642,8 +13600,7 @@
             }
         }
     },
-    {
-        "name_en": "Shamos",
+    "Shamos": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -13739,8 +13696,7 @@
             }
         }
     },
-    {
-        "name_en": "Raphinos",
+    "Raphinos": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -13836,8 +13792,7 @@
             }
         }
     },
-    {
-        "name_en": "Noios",
+    "Noios": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -13913,8 +13868,7 @@
             }
         }
     },
-    {
-        "name_en": "Vespoid",
+    "Vespoid": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -14005,8 +13959,7 @@
             }
         }
     },
-    {
-        "name_en": "Mosswine",
+    "Mosswine": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -14026,8 +13979,7 @@
             }
         }
     },
-    {
-        "name_en": "Mernos",
+    "Mernos": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -14103,8 +14055,7 @@
             }
         }
     },
-    {
-        "name_en": "Kestodon",
+    "Kestodon": {
         "rewards": {
             "Body Carve": {
                 "lr": [
@@ -14168,4 +14119,4 @@
             }
         }
     }
-]
+}

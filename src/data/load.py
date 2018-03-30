@@ -1,153 +1,127 @@
 import os
 import json
 import re
-from .translatemap import TranslateMap
+import collections.abc
 from .datamap import DataMap
 from .config import get_languages, get_data_path
 
-class JoinResult:
-    def __init__(self, obj, invalid, missing_count, join_field):
-        self.obj = obj
-        self.invalid_entries = invalid
-        self.missing_count = missing_count
-        self.join_field = join_field
+from src.util import ensure, ensure_warn
 
-def _join(parent_map, data_list : list, lang):
-    """Inner function to join a parent_map to a data_obj, 
-    returning a JoinResult
-    """
+def _joindicts(*dictlist):
+    "Joins multiple dictionaries without overwrite"
     result = {}
-    missing_fields = 0
-    invalid_entries = set()
-    name_field = f'name_{lang}'
+    for d in dictlist:
+        for key, value in d.items():
+            if key not in result:
+                result[key] = value
+    return result
 
-    for row in data_list:
-        name = row.get(name_field, None)
-        if not name:
-            missing_fields += 1
-            continue
-            
-        id = parent_map.id_of(lang, name)
-        if not id:
-            invalid_entries.add(name)
-            continue
-            
-        result[id] = row
-
-    return JoinResult(result, invalid_entries, missing_fields, name_field)
-
-def load_translate_map(data_file, validate=True):
-    "Loads a translation map object using a _names.json file"
+def load_base_map(data_file, validate=True):
+    "Loads a base data map object."
     data_file = get_data_path(data_file)
     languages_with_errors = set()
 
-    map = TranslateMap()
-    data = json.load(open(data_file, encoding="utf-8"))
+    with open(data_file, encoding="utf-8") as f:
+        data = json.load(f)
+
+    result = DataMap()    
     id = 1
     for row in data:
+        entry = result.add_entry(id, row)
+
+        # Validation prepass. Find missing langauges in the new entry
         for lang in get_languages():
-            value = row['name_' + lang]
-            if not value:
+            if lang not in entry['name']:
                 languages_with_errors.add(lang)
-            else:
-                map.add_entry(id, lang, value)
+                
         id += 1
 
-    if validate and languages_with_errors:
-        raise Exception("ERROR: Missing language entries for " +
-            f"{', '.join(languages_with_errors)} While loading {data_file}")
-    return map
+    # If we are missing translations, do a warning or validation
+    ensure_fn = ensure if validate else ensure_warn
+    ensure_fn(not languages_with_errors, 
+        "Missing language entries for " +
+        ', '.join(languages_with_errors) +
+        f" While loading {data_file}")
+    
+    return result    
 
-
-def load_data_map(parent_map : TranslateMap, data_file, lang="en", validate=True):
-    """Loads a data file, using a translation map to anchor it to id
+def load_data_map(parent_map : DataMap, data_file, lang="en", validate=True):
+    """Loads a data file, using a base map to anchor it to id
     The result is a DataMap object mapping id -> data row
     """
     data_file = get_data_path(data_file)
-    data = json.load(open(data_file, encoding="utf-8"))
 
-    result = _join(parent_map, data, lang=lang)
+    with open(data_file, encoding="utf-8") as f:
+        data = json.load(f)
 
-    # todo: print more errors if more than one
-    if validate and result.missing_count:
-        raise Exception(f"ERROR: {result.missing_count} entries in " +
-            f"data file {data_file} does not contain a {result.join_field} field")
-    if validate and result.invalid_entries:
-        raise Exception(f"ERROR: Entry {result.invalid_entries.pop()} in " +
-            f"{data_file} is an invalid name")
+    # Check if the data is of the correct type (is a dict)
+    if not hasattr(data, 'keys'):
+        raise Exception("Invalid data, the data map must be a dictionary")
 
-    return DataMap(parent_map, result.obj)
+    # Hold all keys yet to be joined. If any exist, it failed to to join
+    datakeys = set(data.keys())
 
-def load_split_data_map(parent_map : TranslateMap, data_directory, lang="en", validate=True):
+    result = {}
+
+    for id, entry in parent_map.items():
+        name = entry.name(lang)
+        if name not in data:
+            continue
+        result[id] = _joindicts(entry, data[name])
+
+        # Mark as success by removing from the "yet to be joined" list
+        datakeys.remove(name)
+
+    # Validation, show warning or error if some keys didn't join
+    ensure_fn = ensure if validate else ensure_warn
+    ensure_fn(not datakeys, 
+        "Several invalid names found. Entries are " +
+        ','.join(datakeys))
+
+    return DataMap(result)
+
+def load_split_data_map(parent_map : DataMap, data_directory, lang="en", validate=True):
     """Loads a data map by combining separate maps in a folder into one.
     Just like a normal data map, it is anchored to the translation map.
     """
     data_directory = get_data_path(data_directory)
-    results = []
     
+    all_subdata = []
     for dir_entry in os.scandir(data_directory):
         if not dir_entry.is_file():
             continue
         if not dir_entry.name.lower().endswith('.json'):
             continue
 
-        subdata_json = json.load(open(dir_entry, encoding="utf-8"))
-        result = _join(parent_map, subdata_json, lang=lang)
+        with open(dir_entry, encoding="utf-8") as f:
+            subdata_json = json.load(f)
+           
+            # Check if the data is of the correct type (is a dict)
+            if not hasattr(subdata_json, 'keys'):
+                raise Exception(f"Invalid data in {dir_entry}, the data map must be a dictionary")
+            
+            all_subdata.append(subdata_json)
 
-        if validate and result.missing_count:
-            raise Exception(f"ERROR: {result.missing_count} entries in " +
-                f"{dir_entry.name} does not contain a {result.join_field} field")
-        if validate and result.invalid_entries:
-            raise Exception(f"ERROR: Entry {result.invalid_entries.pop()} in " +
-                f"{dir_entry.name} is an invalid name")
+    # todo: validate key conflicts
+    # todo: store origins of keys somehow
+    data = _joindicts(*all_subdata)
 
-        results.append([dir_entry.name, result])
+    # Hold all keys yet to be joined. If any exist, it didn't join
+    datakeys = set(data.keys())
 
-    final_obj = {}
-    for (filename, result) in results:
-        intersection = final_obj.keys() & result.obj
-        # todo: identify both sources of the conflict. We only know one source
-        if validate and intersection:
-            raise Exception(f"ERROR: Data maps in {data_directory} have conflicting entries")
-
-        final_obj.update(result.obj)
-
-    return DataMap(parent_map, final_obj)
-
-def load_language_data_dir(parent_map : TranslateMap, data_directory):
-    """Loads a directory containing sub-json for each language.
-    Each entry in the sub-json must have a name_language field for that language.
-    The result is a dictionary mapping id->language->data
-    """
-    data_directory = get_data_path(data_directory)
     result = {}
-    for dir_entry in os.scandir(data_directory):
-        if not dir_entry.is_file():
+
+    for id, entry in parent_map.items():
+        name = entry.name(lang)
+        if name not in data:
             continue
-        match = re.search(r'_([a-zA-Z]+)\.json$', dir_entry.name.lower())
-        if not match:
-            continue
-        language = match.group(1).lower()
-        if language not in get_languages():
-            continue
+        result[id] = _joindicts(entry, data[name])
+        datakeys.remove(name)
 
-        # If we want a validation phase, then we'll need to split this function
-        # if that happens, I suggest a load_language_data_raw, a validate_raw_language_data, and then this function to use the others
-        # We also need to make sure that every single row has a result....we'll do that later using the translatemap.names_of function.
+    # Validation, show warning or error if some keys didn't join
+    ensure_fn = ensure if validate else ensure_warn
+    ensure_fn(not datakeys, 
+        "Several invalid names found. Invalid entries are " +
+        ','.join(datakeys))
 
-        name_field = f'name_{language}'
-        data = json.load(open(dir_entry, encoding='utf-8'))
-        for row in data:
-            name = row.get(name_field, None)
-            if not name:
-                # todo: should we change language files to be keyed by the name to avoid this possibility, or the possibility of duplicates?
-                raise Exception(f"ERROR: An entry in {dir_entry.name} does not have a {name_field}")
-
-            id_value = parent_map.id_of(language, name)
-            if not id_value:
-                raise Exception(f"ERROR: Entry {name} in {dir_entry.name} is an invalid name")
-
-            result[id_value] = result.get(id_value, {})
-            result[id_value][language] = row
-
-    return result
+    return DataMap(result)

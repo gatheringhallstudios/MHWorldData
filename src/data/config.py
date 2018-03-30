@@ -2,6 +2,9 @@ import os.path
 
 supported_languages = None
 
+this_dir = os.path.dirname(os.path.abspath(__file__))
+data_path = os.path.join(this_dir, '../../data/')
+
 def set_languages(languages):
     "Sets the list of supported languages"
     global supported_languages
@@ -12,8 +15,12 @@ def get_languages():
         raise Exception("Supported Languages not set, use the set_languages function")
     return supported_languages
 
+def set_data_path(datapath):
+    global data_path
+    data_path = datapath
+
 def get_data_path(file_in_data_folder):
     "Returns a file path to something stored in the data folder. Used internally"
     this_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(this_dir, '../../data/', file_in_data_folder)
+    data_dir = os.path.join(data_path, file_in_data_folder)
     return os.path.normpath(data_dir)

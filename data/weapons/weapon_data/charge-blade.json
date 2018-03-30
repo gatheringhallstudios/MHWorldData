@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Proto Commision Axe I",
+{
+    "Proto Commision Axe I": {
         "weapon_type": "charge-blade",
         "rarity": 1,
         "attack": 288,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Proto Commision Axe II",
+    "Proto Commision Axe II": {
         "weapon_type": "charge-blade",
         "rarity": 1,
         "attack": 324,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Proto Commision Axe III",
+    "Proto Commision Axe III": {
         "weapon_type": "charge-blade",
         "rarity": 2,
         "attack": 360,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Elite Commision Axe I",
+    "Elite Commision Axe I": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 396,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Elite Commision Axe II",
+    "Elite Commision Axe II": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 468,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Elite Commision Axe III",
+    "Elite Commision Axe III": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 504,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Guardian I",
+    "Chrome Guardian I": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Guardian II",
+    "Chrome Guardian II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 648,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Lacerator",
+    "Nergal Lacerator": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 720,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Devastation's Thorns",
+    "Devastation's Thorns": {
         "weapon_type": "charge-blade",
         "rarity": 8,
         "attack": 756,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Rathsblade I",
+    "Rathsblade I": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 432,
@@ -320,8 +309,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Rathsblade II",
+    "Rathsblade II": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 576,
@@ -350,8 +338,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Axelion Blade",
+    "Axelion Blade": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 612,
@@ -380,8 +367,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Halberion Blade",
+    "Halberion Blade": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 684,
@@ -410,8 +396,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Mudslide Blade I",
+    "Mudslide Blade I": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 396,
@@ -440,8 +425,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Mudslide Blade II",
+    "Mudslide Blade II": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 432,
@@ -470,8 +454,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Mudslide Blade III",
+    "Mudslide Blade III": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 504,
@@ -500,8 +483,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Jyura Depth I",
+    "Jyura Depth I": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 576,
@@ -530,8 +512,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Jyura Depth II",
+    "Jyura Depth II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 648,
@@ -560,8 +541,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Jyura Depth III",
+    "Jyura Depth III": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 684,
@@ -590,8 +570,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Everfrost Blade I",
+    "Everfrost Blade I": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 504,
@@ -620,8 +599,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Everfrost Blade II",
+    "Everfrost Blade II": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 540,
@@ -650,8 +628,7 @@
             "Shamos Scale": 5
         }
     },
-    {
-        "name_en": "Gigafrost I",
+    "Gigafrost I": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -680,8 +657,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Gigafrost II",
+    "Gigafrost II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 612,
@@ -710,8 +686,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dear Lutemis",
+    "Dear Lutemis": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 468,
@@ -744,8 +719,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Dear Lutemia",
+    "Dear Lutemia": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 540,
@@ -774,8 +748,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Dear Hecatel",
+    "Dear Hecatel": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 612,
@@ -804,8 +777,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Dear Hecatelia",
+    "Dear Hecatelia": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 684,
@@ -834,8 +806,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Bone Strongarm I",
+    "Bone Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 1,
         "attack": 324,
@@ -861,8 +832,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Strongarm II",
+    "Bone Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 1,
         "attack": 360,
@@ -888,8 +858,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Strongarm III",
+    "Bone Strongarm III": {
         "weapon_type": "charge-blade",
         "rarity": 2,
         "attack": 396,
@@ -916,8 +885,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Hard Bone Strongarm I",
+    "Hard Bone Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 432,
@@ -945,8 +913,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Hard Bone Strongarm II",
+    "Hard Bone Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 504,
@@ -974,8 +941,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Hard Bone Strongarm III",
+    "Hard Bone Strongarm III": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 576,
@@ -1003,8 +969,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Mighty Strongarm I",
+    "Mighty Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 612,
@@ -1032,8 +997,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Mighty Strongarm II",
+    "Mighty Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 684,
@@ -1062,8 +1026,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Diablos Wall I",
+    "Diablos Wall I": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 612,
@@ -1092,8 +1055,7 @@
             "Twisted Horn": 1
         }
     },
-    {
-        "name_en": "Diablos Wall II",
+    "Diablos Wall II": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 684,
@@ -1122,8 +1084,7 @@
             "Monster Keenbone": 4
         }
     },
-    {
-        "name_en": "Diablos Tyrannis I",
+    "Diablos Tyrannis I": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 756,
@@ -1152,8 +1113,7 @@
             "Majestic Horn": 3
         }
     },
-    {
-        "name_en": "Diablos Tyrannis II",
+    "Diablos Tyrannis II": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 828,
@@ -1182,8 +1142,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Jagras Strongarm I",
+    "Jagras Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 2,
         "attack": 396,
@@ -1212,8 +1171,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Strongarm II",
+    "Jagras Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 432,
@@ -1242,8 +1200,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Strongarm III",
+    "Jagras Strongarm III": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 468,
@@ -1272,8 +1229,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Jagras Escudo I",
+    "Jagras Escudo I": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 540,
@@ -1302,8 +1258,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Jagras Escudo II",
+    "Jagras Escudo II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 648,
@@ -1332,8 +1287,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Jagras Escudo III",
+    "Jagras Escudo III": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 684,
@@ -1362,8 +1316,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Gama Silt I",
+    "Gama Silt I": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -1391,8 +1344,7 @@
             "Dodogama Talon": 4
         }
     },
-    {
-        "name_en": "Gama Silt II",
+    "Gama Silt II": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 612,
@@ -1421,8 +1373,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Girros Strongarm I",
+    "Girros Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 432,
@@ -1450,8 +1401,7 @@
             "Great Girros Scale": 3
         }
     },
-    {
-        "name_en": "Girros Strongarm II",
+    "Girros Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 468,
@@ -1480,8 +1430,7 @@
             "Paralysis Sac": 2
         }
     },
-    {
-        "name_en": "Girros Nadja I",
+    "Girros Nadja I": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 504,
@@ -1515,8 +1464,7 @@
             "Great Girros Tail": 2
         }
     },
-    {
-        "name_en": "Girros Nadja II",
+    "Girros Nadja II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 540,
@@ -1545,8 +1493,7 @@
             "Omniplegia Sac": 4
         }
     },
-    {
-        "name_en": "Girros Nadja III",
+    "Girros Nadja III": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -1575,8 +1522,7 @@
             "Vaal Hazak Fang+": 2
         }
     },
-    {
-        "name_en": "Hazak Aspida I",
+    "Hazak Aspida I": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 648,
@@ -1605,8 +1551,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Aspida II",
+    "Hazak Aspida II": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 684,
@@ -1635,8 +1580,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Pulsar Strongarm I",
+    "Pulsar Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 2,
         "attack": 396,
@@ -1664,8 +1608,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Strongarm II",
+    "Pulsar Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 432,
@@ -1694,8 +1637,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Strongarm III",
+    "Pulsar Strongarm III": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 468,
@@ -1724,8 +1666,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Kaina I",
+    "Kadachi Kaina I": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 504,
@@ -1754,8 +1695,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Kaina II",
+    "Kadachi Kaina II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -1784,8 +1724,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Kadachi Kaina III",
+    "Kadachi Kaina III": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 648,
@@ -1814,8 +1753,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Garon Strongarm I",
+    "Garon Strongarm I": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 468,
@@ -1843,8 +1781,7 @@
             "Odogaron Scale": 4
         }
     },
-    {
-        "name_en": "Garon Strongarm II",
+    "Garon Strongarm II": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 504,
@@ -1873,8 +1810,7 @@
             "Quality Bone": 5
         }
     },
-    {
-        "name_en": "Hate's Undying Flame",
+    "Hate's Undying Flame": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 540,
@@ -1903,8 +1839,7 @@
             "Odogaron Scale+": 8
         }
     },
-    {
-        "name_en": "Odium",
+    "Odium": {
         "weapon_type": "charge-blade",
         "rarity": 8,
         "attack": 576,
@@ -1933,8 +1868,7 @@
             "Teostra Claw+": 2
         }
     },
-    {
-        "name_en": "Dragonbone Cutter I",
+    "Dragonbone Cutter I": {
         "weapon_type": "charge-blade",
         "rarity": 3,
         "attack": 360,
@@ -1963,8 +1897,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Cutter II",
+    "Dragonbone Cutter II": {
         "weapon_type": "charge-blade",
         "rarity": 4,
         "attack": 396,
@@ -1992,8 +1925,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Cutter III",
+    "Dragonbone Cutter III": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 576,
@@ -2022,8 +1954,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Magda Manus",
+    "Magda Manus": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 576,
@@ -2052,8 +1983,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Avenging Magda Manus",
+    "Avenging Magda Manus": {
         "weapon_type": "charge-blade",
         "rarity": 8,
         "attack": 756,
@@ -2082,8 +2012,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Charger I",
+    "Blacksteel Charger I": {
         "weapon_type": "charge-blade",
         "rarity": 5,
         "attack": 360,
@@ -2112,8 +2041,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Charger II",
+    "Blacksteel Charger II": {
         "weapon_type": "charge-blade",
         "rarity": 6,
         "attack": 396,
@@ -2142,8 +2070,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Daora's Casca",
+    "Daora's Casca": {
         "weapon_type": "charge-blade",
         "rarity": 7,
         "attack": 612,
@@ -2172,8 +2099,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Thwartoise",
+    "Daora's Thwartoise": {
         "weapon_type": "charge-blade",
         "rarity": 8,
         "attack": 648,
@@ -2202,8 +2128,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Ra'atz",
+    "Xeno Ra'atz": {
         "weapon_type": "charge-blade",
         "rarity": 8,
         "attack": 648,
@@ -2232,4 +2157,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

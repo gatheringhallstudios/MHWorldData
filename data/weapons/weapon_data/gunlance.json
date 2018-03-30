@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Iron Gunlance I",
+{
+    "Iron Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 1,
         "attack": 184,
@@ -26,8 +25,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Iron Gunlance II",
+    "Iron Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 1,
         "attack": 207,
@@ -53,8 +51,7 @@
             "Iron Ore": 2
         }
     },
-    {
-        "name_en": "Iron Gunlance III",
+    "Iron Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 230,
@@ -82,8 +79,7 @@
             "Machalite Ore": 2
         }
     },
-    {
-        "name_en": "Steel Gunlance I",
+    "Steel Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 253,
@@ -111,8 +107,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Steel Gunlance II",
+    "Steel Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 299,
@@ -141,8 +136,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Steel Gunlance III",
+    "Steel Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 322,
@@ -170,8 +164,7 @@
             "Dragonvein Crystal": 2
         }
     },
-    {
-        "name_en": "Chrome Gunlance I",
+    "Chrome Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 368,
@@ -200,8 +193,7 @@
             "Fucium Ore": 8
         }
     },
-    {
-        "name_en": "Chrome Gunlance II",
+    "Chrome Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 414,
@@ -230,8 +222,7 @@
             "Fucium Ore": 13
         }
     },
-    {
-        "name_en": "Nergal Ram",
+    "Nergal Ram": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 460,
@@ -260,8 +251,7 @@
             "Nergigante Talon": 3
         }
     },
-    {
-        "name_en": "Eradication Flame",
+    "Eradication Flame": {
         "weapon_type": "gunlance",
         "rarity": 8,
         "attack": 483,
@@ -290,8 +280,7 @@
             "Xeno'jiiva Horn": 2
         }
     },
-    {
-        "name_en": "Pulsar Gunlance I",
+    "Pulsar Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 230,
@@ -319,8 +308,7 @@
             "Tobi-Kadachi Scale": 3
         }
     },
-    {
-        "name_en": "Pulsar Gunlance II",
+    "Pulsar Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 253,
@@ -349,8 +337,7 @@
             "Tobi-Kadachi Electrode": 2
         }
     },
-    {
-        "name_en": "Pulsar Gunlance III",
+    "Pulsar Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 299,
@@ -379,8 +366,7 @@
             "Warped Bone": 2
         }
     },
-    {
-        "name_en": "Kadachi Striker",
+    "Kadachi Striker": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 345,
@@ -414,8 +400,7 @@
             "Tobi-Kadachi Scale+": 4
         }
     },
-    {
-        "name_en": "Kadachi Striker+",
+    "Kadachi Striker+": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 391,
@@ -444,8 +429,7 @@
             "Tobi-Kadachi Electrode+": 2
         }
     },
-    {
-        "name_en": "Mythic Kadachi Striker",
+    "Mythic Kadachi Striker": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 414,
@@ -474,8 +458,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Rath Gunlance I",
+    "Rath Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 276,
@@ -504,8 +487,7 @@
             "Rathalos Webbing": 2
         }
     },
-    {
-        "name_en": "Rath Gunlance II",
+    "Rath Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 322,
@@ -534,8 +516,7 @@
             "Rathalos Tail": 2
         }
     },
-    {
-        "name_en": "Red Rook",
+    "Red Rook": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 345,
@@ -564,8 +545,7 @@
             "Rathalos Wing": 2
         }
     },
-    {
-        "name_en": "Blue Rook",
+    "Blue Rook": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 414,
@@ -594,8 +574,7 @@
             "Rathalos Ruby": 1
         }
     },
-    {
-        "name_en": "Blue Chariot",
+    "Blue Chariot": {
         "weapon_type": "gunlance",
         "rarity": 8,
         "attack": 437,
@@ -624,8 +603,7 @@
             "Teostra Horn+": 2
         }
     },
-    {
-        "name_en": "Princess Panoply",
+    "Princess Panoply": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 276,
@@ -653,8 +631,7 @@
             "Rathian Spike": 3
         }
     },
-    {
-        "name_en": "Princess Panoply+",
+    "Princess Panoply+": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 345,
@@ -683,8 +660,7 @@
             "Rathian Spike+": 3
         }
     },
-    {
-        "name_en": "Rose Burst",
+    "Rose Burst": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 391,
@@ -713,8 +689,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Royal Burst",
+    "Royal Burst": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 437,
@@ -743,8 +718,7 @@
             "Rathian Spike+": 5
         }
     },
-    {
-        "name_en": "Madness Gunlance I",
+    "Madness Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 253,
@@ -773,8 +747,7 @@
             "Jyuratodus Shell": 1
         }
     },
-    {
-        "name_en": "Madness Gunlance II",
+    "Madness Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 276,
@@ -803,8 +776,7 @@
             "Jyuratodus Shell": 3
         }
     },
-    {
-        "name_en": "Madness Gunlance III",
+    "Madness Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 299,
@@ -833,8 +805,7 @@
             "Monster Bone+": 2
         }
     },
-    {
-        "name_en": "Jyura Blaster I",
+    "Jyura Blaster I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 345,
@@ -863,8 +834,7 @@
             "Jyuratodus Scale+": 3
         }
     },
-    {
-        "name_en": "Jyura Blaster II",
+    "Jyura Blaster II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 368,
@@ -893,8 +863,7 @@
             "Torrent Sac": 3
         }
     },
-    {
-        "name_en": "Jyura Blaster III",
+    "Jyura Blaster III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -923,8 +892,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Glacial Gunlance I",
+    "Glacial Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 299,
@@ -952,8 +920,7 @@
             "Legiana Scale": 4
         }
     },
-    {
-        "name_en": "Glacial Gunlance II",
+    "Glacial Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 322,
@@ -982,8 +949,7 @@
             "Paolumu Wing": 4
         }
     },
-    {
-        "name_en": "Legiana Cannon I",
+    "Legiana Cannon I": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 345,
@@ -1012,8 +978,7 @@
             "Legiana Wing": 3
         }
     },
-    {
-        "name_en": "Legiana Cannon II",
+    "Legiana Cannon II": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 368,
@@ -1042,8 +1007,7 @@
             "Legiana Hide+": 3
         }
     },
-    {
-        "name_en": "Bone Gunlance I",
+    "Bone Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 1,
         "attack": 207,
@@ -1069,8 +1033,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Bone Gunlance II",
+    "Bone Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 1,
         "attack": 230,
@@ -1096,8 +1059,7 @@
             "Monster Bone S": 2
         }
     },
-    {
-        "name_en": "Bone Gunlance III",
+    "Bone Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 253,
@@ -1124,8 +1086,7 @@
             "Monster Bone M": 2
         }
     },
-    {
-        "name_en": "Bone Cannon I",
+    "Bone Cannon I": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 276,
@@ -1153,8 +1114,7 @@
             "Monster Bone M": 5
         }
     },
-    {
-        "name_en": "Bone Cannon II",
+    "Bone Cannon II": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 322,
@@ -1182,8 +1142,7 @@
             "Sturdy Bone": 4
         }
     },
-    {
-        "name_en": "Bone Cannon III",
+    "Bone Cannon III": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 368,
@@ -1211,8 +1170,7 @@
             "Quality Bone": 2
         }
     },
-    {
-        "name_en": "Great Bone Gunlance I",
+    "Great Bone Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 391,
@@ -1240,8 +1198,7 @@
             "Quality Bone": 10
         }
     },
-    {
-        "name_en": "Great Bone Gunlance II",
+    "Great Bone Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -1270,8 +1227,7 @@
             "Quality Bone": 20
         }
     },
-    {
-        "name_en": "Bazel Buster I",
+    "Bazel Buster I": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -1300,8 +1256,7 @@
             "Firecell Stone": 1
         }
     },
-    {
-        "name_en": "Bazel Buster II",
+    "Bazel Buster II": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 460,
@@ -1330,8 +1285,7 @@
             "Xeno'jiiva Wing": 3
         }
     },
-    {
-        "name_en": "Jagras Gunlance I",
+    "Jagras Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 253,
@@ -1360,8 +1314,7 @@
             "Sharp Claw": 1
         }
     },
-    {
-        "name_en": "Jagras Gunlance II",
+    "Jagras Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 276,
@@ -1390,8 +1343,7 @@
             "Tzitzi-Ya-Ku Claw": 3
         }
     },
-    {
-        "name_en": "Jagras Gunlance III",
+    "Jagras Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 322,
@@ -1420,8 +1372,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Glutton Gunlance I",
+    "Glutton Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 345,
@@ -1450,8 +1401,7 @@
             "Piercing Claw": 5
         }
     },
-    {
-        "name_en": "Glutton Gunlance II",
+    "Glutton Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -1480,8 +1430,7 @@
             "Tzitzi-Ya-Ku Claw+": 5
         }
     },
-    {
-        "name_en": "Glutton Gunlance III",
+    "Glutton Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -1510,8 +1459,7 @@
             "Vaal Hazak Talon": 2
         }
     },
-    {
-        "name_en": "Girros Gunlance I",
+    "Girros Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 276,
@@ -1539,8 +1487,7 @@
             "Great Girros Scale": 3
         }
     },
-    {
-        "name_en": "Girros Gunlance II",
+    "Girros Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 299,
@@ -1569,8 +1516,7 @@
             "Paralysis Sac": 2
         }
     },
-    {
-        "name_en": "Deathfang Gunlance I",
+    "Deathfang Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 322,
@@ -1604,8 +1550,7 @@
             "Great Girros Tail": 2
         }
     },
-    {
-        "name_en": "Deathfang Gunlance II",
+    "Deathfang Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 345,
@@ -1634,8 +1579,7 @@
             "Omniplegia Sac": 4
         }
     },
-    {
-        "name_en": "Deathfang Gunlance III",
+    "Deathfang Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 368,
@@ -1664,8 +1608,7 @@
             "Vaal Hazak Fang+": 2
         }
     },
-    {
-        "name_en": "Hazak Spysa I",
+    "Hazak Spysa I": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 437,
@@ -1694,8 +1637,7 @@
             "Vaal Hazak Talon": 4
         }
     },
-    {
-        "name_en": "Hazak Spysa II",
+    "Hazak Spysa II": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 460,
@@ -1724,8 +1666,7 @@
             "Xeno'jiiva Veil": 3
         }
     },
-    {
-        "name_en": "Carapace Cannon I",
+    "Carapace Cannon I": {
         "weapon_type": "gunlance",
         "rarity": 2,
         "attack": 276,
@@ -1753,8 +1694,7 @@
             "Barroth Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Cannon II",
+    "Carapace Cannon II": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 299,
@@ -1783,8 +1723,7 @@
             "Kestodon Shell": 3
         }
     },
-    {
-        "name_en": "Carapace Cannon III",
+    "Carapace Cannon III": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 345,
@@ -1813,8 +1752,7 @@
             "Monster Bone+": 3
         }
     },
-    {
-        "name_en": "Barroth Blaster I",
+    "Barroth Blaster I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 391,
@@ -1843,8 +1781,7 @@
             "Kestodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Blaster II",
+    "Barroth Blaster II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 437,
@@ -1873,8 +1810,7 @@
             "Gastodon Carapace": 5
         }
     },
-    {
-        "name_en": "Barroth Blaster III",
+    "Barroth Blaster III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 460,
@@ -1903,8 +1839,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Blazing Gunlance I",
+    "Blazing Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 299,
@@ -1932,8 +1867,7 @@
             "Flame Sac": 1
         }
     },
-    {
-        "name_en": "Blazing Gunlance II",
+    "Blazing Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 322,
@@ -1962,8 +1896,7 @@
             "Rathalos Marrow": 1
         }
     },
-    {
-        "name_en": "Anja Cannon I",
+    "Anja Cannon I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 368,
@@ -1992,8 +1925,7 @@
             "Inferno Sac": 3
         }
     },
-    {
-        "name_en": "Anja Cannon II",
+    "Anja Cannon II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 414,
@@ -2022,8 +1954,7 @@
             "Rathalos Medulla": 2
         }
     },
-    {
-        "name_en": "Anja Cannon III",
+    "Anja Cannon III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 483,
@@ -2052,8 +1983,7 @@
             "Teostra Mane": 2
         }
     },
-    {
-        "name_en": "Dragonbone Gunlance I",
+    "Dragonbone Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 3,
         "attack": 230,
@@ -2082,8 +2012,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Dragonbone Gunlance II",
+    "Dragonbone Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 4,
         "attack": 253,
@@ -2111,8 +2040,7 @@
             "Sturdy Bone": 8
         }
     },
-    {
-        "name_en": "Dragonbone Gunlance III",
+    "Dragonbone Gunlance III": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 368,
@@ -2141,8 +2069,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Magda Lahat",
+    "Magda Lahat": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 368,
@@ -2171,8 +2098,7 @@
             "Zorah Magdaros Magma": 4
         }
     },
-    {
-        "name_en": "Earthshaker Magda Lahat",
+    "Earthshaker Magda Lahat": {
         "weapon_type": "gunlance",
         "rarity": 8,
         "attack": 460,
@@ -2201,8 +2127,7 @@
             "Zorah Magdaros Ridge": 2
         }
     },
-    {
-        "name_en": "Blacksteel Gunlance I",
+    "Blacksteel Gunlance I": {
         "weapon_type": "gunlance",
         "rarity": 5,
         "attack": 230,
@@ -2231,8 +2156,7 @@
         "previous": null,
         "upgrade": null
     },
-    {
-        "name_en": "Blacksteel Gunlance II",
+    "Blacksteel Gunlance II": {
         "weapon_type": "gunlance",
         "rarity": 6,
         "attack": 253,
@@ -2261,8 +2185,7 @@
             "Wyvern Gem": 1
         }
     },
-    {
-        "name_en": "Icesteel Gunlance",
+    "Icesteel Gunlance": {
         "weapon_type": "gunlance",
         "rarity": 7,
         "attack": 391,
@@ -2291,8 +2214,7 @@
             "Nergigante Carapace": 5
         }
     },
-    {
-        "name_en": "Daora's Brigia",
+    "Daora's Brigia": {
         "weapon_type": "gunlance",
         "rarity": 8,
         "attack": 414,
@@ -2321,8 +2243,7 @@
             "Xeno'jiiva Wing": 2
         }
     },
-    {
-        "name_en": "Xeno Hemta",
+    "Xeno Hemta": {
         "weapon_type": "gunlance",
         "rarity": 8,
         "attack": 391,
@@ -2351,4 +2272,4 @@
             "Xeno'jiiva Tail": 2
         }
     }
-]
+}

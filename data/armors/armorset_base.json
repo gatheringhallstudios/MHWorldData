@@ -1,0 +1,878 @@
+[
+    {
+        "name": {
+            "en": "Bone",
+            "ja": "ボーン"
+        }
+    },
+    {
+        "name": {
+            "en": "Chainmail",
+            "ja": "チェーン"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau",
+            "ja": "ガライ－"
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's",
+            "ja": "ハンター"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras",
+            "ja": "ジャグラス"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon",
+            "ja": "ケスト"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu",
+            "ja": "クルル"
+        }
+    },
+    {
+        "name": {
+            "en": "Leather",
+            "ja": "レザー"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid",
+            "ja": "ランゴ"
+        }
+    },
+    {
+        "name": {
+            "en": "Alloy",
+            "ja": "アロイ"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth",
+            "ja": "ボロス"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura",
+            "ja": "ジュラ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi",
+            "ja": "カガチ"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei",
+            "ja": "プケプケ"
+        }
+    },
+    {
+        "name": {
+            "en": "Anja",
+            "ja": "ジャナフ"
+        }
+    },
+    {
+        "name": {
+            "en": "Baan",
+            "ja": "バルキン"
+        }
+    },
+    {
+        "name": {
+            "en": "Butterfly",
+            "ja": "パピメル"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros",
+            "ja": "ギルオス"
+        }
+    },
+    {
+        "name": {
+            "en": "High Metal",
+            "ja": "ハイメタ"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur",
+            "ja": "タロス"
+        }
+    },
+    {
+        "name": {
+            "en": "King Beetle",
+            "ja": "オウビート"
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu",
+            "ja": "ウルムー"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian",
+            "ja": "レイア"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos",
+            "ja": "シャム"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi",
+            "ja": "ツィツィ"
+        }
+    },
+    {
+        "name": {
+            "en": "Brigade",
+            "ja": "ブリゲイド"
+        }
+    },
+    {
+        "name": {
+            "en": "Death Stench",
+            "ja": "デスギア"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos",
+            "ja": "ディアブロ"
+        }
+    },
+    {
+        "name": {
+            "en": "Ingot",
+            "ja": "インゴット"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin",
+            "ja": "キリン"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Leg",
+            "ja": ""
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana",
+            "ja": "ギエナ"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron",
+            "ja": "ガロン"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos",
+            "ja": "レウス"
+        }
+    },
+    {
+        "name": {
+            "en": "Alloy Alpha",
+            "ja": "アロイα"
+        }
+    },
+    {
+        "name": {
+            "en": "Alloy Beta",
+            "ja": "アロイβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Alpha",
+            "ja": "ジャナフα"
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Beta",
+            "ja": "ジャナフβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Barnos Alpha",
+            "ja": "バルノスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Barnos Beta",
+            "ja": "バルノスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Alpha",
+            "ja": "ボロスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Beta",
+            "ja": "ボロスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Alpha",
+            "ja": "ボーンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Beta",
+            "ja": "ボーンβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Butterfly Alpha",
+            "ja": "パピメルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Butterfly Beta",
+            "ja": "パピメルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Chainmail Alpha",
+            "ja": "チェーンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Chainmail Beta",
+            "ja": "チェーンβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Alpha",
+            "ja": "ガマルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Dodogama Beta",
+            "ja": "ガマルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau Alpha",
+            "ja": "ガライーα"
+        }
+    },
+    {
+        "name": {
+            "en": "Gajau Beta",
+            "ja": "ガライーβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Gastodon Alpha",
+            "ja": "ガストα"
+        }
+    },
+    {
+        "name": {
+            "en": "Gastodon Beta",
+            "ja": "ガストβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Alpha",
+            "ja": "ギルオスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Beta",
+            "ja": "ギルオスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Alpha",
+            "ja": "タロスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Hornetaur Beta",
+            "ja": "タロスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Alpha",
+            "ja": "ハンターα"
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Beta",
+            "ja": "ハンターβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Alpha",
+            "ja": "ジャグラスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Beta",
+            "ja": "ジャグラスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Alpha",
+            "ja": "ジュラα"
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Beta",
+            "ja": "ジュラβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Alpha",
+            "ja": "カガチα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Beta",
+            "ja": "カガチβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon Alpha",
+            "ja": "ケストα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kestodon Beta",
+            "ja": "ケストβ"
+        }
+    },
+    {
+        "name": {
+            "en": "King Beetle Alpha",
+            "ja": "オウビートα"
+        }
+    },
+    {
+        "name": {
+            "en": "King Beetle Beta",
+            "ja": "オウビートβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Alpha",
+            "ja": "クルルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Beta",
+            "ja": "クルルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Leather Alpha",
+            "ja": "レザーα"
+        }
+    },
+    {
+        "name": {
+            "en": "Leather Beta",
+            "ja": "レザーβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Alpha",
+            "ja": "ウルムーα"
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Beta",
+            "ja": "ウルムーβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Mosswine Alpha",
+            "ja": "モスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei Alpha",
+            "ja": "プケプケα"
+        }
+    },
+    {
+        "name": {
+            "en": "Pukei Beta",
+            "ja": "プケプケβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Alpha",
+            "ja": "レイアα"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathian Beta",
+            "ja": "レイアβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Sealed Alpha",
+            "ja": ""
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Alpha",
+            "ja": "シャムα"
+        }
+    },
+    {
+        "name": {
+            "en": "Shamos Beta",
+            "ja": "シャムβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi Alpha",
+            "ja": "ツィツィα"
+        }
+    },
+    {
+        "name": {
+            "en": "Tzitzi Beta",
+            "ja": "ツィツィβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Alpha",
+            "ja": "ランゴα"
+        }
+    },
+    {
+        "name": {
+            "en": "Vespoid Beta",
+            "ja": "ランゴβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Alpha",
+            "ja": "バルキンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Beta",
+            "ja": "バルキンβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Brigade Alpha",
+            "ja": "ブリゲイドα"
+        }
+    },
+    {
+        "name": {
+            "en": "Brigade Beta",
+            "ja": "ブリゲイドβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Alpha",
+            "ja": "ディアブロα"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Beta",
+            "ja": "ディアブロβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Faux Felyne Alpha",
+            "ja": "アイルーフェイクα"
+        }
+    },
+    {
+        "name": {
+            "en": "High Metal Alpha",
+            "ja": "ハイメタα"
+        }
+    },
+    {
+        "name": {
+            "en": "High Metal Beta",
+            "ja": "ハイメタβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Ingot Alpha",
+            "ja": "インゴットα"
+        }
+    },
+    {
+        "name": {
+            "en": "Ingot Beta",
+            "ja": "インゴットβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Alpha",
+            "ja": ""
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Beta",
+            "ja": "キリンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Leg Alpha",
+            "ja": ""
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Leg Beta",
+            "ja": ""
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Alpha",
+            "ja": "ラヴァα"
+        }
+    },
+    {
+        "name": {
+            "en": "Lavasioth Beta",
+            "ja": "ラヴァβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Alpha",
+            "ja": "ギエナα"
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Beta",
+            "ja": "ギエナβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Alpha",
+            "ja": "ガロンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Odogaron Beta",
+            "ja": "ガロンβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Heart Alpha",
+            "ja": "リオハートα"
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Heart Beta",
+            "ja": "リオハートβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Alpha",
+            "ja": "レウスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Beta",
+            "ja": "レウスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Strategist Alpha",
+            "ja": "知略の眼鏡α"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Alpha",
+            "ja": "ゾラマグナα"
+        }
+    },
+    {
+        "name": {
+            "en": "Zorah Beta",
+            "ja": "ゾラマグナβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Alpha",
+            "ja": "バゼルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Beta",
+            "ja": "バゼルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Damascus Alpha",
+            "ja": "ダマスクα"
+        }
+    },
+    {
+        "name": {
+            "en": "Damascus Beta",
+            "ja": "ダマスクβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Death Stench Alpha",
+            "ja": "デスギアα"
+        }
+    },
+    {
+        "name": {
+            "en": "Death Stench Beta",
+            "ja": "デスギアβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Nero Alpha",
+            "ja": "ディアネロα"
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Nero Beta",
+            "ja": "ディアネロβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Dober Alpha",
+            "ja": "ドーベルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Dober Beta",
+            "ja": "ドーベルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Soul Alpha",
+            "ja": "リオソウルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Soul Beta",
+            "ja": "リオソウルβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Skull Alpha",
+            "ja": "スカルα"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Alpha",
+            "ja": "ガンキンα"
+        }
+    },
+    {
+        "name": {
+            "en": "Uragaan Beta",
+            "ja": "ガンキンβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Commission Alpha",
+            "ja": "シーカーα"
+        }
+    },
+    {
+        "name": {
+            "en": "Commission Beta",
+            "ja": "シーカーβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonking Alpha",
+            "ja": "竜王の隻眼α"
+        }
+    },
+    {
+        "name": {
+            "en": "Guild Cross Alpha",
+            "ja": "ギルドクロスα"
+        }
+    },
+    {
+        "name": {
+            "en": "Guild Cross Beta",
+            "ja": "ギルドクロスβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kaiser Alpha",
+            "ja": "カイザーα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kaiser Beta",
+            "ja": "カイザーβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Kushala Alpha",
+            "ja": "クシャナα"
+        }
+    },
+    {
+        "name": {
+            "en": "Kushala Beta",
+            "ja": "クシャナβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Alpha",
+            "ja": "オーグα"
+        }
+    },
+    {
+        "name": {
+            "en": "Nergigante Beta",
+            "ja": "オーグβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Alpha",
+            "ja": "ウルズα"
+        }
+    },
+    {
+        "name": {
+            "en": "Vaal Hazak Beta",
+            "ja": "ウルズβ"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Alpha",
+            "ja": "ゼノラージα"
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno'jiiva Beta",
+            "ja": "ゼノラージβ"
+        }
+    }
+]

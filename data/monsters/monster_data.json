@@ -1,6 +1,5 @@
-[
-    {
-        "name_en": "Apceros",
+{
+    "Apceros": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -28,8 +27,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Gajalaka",
+    "Gajalaka": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -57,8 +55,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Hornetaur",
+    "Hornetaur": {
         "size": "small",
         "hitzones": {
             "Body": {
@@ -75,8 +72,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Gajau",
+    "Gajau": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -104,8 +100,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Girros",
+    "Girros": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -133,8 +128,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Barnos",
+    "Barnos": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -162,14 +156,12 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Grimalkyne",
+    "Grimalkyne": {
         "size": "large",
         "hitzones": {},
         "break_and_extract": {}
     },
-    {
-        "name_en": "Gastodon",
+    "Gastodon": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -197,8 +189,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Kelbi",
+    "Kelbi": {
         "size": "small",
         "hitzones": {
             "Horn": {
@@ -226,8 +217,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Aptonoth",
+    "Aptonoth": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -255,8 +245,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Great Girros",
+    "Great Girros": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -392,8 +381,7 @@
             }
         }
     },
-    {
-        "name_en": "Jagras",
+    "Jagras": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -421,8 +409,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Dodogama",
+    "Dodogama": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -580,8 +567,7 @@
             }
         }
     },
-    {
-        "name_en": "Black Diablos",
+    "Black Diablos": {
         "size": "large",
         "hitzones": {
             "Horn": {
@@ -751,8 +737,7 @@
             }
         }
     },
-    {
-        "name_en": "Diablos",
+    "Diablos": {
         "size": "large",
         "hitzones": {
             "Horn": {
@@ -922,8 +907,7 @@
             }
         }
     },
-    {
-        "name_en": "Xeno'jiiva",
+    "Xeno'jiiva": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -1221,8 +1205,7 @@
             }
         }
     },
-    {
-        "name_en": "Vaal Hazak",
+    "Vaal Hazak": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -1426,8 +1409,7 @@
             }
         }
     },
-    {
-        "name_en": "Uragaan",
+    "Uragaan": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -1586,8 +1568,7 @@
             }
         }
     },
-    {
-        "name_en": "Tzitzi-Ya-Ku",
+    "Tzitzi-Ya-Ku": {
         "size": "large",
         "hitzones": {
             "Antennae": {
@@ -1679,8 +1660,7 @@
             }
         }
     },
-    {
-        "name_en": "Tobi-Kadachi",
+    "Tobi-Kadachi": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -1822,8 +1802,7 @@
             }
         }
     },
-    {
-        "name_en": "Teostra",
+    "Teostra": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -1954,8 +1933,7 @@
             }
         }
     },
-    {
-        "name_en": "Zorah Magdaros",
+    "Zorah Magdaros": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -2210,8 +2188,7 @@
             }
         }
     },
-    {
-        "name_en": "Rathian",
+    "Rathian": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -2359,8 +2336,7 @@
             }
         }
     },
-    {
-        "name_en": "Azure Rathalos",
+    "Azure Rathalos": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -2519,8 +2495,7 @@
             }
         }
     },
-    {
-        "name_en": "Pink Rathian",
+    "Pink Rathian": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -2679,8 +2654,7 @@
             }
         }
     },
-    {
-        "name_en": "Rathalos",
+    "Rathalos": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -2828,8 +2802,7 @@
             }
         }
     },
-    {
-        "name_en": "Radobaan",
+    "Radobaan": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -3000,8 +2973,7 @@
             }
         }
     },
-    {
-        "name_en": "Pukei-Pukei",
+    "Pukei-Pukei": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -3149,8 +3121,7 @@
             }
         }
     },
-    {
-        "name_en": "Paolumu",
+    "Paolumu": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -3304,8 +3275,7 @@
             }
         }
     },
-    {
-        "name_en": "Nergigante",
+    "Nergigante": {
         "size": "large",
         "hitzones": {
             "Horn": {
@@ -3614,8 +3584,7 @@
             }
         }
     },
-    {
-        "name_en": "Odogaron",
+    "Odogaron": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -3751,8 +3720,7 @@
             }
         }
     },
-    {
-        "name_en": "Legiana",
+    "Legiana": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -3900,8 +3868,7 @@
             }
         }
     },
-    {
-        "name_en": "Lavasioth",
+    "Lavasioth": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4054,8 +4021,7 @@
             }
         }
     },
-    {
-        "name_en": "Kushala Daora",
+    "Kushala Daora": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4186,8 +4152,7 @@
             }
         }
     },
-    {
-        "name_en": "Kulu-Ya-Ku",
+    "Kulu-Ya-Ku": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4273,8 +4238,7 @@
             }
         }
     },
-    {
-        "name_en": "Kirin",
+    "Kirin": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4354,8 +4318,7 @@
             }
         }
     },
-    {
-        "name_en": "Jyuratodus",
+    "Jyuratodus": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4565,8 +4528,7 @@
             }
         }
     },
-    {
-        "name_en": "Great Jagras",
+    "Great Jagras": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4719,8 +4681,7 @@
             }
         }
     },
-    {
-        "name_en": "Barroth",
+    "Barroth": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -4931,8 +4892,7 @@
             }
         }
     },
-    {
-        "name_en": "Bazelgeuse",
+    "Bazelgeuse": {
         "size": "large",
         "hitzones": {
             "Head": {
@@ -5041,8 +5001,7 @@
             }
         }
     },
-    {
-        "name_en": "Anjanath",
+    "Anjanath": {
         "size": "large",
         "hitzones": {
             "Nose": {
@@ -5189,8 +5148,7 @@
             }
         }
     },
-    {
-        "name_en": "Shamos",
+    "Shamos": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -5218,8 +5176,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Raphinos",
+    "Raphinos": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -5247,8 +5204,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Noios",
+    "Noios": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -5276,8 +5232,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Vespoid",
+    "Vespoid": {
         "size": "large",
         "hitzones": {
             "Body": {
@@ -5294,8 +5249,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Mosswine",
+    "Mosswine": {
         "size": "small",
         "hitzones": {
             "Body": {
@@ -5312,8 +5266,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Mernos",
+    "Mernos": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -5341,8 +5294,7 @@
         },
         "break_and_extract": {}
     },
-    {
-        "name_en": "Kestodon",
+    "Kestodon": {
         "size": "small",
         "hitzones": {
             "Head": {
@@ -5370,4 +5322,4 @@
         },
         "break_and_extract": {}
     }
-]
+}

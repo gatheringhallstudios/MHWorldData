@@ -1,0 +1,6896 @@
+[
+    {
+        "name": {
+            "en": "Buster Sword I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buster Sword II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buster Sword III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buster Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buster Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buster Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Razor I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Razor II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Judicator",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Purgation's Atrocity",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Punisher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Punisher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Punisher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blaze I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blaze II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Hacker I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Hacker II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Hacker III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Kiss I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Kiss II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Kiss III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Blaze I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Blaze II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaze I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaze II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaze III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Red Wing",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Wing",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Glinsword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Slasher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Slasher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Slasher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Giant Jawblade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Giant Jawblade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Kys",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Leviathan's Fury",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenzahn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenzahn+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gnshing Flammenzahn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Slasher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Slasher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Slasher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Golum I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Golum II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Golum III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Buster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Buster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Buster III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shredder I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shredder II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shredder III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Slab I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Slab II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Radobaan Slab III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cleaver I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cleaver II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cleaver III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thundersword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Thundersword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "King Thundersword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Potestas I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Potestas II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Chopper I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Chopper II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Edge",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Decimator",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Maliq",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Jawblade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Wyvern Jawblade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Katana I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Katana II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Katana III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Grace I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Grace II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Grace III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Gospel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Gospel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Reaver",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Extermination's Edge",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flickering Glow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flickering Glow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dazzling Flash I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dazzling Flash II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dazzling Flash III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "First Dance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "First Dance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "First Dance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Last Dance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Last Dance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Last Dance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Brazenridge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Brazenridge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Leaf\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Verde\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Holly\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Fall\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Blood\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Azure\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wyvern Blade \"Indigo\"",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shotel III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Shotel III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Reaper I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Reaper II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rookslayer Long Sword",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Varga Rookslayer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Scimitar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Scimitar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Scimitar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Shotel III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dipterus I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dipterus II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dipterus III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Grosser I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Grosser II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shotel III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Fang I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Fang II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Fang III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Stealer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Stealer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Shotel I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Shotel II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Scimitar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Scimitar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Scimitar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Stabber I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Stabber II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Stabber III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Facultas I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Facultas II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Long Sword I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Long Sword II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Imperial Saber",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Imperial Shimmer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Cypher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Supermacy Blade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Divine Slasher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Star Blade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Knife III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Knife III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Slicer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Slicer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Jack",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Eradication Vanguard",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heat Edge",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Corona",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bang",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bang+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Master Bang",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Messer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Messer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Messer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rogue Wave I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rogue Wave II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rogue Wave III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Grace I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Grace II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rimespire",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Rimespire",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Rapier",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Queen Rapier",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Queen Rose",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Royal Rose",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Tabar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Tabar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Tabar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Knife III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blossom I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blossom II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blossom III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Knife I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Knife II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Tabar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Tabar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Tabar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Kukri I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Kukri II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Kukri III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chief Kukri I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chief Kukri II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chief Kukri III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Grand Barong I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Grand Barong II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Edge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Edge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Claw I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Claw II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Claw III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Edge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Edge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Edge III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Garotte I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Garotte II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Garotte III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Edge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Edge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Nemesis I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Nemesis II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Nemesis III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Edge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Edge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Edge III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Club I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Club II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Club III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Edge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Edge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammensucher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gnashing Flammensucher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Sword I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Sword II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Sword III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fulminator",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderbolt Sword I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderbolt Sword II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Sword I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Sword II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Spada",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Emblem",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Mabura",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Matched Slicers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Matched Slicers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Matched Slicers III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Slicers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Slicers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Slicers III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Slicers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Slicers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Gouge",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Decimation Claws",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Daggers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Daggers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Destroyers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Destroyers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Destroyers III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rookslayer Handaxes",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelhawk Rookslayer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Daggers I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Daggers II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Chain I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Chain II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rending Beaks I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rending Beaks II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rending Beaks III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arcanaria I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arcanaria II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arcanaria III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sworn Rapiers",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sworn Rapiers+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Holy Sabers",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Hachets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Hachets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Hachets III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wild Hachets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wild Hachets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wild Hachets III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Strong Hatchets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Strong Hatchets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Hachets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Hachets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cyclone I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cyclone II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cyclone III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Hachets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Hachets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Clubs I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Clubs II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Pangas I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Pangas II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Pangas III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Hatchets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Hatchets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Hatchets III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Cyclone I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Cyclone II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Taurus Pangas I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Taurus Pangas II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Ripper I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Ripper II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Ripper III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Hachets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Hachets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Hachets III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Claws I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Claws II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Claws III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Hatchets I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Hatchets II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blood-drinker Chainblade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Twinblades I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Twinblades II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Enduring Schism",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Bolts",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Bolts+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Monarch",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Ungulae I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Ungulae II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Twins I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Twins II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Twin Nails",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fire and Ice",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Raqs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Hammer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Demon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Demon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Demon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Archdemon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Archdemon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Crusher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Obliteration's Footfall",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frozen Core",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frozen Core+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cocytus",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Hammer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Basher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Basher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Basher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Fist I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Fist II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Malady's Fist III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Hammer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buon Fiore",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Buona Flora",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Bash I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Bash II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Bash III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Bludgeon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Bludgeon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Bludgeon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fossil Bludgeon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fossil Bludgeon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fossil Bludgeon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Grandrock I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Grandrock II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Vlafos",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pandemonium's Root",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Spike I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Spike II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Strike I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Strike II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Strike III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Brazenbreak I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Brazenbreak II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Beak I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Beak II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Beak III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Crushing Beak I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Crushing Beak II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Crushing Beak III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Sledge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Sledge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Shatterer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Shatterer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Sledge I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Sledge II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Sledge III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Breaker I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Breaker II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Breaker III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Striker I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Striker II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Striker III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Basher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Basher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Basher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Floga",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ragefire Magda Floga",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Hammer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Hammer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Hammer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Colossus",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Maph'agarna",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jail Hammer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Binder Mace",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Metal Bagpipe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Metal Bagpipe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Metal Bagpipe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bagpipe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bagpipe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bagpipe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fortissimo I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fortissimo II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Groove",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Desolation's Overture",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Gaida I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Gaida II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Drum I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Drum II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Drum III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Duda I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Duda II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Duda III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dancing Davul I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dancing Davul II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dancing Davul III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Valkyrie Chordmaker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Queen Chordmaker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Coral Chordmaker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Royal Chordmaker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Bagpipe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Bagpipe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Bagpipe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Tamtam I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Tamtam II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Tamtam III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Bagpipe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Bagpipe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sectored",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Sectored",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bone Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bone Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Barone I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Barone II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Barone III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Barone I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Barone II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Barone III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rookslayer Drum",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazelreid Rookslayer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sonic Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sonic Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sonic Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glass Royale",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glass Royale+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Queen Vespoid Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Auldhorn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Auldhorn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Auldhorn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thundercry Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderbolt Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderbolt Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Dragonhorn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Dragonhorn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Tiple",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Orphée",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Manasheena",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Impaler",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Perdition's Hand",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Halberd I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Halberd II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Hasta I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Hasta II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Hasta III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Pilebunker I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Pilebunker II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Spire I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Spire II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Spire III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Pike I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Pike II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Pike III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Red Tail",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Tail",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Prominence",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bone Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Bone Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Wächter",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Love's Sorrow",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Taurus Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Taurus Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Stinger I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Stinger II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dark Stinger III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Stinger I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Stinger II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Stinger III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Dhara I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Dhara II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Horn I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Horn II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Horn III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Spike I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Spike II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Spike III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Lance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rookslayer Lance",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Myniad Rookslayer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderpike",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderspear",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunderpiercer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Lance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Lance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Spear",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Fang",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Zauta",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Babel Spear",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Elder Babel Spear",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Ram",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Eradication Flame",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Striker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Striker+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mythic Kadachi Striker",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rath Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Red Rook",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Rook",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blue Chariot",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Panoply",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Panoply+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rose Burst",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Royal Burst",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Blaster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Blaster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Blaster III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legiana Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bone Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bone Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Buster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Buster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Deathfang Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Deathfang Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Deathfang Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Spysa I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Spysa II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Blaster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Blaster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Blaster III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Gunlance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Lahat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Earthshaker Magda Lahat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Gunlance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Gunlance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Gunlance",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Brigia",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Hemta",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Iron Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Iron Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Iron Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Improved Steel Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Improved Steel Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Improved Steel Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Perfected Alloy Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Perfected Alloy Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Gash",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dying Light",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frostreaver",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Frostreaver",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Chopper I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Chopper II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Chopper III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Motor Chopper I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Motor Chopper II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Rider I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Rider II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Rider III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Rider I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Rider II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathalos Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathbringer Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathbringer Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Smasher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Smasher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Smasher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Smasher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Smasher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Demios I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Demios II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Drought I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Drought II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Drought III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Smasher I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Smasher II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Smasher III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Grinder I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Grinder II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Grinder III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Axe Semper Tyrannis",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Axe of Thanatos",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Axe of Demons",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenbeil",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenbeil+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gnashing Flammenbeil",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Slicer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Slicer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Slicer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Peal",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Peal+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kirin Thunderpeal",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Switch Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Switch Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Arx",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Castle",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Martshu",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Commision Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Commision Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Proto Commision Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Elite Commision Axe I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Elite Commision Axe II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Elite Commision Axe III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Guardian I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Guardian II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Lacerator",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Devastation's Thorns",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathsblade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathsblade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Axelion Blade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Halberion Blade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mudslide Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mudslide Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mudslide Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Depth I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Depth II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Depth III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Everfrost Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Everfrost Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gigafrost I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gigafrost II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dear Lutemis",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dear Lutemia",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dear Hecatel",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dear Hecatelia",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Strongarm III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Strongarm III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mighty Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mighty Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Wall I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Wall II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Tyrannis I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Tyrannis II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Strongarm III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Escudo I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Escudo II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Escudo III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Silt I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Silt II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Nadja I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Nadja II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Girros Nadja III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Aspida I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Aspida II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Strongarm III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Kaina I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Kaina II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Kaina III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Strongarm I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Strongarm II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hate's Undying Flame",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Odium",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cutter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cutter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cutter III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Manus",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Avenging Magda Manus",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Charger I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Charger II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Casca",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Thwartoise",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Ra'atz",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Reaper",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Catastrophe's Light",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathmaul",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Firedance Rathmaul",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ya-Ku Wrath I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ya-Ku Wrath II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Ya-Ku Wrath III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Destroyer Bo I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Destroyer Bo II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Destroyer Bo III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Gale I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Freeze Gale II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Glaive III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blade I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blade II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blade III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Cane I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Cane II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Rod III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hard Bone Rod III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aerial Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aerial Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Entoma I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Entoma II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenkaefer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenkaefer+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gnashing Flammenkaefer",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Rod III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Glaive III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tyrannis Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tyrannis Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Rod III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Pillar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Pillar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Pillar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Rod I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Rod II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Temptation's Trident",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Vice",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Glaive III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Indigo Flash",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Azure Bolt",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Verdant Levin",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Glaive I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Glaive II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Entom",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Tethidine",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Shmaena",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chain Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chain Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chain Blitz III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "High Chain Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "High Chain Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "High Chain Blitz III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cross Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cross Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Spitter",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cataclysm's Trigger",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Typhon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Typhon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lumu Typhon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Typhoon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bazel Typhoon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Blitz III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Fire I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Fire II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Fire III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flame Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathbuster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathbuster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lightning Blitz III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Snow Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Snow Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blitz I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Blitz II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Rifle III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Rifle III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sniper Shot I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Sniper Shot II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Ereipia",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gulgoleth's Wail",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Buster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Buster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Buster III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Madness Rifle III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Bullet I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Bullet II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jyura Bullet III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Bullet I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Lava Bullet II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Carapace Rifle III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shot I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shot II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Barroth Shot III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Rifle I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Garon Rifle II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Fate's Ember",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Karma",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bowgun I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bowgun II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bowgun III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Onigashima",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dai-Onigashima",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mythical Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mythical Horn+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Mythical Three-Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Crossbow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Crossbow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Wasp",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Hornet",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Neqiina",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cross Bowgun",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Bowgun",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Assault III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Assault III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Chrome Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Roar",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Destruction's Fusillade",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Assault III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Luminous Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arma Destroyer I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arma Destroyer II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Arma Destroyer III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shattercryst",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shattercryst+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Shattercryst",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Assault III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Jagras Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Assault I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Assault II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flammenkanone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gnashing Flammenkanone",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Bone Shooter III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Shooter III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Power Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dual Threat",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nero's Blazooka",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Griffon Blazooka",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Shooter III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaster I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaster II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura Blaster III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Spiked Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Roar I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Roar II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Baan Roar III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gama Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shooter I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shooter II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Shooter III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Lion I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Lion II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Lion III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Cannon III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Quickcaster",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Quickcaster+",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Quickquiver",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Gemitus I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Magda Gemitus II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Cannon I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Cannon II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Artillery",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Teostra's Flames",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Jiiqa",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Iron Bow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Steel Bow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Alloy Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Alloy Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Nergal Whisper",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Doom's Shaft",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Arrow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Arrow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kulu Arrow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Archer's Dance I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Archer's Dance II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Archer's Dance III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Brazencord",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Gigacles",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Arrow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Arrow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Princess Arrow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathslinger I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathslinger II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Rathslinger III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Arrow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Arrow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Aqua Arrow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Shot I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Shot II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Water Shot III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Arrow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Glacial Arrow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Snowfletcher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Legia Snowfletcher",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Bow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Stoutbow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Stoutbow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Stoutbow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Proudbow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Proudbow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Velos I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Hazak Velos II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Diablos Coilbender",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Galebender",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cera Coilbender",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Arch I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Arch II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blooming Arch III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura String I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura String II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Datura String III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blazing Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Arch I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Arch II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Anja Arch III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Pulsar Bow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Kadachi Strikebow",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Flying Kadachi Strikebow",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Dragonbone Bow III",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Bow I",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Blacksteel Bow II",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Icesteel Bow",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Daora's Sagittarii",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Xeno Metora",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Cross Hunter's Bow",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Great Hunter's Bow",
+            "ja": null
+        }
+    }
+]

@@ -1,30 +1,31 @@
-from collections.abc import MutableMapping, Mapping
-import collections
 import typing
+import collections
 
-class DataMapRow(MutableMapping):
+from collections.abc import MutableMapping, Mapping
+
+class DataRow(MutableMapping):
     """Defines a single row of a datamap object.
     These objects are regular dictionaries that can also get translated names.
     """
 
-    def __init__(self, translate_map, id : int, datarowdict: dict):
-        self._translate_map = translate_map
+    def __init__(self, id : int, datarowdict: dict):
         self._id = id
         self._data = datarowdict
 
     @property
     def id(self):
-        "Returns the id associated with this DataMapRow"
+        "Returns the id associated with this DataRow"
         return self._id
 
     def name(self, lang_id):
         "Returns the name of this data map row in a specific language"
-        return self._translate_map[self.id][lang_id]
+        return self['name'][lang_id]
 
     def names(self):
         "Returns a collection of (language, name) tuples for this row"
-        return self._translate_map[self.id].items()
-
+        for (lang, name) in self['name'].items():
+            yield (lang, name)
+        
     def __getitem__(self, key):
         return self._data[key]
 
@@ -40,27 +41,44 @@ class DataMapRow(MutableMapping):
     def __len__(self):
         return self._data.__len__()
 
-class DataMap(typing.Mapping[int, DataMapRow]):
-    def __init__(self, translate_map, datadict: dict):
-        """Constructs a new DataMap object. DataDict is an id->entry mapping.
-        It is recommended to use a load function instead."""
-        self._translate_map = translate_map
-
-        # build keys. Keys need to be in translate map order, but contain our entries
-        self._keys = []
+class DataMap(typing.Mapping[int, DataRow]):
+    def __init__(self, data : typing.Mapping[int, dict] = None):
         self._data = collections.OrderedDict()
-        for key in translate_map.keys():
-            data_row_raw = datadict.get(key, None)
-            if data_row_raw:
-                self._keys.append(key)
-                self._data[key] = DataMapRow(translate_map, key, data_row_raw)
+        self._reverse_entries = {}
 
-    def __getitem__(self, id) -> DataMapRow:
+        if data:
+            for id, entry in data.items():
+                self.add_entry(id, entry)
+
+    def id_of(self, language_code, name):
+        "Returns the id of the map entry that contains the code+value. Otherwise returns None"
+        key = (language_code, name)
+        return self._reverse_entries.get(key, None)
+
+    def entry_of(self, language_code, name):
+        "Returns the entry that contains the code+value, which can be used to get other languages. Otherwise none"
+        id_value = self.id_of(language_code, name)
+        return self._data.get(id_value, None)
+
+    def add_entry(self, id, entry : dict):
+        "Adds an entry to the dict, and returns the entry"
+        if 'name' not in entry:
+            raise KeyError("An entry is missing a name value")
+
+        if id in self.keys():
+            raise KeyError("An entry with the given id already exists")
+
+        new_entry = DataRow(id, entry)
+        for lang, name in new_entry.names():
+            self._reverse_entries[(lang, name)] = id       
+        self._data[id] = new_entry
+        return new_entry
+
+    def __getitem__(self, id) -> DataRow:
         return self._data[id]
 
     def __len__(self):
-        return len(self._keys)
+        return len(self._data)
 
     def __iter__(self):
-        return self._keys.__iter__()
-
+        return self._data.__iter__()
