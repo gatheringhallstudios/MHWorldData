@@ -13,7 +13,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases affinity by 30% for a short time after sliding.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -32,35 +32,35 @@
                 "level": 1,
                 "description": {
                     "en": "While active, grants attack +4 and increases affinity by 3%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, grants attack +8 and increases affinity by 6%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, grants attack +12 and increases affinity by 9%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "While active, grants attack +16 and increases affinity by 12%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "While active, grants attack +20 and increases affinity by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -79,7 +79,7 @@
                 "level": 1,
                 "description": {
                     "en": "Jumping attack power +10%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -98,21 +98,21 @@
                 "level": 1,
                 "description": {
                     "en": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -131,49 +131,49 @@
                 "level": 1,
                 "description": {
                     "en": "Attack +3",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Attack +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Attack +9",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Attack +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Attack +15",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 6,
                 "description": {
                     "en": "Attack +18",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 7,
                 "description": {
                     "en": "Attack +21",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -192,21 +192,21 @@
                 "level": 1,
                 "description": {
                     "en": "Prevents water from slowing movement.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Prevents water from slowing movement and improves evasion while in water.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents water from slowing movement and greatly improves evasion while in water.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -225,7 +225,7 @@
                 "level": 1,
                 "description": {
                     "en": "Makes it easier to cook well-done steaks.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -244,21 +244,21 @@
                 "level": 1,
                 "description": {
                     "en": "Blast buildup +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Blast buildup +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Blast buildup +20%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -277,21 +277,21 @@
                 "level": 1,
                 "description": {
                     "en": "Delays blastblight and reduces blast damage.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Greatly delays blastblight and greatly reduces blast damage.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents blastblight.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -310,21 +310,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces damage while bleeding.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Greatly reduces damage while bleeding.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents bleeding.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -343,21 +343,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of all elemental blights by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of all elemental blights by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Nullifies all elemental blights.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -376,7 +376,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the success rate of flash effects.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -395,21 +395,21 @@
                 "level": 1,
                 "description": {
                     "en": "Explosive power +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Explosive power +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Explosive power +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -428,28 +428,28 @@
                 "level": 1,
                 "description": {
                     "en": "One extra consumable herb item per gather.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "One extra consumable herb, fruit, nut, or seed item per gather.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "One extra consumable herb, fruit, nut, seed, or insect item per gather.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -468,7 +468,7 @@
                 "level": 1,
                 "description": {
                     "en": "Loading capacity +1",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -487,7 +487,7 @@
                 "level": 1,
                 "description": {
                     "en": "Prevents knockback while carving.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -506,7 +506,7 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces stamina depletion while climbing by 25%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -525,35 +525,35 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces fixed stamina depletion by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces fixed stamina depletion by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Reduces fixed stamina depletion by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Reduces fixed stamina depletion by 40%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Reduces fixed stamina depletion by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -572,21 +572,21 @@
                 "level": 1,
                 "description": {
                     "en": "Increases damage dealt by critical hits by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Increases damage dealt by critical hits by 35%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Increases damage dealt by critical hits by 40%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -605,21 +605,21 @@
                 "level": 1,
                 "description": {
                     "en": "Draw attack affinity +30%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Draw attack affinity +60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Draw attack affinity +100%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -638,49 +638,49 @@
                 "level": 1,
                 "description": {
                     "en": "Affinity +3%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Affinity +6%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Affinity +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Affinity +15%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Affinity +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 6,
                 "description": {
                     "en": "Affinity +25%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 7,
                 "description": {
                     "en": "Affinity +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -699,49 +699,49 @@
                 "level": 1,
                 "description": {
                     "en": "Defense +5",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Defense +10",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Defense +15",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Defense +20 and All Elemental Resistances +3",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Defense +25 and All Elemental Resistances +3",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 6,
                 "description": {
                     "en": "Defense +30 and All Elemental Resistances +3",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 7,
                 "description": {
                     "en": "Defense +35 and All Elemental Resistances +3",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -760,7 +760,7 @@
                 "level": 1,
                 "description": {
                     "en": "Marks rare sites on the wildlife map.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -779,21 +779,21 @@
                 "level": 1,
                 "description": {
                     "en": "While active, reduces damage taken by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, reduces damage taken by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, reduces damage taken by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -812,35 +812,35 @@
                 "level": 1,
                 "description": {
                     "en": "Dragon attack +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Dragon attack +60",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Dragon attack +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Dragon attack +5% Bonus: +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Dragon attack +10% Bonus: +100",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -859,21 +859,21 @@
                 "level": 1,
                 "description": {
                     "en": "Dragon resistance +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Dragon resistance +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Dragon resistance +20",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -892,7 +892,7 @@
                 "level": 1,
                 "description": {
                     "en": "Makes slinger dung pods more effective at making monsters run away.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -911,35 +911,35 @@
                 "level": 1,
                 "description": {
                     "en": "Slightly reduces the effects of weak monster roars.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the effects of weak monster roars.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Nullifies weak monster roars.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Nullifies weak monster roars and reduces the effects of strong monster roars.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Nullifies weak and strong monster roars.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -958,21 +958,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces effluvial buildup.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Greatly reduces effluvial buildup.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents effluvial buildup.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -991,7 +991,7 @@
                 "level": 1,
                 "description": {
                     "en": "Nullifies damage from effluvia and reduces damage from acids.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1010,21 +1010,21 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the chances of a corpse being left behind.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Greatly increases the chances of a corpse being left behind.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Makes it so corpses will always be left behind.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1043,21 +1043,21 @@
                 "level": 1,
                 "description": {
                     "en": "Slightly extends evasion distance.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Extends evasion distance.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Greatly extends evasion distance.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1076,35 +1076,35 @@
                 "level": 1,
                 "description": {
                     "en": "Very slightly increases invulnerability window.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Slightly increases invulnerability window.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Increases invulnerability window.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Greatly increases invulnerability window.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Massively increases invulnerability window.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1123,35 +1123,35 @@
                 "level": 1,
                 "description": {
                     "en": "Fire attack +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Fire attack +60",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Fire attack +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Fire attack +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Fire attack +10%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1170,21 +1170,21 @@
                 "level": 1,
                 "description": {
                     "en": "Fire resistance +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Fire resistance +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Fire resistance +20",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1203,21 +1203,21 @@
                 "level": 1,
                 "description": {
                     "en": "Prevents knockbacks.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Prevents standard knockbacks. Tripping is reduced to a knockback instead.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents knockbacks and tripping.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1236,21 +1236,21 @@
                 "level": 1,
                 "description": {
                     "en": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Increases gauge fill rate by 10% and reduces charge times by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Increases gauge fill rate by 20% and reduces charge times by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1269,7 +1269,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the likelihood of rare gathering points respawning.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1288,7 +1288,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases attack by 10% and defense by 15% with each use.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1307,21 +1307,21 @@
                 "level": 1,
                 "description": {
                     "en": "Draws out 33% of hidden element and expands clip size for some ammo.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Draws out 66% of hidden element and expands clip size for many ammo.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Draws out 100% of hidden element and expands clip size for most ammo.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1340,7 +1340,7 @@
                 "level": 1,
                 "description": {
                     "en": "Adtivates 25% of the time.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1359,21 +1359,21 @@
                 "level": 1,
                 "description": {
                     "en": "Allows you to gather one extra time from bonepiles.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Allows you to gather one extra time from bonepiles and special item gathering points.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1392,35 +1392,35 @@
                 "level": 1,
                 "description": {
                     "en": "Very slightly decreases the impact of attacks.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Slightly decreases the impact of attacks and reduces stmina depletion by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Greatly decreases the impact of attacks and reduces stamina depletion by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Grearly decreases the imapct of attacks and reduces stamina depletion by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Massively decreases the impact of attacks and reduces stamina depletion by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1439,35 +1439,35 @@
                 "level": 1,
                 "description": {
                     "en": "Weapon sharpness +10",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Weapon sharpness +20",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Weapon sharpness +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Weapon sharpness +40",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Weapon sharpness +50",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1486,21 +1486,21 @@
                 "level": 1,
                 "description": {
                     "en": "Health +15",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Health +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Health +50",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1519,7 +1519,7 @@
                 "level": 1,
                 "description": {
                     "en": "Nullifies heat damage.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1538,14 +1538,14 @@
                 "level": 1,
                 "description": {
                     "en": "Firepower +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Firepower +20%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1564,35 +1564,35 @@
                 "level": 1,
                 "description": {
                     "en": "While active, Attack +5% and Defense +15",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, Attack +10% and Defense +20",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, Attack +15% and Defense +25",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "While active, Attack +20% and Defense +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "While active, Attack +30% and Defense +40",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1611,7 +1611,7 @@
                 "level": 1,
                 "description": {
                     "en": "One extra honey per gather.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1630,7 +1630,7 @@
                 "level": 1,
                 "description": {
                     "en": "Extends melody effect duration and increases health recovery.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1649,21 +1649,21 @@
                 "level": 1,
                 "description": {
                     "en": "Extends the time until your stamina cap decreases by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Extends the time until your stamina cap decreases by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents your stamina cap from decreasing.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1682,35 +1682,35 @@
                 "level": 1,
                 "description": {
                     "en": "Ice attack +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Ice attack +60",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Ice attack +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Ice attack +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Ice attack +10%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1729,21 +1729,21 @@
                 "level": 1,
                 "description": {
                     "en": "Ice resistance +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Ice resistance +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Ice resistance +20",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1762,21 +1762,21 @@
                 "level": 1,
                 "description": {
                     "en": "Discourages monsters from engaging you even if you've been spotted.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Highly discourages monsters from engaging you even if you've been spotted.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents monsters from engaging you even if you've been spotted.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1795,21 +1795,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of Defense Down by 30%,",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of Defense Down by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents Defense Down.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1828,21 +1828,21 @@
                 "level": 1,
                 "description": {
                     "en": "Item effect duration +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Item effect duration +25%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Item effect duration +50%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1861,7 +1861,7 @@
                 "level": 1,
                 "description": {
                     "en": "Negates knockback during jumps.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1880,35 +1880,35 @@
                 "level": 1,
                 "description": {
                     "en": "While active, increases affinity by 10% and reduces stamina depletion by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, increases affinity by 20% and reduces stamina depletion by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, increases affinity by 30% and reduces stamina depletion by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "While active, increases affinity by 40% and reduces stamina depletion by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "While active, increases affinity by 50% and reduces stamina depletion by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1927,7 +1927,7 @@
                 "level": 1,
                 "description": {
                     "en": "Enables Leap of Faith.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1946,21 +1946,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces continuous stamina depletion by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces continuous stamina depletion by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Reduces continuous stamina depletion by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1979,7 +1979,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the time window for reeling in fish, and makes it easier to catch large fish.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -1998,7 +1998,7 @@
                 "level": 1,
                 "description": {
                     "en": "Speeds up gathering and prevents knockbacks while gathering.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2017,7 +2017,7 @@
                 "level": 1,
                 "description": {
                     "en": "Makes it easier to mount monsters and down mounted monsters.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2036,21 +2036,21 @@
                 "level": 1,
                 "description": {
                     "en": "While active, increases affinity by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, increases affinity by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, increases affinity by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2069,21 +2069,21 @@
                 "level": 1,
                 "description": {
                     "en": "Lets you digest blue mushrooms and toadstools.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Additionally lets you digest nitroshrooms and parashrooms.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Additionally lets you digest mandragoras, devil's blight, and exciteshrooms.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2102,7 +2102,7 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces limits on movement speed and evasion.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2121,7 +2121,7 @@
                 "level": 1,
                 "description": {
                     "en": "Raises base attack for non-elemental weapons.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2140,7 +2140,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the power of normal ammo and normal arrows.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2159,35 +2159,35 @@
                 "level": 1,
                 "description": {
                     "en": "Increases Palico attack power and defense by 5%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Increases Palico attack power and defense by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Increases Palico attack power and defense by 15%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Increases Palico attack power and defense by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Increases Palico attack power and defense by 25%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2206,21 +2206,21 @@
                 "level": 1,
                 "description": {
                     "en": "Paralysis buildup +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Paralysis buildup +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Paralysis buildup +20%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2239,21 +2239,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of paralysis by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of paralysis by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents paralysis.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2272,21 +2272,21 @@
                 "level": 1,
                 "description": {
                     "en": "Part damage +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Part damage +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Part damage +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2305,21 +2305,21 @@
                 "level": 1,
                 "description": {
                     "en": "While active, grants attack +5.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, grants attack +10.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, grants attack +20.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2338,7 +2338,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the power of piercing ammo and Dragon Piercer.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2357,21 +2357,21 @@
                 "level": 1,
                 "description": {
                     "en": "Poison buildup +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Poison buildup +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Poison buildup +20%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2390,7 +2390,7 @@
                 "level": 1,
                 "description": {
                     "en": "Lets you use poison coating.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2409,21 +2409,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of poison by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of poison by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents poison.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2442,21 +2442,21 @@
                 "level": 1,
                 "description": {
                     "en": "Bonus duration +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Bonus duration +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Bonus duration +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2475,7 +2475,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases movement speed while transporting and reduces downtime on landings.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2494,21 +2494,21 @@
                 "level": 1,
                 "description": {
                     "en": "Slightly increases sheathing speed.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Moderately increases sheathing speed.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Greatly increases sheathing speed.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2527,21 +2527,21 @@
                 "level": 1,
                 "description": {
                     "en": "Doubles the speed at which you heal recoverable damage.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Triples the speed at which you heal recoverable damage.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Quadruples the speed at which you heal recoverable damage.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2560,21 +2560,21 @@
                 "level": 1,
                 "description": {
                     "en": "Recovery +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Recovery +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Recovery +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2593,35 +2593,35 @@
                 "level": 1,
                 "description": {
                     "en": "While active, grants attack +5.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "While active, grants attack +10.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "While active, grants attack +15.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "While active, grants attack +20.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "While active, grants attack +25.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2640,7 +2640,7 @@
                 "level": 1,
                 "description": {
                     "en": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2659,7 +2659,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases gauge fill rate by 50%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2678,7 +2678,7 @@
                 "level": 1,
                 "description": {
                     "en": "Speeds up progress on research levels and special investigations.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2697,7 +2697,7 @@
                 "level": 1,
                 "description": {
                     "en": "Expands your scoutflies' detection range.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2716,21 +2716,21 @@
                 "level": 1,
                 "description": {
                     "en": "Sleep buildup +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Sleep buildup +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Sleep buildup +20%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2749,21 +2749,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of sleep by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of sleep by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents sleep.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2782,21 +2782,21 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "In addition, increases the loading capacity for some slinger ammo dropped by monsters.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "In addition, increases the loading capacity for all slinger ammo dropped by monsters.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2815,21 +2815,21 @@
                 "level": 1,
                 "description": {
                     "en": "Stun power +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Stun power +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Stun power +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2848,14 +2848,14 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Increases the power of bowgun special ammo and Dragon Piercer by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2874,7 +2874,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases movement speed while crouching.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2893,21 +2893,21 @@
                 "level": 1,
                 "description": {
                     "en": "Slightly increases item use speed.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Moderately increases item use speed.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Greatly increases item use speed.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2926,21 +2926,21 @@
                 "level": 1,
                 "description": {
                     "en": "Removes one cycle from the sharpening process.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Removes two cycles from the sharpening process.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Removes three cycles from the sharpening process.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2959,21 +2959,21 @@
                 "level": 1,
                 "description": {
                     "en": "Sporepuffs restore 20 health.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Sporepuffs restore 35 health.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Sporepuffs restore 60 health.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -2992,7 +2992,7 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the power of spread ammo and power shot arrows.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3011,21 +3011,21 @@
                 "level": 1,
                 "description": {
                     "en": "Stamina recovery speed +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Stamina recovery speed +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Stamina recovery speed +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3044,21 +3044,21 @@
                 "level": 1,
                 "description": {
                     "en": "Exhaust power +10%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Exhaust power +20%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Exhaust power +30%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3077,21 +3077,21 @@
                 "level": 1,
                 "description": {
                     "en": "Makes it slightly easier for monsters to lose sight of you.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Makes it moderately easier for monsters to lose sight of you.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Makes it much easier for monsters to lose sight of you.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3110,21 +3110,21 @@
                 "level": 1,
                 "description": {
                     "en": "Reduces the duration of stun by 30%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the duration of stun by 60%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Prevents stun.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3143,35 +3143,35 @@
                 "level": 1,
                 "description": {
                     "en": "Thunder attack +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Thunder attack +60",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Thunder attack +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Thunder attack +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Thunder attack +10%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3190,21 +3190,21 @@
                 "level": 1,
                 "description": {
                     "en": "Thunder resistance +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Thunder resistance +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Thunder resistance +20",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3223,21 +3223,21 @@
                 "level": 1,
                 "description": {
                     "en": "Shortens time until reuse by 5%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Shortens time until reuse by 10%.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Shortens time until reuse by 20%.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3256,21 +3256,21 @@
                 "level": 1,
                 "description": {
                     "en": "Nullifies minor ground tremors.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Nullifies minor and major ground tremors.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3289,35 +3289,35 @@
                 "level": 1,
                 "description": {
                     "en": "Water attack +30",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Water attack +60",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Water attack +100",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Water attack +5%",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Water attack +10%",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3336,21 +3336,21 @@
                 "level": 1,
                 "description": {
                     "en": "Water resistance +6",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Water resistance +12",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Water resistance +20",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3369,21 +3369,21 @@
                 "level": 1,
                 "description": {
                     "en": "Attacks that hit weak spots have 15% increased affinity.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Attacks that hit weak spots have 30% increased affinity.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Attacks that hit weak spots have 50% increased affinity.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3402,35 +3402,35 @@
                 "level": 1,
                 "description": {
                     "en": "Items affect nearby allies with 33% of their efficacy.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Items affect nearby allies in a wider radius with 33% of their efficacy.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Items affect nearby allies in a wider radius at 66% of their efficacy.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Items affect nearby allies in a much wider radius with 66% of their efficacy.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Items affect nearby allies in a much wider radius with full efficacy.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
@@ -3449,35 +3449,35 @@
                 "level": 1,
                 "description": {
                     "en": "Slightly reduces the effects of minor wind pressure.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 2,
                 "description": {
                     "en": "Reduces the effects of minor wind pressure.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 3,
                 "description": {
                     "en": "Negates minor wind pressure.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 4,
                 "description": {
                     "en": "Negates minor wind pressure and reduces the effects of major wind pressure.",
-                    "jp": null
+                    "ja": null
                 }
             },
             {
                 "level": 5,
                 "description": {
                     "en": "Negates minor and major wind pressure.",
-                    "jp": null
+                    "ja": null
                 }
             }
         ]
