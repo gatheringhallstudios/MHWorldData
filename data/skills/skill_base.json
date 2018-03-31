@@ -285,7 +285,7 @@
     {
         "name": {
             "en": "Blast Functionality",
-            "ja": null
+            "ja": "爆破ビン追加"
         },
         "description": {
             "en": "Allows you to apply blast coatings.",
@@ -514,7 +514,7 @@
     {
         "name": {
             "en": "Bow Charge Plus",
-            "ja": null
+            "ja": "弓溜め段階解放"
         },
         "description": {
             "en": "Increases max bow charge level by one.",
@@ -1132,7 +1132,7 @@
     {
         "name": {
             "en": "Elderseal Boost",
-            "ja": null
+            "ja": "龍封力強化"
         },
         "description": {
             "en": "Increases the Elderseal of weapons and dragon ammo.",
@@ -1599,7 +1599,7 @@
     {
         "name": {
             "en": "Guard Up",
-            "ja": null
+            "ja": "ガード強化"
         },
         "description": {
             "en": "Allows you to guard against ordinarily unblockable attacks.",
@@ -2305,7 +2305,7 @@
     {
         "name": {
             "en": "Mind's Eye/Ballistics",
-            "ja": null
+            "ja": "心眼/弾導強化"
         },
         "description": {
             "en": "Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.",
@@ -2376,7 +2376,7 @@
     {
         "name": {
             "en": "Non-elemental Boost",
-            "ja": ""
+            "ja": "無属性強化"
         },
         "description": {
             "en": "Powers up non-elemental weapons you have equipped.",
@@ -2386,7 +2386,7 @@
             {
                 "level": 1,
                 "description": {
-                    "en": "Raises base attack for non-elemental weapons.",
+                    "en": "Raises base attack for non-elemental weapons by 10%.",
                     "ja": null
                 }
             }
@@ -2480,7 +2480,7 @@
     {
         "name": {
             "en": "Para Functionality",
-            "ja": null
+            "ja": "麻痺ビン追加"
         },
         "description": {
             "en": "Allows you to apply paralysis coatings.",
@@ -2702,7 +2702,7 @@
     {
         "name": {
             "en": "Poison Functionality",
-            "ja": ""
+            "ja": "毒ビン追加"
         },
         "description": {
             "en": "Allows you to apply poison coatings.",
@@ -2806,7 +2806,7 @@
     {
         "name": {
             "en": "Protective Polish",
-            "ja": null
+            "ja": "剛刃研磨"
         },
         "description": {
             "en": "Weapon sharpness does not decrease for a set time after sharpening.",
@@ -3118,7 +3118,7 @@
     {
         "name": {
             "en": "Sleep Functionality",
-            "ja": null
+            "ja": "睡眠ビン追加"
         },
         "description": {
             "en": "Allows you to apply sleep coatings.",
