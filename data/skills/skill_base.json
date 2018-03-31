@@ -1,6 +1,25 @@
 [
     {
         "name": {
+            "en": "Adrenaline",
+            "ja": null
+        },
+        "description": {
+            "en": "Temporarily reduces stamina depletion when health is at 40% or lower.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Temporarily reduces stamina depletion when health is at 40% or lower.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Affinity Sliding",
             "ja": "滑走強化"
         },
@@ -79,6 +98,39 @@
                 "level": 1,
                 "description": {
                     "en": "Jumping attack power +10%",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Aquatic Expert",
+            "ja": "水場適応"
+        },
+        "description": {
+            "en": "Improves mobility in water.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Prevents water from slowing movement.",
+                    "ja": null
+                }
+            },
+            {
+                "level": 2,
+                "description": {
+                    "en": "Prevents water from slowing movement and improves evasion while in water.",
+                    "ja": null
+                }
+            },
+            {
+                "level": 3,
+                "description": {
+                    "en": "Prevents water from slowing movement and greatly improves evasion while in water.",
                     "ja": null
                 }
             }
@@ -180,39 +232,6 @@
     },
     {
         "name": {
-            "en": "Aquatic Expert",
-            "ja": "水場適応"
-        },
-        "description": {
-            "en": "Improves mobility in water.",
-            "ja": null
-        },
-        "effects": [
-            {
-                "level": 1,
-                "description": {
-                    "en": "Prevents water from slowing movement.",
-                    "ja": null
-                }
-            },
-            {
-                "level": 2,
-                "description": {
-                    "en": "Prevents water from slowing movement and improves evasion while in water.",
-                    "ja": null
-                }
-            },
-            {
-                "level": 3,
-                "description": {
-                    "en": "Prevents water from slowing movement and greatly improves evasion while in water.",
-                    "ja": null
-                }
-            }
-        ]
-    },
-    {
-        "name": {
             "en": "BBQ Master",
             "ja": "肉焼き名人"
         },
@@ -258,6 +277,25 @@
                 "level": 3,
                 "description": {
                     "en": "Blast buildup +20%",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Blast Functionality",
+            "ja": null
+        },
+        "description": {
+            "en": "Allows you to apply blast coatings.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Lets you use blast coating.",
                     "ja": null
                 }
             }
@@ -383,6 +421,25 @@
     },
     {
         "name": {
+            "en": "Bludgeoner",
+            "ja": null
+        },
+        "description": {
+            "en": "Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Bombardier",
             "ja": "ボマー"
         },
@@ -456,6 +513,25 @@
     },
     {
         "name": {
+            "en": "Bow Charge Plus",
+            "ja": null
+        },
+        "description": {
+            "en": "Increases max bow charge level by one.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Increases max bow charge level by one.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Capacity Boost",
             "ja": "砲弾装填数UP"
         },
@@ -468,6 +544,25 @@
                 "level": 1,
                 "description": {
                     "en": "Loading capacity +1",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Capture Master",
+            "ja": null
+        },
+        "description": {
+            "en": "High chance of increased capture rewards. (No effect when joining mid-quest.)",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "High chance of increased capture rewards. (No effect when joining mid-quest.)",
                     "ja": null
                 }
             }
@@ -626,6 +721,25 @@
     },
     {
         "name": {
+            "en": "Critical Element",
+            "ja": null
+        },
+        "description": {
+            "en": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Critical Eye",
             "ja": "見切り"
         },
@@ -680,6 +794,25 @@
                 "level": 7,
                 "description": {
                     "en": "Affinity +30%",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Critical Status",
+            "ja": null
+        },
+        "description": {
+            "en": "Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits.",
                     "ja": null
                 }
             }
@@ -991,6 +1124,25 @@
                 "level": 1,
                 "description": {
                     "en": "Nullifies damage from effluvia and reduces damage from acids.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Elderseal Boost",
+            "ja": null
+        },
+        "description": {
+            "en": "Increases the Elderseal of weapons and dragon ammo.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Boosts Elderseal one level.",
                     "ja": null
                 }
             }
@@ -1380,6 +1532,25 @@
     },
     {
         "name": {
+            "en": "Good Luck",
+            "ja": null
+        },
+        "description": {
+            "en": "Good chance of increased quest rewards. (No effect when joining mid-quest.)",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Good chance of increased quest rewards. (No effect when joining mid-quest.)",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Guard",
             "ja": "ガード性能"
         },
@@ -1427,6 +1598,44 @@
     },
     {
         "name": {
+            "en": "Guard Up",
+            "ja": null
+        },
+        "description": {
+            "en": "Allows you to guard against ordinarily unblockable attacks.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Allows you to guard against ordinarily unblockable attacks.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Guts",
+            "ja": null
+        },
+        "description": {
+            "en": "Above a certain health threshold, you withstand an attack that would normally cart you (once only).",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Above a certain health threshold, you withstand an attack that would normally cart you (once only).",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Handicraft",
             "ja": "匠"
         },
@@ -1467,6 +1676,25 @@
                 "level": 5,
                 "description": {
                     "en": "Weapon sharpness +50",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Hasten Recovery",
+            "ja": null
+        },
+        "description": {
+            "en": "Regenerates your health as you continually attack a monster. Recovery varies by weapon.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Regenerates your health as you continually attack a monster. Recovery varies by weapon.",
                     "ja": null
                 }
             }
@@ -2024,6 +2252,25 @@
     },
     {
         "name": {
+            "en": "Master's Touch",
+            "ja": null
+        },
+        "description": {
+            "en": "Prevents your weapon from losing sharpness during critical hits.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Prevents your weapon from losing sharpness during critical hits.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Maximum Might",
             "ja": "渾身"
         },
@@ -2050,6 +2297,44 @@
                 "level": 3,
                 "description": {
                     "en": "While active, increases affinity by 30%.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Mind's Eye/Ballistics",
+            "ja": null
+        },
+        "description": {
+            "en": "Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Muck Resistance",
+            "ja": "泥耐性"
+        },
+        "description": {
+            "en": "Reduces impairments to mobility while stuck in monster muck.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Reduces limits on movement speed and evasion.",
                     "ja": null
                 }
             }
@@ -2090,25 +2375,6 @@
     },
     {
         "name": {
-            "en": "Muck Resistance",
-            "ja": "泥耐性"
-        },
-        "description": {
-            "en": "Reduces impairments to mobility while stuck in monster muck.",
-            "ja": null
-        },
-        "effects": [
-            {
-                "level": 1,
-                "description": {
-                    "en": "Reduces limits on movement speed and evasion.",
-                    "ja": null
-                }
-            }
-        ]
-    },
-    {
-        "name": {
             "en": "Non-elemental Boost",
             "ja": ""
         },
@@ -2140,6 +2406,25 @@
                 "level": 1,
                 "description": {
                     "en": "Increases the power of normal ammo and normal arrows.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Nullify Wind Pressure",
+            "ja": null
+        },
+        "description": {
+            "en": "Negates all wind pressure.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Negates all wind pressure.",
                     "ja": null
                 }
             }
@@ -2187,6 +2472,25 @@
                 "level": 5,
                 "description": {
                     "en": "Increases Palico attack power and defense by 25%.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Para Functionality",
+            "ja": null
+        },
+        "description": {
+            "en": "Allows you to apply paralysis coatings.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Lets you use paralysis coating.",
                     "ja": null
                 }
             }
@@ -2378,6 +2682,25 @@
     },
     {
         "name": {
+            "en": "Poison Duration Up",
+            "ja": null
+        },
+        "description": {
+            "en": "Extends the duration of your poison's effect on monsters.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Extends the duration of your poison's effect on monsters.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Poison Functionality",
             "ja": ""
         },
@@ -2482,6 +2805,44 @@
     },
     {
         "name": {
+            "en": "Protective Polish",
+            "ja": null
+        },
+        "description": {
+            "en": "Weapon sharpness does not decrease for a set time after sharpening.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Weapon sharpness does not decrease for a set time after sharpening.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Punishing Draw",
+            "ja": null
+        },
+        "description": {
+            "en": "Adds a stun effect to draw attacks and slightly increases attack power.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Adds a stun effect to draw attacks and slightly increases attack power.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Quick Sheath",
             "ja": "納刀術"
         },
@@ -2508,6 +2869,25 @@
                 "level": 3,
                 "description": {
                     "en": "Greatly increases sheathing speed.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Razor Sharp/Spare Shot",
+            "ja": null
+        },
+        "description": {
+            "en": "Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo.",
                     "ja": null
                 }
             }
@@ -2730,6 +3110,25 @@
                 "level": 3,
                 "description": {
                     "en": "Sleep buildup +20%",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Sleep Functionality",
+            "ja": null
+        },
+        "description": {
+            "en": "Allows you to apply sleep coatings.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Lets you use sleep coating.",
                     "ja": null
                 }
             }
@@ -2999,6 +3398,25 @@
     },
     {
         "name": {
+            "en": "Stamina Cap Up",
+            "ja": null
+        },
+        "description": {
+            "en": "Increases stamina cap.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Increases stamina cap.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
             "en": "Stamina Surge",
             "ja": "スタミナ急速回復"
         },
@@ -3124,6 +3542,25 @@
                 "level": 3,
                 "description": {
                     "en": "Prevents stun.",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Super Recovery",
+            "ja": null
+        },
+        "description": {
+            "en": "Allows recovery to exceed the red portion of the health gauge.",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Allows recovery to exceed the red portion of the health gauge.",
                     "ja": null
                 }
             }
