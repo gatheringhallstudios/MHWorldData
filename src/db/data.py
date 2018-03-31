@@ -1,7 +1,7 @@
 # Defines SQL objects.
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, ForeignKey, Integer, Text, Boolean
+from sqlalchemy import Column, ForeignKey, Integer, Float, Text, Boolean
 
 Base = declarative_base()
 
@@ -193,3 +193,21 @@ class WeaponRecipe(Base):
     recipe_type = Column(Text, primary_key=True)
     quantity = Column(Integer)
 
+class Decoration(Base):
+    __tablename__ = 'decoration'
+
+    id = Column(Integer, primary_key=True)
+    rarity = Column(Integer)
+
+    skill_id = Column(Integer, ForeignKey("skilltree.id"))
+    slot = Column(Integer)
+
+    mysterious_feystone_chance = Column(Float)
+    glowing_feystone_chance = Column(Float)
+    worn_feystone_chance = Column(Float)
+    warped_feystone_chance = Column(Float)
+    
+class DecorationText(Base, TextMixin):
+    __tablename__ = 'decoration_text'
+
+    name = Column(Text)
