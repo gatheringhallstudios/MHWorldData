@@ -19,6 +19,7 @@ item_map = load_base_map("items/item_base.json")
 armor_map = load_base_map("armors/armor_base.json")
 armorset_map = load_base_map("armors/armorset_base.json")
 weapon_map = load_base_map("weapons/weapon_base.json")
+decoration_map = load_base_map("decorations/decoration_base.json")
 
 def build_monsters(session : sqlalchemy.orm.Session):
     # Load additional files
@@ -219,6 +220,39 @@ def build_weapons(session : sqlalchemy.orm.Session):
 
     print("Built Weapons")
 
+def build_decorations(session : sqlalchemy.orm.Session):
+    "Performs the build process for decorations. Must be done after skills"
+
+    decoration_chances = load_data_map(decoration_map, "decorations/decoration_chances.json")
+
+    for decoration_id, entry in decoration_map.items():
+        skill_id = skill_map.id_of('en', entry['skill_en'])
+        ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
+            f"skill {entry['skill_en']}, which doesn't exist.")
+
+        chance_data = decoration_chances.get(decoration_id, None)
+        ensure(chance_data, "Missing chance data for " + entry.name('en'))
+        
+        session.add(db.Decoration(
+            id=decoration_id,
+            rarity=entry['rarity'],
+            slot=entry['slot'],
+            skill_id=skill_id,
+            mysterious_feystone_chance=chance_data['mysterious_feystone_chance'],
+            glowing_feystone_chance=chance_data['glowing_feystone_chance'],
+            worn_feystone_chance=chance_data['worn_feystone_chance'],
+            warped_feystone_chance=chance_data['warped_feystone_chance']
+        ))
+
+        for language in supported_languages:
+            session.add(db.DecorationText(
+                id=decoration_id,
+                lang_id=language,
+                name=entry.name('en')
+            ))
+
+    print("Built Decorations")
+
 def build_monster_rewards(session : sqlalchemy.orm.Session):
     "Performs the build process for monster rewards. Must be done AFTER monsters and items"
     
@@ -277,5 +311,6 @@ with db.session_scope(sessionbuilder) as session:
     build_items(session)
     build_armor(session)
     build_weapons(session)
+    build_decorations(session)
     build_monster_rewards(session)
     print("Finished build")

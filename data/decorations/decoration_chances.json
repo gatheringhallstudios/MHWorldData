@@ -1,0 +1,584 @@
+{
+    "Antidote Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Geology Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Heavy Artillery Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Hungerless Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Satiated Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Protection Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Meowster Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Botany Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Tip Toe Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Flight Jewel 2": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Smoke Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Mirewalker Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Specimen Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Miasma Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Scent Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Intimidator Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Crisis Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Antipara Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Fortitude Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Water Res Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Suture Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Dragon Res Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Fire Res Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Ice Res Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Def Lock Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Thunder Res Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Pep Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Antiblast Jewel 1": {
+        "mysterious_feystone_chance": 3.036,
+        "glowing_feystone_chance": 2.321,
+        "worn_feystone_chance": 0.357,
+        "warped_feystone_chance": 0
+    },
+    "Gobbler Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Physique Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Blaze Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Evasion Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Jumping Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Sheath Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Friendship Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Enduring Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Medicine Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Grinder Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Steadfast Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Bomber Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Recovery Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Slider Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Defense Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Stonethrower Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Footing Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Brace Jewel 3": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Wind Resist Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Earplug Jewel 3": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Vitality Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Resistor Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Sonorous Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "KO Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Stream Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Frost Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Bolt Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Dragon Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Venom Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Poisoncoat Jewel 3": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Expert Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Tenderizer Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Destroyer Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Elementless Jewel 2": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Drain Jewel 1": {
+        "mysterious_feystone_chance": 0.429,
+        "glowing_feystone_chance": 0.971,
+        "worn_feystone_chance": 2.343,
+        "warped_feystone_chance": 2.2
+    },
+    "Paracoat Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Sharp Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Shield Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Dragonseal Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Trueshot Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Enhancer Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Forceshot Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Furor Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Potential Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Paralyzer Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Sleep Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Ironwall Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Refresh Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Blast Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Sleepcoat Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Blastcoat Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Throttle Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Challenger Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Attack Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Flawless Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Magazine Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Mighty Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0.045,
+        "worn_feystone_chance": 0.273,
+        "warped_feystone_chance": 0.818
+    },
+    "Sprinter Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Critical Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Artillery Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Fungiform Jewel 1": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Release Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Spread Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Charger Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Handicraft Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Mighty Bow Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Mind's Eye Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Draw Jewel 2": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    },
+    "Pierce Jewel 3": {
+        "mysterious_feystone_chance": 0,
+        "glowing_feystone_chance": 0,
+        "worn_feystone_chance": 0.167,
+        "warped_feystone_chance": 0.417
+    }
+}
