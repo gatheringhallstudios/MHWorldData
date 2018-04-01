@@ -30,32 +30,31 @@ def build_monsters(session : sqlalchemy.orm.Session):
 
         monster = db.Monster(id=entry.id)
         monster.size = entry['size']
-        session.add(monster)
 
         # todo: allow looping over language map entries for a row
         for language in supported_languages:
-            monster_text = db.MonsterText(id=entry.id, lang_id=language)
-            monster_text.name = entry.name(language)
-            monster_text.description = entry['description'][language]
-            session.add(monster_text)
+            monster.translations.append(db.MonsterText(
+                lang_id=language,
+                name=entry.name(language),
+                description=entry['description'][language]
+            ))
 
         for body_part, values in entry['hitzones'].items():
-            session.add(db.MonsterHitzone(
-                monster_id = entry.id,
+            monster.hitzones.append(db.MonsterHitzone(
                 body_part = body_part,
                 **values
             ))
+
+        session.add(monster)
             
     print("Built Monsters")
 
 def build_skills(session : sqlalchemy.orm.Session):
     for id, entry in skill_map.items():
         skilltree = db.SkillTree(id=id)
-        session.add(skilltree)
 
         for language in supported_languages:
-            session.add(db.SkillTreeText(
-                id=id, 
+            skilltree.translations.append(db.SkillTreeText(
                 lang_id=language,
                 name=entry.name(language),
                 description=entry['description'][language]
@@ -68,6 +67,8 @@ def build_skills(session : sqlalchemy.orm.Session):
                     level=effect['level'],
                     description=effect['description'][language]
                 ))
+
+        session.add(skilltree)
     
     print("Built Skills")
 
@@ -75,14 +76,14 @@ def build_items(session : sqlalchemy.orm.Session):
     # Only item names exist now...so this is simple
     for id, entry in item_map.items():
         item = db.Item(id=id)
-        session.add(item)
 
         for language in supported_languages:
-            session.add(db.ItemText(
-                id=id,
+            item.translations.append(db.ItemText(
                 lang_id=language,
                 name=entry.name(language)
             ))
+
+        session.add(item)
     
     print("Built Items")
 
@@ -121,11 +122,8 @@ def build_armor(session : sqlalchemy.orm.Session):
         ensure(armorset_id, f"Armorset {entry['set']} in Armor {armor_name_en} does not exist")
         armor.armorset_id = armorset_id
 
-        session.add(armor)
-
         for language in supported_languages:
-            session.add(db.ArmorText(
-                id=armor_id, 
+            armor.translations.append(db.ArmorText(
                 lang_id=language, 
                 name=entry.name(language)
             ))
@@ -135,8 +133,7 @@ def build_armor(session : sqlalchemy.orm.Session):
             skill_id = skill_map.id_of('en', skill)
             ensure(skill_id, f"Skill {skill} in Armor {armor_name_en} does not exist")
             
-            session.add(db.ArmorSkill(
-                armor_id = armor_id,
+            armor.skills.append(db.ArmorSkill(
                 skill_id = skill_id,
                 level = level
             ))
@@ -146,11 +143,12 @@ def build_armor(session : sqlalchemy.orm.Session):
             item_id = item_map.id_of('en', item)
             ensure(item_id, f"Item {item} in Armor {armor_name_en} does not exist")
             
-            session.add(db.ArmorRecipe(
-                armor_id = armor_id,
+            armor.craft_items.append(db.ArmorRecipe(
                 item_id = item_id,
                 quantity = quantity
             ))
+
+        session.add(armor)
 
     print("Built Armor")
 
@@ -196,14 +194,14 @@ def build_weapons(session : sqlalchemy.orm.Session):
         if entry.get('previous', None):
             previous_weapon_id = weapon_map.id_of("en", entry['previous'])
             ensure(previous_weapon_id, f"Weapon {entry['previous']} does not exist")
-            weapon.previous_weapon = previous_weapon_id
-
-        session.add(weapon)
+            weapon.previous_weapon_id = previous_weapon_id
 
         # Add language translations
         for language in supported_languages:
-            weapon_name = entry.name(language)
-            session.add(db.WeaponText(id=weapon_id, lang_id=language, name=weapon_name))
+            weapon.translations.append(db.WeaponText(
+                lang_id = language,
+                name = entry.name(language)
+            ))
 
         # Add crafting/upgrade recipes
         for recipe_type in ('craft', 'upgrade'):
@@ -217,6 +215,8 @@ def build_weapons(session : sqlalchemy.orm.Session):
                     quantity = quantity,
                     recipe_type = recipe_type
                 ))
+        
+        session.add(weapon)
 
     print("Built Weapons")
 
@@ -233,7 +233,7 @@ def build_decorations(session : sqlalchemy.orm.Session):
         chance_data = decoration_chances.get(decoration_id, None)
         ensure(chance_data, "Missing chance data for " + entry.name('en'))
         
-        session.add(db.Decoration(
+        decoration = db.Decoration(
             id=decoration_id,
             rarity=entry['rarity'],
             slot=entry['slot'],
@@ -242,14 +242,15 @@ def build_decorations(session : sqlalchemy.orm.Session):
             glowing_feystone_chance=chance_data['glowing_feystone_chance'],
             worn_feystone_chance=chance_data['worn_feystone_chance'],
             warped_feystone_chance=chance_data['warped_feystone_chance']
-        ))
+        )
 
         for language in supported_languages:
-            session.add(db.DecorationText(
-                id=decoration_id,
+            decoration.translations.append(db.DecorationText(
                 lang_id=language,
                 name=entry.name('en')
             ))
+
+        session.add(decoration)
 
     print("Built Decorations")
 
