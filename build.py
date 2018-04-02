@@ -20,6 +20,7 @@ armor_map = load_base_map("armors/armor_base.json")
 armorset_map = load_base_map("armors/armorset_base.json")
 weapon_map = load_base_map("weapons/weapon_base.json")
 decoration_map = load_base_map("decorations/decoration_base.json")
+charm_map = load_base_map('charms/charm_base.json')
 
 def build_monsters(session : sqlalchemy.orm.Session):
     # Load additional files
@@ -254,6 +255,40 @@ def build_decorations(session : sqlalchemy.orm.Session):
 
     print("Built Decorations")
 
+def build_charms(session : sqlalchemy.orm.Session):
+    for charm_id, entry in charm_map.items():
+        charm = db.Charm(id=charm_id)
+
+        for language in supported_languages:
+            charm.translations.append(db.CharmText(
+                lang_id=language,
+                name=entry.name(language)
+            ))
+
+        for skill_en, level in entry['skills'].items():
+            skill_id = skill_map.id_of('en', skill_en)
+            ensure(skill_id, f"Charm {entry.name('en')} refers to " +
+                f"item {skill_en}, which doesn't exist.")
+
+            charm.skills.append(db.CharmSkill(
+                skill_id=skill_id,
+                level=level
+            ))
+
+        for item_en, quantity in entry['craft'].items():
+            item_id = item_map.id_of('en', item_en)
+            ensure(item_id, f"Charm {entry.name('en')} refers to " +
+                f"item {item_en}, which doesn't exist.")
+
+            charm.craft_items.append(db.CharmRecipe(
+                item_id=item_id,
+                quantity=quantity
+            ))
+
+        session.add(charm)
+
+    print("Built Charms")
+
 def build_monster_rewards(session : sqlalchemy.orm.Session):
     "Performs the build process for monster rewards. Must be done AFTER monsters and items"
     
@@ -313,5 +348,7 @@ with db.session_scope(sessionbuilder) as session:
     build_armor(session)
     build_weapons(session)
     build_decorations(session)
+    build_charms(session)
     build_monster_rewards(session)
-    print("Finished build")
+    
+print("Finished build")

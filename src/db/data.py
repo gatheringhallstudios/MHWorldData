@@ -239,3 +239,30 @@ class DecorationText(Base):
     id = Column(Integer, ForeignKey('decoration.id'), primary_key=True)
     lang_id = Column(Text, primary_key=True)
     name = Column(Text)
+
+class Charm(Base):
+    __tablename__ = 'charm'
+
+    id = Column(Integer, primary_key=True)
+
+    skills = relationship('CharmSkill')
+    craft_items = relationship('CharmRecipe')
+    translations = relationship('CharmText')
+
+class CharmSkill(Base):
+    __tablename__ = 'charm_skill'
+    charm_id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
+    skill_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    level = Column(Integer)
+
+class CharmRecipe(Base):
+    __tablename__ = 'charm_recipe'
+    charm_id = Column(Integer, ForeignKey("charm.id"), primary_key=True)
+    item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
+    quantity = Column(Integer)
+
+class CharmText(Base):
+    __tablename__ = 'charm_text'
+    id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
+    name = Column(Text)
