@@ -2,12 +2,9 @@
 
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, ForeignKey, Integer, Float, Text, Boolean
+from sqlalchemy.orm import relationship
 
 Base = declarative_base()
-
-class TextMixin():
-    id = Column(Integer, primary_key=True)
-    lang_id = Column(Text, primary_key=True)
 
 class Monster(Base):
     __tablename__ = 'monster'
@@ -15,9 +12,15 @@ class Monster(Base):
     id = Column(Integer, primary_key=True)
     size = Column(Text)
 
-class MonsterText(Base, TextMixin):
+    translations = relationship("MonsterText")
+    hitzones = relationship("MonsterHitzone")
+    rewards = relationship("MonsterReward")
+
+class MonsterText(Base):
     __tablename__ = 'monster_text'
 
+    id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
@@ -57,13 +60,19 @@ class SkillTree(Base):
 
     id = Column(Integer, primary_key=True)
 
-class SkillTreeText(Base, TextMixin):
+    translations = relationship("SkillTreeText")
+    # todo: decide the relationship to skill, and whether skill should be skill_text
+
+class SkillTreeText(Base):
     __tablename__ = 'skilltree_text'
 
+    id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
 class Skill(Base):
+    "Represents a skill in a skill tree. These are tied to a language"
     __tablename__ = 'skill'
     skilltree_id = Column(Integer, primary_key=True)
     lang_id = Column(Text, primary_key=True)
@@ -75,10 +84,14 @@ class Item(Base):
 
     id = Column(Integer, primary_key=True)
 
-class ItemText(Base, TextMixin):
-    __tablename__ = "item_text"
+    translations = relationship("ItemText")
 
+class ItemText(Base):
+    __tablename__ = "item_text"
+    id = Column(Integer, ForeignKey('item.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
+    description = Column(Text)
 
 class Armor(Base):
     __tablename__ = "armor"
@@ -102,26 +115,32 @@ class Armor(Base):
     ice = Column(Integer)
     dragon = Column(Integer)
 
-class ArmorText(Base, TextMixin):
+    translations = relationship("ArmorText")
+    skills = relationship("ArmorSkill")
+    craft_items = relationship("ArmorRecipe")
+
+class ArmorText(Base):
     __tablename__ = "armor_text"
-    
+    id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
 
-class ArmorSet(Base, TextMixin):
+class ArmorSet(Base):
     __tablename__ = "armorset_text"
-
+    id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
 
 class ArmorSkill(Base):
     __tablename__ = 'armor_skill'
-    armor_id = Column(Integer, primary_key=True)
-    skill_id = Column(Integer, primary_key=True)
+    armor_id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
+    skill_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     level = Column(Integer)
 
 class ArmorRecipe(Base):
     __tablename__ = 'armor_recipe'
-    armor_id = Column(Integer, primary_key=True)
-    item_id = Column(Integer, primary_key=True)
+    armor_id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
+    item_id = Column(Integer, ForeignKey('item.id'), primary_key=True)
     quantity = Column(Integer)
 
 class Weapon(Base):
@@ -141,7 +160,7 @@ class Weapon(Base):
 
     # todo: sharpness, once we decide how we're storing it
 
-    previous_weapon = Column(ForeignKey("weapon.id"), nullable=True)
+    previous_weapon_id = Column(ForeignKey("weapon.id"), nullable=True)
     craftable = Column(Boolean, default=False)
     final = Column(Boolean, default=False)
 
@@ -181,9 +200,15 @@ class Weapon(Base):
     ammo_armor = Column(Integer)
     ammo_tranq = Column(Integer)
 
-class WeaponText(Base, TextMixin):
-    __tablename__ = "weapon_text"
+    translations = relationship("WeaponText")
 
+    # TODO: Find a way to create two relationships: one to craft, one to upgrade.
+    # the above will require more sqlalchemy knowledge that unfortunately I don't have.
+
+class WeaponText(Base):
+    __tablename__ = "weapon_text"
+    id = Column(Integer, ForeignKey('weapon.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)
 
 class WeaponRecipe(Base):
@@ -206,8 +231,38 @@ class Decoration(Base):
     glowing_feystone_chance = Column(Float)
     worn_feystone_chance = Column(Float)
     warped_feystone_chance = Column(Float)
-    
-class DecorationText(Base, TextMixin):
-    __tablename__ = 'decoration_text'
 
+    translations = relationship("DecorationText")
+    
+class DecorationText(Base):
+    __tablename__ = 'decoration_text'
+    id = Column(Integer, ForeignKey('decoration.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
+    name = Column(Text)
+
+class Charm(Base):
+    __tablename__ = 'charm'
+
+    id = Column(Integer, primary_key=True)
+
+    skills = relationship('CharmSkill')
+    craft_items = relationship('CharmRecipe')
+    translations = relationship('CharmText')
+
+class CharmSkill(Base):
+    __tablename__ = 'charm_skill'
+    charm_id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
+    skill_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    level = Column(Integer)
+
+class CharmRecipe(Base):
+    __tablename__ = 'charm_recipe'
+    charm_id = Column(Integer, ForeignKey("charm.id"), primary_key=True)
+    item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
+    quantity = Column(Integer)
+
+class CharmText(Base):
+    __tablename__ = 'charm_text'
+    id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
     name = Column(Text)

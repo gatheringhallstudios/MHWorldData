@@ -59,3 +59,19 @@ class TestDataMap(unittest.TestCase):
         
         found = [(id, entry) for (id, entry) in map.items()]
         self.assertEqual(found, expected_entries, msg="Expected map entries to match")
+
+    def test_set_value_after_item(self):
+        test_keys = [ 'test1', 'test2', 'test3', 'test4']
+        test_dict = { k:1 for k in test_keys }
+        test_dict['name'] = { 'en': 'a test' } # required field
+
+        datamap = DataMap()
+        entry = datamap.add_entry(1, test_dict)
+
+        entry.set_value('NEW', 1, after='test2')
+
+        # note: name exists because it was manually added to test_dict
+        expected_keys = ['test1', 'test2', 'NEW', 'test3', 'test4', 'name']
+        entry_keys = list(entry.keys())
+        self.assertEqual(entry_keys, expected_keys, 
+            msg="Expected new to be after test2")
