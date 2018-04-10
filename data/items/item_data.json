@@ -1,0 +1,2140 @@
+{
+    "Antidote": {
+        "sell_price": 6,
+        "buy_price": 0,
+        "carry_capacity": 10,
+        "botanical_research_sources": []
+    },
+    "Herbal Medicine": {
+        "sell_price": 25,
+        "buy_price": 0,
+        "carry_capacity": 5,
+        "botanical_research_sources": []
+    },
+    "Nulberry": {
+        "sell_price": 120,
+        "buy_price": 0,
+        "carry_capacity": 10,
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "4",
+                "wait_time": "2"
+            }
+        ]
+    },
+    "Nutrients": {
+        "sell_price": 25,
+        "buy_price": 0,
+        "carry_capacity": 5,
+        "botanical_research_sources": []
+    },
+    "Mega Nutrients": {
+        "sell_price": 92,
+        "buy_price": 0,
+        "carry_capacity": 5,
+        "botanical_research_sources": []
+    },
+    "Lifepowder": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Blue Mushroom": {
+        "sell_price": 2,
+        "buy_price": 0,
+        "carry_capacity": 10,
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "2",
+                "wait_time": "1"
+            }
+        ]
+    },
+    "Bitterbug": {
+        "sell_price": 2,
+        "buy_price": 0,
+        "carry_capacity": 10,
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "2",
+                "wait_time": "1"
+            }
+        ]
+    },
+    "Godbug": {
+        "sell_price": 120,
+        "buy_price": 0,
+        "carry_capacity": 10,
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "8",
+                "wait_time": "3"
+            }
+        ]
+    },
+    "Kelbi Horn": {
+        "sell_price": 52,
+        "buy_price": 0,
+        "carry_capacity": 99,
+        "botanical_research_sources": []
+    },
+    "Iron Ore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Machalite Ore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dragonite Ore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Carbalite Ore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Fucium Ore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Earth Crystal": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Coral Crystal": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dragonvein Crystal": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lightcrystal": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Novacrystal": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Firecell Stone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Sturdy Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Quality Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Ancient Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Boulder Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Coral Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Warped Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Brutal Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dragonbone Relic": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Unknown Skull": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Hornfly": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Sinister Cloth": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Bone S": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Bone M": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Bone L": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Bone+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Keenbone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Hardbone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Elder Dragon Bone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Sharp Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Piercing Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Fluid": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Monster Broth": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Poison Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Toxin Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paralysis Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Omniplegia Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Sleep Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Coma Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Flame Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Inferno Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Aqua Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Torrent Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Frost Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Freezer Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Electro Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Thunder Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bird Wyvern Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Wyvern Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Elder Dragon Blood": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Mosswine Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Warm Pelt": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "High-quality Pelt": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vespoid Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vespoid Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vespoid Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vespoid Innerwing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hornetaur Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hornetaur Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hornetaur Head": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hornetaur Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hornetaur Innerwing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gajau Skin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gajau Whisker": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gajau Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Grand Gajau Whisker": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Wingdrake Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Wingdrake Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barnos Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barnos Talon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kestodon Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kestodon Scalp": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kestodon Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gastodon Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gastodon Horn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jagras Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jagras Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jagras Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jagras Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Shamos Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Shamos Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Shamos Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Shamos Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Girros Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Girros Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Girros Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Girros Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Girros Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Mane": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Jagras Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Plume": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Beak": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Plume+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu-Ya-Ku Beak+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Quill": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Sac": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei-Pukei Sac+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Ridge": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Scalp": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Fertile Mud": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Ridge+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Fin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Jyuratodus Fin+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Pelt": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Membrane": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Electrode": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Pelt+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tobi-Kadachi Electrode+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Pelt": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Nosebone": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Pelt+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Nosebone+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Anjanath Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Spike": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Spike+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Ruby": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pink Rathian Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pink Rathian Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Photophore": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi-Ya-Ku Photophore+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Pelt": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Pelt+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Carapace+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Paolumu Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Hood": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Hood+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Great Girros Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Oilshell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Wyvern Bonemass": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Marrow": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Radobaan Medulla": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Tail Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Legiana Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Sinew": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Sinew+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Odogaron Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rath Wingtalon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Marrow": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Medulla": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Ruby": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Azure Rathalos Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Azure Rathalos Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Azure Rathalos Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Azure Rathalos Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Ridge": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Tailcase": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Fang": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Twisted Horn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Marrow": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Diablos Ridge+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Majestic Horn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Blos Medulla": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Black Diablos Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Black Diablos Ridge+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Black Spiral Horn+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Hide": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Mane": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Thunderhorn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Thundertail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kirin Azure Horn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Heat Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Ridge": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Pleura": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Magma": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Zorah Magdaros Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dodogama Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dodogama Hide+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dodogama Jaw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dodogama Talon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Dodogama Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lavasioth Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lavasioth Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lavasioth Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lavasioth Fin+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Jaw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Scute": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Marrow": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Uragaan Ruby": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Lava Nugget": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Fuse": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Talon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Bazelgeuse Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Immortal Dragonscale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Horn+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Talon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Regrowth Plate": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Nergigante Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Deceased Scale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Membrane": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Fang+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Talon": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Vaal Hazak Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Mane": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Horn+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Fire Dragon Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Powder": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Teostra Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Carapace": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Dragon Scale+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Webbing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Horn+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Claw+": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Daora Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Soulscale": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Shell": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Veil": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Tail": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Horn": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Claw": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Wing": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Xeno'jiiva Gem": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tailraider Voucher": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "SFV Ticket": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Sword": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Blade": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Hammer": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Lance": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Axe": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Shaft": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hero's Streamstone: Ranged": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Commendation": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "High Commendation": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Research Commission Ticket": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pukei Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Kulu Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathian Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Tzitzi Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Barroth Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Gama Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Rathalos Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Brute Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Flying Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Pinnacle Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Hunter King Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    },
+    "Ace Hunter Coin": {
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_capacity": 0,
+        "botanical_research_sources": []
+    }
+}
