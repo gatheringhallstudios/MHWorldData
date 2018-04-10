@@ -9,6 +9,7 @@ name = "pypi"
 
 sqlalchemy = "*"
 rope = "*"
+pytest = "*"
 
 
 [dev-packages]
