@@ -1,0 +1,8 @@
+language: python
+python:
+  - "3.6"
+install:
+  - pipenv install
+script:
+  - pipenv shell
+  - python -m unittest tests
