@@ -1,3 +1,4 @@
 mhw.db
 *.pyc
+.pytest_cache/
 .vscode
