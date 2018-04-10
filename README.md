@@ -1,10 +1,14 @@
+[![Build Status](https://travis-ci.org/CarlosFdez/MHWorldData.svg?branch=master)](https://travis-ci.org/CarlosFdez/MHWorldData)
+
 # MHWorldData
 A project used to generate a SQLite database file from Monster Hunter World data.
 
 ## How to build
-Make sure Python 3.6 is installed on your system, as well as SQLAlchemy. Afterwards, run build.py.
+Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`). Afterwards, you can install all dependencies by running `pipenv install`.
 
-You can run the unit tests by executing `python -m unittest tests` in a shell from the root directory.
+Afterwards, run `pipenv run build.py` in a terminal to generate an mhw.sql file.
+
+You can run the tests by executing `pipenv run pytest tests`.
 
 ## Data Structure
 Each subsystem (like Monster, or Armor) is stored in its own subdirectory. There are two kinds of data files:
