@@ -1,0 +1,3508 @@
+[
+    {
+        "name": {
+            "en": "Poison Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Poison Resistance": 1
+        },
+        "craft": {
+            "Pukei-Pukei Sac": 1,
+            "Pukei-Pukei Tail": 2,
+            "Earth Crystal": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Poison Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Poison Resistance": 2
+        },
+        "craft": {
+            "Pukei-Pukei Sac+": 2,
+            "Pukei-Pukei Wing": 2,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Poison Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Poison Resistance": 3
+        },
+        "craft": {
+            "Rathalos Ruby": 1,
+            "Rathalos Wing": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Attack Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Attack Boost": 1
+        },
+        "craft": {
+            "Sturdy Bone": 4,
+            "Boulder Bone": 4,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Attack Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Attack Boost": 2
+        },
+        "craft": {
+            "Quality Bone": 3,
+            "Dragonbone Relic": 1,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Attack Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Attack Boost": 3
+        },
+        "craft": {
+            "Elder Dragon Bone": 2,
+            "High Commendation": 1,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Defense Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Defense Boost": 1
+        },
+        "craft": {
+            "Dragonite Ore": 4,
+            "Machalite Ore": 4,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Defense Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Defense Boost": 2
+        },
+        "craft": {
+            "Carbalite Ore": 6,
+            "Dragonite Ore": 8,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Defense Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Defense Boost": 3
+        },
+        "craft": {
+            "Fucium Ore": 6,
+            "Carbalite Ore": 8,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Paralysis Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Resistance": 1
+        },
+        "craft": {
+            "Great Girros Hood": 1,
+            "Great Girros Fang": 2,
+            "Warped Bone": 6,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Paralysis Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Resistance": 2
+        },
+        "craft": {
+            "Great Girros Hood+": 2,
+            "Omniplegia Sac": 4,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Paralysis Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Resistance": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Resistance": 1
+        },
+        "craft": {
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Resistance": 2
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Radobaan Oilshell": 3,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Resistance": 3
+        },
+        "craft": {
+            "Uragaan Ruby": 1,
+            "Uragaan Jaw": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stun Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Stun Resistance": 1
+        },
+        "craft": {
+            "Tzitzi-Ya-Ku Photophore": 1,
+            "Tzitzi-Ya-Ku Claw": 2,
+            "Coral Crystal": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stun Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Stun Resistance": 2
+        },
+        "craft": {
+            "Tzitzi-Ya-Ku Photophore+": 2,
+            "Tzitzi-Ya-Ku Claw+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stun Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Stun Resistance": 3
+        },
+        "craft": {
+            "Black Spiral Horn+": 3,
+            "Black Diablos Ridge+": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Windproof Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Windproof": 1
+        },
+        "craft": {
+            "Paolumu Webbing": 3,
+            "Paolumu Shell": 5,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Windproof Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Windproof": 2
+        },
+        "craft": {
+            "Paolumu Wing": 3,
+            "Wyvern Gem": 2,
+            "Dragonvein Crystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Windproof Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Windproof": 3
+        },
+        "craft": {
+            "Azure Rathalos Wing": 3,
+            "Rathalos Ruby": 1,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Health Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Health Boost": 1
+        },
+        "craft": {
+            "Rathian Plate": 1,
+            "Rathian Webbing": 3,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Health Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Health Boost": 2
+        },
+        "craft": {
+            "Rathian Ruby": 1,
+            "Rathian Spike": 2,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Health Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Health Boost": 3
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Recovery Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Up": 1
+        },
+        "craft": {
+            "Rathian Plate": 1,
+            "Rathian Spike": 2,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Recovery Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Up": 2
+        },
+        "craft": {
+            "Pink Rathian Carapace": 2,
+            "Rathian Spike+": 1,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Recovery Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Up": 3
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fire Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Fire Resistance": 1
+        },
+        "craft": {
+            "Anjanath Plate": 1,
+            "Anjanath Fang": 2,
+            "Warped Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fire Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Fire Resistance": 2
+        },
+        "craft": {
+            "Anjanath Gem": 1,
+            "Anjanath Fang+": 2,
+            "Earth Crystal": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fire Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Fire Resistance": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Rathalos Ruby": 1,
+            "Inferno Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Water Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Water Resistance": 1
+        },
+        "craft": {
+            "Jyuratodus Fin": 3,
+            "Jyuratodus Fang": 3,
+            "Earth Crystal": 6,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Water Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Water Resistance": 2
+        },
+        "craft": {
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Fang+": 2,
+            "Coral Crystal": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Water Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Water Resistance": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Wyvern Gem": 1,
+            "Torrent Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Resistance": 1
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode": 1,
+            "Tobi-Kadachi Claw": 2,
+            "Ancient Bone": 6,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Resistance": 2
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode+": 1,
+            "Tobi-Kadachi Claw+": 2,
+            "Earth Crystal": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Thunder Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Resistance": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Wyvern Gem": 1,
+            "Thunder Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blaze Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Fire Attack": 1
+        },
+        "craft": {
+            "Anjanath Plate": 1,
+            "Anjanath Fang": 2,
+            "Warped Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blaze Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Fire Attack": 2
+        },
+        "craft": {
+            "Lavasioth Fin+": 3,
+            "Lavasioth Fang+": 2,
+            "Earth Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blaze Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Fire Attack": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Inferno Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Flood Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Water Attack": 1
+        },
+        "craft": {
+            "Jyuratodus Fin": 2,
+            "Jyuratodus Fang": 2,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Flood Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Water Attack": 2
+        },
+        "craft": {
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Fang+": 2,
+            "Coral Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Flood Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Water Attack": 3
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Torrent Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Shock Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Attack": 1
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode": 2,
+            "Tobi-Kadachi Claw": 2,
+            "Ancient Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Shock Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Attack": 2
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Claw+": 2,
+            "Earth Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Shock Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Thunder Attack": 3
+        },
+        "craft": {
+            "Kirin Azure Horn": 1,
+            "Kirin Thundertail": 2,
+            "Thunder Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Venom Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Poison Attack": 1
+        },
+        "craft": {
+            "Rathian Plate": 1,
+            "Rathian Spike": 1,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Venom Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Poison Attack": 2
+        },
+        "craft": {
+            "Pink Rathian Carapace": 2,
+            "Rathian Spike+": 1,
+            "Carbalite Ore": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Venom Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Poison Attack": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Rathian Ruby": 1,
+            "Toxin Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Immobilize Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Attack": 1
+        },
+        "craft": {
+            "Great Girros Hood": 2,
+            "Great Girros Fang": 2,
+            "Warped Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Immobilize Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Attack": 2
+        },
+        "craft": {
+            "Great Girros Hood+": 1,
+            "Great Girros Fang+": 2,
+            "Carbalite Ore": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Immobilize Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Paralysis Attack": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Wyvern Gem": 1,
+            "Omniplegia Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tranq Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Attack": 1
+        },
+        "craft": {
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tranq Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Attack": 2
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Radobaan Oilshell": 3,
+            "Carbalite Ore": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tranq Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Attack": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Vaal Hazak Gem": 1,
+            "Coma Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "KO Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Slugger": 1
+        },
+        "craft": {
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "KO Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Slugger": 2
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Radobaan Oilshell": 3,
+            "Warped Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "KO Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Slugger": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Enervate Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Stamina Thief": 1
+        },
+        "craft": {
+            "Barroth Scalp": 2,
+            "Barroth Claw": 2,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Enervate Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Stamina Thief": 2
+        },
+        "craft": {
+            "Barroth Scalp": 3,
+            "Barroth Claw+": 2,
+            "Warped Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Enervate Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Stamina Thief": 3
+        },
+        "craft": {
+            "Blos Medulla": 1,
+            "Diablos Fang": 3,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Artillery Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Artillery": 1
+        },
+        "craft": {
+            "Anjanath Plate": 1,
+            "Anjanath Fang": 2,
+            "Warped Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Artillery Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Artillery": 2
+        },
+        "craft": {
+            "Anjanath Gem": 1,
+            "Anjanath Fang+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Artillery Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Artillery": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Hungerless Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Hunger Resistance": 1
+        },
+        "craft": {
+            "Girros Fang": 2,
+            "Girros Hide": 4,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Hungerless Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Hunger Resistance": 2
+        },
+        "craft": {
+            "Jagras Hide+": 6,
+            "Jagras Scale+": 8,
+            "Lightcrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Hungerless Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Hunger Resistance": 3
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Fucium Ore": 5,
+            "Dragonbone Relic": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ironside Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Guard": 1
+        },
+        "craft": {
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ironside Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Guard": 2
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Radobaan Oilshell": 3,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ironside Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Guard": 3
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Friendship Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Wide-Range": 1
+        },
+        "craft": {
+            "Tzitzi-Ya-Ku Photophore": 2,
+            "Tzitzi-Ya-Ku Claw": 2,
+            "Coral Crystal": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Friendship Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Wide-Range": 2
+        },
+        "craft": {
+            "Tzitzi-Ya-Ku Photophore+": 1,
+            "Tzitzi-Ya-Ku Claw+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Friendship Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Wide-Range": 3
+        },
+        "craft": {
+            "Elder Dragon Blood": 1,
+            "High Commendation": 1,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Extension Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Item Prolonger": 1
+        },
+        "craft": {
+            "Kulu-Ya-Ku Beak": 2,
+            "Kulu-Ya-Ku Plume": 2,
+            "Ancient Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Extension Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Item Prolonger": 2
+        },
+        "craft": {
+            "Pink Rathian Carapace": 2,
+            "Rathian Spike+": 1,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Extension Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Item Prolonger": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Daora Tail": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton's Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Speed Eating": 1
+        },
+        "craft": {
+            "Great Jagras Mane": 2,
+            "Great Jagras Claw": 2,
+            "Ancient Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton's Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Speed Eating": 2
+        },
+        "craft": {
+            "Anjanath Gem": 1,
+            "Anjanath Fang+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Glutton's Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Speed Eating": 3
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blessing Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Divine Blessing": 1
+        },
+        "craft": {
+            "Paolumu Webbing": 2,
+            "Paolumu Pelt": 3,
+            "Coral Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blessing Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Divine Blessing": 2
+        },
+        "craft": {
+            "Paolumu Wing": 2,
+            "Paolumu Pelt+": 4,
+            "Sturdy Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blessing Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Divine Blessing": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Dragonbone Relic": 1,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Rally Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Palico Rally": 1
+        },
+        "craft": {
+            "Tailraider Voucher": 1,
+            "Sinister Cloth": 1,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Rally Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Palico Rally": 2
+        },
+        "craft": {
+            "Tailraider Voucher": 2,
+            "Lightcrystal": 2,
+            "Sturdy Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Rally Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Palico Rally": 3
+        },
+        "craft": {
+            "Tailraider Voucher": 3,
+            "High Commendation": 2,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Botany Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Botanist": 1
+        },
+        "craft": {
+            "Ancient Bone": 3,
+            "Boulder Bone": 3,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Botany Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Botanist": 2
+        },
+        "craft": {
+            "Quality Bone": 3,
+            "Dragonbone Relic": 1,
+            "Earth Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Botany Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Botanist": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Novacrystal": 1,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Geology Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Geologist": 1
+        },
+        "craft": {
+            "Dragonite Ore": 4,
+            "Machalite Ore": 4,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Geology Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Geologist": 2
+        },
+        "craft": {
+            "Carbalite Ore": 6,
+            "Dragonite Ore": 8,
+            "Lightcrystal": 2,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Geology Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Geologist": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Novacrystal": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Slinger Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Slinger Capacity": 1
+        },
+        "craft": {
+            "Radobaan Marrow": 1,
+            "Radobaan Oilshell": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Slinger Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Slinger Capacity": 2
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Radobaan Oilshell": 3,
+            "Dragonbone Relic": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Slinger Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Slinger Capacity": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Bird Wyvern Gem": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stealth Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Stealth": 1
+        },
+        "craft": {
+            "Great Jagras Mane": 2,
+            "Great Jagras Claw": 2,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stealth Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Stealth": 2
+        },
+        "craft": {
+            "Lavasioth Fin+": 3,
+            "Lavasioth Fang+": 2,
+            "Dragonbone Relic": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Stealth Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Stealth": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Bird Wyvern Gem": 1,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Smoke Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Sporepuff Expert": 1
+        },
+        "craft": {
+            "Pukei-Pukei Sac": 2,
+            "Pukei-Pukei Tail": 2,
+            "Earth Crystal": 2,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Smoke Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Sporepuff Expert": 2
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Commendation": 5,
+            "Earth Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Smoke Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Sporepuff Expert": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Bird Wyvern Gem": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mirewalker Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Aquatic Expert": 1
+        },
+        "craft": {
+            "Jyuratodus Fin": 2,
+            "Jyuratodus Fang": 2,
+            "Earth Crystal": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mirewalker Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Aquatic Expert": 2
+        },
+        "craft": {
+            "Jyuratodus Fin+": 3,
+            "Jyuratodus Fang+": 2,
+            "Coral Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mirewalker Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Aquatic Expert": 3
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Commendation": 5,
+            "Coral Bone": 6,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Insect Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Entomologist": 1
+        },
+        "craft": {
+            "Vespoid Wing": 2,
+            "Vespoid Shell": 2,
+            "Ancient Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Insect Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Entomologist": 2
+        },
+        "craft": {
+            "Vespoid Innerwing": 4,
+            "Vespoid Carapace": 6,
+            "Lightcrystal": 2,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Insect Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Entomologist": 3
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Commendation": 5,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Intimidator Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Intimidator": 1
+        },
+        "craft": {
+            "Great Girros Hood": 2,
+            "Great Girros Fang": 2,
+            "Warped Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Intimidator Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Intimidator": 2
+        },
+        "craft": {
+            "Great Jagras Mane": 3,
+            "Great Jagras Claw+": 2,
+            "Boulder Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Intimidator Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Intimidator": 3
+        },
+        "craft": {
+            "Rathalos Ruby": 1,
+            "Rathalos Wing": 2,
+            "Warped Bone": 4,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Artillery Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Heavy Artillery": 1
+        },
+        "craft": {
+            "Dragonite Ore": 4,
+            "Tzitzi-Ya-Ku Claw": 3,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Heavy Artillery Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Heavy Artillery": 2
+        },
+        "craft": {
+            "Zorah Magdaros Magma": 3,
+            "Zorah Magdaros Pleura": 1,
+            "Dragonvein Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Light Eater's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Free Meal": 1
+        },
+        "craft": {
+            "Hornetaur Head": 4,
+            "Hornetaur Wing": 6,
+            "Great Girros Fang": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tracker Charm",
+            "ja": null
+        },
+        "skills": {
+            "Scenthound": 1
+        },
+        "craft": {
+            "Anjanath Nosebone": 1,
+            "Anjanath Pelt": 5,
+            "Barroth Scalp": 2,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fortification Charm",
+            "ja": null
+        },
+        "skills": {
+            "Fortify": 1
+        },
+        "craft": {
+            "Sinister Cloth": 3,
+            "Anjanath Fang": 3,
+            "Warped Bone": 5,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Performer's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Horn Maestro": 1
+        },
+        "craft": {
+            "Great Girros Hood": 3,
+            "Pukei-Pukei Sac": 5,
+            "Sturdy Bone": 5,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Capacity Charm",
+            "ja": null
+        },
+        "skills": {
+            "Capacity Boost": 1
+        },
+        "craft": {
+            "Dragonite Ore": 8,
+            "Rath Wingtalon": 3,
+            "Lightcrystal": 2,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bleed Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Bleeding Resistance": 1
+        },
+        "craft": {
+            "Odogaron Plate": 1,
+            "Odogaron Fang": 2,
+            "Warped Bone": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bleed Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Bleeding Resistance": 2
+        },
+        "craft": {
+            "Odogaron Gem": 1,
+            "Odogaron Claw+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bleed Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Bleeding Resistance": 3
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Speed Heal Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Speed": 1
+        },
+        "craft": {
+            "Commendation": 1,
+            "Sturdy Bone": 3,
+            "Lightcrystal": 1,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Speed Heal Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Speed": 2
+        },
+        "craft": {
+            "Lavasioth Fin+": 3,
+            "Lavasioth Fang+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Speed Heal Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Recovery Speed": 3
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Wing": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ice Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Ice Resistance": 1
+        },
+        "craft": {
+            "Legiana Plate": 1,
+            "Legiana Claw": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ice Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Ice Resistance": 2
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Legiana Claw+": 2,
+            "Coral Crystal": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Ice Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Ice Resistance": 3
+        },
+        "craft": {
+            "High Commendation": 1,
+            "Legiana Gem": 1,
+            "Freezer Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blight Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Blight Resistance": 1
+        },
+        "craft": {
+            "Kirin Thunderhorn": 1,
+            "Kirin Mane": 2,
+            "Coral Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blight Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Blight Resistance": 2
+        },
+        "craft": {
+            "Kirin Azure Horn": 1,
+            "Kirin Thundertail": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blight Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Blight Resistance": 3
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Xeno'jiiva Tail": 2,
+            "Brutal Bone": 2,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Ice Attack": 1
+        },
+        "craft": {
+            "Legiana Plate": 1,
+            "Legiana Claw": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Ice Attack": 2
+        },
+        "craft": {
+            "Legiana Gem": 1,
+            "Legiana Claw+": 2,
+            "Coral Crystal": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Frost Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Ice Attack": 3
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Tail": 1,
+            "Freezer Sac": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Master's Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Critical Eye": 1
+        },
+        "craft": {
+            "Odogaron Plate": 1,
+            "Odogaron Fang": 2,
+            "Warped Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Master's Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Critical Eye": 2
+        },
+        "craft": {
+            "Odogaron Gem": 1,
+            "Odogaron Claw+": 2,
+            "Quality Bone": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Master's Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Critical Eye": 3
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Evasion Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Evade Window": 1
+        },
+        "craft": {
+            "Legiana Tail Webbing": 2,
+            "Legiana Claw": 2,
+            "Coral Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Evasion Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Evade Window": 2
+        },
+        "craft": {
+            "Legiana Gem": 1,
+            "Legiana Claw+": 2,
+            "Fucium Ore": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Evasion Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Evade Window": 3
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Tail": 1,
+            "Brutal Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sheath Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Quick Sheath": 1
+        },
+        "craft": {
+            "Diablos Marrow": 1,
+            "Diablos Fang": 2,
+            "Earth Crystal": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sheath Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Quick Sheath": 2
+        },
+        "craft": {
+            "Lavasioth Fin+": 1,
+            "Lavasioth Fang+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sheath Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Quick Sheath": 3
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Xeno'jiiva Horn": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Whetstone Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Speed Sharpening": 1
+        },
+        "craft": {
+            "Odogaron Plate": 1,
+            "Odogaron Fang": 2,
+            "Warped Bone": 3,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Whetstone Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Speed Sharpening": 2
+        },
+        "craft": {
+            "Odogaron Gem": 1,
+            "Odogaron Claw+": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Whetstone Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Speed Sharpening": 3
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blast Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Blast Resistance": 1
+        },
+        "craft": {
+            "Dodogama Jaw": 1,
+            "Dodogama Talon": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blast Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Blast Resistance": 2
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blast Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Blast Resistance": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Dragon Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Resistance": 1
+        },
+        "craft": {
+            "Dragonbone Relic": 1,
+            "Quality Bone": 3,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Dragon Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Resistance": 2
+        },
+        "craft": {
+            "Uragaan Ruby": 1,
+            "Uragaan Jaw": 1,
+            "Dragonvein Crystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Dragon Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Resistance": 3
+        },
+        "craft": {
+            "Elder Dragon Blood": 1,
+            "Vaal Hazak Gem": 1,
+            "Dragonbone Relic": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Wyrmsbane Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Attack": 1
+        },
+        "craft": {
+            "Dragonbone Relic": 1,
+            "Quality Bone": 3,
+            "Dragonvein Crystal": 2,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Wyrmsbane Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Attack": 2
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Dragonvein Crystal": 4,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Wyrmsbane Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Dragon Attack": 3
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Claw": 2,
+            "Dragonbone Relic": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Demolition Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Blast Attack": 1
+        },
+        "craft": {
+            "Dodogama Jaw": 2,
+            "Dodogama Talon": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Demolition Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Blast Attack": 2
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 2,
+            "Carbalite Ore": 4,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Demolition Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Blast Attack": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Xeno'jiiva Shell": 3,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Draw Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Critical Draw": 1
+        },
+        "craft": {
+            "Diablos Marrow": 1,
+            "Diablos Fang": 3,
+            "Earth Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Draw Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Critical Draw": 2
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Fucium Ore": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Trickshot Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Special Ammo Boost": 1
+        },
+        "craft": {
+            "Anjanath Plate": 1,
+            "Anjanath Fang": 2,
+            "Warped Bone": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Trickshot Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Special Ammo Boost": 2
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Xeno'jiiva Wing": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Marathon Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Marathon Runner": 1
+        },
+        "craft": {
+            "Barroth Scalp": 2,
+            "Barroth Claw+": 2,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Marathon Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Marathon Runner": 2
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Veil": 2,
+            "Fucium Ore": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fitness Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Constitution": 1
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Claw+": 2,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fitness Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Constitution": 2
+        },
+        "craft": {
+            "Odogaron Gem": 1,
+            "Odogaron Claw+": 2,
+            "Fucium Ore": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fitness Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Constitution": 3
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Claw+": 1,
+            "Coral Crystal": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Surge Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Stamina Surge": 1
+        },
+        "craft": {
+            "Paolumu Wing": 2,
+            "Paolumu Pelt+": 3,
+            "Dragonbone Relic": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Surge Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Stamina Surge": 2
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Fucium Ore": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Leaping Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Evade Extender": 1
+        },
+        "craft": {
+            "Tobi-Kadachi Electrode+": 2,
+            "Tobi-Kadachi Claw+": 2,
+            "Dragonvein Crystal": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Leaping Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Evade Extender": 2
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Tail": 1,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bombardier Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Bombardier": 1
+        },
+        "craft": {
+            "Dodogama Jaw": 2,
+            "Dodogama Talon": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bombardier Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Bombardier": 2
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 2,
+            "Novacrystal": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Bombardier Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Bombardier": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mushroom Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Mushroomancer": 1
+        },
+        "craft": {
+            "Commendation": 1,
+            "Mosswine Hide": 5,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mushroom Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Mushroomancer": 2
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "High Commendation": 1,
+            "Novacrystal": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Awakening Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Free Elem/Ammo Up": 1
+        },
+        "craft": {
+            "Zorah Magdaros Gem": 1,
+            "Zorah Magdaros Magma": 5,
+            "Dragonvein Crystal": 4,
+            "Aquacore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Awakening Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Free Elem/Ammo Up": 2
+        },
+        "craft": {
+            "Kirin Azure Horn": 1,
+            "Kirin Thundertail": 1,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Handicraft Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Handicraft": 1
+        },
+        "craft": {
+            "Zorah Magdaros Gem": 1,
+            "Zorah Magdaros Pleura": 3,
+            "Dragonvein Crystal": 4,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Handicraft Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Handicraft": 2
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Tail": 1,
+            "Wyvern Gem": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Handicraft Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Handicraft": 3
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Claw": 2,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mud Puppy Charm",
+            "ja": null
+        },
+        "skills": {
+            "Muck Resistance": 1,
+            "Leap of Faith": 1
+        },
+        "craft": {
+            "Jyuratodus Fang+": 2,
+            "Tobi-Kadachi Electrode+": 3,
+            "Dragonvein Crystal": 5,
+            "Spiritcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Trickshot Charm",
+            "ja": null
+        },
+        "skills": {
+            "Dungmaster": 1,
+            "Blindsider": 1
+        },
+        "craft": {
+            "Barroth Claw+": 2,
+            "Tzitzi-Ya-Ku Photophore+": 3,
+            "Lightcrystal": 2,
+            "Spiritcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Hunter's Life Charm",
+            "ja": null
+        },
+        "skills": {
+            "BBQ Master": 1,
+            "Master Fisher": 1
+        },
+        "craft": {
+            "High-quality Pelt": 3,
+            "Warm Pelt": 5,
+            "Piercing Claw": 5,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Procurer's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Pro Transporter": 1,
+            "Honey Hunter": 1
+        },
+        "craft": {
+            "Kestodon Carapace": 5,
+            "Kestodon Scalp": 5,
+            "Vespoid Carapace": 5,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Gatherer's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Master Gatherer": 1,
+            "Carving Pro": 1
+        },
+        "craft": {
+            "Mosswine Hide": 5,
+            "Jagras Scale+": 5,
+            "Jagras Hide+": 5,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Guard Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Iron Skin": 1
+        },
+        "craft": {
+            "Barnos Talon": 3,
+            "Barnos Hide+": 3,
+            "Brutal Bone": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Guard Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Iron Skin": 2
+        },
+        "craft": {
+            "Wyvern Gem": 1,
+            "Firecell Stone": 1,
+            "Dragonite Ore": 6,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Guard Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Iron Skin": 3
+        },
+        "craft": {
+            "Elder Dragon Blood": 1,
+            "High Commendation": 1,
+            "Dragonvein Crystal": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Earplugs Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Earplugs": 1
+        },
+        "craft": {
+            "Blos Medulla": 1,
+            "Majestic Horn": 2,
+            "Firecell Stone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Earplugs Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Earplugs": 2
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Talon": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Earplugs Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Earplugs": 3
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Wyvern Gem": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tremor Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Tremor Resistance": 1
+        },
+        "craft": {
+            "Blos Medulla": 1,
+            "Diablos Ridge+": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Tremor Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Tremor Resistance": 2
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Exploiter Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Weakness Exploit": 1
+        },
+        "craft": {
+            "Rathalos Plate": 1,
+            "Rathalos Medulla": 1,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Exploiter Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Weakness Exploit": 2
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Firecell Stone": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Focus Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Focus": 1
+        },
+        "craft": {
+            "Blos Medulla": 1,
+            "Diablos Ridge+": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Focus Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Focus": 2
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Fucium Ore": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Breaker Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Partbreaker": 1
+        },
+        "craft": {
+            "Uragaan Marrow": 1,
+            "Uragaan Jaw": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Breaker Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Partbreaker": 2
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Xeno'jiiva Soulscale": 6,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fury Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Resentment": 1
+        },
+        "craft": {
+            "Black Spiral Horn+": 1,
+            "Diablos Ridge+": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Fury Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Resentment": 2
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Xeno'jiiva Soulscale": 6,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Grit Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Heroics": 1
+        },
+        "craft": {
+            "Blos Medulla": 1,
+            "Diablos Ridge+": 2,
+            "Firecell Stone": 1,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Grit Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Heroics": 2
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Daora Tail": 2,
+            "Dragonvein Crystal": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Maintenance Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Tool Specialist": 1
+        },
+        "craft": {
+            "Pink Rathian Carapace": 2,
+            "Rathian Spike": 2,
+            "Brutal Bone": 3,
+            "Spiritcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Maintenance Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Tool Specialist": 2
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Teostra Horn+": 2,
+            "Quality Bone": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Maintenance Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Tool Specialist": 3
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Xeno'jiiva Veil": 2,
+            "Dragonvein Crystal": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Power Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Latent Power": 2
+        },
+        "craft": {
+            "Teostra Horn+": 2,
+            "Teostra Mane": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1,
+            "Teostra Gem": 1,
+            "Firecell Stone": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Challenger Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Agitator": 1
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Challenger Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Agitator": 2
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Talon": 2,
+            "Fucium Ore": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Unscathed Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Peak Performance": 1
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Fang+": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Unscathed Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Peak Performance": 2
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Fucium Ore": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mighty Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Maximum Might": 1
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Nergigante Horn+": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Mighty Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Maximum Might": 2
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Tail": 2,
+            "Novacrystal": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Impact Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Flinch Free": 1
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Horn": 2,
+            "Firecell Stone": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Impact Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Flinch Free": 2
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Xeno'jiiva Shell": 5,
+            "Elder Dragon Bone": 2,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Miasma Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Effluvia Resistance": 1
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Fang+": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Miasma Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Effluvia Resistance": 2
+        },
+        "craft": {
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Talon": 2,
+            "Lightcrystal": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Miasma Charm III",
+            "ja": null
+        },
+        "skills": {
+            "Effluvia Resistance": 3
+        },
+        "craft": {
+            "High Commendation": 3,
+            "Xeno'jiiva Wing": 2,
+            "Dragonbone Relic": 3,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Normal Shots Charm",
+            "ja": null
+        },
+        "skills": {
+            "Normal Shots": 1
+        },
+        "craft": {
+            "High Commendation": 2,
+            "Wyvern Gem": 1,
+            "Bird Wyvern Gem": 2,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Clearmind Charm",
+            "ja": null
+        },
+        "skills": {
+            "Heat Guard": 1,
+            "Effluvial Expert": 1
+        },
+        "craft": {
+            "Teostra Gem": 1,
+            "Vaal Hazak Gem": 1,
+            "Vaal Hazak Carapace": 5,
+            "Dreamcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Rider's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Master Mounter": 1,
+            "Jump Master": 1
+        },
+        "craft": {
+            "Daora Gem": 1,
+            "Legiana Gem": 1,
+            "Legiana Scale+": 5,
+            "Dreamcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Surveyor's Charm",
+            "ja": null
+        },
+        "skills": {
+            "Scoutfly Range Up": 1,
+            "Scholar": 1
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Zorah Magdaros Heat Scale": 5,
+            "Zorah Magdaros Magma": 3,
+            "Dreamcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Critical Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Critical Boost": 1
+        },
+        "craft": {
+            "Rathalos Ruby": 1,
+            "Rathian Ruby": 1,
+            "Xeno'jiiva Gem": 1,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Invigorate Charm I",
+            "ja": null
+        },
+        "skills": {
+            "Power Prolonger": 1
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Horn": 1,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Invigorate Charm II",
+            "ja": null
+        },
+        "skills": {
+            "Power Prolonger": 2
+        },
+        "craft": {
+            "Nergigante Gem": 1,
+            "Xeno'jiiva Claw": 2,
+            "Firecell Stone": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Penetration Charm",
+            "ja": null
+        },
+        "skills": {
+            "Piercing Shots": 1
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Tail": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Dispersal Charm",
+            "ja": null
+        },
+        "skills": {
+            "Spread/Power Shots": 1
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Nergigante Gem": 1,
+            "Nergigante Tail": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Poison Coating Charm",
+            "ja": null
+        },
+        "skills": {
+            "Poison Functionality": 1
+        },
+        "craft": {
+            "Rathian Ruby": 1,
+            "Rathian Spike+": 3,
+            "Toxin Sac": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Para Coating Charm",
+            "ja": null
+        },
+        "skills": {
+            "Para Functionality": 1
+        },
+        "craft": {
+            "Great Girros Hood+": 5,
+            "Great Girros Tail": 5,
+            "Omniplegia Sac": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Sleep Coating Charm",
+            "ja": null
+        },
+        "skills": {
+            "Sleep Functionality": 1
+        },
+        "craft": {
+            "Radobaan Medulla": 1,
+            "Wyvern Gem": 2,
+            "Coma Sac": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Blast Coating Charm",
+            "ja": null
+        },
+        "skills": {
+            "Blast Functionality": 1
+        },
+        "craft": {
+            "Bazelgeuse Gem": 1,
+            "Bazelgeuse Tail": 3,
+            "Bazelgeuse Fuse": 3,
+            "Dragoncore Ore": 1
+        }
+    },
+    {
+        "name": {
+            "en": "Geomancy Charm",
+            "ja": null
+        },
+        "skills": {
+            "Forager's Luck": 1,
+            "Detector": 1
+        },
+        "craft": {
+            "Xeno'jiiva Gem": 1,
+            "Xeno'jiiva Veil": 3,
+            "Teostra Mane": 2,
+            "Dreamcore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Gale Charm",
+            "ja": null
+        },
+        "skills": {
+            "Affinity Sliding": 1,
+            "Airborne": 1
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Odogaron Gem": 1,
+            "Legiana Gem": 1,
+            "Dragoncore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Wyrmslayer Charm",
+            "ja": null
+        },
+        "skills": {
+            "Elderseal Boost": 1,
+            "Dragon Attack": 1
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Xeno'jiiva Gem": 1,
+            "Vaal Hazak Talon": 1,
+            "Dragoncore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Bulwark Charm",
+            "ja": null
+        },
+        "skills": {
+            "Guard Up": 1,
+            "Resuscitate": 1
+        },
+        "craft": {
+            "Research Commission Ticket": 1,
+            "Majestic Horn": 2,
+            "Black Spiral Horn+": 2,
+            "Dragoncore Ore": 2
+        }
+    },
+    {
+        "name": {
+            "en": "Fair Wind Charm",
+            "ja": null
+        },
+        "skills": {
+            "Attack Boost": 1,
+            "Divine Blessing": 1
+        },
+        "craft": {}
+    }
+]
