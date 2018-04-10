@@ -5,10 +5,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Restores a small amount of health.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -16,10 +16,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Restores a moderate amount of health.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -27,10 +27,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Fully restores health and maximizes the size of your Health Gauge.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -38,10 +38,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Fully restores health and maximizes the size of your Health and Stamina Gauges.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 5
     },
     {
         "name": {
@@ -82,10 +82,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -93,10 +93,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Food that restores a bit of stamina.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -104,10 +104,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Provides a moderate boost to your stamina. This one's still red in the middle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -115,10 +115,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -126,10 +126,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Provides a small boost to your stamina. Can be eaten quickly.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -137,10 +137,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Provides temporary relief from extreme heat.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -170,10 +170,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Boosts your natural ability to heal.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -181,10 +181,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -192,10 +192,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Dulls one's sense of exhaustion. Reduces stamina depletion for a time.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -203,10 +203,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Lets you dash without tiring for longer than regular dash juice does.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -214,10 +214,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Temporarily strengthens your attacks when ingested by improving energy flow.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -335,10 +335,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A mysterious powder that produces a cloud around the area that temporarily strengthens defense.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -346,10 +346,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -357,10 +357,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A primary ingredient in potions.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -368,10 +368,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A primary ingredient in antidotes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -379,10 +379,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A wondrous, flammable plant. Useful for crafting explosives.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -390,10 +390,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "This plant's leaves store a great amount of water. A component for making Water Ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -401,10 +401,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A plant that radiates ice-cold air. Use in combinations to create freeze ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -412,10 +412,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A plant containing sleeping agents. Used to craft tranquilizers.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -423,10 +423,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -434,10 +434,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -445,10 +445,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -467,10 +467,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -478,10 +478,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -489,10 +489,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -500,10 +500,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A mushroom that induces paralysis. Required to craft Tranq Bombs.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -511,10 +511,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A poisonous fungus. Can be used as a toxin for knives.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -522,10 +522,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -533,10 +533,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "This mushroom is a primary ingredient in cool drinks.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -555,10 +555,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An insect that emits a powerful flash when it dies. Required to craft Flash Pods.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -577,10 +577,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -588,10 +588,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -610,10 +610,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A mysterious substance culled from certain monsters that increases endurance.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -621,10 +621,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -632,10 +632,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -643,10 +643,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Works with other materials to enhance their effects. Cannot be used by itself.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -654,10 +654,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -665,10 +665,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -676,10 +676,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -687,10 +687,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -698,10 +698,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Creates a large cloud of smoke wherever it lands.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -709,10 +709,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -720,10 +720,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -731,10 +731,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Meat carved from a monster. Can be cooked, combined, or used to set a trap.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -742,10 +742,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -753,10 +753,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -764,10 +764,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -775,10 +775,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A dangerous substance that explodes when struct or heated.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -830,10 +830,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A large, empty barrel. Combine with gunpowser to make it into a bomb.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -852,10 +852,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An upgraded large barrel bomb. Effective against large monsters.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -863,10 +863,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A very sticky web. Used to craft pitfall traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -874,10 +874,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -885,10 +885,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A must-have item for putting together pitfall traps and other kinds of traps.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -896,10 +896,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -907,10 +907,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A trap that immobilizes a target. Use it to capture monsters.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -918,10 +918,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ball of condensed monster dung. Used to make dung pods for your slinger.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -929,10 +929,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -940,10 +940,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ball of bait favored by fish of the Arowana family.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -951,10 +951,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ball of bait favored by fish of the Gunpowderfish family.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -962,10 +962,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ball of bait favored by fish of the Goldenfish family.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -973,10 +973,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An unusually-shaped weapon from abroad that returns to its user when thrown.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -984,10 +984,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Allows you to see farther and observe from a distance.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -995,10 +995,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 5
     },
     {
         "name": {
@@ -1006,10 +1006,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 5
     },
     {
         "name": {
@@ -1017,10 +1017,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An amulet that increases defense. Just carrying this hardens your skin like stone.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 5
     },
     {
         "name": {
@@ -1028,10 +1028,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A charm that increases defense. Its effects are amplified by the dragon parts it contains.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 5
     },
     {
         "name": {
@@ -1039,10 +1039,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut covered in needle-like spines. Used to make spread ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -1050,10 +1050,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut used to make sticky ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -1061,10 +1061,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut that explodes on impact. Used to make wyvern ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1072,10 +1072,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Used to make slicing ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -1083,10 +1083,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut that bears a spiral groove. Used to make pierce ammo.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -1094,10 +1094,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A nut that ruptures on impact. Used to make cluster bombs.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1105,10 +1105,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Used to make gunpowder that increases ammo firepower.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1116,10 +1116,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Used to make gunpowder that greatly increases ammo firepower.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1127,10 +1127,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Combustible powser. Combine with level 1 ammo to raise its level.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1138,10 +1138,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Highly combustible powser. Combine with level 1 ammo to raise its level.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1149,10 +1149,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1160,10 +1160,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1171,10 +1171,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1182,10 +1182,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1193,10 +1193,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 3
     },
     {
         "name": {
@@ -1204,10 +1204,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1215,10 +1215,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1226,10 +1226,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1237,10 +1237,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 2
     },
     {
         "name": {
@@ -1248,10 +1248,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1259,10 +1259,10 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A regularly old empty phial. Nothing more, nothing less.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 1
     },
     {
         "name": {
@@ -1273,7 +1273,7 @@
             "en": "Ore that can be smelted into metal and used for many different purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1284,7 +1284,7 @@
             "en": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1295,7 +1295,7 @@
             "en": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": 4
     },
     {
         "name": {
@@ -1391,7 +1391,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.",
             "ja": null
         },
         "rarity": null
@@ -1402,7 +1402,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A valuable mineral used to create charms. Gives off a warm, sunny glow.",
             "ja": null
         },
         "rarity": null
@@ -1413,7 +1413,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.",
             "ja": null
         },
         "rarity": null
@@ -1424,7 +1424,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.",
             "ja": null
         },
         "rarity": null
@@ -1435,7 +1435,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.",
             "ja": null
         },
         "rarity": null
@@ -1446,7 +1446,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.",
             "ja": null
         },
         "rarity": null
@@ -1457,7 +1457,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Reacts uniquely to heat. Fuse this to armor to improve it.",
             "ja": null
         },
         "rarity": null
@@ -1468,7 +1468,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Reacts uniquely to heat. Fuse this to armor to significantly improve it.",
             "ja": null
         },
         "rarity": null
@@ -1479,7 +1479,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Reacts uniquely to heat. Fuse this to armor to greatly improve it.",
             "ja": null
         },
         "rarity": null
@@ -4900,7 +4900,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!",
             "ja": null
         },
         "rarity": null
@@ -4911,7 +4911,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Cloth made from the glossy black hide of a monster. Not obtainable by normal means.",
             "ja": null
         },
         "rarity": null
@@ -4922,7 +4922,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.",
             "ja": null
         },
         "rarity": null
@@ -4933,7 +4933,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.",
             "ja": null
         },
         "rarity": null
@@ -4944,7 +4944,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.",
             "ja": null
         },
         "rarity": null
@@ -4955,7 +4955,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Proof that you have completed the Proving. Grants you the right to craft special equipment.",
             "ja": null
         },
         "rarity": null
@@ -4977,7 +4977,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",
             "ja": null
         },
         "rarity": null
@@ -4988,7 +4988,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A jewel that conceals faint traces of power within it. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -4999,7 +4999,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A jewel that conceals an unknown power within it. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -5010,7 +5010,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A jewel that conceals considerable power within it. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -5021,7 +5021,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A jewel that conceals a mystical power within it. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -5032,7 +5032,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -5043,7 +5043,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)",
             "ja": null
         },
         "rarity": null
@@ -5054,7 +5054,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",
             "ja": null
         },
         "rarity": null
@@ -5065,7 +5065,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",
             "ja": null
         },
         "rarity": null
@@ -5076,7 +5076,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.",
             "ja": null
         },
         "rarity": null
@@ -5087,7 +5087,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in long swords and great swords.",
             "ja": null
         },
         "rarity": null
@@ -5098,7 +5098,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.",
             "ja": null
         },
         "rarity": null
@@ -5109,7 +5109,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.",
             "ja": null
         },
         "rarity": null
@@ -5120,7 +5120,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in lances and gunlances.",
             "ja": null
         },
         "rarity": null
@@ -5131,7 +5131,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.",
             "ja": null
         },
         "rarity": null
@@ -5142,7 +5142,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.",
             "ja": null
         },
         "rarity": null
@@ -5153,7 +5153,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.",
             "ja": null
         },
         "rarity": null
@@ -5241,7 +5241,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Redeem this for a special meal with stronger effects than usual.",
             "ja": null
         },
         "rarity": null
@@ -5252,7 +5252,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
             "ja": null
         },
         "rarity": null
@@ -5263,7 +5263,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
             "ja": null
         },
         "rarity": null
@@ -5274,7 +5274,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",
             "ja": null
         },
         "rarity": null
@@ -5285,7 +5285,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",
             "ja": null
         },
         "rarity": null
@@ -5296,7 +5296,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",
             "ja": null
         },
         "rarity": null
@@ -5472,7 +5472,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5483,7 +5483,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5494,7 +5494,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5505,7 +5505,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5516,7 +5516,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5527,7 +5527,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5538,7 +5538,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5549,7 +5549,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5560,7 +5560,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5571,7 +5571,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5582,7 +5582,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5593,7 +5593,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5604,7 +5604,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5615,7 +5615,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5626,7 +5626,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5637,7 +5637,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5648,7 +5648,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5659,7 +5659,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
@@ -5670,7 +5670,7 @@
             "ja": null
         },
         "description": {
-            "en": null,
+            "en": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)",
             "ja": null
         },
         "rarity": null
