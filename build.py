@@ -365,4 +365,4 @@ def build_database(output_filename):
     print("Finished build")
 
 if __name__ == '__main__':
-    build_databse(output_filename)
+    build_database(output_filename)
