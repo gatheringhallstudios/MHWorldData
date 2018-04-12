@@ -82,7 +82,8 @@ def build_items(session : sqlalchemy.orm.Session):
         for language in supported_languages:
             item.translations.append(db.ItemText(
                 lang_id=language,
-                name=entry.name(language)
+                name=entry.name(language),
+                description=entry['description'].get(language, None)
             ))
 
         session.add(item)
