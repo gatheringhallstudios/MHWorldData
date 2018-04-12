@@ -134,7 +134,7 @@ class ArmorSet(Base):
 class ArmorSkill(Base):
     __tablename__ = 'armor_skill'
     armor_id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
-    skill_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     level = Column(Integer)
 
 class ArmorRecipe(Base):
@@ -224,7 +224,7 @@ class Decoration(Base):
     id = Column(Integer, primary_key=True)
     rarity = Column(Integer)
 
-    skill_id = Column(Integer, ForeignKey("skilltree.id"))
+    skilltree_id = Column(Integer, ForeignKey("skilltree.id"))
     slot = Column(Integer)
 
     mysterious_feystone_chance = Column(Float)
@@ -252,7 +252,7 @@ class Charm(Base):
 class CharmSkill(Base):
     __tablename__ = 'charm_skill'
     charm_id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
-    skill_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     level = Column(Integer)
 
 class CharmRecipe(Base):
@@ -266,3 +266,4 @@ class CharmText(Base):
     id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
     lang_id = Column(Text, primary_key=True)
     name = Column(Text)
+    description = Column(Text)

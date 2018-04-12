@@ -1,30 +1,31 @@
+import os.path
 import sqlalchemy.orm
 import src.db as db
 
 from src.util import ensure, ensure_warn, get_duplicates
-
-from src.data import (
-    set_languages, load_base_map, 
-    load_data_map, load_split_data_map
-)
+from src.data import DataReader
 
 output_filename = 'mhw.db'
-supported_languages = ['en']
 supported_ranks = ['lr', 'hr']
-set_languages(supported_languages)
+supported_languages = ['en']
 
-monster_map = load_base_map("monsters/monster_base.json")
-skill_map = load_base_map("skills/skill_base.json")
-item_map = load_base_map("items/item_base.json")
-armor_map = load_base_map("armors/armor_base.json")
-armorset_map = load_base_map("armors/armorset_base.json")
-weapon_map = load_base_map("weapons/weapon_base.json")
-decoration_map = load_base_map("decorations/decoration_base.json")
-charm_map = load_base_map('charms/charm_base.json')
+this_dir = os.path.dirname(os.path.abspath(__file__))
+data_path = os.path.join(this_dir, 'data/')
+
+reader = DataReader(languages=supported_languages, data_path=data_path)
+
+monster_map = reader.load_base_map("monsters/monster_base.json")
+skill_map = reader.load_base_map("skills/skill_base.json")
+item_map = reader.load_base_map("items/item_base.json")
+armor_map = reader.load_base_map("armors/armor_base.json")
+armorset_map = reader.load_base_map("armors/armorset_base.json")
+weapon_map = reader.load_base_map("weapons/weapon_base.json")
+decoration_map = reader.load_base_map("decorations/decoration_base.json")
+charm_map = reader.load_base_map('charms/charm_base.json')
 
 def build_monsters(session : sqlalchemy.orm.Session):
     # Load additional files
-    monster_data = load_data_map(monster_map, "monsters/monster_data.json")
+    monster_data = reader.load_data_map(monster_map, "monsters/monster_data.json")
 
     for entry in monster_data.values():
         monster_name = entry.name('en')
@@ -98,7 +99,7 @@ def build_armor(session : sqlalchemy.orm.Session):
                 name=entry.name(language)
             ))
 
-    data_map = load_data_map(armor_map, 'armors/armor_data.json')
+    data_map = reader.load_data_map(armor_map, 'armors/armor_data.json')
     for armor_id, entry in data_map.items():
         armor_name_en = entry.name('en')
 
@@ -135,8 +136,8 @@ def build_armor(session : sqlalchemy.orm.Session):
             ensure(skill_id, f"Skill {skill} in Armor {armor_name_en} does not exist")
             
             armor.skills.append(db.ArmorSkill(
-                skill_id = skill_id,
-                level = level
+                skilltree_id=skill_id,
+                level=level
             ))
         
         # Armor Crafting
@@ -145,8 +146,8 @@ def build_armor(session : sqlalchemy.orm.Session):
             ensure(item_id, f"Item {item} in Armor {armor_name_en} does not exist")
             
             armor.craft_items.append(db.ArmorRecipe(
-                item_id = item_id,
-                quantity = quantity
+                item_id=item_id,
+                quantity=quantity
             ))
 
         session.add(armor)
@@ -154,7 +155,7 @@ def build_armor(session : sqlalchemy.orm.Session):
     print("Built Armor")
 
 def build_weapons(session : sqlalchemy.orm.Session):
-    weapon_data = load_split_data_map(weapon_map, "weapons/weapon_data")
+    weapon_data = reader.load_split_data_map(weapon_map, "weapons/weapon_data")
 
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
@@ -224,7 +225,7 @@ def build_weapons(session : sqlalchemy.orm.Session):
 def build_decorations(session : sqlalchemy.orm.Session):
     "Performs the build process for decorations. Must be done after skills"
 
-    decoration_chances = load_data_map(decoration_map, "decorations/decoration_chances.json")
+    decoration_chances = reader.load_data_map(decoration_map, "decorations/decoration_chances.json")
 
     for decoration_id, entry in decoration_map.items():
         skill_id = skill_map.id_of('en', entry['skill_en'])
@@ -238,7 +239,7 @@ def build_decorations(session : sqlalchemy.orm.Session):
             id=decoration_id,
             rarity=entry['rarity'],
             slot=entry['slot'],
-            skill_id=skill_id,
+            skilltree_id=skill_id,
             mysterious_feystone_chance=chance_data['mysterious_feystone_chance'],
             glowing_feystone_chance=chance_data['glowing_feystone_chance'],
             worn_feystone_chance=chance_data['worn_feystone_chance'],
@@ -271,7 +272,7 @@ def build_charms(session : sqlalchemy.orm.Session):
                 f"item {skill_en}, which doesn't exist.")
 
             charm.skills.append(db.CharmSkill(
-                skill_id=skill_id,
+                skilltree_id=skill_id,
                 level=level
             ))
 
@@ -292,7 +293,7 @@ def build_charms(session : sqlalchemy.orm.Session):
 def build_monster_rewards(session : sqlalchemy.orm.Session):
     "Performs the build process for monster rewards. Must be done AFTER monsters and items"
     
-    monster_reward_data = load_data_map(monster_map, "monsters/monster_rewards.json")
+    monster_reward_data = reader.load_data_map(monster_map, "monsters/monster_rewards.json")
     
     # These are validated for 100% drop rate EXACT.
     # Everything else is checked for "at least" 100%
@@ -340,24 +341,28 @@ def build_monster_rewards(session : sqlalchemy.orm.Session):
 
 import sys
 
-# Python 3.6 dictionaries preserve insertion order, and python 3.7 added it to the spec officially
-# Older versions of python won't maintain order when importing data for the build.
-if sys.version_info < (3,6):
-    print(f"WARNING: You are running python version {sys.version}, " +
-        "but this application was designed for Python 3.6 and newer. ")
-    print("Earlier versions of Python will still build the project, but will not have a consistent build.")
-    print("When creating a final build, make sure to use a newer version of python.")
+def build_database(output_filename):
+    # Python 3.6 dictionaries preserve insertion order, and python 3.7 added it to the spec officially
+    # Older versions of python won't maintain order when importing data for the build.
+    if sys.version_info < (3,6):
+        print(f"WARNING: You are running python version {sys.version}, " +
+            "but this application was designed for Python 3.6 and newer. ")
+        print("Earlier versions of Python will still build the project, but will not have a consistent build.")
+        print("When creating a final build, make sure to use a newer version of python.")
 
-sessionbuilder = db.recreate_database(output_filename)
+    sessionbuilder = db.recreate_database(output_filename)
 
-with db.session_scope(sessionbuilder) as session:
-    build_monsters(session)
-    build_skills(session)
-    build_items(session)
-    build_armor(session)
-    build_weapons(session)
-    build_decorations(session)
-    build_charms(session)
-    build_monster_rewards(session)
-    
-print("Finished build")
+    with db.session_scope(sessionbuilder) as session:
+        build_monsters(session)
+        build_skills(session)
+        build_items(session)
+        build_armor(session)
+        build_weapons(session)
+        build_decorations(session)
+        build_charms(session)
+        build_monster_rewards(session)
+        
+    print("Finished build")
+
+if __name__ == '__main__':
+    build_databse(output_filename)
