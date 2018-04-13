@@ -83,6 +83,11 @@ class Item(Base):
     __tablename__ = "item"
 
     id = Column(Integer, primary_key=True)
+    rarity = Column(Integer)
+
+    buy_price = Column(Integer)
+    sell_price = Column(Integer)
+    carry_capacity = Column(Integer)
 
     translations = relationship("ItemText")
 
