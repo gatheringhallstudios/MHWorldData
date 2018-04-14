@@ -75,14 +75,12 @@ def build_skills(session : sqlalchemy.orm.Session):
     print("Built Skills")
 
 def build_items(session : sqlalchemy.orm.Session):
-    item_data = reader.load_data_map(item_map, 'items/item_data.json')
-   
-    for id, entry in item_data.items():
+    for id, entry in item_map.items():
         item = db.Item(id=id)
         item.rarity = entry['rarity'] or 0
-        item.buy_price = entry['buy_price'] or 0
-        item.sell_price = entry['sell_price'] or 0
-        item.carry_capacity = entry['carry_capacity'] or 0
+        item.buy_price = entry.get('buy_price') or 0
+        item.sell_price = entry.get('sell_price') or 0
+        item.carry_limit = entry.get('carry_limit') or 0
 
         for language in supported_languages:
             item.translations.append(db.ItemText(

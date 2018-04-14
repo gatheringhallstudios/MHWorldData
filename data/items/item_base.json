@@ -8,7 +8,10 @@
             "en": "Restores a small amount of health.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 8,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -19,7 +22,10 @@
             "en": "Restores a moderate amount of health.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -30,7 +36,10 @@
             "en": "Fully restores health and maximizes the size of your Health Gauge.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 210,
+        "buy_price": null,
+        "carry_limit": 2
     },
     {
         "name": {
@@ -41,7 +50,10 @@
             "en": "Fully restores health and maximizes the size of your Health and Stamina Gauges.",
             "ja": null
         },
-        "rarity": 5
+        "rarity": 5,
+        "sell_price": 345,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -52,7 +64,10 @@
             "en": "A cure for poison.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -63,7 +78,10 @@
             "en": "Removes all traces of poison and restores a slight amount of health.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 25,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -74,7 +92,10 @@
             "en": "A mysterious berry that cures various blights.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 120,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -85,7 +106,10 @@
             "en": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -96,7 +120,10 @@
             "en": "Food that restores a bit of stamina.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 3,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -107,7 +134,10 @@
             "en": "Provides a moderate boost to your stamina. This one's still red in the middle.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 3,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -118,7 +148,10 @@
             "en": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 48,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -129,7 +162,10 @@
             "en": "Provides a small boost to your stamina. Can be eaten quickly.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 1,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -140,7 +176,10 @@
             "en": "Provides temporary relief from extreme heat.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 30,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -151,7 +190,10 @@
             "en": "Very slightly increases your maximum health level.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 25,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -162,7 +204,10 @@
             "en": "Slightly increases your maximum health level.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 92,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -173,7 +218,10 @@
             "en": "Boosts your natural ability to heal.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 92,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -184,7 +232,10 @@
             "en": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 10,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -195,7 +246,10 @@
             "en": "Dulls one's sense of exhaustion. Reduces stamina depletion for a time.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 29,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -206,7 +260,10 @@
             "en": "Lets you dash without tiring for longer than regular dash juice does.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 205,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -217,7 +274,10 @@
             "en": "Temporarily strengthens your attacks when ingested by improving energy flow.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 140,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -228,7 +288,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -239,7 +302,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -250,7 +316,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -261,7 +330,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -272,7 +344,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -283,7 +358,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -294,7 +372,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -305,7 +386,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -316,7 +400,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -327,7 +414,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -338,7 +428,10 @@
             "en": "A mysterious powder that produces a cloud around the area that temporarily strengthens defense.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 315,
+        "buy_price": null,
+        "carry_limit": 3
     },
     {
         "name": {
@@ -349,7 +442,10 @@
             "en": "Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -360,7 +456,10 @@
             "en": "A primary ingredient in potions.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -371,7 +470,10 @@
             "en": "A primary ingredient in antidotes.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -382,7 +484,10 @@
             "en": "A wondrous, flammable plant. Useful for crafting explosives.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -393,7 +498,10 @@
             "en": "This plant's leaves store a great amount of water. A component for making Water Ammo.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -404,7 +512,10 @@
             "en": "A plant that radiates ice-cold air. Use in combinations to create freeze ammo.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -415,7 +526,10 @@
             "en": "A plant containing sleeping agents. Used to craft tranquilizers.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 5,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -426,7 +540,10 @@
             "en": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 8,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -437,7 +554,10 @@
             "en": "A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -448,7 +568,10 @@
             "en": "A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 78,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -459,7 +582,10 @@
             "en": "A mushroom infused with power-enhancing effects. Used in restorative items.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -470,7 +596,10 @@
             "en": "A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 40,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -481,7 +610,10 @@
             "en": "A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -492,7 +624,10 @@
             "en": "A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 60,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -503,7 +638,10 @@
             "en": "A mushroom that induces paralysis. Required to craft Tranq Bombs.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 15,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -514,7 +652,10 @@
             "en": "A poisonous fungus. Can be used as a toxin for knives.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 8,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -525,7 +666,10 @@
             "en": "This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 18,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -536,7 +680,10 @@
             "en": "This mushroom is a primary ingredient in cool drinks.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 18,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -547,7 +694,10 @@
             "en": "A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -558,7 +708,10 @@
             "en": "An insect that emits a powerful flash when it dies. Required to craft Flash Pods.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 48,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -569,7 +722,10 @@
             "en": "An insect said to live a millennium. Combine it with other items to add their properties to the powder.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 120,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -580,7 +736,10 @@
             "en": "An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 80,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -591,7 +750,10 @@
             "en": "An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -602,7 +764,10 @@
             "en": "While not practical when forging equipment, Kelbi horns are a vital component of many items.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 52,
+        "buy_price": null,
+        "carry_limit": 99
     },
     {
         "name": {
@@ -613,7 +778,10 @@
             "en": "A mysterious substance culled from certain monsters that increases endurance.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 56,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -624,7 +792,10 @@
             "en": "Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 122,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -635,7 +806,10 @@
             "en": "A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 15,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -646,7 +820,10 @@
             "en": "Works with other materials to enhance their effects. Cannot be used by itself.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 48,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -657,7 +834,10 @@
             "en": "A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 35,
+        "buy_price": null,
+        "carry_limit": 8
     },
     {
         "name": {
@@ -668,7 +848,10 @@
             "en": "Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 57,
+        "buy_price": null,
+        "carry_limit": 3
     },
     {
         "name": {
@@ -679,7 +862,10 @@
             "en": "Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 3
     },
     {
         "name": {
@@ -690,7 +876,10 @@
             "en": "Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 20,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -701,7 +890,10 @@
             "en": "Creates a large cloud of smoke wherever it lands.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 44,
+        "buy_price": null,
+        "carry_limit": 3
     },
     {
         "name": {
@@ -712,7 +904,10 @@
             "en": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 60,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -723,7 +918,10 @@
             "en": "Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 30,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -734,7 +932,10 @@
             "en": "Meat carved from a monster. Can be cooked, combined, or used to set a trap.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 5,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -745,7 +946,10 @@
             "en": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 19,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -756,7 +960,10 @@
             "en": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 30,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -767,7 +974,10 @@
             "en": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 32,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -778,7 +988,10 @@
             "en": "A dangerous substance that explodes when struct or heated.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -789,7 +1002,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -800,7 +1016,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -811,7 +1030,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -822,7 +1044,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -833,7 +1058,10 @@
             "en": "A large, empty barrel. Combine with gunpowser to make it into a bomb.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 21,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -844,7 +1072,10 @@
             "en": null,
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -855,7 +1086,10 @@
             "en": "An upgraded large barrel bomb. Effective against large monsters.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 80,
+        "buy_price": null,
+        "carry_limit": 2
     },
     {
         "name": {
@@ -866,7 +1100,10 @@
             "en": "A very sticky web. Used to craft pitfall traps.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -877,7 +1114,10 @@
             "en": "A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 54,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -888,7 +1128,10 @@
             "en": "A must-have item for putting together pitfall traps and other kinds of traps.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 20,
+        "buy_price": null,
+        "carry_limit": 2
     },
     {
         "name": {
@@ -899,7 +1142,10 @@
             "en": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 200,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -910,7 +1156,10 @@
             "en": "A trap that immobilizes a target. Use it to capture monsters.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 160,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -921,7 +1170,10 @@
             "en": "A ball of condensed monster dung. Used to make dung pods for your slinger.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 10,
+        "buy_price": null,
+        "carry_limit": 20
     },
     {
         "name": {
@@ -932,7 +1184,10 @@
             "en": "Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 1,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -943,7 +1198,10 @@
             "en": "A ball of bait favored by fish of the Arowana family.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 15,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -954,7 +1212,10 @@
             "en": "A ball of bait favored by fish of the Gunpowderfish family.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 15,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -965,7 +1226,10 @@
             "en": "A ball of bait favored by fish of the Goldenfish family.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 30,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -976,7 +1240,10 @@
             "en": "An unusually-shaped weapon from abroad that returns to its user when thrown.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 15,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -987,7 +1254,10 @@
             "en": "Allows you to see farther and observe from a distance.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 5,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -998,7 +1268,10 @@
             "en": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
             "ja": null
         },
-        "rarity": 5
+        "rarity": 5,
+        "sell_price": 3,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -1009,7 +1282,10 @@
             "en": "A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.",
             "ja": null
         },
-        "rarity": 5
+        "rarity": 5,
+        "sell_price": 6,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -1020,7 +1296,10 @@
             "en": "An amulet that increases defense. Just carrying this hardens your skin like stone.",
             "ja": null
         },
-        "rarity": 5
+        "rarity": 5,
+        "sell_price": 2,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -1031,7 +1310,10 @@
             "en": "A charm that increases defense. Its effects are amplified by the dragon parts it contains.",
             "ja": null
         },
-        "rarity": 5
+        "rarity": 5,
+        "sell_price": 5,
+        "buy_price": null,
+        "carry_limit": 1
     },
     {
         "name": {
@@ -1042,7 +1324,10 @@
             "en": "A nut covered in needle-like spines. Used to make spread ammo.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 1,
+        "buy_price": null,
+        "carry_limit": 99
     },
     {
         "name": {
@@ -1053,7 +1338,10 @@
             "en": "A nut used to make sticky ammo.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 30
     },
     {
         "name": {
@@ -1064,7 +1352,10 @@
             "en": "A nut that explodes on impact. Used to make wyvern ammo.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 12,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1075,7 +1366,10 @@
             "en": "Used to make slicing ammo.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 60
     },
     {
         "name": {
@@ -1086,7 +1380,10 @@
             "en": "A nut that bears a spiral groove. Used to make pierce ammo.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 4,
+        "buy_price": null,
+        "carry_limit": 99
     },
     {
         "name": {
@@ -1097,7 +1394,10 @@
             "en": "A nut that ruptures on impact. Used to make cluster bombs.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 12,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -1108,7 +1408,10 @@
             "en": "Used to make gunpowder that increases ammo firepower.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 12,
+        "buy_price": null,
+        "carry_limit": 80
     },
     {
         "name": {
@@ -1119,7 +1422,10 @@
             "en": "Used to make gunpowder that greatly increases ammo firepower.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 12,
+        "buy_price": null,
+        "carry_limit": 60
     },
     {
         "name": {
@@ -1130,7 +1436,10 @@
             "en": "Combustible powser. Combine with level 1 ammo to raise its level.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 1,
+        "buy_price": null,
+        "carry_limit": 80
     },
     {
         "name": {
@@ -1141,7 +1450,10 @@
             "en": "Highly combustible powser. Combine with level 1 ammo to raise its level.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 3,
+        "buy_price": null,
+        "carry_limit": 80
     },
     {
         "name": {
@@ -1152,7 +1464,10 @@
             "en": "A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -1163,7 +1478,10 @@
             "en": "A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1174,7 +1492,10 @@
             "en": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 10
     },
     {
         "name": {
@@ -1185,7 +1506,10 @@
             "en": "Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1196,7 +1520,10 @@
             "en": "The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.",
             "ja": null
         },
-        "rarity": 3
+        "rarity": 3,
+        "sell_price": 150,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1207,7 +1534,10 @@
             "en": "The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 150,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1218,7 +1548,10 @@
             "en": "The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1229,7 +1562,10 @@
             "en": "The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 45,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1240,7 +1576,10 @@
             "en": "The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.",
             "ja": null
         },
-        "rarity": 2
+        "rarity": 2,
+        "sell_price": 135,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1251,7 +1590,10 @@
             "en": "The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": 135,
+        "buy_price": null,
+        "carry_limit": 5
     },
     {
         "name": {
@@ -1262,7 +1604,10 @@
             "en": "A regularly old empty phial. Nothing more, nothing less.",
             "ja": null
         },
-        "rarity": 1
+        "rarity": 1,
+        "sell_price": 1,
+        "buy_price": null,
+        "carry_limit": 99
     },
     {
         "name": {
@@ -1273,7 +1618,10 @@
             "en": "Ore that can be smelted into metal and used for many different purposes.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1284,7 +1632,10 @@
             "en": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1295,7 +1646,10 @@
             "en": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
             "ja": null
         },
-        "rarity": 4
+        "rarity": 4,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1306,7 +1660,10 @@
             "en": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1317,7 +1674,10 @@
             "en": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1328,7 +1688,10 @@
             "en": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1339,7 +1702,10 @@
             "en": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1350,7 +1716,10 @@
             "en": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1361,7 +1730,10 @@
             "en": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1372,7 +1744,10 @@
             "en": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1383,7 +1758,10 @@
             "en": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1394,7 +1772,10 @@
             "en": "A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1405,7 +1786,10 @@
             "en": "A valuable mineral used to create charms. Gives off a warm, sunny glow.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1416,7 +1800,10 @@
             "en": "A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1427,7 +1814,10 @@
             "en": "A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1438,7 +1828,10 @@
             "en": "Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1449,7 +1842,10 @@
             "en": "Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1460,7 +1856,10 @@
             "en": "Reacts uniquely to heat. Fuse this to armor to improve it.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1471,7 +1870,10 @@
             "en": "Reacts uniquely to heat. Fuse this to armor to significantly improve it.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1482,7 +1884,10 @@
             "en": "Reacts uniquely to heat. Fuse this to armor to greatly improve it.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1493,7 +1898,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1504,7 +1912,10 @@
             "en": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1515,7 +1926,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1526,7 +1940,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1537,7 +1954,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1548,7 +1968,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1559,7 +1982,10 @@
             "en": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1570,7 +1996,10 @@
             "en": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1581,7 +2010,10 @@
             "en": "A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1592,7 +2024,10 @@
             "en": "Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1603,7 +2038,10 @@
             "en": "Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1614,7 +2052,10 @@
             "en": "A material found in bonepiles. Indispensable for both hunting and daily life.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1625,7 +2066,10 @@
             "en": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1636,7 +2080,10 @@
             "en": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1647,7 +2094,10 @@
             "en": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1658,7 +2108,10 @@
             "en": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1669,7 +2122,10 @@
             "en": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1680,7 +2136,10 @@
             "en": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1691,7 +2150,10 @@
             "en": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1702,7 +2164,10 @@
             "en": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1713,7 +2178,10 @@
             "en": "Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1724,7 +2192,10 @@
             "en": "Material from high rank insects. A rich broth made from only the thickest of monster juices.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1735,7 +2206,10 @@
             "en": "A monster organ that contains a lethal toxin. Handle with extreme care.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1746,7 +2220,10 @@
             "en": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1757,7 +2234,10 @@
             "en": "A monster organ that contains paralyzing neurotoxins.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1768,7 +2248,10 @@
             "en": "A monster organ filled with potent neurotoxins. A single touch can cause paralysis.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1779,7 +2262,10 @@
             "en": "A monster organ that contains a knockout powder capable of inducing sleep.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1790,7 +2276,10 @@
             "en": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1801,7 +2290,10 @@
             "en": "A monster organ filled with flammable powder. Handle with extreme care.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1812,7 +2304,10 @@
             "en": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1823,7 +2318,10 @@
             "en": "A monster organ designed to hold and preserve water.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1834,7 +2332,10 @@
             "en": "A monster organ designed to hold and preserve copious amounts of water.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1845,7 +2346,10 @@
             "en": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1856,7 +2360,10 @@
             "en": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1867,7 +2374,10 @@
             "en": "A monster organ that can store up electricity, which is released on impact.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1878,7 +2388,10 @@
             "en": "A monster organ that can store up large amounts of high voltage electricity.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1889,7 +2402,10 @@
             "en": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1900,7 +2416,10 @@
             "en": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1911,7 +2430,10 @@
             "en": "Contains an unknown compound. The object of much scholarly research.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1922,7 +2444,10 @@
             "en": "A musty hide covered in moss.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1944,7 +2469,10 @@
             "en": "A pelt from a small animal. Used for many things, but mostly just regular clothes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1955,7 +2483,10 @@
             "en": "Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1966,7 +2497,10 @@
             "en": "Vespoid material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1977,7 +2511,10 @@
             "en": "Rare Vespoid material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1988,7 +2525,10 @@
             "en": "Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -1999,7 +2539,10 @@
             "en": "Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2010,7 +2553,10 @@
             "en": "Hornetaur material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2021,7 +2567,10 @@
             "en": "Hornetaur material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2032,7 +2581,10 @@
             "en": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2043,7 +2595,10 @@
             "en": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2054,7 +2609,10 @@
             "en": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2065,7 +2623,10 @@
             "en": "Gajau material. Obtained by carving. Water resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2076,7 +2637,10 @@
             "en": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2087,7 +2651,10 @@
             "en": "Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2098,7 +2665,10 @@
             "en": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2109,7 +2679,10 @@
             "en": "A material carved from wingdrakes. Lightweight and often used when crafting armor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2120,7 +2693,10 @@
             "en": "A rare material carved from wingdrakes. Lightweight and often used when crafting armor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2131,7 +2707,10 @@
             "en": "Rare Barnos material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2142,7 +2721,10 @@
             "en": "Rare Barnos material. Obtained by carving. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2153,7 +2735,10 @@
             "en": "Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2164,7 +2749,10 @@
             "en": "Kestodon material. Obtained by carving. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2175,7 +2763,10 @@
             "en": "Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2186,7 +2777,10 @@
             "en": "Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2197,7 +2791,10 @@
             "en": "Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2208,7 +2805,10 @@
             "en": "Jagras material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2219,7 +2819,10 @@
             "en": "Jagras material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2230,7 +2833,10 @@
             "en": "Rare Jagras material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2241,7 +2847,10 @@
             "en": "Rare Jagras material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2252,7 +2861,10 @@
             "en": "Shamos material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2263,7 +2875,10 @@
             "en": "Shamos material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2274,7 +2889,10 @@
             "en": "Rare Shamos material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2285,7 +2903,10 @@
             "en": "Rare Shamos material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2296,7 +2917,10 @@
             "en": "Girros material. Obtained by carving Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2307,7 +2931,10 @@
             "en": "Girros material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2318,7 +2945,10 @@
             "en": "Girros material. Obtained by carving. Grants paralytic properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2329,7 +2959,10 @@
             "en": "Rare Girros material. Obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2340,7 +2973,10 @@
             "en": "Rare Girros material. Obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2351,7 +2987,10 @@
             "en": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2362,7 +3001,10 @@
             "en": "Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2373,7 +3015,10 @@
             "en": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2384,7 +3029,10 @@
             "en": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2395,7 +3043,10 @@
             "en": "Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2406,7 +3057,10 @@
             "en": "Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2417,7 +3071,10 @@
             "en": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2428,7 +3085,10 @@
             "en": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2439,7 +3099,10 @@
             "en": "Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2450,7 +3113,10 @@
             "en": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2461,7 +3127,10 @@
             "en": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2472,7 +3141,10 @@
             "en": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2483,7 +3155,10 @@
             "en": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2494,7 +3169,10 @@
             "en": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2505,7 +3183,10 @@
             "en": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2516,7 +3197,10 @@
             "en": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2527,7 +3211,10 @@
             "en": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2538,7 +3225,10 @@
             "en": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2549,7 +3239,10 @@
             "en": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2560,7 +3253,10 @@
             "en": "Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2571,7 +3267,10 @@
             "en": "Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2582,7 +3281,10 @@
             "en": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2593,7 +3295,10 @@
             "en": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2604,7 +3309,10 @@
             "en": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2615,7 +3323,10 @@
             "en": "Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2626,7 +3337,10 @@
             "en": "Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2637,7 +3351,10 @@
             "en": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2648,7 +3365,10 @@
             "en": "Barroth material. Obtained by breaking its scalp. Tough, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2659,7 +3379,10 @@
             "en": "Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2670,7 +3393,10 @@
             "en": "Barroth material. Obtained by breaking its mud covering Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2681,7 +3407,10 @@
             "en": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2692,7 +3421,10 @@
             "en": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2703,7 +3435,10 @@
             "en": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2714,7 +3449,10 @@
             "en": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2725,7 +3463,10 @@
             "en": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2736,7 +3477,10 @@
             "en": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2747,7 +3491,10 @@
             "en": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2758,7 +3505,10 @@
             "en": "Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2769,7 +3519,10 @@
             "en": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2780,7 +3533,10 @@
             "en": "Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2791,7 +3547,10 @@
             "en": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2802,7 +3561,10 @@
             "en": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2813,7 +3575,10 @@
             "en": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2824,7 +3589,10 @@
             "en": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2835,7 +3603,10 @@
             "en": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2846,7 +3617,10 @@
             "en": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2857,7 +3631,10 @@
             "en": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2868,7 +3645,10 @@
             "en": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2879,7 +3659,10 @@
             "en": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2890,7 +3673,10 @@
             "en": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2901,7 +3687,10 @@
             "en": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2912,7 +3701,10 @@
             "en": "Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2923,7 +3715,10 @@
             "en": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2934,7 +3729,10 @@
             "en": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2945,7 +3743,10 @@
             "en": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2956,7 +3757,10 @@
             "en": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2967,7 +3771,10 @@
             "en": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2978,7 +3785,10 @@
             "en": "Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -2989,7 +3799,10 @@
             "en": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3000,7 +3813,10 @@
             "en": "Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3011,7 +3827,10 @@
             "en": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3022,7 +3841,10 @@
             "en": "Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3033,7 +3855,10 @@
             "en": "Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3044,7 +3869,10 @@
             "en": "Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3055,7 +3883,10 @@
             "en": "Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3066,7 +3897,10 @@
             "en": "Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3077,7 +3911,10 @@
             "en": "Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3088,7 +3925,10 @@
             "en": "Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3099,7 +3939,10 @@
             "en": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3110,7 +3953,10 @@
             "en": "A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3121,7 +3967,10 @@
             "en": "Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3132,7 +3981,10 @@
             "en": "Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3143,7 +3995,10 @@
             "en": "Tzitzi-Ya-Ku material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3154,7 +4009,10 @@
             "en": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3165,7 +4023,10 @@
             "en": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3176,7 +4037,10 @@
             "en": "Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3187,7 +4051,10 @@
             "en": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3198,7 +4065,10 @@
             "en": "Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3209,7 +4079,10 @@
             "en": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3220,7 +4093,10 @@
             "en": "Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3231,7 +4107,10 @@
             "en": "Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3242,7 +4121,10 @@
             "en": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3253,7 +4135,10 @@
             "en": "Paolumu material. Obtained by breaking its tail. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3264,7 +4149,10 @@
             "en": "Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3275,7 +4163,10 @@
             "en": "Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3286,7 +4177,10 @@
             "en": "Rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3297,7 +4191,10 @@
             "en": "Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3308,7 +4205,10 @@
             "en": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3319,7 +4219,10 @@
             "en": "Great Girros material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3330,7 +4233,10 @@
             "en": "Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3341,7 +4247,10 @@
             "en": "Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3352,7 +4261,10 @@
             "en": "Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3363,7 +4275,10 @@
             "en": "Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3374,7 +4289,10 @@
             "en": "Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3385,7 +4303,10 @@
             "en": "Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3396,7 +4317,10 @@
             "en": "Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3407,7 +4331,10 @@
             "en": "Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3418,7 +4345,10 @@
             "en": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3429,7 +4359,10 @@
             "en": "Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3440,7 +4373,10 @@
             "en": "Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3451,7 +4387,10 @@
             "en": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3462,7 +4401,10 @@
             "en": "Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3473,7 +4415,10 @@
             "en": "Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3484,7 +4429,10 @@
             "en": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3495,7 +4443,10 @@
             "en": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3506,7 +4457,10 @@
             "en": "Legiana material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3517,7 +4471,10 @@
             "en": "Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3528,7 +4485,10 @@
             "en": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3539,7 +4499,10 @@
             "en": "Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3550,7 +4513,10 @@
             "en": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3561,7 +4527,10 @@
             "en": "Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3572,7 +4541,10 @@
             "en": "Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3583,7 +4555,10 @@
             "en": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3594,7 +4569,10 @@
             "en": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3605,7 +4583,10 @@
             "en": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3616,7 +4597,10 @@
             "en": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3627,7 +4611,10 @@
             "en": "Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3638,7 +4625,10 @@
             "en": "Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3649,7 +4639,10 @@
             "en": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3660,7 +4653,10 @@
             "en": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3671,7 +4667,10 @@
             "en": "Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3682,7 +4681,10 @@
             "en": "Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3693,7 +4695,10 @@
             "en": "Rare Odogaron material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3704,7 +4709,10 @@
             "en": "Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3715,7 +4723,10 @@
             "en": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3726,7 +4737,10 @@
             "en": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3737,7 +4751,10 @@
             "en": "A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3748,7 +4765,10 @@
             "en": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3759,7 +4779,10 @@
             "en": "Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3770,7 +4793,10 @@
             "en": "Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3781,7 +4807,10 @@
             "en": "Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3792,7 +4821,10 @@
             "en": "Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3803,7 +4835,10 @@
             "en": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3814,7 +4849,10 @@
             "en": "Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3825,7 +4863,10 @@
             "en": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3836,7 +4877,10 @@
             "en": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3847,7 +4891,10 @@
             "en": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3858,7 +4905,10 @@
             "en": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3869,7 +4919,10 @@
             "en": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3880,7 +4933,10 @@
             "en": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3891,7 +4947,10 @@
             "en": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3902,7 +4961,10 @@
             "en": "Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3913,7 +4975,10 @@
             "en": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3924,7 +4989,10 @@
             "en": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3935,7 +5003,10 @@
             "en": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3946,7 +5017,10 @@
             "en": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3957,7 +5031,10 @@
             "en": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3968,7 +5045,10 @@
             "en": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3979,7 +5059,10 @@
             "en": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -3990,7 +5073,10 @@
             "en": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4001,7 +5087,10 @@
             "en": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4012,7 +5101,10 @@
             "en": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4023,7 +5115,10 @@
             "en": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4034,7 +5129,10 @@
             "en": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4045,7 +5143,10 @@
             "en": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4056,7 +5157,10 @@
             "en": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4067,7 +5171,10 @@
             "en": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4078,7 +5185,10 @@
             "en": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4089,7 +5199,10 @@
             "en": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4100,7 +5213,10 @@
             "en": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4111,7 +5227,10 @@
             "en": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4122,7 +5241,10 @@
             "en": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4133,7 +5255,10 @@
             "en": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4144,7 +5269,10 @@
             "en": "Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4155,7 +5283,10 @@
             "en": "Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4166,7 +5297,10 @@
             "en": "Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4177,7 +5311,10 @@
             "en": "Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4188,7 +5325,10 @@
             "en": "Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4199,7 +5339,10 @@
             "en": "A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4210,7 +5353,10 @@
             "en": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4221,7 +5367,10 @@
             "en": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4232,7 +5381,10 @@
             "en": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4243,7 +5395,10 @@
             "en": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4254,7 +5409,10 @@
             "en": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4265,7 +5423,10 @@
             "en": "Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4276,7 +5437,10 @@
             "en": "Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4287,7 +5451,10 @@
             "en": "Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4298,7 +5465,10 @@
             "en": "Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4309,7 +5479,10 @@
             "en": "Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4320,7 +5493,10 @@
             "en": "Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4331,7 +5507,10 @@
             "en": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4342,7 +5521,10 @@
             "en": "Rare Uragaan material. Obtained by carving its severed tail. Highly heat resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4353,7 +5535,10 @@
             "en": "Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4364,7 +5549,10 @@
             "en": "A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4375,7 +5563,10 @@
             "en": "A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4386,7 +5577,10 @@
             "en": "Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4397,7 +5591,10 @@
             "en": "Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4408,7 +5605,10 @@
             "en": "Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4419,7 +5619,10 @@
             "en": "Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4430,7 +5633,10 @@
             "en": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4441,7 +5647,10 @@
             "en": "Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4452,7 +5661,10 @@
             "en": "A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4463,7 +5675,10 @@
             "en": "Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4474,7 +5689,10 @@
             "en": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4485,7 +5703,10 @@
             "en": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4496,7 +5717,10 @@
             "en": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4507,7 +5731,10 @@
             "en": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4518,7 +5745,10 @@
             "en": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4529,7 +5759,10 @@
             "en": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4540,7 +5773,10 @@
             "en": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4551,7 +5787,10 @@
             "en": "Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4562,7 +5801,10 @@
             "en": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4573,7 +5815,10 @@
             "en": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4584,7 +5829,10 @@
             "en": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4595,7 +5843,10 @@
             "en": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4606,7 +5857,10 @@
             "en": "Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4617,7 +5871,10 @@
             "en": "A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4628,7 +5885,10 @@
             "en": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4639,7 +5899,10 @@
             "en": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4650,7 +5913,10 @@
             "en": "Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4661,7 +5927,10 @@
             "en": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4672,7 +5941,10 @@
             "en": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4683,7 +5955,10 @@
             "en": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4694,7 +5969,10 @@
             "en": "Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4705,7 +5983,10 @@
             "en": "Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4716,7 +5997,10 @@
             "en": "A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4727,7 +6011,10 @@
             "en": "Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4738,7 +6025,10 @@
             "en": "Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4749,7 +6039,10 @@
             "en": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4760,7 +6053,10 @@
             "en": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4771,7 +6067,10 @@
             "en": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4782,7 +6081,10 @@
             "en": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4793,7 +6095,10 @@
             "en": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4804,7 +6109,10 @@
             "en": "Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4815,7 +6123,10 @@
             "en": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4826,7 +6137,10 @@
             "en": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4837,7 +6151,10 @@
             "en": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4848,7 +6165,10 @@
             "en": "A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4859,7 +6179,10 @@
             "en": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4870,7 +6193,10 @@
             "en": "A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4881,7 +6207,10 @@
             "en": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4892,7 +6221,10 @@
             "en": "Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4903,7 +6235,10 @@
             "en": "Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4914,7 +6249,10 @@
             "en": "Cloth made from the glossy black hide of a monster. Not obtainable by normal means.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4925,7 +6263,10 @@
             "en": "A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4936,7 +6277,10 @@
             "en": "A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4947,7 +6291,10 @@
             "en": "Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4958,7 +6305,10 @@
             "en": "Proof that you have completed the Proving. Grants you the right to craft special equipment.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4969,7 +6319,10 @@
             "en": "A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4980,7 +6333,10 @@
             "en": "Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -4991,7 +6347,10 @@
             "en": "A jewel that conceals faint traces of power within it. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5002,7 +6361,10 @@
             "en": "A jewel that conceals an unknown power within it. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5013,7 +6375,10 @@
             "en": "A jewel that conceals considerable power within it. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5024,7 +6389,10 @@
             "en": "A jewel that conceals a mystical power within it. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5035,7 +6403,10 @@
             "en": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5046,7 +6417,10 @@
             "en": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5057,7 +6431,10 @@
             "en": "A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5068,7 +6445,10 @@
             "en": "A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5079,7 +6459,10 @@
             "en": "A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5090,7 +6473,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in long swords and great swords.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5101,7 +6487,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5112,7 +6501,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5123,7 +6515,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in lances and gunlances.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5134,7 +6529,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5145,7 +6543,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5156,7 +6557,10 @@
             "en": "A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5167,7 +6571,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5178,7 +6585,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5189,7 +6599,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5200,7 +6613,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5211,7 +6627,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5222,7 +6641,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5233,7 +6655,10 @@
             "en": "A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5244,7 +6669,10 @@
             "en": "Redeem this for a special meal with stronger effects than usual.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5255,7 +6683,10 @@
             "en": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5266,7 +6697,10 @@
             "en": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5277,7 +6711,10 @@
             "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5288,7 +6725,10 @@
             "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5299,7 +6739,10 @@
             "en": "A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5310,7 +6753,10 @@
             "en": "A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5321,7 +6767,10 @@
             "en": "A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5332,7 +6781,10 @@
             "en": "A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5343,7 +6795,10 @@
             "en": "A coin given to those who have bested a Pukei-Pukei in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5354,7 +6809,10 @@
             "en": "A coin given to those who have bested a Kulu-Ya-Ku in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5365,7 +6823,10 @@
             "en": "A coin given to those who have bested a Rathian in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5376,7 +6837,10 @@
             "en": "A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5387,7 +6851,10 @@
             "en": "A coin given to those who have bested a Barroth in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5398,7 +6865,10 @@
             "en": "A coin given to those who have bested a Dodogama in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5409,7 +6879,10 @@
             "en": "A coin given to those who have bested a Rathalos in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5420,7 +6893,10 @@
             "en": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5431,7 +6907,10 @@
             "en": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5442,7 +6921,10 @@
             "en": "A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5453,7 +6935,10 @@
             "en": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5464,7 +6949,10 @@
             "en": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5475,7 +6963,10 @@
             "en": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5486,7 +6977,10 @@
             "en": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5497,7 +6991,10 @@
             "en": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5508,7 +7005,10 @@
             "en": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5519,7 +7019,10 @@
             "en": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5530,7 +7033,10 @@
             "en": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5541,7 +7047,10 @@
             "en": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5552,7 +7061,10 @@
             "en": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5563,7 +7075,10 @@
             "en": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5574,7 +7089,10 @@
             "en": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5585,7 +7103,10 @@
             "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5596,7 +7117,10 @@
             "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5607,7 +7131,10 @@
             "en": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5618,7 +7145,10 @@
             "en": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5629,7 +7159,10 @@
             "en": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5640,7 +7173,10 @@
             "en": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5651,7 +7187,10 @@
             "en": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5662,7 +7201,10 @@
             "en": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {
@@ -5673,7 +7215,10 @@
             "en": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)",
             "ja": null
         },
-        "rarity": null
+        "rarity": null,
+        "sell_price": null,
+        "buy_price": null,
+        "carry_limit": null
     },
     {
         "name": {

@@ -87,7 +87,7 @@ class Item(Base):
 
     buy_price = Column(Integer)
     sell_price = Column(Integer)
-    carry_capacity = Column(Integer)
+    carry_limit = Column(Integer)
 
     translations = relationship("ItemText")
 
