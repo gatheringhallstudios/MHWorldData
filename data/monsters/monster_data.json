@@ -1,6 +1,5 @@
 {
     "Aptonoth": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -28,7 +27,6 @@
         "break_and_extract": {}
     },
     "Jagras": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 90,
@@ -56,7 +54,6 @@
         "break_and_extract": {}
     },
     "Mernos": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 90,
@@ -84,7 +81,6 @@
         "break_and_extract": {}
     },
     "Vespoid": {
-        "size": "large",
         "hitzones": {
             "Body": {
                 "cut": 85,
@@ -101,7 +97,6 @@
         "break_and_extract": {}
     },
     "Mosswine": {
-        "size": "small",
         "hitzones": {
             "Body": {
                 "cut": 90,
@@ -118,7 +113,6 @@
         "break_and_extract": {}
     },
     "Apceros": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 60,
@@ -146,7 +140,6 @@
         "break_and_extract": {}
     },
     "Kestodon": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 35,
@@ -174,7 +167,6 @@
         "break_and_extract": {}
     },
     "Noios": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 90,
@@ -202,7 +194,6 @@
         "break_and_extract": {}
     },
     "Gajau": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -230,7 +221,6 @@
         "break_and_extract": {}
     },
     "Kelbi": {
-        "size": "small",
         "hitzones": {
             "Horn": {
                 "cut": 85,
@@ -258,7 +248,6 @@
         "break_and_extract": {}
     },
     "Raphinos": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 90,
@@ -286,7 +275,6 @@
         "break_and_extract": {}
     },
     "Shamos": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -314,7 +302,6 @@
         "break_and_extract": {}
     },
     "Girros": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 90,
@@ -342,7 +329,6 @@
         "break_and_extract": {}
     },
     "Hornetaur": {
-        "size": "small",
         "hitzones": {
             "Body": {
                 "cut": 80,
@@ -359,7 +345,6 @@
         "break_and_extract": {}
     },
     "Gastodon": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 35,
@@ -387,7 +372,6 @@
         "break_and_extract": {}
     },
     "Barnos": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 45,
@@ -415,7 +399,6 @@
         "break_and_extract": {}
     },
     "Great Jagras": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -568,7 +551,6 @@
         }
     },
     "Kulu-Ya-Ku": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 85,
@@ -654,7 +636,6 @@
         }
     },
     "Pukei-Pukei": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 75,
@@ -802,7 +783,6 @@
         }
     },
     "Barroth": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 22,
@@ -1013,7 +993,6 @@
         }
     },
     "Jyuratodus": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 63,
@@ -1223,7 +1202,6 @@
         }
     },
     "Tobi-Kadachi": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 60,
@@ -1365,7 +1343,6 @@
         }
     },
     "Anjanath": {
-        "size": "large",
         "hitzones": {
             "Nose": {
                 "cut": 80,
@@ -1512,7 +1489,6 @@
         }
     },
     "Rathian": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 70,
@@ -1660,7 +1636,6 @@
         }
     },
     "Tzitzi-Ya-Ku": {
-        "size": "large",
         "hitzones": {
             "Antennae": {
                 "cut": 75,
@@ -1752,7 +1727,6 @@
         }
     },
     "Paolumu": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 55,
@@ -1906,7 +1880,6 @@
         }
     },
     "Great Girros": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -2042,7 +2015,6 @@
         }
     },
     "Radobaan": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -2213,7 +2185,6 @@
         }
     },
     "Legiana": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 65,
@@ -2361,7 +2332,6 @@
         }
     },
     "Odogaron": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 70,
@@ -2497,7 +2467,6 @@
         }
     },
     "Rathalos": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 65,
@@ -2645,7 +2614,6 @@
         }
     },
     "Diablos": {
-        "size": "large",
         "hitzones": {
             "Horn": {
                 "cut": 21,
@@ -2815,7 +2783,6 @@
         }
     },
     "Kirin": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 55,
@@ -2895,7 +2862,6 @@
         }
     },
     "Zorah Magdaros": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 40,
@@ -3150,7 +3116,6 @@
         }
     },
     "Dodogama": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 35,
@@ -3308,7 +3273,6 @@
         }
     },
     "Pink Rathian": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 60,
@@ -3467,7 +3431,6 @@
         }
     },
     "Bazelgeuse": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 80,
@@ -3575,8 +3538,11 @@
             }
         }
     },
+    "Deviljho": {
+        "hitzones": {},
+        "break_and_extract": {}
+    },
     "Lavasioth": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 15,
@@ -3729,7 +3695,6 @@
         }
     },
     "Uragaan": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 70,
@@ -3888,7 +3853,6 @@
         }
     },
     "Azure Rathalos": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 60,
@@ -4047,7 +4011,6 @@
         }
     },
     "Black Diablos": {
-        "size": "large",
         "hitzones": {
             "Horn": {
                 "cut": 19,
@@ -4217,7 +4180,6 @@
         }
     },
     "Nergigante": {
-        "size": "large",
         "hitzones": {
             "Horn": {
                 "cut": 20,
@@ -4526,7 +4488,6 @@
         }
     },
     "Teostra": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 55,
@@ -4657,7 +4618,6 @@
         }
     },
     "Kushala Daora": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 55,
@@ -4788,7 +4748,6 @@
         }
     },
     "Vaal Hazak": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 50,
@@ -4992,7 +4951,6 @@
         }
     },
     "Xeno'jiiva": {
-        "size": "large",
         "hitzones": {
             "Head": {
                 "cut": 70,
@@ -5290,7 +5248,6 @@
         }
     },
     "Gajalaka": {
-        "size": "small",
         "hitzones": {
             "Head": {
                 "cut": 80,
