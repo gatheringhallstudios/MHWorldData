@@ -5668,6 +5668,118 @@
     },
     {
         "name": {
+            "en": "Deviljho Scale",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Hide",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Tallfang",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Talon",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Scalp",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Tail",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Saliva",
+            "ja": null
+        },
+        "description": {
+            "en": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Deviljho Gem",
+            "ja": null
+        },
+        "description": {
+            "en": "A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.",
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
             "en": "Immortal Dragonscale",
             "ja": "不滅の龍鱗"
         },
@@ -7252,5 +7364,75 @@
             "ja": null
         },
         "rarity": null
+    },
+    {
+        "name": {
+            "en": "Kulu-Ya-Ku Ticket",
+            "ja": null
+        },
+        "description": {
+            "en": null,
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Spring Blossom Ticket",
+            "ja": null
+        },
+        "description": {
+            "en": null,
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Master Craftsman's Blueprint",
+            "ja": null
+        },
+        "description": {
+            "en": null,
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Nova Brave Trophy",
+            "ja": null
+        },
+        "description": {
+            "en": null,
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
+    },
+    {
+        "name": {
+            "en": "Spring Insect Field Guide",
+            "ja": null
+        },
+        "description": {
+            "en": null,
+            "ja": null
+        },
+        "rarity": 0,
+        "sell_price": 0,
+        "buy_price": 0,
+        "carry_limit": 0
     }
 ]
