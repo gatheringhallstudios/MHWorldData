@@ -78,9 +78,9 @@ def build_items(session : sqlalchemy.orm.Session):
     for id, entry in item_map.items():
         item = db.Item(id=id)
         item.rarity = entry['rarity'] or 0
-        item.buy_price = entry.get('buy_price') or 0
-        item.sell_price = entry.get('sell_price') or 0
-        item.carry_limit = entry.get('carry_limit') or 0
+        item.buy_price = entry['buy_price'] or 0
+        item.sell_price = entry['sell_price'] or 0
+        item.carry_limit = entry['carry_limit'] or 0
 
         for language in supported_languages:
             item.translations.append(db.ItemText(
