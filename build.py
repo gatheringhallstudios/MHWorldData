@@ -94,14 +94,15 @@ def build_items(session : sqlalchemy.orm.Session):
     print("Built Items")
 
 def build_armor(session : sqlalchemy.orm.Session):
-    # Write entries for all armor set names first
-    for id, entry in armorset_map.items():
+    # Write entries for armor sets  first
+    for set_id, entry in armorset_map.items():
+        armor_set = db.ArmorSet(id=set_id) 
         for language in supported_languages:
-            session.add(db.ArmorSet(
-                id=id,
+            armor_set.translations.append(db.ArmorSetText(
                 lang_id=language,
                 name=entry.name(language)
             ))
+        session.add(armor_set)
 
     data_map = reader.load_data_map(armor_map, 'armors/armor_data.json')
     for armor_id, entry in data_map.items():

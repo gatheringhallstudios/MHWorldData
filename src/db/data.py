@@ -98,13 +98,40 @@ class ItemText(Base):
     name = Column(Text)
     description = Column(Text)
 
+class ArmorSet(Base):
+    __tablename__ = "armorset"
+    id = Column(Integer, primary_key=True)
+    armorset_bonus_id = Column(Integer)
+
+    translations = relationship("ArmorSetText")
+    armor = relationship("Armor")
+
+class ArmorSetText(Base):
+    __tablename__ = "armorset_text"
+    id = Column(Integer, ForeignKey('armorset.id'), primary_key=True)
+    lang_id = Column(Text, primary_key=True)
+    name = Column(Text)
+
+class ArmorSetBonusText(Base):
+    __tablename__ = "armorset_bonus_text"
+    id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, primary_key=True)
+    name = Column(Text)
+    description = Column(Text)
+
+class ArmorSetBonusSkill(Base):
+    __tablename__ = "armorset_bonus_skill"
+    id = Column(Integer, primary_key=True)
+    skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    requirement = Column(Integer)
+
 class Armor(Base):
     __tablename__ = "armor"
 
     id = Column(Integer, primary_key=True)
     rarity = Column(Integer)
     armor_type = Column(Text)
-    armorset_id = Column(Integer)
+    armorset_id = Column(Integer, ForeignKey("armorset.id"))
 
     male = Column(Boolean)
     female = Column(Boolean)
@@ -124,15 +151,11 @@ class Armor(Base):
     skills = relationship("ArmorSkill")
     craft_items = relationship("ArmorRecipe")
 
+    armorset = relationship("ArmorSet", back_populates="armor")
+
 class ArmorText(Base):
     __tablename__ = "armor_text"
     id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
-    name = Column(Text)
-
-class ArmorSet(Base):
-    __tablename__ = "armorset_text"
-    id = Column(Integer, primary_key=True)
     lang_id = Column(Text, primary_key=True)
     name = Column(Text)
 
