@@ -61,6 +61,7 @@ class SkillTree(Base):
     id = Column(Integer, primary_key=True)
 
     translations = relationship("SkillTreeText")
+    skills = relationship("Skill")
     # todo: decide the relationship to skill, and whether skill should be skill_text
 
 class SkillTreeText(Base):
@@ -74,7 +75,7 @@ class SkillTreeText(Base):
 class Skill(Base):
     "Represents a skill in a skill tree. These are tied to a language"
     __tablename__ = 'skill'
-    skilltree_id = Column(Integer, primary_key=True)
+    skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     lang_id = Column(Text, primary_key=True)
     level = Column(Integer, primary_key=True)
     description = Column(Text)

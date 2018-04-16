@@ -1,7 +1,22 @@
 import typing
 import collections
 
-from collections.abc import MutableMapping, Mapping
+from collections.abc import MutableMapping, Mapping, KeysView
+
+class NameSet(KeysView):
+    "A 'set-like' object for iterating over the names of a DataMap in a single language"
+    def __init__(self, backing_data, language_code):
+        self._map = backing_data
+        self.language_code = language_code
+
+    def __iter__(self):
+        for row in self._map.values():
+            yield row.name(self.language_code)
+
+    def __contains__(self, key):
+        if self._map.entry_of(self.language_code, key):
+            return True
+        return False
 
 class DataRow(MutableMapping):
     """Defines a single row of a datamap object.
@@ -96,6 +111,10 @@ class DataMap(typing.Mapping[int, DataRow]):
             self._reverse_entries[(lang, name)] = id       
         self._data[id] = new_entry
         return new_entry
+
+    def names(self, language_code):
+        "Returns a set like object of all the names in a given language"
+        return NameSet(self, language_code)
 
     def __getitem__(self, id) -> DataRow:
         return self._data[id]

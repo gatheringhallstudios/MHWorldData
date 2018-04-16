@@ -14,21 +14,59 @@ data_path = os.path.join(this_dir, 'data/')
 
 reader = DataReader(languages=supported_languages, data_path=data_path)
 
-monster_map = reader.load_base_map("monsters/monster_base.json")
+monster_map = (reader.start_load("monsters/monster_base.json")
+                .add_data("monsters/monster_data.json")
+                .add_data("monsters/monster_rewards.json")
+                .get())
+
 skill_map = reader.load_base_map("skills/skill_base.json")
+
 item_map = reader.load_base_map("items/item_base.json")
-armor_map = reader.load_base_map("armors/armor_base.json")
+
+armor_map = (reader.start_load("armors/armor_base.json")
+                .add_data("armors/armor_data.json")
+                .get())
+
 armorset_map = reader.load_base_map("armors/armorset_base.json")
+
 weapon_map = reader.load_base_map("weapons/weapon_base.json")
-decoration_map = reader.load_base_map("decorations/decoration_base.json")
+
+decoration_map = (reader.start_load("decorations/decoration_base.json")
+                    .add_data("decorations/decoration_chances.json", key="chances")
+                    .get())
+
 charm_map = reader.load_base_map('charms/charm_base.json')
 
-def build_monsters(session : sqlalchemy.orm.Session):
-    # Load additional files
-    monster_data = reader.load_data_map(monster_map, "monsters/monster_data.json")
+def validate_monster_rewards():
+    # These are validated for 100% drop rate EXACT.
+    # Everything else is checked for "at least" 100%
+    single_drop_conditions = ("Body Carve", "Tail Carve", "Shiny Drop", "Capture")
+    for monster_id, entry in monster_map.items():
+        monster_name = entry.name('en') # used for error display
 
-    for entry in monster_data.values():
-        monster_name = entry.name('en')
+        for condition, sub_condition in entry.get('rewards', {}).items():
+            for rank, rewards in sub_condition.items():
+                # Ensure correct rank
+                ensure(rank in supported_ranks, f"Unsupported rank {rank} in {monster_name} rewards")
+
+                # Ensure percentage is correct (at or greater than 100)
+                percentage_sum = sum((r['percentage'] for r in rewards), 0)
+                error_start = f"Rewards %'s for monster {monster_name} (rank {rank} condition {condition})"
+                if condition in single_drop_conditions:
+                    ensure_warn(percentage_sum == 100, f"{error_start} does not sum to 100")
+                else:
+                    ensure_warn(percentage_sum >= 100, f"{error_start} does not sum to at least 100")
+
+                # check for duplicates (if the condition is relevant)
+                if condition in single_drop_conditions:
+                    duplicates = get_duplicates((r['item_en'] for r in rewards))
+                    ensure_warn(not duplicates, f"Monster {monster_name} contains " +
+                        f"duplicate rewards {','.join(duplicates)} in rank {rank} " +
+                        f"for condition {condition}")
+
+def build_monsters(session : sqlalchemy.orm.Session):
+    for monster_id, entry in monster_map.items():
+        monster_name = entry.name('en') # used for error display
 
         monster = db.Monster(id=entry.id)
         monster.size = entry['size']
@@ -47,8 +85,23 @@ def build_monsters(session : sqlalchemy.orm.Session):
                 **values
             ))
 
+        for condition, sub_condition in entry.get('rewards', {}).items():
+            for rank, rewards in sub_condition.items():
+                for reward in rewards:
+                    item_name = reward['item_en']
+                    item_id = item_map.id_of('en', item_name)
+                    ensure(item_id, f"ERROR: item reward {item_name} in monster {monster_name} does not exist")
+
+                    monster.rewards.append(db.MonsterReward(
+                        condition = condition,
+                        rank = rank,
+                        item_id = item_id,
+                        stack_size = reward['stack'],
+                        percentage = reward['percentage']
+                    ))
+
         session.add(monster)
-            
+
     print("Built Monsters")
 
 def build_skills(session : sqlalchemy.orm.Session):
@@ -63,8 +116,7 @@ def build_skills(session : sqlalchemy.orm.Session):
             ))
 
             for effect in entry['effects']:
-                session.add(db.Skill(
-                    skilltree_id=id,
+                skilltree.skills.append(db.Skill(
                     lang_id=language,
                     level=effect['level'],
                     description=effect['description'][language]
@@ -104,8 +156,7 @@ def build_armor(session : sqlalchemy.orm.Session):
             ))
         session.add(armor_set)
 
-    data_map = reader.load_data_map(armor_map, 'armors/armor_data.json')
-    for armor_id, entry in data_map.items():
+    for armor_id, entry in armor_map.items():
         armor_name_en = entry.name('en')
 
         armor = db.Armor(id = armor_id)
@@ -230,25 +281,22 @@ def build_weapons(session : sqlalchemy.orm.Session):
 def build_decorations(session : sqlalchemy.orm.Session):
     "Performs the build process for decorations. Must be done after skills"
 
-    decoration_chances = reader.load_data_map(decoration_map, "decorations/decoration_chances.json")
-
     for decoration_id, entry in decoration_map.items():
         skill_id = skill_map.id_of('en', entry['skill_en'])
         ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
             f"skill {entry['skill_en']}, which doesn't exist.")
 
-        chance_data = decoration_chances.get(decoration_id, None)
-        ensure(chance_data, "Missing chance data for " + entry.name('en'))
+        ensure("chances" in entry, "Missing chance data for " + entry.name('en'))
         
         decoration = db.Decoration(
             id=decoration_id,
             rarity=entry['rarity'],
             slot=entry['slot'],
             skilltree_id=skill_id,
-            mysterious_feystone_chance=chance_data['mysterious_feystone_chance'],
-            glowing_feystone_chance=chance_data['glowing_feystone_chance'],
-            worn_feystone_chance=chance_data['worn_feystone_chance'],
-            warped_feystone_chance=chance_data['warped_feystone_chance']
+            mysterious_feystone_chance=entry['chances']['mysterious_feystone_chance'],
+            glowing_feystone_chance=entry['chances']['glowing_feystone_chance'],
+            worn_feystone_chance=entry['chances']['worn_feystone_chance'],
+            warped_feystone_chance=entry['chances']['warped_feystone_chance']
         )
 
         for language in supported_languages:
@@ -295,55 +343,6 @@ def build_charms(session : sqlalchemy.orm.Session):
 
     print("Built Charms")
 
-def build_monster_rewards(session : sqlalchemy.orm.Session):
-    "Performs the build process for monster rewards. Must be done AFTER monsters and items"
-    
-    monster_reward_data = reader.load_data_map(monster_map, "monsters/monster_rewards.json")
-    
-    # These are validated for 100% drop rate EXACT.
-    # Everything else is checked for "at least" 100%
-    single_drop_conditions = ("Body Carve", "Tail Carve", "Shiny Drop", "Capture")
-
-    for entry in monster_reward_data.values():
-        monster_id = entry.id
-        monster_name = entry.name('en')
-
-        for condition, sub_condition in entry.get('rewards', {}).items():
-            for rank, rewards in sub_condition.items():
-                # Ensure correct rank
-                ensure(rank in supported_ranks, f"Unsupported rank {rank} in {monster_name} rewards")
-
-                # Ensure percentage is correct (at or greater than 100)
-                percentage_sum = sum((r['percentage'] for r in rewards), 0)
-                error_start = f"Rewards %'s for monster {monster_name} (rank {rank} condition {condition})"
-                if condition in single_drop_conditions:
-                    ensure_warn(percentage_sum == 100, f"{error_start} does not sum to 100")
-                else:
-                    ensure_warn(percentage_sum >= 100, f"{error_start} does not sum to at least 100")
-
-                # check for duplicates (if the condition is relevant)
-                if condition in single_drop_conditions:
-                    duplicates = get_duplicates((r['item_en'] for r in rewards))
-                    ensure_warn(not duplicates, f"Monster {monster_name} contains " +
-                        f"duplicate rewards {','.join(duplicates)} in rank {rank} " +
-                        f"for condition {condition}")
-
-                for reward in rewards:
-                    item_name = reward['item_en']
-                    item_id = item_map.id_of('en', item_name)
-                    ensure(item_id, f"ERROR: item reward {item_name} in monster {monster_name} does not exist")
-
-                    session.add(db.MonsterReward(
-                        monster_id = monster_id,
-                        condition = condition,
-                        rank = rank,
-                        item_id = item_id,
-                        stack_size = reward['stack'],
-                        percentage = reward['percentage']
-                    ))
-
-    print("Built Monster Rewards")
-
 import sys
 
 def build_database(output_filename):
@@ -357,15 +356,16 @@ def build_database(output_filename):
 
     sessionbuilder = db.recreate_database(output_filename)
 
+    validate_monster_rewards()
+
     with db.session_scope(sessionbuilder) as session:
+        build_items(session)
         build_monsters(session)
         build_skills(session)
-        build_items(session)
         build_armor(session)
         build_weapons(session)
         build_decorations(session)
         build_charms(session)
-        build_monster_rewards(session)
         
     print("Finished build")
 
