@@ -23,24 +23,57 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_data_map(self, location, base_map, data_map, lang='en'):
-        """Write a DataMap to a location in the data directory in in the base map's order.
-        Data that already exists in the provided base map (like name data) are not written out
+    def save_data_map(self, location, data_map, *, root=None, fields=None, lang='en'):
+        """Write a DataMap to a location in the data directory.
+
+        If root is a string, then the saving is restricted to what's inside that key.
+        The result is flattened such that the root field doesn't exist in the output.
+        
+        If root is a data map, then fields also within the base map are omitted
+        
+        If fields are given, only fields within the list are exported
         """
         location = self.get_data_path(location)
-        result = {}
-        for entry in data_map.values():
-            base_entry = base_map[entry.id]
-            
-            # Create the result entry. Fields are copied EXCEPT for base ones
-            result_entry = {}
-            for key, value in entry.items():
-                if key not in base_entry:
-                    result_entry[key] = value
 
-            # Add to result
-            result[entry.name(lang)] = result_entry
-            
+        result = {}
+
+        if not root and not fields:
+            raise Exception("Either a root (string or dictionary) or a list of fields " +
+                "must be given when persisting a data map")
+
+        root_is_string = isinstance(root, str)
+
+        for entry_id, entry in data_map.items():
+            name = entry.name(lang)
+
+            # stores the result for this round
+            result_entry = {}
+
+            # If the root is a string, use the field as the entry (if it exists)
+            # if the root field doesn't exist, skip to the next
+            if root and root_is_string:
+                if root not in entry:
+                    continue
+                entry = entry[root]
+
+            # check the fields in the entry to copy them over
+            for key, value in entry.items():
+                # check if this is an allowed field
+                if fields and key not in fields:
+                    continue
+
+                # if root is not a string, assume its a base map
+                # If the field is part of the base map, then skip
+                if root and not root_is_string:
+                    base_entry = root[entry.id]
+                    if key in base_entry:
+                        continue
+                
+                result_entry[key] = value
+
+            if result_entry:
+                result[name] = result_entry
+
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 

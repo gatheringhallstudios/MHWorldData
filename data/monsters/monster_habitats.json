@@ -1,0 +1,256 @@
+{
+    "Great Jagras": {
+        "Ancient Forest": {
+            "start_area": "2",
+            "move_area": "1,2,3,4,7,8,9,10,12",
+            "rest_area": "2,7"
+        }
+    },
+    "Kulu-Ya-Ku": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "2～11,12",
+            "rest_area": "7"
+        },
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "2～,11,12",
+            "rest_area": "6"
+        }
+    },
+    "Pukei-Pukei": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "5,6,7,8,11,12,14,15",
+            "rest_area": "6"
+        },
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "1,2,3,4,6,7,8,9,",
+            "rest_area": "3"
+        }
+    },
+    "Barroth": {
+        "Wildspire Waste": {
+            "start_area": "7",
+            "move_area": "4,5,6,7,8,9,13",
+            "rest_area": "9"
+        }
+    },
+    "Jyuratodus": {
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "4,7,9,10",
+            "rest_area": "10"
+        }
+    },
+    "Tobi-Kadachi": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "5,6,7,11,12,14",
+            "rest_area": "14"
+        }
+    },
+    "Anjanath": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "1～9,11～14",
+            "rest_area": "13"
+        },
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "2,3,4,6,7,8,13",
+            "rest_area": "3"
+        }
+    },
+    "Tzitzi-Ya-Ku": {
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "1,2,3,4,5,6,7,8",
+            "rest_area": "7"
+        }
+    },
+    "Paolumu": {
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "3,4,5,8,9,10",
+            "rest_area": "9"
+        }
+    },
+    "Great Girros": {
+        "Rotten Vale": {
+            "start_area": null,
+            "move_area": "3,6,7,8,9",
+            "rest_area": "7"
+        }
+    },
+    "Radobaan": {
+        "Rotten Vale": {
+            "start_area": null,
+            "move_area": "1,2,3,4",
+            "rest_area": "4"
+        }
+    },
+    "Legiana": {
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "5,8,10,12,13,15",
+            "rest_area": "15"
+        }
+    },
+    "Odogaron": {
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "2,4,5,8",
+            "rest_area": "4"
+        },
+        "Rotten Vale": {
+            "start_area": null,
+            "move_area": "3,6,8,9,10,13",
+            "rest_area": "13"
+        }
+    },
+    "Rathalos": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "1,3,4,5,7,8,9,12,14,15,16",
+            "rest_area": "16"
+        },
+        "Elder's Recess": {
+            "start_area": null,
+            "move_area": "3,4,9",
+            "rest_area": "4"
+        }
+    },
+    "Diablos": {
+        "Wildspire Waste": {
+            "start_area": "13",
+            "move_area": "6,8,13,14",
+            "rest_area": "14"
+        }
+    },
+    "Kirin": {
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "1,2,3,4,6,8,12,13,15",
+            "rest_area": "15"
+        }
+    },
+    "Dodogama": {
+        "Elder's Recess": {
+            "start_area": "8",
+            "move_area": "5,7,8,9,12",
+            "rest_area": "8"
+        }
+    },
+    "Pink Rathian": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "1～6,8,9,11,12,14,15,16",
+            "rest_area": "16"
+        },
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "1,2,3,4,6,7,8,9,12",
+            "rest_area": "12"
+        }
+    },
+    "Bazelgeuse": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "5,10,16",
+            "rest_area": "?"
+        },
+        "Wildspire Waste": {
+            "start_area": null,
+            "move_area": "1,4,6,8,12",
+            "rest_area": "12"
+        },
+        "Coral Highlands": {
+            "start_area": null,
+            "move_area": "1,2,3,5,8,12,13",
+            "rest_area": "13"
+        },
+        "Rotten Vale": {
+            "start_area": null,
+            "move_area": "1,2,3,4,6,9",
+            "rest_area": "4"
+        },
+        "Elder's Recess": {
+            "start_area": null,
+            "move_area": "3,4,9,14",
+            "rest_area": "3"
+        }
+    },
+    "Lavasioth": {
+        "Elder's Recess": {
+            "start_area": null,
+            "move_area": "7,10,11,12",
+            "rest_area": "10"
+        }
+    },
+    "Uragaan": {
+        "Elder's Recess": {
+            "start_area": null,
+            "move_area": "2,5,6,7,8",
+            "rest_area": "6"
+        }
+    },
+    "Azure Rathalos": {
+        "Ancient Forest": {
+            "start_area": "16",
+            "move_area": "5,6,7,14",
+            "rest_area": "15"
+        },
+        "Elder's Recess": {
+            "start_area": "8",
+            "move_area": "7,8",
+            "rest_area": "3"
+        }
+    },
+    "Black Diablos": {
+        "Wildspire Waste": {
+            "start_area": "13",
+            "move_area": "6,8,13,14",
+            "rest_area": "14"
+        }
+    },
+    "Nergigante": {
+        "Wildspire Waste": {
+            "start_area": "4",
+            "move_area": "4,6,7,8,13,14",
+            "rest_area": "14"
+        },
+        "Elder's Recess": {
+            "start_area": "9",
+            "move_area": "8,9,14,15",
+            "rest_area": "15"
+        }
+    },
+    "Teostra": {
+        "Elder's Recess": {
+            "start_area": "8",
+            "move_area": "7,8,9,10,11,12,13",
+            "rest_area": "13"
+        }
+    },
+    "Kushala Daora": {
+        "Ancient Forest": {
+            "start_area": null,
+            "move_area": "5,16",
+            "rest_area": "16"
+        },
+        "Elder's Recess": {
+            "start_area": "3",
+            "move_area": "2,3,4,8,9",
+            "rest_area": "4"
+        }
+    },
+    "Vaal Hazak": {
+        "Rotten Vale": {
+            "start_area": null,
+            "move_area": "12,14",
+            "rest_area": "16"
+        }
+    }
+}

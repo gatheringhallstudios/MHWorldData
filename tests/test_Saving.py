@@ -37,7 +37,7 @@ def test_save_data_map_symmetric(writer):
     extdata.add_entry(1, { 'name': { 'en': 'test1' }, 'data': 'test1'})
     extdata.add_entry(2, { 'name': { 'en': 'test2' }, 'data': 'test2'})
 
-    writer.save_data_map('testdatasym.json', basedata, extdata)
+    writer.save_data_map('testdatasym.json', extdata, root=basedata)
     new_data = writer.load_data_map(basedata, 'testdatasym.json')
 
     assert dict(extdata) == dict(new_data), "expected data to match"

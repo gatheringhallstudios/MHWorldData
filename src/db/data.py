@@ -6,6 +6,12 @@ from sqlalchemy.orm import relationship
 
 Base = declarative_base()
 
+class Location(Base):
+    __tablename__ = 'location_text'
+    id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, primary_key=True)
+    name = Column(Text)
+
 class Monster(Base):
     __tablename__ = 'monster'
 
@@ -15,6 +21,7 @@ class Monster(Base):
     translations = relationship("MonsterText")
     hitzones = relationship("MonsterHitzone")
     rewards = relationship("MonsterReward")
+    habitats = relationship("MonsterHabitat")
 
 class MonsterText(Base):
     __tablename__ = 'monster_text'
@@ -54,6 +61,14 @@ class MonsterReward(Base):
     
     stack_size = Column(Integer)
     percentage = Column(Integer)
+
+class MonsterHabitat(Base):
+    __tablename__ = 'monster_habitat'
+    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    location_id = Column(Integer, ForeignKey('location_text.id'), primary_key=True)
+    start_area = Column(Text)
+    move_area = Column(Text)
+    rest_area = Column(Text)
 
 class SkillTree(Base):
     __tablename__ = 'skilltree'

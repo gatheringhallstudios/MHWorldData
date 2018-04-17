@@ -14,14 +14,16 @@ data_path = os.path.join(this_dir, 'data/')
 
 reader = DataReader(languages=supported_languages, data_path=data_path)
 
+location_map = reader.load_base_map('locations/location_base.json')
+item_map = reader.load_base_map("items/item_base.json")
+skill_map = reader.load_base_map("skills/skill_base.json")
+charm_map = reader.load_base_map('charms/charm_base.json')
+
 monster_map = (reader.start_load("monsters/monster_base.json")
                 .add_data("monsters/monster_data.json")
                 .add_data("monsters/monster_rewards.json")
+                .add_data("monsters/monster_habitats.json", key="habitats")
                 .get())
-
-skill_map = reader.load_base_map("skills/skill_base.json")
-
-item_map = reader.load_base_map("items/item_base.json")
 
 armor_map = (reader.start_load("armors/armor_base.json")
                 .add_data("armors/armor_data.json")
@@ -34,8 +36,6 @@ weapon_map = reader.load_base_map("weapons/weapon_base.json")
 decoration_map = (reader.start_load("decorations/decoration_base.json")
                     .add_data("decorations/decoration_chances.json", key="chances")
                     .get())
-
-charm_map = reader.load_base_map('charms/charm_base.json')
 
 def validate_monster_rewards():
     # These are validated for 100% drop rate EXACT.
@@ -63,6 +63,15 @@ def validate_monster_rewards():
                     ensure_warn(not duplicates, f"Monster {monster_name} contains " +
                         f"duplicate rewards {','.join(duplicates)} in rank {rank} " +
                         f"for condition {condition}")
+
+def build_locations(session : sqlalchemy.orm.Session):
+    for location_id, entry in location_map.items():
+        for language in supported_languages:
+            session.add(db.Location(
+                id=location_id,
+                lang_id=language,
+                name=entry.name(language)
+            ))
 
 def build_monsters(session : sqlalchemy.orm.Session):
     for monster_id, entry in monster_map.items():
@@ -99,6 +108,17 @@ def build_monsters(session : sqlalchemy.orm.Session):
                         stack_size = reward['stack'],
                         percentage = reward['percentage']
                     ))
+
+        for location_name, habitat_values in entry.get('habitats', {}).items():
+            location_id = location_map.id_of("en", location_name)
+            ensure(location_id, "Invalid location name " + location_name)
+
+            monster.habitats.append(db.MonsterHabitat(
+                location_id=location_id,
+                start_area=habitat_values['start_area'] or None,
+                move_area=habitat_values['move_area'] or None,
+                rest_area=habitat_values['rest_area'] or None
+            ))
 
         session.add(monster)
 
@@ -360,6 +380,7 @@ def build_database(output_filename):
 
     with db.session_scope(sessionbuilder) as session:
         build_items(session)
+        build_locations(session)
         build_monsters(session)
         build_skills(session)
         build_armor(session)
