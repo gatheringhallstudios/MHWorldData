@@ -11,8 +11,10 @@ Afterwards, run `pipenv run build.py` in a terminal to generate an mhw.sql file.
 You can run the tests by executing `pipenv run pytest tests`.
 
 ## Data Structure
-Each subsystem (like Monster, or Armor) is stored in its own subdirectory. There are two kinds of data files:
-- ***type*_base.json**: A names registry containing the names of different objects of that type for each supported language, as well as additional base data
+The data files in /data are used to build the final SQL file. If you want to contribute data, this is where you'd do it.
+
+Each subsystem in (like Monster, or Armor) is stored in its own subdirectory in /data. There are two kinds of data files:
+- ***type*_base.json**: A names registry containing the names of different objects of that type for each supported language, as well as any additional base data.
 - ***type*_data.json**: A data registry key'd by the english name of that object. These are pulled to populate table data during the build process.
 
 ## How to contribute
