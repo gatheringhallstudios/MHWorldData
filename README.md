@@ -6,7 +6,7 @@ A project used to generate a SQLite database file from Monster Hunter World data
 ## How to build
 Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`). Afterwards, you can install all dependencies by running `pipenv install`.
 
-Afterwards, run `pipenv run build.py` in a terminal to generate an mhw.sql file.
+Afterwards, run `pipenv run python build.py` in a terminal to generate an mhw.sql file. Alternatively, run `pipenv shell` and then run `python build.py`.
 
 You can run the tests by executing `pipenv run pytest tests`.
 
