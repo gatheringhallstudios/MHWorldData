@@ -17,6 +17,7 @@ monster_map = (reader.start_load("monsters/monster_base.json")
                 .add_data("monsters/monster_hitzones.json")
                 .add_data("monsters/monster_breaks.json", key="breaks")
                 .add_data("monsters/monster_habitats.json", key="habitats")
+                .add_data("monsters/monster_rewards.json")
                 .get())
 
 armor_map = (reader.start_load("armors/armor_base.json")
