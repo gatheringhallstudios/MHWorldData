@@ -14,8 +14,8 @@ charm_map = reader.load_base_map('charms/charm_base.json')
 
 monster_map = (reader.start_load("monsters/monster_base.json")
                 .add_data("monsters/monster_weaknesses.json", key="weaknesses")
-                .add_data("monsters/monster_data.json")
-                .add_data("monsters/monster_rewards.json")
+                .add_data("monsters/monster_hitzones.json")
+                .add_data("monsters/monster_breaks.json", key="breaks")
                 .add_data("monsters/monster_habitats.json", key="habitats")
                 .get())
 

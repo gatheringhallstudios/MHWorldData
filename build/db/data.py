@@ -20,6 +20,7 @@ class Monster(Base):
 
     translations = relationship("MonsterText")
     hitzones = relationship("MonsterHitzone")
+    breaks = relationship("MonsterBreak")
     rewards = relationship("MonsterReward")
     habitats = relationship("MonsterHabitat")
     weaknesses = relationship("MonsterWeakness")
@@ -53,7 +54,7 @@ class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'
 
     monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    body_part = Column(Text, primary_key=True)
+    body_part = Column(Text, primary_key=True) # todo: make translateable
 
     cut = Column(Integer)
     impact = Column(Integer)
@@ -64,6 +65,17 @@ class MonsterHitzone(Base):
     thunder = Column(Integer)
     dragon = Column(Integer)
     ko = Column(Integer)
+
+class MonsterBreak(Base):
+    __tablename__ = 'monster_break'
+
+    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    body_part = Column(Text, primary_key=True) # todo: make translateable
+
+    flinch = Column(Integer)
+    wound = Column(Integer)
+    sever = Column(Integer)
+    extract = Column(Text)
 
 class MonsterReward(Base):
     __tablename__ = 'monster_reward'

@@ -89,6 +89,12 @@ def build_monsters(session : sqlalchemy.orm.Session):
                 **values
             ))
 
+        for body_part, values in entry.get('breaks', {}).items():
+            monster.breaks.append(db.MonsterBreak(
+                body_part = body_part,
+                **values
+            ))
+
         for condition, sub_condition in entry.get('rewards', {}).items():
             for rank, rewards in sub_condition.items():
                 for reward in rewards:
