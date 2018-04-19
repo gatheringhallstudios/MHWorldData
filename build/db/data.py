@@ -22,6 +22,7 @@ class Monster(Base):
     hitzones = relationship("MonsterHitzone")
     rewards = relationship("MonsterReward")
     habitats = relationship("MonsterHabitat")
+    weaknesses = relationship("MonsterWeakness")
 
 class MonsterText(Base):
     __tablename__ = 'monster_text'
@@ -30,6 +31,23 @@ class MonsterText(Base):
     lang_id = Column(Text, primary_key=True)
     name = Column(Text)
     description = Column(Text)
+
+class MonsterWeakness(Base):
+    __tablename__ = 'monster_weaknesses'
+    id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    state = Column(Text, primary_key=True)
+
+    fire = Column(Integer)
+    water = Column(Integer)
+    ice = Column(Integer)
+    thunder = Column(Integer)
+    dragon = Column(Integer)
+
+    poison = Column(Integer)
+    sleep = Column(Integer)
+    paralysis = Column(Integer)
+    blast = Column(Integer)
+    stun = Column(Integer)
 
 class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'

@@ -7,9 +7,28 @@ from src.util import ensure, ensure_warn, get_duplicates
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
 from data import *
 
+# todo: separate validate to somewhere else. 
+# Should it automatically happen when importing data?
+
+def validate_monster_weaknesses():
+    "Checks for valid data intelligence. The only fatal is a missing normal state"
+    for entry in monster_map.values():
+        if entry['size'] == 'small':
+            continue
+
+        if 'weaknesses' not in entry:
+            print(f"Warning: Large monster {entry.name('en')} does not contain a weakness entry")
+            continue
+
+        ensure('normal' in entry['weaknesses'], 
+            f"Invalid weaknesses in {entry.name('en')}, normal is a required state")
+
 def validate_monster_rewards():
+    """Validates monster rewards for sane values. 
+    Certain fields (like carve) sum to 100, 
+    Others (like quest rewards) must be at least 100%"""
+
     # These are validated for 100% drop rate EXACT.
-    # Everything else is checked for "at least" 100%
     single_drop_conditions = ("Body Carve", "Tail Carve", "Shiny Drop", "Capture")
     for monster_id, entry in monster_map.items():
         monster_name = entry.name('en') # used for error display
@@ -56,6 +75,12 @@ def build_monsters(session : sqlalchemy.orm.Session):
                 lang_id=language,
                 name=entry.name(language),
                 description=entry['description'][language]
+            ))
+
+        for state, values in entry.get('weaknesses', {}).items():
+            monster.weaknesses.append(db.MonsterWeakness(
+                state=state,
+                **values
             ))
 
         for body_part, values in entry['hitzones'].items():
@@ -344,6 +369,8 @@ def build_database(output_filename):
 
     sessionbuilder = db.recreate_database(output_filename)
 
+    # todo: move data validation to a submodule somewhere else...
+    validate_monster_weaknesses()
     validate_monster_rewards()
 
     with db.session_scope(sessionbuilder) as session:
