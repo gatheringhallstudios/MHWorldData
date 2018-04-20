@@ -6,10 +6,16 @@ from sqlalchemy.orm import relationship
 
 Base = declarative_base()
 
+class Language(Base):
+    __tablename__ = 'language'
+    id = Column(Text, primary_key=True)
+    name = Column(Text)
+    is_complete = Column(Text)
+
 class Location(Base):
     __tablename__ = 'location_text'
     id = Column(Integer, primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
 class Monster(Base):
@@ -29,7 +35,7 @@ class MonsterText(Base):
     __tablename__ = 'monster_text'
 
     id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
@@ -111,9 +117,8 @@ class SkillTree(Base):
 
 class SkillTreeText(Base):
     __tablename__ = 'skilltree_text'
-
     id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
@@ -121,7 +126,7 @@ class Skill(Base):
     "Represents a skill in a skill tree. These are tied to a language"
     __tablename__ = 'skill'
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     level = Column(Integer, primary_key=True)
     description = Column(Text)
 
@@ -140,7 +145,7 @@ class Item(Base):
 class ItemText(Base):
     __tablename__ = "item_text"
     id = Column(Integer, ForeignKey('item.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
@@ -155,13 +160,13 @@ class ArmorSet(Base):
 class ArmorSetText(Base):
     __tablename__ = "armorset_text"
     id = Column(Integer, ForeignKey('armorset.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
 class ArmorSetBonusText(Base):
     __tablename__ = "armorset_bonus_text"
     id = Column(Integer, primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
 
@@ -202,7 +207,7 @@ class Armor(Base):
 class ArmorText(Base):
     __tablename__ = "armor_text"
     id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
 class ArmorSkill(Base):
@@ -282,7 +287,7 @@ class Weapon(Base):
 class WeaponText(Base):
     __tablename__ = "weapon_text"
     id = Column(Integer, ForeignKey('weapon.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
 class WeaponRecipe(Base):
@@ -311,7 +316,7 @@ class Decoration(Base):
 class DecorationText(Base):
     __tablename__ = 'decoration_text'
     id = Column(Integer, ForeignKey('decoration.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
 class Charm(Base):
@@ -338,6 +343,6 @@ class CharmRecipe(Base):
 class CharmText(Base):
     __tablename__ = 'charm_text'
     id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
-    lang_id = Column(Text, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)

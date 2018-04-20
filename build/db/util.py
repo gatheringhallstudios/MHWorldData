@@ -3,7 +3,7 @@ import os
 import sqlalchemy
 import sqlalchemy.orm
 
-from .data import Base
+from .mappings import Base
 
 def recreate_database(output_filename):
     "Recreates the database file, returning a session manager"
@@ -18,7 +18,7 @@ def recreate_database(output_filename):
 
 from contextlib import contextmanager
 
-# adapted for sqlalchemy docs
+# adapted from sqlalchemy docs
 @contextmanager
 def session_scope(sessionmaker):
     """Provide a transactional scope around a series of operations."""

@@ -2,10 +2,27 @@ import os.path
 from src.data import DataReader
 
 supported_ranks = ['lr', 'hr']
-supported_languages = ['en']
 
-this_dir = os.path.dirname(os.path.abspath(__file__))
-reader = DataReader(languages=supported_languages, data_path=this_dir)
+"A mapping of all translations"
+all_languages = {
+    'en': "English",
+    'ja': "Japanese"
+}
+
+"A list of languages that require complete translations. Used in validation"
+required_languages = ['en']
+
+"A list of languages that can be exported"
+supported_languages = ['en', 'ja']
+
+"Languages that are designated as potential incomplete"
+incomplete_languages = ['ja']
+
+reader = DataReader(
+    required_languages=required_languages,
+    languages=list(supported_languages), 
+    data_path=os.path.dirname(os.path.abspath(__file__))
+)
 
 location_map = reader.load_base_map('locations/location_base.json')
 item_map = reader.load_base_map("items/item_base.json")

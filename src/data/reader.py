@@ -71,9 +71,21 @@ class DataStitcher:
         return self.data_map
 
 class DataReader:
-    def __init__(self, *, languages : typing.List, data_path : str):
+    """A class used to deserialize objects from the data files.
+    The languages parameters sets the expected languages,
+    and the required languages sets the ones that are validated for existance.
+    """
+
+    def __init__(self, *, 
+            languages : typing.List, 
+            required_languages=['en'],
+            data_path : str):
         self.languages = languages
+        self.required_languages = required_languages
         self.data_path = data_path
+
+        if not self.languages:
+            self.languages = self.required_languages
 
     def get_data_path(self, *rel_path):
         """Returns a file path to a file stored in the data folder using one or more
@@ -88,7 +100,7 @@ class DataReader:
         return DataStitcher(self, base_map)
 
     def load_base_map(self, data_file, validate=True):
-        "Loads a base data map object"
+        "Loads a base data map object."
         data_file = self.get_data_path(data_file)
         languages_with_errors = set()
 
@@ -101,13 +113,13 @@ class DataReader:
             entry = result.add_entry(id, row)
 
             # Validation prepass. Find missing langauges in the new entry
-            for lang in self.languages:
-                if lang not in entry['name']:
+            for lang in self.required_languages:
+                if not entry['name'].get(lang, None):
                     languages_with_errors.add(lang)
                     
             id += 1
 
-        # If we are missing translations, do a warning or validation
+        # If we are missing required translations, do a warning or validation
         ensure_fn = ensure if validate else ensure_warn
         ensure_fn(not languages_with_errors, 
             "Missing language entries for " +

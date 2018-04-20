@@ -380,6 +380,15 @@ def build_database(output_filename):
     validate_monster_rewards()
 
     with db.session_scope(sessionbuilder) as session:
+        # Add languages before starting the build
+        for language in supported_languages:
+            session.add(db.Language(
+                id=language,
+                name=all_languages[language],
+                is_complete=(language not in incomplete_languages)
+            ))
+
+        # Build the individual components
         build_items(session)
         build_locations(session)
         build_monsters(session)
