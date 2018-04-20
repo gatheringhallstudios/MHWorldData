@@ -2,6 +2,7 @@ import os
 
 import sqlalchemy
 import sqlalchemy.orm
+from contextlib import contextmanager
 
 from .mappings import Base
 
@@ -15,8 +16,6 @@ def recreate_database(output_filename):
     Base.metadata.create_all(engine)
 
     return sqlalchemy.orm.sessionmaker(bind=engine)
-
-from contextlib import contextmanager
 
 # adapted from sqlalchemy docs
 @contextmanager

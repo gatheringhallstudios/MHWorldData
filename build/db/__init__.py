@@ -5,5 +5,5 @@ Use recreate_database if you want to start a build.
 Feel free to copy this module if you want to run queries from your own project.
 """
 
-from .util import recreate_database, session_scope
+from .functions import recreate_database, session_scope
 from .mappings import *
