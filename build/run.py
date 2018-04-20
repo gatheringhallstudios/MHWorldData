@@ -7,6 +7,8 @@ from src.util import ensure, ensure_warn, get_duplicates
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
 from data import *
 
+from .objectindex import ObjectIndex
+
 # todo: separate validate to somewhere else. 
 # Should it automatically happen when importing data?
 
@@ -63,13 +65,35 @@ def build_locations(session : sqlalchemy.orm.Session):
             ))
 
 def build_monsters(session : sqlalchemy.orm.Session):
+    # autoincrementing sequence registries for unique names
+    part_registry = ObjectIndex()
+    condition_registry = ObjectIndex()
+
+    @part_registry.on_new()
+    def save_part(part_id, name):
+        "Internal handler to save part name"
+        for language in supported_languages:
+            session.add(db.MonsterPartText(
+                id=part_id,
+                lang_id=language,
+                name=name  # todo: translate
+            ))
+
+    @condition_registry.on_new()
+    def save_condition(condition_id, name):
+        "Internal handler to save condition name"
+        for language in supported_languages:
+            session.add(db.MonsterRewardConditionText(
+                id=condition_id,
+                lang_id=language,
+                name=name  # todo: translate
+            ))
+
     for monster_id, entry in monster_map.items():
         monster_name = entry.name('en') # used for error display
 
-        monster = db.Monster(id=entry.id)
-        monster.size = entry['size']
+        monster = db.Monster(id=entry.id, size=entry['size'])
 
-        # todo: allow looping over language map entries for a row
         for language in supported_languages:
             monster.translations.append(db.MonsterText(
                 lang_id=language,
@@ -84,18 +108,20 @@ def build_monsters(session : sqlalchemy.orm.Session):
             ))
 
         for body_part, values in entry['hitzones'].items():
-            monster.hitzones.append(db.MonsterHitzone(
-                body_part = body_part,
-                **values
-            ))
+            part_id = part_registry.id(body_part)
+
+            hitzone = db.MonsterHitzone(part_id=part_id, **values)
+            monster.hitzones.append(hitzone)
 
         for body_part, values in entry.get('breaks', {}).items():
-            monster.breaks.append(db.MonsterBreak(
-                body_part = body_part,
-                **values
-            ))
+            part_id = part_registry.id(body_part)
+
+            breakzone = db.MonsterBreak(part_id=part_id, **values)
+            monster.breaks.append(breakzone)
 
         for condition, sub_condition in entry.get('rewards', {}).items():
+            condition_id = condition_registry.id(condition)
+
             for rank, rewards in sub_condition.items():
                 for reward in rewards:
                     item_name = reward['item_en']
@@ -103,7 +129,7 @@ def build_monsters(session : sqlalchemy.orm.Session):
                     ensure(item_id, f"ERROR: item reward {item_name} in monster {monster_name} does not exist")
 
                     monster.rewards.append(db.MonsterReward(
-                        condition = condition,
+                        condition_id=condition_id,
                         rank = rank,
                         item_id = item_id,
                         stack_size = reward['stack'],

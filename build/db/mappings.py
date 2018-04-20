@@ -60,7 +60,7 @@ class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'
 
     monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    body_part = Column(Text, primary_key=True) # todo: make translateable
+    part_id = Column(Integer, ForeignKey('monster_part_text.id'), primary_key=True)
 
     cut = Column(Integer)
     impact = Column(Integer)
@@ -71,32 +71,56 @@ class MonsterHitzone(Base):
     thunder = Column(Integer)
     dragon = Column(Integer)
     ko = Column(Integer)
+    
+    body_part_translations = relationship("MonsterPartText", uselist=True)
 
 class MonsterBreak(Base):
     __tablename__ = 'monster_break'
 
     monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    body_part = Column(Text, primary_key=True) # todo: make translateable
+    part_id = Column(Integer, ForeignKey('monster_part_text.id'), primary_key=True)
 
     flinch = Column(Integer)
     wound = Column(Integer)
     sever = Column(Integer)
     extract = Column(Text)
 
+    body_part_translations = relationship("MonsterPartText", uselist=True)
+
+class MonsterPartText(Base):
+    __tablename__ = 'monster_part_text'
+    # todo: is it ok to have no monster id?
+    # currently it doesn't to allow us to add an optimization step for "exact matching part names"
+    id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+
 class MonsterReward(Base):
     __tablename__ = 'monster_reward'
  
-    # note: it is possible for there to be multiple entries.
-    # therefore, this join-table has no real primary key.
-    id = Column(Integer, primary_key=True)
+    # note: it is possible for there to be multiple entries of the same thing.
+    # therefore, this join-table has no "real id" and uses a surrogate instead
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
 
     monster_id = Column(Integer, ForeignKey('monster.id'))
-    condition = Column(Text)
+    condition_id = Column(Text, ForeignKey('monster_reward_condition_text.id'))
     rank = Column(Text)
     item_id = Column(Integer, ForeignKey('item.id'))
     
     stack_size = Column(Integer)
     percentage = Column(Integer)
+    
+    condition_translations = relationship("MonsterRewardConditionText", uselist=True)
+
+class MonsterRewardConditionText(Base):
+    __tablename__ = 'monster_reward_condition_text'
+    # todo: is it ok to have no monster id?
+    # currently it doesn't to allow us to add an optimization step for "exact matching part names"
+    id = Column(Integer, primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+
 
 class MonsterHabitat(Base):
     __tablename__ = 'monster_habitat'
