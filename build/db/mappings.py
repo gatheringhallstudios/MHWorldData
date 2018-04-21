@@ -41,7 +41,7 @@ class MonsterText(Base):
 
 class MonsterWeakness(Base):
     __tablename__ = 'monster_weaknesses'
-    id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
     state = Column(Text, primary_key=True)
 
     fire = Column(Integer)
