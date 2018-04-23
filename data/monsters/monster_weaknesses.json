@@ -54,17 +54,16 @@
             "blast": 3,
             "stun": 1
         },
-        "mud": {
+        "alt": {
             "fire": 0,
             "water": 3,
             "thunder": 0,
             "ice": 2,
-            "dragon": 1,
-            "poison": 3,
-            "sleep": 2,
-            "paralysis": 3,
-            "blast": 3,
-            "stun": 1
+            "dragon": 1
+        },
+        "alt_description": {
+            "en": "when covered in mud",
+            "ja": null
         }
     },
     "Jyuratodus": {
@@ -80,17 +79,16 @@
             "blast": 1,
             "stun": 3
         },
-        "mud": {
+        "alt": {
             "fire": 0,
             "water": 3,
             "thunder": 0,
             "ice": 1,
-            "dragon": 1,
-            "poison": 2,
-            "sleep": 1,
-            "paralysis": 2,
-            "blast": 1,
-            "stun": 3
+            "dragon": 1
+        },
+        "alt_description": {
+            "en": "when covered in mud",
+            "ja": null
         }
     },
     "Tobi-Kadachi": {

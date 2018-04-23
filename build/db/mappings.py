@@ -24,12 +24,30 @@ class Monster(Base):
     id = Column(Integer, primary_key=True)
     size = Column(Text)
 
+    weakness_fire = Column(Integer)
+    weakness_water = Column(Integer)
+    weakness_ice = Column(Integer)
+    weakness_thunder = Column(Integer)
+    weakness_dragon = Column(Integer)
+
+    weakness_poison = Column(Integer)
+    weakness_sleep = Column(Integer)
+    weakness_paralysis = Column(Integer)
+    weakness_blast = Column(Integer)
+    weakness_stun = Column(Integer)
+
+    has_alt_weakness = Column(Boolean, default=False)
+    alt_weakness_fire = Column(Integer)
+    alt_weakness_water = Column(Integer)
+    alt_weakness_ice = Column(Integer)
+    alt_weakness_thunder = Column(Integer)
+    alt_weakness_dragon = Column(Integer)
+
     translations = relationship("MonsterText")
     hitzones = relationship("MonsterHitzone")
     breaks = relationship("MonsterBreak")
     rewards = relationship("MonsterReward")
     habitats = relationship("MonsterHabitat")
-    weaknesses = relationship("MonsterWeakness")
 
 class MonsterText(Base):
     __tablename__ = 'monster_text'
@@ -38,23 +56,7 @@ class MonsterText(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
-
-class MonsterWeakness(Base):
-    __tablename__ = 'monster_weaknesses'
-    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    state = Column(Text, primary_key=True)
-
-    fire = Column(Integer)
-    water = Column(Integer)
-    ice = Column(Integer)
-    thunder = Column(Integer)
-    dragon = Column(Integer)
-
-    poison = Column(Integer)
-    sleep = Column(Integer)
-    paralysis = Column(Integer)
-    blast = Column(Integer)
-    stun = Column(Integer)
+    alt_state_description = Column(Text)
 
 class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'

@@ -94,31 +94,45 @@ def build_monsters(session : sqlalchemy.orm.Session):
 
         monster = db.Monster(id=entry.id, size=entry['size'])
 
+        # Save basic weakness summary data
+        if 'weaknesses' in entry:
+            weaknesses = entry['weaknesses']
+            for key, value in weaknesses['normal'].items():
+                setattr(monster, 'weakness_'+key, value)
+
+            if 'alt' in weaknesses:
+                monster.has_alt_weakness = True
+                for key, value in weaknesses['normal'].items():
+                    setattr(monster, 'alt_weakness_'+key, value)
+
+        # Save language data
         for language in supported_languages:
+            alt_state_description = None
+            if 'alt_description' in entry.get('weaknesses', {}):
+                alt_state_description = entry['weaknesses']['alt_description'][language]
+
             monster.translations.append(db.MonsterText(
                 lang_id=language,
                 name=entry.name(language),
-                description=entry['description'][language]
+                description=entry['description'][language],
+                alt_state_description=alt_state_description
             ))
 
-        for state, values in entry.get('weaknesses', {}).items():
-            monster.weaknesses.append(db.MonsterWeakness(
-                state=state,
-                **values
-            ))
-
+        # Save hitzones
         for body_part, values in entry['hitzones'].items():
             part_id = part_registry.id(body_part)
 
             hitzone = db.MonsterHitzone(part_id=part_id, **values)
             monster.hitzones.append(hitzone)
 
+        # Save breaks
         for body_part, values in entry.get('breaks', {}).items():
             part_id = part_registry.id(body_part)
 
             breakzone = db.MonsterBreak(part_id=part_id, **values)
             monster.breaks.append(breakzone)
 
+        # Save hunting rewards
         for condition, sub_condition in entry.get('rewards', {}).items():
             condition_id = condition_registry.id(condition)
 
@@ -136,17 +150,17 @@ def build_monsters(session : sqlalchemy.orm.Session):
                         percentage = reward['percentage']
                     ))
 
+        # Save Habitats
         for location_name, habitat_values in entry.get('habitats', {}).items():
             location_id = location_map.id_of("en", location_name)
             ensure(location_id, "Invalid location name " + location_name)
 
             monster.habitats.append(db.MonsterHabitat(
                 location_id=location_id,
-                start_area=habitat_values['start_area'] or None,
-                move_area=habitat_values['move_area'] or None,
-                rest_area=habitat_values['rest_area'] or None
+                **habitat_values
             ))
 
+        # Complete - add to session
         session.add(monster)
 
     print("Built Monsters")
