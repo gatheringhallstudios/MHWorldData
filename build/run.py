@@ -31,7 +31,8 @@ def validate_monster_rewards():
     Others (like quest rewards) must be at least 100%"""
 
     # These are validated for 100% drop rate EXACT.
-    single_drop_conditions = ("Body Carve", "Tail Carve", "Shiny Drop", "Capture")
+    uncapped_conditions = ("Quest Reward")
+    
     for monster_id, entry in monster_map.items():
         monster_name = entry.name('en') # used for error display
 
@@ -43,17 +44,10 @@ def validate_monster_rewards():
                 # Ensure percentage is correct (at or greater than 100)
                 percentage_sum = sum((r['percentage'] for r in rewards), 0)
                 error_start = f"Rewards %'s for monster {monster_name} (rank {rank} condition {condition})"
-                if condition in single_drop_conditions:
+                if condition not in uncapped_conditions:
                     ensure_warn(percentage_sum == 100, f"{error_start} does not sum to 100")
                 else:
                     ensure_warn(percentage_sum >= 100, f"{error_start} does not sum to at least 100")
-
-                # check for duplicates (if the condition is relevant)
-                if condition in single_drop_conditions:
-                    duplicates = get_duplicates((r['item_en'] for r in rewards))
-                    ensure_warn(not duplicates, f"Monster {monster_name} contains " +
-                        f"duplicate rewards {','.join(duplicates)} in rank {rank} " +
-                        f"for condition {condition}")
 
 def build_locations(session : sqlalchemy.orm.Session):
     for location_id, entry in location_map.items():
