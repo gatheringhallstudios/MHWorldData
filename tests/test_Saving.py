@@ -2,7 +2,7 @@ import pytest
 import os
 import shutil
 
-from src.data import DataMap, DataReaderWriter
+from mhwdata.io import DataMap, DataReaderWriter
 
 def create_entry(name_map):
     return { 'name': name_map }

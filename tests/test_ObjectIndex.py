@@ -1,6 +1,6 @@
 import pytest
 
-from build.objectindex import ObjectIndex
+from mhwdata.build.objectindex import ObjectIndex
 
 def test_generates_ids_for_new_objects():
     reg = ObjectIndex()

@@ -1,6 +1,6 @@
 import click
 
-from build import build_database
+from mhwdata.build import build_database
 
 @click.command()
 def build():

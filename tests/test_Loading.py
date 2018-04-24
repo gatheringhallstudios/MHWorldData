@@ -4,7 +4,7 @@ import shutil
 
 import json
 
-from src.data import DataReader
+from mhwdata.io import DataReader
 
 def save_json(obj, path):
     with open(path, 'w') as f:
