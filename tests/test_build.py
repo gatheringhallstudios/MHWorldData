@@ -1,7 +1,7 @@
 import os
 import os.path
 
-import build
+from mhwdata import build
 
 def test_builds(tmpdir):
     "Integration test to ensure the database builds"

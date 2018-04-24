@@ -1,27 +1,18 @@
+# Export configuration data
+from .cfg import *
+
+# TODO: Move all of this elsewhere. 
+# Its bad practice to run code at import time.
+
 import os.path
-from src.data import DataReader
+from os.path import abspath, join, dirname
 
-supported_ranks = ['lr', 'hr']
-
-"A mapping of all translations"
-all_languages = {
-    'en': "English",
-    'ja': "Japanese"
-}
-
-"A list of languages that require complete translations. Used in validation"
-required_languages = ['en']
-
-"A list of languages that can be exported"
-supported_languages = ['en', 'ja']
-
-"Languages that are designated as potential incomplete"
-incomplete_languages = ['ja']
+from mhwdata.io import DataReader
 
 reader = DataReader(
     required_languages=required_languages,
     languages=list(supported_languages), 
-    data_path=os.path.dirname(os.path.abspath(__file__))
+    data_path=join(dirname(abspath(__file__)), '../../source_data')
 )
 
 location_map = reader.load_base_map('locations/location_base.json')

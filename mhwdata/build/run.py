@@ -1,11 +1,11 @@
 import sqlalchemy.orm
-import build.db as db
+import mhwdata.sql as db
 
-from src.util import ensure, ensure_warn, get_duplicates
+from mhwdata.util import ensure, ensure_warn, get_duplicates
 
 # todo: refactor the individual build steps to accept the dependencies instead of * import
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
-from data import *
+from mhwdata.load import *
 
 from .objectindex import ObjectIndex
 

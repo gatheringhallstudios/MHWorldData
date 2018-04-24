@@ -5,7 +5,7 @@ import collections.abc
 import typing
 
 from .datamap import DataMap
-from src.util import ensure, ensure_warn
+from mhwdata.util import ensure, ensure_warn
 
 def merge_without_overwrite(dest, *dictlist):
     "Merges one or more dictionaries into dest, without overwriting existing entries"
