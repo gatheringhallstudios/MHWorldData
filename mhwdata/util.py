@@ -19,3 +19,16 @@ def get_duplicates(iterable):
             seen.add(item)
 
     return duplicates
+
+def joindicts(dest, *dictlist):
+    """Merges one or more dictionaries into dest, without overwriting existing entries
+    Returns the generated result.
+
+    To merge with overwrite, use the native dict update method.
+    """
+    result = dest
+    for d in dictlist:
+        for key, value in d.items():
+            if key not in result:
+                result[key] = value
+    return result

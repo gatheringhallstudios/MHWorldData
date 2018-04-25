@@ -5,70 +5,9 @@ import collections.abc
 import typing
 
 from .datamap import DataMap
-from mhwdata.util import ensure, ensure_warn
-
-def merge_without_overwrite(dest, *dictlist):
-    "Merges one or more dictionaries into dest, without overwriting existing entries"
-    result = dest
-    for d in dictlist:
-        for key, value in d.items():
-            if key not in result:
-                result[key] = value
-    return result
-
-def _joindicts(*dictlist):
-    "Joins multiple dictionaries without overwrite, returning a new one"
-    result = {}
-    return merge_without_overwrite(result, *dictlist)
-
-def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'):
-    """Validates if the set of keys can be joined to the data map.
-    Returns a list of violations on failure"""
-    data_names = data_map.names(join_lang)
-    return [key for key in keys if key not in data_names]
-
-class DataStitcher:
-    def __init__(self, reader, data_map, *, join_lang='en'):
-        self.reader = reader
-        self.data_map = data_map
-        self.join_lang = join_lang
-
-    def add_data(self, data_file, *, key=None):
-        """
-        Loads a data map to add data to the base map and returns self.
-        If a key is given, it will be added under key, 
-        Otherwise it will be merged without overwrite.
-        """
-
-        data_file = self.reader.get_data_path(data_file)
-        with open(data_file, encoding="utf-8") as f:
-            data = json.load(f)
-        
-        # validation, make sure it links
-        unlinked = validate_key_join(self.data_map, data.keys(), join_lang=self.join_lang)
-        if unlinked:
-            raise Exception(
-                "Several invalid names found. Invalid entries are " +
-                ','.join(unlinked))
-
-
-        # validation complete, it may not link to all base entries but thats ok
-        for data_key, data_entry in data.items():
-            base_entry = self.data_map.entry_of(self.join_lang, data_key)
-            
-            if key:
-                base_entry[key] = data_entry
-            elif hasattr(data_entry, 'keys'):
-                merge_without_overwrite(base_entry, data_entry)
-            else:
-                # If we get here, its a key-less merge with a non-dict
-                # We cannot merge a dictionary with a non-dictionary
-                raise Exception("Invalid data, the data map must be a dictionary for a keyless merge")
-            
-        return self
-
-    def get(self):
-        return self.data_map
+from .stitcher import DataStitcher
+from .functions import validate_key_join
+from mhwdata.util import ensure, ensure_warn, joindicts
 
 class DataReader:
     """A class used to deserialize objects from the data files.
@@ -77,9 +16,9 @@ class DataReader:
     """
 
     def __init__(self, *, 
-            languages : typing.List, 
+            languages: typing.List, 
             required_languages=['en'],
-            data_path : str):
+            data_path: str):
         self.languages = languages
         self.required_languages = required_languages
         self.data_path = data_path
@@ -153,7 +92,7 @@ class DataReader:
             name = entry.name(lang)
             if name not in data:
                 continue
-            result[id] = _joindicts(entry, data[name]) 
+            result[id] = joindicts({}, entry, data[name]) 
 
         return DataMap(result)
 
@@ -181,7 +120,7 @@ class DataReader:
 
         # todo: validate key conflicts
         # todo: store origins of keys somehow
-        data = _joindicts(*all_subdata)
+        data = joindicts({}, *all_subdata)
 
         # Set validation function depending on validation setting
         ensure_fn = ensure if validate else ensure_warn
@@ -197,6 +136,6 @@ class DataReader:
             name = entry.name(lang)
             if name not in data:
                 continue
-            result[id] = _joindicts(entry, data[name])
+            result[id] = joindicts({}, entry, data[name])
 
         return DataMap(result)
