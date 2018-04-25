@@ -106,7 +106,8 @@ class MonsterReward(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     monster_id = Column(Integer, ForeignKey('monster.id'))
-    condition_id = Column(Text, ForeignKey('monster_reward_condition_text.id'))
+    condition_id = Column(Integer, ForeignKey('monster_reward_condition_text.id'))
+    
     rank = Column(Text)
     item_id = Column(Integer, ForeignKey('item.id'))
     
