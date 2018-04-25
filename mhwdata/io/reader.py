@@ -108,16 +108,13 @@ class DataReader:
             data = json.load(f)
 
         result = DataMap()    
-        id = 1
         for row in data:
-            entry = result.add_entry(id, row)
+            entry = result.insert(row)
 
-            # Validation prepass. Find missing langauges in the new entry
+            # Validation prepass. Find missing languages in the new entry
             for lang in self.required_languages:
                 if not entry['name'].get(lang, None):
                     languages_with_errors.add(lang)
-                    
-            id += 1
 
         # If we are missing required translations, do a warning or validation
         ensure_fn = ensure if validate else ensure_warn

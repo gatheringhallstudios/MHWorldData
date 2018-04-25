@@ -1,5 +1,6 @@
 import typing
 import collections
+import itertools
 
 from collections.abc import MutableMapping, Mapping, KeysView
 
@@ -80,9 +81,13 @@ class DataRow(MutableMapping):
         return self._data.__len__()
 
 class DataMap(typing.Mapping[int, DataRow]):
-    def __init__(self, data : typing.Mapping[int, dict] = None):
+    def __init__(self, data: typing.Mapping[int, dict] = None):
         self._data = collections.OrderedDict()
         self._reverse_entries = {}
+
+        # todo: replace id gen with the object index...maybe...
+        self._id_gen = itertools.count(1)
+        self._last_id = 0
 
         if data:
             for id, entry in data.items():
@@ -98,19 +103,42 @@ class DataMap(typing.Mapping[int, DataRow]):
         id_value = self.id_of(language_code, name)
         return self._data.get(id_value, None)
 
-    def add_entry(self, id, entry : dict):
-        "Adds an entry to the dict, and returns the entry"
+    def _generate_id(self):
+        entry_id = next(self._id_gen)
+        self._last_id = entry_id
+        return entry_id
+
+    def _add_entry(self, entry_id, entry: dict):
+        "Internal: Adds an entry to the dict, and returns the entry"
         if 'name' not in entry:
             raise KeyError("An entry is missing a name value")
+            
+        if entry_id in self._data:
+            raise KeyError("An entry with the given key already exists")
 
-        if id in self.keys():
-            raise KeyError("An entry with the given id already exists")
-
-        new_entry = DataRow(id, entry)
+        new_entry = DataRow(entry_id, entry)
         for lang, name in new_entry.names():
-            self._reverse_entries[(lang, name)] = id       
-        self._data[id] = new_entry
+            self._reverse_entries[(lang, name)] = entry_id       
+        self._data[entry_id] = new_entry
         return new_entry
+
+    def add_entry(self, entry_id, entry : dict):
+        """"
+        Adds an entry to the dict, and returns the entry.
+        If this is higher than the last set id, reset the generator"""
+        if entry_id > self._last_id:
+            self._id_gen = itertools.count(entry_id + 1)
+            self._last_id = entry_id
+
+        return self._add_entry(entry_id, entry)
+
+    def insert(self, entry: dict):
+        entry_id = next(self._id_gen)
+        return self._add_entry(entry_id, entry)
+
+    def extend(self, entries: typing.List[dict]):
+        for entry in entries:
+            self.insert(entry)
 
     def names(self, language_code):
         "Returns a set like object of all the names in a given language"

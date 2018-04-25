@@ -15,37 +15,36 @@ def test_starts_with_zero_length():
 
 def test_add_entries_adds_length():
     map = DataMap()
-    map.add_entry(0, create_test_entry_en("test1"))
-    map.add_entry(1, create_test_entry_en("test2"))
+    map.insert(create_test_entry_en("test1"))
+    map.insert(create_test_entry_en("test2"))
     assert len(map) == 2, "expected 2 entries to exist"
 
 def test_can_lookup_by_id():
     map = DataMap()
-    map.add_entry(0, create_test_entry_en("test1"))
+    map.add_entry(55, create_test_entry_en("test1"))
     map.add_entry(1, create_test_entry_en("test2"))
-    map.add_entry(2, create_test_entry_en("test3"))
+    map.add_entry(8, create_test_entry_en("test3"))
 
-    found = map[1]
+    found = map[1] # note: id order is not sequential
     assert found.name('en') == "test2", "found name should match"
 
 def test_can_lookup_id_by_name():
     map = DataMap()
-    map.add_entry(0, create_test_entry_en("test1"))
-    map.add_entry(1, create_test_entry_en("test2"))
-    map.add_entry(2, create_test_entry_en("test3"))
+    map.add_entry(1, create_test_entry_en("test1"))
+    map.add_entry(2, create_test_entry_en("test2"))
+    map.add_entry(3, create_test_entry_en("test3"))
 
     idval = map.id_of("en", "test2")
-    assert idval == 1, "expected test 2 to have id 1"
+    assert idval == 2, "expected test 2 to have id 1"
 
 def test_can_lookup_entry_by_name():
     map = DataMap()
-    map.add_entry(0, create_test_entry_en("test1"))
-    map.add_entry(1, create_test_entry_en("test2"))
-    map.add_entry(2, create_test_entry_en("test3"))
+    map.insert(create_test_entry_en("test1"))
+    map.insert(create_test_entry_en("test2"))
+    map.insert(create_test_entry_en("test3"))
 
     entry = map.entry_of("en", "test2")
     assert entry.name('en') == 'test2', "expected entry name to match"
-    assert entry.id == 1, "expected entry to have id 1"
 
 def test_can_iterate_values_in_order():
     expected_entries = [
@@ -74,3 +73,11 @@ def test_set_value_after_item():
     expected_keys = ['test1', 'test2', 'NEW', 'test3', 'test4', 'name']
     entry_keys = list(entry.keys())
     assert entry_keys == expected_keys, "Expected new to be after test2"
+
+def test_manual_id_resets_sequence():
+    datamap = DataMap()
+
+    datamap.add_entry(25, create_test_entry_en('test1'))
+    new_entry = datamap.insert(create_test_entry_en('test2'))
+
+    assert new_entry.id > 25, "new id should have been higher"
