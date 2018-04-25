@@ -25,6 +25,36 @@
     },
     {
         "name": {
+            "en": "Head Shell Carve",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Horn Carve",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Red Crystal Mining / Shiny",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Body Mining",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Back Mining",
+            "ja": null
+        }
+    },
+    {
+        "name": {
             "en": "Capture",
             "ja": "捕獲"
         }
@@ -67,67 +97,13 @@
     },
     {
         "name": {
-            "en": "Wound Back",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Wings",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Forearms",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Forelegs",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Tail",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Horns",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Hindlegs",
-            "ja": null
-        }
-    },
-    {
-        "name": {
             "en": "Wound Horn",
             "ja": null
         }
     },
     {
         "name": {
-            "en": "Horn Carve",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Belly",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Head Shell Carve",
+            "en": "Wound Horns",
             "ja": null
         }
     },
@@ -145,25 +121,7 @@
     },
     {
         "name": {
-            "en": "Wound Legs",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Back Mining",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound Chest Shell",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Red Crystal Mining / Shiny",
+            "en": "Wound 1 Horn",
             "ja": null
         }
     },
@@ -175,19 +133,61 @@
     },
     {
         "name": {
-            "en": "Body Mining",
-            "ja": null
-        }
-    },
-    {
-        "name": {
-            "en": "Wound 1 Horn",
-            "ja": null
-        }
-    },
-    {
-        "name": {
             "en": "Wound Body",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Wings",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Back",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Forearms",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Forelegs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Belly",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Hindlegs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Chest Shell",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Legs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Tail",
             "ja": null
         }
     }

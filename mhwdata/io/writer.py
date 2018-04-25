@@ -56,20 +56,23 @@ class DataReaderWriter(DataReader):
                     continue
                 entry = entry[root]
 
-            # check the fields in the entry to copy them over
-            for key, value in entry.items():
-                # check if this is an allowed field
-                if fields and key not in fields:
-                    continue
-
-                # if root is not a string, assume its a base map
-                # If the field is part of the base map, then skip
-                if root and not root_is_string:
-                    base_entry = root[entry.id]
-                    if key in base_entry:
+            if fields:
+                # If fields is given, always save them regardless of location
+                for field in fields:
+                    if field not in entry:
                         continue
-                
-                result_entry[key] = value
+                    result_entry[field] = entry[field]
+            else:
+                # check the fields in the entry to copy them over
+                for key, value in entry.items():
+                    # if root is not a string, assume its a base map
+                    # If the field is part of the base map, then skip
+                    if root and not root_is_string:
+                        base_entry = root[entry.id]
+                        if key in base_entry:
+                            continue
+                    
+                    result_entry[key] = value
 
             if result_entry:
                 result[name] = result_entry
