@@ -57,7 +57,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Jagras Hide",
@@ -133,7 +133,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Wingdrake Hide",
@@ -219,7 +219,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Vespoid Shell",
@@ -340,7 +340,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Kestodon Shell",
@@ -404,7 +404,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Screamer Sac",
@@ -480,7 +480,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Gajau Skin",
@@ -628,7 +628,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Wingdrake Hide",
@@ -734,7 +734,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Coral Crystal",
@@ -830,7 +830,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Girros Hide",
@@ -936,7 +936,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Hornetaur Shell",
@@ -1025,7 +1025,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Wingdrake Hide",
@@ -1111,7 +1111,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Great Jagras Hide",
@@ -1306,7 +1306,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Great Jagras Mane",
@@ -1444,7 +1444,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Great Jagras Mane",
@@ -1526,7 +1526,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Kulu-Ya-Ku Scale",
@@ -1726,7 +1726,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Kulu-Ya-Ku Plume",
@@ -1879,7 +1879,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Kulu-Ya-Ku Plume",
@@ -1934,7 +1934,7 @@
     },
     "Pukei-Pukei": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Pukei-Pukei Scale",
@@ -2248,7 +2248,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Pukei-Pukei Quill",
@@ -2431,7 +2431,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Pukei-Pukei Quill",
@@ -2528,7 +2528,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Barroth Shell",
@@ -2917,7 +2917,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Barroth Claw",
@@ -2983,7 +2983,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Barroth Claw",
@@ -3085,7 +3085,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Jyuratodus Scale",
@@ -3397,7 +3397,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Jyuratodus Fang",
@@ -3458,7 +3458,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Jyuratodus Fang",
@@ -3555,7 +3555,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Tobi-Kadachi Scale",
@@ -3939,7 +3939,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Tobi-Kadachi Membrane",
@@ -4010,7 +4010,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Tobi-Kadachi Membrane",
@@ -4101,7 +4101,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Anjanath Scale",
@@ -4520,7 +4520,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Anjanath Tail",
@@ -4596,7 +4596,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Anjanath Tail",
@@ -4676,7 +4676,7 @@
     },
     "Rathian": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Rathian Scale",
@@ -5167,7 +5167,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Rathian Spike",
@@ -5243,7 +5243,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Rathian Spike",
@@ -5339,7 +5339,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Tzitzi-Ya-Ku Scale",
@@ -5651,7 +5651,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Tzitzi-Ya-Ku Claw",
@@ -5712,7 +5712,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Tzitzi-Ya-Ku Claw",
@@ -5841,7 +5841,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Paolumu Scale",
@@ -6153,7 +6153,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Paolumu Shell",
@@ -6214,7 +6214,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Paolumu Shell",
@@ -6279,7 +6279,7 @@
     },
     "Great Girros": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Great Girros Scale",
@@ -6669,7 +6669,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Great Girros Fang",
@@ -6735,7 +6735,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Great Girros Fang",
@@ -6805,7 +6805,7 @@
     },
     "Radobaan": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Radobaan Scale",
@@ -7282,7 +7282,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Radobaan Oilshell",
@@ -7353,7 +7353,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Radobaan Oilshell",
@@ -7428,7 +7428,7 @@
     },
     "Legiana": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Legiana Scale",
@@ -7904,7 +7904,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Legiana Tail Webbing",
@@ -7980,7 +7980,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Legiana Claw",
@@ -8060,7 +8060,7 @@
     },
     "Odogaron": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Odogaron Sinew",
@@ -8531,7 +8531,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Odogaron Tail",
@@ -8607,7 +8607,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Odogaron Tail",
@@ -8687,7 +8687,7 @@
     },
     "Rathalos": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Rathalos Scale",
@@ -9183,7 +9183,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Rathalos Webbing",
@@ -9264,7 +9264,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Rathalos Webbing",
@@ -9683,7 +9683,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Diablos Ridge",
@@ -9754,7 +9754,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Diablos Tailcase",
@@ -9830,7 +9830,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Diablos Tailcase",
@@ -9931,7 +9931,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Kirin Hide",
@@ -10177,7 +10177,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "lr": [
                     {
                         "item_en": "Kirin Tail",
@@ -10238,7 +10238,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "lr": [
                     {
                         "item_en": "Kirin Tail",
@@ -10319,7 +10319,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "lr": [
                     {
                         "item_en": "Zorah Magdaros Heat Scale",
@@ -10735,7 +10735,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Dodogama Talon",
@@ -10764,7 +10764,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Dodogama Jaw",
@@ -10793,7 +10793,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Dodogama Hide+",
@@ -10831,7 +10831,7 @@
     },
     "Pink Rathian": {
         "rewards": {
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Pink Rathian Scale+",
@@ -11090,7 +11090,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Rathian Spike+",
@@ -11129,7 +11129,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Rathian Spike+",
@@ -11382,7 +11382,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Bazelgeuse Carapace",
@@ -11421,7 +11421,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Bazelgeuse Talon",
@@ -11460,7 +11460,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Bazelgeuse Talon",
@@ -11650,7 +11650,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Lavasioth Fang+",
@@ -11684,7 +11684,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Lavasioth Fang+",
@@ -11718,7 +11718,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Lavasioth Carapace",
@@ -11975,7 +11975,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Uragaan Carapace",
@@ -12014,7 +12014,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Uragaan Scute",
@@ -12053,7 +12053,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Uragaan Scute",
@@ -12321,7 +12321,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Azure Rathalos Carapace",
@@ -12360,7 +12360,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Azure Rathalos Wing",
@@ -12399,7 +12399,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Azure Rathalos Wing",
@@ -12633,7 +12633,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Black Diablos Ridge+",
@@ -12672,7 +12672,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Blos Medulla",
@@ -12711,7 +12711,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Black Diablos Ridge+",
@@ -12906,7 +12906,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Nergigante Carapace",
@@ -12940,7 +12940,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Nergigante Talon",
@@ -12979,7 +12979,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Nergigante Talon",
@@ -13179,7 +13179,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Teostra Carapace",
@@ -13218,7 +13218,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Teostra Gem",
@@ -13267,7 +13267,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Teostra Carapace",
@@ -13477,7 +13477,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Daora Carapace",
@@ -13511,7 +13511,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Daora Tail",
@@ -13550,7 +13550,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Daora Tail",
@@ -13769,7 +13769,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Vaal Hazak Carapace",
@@ -13808,7 +13808,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Silver)": {
+            "Investigation (Silver)": {
                 "hr": [
                     {
                         "item_en": "Vaal Hazak Wing",
@@ -13852,7 +13852,7 @@
                     }
                 ]
             },
-            "Investigation Reward (Gold)": {
+            "Investigation (Gold)": {
                 "hr": [
                     {
                         "item_en": "Vaal Hazak Wing",
@@ -14067,7 +14067,7 @@
                     }
                 ]
             },
-            "Quest Reward": {
+            "Quest Reward / Investigation (Bronze)": {
                 "hr": [
                     {
                         "item_en": "Xeno'jiiva Shell",

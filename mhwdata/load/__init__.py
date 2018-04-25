@@ -20,6 +20,8 @@ item_map = reader.load_base_map("items/item_base.json")
 skill_map = reader.load_base_map("skills/skill_base.json")
 charm_map = reader.load_base_map('charms/charm_base.json')
 
+monster_reward_conditions_map = reader.load_base_map("monsters/reward_conditions_base.json")
+
 monster_map = (reader.start_load("monsters/monster_base.json")
                 .add_json("monsters/monster_weaknesses.json", key="weaknesses")
                 .add_json("monsters/monster_hitzones.json")

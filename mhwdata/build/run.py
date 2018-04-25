@@ -1,53 +1,15 @@
 import sqlalchemy.orm
 import mhwdata.sql as db
 
+from mhwdata.io import DataMap
 from mhwdata.util import ensure, ensure_warn, get_duplicates
 
 # todo: refactor the individual build steps to accept the dependencies instead of * import
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
 from mhwdata.load import *
 
+from .validate import validate
 from .objectindex import ObjectIndex
-
-# todo: separate validate to somewhere else. 
-# Should it automatically happen when importing data?
-
-def validate_monster_weaknesses():
-    "Checks for valid data intelligence. The only fatal is a missing normal state"
-    for entry in monster_map.values():
-        if entry['size'] == 'small':
-            continue
-
-        if 'weaknesses' not in entry:
-            print(f"Warning: Large monster {entry.name('en')} does not contain a weakness entry")
-            continue
-
-        ensure('normal' in entry['weaknesses'], 
-            f"Invalid weaknesses in {entry.name('en')}, normal is a required state")
-
-def validate_monster_rewards():
-    """Validates monster rewards for sane values. 
-    Certain fields (like carve) sum to 100, 
-    Others (like quest rewards) must be at least 100%"""
-
-    # These are validated for 100% drop rate EXACT.
-    uncapped_conditions = ("Quest Reward")
-    
-    for monster_id, entry in monster_map.items():
-        monster_name = entry.name('en') # used for error display
-
-        for condition, sub_condition in entry.get('rewards', {}).items():
-            for rank, rewards in sub_condition.items():
-                # Ensure correct rank
-                ensure(rank in supported_ranks, f"Unsupported rank {rank} in {monster_name} rewards")
-
-                # Ensure percentage is correct (at or greater than 100)
-                percentage_sum = sum((r['percentage'] for r in rewards), 0)
-                error_start = f"Rewards %'s for monster {monster_name} (rank {rank} condition {condition})"
-                if condition not in uncapped_conditions:
-                    ensure_warn(percentage_sum == 100, f"{error_start} does not sum to 100")
-                else:
-                    ensure_warn(percentage_sum >= 100, f"{error_start} does not sum to at least 100")
 
 def build_locations(session : sqlalchemy.orm.Session):
     for location_id, entry in location_map.items():
@@ -61,7 +23,6 @@ def build_locations(session : sqlalchemy.orm.Session):
 def build_monsters(session : sqlalchemy.orm.Session):
     # autoincrementing sequence registries for unique names
     part_registry = ObjectIndex()
-    condition_registry = ObjectIndex()
 
     @part_registry.on_new()
     def save_part(part_id, name):
@@ -73,16 +34,16 @@ def build_monsters(session : sqlalchemy.orm.Session):
                 name=name  # todo: translate
             ))
 
-    @condition_registry.on_new()
-    def save_condition(condition_id, name):
-        "Internal handler to save condition name"
+    # Save conditions first
+    for condition_id, entry in monster_reward_conditions_map.items():
         for language in supported_languages:
             session.add(db.MonsterRewardConditionText(
                 id=condition_id,
                 lang_id=language,
-                name=name  # todo: translate
+                name=entry.name(language)
             ))
 
+    # Save monsters
     for monster_id, entry in monster_map.items():
         monster_name = entry.name('en') # used for error display
 
@@ -126,15 +87,21 @@ def build_monsters(session : sqlalchemy.orm.Session):
             breakzone = db.MonsterBreak(part_id=part_id, **values)
             monster.breaks.append(breakzone)
 
+        # Create a temp base map of the conditions
+        # This temp map extends the global map with monster-specific conditions
+        #monster_conditions = DataMap(reward_conditions_map)
+        #monster_conditions.extend(entry.get('break_conditions', []))
+
         # Save hunting rewards
-        for condition, sub_condition in entry.get('rewards', {}).items():
-            condition_id = condition_registry.id(condition)
+        for condition_en, sub_condition in entry.get('rewards', {}).items():
+            condition_id = monster_reward_conditions_map.id_of('en', condition_en)
+            ensure(condition_id, f"Condition {condition_en} in monster {monster_name} does not exist")
 
             for rank, rewards in sub_condition.items():
                 for reward in rewards:
                     item_name = reward['item_en']
                     item_id = item_map.id_of('en', item_name)
-                    ensure(item_id, f"ERROR: item reward {item_name} in monster {monster_name} does not exist")
+                    ensure(item_id, f"item reward {item_name} in monster {monster_name} does not exist")
 
                     monster.rewards.append(db.MonsterReward(
                         condition_id=condition_id,
@@ -410,8 +377,8 @@ def build_database(output_filename):
     sessionbuilder = db.recreate_database(output_filename)
 
     # todo: move data validation to a submodule somewhere else...
-    validate_monster_weaknesses()
-    validate_monster_rewards()
+    if not validate():
+        raise Exception("Validation failed, exiting")
 
     with db.session_scope(sessionbuilder) as session:
         # Add languages before starting the build

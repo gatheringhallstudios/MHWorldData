@@ -1,0 +1,194 @@
+[
+    {
+        "name": {
+            "en": "Track",
+            "ja": "痕跡採取"
+        }
+    },
+    {
+        "name": {
+            "en": "Body Carve",
+            "ja": "本体剥ぎ取り"
+        }
+    },
+    {
+        "name": {
+            "en": "Shiny Drop",
+            "ja": "落とし物"
+        }
+    },
+    {
+        "name": {
+            "en": "Tail Carve",
+            "ja": "尻尾剥ぎ取り"
+        }
+    },
+    {
+        "name": {
+            "en": "Capture",
+            "ja": "捕獲"
+        }
+    },
+    {
+        "name": {
+            "en": "Quest Reward / Investigation (Bronze)",
+            "ja": "クエスト報酬／銅枠"
+        }
+    },
+    {
+        "name": {
+            "en": "Investigation (Silver)",
+            "ja": "調査特別報酬・銀"
+        }
+    },
+    {
+        "name": {
+            "en": "Investigation (Gold)",
+            "ja": "調査特別報酬・金"
+        }
+    },
+    {
+        "name": {
+            "en": "Palico Bonus",
+            "ja": "落っことし"
+        }
+    },
+    {
+        "name": {
+            "en": "Plunderblade",
+            "ja": "ぶんどり"
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Head",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Back",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Wings",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Forearms",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Forelegs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Tail",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Horns",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Hindlegs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Horn Carve",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Belly",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Head Shell Carve",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Antennae",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Neck Pouch",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Legs",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Back Mining",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Chest Shell",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Red Crystal Mining / Shiny",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Jaw",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Body Mining",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound 1 Horn",
+            "ja": null
+        }
+    },
+    {
+        "name": {
+            "en": "Wound Body",
+            "ja": null
+        }
+    }
+]
