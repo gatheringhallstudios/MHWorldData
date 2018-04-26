@@ -59,6 +59,21 @@ class MonsterText(Base):
     description = Column(Text)
     alt_state_description = Column(Text)
 
+class MonsterHabitat(Base):
+    __tablename__ = 'monster_habitat'
+    __table_args__ = (
+        UniqueConstraint('monster_id', 'location_id'),
+    )
+    
+    id = Column(Integer, primary_key=True)
+    
+    monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
+    location_id = Column(Integer, ForeignKey('location_text.id'), index=True)
+    
+    start_area = Column(Text)
+    move_area = Column(Text)
+    rest_area = Column(Text)
+
 class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'
     __table_args__ = (
@@ -67,7 +82,7 @@ class MonsterHitzone(Base):
 
     id = Column(Integer, primary_key=True)
 
-    monster_id = Column(Integer, ForeignKey('monster.id'))
+    monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
     part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     cut = Column(Integer)
@@ -90,7 +105,7 @@ class MonsterBreak(Base):
 
     id = Column(Integer, primary_key=True)
 
-    monster_id = Column(Integer, ForeignKey('monster.id'))
+    monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
     part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     flinch = Column(Integer)
@@ -116,11 +131,11 @@ class MonsterReward(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
 
-    monster_id = Column(Integer, ForeignKey('monster.id'))
+    monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
     condition_id = Column(Integer, ForeignKey('monster_reward_condition_text.id'))
     
     rank = Column(Text)
-    item_id = Column(Integer, ForeignKey('item.id'))
+    item_id = Column(Integer, ForeignKey('item.id'), index=True)
     
     stack_size = Column(Integer)
     percentage = Column(Integer)
@@ -134,22 +149,6 @@ class MonsterRewardConditionText(Base):
     id = Column(Integer, primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
-
-
-class MonsterHabitat(Base):
-    __tablename__ = 'monster_habitat'
-    __table_args__ = (
-        UniqueConstraint('monster_id', 'location_id'),
-    )
-    
-    id = Column(Integer, primary_key=True)
-    
-    monster_id = Column(Integer, ForeignKey('monster.id'))
-    location_id = Column(Integer, ForeignKey('location_text.id'))
-    
-    start_area = Column(Text)
-    move_area = Column(Text)
-    rest_area = Column(Text)
 
 class SkillTree(Base):
     __tablename__ = 'skilltree'
