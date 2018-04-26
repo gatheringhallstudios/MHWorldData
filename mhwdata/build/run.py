@@ -50,7 +50,8 @@ def build_monsters(session : sqlalchemy.orm.Session):
         monster = db.Monster(id=entry.id, size=entry['size'])
 
         # Save basic weakness summary data
-        if 'weaknesses' in entry:
+        if 'weaknesses' in entry and entry['weaknesses']:
+            monster.has_weakness = True
             weaknesses = entry['weaknesses']
             for key, value in weaknesses['normal'].items():
                 setattr(monster, 'weakness_'+key, value)

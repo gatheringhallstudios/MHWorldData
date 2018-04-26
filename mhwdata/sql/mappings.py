@@ -25,6 +25,9 @@ class Monster(Base):
     id = Column(Integer, primary_key=True)
     size = Column(Text)
 
+    has_weakness = Column(Boolean, default=False)
+    has_alt_weakness = Column(Boolean, default=False)
+
     weakness_fire = Column(Integer)
     weakness_water = Column(Integer)
     weakness_ice = Column(Integer)
@@ -37,7 +40,6 @@ class Monster(Base):
     weakness_blast = Column(Integer)
     weakness_stun = Column(Integer)
 
-    has_alt_weakness = Column(Boolean, default=False)
     alt_weakness_fire = Column(Integer)
     alt_weakness_water = Column(Integer)
     alt_weakness_ice = Column(Integer)
