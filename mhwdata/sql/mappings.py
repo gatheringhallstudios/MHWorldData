@@ -1,7 +1,8 @@
 # Defines SQL objects.
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, ForeignKey, Integer, Float, Text, Boolean
+from sqlalchemy import Column, Integer, Float, Text, Boolean
+from sqlalchemy import ForeignKey, UniqueConstraint
 from sqlalchemy.orm import relationship
 
 Base = declarative_base()
@@ -60,9 +61,14 @@ class MonsterText(Base):
 
 class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'
+    __table_args__ = (
+        UniqueConstraint('monster_id', 'part_id'),
+    )
 
-    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    part_id = Column(Integer, ForeignKey('monster_part_text.id'), primary_key=True)
+    id = Column(Integer, primary_key=True)
+
+    monster_id = Column(Integer, ForeignKey('monster.id'))
+    part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     cut = Column(Integer)
     impact = Column(Integer)
@@ -78,9 +84,14 @@ class MonsterHitzone(Base):
 
 class MonsterBreak(Base):
     __tablename__ = 'monster_break'
+    __table_args__ = (
+        UniqueConstraint('monster_id', 'part_id'),
+    )
 
-    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    part_id = Column(Integer, ForeignKey('monster_part_text.id'), primary_key=True)
+    id = Column(Integer, primary_key=True)
+
+    monster_id = Column(Integer, ForeignKey('monster.id'))
+    part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     flinch = Column(Integer)
     wound = Column(Integer)
@@ -127,8 +138,15 @@ class MonsterRewardConditionText(Base):
 
 class MonsterHabitat(Base):
     __tablename__ = 'monster_habitat'
-    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
-    location_id = Column(Integer, ForeignKey('location_text.id'), primary_key=True)
+    __table_args__ = (
+        UniqueConstraint('monster_id', 'location_id'),
+    )
+    
+    id = Column(Integer, primary_key=True)
+    
+    monster_id = Column(Integer, ForeignKey('monster.id'))
+    location_id = Column(Integer, ForeignKey('location_text.id'))
+    
     start_area = Column(Text)
     move_area = Column(Text)
     rest_area = Column(Text)
