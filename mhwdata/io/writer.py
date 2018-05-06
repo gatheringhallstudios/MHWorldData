@@ -11,14 +11,11 @@ from .datamap import DataMap
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
-    
+
     def save_base_map(self, location, base_map):
         "Writes a data map to a location in the data directory"
         location = self.get_data_path(location)
-        result = []
-        for row in base_map.values():
-            entry = dict(row)
-            result.append(entry)
+        result = base_map.to_list()
 
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
@@ -28,9 +25,9 @@ class DataReaderWriter(DataReader):
 
         If root is a string, then the saving is restricted to what's inside that key.
         The result is flattened such that the root field doesn't exist in the output.
-        
+
         If root is a data map, then fields also within the base map are omitted
-        
+
         If fields are given, only fields within the list are exported
         """
         location = self.get_data_path(location)
@@ -38,8 +35,8 @@ class DataReaderWriter(DataReader):
         result = {}
 
         if not root and not fields:
-            raise Exception("Either a root (string or dictionary) or a list of fields " +
-                "must be given when persisting a data map")
+            raise Exception("Either a root (string or dictionary) " +
+                "or a list of fields must be given when persisting a data map")
 
         root_is_string = isinstance(root, str)
 
@@ -71,7 +68,7 @@ class DataReaderWriter(DataReader):
                         base_entry = root[entry.id]
                         if key in base_entry:
                             continue
-                    
+
                     result_entry[key] = value
 
             if result_entry:
@@ -81,7 +78,7 @@ class DataReaderWriter(DataReader):
             json.dump(result, f, indent=4, ensure_ascii=False)
 
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
-        """Writes a DataMap to a folder as separated json files. 
+        """Writes a DataMap to a folder as separated json files.
         The split occurs on the value of key_field.
         Fields that exist in the base map are not copied to the data maps
         """
@@ -91,7 +88,7 @@ class DataReaderWriter(DataReader):
         split_data = collections.OrderedDict()
         for entry in data_map.values():
             base_entry = base_map[entry.id]
-            
+
             # Create the result entry. Fields are copied EXCEPT for base ones
             result_entry = {}
             for key, value in entry.items():
@@ -105,7 +102,7 @@ class DataReaderWriter(DataReader):
 
         os.makedirs(location, exist_ok=True)
         # todo: should we delete what's inside?
-            
+
         # Write out the buckets into separate json files
         for key, items in split_data.items():
             file_location = os.path.join(location, f"{key}.json")
@@ -116,4 +113,3 @@ class DataReaderWriter(DataReader):
 
             with open(file_location, 'w', encoding='utf-8') as f:
                 json.dump(items, f, indent=4, ensure_ascii=False)
-        

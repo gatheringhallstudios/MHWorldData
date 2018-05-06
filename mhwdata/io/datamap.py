@@ -4,6 +4,20 @@ import itertools
 
 from collections.abc import MutableMapping, Mapping, KeysView
 
+
+def to_basic(obj):
+    "Converts an object to its most basic form, recursively. TODO: PREVENT RECURSIVE?"
+    if isinstance(obj, collections.Mapping):
+        # This can be converted to a dictionary
+        return { k:to_basic(v) for (k, v) in obj.items()}
+    elif isinstance(obj, str):
+        return obj
+    elif isinstance(obj, collections.Iterable):
+        return [to_basic(v) for v in obj]
+    else:
+        return obj
+
+
 class NameSet(KeysView):
     "A 'set-like' object for iterating over the names of a DataMap in a single language"
     def __init__(self, backing_data, language_code):
@@ -19,12 +33,13 @@ class NameSet(KeysView):
             return True
         return False
 
+
 class DataRow(MutableMapping):
     """Defines a single row of a datamap object.
     These objects are regular dictionaries that can also get translated names.
     """
 
-    def __init__(self, id : int, datarowdict: dict):
+    def __init__(self, id: int, datarowdict: dict):
         self._id = id
         self._data = datarowdict
 
@@ -43,7 +58,7 @@ class DataRow(MutableMapping):
             yield (lang, name)
 
     def set_value(self, key, value, *, after=""):
-        """"Sets a value in this dictionary. 
+        """"Sets a value in this dictionary.
         Same as using [key]=value, but allows an item to be placed after another"""
         if not after:
             self[key] = value
@@ -64,13 +79,13 @@ class DataRow(MutableMapping):
             value = self._data[item_key]
             del self._data[item_key]
             self._data[item_key] = value
-        
+
     def __getitem__(self, key):
         return self._data[key]
 
     def __setitem__(self, key, value):
         self._data[key] = value
-    
+
     def __delitem__(self, key):
         del self._data[key]
 
@@ -79,6 +94,7 @@ class DataRow(MutableMapping):
 
     def __len__(self):
         return self._data.__len__()
+
 
 class DataMap(typing.Mapping[int, DataRow]):
     def __init__(self, data: typing.Mapping[int, dict] = None):
@@ -112,21 +128,21 @@ class DataMap(typing.Mapping[int, DataRow]):
         "Internal: Adds an entry to the dict, and returns the entry"
         if 'name' not in entry:
             raise KeyError("An entry is missing a name value")
-            
+
         if entry_id in self._data:
-            raise KeyError("An entry with the given key already exists")
+            raise KeyError(f"An entry with the given key already exists: {entry_id}")
 
         new_entry = DataRow(entry_id, entry)
         for lang, name in new_entry.names():
-            self._reverse_entries[(lang, name)] = entry_id       
+            self._reverse_entries[(lang, name)] = entry_id
         self._data[entry_id] = new_entry
         return new_entry
 
-    def add_entry(self, entry_id, entry : dict):
+    def add_entry(self, entry_id, entry: dict):
         """"
         Adds an entry to the dict, and returns the entry.
         If this is higher than the last set id, reset the generator"""
-        if entry_id > self._last_id:
+        if isinstance(entry_id, int) and entry_id > self._last_id:
             self._id_gen = itertools.count(entry_id + 1)
             self._last_id = entry_id
 
@@ -144,6 +160,14 @@ class DataMap(typing.Mapping[int, DataRow]):
         "Returns a set like object of all the names in a given language"
         return NameSet(self, language_code)
 
+    def to_dict(self):
+        "Fully converts the data stored into a serializable dictionary, keyed by id"
+        return to_basic(self)
+
+    def to_list(self):
+        "Fully converts the data entries stored into a serializable list"
+        return to_basic(self.values())
+
     def __getitem__(self, id) -> DataRow:
         return self._data[id]
 
@@ -152,3 +176,9 @@ class DataMap(typing.Mapping[int, DataRow]):
 
     def __iter__(self):
         return self._data.__iter__()
+
+    def __delitem__(self, id):
+        entry = self._data[id]
+        del self._data[id]
+        for lang, val in entry.names():
+            del self._reverse_entries[(lang, val)]
