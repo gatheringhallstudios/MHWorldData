@@ -2,12 +2,45 @@
 # They are used whenever I am pulling new data from other sources.
 
 import json
+import csv
 import collections
 import os
 import os.path
 
 from .reader import DataReader
 from .datamap import DataMap
+
+
+def flatten(obj, base_obj={}, nest=[], groups=[]):
+    "Flattens an object into a list of flat dictionaries"
+    if not nest:
+        # return a single result. This is the "base" result
+        result = dict(base_obj)
+        for key, value in obj.items():
+            if key not in groups:
+                result[key] = value
+                continue
+
+            # This is a "group" item, so iterate over it
+            for subkey, subvalue in value.items():
+                result[f"{key}_{subkey}"] = subvalue
+
+        return [result]
+
+    else:
+        # todo: implement nest. It'll work recursively
+        raise Exception("Nest feature not ready yet")
+
+
+def determine_fields(obj_list):
+    fields = []
+    for obj in obj_list:
+        for key in obj.keys():
+            if key not in fields:
+                fields.append(key)
+
+    return fields
+
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
@@ -19,6 +52,22 @@ class DataReaderWriter(DataReader):
 
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
+
+    def save_base_map_csv(self, location, base_map, groups=['name']):
+        location = self.get_data_path(location)
+        if 'name' not in groups:
+            raise Exception("Name is a required group for base maps")
+
+        results = []
+        for base_obj in base_map.to_list():
+            for row in flatten(base_obj, groups=groups):
+                results.append(row)
+
+        fields = determine_fields(results)
+        with open(location, 'w', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fields, lineterminator='\n')
+            writer.writeheader()
+            writer.writerows(results)
 
     def save_data_map(self, location, data_map, *, root=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
@@ -35,7 +84,8 @@ class DataReaderWriter(DataReader):
         result = {}
 
         if not root and not fields:
-            raise Exception("Either a root (string or dictionary) " +
+            raise Exception(
+                "Either a root (string or dictionary) " +
                 "or a list of fields must be given when persisting a data map")
 
         root_is_string = isinstance(root, str)
