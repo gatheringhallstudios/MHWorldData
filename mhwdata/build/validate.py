@@ -1,3 +1,5 @@
+import itertools
+
 from mhwdata.io import DataMap
 from mhwdata.util import ensure_warn
 
@@ -58,25 +60,46 @@ def validate_monster_rewards():
     errors = set()
     
     for monster_id, entry in monster_map.items():
+        if 'rewards' not in entry:
+            continue
+
         monster_name = entry.name('en') # used for error display
 
-        for condition, sub_condition in entry.get('rewards', {}).items():
+        # accumulates percentages by rank
+        reward_percentages = { rank:[] for rank in supported_ranks }
+
+        valid = True
+        for reward in entry['rewards']:
+            condition = reward['condition_en']
+            rank = reward['rank']
+
             # ensure condition exists
             if condition not in monster_reward_conditions_map.names('en'):
                 errors.add(f"Invalid condition {condition} in monster {monster_name}")
+                valid = False
 
-            for rank, rewards in sub_condition.items():
-                # Ensure valid rank
-                if rank not in supported_ranks:
-                    errors.add(f"Unsupported rank {rank} in {monster_name} rewards")
-                    continue
+            if rank not in supported_ranks:
+                errors.add(f"Unsupported rank {rank} in {monster_name} rewards")
+                valid = False
 
-                # Ensure percentage is correct (at or greater than 100)
-                percentage_sum = sum((r['percentage'] for r in rewards), 0)
-                error_start = f"Rewards %'s for monster {monster_name} (rank {rank} condition {condition})"
-                if condition not in uncapped_conditions:
-                    ensure_warn(percentage_sum == 100, f"{error_start} does not sum to 100")
-                else:
-                    ensure_warn(percentage_sum >= 100, f"{error_start} does not sum to at least 100")
+        if not valid:
+            continue
+        
+        # Ensure percentage is correct (at or greater than 100)
+        rank_reward_key_fn = lambda r: (r['rank'], r['condition_en'])
+        sorted_rewards = sorted(entry['rewards'], key=rank_reward_key_fn)
+        for (rank, condition), items in itertools.groupby(sorted_rewards, rank_reward_key_fn):
+            percentage_sum = sum((int(r['percentage']) for r in items), 0)
+
+            key_str = f"(rank {rank} condition {condition})"
+            error_start = f"Rewards %'s for monster {monster_name} {key_str}"
+            if condition not in uncapped_conditions:
+                ensure_warn(
+                    percentage_sum == 100, 
+                    f"{error_start} does not sum to 100")
+            else:
+                ensure_warn(
+                    percentage_sum >= 100, 
+                    f"{error_start} does not sum to at least 100")
 
     return errors

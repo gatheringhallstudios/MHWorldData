@@ -6,7 +6,7 @@ ground. Source_data is not actually user configurable.
 For configurable data loading, use mhwdata.io directly.
 """
 
-supported_ranks = ['lr', 'hr']
+supported_ranks = ['LR', 'HR']
 
 "A mapping of all translations"
 all_languages = {

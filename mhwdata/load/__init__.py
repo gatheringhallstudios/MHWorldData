@@ -20,7 +20,7 @@ item_map = reader.load_base_json("items/item_base.json")
 skill_map = reader.load_base_json("skills/skill_base.json")
 charm_map = reader.load_base_json('charms/charm_base.json')
 
-monster_reward_conditions_map = reader.load_base_json("monsters/reward_conditions_base.json")
+monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 
 monster_base = reader.load_base_csv("monsters/monster_base.csv", groups=['name', 'description'])
 monster_map = (DataStitcher(reader, monster_base.copy(), dir="monsters/")
@@ -28,7 +28,7 @@ monster_map = (DataStitcher(reader, monster_base.copy(), dir="monsters/")
                 .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                 .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
                 .add_json("monster_habitats.json", key="habitats")
-                .add_json("monster_rewards.json")
+                .add_csv("monster_rewards.csv", key="rewards")
                 .get())
 
 armor_base = reader.load_base_json("armors/armor_base.json")

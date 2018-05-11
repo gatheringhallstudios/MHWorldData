@@ -21,6 +21,8 @@ def group_fields(obj, groups=[]):
 
 def is_scalar(value):
     "Returns true if the value is a string or number"
+    if value is None:
+        return True
     if isinstance(value, str):
         return True
 

@@ -28,16 +28,14 @@ class DataReaderWriter(DataReader):
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
 
-        results = []
-        for base_obj in base_map.to_list():
-            for row in flatten(base_obj, groups=groups):
-                results.append(row)
+        rows = base_map.to_list()
+        flattened_rows = flatten(rows, groups=groups)
 
-        fields = determine_fields(results)
+        fields = determine_fields(flattened_rows)
         with open(location, 'w', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fields, lineterminator='\n')
             writer.writeheader()
-            writer.writerows(results)
+            writer.writerows(flattened_rows)
 
     def save_data_json(self, location, data_map, *, root=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.

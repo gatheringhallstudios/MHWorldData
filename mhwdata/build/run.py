@@ -104,23 +104,24 @@ def build_monsters(session : sqlalchemy.orm.Session):
         #monster_conditions.extend(entry.get('break_conditions', []))
 
         # Save hunting rewards
-        for condition_en, sub_condition in entry.get('rewards', {}).items():
+        for reward in entry.get('rewards', []):
+            condition_en = reward['condition_en']
+            rank = reward['rank']
+            item_name = reward['item_en']
+
             condition_id = monster_reward_conditions_map.id_of('en', condition_en)
             ensure(condition_id, f"Condition {condition_en} in monster {monster_name} does not exist")
 
-            for rank, rewards in sub_condition.items():
-                for reward in rewards:
-                    item_name = reward['item_en']
-                    item_id = item_map.id_of('en', item_name)
-                    ensure(item_id, f"item reward {item_name} in monster {monster_name} does not exist")
+            item_id = item_map.id_of('en', item_name)
+            ensure(item_id, f"item reward {item_name} in monster {monster_name} does not exist")
 
-                    monster.rewards.append(db.MonsterReward(
-                        condition_id=condition_id,
-                        rank = rank,
-                        item_id = item_id,
-                        stack_size = reward['stack'],
-                        percentage = reward['percentage']
-                    ))
+            monster.rewards.append(db.MonsterReward(
+                condition_id=condition_id,
+                rank = rank,
+                item_id = item_id,
+                stack_size = reward['stack'],
+                percentage = reward['percentage']
+            ))
 
         # Save Habitats
         for location_name, habitat_values in entry.get('habitats', {}).items():
