@@ -74,22 +74,25 @@ class DataReader:
 
         return result
 
-    def load_base_csv(self, data_file, groups=['name'], validate=True):
+    def load_base_csv(self, data_file, groups=[], validate=True):
+        """Loads a base data map object from a csv
+        groups is a list of additional fields (name is automatically include)
+        that nest via groupname_subfield.
+        """
         data_file = self.get_data_path(data_file)
-        if 'name' not in groups:
-            raise Exception("Name is a required group for base maps")
+        groups = ['name'] + groups
         
-        result = DataMap()
         with open(data_file, encoding="utf-8") as f:
             reader = csv.DictReader(f)
 
-            for row in reader:
-                row = group_fields(row, groups)
-                result.insert(row)
+            rows = list(reader)
+            rows = [group_fields(row, groups=groups) for row in rows]
 
-        self._validate_base_map(data_file, result, error=validate)
+            basemap = DataMap()
+            basemap.extend(rows)
+            self._validate_base_map(data_file, basemap, error=validate)
 
-        return result
+            return basemap
 
     def load_data_json(self, parent_map : DataMap, data_file, *, lang="en", key=None):
         """Loads a data file, using a base map to anchor it to id

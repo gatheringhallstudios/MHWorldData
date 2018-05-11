@@ -22,7 +22,7 @@ charm_map = reader.load_base_json('charms/charm_base.json')
 
 monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 
-monster_base = reader.load_base_csv("monsters/monster_base.csv", groups=['name', 'description'])
+monster_base = reader.load_base_csv("monsters/monster_base.csv", groups=['description'])
 monster_map = (DataStitcher(reader, monster_base.copy(), dir="monsters/")
                 .add_json("monster_weaknesses.json", key="weaknesses")
                 .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
