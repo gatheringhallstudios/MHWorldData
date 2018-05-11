@@ -37,18 +37,16 @@ class DataReaderWriter(DataReader):
             writer.writeheader()
             writer.writerows(flattened_rows)
 
-    def save_data_json(self, location, data_map, *, root=None, fields=None, lang='en'):
+    def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
 
-        If root is a string, then the saving is restricted to what's inside that key.
-        The result is flattened such that the root field doesn't exist in the output.
+        If key is given, then the saving is restricted to what's inside that key.
+        If fields are given, only fields within the list are exported.
 
-        If root is a data map, then fields also within the base map are omitted
-
-        If fields are given, only fields within the list are exported
+        At least one of key or fields is required
         """
         location = self.get_data_path(location)
-        result = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
+        result = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
@@ -60,21 +58,19 @@ class DataReaderWriter(DataReader):
             lang='en',
             nest_additional=[],
             groups=[],
-            root=None,
+            key=None,
             fields=None):
         """Write a DataMap to a location in the data directory.
 
-        If root is a string, then the saving is restricted to what's inside that key.
-        The result is flattened such that the root field doesn't exist in the output.
-
-        If root is a data map, then fields also within the base map are omitted
-
+        If key is given, then the saving is restricted to what's inside that key.
         If fields are given, only fields within the list are exported.
+
+        At least one of key or fields is required.
 
         TODO: Write about nest_additional and groups
         """
         location = self.get_data_path(location)
-        extracted = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
+        extracted = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
         result = flatten(extracted, nest=['name_'+lang] + nest_additional, groups=groups)
 
         fields = determine_fields(result)

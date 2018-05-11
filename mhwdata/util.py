@@ -32,3 +32,11 @@ def joindicts(dest, *dictlist):
             if key not in result:
                 result[key] = value
     return result
+
+def extract_fields(obj : dict, *fieldnames) -> dict:
+    result = {}
+    for fieldname in fieldnames:
+        if fieldname not in obj:
+            continue
+        result[fieldname] = obj[fieldname]
+    return result

@@ -1,5 +1,8 @@
 import typing
 import collections
+import copy
+
+import mhwdata.util as util
 from .datamap import DataMap
 
 def group_fields(obj, groups=[]):
@@ -151,58 +154,37 @@ def determine_fields(obj_list):
 
     return fields
 
-# TODO: REFACTOR, THIS IS MESSY
-# Current idea is to separate into two functions: root+fields and key
-def extract_sub_data(data_map : DataMap, *, root=None, fields=None, lang='en'):
+
+def extract_sub_data(data_map : DataMap, *, key=None, fields=None, lang='en'):
     "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
 
-    if not root and not fields:
-        raise Exception(
-            "Either a root (string or dictionary) " +
-            "or a list of fields must be given when persisting a data map")
+    if not key and not fields:
+        raise ValueError(
+            "Either a key or a list of fields " +
+            "must be given when persisting a data map")
 
     result = {}
 
-    root_is_string = isinstance(root, str)
-
-    for entry_id, entry in data_map.items():
+    for entry in data_map.values():
         name = entry.name(lang)
 
-        # stores the result for this round
-        result_entry = {}
-
-        # If the root is a string, use the field as the entry (if it exists)
-        # if the root field doesn't exist, skip to the next
-        if root and root_is_string:
-            if root not in entry:
+        # If root is supplied, nest. If doesn't exist, skip to next item
+        if key:
+            if not entry.get(key, None):
                 continue
-            entry = entry[root]
+            entry = entry[key]
 
         # If we re-rooted, we might be looking at a list now
-        # If so, just...take it.
+        # Lists are extracted as-is
+        # TODO: what if we get a list here and fields is supplied?
         if not isinstance(entry, collections.Mapping):
             result[name] = entry
             continue
 
+        # If fields is given, extract them
         if fields:
-            # If fields is given, always save them regardless of location
-            for field in fields:
-                if field not in entry:
-                    continue
-                result_entry[field] = entry[field]
+            result[name] = util.extract_fields(entry, *fields)
         else:
-            # check the fields in the entry to copy them over
-            for key, value in entry.items():
-                # if root is not a string, assume its a base map
-                # If the field is part of the base map, then skip
-                if root and not root_is_string:
-                    base_entry = root[entry.id]
-                    if key in base_entry:
-                        continue
-
-                result_entry[key] = value
-
-        if result_entry:
-            result[name] = result_entry
+            result[name] = copy.deepcopy(entry)
 
     return result
