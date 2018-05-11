@@ -5,6 +5,7 @@ import copy
 import mhwdata.util as util
 from .datamap import DataMap
 
+
 def group_fields(obj, groups=[]):
     "Returns a new dictionary where the items that start with groupname_ are consolidated"
     result = {}
@@ -22,18 +23,6 @@ def group_fields(obj, groups=[]):
 
     return result
 
-def is_scalar(value):
-    "Returns true if the value is a string or number"
-    if value is None:
-        return True
-    if isinstance(value, str):
-        return True
-
-    try:
-        float(value)
-        return True
-    except:
-        return False
 
 def ungroup_fields(obj, groups=[]):
     "Returns a new dictionary where keys that are in group are flattened"
@@ -49,59 +38,49 @@ def ungroup_fields(obj, groups=[]):
 
     return result
 
-def flatten(obj, base_obj={}, nest=[], groups=[]):
-    "Flattens an object into a list of flat dictionaries"
-    # This is a recursive algorithm, where we iteratively step through "nest levels"
-    # until we run out, and then we process the groups.
-    # Returns a list of all results for the object.
 
+def flatten(obj, *, nest, prefix={}):
+    """Flattens a nested object into a list of flat dictionaries
+    nest is a list of fieldnames.
+    Do not use prefix, its internal.
+    """
+    # This is a recursive algorithm. 
+    # We iteratively step through "nest levels".
+
+    # BASE CASE
     if not nest:
-        # BASE CASE: We can receive either a list or dict here.
-        # If its a dict, make it a list of one item to handle all cases
         items = obj
-        if isinstance(obj, collections.Mapping):
+        if not util.is_flat_iterable(obj):
             items = [obj]
-
-        result = []
-        for item in items:
-            row = { **base_obj, **ungroup_fields(item, groups=groups) }
-            if any({ not is_scalar(v) for v in row.values()}):
-                raise Exception(
-                    "Failed to flatten, found non-scalar value. " +
-                    f"base nest object is {base_obj}")
-            result.append(row)
         
-        return result
+        # Extend all items with the prefix and return them
+        return [{**prefix, **item} for item in items]
 
-    else:
-        # Return multiple results by stepping down one depth level,
-        # and recursively calling it for the sub-items
-        current_nest = nest[0]
-        remaining_nest = nest[1:]
+    # Validation
+    if not isinstance(obj, collections.Mapping):
+        raise ValueError("Object is not sufficiently deep for flattening")
 
-        results = []
-        for nest_value, remaining_data in obj.items():
-            sub_base_obj = dict(base_obj)
-            sub_base_obj[current_nest] = nest_value
-            
-            sub_flattened = flatten(
-                remaining_data, 
-                base_obj=sub_base_obj,
-                nest=remaining_nest,
-                groups=groups)
+    # Return multiple results by stepping down one depth level,
+    # and recursively calling it for the sub-items
+    current_nest = nest[0]
+    remaining_nest = nest[1:]
 
-            results.extend(sub_flattened)
+    results = []
+    for nest_value, remaining_data in obj.items():
+        sub_prefix = { **prefix, current_nest: nest_value }
+        
+        # RECURSIVE CALL
+        sub_flattened = flatten(remaining_data, nest=remaining_nest, prefix=sub_prefix)
+        results.extend(sub_flattened)
 
-        return results
+    return results
+
 
 def unflatten(obj_list, *, nest=[], groups=[], leaftype):
-    """Performs the reverse of flatten. 
+    """Performs the reverse of flatten.  Turns a CSV list into an object.
 
     Nest decides how deep the dictionary should go. 
     If the nest field doesn't exist, it throws an error.
-
-    Note: It consolidates to a list. Consolidating to a dict will be a later update
-    
     """
     if leaftype not in ['list', 'dict']:
         raise Exception("Unsupported leaf type")
@@ -141,6 +120,7 @@ def unflatten(obj_list, *, nest=[], groups=[], leaftype):
                 leaftype=leaftype)
 
         return results
+
 
 def determine_fields(obj_list):
     """

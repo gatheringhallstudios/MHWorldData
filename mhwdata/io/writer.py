@@ -7,10 +7,23 @@ import collections
 import os
 import os.path
 
+import mhwdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
-from .functions import flatten, determine_fields, extract_sub_data
+from .functions import flatten, determine_fields, extract_sub_data, ungroup_fields
+
+def save_csv(obj_list, location):
+    "Saves a CSV, doing some last minute validations"
+    if not util.is_flat_dict_list(obj_list):
+        raise Exception("Cannot save CSV, the data is not completely flat")
+
+    fields = determine_fields(obj_list)
+    with open(location, 'w', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fields, lineterminator='\n')
+        writer.writeheader()
+        writer.writerows(obj_list)
+
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
@@ -25,17 +38,14 @@ class DataReaderWriter(DataReader):
 
     def save_base_map_csv(self, location, base_map, *, groups=['name']):
         location = self.get_data_path(location)
+
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
 
         rows = base_map.to_list()
-        flattened_rows = flatten(rows, groups=groups)
+        rows = [ungroup_fields(v, groups=groups) for v in rows]
 
-        fields = determine_fields(flattened_rows)
-        with open(location, 'w', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fields, lineterminator='\n')
-            writer.writeheader()
-            writer.writerows(flattened_rows)
+        save_csv(rows, location)
 
     def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
@@ -70,14 +80,12 @@ class DataReaderWriter(DataReader):
         TODO: Write about nest_additional and groups
         """
         location = self.get_data_path(location)
+        
         extracted = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
-        result = flatten(extracted, nest=['name_'+lang] + nest_additional, groups=groups)
+        flattened_rows = flatten(extracted, nest=['name_'+lang] + nest_additional)
+        flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
-        fields = determine_fields(result)
-        with open(location, 'w', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fields, lineterminator='\n')
-            writer.writeheader()
-            writer.writerows(result)
+        save_csv(flattened_rows, location)
 
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
         """Writes a DataMap to a folder as separated json files.
