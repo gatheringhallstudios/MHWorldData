@@ -2,3 +2,6 @@ mhw.db
 *.pyc
 .pytest_cache/
 .vscode
+
+# Libreoffice lock file
+.~lock.*
