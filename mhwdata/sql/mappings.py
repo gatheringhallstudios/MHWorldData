@@ -78,14 +78,10 @@ class MonsterHabitat(Base):
 
 class MonsterHitzone(Base):
     __tablename__ = 'monster_hitzone'
-    __table_args__ = (
-        UniqueConstraint('monster_id', 'part_id'),
-    )
 
     id = Column(Integer, primary_key=True)
 
     monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
-    part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     cut = Column(Integer)
     impact = Column(Integer)
@@ -97,33 +93,33 @@ class MonsterHitzone(Base):
     dragon = Column(Integer)
     ko = Column(Integer)
     
-    body_part_translations = relationship("MonsterPartText", uselist=True)
+    translations = relationship("MonsterHitzoneText")
+
+class MonsterHitzoneText(Base):
+    __tablename__ = 'monster_hitzone_text'
+    id = Column(Integer, ForeignKey('monster_hitzone.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    hitzone_name = Column(Text)
 
 class MonsterBreak(Base):
     __tablename__ = 'monster_break'
-    __table_args__ = (
-        UniqueConstraint('monster_id', 'part_id'),
-    )
 
     id = Column(Integer, primary_key=True)
 
     monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
-    part_id = Column(Integer, ForeignKey('monster_part_text.id'))
 
     flinch = Column(Integer)
     wound = Column(Integer)
     sever = Column(Integer)
     extract = Column(Text)
 
-    body_part_translations = relationship("MonsterPartText", uselist=True)
+    translations = relationship("MonsterBreakText")
 
-class MonsterPartText(Base):
-    __tablename__ = 'monster_part_text'
-    # todo: is it ok to have no monster id?
-    # currently it doesn't to allow us to add an optimization step for "exact matching part names"
-    id = Column(Integer, primary_key=True)
+class MonsterBreakText(Base):
+    __tablename__ = 'monster_break_text'
+    id = Column(Integer, ForeignKey('monster_break.id'), primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
-    name = Column(Text)
+    part_name = Column(Text)
 
 class MonsterReward(Base):
     __tablename__ = 'monster_reward'

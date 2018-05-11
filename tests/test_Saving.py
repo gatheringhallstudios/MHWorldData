@@ -58,17 +58,28 @@ def test_save_data_json_symmetric(writer):
     assert extdata.to_dict() == testdata.to_dict(), "expected data to match"
 
 
-def test_save_data_csv_symmetric(writer):
+def test_save_data_csv_symmetric_listmode(writer: DataReaderWriter):
     basedata = DataMap()
     basedata.add_entry(1, create_entry_en('test1'))
     basedata.add_entry(2, create_entry_en('test2'))
 
     extdata = DataMap()
-    extdata.add_entry(1, { **basedata[1], 'data': 'test1'})
-    extdata.add_entry(2, { **basedata[2], 'data': 'test2'})
+    extdata.add_entry(1, {
+        **basedata[1],
+        'data': [
+            {'data': 'test1'}
+        ]
+    })
+    extdata.add_entry(2, {
+        **basedata[2],
+        'data': [
+            {'data': 'test2'},
+            {'data': 'test2ext'}
+        ]
+    })
 
-    writer.save_data_csv('testdatasym.csv', extdata, root=basedata)
-    new_data = writer.load_data_json(basedata.copy(), 'testdatasym.csv')
+    writer.save_data_csv('testdatasym.csv', extdata, root='data')
+    new_data = writer.load_data_csv(basedata.copy(), 'testdatasym.csv', key='data', leaftype="list")
 
     assert extdata.to_dict() == new_data.to_dict(), "expected data to match"
 

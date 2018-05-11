@@ -21,19 +21,6 @@ def build_locations(session : sqlalchemy.orm.Session):
             ))
 
 def build_monsters(session : sqlalchemy.orm.Session):
-    # autoincrementing sequence registries for unique names
-    part_registry = ObjectIndex()
-
-    @part_registry.on_new()
-    def save_part(part_id, name):
-        "Internal handler to save part name"
-        for language in supported_languages:
-            session.add(db.MonsterPartText(
-                id=part_id,
-                lang_id=language,
-                name=name  # todo: translate
-            ))
-
     # Save conditions first
     for condition_id, entry in monster_reward_conditions_map.items():
         for language in supported_languages:
@@ -75,17 +62,40 @@ def build_monsters(session : sqlalchemy.orm.Session):
             ))
 
         # Save hitzones
-        for body_part, values in entry['hitzones'].items():
-            part_id = part_registry.id(body_part)
+        for hitzone_data in entry.get('hitzones', []):
+            hitzone = db.MonsterHitzone(
+                cut=hitzone_data['cut'],
+                impact=hitzone_data['impact'],
+                shot=hitzone_data['shot'],
+                fire=hitzone_data['fire'],
+                water=hitzone_data['water'],
+                thunder=hitzone_data['thunder'],
+                dragon=hitzone_data['dragon'],
+                ko=hitzone_data['ko'])
 
-            hitzone = db.MonsterHitzone(part_id=part_id, **values)
+            for lang, part_name in hitzone_data['hitzone'].items():
+                hitzone.translations.append(db.MonsterHitzoneText(
+                    lang_id=lang,
+                    hitzone_name=part_name
+                ))
+
             monster.hitzones.append(hitzone)
 
         # Save breaks
-        for body_part, values in entry.get('breaks', {}).items():
-            part_id = part_registry.id(body_part)
+        for break_data in entry.get('breaks', []):
+            breakzone = db.MonsterBreak(
+                flinch=break_data['flinch'],
+                wound=break_data['wound'],
+                sever=break_data['sever'],
+                extract=break_data['extract']
+            )
+                        
+            for lang, part_name in break_data['part'].items():
+                breakzone.translations.append(db.MonsterBreakText(
+                    lang_id=lang,
+                    part_name=part_name
+                ))
 
-            breakzone = db.MonsterBreak(part_id=part_id, **values)
             monster.breaks.append(breakzone)
 
         # Create a temp base map of the conditions

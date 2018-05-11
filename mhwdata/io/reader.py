@@ -8,7 +8,7 @@ import csv
 from mhwdata.util import ensure, ensure_warn, joindicts
 
 from .datamap import DataMap
-from .functions import group_fields
+from .functions import group_fields, unflatten
 
 def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'): 
     """Validates if the set of keys can be joined to the data map. 
@@ -83,7 +83,6 @@ class DataReader:
         with open(data_file, encoding="utf-8") as f:
             reader = csv.DictReader(f)
 
-            # grouping logic should be moved elsewhere once we get to data maps
             for row in reader:
                 row = group_fields(row, groups)
                 result.insert(row)
@@ -101,6 +100,27 @@ class DataReader:
 
         with open(data_file, encoding="utf-8") as f:
             data = json.load(f)
+
+        parent_map.merge(data, lang=lang, key=key)
+        return parent_map
+
+    def load_data_csv(self, parent_map : DataMap, data_file, *, lang="en", key=None, groups=[], leaftype):
+        """Loads a data file, using a base map to anchor it to id
+        The parent_map is updated to map id -> data row.
+        Returns the parent_map to support chaining
+        """
+        
+        data_file = self.get_data_path(data_file)
+
+        if leaftype == 'list' and not key:
+            raise ValueError("key is required if leaftype is list")
+        
+        with open(data_file, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+
+            # Todo: support additional nest depth
+            rows = list(reader)
+            data = unflatten(rows, nest=['name_'+lang], groups=groups, leaftype=leaftype)
 
         parent_map.merge(data, lang=lang, key=key)
         return parent_map

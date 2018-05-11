@@ -7,6 +7,7 @@ from mhwdata.load import *
 def validate():
     "Perform all validations, print out the errors, and return if it succeeded or not"
     errors = []
+    errors.extend(validate_monster_props())
     errors.extend(validate_monster_weaknesses())
     errors.extend(validate_monster_rewards())
 
@@ -16,6 +17,13 @@ def validate():
         return False
 
     return True
+
+def validate_monster_props():
+    errors = []
+    for entry in monster_map.values():
+        ensure_warn('hitzones' in entry, f"Monster {entry.name('en')} missing hitzones")
+    
+    return errors
 
 def validate_monster_weaknesses():
     "Checks for valid data intelligence. The only fatal is a missing normal state"

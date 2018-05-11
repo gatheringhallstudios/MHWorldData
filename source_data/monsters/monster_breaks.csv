@@ -1,0 +1,212 @@
+name_en,part_en,part_ja,flinch,wound,sever,extract
+Great Jagras,Head,,150,300,,red
+Great Jagras,Body,,300,,,orange
+Great Jagras,Body (Inflated),,120,360,,orange
+Great Jagras,Forelegs,,210,210,,white
+Great Jagras,Legs,,240,,,white
+Great Jagras,Tail,,270,,,green
+Kulu-Ya-Ku,Head,,180,180,,red
+Kulu-Ya-Ku,Forearms,,160,160,,red
+Kulu-Ya-Ku,Body,,200,,,white
+Kulu-Ya-Ku,Tail,,160,,,red
+Pukei-Pukei,Head,,180,360,,red
+Pukei-Pukei,Body,,300,300,,orange
+Pukei-Pukei,Left Wing,,210,210,,white
+Pukei-Pukei,Right Wing,,210,210,,white
+Pukei-Pukei,Left Leg,,240,,,orange
+Pukei-Pukei,Right Leg,,240,,,orange
+Pukei-Pukei,Tail,,220,,280,green
+Barroth,Head,,150,,200,red
+Barroth,Head (Mud),,25,25,,red
+Barroth,Body,,200,,,orange
+Barroth,Body (Mud),,25,25,,orange
+Barroth,Forearms,,180,180,,orange
+Barroth,Forearms (Mud),,25,25,,orange
+Barroth,Left Leg,,120,120,,white
+Barroth,Left Leg (Mud),,25,25,,white
+Barroth,Right Leg,,120,120,,white
+Barroth,Right Leg (Mud),,25,25,,white
+Barroth,Tail,,200,,450,green
+Barroth,Tail (Mud),,25,25,,green
+Jyuratodus,Head,,100,400,,red
+Jyuratodus,Head (Mud),,100,100,,red
+Jyuratodus,Body,,300,300,,white
+Jyuratodus,Body (Mud),,100,300,,white
+Jyuratodus,Left Leg,,240,480,,white
+Jyuratodus,Left Leg (Mud),,100,200,,white
+Jyuratodus,Right Leg,,240,480,,white
+Jyuratodus,Right Leg (Mud),,100,200,,white
+Jyuratodus,Tail,,100,300,,orange
+Jyuratodus,Tail (Mud),,100,100,,orange
+Tobi-Kadachi,Head,,200,400,,red
+Tobi-Kadachi,Body,,350,,,orange
+Tobi-Kadachi,Back,,100,100,,red
+Tobi-Kadachi,Forelegs,,200,200,,white
+Tobi-Kadachi,Hindlegs,,200,,,white
+Tobi-Kadachi,Tail,,160,640,,red
+Anjanath,Head,,150,750,,red
+Anjanath,body_part,,350,,,orange
+Anjanath,Left Leg,,80,240,,white
+Anjanath,Right Leg,,80,240,,white
+Anjanath,Tail,,100,,350,orange
+Rathian,Head,,240,480,,red
+Rathian,Body,,300,300,,orange
+Rathian,Left Wing,,180,180,,white
+Rathian,Right Wing,,180,180,,white
+Rathian,Left Leg,,210,,,orange
+Rathian,Right Leg,,210,,,orange
+Rathian,Tail,,200,,300,green
+Tzitzi-Ya-Ku,Antennae,,280,560,,red
+Tzitzi-Ya-Ku,Head,,160,,,orange
+Tzitzi-Ya-Ku,Forearms,,100,,,red
+Tzitzi-Ya-Ku,Body,,220,,,white
+Tzitzi-Ya-Ku,Tail,,100,,,orange
+Paolumu,Head,,180,,,red
+Paolumu,Neck Pouch,,300,500,,red
+Paolumu,Body,,300,300,,orange
+Paolumu,Left Leg,,200,,,white
+Paolumu,Right Leg,,200,,,white
+Paolumu,Left Wing,,150,150,,white
+Paolumu,Right Wing,,150,150,,white
+Paolumu,Tail,,250,250,,orange
+Great Girros,Head,,210,420,,red
+Great Girros,Body,,360,,,orange
+Great Girros,Forearms,,240,240,,white
+Great Girros,Legs,,270,,,white
+Great Girros,Tail,,300,,270,green
+Radobaan,Head,,300,,,red
+Radobaan,Head Bone,,50,100,,red
+Radobaan,Body,,350,,,orange
+Radobaan,Back Bone,,40,80,,orange
+Radobaan,Left Hindleg,,150,,,white
+Radobaan,Left Hindleg Bone,,20,40,,white
+Radobaan,Right Hindleg,,150,,,white
+Radobaan,Right Hindleg Bone,,20,40,,white
+Radobaan,Tail,,175,,350,orange
+Legiana,Head,,210,420,,red
+Legiana,Body,,300,300,,orange
+Legiana,Left Wing,,210,210,,white
+Legiana,Right Wing,,210,210,,white
+Legiana,Left Leg,,240,,,orange
+Legiana,Right Leg,,240,,,orange
+Legiana,Tail,,270,,270,green
+Odogaron,Head,,300,600,,red
+Odogaron,Body,,450,,,orange
+Odogaron,Forearms,,240,240,,red
+Odogaron,Legs,,270,270,,white
+Odogaron,Tail,,270,270,540,orange
+Rathalos,Head,,240,480,,red
+Rathalos,Body,,300,300,,orange
+Rathalos,Left Wing,,220,220,,white
+Rathalos,Right Wing,,220,220,,white
+Rathalos,Left Leg,,190,,,orange
+Rathalos,Right Leg,,190,,,orange
+Rathalos,Tail,,200,,200,green
+Diablos,Head,,200,,,red
+Diablos,Body,,300,600,,orange
+Diablos,Left Wing,,150,150,,orange
+Diablos,Right Wing,,150,,,orange
+Diablos,Left Leg,,200,,,white
+Diablos,Right Leg,,200,,,white
+Diablos,Tail,,300,,500,red
+Kirin,Head,,200,,,red
+Kirin,Upper Body,,240,,,orange
+Kirin,Lower Body,,260,,,white
+Zorah Magdaros,Head,,400,400,,red
+Zorah Magdaros,Body,,800,,,orange
+Zorah Magdaros,Chest,,500,1000,,red
+Zorah Magdaros,Left Foreleg,,1000,,,red
+Zorah Magdaros,Right Foreleg,,1000,,,red
+Zorah Magdaros,Left Hindleg,,1000,,,white
+Zorah Magdaros,Right Hindleg,,1000,,,white
+Zorah Magdaros,Tail,,1000,,,white
+Zorah Magdaros,Shell,,1500,,,orange
+Zorah Magdaros,Exhaust Organ (Small),,1200,1200,,orange
+Zorah Magdaros,Exhaust Organ (Large),,1500,1500,,orange
+Zorah Magdaros,Weak Shell,,100,100,,red
+Dodogama,Head,,150,750,,red
+Dodogama,Body,,300,,,orange
+Dodogama,Forelegs,,210,210,,white
+Dodogama,Legs,,240,,,white
+Dodogama,Tail,,100,,270,green
+Pink Rathian,Head,,240,480,,red
+Pink Rathian,Body,,300,300,,orange
+Pink Rathian,Left Wing,,180,180,,white
+Pink Rathian,Right Wing,,180,180,,white
+Pink Rathian,Left Leg,,210,,,orange
+Pink Rathian,Right Leg,,210,,,orange
+Pink Rathian,Tail,,200,,400,green
+Bazelgeuse,Head,,300,600,,red
+Bazelgeuse,Body,,320,320,,orange
+Bazelgeuse,Legs,,240,,,white
+Bazelgeuse,Left Wing,,180,180,,white
+Bazelgeuse,Right Wing,,180,180,,white
+Bazelgeuse,Tail,,280,,500,red
+Lavasioth,Head,,100,600,,red
+Lavasioth,Back,,300,600,,orange
+Lavasioth,Body,,100,,,orange
+Lavasioth,Left Foot,,120,480,,white
+Lavasioth,Right Foot,,120,480,,white
+Lavasioth,Tail,,100,400,,red
+Uragaan,Head,,250,250,,red
+Uragaan,Neck,,200,200,,red
+Uragaan,Body,,500,,,orange
+Uragaan,Forearms,,200,,,orange
+Uragaan,Left Leg,,260,,,white
+Uragaan,Right Leg,,260,,,white
+Uragaan,Tail,,120,120,120,green
+Azure Rathalos,Head,,240,480,,red
+Azure Rathalos,Body,,300,300,,orange
+Azure Rathalos,Left Wing,,220,220,,white
+Azure Rathalos,Right Wing,,220,220,,white
+Azure Rathalos,Left Leg,,190,,,orange
+Azure Rathalos,Right Leg,,190,,,orange
+Azure Rathalos,Tail,,200,,200,green
+Black Diablos,Head,,200,400,,red
+Black Diablos,Body,,300,300,,orange
+Black Diablos,Left Wing,,150,,,orange
+Black Diablos,Right Wing,,150,,,orange
+Black Diablos,Left Leg,,200,,,white
+Black Diablos,Right Leg,,200,,,white
+Black Diablos,Tail,,300,,500,red
+Nergigante,Horns,,130,280,,orange
+Nergigante,Head,,190,,,red
+Nergigante,Body,,450,,,orange
+Nergigante,Left Foreleg,,280,,,red
+Nergigante,Right Foreleg,,280,,,red
+Nergigante,Left Hindleg,,350,,,orange
+Nergigante,Right Hindleg,,350,,,orange
+Nergigante,Left Wing,,180,,,white
+Nergigante,Right Wing,,180,,,white
+Nergigante,Tail,,220,,450,green
+Teostra,Head,,200,,,red
+Teostra,Body,,400,,,orange
+Teostra,Forelegs,,280,,,white
+Teostra,Hindlegs,,340,,,white
+Teostra,Wings,,280,280,,white
+Teostra,Tail,,330,,330,orange
+Kushala Daora,Head,,300,,,red
+Kushala Daora,Body,,100,,,orange
+Kushala Daora,Tail,,140,,400,green
+Kushala Daora,Left Legs,,120,,,orange
+Kushala Daora,Right Legs,,120,,,orange
+Kushala Daora,Wings,,100,200,,white
+Vaal Hazak,Head,,300,900,,red
+Vaal Hazak,Chest,,150,,,orange
+Vaal Hazak,Body,,600,600,,orange
+Vaal Hazak,Tail,,200,,400,green
+Vaal Hazak,Left Foreleg,,130,130,,white
+Vaal Hazak,Right Foreleg,,130,130,,white
+Vaal Hazak,Left Hindleg,,350,,,orange
+Vaal Hazak,Right Hindleg,,350,,,orange
+Vaal Hazak,Wings,,150,,,white
+Xeno'jiiva,Head,,400,800,,red
+Xeno'jiiva,Neck,,400,,,orange
+Xeno'jiiva,Body,,800,,,orange
+Xeno'jiiva,Chest,,150,,,red
+Xeno'jiiva,Left Foreleg,,300,600,,white
+Xeno'jiiva,Right Foreleg,,300,600,,white
+Xeno'jiiva,Left Hindleg,,150,,,orange
+Xeno'jiiva,Right Hindleg,,150,,,orange
+Xeno'jiiva,Wings,,300,600,,white
+Xeno'jiiva,Tail,,350,,1050,green

@@ -28,8 +28,44 @@ class DataStitcher:
             key=key)
 
         return self
-        
-    
 
+    def add_csv(self, data_file, *, key=None, groups=[]):
+        """Loads a data map from a csv file, adds to the base map, and returns self.
+        
+        Data loaded through this method are joined and available as a list.
+
+        If a key is given, it will be added under key, 
+        Otherwise it will be merged without overwrite.
+        """
+
+        self.reader.load_data_csv(
+            parent_map=self.data_map, 
+            data_file=data_file, 
+            lang=self.join_lang, 
+            key=key,
+            groups=groups,
+            leaftype="list")
+
+        return self
+
+    def add_csv_ext(self, data_file, *, key=None, groups=[]):
+        """Loads a data map from a csv file, adds to the base map (1-1), and returns self.
+        
+        Data loaded through this method are joined one to one and available as a dictionary.
+
+        If a key is given, it will be added under key, 
+        Otherwise it will be merged without overwrite.
+        """
+
+        self.reader.load_data_csv(
+            parent_map=self.data_map, 
+            data_file=data_file, 
+            lang=self.join_lang, 
+            key=key,
+            groups=groups,
+            leaftype="dict")
+
+        return self
+    
     def get(self):
         return self.data_map

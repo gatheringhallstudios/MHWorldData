@@ -55,12 +55,15 @@ class DataReaderWriter(DataReader):
             json.dump(result, f, indent=4, ensure_ascii=False)
 
     def save_data_csv(
-            self, location, data_map, *,
+            self,
+            location,
+            data_map,
+            *,
+            lang='en',
             nest_additional=[],
             groups=[],
             root=None,
-            fields=None,
-            lang='en'):
+            fields=None):
         """Write a DataMap to a location in the data directory.
 
         If root is a string, then the saving is restricted to what's inside that key.
@@ -73,8 +76,8 @@ class DataReaderWriter(DataReader):
         TODO: Write about nest_additional and groups
         """
         location = self.get_data_path(location)
-        result = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
-        result = flatten(result, nest=['name_'+lang] + nest_additional, groups=groups)
+        extracted = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
+        result = flatten(extracted, nest=['name_'+lang] + nest_additional, groups=groups)
 
         fields = determine_fields(result)
         with open(location, 'w', encoding='utf-8') as f:
