@@ -80,6 +80,9 @@ class DataRow(MutableMapping):
             del self._data[item_key]
             self._data[item_key] = value
 
+    def to_dict(self):
+        return to_basic(self)
+
     def __getitem__(self, key):
         return self._data[key]
 

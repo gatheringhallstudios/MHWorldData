@@ -10,37 +10,7 @@ import os.path
 from .reader import DataReader
 from .datamap import DataMap
 
-
-def flatten(obj, base_obj={}, nest=[], groups=[]):
-    "Flattens an object into a list of flat dictionaries"
-    if not nest:
-        # return a single result. This is the "base" result
-        result = dict(base_obj)
-        for key, value in obj.items():
-            if key not in groups:
-                result[key] = value
-                continue
-
-            # This is a "group" item, so iterate over it
-            for subkey, subvalue in value.items():
-                result[f"{key}_{subkey}"] = subvalue
-
-        return [result]
-
-    else:
-        # todo: implement nest. It'll work recursively
-        raise Exception("Nest feature not ready yet")
-
-
-def determine_fields(obj_list):
-    fields = []
-    for obj in obj_list:
-        for key in obj.keys():
-            if key not in fields:
-                fields.append(key)
-
-    return fields
-
+from .functions import flatten, determine_fields, extract_sub_data
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
@@ -53,7 +23,7 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_base_map_csv(self, location, base_map, groups=['name']):
+    def save_base_map_csv(self, location, base_map, *, groups=['name']):
         location = self.get_data_path(location)
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
@@ -69,7 +39,7 @@ class DataReaderWriter(DataReader):
             writer.writeheader()
             writer.writerows(results)
 
-    def save_data_map(self, location, data_map, *, root=None, fields=None, lang='en'):
+    def save_data_json(self, location, data_map, *, root=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
 
         If root is a string, then the saving is restricted to what's inside that key.
@@ -80,52 +50,37 @@ class DataReaderWriter(DataReader):
         If fields are given, only fields within the list are exported
         """
         location = self.get_data_path(location)
-
-        result = {}
-
-        if not root and not fields:
-            raise Exception(
-                "Either a root (string or dictionary) " +
-                "or a list of fields must be given when persisting a data map")
-
-        root_is_string = isinstance(root, str)
-
-        for entry_id, entry in data_map.items():
-            name = entry.name(lang)
-
-            # stores the result for this round
-            result_entry = {}
-
-            # If the root is a string, use the field as the entry (if it exists)
-            # if the root field doesn't exist, skip to the next
-            if root and root_is_string:
-                if root not in entry:
-                    continue
-                entry = entry[root]
-
-            if fields:
-                # If fields is given, always save them regardless of location
-                for field in fields:
-                    if field not in entry:
-                        continue
-                    result_entry[field] = entry[field]
-            else:
-                # check the fields in the entry to copy them over
-                for key, value in entry.items():
-                    # if root is not a string, assume its a base map
-                    # If the field is part of the base map, then skip
-                    if root and not root_is_string:
-                        base_entry = root[entry.id]
-                        if key in base_entry:
-                            continue
-
-                    result_entry[key] = value
-
-            if result_entry:
-                result[name] = result_entry
-
+        result = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
+
+    def save_data_csv(
+            self, location, data_map, *,
+            nest_additional=[],
+            groups=[],
+            root=None,
+            fields=None,
+            lang='en'):
+        """Write a DataMap to a location in the data directory.
+
+        If root is a string, then the saving is restricted to what's inside that key.
+        The result is flattened such that the root field doesn't exist in the output.
+
+        If root is a data map, then fields also within the base map are omitted
+
+        If fields are given, only fields within the list are exported.
+
+        TODO: Write about nest_additional and groups
+        """
+        location = self.get_data_path(location)
+        result = extract_sub_data(data_map, root=root, fields=fields, lang=lang)
+        result = flatten(result, nest=['name_'+lang] + nest_additional, groups=groups)
+
+        fields = determine_fields(result)
+        with open(location, 'w', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fields, lineterminator='\n')
+            writer.writeheader()
+            writer.writerows(result)
 
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
         """Writes a DataMap to a folder as separated json files.

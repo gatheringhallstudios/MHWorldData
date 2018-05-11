@@ -5,27 +5,20 @@ import typing
 import json
 import csv
 
-from .datamap import DataMap
-from .stitcher import DataStitcher
-from .functions import validate_key_join
 from mhwdata.util import ensure, ensure_warn, joindicts
 
-def group_fields(obj, groups=[]):
-    "Returns a new dictionary where the items that start with groupname_ are consolidated"
-    result = {}
-    for key, value in obj.items():
-        group_results = list(filter(lambda g: key.startswith(g+'_'), groups))
-        if not group_results:
-            result[key] = value
-            continue
+from .datamap import DataMap
+from .stitcher import DataStitcher
+from .functions import group_fields
 
-        group_name = group_results[0]
-        subkey = key[len(group_name)+1:]
-        
-        group = result.setdefault(group_name, {})
-        group[subkey] = value
-
-    return result
+def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'): 
+    """Validates if the set of keys can be joined to the data map. 
+     
+    Returns a list of violations on failure.
+    
+    TODO: Once all merging moves to the datamap.merge() function, this will be removed""" 
+    data_names = data_map.names(join_lang) 
+    return [key for key in keys if key not in data_names] 
 
 
 class DataReader:
@@ -51,9 +44,6 @@ class DataReader:
         """
         data_dir = os.path.join(self.data_path, *rel_path)
         return os.path.normpath(data_dir)
-
-    def start_load(self, base_map: DataMap):
-        return DataStitcher(self, base_map)
 
     def _validate_base_map(self, fname, basemap: DataMap, error=True):
         languages_with_errors = set()
@@ -103,42 +93,24 @@ class DataReader:
 
         return result
 
-    def load_data_map(self, parent_map : DataMap, data_file, lang="en", validate=True):
+    def load_data_json(self, parent_map : DataMap, data_file, *, lang="en", key=None):
         """Loads a data file, using a base map to anchor it to id
-        The result is a DataMap object mapping id -> data row.
-        Entries that the data map does not contain are not added.
+        The parent_map is updated to map id -> data row.
+        Returns the parent_map to support chaining
         """
         data_file = self.get_data_path(data_file)
 
         with open(data_file, encoding="utf-8") as f:
             data = json.load(f)
 
-        # Check if the data is of the correct type (is a dict)
-        if not hasattr(data, 'keys'):
-            raise Exception("Invalid data, the data map must be a dictionary")
-
-        # Set validation function depending on validation setting
-        ensure_fn = ensure if validate else ensure_warn
-
-        # Look for invalid keys; warn or fail if any
-        unlinked = validate_key_join(parent_map, data.keys(), join_lang=lang)
-        ensure_fn(not unlinked,
-            "Several invalid names found. Invalid entries are " +
-            ','.join(unlinked))
-
-        result = {}
-        for id, entry in parent_map.items():
-            name = entry.name(lang)
-            if name not in data:
-                continue
-            result[id] = joindicts({}, entry, data[name])
-
-        return DataMap(result)
+        parent_map.merge(data, lang=lang, key=key)
+        return parent_map
 
     def load_split_data_map(self, parent_map : DataMap, data_directory, lang="en", validate=True):
         """Loads a data map by combining separate maps in a folder into one.
         Just like a normal data map, it is anchored to the translation map.
         """
+        #TODO: WILL BE REFACTORED TO USE THE NEW MERGE-FLOW
         data_directory = self.get_data_path(data_directory)
 
         all_subdata = []

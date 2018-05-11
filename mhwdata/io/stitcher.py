@@ -1,12 +1,14 @@
 import json
 from mhwdata.util import joindicts
+from .datamap import DataMap
+from .reader import DataReader
 
 class DataStitcher:
     """Dynamically creates an object by attaching data to a base object
     Methods in this class chain to each other
     """
 
-    def __init__(self, reader, data_map, *, join_lang='en'):
+    def __init__(self, reader: DataReader, data_map: DataMap, *, join_lang='en'):
         self.reader = reader
         self.data_map = data_map
         self.join_lang = join_lang
@@ -19,20 +21,15 @@ class DataStitcher:
         Otherwise it will be merged without overwrite.
         """
 
-        data_file = self.reader.get_data_path(data_file)
-        with open(data_file, encoding="utf-8") as f:
-            data = json.load(f)
+        self.reader.load_data_json(
+            parent_map=self.data_map, 
+            data_file=data_file, 
+            lang=self.join_lang, 
+            key=key)
 
-        return self.add_data(data, key=key)
-
-    def add_data(self, data, *, key=None):
-        """Adds data to the base map and returns self.
-
-        If a key is given, it will be added under key,
-        Otherwise it will be merged without overwrite.
-        """
-        self.data_map.merge(data, lang=self.join_lang, key=key)
         return self
+        
+    
 
     def get(self):
         return self.data_map

@@ -12,5 +12,6 @@ which in this project is usually the source_data folder.
 
 from .reader import DataReader
 from .writer import DataReaderWriter
+from .stitcher import DataStitcher
 
 from .datamap import DataMap, DataRow
