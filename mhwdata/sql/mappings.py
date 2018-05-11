@@ -142,8 +142,6 @@ class MonsterReward(Base):
 
 class MonsterRewardConditionText(Base):
     __tablename__ = 'monster_reward_condition_text'
-    # todo: is it ok to have no monster id?
-    # currently it doesn't to allow us to add an optimization step for "exact matching part names"
     id = Column(Integer, primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)

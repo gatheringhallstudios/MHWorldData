@@ -1,6 +1,6 @@
 import pytest
 
-# todo: refactor fixture usage to automatically create files and allow parallel execution
+# todo: refactor fixture usage to automatically create files
 
 @pytest.fixture(scope="module")
 def basedata():

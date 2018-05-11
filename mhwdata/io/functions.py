@@ -76,11 +76,14 @@ def flatten(obj, *, nest, prefix={}):
     return results
 
 
-def unflatten(obj_list, *, nest=[], groups=[], leaftype):
-    """Performs the reverse of flatten.  Turns a CSV list into an object.
+def unflatten(obj_list, *, nest, groups=[], leaftype):
+    """Performs the reverse of flatten. 
+    Turns a CSV (list of objects) into a nested object.
 
-    Nest decides how deep the dictionary should go. 
-    If the nest field doesn't exist, it throws an error.
+    Nest is a list of fields used to walk through the nesting.
+
+    TODO: Remove groups and leaftype and leave that to a post-step.
+    Wait to see what the post-load abstraction will be before doing that.
     """
     if leaftype not in ['list', 'dict']:
         raise Exception("Unsupported leaf type")
