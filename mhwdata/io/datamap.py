@@ -98,6 +98,10 @@ class DataRow(MutableMapping):
     def __len__(self):
         return self._data.__len__()
 
+    def __repr__(self):
+        # Show the repr of the shallow copy
+        return repr({ k:v for (k, v) in self.items()})
+
 
 class DataMap(typing.Mapping[int, DataRow]):
     def __init__(self, data: typing.Mapping[int, dict] = None):
