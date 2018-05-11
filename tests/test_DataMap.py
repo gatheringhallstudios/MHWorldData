@@ -2,11 +2,11 @@ import pytest
 
 from mhwdata.io import DataMap
 
-def create_test_entry(name_map):
-    return { 'name': name_map }
+def create_test_entry(name_map, extradata={}):
+    return { 'name': name_map, **extradata }
 
-def create_test_entry_en(name):
-    return create_test_entry({ 'en': name })
+def create_test_entry_en(name, extradata={}):
+    return create_test_entry({ 'en': name }, extradata)
 
 
 def test_starts_with_zero_length():
@@ -81,3 +81,68 @@ def test_manual_id_resets_sequence():
     new_entry = datamap.insert(create_test_entry_en('test2'))
 
     assert new_entry.id > 25, "new id should have been higher"
+
+def test_to_dict_correct_data():
+    data = {
+        25: create_test_entry_en('test1', { 'somedata': {'nested': 5}}),
+        28: create_test_entry_en('test2', { 'somedata': {'alsonested': 'hey'}})
+    }
+
+    datamap = DataMap()
+    datamap.add_entry(25, data[25])
+    datamap.add_entry(28, data[28])
+
+    serialized = datamap.to_dict()
+    assert serialized == data, "expected serialized data to match original data"
+
+def test_clone_returns_equal_map():
+    data = {
+        25: create_test_entry_en('test1', { 'somedata': {'nested': 5}}),
+        28: create_test_entry_en('test2', { 'somedata': {'alsonested': 'hey'}})
+    }
+
+    datamap = DataMap(data)
+    cloned_datamap = datamap.copy()
+
+    assert datamap.to_dict() == cloned_datamap.to_dict(), "expected clone to match"
+    assert id(datamap) != id(cloned_datamap), "expecting clone to be a different object"
+
+def test_merge_adds_data():
+    baseData = {
+        1: create_test_entry_en('test1'),
+        2: create_test_entry_en('test2'),
+        3: create_test_entry_en('test3')
+    }
+    datamap = DataMap(baseData.copy())
+
+    extendedData = {
+        'test1': { 'extended': 2 },
+        'test3': { 'extended': 3 }
+    }
+
+    datamap.merge(extendedData)
+
+    assert datamap[1]['extended'] == 2, 'expected data 1 to get extended'
+    assert datamap[3]['extended'] == 3, 'expected data 3 to get extended'
+    assert datamap[2] == baseData[2], 'expected data 2 to not update'
+    
+
+def test_merge_adds_data_key():
+    # same as the non-key test, but tests that it occured under the key
+    baseData = {
+        1: create_test_entry_en('test1'),
+        2: create_test_entry_en('test2'),
+        3: create_test_entry_en('test3')
+    }
+    datamap = DataMap(baseData.copy())
+
+    extendedData = {
+        'test1': { 'extended': 2 },
+        'test3': { 'extended': 3 }
+    }
+
+    datamap.merge(extendedData, key="test")
+
+    assert datamap[1]['test']['extended'] == 2, 'expected data 1 to get extended'
+    assert datamap[3]['test']['extended'] == 3, 'expected data 3 to get extended'
+    assert datamap[2] == baseData[2], 'expected data 2 to not update'

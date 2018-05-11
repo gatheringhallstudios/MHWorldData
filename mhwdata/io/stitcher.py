@@ -1,6 +1,5 @@
 import json
 from mhwdata.util import joindicts
-from .functions import validate_key_join
 
 class DataStitcher:
     """Dynamically creates an object by attaching data to a base object
@@ -29,30 +28,10 @@ class DataStitcher:
     def add_data(self, data, *, key=None):
         """Adds data to the base map and returns self.
 
-        If a key is given, it will be added under key, 
+        If a key is given, it will be added under key,
         Otherwise it will be merged without overwrite.
         """
-        # validation, make sure it links
-        unlinked = validate_key_join(self.data_map, data.keys(), join_lang=self.join_lang)
-        if unlinked:
-            raise Exception(
-                "Several invalid names found. Invalid entries are " +
-                ','.join(unlinked))
-
-
-        # validation complete, it may not link to all base entries but thats ok
-        for data_key, data_entry in data.items():
-            base_entry = self.data_map.entry_of(self.join_lang, data_key)
-            
-            if key:
-                base_entry[key] = data_entry
-            elif hasattr(data_entry, 'keys'):
-                joindicts(base_entry, data_entry)
-            else:
-                # If we get here, its a key-less merge with a non-dict
-                # We cannot merge a dictionary with a non-dictionary
-                raise Exception("Invalid data, the data map must be a dictionary for a keyless merge")
-            
+        self.data_map.merge(data, lang=self.join_lang, key=key)
         return self
 
     def get(self):

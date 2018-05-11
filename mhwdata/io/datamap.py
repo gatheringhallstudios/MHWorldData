@@ -3,7 +3,7 @@ import collections
 import itertools
 
 from collections.abc import MutableMapping, Mapping, KeysView
-
+from mhwdata.util import joindicts
 
 def to_basic(obj):
     "Converts an object to its most basic form, recursively. TODO: PREVENT RECURSIVE?"
@@ -167,6 +167,42 @@ class DataMap(typing.Mapping[int, DataRow]):
     def to_list(self):
         "Fully converts the data entries stored into a serializable list"
         return to_basic(self.values())
+
+    def copy(self):
+        "Returns a new DataMap object with all fields cloned"
+        clone_data = self.to_dict()
+        return DataMap(clone_data)
+
+    def merge(self, data, *, lang="en", key=None):
+        """Merges a dictionary keyed by the names in a language to this data map
+        
+        If a key is given, it will be added under key,
+        Otherwise it will be merged without overwrite.
+
+        Returns self to support chaining.
+        """
+        # validation, make sure it links
+        data_names = self.names(lang)
+        unlinked = [key for key in data.keys() if key not in data_names]
+        if unlinked:
+            raise Exception(
+                "Several invalid names found. Invalid entries are " +
+                ','.join(unlinked))
+
+                # validation complete, it may not link to all base entries but thats ok
+        for data_key, data_entry in data.items():
+            base_entry = self.entry_of(lang, data_key)
+            
+            if key:
+                base_entry[key] = data_entry
+            elif hasattr(data_entry, 'keys'):
+                joindicts(base_entry, data_entry)
+            else:
+                # If we get here, its a key-less merge with a non-dict
+                # We cannot merge a dictionary with a non-dictionary
+                raise Exception("Invalid data, the data map must be a dictionary for a keyless merge")
+            
+        return self
 
     def __getitem__(self, id) -> DataRow:
         return self._data[id]
