@@ -7,8 +7,8 @@ import collections
 import os
 import os.path
 
-from .reader import DataReader
 from .datamap import DataMap
+from .reader import DataReader
 
 from .functions import flatten, determine_fields, extract_sub_data
 

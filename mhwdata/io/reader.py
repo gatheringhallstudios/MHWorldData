@@ -8,7 +8,6 @@ import csv
 from mhwdata.util import ensure, ensure_warn, joindicts
 
 from .datamap import DataMap
-from .stitcher import DataStitcher
 from .functions import group_fields
 
 def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'): 
