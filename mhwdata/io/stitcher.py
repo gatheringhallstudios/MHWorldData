@@ -1,17 +1,32 @@
 import json
+import os.path
+
 from mhwdata.util import joindicts
 from .datamap import DataMap
 from .reader import DataReader
 
 class DataStitcher:
     """Dynamically creates an object by attaching data to a base object
-    Methods in this class chain to each other
+    Methods in this class chain to each other.
+
+    Common concepts:
+     - key - If given, the added data will be added as entry[keyname] = yourdata.
+
+     - groups - If you have defense_base and defense_map, you can use group defense
+                to join them together as defense: { base: val, max: val}
     """
 
-    def __init__(self, reader: DataReader, data_map: DataMap, *, join_lang='en'):
+    def __init__(self, reader: DataReader, data_map: DataMap, *, join_lang='en', dir=''):
         self.reader = reader
         self.data_map = data_map
         self.join_lang = join_lang
+        self.dir = dir
+
+    def _get_filename(self, filename):
+        "Gets a filename relative to the internal dir, if any."
+        if self.dir:
+            return os.path.join(self.dir, filename)
+        return filename
 
     def add_json(self, data_file, *, key=None):
         """
@@ -23,7 +38,7 @@ class DataStitcher:
 
         self.reader.load_data_json(
             parent_map=self.data_map, 
-            data_file=data_file, 
+            data_file=self._get_filename(data_file), 
             lang=self.join_lang, 
             key=key)
 
@@ -40,7 +55,7 @@ class DataStitcher:
 
         self.reader.load_data_csv(
             parent_map=self.data_map, 
-            data_file=data_file, 
+            data_file=self._get_filename(data_file), 
             lang=self.join_lang, 
             key=key,
             groups=groups,
@@ -59,7 +74,7 @@ class DataStitcher:
 
         self.reader.load_data_csv(
             parent_map=self.data_map, 
-            data_file=data_file, 
+            data_file=self._get_filename(data_file), 
             lang=self.join_lang, 
             key=key,
             groups=groups,
