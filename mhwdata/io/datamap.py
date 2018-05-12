@@ -5,8 +5,10 @@ import itertools
 from collections.abc import MutableMapping, Mapping, KeysView
 from mhwdata.util import joindicts
 
-def to_basic(obj):
-    "Converts an object to its most basic form, recursively. TODO: PREVENT RECURSIVE?"
+def to_basic(obj, *, collected={}):
+    """Converts an object to its most basic form, recursively.
+    Does not prevent infinite recursion, careful with usage.
+    """
     if isinstance(obj, collections.Mapping):
         # This can be converted to a dictionary
         return { k:to_basic(v) for (k, v) in obj.items()}
