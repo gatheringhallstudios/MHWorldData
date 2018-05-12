@@ -1,10 +1,11 @@
 import click
 import sys
 
-from mhwdata.build import build_database
+from mhwdata import build
 
-# Python 3.6 dictionaries preserve insertion order, and python 3.7 added it to the spec officially
-# Older versions of python won't maintain order when importing data for the build.
+# Python 3.6 dictionaries preserve insertion order,
+# and python 3.7 officially added it to the spec.
+# Older versions of python don't maintain order when importing data.
 if sys.version_info < (3,6):
     print(f"WARNING: You are running python version {sys.version}, " +
         "but this application was designed for Python 3.6 and newer. ")
@@ -13,9 +14,12 @@ if sys.version_info < (3,6):
 
 
 @click.command()
-def build():
+def build_cmd():
+    if not build.validate():
+        raise Exception("Validation failed, exiting")
+
     output_filename = 'mhw.db'
-    build_database(output_filename)
+    build.build_sql_database(output_filename)
     
 if __name__ == '__main__':
-    build()
+    build_cmd()

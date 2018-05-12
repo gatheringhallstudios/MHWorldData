@@ -8,8 +8,53 @@ from mhwdata.util import ensure, ensure_warn, get_duplicates
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
 from mhwdata.load import *
 
-from .validate import validate
 from .objectindex import ObjectIndex
+
+def build_sql_database(output_filename):
+    "Builds a SQLite database and outputs to output_filename"
+    sessionbuilder = db.recreate_database(output_filename)
+
+    with db.session_scope(sessionbuilder) as session:
+        # Add languages before starting the build
+        for language in supported_languages:
+            session.add(db.Language(
+                id=language,
+                name=all_languages[language],
+                is_complete=(language not in incomplete_languages)
+            ))
+
+        # Build the individual components
+        # These functions are defined lower down in the file
+        build_items(session)
+        build_locations(session)
+        build_monsters(session)
+        build_skills(session)
+        build_armor(session)
+        build_weapons(session)
+        build_decorations(session)
+        build_charms(session)
+        
+    print("Finished build")
+
+
+def build_items(session : sqlalchemy.orm.Session):
+    for id, entry in item_map.items():
+        item = db.Item(id=id)
+        item.rarity = entry['rarity'] or 0
+        item.buy_price = entry['buy_price'] or 0
+        item.sell_price = entry['sell_price'] or 0
+        item.carry_limit = entry['carry_limit'] or 0
+
+        for language in supported_languages:
+            item.translations.append(db.ItemText(
+                lang_id=language,
+                name=entry.name(language),
+                description=entry['description'].get(language, None)
+            ))
+
+        session.add(item)
+    
+    print("Built Items")
 
 def build_locations(session : sqlalchemy.orm.Session):
     for location_id, entry in location_map.items():
@@ -159,25 +204,6 @@ def build_skills(session : sqlalchemy.orm.Session):
         session.add(skilltree)
     
     print("Built Skills")
-
-def build_items(session : sqlalchemy.orm.Session):
-    for id, entry in item_map.items():
-        item = db.Item(id=id)
-        item.rarity = entry['rarity'] or 0
-        item.buy_price = entry['buy_price'] or 0
-        item.sell_price = entry['sell_price'] or 0
-        item.carry_limit = entry['carry_limit'] or 0
-
-        for language in supported_languages:
-            item.translations.append(db.ItemText(
-                lang_id=language,
-                name=entry.name(language),
-                description=entry['description'].get(language, None)
-            ))
-
-        session.add(item)
-    
-    print("Built Items")
 
 def build_armor(session : sqlalchemy.orm.Session):
     # Write entries for armor sets  first
@@ -374,33 +400,3 @@ def build_charms(session : sqlalchemy.orm.Session):
         session.add(charm)
 
     print("Built Charms")
-
-import sys
-
-def build_database(output_filename):
-    sessionbuilder = db.recreate_database(output_filename)
-
-    # todo: move data validation to a submodule somewhere else...
-    if not validate():
-        raise Exception("Validation failed, exiting")
-
-    with db.session_scope(sessionbuilder) as session:
-        # Add languages before starting the build
-        for language in supported_languages:
-            session.add(db.Language(
-                id=language,
-                name=all_languages[language],
-                is_complete=(language not in incomplete_languages)
-            ))
-
-        # Build the individual components
-        build_items(session)
-        build_locations(session)
-        build_monsters(session)
-        build_skills(session)
-        build_armor(session)
-        build_weapons(session)
-        build_decorations(session)
-        build_charms(session)
-        
-    print("Finished build")
