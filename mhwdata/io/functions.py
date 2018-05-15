@@ -125,19 +125,6 @@ def unflatten(obj_list, *, nest, groups=[], leaftype):
         return results
 
 
-def determine_fields(obj_list):
-    """
-    Returns the set of all possible keys in the object list
-    """
-    fields = []
-    for obj in obj_list:
-        for key in obj.keys():
-            if key not in fields:
-                fields.append(key)
-
-    return fields
-
-
 def extract_sub_data(data_map : DataMap, *, key=None, fields=None, lang='en'):
     "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
 

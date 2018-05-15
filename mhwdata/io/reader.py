@@ -3,13 +3,14 @@ import re
 import collections.abc
 import typing
 import json
-import csv
 import re
 
 from mhwdata.util import ensure, ensure_warn, joindicts
 
 from .datamap import DataMap
 from .functions import group_fields, unflatten
+
+from mhwdata.io.csv import read_csv
 
 def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'): 
     """Validates if the set of keys can be joined to the data map. 
@@ -82,18 +83,15 @@ class DataReader:
         """
         data_file = self.get_data_path(data_file)
         groups = ['name'] + groups
-        
-        with open(data_file, encoding="utf-8") as f:
-            reader = csv.DictReader(f)
 
-            rows = list(reader)
-            rows = [group_fields(row, groups=groups) for row in rows]
+        rows = read_csv(data_file)
+        rows = [group_fields(row, groups=groups) for row in rows]
 
-            basemap = DataMap()
-            basemap.extend(rows)
-            self._validate_base_map(data_file, basemap, error=validate)
+        basemap = DataMap()
+        basemap.extend(rows)
+        self._validate_base_map(data_file, basemap, error=validate)
 
-            return basemap
+        return basemap
 
     def load_data_json(self, parent_map : DataMap, data_file, *, lang="en", key=None):
         """Loads a data file, using a base map to anchor it to id
@@ -121,9 +119,7 @@ class DataReader:
         if leaftype == 'list' and not key:
             raise ValueError("key is required if leaftype is list")
         
-        with open(data_file, encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            rows = list(reader)
+        rows = read_csv(data_file)
 
         if not rows:
             return parent_map

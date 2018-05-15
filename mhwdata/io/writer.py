@@ -2,7 +2,6 @@
 # They are used whenever I am pulling new data from other sources.
 
 import json
-import csv
 import collections
 import os
 import os.path
@@ -11,19 +10,8 @@ import mhwdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
-from .functions import flatten, determine_fields, extract_sub_data, ungroup_fields
-
-def save_csv(obj_list, location):
-    "Saves a CSV, doing some last minute validations"
-    if not util.is_flat_dict_list(obj_list):
-        raise Exception("Cannot save CSV, the data is not completely flat")
-
-    fields = determine_fields(obj_list)
-    with open(location, 'w', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fields, lineterminator='\n')
-        writer.writeheader()
-        writer.writerows(obj_list)
-
+from .functions import flatten, extract_sub_data, ungroup_fields
+from mhwdata.io.csv import save_csv
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
