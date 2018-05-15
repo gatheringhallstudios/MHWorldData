@@ -4,6 +4,7 @@ import collections.abc
 import typing
 import json
 import csv
+import re
 
 from mhwdata.util import ensure, ensure_warn, joindicts
 
@@ -107,10 +108,12 @@ class DataReader:
         parent_map.merge(data, lang=lang, key=key)
         return parent_map
 
-    def load_data_csv(self, parent_map : DataMap, data_file, *, lang="en", key=None, groups=[], leaftype):
+    def load_data_csv(self, parent_map : DataMap, data_file, *, key=None, groups=[], leaftype):
         """Loads a data file, using a base map to anchor it to id
         The parent_map is updated to map id -> data row.
-        Returns the parent_map to support chaining
+        Returns the parent_map to support chaining.
+
+        Language is automatically determined by the name of the first column.
         """
         
         data_file = self.get_data_path(data_file)
@@ -120,13 +123,21 @@ class DataReader:
         
         with open(data_file, encoding="utf-8") as f:
             reader = csv.DictReader(f)
-
-            # Todo: support additional nest depth
             rows = list(reader)
-            data = unflatten(rows, nest=['name_'+lang], groups=groups, leaftype=leaftype)
 
-        parent_map.merge(data, lang=lang, key=key)
-        return parent_map
+        if not rows:
+            return parent_map
+
+        # Auto detect language
+        first_column = next(iter(rows[0].keys()))
+        match = re.match('name_([a-zA-Z]+)', first_column)
+        if not match:
+            raise Exception("First column needs to be a name_{lang} column")
+        
+        lang = match.group(1)
+        data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
+
+        return parent_map.merge(data, lang=lang, key=key)
 
     def load_split_data_map(self, parent_map : DataMap, data_directory, lang="en", validate=True):
         """Loads a data map by combining separate maps in a folder into one.

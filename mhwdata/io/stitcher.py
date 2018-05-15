@@ -55,8 +55,7 @@ class DataStitcher:
 
         self.reader.load_data_csv(
             parent_map=self.data_map, 
-            data_file=self._get_filename(data_file), 
-            lang=self.join_lang, 
+            data_file=self._get_filename(data_file),
             key=key,
             groups=groups,
             leaftype="list")
@@ -74,8 +73,7 @@ class DataStitcher:
 
         self.reader.load_data_csv(
             parent_map=self.data_map, 
-            data_file=self._get_filename(data_file), 
-            lang=self.join_lang, 
+            data_file=self._get_filename(data_file),
             key=key,
             groups=groups,
             leaftype="dict")
