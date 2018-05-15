@@ -1,7 +1,7 @@
 import click
 import sys
 
-from mhwdata import build
+from mhdata import build
 
 # Python 3.6 dictionaries preserve insertion order,
 # and python 3.7 officially added it to the spec.

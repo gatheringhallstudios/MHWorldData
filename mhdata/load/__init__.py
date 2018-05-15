@@ -7,7 +7,7 @@ from .cfg import *
 import os.path
 from os.path import abspath, join, dirname
 
-from mhwdata.io import DataReader, DataStitcher
+from mhdata.io import DataReader, DataStitcher
 
 reader = DataReader(
     required_languages=required_languages,

@@ -6,12 +6,12 @@ import collections
 import os
 import os.path
 
-import mhwdata.util as util
+import mhdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
 from .functions import flatten, extract_sub_data, ungroup_fields
-from mhwdata.io.csv import save_csv
+from mhdata.io.csv import save_csv
 
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"

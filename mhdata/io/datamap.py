@@ -3,7 +3,7 @@ import collections
 import itertools
 
 from collections.abc import MutableMapping, Mapping, KeysView
-from mhwdata.util import joindicts
+from mhdata.util import joindicts
 
 def to_basic(obj, *, collected={}):
     """Converts an object to its most basic form, recursively.

@@ -1,7 +1,7 @@
 import json
 import os.path
 
-from mhwdata.util import joindicts
+from mhdata.util import joindicts
 from .datamap import DataMap
 from .reader import DataReader
 

@@ -2,7 +2,7 @@ import typing
 import collections
 import copy
 
-import mhwdata.util as util
+import mhdata.util as util
 from .datamap import DataMap
 
 

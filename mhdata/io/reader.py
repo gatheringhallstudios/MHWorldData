@@ -5,12 +5,12 @@ import typing
 import json
 import re
 
-from mhwdata.util import ensure, ensure_warn, joindicts
+from mhdata.util import ensure, ensure_warn, joindicts
 
 from .datamap import DataMap
 from .functions import group_fields, unflatten
 
-from mhwdata.io.csv import read_csv
+from mhdata.io.csv import read_csv
 
 def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'): 
     """Validates if the set of keys can be joined to the data map. 

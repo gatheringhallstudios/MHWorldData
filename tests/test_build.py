@@ -1,7 +1,7 @@
 import os
 import os.path
 
-from mhwdata import build
+from mhdata import build
 
 def test_validates():
     assert build.validate(), "Validation should have succeeded"

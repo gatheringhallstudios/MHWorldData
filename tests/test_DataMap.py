@@ -1,6 +1,6 @@
 import pytest
 
-from mhwdata.io import DataMap
+from mhdata.io import DataMap
 
 def create_test_entry(name_map, extradata={}):
     return { 'name': name_map, **extradata }

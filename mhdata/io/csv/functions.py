@@ -1,6 +1,6 @@
 import csv
 
-import mhwdata.util as util
+import mhdata.util as util
 
 def determine_fields(obj_list):
     """

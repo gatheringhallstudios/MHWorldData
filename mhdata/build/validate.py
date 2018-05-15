@@ -1,10 +1,10 @@
 import itertools
 
-from mhwdata.io import DataMap
-from mhwdata.util import ensure_warn
+from mhdata.io import DataMap
+from mhdata.util import ensure_warn
 
 # todo: inject data instead once we figure out how we're gonna pass it around
-from mhwdata.load import *
+from mhdata.load import *
 
 def validate():
     "Perform all validations, print out the errors, and return if it succeeded or not"
@@ -12,6 +12,7 @@ def validate():
     errors.extend(validate_monster_props())
     errors.extend(validate_monster_weaknesses())
     errors.extend(validate_monster_rewards())
+    errors.extend(validate_armor())
 
     if errors:
         for error in errors:
@@ -103,3 +104,6 @@ def validate_monster_rewards():
                     f"{error_start} does not sum to at least 100")
 
     return errors
+
+def validate_armor():
+    return []

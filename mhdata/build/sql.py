@@ -1,12 +1,12 @@
 import sqlalchemy.orm
-import mhwdata.sql as db
+import mhdata.sql as db
 
-from mhwdata.io import DataMap
-from mhwdata.util import ensure, ensure_warn, get_duplicates
+from mhdata.io import DataMap
+from mhdata.util import ensure, ensure_warn, get_duplicates
 
 # todo: refactor the individual build steps to accept the dependencies instead of * import
 # I haven't refactored yet because I'm thinking about splitting this file up further in the future
-from mhwdata.load import *
+from mhdata.load import *
 
 from .objectindex import ObjectIndex
 

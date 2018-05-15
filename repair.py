@@ -1,9 +1,9 @@
 import click
 import sys
 
-import mhwdata.load as data
+import mhdata.load as data
 
-from mhwdata.io import DataReaderWriter
+from mhdata.io import DataReaderWriter
 
 # Python 3.6 dictionaries preserve insertion order, and python 3.7 added it to the spec officially
 # Older versions of python won't maintain order when importing data for the build.
