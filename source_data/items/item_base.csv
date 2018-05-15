@@ -1,0 +1,533 @@
+name_en,name_ja,description_en,description_ja,rarity,buy_price,sell_price,carry_limit
+Potion,,Restores a small amount of health.,,1,,8,10
+Mega Potion,,Restores a moderate amount of health.,,2,,2,10
+Max Potion,,Fully restores health and maximizes the size of your Health Gauge.,,3,,210,2
+Ancient Potion,,Fully restores health and maximizes the size of your Health and Stamina Gauges.,,5,,345,1
+Antidote,解毒薬,A cure for poison.,,1,,6,10
+Herbal Medicine,漢方薬,Removes all traces of poison and restores a slight amount of health.,,2,,25,5
+Nulberry,ウチケシの実,A mysterious berry that cures various blights.,,2,,120,10
+Energy Drink,,"A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",,2,,6,10
+Ration,,Food that restores a bit of stamina.,,1,,3,10
+Rare Steak,,Provides a moderate boost to your stamina. This one's still red in the middle.,,1,,3,10
+Well-done Steak,,Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!,,2,,48,10
+Burnt Meat,,Provides a small boost to your stamina. Can be eaten quickly.,,1,,1,10
+Cool Drink,,Provides temporary relief from extreme heat.,,1,,30,5
+Nutrients,栄養剤,Very slightly increases your maximum health level.,,2,,25,5
+Mega Nutrients,栄養剤グレート,Slightly increases your maximum health level.,,3,,92,5
+Immunizer,,Boosts your natural ability to heal.,,3,,92,10
+Astera Jerky,,"Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",,2,,10,5
+Dash Juice,,Dulls one's sense of exhaustion. Reduces stamina depletion for a time.,,2,,29,5
+Mega Dash Juice,,Lets you dash without tiring for longer than regular dash juice does.,,3,,205,5
+Might Seed,,Temporarily strengthens your attacks when ingested by improving energy flow.,,2,,140,10
+Demondrug,,,,,,,
+Mega Demondrug,,,,,,,
+Might Pill,,,,,,,
+Adamant Seed,,,,,,,
+Armorskin,,,,,,,
+Mega Armorskin,,,,,,,
+Adamant Pill,,,,,,,
+Lifepowder,生命の粉塵,,,,,,
+Herbal Powder,,,,,,,
+Demon Powder,,,,,,,
+Hardshell Powder,,A mysterious powder that produces a cloud around the area that temporarily strengthens defense.,,4,,315,3
+Honey,,Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.,,2,,45,10
+Herb,,A primary ingredient in potions.,,1,,2,10
+Antidote Herb,,A primary ingredient in antidotes.,,1,,2,10
+Fire Herb,,"A wondrous, flammable plant. Useful for crafting explosives.",,2,,4,20
+Flowfern,,This plant's leaves store a great amount of water. A component for making Water Ammo.,,1,,4,20
+Snow Herb,,A plant that radiates ice-cold air. Use in combinations to create freeze ammo.,,2,,6,20
+Sleep Herb,,A plant containing sleeping agents. Used to craft tranquilizers.,,1,,5,10
+Ivy,,A lightweight and extremely strong plant. Used to make nets for pitfall traps.,,1,,8,10
+Smokenut,,A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.,,1,,4,10
+Dragonfell Berry,,"A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",,4,,78,10
+Blue Mushroom,アオキノコ,A mushroom infused with power-enhancing effects. Used in restorative items.,,2,,2,10
+Mandragora,,A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.,,3,,40,10
+Nitroshroom,,A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.,,2,,6,20
+Devil's Blight,,A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.,,2,,60,10
+Parashroom,,A mushroom that induces paralysis. Required to craft Tranq Bombs.,,3,,15,10
+Toadstool,,A poisonous fungus. Can be used as a toxin for knives.,,2,,8,10
+Exciteshroom,,This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.,,3,,18,10
+Chillshroom,,This mushroom is a primary ingredient in cool drinks.,,3,,18,10
+Bitterbug,にが虫,A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.,,1,,2,10
+Flashbug,,An insect that emits a powerful flash when it dies. Required to craft Flash Pods.,,2,,48,10
+Godbug,不死虫,An insect said to live a millennium. Combine it with other items to add their properties to the powder.,,4,,120,10
+Thunderbug,,An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.,,4,,80,10
+Baitbug,,"An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",,3,,2,10
+Kelbi Horn,ケルビの角,"While not practical when forging equipment, Kelbi horns are a vital component of many items.",,4,,52,99
+Dash Extract,,A mysterious substance culled from certain monsters that increases endurance.,,4,,56,20
+Nourishing Extract,,Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.,,4,,122,20
+Screamer Sac,,A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.,,2,,15,10
+Catalyst,,Works with other materials to enhance their effects. Cannot be used by itself.,,2,,48,5
+Tranq Bomb,,A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.,,3,,35,8
+Flash Pod,,Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.,,2,,57,3
+Screamer Pod,,"Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",,2,,45,3
+Dung Pod,,Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.,,2,,20,10
+Smoke Bomb,,Creates a large cloud of smoke wherever it lands.,,2,,44,3
+Poison Smoke Bomb,,Releases a toxic cloud of mist when used. Also popular as a household bug bomb.,,2,,60,5
+Farcaster,,Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.,,3,,30,1
+Raw Meat,,"Meat carved from a monster. Can be cooked, combined, or used to set a trap.",,1,,5,10
+Poisoned Meat,,Raw meat that poisons whatever eats it. Makes great bait for traps.,,2,,19,10
+Tinged Meat,,Raw meat that paralyzes whatever eats it. Makes great bait for traps.,,2,,30,10
+Drugged Meat,,Raw meat that puts whatever eats it to sleep. Makes great bait for traps.,,2,,32,10
+Gunpowder,,A dangerous substance that explodes when struct or heated.,,2,,45,20
+Small Barrel,,,,,,,
+Barrel Bomb,,,,,,,
+Bounce Bomb,,,,,,,
+Mega Bounce Bomb,,,,,,,
+Large Barrel,,"A large, empty barrel. Combine with gunpowser to make it into a bomb.",,2,,21,5
+Large Barrel Bomb,,,,,,,
+Mega Barrel Bomb,,An upgraded large barrel bomb. Effective against large monsters.,,4,,80,2
+Spider Web,,A very sticky web. Used to craft pitfall traps.,,1,,6,10
+Net,,A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.,,2,,54,10
+Trap Tool,,A must-have item for putting together pitfall traps and other kinds of traps.,,3,,20,2
+Pitfall Trap,,A trap for catching certain large monsters. It is tripped by a heavy weight.,,3,,200,1
+Shock Trap,,A trap that immobilizes a target. Use it to capture monsters.,,3,,160,1
+Rolled-up Dung,,A ball of condensed monster dung. Used to make dung pods for your slinger.,,1,,10,20
+Dung,,Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.,,1,,1,10
+Arowana Bait,,A ball of bait favored by fish of the Arowana family.,,2,,15,10
+Gunpowderfish Bait,,A ball of bait favored by fish of the Gunpowderfish family.,,2,,15,10
+Goldenfish Bait,,A ball of bait favored by fish of the Goldenfish family.,,2,,30,10
+Boomerang,,An unusually-shaped weapon from abroad that returns to its user when thrown.,,4,,15,5
+Binoculars,,Allows you to see farther and observe from a distance.,,1,,5,1
+Powercharm,,An amulet that strengthens attacks. Just carrying this gives you demonic strength.,,5,,3,1
+Powertalon,,A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.,,5,,6,1
+Armorcharm,,An amulet that increases defense. Just carrying this hardens your skin like stone.,,5,,2,1
+Armortalon,,A charm that increases defense. Its effects are amplified by the dragon parts it contains.,,5,,5,1
+Needleberry,,A nut covered in needle-like spines. Used to make spread ammo.,,1,,1,99
+Blastnut,,A nut used to make sticky ammo.,,1,,4,30
+Dragonstrike nut,,A nut that explodes on impact. Used to make wyvern ammo.,,2,,12,5
+Slashberry,,Used to make slicing ammo.,,1,,4,60
+Latchberry,,A nut that bears a spiral groove. Used to make pierce ammo.,,1,,4,99
+Bomberry,,A nut that ruptures on impact. Used to make cluster bombs.,,2,,12,10
+Flamenut,,Used to make gunpowder that increases ammo firepower.,,2,,12,80
+Blazenut,,Used to make gunpowder that greatly increases ammo firepower.,,2,,12,60
+Gunpowder Level 2,,Combustible powser. Combine with level 1 ammo to raise its level.,,2,,1,80
+Gunpowser Level 3,,Highly combustible powser. Combine with level 1 ammo to raise its level.,,2,,3,80
+Whetfish Fin,,"A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",,2,,45,10
+Whetfish Fin+,,"A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",,4,,45,5
+Sushifish Scale,,A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.,,2,,45,10
+Great Sushifish Scale,,"Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",,4,,45,5
+Gunpowderfish Scale,,The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.,,3,,150,5
+Great Gunpowderfish Scale,,The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.,,4,,150,5
+Burst Arowana Scale,,The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.,,2,,45,5
+Great Burst Arowana Scale,,The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.,,4,,45,5
+Bomb Arowana Scale,,The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.,,2,,135,5
+Great Bomb Arowana Scale,,The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.,,4,,135,5
+Empty Phial,,"A regularly old empty phial. Nothing more, nothing less.",,1,,1,99
+Iron Ore,鉄鉱石,Ore that can be smelted into metal and used for many different purposes.,,4,,,
+Machalite Ore,マカライト鉱石,Ore that's more difficult to procure than Iron Ore. Produces fine metal.,,4,,,
+Dragonite Ore,ドラグライト鉱石,An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.,,4,,,
+Carbalite Ore,カブレライト鉱石,"Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",,,,,
+Fucium Ore,ユニオン鉱石,"Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",,,,,
+Earth Crystal,大地の結晶,Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.,,,,,
+Coral Crystal,深海の結晶,Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.,,,,,
+Dragonvein Crystal,龍脈の結晶,Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.,,,,,
+Lightcrystal,ライトクリスタル,A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.,,,,,
+Novacrystal,ノヴァクリスタル,"High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",,,,,
+Firecell Stone,獄炎石,A magma-like deposit that only trained hands can work with. Armor made from it is first-class.,,,,,
+Aquacore Ore,,A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.,,,,,
+Spiritcore Ore,,"A valuable mineral used to create charms. Gives off a warm, sunny glow.",,,,,
+Dreamcore Ore,,A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.,,,,,
+Dragoncore Ore,,A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.,,,,,
+Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.,,,,,
+Armor Sphere+,,Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.,,,,,
+Advanced Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to improve it.,,,,,
+Hard Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to significantly improve it.,,,,,
+Heavy Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to greatly improve it.,,,,,
+Sturdy Bone,頑丈な骨,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.,,,,,
+Quality Bone,上質な堅骨,A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.,,,,,
+Ancient Bone,太古の大骨,A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.,,,,,
+Boulder Bone,強固な岩骨,A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.,,,,,
+Coral Bone,サンゴの紅骨,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.,,,,,
+Warped Bone,いびつな狂骨,A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.,,,,,
+Brutal Bone,荒々しい蛮骨,A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.,,,,,
+Dragonbone Relic,いにしえの龍骨,A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.,,,,,
+Unknown Skull,なぞの頭骨,A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.,,,,,
+Great Hornfly,オオツノアゲハ,"Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",,,,,
+Sinister Cloth,禍々しい布,Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.,,,,,
+Monster Bone S,竜骨【小】,A material found in bonepiles. Indispensable for both hunting and daily life.,,,,,
+Monster Bone M,竜骨【中】,"Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",,,,,
+Monster Bone L,竜骨【大】,"Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",,,,,
+Monster Bone+,上竜骨,"Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",,,,,
+Monster Keenbone,尖竜骨,Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.,,,,,
+Monster Hardbone,堅竜骨,Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.,,,,,
+Elder Dragon Bone,古龍骨,A bone from an elder dragon. It exudes the great majesty of the beast that bore it.,,,,,
+Sharp Claw,とがった爪,"Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",,,,,
+Piercing Claw,鋭利な爪,Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.,,,,,
+Monster Fluid,モンスターの体液,Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.,,,,,
+Monster Broth,モンスターの濃汁,Material from high rank insects. A rich broth made from only the thickest of monster juices.,,,,,
+Poison Sac,毒袋,A monster organ that contains a lethal toxin. Handle with extreme care.,,,,,
+Toxin Sac,猛毒袋,A monster organ filled with an extremely potent toxin. Just touching it is dangerous.,,,,,
+Paralysis Sac,麻痺袋,A monster organ that contains paralyzing neurotoxins.,,,,,
+Omniplegia Sac,強力麻痺袋,A monster organ filled with potent neurotoxins. A single touch can cause paralysis.,,,,,
+Sleep Sac,睡眠袋,A monster organ that contains a knockout powder capable of inducing sleep.,,,,,
+Coma Sac,昏睡袋,A monster organ that contains dangerous powder. One whiff can induce a coma.,,,,,
+Flame Sac,火炎袋,A monster organ filled with flammable powder. Handle with extreme care.,,,,,
+Inferno Sac,爆炎袋,A monster organ filled with powder that ignites if it so much as touches air. Danger!,,,,,
+Aqua Sac,水袋,A monster organ designed to hold and preserve water.,,,,,
+Torrent Sac,大水袋,A monster organ designed to hold and preserve copious amounts of water.,,,,,
+Frost Sac,氷結袋,"A monster internal organ, filled with extremely low temperature fluid. Handle with care.",,,,,
+Freezer Sac,凍結袋,A monster organ with tremendous freezing power. Turns its surroundings to ice.,,,,,
+Electro Sac,電気袋,"A monster organ that can store up electricity, which is released on impact.",,,,,
+Thunder Sac,電撃袋,A monster organ that can store up large amounts of high voltage electricity.,,,,,
+Bird Wyvern Gem,鳥竜玉,A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.,,,,,
+Wyvern Gem,竜玉,"Throughout a wyvern's life, impurities gather and form this peculiar gem.",,,,,
+Elder Dragon Blood,古龍の血,Contains an unknown compound. The object of much scholarly research.,,,,,
+Mosswine Hide,モスの苔皮,A musty hide covered in moss.,,,,,
+White Liver,ホワイトレバ,,,,,,
+Warm Pelt,暖かい毛皮,"A pelt from a small animal. Used for many things, but mostly just regular clothes.",,,,,
+High-quality Pelt,上質な毛皮,Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.,,,,,
+Vespoid Shell,ランゴスタの甲殻,Vespoid material. Obtained by carving. Used for many purposes.,,,,,
+Vespoid Carapace,ランゴスタの堅殻,Rare Vespoid material. Obtained by carving. Used for many purposes.,,,,,
+Vespoid Wing,ランゴスタの羽,"Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",,,,,
+Vespoid Innerwing,ランゴスタの薄羽,"Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",,,,,
+Hornetaur Shell,カンタロスの甲殻,Hornetaur material. Obtained by carving. Used for many purposes.,,,,,
+Hornetaur Wing,カンタロスの羽,Hornetaur material. Obtained by carving. Used for many purposes.,,,,,
+Hornetaur Head,カンタロスの頭,"Hornetaur material. Obtained by carving. Unusual, used in select gear.",,,,,
+Hornetaur Carapace,カンタロスの堅殻,Rare Hornetaur material. Obtained by carving. Used for many purposes.,,,,,
+Hornetaur Innerwing,カンタロスの薄羽,"Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",,,,,
+Gajau Skin,咬魚の皮,"Gajau material. Obtained by carving. Water resistant, used to craft gear.",,,,,
+Gajau Whisker,咬魚のヒゲ,"Gajau material. Obtained by carving. Hardy, used to craft gear.",,,,,
+Gajau Scale,咬魚の上皮,"Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",,,,,
+Grand Gajau Whisker,咬魚の大ヒゲ,"Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",,,,,
+Wingdrake Hide,翼竜の皮,A material carved from wingdrakes. Lightweight and often used when crafting armor.,,,,,
+Wingdrake Hide+,翼竜の上皮,A rare material carved from wingdrakes. Lightweight and often used when crafting armor.,,,,,
+Barnos Hide+,バルノスの上皮,"Rare Barnos material. Obtained by carving. Supple, used to craft gear.",,,,,
+Barnos Talon,バルノスの尖爪,"Rare Barnos material. Obtained by carving. Unusual, used in select gear.",,,,,
+Kestodon Shell,ケストドンの甲殻,"Kestodon material. Obtained by carving. Sturdy, used to craft gear.",,,,,
+Kestodon Scalp,ケストドンの頭殻,"Kestodon material. Obtained by carving. Unusual, used in select gear.",,,,,
+Kestodon Carapace,ケストドンの堅殻,"Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",,,,,
+Gastodon Carapace,ガストドンの堅殻,"Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",,,,,
+Gastodon Horn,ガストドンの尖角,"Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",,,,,
+Jagras Scale,ジャグラスの鱗,Jagras material. Obtained by carving. Used for many purposes.,,,,,
+Jagras Hide,ジャグラスの皮,"Jagras material. Obtained by carving. Supple, used to craft gear.",,,,,
+Jagras Scale+,ジャグラスの上鱗,Rare Jagras material. Obtained by carving. Used for many purposes.,,,,,
+Jagras Hide+,ジャグラスの上皮,"Rare Jagras material. Obtained by carving. Supple, used to craft gear.",,,,,
+Shamos Scale,シャムオスの鱗,Shamos material. Obtained by carving. Used for many purposes.,,,,,
+Shamos Hide,シャムオスの皮,"Shamos material. Obtained by carving. Supple, used to craft gear.",,,,,
+Shamos Scale+,シャムオスの上鱗,Rare Shamos material. Obtained by carving. Used for many purposes.,,,,,
+Shamos Hide+,シャムオスの上皮,"Rare Shamos material. Obtained by carving. Supple, used to craft gear.",,,,,
+Girros Scale,ギルオスの鱗,Girros material. Obtained by carving Used for many purposes.,,,,,
+Girros Hide,ギルオスの皮,"Girros material. Obtained by carving. Supple, used to craft gear.",,,,,
+Girros Fang,ギルオスの麻痺牙,Girros material. Obtained by carving. Grants paralytic properties.,,,,,
+Girros Scale+,ギルオスの上鱗,Rare Girros material. Obtained by carving. Used for many purposes.,,,,,
+Girros Hide+,ギルオスの上皮,"Rare Girros material. Obtained by carving. Supple, used to craft gear.",,,,,
+Great Jagras Scale,賊竜の鱗,Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Great Jagras Hide,賊竜の皮,Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.,,,,,
+Great Jagras Mane,賊竜のたてがみ,Great Jagras material. Obtained by breaking its head. Used for many purposes.,,,,,
+Great Jagras Claw,賊竜の爪,"Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,,,,
+Great Jagras Scale+,賊竜の上鱗,Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Great Jagras Hide+,賊竜の上皮,"Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Great Jagras Claw+,賊竜の尖爪,"Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,,,,
+Kulu-Ya-Ku Scale,掻鳥の鱗,Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.,,,,,
+Kulu-Ya-Ku Hide,掻鳥の皮,"Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",,,,,
+Kulu-Ya-Ku Plume,掻鳥の飾り羽,Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.,,,,,
+Kulu-Ya-Ku Beak,掻鳥のクチバシ,"Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",,,,,
+Kulu-Ya-Ku Scale+,掻鳥の上鱗,Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Kulu-Ya-Ku Hide+,掻鳥の上皮,"Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",,,,,
+Kulu-Ya-Ku Plume+,掻鳥の大飾り羽,Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.,,,,,
+Kulu-Ya-Ku Beak+,掻鳥の大クチバシ,"Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",,,,,
+Pukei-Pukei Scale,毒妖鳥の鱗,Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Pukei-Pukei Shell,毒妖鳥の甲殻,"Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Pukei-Pukei Quill,毒妖鳥の羽根,Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.,,,,,
+Pukei-Pukei Sac,毒妖鳥の喉袋,Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.,,,,,
+Pukei-Pukei Tail,毒妖鳥の尻尾,"Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",,,,,
+Pukei-Pukei Scale+,毒妖鳥の上鱗,Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Pukei-Pukei Carapace,毒妖鳥の堅殻,"Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Pukei-Pukei Wing,毒妖鳥の翼,Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.,,,,,
+Pukei-Pukei Sac+,毒妖鳥の大喉袋,Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.,,,,,
+Barroth Shell,土砂竜の甲殻,Barroth material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Barroth Ridge,土砂竜の背甲,"Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Barroth Claw,土砂竜の爪,"Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",,,,,
+Barroth Scalp,土砂竜の頭殻,"Barroth material. Obtained by breaking its scalp. Tough, used in many weapons.",,,,,
+Barroth Tail,土砂竜の尻尾,"Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Fertile Mud,肥沃なドロ,"Barroth material. Obtained by breaking its mud covering Unusual, used in select gear.",,,,,
+Barroth Carapace,土砂竜の堅殻,Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Barroth Ridge+,土砂竜の堅甲,"Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Barroth Claw+,土砂竜の鋭爪,"Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",,,,,
+Jyuratodus Scale,泥魚竜の鱗,Jyuratodus material. Mostly obtained by carving. Used for many purposes.,,,,,
+Jyuratodus Shell,泥魚竜の甲殻,"Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",,,,,
+Jyuratodus Fang,泥魚竜の牙,"Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Jyuratodus Fin,泥魚竜のヒレ,Jyuratodus material. Obtained by breaking its back. Used for many purposes.,,,,,
+Jyuratodus Scale+,泥魚竜の上鱗,Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.,,,,,
+Jyuratodus Carapace,泥魚竜の堅殻,"Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",,,,,
+Jyuratodus Fang+,泥魚竜の鋭牙,"Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Jyuratodus Fin+,泥魚竜の上ヒレ,Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.,,,,,
+Tobi-Kadachi Scale,飛雷竜の鱗,Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Tobi-Kadachi Pelt,飛雷竜の毛皮,"Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",,,,,
+Tobi-Kadachi Membrane,飛雷竜の皮膜,"Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",,,,,
+Tobi-Kadachi Claw,飛雷竜の爪,"Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",,,,,
+Tobi-Kadachi Electrode,飛雷竜の電極針,Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.,,,,,
+Tobi-Kadachi Scale+,飛雷竜の上鱗,Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Tobi-Kadachi Pelt+,飛雷竜の上毛皮,"Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",,,,,
+Tobi-Kadachi Claw+,飛雷竜の尖爪,"Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",,,,,
+Tobi-Kadachi Electrode+,飛雷竜の雷極針,Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.,,,,,
+Anjanath Scale,蛮顎竜の鱗,Anjanath material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Anjanath Pelt,蛮顎竜の毛皮,"Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",,,,,
+Anjanath Fang,蛮顎竜の牙,"Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Anjanath Nosebone,蛮顎竜の鼻骨,Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.,,,,,
+Anjanath Tail,蛮顎竜の尻尾,"Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Anjanath Plate,蛮顎竜の逆鱗,"Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Anjanath Scale+,蛮顎竜の上鱗,Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Anjanath Pelt+,蛮顎竜の上毛皮,"Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",,,,,
+Anjanath Fang+,蛮顎竜の鋭牙,"Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Anjanath Nosebone+,蛮顎竜の大鼻骨,"Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",,,,,
+Anjanath Gem,蛮顎竜の宝玉,A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.,,,,,
+Rathian Scale,雌火竜の鱗,Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Rathian Shell,雌火竜の甲殻,"Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Rathian Webbing,雌火竜の翼膜,"Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Rathian Spike,雌火竜の棘,Rathian material. Obtained by carving its severed tail. Grants poisonous properties.,,,,,
+Rathian Plate,雌火竜の逆鱗,"Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Rathian Scale+,雌火竜の上鱗,Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Rathian Carapace,雌火竜の堅殻,"Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Rathian Spike+,雌火竜の上棘,Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.,,,,,
+Rathian Ruby,雌火竜の紅玉,A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.,,,,,
+Pink Rathian Scale+,桜火竜の上鱗,Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Pink Rathian Carapace,桜火竜の堅殻,"Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Tzitzi-Ya-Ku Scale,眩鳥の鱗,Tzitzi-Ya-Ku material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Tzitzi-Ya-Ku Hide,眩鳥の皮,"Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Tzitzi-Ya-Ku Claw,眩鳥の爪,"Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",,,,,
+Tzitzi-Ya-Ku Photophore,眩鳥の発光膜,"Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",,,,,
+Tzitzi-Ya-Ku Scale+,眩鳥の上鱗,Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Tzitzi-Ya-Ku Hide+,眩鳥の上皮,"Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Tzitzi-Ya-Ku Claw+,眩鳥の尖爪,"Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",,,,,
+Tzitzi-Ya-Ku Photophore+,眩鳥の閃光膜,"Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",,,,,
+Paolumu Pelt,浮空竜の毛皮,Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.,,,,,
+Paolumu Scale,浮空竜の鱗,"Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",,,,,
+Paolumu Shell,ゴム質の甲殻,Paolumu material. Obtained by breaking its tail. Used for many purposes.,,,,,
+Paolumu Webbing,浮空竜の翼膜,"Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",,,,,
+Paolumu Pelt+,浮空竜の上毛皮,Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.,,,,,
+Paolumu Scale+,浮空竜の上鱗,"Rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",,,,,
+Paolumu Carapace+,ゴム質の堅殻,Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.,,,,,
+Paolumu Wing,浮空竜の翼,"Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",,,,,
+Great Girros Scale,痺賊竜の鱗,Great Girros material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Great Girros Hide,痺賊竜の皮,"Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Great Girros Hood,痺賊竜の頭巾殻,Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.,,,,,
+Great Girros Fang,痺賊竜の牙,Great Girros material. Obtained by breaking its head. Grants paralytic properties.,,,,,
+Great Girros Tail,痺賊竜の尻尾,"Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Great Girros Scale+,痺賊竜の上鱗,Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Great Girros Hide+,痺賊竜の上皮,"Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Great Girros Hood+,痺賊竜の大頭巾,"Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",,,,,
+Great Girros Fang+,痺賊竜の鋭牙,Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.,,,,,
+Radobaan Scale,骨鎚竜の鱗,Radobaan material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Radobaan Shell,骨鎚竜の甲殻,"Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Radobaan Oilshell,骨鎚竜の黒油殻,"Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",,,,,
+Wyvern Bonemass,竜骨塊,"Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",,,,,
+Radobaan Marrow,骨鎚竜の骨髄,"Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Radobaan Scale+,骨鎚竜の上鱗,Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Radobaan Carapace,骨鎚竜の堅殻,"Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Radobaan Medulla,骨鎚竜の延髄,"Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Legiana Scale,風漂竜の鱗,Legiana material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Legiana Hide,風漂竜の皮,"Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Legiana Claw,風漂竜の爪,Legiana material. Mostly obtained by carving. Grants ice element properties.,,,,,
+Legiana Webbing,風漂竜の翼膜,"Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Legiana Tail Webbing,風漂竜の尾膜,"Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",,,,,
+Legiana Plate,風漂竜の逆鱗,"Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Legiana Scale+,風漂竜の上鱗,Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Legiana Hide+,風漂竜の上皮,"Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",,,,,
+Legiana Claw+,風漂竜の尖爪,Rare Legiana material. Mostly obtained by carving. Grants ice element properties.,,,,,
+Legiana Wing,風漂竜の翼,"Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Legiana Gem,風漂竜の宝玉,A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.,,,,,
+Odogaron Scale,惨爪竜の鱗,Odogaron material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Odogaron Sinew,惨爪竜の硬筋,"Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Odogaron Claw,惨爪竜の爪,"Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,,,,
+Odogaron Fang,惨爪竜の牙,"Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Odogaron Tail,惨爪竜の尻尾,"Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Odogaron Plate,惨爪竜の逆鱗,"Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Odogaron Scale+,惨爪竜の上鱗,Rare Odogaron material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Odogaron Sinew+,惨爪竜の大硬筋,"Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Odogaron Claw+,惨爪竜の尖爪,"Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,,,,
+Odogaron Fang+,惨爪竜の鋭牙,"Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Odogaron Gem,惨爪竜の宝玉,A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.,,,,,
+Rathalos Scale,火竜の鱗,Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Rathalos Shell,火竜の甲殻,"Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Rathalos Webbing,火竜の翼膜,"Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Rathalos Tail,火竜の尻尾,Rathalos material. Obtained by carving its severed tail. Compatible with fire element.,,,,,
+Rath Wingtalon,火竜の翼爪,"Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",,,,,
+Rathalos Marrow,火竜の骨髄,Rathalos material. Mostly obtained by carving Grants fire element properties.,,,,,
+Rathalos Plate,火竜の逆鱗,"Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Rathalos Scale+,火竜の上鱗,Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Rathalos Carapace,火竜の堅殻,"Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Rathalos Wing,火竜の翼,"Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Rathalos Medulla,火竜の延髄,Rare Rathalos material. Obtained by carving. Grants fire element properties.,,,,,
+Rathalos Ruby,火竜の紅玉,A rare gem said to have formed within Rathalos tissue. Almost too nice to use.,,,,,
+Azure Rathalos Scale+,蒼火竜の上鱗,Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Azure Rathalos Carapace,蒼火竜の堅殻,"Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Azure Rathalos Tail,蒼火竜の尻尾,Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.,,,,,
+Azure Rathalos Wing,蒼火竜の翼,"Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Diablos Shell,角竜の甲殻,Diablos material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Diablos Ridge,角竜の背甲,"Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Diablos Tailcase,角竜の尾甲,"Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",,,,,
+Diablos Fang,角竜の牙,"Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",,,,,
+Twisted Horn,ねじれた角,"Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,,,,
+Diablos Marrow,角竜の骨髄,"Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Diablos Carapace,角竜の堅殻,Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Diablos Ridge+,角竜の堅甲,"Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Majestic Horn,上質なねじれた角,"Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,,,,
+Blos Medulla,角竜の延髄,"Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Black Diablos Carapace,黒角竜の堅殻,Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.,,,,,
+Black Diablos Ridge+,黒角竜の堅甲,"Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Black Spiral Horn+,上質な黒巻き角,"Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,,,,
+Kirin Hide,幻獣の皮,Kirin material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Kirin Tail,幻獣の尾,Kirin material. Mostly obtained as a reward. Compatible with thunder element.,,,,,
+Kirin Mane,幻獣のたてがみ,"Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",,,,,
+Kirin Thunderhorn,幻獣の雷角,Kirin material. Obtain by breaking its horn. Grants thunder element properties.,,,,,
+Kirin Hide+,幻獣の上皮,Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Kirin Thundertail,幻獣の雷尾,Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.,,,,,
+Kirin Azure Horn,幻獣の蒼角,Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.,,,,,
+Zorah Magdaros Heat Scale,熔山龍の熱鱗,Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.,,,,,
+Zorah Magdaros Carapace,熔山龍の岩殻,"Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",,,,,
+Zorah Magdaros Ridge,熔山龍の背甲,"Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",,,,,
+Zorah Magdaros Pleura,熔山龍の胸殻,"Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",,,,,
+Zorah Magdaros Magma,熔山龍のマグマ,Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.,,,,,
+Zorah Magdaros Gem,熔山龍の宝玉,A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.,,,,,
+Dodogama Scale+,岩賊竜の上鱗,Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Dodogama Hide+,岩賊竜の上皮,"Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",,,,,
+Dodogama Jaw,岩賊竜の顎,Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.,,,,,
+Dodogama Talon,岩賊竜の尖爪,"Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",,,,,
+Dodogama Tail,岩賊竜の尻尾,"Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",,,,,
+Lavasioth Scale+,溶岩竜の上鱗,Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Lavasioth Carapace,溶岩竜の堅殻,"Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Lavasioth Fang+,溶岩竜の鋭牙,"Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Lavasioth Fin+,溶岩竜の上ヒレ,Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.,,,,,
+Uragaan Scale+,爆鎚竜の上鱗,Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Uragaan Carapace,爆鎚竜の堅殻,"Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Uragaan Jaw,爆鎚竜の顎,"Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",,,,,
+Uragaan Scute,爆鎚竜の耐熱殻,"Rare Uragaan material. Obtained by carving its severed tail. Highly heat resistant, used to craft gear.",,,,,
+Uragaan Marrow,爆鎚竜の延髄,"Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,,,,
+Uragaan Ruby,爆鎚竜の紅玉,A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.,,,,,
+Lava Nugget,溶岩塊,"A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together.",,,,,
+Bazelgeuse Scale+,爆鱗竜の上鱗,Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Bazelgeuse Carapace,爆鱗竜の堅殻,"Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Bazelgeuse Tail,爆鱗竜の尻尾,"Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Bazelgeuse Fuse,爆鱗竜の爆腺,Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.,,,,,
+Bazelgeuse Talon,爆鱗竜の尖爪,Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.,,,,,
+Bazelgeuse Wing,爆鱗竜の翼,"Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",,,,,
+Bazelgeuse Gem,爆鱗竜の宝玉,A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.,,,,,
+Deviljho Scale,,Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.,,0,0,0,0
+Deviljho Hide,,"Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",,0,0,0,0
+Deviljho Tallfang,,"Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",,0,0,0,0
+Deviljho Talon,,Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.,,0,0,0,0
+Deviljho Scalp,,"Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",,0,0,0,0
+Deviljho Tail,,"Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",,0,0,0,0
+Deviljho Saliva,,Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.,,0,0,0,0
+Deviljho Gem,,A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.,,0,0,0,0
+Immortal Dragonscale,不滅の龍鱗,Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Nergigante Carapace,滅尽龍の堅殻,"Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Nergigante Tail,滅尽龍の尻尾,"Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Nergigante Horn+,滅尽龍の大角,"Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",,,,,
+Nergigante Talon,滅尽龍の尖爪,"Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",,,,,
+Nergigante Regrowth Plate,滅尽龍の再生殻,"Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",,,,,
+Nergigante Gem,滅尽龍の宝玉,A rare gem said to have formed within Nergigante tissue. Holds untold potential.,,,,,
+Deceased Scale,死屍の龍鱗,Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Vaal Hazak Carapace,屍套龍の堅殻,"Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Vaal Hazak Membrane,屍套龍の被膜,Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.,,,,,
+Vaal Hazak Tail,屍套龍の尻尾,"Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Vaal Hazak Fang+,屍套龍の鋭牙,"Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",,,,,
+Vaal Hazak Talon,屍套龍の尖爪,"Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,,,,
+Vaal Hazak Wing,屍套龍の翼,"Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",,,,,
+Vaal Hazak Gem,屍套龍の宝玉,A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.,,,,,
+Teostra Carapace,炎王龍の堅殻,"Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Teostra Mane,炎王龍のたてがみ,"Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",,,,,
+Teostra Tail,炎王龍の尻尾,"Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Teostra Horn+,炎王龍の尖角,"Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",,,,,
+Fire Dragon Scale+,獄炎の龍鱗,Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Teostra Claw+,炎龍の尖爪,"Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",,,,,
+Teostra Webbing,炎龍の翼,"Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",,,,,
+Teostra Powder,炎龍の塵粉,"Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",,,,,
+Teostra Gem,炎龍の宝玉,A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.,,,,,
+Daora Carapace,鋼龍の堅殻,"Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",,,,,
+Daora Dragon Scale+,鋼の上龍鱗,Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.,,,,,
+Daora Webbing,鋼龍の翼,"Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",,,,,
+Daora Horn+,鋼龍の尖角,"Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",,,,,
+Daora Tail,鋼龍の尻尾,"Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",,,,,
+Daora Claw+,鋼龍の尖爪,Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.,,,,,
+Daora Gem,鋼龍の宝玉,A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.,,,,,
+Xeno'jiiva Soulscale,冥灯龍の幽鱗,Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.,,,,,
+Xeno'jiiva Shell,冥灯龍の白殻,"A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",,,,,
+Xeno'jiiva Veil,冥灯龍の幽幕,A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.,,,,,
+Xeno'jiiva Tail,冥灯龍の尻尾,"A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",,,,,
+Xeno'jiiva Horn,冥灯龍の幽角,"A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",,,,,
+Xeno'jiiva Claw,冥灯龍の幽爪,"A rare Xeno'jiiva claw, said to cleave soul from flesh.",,,,,
+Xeno'jiiva Wing,冥灯龍の幽翼,A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.,,,,,
+Xeno'jiiva Gem,冥灯龍の幽玉,A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.,,,,,
+Tailraider Voucher,オトモダチケット,Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!,,,,,
+Gajalaka Sketch,,Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!,,,,,
+Black Bandage,,Cloth made from the glossy black hide of a monster. Not obtainable by normal means.,,,,,
+Black Crystal Ticket,,A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.,,,,,
+Wiggler Ticket,,A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.,,,,,
+Watcher Lens,,Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.,,,,,
+Nora Brave Trophy,,Proof that you have completed the Proving. Grants you the right to craft special equipment.,,,,,
+SFV Ticket,SFVチケット,A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?,,,,,
+Azure Star Shard,,"Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",,,,,
+Mysterious Feystone,,A jewel that conceals faint traces of power within it. (Appraisal Item),,,,,
+Glowing Feystone,,A jewel that conceals an unknown power within it. (Appraisal Item),,,,,
+Worn Feystone,,A jewel that conceals considerable power within it. (Appraisal Item),,,,,
+Warped Feystone,,A jewel that conceals a mystical power within it. (Appraisal Item),,,,,
+Sullied Streamstone,,"Though dirty, this stone pulses with undeniable power. (Appraisal Item)",,,,,
+Shining Streamstone,,A stone that shines with the brilliance of endless possibility. (Appraisal Item),,,,,
+Streamstone Shard,,"A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",,,,,
+Streamstone,,"A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",,,,,
+Gleaming Streamstone,,A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.,,,,,
+Warrior's Streamstone: Sword,,A material used by champions of old. Used to bring out the hidden power in long swords and great swords.,,,,,
+Warrior's Streamstone: Blade,,A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.,,,,,
+Warrior's Streamstone: Hammer,,A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.,,,,,
+Warrior's Streamstone: Lance,,A material used by champions of old. Used to bring out the hidden power in lances and gunlances.,,,,,
+Warrior's Streamstone: Axe,,A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.,,,,,
+Warrior's Streamstone: Shaft,,A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.,,,,,
+Warrior's Streamstone: Ranged,,A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.,,,,,
+Hero's Streamstone: Sword,英雄の龍脈石・剣,A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.,,,,,
+Hero's Streamstone: Blade,英雄の龍脈石・刃,A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.,,,,,
+Hero's Streamstone: Hammer,英雄の龍脈石・鎚,A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.,,,,,
+Hero's Streamstone: Lance,英雄の龍脈石・槍,A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.,,,,,
+Hero's Streamstone: Axe,英雄の龍脈石・斧,A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.,,,,,
+Hero's Streamstone: Shaft,英雄の龍脈石・柄,A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.,,,,,
+Hero's Streamstone: Ranged,英雄の龍脈石・弩,A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.,,,,,
+Voucher,,Redeem this for a special meal with stronger effects than usual.,,,,,
+First Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",,,,,
+Deluxe First Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",,,,,
+Steel Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",,,,,
+Silver Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",,,,,
+Gold Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",,,,,
+Commendation,勇気の証,A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!,,,,,
+High Commendation,勇気の証G,A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!,,,,,
+Research Commission Ticket,調査団チケット,A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!,,,,,
+Pukei Coin,プケプケコイン,A coin given to those who have bested a Pukei-Pukei in the Arena.,,,,,
+Kulu Coin,クルルコイン,A coin given to those who have bested a Kulu-Ya-Ku in the Arena.,,,,,
+Rathian Coin,レイアコイン,A coin given to those who have bested a Rathian in the Arena.,,,,,
+Tzitzi Coin,ツィツィコイン,A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.,,,,,
+Barroth Coin,ボロスコイン,A coin given to those who have bested a Barroth in the Arena.,,,,,
+Gama Coin,ガマルコイン,A coin given to those who have bested a Dodogama in the Arena.,,,,,
+Rathalos Coin,レウスコイン,A coin given to those who have bested a Rathalos in the Arena.,,,,,
+Brute Coin,獣竜コイン,A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.,,,,,
+Flying Coin,飛竜コイン,A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.,,,,,
+Pinnacle Coin,闘技王のコイン,A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.,,,,,
+Hunter King Coin,狩猟王のコイン,A silver coin given to true hunters. It shines with all the glory of the Hunter King.,,,,,
+Ace Hunter Coin,撃龍王のコイン,A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.,,,,,
+Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",,,,,
+Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",,,,,
+Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",,,,,
+Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",,,,,
+Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item),,,,,
+Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item),,,,,
+Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item),,,,,
+Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item),,,,,
+Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",,,,,
+Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",,,,,
+Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,,,,
+Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,,,,
+Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,,,,
+Golden Scale,,The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item),,,,,
+Golden Scale+,,The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item),,,,,
+Platinum Scale,,The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item),,,,,
+Platinum Scale+,,The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item),,,,,
+Gilded Scale,,The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item),,,,,
+Gilded Scale+,,The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item),,,,,
+Wyvern Tear,竜のナミダ,,,,,,
+Large Wyvern Tear,竜の大粒ナミダ,,,,,,
+Dragon Treasure,龍秘宝,,,,,,
+Kulu-Ya-Ku Ticket,,,,,,,
+Spring Blossom Ticket,,,,,,,
+Master Craftsman's Blueprint,,,,,,,
+Nova Brave Trophy,,,,,,,
+Spring Insect Field Guide,,,,,,,

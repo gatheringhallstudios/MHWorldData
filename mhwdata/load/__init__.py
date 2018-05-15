@@ -15,8 +15,9 @@ reader = DataReader(
     data_path=join(dirname(abspath(__file__)), '../../source_data')
 )
 
+item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
+
 location_map = reader.load_base_json('locations/location_base.json')
-item_map = reader.load_base_json("items/item_base.json")
 skill_map = reader.load_base_json("skills/skill_base.json")
 charm_map = reader.load_base_json('charms/charm_base.json')
 
