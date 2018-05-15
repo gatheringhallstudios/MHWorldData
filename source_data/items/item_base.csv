@@ -30,18 +30,18 @@ Lifepowder,生命の粉塵,,,,,,
 Herbal Powder,,,,,,,
 Demon Powder,,,,,,,
 Hardshell Powder,,A mysterious powder that produces a cloud around the area that temporarily strengthens defense.,,4,,315,3
-Honey,,Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.,,2,,45,10
-Herb,,A primary ingredient in potions.,,1,,2,10
+Honey,ハチミツ ,Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.,,2,,45,10
+Herb,薬草,A primary ingredient in potions.,,1,,2,10
 Antidote Herb,,A primary ingredient in antidotes.,,1,,2,10
 Fire Herb,,"A wondrous, flammable plant. Useful for crafting explosives.",,2,,4,20
 Flowfern,,This plant's leaves store a great amount of water. A component for making Water Ammo.,,1,,4,20
 Snow Herb,,A plant that radiates ice-cold air. Use in combinations to create freeze ammo.,,2,,6,20
 Sleep Herb,,A plant containing sleeping agents. Used to craft tranquilizers.,,1,,5,10
-Ivy,,A lightweight and extremely strong plant. Used to make nets for pitfall traps.,,1,,8,10
+Ivy,ツタの葉,A lightweight and extremely strong plant. Used to make nets for pitfall traps.,,1,,8,10
 Smokenut,,A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.,,1,,4,10
 Dragonfell Berry,,"A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",,4,,78,10
 Blue Mushroom,アオキノコ,A mushroom infused with power-enhancing effects. Used in restorative items.,,2,,2,10
-Mandragora,,A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.,,3,,40,10
+Mandragora,マンドラゴラ,A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.,,3,,40,10
 Nitroshroom,,A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.,,2,,6,20
 Devil's Blight,,A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.,,2,,60,10
 Parashroom,,A mushroom that induces paralysis. Required to craft Tranq Bombs.,,3,,15,10
@@ -77,7 +77,7 @@ Mega Bounce Bomb,,,,,,,
 Large Barrel,,"A large, empty barrel. Combine with gunpowser to make it into a bomb.",,2,,21,5
 Large Barrel Bomb,,,,,,,
 Mega Barrel Bomb,,An upgraded large barrel bomb. Effective against large monsters.,,4,,80,2
-Spider Web,,A very sticky web. Used to craft pitfall traps.,,1,,6,10
+Spider Web,クモの巣,A very sticky web. Used to craft pitfall traps.,,1,,6,10
 Net,,A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.,,2,,54,10
 Trap Tool,,A must-have item for putting together pitfall traps and other kinds of traps.,,3,,20,2
 Pitfall Trap,,A trap for catching certain large monsters. It is tripped by a heavy weight.,,3,,200,1
