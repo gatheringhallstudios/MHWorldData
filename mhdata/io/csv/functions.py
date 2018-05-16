@@ -32,4 +32,13 @@ def read_csv(location):
     "Reads a csv file as an object list without additional processing"
     with open(location, encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        return list(reader)
+        items = list(reader)
+
+        # CSV does not distinguish between empty string and null
+        # Set all empties to null
+        for item in items:
+            for key, value in item.items():
+                if value == '':
+                    item[key] = None
+                    
+        return items
