@@ -30,9 +30,9 @@ Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.s
 You can run the tests by executing `pipenv run pytest tests`.
 
 ## Data Sources
-The data collected by this project is an accumulation of various sources, including the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and multiple Japanese wikis. Only data that came from the game itself and official booklets are collected. Handwritten tips and tricks do not come from the game and are currently not accepted in the repository to avoid copyright violations.
+The data collected by this project is an accumulation of various sources, including the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and multiple Japanese wikis. Only data that came from the game itself and official booklets are collected. Handwritten tips and tricks do not come from the game and are not accepted in the repository.
 
-If any data added here is your copyright, create an issue and I'll make sure to remove it.
+If anything added here is yours, create an issue and I'll make sure to remove it.
 
 ## License
 The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data itself pertains to Monster Hunter World, which is owned by Capcom. You are free to use it, but I'd really appreciate it if you let me know what you're working on, and would be even more stoked if you let other people know where you got the data from in a note somewhere (although its not required).
