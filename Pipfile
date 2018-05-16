@@ -11,6 +11,8 @@ sqlalchemy = "*"
 rope = "*"
 pytest = "*"
 click = "*"
+pylint = "*"
+marshmallow = "*"
 
 
 [dev-packages]

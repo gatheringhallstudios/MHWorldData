@@ -2,9 +2,14 @@ import os.path
 from os.path import abspath, join, dirname
 from types import SimpleNamespace
 
-from .cfg import *
 
-from mhdata.io import DataReader, DataStitcher
+from mhdata.io import DataMap, DataReader, DataStitcher
+
+# NOTE: Python doesn't seem to have a way to import siblings under a name
+# Absolute import fails if you are importing via nested package
+# If there is a way to access as cfg.* and schema.* I'm all ears.
+from .cfg import *
+from .schema import *
 
 reader = DataReader(
     required_languages=required_languages,
@@ -12,10 +17,25 @@ reader = DataReader(
     data_path=join(dirname(abspath(__file__)), '../../source_data')
 )
 
+def transform_dmap(dmap: DataMap, obj_schema):
+    """Returns a new datamap, 
+    where the items in the original have run through the marshmallow schema."""
+    results = DataMap()
+    for entry_id, entry in dmap.items():
+        data = entry.to_dict()
+        (converted, errors) = obj_schema.load(data, many=False) # converted
+
+        if errors:
+            raise Exception(str(errors))
+
+        results.add_entry(entry_id, converted)
+    return results
+
 def load_data():
     result = SimpleNamespace()
 
-    result.item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
+    item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
+    result.item_map = transform_dmap(item_map, ItemSchema())
 
     result.location_map = reader.load_base_json('locations/location_base.json')
     result.skill_map = reader.load_base_json("skills/skill_base.json")
