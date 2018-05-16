@@ -3,16 +3,19 @@ import itertools
 from mhdata.io import DataMap
 from mhdata.util import ensure_warn
 
-# todo: inject data instead once we figure out how we're gonna pass it around
-from mhdata.load import *
+import mhdata.load.cfg as cfg
 
-def validate():
+supported_languages = cfg.supported_languages
+all_languages = cfg.all_languages
+incomplete_languages = cfg.incomplete_languages
+supported_ranks = cfg.supported_ranks
+
+def validate(mhdata):
     "Perform all validations, print out the errors, and return if it succeeded or not"
     errors = []
-    errors.extend(validate_monster_props())
-    errors.extend(validate_monster_weaknesses())
-    errors.extend(validate_monster_rewards())
-    errors.extend(validate_armor())
+    errors.extend(validate_monsters(mhdata))
+    errors.extend(validate_monster_rewards(mhdata))
+    errors.extend(validate_armor(mhdata))
 
     if errors:
         for error in errors:
@@ -21,18 +24,15 @@ def validate():
 
     return True
 
-def validate_monster_props():
+def validate_monsters(mhdata):
     errors = []
-    for entry in monster_map.values():
+
+    # Check that all monsters have hitzones
+    for entry in mhdata.monster_map.values():
         ensure_warn('hitzones' in entry, f"Monster {entry.name('en')} missing hitzones")
     
-    return errors
-
-def validate_monster_weaknesses():
-    "Checks for valid data intelligence. The only fatal is a missing normal state"
-    errors = []
-    
-    for entry in monster_map.values():
+    # Check that large monsters have weakness and normal is included
+    for entry in mhdata.monster_map.values():
         if entry['size'] == 'small':
             continue
 
@@ -47,7 +47,7 @@ def validate_monster_weaknesses():
 
     return errors
 
-def validate_monster_rewards():
+def validate_monster_rewards(mhdata):
     """Validates monster rewards for sane values. 
     Certain fields (like carve) sum to 100, 
     Others (like quest rewards) must be at least 100%"""
@@ -60,7 +60,7 @@ def validate_monster_rewards():
 
     errors = set()
     
-    for monster_id, entry in monster_map.items():
+    for monster_id, entry in mhdata.monster_map.items():
         if 'rewards' not in entry:
             continue
 
@@ -75,7 +75,7 @@ def validate_monster_rewards():
             rank = reward['rank']
 
             # ensure condition exists
-            if condition not in monster_reward_conditions_map.names('en'):
+            if condition not in mhdata.monster_reward_conditions_map.names('en'):
                 errors.add(f"Invalid condition {condition} in monster {monster_name}")
                 valid = False
 
@@ -105,5 +105,5 @@ def validate_monster_rewards():
 
     return errors
 
-def validate_armor():
+def validate_armor(mhdata):
     return []

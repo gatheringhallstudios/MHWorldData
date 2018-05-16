@@ -4,13 +4,15 @@ import mhdata.sql as db
 from mhdata.io import DataMap
 from mhdata.util import ensure, ensure_warn, get_duplicates
 
-# todo: refactor the individual build steps to accept the dependencies instead of * import
-# I haven't refactored yet because I'm thinking about splitting this file up further in the future
-from mhdata.load import *
+import mhdata.load.cfg as cfg
+
+supported_languages = cfg.supported_languages
+all_languages = cfg.all_languages
+incomplete_languages = cfg.incomplete_languages
 
 from .objectindex import ObjectIndex
 
-def build_sql_database(output_filename):
+def build_sql_database(output_filename, mhdata):
     "Builds a SQLite database and outputs to output_filename"
     sessionbuilder = db.recreate_database(output_filename)
 
@@ -25,20 +27,20 @@ def build_sql_database(output_filename):
 
         # Build the individual components
         # These functions are defined lower down in the file
-        build_items(session)
-        build_locations(session)
-        build_monsters(session)
-        build_skills(session)
-        build_armor(session)
-        build_weapons(session)
-        build_decorations(session)
-        build_charms(session)
+        build_items(session, mhdata)
+        build_locations(session, mhdata)
+        build_monsters(session, mhdata)
+        build_skills(session, mhdata)
+        build_armor(session, mhdata)
+        build_weapons(session, mhdata)
+        build_decorations(session, mhdata)
+        build_charms(session, mhdata)
         
     print("Finished build")
 
 
-def build_items(session : sqlalchemy.orm.Session):
-    for id, entry in item_map.items():
+def build_items(session : sqlalchemy.orm.Session, mhdata):
+    for id, entry in mhdata.item_map.items():
         item = db.Item(id=id)
         item.rarity = entry['rarity'] or 0
         item.buy_price = entry['buy_price'] or 0
@@ -56,8 +58,8 @@ def build_items(session : sqlalchemy.orm.Session):
     
     print("Built Items")
 
-def build_locations(session : sqlalchemy.orm.Session):
-    for location_id, entry in location_map.items():
+def build_locations(session : sqlalchemy.orm.Session, mhdata):
+    for location_id, entry in mhdata.location_map.items():
         for language in supported_languages:
             session.add(db.Location(
                 id=location_id,
@@ -65,7 +67,12 @@ def build_locations(session : sqlalchemy.orm.Session):
                 name=entry.name(language)
             ))
 
-def build_monsters(session : sqlalchemy.orm.Session):
+def build_monsters(session : sqlalchemy.orm.Session, mhdata):
+    item_map = mhdata.item_map
+    location_map = mhdata.location_map
+    monster_map = mhdata.monster_map
+    monster_reward_conditions_map = mhdata.monster_reward_conditions_map
+
     # Save conditions first
     for condition_id, entry in monster_reward_conditions_map.items():
         for language in supported_languages:
@@ -183,7 +190,9 @@ def build_monsters(session : sqlalchemy.orm.Session):
 
     print("Built Monsters")
 
-def build_skills(session : sqlalchemy.orm.Session):
+def build_skills(session : sqlalchemy.orm.Session, mhdata):
+    skill_map = mhdata.skill_map
+
     for id, entry in skill_map.items():
         skilltree = db.SkillTree(id=id)
 
@@ -205,7 +214,12 @@ def build_skills(session : sqlalchemy.orm.Session):
     
     print("Built Skills")
 
-def build_armor(session : sqlalchemy.orm.Session):
+def build_armor(session : sqlalchemy.orm.Session, mhdata):
+    item_map = mhdata.item_map
+    skill_map = mhdata.skill_map
+    armorset_map = mhdata.armorset_map
+    armor_map = mhdata.armor_map
+
     # Write entries for armor sets  first
     for set_id, entry in armorset_map.items():
         armor_set = db.ArmorSet(id=set_id) 
@@ -270,7 +284,11 @@ def build_armor(session : sqlalchemy.orm.Session):
 
     print("Built Armor")
 
-def build_weapons(session : sqlalchemy.orm.Session):
+def build_weapons(session : sqlalchemy.orm.Session, mhdata):
+    item_map = mhdata.item_map
+    weapon_data = mhdata.weapon_data
+    weapon_map = mhdata.weapon_map
+
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
     all_final = set(weapon_data.keys())
@@ -336,8 +354,11 @@ def build_weapons(session : sqlalchemy.orm.Session):
 
     print("Built Weapons")
 
-def build_decorations(session : sqlalchemy.orm.Session):
+def build_decorations(session : sqlalchemy.orm.Session, mhdata):
     "Performs the build process for decorations. Must be done after skills"
+
+    skill_map = mhdata.skill_map
+    decoration_map = mhdata.decoration_map
 
     for decoration_id, entry in decoration_map.items():
         skill_id = skill_map.id_of('en', entry['skill_en'])
@@ -367,7 +388,11 @@ def build_decorations(session : sqlalchemy.orm.Session):
 
     print("Built Decorations")
 
-def build_charms(session : sqlalchemy.orm.Session):
+def build_charms(session : sqlalchemy.orm.Session, mhdata):
+    item_map = mhdata.item_map
+    skill_map = mhdata.skill_map
+    charm_map = mhdata.charm_map
+
     for charm_id, entry in charm_map.items():
         charm = db.Charm(id=charm_id)
 
