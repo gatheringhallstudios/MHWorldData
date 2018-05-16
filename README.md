@@ -9,7 +9,7 @@ This project exists as a free and open collection of Monster Hunter World data. 
 We use the data generated here for the [MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) Android app, which is also open source. 
 
 ## Data Structure
-The data files in /data are used to build the final SQL file. If you want to contribute data, this is where you'd do it. The project is in the middle of a conversion from JSON to CSV, so some files are still JSON.
+The data files in /source_data are used to build the final SQL file. If you want to contribute data, this is where you'd do it. The project is in the middle of a conversion from JSON to CSV, so some files are still JSON.
 
 To edit the CSV files, I suggest using an office program like Excel or Libreoffice. Make sure to use UTF8 text encoding and comma separators. You can also import it to google drive.
 
