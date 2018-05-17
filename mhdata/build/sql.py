@@ -66,6 +66,8 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
                 lang_id=language,
                 name=entry.name(language)
             ))
+            
+    print("Built locations")
 
 def build_monsters(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map

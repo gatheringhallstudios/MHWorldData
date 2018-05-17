@@ -37,7 +37,12 @@ def load_data():
     item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
     result.item_map = transform_dmap(item_map, ItemSchema())
 
-    result.location_map = reader.load_base_json('locations/location_base.json')
+    location_base = reader.load_base_csv('locations/location_base.csv')
+    location_map = (DataStitcher(reader, location_base.copy(), dir="locations/")
+                    .add_csv("location_items.csv", key="items")
+                    .get())
+    result.location_map = transform_dmap(location_map, LocationSchema())
+
     result.skill_map = reader.load_base_json("skills/skill_base.json")
     result.charm_map = reader.load_base_json('charms/charm_base.json')
 
