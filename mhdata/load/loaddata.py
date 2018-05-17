@@ -37,8 +37,8 @@ def load_data():
     item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
     result.item_map = transform_dmap(item_map, ItemSchema())
 
-    location_base = reader.load_base_csv('locations/location_base.csv')
-    location_map = (DataStitcher(reader, location_base.copy(), dir="locations/")
+    location_map = (DataStitcher(reader, dir="locations/")
+                    .base_csv('location_base.csv')
                     .add_csv("location_items.csv", key="items")
                     .get())
     result.location_map = transform_dmap(location_map, LocationSchema())
@@ -48,8 +48,8 @@ def load_data():
 
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 
-    monster_base = reader.load_base_csv("monsters/monster_base.csv", groups=['description'])
-    result.monster_map = (DataStitcher(reader, monster_base.copy(), dir="monsters/")
+    result.monster_map = (DataStitcher(reader, dir="monsters/")
+                    .base_csv("monster_base.csv", groups=['description'])
                     .add_json("monster_weaknesses.json", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
@@ -57,9 +57,9 @@ def load_data():
                     .add_csv("monster_rewards.csv", key="rewards")
                     .get())
 
-    armor_base = reader.load_base_json("armors/armor_base.json")
-    result.armor_map = (DataStitcher(reader, armor_base.copy())
-                    .add_json("armors/armor_data.json")
+    result.armor_map = (DataStitcher(reader, dir="armors/")
+                    .base_json("armor_base.json")
+                    .add_json("armor_data.json")
                     .get())
 
     result.armorset_map = reader.load_base_json("armors/armorset_base.json")
@@ -68,9 +68,9 @@ def load_data():
     result.weapon_map = reader.load_base_json("weapons/weapon_base.json")
     result.weapon_data = reader.load_split_data_map(result.weapon_map, "weapons/weapon_data")
 
-    decoration_base = reader.load_base_json("decorations/decoration_base.json")
-    result.decoration_map = (DataStitcher(reader, decoration_base.copy())
-                        .add_json("decorations/decoration_chances.json", key="chances")
-                        .get())
+    result.decoration_map = (DataStitcher(reader, dir="decorations/")
+                    .base_json("decoration_base.json")
+                    .add_json("decoration_chances.json", key="chances")
+                    .get())
 
     return result

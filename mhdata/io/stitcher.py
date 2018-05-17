@@ -16,9 +16,8 @@ class DataStitcher:
                 to join them together as defense: { base: val, max: val}
     """
 
-    def __init__(self, reader: DataReader, data_map: DataMap, *, join_lang='en', dir=''):
+    def __init__(self, reader: DataReader, *, join_lang='en', dir=''):
         self.reader = reader
-        self.data_map = data_map
         self.join_lang = join_lang
         self.dir = dir
 
@@ -27,6 +26,24 @@ class DataStitcher:
         if self.dir:
             return os.path.join(self.dir, filename)
         return filename
+
+    @property
+    def data_map(self):
+        if not self._data_map:
+            raise Exception("Data Map uninitialize, use a load datamap function first")
+        return self._data_map
+
+    def base_csv(self, data_file, *, groups=[]):
+        """Sets the base map from a CSV file, and return self"""
+        data_file = self._get_filename(data_file)
+        self._data_map = self.reader.load_base_csv(data_file, groups=groups)
+        return self
+
+    def base_json(self, data_file):
+        # NOTE: this will be removed in a later version
+        data_file = self._get_filename(data_file)
+        self._data_map = self.reader.load_base_json(data_file)
+        return self
 
     def add_json(self, data_file, *, key=None):
         """
