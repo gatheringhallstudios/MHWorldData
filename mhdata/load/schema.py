@@ -23,7 +23,7 @@ class ItemSchema(Schema):
 
 class LocationSchema(Schema):
     name = fields.Dict()
-    items = fields.Nested('LocationItemEntry', many=True)
+    items = fields.Nested('LocationItemEntry', many=True, missing=[])
 
 class LocationItemEntry(Schema):
     location_en = fields.Dict()

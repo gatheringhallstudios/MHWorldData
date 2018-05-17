@@ -19,6 +19,19 @@ class Location(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
+class LocationItem(Base):
+    __tablename__ = 'location_item'
+
+    # note: it is possible for there to be multiple entries of the same thing.
+    # therefore, this join-table has no "real id" and uses a surrogate instead
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    location_id = Column(Integer, ForeignKey("location_text.id"))
+    rank = Column(Text)
+    item_id = Column(Integer, ForeignKey('item.id'), index=True)
+    stack = Column(Integer)
+    percentage = Column(Integer)
+
 class Monster(Base):
     __tablename__ = 'monster'
 
@@ -126,7 +139,6 @@ class MonsterReward(Base):
  
     # note: it is possible for there to be multiple entries of the same thing.
     # therefore, this join-table has no "real id" and uses a surrogate instead
-
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     monster_id = Column(Integer, ForeignKey('monster.id'), index=True)
@@ -135,7 +147,7 @@ class MonsterReward(Base):
     rank = Column(Text)
     item_id = Column(Integer, ForeignKey('item.id'), index=True)
     
-    stack_size = Column(Integer)
+    stack = Column(Integer)
     percentage = Column(Integer)
     
     condition_translations = relationship("MonsterRewardConditionText", uselist=True)
@@ -174,8 +186,8 @@ class Item(Base):
     __tablename__ = "item"
 
     id = Column(Integer, primary_key=True)
+    category = Column(Text)
     rarity = Column(Integer)
-
     buy_price = Column(Integer)
     sell_price = Column(Integer)
     carry_limit = Column(Integer)

@@ -42,6 +42,7 @@ def build_sql_database(output_filename, mhdata):
 def build_items(session : sqlalchemy.orm.Session, mhdata):
     for id, entry in mhdata.item_map.items():
         item = db.Item(id=id)
+        item.category = entry['category']
         item.rarity = entry['rarity'] or 0
         item.buy_price = entry['buy_price'] or 0
         item.sell_price = entry['sell_price'] or 0
@@ -60,11 +61,27 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
 
 def build_locations(session : sqlalchemy.orm.Session, mhdata):
     for location_id, entry in mhdata.location_map.items():
+        location_name = entry['name']['en']
+
         for language in supported_languages:
             session.add(db.Location(
                 id=location_id,
                 lang_id=language,
                 name=entry.name(language)
+            ))
+
+        for item_entry in entry['items']:
+            item_lang = item_entry['item_lang']
+            item_name = item_entry['item']
+            item_id = mhdata.item_map.id_of(item_lang, item_name)
+            ensure(item_id, f"item {item_name} in monster {location_name} does not exist")
+
+            session.add(db.LocationItem(
+                location_id=location_id,
+                rank=item_entry['rank'],
+                item_id=item_id,
+                stack=item_entry['stack'],
+                percentage=item_entry['percentage'],
             ))
             
     print("Built locations")
@@ -171,10 +188,10 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 
             monster.rewards.append(db.MonsterReward(
                 condition_id=condition_id,
-                rank = rank,
-                item_id = item_id,
-                stack_size = reward['stack'],
-                percentage = reward['percentage']
+                rank=rank,
+                item_id=item_id,
+                stack=reward['stack'],
+                percentage=reward['percentage']
             ))
 
         # Save Habitats
