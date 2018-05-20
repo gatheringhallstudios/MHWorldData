@@ -112,7 +112,7 @@ class MonsterHitzoneText(Base):
     __tablename__ = 'monster_hitzone_text'
     id = Column(Integer, ForeignKey('monster_hitzone.id'), primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
-    hitzone_name = Column(Text)
+    name = Column(Text)
 
 class MonsterBreak(Base):
     __tablename__ = 'monster_break'

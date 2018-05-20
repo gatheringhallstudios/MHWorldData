@@ -147,7 +147,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
             for lang, part_name in hitzone_data['hitzone'].items():
                 hitzone.translations.append(db.MonsterHitzoneText(
                     lang_id=lang,
-                    hitzone_name=part_name
+                    name=part_name
                 ))
 
             monster.hitzones.append(hitzone)
