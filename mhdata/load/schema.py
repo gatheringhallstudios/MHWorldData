@@ -33,3 +33,24 @@ class LocationItemEntry(Schema):
     item = fields.Str()
     stack = fields.Int()
     percentage = fields.Int()
+
+class ArmorSchema(Schema):
+    name = fields.Dict()
+    rarity = fields.Int()
+    type = ValidatedStr('head', 'chest', 'arms', 'waist', 'legs')
+    gender = ValidatedStr('male', 'female', 'both')
+    slot_1 = fields.Int()
+    slot_2 = fields.Int()
+    slot_3 = fields.Int()
+    defense_base = fields.Int(validate=lambda n: n > 0)
+    defense_max = fields.Int(validate=lambda n: n > 0)
+    defense_augment_max = fields.Int(validate=lambda n: n > 0)
+    defense_fire = fields.Int()
+    defense_water = fields.Int()
+    defense_thunder = fields.Int()
+    defense_ice = fields.Int()
+    defense_dragon = fields.Int()
+
+    # the below are unvalidated, but exist so they're retained
+    skills = fields.Dict()
+    craft = fields.Dict()

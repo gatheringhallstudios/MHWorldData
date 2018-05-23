@@ -106,4 +106,28 @@ def validate_monster_rewards(mhdata):
     return errors
 
 def validate_armor(mhdata):
-    return []
+    errors = []
+
+    # Checks if any pieces of armor is listed in two different sets
+    encountered_armors = set()
+    parts = ['head', 'chest', 'arms', 'waist', 'legs']
+    for setentry in mhdata.armorset_map.values():
+        setname = setentry.name('en')
+        armor_lang = setentry['armor_lang']
+        for part in parts:
+            armor_name = setentry[part]
+            if not armor_name:
+                continue
+
+            armor_id = mhdata.armor_map.id_of(armor_lang, armor_name)
+            
+            if not armor_id:
+                errors.append(f"{setname} has invalid armor {armor_name}")
+                continue
+            if armor_id in encountered_armors:
+                errors.append(f"{setname} has duplicated armor {armor_name}")
+                continue
+
+            encountered_armors.add(armor_id)
+
+    return errors

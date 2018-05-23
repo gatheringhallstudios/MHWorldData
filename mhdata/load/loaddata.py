@@ -57,12 +57,13 @@ def load_data():
                     .add_csv("monster_rewards.csv", key="rewards")
                     .get())
 
-    result.armor_map = (DataStitcher(reader, dir="armors/")
-                    .base_json("armor_base.json")
-                    .add_json("armor_data.json")
+    armor_map = (DataStitcher(reader, dir="armors/")
+                    .base_csv("armor_base.csv")
+                    .add_json("armor_ext.json")
                     .get())
+    result.armor_map = transform_dmap(armor_map, ArmorSchema())
 
-    result.armorset_map = reader.load_base_json("armors/armorset_base.json")
+    result.armorset_map = reader.load_base_csv("armors/armorset_base.csv")
 
     # todo: stitch
     result.weapon_map = reader.load_base_json("weapons/weapon_base.json")

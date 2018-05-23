@@ -239,38 +239,54 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
     armorset_map = mhdata.armorset_map
     armor_map = mhdata.armor_map
 
-    # Write entries for armor sets  first
+    armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']
+
+    # Create reverse mapping. In SQL, armor links to armorset instead
+    armor_to_armorset = {}
+
+    # Write entries for armor sets first
     for set_id, entry in armorset_map.items():
-        armor_set = db.ArmorSet(id=set_id) 
+        armorset = db.ArmorSet(id=set_id) 
         for language in supported_languages:
-            armor_set.translations.append(db.ArmorSetText(
+            armorset.translations.append(db.ArmorSetText(
                 lang_id=language,
                 name=entry.name(language)
             ))
-        session.add(armor_set)
+        session.add(armorset)
 
+        # Populate reverse map
+        armor_lang = entry['armor_lang']
+        for part in armor_parts:
+            if not entry[part]:
+                continue
+            
+            armor_id = mhdata.armor_map.id_of(armor_lang, entry[part])
+            ensure(armor_id, f"Armor {entry[part]} in armorset does not exist")
+            armor_to_armorset[armor_id] = set_id
+
+    # Write entries for armor
     for armor_id, entry in armor_map.items():
         armor_name_en = entry.name('en')
 
         armor = db.Armor(id = armor_id)
         armor.rarity = entry['rarity']
-        armor.armor_type = entry['armor_type']
-        armor.male = entry['male']
-        armor.female = entry['female']
-        armor.slot_1 = entry['slots'][0]
-        armor.slot_2 = entry['slots'][1]
-        armor.slot_3 = entry['slots'][2]
+        armor.armor_type = entry['type']
+        armor.male = entry['gender'] in ('male', 'both')
+        armor.female = entry['gender'] in ('female', 'both')
+        armor.slot_1 = entry['slot_1']
+        armor.slot_2 = entry['slot_2']
+        armor.slot_3 = entry['slot_3']
         armor.defense_base = entry['defense_base']
         armor.defense_max = entry['defense_max']
         armor.defense_augment_max = entry['defense_augment_max']
-        armor.fire = entry['fire']
-        armor.water = entry['water']
-        armor.thunder = entry['thunder']
-        armor.ice = entry['ice']
-        armor.dragon = entry['dragon']
+        armor.fire = entry['defense_fire']
+        armor.water = entry['defense_water']
+        armor.thunder = entry['defense_thunder']
+        armor.ice = entry['defense_ice']
+        armor.dragon = entry['defense_dragon']
 
-        armorset_id = armorset_map.id_of("en", entry['set'])
-        ensure(armorset_id, f"Armorset {entry['set']} in Armor {armor_name_en} does not exist")
+        armorset_id = armor_to_armorset.get(armor_id, None)
+        ensure(armorset_id, f"Armor {armor_name_en} is not in an armor set")
         armor.armorset_id = armorset_id
 
         for language in supported_languages:
