@@ -105,7 +105,11 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
     for monster_id, entry in monster_map.items():
         monster_name = entry.name('en') # used for error display
 
-        monster = db.Monster(id=entry.id, size=entry['size'])
+        monster = db.Monster(
+            id=entry.id, 
+            size=entry['size'],
+            icon=entry['icon']
+        )
 
         # Save basic weakness summary data
         if 'weaknesses' in entry and entry['weaknesses']:

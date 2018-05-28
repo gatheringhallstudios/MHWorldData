@@ -59,6 +59,8 @@ class Monster(Base):
     alt_weakness_thunder = Column(Integer)
     alt_weakness_dragon = Column(Integer)
 
+    icon = Column(Text)
+
     translations = relationship("MonsterText")
     hitzones = relationship("MonsterHitzone")
     breaks = relationship("MonsterBreak")
@@ -191,6 +193,8 @@ class Item(Base):
     buy_price = Column(Integer)
     sell_price = Column(Integer)
     carry_limit = Column(Integer)
+
+    icon = Column(Text)
 
     translations = relationship("ItemText")
 
