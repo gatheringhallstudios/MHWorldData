@@ -14,6 +14,30 @@ def determine_fields(obj_list):
 
     return fields
 
+def validate_csv(obj_list, filename):
+    "Minor validation. Warning for any key/value without whitespace"
+    warn_keys = False
+    warn_value_rows = []
+    for idx, item in enumerate(obj_list):
+        for key in item.keys():
+            if key.startswith(" ") or key.endswith(" "):
+                warn_keys = True
+
+        for value in item.values():
+            if value is None:
+                continue
+
+            if value.startswith(" ") or value.endswith(" "):
+                warn_value_rows.append(idx)
+                break
+                
+    if warn_keys:
+        print("Warning: Some keys in CSV are not trimmed: " + filename)
+    if warn_value_rows:
+        print("Warning: Some values in CSV are not trimmed: "
+            + filename + " rows: " + ", ".join(idx))
+
+
 def save_csv(obj_list, location):
     """Saves a dict list as a  CSV, doing some last minute validations. 
     Fields are auto-determined"""
@@ -35,10 +59,12 @@ def read_csv(location):
         items = list(reader)
 
         # CSV does not distinguish between empty string and null
-        # Set all empties to null
+        # Set empties to null
         for item in items:
             for key, value in item.items():
                 if value == '':
                     item[key] = None
-                    
+
+        validate_csv(items, location)
+            
         return items
