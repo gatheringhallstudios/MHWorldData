@@ -230,7 +230,8 @@ class ArmorSetBonusSkill(Base):
     __tablename__ = "armorset_bonus_skill"
     id = Column(Integer, primary_key=True)
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
-    requirement = Column(Integer)
+    points = Column(Integer)
+    threshold = Column(Integer)
 
 class Armor(Base):
     __tablename__ = "armor"
@@ -239,6 +240,7 @@ class Armor(Base):
     rarity = Column(Integer)
     armor_type = Column(Text)
     armorset_id = Column(Integer, ForeignKey("armorset.id"))
+    armorset_bonus_id = Column(Integer)
 
     male = Column(Boolean)
     female = Column(Boolean)

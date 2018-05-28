@@ -241,25 +241,60 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map
     skill_map = mhdata.skill_map
     armorset_map = mhdata.armorset_map
+    armorset_bonus_map = mhdata.armorset_bonus_map
     armor_map = mhdata.armor_map
 
     armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']
 
     # Create reverse mapping. In SQL, armor links to armorset instead
     armor_to_armorset = {}
+    armorset_to_bonus = {}
 
-    # Write entries for armor sets first
+    # Write entries from armor set bonuses
+    # These are written first as they are "linked to"
+    for entry in armorset_bonus_map.values():
+        for language in supported_languages:
+            session.add(db.ArmorSetBonusText(
+                id=entry.id,
+                lang_id=language,
+                name=entry.name(language)
+            ))
+        
+        for skill_entry in entry['skills']:
+            skill_id = skill_map.id_of('en', skill_entry['skill'])
+            ensure(skill_id, f"Skill {skill_entry['skill']} in armorset bonuses doesn't exist")
+            
+            session.add(db.ArmorSetBonusSkill(
+                id=entry.id,
+                skilltree_id=skill_id,
+                points=skill_entry['points'],
+                threshold=skill_entry['threshold']
+            ))
+
+    # Write entries for armor sets
     for set_id, entry in armorset_map.items():
-        armorset = db.ArmorSet(id=set_id) 
+        armor_lang = entry['armor_lang']
+        armorset_bonus_id = None
+
+        if entry['bonus']:
+            armorset_bonus_id = armorset_bonus_map.id_of(armor_lang, entry['bonus'])
+            ensure(armorset_bonus_id, f"Armorset bonus {entry['bonus']} in armorsets doesn't exist")
+            armorset_to_bonus[set_id] = armorset_bonus_id
+
+        armorset = db.ArmorSet(
+            id=set_id,
+            armorset_bonus_id=armorset_bonus_id
+        ) 
+        
         for language in supported_languages:
             armorset.translations.append(db.ArmorSetText(
                 lang_id=language,
                 name=entry.name(language)
             ))
+
         session.add(armorset)
 
-        # Populate reverse map
-        armor_lang = entry['armor_lang']
+        # Populate reverse map (to allow armor to link to armorset)
         for part in armor_parts:
             if not entry[part]:
                 continue
@@ -291,7 +326,9 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
 
         armorset_id = armor_to_armorset.get(armor_id, None)
         ensure(armorset_id, f"Armor {armor_name_en} is not in an armor set")
+        
         armor.armorset_id = armorset_id
+        armor.armorset_bonus_id = armorset_to_bonus.get(armorset_id, None)
 
         for language in supported_languages:
             armor.translations.append(db.ArmorText(

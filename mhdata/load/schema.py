@@ -1,3 +1,7 @@
+"""
+This module contains marshmallo schema definitions for loaded files.
+"""
+
 from marshmallow import Schema, fields, ValidationError
 
 from .cfg import *
@@ -11,6 +15,7 @@ def choice_check(*items):
 
 def ValidatedStr(*items):
     return fields.Str(validate=choice_check(*items))
+
 
 class ItemSchema(Schema):
     name = fields.Dict()
@@ -26,13 +31,31 @@ class LocationSchema(Schema):
     items = fields.Nested('LocationItemEntry', many=True, missing=[])
 
 class LocationItemEntry(Schema):
-    location_en = fields.Dict()
     area = fields.Int()
     rank = ValidatedStr(*supported_ranks)
     item_lang = ValidatedStr(*supported_languages)
     item = fields.Str()
     stack = fields.Int()
     percentage = fields.Int()
+
+class ArmorSetSchema(Schema):
+    name = fields.Dict()
+    armor_lang = fields.Str()
+    head = fields.Str(allow_none=True)
+    chest = fields.Str(allow_none=True)
+    arms = fields.Str(allow_none=True)
+    waist = fields.Str(allow_none=True)
+    legs = fields.Str(allow_none=True)
+    bonus = fields.Str(allow_none=True)
+
+class ArmorSetBonus(Schema):
+    name = fields.Dict()
+    skills = fields.Nested('ArmorSetBonusSkill', many=True)
+
+class ArmorSetBonusSkill(Schema):
+    skill = fields.String()
+    points = fields.Int()
+    threshold = fields.Int()
 
 class ArmorSchema(Schema):
     name = fields.Dict()

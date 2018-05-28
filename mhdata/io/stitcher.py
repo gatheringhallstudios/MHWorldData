@@ -20,6 +20,7 @@ class DataStitcher:
         self.reader = reader
         self.join_lang = join_lang
         self.dir = dir
+        self._data_map = None
 
     def _get_filename(self, filename):
         "Gets a filename relative to the internal dir, if any."
@@ -29,7 +30,7 @@ class DataStitcher:
 
     @property
     def data_map(self):
-        if not self._data_map:
+        if self._data_map is None:
             raise Exception("Data Map uninitialize, use a load datamap function first")
         return self._data_map
 
