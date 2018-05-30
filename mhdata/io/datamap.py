@@ -106,6 +106,12 @@ class DataRow(MutableMapping):
 
 
 class DataMap(typing.Mapping[int, DataRow]):
+    """A collection of data entries key'd by an id.
+
+    Entries on this map can be retrieved using its id, or using its name in any language.
+    To iterate over entries, use the values function.
+    """
+
     def __init__(self, data: typing.Mapping[int, dict] = None):
         self._data = collections.OrderedDict()
         self._reverse_entries = {}
@@ -151,6 +157,10 @@ class DataMap(typing.Mapping[int, DataRow]):
         """"
         Adds an entry to the dict, and returns the entry.
         If this is higher than the last set id, reset the generator"""
+
+        if 'id' in entry and entry['id'] != entry_id:
+            raise ValueError("Mismatch in add_entry: entry already has an id")
+
         if isinstance(entry_id, int) and entry_id > self._last_id:
             self._id_gen = itertools.count(entry_id + 1)
             self._last_id = entry_id
@@ -158,7 +168,15 @@ class DataMap(typing.Mapping[int, DataRow]):
         return self._add_entry(entry_id, entry)
 
     def insert(self, entry: dict):
-        entry_id = next(self._id_gen)
+        """Inserts a dictionary as a new entry
+        
+        If the entry has an id field, it is used.
+        Otherwise a new id is auto-generated.
+        """
+        if 'id' in entry:
+            entry_id = entry['id']
+        else:
+            entry_id = next(self._id_gen)
         return self._add_entry(entry_id, entry)
 
     def extend(self, entries: typing.List[dict]):

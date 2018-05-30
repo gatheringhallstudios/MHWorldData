@@ -19,6 +19,18 @@ def test_add_entries_adds_length():
     map.insert(create_test_entry_en("test2"))
     assert len(map) == 2, "expected 2 entries to exist"
 
+def test_nonmatching_id_throws():
+    map = DataMap()
+    with pytest.raises(ValueError):
+        test_entry = create_test_entry_en("test1")
+        map.add_entry(1, { **test_entry, 'id': 25})
+
+def test_uses_provided_id():
+    map = DataMap()
+    map.insert({ 'id': 3, **create_test_entry_en("test1") })
+
+    assert 3 in map.keys(), "entry should have used id 3"
+
 def test_can_lookup_by_id():
     map = DataMap()
     map.add_entry(55, create_test_entry_en("test1"))
