@@ -40,8 +40,9 @@ def build_sql_database(output_filename, mhdata):
 
 
 def build_items(session : sqlalchemy.orm.Session, mhdata):
-    for id, entry in mhdata.item_map.items():
-        item = db.Item(id=id)
+    # Save basic item data first
+    for entry in mhdata.item_map.values():
+        item = db.Item(id=entry.id)
         item.category = entry['category']
         item.rarity = entry['rarity'] or 0
         item.buy_price = entry['buy_price'] or 0
@@ -56,6 +57,17 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         session.add(item)
+
+    # Now save item combination data
+    for entry in mhdata.item_combinations:
+        # should have been validated already
+        session.add(db.ItemCombination(
+            id=entry['id'],
+            result_id=mhdata.item_map.id_of('en', entry['result']),
+            first_id=mhdata.item_map.id_of('en', entry['first']),
+            second_id=mhdata.item_map.id_of('en', entry['second']),
+            quantity=entry['quantity']
+        ))
     
     print("Built Items")
 

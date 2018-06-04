@@ -14,17 +14,25 @@ def choice_check(*items):
     return validate_fn
 
 def ValidatedStr(*items):
-    return fields.Str(validate=choice_check(*items))
+    return fields.Str(allow_none=True, validate=choice_check(*items))
 
 
 class ItemSchema(Schema):
     name = fields.Dict()
     description = fields.Dict()
-    category = ValidatedStr("items", "material", "account", "ammo")
+    category = ValidatedStr("item", "material", "ammo", "misc", "hidden")
+    subcategory = ValidatedStr(None, "account", "supply")
     rarity = fields.Int(allow_none=True, default=0)
     buy_price = fields.Int(allow_none=True)
     sell_price = fields.Int(allow_none=True)
     carry_limit = fields.Int(allow_none=True)
+
+class ItemCombinationSchema(Schema):
+    id = fields.Int()
+    result = fields.Str()
+    first = fields.Str()
+    second = fields.Str(allow_none=True)
+    quantity = fields.Int()
 
 class LocationSchema(Schema):
     name = fields.Dict()

@@ -1,0 +1,99 @@
+id,result,first,second,quantity
+1,Potion,Herb,,1
+2,Mega Potion,Potion,Honey,1
+3,First-aid Med+,First-aid Med,Honey,1
+4,Antidote,Antidote Herb,,1
+5,Herbal Medicine,Antidote,Blue Mushroom,1
+6,Nutrients,Bitterbug,Blue Mushroom,1
+7,Mega Nutrients,Nutrients,Honey,1
+8,Max Potion,Mega Nutrients,Mandragora,1
+9,Catalyst,Bitterbug,Honey,1
+10,Immunizer,Catalyst,Mandragora,1
+11,Ancient Potion,Immunizer,Kelbi Horn,1
+12,Ancient Potion,Nourishing Extract,Kelbi Horn,1
+13,Lifepowder,Godbug,Blue Mushroom,1
+14,Herbal Powder,Godbug,Herbal Medicine,1
+15,Energy Drink,Nitroshroom,Honey,1
+16,Cool Drink,Chillshroom,,1
+17,Dash Juice,Catalyst,Dash Extract,1
+18,Demondrug,Catalyst,Might Seed,1
+19,Mega Demondrug,Nourishing Extract,Demondrug,1
+20,Demon Powder,Godbug,Might Seed,1
+21,Might Pill,Immunizer,Might Seed,1
+22,Armorskin,Catalyst,Adamant Seed,1
+23,Mega Armorskin,Nourishing Extract,Armorskin,1
+24,Hardshell Powder,Godbug,Adamant Seed,1
+25,Adamant Pill,Immunizer,Adamant Seed,1
+26,Farcaster,Smokenut,Exciteshroom,1
+27,Gunpowder,Fire Herb,Nitroshroom,1
+28,Barrel Bomb,Fire Herb,Small Barrel,1
+29,Bounce Bomb,Nitroshroom,Small Barrel,1
+30,Mega Bounce Bomb,Nitroshroom,Bounce Bomb,1
+31,Large Barrel Bomb,Gunpowder,Large Barrel,1
+32,Mega Barrel Bomb,Devil's Blight,Large Barrel Bomb,1
+33,Mega Barrel Bomb,Gunpowderfish Scale,Large Barrel Bomb,1
+34,Mega Barrel Bomb,Great Gunpowderfish Scale,Large Barrel,1
+35,Smoke Bomb,Smokenut,Ivy,1
+36,Poison Smoke Bomb,Smokenut,Toadstool,1
+37,Flash Pod,Flashbug,,1
+38,Screamer Pod,Screamer Sac,,1
+39,Dung Pod,Dung,,1
+40,Dung Pod,Rolled-up Dung,,1
+41,Poisoned Meat,Raw Meat,Toadstool,1
+42,Tinged Meat,Raw Meat,Parashroom,1
+43,Drugged Meat,Raw Meat,Sleep Herb,1
+44,Net,Ivy,Spider Web,1
+45,Pitfall Trap,Trap Tool,Net,1
+46,Shock Trap,Trap Tool,Thunderbug,1
+47,Tranq Bomb,Sleep Herb,Parashroom,1
+48,Tranq Ammo,Tranq Bomb,Normal Ammo 1,1
+49,Tranq Knife,Tranq Bomb,Throwing Knife,1
+50,Poison Knife,Throwing Knife,Toadstool,1
+51,Sleep Knife,Throwing Knife,Sleep Herb,1
+52,Paralysis Knife,Throwing Knife,Parashroom,1
+53,Power Coating,Empty Phial,Nitroshroom,1
+54,Poison Coating,Empty Phial,Toadstool,1
+55,Paralysis Coating,Empty Phial,Parashroom,1
+56,Sleep Coating,Empty Phial,Sleep Herb,1
+57,Blast Coating,Empty Phial,Fire Herb,1
+58,Normal Ammo 2,Normal Ammo 1,Gunpowder Level 2,4
+59,Normal Ammo 3,Normal Ammo 1,Gunpowder Level 3,4
+60,Pierce Ammo 1,Latchberry,,1
+61,Pierce Ammo 2,Pierce Ammo 1,Gunpowder Level 2,4
+62,Pierce Ammo 3,Pierce Ammo 1,Gunpowder Level 3,4
+63,Spread Ammo 1,Needleberry,,1
+64,Spread Ammo 2,Spread Ammo 1,Gunpowder Level 2,4
+65,Spread Ammo 3,Spread Ammo 1,Gunpowder Level 3,4
+66,Sticky Ammo 1,Blastnut,,1
+67,Sticky Ammo 2,Sticky Ammo 1,Gunpowder Level 2,2
+68,Sticky Ammo 3,Sticky Ammo 1,Gunpowder Level 3,2
+69,Cluster Bomb 1,Bomberry,,1
+70,Cluster Bomb 2,Cluster Bomb 1,Gunpowder Level 2,1
+71,Cluster Bomb 3,Cluster Bomb 1,Gunpowder Level 3,1
+72,Slicing Ammo,Slashberry,,1
+73,Flaming Ammo,Normal Ammo 1,Fire Herb,3
+74,Water Ammo,Normal Ammo 1,Flowfern,3
+75,Thunder Ammo,Normal Ammo 1,Thunderbug,6
+76,Freeze Ammo,Normal Ammo 1,Snow Herb,3
+77,Dragon Ammo,Normal Ammo 1,Dragonfell Berry,1
+78,Poison Ammo 1,Normal Ammo 1,Toadstool,1
+79,Poison Ammo 2,Poison Ammo 1,Catalyst,1
+80,Paralysis Ammo 1,Normal Ammo 1,Parashroom,1
+81,Paralysis Ammo 2,Paralysis Ammo 1,Catalyst,1
+82,Sleep Ammo 1,Normal Ammo 1,Sleep Herb,1
+83,Sleep Ammo 2,Sleep Ammo 1,Catalyst,1
+84,Exhaust Ammo 1,Normal Ammo 1,Exciteshroom,1
+85,Exhaust Ammo 2,Exhaust Ammo 1,Catalyst,1
+86,Recover Ammo 1,Normal Ammo 1,Potion,2
+87,Recover Ammo 2,Recover Ammo 1,Catalyst,2
+88,Demon Ammo,Normal Ammo 1,Demondrug,3
+89,Armor Ammo,Normal Ammo 1,Armorskin,3
+90,Wyvern Ammo,Dragonstrike Nut,,1
+91,Gunpowder Level 2,Flamenut,,1
+92,Gunpowder Level 2,Burst Arowana Scale,Fire Herb,20
+93,Gunpowder Level 2,Great Burst Arowana Scale,Fire Herb,40
+94,Gunpowder Level 3,Blazenut,,1
+95,Gunpowder Level 3,Bomb Arowana Scale,Fire Herb,20
+96,Gunpowder Level 3,Great Bomb Arowana Scale,Fire Herb,40
+97,Powertalon,Powercharm,Bazelgeuse Talon,1
+98,Armortalon,Armorcharm,Bazelgeuse Talon,1

@@ -7,6 +7,35 @@ from sqlalchemy.orm import relationship
 
 Base = declarative_base()
 
+class Item(Base):
+    __tablename__ = "item"
+
+    id = Column(Integer, primary_key=True)
+    category = Column(Text)
+    rarity = Column(Integer)
+    buy_price = Column(Integer)
+    sell_price = Column(Integer)
+    carry_limit = Column(Integer)
+
+    icon = Column(Text)
+
+    translations = relationship("ItemText")
+
+class ItemText(Base):
+    __tablename__ = "item_text"
+    id = Column(Integer, ForeignKey('item.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+    description = Column(Text)
+
+class ItemCombination(Base):
+    __tablename__ = "item_combination"
+    id = Column(Integer, primary_key=True)
+    result_id = Column(Integer, ForeignKey('item.id'))
+    first_id = Column(Integer, ForeignKey('item.id'))
+    second_id = Column(Integer, ForeignKey('item.id'))
+    quantity = Column(Integer)
+
 class Language(Base):
     __tablename__ = 'language'
     id = Column(Text, primary_key=True)
@@ -182,27 +211,6 @@ class Skill(Base):
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     level = Column(Integer, primary_key=True)
-    description = Column(Text)
-
-class Item(Base):
-    __tablename__ = "item"
-
-    id = Column(Integer, primary_key=True)
-    category = Column(Text)
-    rarity = Column(Integer)
-    buy_price = Column(Integer)
-    sell_price = Column(Integer)
-    carry_limit = Column(Integer)
-
-    icon = Column(Text)
-
-    translations = relationship("ItemText")
-
-class ItemText(Base):
-    __tablename__ = "item_text"
-    id = Column(Integer, ForeignKey('item.id'), primary_key=True)
-    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
-    name = Column(Text)
     description = Column(Text)
 
 class ArmorSet(Base):

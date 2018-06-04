@@ -13,6 +13,7 @@ supported_ranks = cfg.supported_ranks
 def validate(mhdata):
     "Perform all validations, print out the errors, and return if it succeeded or not"
     errors = []
+    errors.extend(validate_items(mhdata))
     errors.extend(validate_monsters(mhdata))
     errors.extend(validate_monster_rewards(mhdata))
     errors.extend(validate_armor(mhdata))
@@ -23,6 +24,21 @@ def validate(mhdata):
         return False
 
     return True
+
+
+def validate_items(mhdata):
+    errors = []
+
+    # check for existance in item combinations
+    for combo in mhdata.item_combinations:
+        items = (combo['result'], combo['first'], combo['second'])
+        items = filter(None, items)  # removes nulls
+        for item in items:
+            if item not in mhdata.item_map.names('en'):
+                errors.append(f"{item} in combinations doesn't exist")
+
+    return errors
+
 
 def validate_monsters(mhdata):
     errors = []
@@ -46,6 +62,7 @@ def validate_monsters(mhdata):
             errors.append(f"Invalid weaknesses in {name}, normal is a required state")
 
     return errors
+
 
 def validate_monster_rewards(mhdata):
     """Validates monster rewards for sane values. 

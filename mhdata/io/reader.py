@@ -30,7 +30,7 @@ class DataReader:
 
     def __init__(self, *,
             languages: typing.List,
-            required_languages=['en'],
+            required_languages=('en',),
             data_path: str):
         self.languages = languages
         self.required_languages = required_languages
@@ -59,6 +59,22 @@ class DataReader:
             "Missing language entries for " +
             ', '.join(languages_with_errors) +
             f" While loading {fname}")
+
+    def load_list_csv(self, data_file, *, schema=None):
+        """Loads a simple csv without processing. 
+        Accepts marshmallow schema to transform and validate it"""
+        data_file = self.get_data_path(data_file)
+        data = read_csv(data_file)
+
+        if schema:
+            # When version 3 is released, this api will change
+            # load will just return converted and errors will auto-raise
+            (converted, errors) = schema.load(data, many=True)
+            if errors:
+                raise Exception(str(errors))
+            data = converted
+
+        return data
 
         
     def load_base_json(self, data_file, validate=True):

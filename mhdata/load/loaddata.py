@@ -3,6 +3,7 @@ from os.path import abspath, join, dirname
 from types import SimpleNamespace
 
 from mhdata.io import DataMap, DataReader, DataStitcher
+from mhdata.io.csv import read_csv
 
 from . import cfg
 from . import schema
@@ -32,6 +33,10 @@ def load_data():
 
     item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
     result.item_map = transform_dmap(item_map, schema.ItemSchema())
+
+    result.item_combinations = reader.load_list_csv(
+        'items/item_combination_list.csv',
+        schema=schema.ItemCombinationSchema())
 
     location_map = (DataStitcher(reader, dir="locations/")
                     .base_csv('location_base.csv')
