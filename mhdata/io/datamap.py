@@ -238,6 +238,19 @@ class DataMap(typing.Mapping[int, DataRow]):
             
         return self
 
+    def pop(self, entry_id, default=None):
+        """If key is in the dictionary, remove it and return its value, else return default.
+        If default is not given and key is not in the directory, KeyError is raised.
+        """
+        try:
+            item = self[entry_id]
+            del self[entry_id]
+            return item
+        except KeyError:
+            if default is None:
+                raise
+            return default
+
     def __getitem__(self, id) -> DataRow:
         return self._data[id]
 
