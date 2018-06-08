@@ -149,7 +149,14 @@ class DataMap(typing.Mapping[int, DataRow]):
 
         new_entry = DataRow(entry_id, entry)
         for lang, name in new_entry.names():
-            self._reverse_entries[(lang, name)] = entry_id
+            if name is None: continue
+
+            key = (lang, name)
+            if key in self._reverse_entries:
+                raise ValueError(f"Duplicate name ({lang}, {name}) in DataMap")
+           
+            self._reverse_entries[key] = entry_id
+        
         self._data[entry_id] = new_entry
         return new_entry
 
