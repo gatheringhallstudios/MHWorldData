@@ -22,3 +22,6 @@ supported_languages = ['en', 'ja']
 
 "Languages that are designated as potentially incomplete"
 incomplete_languages = ['ja']
+
+"List of all possible armor parts"
+armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']

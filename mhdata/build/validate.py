@@ -128,13 +128,12 @@ def validate_armor(mhdata):
     # Checks if any pieces of armor is listed in two different sets
     encountered_armors = set()
 
-    parts = ['head', 'chest', 'arms', 'waist', 'legs']
     for setentry in mhdata.armorset_map.values():
         setname = setentry.name('en')
         armor_lang = setentry['armor_lang']
         
         # All armor pieces in the set
-        armor_names = [setentry[part] for part in parts]
+        armor_names = [setentry[part] for part in cfg.armor_parts]
         armor_names = list(filter(None, armor_names))
 
         if not armor_names:

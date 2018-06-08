@@ -256,8 +256,6 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
     armorset_bonus_map = mhdata.armorset_bonus_map
     armor_map = mhdata.armor_map
 
-    armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']
-
     # Create reverse mapping. In SQL, armor links to armorset instead
     armor_to_armorset = {}
     armorset_to_bonus = {}
@@ -307,7 +305,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         session.add(armorset)
 
         # Populate reverse map (to allow armor to link to armorset)
-        for part in armor_parts:
+        for part in cfg.armor_parts:
             if not entry[part]:
                 continue
             
