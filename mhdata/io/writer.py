@@ -16,6 +16,11 @@ from mhdata.io.csv import save_csv
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
 
+    def save_csv(self, location, rows):
+        "Saves a raw csv relative to the source data location"
+        location = self.get_data_path(location)
+        save_csv(rows, location)
+
     def save_base_map(self, location, base_map):
         "Writes a data map to a location in the data directory"
         location = self.get_data_path(location)
@@ -25,15 +30,13 @@ class DataReaderWriter(DataReader):
             json.dump(result, f, indent=4, ensure_ascii=False)
 
     def save_base_map_csv(self, location, base_map, *, groups=['name']):
-        location = self.get_data_path(location)
-
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
 
         rows = base_map.to_list()
         rows = [ungroup_fields(v, groups=groups) for v in rows]
 
-        save_csv(rows, location)
+        self.save_csv(location, rows)
 
     def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
@@ -67,13 +70,11 @@ class DataReaderWriter(DataReader):
 
         TODO: Write about nest_additional and groups
         """
-        location = self.get_data_path(location)
-        
         extracted = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
         flattened_rows = flatten(extracted, nest=['name_'+lang] + nest_additional)
         flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
-        save_csv(flattened_rows, location)
+        self.save_csv(location, flattened_rows)
 
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
         """Writes a DataMap to a folder as separated json files.

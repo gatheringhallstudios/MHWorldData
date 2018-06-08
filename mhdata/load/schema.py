@@ -2,8 +2,9 @@
 This module contains marshmallo schema definitions for loaded files.
 """
 
-from marshmallow import Schema, fields, ValidationError
+from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 
+from mhdata.io.functions import group_fields, ungroup_fields
 from .cfg import *
 
 def choice_check(*items):
@@ -16,8 +17,26 @@ def choice_check(*items):
 def ValidatedStr(*items):
     return fields.Str(allow_none=True, validate=choice_check(*items))
 
+class BaseSchema(Schema):
+    "Base class for all schemas in this project"
+    __groups__ = ()
+    class Meta:
+        ordered = True
 
-class ItemSchema(Schema):
+    @pre_load
+    def group_fields(self, data):
+        groups = self.__groups__ or []
+        return group_fields(data, groups=groups)
+
+    @post_dump
+    def ungroup_fields(self, data):
+        groups = self.__groups__ or []
+        print(data)
+        return ungroup_fields(data, groups=groups)
+
+
+class ItemSchema(BaseSchema):
+    __groups__ = ('name', 'description')
     name = fields.Dict()
     description = fields.Dict()
     category = ValidatedStr("item", "material", "ammo", "misc", "hidden")
@@ -27,18 +46,19 @@ class ItemSchema(Schema):
     sell_price = fields.Int(allow_none=True)
     carry_limit = fields.Int(allow_none=True)
 
-class ItemCombinationSchema(Schema):
+class ItemCombinationSchema(BaseSchema):
     id = fields.Int()
     result = fields.Str()
     first = fields.Str()
     second = fields.Str(allow_none=True)
     quantity = fields.Int()
 
-class LocationSchema(Schema):
+class LocationSchema(BaseSchema):
+    __groups__ = ('name')
     name = fields.Dict()
     items = fields.Nested('LocationItemEntry', many=True, missing=[])
 
-class LocationItemEntry(Schema):
+class LocationItemEntry(BaseSchema):
     area = fields.Int()
     rank = ValidatedStr(*supported_ranks)
     item_lang = ValidatedStr(*supported_languages)
@@ -46,7 +66,8 @@ class LocationItemEntry(Schema):
     stack = fields.Int()
     percentage = fields.Int()
 
-class ArmorSetSchema(Schema):
+class ArmorSetSchema(BaseSchema):
+    __groups__ = ('name')
     name = fields.Dict()
     armor_lang = fields.Str()
     head = fields.Str(allow_none=True)
@@ -56,16 +77,19 @@ class ArmorSetSchema(Schema):
     legs = fields.Str(allow_none=True)
     bonus = fields.Str(allow_none=True)
 
-class ArmorSetBonus(Schema):
+class ArmorSetBonus(BaseSchema):
+    __groups__ = ('name')
     name = fields.Dict()
     skills = fields.Nested('ArmorSetBonusSkill', many=True)
 
-class ArmorSetBonusSkill(Schema):
+class ArmorSetBonusSkill(BaseSchema):
     skill = fields.String()
     points = fields.Int()
     threshold = fields.Int()
 
-class ArmorSchema(Schema):
+class ArmorBaseSchema(BaseSchema):
+    "Schema for armor base data"
+    __groups__ = ('name')
     name = fields.Dict()
     rarity = fields.Int()
     type = ValidatedStr('head', 'chest', 'arms', 'waist', 'legs')
@@ -82,6 +106,8 @@ class ArmorSchema(Schema):
     defense_ice = fields.Int()
     defense_dragon = fields.Int()
 
+class ArmorSchema(ArmorBaseSchema):
+    "Schema for complete armor data"
     # the below are unvalidated, but exist so they're retained
     skills = fields.Dict()
     craft = fields.Dict()

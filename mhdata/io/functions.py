@@ -5,9 +5,18 @@ import copy
 import mhdata.util as util
 from .datamap import DataMap
 
+def check_not_grouped(obj, groups):
+    "Checks if any fields have already been grouped, and returns the ones that aren't"
+    results = []
+    for group in groups:
+        if group in obj and isinstance(obj[group], collections.Mapping):
+            continue
+        results.append(group)
+    return results
 
 def group_fields(obj, groups=[]):
     "Returns a new dictionary where the items that start with groupname_ are consolidated"
+    groups = check_not_grouped(obj, groups)
     result = {}
     for key, value in obj.items():
         group_results = list(filter(lambda g: key.startswith(g+'_'), groups))
