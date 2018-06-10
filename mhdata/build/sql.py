@@ -355,11 +355,17 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
                 skilltree_id=skill_id,
                 level=level
             ))
-        
+
         # Armor Crafting
-        for item, quantity in entry['craft'].items():
-            item_id = item_map.id_of('en', item)
-            ensure(item_id, f"Item {item} in Armor {armor_name_en} does not exist")
+        # TODO: refactor. Either change deserialization or create a recipe iterator function
+        for idx in range(1, cfg.max_recipe_item_count + 1):
+            item_name = entry['craft'][f'item{idx}_name']
+            quantity = entry['craft'][f'item{idx}_qty']
+            if not item_name:
+                continue
+
+            item_id = item_map.id_of('en', item_name)
+            ensure(item_id, f"Item {item_name} in Armor {armor_name_en} does not exist")
             
             armor.craft_items.append(db.ArmorRecipe(
                 item_id=item_id,

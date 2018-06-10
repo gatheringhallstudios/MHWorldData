@@ -5,7 +5,7 @@ This module contains marshmallo schema definitions for loaded files.
 from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 
 from mhdata.io.functions import group_fields, ungroup_fields
-from .cfg import *
+from . import cfg
 
 def choice_check(*items):
     def validate_fn(check):
@@ -60,8 +60,8 @@ class LocationSchema(BaseSchema):
 
 class LocationItemEntry(BaseSchema):
     area = fields.Int()
-    rank = ValidatedStr(*supported_ranks)
-    item_lang = ValidatedStr(*supported_languages)
+    rank = ValidatedStr(*cfg.supported_ranks)
+    item_lang = ValidatedStr(*cfg.supported_languages)
     item = fields.Str()
     stack = fields.Int()
     percentage = fields.Int()
@@ -110,4 +110,18 @@ class ArmorSchema(ArmorBaseSchema):
     "Schema for complete armor data"
     # the below are unvalidated, but exist so they're retained
     skills = fields.Dict()
-    craft = fields.Dict()
+    craft = fields.Nested('ArmorCraftSchema', many=False, missing={})
+
+class RecipeSchema(BaseSchema):
+    name_en = fields.Str()
+    item1_name = fields.Str(allow_none=True)
+    item1_qty = fields.Int(allow_none=True)
+    item2_name = fields.Str(allow_none=True)
+    item2_qty = fields.Int(allow_none=True)
+    item3_name = fields.Str(allow_none=True)
+    item3_qty = fields.Int(allow_none=True)
+    item4_name = fields.Str(allow_none=True)
+    item4_qty = fields.Int(allow_none=True)
+
+class ArmorCraftSchema(RecipeSchema):
+    pass

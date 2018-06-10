@@ -1,0 +1,3513 @@
+{
+    "Leather Headgear": {
+        "skills": {
+            "Hunger Resistance": 1
+        }
+    },
+    "Leather Mail": {
+        "skills": {}
+    },
+    "Leather Gloves": {
+        "skills": {}
+    },
+    "Leather Belt": {
+        "skills": {}
+    },
+    "Leather Trousers": {
+        "skills": {}
+    },
+    "Chainmail Headgear": {
+        "skills": {
+            "Master Gatherer": 1
+        }
+    },
+    "Chainmail Vest": {
+        "skills": {}
+    },
+    "Chainmail Gloves": {
+        "skills": {}
+    },
+    "Chainmail Belt": {
+        "skills": {}
+    },
+    "Chainmail Trousers": {
+        "skills": {}
+    },
+    "Hunter's Headgear": {
+        "skills": {
+            "Scoutfly Range Up": 1
+        }
+    },
+    "Hunter's Mail": {
+        "skills": {
+            "Slinger Capacity": 1
+        }
+    },
+    "Hunter's Vambraces": {
+        "skills": {
+            "Stealth": 1
+        }
+    },
+    "Hunter's Coil": {
+        "skills": {
+            "Scenthound": 1
+        }
+    },
+    "Hunter's Greaves": {
+        "skills": {
+            "BBQ Master": 1
+        }
+    },
+    "Bone Helm": {
+        "skills": {
+            "Health Boost": 1
+        }
+    },
+    "Bone Mail": {
+        "skills": {
+            "Attack Boost": 1
+        }
+    },
+    "Bone Vambraces": {
+        "skills": {
+            "Slugger": 1
+        }
+    },
+    "Bone Coil": {
+        "skills": {
+            "Horn Maestro": 1
+        }
+    },
+    "Bone Greaves": {
+        "skills": {
+            "Entomologist": 1
+        }
+    },
+    "Vespoid Helm": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Vespoid Mail": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Vespoid Vambraces": {
+        "skills": {
+            "Paralysis Attack": 1
+        }
+    },
+    "Vespoid Coil": {
+        "skills": {
+            "Paralysis Resistance": 1
+        }
+    },
+    "Vespoid Greaves": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "Kestodon Guards": {
+        "skills": {
+            "Affinity Sliding": 1
+        }
+    },
+    "Gajau Boots": {
+        "skills": {
+            "Aquatic Expert": 1
+        }
+    },
+    "Jagras Helm": {
+        "skills": {
+            "Speed Eating": 1
+        }
+    },
+    "Jagras Mail": {
+        "skills": {
+            "Intimidator": 1
+        }
+    },
+    "Jagras Vambraces": {
+        "skills": {
+            "Palico Rally": 1
+        }
+    },
+    "Jagras Coil": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Jagras Greaves": {
+        "skills": {
+            "Speed Crawler": 1
+        }
+    },
+    "Kulu Headpiece": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Kulu Mail": {
+        "skills": {
+            "Stamina Surge": 1
+        }
+    },
+    "Kulu Vambraces": {
+        "skills": {
+            "Pro Transporter": 1
+        }
+    },
+    "Kulu Coil": {
+        "skills": {
+            "Item Prolonger": 1
+        }
+    },
+    "Kulu Greaves": {
+        "skills": {
+            "Critical Eye": 1
+        }
+    },
+    "Alloy Helm": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Alloy Mail": {
+        "skills": {
+            "Water Resistance": 1
+        }
+    },
+    "Alloy Vambraces": {
+        "skills": {
+            "Defense Boost": 1
+        }
+    },
+    "Alloy Coil": {
+        "skills": {
+            "Poison Resistance": 1
+        }
+    },
+    "Alloy Greaves": {
+        "skills": {
+            "Speed Sharpening": 1
+        }
+    },
+    "Pukei Hood": {
+        "skills": {
+            "Sporepuff Expert": 1
+        }
+    },
+    "Pukei Mail": {
+        "skills": {
+            "Item Prolonger": 1
+        }
+    },
+    "Pukei Vambraces": {
+        "skills": {
+            "Poison Resistance": 1
+        }
+    },
+    "Pukei Coil": {
+        "skills": {
+            "Poison Attack": 1
+        }
+    },
+    "Pukei Greaves": {
+        "skills": {
+            "Botanist": 1
+        }
+    },
+    "Barroth Helm": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Barroth Mail": {
+        "skills": {
+            "Stamina Thief": 1
+        }
+    },
+    "Barroth Vambraces": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Barroth Coil": {
+        "skills": {
+            "Muck Resistance": 1
+        }
+    },
+    "Barroth Greaves": {
+        "skills": {
+            "Stun Resistance": 1
+        }
+    },
+    "Jyura Helm": {
+        "skills": {
+            "Aquatic Expert": 1
+        }
+    },
+    "Jyura Mail": {
+        "skills": {
+            "Muck Resistance": 1
+        }
+    },
+    "Jyura Vambraces": {
+        "skills": {
+            "Water Attack": 1
+        }
+    },
+    "Jyura Coil": {
+        "skills": {
+            "Ice Resistance": 1
+        }
+    },
+    "Jyura Greaves": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Kadachi Helm": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Kadachi Mail": {
+        "skills": {
+            "Jump Master": 1
+        }
+    },
+    "Kadachi Vambraces": {
+        "skills": {
+            "Evade Extender": 1
+        }
+    },
+    "Kadachi Coil": {
+        "skills": {
+            "Thunder Attack": 1
+        }
+    },
+    "Kadachi Greaves": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "High Metal Helm": {
+        "skills": {
+            "Ice Resistance": 1
+        }
+    },
+    "High Metal Mail": {
+        "skills": {
+            "Earplugs": 1
+        }
+    },
+    "High Metal Braces": {
+        "skills": {
+            "Defense Boost": 1
+        }
+    },
+    "High Metal Coil": {
+        "skills": {
+            "Capacity Boost": 1
+        }
+    },
+    "High Metal Greaves": {
+        "skills": {
+            "Heavy Artillery": 1
+        }
+    },
+    "King Beetle Vertex": {
+        "skills": {
+            "Evade Window": 1
+        }
+    },
+    "King Beetle Thorax": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "King Beetle Brachia": {
+        "skills": {
+            "Leap of Faith": 1
+        }
+    },
+    "King Beetle Elytra": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "King Beetle Crura": {
+        "skills": {
+            "Forager's Luck": 1
+        }
+    },
+    "Butterfly Vertex": {
+        "skills": {
+            "Evade Window": 1
+        }
+    },
+    "Butterfly Thorax": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Butterfly Brachia": {
+        "skills": {
+            "Leap of Faith": 1
+        }
+    },
+    "Butterfly Elytra": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "Butterfly Crura": {
+        "skills": {
+            "Forager's Luck": 1
+        }
+    },
+    "Shamos Goggles": {
+        "skills": {
+            "Detector": 1
+        }
+    },
+    "Hornetaur Helm": {
+        "skills": {
+            "Dungmaster": 1
+        }
+    },
+    "Hornetaur Mail": {
+        "skills": {
+            "Effluvial Expert": 1
+        }
+    },
+    "Hornetaur Vambraces": {
+        "skills": {
+            "Free Meal": 1
+        }
+    },
+    "Hornetaur Coil": {
+        "skills": {
+            "Carving Pro": 1
+        }
+    },
+    "Hornetaur Greaves": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Anja Helm": {
+        "skills": {
+            "Fire Attack": 1
+        }
+    },
+    "Anja Mail": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Anja Vambraces": {
+        "skills": {
+            "Special Ammo Boost": 1
+        }
+    },
+    "Anja Coil": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Anja Greaves": {
+        "skills": {
+            "Artillery": 1
+        }
+    },
+    "Rathian Helm": {
+        "skills": {
+            "Health Boost": 1
+        }
+    },
+    "Rathian Mail": {
+        "skills": {
+            "Botanist": 1
+        }
+    },
+    "Rathian Vambraces": {
+        "skills": {
+            "Poison Attack": 1
+        }
+    },
+    "Rathian Coil": {
+        "skills": {
+            "Poison Resistance": 1
+        }
+    },
+    "Rathian Greaves": {
+        "skills": {
+            "Recovery Up": 1
+        }
+    },
+    "Tzitzi Headgear": {
+        "skills": {
+            "Blindsider": 1
+        }
+    },
+    "Tzitzi Mail": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Tzitzi Vambraces": {
+        "skills": {
+            "Stun Resistance": 1
+        }
+    },
+    "Tzitzi Coil": {
+        "skills": {
+            "Wide-Range": 1
+        }
+    },
+    "Tzitzi Greaves": {
+        "skills": {
+            "Sleep Resistance": 1
+        }
+    },
+    "Lumu Hat": {
+        "skills": {
+            "Stamina Surge": 1
+        }
+    },
+    "Lumu Mail": {
+        "skills": {
+            "Master Mounter": 1
+        }
+    },
+    "Lumu Vambraces": {
+        "skills": {
+            "Artillery": 1
+        }
+    },
+    "Lumu Coil": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Lumu Greaves": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Girros Mask": {
+        "skills": {
+            "Horn Maestro": 1
+        }
+    },
+    "Girros Mail": {
+        "skills": {
+            "Paralysis Resistance": 1
+        }
+    },
+    "Girros Vambraces": {
+        "skills": {
+            "Palico Rally": 1
+        }
+    },
+    "Girros Coil": {
+        "skills": {
+            "Effluvial Expert": 1
+        }
+    },
+    "Girros Greaves": {
+        "skills": {
+            "Paralysis Attack": 1
+        }
+    },
+    "Baan Helm": {
+        "skills": {
+            "Slugger": 1
+        }
+    },
+    "Baan Mail": {
+        "skills": {
+            "Sleep Resistance": 1
+        }
+    },
+    "Baan Vambraces": {
+        "skills": {
+            "Sleep Attack": 1
+        }
+    },
+    "Baan Coil": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Baan Greaves": {
+        "skills": {
+            "Bleeding Resistance": 1
+        }
+    },
+    "Ingot Helm": {
+        "skills": {
+            "Thunder Attack": 1
+        }
+    },
+    "Ingot Mail": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "Ingot Vambraces": {
+        "skills": {
+            "Health Boost": 1
+        }
+    },
+    "Ingot Coil": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Ingot Greaves": {
+        "skills": {
+            "Defense Boost": 1
+        }
+    },
+    "Death Stench Brain": {
+        "skills": {
+            "Resuscitate": 1
+        }
+    },
+    "Death Stench Muscle": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Death Stench Grip": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Death Stench Bowels": {
+        "skills": {
+            "Dragon Attack": 1
+        }
+    },
+    "Death Stench Heels": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Brigade Lobos": {
+        "skills": {
+            "Recovery Speed": 1
+        }
+    },
+    "Brigade Suit": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Brigade Vambraces": {
+        "skills": {
+            "Heavy Artillery": 1
+        }
+    },
+    "Brigade Coil": {
+        "skills": {
+            "Geologist": 1
+        }
+    },
+    "Brigade Boots": {
+        "skills": {
+            "Scholar": 1
+        }
+    },
+    "Legiana Helm": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Legiana Mail": {
+        "skills": {
+            "Evade Window": 1
+        }
+    },
+    "Legiana Vambraces": {
+        "skills": {
+            "Airborne": 1
+        }
+    },
+    "Legiana Coil": {
+        "skills": {
+            "Ice Attack": 1
+        }
+    },
+    "Legiana Greaves": {
+        "skills": {
+            "Ice Resistance": 1
+        }
+    },
+    "Odogaron Helm": {
+        "skills": {
+            "Bleeding Resistance": 1
+        }
+    },
+    "Odogaron Mail": {
+        "skills": {
+            "Speed Sharpening": 1
+        }
+    },
+    "Odogaron Vambraces": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Odogaron Coil": {
+        "skills": {
+            "Critical Eye": 1
+        }
+    },
+    "Odogaron Greaves": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Rathalos Helm": {
+        "skills": {
+            "Attack Boost": 1
+        }
+    },
+    "Rathalos Mail": {
+        "skills": {
+            "Weakness Exploit": 1
+        }
+    },
+    "Rathalos Vambraces": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Rathalos Coil": {
+        "skills": {
+            "Fire Attack": 1
+        }
+    },
+    "Rathalos Greaves": {
+        "skills": {
+            "Jump Master": 1
+        }
+    },
+    "Diablos Helm": {
+        "skills": {
+            "Critical Draw": 1
+        }
+    },
+    "Diablos Mail": {
+        "skills": {
+            "Slugger": 1
+        }
+    },
+    "Diablos Vambraces": {
+        "skills": {
+            "Heroics": 1
+        }
+    },
+    "Diablos Coil": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Diablos Greaves": {
+        "skills": {
+            "Tremor Resistance": 1
+        }
+    },
+    "Kirin Horn": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Kirin Jacket": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Kirin Longarms": {
+        "skills": {
+            "Blight Resistance": 1
+        }
+    },
+    "Kirin Hoop": {
+        "skills": {
+            "Thunder Attack": 1
+        }
+    },
+    "Kirin Leg Guards": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "Blossom Headgear": {
+        "skills": {}
+    },
+    "Blossom Vest": {
+        "skills": {}
+    },
+    "Blossom Cuffs": {
+        "skills": {}
+    },
+    "Blossom Coat": {
+        "skills": {}
+    },
+    "Blossom Boots": {
+        "skills": {}
+    },
+    "Leather Headgear Alpha": {
+        "skills": {
+            "Hunger Resistance": 2
+        }
+    },
+    "Leather Mail Alpha": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Leather Gloves Alpha": {
+        "skills": {
+            "Recovery Speed": 1
+        }
+    },
+    "Leather Belt Alpha": {
+        "skills": {
+            "Stamina Surge": 1
+        }
+    },
+    "Leather Trousers Alpha": {
+        "skills": {
+            "Cliffhanger": 1
+        }
+    },
+    "Leather Headgear Beta": {
+        "skills": {
+            "Hunger Resistance": 1
+        }
+    },
+    "Leather Mail Beta": {
+        "skills": {}
+    },
+    "Leather Gloves Beta": {
+        "skills": {}
+    },
+    "Leather Belt Beta": {
+        "skills": {}
+    },
+    "Leather Trousers Beta": {
+        "skills": {}
+    },
+    "Chainmail Headgear Alpha": {
+        "skills": {
+            "Master Gatherer": 1,
+            "Guard": 1
+        }
+    },
+    "Chainmail Armor Alpha": {
+        "skills": {
+            "Water Resistance": 1
+        }
+    },
+    "Chainmail Gloves Alpha": {
+        "skills": {
+            "Recovery Speed": 1
+        }
+    },
+    "Chainmail Belt Alpha": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Chainmail Trousers Alpha": {
+        "skills": {
+            "Recovery Up": 1
+        }
+    },
+    "Chainmail Headgear Beta": {
+        "skills": {
+            "Master Gatherer": 1
+        }
+    },
+    "Chainmail Armor Beta": {
+        "skills": {}
+    },
+    "Chainmail Gloves Beta": {
+        "skills": {}
+    },
+    "Chainmail Belt Beta": {
+        "skills": {}
+    },
+    "Chainmail Trousers Beta": {
+        "skills": {}
+    },
+    "Hunter's Headgear Alpha": {
+        "skills": {
+            "Scoutfly Range Up": 1,
+            "Scholar": 1
+        }
+    },
+    "Hunter's Mail Alpha": {
+        "skills": {
+            "Slinger Capacity": 2
+        }
+    },
+    "Hunter's Vambraces Alpha": {
+        "skills": {
+            "Stealth": 2
+        }
+    },
+    "Hunter's Coil Alpha": {
+        "skills": {
+            "Stealth": 1,
+            "Master Gatherer": 1
+        }
+    },
+    "Hunter's Greaves Alpha": {
+        "skills": {
+            "Slinger Capacity": 1,
+            "Scenthound": 1
+        }
+    },
+    "Hunter's Headgear Beta": {
+        "skills": {
+            "Scoutfly Range Up": 1
+        }
+    },
+    "Hunter's Mail Beta": {
+        "skills": {
+            "Slinger Capacity": 1
+        }
+    },
+    "Hunter's Vambraces Beta": {
+        "skills": {
+            "Stealth": 1
+        }
+    },
+    "Hunter's Coil Beta": {
+        "skills": {
+            "Master Gatherer": 1
+        }
+    },
+    "Hunter's Greaves Beta": {
+        "skills": {
+            "Scenthound": 1
+        }
+    },
+    "Bone Helm Alpha": {
+        "skills": {
+            "Health Boost": 1,
+            "Entomologist": 1
+        }
+    },
+    "Bone Mail Alpha": {
+        "skills": {
+            "Attack Boost": 2
+        }
+    },
+    "Bone Vambraces Alpha": {
+        "skills": {
+            "Slugger": 1,
+            "Attack Boost": 1
+        }
+    },
+    "Bone Coil Alpha": {
+        "skills": {
+            "Horn Maestro": 1,
+            "Master Fisher": 1
+        }
+    },
+    "Bone Greaves Alpha": {
+        "skills": {
+            "Entomologist": 2
+        }
+    },
+    "Bone Helm Beta": {
+        "skills": {
+            "Health Boost": 1
+        }
+    },
+    "Bone Mail Beta": {
+        "skills": {
+            "Attack Boost": 1
+        }
+    },
+    "Bone Vambraces Beta": {
+        "skills": {
+            "Slugger": 1
+        }
+    },
+    "Bone Coil Beta": {
+        "skills": {
+            "Horn Maestro": 1
+        }
+    },
+    "Bone Greaves Beta": {
+        "skills": {
+            "Entomologist": 1
+        }
+    },
+    "Alloy Helm Alpha": {
+        "skills": {
+            "Windproof": 1,
+            "Defense Boost": 1
+        }
+    },
+    "Alloy Mail Alpha": {
+        "skills": {
+            "Water Resistance": 2
+        }
+    },
+    "Alloy Vambraces Alpha": {
+        "skills": {
+            "Defense Boost": 1,
+            "Speed Sharpening": 1
+        }
+    },
+    "Alloy Coil Alpha": {
+        "skills": {
+            "Poison Resistance": 1,
+            "Water Resistance": 1
+        }
+    },
+    "Alloy Greaves Alpha": {
+        "skills": {
+            "Speed Sharpening": 2
+        }
+    },
+    "Alloy Helm Beta": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Alloy Mail Beta": {
+        "skills": {
+            "Water Resistance": 1
+        }
+    },
+    "Alloy Vambraces Beta": {
+        "skills": {
+            "Defense Boost": 1
+        }
+    },
+    "Alloy Coil Beta": {
+        "skills": {
+            "Poison Resistance": 1
+        }
+    },
+    "Alloy Greaves Beta": {
+        "skills": {
+            "Speed Sharpening": 1
+        }
+    },
+    "King Beetle Vertex Alpha": {
+        "skills": {
+            "Evade Window": 2,
+            "Botanist": 1
+        }
+    },
+    "King Beetle Thorax Alpha": {
+        "skills": {
+            "Quick Sheath": 2,
+            "Botanist": 1
+        }
+    },
+    "King Beetle Brachia Alpha": {
+        "skills": {
+            "Botanist": 2,
+            "Leap of Faith": 1
+        }
+    },
+    "King Beetle Elytra Alpha": {
+        "skills": {
+            "Honey Hunter": 1,
+            "Quick Sheath": 1
+        }
+    },
+    "King Beetle Crura Alpha": {
+        "skills": {
+            "Forager's Luck": 1,
+            "Evade Window": 1
+        }
+    },
+    "King Beetle Vertex Beta": {
+        "skills": {
+            "Evade Window": 2
+        }
+    },
+    "King Beetle Thorax Beta": {
+        "skills": {
+            "Quick Sheath": 2
+        }
+    },
+    "King Beetle Brachia Beta": {
+        "skills": {
+            "Botanist": 2
+        }
+    },
+    "King Beetle Elytra Beta": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "King Beetle Crura Beta": {
+        "skills": {
+            "Forager's Luck": 1
+        }
+    },
+    "Butterfly Vertex Alpha": {
+        "skills": {
+            "Botanist": 1,
+            "Evade Window": 2
+        }
+    },
+    "Butterfly Thorax Alpha": {
+        "skills": {
+            "Botanist": 1,
+            "Quick Sheath": 2
+        }
+    },
+    "Butterfly Brachia Alpha": {
+        "skills": {
+            "Botanist": 2,
+            "Leap of Faith": 1
+        }
+    },
+    "Butterfly Elytra Alpha": {
+        "skills": {
+            "Honey Hunter": 1,
+            "Quick Sheath": 1
+        }
+    },
+    "Butterfly Crura Alpha": {
+        "skills": {
+            "Forager's Luck": 1,
+            "Evade Window": 1
+        }
+    },
+    "Butterfly Vertex Beta": {
+        "skills": {
+            "Evade Window": 2
+        }
+    },
+    "Butterfly Thorax Beta": {
+        "skills": {
+            "Quick Sheath": 2
+        }
+    },
+    "Butterfly Brachia Beta": {
+        "skills": {
+            "Botanist": 2
+        }
+    },
+    "Butterfly Elytra Beta": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "Butterfly Crura Beta": {
+        "skills": {
+            "Forager's Luck": 1
+        }
+    },
+    "Vespoid Helm Alpha": {
+        "skills": {
+            "Quick Sheath": 1,
+            "Paralysis Attack": 1
+        }
+    },
+    "Vespoid Mail Alpha": {
+        "skills": {
+            "Windproof": 2
+        }
+    },
+    "Vespoid Vambraces Alpha": {
+        "skills": {
+            "Paralysis Attack": 2
+        }
+    },
+    "Vespoid Coil Alpha": {
+        "skills": {
+            "Paralysis Resistance": 2
+        }
+    },
+    "Vespoid Greaves Alpha": {
+        "skills": {
+            "Honey Hunter": 1,
+            "Paralysis Resistance": 1
+        }
+    },
+    "Vespoid Helm Beta": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Vespoid Mail Beta": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Vespoid Vambraces Beta": {
+        "skills": {
+            "Paralysis Attack": 1
+        }
+    },
+    "Vespoid Coil Beta": {
+        "skills": {
+            "Paralysis Resistance": 1
+        }
+    },
+    "Vespoid Greaves Beta": {
+        "skills": {
+            "Honey Hunter": 1
+        }
+    },
+    "Hornetaur Helm Alpha": {
+        "skills": {
+            "Dungmaster": 1,
+            "Dragon Attack": 1
+        }
+    },
+    "Hornetaur Mail Alpha": {
+        "skills": {
+            "Effluvial Expert": 1,
+            "Hunger Resistance": 1
+        }
+    },
+    "Hornetaur Vambraces Alpha": {
+        "skills": {
+            "Free Meal": 1,
+            "Hunger Resistance": 1
+        }
+    },
+    "Hornetaur Coil Alpha": {
+        "skills": {
+            "Carving Pro": 1,
+            "Hunger Resistance": 1
+        }
+    },
+    "Hornetaur Greaves Alpha": {
+        "skills": {
+            "Handicraft": 1,
+            "Dragon Attack": 1
+        }
+    },
+    "Hornetaur Helm Beta": {
+        "skills": {
+            "Dungmaster": 1
+        }
+    },
+    "Hornetaur Mail Beta": {
+        "skills": {
+            "Effluvial Expert": 1
+        }
+    },
+    "Hornetaur Vambraces Beta": {
+        "skills": {
+            "Free Meal": 1
+        }
+    },
+    "Hornetaur Coil Beta": {
+        "skills": {
+            "Carving Pro": 1
+        }
+    },
+    "Hornetaur Greaves Beta": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Mosswine Mask Alpha": {
+        "skills": {
+            "Mushroomancer": 2
+        }
+    },
+    "Kestodon Guards Alpha": {
+        "skills": {
+            "Affinity Sliding": 1,
+            "Focus": 1
+        }
+    },
+    "Kestodon Guards Beta": {
+        "skills": {
+            "Affinity Sliding": 1
+        }
+    },
+    "Gajau Boots Alpha": {
+        "skills": {
+            "Aquatic Expert": 2,
+            "Water Attack": 1
+        }
+    },
+    "Gajau Boots Beta": {
+        "skills": {
+            "Aquatic Expert": 1,
+            "Water Attack": 1
+        }
+    },
+    "Shamos Goggles Alpha": {
+        "skills": {
+            "Detector": 1,
+            "Geologist": 1
+        }
+    },
+    "Shamos Goggles Beta": {
+        "skills": {
+            "Detector": 1
+        }
+    },
+    "Jagras Helm Alpha": {
+        "skills": {
+            "Speed Eating": 2
+        }
+    },
+    "Jagras Mail Alpha": {
+        "skills": {
+            "Intimidator": 2
+        }
+    },
+    "Jagras Vambraces Alpha": {
+        "skills": {
+            "Palico Rally": 1,
+            "Intimidator": 1
+        }
+    },
+    "Jagras Coil Alpha": {
+        "skills": {
+            "Fortify": 1,
+            "Speed Eating": 1
+        }
+    },
+    "Jagras Greaves Alpha": {
+        "skills": {
+            "Speed Crawler": 1,
+            "Free Meal": 1
+        }
+    },
+    "Jagras Helm Beta": {
+        "skills": {
+            "Speed Eating": 1
+        }
+    },
+    "Jagras Mail Beta": {
+        "skills": {
+            "Intimidator": 1
+        }
+    },
+    "Jagras Vambraces Beta": {
+        "skills": {
+            "Palico Rally": 1
+        }
+    },
+    "Jagras Coil Beta": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Jagras Greaves Beta": {
+        "skills": {
+            "Speed Crawler": 1
+        }
+    },
+    "Kulu Headpiece Alpha": {
+        "skills": {
+            "Fire Resistance": 1,
+            "Weakness Exploit": 1
+        }
+    },
+    "Kulu Mail Alpha": {
+        "skills": {
+            "Stamina Surge": 1,
+            "Critical Eye": 1
+        }
+    },
+    "Kulu Vambraces Alpha": {
+        "skills": {
+            "Pro Transporter": 1,
+            "Critical Eye": 1
+        }
+    },
+    "Kulu Coil Alpha": {
+        "skills": {
+            "Item Prolonger": 2
+        }
+    },
+    "Kulu Greaves Alpha": {
+        "skills": {
+            "Critical Eye": 1,
+            "Item Prolonger": 1
+        }
+    },
+    "Kulu Headpiece Beta": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Kulu Mail Beta": {
+        "skills": {
+            "Stamina Surge": 1
+        }
+    },
+    "Kulu Vambraces Beta": {
+        "skills": {
+            "Pro Transporter": 1
+        }
+    },
+    "Kulu Coil Beta": {
+        "skills": {
+            "Item Prolonger": 1
+        }
+    },
+    "Kulu Greaves Beta": {
+        "skills": {
+            "Critical Eye": 1
+        }
+    },
+    "Tzitzi Headgear Alpha": {
+        "skills": {
+            "Blindsider": 1,
+            "Stun Resistance": 1
+        }
+    },
+    "Tzitzi Mail Alpha": {
+        "skills": {
+            "Constitution": 1,
+            "Water Attack": 2
+        }
+    },
+    "Tzitzi Vambraces Alpha": {
+        "skills": {
+            "Stun Resistance": 2,
+            "Wide-Range": 1
+        }
+    },
+    "Tzitzi Coil Alpha": {
+        "skills": {
+            "Wide-Range": 2,
+            "Water Attack": 1
+        }
+    },
+    "Tzitzi Greaves Alpha": {
+        "skills": {
+            "Sleep Resistance": 2
+        }
+    },
+    "Tzitzi Headgear Beta": {
+        "skills": {
+            "Blindsider": 1
+        }
+    },
+    "Tzitzi Mail Beta": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Tzitzi Vambraces Beta": {
+        "skills": {
+            "Stun Resistance": 2
+        }
+    },
+    "Tzitzi Coil Beta": {
+        "skills": {
+            "Wide-Range": 1
+        }
+    },
+    "Tzitzi Greaves Beta": {
+        "skills": {
+            "Sleep Resistance": 1
+        }
+    },
+    "Girros Mask Alpha": {
+        "skills": {
+            "Horn Maestro": 1,
+            "Paralysis Resistance": 1
+        }
+    },
+    "Girros Mail Alpha": {
+        "skills": {
+            "Paralysis Resistance": 2
+        }
+    },
+    "Girros Vambraces Alpha": {
+        "skills": {
+            "Palico Rally": 2
+        }
+    },
+    "Girros Coil Alpha": {
+        "skills": {
+            "Effluvial Expert": 1,
+            "Paralysis Attack": 1
+        }
+    },
+    "Girros Greaves Alpha": {
+        "skills": {
+            "Paralysis Attack": 2
+        }
+    },
+    "Girros Mask Beta": {
+        "skills": {
+            "Horn Maestro": 1
+        }
+    },
+    "Girros Mail Beta": {
+        "skills": {
+            "Paralysis Resistance": 1
+        }
+    },
+    "Girros Vambraces Beta": {
+        "skills": {
+            "Palico Rally": 1
+        }
+    },
+    "Girros Coil Beta": {
+        "skills": {
+            "Effluvial Expert": 1
+        }
+    },
+    "Girros Greaves Beta": {
+        "skills": {
+            "Paralysis Attack": 1
+        }
+    },
+    "Pukei Hood Alpha": {
+        "skills": {
+            "Sporepuff Expert": 2
+        }
+    },
+    "Pukei Mail Alpha": {
+        "skills": {
+            "Item Prolonger": 1,
+            "Botanist": 1
+        }
+    },
+    "Pukei Vambraces Alpha": {
+        "skills": {
+            "Poison Resistance": 2,
+            "Poison Attack": 1
+        }
+    },
+    "Pukei Coil Alpha": {
+        "skills": {
+            "Poison Attack": 2
+        }
+    },
+    "Pukei Greaves Alpha": {
+        "skills": {
+            "Botanist": 2,
+            "Sporepuff Expert": 1
+        }
+    },
+    "Pukei Hood Beta": {
+        "skills": {
+            "Sporepuff Expert": 1
+        }
+    },
+    "Pukei Mail Beta": {
+        "skills": {
+            "Item Prolonger": 1
+        }
+    },
+    "Pukei Vambraces Beta": {
+        "skills": {
+            "Poison Resistance": 1
+        }
+    },
+    "Pukei Coil Beta": {
+        "skills": {
+            "Poison Attack": 1
+        }
+    },
+    "Pukei Greaves Beta": {
+        "skills": {
+            "Botanist": 1
+        }
+    },
+    "Barroth Helm Alpha": {
+        "skills": {
+            "Guard": 2
+        }
+    },
+    "Barroth Mail Alpha": {
+        "skills": {
+            "Stamina Thief": 2
+        }
+    },
+    "Barroth Vambraces Alpha": {
+        "skills": {
+            "Marathon Runner": 1,
+            "Stamina Thief": 1
+        }
+    },
+    "Barroth Coil Alpha": {
+        "skills": {
+            "Muck Resistance": 1,
+            "Guard": 1
+        }
+    },
+    "Barroth Greaves Alpha": {
+        "skills": {
+            "Stun Resistance": 2,
+            "Marathon Runner": 1
+        }
+    },
+    "Barroth Helm Beta": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Barroth Mail Beta": {
+        "skills": {
+            "Stamina Thief": 1
+        }
+    },
+    "Barroth Vambraces Beta": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Barroth Coil Beta": {
+        "skills": {
+            "Muck Resistance": 1
+        }
+    },
+    "Barroth Greaves Beta": {
+        "skills": {
+            "Stun Resistance": 1
+        }
+    },
+    "Anja Helm Alpha": {
+        "skills": {
+            "Fire Attack": 2,
+            "Fire Resistance": 1
+        }
+    },
+    "Anja Mail Alpha": {
+        "skills": {
+            "Marathon Runner": 1,
+            "Special Ammo Boost": 1
+        }
+    },
+    "Anja Vambraces Alpha": {
+        "skills": {
+            "Special Ammo Boost": 1,
+            "Fire Attack": 1
+        }
+    },
+    "Anja Coil Alpha": {
+        "skills": {
+            "Fire Resistance": 2,
+            "Artillery": 1
+        }
+    },
+    "Anja Greaves Alpha": {
+        "skills": {
+            "Artillery": 2
+        }
+    },
+    "Anja Helm Beta": {
+        "skills": {
+            "Fire Attack": 2
+        }
+    },
+    "Anja Mail Beta": {
+        "skills": {
+            "Marathon Runner": 1
+        }
+    },
+    "Anja Vambraces Beta": {
+        "skills": {
+            "Special Ammo Boost": 1
+        }
+    },
+    "Anja Coil Beta": {
+        "skills": {
+            "Fire Resistance": 2
+        }
+    },
+    "Anja Greaves Beta": {
+        "skills": {
+            "Artillery": 1
+        }
+    },
+    "Jyura Helm Alpha": {
+        "skills": {
+            "Aquatic Expert": 2
+        }
+    },
+    "Jyura Mail Alpha": {
+        "skills": {
+            "Muck Resistance": 1,
+            "Water Attack": 1
+        }
+    },
+    "Jyura Vambraces Alpha": {
+        "skills": {
+            "Water Attack": 2,
+            "Aquatic Expert": 1
+        }
+    },
+    "Jyura Coil Alpha": {
+        "skills": {
+            "Ice Resistance": 2
+        }
+    },
+    "Jyura Greaves Alpha": {
+        "skills": {
+            "Focus": 2
+        }
+    },
+    "Jyura Helm Beta": {
+        "skills": {
+            "Aquatic Expert": 1
+        }
+    },
+    "Jyura Mail Beta": {
+        "skills": {
+            "Muck Resistance": 1
+        }
+    },
+    "Jyura Vambraces Beta": {
+        "skills": {
+            "Water Attack": 2
+        }
+    },
+    "Jyura Coil Beta": {
+        "skills": {
+            "Ice Resistance": 1
+        }
+    },
+    "Jyura Greaves Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Kadachi Helm Alpha": {
+        "skills": {
+            "Constitution": 2
+        }
+    },
+    "Kadachi Mail Alpha": {
+        "skills": {
+            "Jump Master": 1,
+            "Evade Extender": 1
+        }
+    },
+    "Kadachi Vambraces Alpha": {
+        "skills": {
+            "Evade Extender": 2
+        }
+    },
+    "Kadachi Coil Alpha": {
+        "skills": {
+            "Thunder Attack": 2,
+            "Thunder Resistance": 1
+        }
+    },
+    "Kadachi Greaves Alpha": {
+        "skills": {
+            "Thunder Resistance": 2,
+            "Constitution": 1
+        }
+    },
+    "Kadachi Helm Beta": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Kadachi Mail Beta": {
+        "skills": {
+            "Jump Master": 1
+        }
+    },
+    "Kadachi Vambraces Beta": {
+        "skills": {
+            "Evade Extender": 1
+        }
+    },
+    "Kadachi Coil Beta": {
+        "skills": {
+            "Thunder Attack": 1
+        }
+    },
+    "Kadachi Greaves Beta": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "Lumu Hat Alpha": {
+        "skills": {
+            "Stamina Surge": 2
+        }
+    },
+    "Lumu Mail Alpha": {
+        "skills": {
+            "Master Mounter": 1,
+            "Artillery": 1
+        }
+    },
+    "Lumu Vambraces Alpha": {
+        "skills": {
+            "Artillery": 2
+        }
+    },
+    "Lumu Coil Alpha": {
+        "skills": {
+            "Divine Blessing": 2
+        }
+    },
+    "Lumu Greaves Alpha": {
+        "skills": {
+            "Windproof": 1,
+            "Stamina Surge": 1
+        }
+    },
+    "Lumu Hat Beta": {
+        "skills": {
+            "Stamina Surge": 1
+        }
+    },
+    "Lumu Mail Beta": {
+        "skills": {
+            "Master Mounter": 1
+        }
+    },
+    "Lumu Vambraces Beta": {
+        "skills": {
+            "Artillery": 1
+        }
+    },
+    "Lumu Coil Beta": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Lumu Greaves Beta": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Rathian Helm Alpha": {
+        "skills": {
+            "Health Boost": 2,
+            "Poison Attack": 1
+        }
+    },
+    "Rathian Mail Alpha": {
+        "skills": {
+            "Botanist": 2,
+            "Recovery Up": 1
+        }
+    },
+    "Rathian Vambraces Alpha": {
+        "skills": {
+            "Poison Attack": 2
+        }
+    },
+    "Rathian Coil Alpha": {
+        "skills": {
+            "Poison Resistance": 2,
+            "Health Boost": 1
+        }
+    },
+    "Rathian Greaves Alpha": {
+        "skills": {
+            "Recovery Up": 2
+        }
+    },
+    "Rathian Helm Beta": {
+        "skills": {
+            "Health Boost": 1,
+            "Poison Attack": 1
+        }
+    },
+    "Rathian Mail Beta": {
+        "skills": {
+            "Botanist": 1,
+            "Recovery Up": 1
+        }
+    },
+    "Rathian Vambraces Beta": {
+        "skills": {
+            "Poison Attack": 1
+        }
+    },
+    "Rathian Coil Beta": {
+        "skills": {
+            "Poison Resistance": 1,
+            "Health Boost": 1
+        }
+    },
+    "Rathian Greaves Beta": {
+        "skills": {
+            "Recovery Up": 1
+        }
+    },
+    "Rath Heart Helm Alpha": {
+        "skills": {
+            "Evade Extender": 1,
+            "Poison Attack": 1
+        }
+    },
+    "Rath Heart Mail Alpha": {
+        "skills": {
+            "Tool Specialist": 2
+        }
+    },
+    "Rath Heart Braces Alpha": {
+        "skills": {
+            "Windproof": 2
+        }
+    },
+    "Rath Heart Coil Alpha": {
+        "skills": {
+            "Handicraft": 1,
+            "Poison Resistance": 1
+        }
+    },
+    "Rath Heart Greaves Alpha": {
+        "skills": {
+            "Tool Specialist": 1,
+            "Windproof": 1
+        }
+    },
+    "Rath Heart Helm Beta": {
+        "skills": {
+            "Evade Extender": 1
+        }
+    },
+    "Rath Heart Mail Beta": {
+        "skills": {
+            "Tool Specialist": 1
+        }
+    },
+    "Rath Heart Braces Beta": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Rath Heart Coil Beta": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Rath Heart Greaves Beta": {
+        "skills": {
+            "Tool Specialist": 1
+        }
+    },
+    "Baan Helm Alpha": {
+        "skills": {
+            "Tremor Resistance": 2
+        }
+    },
+    "Baan Mail Alpha": {
+        "skills": {
+            "Sleep Attack": 1,
+            "Bleeding Resistance": 1
+        }
+    },
+    "Baan Vambraces Alpha": {
+        "skills": {
+            "Sleep Attack": 2,
+            "Guard": 1
+        }
+    },
+    "Baan Coil Alpha": {
+        "skills": {
+            "Guard": 2
+        }
+    },
+    "Baan Greaves Alpha": {
+        "skills": {
+            "Bleeding Resistance": 2
+        }
+    },
+    "Baan Helm Beta": {
+        "skills": {
+            "Tremor Resistance": 1
+        }
+    },
+    "Baan Mail Beta": {
+        "skills": {
+            "Sleep Attack": 1
+        }
+    },
+    "Baan Vambraces Beta": {
+        "skills": {
+            "Sleep Attack": 1,
+            "Guard": 1
+        }
+    },
+    "Baan Coil Beta": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Baan Greaves Beta": {
+        "skills": {
+            "Bleeding Resistance": 1
+        }
+    },
+    "Gastodon Horn Alpha": {
+        "skills": {
+            "Flinch Free": 1,
+            "Blast Resistance": 1
+        }
+    },
+    "Gastodon Horn Beta": {
+        "skills": {
+            "Flinch Free": 1
+        }
+    },
+    "Barnos Jacket Alpha": {
+        "skills": {
+            "Heat Guard": 1,
+            "Iron Skin": 1
+        }
+    },
+    "Barnos Jacket Beta": {
+        "skills": {
+            "Heat Guard": 1
+        }
+    },
+    "Dodogama Helm Alpha": {
+        "skills": {
+            "Blast Resistance": 2
+        }
+    },
+    "Dodogama Mail Alpha": {
+        "skills": {
+            "Blast Attack": 2
+        }
+    },
+    "Dodogama Vambraces Alpha": {
+        "skills": {
+            "Bombardier": 2
+        }
+    },
+    "Dodogama Coil Alpha": {
+        "skills": {
+            "Artillery": 2,
+            "Blast Resistance": 1
+        }
+    },
+    "Dodogama Greaves Alpha": {
+        "skills": {
+            "Capacity Boost": 1,
+            "Blast Attack": 1
+        }
+    },
+    "Dodogama Helm Beta": {
+        "skills": {
+            "Blast Resistance": 1
+        }
+    },
+    "Dodogama Mail Beta": {
+        "skills": {
+            "Blast Attack": 1
+        }
+    },
+    "Dodogama Vambraces Beta": {
+        "skills": {
+            "Bombardier": 1
+        }
+    },
+    "Dodogama Coil Beta": {
+        "skills": {
+            "Artillery": 2
+        }
+    },
+    "Dodogama Greaves Beta": {
+        "skills": {
+            "Capacity Boost": 1
+        }
+    },
+    "Zorah Headgear Alpha": {
+        "skills": {
+            "Handicraft": 1,
+            "Blast Attack": 1
+        }
+    },
+    "Zorah Hide Alpha": {
+        "skills": {
+            "Blast Attack": 2,
+            "Windproof": 1
+        }
+    },
+    "Zorah Claws Alpha": {
+        "skills": {
+            "Free Elem/Ammo Up": 1,
+            "Bombardier": 1
+        }
+    },
+    "Zorah Spine Alpha": {
+        "skills": {
+            "Fortify": 1,
+            "Tremor Resistance": 1
+        }
+    },
+    "Zorah Spurs Alpha": {
+        "skills": {
+            "Bombardier": 2,
+            "Earplugs": 1
+        }
+    },
+    "Zorah Headgear Beta": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Zorah Hide Beta": {
+        "skills": {
+            "Blast Attack": 2
+        }
+    },
+    "Zorah Claws Beta": {
+        "skills": {
+            "Free Elem/Ammo Up": 1
+        }
+    },
+    "Zorah Spine Beta": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Zorah Spurs Beta": {
+        "skills": {
+            "Bombardier": 2
+        }
+    },
+    "High Metal Helm Alpha": {
+        "skills": {
+            "Ice Resistance": 2,
+            "Earplugs": 1
+        }
+    },
+    "High Metal Mail Alpha": {
+        "skills": {
+            "Earplugs": 2,
+            "Ice Attack": 1
+        }
+    },
+    "High Metal Braces Alpha": {
+        "skills": {
+            "Defense Boost": 2,
+            "Ice Attack": 1
+        }
+    },
+    "High Metal Coil Alpha": {
+        "skills": {
+            "Capacity Boost": 1,
+            "Defense Boost": 1
+        }
+    },
+    "High Metal Greaves Alpha": {
+        "skills": {
+            "Heavy Artillery": 1,
+            "Ice Resistance": 1
+        }
+    },
+    "High Metal Helm Beta": {
+        "skills": {
+            "Ice Resistance": 2
+        }
+    },
+    "High Metal Mail Beta": {
+        "skills": {
+            "Earplugs": 1,
+            "Ice Attack": 1
+        }
+    },
+    "High Metal Braces Beta": {
+        "skills": {
+            "Defense Boost": 2
+        }
+    },
+    "High Metal Coil Beta": {
+        "skills": {
+            "Capacity Boost": 1
+        }
+    },
+    "High Metal Greaves Beta": {
+        "skills": {
+            "Heavy Artillery": 1
+        }
+    },
+    "Ingot Helm Alpha": {
+        "skills": {
+            "Thunder Attack": 2
+        }
+    },
+    "Ingot Mail Alpha": {
+        "skills": {
+            "Thunder Resistance": 2
+        }
+    },
+    "Ingot Vambraces Alpha": {
+        "skills": {
+            "Health Boost": 2,
+            "Thunder Attack": 1
+        }
+    },
+    "Ingot Coil Alpha": {
+        "skills": {
+            "Windproof": 2
+        }
+    },
+    "Ingot Greaves Alpha": {
+        "skills": {
+            "Defense Boost": 2,
+            "Windproof": 1
+        }
+    },
+    "Ingot Helm Beta": {
+        "skills": {
+            "Thunder Attack": 1
+        }
+    },
+    "Ingot Mail Beta": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "Ingot Vambraces Beta": {
+        "skills": {
+            "Health Boost": 2
+        }
+    },
+    "Ingot Coil Beta": {
+        "skills": {
+            "Windproof": 1
+        }
+    },
+    "Ingot Greaves Beta": {
+        "skills": {
+            "Defense Boost": 2
+        }
+    },
+    "Brigade Lobos Alpha": {
+        "skills": {
+            "Recovery Speed": 2,
+            "Horn Maestro": 1
+        }
+    },
+    "Brigade Suit Alpha": {
+        "skills": {
+            "Divine Blessing": 2
+        }
+    },
+    "Brigade Vambraces Alpha": {
+        "skills": {
+            "Heavy Artillery": 2,
+            "Divine Blessing": 1
+        }
+    },
+    "Brigade Coil Alpha": {
+        "skills": {
+            "Geologist": 2,
+            "Recovery Speed": 1
+        }
+    },
+    "Brigade Boots Alpha": {
+        "skills": {
+            "Scholar": 1,
+            "Geologist": 1
+        }
+    },
+    "Brigade Lobos Beta": {
+        "skills": {
+            "Recovery Speed": 2
+        }
+    },
+    "Brigade Suit Beta": {
+        "skills": {
+            "Divine Blessing": 1
+        }
+    },
+    "Brigade Vambraces Beta": {
+        "skills": {
+            "Heavy Artillery": 2
+        }
+    },
+    "Brigade Coil Beta": {
+        "skills": {
+            "Geologist": 2
+        }
+    },
+    "Brigade Boots Beta": {
+        "skills": {
+            "Scholar": 1
+        }
+    },
+    "Faux Felyne Alpha": {
+        "skills": {
+            "Palico Rally": 3
+        }
+    },
+    "Strategist Spectacles Alpha": {
+        "skills": {
+            "Critical Eye": 2
+        }
+    },
+    "Lavasioth Helm Alpha": {
+        "skills": {
+            "Fire Attack": 2,
+            "Quick Sheath": 1
+        }
+    },
+    "Lavasioth Mail Alpha": {
+        "skills": {
+            "Fire Attack": 2,
+            "Heat Guard": 1
+        }
+    },
+    "Lavasioth Vambraces Alpha": {
+        "skills": {
+            "Affinity Sliding": 1,
+            "Wide-Range": 1
+        }
+    },
+    "Lavasioth Coil Alpha": {
+        "skills": {
+            "Quick Sheath": 2,
+            "Recovery Up": 1
+        }
+    },
+    "Lavasioth Greaves Alpha": {
+        "skills": {
+            "Spread/Power Shots": 1,
+            "Fire Attack": 1
+        }
+    },
+    "Lavasioth Helm Beta": {
+        "skills": {
+            "Fire Attack": 1,
+            "Quick Sheath": 1
+        }
+    },
+    "Lavasioth Mail Beta": {
+        "skills": {
+            "Fire Attack": 2
+        }
+    },
+    "Lavasioth Vambraces Beta": {
+        "skills": {
+            "Affinity Sliding": 1
+        }
+    },
+    "Lavasioth Coil Beta": {
+        "skills": {
+            "Quick Sheath": 2
+        }
+    },
+    "Lavasioth Greaves Beta": {
+        "skills": {
+            "Spread/Power Shots": 1
+        }
+    },
+    "Legiana Helm Alpha": {
+        "skills": {
+            "Divine Blessing": 2,
+            "Ice Attack": 1
+        }
+    },
+    "Legiana Mail Alpha": {
+        "skills": {
+            "Evade Window": 2,
+            "Divine Blessing": 1
+        }
+    },
+    "Legiana Vambraces Alpha": {
+        "skills": {
+            "Airborne": 1,
+            "Evade Window": 1
+        }
+    },
+    "Legiana Coil Alpha": {
+        "skills": {
+            "Ice Attack": 2,
+            "Windproof": 1
+        }
+    },
+    "Legiana Greaves Alpha": {
+        "skills": {
+            "Ice Resistance": 2,
+            "Critical Draw": 1
+        }
+    },
+    "Legiana Helm Beta": {
+        "skills": {
+            "Divine Blessing": 2
+        }
+    },
+    "Legiana Mail Beta": {
+        "skills": {
+            "Evade Window": 2
+        }
+    },
+    "Legiana Vambraces Beta": {
+        "skills": {
+            "Airborne": 1
+        }
+    },
+    "Legiana Coil Beta": {
+        "skills": {
+            "Ice Attack": 2
+        }
+    },
+    "Legiana Greaves Beta": {
+        "skills": {
+            "Ice Resistance": 2
+        }
+    },
+    "Odogaron Helm Alpha": {
+        "skills": {
+            "Bleeding Resistance": 2,
+            "Critical Eye": 1
+        }
+    },
+    "Odogaron Mail Alpha": {
+        "skills": {
+            "Speed Sharpening": 2,
+            "Bleeding Resistance": 1
+        }
+    },
+    "Odogaron Vambraces Alpha": {
+        "skills": {
+            "Constitution": 1,
+            "Critical Eye": 1
+        }
+    },
+    "Odogaron Coil Alpha": {
+        "skills": {
+            "Critical Eye": 2,
+            "Speed Sharpening": 1
+        }
+    },
+    "Odogaron Greaves Alpha": {
+        "skills": {
+            "Quick Sheath": 1,
+            "Critical Eye": 1
+        }
+    },
+    "Odogaron Helm Beta": {
+        "skills": {
+            "Bleeding Resistance": 2
+        }
+    },
+    "Odogaron Mail Beta": {
+        "skills": {
+            "Speed Sharpening": 2
+        }
+    },
+    "Odogaron Vambraces Beta": {
+        "skills": {
+            "Constitution": 1
+        }
+    },
+    "Odogaron Coil Beta": {
+        "skills": {
+            "Critical Eye": 2
+        }
+    },
+    "Odogaron Greaves Beta": {
+        "skills": {
+            "Quick Sheath": 1
+        }
+    },
+    "Rathalos Helm Alpha": {
+        "skills": {
+            "Attack Boost": 2,
+            "Fire Attack": 1
+        }
+    },
+    "Rathalos Mail Alpha": {
+        "skills": {
+            "Weakness Exploit": 2,
+            "Fire Attack": 1
+        }
+    },
+    "Rathalos Vambraces Alpha": {
+        "skills": {
+            "Fire Resistance": 2,
+            "Attack Boost": 1
+        }
+    },
+    "Rathalos Coil Alpha": {
+        "skills": {
+            "Fire Attack": 2,
+            "Focus": 1
+        }
+    },
+    "Rathalos Greaves Alpha": {
+        "skills": {
+            "Jump Master": 1,
+            "Weakness Exploit": 1
+        }
+    },
+    "Rathalos Helm Beta": {
+        "skills": {
+            "Attack Boost": 2
+        }
+    },
+    "Rathalos Mail Beta": {
+        "skills": {
+            "Weakness Exploit": 2
+        }
+    },
+    "Rathalos Vambraces Beta": {
+        "skills": {
+            "Fire Resistance": 2
+        }
+    },
+    "Rathalos Coil Beta": {
+        "skills": {
+            "Fire Attack": 2
+        }
+    },
+    "Rathalos Greaves Beta": {
+        "skills": {
+            "Jump Master": 1
+        }
+    },
+    "Rath Soul Helm Alpha": {
+        "skills": {
+            "Critical Boost": 1,
+            "Intimidator": 2
+        }
+    },
+    "Rath Soul Mail Alpha": {
+        "skills": {
+            "Free Elem/Ammo Up": 1,
+            "Intimidator": 1
+        }
+    },
+    "Rath Soul Braces Alpha": {
+        "skills": {
+            "Focus": 1,
+            "Windproof": 1
+        }
+    },
+    "Rath Soul Coil Alpha": {
+        "skills": {
+            "Windproof": 2,
+            "Piercing Shots": 1
+        }
+    },
+    "Rath Soul Greaves Alpha": {
+        "skills": {
+            "Focus": 1,
+            "Cliffhanger": 1
+        }
+    },
+    "Rath Soul Helm Beta": {
+        "skills": {
+            "Critical Boost": 1
+        }
+    },
+    "Rath Soul Mail Beta": {
+        "skills": {
+            "Free Elem/Ammo Up": 1
+        }
+    },
+    "Rath Soul Braces Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Rath Soul Coil Beta": {
+        "skills": {
+            "Windproof": 2
+        }
+    },
+    "Rath Soul Greaves Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Diablos Helm Alpha": {
+        "skills": {
+            "Critical Draw": 2,
+            "Heroics": 1
+        }
+    },
+    "Diablos Mail Alpha": {
+        "skills": {
+            "Slugger": 2,
+            "Heroics": 1
+        }
+    },
+    "Diablos Vambraces Alpha": {
+        "skills": {
+            "Heroics": 2,
+            "Tremor Resistance": 1
+        }
+    },
+    "Diablos Coil Alpha": {
+        "skills": {
+            "Marathon Runner": 2,
+            "Critical Draw": 1
+        }
+    },
+    "Diablos Greaves Alpha": {
+        "skills": {
+            "Tremor Resistance": 2,
+            "Slugger": 1
+        }
+    },
+    "Diablos Helm Beta": {
+        "skills": {
+            "Critical Draw": 2
+        }
+    },
+    "Diablos Mail Beta": {
+        "skills": {
+            "Slugger": 2
+        }
+    },
+    "Diablos Vambraces Beta": {
+        "skills": {
+            "Heroics": 2
+        }
+    },
+    "Diablos Coil Beta": {
+        "skills": {
+            "Marathon Runner": 2
+        }
+    },
+    "Diablos Greaves Beta": {
+        "skills": {
+            "Tremor Resistance": 2
+        }
+    },
+    "Diablos Nero Helm Alpha": {
+        "skills": {
+            "Focus": 2
+        }
+    },
+    "Diablos Nero Mail Alpha": {
+        "skills": {
+            "Resentment": 2
+        }
+    },
+    "Diablos Nero Braces Alpha": {
+        "skills": {
+            "Focus": 1,
+            "Marathon Runner": 1
+        }
+    },
+    "Diablos Nero Coil Alpha": {
+        "skills": {
+            "Resentment": 1,
+            "Partbreaker": 1
+        }
+    },
+    "Diablos Nero Greaves Alpha": {
+        "skills": {
+            "Normal Shots": 1,
+            "Heroics": 1
+        }
+    },
+    "Diablos Nero Helm Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Diablos Nero Mail Beta": {
+        "skills": {
+            "Resentment": 1
+        }
+    },
+    "Diablos Nero Braces Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Diablos Nero Coil Beta": {
+        "skills": {
+            "Resentment": 1
+        }
+    },
+    "Diablos Nero Greaves Beta": {
+        "skills": {
+            "Normal Shots": 1
+        }
+    },
+    "Uragaan Helm Alpha": {
+        "skills": {
+            "Thunder Resistance": 2
+        }
+    },
+    "Uragaan Mail Alpha": {
+        "skills": {
+            "Partbreaker": 2
+        }
+    },
+    "Uragaan Vambraces Alpha": {
+        "skills": {
+            "Guard": 1,
+            "Defense Boost": 1
+        }
+    },
+    "Uragaan Coil Alpha": {
+        "skills": {
+            "Partbreaker": 1,
+            "Thunder Resistance": 1
+        }
+    },
+    "Uragaan Greaves Alpha": {
+        "skills": {
+            "Guard": 2
+        }
+    },
+    "Uragaan Helm Beta": {
+        "skills": {
+            "Thunder Resistance": 1
+        }
+    },
+    "Uragaan Mail Beta": {
+        "skills": {
+            "Partbreaker": 1
+        }
+    },
+    "Uragaan Vambraces Beta": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Uragaan Coil Beta": {
+        "skills": {
+            "Partbreaker": 1
+        }
+    },
+    "Uragaan Greaves Beta": {
+        "skills": {
+            "Guard": 1
+        }
+    },
+    "Bazel Helm Alpha": {
+        "skills": {
+            "Earplugs": 2,
+            "Blast Attack": 1
+        }
+    },
+    "Bazel Mail Alpha": {
+        "skills": {
+            "Guard": 2,
+            "Blast Resistance": 2
+        }
+    },
+    "Bazel Vambraces Alpha": {
+        "skills": {
+            "Critical Draw": 2,
+            "Earplugs": 1
+        }
+    },
+    "Bazel Coil Alpha": {
+        "skills": {
+            "Earplugs": 2,
+            "Jump Master": 1
+        }
+    },
+    "Bazel Greaves Alpha": {
+        "skills": {
+            "Bombardier": 2,
+            "Critical Draw": 1
+        }
+    },
+    "Bazel Helm Beta": {
+        "skills": {
+            "Earplugs": 2
+        }
+    },
+    "Bazel Mail Beta": {
+        "skills": {
+            "Guard": 2
+        }
+    },
+    "Bazel Vambraces Beta": {
+        "skills": {
+            "Critical Draw": 2
+        }
+    },
+    "Bazel Coil Beta": {
+        "skills": {
+            "Earplugs": 2
+        }
+    },
+    "Bazel Greaves Beta": {
+        "skills": {
+            "Bombardier": 2
+        }
+    },
+    "Damascus Helm Alpha": {
+        "skills": {
+            "Defense Boost": 2,
+            "Speed Sharpening": 1
+        }
+    },
+    "Damascus Mail Alpha": {
+        "skills": {
+            "Focus": 2,
+            "Defense Boost": 2
+        }
+    },
+    "Damascus Vambraces Alpha": {
+        "skills": {
+            "Handicraft": 1,
+            "Speed Sharpening": 1
+        }
+    },
+    "Damascus Coil Alpha": {
+        "skills": {
+            "Focus": 1,
+            "Iron Skin": 2
+        }
+    },
+    "Damascus Greaves Alpha": {
+        "skills": {
+            "Defense Boost": 2,
+            "Iron Skin": 1
+        }
+    },
+    "Damascus Helm Beta": {
+        "skills": {
+            "Defense Boost": 2
+        }
+    },
+    "Damascus Mail Beta": {
+        "skills": {
+            "Focus": 2
+        }
+    },
+    "Damascus Vambraces Beta": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Damascus Coil Beta": {
+        "skills": {
+            "Focus": 1
+        }
+    },
+    "Damascus Greaves Beta": {
+        "skills": {
+            "Defense Boost": 2
+        }
+    },
+    "Dober Helm Alpha": {
+        "skills": {
+            "Free Elem/Ammo Up": 1,
+            "Dragon Resistance": 1
+        }
+    },
+    "Dober Mail Alpha": {
+        "skills": {
+            "Attack Boost": 2,
+            "Mushroomancer": 1
+        }
+    },
+    "Dober Vambraces Alpha": {
+        "skills": {
+            "Stamina Surge": 2,
+            "Mushroomancer": 1
+        }
+    },
+    "Dober Coil Alpha": {
+        "skills": {
+            "Dragon Resistance": 2,
+            "Attack Boost": 1
+        }
+    },
+    "Dober Greaves Alpha": {
+        "skills": {
+            "Attack Boost": 2,
+            "Stamina Surge": 1
+        }
+    },
+    "Dober Helm Beta": {
+        "skills": {
+            "Free Elem/Ammo Up": 1
+        }
+    },
+    "Dober Mail Beta": {
+        "skills": {
+            "Attack Boost": 2
+        }
+    },
+    "Dober Vambraces Beta": {
+        "skills": {
+            "Stamina Surge": 1,
+            "Mushroomancer": 1
+        }
+    },
+    "Dober Coil Beta": {
+        "skills": {
+            "Dragon Resistance": 2
+        }
+    },
+    "Dober Greaves Beta": {
+        "skills": {
+            "Attack Boost": 2
+        }
+    },
+    "Death Stench Brain Alpha": {
+        "skills": {
+            "Resuscitate": 1,
+            "Critical Eye": 1
+        }
+    },
+    "Death Stench Muscle Alpha": {
+        "skills": {
+            "Fortify": 1,
+            "Free Elem/Ammo Up": 1
+        }
+    },
+    "Death Stench Grip Alpha": {
+        "skills": {
+            "Focus": 2,
+            "Dragon Attack": 1
+        }
+    },
+    "Death Stench Bowels Alpha": {
+        "skills": {
+            "Dragon Attack": 2,
+            "Focus": 1
+        }
+    },
+    "Death Stench Heel Alpha": {
+        "skills": {
+            "Handicraft": 2,
+            "Dragon Attack": 2
+        }
+    },
+    "Death Stench Brain Beta": {
+        "skills": {
+            "Resuscitate": 1
+        }
+    },
+    "Death Stench Muscle Beta": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Death Stench Grip Beta": {
+        "skills": {
+            "Focus": 2
+        }
+    },
+    "Death Stench Bowels Beta": {
+        "skills": {
+            "Dragon Attack": 2
+        }
+    },
+    "Death Stench Heel Beta": {
+        "skills": {
+            "Handicraft": 2
+        }
+    },
+    "Skull Mask Alpha": {
+        "skills": {
+            "Handicraft": 1
+        }
+    },
+    "Nergigante Helm Alpha": {
+        "skills": {
+            "Maximum Might": 2,
+            "Attack Boost": 1
+        }
+    },
+    "Nergigante Mail Alpha": {
+        "skills": {
+            "Stamina Surge": 2,
+            "Agitator": 1
+        }
+    },
+    "Nergigante Vambraces Alpha": {
+        "skills": {
+            "Agitator": 2,
+            "Attack Boost": 1
+        }
+    },
+    "Nergigante Coil Alpha": {
+        "skills": {
+            "Attack Boost": 2,
+            "Stamina Surge": 1
+        }
+    },
+    "Nergigante Greaves Alpha": {
+        "skills": {
+            "Maximum Might": 1,
+            "Agitator": 1
+        }
+    },
+    "Nergigante Helm Beta": {
+        "skills": {
+            "Maximum Might": 2
+        }
+    },
+    "Nergigante Mail Beta": {
+        "skills": {
+            "Stamina Surge": 2
+        }
+    },
+    "Nergigante Vambraces Beta": {
+        "skills": {
+            "Agitator": 2
+        }
+    },
+    "Nergigante Coil Beta": {
+        "skills": {
+            "Attack Boost": 2
+        }
+    },
+    "Nergigante Greaves Beta": {
+        "skills": {
+            "Maximum Might": 1
+        }
+    },
+    "Kaiser Crown Alpha": {
+        "skills": {
+            "Latent Power": 2
+        }
+    },
+    "Kaiser Mail Alpha": {
+        "skills": {
+            "Special Ammo Boost": 2,
+            "Latent Power": 1
+        }
+    },
+    "Kaiser Vambraces Alpha": {
+        "skills": {
+            "Weakness Exploit": 2
+        }
+    },
+    "Kaiser Coil Alpha": {
+        "skills": {
+            "Blast Attack": 2,
+            "Weakness Exploit": 1
+        }
+    },
+    "Kaiser Greaves Alpha": {
+        "skills": {
+            "Latent Power": 2,
+            "Blast Attack": 1
+        }
+    },
+    "Kaiser Crown Beta": {
+        "skills": {
+            "Latent Power": 1
+        }
+    },
+    "Kaiser Mail Beta": {
+        "skills": {
+            "Special Ammo Boost": 2
+        }
+    },
+    "Kaiser Vambraces Beta": {
+        "skills": {
+            "Weakness Exploit": 1
+        }
+    },
+    "Kaiser Coil Beta": {
+        "skills": {
+            "Blast Attack": 2
+        }
+    },
+    "Kaiser Greaves Beta": {
+        "skills": {
+            "Latent Power": 2
+        }
+    },
+    "Kushala Glare Alpha": {
+        "skills": {
+            "Ice Attack": 2,
+            "Handicraft": 1
+        }
+    },
+    "Kushala Cista Alpha": {
+        "skills": {
+            "Handicraft": 2,
+            "Focus": 1
+        }
+    },
+    "Kushala Grip Alpha": {
+        "skills": {
+            "Evade Window": 2,
+            "Handicraft": 1
+        }
+    },
+    "Kushala Cocoon Alpha": {
+        "skills": {
+            "Ice Attack": 2,
+            "Evade Extender": 1
+        }
+    },
+    "Kushala Crus Alpha": {
+        "skills": {
+            "Evade Extender": 2,
+            "Handicraft": 1
+        }
+    },
+    "Kushala Glare Beta": {
+        "skills": {
+            "Ice Attack": 2
+        }
+    },
+    "Kushala Cista Beta": {
+        "skills": {
+            "Handicraft": 2
+        }
+    },
+    "Kushala Grip Beta": {
+        "skills": {
+            "Evade Window": 2
+        }
+    },
+    "Kushala Cocoon Beta": {
+        "skills": {
+            "Ice Attack": 2
+        }
+    },
+    "Kushala Crus Beta": {
+        "skills": {
+            "Evade Extender": 2
+        }
+    },
+    "Vaal Hazak Helm Alpha": {
+        "skills": {
+            "Peak Performance": 1,
+            "Dragon Attack": 2
+        }
+    },
+    "Vaal Hazak Mail Alpha": {
+        "skills": {
+            "Recovery Speed": 2,
+            "Dragon Attack": 1
+        }
+    },
+    "Vaal Hazak Braces Alpha": {
+        "skills": {
+            "Peak Performance": 1,
+            "Recovery Speed": 1
+        }
+    },
+    "Vaal Hazak Coil Alpha": {
+        "skills": {
+            "Peak Performance": 1,
+            "Effluvia Resistance": 1
+        }
+    },
+    "Vaal Hazak Greaves Alpha": {
+        "skills": {
+            "Effluvia Resistance": 2,
+            "Dragon Attack": 1
+        }
+    },
+    "Vaal Hazak Helm Beta": {
+        "skills": {
+            "Peak Performance": 1
+        }
+    },
+    "Vaal Hazak Mail Beta": {
+        "skills": {
+            "Recovery Speed": 2
+        }
+    },
+    "Vaal Hazak Braces Beta": {
+        "skills": {
+            "Peak Performance": 1
+        }
+    },
+    "Vaal Hazak Coil Beta": {
+        "skills": {
+            "Peak Performance": 1
+        }
+    },
+    "Vaal Hazak Greaves Beta": {
+        "skills": {
+            "Effluvia Resistance": 2
+        }
+    },
+    "Kirin Horn Alpha": {
+        "skills": {
+            "Marathon Runner": 2,
+            "Divine Blessing": 1
+        }
+    },
+    "Kirin Jacket Alpha": {
+        "skills": {
+            "Divine Blessing": 2,
+            "Thunder Attack": 1
+        }
+    },
+    "Kirin Longarms Alpha": {
+        "skills": {
+            "Thunder Attack": 2,
+            "Marathon Runner": 1
+        }
+    },
+    "Kirin Hoop Alpha": {
+        "skills": {
+            "Blight Resistance": 1,
+            "Free Elem/Ammo Up": 1
+        }
+    },
+    "Kirin Leg Guards Alpha": {
+        "skills": {
+            "Free Elem/Ammo Up": 2,
+            "Thunder Resistance": 2
+        }
+    },
+    "Kirin Horn Beta": {
+        "skills": {
+            "Marathon Runner": 2
+        }
+    },
+    "Kirin Jacket Beta": {
+        "skills": {
+            "Divine Blessing": 2
+        }
+    },
+    "Kirin Longarms Beta": {
+        "skills": {
+            "Thunder Attack": 2
+        }
+    },
+    "Kirin Hoop Beta": {
+        "skills": {
+            "Blight Resistance": 1
+        }
+    },
+    "Kirin Leg Guards Beta": {
+        "skills": {
+            "Free Elem/Ammo Up": 2
+        }
+    },
+    "Xeno'jiiva Headgear Alpha": {
+        "skills": {
+            "Flinch Free": 1,
+            "Special Ammo Boost": 1
+        }
+    },
+    "Xeno'jiiva Hide Alpha": {
+        "skills": {
+            "Power Prolonger": 2,
+            "Blight Resistance": 1
+        }
+    },
+    "Xeno'jiiva Claws Alpha": {
+        "skills": {
+            "Flinch Free": 1,
+            "Critical Boost": 1
+        }
+    },
+    "Xeno'jiiva Spine Alpha": {
+        "skills": {
+            "Blight Resistance": 2,
+            "Special Ammo Boost": 1
+        }
+    },
+    "Xeno'jiiva Spurs Alpha": {
+        "skills": {
+            "Flinch Free": 1,
+            "Power Prolonger": 1
+        }
+    },
+    "Xeno'jiiva Headgear Beta": {
+        "skills": {
+            "Flinch Free": 1
+        }
+    },
+    "Xeno'jiiva Hide Beta": {
+        "skills": {
+            "Power Prolonger": 2
+        }
+    },
+    "Xeno'jiiva Claws Beta": {
+        "skills": {
+            "Flinch Free": 1
+        }
+    },
+    "Xeno'jiiva Spine Beta": {
+        "skills": {
+            "Blight Resistance": 2
+        }
+    },
+    "Xeno'jiiva Spurs Beta": {
+        "skills": {
+            "Flinch Free": 1
+        }
+    },
+    "Guild Cross Circlet Alpha": {
+        "skills": {
+            "Divine Blessing": 2,
+            "Thunder Resistance": 2
+        }
+    },
+    "Guild Cross Suit Alpha": {
+        "skills": {
+            "Resuscitate": 1,
+            "Ice Resistance": 2
+        }
+    },
+    "Guild Cross Vambraces Alpha": {
+        "skills": {
+            "Tool Specialist": 1,
+            "Water Resistance": 2
+        }
+    },
+    "Guild Cross Coil Alpha": {
+        "skills": {
+            "Fortify": 1,
+            "Dragon Resistance": 2
+        }
+    },
+    "Guild Cross Boots Alpha": {
+        "skills": {
+            "Airborne": 1,
+            "Fire Resistance": 2
+        }
+    },
+    "Guild Cross Circlet Beta": {
+        "skills": {
+            "Divine Blessing": 2
+        }
+    },
+    "Guild Cross Suit Beta": {
+        "skills": {
+            "Resuscitate": 1
+        }
+    },
+    "Guild Cross Vambraces Beta": {
+        "skills": {
+            "Tool Specialist": 1
+        }
+    },
+    "Guild Cross Coil Beta": {
+        "skills": {
+            "Fortify": 1
+        }
+    },
+    "Guild Cross Boots Beta": {
+        "skills": {
+            "Airborne": 1
+        }
+    },
+    "Dragonking Eyepatch Alpha": {
+        "skills": {
+            "Weakness Exploit": 2
+        }
+    },
+    "Commission Gorget Alpha": {
+        "skills": {
+            "Tool Specialist": 1,
+            "Master Gatherer": 1
+        }
+    },
+    "Commission Jacket Alpha": {
+        "skills": {
+            "Wide-Range": 2,
+            "Cliffhanger": 1
+        }
+    },
+    "Commission Vambraces Alpha": {
+        "skills": {
+            "Blindsider": 1,
+            "Carving Pro": 1
+        }
+    },
+    "Commission Belt Alpha": {
+        "skills": {
+            "Mushroomancer": 1,
+            "Pro Transporter": 1
+        }
+    },
+    "Commission Pants Alpha": {
+        "skills": {
+            "Stealth": 2,
+            "Affinity Sliding": 1
+        }
+    },
+    "Commission Gorget Beta": {
+        "skills": {
+            "Tool Specialist": 1
+        }
+    },
+    "Commission Jacket Beta": {
+        "skills": {
+            "Wide-Range": 2
+        }
+    },
+    "Commission Vambraces Beta": {
+        "skills": {
+            "Blindsider": 1
+        }
+    },
+    "Commission Belt Beta": {
+        "skills": {
+            "Mushroomancer": 1
+        }
+    },
+    "Commission Pants Beta": {
+        "skills": {
+            "Stealth": 2
+        }
+    },
+    "Vangis Helm Alpha": {
+        "skills": {}
+    },
+    "Vangis Mail Alpha": {
+        "skills": {}
+    },
+    "Vangis Vambraces Alpha": {
+        "skills": {}
+    },
+    "Vangis Coil Alpha": {
+        "skills": {}
+    },
+    "Vangis Greaves Alpha": {
+        "skills": {}
+    },
+    "Vangis Helm Beta": {
+        "skills": {}
+    },
+    "Vangis Mail Beta": {
+        "skills": {}
+    },
+    "Vangis Vambraces Beta": {
+        "skills": {}
+    },
+    "Vangis Coil Beta": {
+        "skills": {}
+    },
+    "Vangis Greaves Beta": {
+        "skills": {}
+    },
+    "Kulve Taroth's Fury Alpha": {
+        "skills": {}
+    },
+    "Kulve Taroth's Ire Alpha": {
+        "skills": {}
+    },
+    "Kulve Taroth's Rage Alpha": {
+        "skills": {}
+    },
+    "Kulve Taroth's Malice Alpha": {
+        "skills": {}
+    },
+    "Kulve Taroth's Wrath Alpha": {
+        "skills": {}
+    },
+    "Kulve Taroth's Fury Beta": {
+        "skills": {}
+    },
+    "Kulve Taroth's Ire Beta": {
+        "skills": {}
+    },
+    "Kulve Taroth's Rage Beta": {
+        "skills": {}
+    },
+    "Kulve Taroth's Malice Beta": {
+        "skills": {}
+    },
+    "Kulve Taroth's Wrath Beta": {
+        "skills": {}
+    },
+    "Blossom Headgear Alpha": {
+        "skills": {}
+    },
+    "Blossom Vest Alpha": {
+        "skills": {}
+    },
+    "Blossom Cuffs Alpha": {
+        "skills": {}
+    },
+    "Blossom Coat Alpha": {
+        "skills": {}
+    },
+    "Blossom Boots Alpha": {
+        "skills": {}
+    },
+    "Kirin Horn Gamma": {
+        "skills": {}
+    },
+    "Kirin Jacket Gamma": {
+        "skills": {}
+    },
+    "Kirin Longarms Gamma": {
+        "skills": {}
+    },
+    "Kirin Hoop Gamma": {
+        "skills": {}
+    },
+    "Kirin Leg Guards Gamma": {
+        "skills": {}
+    },
+    "Dante's Hair Alpha": {
+        "skills": {}
+    },
+    "Dante's Coat Alpha": {
+        "skills": {}
+    },
+    "Dante's Gloves Alpha": {
+        "skills": {}
+    },
+    "Dante's Belt Alpha": {
+        "skills": {}
+    },
+    "Dante's Leather Boots Alpha": {
+        "skills": {}
+    },
+    "Empress Crown Alpha": {
+        "skills": {}
+    },
+    "Empress Mail Alpha": {
+        "skills": {}
+    },
+    "Empress Vambraces Alpha": {
+        "skills": {}
+    },
+    "Empress Coil Alpha": {
+        "skills": {}
+    },
+    "Empress Greaves Alpha": {
+        "skills": {}
+    },
+    "Empress Crown Beta": {
+        "skills": {}
+    },
+    "Empress Mail Beta": {
+        "skills": {}
+    },
+    "Empress Vambraces Beta": {
+        "skills": {}
+    },
+    "Empress Coil Beta": {
+        "skills": {}
+    },
+    "Empress Greaves Beta": {
+        "skills": {}
+    },
+    "Sealed Eyepatch Alpha": {
+        "skills": {
+            "Fire Resistance": 1
+        }
+    },
+    "Shadow Shades Alpha": {
+        "skills": {}
+    },
+    "Kulu-Ya-Ku Head Alpha": {
+        "skills": {}
+    },
+    "Wiggler Head Alpha": {
+        "skills": {}
+    }
+}

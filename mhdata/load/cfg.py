@@ -25,3 +25,6 @@ incomplete_languages = ['ja']
 
 "List of all possible armor parts"
 armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']
+
+"Maximum number of items in a recipe"
+max_recipe_item_count = 4
