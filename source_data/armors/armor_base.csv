@@ -152,6 +152,11 @@ Kirin Jacket,キリンベスト,4,chest,both,0,0,0,34,58,78,-3,-2,4,-2,2
 Kirin Longarms,キリンアームロング,4,arms,both,0,0,0,34,58,78,-3,-2,4,-2,2
 Kirin Hoop,キリンフープ,4,waist,both,0,0,0,34,58,78,-3,-2,4,-2,2
 Kirin Leg Guards,キリンレガース,4,legs,both,0,0,0,34,58,78,-3,-2,4,-2,2
+Blossom Headgear,ブロッサムヘッド,3,head,both,0,0,0,18,46,70,1,1,4,1,1
+Blossom Vest,ブロッサムベスト,3,chest,both,0,0,0,18,46,70,1,1,4,1,1
+Blossom Cuffs,ブロッサムカフス,3,arms,both,0,0,0,18,46,70,1,1,4,1,1
+Blossom Coat,ブロッサムコート,3,waist,both,0,0,0,18,46,70,1,1,4,1,1
+Blossom Boots,ブロッサムブーツ,3,legs,both,0,0,0,18,46,70,1,1,4,1,1
 Leather Headgear Alpha,レザーヘッドα,5,head,both,0,0,0,32,54,70,2,0,0,0,0
 Leather Mail Alpha,レザーベストα,5,chest,both,0,0,0,32,54,70,2,0,0,0,0
 Leather Gloves Alpha,レザーグラブα,5,arms,both,0,0,0,32,54,70,2,0,0,0,0
@@ -637,4 +642,52 @@ Commission Jacket Beta,シーカーベストβ,8,chest,both,1,0,0,70,76,90,2,2,2
 Commission Vambraces Beta,シーカーグラブβ,8,arms,both,2,0,0,70,76,90,2,2,2,2,2
 Commission Belt Beta,シーカーベルトβ,8,waist,both,2,0,0,70,76,90,2,2,2,2,2
 Commission Pants Beta,シーカーパンツβ,8,legs,both,2,0,0,70,76,90,2,2,2,2,2
+Vangis Helm Alpha,バンギスヘルムα,7,head,both,1,0,0,58,70,84,1,1,-3,2,-3
+Vangis Mail Alpha,バンギスメイルα,7,chest,both,2,0,0,58,70,84,1,1,-3,2,-3
+Vangis Vambraces Alpha,バンギスアームα,7,arms,both,0,0,0,58,70,84,1,1,-3,2,-3
+Vangis Coil Alpha,バンギスコイルα,7,waist,both,1,0,0,58,70,84,1,1,-3,2,-3
+Vangis Greaves Alpha,バンギスグリーヴα,7,legs,both,0,0,0,58,70,84,1,1,-3,2,-3
+Vangis Helm Beta,バンギスヘルムβ,7,head,both,3,1,0,58,70,84,1,1,-3,2,-3
+Vangis Mail Beta,バンギスメイルβ,7,chest,both,3,0,0,58,70,84,1,1,-3,2,-3
+Vangis Vambraces Beta,バンギスアームβ,7,arms,both,2,0,0,58,70,84,1,1,-3,2,-3
+Vangis Coil Beta,バンギスコイルβ,7,waist,both,3,1,0,58,70,84,1,1,-3,2,-3
+Vangis Greaves Beta,バンギスグリーヴβ,7,legs,both,1,1,0,58,70,84,1,1,-3,2,-3
+Kulve Taroth's Fury Alpha,マムガイラヘルムα,8,head,both,1,0,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Ire Alpha,マムガイラメイルα,8,chest,both,1,0,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Rage Alpha,マムガイラアームα,8,arms,both,1,0,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Malice Alpha,マムガイラコイルα,8,waist,both,1,0,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Wrath Alpha,マムガイラグリーヴα,8,legs,both,1,0,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Fury Beta,マムガイラヘルムβ,8,head,both,2,1,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Ire Beta,マムガイラメイルβ,8,chest,both,3,1,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Rage Beta,マムガイラアームβ,8,arms,both,3,1,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Malice Beta,マムガイラコイルβ,8,waist,both,3,1,0,72,78,92,4,-2,3,-4,-2
+Kulve Taroth's Wrath Beta,マムガイラグリーヴβ,8,legs,both,2,1,0,72,78,92,4,-2,3,-4,-2
+Blossom Headgear Alpha,ブロッサムヘッドα,5,head,both,1,1,0,40,62,78,1,1,4,1,1
+Blossom Vest Alpha,ブロッサムベストα,5,chest,both,1,1,0,40,62,78,1,1,4,1,1
+Blossom Cuffs Alpha,ブロッサムカフスα,5,arms,both,1,1,0,40,62,78,1,1,4,1,1
+Blossom Coat Alpha,ブロッサムコートα,5,waist,both,1,1,0,40,62,78,1,1,4,1,1
+Blossom Boots Alpha,ブロッサムブーツα,5,legs,both,1,1,0,40,62,78,1,1,4,1,1
+Kirin Horn Gamma,キリンホーンγ,8,head,both,2,0,0,72,78,92,-3,-2,4,-2,2
+Kirin Jacket Gamma,キリンベストγ,8,chest,both,1,1,0,72,78,92,-3,-2,4,-2,2
+Kirin Longarms Gamma,キリンアームロングγ,8,arms,both,2,2,0,72,78,92,-3,-2,4,-2,2
+Kirin Hoop Gamma,キリンフープγ,8,waist,both,1,1,0,72,78,92,-3,-2,4,-2,2
+Kirin Leg Guards Gamma,キリンレガースγ,8,legs,both,3,0,0,72,78,92,-3,-2,4,-2,2
+Dante's Hair Alpha,ダンテウィッグα,8,head,both,1,0,0,64,70,84,3,-3,3,-3,3
+Dante's Coat Alpha,ダンテコートα,8,chest,both,3,0,0,64,70,84,3,-3,3,-3,3
+Dante's Gloves Alpha,ダンテグローブα,8,arms,both,3,0,0,64,70,84,3,-3,3,-3,3
+Dante's Belt Alpha,ダンテベルトα,8,waist,both,3,0,0,64,70,84,3,-3,3,-3,3
+Dante's Leather Boots Alpha,ダンテレザーα,8,legs,both,1,1,0,64,70,84,3,-3,3,-3,3
+Empress Crown Alpha,エンプレスセクターα,8,head,both,3,0,0,70,76,90,3,1,1,-3,-2
+Empress Mail Alpha,エンプレスメイルα,8,chest,both,1,1,0,70,76,90,3,1,1,-3,-2
+Empress Vambraces Alpha,エンプレスアームα,8,arms,both,3,0,0,70,76,90,3,1,1,-3,-2
+Empress Coil Alpha,エンプレスコイルα,8,waist,both,2,1,0,70,76,90,3,1,1,-3,-2
+Empress Greaves Alpha,エンプレスグリーヴα,8,legs,both,2,1,0,70,76,90,3,1,1,-3,-2
+Empress Crown Beta,エンプレスセクターβ,8,head,both,3,2,0,70,76,90,3,1,1,-3,-2
+Empress Mail Beta,エンプレスメイルβ,8,chest,both,1,1,1,70,76,90,3,1,1,-3,-2
+Empress Vambraces Beta,エンプレスアームβ,8,arms,both,3,2,0,70,76,90,3,1,1,-3,-2
+Empress Coil Beta,エンプレスコイルβ,8,waist,both,2,2,0,70,76,90,3,1,1,-3,-2
+Empress Greaves Beta,エンプレスグリーヴβ,8,legs,both,2,2,0,70,76,90,3,1,1,-3,-2
 Sealed Eyepatch Alpha,封印の眼帯α,5,head,both,2,1,0,46,68,84,3,2,0,2,0
+Shadow Shades Alpha,シャドウアイα,5,head,both,1,1,1,46,68,84,4,0,4,2,0
+Kulu-Ya-Ku Head Alpha,クルルフェイクα,5,head,both,3,1,0,46,68,84,2,0,2,3,2
+Wiggler Head Alpha,ユラユラフェイクα,5,head,both,1,1,0,46,68,84,0,4,0,0,4
