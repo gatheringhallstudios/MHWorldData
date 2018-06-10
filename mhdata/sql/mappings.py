@@ -56,6 +56,7 @@ class LocationItem(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     location_id = Column(Integer, ForeignKey("location_text.id"))
+    area = Column(Integer)
     rank = Column(Text)
     item_id = Column(Integer, ForeignKey('item.id'), index=True)
     stack = Column(Integer)

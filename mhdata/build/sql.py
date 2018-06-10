@@ -89,6 +89,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
 
             session.add(db.LocationItem(
                 location_id=location_id,
+                area=item_entry['area'],
                 rank=item_entry['rank'],
                 item_id=item_id,
                 stack=item_entry['stack'],
