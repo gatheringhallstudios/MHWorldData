@@ -3,7 +3,21 @@ import collections
 import copy
 
 import mhdata.util as util
-from .datamap import DataMap
+
+def to_basic(obj, *, collected={}):
+    """Converts an object to its most basic form, recursively.
+    Does not prevent infinite recursion, careful with usage.
+    """
+    if isinstance(obj, collections.Mapping):
+        # This can be converted to a dictionary
+        return { k:to_basic(v) for (k, v) in obj.items()}
+    elif isinstance(obj, str):
+        return obj
+    elif isinstance(obj, collections.Iterable):
+        return [to_basic(v) for v in obj]
+    else:
+        return obj
+
 
 def check_not_grouped(obj, groups):
     "Checks if any fields have already been grouped, and returns the ones that aren't"
@@ -132,38 +146,3 @@ def unflatten(obj_list, *, nest, groups=[], leaftype):
                 leaftype=leaftype)
 
         return results
-
-
-def extract_sub_data(data_map : DataMap, *, key=None, fields=None, lang='en'):
-    "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
-
-    if not key and not fields:
-        raise ValueError(
-            "Either a key or a list of fields " +
-            "must be given when persisting a data map")
-
-    result = {}
-
-    for entry in data_map.values():
-        name = entry.name(lang)
-
-        # If root is supplied, nest. If doesn't exist, skip to next item
-        if key:
-            if not entry.get(key, None):
-                continue
-            entry = entry[key]
-
-        # If we re-rooted, we might be looking at a list now
-        # Lists are extracted as-is
-        # TODO: what if we get a list here and fields is supplied?
-        if not isinstance(entry, collections.Mapping):
-            result[name] = entry
-            continue
-
-        # If fields is given, extract them
-        if fields:
-            result[name] = util.extract_fields(entry, *fields)
-        else:
-            result[name] = copy.deepcopy(entry)
-
-    return result

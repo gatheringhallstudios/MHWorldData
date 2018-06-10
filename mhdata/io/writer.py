@@ -10,7 +10,7 @@ import mhdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
-from .functions import flatten, extract_sub_data, ungroup_fields
+from .functions import flatten, ungroup_fields
 from mhdata.io.csv import save_csv
 
 class DataReaderWriter(DataReader):
@@ -47,7 +47,7 @@ class DataReaderWriter(DataReader):
         At least one of key or fields is required
         """
         location = self.get_data_path(location)
-        result = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
+        result = data_map.extract(key=key, fields=fields, lang=lang)
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
@@ -70,7 +70,7 @@ class DataReaderWriter(DataReader):
 
         TODO: Write about nest_additional and groups
         """
-        extracted = extract_sub_data(data_map, key=key, fields=fields, lang=lang)
+        extracted = data_map.extract(key=key, fields=fields, lang=lang)
         flattened_rows = flatten(extracted, nest=['name_'+lang] + nest_additional)
         flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
