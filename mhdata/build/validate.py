@@ -14,6 +14,7 @@ def validate(mhdata):
     "Perform all validations, print out the errors, and return if it succeeded or not"
     errors = []
     errors.extend(validate_items(mhdata))
+    errors.extend(validate_locations(mhdata))
     errors.extend(validate_monsters(mhdata))
     errors.extend(validate_monster_rewards(mhdata))
     errors.extend(validate_armor(mhdata))
@@ -39,6 +40,17 @@ def validate_items(mhdata):
 
     return errors
 
+def validate_locations(mhdata):
+    errors = []
+
+    for location_entry in mhdata.location_map.values():
+        for item_entry in location_entry['items']:
+            item_lang = item_entry['item_lang']
+            item_name = item_entry['item']
+            if item_name not in mhdata.item_map.names(item_lang):
+                errors.append(f"{item_name} in location items doesn't exist")
+
+    return errors
 
 def validate_monsters(mhdata):
     errors = []
@@ -94,6 +106,10 @@ def validate_monster_rewards(mhdata):
             # ensure condition exists
             if condition not in mhdata.monster_reward_conditions_map.names('en'):
                 errors.add(f"Invalid condition {condition} in monster {monster_name}")
+                valid = False
+
+            if reward['item_en'] not in mhdata.item_map.names('en'):
+                errors.add(f"Monster reward item {reward['item_en']} doesn't exist")
                 valid = False
 
             if rank not in supported_ranks:

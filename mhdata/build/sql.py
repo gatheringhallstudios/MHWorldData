@@ -86,7 +86,6 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
             item_lang = item_entry['item_lang']
             item_name = item_entry['item']
             item_id = mhdata.item_map.id_of(item_lang, item_name)
-            ensure(item_id, f"item {item_name} in monster {location_name} does not exist")
 
             session.add(db.LocationItem(
                 location_id=location_id,
@@ -197,10 +196,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
             item_name = reward['item_en']
 
             condition_id = monster_reward_conditions_map.id_of('en', condition_en)
-            ensure(condition_id, f"Condition {condition_en} in monster {monster_name} does not exist")
-
             item_id = item_map.id_of('en', item_name)
-            ensure(item_id, f"item reward {item_name} in monster {monster_name} does not exist")
 
             monster.rewards.append(db.MonsterReward(
                 condition_id=condition_id,
