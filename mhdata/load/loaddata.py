@@ -72,7 +72,6 @@ def load_data():
 
     armorset_bonus_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armorset_bonus_base.csv")
-                    .add_csv("armorset_bonus_skills.csv", key="skills")
                     .get())
     result.armorset_bonus_map = transform_dmap(armorset_bonus_map, schema.ArmorSetBonus())
 

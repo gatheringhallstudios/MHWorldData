@@ -145,6 +145,7 @@ def validate_armor(mhdata):
     # Checks if any pieces of armor is listed in two different sets
     encountered_armors = set()
 
+    # Validate armorsets
     for setentry in mhdata.armorset_map.values():
         setname = setentry.name('en')
         armor_lang = setentry['armor_lang']
@@ -168,6 +169,7 @@ def validate_armor(mhdata):
 
             encountered_armors.add(armor_id)
 
+    # Validate Armor
     for armor_entry in mhdata.armor_map.values():
         # Ensure that all armor items were encountered
         if armor_entry.id not in encountered_armors:
@@ -182,5 +184,11 @@ def validate_armor(mhdata):
         for skill_name, _ in datafn.iter_skill_points(armor_entry):
             if skill_name not in mhdata.skill_map.names('en'):
                 errors.append(f"Skill {skill_name} in armors does not exist")
+
+    # Validate Armorset bonuses
+    for bonus_entry in mhdata.armorset_bonus_map.values():
+        for skill_name, _ in datafn.iter_setbonus_skills(bonus_entry):
+            if skill_name not in mhdata.skill_map.names('en'):
+                errors.append(f"Skill {skill_name} in set bonuses does not exist")
 
     return errors

@@ -80,12 +80,10 @@ class ArmorSetSchema(BaseSchema):
 class ArmorSetBonus(BaseSchema):
     __groups__ = ('name')
     name = fields.Dict()
-    skills = fields.Nested('ArmorSetBonusSkill', many=True)
-
-class ArmorSetBonusSkill(BaseSchema):
-    skill = fields.String()
-    points = fields.Int()
-    threshold = fields.Int()
+    skill1_name = fields.Str(allow_none=True)
+    skill1_required = fields.Int(allow_none=True)
+    skill2_name = fields.Str(allow_none=True)
+    skill2_required = fields.Int(allow_none=True)
 
 class ArmorBaseSchema(BaseSchema):
     "Schema for armor base data"

@@ -9,6 +9,19 @@ This may change in the future, ideas are to:
 
 import mhdata.load.cfg as cfg
 
+
+def iter_setbonus_skills(setbonus):
+    "Iterates over set bonuses, returning (name, required) tuples"
+    for idx in range(1, cfg.max_skill_count + 1):
+        name = setbonus[f'skill{idx}_name']
+        required = setbonus[f'skill{idx}_required']
+
+        if not name:
+            break
+
+        yield (name, required)
+
+
 def iter_skill_points(obj):
     "Iterates over armor/weapon skill points, returning (name, lvl) tuples"
     for idx in range(1, cfg.max_skill_count + 1):
@@ -19,6 +32,7 @@ def iter_skill_points(obj):
             break
 
         yield (name, points)
+
 
 def iter_armor_recipe(armor):
     "Iterates over the items in an armor recipe, returning (name, qty) tuples"

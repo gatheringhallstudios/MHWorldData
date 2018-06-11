@@ -3918,5 +3918,43 @@
                 }
             }
         ]
+    },
+    {
+        "name": {
+            "en": "Great Luck",
+            "ja": null
+        },
+        "description": {
+            "en": "High chance of increased quest rewards. (No effect when joining mid-quest.)",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "High chance of increased quest rewards. (No effect when joining mid-quest.)",
+                    "ja": null
+                }
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Carving Master",
+            "ja": null
+        },
+        "description": {
+            "en": "Lets you carve one additional time. (No effect when joining mid-quest.)",
+            "ja": null
+        },
+        "effects": [
+            {
+                "level": 1,
+                "description": {
+                    "en": "Lets you carve one additional time. (No effect when joining mid-quest.)",
+                    "ja": null
+                }
+            }
+        ]
     }
 ]

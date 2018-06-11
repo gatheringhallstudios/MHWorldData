@@ -256,23 +256,20 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
 
     # Write entries from armor set bonuses
     # These are written first as they are "linked to"
-    for entry in armorset_bonus_map.values():
+    for bonus_entry in armorset_bonus_map.values():
         for language in cfg.supported_languages:
             session.add(db.ArmorSetBonusText(
-                id=entry.id,
+                id=bonus_entry.id,
                 lang_id=language,
-                name=entry.name(language)
+                name=bonus_entry.name(language)
             ))
         
-        for skill_entry in entry['skills']:
-            skill_id = skill_map.id_of('en', skill_entry['skill'])
-            ensure(skill_id, f"Skill {skill_entry['skill']} in armorset bonuses doesn't exist")
-            
+        for skill_name, required in datafn.iter_setbonus_skills(bonus_entry):
+            skill_id = skill_map.id_of('en', skill_name)
             session.add(db.ArmorSetBonusSkill(
-                id=entry.id,
+                setbonus_id=bonus_entry.id,
                 skilltree_id=skill_id,
-                points=skill_entry['points'],
-                threshold=skill_entry['threshold']
+                required=required
             ))
 
     # Write entries for armor sets

@@ -237,10 +237,9 @@ class ArmorSetBonusText(Base):
 
 class ArmorSetBonusSkill(Base):
     __tablename__ = "armorset_bonus_skill"
-    id = Column(Integer, primary_key=True)
+    setbonus_id = Column(Integer, primary_key=True)
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
-    points = Column(Integer)
-    threshold = Column(Integer)
+    required = Column(Integer)
 
 class Armor(Base):
     __tablename__ = "armor"

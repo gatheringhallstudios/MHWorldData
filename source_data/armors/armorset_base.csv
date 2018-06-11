@@ -18,7 +18,7 @@ King Beetle,オウビート,en,King Beetle Vertex,King Beetle Thorax,King Beetle
 Butterfly,パピメル,en,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
 Shamos,シャム,en,Shamos Goggles,,,,,
 Hornetaur,タロス,en,Hornetaur Helm,Hornetaur Mail,Hornetaur Vambraces,Hornetaur Coil,Hornetaur Greaves,
-Anja,ジャナフ,en,Anja Helm,Anja Mail,Anja Vambraces,Anja Coil,Anja Greaves,
+Anja,ジャナフ,en,Anja Helm,Anja Mail,Anja Vambraces,Anja Coil,Anja Greaves,Anjanath Power
 Rathian,レイア,en,Rathian Helm,Rathian Mail,Rathian Vambraces,Rathian Coil,Rathian Greaves,
 Tzitzi,ツィツィ,en,Tzitzi Headgear,Tzitzi Mail,Tzitzi Vambraces,Tzitzi Coil,Tzitzi Greaves,
 Lumu,ウルムー,en,Lumu Hat,Lumu Mail,Lumu Vambraces,Lumu Coil,Lumu Greaves,
@@ -27,11 +27,11 @@ Baan,バルキン,en,Baan Helm,Baan Mail,Baan Vambraces,Baan Coil,Baan Greaves,
 Ingot,インゴット,en,Ingot Helm,Ingot Mail,Ingot Vambraces,Ingot Coil,Ingot Greaves,
 Death Stench,デスギア,en,Death Stench Brain,Death Stench Muscle,Death Stench Grip,Death Stench Bowels,Death Stench Heels,
 Brigade,ブリゲイド,en,Brigade Lobos,Brigade Suit,Brigade Vambraces,Brigade Coil,Brigade Boots,
-Legiana,ギエナ,en,Legiana Helm,Legiana Mail,Legiana Vambraces,Legiana Coil,Legiana Greaves,
-Odogaron,ガロン,en,Odogaron Helm,Odogaron Mail,Odogaron Vambraces,Odogaron Coil,Odogaron Greaves,
-Rathalos,レウス,en,Rathalos Helm,Rathalos Mail,Rathalos Vambraces,Rathalos Coil,Rathalos Greaves,
-Diablos,ディアブロ,en,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,Diablos Greaves,
-Kirin,キリン,en,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,
+Legiana,ギエナ,en,Legiana Helm,Legiana Mail,Legiana Vambraces,Legiana Coil,Legiana Greaves,Legiana Blessing
+Odogaron,ガロン,en,Odogaron Helm,Odogaron Mail,Odogaron Vambraces,Odogaron Coil,Odogaron Greaves,Odogaron Power
+Rathalos,レウス,en,Rathalos Helm,Rathalos Mail,Rathalos Vambraces,Rathalos Coil,Rathalos Greaves,Rathalos Power
+Diablos,ディアブロ,en,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,Diablos Greaves,Diablos Power
+Kirin,キリン,en,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,Kirin Blessing
 Blossom,ブロッサム,en,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
 Leather Alpha,レザーα,en,Leather Headgear Alpha,Leather Mail Alpha,Leather Gloves Alpha,Leather Belt Alpha,Leather Trousers Alpha,
 Leather Beta,レザーβ,en,Leather Headgear Beta,Leather Mail Beta,Leather Gloves Beta,Leather Belt Beta,Leather Trousers Beta,
@@ -70,8 +70,8 @@ Pukei Alpha,プケプケα,en,Pukei Hood Alpha,Pukei Mail Alpha,Pukei Vambraces 
 Pukei Beta,プケプケβ,en,Pukei Hood Beta,Pukei Mail Beta,Pukei Vambraces Beta,Pukei Coil Beta,Pukei Greaves Beta,
 Barroth Alpha,ボロスα,en,Barroth Helm Alpha,Barroth Mail Alpha,Barroth Vambraces Alpha,Barroth Coil Alpha,Barroth Greaves Alpha,
 Barroth Beta,ボロスβ,en,Barroth Helm Beta,Barroth Mail Beta,Barroth Vambraces Beta,Barroth Coil Beta,Barroth Greaves Beta,
-Anja Alpha,ジャナフα,en,Anja Helm Alpha,Anja Mail Alpha,Anja Vambraces Alpha,Anja Coil Alpha,Anja Greaves Alpha,
-Anja Beta,ジャナフβ,en,Anja Helm Beta,Anja Mail Beta,Anja Vambraces Beta,Anja Coil Beta,Anja Greaves Beta,
+Anja Alpha,ジャナフα,en,Anja Helm Alpha,Anja Mail Alpha,Anja Vambraces Alpha,Anja Coil Alpha,Anja Greaves Alpha,Anjanath Will
+Anja Beta,ジャナフβ,en,Anja Helm Beta,Anja Mail Beta,Anja Vambraces Beta,Anja Coil Beta,Anja Greaves Beta,Anjanath Will
 Jyura Alpha,ジュラα,en,Jyura Helm Alpha,Jyura Mail Alpha,Jyura Vambraces Alpha,Jyura Coil Alpha,Jyura Greaves Alpha,
 Jyura Beta,ジュラβ,en,Jyura Helm Beta,Jyura Mail Beta,Jyura Vambraces Beta,Jyura Coil Beta,Jyura Greaves Beta,
 Kadachi Alpha,カガチα,en,Kadachi Helm Alpha,Kadachi Mail Alpha,Kadachi Vambraces Alpha,Kadachi Coil Alpha,Kadachi Greaves Alpha,
@@ -80,8 +80,8 @@ Lumu Alpha,ウルムーα,en,Lumu Hat Alpha,Lumu Mail Alpha,Lumu Vambraces Alpha
 Lumu Beta,ウルムーβ,en,Lumu Hat Beta,Lumu Mail Beta,Lumu Vambraces Beta,Lumu Coil Beta,Lumu Greaves Beta,
 Rathian Alpha,レイアα,en,Rathian Helm Alpha,Rathian Mail Alpha,Rathian Vambraces Alpha,Rathian Coil Alpha,Rathian Greaves Alpha,
 Rathian Beta,レイアβ,en,Rathian Helm Beta,Rathian Mail Beta,Rathian Vambraces Beta,Rathian Coil Beta,Rathian Greaves Beta,
-Rath Heart Alpha,リオハートα,en,Rath Heart Helm Alpha,Rath Heart Mail Alpha,Rath Heart Braces Alpha,Rath Heart Coil Alpha,Rath Heart Greaves Alpha,
-Rath Heart Beta,リオハートβ,en,Rath Heart Helm Beta,Rath Heart Mail Beta,Rath Heart Braces Beta,Rath Heart Coil Beta,Rath Heart Greaves Beta,
+Rath Heart Alpha,リオハートα,en,Rath Heart Helm Alpha,Rath Heart Mail Alpha,Rath Heart Braces Alpha,Rath Heart Coil Alpha,Rath Heart Greaves Alpha,Pink Rathian Mastery
+Rath Heart Beta,リオハートβ,en,Rath Heart Helm Beta,Rath Heart Mail Beta,Rath Heart Braces Beta,Rath Heart Coil Beta,Rath Heart Greaves Beta,Pink Rathian Mastery
 Baan Alpha,バルキンα,en,Baan Helm Alpha,Baan Mail Alpha,Baan Vambraces Alpha,Baan Coil Alpha,Baan Greaves Alpha,
 Baan Beta,バルキンβ,en,Baan Helm Beta,Baan Mail Beta,Baan Vambraces Beta,Baan Coil Beta,Baan Greaves Beta,
 Gastodon Alpha,ガストα,en,Gastodon Horn Alpha,,,,,
@@ -90,8 +90,8 @@ Barnos Alpha,バルノスα,en,,Barnos Jacket Alpha,,,,
 Barnos Beta,バルノスβ,en,,Barnos Jacket Beta,,,,
 Dodogama Alpha,ガマルα,en,Dodogama Helm Alpha,Dodogama Mail Alpha,Dodogama Vambraces Alpha,Dodogama Coil Alpha,Dodogama Greaves Alpha,
 Dodogama Beta,ガマルβ,en,Dodogama Helm Beta,Dodogama Mail Beta,Dodogama Vambraces Beta,Dodogama Coil Beta,Dodogama Greaves Beta,
-Zorah Alpha,ゾラマグナα,en,Zorah Headgear Alpha,Zorah Hide Alpha,Zorah Claws Alpha,Zorah Spine Alpha,Zorah Spurs Alpha,
-Zorah Beta,ゾラマグナβ,en,Zorah Headgear Beta,Zorah Hide Beta,Zorah Claws Beta,Zorah Spine Beta,Zorah Spurs Beta,
+Zorah Alpha,ゾラマグナα,en,Zorah Headgear Alpha,Zorah Hide Alpha,Zorah Claws Alpha,Zorah Spine Alpha,Zorah Spurs Alpha,Zorah Magdaros Mastery
+Zorah Beta,ゾラマグナβ,en,Zorah Headgear Beta,Zorah Hide Beta,Zorah Claws Beta,Zorah Spine Beta,Zorah Spurs Beta,Zorah Magdaros Mastery
 High Metal Alpha,ハイメタα,en,High Metal Helm Alpha,High Metal Mail Alpha,High Metal Braces Alpha,High Metal Coil Alpha,High Metal Greaves Alpha,
 High Metal Beta,ハイメタβ,en,High Metal Helm Beta,High Metal Mail Beta,High Metal Braces Beta,High Metal Coil Beta,High Metal Greaves Beta,
 Ingot Alpha,インゴットα,en,Ingot Helm Alpha,Ingot Mail Alpha,Ingot Vambraces Alpha,Ingot Coil Alpha,Ingot Greaves Alpha,
@@ -102,22 +102,22 @@ Faux Felyne Alpha,アイルーフェイクα,en,Faux Felyne Alpha,,,,,
 Strategist Alpha,知略の眼鏡α,en,Strategist Spectacles Alpha,,,,,
 Lavasioth Alpha,ラヴァα,en,Lavasioth Helm Alpha,Lavasioth Mail Alpha,Lavasioth Vambraces Alpha,Lavasioth Coil Alpha,Lavasioth Greaves Alpha,
 Lavasioth Beta,ラヴァβ,en,Lavasioth Helm Beta,Lavasioth Mail Beta,Lavasioth Vambraces Beta,Lavasioth Coil Beta,Lavasioth Greaves Beta,
-Legiana Alpha,ギエナα,en,Legiana Helm Alpha,Legiana Mail Alpha,Legiana Vambraces Alpha,Legiana Coil Alpha,Legiana Greaves Alpha,
-Legiana Beta,ギエナβ,en,Legiana Helm Beta,Legiana Mail Beta,Legiana Vambraces Beta,Legiana Coil Beta,Legiana Greaves Beta,
-Odogaron Alpha,ガロンα,en,Odogaron Helm Alpha,Odogaron Mail Alpha,Odogaron Vambraces Alpha,Odogaron Coil Alpha,Odogaron Greaves Alpha,
-Odogaron Beta,ガロンβ,en,Odogaron Helm Beta,Odogaron Mail Beta,Odogaron Vambraces Beta,Odogaron Coil Beta,Odogaron Greaves Beta,
-Rathalos Alpha,レウスα,en,Rathalos Helm Alpha,Rathalos Mail Alpha,Rathalos Vambraces Alpha,Rathalos Coil Alpha,Rathalos Greaves Alpha,
-Rathalos Beta,レウスβ,en,Rathalos Helm Beta,Rathalos Mail Beta,Rathalos Vambraces Beta,Rathalos Coil Beta,Rathalos Greaves Beta,
-Rath Soul Alpha,リオソウルα,en,Rath Soul Helm Alpha,Rath Soul Mail Alpha,Rath Soul Braces Alpha,Rath Soul Coil Alpha,Rath Soul Greaves Alpha,
-Rath Soul Beta,リオソウルβ,en,Rath Soul Helm Beta,Rath Soul Mail Beta,Rath Soul Braces Beta,Rath Soul Coil Beta,Rath Soul Greaves Beta,
-Diablos Alpha,ディアブロα,en,Diablos Helm Alpha,Diablos Mail Alpha,Diablos Vambraces Alpha,Diablos Coil Alpha,Diablos Greaves Alpha,
-Diablos Beta,ディアブロβ,en,Diablos Helm Beta,Diablos Mail Beta,Diablos Vambraces Beta,Diablos Coil Beta,Diablos Greaves Beta,
-Diablos Nero Alpha,ディアネロα,en,Diablos Nero Helm Alpha,Diablos Nero Mail Alpha,Diablos Nero Braces Alpha,Diablos Nero Coil Alpha,Diablos Nero Greaves Alpha,
-Diablos Nero Beta,ディアネロβ,en,Diablos Nero Helm Beta,Diablos Nero Mail Beta,Diablos Nero Braces Beta,Diablos Nero Coil Beta,Diablos Nero Greaves Beta,
-Uragaan Alpha,ガンキンα,en,Uragaan Helm Alpha,Uragaan Mail Alpha,Uragaan Vambraces Alpha,Uragaan Coil Alpha,Uragaan Greaves Alpha,
-Uragaan Beta,ガンキンβ,en,Uragaan Helm Beta,Uragaan Mail Beta,Uragaan Vambraces Beta,Uragaan Coil Beta,Uragaan Greaves Beta,
-Bazel Alpha,バゼルα,en,Bazel Helm Alpha,Bazel Mail Alpha,Bazel Vambraces Alpha,Bazel Coil Alpha,Bazel Greaves Alpha,
-Bazel Beta,バゼルβ,en,Bazel Helm Beta,Bazel Mail Beta,Bazel Vambraces Beta,Bazel Coil Beta,Bazel Greaves Beta,
+Legiana Alpha,ギエナα,en,Legiana Helm Alpha,Legiana Mail Alpha,Legiana Vambraces Alpha,Legiana Coil Alpha,Legiana Greaves Alpha,Legiana Favor
+Legiana Beta,ギエナβ,en,Legiana Helm Beta,Legiana Mail Beta,Legiana Vambraces Beta,Legiana Coil Beta,Legiana Greaves Beta,Legiana Favor
+Odogaron Alpha,ガロンα,en,Odogaron Helm Alpha,Odogaron Mail Alpha,Odogaron Vambraces Alpha,Odogaron Coil Alpha,Odogaron Greaves Alpha,Odogaron Mastery
+Odogaron Beta,ガロンβ,en,Odogaron Helm Beta,Odogaron Mail Beta,Odogaron Vambraces Beta,Odogaron Coil Beta,Odogaron Greaves Beta,Odogaron Mastery
+Rathalos Alpha,レウスα,en,Rathalos Helm Alpha,Rathalos Mail Alpha,Rathalos Vambraces Alpha,Rathalos Coil Alpha,Rathalos Greaves Alpha,Rathalos Mastery
+Rathalos Beta,レウスβ,en,Rathalos Helm Beta,Rathalos Mail Beta,Rathalos Vambraces Beta,Rathalos Coil Beta,Rathalos Greaves Beta,Rathalos Mastery
+Rath Soul Alpha,リオソウルα,en,Rath Soul Helm Alpha,Rath Soul Mail Alpha,Rath Soul Braces Alpha,Rath Soul Coil Alpha,Rath Soul Greaves Alpha,Rathalos Mastery
+Rath Soul Beta,リオソウルβ,en,Rath Soul Helm Beta,Rath Soul Mail Beta,Rath Soul Braces Beta,Rath Soul Coil Beta,Rath Soul Greaves Beta,Rathalos Mastery
+Diablos Alpha,ディアブロα,en,Diablos Helm Alpha,Diablos Mail Alpha,Diablos Vambraces Alpha,Diablos Coil Alpha,Diablos Greaves Alpha,Diablos Mastery
+Diablos Beta,ディアブロβ,en,Diablos Helm Beta,Diablos Mail Beta,Diablos Vambraces Beta,Diablos Coil Beta,Diablos Greaves Beta,Diablos Mastery
+Diablos Nero Alpha,ディアネロα,en,Diablos Nero Helm Alpha,Diablos Nero Mail Alpha,Diablos Nero Braces Alpha,Diablos Nero Coil Alpha,Diablos Nero Greaves Alpha,Diablos Mastery
+Diablos Nero Beta,ディアネロβ,en,Diablos Nero Helm Beta,Diablos Nero Mail Beta,Diablos Nero Braces Beta,Diablos Nero Coil Beta,Diablos Nero Greaves Beta,Diablos Mastery
+Uragaan Alpha,ガンキンα,en,Uragaan Helm Alpha,Uragaan Mail Alpha,Uragaan Vambraces Alpha,Uragaan Coil Alpha,Uragaan Greaves Alpha,Uragaan Protection
+Uragaan Beta,ガンキンβ,en,Uragaan Helm Beta,Uragaan Mail Beta,Uragaan Vambraces Beta,Uragaan Coil Beta,Uragaan Greaves Beta,Uragaan Protection
+Bazel Alpha,バゼルα,en,Bazel Helm Alpha,Bazel Mail Alpha,Bazel Vambraces Alpha,Bazel Coil Alpha,Bazel Greaves Alpha,Bazelgeuse Protection
+Bazel Beta,バゼルβ,en,Bazel Helm Beta,Bazel Mail Beta,Bazel Vambraces Beta,Bazel Coil Beta,Bazel Greaves Beta,Bazelgeuse Protection
 Damascus Alpha,ダマスクα,en,Damascus Helm Alpha,Damascus Mail Alpha,Damascus Vambraces Alpha,Damascus Coil Alpha,Damascus Greaves Alpha,
 Damascus Beta,ダマスクβ,en,Damascus Helm Beta,Damascus Mail Beta,Damascus Vambraces Beta,Damascus Coil Beta,Damascus Greaves Beta,
 Dober Alpha,ドーベルα,en,Dober Helm Alpha,Dober Mail Alpha,Dober Vambraces Alpha,Dober Coil Alpha,Dober Greaves Alpha,
@@ -125,32 +125,32 @@ Dober Beta,ドーベルβ,en,Dober Helm Beta,Dober Mail Beta,Dober Vambraces Bet
 Death Stench Alpha,デスギアα,en,Death Stench Brain Alpha,Death Stench Muscle Alpha,Death Stench Grip Alpha,Death Stench Bowels Alpha,Death Stench Heel Alpha,
 Death Stench Beta,デスギアβ,en,Death Stench Brain Beta,Death Stench Muscle Beta,Death Stench Grip Beta,Death Stench Bowels Beta,Death Stench Heel Beta,
 Skull Alpha,スカルα,en,Skull Mask Alpha,,,,,
-Nergigante Alpha,オーグα,en,Nergigante Helm Alpha,Nergigante Mail Alpha,Nergigante Vambraces Alpha,Nergigante Coil Alpha,Nergigante Greaves Alpha,
-Nergigante Beta,オーグβ,en,Nergigante Helm Beta,Nergigante Mail Beta,Nergigante Vambraces Beta,Nergigante Coil Beta,Nergigante Greaves Beta,
-Teostra Alpha,カイザーα,en,Kaiser Crown Alpha,Kaiser Mail Alpha,Kaiser Vambraces Alpha,Kaiser Coil Alpha,Kaiser Greaves Alpha,
-Teostra Beta,カイザーβ,en,Kaiser Crown Beta,Kaiser Mail Beta,Kaiser Vambraces Beta,Kaiser Coil Beta,Kaiser Greaves Beta,
-Kushala Alpha,クシャナα,en,Kushala Glare Alpha,Kushala Cista Alpha,Kushala Grip Alpha,Kushala Cocoon Alpha,Kushala Crus Alpha,
-Kushala Beta,クシャナβ,en,Kushala Glare Beta,Kushala Cista Beta,Kushala Grip Beta,Kushala Cocoon Beta,Kushala Crus Beta,
-Vaal Hazak Alpha,ウルズα,en,Vaal Hazak Helm Alpha,Vaal Hazak Mail Alpha,Vaal Hazak Braces Alpha,Vaal Hazak Coil Alpha,Vaal Hazak Greaves Alpha,
-Vaal Hazak Beta,ウルズβ,en,Vaal Hazak Helm Beta,Vaal Hazak Mail Beta,Vaal Hazak Braces Beta,Vaal Hazak Coil Beta,Vaal Hazak Greaves Beta,
-Kirin Alpha,キリンα,en,Kirin Horn Alpha,Kirin Jacket Alpha,Kirin Longarms Alpha,Kirin Hoop Alpha,Kirin Leg Guards Alpha,
-Kirin Beta,キリンβ,en,Kirin Horn Beta,Kirin Jacket Beta,Kirin Longarms Beta,Kirin Hoop Beta,Kirin Leg Guards Beta,
-Xeno'jiiva Alpha,ゼノラージα,en,Xeno'jiiva Headgear Alpha,Xeno'jiiva Hide Alpha,Xeno'jiiva Claws Alpha,Xeno'jiiva Spine Alpha,Xeno'jiiva Spurs Alpha,
-Xeno'jiiva Beta,ゼノラージβ,en,Xeno'jiiva Headgear Beta,Xeno'jiiva Hide Beta,Xeno'jiiva Claws Beta,Xeno'jiiva Spine Beta,Xeno'jiiva Spurs Beta,
-Guild Cross Alpha,ギルドクロスα,en,Guild Cross Circlet Alpha,Guild Cross Suit Alpha,Guild Cross Vambraces Alpha,Guild Cross Coil Alpha,Guild Cross Boots Alpha,
-Guild Cross Beta,ギルドクロスβ,en,Guild Cross Circlet Beta,Guild Cross Suit Beta,Guild Cross Vambraces Beta,Guild Cross Coil Beta,Guild Cross Boots Beta,
+Nergigante Alpha,オーグα,en,Nergigante Helm Alpha,Nergigante Mail Alpha,Nergigante Vambraces Alpha,Nergigante Coil Alpha,Nergigante Greaves Alpha,Nergigante Hunger
+Nergigante Beta,オーグβ,en,Nergigante Helm Beta,Nergigante Mail Beta,Nergigante Vambraces Beta,Nergigante Coil Beta,Nergigante Greaves Beta,Nergigante Hunger
+Teostra Alpha,カイザーα,en,Kaiser Crown Alpha,Kaiser Mail Alpha,Kaiser Vambraces Alpha,Kaiser Coil Alpha,Kaiser Greaves Alpha,Teostra Technique
+Teostra Beta,カイザーβ,en,Kaiser Crown Beta,Kaiser Mail Beta,Kaiser Vambraces Beta,Kaiser Coil Beta,Kaiser Greaves Beta,Teostra Technique
+Kushala Alpha,クシャナα,en,Kushala Glare Alpha,Kushala Cista Alpha,Kushala Grip Alpha,Kushala Cocoon Alpha,Kushala Crus Alpha,Kushala Daora Flight
+Kushala Beta,クシャナβ,en,Kushala Glare Beta,Kushala Cista Beta,Kushala Grip Beta,Kushala Cocoon Beta,Kushala Crus Beta,Kushala Daora Flight
+Vaal Hazak Alpha,ウルズα,en,Vaal Hazak Helm Alpha,Vaal Hazak Mail Alpha,Vaal Hazak Braces Alpha,Vaal Hazak Coil Alpha,Vaal Hazak Greaves Alpha,Vaal Hazak Vitality
+Vaal Hazak Beta,ウルズβ,en,Vaal Hazak Helm Beta,Vaal Hazak Mail Beta,Vaal Hazak Braces Beta,Vaal Hazak Coil Beta,Vaal Hazak Greaves Beta,Vaal Hazak Vitality
+Kirin Alpha,キリンα,en,Kirin Horn Alpha,Kirin Jacket Alpha,Kirin Longarms Alpha,Kirin Hoop Alpha,Kirin Leg Guards Alpha,Kirin Favor
+Kirin Beta,キリンβ,en,Kirin Horn Beta,Kirin Jacket Beta,Kirin Longarms Beta,Kirin Hoop Beta,Kirin Leg Guards Beta,Kirin Favor
+Xeno'jiiva Alpha,ゼノラージα,en,Xeno'jiiva Headgear Alpha,Xeno'jiiva Hide Alpha,Xeno'jiiva Claws Alpha,Xeno'jiiva Spine Alpha,Xeno'jiiva Spurs Alpha,Xeno'jiiva Divinity
+Xeno'jiiva Beta,ゼノラージβ,en,Xeno'jiiva Headgear Beta,Xeno'jiiva Hide Beta,Xeno'jiiva Claws Beta,Xeno'jiiva Spine Beta,Xeno'jiiva Spurs Beta,Xeno'jiiva Divinity
+Guild Cross Alpha,ギルドクロスα,en,Guild Cross Circlet Alpha,Guild Cross Suit Alpha,Guild Cross Vambraces Alpha,Guild Cross Coil Alpha,Guild Cross Boots Alpha,Guild Guidance
+Guild Cross Beta,ギルドクロスβ,en,Guild Cross Circlet Beta,Guild Cross Suit Beta,Guild Cross Vambraces Beta,Guild Cross Coil Beta,Guild Cross Boots Beta,Guild Guidance
 Dragonking Alpha,竜王の隻眼α,en,Dragonking Eyepatch Alpha,,,,,
-Commission Alpha,シーカーα,en,Commission Gorget Alpha,Commission Jacket Alpha,Commission Vambraces Alpha,Commission Belt Alpha,Commission Pants Alpha,
-Commission Beta,シーカーβ,en,Commission Gorget Beta,Commission Jacket Beta,Commission Vambraces Beta,Commission Belt Beta,Commission Pants Beta,
+Commission Alpha,シーカーα,en,Commission Gorget Alpha,Commission Jacket Alpha,Commission Vambraces Alpha,Commission Belt Alpha,Commission Pants Alpha,Commission Guidance
+Commission Beta,シーカーβ,en,Commission Gorget Beta,Commission Jacket Beta,Commission Vambraces Beta,Commission Belt Beta,Commission Pants Beta,Commission Guidance
 Deviljho Alpha,バンギスα,en,Vangis Helm Alpha,Vangis Mail Alpha,Vangis Vambraces Alpha,Vangis Coil Alpha,Vangis Greaves Alpha,
 Deviljho Beta,バンギスβ,en,Vangis Helm Beta,Vangis Mail Beta,Vangis Vambraces Beta,Vangis Coil Beta,Vangis Greaves Beta,
 Kulve Taroth Alpha,マムガイラα,en,Kulve Taroth's Fury Alpha,Kulve Taroth's Ire Alpha,Kulve Taroth's Rage Alpha,Kulve Taroth's Malice Alpha,Kulve Taroth's Wrath Alpha,
 Kulve Taroth Beta,マムガイラβ,en,Kulve Taroth's Fury Beta,Kulve Taroth's Ire Beta,Kulve Taroth's Rage Beta,Kulve Taroth's Malice Beta,Kulve Taroth's Wrath Beta,
 Blossom Alpha,ブロッサムα,en,Blossom Headgear Alpha,Blossom Vest Alpha,Blossom Cuffs Alpha,Blossom Coat Alpha,Blossom Boots Alpha,
-Kirin Gamma,キリンγ,en,Kirin Horn Gamma,Kirin Jacket Gamma,Kirin Longarms Gamma,Kirin Hoop Gamma,Kirin Leg Guards Gamma,
+Kirin Gamma,キリンγ,en,Kirin Horn Gamma,Kirin Jacket Gamma,Kirin Longarms Gamma,Kirin Hoop Gamma,Kirin Leg Guards Gamma,Kirin Favor
 Dante Alpha,ダンテα,en,Dante's Hair Alpha,Dante's Coat Alpha,Dante's Gloves Alpha,Dante's Belt Alpha,Dante's Leather Boots Alpha,
-Lunastra Alpha,エンプレスα,en,Empress Crown Alpha,Empress Mail Alpha,Empress Vambraces Alpha,Empress Coil Alpha,Empress Greaves Alpha,
-Lunastra Beta,エンプレスβ,en,Empress Crown Beta,Empress Mail Beta,Empress Vambraces Beta,Empress Coil Beta,Empress Greaves Beta,
+Lunastra Alpha,エンプレスα,en,Empress Crown Alpha,Empress Mail Alpha,Empress Vambraces Alpha,Empress Coil Alpha,Empress Greaves Alpha,Lunastra Favor
+Lunastra Beta,エンプレスβ,en,Empress Crown Beta,Empress Mail Beta,Empress Vambraces Beta,Empress Coil Beta,Empress Greaves Beta,Lunastra Favor
 Sealed Eyepatch Alpha,封印の眼帯α,en,Sealed Eyepatch Alpha,,,,,
 Shadow Shades Alpha,シャドウアイα,en,Shadow Shades Alpha,,,,,
 Kulu-Ya-Ku Head Alpha,クルルフェイクα,en,Kulu-Ya-Ku Head Alpha,,,,,
