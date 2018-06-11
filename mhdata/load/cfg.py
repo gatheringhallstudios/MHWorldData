@@ -28,3 +28,6 @@ armor_parts = ['head', 'chest', 'arms', 'waist', 'legs']
 
 "Maximum number of items in a recipe"
 max_recipe_item_count = 4
+
+"Maximum number of skills in an armor piece/weapon"
+max_skill_count = 2

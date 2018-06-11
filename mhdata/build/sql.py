@@ -338,17 +338,15 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Armor Skills
-        for skill, level in entry['skills'].items():
+        for skill, level in datafn.iter_skill_points(entry):
             skill_id = skill_map.id_of('en', skill)
-            ensure(skill_id, f"Skill {skill} in Armor {armor_name_en} does not exist")
-            
             armor.skills.append(db.ArmorSkill(
                 skilltree_id=skill_id,
                 level=level
             ))
 
         # Armor Crafting
-        for (item_name, quantity) in datafn.iter_armor_recipe(entry):
+        for item_name, quantity in datafn.iter_armor_recipe(entry):
             item_id = item_map.id_of('en', item_name)
             armor.craft_items.append(db.ArmorRecipe(
                 item_id=item_id,

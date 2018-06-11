@@ -1,0 +1,693 @@
+name_en,skill1_name,skill1_pts,skill2_name,skill2_pts
+Leather Headgear,Hunger Resistance,1,,
+Leather Mail,,,,
+Leather Gloves,,,,
+Leather Belt,,,,
+Leather Trousers,,,,
+Chainmail Headgear,Master Gatherer,1,,
+Chainmail Vest,,,,
+Chainmail Gloves,,,,
+Chainmail Belt,,,,
+Chainmail Trousers,,,,
+Hunter's Headgear,Scoutfly Range Up,1,,
+Hunter's Mail,Slinger Capacity,1,,
+Hunter's Vambraces,Stealth,1,,
+Hunter's Coil,Scenthound,1,,
+Hunter's Greaves,BBQ Master,1,,
+Bone Helm,Health Boost,1,,
+Bone Mail,Attack Boost,1,,
+Bone Vambraces,Slugger,1,,
+Bone Coil,Horn Maestro,1,,
+Bone Greaves,Entomologist,1,,
+Vespoid Helm,Quick Sheath,1,,
+Vespoid Mail,Windproof,1,,
+Vespoid Vambraces,Paralysis Attack,1,,
+Vespoid Coil,Paralysis Resistance,1,,
+Vespoid Greaves,Honey Hunter,1,,
+Kestodon Guards,Affinity Sliding,1,,
+Gajau Boots,Aquatic Expert,1,,
+Jagras Helm,Speed Eating,1,,
+Jagras Mail,Intimidator,1,,
+Jagras Vambraces,Palico Rally,1,,
+Jagras Coil,Fortify,1,,
+Jagras Greaves,Speed Crawler,1,,
+Kulu Headpiece,Fire Resistance,1,,
+Kulu Mail,Stamina Surge,1,,
+Kulu Vambraces,Pro Transporter,1,,
+Kulu Coil,Item Prolonger,1,,
+Kulu Greaves,Critical Eye,1,,
+Alloy Helm,Windproof,1,,
+Alloy Mail,Water Resistance,1,,
+Alloy Vambraces,Defense Boost,1,,
+Alloy Coil,Poison Resistance,1,,
+Alloy Greaves,Speed Sharpening,1,,
+Pukei Hood,Sporepuff Expert,1,,
+Pukei Mail,Item Prolonger,1,,
+Pukei Vambraces,Poison Resistance,1,,
+Pukei Coil,Poison Attack,1,,
+Pukei Greaves,Botanist,1,,
+Barroth Helm,Guard,1,,
+Barroth Mail,Stamina Thief,1,,
+Barroth Vambraces,Marathon Runner,1,,
+Barroth Coil,Muck Resistance,1,,
+Barroth Greaves,Stun Resistance,1,,
+Jyura Helm,Aquatic Expert,1,,
+Jyura Mail,Muck Resistance,1,,
+Jyura Vambraces,Water Attack,1,,
+Jyura Coil,Ice Resistance,1,,
+Jyura Greaves,Focus,1,,
+Kadachi Helm,Constitution,1,,
+Kadachi Mail,Jump Master,1,,
+Kadachi Vambraces,Evade Extender,1,,
+Kadachi Coil,Thunder Attack,1,,
+Kadachi Greaves,Thunder Resistance,1,,
+High Metal Helm,Ice Resistance,1,,
+High Metal Mail,Earplugs,1,,
+High Metal Braces,Defense Boost,1,,
+High Metal Coil,Capacity Boost,1,,
+High Metal Greaves,Heavy Artillery,1,,
+King Beetle Vertex,Evade Window,1,,
+King Beetle Thorax,Quick Sheath,1,,
+King Beetle Brachia,Leap of Faith,1,,
+King Beetle Elytra,Honey Hunter,1,,
+King Beetle Crura,Forager's Luck,1,,
+Butterfly Vertex,Evade Window,1,,
+Butterfly Thorax,Quick Sheath,1,,
+Butterfly Brachia,Leap of Faith,1,,
+Butterfly Elytra,Honey Hunter,1,,
+Butterfly Crura,Forager's Luck,1,,
+Shamos Goggles,Detector,1,,
+Hornetaur Helm,Dungmaster,1,,
+Hornetaur Mail,Effluvial Expert,1,,
+Hornetaur Vambraces,Free Meal,1,,
+Hornetaur Coil,Carving Pro,1,,
+Hornetaur Greaves,Handicraft,1,,
+Anja Helm,Fire Attack,1,,
+Anja Mail,Marathon Runner,1,,
+Anja Vambraces,Special Ammo Boost,1,,
+Anja Coil,Fire Resistance,1,,
+Anja Greaves,Artillery,1,,
+Rathian Helm,Health Boost,1,,
+Rathian Mail,Botanist,1,,
+Rathian Vambraces,Poison Attack,1,,
+Rathian Coil,Poison Resistance,1,,
+Rathian Greaves,Recovery Up,1,,
+Tzitzi Headgear,Blindsider,1,,
+Tzitzi Mail,Constitution,1,,
+Tzitzi Vambraces,Stun Resistance,1,,
+Tzitzi Coil,Wide-Range,1,,
+Tzitzi Greaves,Sleep Resistance,1,,
+Lumu Hat,Stamina Surge,1,,
+Lumu Mail,Master Mounter,1,,
+Lumu Vambraces,Artillery,1,,
+Lumu Coil,Divine Blessing,1,,
+Lumu Greaves,Windproof,1,,
+Girros Mask,Horn Maestro,1,,
+Girros Mail,Paralysis Resistance,1,,
+Girros Vambraces,Palico Rally,1,,
+Girros Coil,Effluvial Expert,1,,
+Girros Greaves,Paralysis Attack,1,,
+Baan Helm,Slugger,1,,
+Baan Mail,Sleep Resistance,1,,
+Baan Vambraces,Sleep Attack,1,,
+Baan Coil,Guard,1,,
+Baan Greaves,Bleeding Resistance,1,,
+Ingot Helm,Thunder Attack,1,,
+Ingot Mail,Thunder Resistance,1,,
+Ingot Vambraces,Health Boost,1,,
+Ingot Coil,Windproof,1,,
+Ingot Greaves,Defense Boost,1,,
+Death Stench Brain,Resuscitate,1,,
+Death Stench Muscle,Fortify,1,,
+Death Stench Grip,Focus,1,,
+Death Stench Bowels,Dragon Attack,1,,
+Death Stench Heels,Handicraft,1,,
+Brigade Lobos,Recovery Speed,1,,
+Brigade Suit,Divine Blessing,1,,
+Brigade Vambraces,Heavy Artillery,1,,
+Brigade Coil,Geologist,1,,
+Brigade Boots,Scholar,1,,
+Legiana Helm,Divine Blessing,1,,
+Legiana Mail,Evade Window,1,,
+Legiana Vambraces,Airborne,1,,
+Legiana Coil,Ice Attack,1,,
+Legiana Greaves,Ice Resistance,1,,
+Odogaron Helm,Bleeding Resistance,1,,
+Odogaron Mail,Speed Sharpening,1,,
+Odogaron Vambraces,Constitution,1,,
+Odogaron Coil,Critical Eye,1,,
+Odogaron Greaves,Quick Sheath,1,,
+Rathalos Helm,Attack Boost,1,,
+Rathalos Mail,Weakness Exploit,1,,
+Rathalos Vambraces,Fire Resistance,1,,
+Rathalos Coil,Fire Attack,1,,
+Rathalos Greaves,Jump Master,1,,
+Diablos Helm,Critical Draw,1,,
+Diablos Mail,Slugger,1,,
+Diablos Vambraces,Heroics,1,,
+Diablos Coil,Marathon Runner,1,,
+Diablos Greaves,Tremor Resistance,1,,
+Kirin Horn,Marathon Runner,1,,
+Kirin Jacket,Divine Blessing,1,,
+Kirin Longarms,Blight Resistance,1,,
+Kirin Hoop,Thunder Attack,1,,
+Kirin Leg Guards,Thunder Resistance,1,,
+Blossom Headgear,Honey Hunter,1,,
+Blossom Vest,Quick Sheath,1,,
+Blossom Cuffs,Paralysis Resistance,1,,
+Blossom Coat,Scoutfly Range Up,1,,
+Blossom Boots,Recovery Speed,1,,
+Leather Headgear Alpha,Hunger Resistance,2,,
+Leather Mail Alpha,Fire Resistance,1,,
+Leather Gloves Alpha,Recovery Speed,1,,
+Leather Belt Alpha,Stamina Surge,1,,
+Leather Trousers Alpha,Cliffhanger,1,,
+Leather Headgear Beta,Hunger Resistance,1,,
+Leather Mail Beta,,,,
+Leather Gloves Beta,,,,
+Leather Belt Beta,,,,
+Leather Trousers Beta,,,,
+Chainmail Headgear Alpha,Master Gatherer,1,Guard,1
+Chainmail Armor Alpha,Water Resistance,1,,
+Chainmail Gloves Alpha,Recovery Speed,1,,
+Chainmail Belt Alpha,Quick Sheath,1,,
+Chainmail Trousers Alpha,Recovery Up,1,,
+Chainmail Headgear Beta,Master Gatherer,1,,
+Chainmail Armor Beta,,,,
+Chainmail Gloves Beta,,,,
+Chainmail Belt Beta,,,,
+Chainmail Trousers Beta,,,,
+Hunter's Headgear Alpha,Scoutfly Range Up,1,Scholar,1
+Hunter's Mail Alpha,Slinger Capacity,2,,
+Hunter's Vambraces Alpha,Stealth,2,,
+Hunter's Coil Alpha,Stealth,1,Master Gatherer,1
+Hunter's Greaves Alpha,Slinger Capacity,1,Scenthound,1
+Hunter's Headgear Beta,Scoutfly Range Up,1,,
+Hunter's Mail Beta,Slinger Capacity,1,,
+Hunter's Vambraces Beta,Stealth,1,,
+Hunter's Coil Beta,Master Gatherer,1,,
+Hunter's Greaves Beta,Scenthound,1,,
+Bone Helm Alpha,Health Boost,1,Entomologist,1
+Bone Mail Alpha,Attack Boost,2,,
+Bone Vambraces Alpha,Slugger,1,Attack Boost,1
+Bone Coil Alpha,Horn Maestro,1,Master Fisher,1
+Bone Greaves Alpha,Entomologist,2,,
+Bone Helm Beta,Health Boost,1,,
+Bone Mail Beta,Attack Boost,1,,
+Bone Vambraces Beta,Slugger,1,,
+Bone Coil Beta,Horn Maestro,1,,
+Bone Greaves Beta,Entomologist,1,,
+Alloy Helm Alpha,Windproof,1,Defense Boost,1
+Alloy Mail Alpha,Water Resistance,2,,
+Alloy Vambraces Alpha,Defense Boost,1,Speed Sharpening,1
+Alloy Coil Alpha,Poison Resistance,1,Water Resistance,1
+Alloy Greaves Alpha,Speed Sharpening,2,,
+Alloy Helm Beta,Windproof,1,,
+Alloy Mail Beta,Water Resistance,1,,
+Alloy Vambraces Beta,Defense Boost,1,,
+Alloy Coil Beta,Poison Resistance,1,,
+Alloy Greaves Beta,Speed Sharpening,1,,
+King Beetle Vertex Alpha,Evade Window,2,Botanist,1
+King Beetle Thorax Alpha,Quick Sheath,2,Botanist,1
+King Beetle Brachia Alpha,Botanist,2,Leap of Faith,1
+King Beetle Elytra Alpha,Honey Hunter,1,Quick Sheath,1
+King Beetle Crura Alpha,Forager's Luck,1,Evade Window,1
+King Beetle Vertex Beta,Evade Window,2,,
+King Beetle Thorax Beta,Quick Sheath,2,,
+King Beetle Brachia Beta,Botanist,2,,
+King Beetle Elytra Beta,Honey Hunter,1,,
+King Beetle Crura Beta,Forager's Luck,1,,
+Butterfly Vertex Alpha,Botanist,1,Evade Window,2
+Butterfly Thorax Alpha,Botanist,1,Quick Sheath,2
+Butterfly Brachia Alpha,Botanist,2,Leap of Faith,1
+Butterfly Elytra Alpha,Honey Hunter,1,Quick Sheath,1
+Butterfly Crura Alpha,Forager's Luck,1,Evade Window,1
+Butterfly Vertex Beta,Evade Window,2,,
+Butterfly Thorax Beta,Quick Sheath,2,,
+Butterfly Brachia Beta,Botanist,2,,
+Butterfly Elytra Beta,Honey Hunter,1,,
+Butterfly Crura Beta,Forager's Luck,1,,
+Vespoid Helm Alpha,Quick Sheath,1,Paralysis Attack,1
+Vespoid Mail Alpha,Windproof,2,,
+Vespoid Vambraces Alpha,Paralysis Attack,2,,
+Vespoid Coil Alpha,Paralysis Resistance,2,,
+Vespoid Greaves Alpha,Honey Hunter,1,Paralysis Resistance,1
+Vespoid Helm Beta,Quick Sheath,1,,
+Vespoid Mail Beta,Windproof,1,,
+Vespoid Vambraces Beta,Paralysis Attack,1,,
+Vespoid Coil Beta,Paralysis Resistance,1,,
+Vespoid Greaves Beta,Honey Hunter,1,,
+Hornetaur Helm Alpha,Dungmaster,1,Dragon Attack,1
+Hornetaur Mail Alpha,Effluvial Expert,1,Hunger Resistance,1
+Hornetaur Vambraces Alpha,Free Meal,1,Hunger Resistance,1
+Hornetaur Coil Alpha,Carving Pro,1,Hunger Resistance,1
+Hornetaur Greaves Alpha,Handicraft,1,Dragon Attack,1
+Hornetaur Helm Beta,Dungmaster,1,,
+Hornetaur Mail Beta,Effluvial Expert,1,,
+Hornetaur Vambraces Beta,Free Meal,1,,
+Hornetaur Coil Beta,Carving Pro,1,,
+Hornetaur Greaves Beta,Handicraft,1,,
+Mosswine Mask Alpha,Mushroomancer,2,,
+Kestodon Guards Alpha,Affinity Sliding,1,Focus,1
+Kestodon Guards Beta,Affinity Sliding,1,,
+Gajau Boots Alpha,Aquatic Expert,2,Water Attack,1
+Gajau Boots Beta,Aquatic Expert,1,Water Attack,1
+Shamos Goggles Alpha,Detector,1,Geologist,1
+Shamos Goggles Beta,Detector,1,,
+Jagras Helm Alpha,Speed Eating,2,,
+Jagras Mail Alpha,Intimidator,2,,
+Jagras Vambraces Alpha,Palico Rally,1,Intimidator,1
+Jagras Coil Alpha,Fortify,1,Speed Eating,1
+Jagras Greaves Alpha,Speed Crawler,1,Free Meal,1
+Jagras Helm Beta,Speed Eating,1,,
+Jagras Mail Beta,Intimidator,1,,
+Jagras Vambraces Beta,Palico Rally,1,,
+Jagras Coil Beta,Fortify,1,,
+Jagras Greaves Beta,Speed Crawler,1,,
+Kulu Headpiece Alpha,Fire Resistance,1,Weakness Exploit,1
+Kulu Mail Alpha,Stamina Surge,1,Critical Eye,1
+Kulu Vambraces Alpha,Pro Transporter,1,Critical Eye,1
+Kulu Coil Alpha,Item Prolonger,2,,
+Kulu Greaves Alpha,Critical Eye,1,Item Prolonger,1
+Kulu Headpiece Beta,Fire Resistance,1,,
+Kulu Mail Beta,Stamina Surge,1,,
+Kulu Vambraces Beta,Pro Transporter,1,,
+Kulu Coil Beta,Item Prolonger,1,,
+Kulu Greaves Beta,Critical Eye,1,,
+Tzitzi Headgear Alpha,Blindsider,1,Stun Resistance,1
+Tzitzi Mail Alpha,Constitution,1,Water Attack,2
+Tzitzi Vambraces Alpha,Stun Resistance,2,Wide-Range,1
+Tzitzi Coil Alpha,Wide-Range,2,Water Attack,1
+Tzitzi Greaves Alpha,Sleep Resistance,2,,
+Tzitzi Headgear Beta,Blindsider,1,,
+Tzitzi Mail Beta,Constitution,1,,
+Tzitzi Vambraces Beta,Stun Resistance,2,,
+Tzitzi Coil Beta,Wide-Range,1,,
+Tzitzi Greaves Beta,Sleep Resistance,1,,
+Girros Mask Alpha,Horn Maestro,1,Paralysis Resistance,1
+Girros Mail Alpha,Paralysis Resistance,2,,
+Girros Vambraces Alpha,Palico Rally,2,,
+Girros Coil Alpha,Effluvial Expert,1,Paralysis Attack,1
+Girros Greaves Alpha,Paralysis Attack,2,,
+Girros Mask Beta,Horn Maestro,1,,
+Girros Mail Beta,Paralysis Resistance,1,,
+Girros Vambraces Beta,Palico Rally,1,,
+Girros Coil Beta,Effluvial Expert,1,,
+Girros Greaves Beta,Paralysis Attack,1,,
+Pukei Hood Alpha,Sporepuff Expert,2,,
+Pukei Mail Alpha,Item Prolonger,1,Botanist,1
+Pukei Vambraces Alpha,Poison Resistance,2,Poison Attack,1
+Pukei Coil Alpha,Poison Attack,2,,
+Pukei Greaves Alpha,Botanist,2,Sporepuff Expert,1
+Pukei Hood Beta,Sporepuff Expert,1,,
+Pukei Mail Beta,Item Prolonger,1,,
+Pukei Vambraces Beta,Poison Resistance,1,,
+Pukei Coil Beta,Poison Attack,1,,
+Pukei Greaves Beta,Botanist,1,,
+Barroth Helm Alpha,Guard,2,,
+Barroth Mail Alpha,Stamina Thief,2,,
+Barroth Vambraces Alpha,Marathon Runner,1,Stamina Thief,1
+Barroth Coil Alpha,Muck Resistance,1,Guard,1
+Barroth Greaves Alpha,Stun Resistance,2,Marathon Runner,1
+Barroth Helm Beta,Guard,1,,
+Barroth Mail Beta,Stamina Thief,1,,
+Barroth Vambraces Beta,Marathon Runner,1,,
+Barroth Coil Beta,Muck Resistance,1,,
+Barroth Greaves Beta,Stun Resistance,1,,
+Anja Helm Alpha,Fire Attack,2,Fire Resistance,1
+Anja Mail Alpha,Marathon Runner,1,Special Ammo Boost,1
+Anja Vambraces Alpha,Special Ammo Boost,1,Fire Attack,1
+Anja Coil Alpha,Fire Resistance,2,Artillery,1
+Anja Greaves Alpha,Artillery,2,,
+Anja Helm Beta,Fire Attack,2,,
+Anja Mail Beta,Marathon Runner,1,,
+Anja Vambraces Beta,Special Ammo Boost,1,,
+Anja Coil Beta,Fire Resistance,2,,
+Anja Greaves Beta,Artillery,1,,
+Jyura Helm Alpha,Aquatic Expert,2,,
+Jyura Mail Alpha,Muck Resistance,1,Water Attack,1
+Jyura Vambraces Alpha,Water Attack,2,Aquatic Expert,1
+Jyura Coil Alpha,Ice Resistance,2,,
+Jyura Greaves Alpha,Focus,2,,
+Jyura Helm Beta,Aquatic Expert,1,,
+Jyura Mail Beta,Muck Resistance,1,,
+Jyura Vambraces Beta,Water Attack,2,,
+Jyura Coil Beta,Ice Resistance,1,,
+Jyura Greaves Beta,Focus,1,,
+Kadachi Helm Alpha,Constitution,2,,
+Kadachi Mail Alpha,Jump Master,1,Evade Extender,1
+Kadachi Vambraces Alpha,Evade Extender,2,,
+Kadachi Coil Alpha,Thunder Attack,2,Thunder Resistance,1
+Kadachi Greaves Alpha,Thunder Resistance,2,Constitution,1
+Kadachi Helm Beta,Constitution,1,,
+Kadachi Mail Beta,Jump Master,1,,
+Kadachi Vambraces Beta,Evade Extender,1,,
+Kadachi Coil Beta,Thunder Attack,1,,
+Kadachi Greaves Beta,Thunder Resistance,1,,
+Lumu Hat Alpha,Stamina Surge,2,,
+Lumu Mail Alpha,Master Mounter,1,Artillery,1
+Lumu Vambraces Alpha,Artillery,2,,
+Lumu Coil Alpha,Divine Blessing,2,,
+Lumu Greaves Alpha,Windproof,1,Stamina Surge,1
+Lumu Hat Beta,Stamina Surge,1,,
+Lumu Mail Beta,Master Mounter,1,,
+Lumu Vambraces Beta,Artillery,1,,
+Lumu Coil Beta,Divine Blessing,1,,
+Lumu Greaves Beta,Windproof,1,,
+Rathian Helm Alpha,Health Boost,2,Poison Attack,1
+Rathian Mail Alpha,Botanist,2,Recovery Up,1
+Rathian Vambraces Alpha,Poison Attack,2,,
+Rathian Coil Alpha,Poison Resistance,2,Health Boost,1
+Rathian Greaves Alpha,Recovery Up,2,,
+Rathian Helm Beta,Health Boost,1,Poison Attack,1
+Rathian Mail Beta,Botanist,1,Recovery Up,1
+Rathian Vambraces Beta,Poison Attack,1,,
+Rathian Coil Beta,Poison Resistance,1,Health Boost,1
+Rathian Greaves Beta,Recovery Up,1,,
+Rath Heart Helm Alpha,Evade Extender,1,Poison Attack,1
+Rath Heart Mail Alpha,Tool Specialist,2,,
+Rath Heart Braces Alpha,Windproof,2,,
+Rath Heart Coil Alpha,Handicraft,1,Poison Resistance,1
+Rath Heart Greaves Alpha,Tool Specialist,1,Windproof,1
+Rath Heart Helm Beta,Evade Extender,1,,
+Rath Heart Mail Beta,Tool Specialist,1,,
+Rath Heart Braces Beta,Windproof,1,,
+Rath Heart Coil Beta,Handicraft,1,,
+Rath Heart Greaves Beta,Tool Specialist,1,,
+Baan Helm Alpha,Tremor Resistance,2,,
+Baan Mail Alpha,Sleep Attack,1,Bleeding Resistance,1
+Baan Vambraces Alpha,Sleep Attack,2,Guard,1
+Baan Coil Alpha,Guard,2,,
+Baan Greaves Alpha,Bleeding Resistance,2,,
+Baan Helm Beta,Tremor Resistance,1,,
+Baan Mail Beta,Sleep Attack,1,,
+Baan Vambraces Beta,Sleep Attack,1,Guard,1
+Baan Coil Beta,Guard,1,,
+Baan Greaves Beta,Bleeding Resistance,1,,
+Gastodon Horn Alpha,Flinch Free,1,Blast Resistance,1
+Gastodon Horn Beta,Flinch Free,1,,
+Barnos Jacket Alpha,Heat Guard,1,Iron Skin,1
+Barnos Jacket Beta,Heat Guard,1,,
+Dodogama Helm Alpha,Blast Resistance,2,,
+Dodogama Mail Alpha,Blast Attack,2,,
+Dodogama Vambraces Alpha,Bombardier,2,,
+Dodogama Coil Alpha,Artillery,2,Blast Resistance,1
+Dodogama Greaves Alpha,Capacity Boost,1,Blast Attack,1
+Dodogama Helm Beta,Blast Resistance,1,,
+Dodogama Mail Beta,Blast Attack,1,,
+Dodogama Vambraces Beta,Bombardier,1,,
+Dodogama Coil Beta,Artillery,2,,
+Dodogama Greaves Beta,Capacity Boost,1,,
+Zorah Headgear Alpha,Handicraft,1,Blast Attack,1
+Zorah Hide Alpha,Blast Attack,2,Windproof,1
+Zorah Claws Alpha,Free Elem/Ammo Up,1,Bombardier,1
+Zorah Spine Alpha,Fortify,1,Tremor Resistance,1
+Zorah Spurs Alpha,Bombardier,2,Earplugs,1
+Zorah Headgear Beta,Handicraft,1,,
+Zorah Hide Beta,Blast Attack,2,,
+Zorah Claws Beta,Free Elem/Ammo Up,1,,
+Zorah Spine Beta,Fortify,1,,
+Zorah Spurs Beta,Bombardier,2,,
+High Metal Helm Alpha,Ice Resistance,2,Earplugs,1
+High Metal Mail Alpha,Earplugs,2,Ice Attack,1
+High Metal Braces Alpha,Defense Boost,2,Ice Attack,1
+High Metal Coil Alpha,Capacity Boost,1,Defense Boost,1
+High Metal Greaves Alpha,Heavy Artillery,1,Ice Resistance,1
+High Metal Helm Beta,Ice Resistance,2,,
+High Metal Mail Beta,Earplugs,1,Ice Attack,1
+High Metal Braces Beta,Defense Boost,2,,
+High Metal Coil Beta,Capacity Boost,1,,
+High Metal Greaves Beta,Heavy Artillery,1,,
+Ingot Helm Alpha,Thunder Attack,2,,
+Ingot Mail Alpha,Thunder Resistance,2,,
+Ingot Vambraces Alpha,Health Boost,2,Thunder Attack,1
+Ingot Coil Alpha,Windproof,2,,
+Ingot Greaves Alpha,Defense Boost,2,Windproof,1
+Ingot Helm Beta,Thunder Attack,1,,
+Ingot Mail Beta,Thunder Resistance,1,,
+Ingot Vambraces Beta,Health Boost,2,,
+Ingot Coil Beta,Windproof,1,,
+Ingot Greaves Beta,Defense Boost,2,,
+Brigade Lobos Alpha,Recovery Speed,2,Horn Maestro,1
+Brigade Suit Alpha,Divine Blessing,2,,
+Brigade Vambraces Alpha,Heavy Artillery,2,Divine Blessing,1
+Brigade Coil Alpha,Geologist,2,Recovery Speed,1
+Brigade Boots Alpha,Scholar,1,Geologist,1
+Brigade Lobos Beta,Recovery Speed,2,,
+Brigade Suit Beta,Divine Blessing,1,,
+Brigade Vambraces Beta,Heavy Artillery,2,,
+Brigade Coil Beta,Geologist,2,,
+Brigade Boots Beta,Scholar,1,,
+Faux Felyne Alpha,Palico Rally,3,,
+Strategist Spectacles Alpha,Critical Eye,2,,
+Lavasioth Helm Alpha,Fire Attack,2,Quick Sheath,1
+Lavasioth Mail Alpha,Fire Attack,2,Heat Guard,1
+Lavasioth Vambraces Alpha,Affinity Sliding,1,Wide-Range,1
+Lavasioth Coil Alpha,Quick Sheath,2,Recovery Up,1
+Lavasioth Greaves Alpha,Spread/Power Shots,1,Fire Attack,1
+Lavasioth Helm Beta,Fire Attack,1,Quick Sheath,1
+Lavasioth Mail Beta,Fire Attack,2,,
+Lavasioth Vambraces Beta,Affinity Sliding,1,,
+Lavasioth Coil Beta,Quick Sheath,2,,
+Lavasioth Greaves Beta,Spread/Power Shots,1,,
+Legiana Helm Alpha,Divine Blessing,2,Ice Attack,1
+Legiana Mail Alpha,Evade Window,2,Divine Blessing,1
+Legiana Vambraces Alpha,Airborne,1,Evade Window,1
+Legiana Coil Alpha,Ice Attack,2,Windproof,1
+Legiana Greaves Alpha,Ice Resistance,2,Critical Draw,1
+Legiana Helm Beta,Divine Blessing,2,,
+Legiana Mail Beta,Evade Window,2,,
+Legiana Vambraces Beta,Airborne,1,,
+Legiana Coil Beta,Ice Attack,2,,
+Legiana Greaves Beta,Ice Resistance,2,,
+Odogaron Helm Alpha,Bleeding Resistance,2,Critical Eye,1
+Odogaron Mail Alpha,Speed Sharpening,2,Bleeding Resistance,1
+Odogaron Vambraces Alpha,Constitution,1,Critical Eye,1
+Odogaron Coil Alpha,Critical Eye,2,Speed Sharpening,1
+Odogaron Greaves Alpha,Quick Sheath,1,Critical Eye,1
+Odogaron Helm Beta,Bleeding Resistance,2,,
+Odogaron Mail Beta,Speed Sharpening,2,,
+Odogaron Vambraces Beta,Constitution,1,,
+Odogaron Coil Beta,Critical Eye,2,,
+Odogaron Greaves Beta,Quick Sheath,1,,
+Rathalos Helm Alpha,Attack Boost,2,Fire Attack,1
+Rathalos Mail Alpha,Weakness Exploit,2,Fire Attack,1
+Rathalos Vambraces Alpha,Fire Resistance,2,Attack Boost,1
+Rathalos Coil Alpha,Fire Attack,2,Focus,1
+Rathalos Greaves Alpha,Jump Master,1,Weakness Exploit,1
+Rathalos Helm Beta,Attack Boost,2,,
+Rathalos Mail Beta,Weakness Exploit,2,,
+Rathalos Vambraces Beta,Fire Resistance,2,,
+Rathalos Coil Beta,Fire Attack,2,,
+Rathalos Greaves Beta,Jump Master,1,,
+Rath Soul Helm Alpha,Critical Boost,1,Intimidator,2
+Rath Soul Mail Alpha,Free Elem/Ammo Up,1,Intimidator,1
+Rath Soul Braces Alpha,Focus,1,Windproof,1
+Rath Soul Coil Alpha,Windproof,2,Piercing Shots,1
+Rath Soul Greaves Alpha,Focus,1,Cliffhanger,1
+Rath Soul Helm Beta,Critical Boost,1,,
+Rath Soul Mail Beta,Free Elem/Ammo Up,1,,
+Rath Soul Braces Beta,Focus,1,,
+Rath Soul Coil Beta,Windproof,2,,
+Rath Soul Greaves Beta,Focus,1,,
+Diablos Helm Alpha,Critical Draw,2,Heroics,1
+Diablos Mail Alpha,Slugger,2,Heroics,1
+Diablos Vambraces Alpha,Heroics,2,Tremor Resistance,1
+Diablos Coil Alpha,Marathon Runner,2,Critical Draw,1
+Diablos Greaves Alpha,Tremor Resistance,2,Slugger,1
+Diablos Helm Beta,Critical Draw,2,,
+Diablos Mail Beta,Slugger,2,,
+Diablos Vambraces Beta,Heroics,2,,
+Diablos Coil Beta,Marathon Runner,2,,
+Diablos Greaves Beta,Tremor Resistance,2,,
+Diablos Nero Helm Alpha,Focus,2,,
+Diablos Nero Mail Alpha,Resentment,2,,
+Diablos Nero Braces Alpha,Focus,1,Marathon Runner,1
+Diablos Nero Coil Alpha,Resentment,1,Partbreaker,1
+Diablos Nero Greaves Alpha,Normal Shots,1,Heroics,1
+Diablos Nero Helm Beta,Focus,1,,
+Diablos Nero Mail Beta,Resentment,1,,
+Diablos Nero Braces Beta,Focus,1,,
+Diablos Nero Coil Beta,Resentment,1,,
+Diablos Nero Greaves Beta,Normal Shots,1,,
+Uragaan Helm Alpha,Thunder Resistance,2,,
+Uragaan Mail Alpha,Partbreaker,2,,
+Uragaan Vambraces Alpha,Guard,1,Defense Boost,1
+Uragaan Coil Alpha,Partbreaker,1,Thunder Resistance,1
+Uragaan Greaves Alpha,Guard,2,,
+Uragaan Helm Beta,Thunder Resistance,1,,
+Uragaan Mail Beta,Partbreaker,1,,
+Uragaan Vambraces Beta,Guard,1,,
+Uragaan Coil Beta,Partbreaker,1,,
+Uragaan Greaves Beta,Guard,1,,
+Bazel Helm Alpha,Earplugs,2,Blast Attack,1
+Bazel Mail Alpha,Guard,2,Blast Resistance,2
+Bazel Vambraces Alpha,Critical Draw,2,Earplugs,1
+Bazel Coil Alpha,Earplugs,2,Jump Master,1
+Bazel Greaves Alpha,Bombardier,2,Critical Draw,1
+Bazel Helm Beta,Earplugs,2,,
+Bazel Mail Beta,Guard,2,,
+Bazel Vambraces Beta,Critical Draw,2,,
+Bazel Coil Beta,Earplugs,2,,
+Bazel Greaves Beta,Bombardier,2,,
+Damascus Helm Alpha,Defense Boost,2,Speed Sharpening,1
+Damascus Mail Alpha,Focus,2,Defense Boost,2
+Damascus Vambraces Alpha,Handicraft,1,Speed Sharpening,1
+Damascus Coil Alpha,Focus,1,Iron Skin,2
+Damascus Greaves Alpha,Defense Boost,2,Iron Skin,1
+Damascus Helm Beta,Defense Boost,2,,
+Damascus Mail Beta,Focus,2,,
+Damascus Vambraces Beta,Handicraft,1,,
+Damascus Coil Beta,Focus,1,,
+Damascus Greaves Beta,Defense Boost,2,,
+Dober Helm Alpha,Free Elem/Ammo Up,1,Dragon Resistance,1
+Dober Mail Alpha,Attack Boost,2,Mushroomancer,1
+Dober Vambraces Alpha,Stamina Surge,2,Mushroomancer,1
+Dober Coil Alpha,Dragon Resistance,2,Attack Boost,1
+Dober Greaves Alpha,Attack Boost,2,Stamina Surge,1
+Dober Helm Beta,Free Elem/Ammo Up,1,,
+Dober Mail Beta,Attack Boost,2,,
+Dober Vambraces Beta,Stamina Surge,1,Mushroomancer,1
+Dober Coil Beta,Dragon Resistance,2,,
+Dober Greaves Beta,Attack Boost,2,,
+Death Stench Brain Alpha,Resuscitate,1,Critical Eye,1
+Death Stench Muscle Alpha,Fortify,1,Free Elem/Ammo Up,1
+Death Stench Grip Alpha,Focus,2,Dragon Attack,1
+Death Stench Bowels Alpha,Dragon Attack,2,Focus,1
+Death Stench Heel Alpha,Handicraft,2,Dragon Attack,2
+Death Stench Brain Beta,Resuscitate,1,,
+Death Stench Muscle Beta,Fortify,1,,
+Death Stench Grip Beta,Focus,2,,
+Death Stench Bowels Beta,Dragon Attack,2,,
+Death Stench Heel Beta,Handicraft,2,,
+Skull Mask Alpha,Handicraft,1,,
+Nergigante Helm Alpha,Maximum Might,2,Attack Boost,1
+Nergigante Mail Alpha,Stamina Surge,2,Agitator,1
+Nergigante Vambraces Alpha,Agitator,2,Attack Boost,1
+Nergigante Coil Alpha,Attack Boost,2,Stamina Surge,1
+Nergigante Greaves Alpha,Maximum Might,1,Agitator,1
+Nergigante Helm Beta,Maximum Might,2,,
+Nergigante Mail Beta,Stamina Surge,2,,
+Nergigante Vambraces Beta,Agitator,2,,
+Nergigante Coil Beta,Attack Boost,2,,
+Nergigante Greaves Beta,Maximum Might,1,,
+Kaiser Crown Alpha,Latent Power,2,,
+Kaiser Mail Alpha,Special Ammo Boost,2,Latent Power,1
+Kaiser Vambraces Alpha,Weakness Exploit,2,,
+Kaiser Coil Alpha,Blast Attack,2,Weakness Exploit,1
+Kaiser Greaves Alpha,Latent Power,2,Blast Attack,1
+Kaiser Crown Beta,Latent Power,1,,
+Kaiser Mail Beta,Special Ammo Boost,2,,
+Kaiser Vambraces Beta,Weakness Exploit,1,,
+Kaiser Coil Beta,Blast Attack,2,,
+Kaiser Greaves Beta,Latent Power,2,,
+Kushala Glare Alpha,Ice Attack,2,Handicraft,1
+Kushala Cista Alpha,Handicraft,2,Focus,1
+Kushala Grip Alpha,Evade Window,2,Handicraft,1
+Kushala Cocoon Alpha,Ice Attack,2,Evade Extender,1
+Kushala Crus Alpha,Evade Extender,2,Handicraft,1
+Kushala Glare Beta,Ice Attack,2,,
+Kushala Cista Beta,Handicraft,2,,
+Kushala Grip Beta,Evade Window,2,,
+Kushala Cocoon Beta,Ice Attack,2,,
+Kushala Crus Beta,Evade Extender,2,,
+Vaal Hazak Helm Alpha,Peak Performance,1,Dragon Attack,2
+Vaal Hazak Mail Alpha,Recovery Speed,2,Dragon Attack,1
+Vaal Hazak Braces Alpha,Peak Performance,1,Recovery Speed,1
+Vaal Hazak Coil Alpha,Peak Performance,1,Effluvia Resistance,1
+Vaal Hazak Greaves Alpha,Effluvia Resistance,2,Dragon Attack,1
+Vaal Hazak Helm Beta,Peak Performance,1,,
+Vaal Hazak Mail Beta,Recovery Speed,2,,
+Vaal Hazak Braces Beta,Peak Performance,1,,
+Vaal Hazak Coil Beta,Peak Performance,1,,
+Vaal Hazak Greaves Beta,Effluvia Resistance,2,,
+Kirin Horn Alpha,Marathon Runner,2,Divine Blessing,1
+Kirin Jacket Alpha,Divine Blessing,2,Thunder Attack,1
+Kirin Longarms Alpha,Thunder Attack,2,Marathon Runner,1
+Kirin Hoop Alpha,Blight Resistance,1,Free Elem/Ammo Up,1
+Kirin Leg Guards Alpha,Free Elem/Ammo Up,2,Thunder Resistance,2
+Kirin Horn Beta,Marathon Runner,2,,
+Kirin Jacket Beta,Divine Blessing,2,,
+Kirin Longarms Beta,Thunder Attack,2,,
+Kirin Hoop Beta,Blight Resistance,1,,
+Kirin Leg Guards Beta,Free Elem/Ammo Up,2,,
+Xeno'jiiva Headgear Alpha,Flinch Free,1,Special Ammo Boost,1
+Xeno'jiiva Hide Alpha,Power Prolonger,2,Blight Resistance,1
+Xeno'jiiva Claws Alpha,Flinch Free,1,Critical Boost,1
+Xeno'jiiva Spine Alpha,Blight Resistance,2,Special Ammo Boost,1
+Xeno'jiiva Spurs Alpha,Flinch Free,1,Power Prolonger,1
+Xeno'jiiva Headgear Beta,Flinch Free,1,,
+Xeno'jiiva Hide Beta,Power Prolonger,2,,
+Xeno'jiiva Claws Beta,Flinch Free,1,,
+Xeno'jiiva Spine Beta,Blight Resistance,2,,
+Xeno'jiiva Spurs Beta,Flinch Free,1,,
+Guild Cross Circlet Alpha,Divine Blessing,2,Thunder Resistance,2
+Guild Cross Suit Alpha,Resuscitate,1,Ice Resistance,2
+Guild Cross Vambraces Alpha,Tool Specialist,1,Water Resistance,2
+Guild Cross Coil Alpha,Fortify,1,Dragon Resistance,2
+Guild Cross Boots Alpha,Airborne,1,Fire Resistance,2
+Guild Cross Circlet Beta,Divine Blessing,2,,
+Guild Cross Suit Beta,Resuscitate,1,,
+Guild Cross Vambraces Beta,Tool Specialist,1,,
+Guild Cross Coil Beta,Fortify,1,,
+Guild Cross Boots Beta,Airborne,1,,
+Dragonking Eyepatch Alpha,Weakness Exploit,2,,
+Commission Gorget Alpha,Tool Specialist,1,Master Gatherer,1
+Commission Jacket Alpha,Wide-Range,2,Cliffhanger,1
+Commission Vambraces Alpha,Blindsider,1,Carving Pro,1
+Commission Belt Alpha,Mushroomancer,1,Pro Transporter,1
+Commission Pants Alpha,Stealth,2,Affinity Sliding,1
+Commission Gorget Beta,Tool Specialist,1,,
+Commission Jacket Beta,Wide-Range,2,,
+Commission Vambraces Beta,Blindsider,1,,
+Commission Belt Beta,Mushroomancer,1,,
+Commission Pants Beta,Stealth,2,,
+Vangis Helm Alpha,Partbreaker,1,Handicraft,1
+Vangis Mail Alpha,Speed Eating,1,Handicraft,1
+Vangis Vambraces Alpha,Latent Power,2,Partbreaker,1
+Vangis Coil Alpha,Latent Power,1,Handicraft,1
+Vangis Greaves Alpha,Speed Eating,2,Partbreaker,1
+Vangis Helm Beta,Partbreaker,1,,
+Vangis Mail Beta,Speed Eating,1,,
+Vangis Vambraces Beta,Latent Power,2,,
+Vangis Coil Beta,Latent Power,1,,
+Vangis Greaves Beta,Speed Eating,2,,
+Kulve Taroth's Fury Alpha,Free Elem/Ammo Up,1,Agitator,2
+Kulve Taroth's Ire Alpha,Stun Resistance,2,Critical Boost,2
+Kulve Taroth's Rage Alpha,Free Elem/Ammo Up,1,Power Prolonger,2
+Kulve Taroth's Malice Alpha,Free Elem/Ammo Up,1,Handicraft,2
+Kulve Taroth's Wrath Alpha,Wide-Range,2,Peak Performance,2
+Kulve Taroth's Fury Beta,Free Elem/Ammo Up,1,Agitator,1
+Kulve Taroth's Ire Beta,Stun Resistance,2,Critical Boost,1
+Kulve Taroth's Rage Beta,Free Elem/Ammo Up,1,Power Prolonger,1
+Kulve Taroth's Malice Beta,Free Elem/Ammo Up,1,Handicraft,1
+Kulve Taroth's Wrath Beta,Wide-Range,2,Peak Performance,1
+Blossom Headgear Alpha,Honey Hunter,1,,
+Blossom Vest Alpha,Quick Sheath,1,,
+Blossom Cuffs Alpha,Paralysis Resistance,1,,
+Blossom Coat Alpha,Scoutfly Range Up,1,,
+Blossom Boots Alpha,Recovery Speed,1,,
+Kirin Horn Gamma,Blight Resistance,1,Thunder Attack,3
+Kirin Jacket Gamma,Free Elem/Ammo Up,2,,
+Kirin Longarms Gamma,Blight Resistance,1,Free Elem/Ammo Up,1
+Kirin Hoop Gamma,Marathon Runner,2,,
+Kirin Leg Guards Gamma,Blight Resistance,1,Thunder Attack,2
+Dante's Hair Alpha,Weakness Exploit,1,Critical Eye,1
+Dante's Coat Alpha,Evade Window,1,Critical Eye,1
+Dante's Gloves Alpha,Evade Window,1,Special Ammo Boost,1
+Dante's Belt Alpha,Evade Window,1,Latent Power,1
+Dante's Leather Boots Alpha,Weakness Exploit,2,,
+Empress Crown Alpha,Evade Extender,2,Tool Specialist,1
+Empress Mail Alpha,Peak Performance,2,Health Boost,1
+Empress Vambraces Alpha,Wide-Range,2,Blast Attack,2
+Empress Coil Alpha,Tool Specialist,2,Blast Attack,1
+Empress Greaves Alpha,Health Boost,2,Wide-Range,2
+Empress Crown Beta,Evade Extender,2,,
+Empress Mail Beta,Peak Performance,2,,
+Empress Vambraces Beta,Wide-Range,2,,
+Empress Coil Beta,Tool Specialist,2,,
+Empress Greaves Beta,Health Boost,2,,
+Sealed Eyepatch Alpha,Fire Resistance,1,,
+Shadow Shades Alpha,Stun Resistance,1,,
+Kulu-Ya-Ku Head Alpha,Pro Transporter,1,,
+Wiggler Head Alpha,Wide-Range,2,,

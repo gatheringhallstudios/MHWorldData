@@ -61,7 +61,7 @@ def load_data():
     armor_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armor_base.csv")
                     .add_csv_ext("armor_craft_ext.csv", key="craft")
-                    .add_json("armor_skills_ext.json")
+                    .add_csv_ext("armor_skills_ext.csv", key="skills")
                     .get())
     result.armor_map = transform_dmap(armor_map, schema.ArmorSchema())
 

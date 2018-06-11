@@ -174,8 +174,13 @@ def validate_armor(mhdata):
             errors.append(f"Armor {armor_entry.name('en')} is not in an armor set")
 
         # Ensure items exist
-        for (item_name, _) in datafn.iter_armor_recipe(armor_entry):
+        for item_name, _ in datafn.iter_armor_recipe(armor_entry):
             if item_name not in mhdata.item_map.names('en'):
                 errors.append(f"Item {item_name} in armors does not exist")
+
+        # Ensure skills exist
+        for skill_name, _ in datafn.iter_skill_points(armor_entry):
+            if skill_name not in mhdata.skill_map.names('en'):
+                errors.append(f"Skill {skill_name} in armors does not exist")
 
     return errors
