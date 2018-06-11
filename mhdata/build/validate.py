@@ -3,6 +3,7 @@ import itertools
 from mhdata.io import DataMap
 from mhdata.util import ensure_warn
 
+from . import datafn
 import mhdata.load.cfg as cfg
 
 supported_languages = cfg.supported_languages
@@ -166,5 +167,15 @@ def validate_armor(mhdata):
                 continue
 
             encountered_armors.add(armor_id)
+
+    for armor_entry in mhdata.armor_map.values():
+        # Ensure that all armor items were encountered
+        if armor_entry.id not in encountered_armors:
+            errors.append(f"Armor {armor_entry.name('en')} is not in an armor set")
+
+        # Ensure items exist
+        for (item_name, _) in datafn.iter_armor_recipe(armor_entry):
+            if item_name not in mhdata.item_map.names('en'):
+                errors.append(f"Item {item_name} in armors does not exist")
 
     return errors

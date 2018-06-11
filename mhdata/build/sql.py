@@ -6,11 +6,8 @@ from mhdata.util import ensure, ensure_warn, get_duplicates
 
 import mhdata.load.cfg as cfg
 
-supported_languages = cfg.supported_languages
-all_languages = cfg.all_languages
-incomplete_languages = cfg.incomplete_languages
-
 from .objectindex import ObjectIndex
+from . import datafn
 
 def build_sql_database(output_filename, mhdata):
     "Builds a SQLite database and outputs to output_filename"
@@ -18,11 +15,11 @@ def build_sql_database(output_filename, mhdata):
 
     with db.session_scope(sessionbuilder) as session:
         # Add languages before starting the build
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             session.add(db.Language(
                 id=language,
-                name=all_languages[language],
-                is_complete=(language not in incomplete_languages)
+                name=cfg.all_languages[language],
+                is_complete=(language not in cfg.incomplete_languages)
             ))
 
         # Build the individual components
@@ -49,7 +46,7 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
         item.sell_price = entry['sell_price'] or 0
         item.carry_limit = entry['carry_limit'] or 0
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             item.translations.append(db.ItemText(
                 lang_id=language,
                 name=entry.name(language),
@@ -75,7 +72,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
     for location_id, entry in mhdata.location_map.items():
         location_name = entry['name']['en']
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             session.add(db.Location(
                 id=location_id,
                 lang_id=language,
@@ -106,7 +103,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 
     # Save conditions first
     for condition_id, entry in monster_reward_conditions_map.items():
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             session.add(db.MonsterRewardConditionText(
                 id=condition_id,
                 lang_id=language,
@@ -136,7 +133,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
                     setattr(monster, 'alt_weakness_'+key, value)
 
         # Save language data
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             alt_state_description = None
             if 'alt_description' in entry.get('weaknesses', {}):
                 alt_state_description = entry['weaknesses']['alt_description'][language]
@@ -228,7 +225,7 @@ def build_skills(session : sqlalchemy.orm.Session, mhdata):
     for id, entry in skill_map.items():
         skilltree = db.SkillTree(id=id)
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             skilltree.translations.append(db.SkillTreeText(
                 lang_id=language,
                 name=entry.name(language),
@@ -260,7 +257,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
     # Write entries from armor set bonuses
     # These are written first as they are "linked to"
     for entry in armorset_bonus_map.values():
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             session.add(db.ArmorSetBonusText(
                 id=entry.id,
                 lang_id=language,
@@ -293,7 +290,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             armorset_bonus_id=armorset_bonus_id
         ) 
         
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             armorset.translations.append(db.ArmorSetText(
                 lang_id=language,
                 name=entry.name(language)
@@ -307,7 +304,6 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
                 continue
             
             armor_id = mhdata.armor_map.id_of(armor_lang, entry[part])
-            ensure(armor_id, f"Armor {entry[part]} in armorset does not exist")
             armor_to_armorset[armor_id] = set_id
 
     # Write entries for armor
@@ -332,12 +328,10 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         armor.dragon = entry['defense_dragon']
 
         armorset_id = armor_to_armorset.get(armor_id, None)
-        ensure(armorset_id, f"Armor {armor_name_en} is not in an armor set")
-        
         armor.armorset_id = armorset_id
         armor.armorset_bonus_id = armorset_to_bonus.get(armorset_id, None)
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             armor.translations.append(db.ArmorText(
                 lang_id=language, 
                 name=entry.name(language)
@@ -354,16 +348,8 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Armor Crafting
-        # TODO: refactor. Either change deserialization or create a recipe iterator function
-        for idx in range(1, cfg.max_recipe_item_count + 1):
-            item_name = entry['craft'][f'item{idx}_name']
-            quantity = entry['craft'][f'item{idx}_qty']
-            if not item_name:
-                continue
-
+        for (item_name, quantity) in datafn.iter_armor_recipe(entry):
             item_id = item_map.id_of('en', item_name)
-            ensure(item_id, f"Item {item_name} in Armor {armor_name_en} does not exist")
-            
             armor.craft_items.append(db.ArmorRecipe(
                 item_id=item_id,
                 quantity=quantity
@@ -420,7 +406,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             weapon.previous_weapon_id = previous_weapon_id
 
         # Add language translations
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             weapon.translations.append(db.WeaponText(
                 lang_id = language,
                 name = entry.name(language)
@@ -467,7 +453,7 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             warped_feystone_chance=entry['chances']['warped_feystone_chance']
         )
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             decoration.translations.append(db.DecorationText(
                 lang_id=language,
                 name=entry.name('en')
@@ -485,7 +471,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     for charm_id, entry in charm_map.items():
         charm = db.Charm(id=charm_id)
 
-        for language in supported_languages:
+        for language in cfg.supported_languages:
             charm.translations.append(db.CharmText(
                 lang_id=language,
                 name=entry.name(language)
