@@ -232,7 +232,7 @@ def build_skills(session : sqlalchemy.orm.Session, mhdata):
                 description=entry['description'][language]
             ))
 
-            for effect in entry['effects']:
+            for effect in entry['levels']:
                 skilltree.skills.append(db.Skill(
                     lang_id=language,
                     level=effect['level'],

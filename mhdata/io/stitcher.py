@@ -13,7 +13,8 @@ class DataStitcher:
      - key - If given, the added data will be added as entry[keyname] = yourdata.
 
      - groups - If you have defense_base and defense_map, you can use group defense
-                to join them together as defense: { base: val, max: val}
+                to join them together as defense: { base: val, max: val}.
+                Not necessary if a schema is provided to get() that handles it.
     """
 
     def __init__(self, reader: DataReader, *, join_lang='en', dir=''):
@@ -98,5 +99,20 @@ class DataStitcher:
 
         return self
     
-    def get(self):
+    def get(self, *, schema=None):
+        """Returns the stiched result. 
+        If schema is provided, returns the items run through the marshmallow schema
+        """
+        if schema:
+            results = DataMap()
+            for entry in self.data_map.values():
+                data = entry.to_dict()
+                (converted, errors) = schema.load(data, many=False) # converted
+
+                if errors:
+                    raise Exception(str(errors))
+
+                results.add_entry(entry.id, converted)
+            return results
+
         return self.data_map

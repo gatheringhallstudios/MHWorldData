@@ -20,6 +20,11 @@ def repair():
     pass
 
 @repair.command()
+def skills():
+    "Reorders skill level details to match the base's data ordering"
+    repair_functions.repair_skill_data()
+
+@repair.command()
 def armor():
     "Repairs all armor data to synchronize data order"
     repair_functions.repair_armor_data()

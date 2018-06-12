@@ -44,7 +44,11 @@ def load_data():
                     .get())
     result.location_map = transform_dmap(location_map, schema.LocationSchema())
 
-    result.skill_map = reader.load_base_json("skills/skill_base.json")
+    result.skill_map = (DataStitcher(reader, dir="skills/")
+                    .base_csv("skill_base.csv")
+                    .add_csv("skill_levels.csv", key="levels")
+                    .get(schema=schema.SkillSchema()))
+
     result.charm_map = reader.load_base_json('charms/charm_base.json')
 
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")

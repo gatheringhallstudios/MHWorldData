@@ -56,7 +56,7 @@ class ItemCombinationSchema(BaseSchema):
     quantity = fields.Int()
 
 class LocationSchema(BaseSchema):
-    __groups__ = ('name')
+    __groups__ = ('name',)
     name = fields.Dict()
     items = fields.Nested('LocationItemEntrySchema', many=True, missing=[])
 
@@ -68,8 +68,20 @@ class LocationItemEntrySchema(BaseSchema):
     stack = fields.Int()
     percentage = fields.Int()
 
+class SkillSchema(BaseSchema):
+    __groups__ = ('name', 'description')
+    name = fields.Dict()
+    description = fields.Dict()
+
+    levels = fields.Nested('SkillLevelSchema', many=True, required=True)
+
+class SkillLevelSchema(BaseSchema):
+    __groups__ = ('description',)
+    level = fields.Int()
+    description = fields.Dict()
+
 class ArmorSetSchema(BaseSchema):
-    __groups__ = ('name')
+    __groups__ = ('name',)
     name = fields.Dict()
     armor_lang = fields.Str()
     head = fields.Str(allow_none=True)
@@ -80,7 +92,7 @@ class ArmorSetSchema(BaseSchema):
     bonus = fields.Str(allow_none=True)
 
 class ArmorSetBonus(BaseSchema):
-    __groups__ = ('name')
+    __groups__ = ('name',)
     name = fields.Dict()
     skill1_name = fields.Str(allow_none=True)
     skill1_required = fields.Int(allow_none=True)
@@ -89,7 +101,7 @@ class ArmorSetBonus(BaseSchema):
 
 class ArmorBaseSchema(BaseSchema):
     "Schema for armor base data"
-    __groups__ = ('name')
+    __groups__ = ('name',)
     name = fields.Dict()
     rarity = fields.Int()
     type = ValidatedStr('head', 'chest', 'arms', 'waist', 'legs')
