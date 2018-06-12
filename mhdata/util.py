@@ -48,7 +48,6 @@ def extract_fields(obj : dict, *fieldnames) -> dict:
         result[fieldname] = obj[fieldname]
     return result
 
-
 def is_scalar(value):
     "Returns true if the value is a string, number, or null"
     if value is None:
@@ -61,6 +60,13 @@ def is_scalar(value):
         return True
     except:
         return False
+
+
+def is_list(value):
+    "Returns true if the object is an iterable that isn't a scalar"
+    if is_scalar(value):
+        return False
+    return isinstance(value, collections.Iterable)
 
 
 def is_flat_iterable(value):
@@ -78,3 +84,50 @@ def is_flat_dict(obj : dict) -> bool:
 def is_flat_dict_list(obj_list) -> bool:
     "Returns true if all dictionaries in the list have only scalar values"
     return all(( is_flat_dict(o) for o in obj_list))
+
+
+def check_not_grouped(obj, groups):
+    "Checks if any fields have already been grouped, and returns the ones that aren't"
+    results = []
+    for group in groups:
+        if group in obj and isinstance(obj[group], collections.Mapping):
+            continue
+        results.append(group)
+    return results
+
+
+def group_fields(obj, groups=[]):
+    "Returns a new dictionary where the items that start with groupname_ are consolidated"
+    if not is_list(groups):
+        raise TypeError("groups needs to be a list or tuple")
+    
+    groups = check_not_grouped(obj, groups)
+    result = {}
+    for key, value in obj.items():
+        group_results = list(filter(lambda g: key.startswith(g+'_'), groups))
+        if not group_results:
+            result[key] = value
+            continue
+
+        group_name = group_results[0]
+        subkey = key[len(group_name)+1:]
+        
+        group = result.setdefault(group_name, {})
+        group[subkey] = value
+
+    return result
+
+
+def ungroup_fields(obj, groups=[]):
+    "Returns a new dictionary where keys that are in group are flattened"
+    result = {}
+    for key, value in obj.items():
+        if key not in groups:
+            result[key] = value
+            continue
+
+        # This is a "group" item, so iterate over it
+        for subkey, subvalue in value.items():
+            result[f"{key}_{subkey}"] = subvalue
+
+    return result

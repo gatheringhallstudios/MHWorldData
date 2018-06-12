@@ -8,7 +8,8 @@ import re
 from mhdata.util import ensure, ensure_warn, joindicts
 
 from .datamap import DataMap
-from .functions import group_fields, unflatten
+from mhdata.util import group_fields
+from .functions import unflatten
 
 from mhdata.io.csv import read_csv
 

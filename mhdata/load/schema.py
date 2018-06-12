@@ -2,9 +2,10 @@
 This module contains marshmallo schema definitions for loaded files.
 """
 
+import collections
 from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 
-from mhdata.io.functions import group_fields, ungroup_fields
+from mhdata.util import group_fields, ungroup_fields
 from . import cfg
 
 def choice_check(*items):
@@ -25,13 +26,14 @@ class BaseSchema(Schema):
 
     @pre_load
     def group_fields(self, data):
+        if not isinstance(data, collections.Mapping):
+            raise TypeError("Invalid data type, perhaps you forgot many=true?")
         groups = self.__groups__ or []
         return group_fields(data, groups=groups)
 
     @post_dump
     def ungroup_fields(self, data):
         groups = self.__groups__ or []
-        print(data)
         return ungroup_fields(data, groups=groups)
 
 
@@ -56,9 +58,9 @@ class ItemCombinationSchema(BaseSchema):
 class LocationSchema(BaseSchema):
     __groups__ = ('name')
     name = fields.Dict()
-    items = fields.Nested('LocationItemEntry', many=True, missing=[])
+    items = fields.Nested('LocationItemEntrySchema', many=True, missing=[])
 
-class LocationItemEntry(BaseSchema):
+class LocationItemEntrySchema(BaseSchema):
     area = fields.Int()
     rank = ValidatedStr(*cfg.supported_ranks)
     item_lang = ValidatedStr(*cfg.supported_languages)
