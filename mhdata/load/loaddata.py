@@ -38,11 +38,10 @@ def load_data():
         'items/item_combination_list.csv',
         schema=schema.ItemCombinationSchema())
 
-    location_map = (DataStitcher(reader, dir="locations/")
+    result.location_map = (DataStitcher(reader, dir="locations/")
                     .base_csv('location_base.csv')
                     .add_csv("location_items.csv", key="items")
-                    .get())
-    result.location_map = transform_dmap(location_map, schema.LocationSchema())
+                    .get(schema=schema.LocationSchema()))
 
     result.skill_map = (DataStitcher(reader, dir="skills/")
                     .base_csv("skill_base.csv")
@@ -62,22 +61,20 @@ def load_data():
                     .add_csv("monster_rewards.csv", key="rewards")
                     .get())
 
-    armor_map = (DataStitcher(reader, dir="armors/")
+    result.armor_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armor_base.csv")
                     .add_csv_ext("armor_craft_ext.csv", key="craft")
                     .add_csv_ext("armor_skills_ext.csv", key="skills")
-                    .get())
-    result.armor_map = transform_dmap(armor_map, schema.ArmorSchema())
+                    .get(schema=schema.ArmorSchema()))
 
     result.armorset_map = transform_dmap(
         reader.load_base_csv("armors/armorset_base.csv"),
         schema.ArmorSetSchema()
     )
 
-    armorset_bonus_map = (DataStitcher(reader, dir="armors/")
+    result.armorset_bonus_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armorset_bonus_base.csv")
-                    .get())
-    result.armorset_bonus_map = transform_dmap(armorset_bonus_map, schema.ArmorSetBonus())
+                    .get(schema=schema.ArmorSetBonus()))
 
     # todo: stitch
     result.weapon_map = reader.load_base_json("weapons/weapon_base.json")
