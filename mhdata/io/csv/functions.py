@@ -1,5 +1,6 @@
 import csv
 
+import mhdata.typecheck as typecheck
 import mhdata.util as util
 
 def determine_fields(obj_list):
@@ -42,7 +43,7 @@ def save_csv(obj_list, location):
     """Saves a dict list as a  CSV, doing some last minute validations. 
     Fields are auto-determined"""
 
-    if not util.is_flat_dict_list(obj_list):
+    if not typecheck.is_flat_dict_list(obj_list):
         raise Exception("Cannot save CSV, the data is not completely flat")
 
     fields = determine_fields(obj_list)

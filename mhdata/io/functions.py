@@ -2,6 +2,7 @@ import typing
 import collections
 import copy
 
+import mhdata.typecheck as typecheck
 import mhdata.util as util
 
 def to_basic(obj, *, collected={}):
@@ -30,7 +31,7 @@ def flatten(obj, *, nest, prefix={}):
     # BASE CASE
     if not nest:
         items = obj
-        if not util.is_flat_iterable(obj):
+        if not typecheck.is_flat_iterable(obj):
             items = [obj]
         
         # Extend all items with the prefix and return them

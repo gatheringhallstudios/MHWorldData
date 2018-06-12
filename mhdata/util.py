@@ -1,5 +1,5 @@
 import collections
-
+from . import typecheck
 
 def ensure(field, error_message):
     "Tests that the field is truthy, throwing an Exception if its not"
@@ -48,44 +48,6 @@ def extract_fields(obj : dict, *fieldnames) -> dict:
         result[fieldname] = obj[fieldname]
     return result
 
-def is_scalar(value):
-    "Returns true if the value is a string, number, or null"
-    if value is None:
-        return True
-    if isinstance(value, str):
-        return True
-
-    try:
-        float(value)
-        return True
-    except:
-        return False
-
-
-def is_list(value):
-    "Returns true if the object is an iterable that isn't a scalar"
-    if is_scalar(value):
-        return False
-    return isinstance(value, collections.Iterable)
-
-
-def is_flat_iterable(value):
-    "Returns true if the object is a flat iterable (not a dictionary/string)"
-    if isinstance(value, str) or isinstance(value, collections.Mapping):
-        return False
-    return isinstance(value, collections.Iterable)
-
-
-def is_flat_dict(obj : dict) -> bool:
-    "Returns true if the dictionary has only scalar values"
-    return all({ is_scalar(v) for v in obj.values()})
-
-
-def is_flat_dict_list(obj_list) -> bool:
-    "Returns true if all dictionaries in the list have only scalar values"
-    return all(( is_flat_dict(o) for o in obj_list))
-
-
 def check_not_grouped(obj, groups):
     "Checks if any fields have already been grouped, and returns the ones that aren't"
     results = []
@@ -98,7 +60,7 @@ def check_not_grouped(obj, groups):
 
 def group_fields(obj, groups=[]):
     "Returns a new dictionary where the items that start with groupname_ are consolidated"
-    if not is_list(groups):
+    if not typecheck.is_list(groups):
         raise TypeError("groups needs to be a list or tuple")
     
     groups = check_not_grouped(obj, groups)
