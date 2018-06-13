@@ -45,6 +45,8 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
         item.buy_price = entry['buy_price'] or 0
         item.sell_price = entry['sell_price'] or 0
         item.carry_limit = entry['carry_limit'] or 0
+        item.icon_name = entry['icon_name']
+        item.icon_color = entry['icon_color']
 
         for language in cfg.supported_languages:
             item.translations.append(db.ItemText(
@@ -222,17 +224,19 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 def build_skills(session : sqlalchemy.orm.Session, mhdata):
     skill_map = mhdata.skill_map
 
-    for id, entry in skill_map.items():
-        skilltree = db.SkillTree(id=id)
+    for skill_entry in skill_map.values():
+        skilltree = db.SkillTree(
+            id=skill_entry.id,
+            icon_color=skill_entry['icon_color'])
 
         for language in cfg.supported_languages:
             skilltree.translations.append(db.SkillTreeText(
                 lang_id=language,
-                name=entry.name(language),
-                description=entry['description'][language]
+                name=skill_entry.name(language),
+                description=skill_entry['description'][language]
             ))
 
-            for effect in entry['levels']:
+            for effect in skill_entry['levels']:
                 skilltree.skills.append(db.Skill(
                     lang_id=language,
                     level=effect['level'],

@@ -47,6 +47,9 @@ class ItemSchema(BaseSchema):
     buy_price = fields.Int(allow_none=True)
     sell_price = fields.Int(allow_none=True)
     carry_limit = fields.Int(allow_none=True)
+    
+    icon_name = fields.Str(allow_none=True)
+    icon_color = fields.Str(allow_none=True)
 
 class ItemCombinationSchema(BaseSchema):
     id = fields.Int()
@@ -72,6 +75,7 @@ class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')
     name = fields.Dict()
     description = fields.Dict()
+    icon_color = fields.Str(allow_none=True)
 
     levels = fields.Nested('SkillLevelSchema', many=True, required=True)
 

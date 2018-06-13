@@ -17,7 +17,8 @@ class Item(Base):
     sell_price = Column(Integer)
     carry_limit = Column(Integer)
 
-    icon = Column(Text)
+    icon_name = Column(Text)
+    icon_color = Column(Text)
 
     translations = relationship("ItemText")
 
@@ -194,10 +195,10 @@ class SkillTree(Base):
     __tablename__ = 'skilltree'
 
     id = Column(Integer, primary_key=True)
+    icon_color = Column(Text)
 
     translations = relationship("SkillTreeText")
     skills = relationship("Skill")
-    # todo: decide the relationship to skill, and whether skill should be skill_text
 
 class SkillTreeText(Base):
     __tablename__ = 'skilltree_text'
