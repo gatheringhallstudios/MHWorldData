@@ -218,6 +218,7 @@ class Skill(Base):
 class ArmorSet(Base):
     __tablename__ = "armorset"
     id = Column(Integer, primary_key=True)
+    rank = Column(Text)
     armorset_bonus_id = Column(Integer)
 
     translations = relationship("ArmorSetText")
@@ -247,6 +248,7 @@ class Armor(Base):
 
     id = Column(Integer, primary_key=True)
     rarity = Column(Integer)
+    rank = Column(Text)
     armor_type = Column(Text)
     armorset_id = Column(Integer, ForeignKey("armorset.id"))
     armorset_bonus_id = Column(Integer)

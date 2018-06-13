@@ -288,6 +288,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
 
         armorset = db.ArmorSet(
             id=set_id,
+            rank=entry['rank'],
             armorset_bonus_id=armorset_bonus_id
         ) 
         
@@ -329,6 +330,8 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         armor.dragon = entry['defense_dragon']
 
         armorset_id = armor_to_armorset.get(armor_id, None)
+        armorset_entry = armorset_map[armorset_id]
+        armor.rank = armorset_entry['rank']
         armor.armorset_id = armorset_id
         armor.armorset_bonus_id = armorset_to_bonus.get(armorset_id, None)
 
