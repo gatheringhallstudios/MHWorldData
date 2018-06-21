@@ -104,6 +104,7 @@ class MonsterText(Base):
     id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
+    ecology = Column(Text)
     description = Column(Text)
     alt_state_description = Column(Text)
 

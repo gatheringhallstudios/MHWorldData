@@ -53,7 +53,7 @@ def load_data():
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 
     result.monster_map = (DataStitcher(reader, dir="monsters/")
-                    .base_csv("monster_base.csv", groups=['description'])
+                    .base_csv("monster_base.csv", groups=['description', 'ecology'])
                     .add_json("monster_weaknesses.json", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
