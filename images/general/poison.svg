@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/*/icons/svg/poison</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="*/icons/svg/poison" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(1.000000, 0.000000)">
+            <path d="M30.5,60 C13.6553151,60 0,46.5685425 0,30 C0,13.4314575 13.6553151,0 30.5,0 C47.3446849,0 61,13.4314575 61,30 C61,46.5685425 47.3446849,60 30.5,60 Z" id="Oval-3" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M30.5,54 C43.4786916,54 54,43.4786916 54,30.5 C54,17.5213084 43.4786916,7 30.5,7 C17.5213084,7 7,17.5213084 7,30.5 C7,43.4786916 17.5213084,54 30.5,54 Z" id="Path" fill="#C875BF"></path>
+            <circle id="Oval-4" fill="#7F3598" cx="30.5" cy="30.5" r="9.5"></circle>
+            <path d="M67.5,100 C50.6553151,100 37,86.5685425 37,70 C37,53.4314575 50.6553151,40 67.5,40 C84.3446849,40 98,53.4314575 98,70 C98,86.5685425 84.3446849,100 67.5,100 Z" id="Oval-3" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M67.5,94 C80.4786916,94 91,83.4786916 91,70.5 C91,57.5213084 80.4786916,47 67.5,47 C54.5213084,47 44,57.5213084 44,70.5 C44,83.4786916 54.5213084,94 67.5,94 Z" id="Path" fill="#AE6AC9"></path>
+            <circle id="Oval-4" fill="#7F3598" cx="67.5" cy="69.5" r="9.5"></circle>
+        </g>
+    </g>
+</svg>

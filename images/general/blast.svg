@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/*/icons/svg/blast</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="76.5140223 94 86.3508053 84.1219927 76.5140223 86.6065614 92 60.9735115 76.5140223 64.1356015 87.6790187 34.600729 66.4571409 48.2784933 60.3258257 15.6379101 48.3766688 44.255164 22.2707006 14 30.5182009 59.0206561 9 55.6534629 29.0013316 86.6065614 13.9746071 84.1219927 27.2557886 94"></polygon>
+    </defs>
+    <g id="*/icons/svg/blast" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(0.000000, 1.000000)">
+            <polygon id="Path-41" fill="#000000" fill-rule="nonzero" points="0 49.2661307 24.2495103 52.2002026 16.3246116 0 46.7644016 34.2997076 61.9333038 0.647525856 69.8035711 39.4130462 95.8249665 24.5942877 84.2873258 57.0893436 100 55.0950944 85.618032 79.4618688 95.9469051 78.7537934 78.2990435 98 25.636675 98 2.41025983 79.6062871 18.8361836 79.3865468"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Path" fill="#C48156" xlink:href="#path-1"></use>
+            <polygon id="Path-42" fill="#B0612D" fill-rule="nonzero" points="38.1719386 42 52.3387469 69.0469636 66.4611432 50.3450768 63.737991 75.0674222 79 70.5092586 65.0225164 93.9799427 39.0340716 93.9391137 23 66.8689667 40.053473 76.9564389"></polygon>
+            <polygon id="Path" fill="#F79750" points="43.2912517 94 60.1894448 94 69 79.3139024 58.4824914 82.4284833 60.1894448 67.0629385 51.4792296 78.5 43.2912517 63 44.5223237 85.678117 35 80.0931452"></polygon>
+        </g>
+    </g>
+</svg>
