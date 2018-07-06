@@ -37,6 +37,9 @@ class BaseSchema(Schema):
         return ungroup_fields(data, groups=groups)
 
 
+# schemas were added later down the line, so no schemas exist for certain objects yet
+# schemas are used mostly for type conversion and pre-validation
+
 class ItemSchema(BaseSchema):
     __groups__ = ('name', 'description')
     name = fields.Dict()

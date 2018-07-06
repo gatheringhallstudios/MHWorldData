@@ -102,7 +102,10 @@ class DataMap(typing.Mapping[int, DataRow]):
         Otherwise a new id is auto-generated.
         """
         if 'id' in entry:
-            entry_id = entry['id']
+            try:
+                entry_id = int(entry['id'])
+            except ValueError:
+                raise ValueError("Entry id must be an int")
         else:
             entry_id = next(self._id_gen)
         return self._add_entry(entry_id, entry)
