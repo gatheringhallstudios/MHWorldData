@@ -36,7 +36,7 @@ def validate_csv(obj_list, filename):
         print("Warning: Some keys in CSV are not trimmed: " + filename)
     if warn_value_rows:
         print("Warning: Some values in CSV are not trimmed: "
-            + filename + " rows: " + ", ".join(idx))
+            + filename + " rows: " + ", ".join(warn_value_rows))
 
 
 def save_csv(obj_list, location):
