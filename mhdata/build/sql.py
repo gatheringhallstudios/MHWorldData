@@ -121,8 +121,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
         monster = db.Monster(
             id=entry.id,
             order_id=order_id,
-            size=entry['size'],
-            icon=entry['icon']
+            size=entry['size']
         )
 
         # Save basic weakness summary data

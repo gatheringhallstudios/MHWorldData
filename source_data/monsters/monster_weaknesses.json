@@ -413,6 +413,20 @@
             "stun": 2
         }
     },
+    "Lunastra": {
+        "normal": {
+            "fire": 0,
+            "water": 1,
+            "thunder": 1,
+            "ice": 3,
+            "dragon": 2,
+            "poison": 1,
+            "sleep": 1,
+            "paralysis": 1,
+            "blast": 2,
+            "stun": 2     
+        }
+    },
     "Kushala Daora": {
         "normal": {
             "fire": 1,
@@ -439,6 +453,31 @@
             "paralysis": 1,
             "blast": 2,
             "stun": 2
+        }
+    },
+    "Kulve Taroth": {
+        "normal": {
+            "fire": 0,
+            "water": 2,
+            "thunder": 0,
+            "ice": 3,
+            "dragon": 2,
+            "poison": 1,
+            "sleep": 1,
+            "paralysis": 1,
+            "blast": 1,
+            "stun": 1
+        },
+        "alt": {
+            "fire": 1,
+            "water": 2,
+            "thunder": 3,
+            "ice": 0,
+            "dragon": 1
+        },
+        "alt_description": {
+            "en": "when covered in gold",
+            "ja": null
         }
     },
     "Xeno'jiiva": {
