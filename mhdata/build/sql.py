@@ -73,12 +73,13 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
     print("Built Items")
 
 def build_locations(session : sqlalchemy.orm.Session, mhdata):
-    for location_id, entry in mhdata.location_map.items():
+    for order_id, entry in enumerate(mhdata.location_map.values()):
         location_name = entry['name']['en']
 
         for language in cfg.supported_languages:
             session.add(db.Location(
-                id=location_id,
+                id=entry.id,
+                order_id=order_id,
                 lang_id=language,
                 name=entry.name(language)
             ))
@@ -89,7 +90,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
             item_id = mhdata.item_map.id_of(item_lang, item_name)
 
             session.add(db.LocationItem(
-                location_id=location_id,
+                location_id=entry.id,
                 area=item_entry['area'],
                 rank=item_entry['rank'],
                 item_id=item_id,
@@ -116,11 +117,10 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
             ))
 
     # Save monsters
-    for monster_id, entry in monster_map.items():
-        monster_name = entry.name('en') # used for error display
-
+    for order_id, entry in enumerate(monster_map.values()):
         monster = db.Monster(
-            id=entry.id, 
+            id=entry.id,
+            order_id=order_id,
             size=entry['size'],
             icon=entry['icon']
         )

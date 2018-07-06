@@ -48,6 +48,7 @@ class Language(Base):
 class Location(Base):
     __tablename__ = 'location_text'
     id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
@@ -70,6 +71,7 @@ class Monster(Base):
     __tablename__ = 'monster'
 
     id = Column(Integer, primary_key=True)
+    order_id = Column(Integer, unique=True)
     size = Column(Text)
 
     has_weakness = Column(Boolean, default=False)
