@@ -41,10 +41,12 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
     for entry in mhdata.item_map.values():
         item = db.Item(id=entry.id)
         item.category = entry['category']
+        item.subcategory = entry['subcategory']
         item.rarity = entry['rarity'] or 0
         item.buy_price = entry['buy_price'] or 0
         item.sell_price = entry['sell_price'] or 0
         item.carry_limit = entry['carry_limit'] or 0
+        item.points = entry['points'] or 0
         item.icon_name = entry['icon_name']
         item.icon_color = entry['icon_color']
 
@@ -93,6 +95,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
                 item_id=item_id,
                 stack=item_entry['stack'],
                 percentage=item_entry['percentage'],
+                nodes=item_entry['nodes']
             ))
             
     print("Built locations")

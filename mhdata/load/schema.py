@@ -42,10 +42,11 @@ class ItemSchema(BaseSchema):
     name = fields.Dict()
     description = fields.Dict()
     category = ValidatedStr("item", "material", "ammo", "misc", "hidden")
-    subcategory = ValidatedStr(None, "account", "supply")
+    subcategory = ValidatedStr(None, "account", "supply", "appraisal")
     rarity = fields.Int(allow_none=True, default=0)
     buy_price = fields.Int(allow_none=True)
     sell_price = fields.Int(allow_none=True)
+    points = fields.Int(allow_none=True)
     carry_limit = fields.Int(allow_none=True)
     
     icon_name = fields.Str(allow_none=True)
@@ -70,6 +71,7 @@ class LocationItemEntrySchema(BaseSchema):
     item = fields.Str()
     stack = fields.Int()
     percentage = fields.Int()
+    nodes = fields.Int(allow_none=True, default=1)
 
 class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')

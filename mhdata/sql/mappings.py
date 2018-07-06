@@ -12,10 +12,12 @@ class Item(Base):
 
     id = Column(Integer, primary_key=True)
     category = Column(Text)
+    subcategory = Column(Text)
     rarity = Column(Integer)
     buy_price = Column(Integer)
     sell_price = Column(Integer)
     carry_limit = Column(Integer)
+    points = Column(Integer)
 
     icon_name = Column(Text)
     icon_color = Column(Text)
@@ -62,6 +64,7 @@ class LocationItem(Base):
     item_id = Column(Integer, ForeignKey('item.id'), index=True)
     stack = Column(Integer)
     percentage = Column(Integer)
+    nodes = Column(Integer, default=1, nullable=False)
 
 class Monster(Base):
     __tablename__ = 'monster'
