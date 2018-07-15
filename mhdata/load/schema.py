@@ -11,7 +11,7 @@ from . import cfg
 def choice_check(*items):
     def validate_fn(check):
         if check not in items:
-            item_str = ", ".join(items)
+            item_str = ", ".join(map(lambda i: i or "None", items))
             raise ValidationError(f"Value {check} not one of ({item_str})")
     return validate_fn
 
@@ -45,7 +45,7 @@ class ItemSchema(BaseSchema):
     name = fields.Dict()
     description = fields.Dict()
     category = ValidatedStr("item", "material", "ammo", "misc", "hidden")
-    subcategory = ValidatedStr(None, "account", "supply", "appraisal")
+    subcategory = ValidatedStr(None, "account", "supply", "appraisal", "trade")
     rarity = fields.Int(allow_none=True, default=0)
     buy_price = fields.Int(allow_none=True)
     sell_price = fields.Int(allow_none=True)
