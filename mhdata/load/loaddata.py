@@ -81,8 +81,8 @@ def load_data():
     result.weapon_data = reader.load_split_data_map(result.weapon_map, "weapons/weapon_data")
 
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
-                    .base_json("decoration_base.json")
+                    .base_csv("decoration_base.csv")
                     .add_json("decoration_chances.json", key="chances")
-                    .get())
+                    .get(schema=schema.DecorationSchema()))
 
     return result

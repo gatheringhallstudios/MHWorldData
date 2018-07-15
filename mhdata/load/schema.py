@@ -147,3 +147,14 @@ class RecipeSchema(BaseSchema):
 
 class ArmorCraftSchema(RecipeSchema):
     pass
+
+class DecorationBaseSchema(BaseSchema):
+    __groups__ = ('name',)
+    name = fields.Dict()
+    rarity = fields.Int()
+    skill_en = fields.Str()
+    slot = fields.Int()
+    icon_color = fields.Str(allow_none=True)
+
+class DecorationSchema(DecorationBaseSchema):
+    chances = fields.Dict()

@@ -86,3 +86,15 @@ def repair_armor_data():
     result_list = new_armor_map.to_list()
     result, errors = armor_schema.dump(result_list, many=True)
     writer.save_csv("armors/armor_base.csv", result)
+
+def repair_decoration_colors():
+    data = load_data()
+
+    for entry in data.decoration_map.values():
+        skill_en = entry['skill_en']
+        skill_entry = data.skill_map.entry_of("en", skill_en)
+        entry['icon_color'] = skill_entry['icon_color']
+
+    decoration_schema = schema.DecorationBaseSchema()
+    result, errors = decoration_schema.dump(data.decoration_map.to_list(), many=True)
+    writer.save_csv("decorations/decoration_base.csv", result)

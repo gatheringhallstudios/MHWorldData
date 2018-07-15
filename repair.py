@@ -29,5 +29,10 @@ def armor():
     "Repairs all armor data to synchronize data order"
     repair_functions.repair_armor_data()
 
+@repair.command()
+def decorations():
+    "Repairs decoration colors by updating colors to match the skill"
+    repair_functions.repair_decoration_colors()
+
 if __name__ == '__main__':
     repair()
