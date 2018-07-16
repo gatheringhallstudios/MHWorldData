@@ -31,3 +31,9 @@ max_recipe_item_count = 4
 
 "Maximum number of skills in an armor piece/weapon"
 max_skill_count = 2
+
+icon_colors = [
+    "Gray", "White", "Lime", "Green", "Cyan", "Blue", "Violet", "Orange",
+    "Pink", "Red", "DarkRed", "LightBeige", "Beige", "DarkBeige", "Yellow",
+    "Gold", "DarkGreen", "DarkPurple"
+]

@@ -53,7 +53,7 @@ class ItemSchema(BaseSchema):
     carry_limit = fields.Int(allow_none=True)
     
     icon_name = fields.Str(allow_none=True)
-    icon_color = fields.Str(allow_none=True)
+    icon_color = ValidatedStr(None, *cfg.icon_colors)
 
 class ItemCombinationSchema(BaseSchema):
     id = fields.Int()
@@ -80,7 +80,7 @@ class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')
     name = fields.Dict()
     description = fields.Dict()
-    icon_color = fields.Str(allow_none=True)
+    icon_color = ValidatedStr(None, *cfg.icon_colors)
 
     levels = fields.Nested('SkillLevelSchema', many=True, required=True)
 
@@ -154,7 +154,7 @@ class DecorationBaseSchema(BaseSchema):
     rarity = fields.Int()
     skill_en = fields.Str()
     slot = fields.Int()
-    icon_color = fields.Str(allow_none=True)
+    icon_color = ValidatedStr(None, *cfg.icon_colors)
 
 class DecorationSchema(DecorationBaseSchema):
     chances = fields.Dict()
