@@ -380,6 +380,7 @@ class Decoration(Base):
 
     skilltree_id = Column(Integer, ForeignKey("skilltree.id"))
     slot = Column(Integer)
+    icon_color = Column(Text)
 
     mysterious_feystone_chance = Column(Float)
     glowing_feystone_chance = Column(Float)

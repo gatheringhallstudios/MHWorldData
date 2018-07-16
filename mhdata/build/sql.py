@@ -451,6 +451,7 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             id=decoration_id,
             rarity=entry['rarity'],
             slot=entry['slot'],
+            icon_color=entry['icon_color'],
             skilltree_id=skill_id,
             mysterious_feystone_chance=entry['chances']['mysterious_feystone_chance'],
             glowing_feystone_chance=entry['chances']['glowing_feystone_chance'],
