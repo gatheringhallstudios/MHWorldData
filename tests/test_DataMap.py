@@ -59,30 +59,27 @@ def test_can_lookup_entry_by_name():
     assert entry.name('en') == 'test2', "expected entry name to match"
 
 def test_can_iterate_values_in_order():
-    expected_entries = [
-        (1, create_test_entry_en('test1')),
-        (2, create_test_entry_en("test2")),
-        (3, create_test_entry_en("test3"))]
+    expected_names = ['test1', 'test2', 'test3']
     
     map = DataMap()
-    for (id, entry) in expected_entries:
-        map.add_entry(id, entry)
+    for (id, name) in enumerate(expected_names):
+        map.add_entry(id, create_test_entry_en(name))
     
-    found = [(id, entry) for (id, entry) in map.items()]
-    assert found == expected_entries, "Expected map entries to match"
+    found = [entry['name']['en'] for entry in map.values()]
+    assert found == expected_names, "Expected map entries to match"
 
-def test_set_value_after_item():
-    test_keys = [ 'test1', 'test2', 'test3', 'test4']
+def test_row_add_value_in_middle():
+    test_keys = [ 'id', 'test1', 'test2', 'test3']
     test_dict = { k:1 for k in test_keys }
     test_dict['name'] = { 'en': 'a test' } # required field
 
     datamap = DataMap()
-    entry = datamap.add_entry(1, test_dict)
+    entry = datamap.insert(test_dict)
 
     entry.set_value('NEW', 1, after='test2')
 
     # note: name exists because it was manually added to test_dict
-    expected_keys = ['test1', 'test2', 'NEW', 'test3', 'test4', 'name']
+    expected_keys = ['id', 'test1', 'test2', 'NEW', 'test3', 'name']
     entry_keys = list(entry.keys())
     assert entry_keys == expected_keys, "Expected new to be after test2"
 
@@ -96,13 +93,13 @@ def test_manual_id_resets_sequence():
 
 def test_to_dict_correct_data():
     data = {
-        25: create_test_entry_en('test1', { 'somedata': {'nested': 5}}),
-        28: create_test_entry_en('test2', { 'somedata': {'alsonested': 'hey'}})
+        25: create_test_entry_en('test1', { 'id': 25, 'somedata': {'nested': 5}}),
+        28: create_test_entry_en('test2', { 'id': 28, 'somedata': {'alsonested': 'hey'}})
     }
 
     datamap = DataMap()
-    datamap.add_entry(25, data[25])
-    datamap.add_entry(28, data[28])
+    for row in data.values():
+        datamap.insert(row)
 
     serialized = datamap.to_dict()
     assert serialized == data, "expected serialized data to match original data"
@@ -136,10 +133,10 @@ def test_merge_adds_data():
 
     assert datamap[1]['extended'] == 2, 'expected data 1 to get extended'
     assert datamap[3]['extended'] == 3, 'expected data 3 to get extended'
-    assert datamap[2] == baseData[2], 'expected data 2 to not update'
+    assert 'extended' not in datamap[2], 'expected data 2 to not update'
     
 
-def test_merge_adds_data_key():
+def test_merge_adds_data_under_key():
     # same as the non-key test, but tests that it occured under the key
     baseData = {
         1: create_test_entry_en('test1'),
@@ -157,4 +154,4 @@ def test_merge_adds_data_key():
 
     assert datamap[1]['test']['extended'] == 2, 'expected data 1 to get extended'
     assert datamap[3]['test']['extended'] == 3, 'expected data 3 to get extended'
-    assert datamap[2] == baseData[2], 'expected data 2 to not update'
+    assert 'test' not in datamap[2], 'expected data 2 to not update'

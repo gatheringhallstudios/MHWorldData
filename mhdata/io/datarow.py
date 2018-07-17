@@ -7,13 +7,12 @@ class DataRow(MutableMapping):
     """
 
     def __init__(self, id: int, datarowdict: dict):
-        self._id = id
-        self._data = datarowdict
+        self._data = { 'id': id, **datarowdict }
 
     @property
     def id(self):
         "Returns the id associated with this DataRow"
-        return self._id
+        return self['id']
 
     def name(self, lang_id):
         "Returns the name of this data map row in a specific language"

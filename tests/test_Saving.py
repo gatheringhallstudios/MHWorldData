@@ -4,11 +4,11 @@ import shutil
 
 from mhdata.io import DataMap, DataReaderWriter
 
-def create_entry(name_map):
-    return { 'name': name_map, 'description': name_map }
+def create_entry(name_map, extra={}):
+    return { 'name': name_map, 'description': name_map, **extra }
 
-def create_entry_en(name):
-    return create_entry({ 'en': name, 'ja': name+'ja' })
+def create_entry_en(name, extra={}):
+    return create_entry({ 'en': name, 'ja': name+'ja' }, extra)
 
 @pytest.fixture()
 def writer(tmpdir):
@@ -31,9 +31,10 @@ def test_save_base_symmetric(writer):
 
 
 def test_save_base_csv_symmetric(writer : DataReaderWriter):
+    # Note: CSVs do not save typing info, so everything is strings
     data = DataMap()
-    data.insert(create_entry_en('test1'))
-    data.insert(create_entry_en('test2'))
+    data.insert(create_entry_en('test1', { 'id': '1' }))
+    data.insert(create_entry_en('test2', { 'id': '2' }))
 
     groups = ['name', 'description']
     writer.save_base_map_csv('testbase.csv', data,  groups=groups)

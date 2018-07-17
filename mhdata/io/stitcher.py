@@ -112,7 +112,13 @@ class DataStitcher:
                 if errors:
                     raise Exception(str(errors))
 
-                results.add_entry(entry.id, converted)
+                # id may have changed type or value:
+                # get the converted id before the original,
+                # but default to original if missing or falsey
+                entry_id = converted.get('id', None) or entry.id
+
+                results.add_entry(entry_id, converted)
+                
             return results
 
         return self.data_map
