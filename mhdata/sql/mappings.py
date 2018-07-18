@@ -399,6 +399,8 @@ class Charm(Base):
     __tablename__ = 'charm'
 
     id = Column(Integer, primary_key=True)
+    previous_id = Column(Integer, ForeignKey('charm.id'))
+    rarity = Column(Integer)
 
     skills = relationship('CharmSkill')
     craft_items = relationship('CharmRecipe')

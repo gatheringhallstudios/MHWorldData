@@ -19,6 +19,7 @@ def validate(mhdata):
     errors.extend(validate_monsters(mhdata))
     errors.extend(validate_monster_rewards(mhdata))
     errors.extend(validate_armor(mhdata))
+    errors.extend(validate_charms(mhdata))
 
     if errors:
         for error in errors:
@@ -190,5 +191,16 @@ def validate_armor(mhdata):
         for skill_name, _ in datafn.iter_setbonus_skills(bonus_entry):
             if skill_name not in mhdata.skill_map.names('en'):
                 errors.append(f"Skill {skill_name} in set bonuses does not exist")
+
+    return errors
+
+def validate_charms(mhdata):
+    errors = []
+
+    names = mhdata.charm_map.names("en")
+    for entry in mhdata.charm_map.values():
+        previous_entry = entry['previous_en']
+        if previous_entry is not None and previous_entry not in names:
+            errors.append(f"Charm {previous_entry} for previous_en does not exist")
 
     return errors

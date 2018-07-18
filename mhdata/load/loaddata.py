@@ -48,7 +48,10 @@ def load_data():
                     .add_csv("skill_levels.csv", key="levels")
                     .get(schema=schema.SkillSchema()))
 
-    result.charm_map = reader.load_base_json('charms/charm_base.json')
+    result.charm_map = (DataStitcher(reader, dir="charms/")
+                    .base_csv("charm_base.csv")
+                    .add_json("charm_ext.json")
+                    .get(schema=schema.CharmSchema()))
 
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 

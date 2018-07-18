@@ -1,9 +1,5 @@
-[
-    {
-        "name": {
-            "en": "Poison Charm I",
-            "ja": null
-        },
+{
+    "Poison Charm I": {
         "skills": {
             "Poison Resistance": 1
         },
@@ -14,11 +10,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Poison Charm II",
-            "ja": null
-        },
+    "Poison Charm II": {
         "skills": {
             "Poison Resistance": 2
         },
@@ -29,11 +21,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Poison Charm III",
-            "ja": null
-        },
+    "Poison Charm III": {
         "skills": {
             "Poison Resistance": 3
         },
@@ -44,11 +32,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Attack Charm I",
-            "ja": null
-        },
+    "Attack Charm I": {
         "skills": {
             "Attack Boost": 1
         },
@@ -59,11 +43,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Attack Charm II",
-            "ja": null
-        },
+    "Attack Charm II": {
         "skills": {
             "Attack Boost": 2
         },
@@ -74,11 +54,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Attack Charm III",
-            "ja": null
-        },
+    "Attack Charm III": {
         "skills": {
             "Attack Boost": 3
         },
@@ -89,11 +65,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Defense Charm I",
-            "ja": null
-        },
+    "Defense Charm I": {
         "skills": {
             "Defense Boost": 1
         },
@@ -104,11 +76,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Defense Charm II",
-            "ja": null
-        },
+    "Defense Charm II": {
         "skills": {
             "Defense Boost": 2
         },
@@ -119,11 +87,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Defense Charm III",
-            "ja": null
-        },
+    "Defense Charm III": {
         "skills": {
             "Defense Boost": 3
         },
@@ -134,11 +98,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Paralysis Charm I",
-            "ja": null
-        },
+    "Paralysis Charm I": {
         "skills": {
             "Paralysis Resistance": 1
         },
@@ -149,11 +109,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Paralysis Charm II",
-            "ja": null
-        },
+    "Paralysis Charm II": {
         "skills": {
             "Paralysis Resistance": 2
         },
@@ -164,11 +120,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Paralysis Charm III",
-            "ja": null
-        },
+    "Paralysis Charm III": {
         "skills": {
             "Paralysis Resistance": 3
         },
@@ -179,11 +131,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sleep Charm I",
-            "ja": null
-        },
+    "Sleep Charm I": {
         "skills": {
             "Sleep Resistance": 1
         },
@@ -194,11 +142,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sleep Charm II",
-            "ja": null
-        },
+    "Sleep Charm II": {
         "skills": {
             "Sleep Resistance": 2
         },
@@ -209,11 +153,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sleep Charm III",
-            "ja": null
-        },
+    "Sleep Charm III": {
         "skills": {
             "Sleep Resistance": 3
         },
@@ -224,11 +164,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stun Charm I",
-            "ja": null
-        },
+    "Stun Charm I": {
         "skills": {
             "Stun Resistance": 1
         },
@@ -239,11 +175,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stun Charm II",
-            "ja": null
-        },
+    "Stun Charm II": {
         "skills": {
             "Stun Resistance": 2
         },
@@ -254,11 +186,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stun Charm III",
-            "ja": null
-        },
+    "Stun Charm III": {
         "skills": {
             "Stun Resistance": 3
         },
@@ -269,11 +197,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Windproof Charm I",
-            "ja": null
-        },
+    "Windproof Charm I": {
         "skills": {
             "Windproof": 1
         },
@@ -284,11 +208,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Windproof Charm II",
-            "ja": null
-        },
+    "Windproof Charm II": {
         "skills": {
             "Windproof": 2
         },
@@ -299,11 +219,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Windproof Charm III",
-            "ja": null
-        },
+    "Windproof Charm III": {
         "skills": {
             "Windproof": 3
         },
@@ -314,11 +230,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Health Charm I",
-            "ja": null
-        },
+    "Health Charm I": {
         "skills": {
             "Health Boost": 1
         },
@@ -329,11 +241,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Health Charm II",
-            "ja": null
-        },
+    "Health Charm II": {
         "skills": {
             "Health Boost": 2
         },
@@ -344,11 +252,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Health Charm III",
-            "ja": null
-        },
+    "Health Charm III": {
         "skills": {
             "Health Boost": 3
         },
@@ -359,11 +263,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Recovery Charm I",
-            "ja": null
-        },
+    "Recovery Charm I": {
         "skills": {
             "Recovery Up": 1
         },
@@ -374,11 +274,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Recovery Charm II",
-            "ja": null
-        },
+    "Recovery Charm II": {
         "skills": {
             "Recovery Up": 2
         },
@@ -389,11 +285,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Recovery Charm III",
-            "ja": null
-        },
+    "Recovery Charm III": {
         "skills": {
             "Recovery Up": 3
         },
@@ -404,11 +296,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fire Charm I",
-            "ja": null
-        },
+    "Fire Charm I": {
         "skills": {
             "Fire Resistance": 1
         },
@@ -419,11 +307,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fire Charm II",
-            "ja": null
-        },
+    "Fire Charm II": {
         "skills": {
             "Fire Resistance": 2
         },
@@ -434,11 +318,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fire Charm III",
-            "ja": null
-        },
+    "Fire Charm III": {
         "skills": {
             "Fire Resistance": 3
         },
@@ -449,11 +329,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Water Charm I",
-            "ja": null
-        },
+    "Water Charm I": {
         "skills": {
             "Water Resistance": 1
         },
@@ -464,11 +340,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Water Charm II",
-            "ja": null
-        },
+    "Water Charm II": {
         "skills": {
             "Water Resistance": 2
         },
@@ -479,11 +351,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Water Charm III",
-            "ja": null
-        },
+    "Water Charm III": {
         "skills": {
             "Water Resistance": 3
         },
@@ -494,11 +362,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Thunder Charm I",
-            "ja": null
-        },
+    "Thunder Charm I": {
         "skills": {
             "Thunder Resistance": 1
         },
@@ -509,11 +373,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Thunder Charm II",
-            "ja": null
-        },
+    "Thunder Charm II": {
         "skills": {
             "Thunder Resistance": 2
         },
@@ -524,11 +384,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Thunder Charm III",
-            "ja": null
-        },
+    "Thunder Charm III": {
         "skills": {
             "Thunder Resistance": 3
         },
@@ -539,11 +395,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blaze Charm I",
-            "ja": null
-        },
+    "Blaze Charm I": {
         "skills": {
             "Fire Attack": 1
         },
@@ -554,11 +406,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blaze Charm II",
-            "ja": null
-        },
+    "Blaze Charm II": {
         "skills": {
             "Fire Attack": 2
         },
@@ -569,11 +417,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blaze Charm III",
-            "ja": null
-        },
+    "Blaze Charm III": {
         "skills": {
             "Fire Attack": 3
         },
@@ -584,11 +428,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Flood Charm I",
-            "ja": null
-        },
+    "Flood Charm I": {
         "skills": {
             "Water Attack": 1
         },
@@ -599,11 +439,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Flood Charm II",
-            "ja": null
-        },
+    "Flood Charm II": {
         "skills": {
             "Water Attack": 2
         },
@@ -614,11 +450,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Flood Charm III",
-            "ja": null
-        },
+    "Flood Charm III": {
         "skills": {
             "Water Attack": 3
         },
@@ -629,11 +461,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Shock Charm I",
-            "ja": null
-        },
+    "Shock Charm I": {
         "skills": {
             "Thunder Attack": 1
         },
@@ -644,11 +472,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Shock Charm II",
-            "ja": null
-        },
+    "Shock Charm II": {
         "skills": {
             "Thunder Attack": 2
         },
@@ -659,11 +483,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Shock Charm III",
-            "ja": null
-        },
+    "Shock Charm III": {
         "skills": {
             "Thunder Attack": 3
         },
@@ -674,11 +494,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Venom Charm I",
-            "ja": null
-        },
+    "Venom Charm I": {
         "skills": {
             "Poison Attack": 1
         },
@@ -689,11 +505,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Venom Charm II",
-            "ja": null
-        },
+    "Venom Charm II": {
         "skills": {
             "Poison Attack": 2
         },
@@ -704,11 +516,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Venom Charm III",
-            "ja": null
-        },
+    "Venom Charm III": {
         "skills": {
             "Poison Attack": 3
         },
@@ -719,11 +527,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Immobilize Charm I",
-            "ja": null
-        },
+    "Immobilize Charm I": {
         "skills": {
             "Paralysis Attack": 1
         },
@@ -734,11 +538,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Immobilize Charm II",
-            "ja": null
-        },
+    "Immobilize Charm II": {
         "skills": {
             "Paralysis Attack": 2
         },
@@ -749,11 +549,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Immobilize Charm III",
-            "ja": null
-        },
+    "Immobilize Charm III": {
         "skills": {
             "Paralysis Attack": 3
         },
@@ -764,11 +560,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tranq Charm I",
-            "ja": null
-        },
+    "Tranq Charm I": {
         "skills": {
             "Sleep Attack": 1
         },
@@ -779,11 +571,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tranq Charm II",
-            "ja": null
-        },
+    "Tranq Charm II": {
         "skills": {
             "Sleep Attack": 2
         },
@@ -794,11 +582,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tranq Charm III",
-            "ja": null
-        },
+    "Tranq Charm III": {
         "skills": {
             "Sleep Attack": 3
         },
@@ -809,11 +593,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "KO Charm I",
-            "ja": null
-        },
+    "KO Charm I": {
         "skills": {
             "Slugger": 1
         },
@@ -824,11 +604,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "KO Charm II",
-            "ja": null
-        },
+    "KO Charm II": {
         "skills": {
             "Slugger": 2
         },
@@ -839,11 +615,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "KO Charm III",
-            "ja": null
-        },
+    "KO Charm III": {
         "skills": {
             "Slugger": 3
         },
@@ -854,11 +626,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Enervate Charm I",
-            "ja": null
-        },
+    "Enervate Charm I": {
         "skills": {
             "Stamina Thief": 1
         },
@@ -869,11 +637,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Enervate Charm II",
-            "ja": null
-        },
+    "Enervate Charm II": {
         "skills": {
             "Stamina Thief": 2
         },
@@ -884,11 +648,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Enervate Charm III",
-            "ja": null
-        },
+    "Enervate Charm III": {
         "skills": {
             "Stamina Thief": 3
         },
@@ -899,11 +659,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Artillery Charm I",
-            "ja": null
-        },
+    "Artillery Charm I": {
         "skills": {
             "Artillery": 1
         },
@@ -914,11 +670,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Artillery Charm II",
-            "ja": null
-        },
+    "Artillery Charm II": {
         "skills": {
             "Artillery": 2
         },
@@ -929,11 +681,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Artillery Charm III",
-            "ja": null
-        },
+    "Artillery Charm III": {
         "skills": {
             "Artillery": 3
         },
@@ -944,11 +692,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Hungerless Charm I",
-            "ja": null
-        },
+    "Hungerless Charm I": {
         "skills": {
             "Hunger Resistance": 1
         },
@@ -959,11 +703,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Hungerless Charm II",
-            "ja": null
-        },
+    "Hungerless Charm II": {
         "skills": {
             "Hunger Resistance": 2
         },
@@ -974,11 +714,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Hungerless Charm III",
-            "ja": null
-        },
+    "Hungerless Charm III": {
         "skills": {
             "Hunger Resistance": 3
         },
@@ -989,11 +725,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ironside Charm I",
-            "ja": null
-        },
+    "Ironside Charm I": {
         "skills": {
             "Guard": 1
         },
@@ -1004,11 +736,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ironside Charm II",
-            "ja": null
-        },
+    "Ironside Charm II": {
         "skills": {
             "Guard": 2
         },
@@ -1019,11 +747,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ironside Charm III",
-            "ja": null
-        },
+    "Ironside Charm III": {
         "skills": {
             "Guard": 3
         },
@@ -1034,11 +758,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Friendship Charm I",
-            "ja": null
-        },
+    "Friendship Charm I": {
         "skills": {
             "Wide-Range": 1
         },
@@ -1049,11 +769,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Friendship Charm II",
-            "ja": null
-        },
+    "Friendship Charm II": {
         "skills": {
             "Wide-Range": 2
         },
@@ -1064,11 +780,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Friendship Charm III",
-            "ja": null
-        },
+    "Friendship Charm III": {
         "skills": {
             "Wide-Range": 3
         },
@@ -1079,11 +791,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Extension Charm I",
-            "ja": null
-        },
+    "Extension Charm I": {
         "skills": {
             "Item Prolonger": 1
         },
@@ -1094,11 +802,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Extension Charm II",
-            "ja": null
-        },
+    "Extension Charm II": {
         "skills": {
             "Item Prolonger": 2
         },
@@ -1109,11 +813,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Extension Charm III",
-            "ja": null
-        },
+    "Extension Charm III": {
         "skills": {
             "Item Prolonger": 3
         },
@@ -1124,11 +824,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Glutton's Charm I",
-            "ja": null
-        },
+    "Glutton's Charm I": {
         "skills": {
             "Speed Eating": 1
         },
@@ -1139,11 +835,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Glutton's Charm II",
-            "ja": null
-        },
+    "Glutton's Charm II": {
         "skills": {
             "Speed Eating": 2
         },
@@ -1154,11 +846,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Glutton's Charm III",
-            "ja": null
-        },
+    "Glutton's Charm III": {
         "skills": {
             "Speed Eating": 3
         },
@@ -1169,11 +857,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blessing Charm I",
-            "ja": null
-        },
+    "Blessing Charm I": {
         "skills": {
             "Divine Blessing": 1
         },
@@ -1184,11 +868,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blessing Charm II",
-            "ja": null
-        },
+    "Blessing Charm II": {
         "skills": {
             "Divine Blessing": 2
         },
@@ -1199,11 +879,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blessing Charm III",
-            "ja": null
-        },
+    "Blessing Charm III": {
         "skills": {
             "Divine Blessing": 3
         },
@@ -1214,11 +890,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Rally Charm I",
-            "ja": null
-        },
+    "Rally Charm I": {
         "skills": {
             "Palico Rally": 1
         },
@@ -1229,11 +901,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Rally Charm II",
-            "ja": null
-        },
+    "Rally Charm II": {
         "skills": {
             "Palico Rally": 2
         },
@@ -1244,11 +912,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Rally Charm III",
-            "ja": null
-        },
+    "Rally Charm III": {
         "skills": {
             "Palico Rally": 3
         },
@@ -1259,11 +923,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Botany Charm I",
-            "ja": null
-        },
+    "Botany Charm I": {
         "skills": {
             "Botanist": 1
         },
@@ -1274,11 +934,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Botany Charm II",
-            "ja": null
-        },
+    "Botany Charm II": {
         "skills": {
             "Botanist": 2
         },
@@ -1289,11 +945,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Botany Charm III",
-            "ja": null
-        },
+    "Botany Charm III": {
         "skills": {
             "Botanist": 3
         },
@@ -1304,11 +956,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Geology Charm I",
-            "ja": null
-        },
+    "Geology Charm I": {
         "skills": {
             "Geologist": 1
         },
@@ -1319,11 +967,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Geology Charm II",
-            "ja": null
-        },
+    "Geology Charm II": {
         "skills": {
             "Geologist": 2
         },
@@ -1334,11 +978,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Geology Charm III",
-            "ja": null
-        },
+    "Geology Charm III": {
         "skills": {
             "Geologist": 3
         },
@@ -1349,11 +989,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Slinger Charm I",
-            "ja": null
-        },
+    "Slinger Charm I": {
         "skills": {
             "Slinger Capacity": 1
         },
@@ -1364,11 +1000,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Slinger Charm II",
-            "ja": null
-        },
+    "Slinger Charm II": {
         "skills": {
             "Slinger Capacity": 2
         },
@@ -1379,11 +1011,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Slinger Charm III",
-            "ja": null
-        },
+    "Slinger Charm III": {
         "skills": {
             "Slinger Capacity": 3
         },
@@ -1394,11 +1022,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stealth Charm I",
-            "ja": null
-        },
+    "Stealth Charm I": {
         "skills": {
             "Stealth": 1
         },
@@ -1409,11 +1033,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stealth Charm II",
-            "ja": null
-        },
+    "Stealth Charm II": {
         "skills": {
             "Stealth": 2
         },
@@ -1424,11 +1044,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Stealth Charm III",
-            "ja": null
-        },
+    "Stealth Charm III": {
         "skills": {
             "Stealth": 3
         },
@@ -1439,11 +1055,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Smoke Charm I",
-            "ja": null
-        },
+    "Smoke Charm I": {
         "skills": {
             "Sporepuff Expert": 1
         },
@@ -1454,11 +1066,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Smoke Charm II",
-            "ja": null
-        },
+    "Smoke Charm II": {
         "skills": {
             "Sporepuff Expert": 2
         },
@@ -1469,11 +1077,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Smoke Charm III",
-            "ja": null
-        },
+    "Smoke Charm III": {
         "skills": {
             "Sporepuff Expert": 3
         },
@@ -1484,11 +1088,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mirewalker Charm I",
-            "ja": null
-        },
+    "Mirewalker Charm I": {
         "skills": {
             "Aquatic Expert": 1
         },
@@ -1499,11 +1099,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mirewalker Charm II",
-            "ja": null
-        },
+    "Mirewalker Charm II": {
         "skills": {
             "Aquatic Expert": 2
         },
@@ -1514,11 +1110,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mirewalker Charm III",
-            "ja": null
-        },
+    "Mirewalker Charm III": {
         "skills": {
             "Aquatic Expert": 3
         },
@@ -1529,11 +1121,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Insect Charm I",
-            "ja": null
-        },
+    "Insect Charm I": {
         "skills": {
             "Entomologist": 1
         },
@@ -1544,11 +1132,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Insect Charm II",
-            "ja": null
-        },
+    "Insect Charm II": {
         "skills": {
             "Entomologist": 2
         },
@@ -1559,11 +1143,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Insect Charm III",
-            "ja": null
-        },
+    "Insect Charm III": {
         "skills": {
             "Entomologist": 3
         },
@@ -1574,11 +1154,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Intimidator Charm I",
-            "ja": null
-        },
+    "Intimidator Charm I": {
         "skills": {
             "Intimidator": 1
         },
@@ -1589,11 +1165,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Intimidator Charm II",
-            "ja": null
-        },
+    "Intimidator Charm II": {
         "skills": {
             "Intimidator": 2
         },
@@ -1604,11 +1176,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Intimidator Charm III",
-            "ja": null
-        },
+    "Intimidator Charm III": {
         "skills": {
             "Intimidator": 3
         },
@@ -1619,11 +1187,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Heavy Artillery Charm I",
-            "ja": null
-        },
+    "Heavy Artillery Charm I": {
         "skills": {
             "Heavy Artillery": 1
         },
@@ -1634,11 +1198,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Heavy Artillery Charm II",
-            "ja": null
-        },
+    "Heavy Artillery Charm II": {
         "skills": {
             "Heavy Artillery": 2
         },
@@ -1649,11 +1209,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Light Eater's Charm",
-            "ja": null
-        },
+    "Light Eater's Charm": {
         "skills": {
             "Free Meal": 1
         },
@@ -1664,11 +1220,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tracker Charm",
-            "ja": null
-        },
+    "Tracker Charm": {
         "skills": {
             "Scenthound": 1
         },
@@ -1679,11 +1231,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fortification Charm",
-            "ja": null
-        },
+    "Fortification Charm": {
         "skills": {
             "Fortify": 1
         },
@@ -1694,11 +1242,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Performer's Charm",
-            "ja": null
-        },
+    "Performer's Charm": {
         "skills": {
             "Horn Maestro": 1
         },
@@ -1709,11 +1253,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Capacity Charm",
-            "ja": null
-        },
+    "Capacity Charm": {
         "skills": {
             "Capacity Boost": 1
         },
@@ -1724,11 +1264,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bleed Charm I",
-            "ja": null
-        },
+    "Bleed Charm I": {
         "skills": {
             "Bleeding Resistance": 1
         },
@@ -1739,11 +1275,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bleed Charm II",
-            "ja": null
-        },
+    "Bleed Charm II": {
         "skills": {
             "Bleeding Resistance": 2
         },
@@ -1754,11 +1286,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bleed Charm III",
-            "ja": null
-        },
+    "Bleed Charm III": {
         "skills": {
             "Bleeding Resistance": 3
         },
@@ -1769,11 +1297,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Speed Heal Charm I",
-            "ja": null
-        },
+    "Speed Heal Charm I": {
         "skills": {
             "Recovery Speed": 1
         },
@@ -1784,11 +1308,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Speed Heal Charm II",
-            "ja": null
-        },
+    "Speed Heal Charm II": {
         "skills": {
             "Recovery Speed": 2
         },
@@ -1799,11 +1319,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Speed Heal Charm III",
-            "ja": null
-        },
+    "Speed Heal Charm III": {
         "skills": {
             "Recovery Speed": 3
         },
@@ -1814,11 +1330,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ice Charm I",
-            "ja": null
-        },
+    "Ice Charm I": {
         "skills": {
             "Ice Resistance": 1
         },
@@ -1829,11 +1341,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ice Charm II",
-            "ja": null
-        },
+    "Ice Charm II": {
         "skills": {
             "Ice Resistance": 2
         },
@@ -1844,11 +1352,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Ice Charm III",
-            "ja": null
-        },
+    "Ice Charm III": {
         "skills": {
             "Ice Resistance": 3
         },
@@ -1859,11 +1363,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blight Charm I",
-            "ja": null
-        },
+    "Blight Charm I": {
         "skills": {
             "Blight Resistance": 1
         },
@@ -1874,11 +1374,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blight Charm II",
-            "ja": null
-        },
+    "Blight Charm II": {
         "skills": {
             "Blight Resistance": 2
         },
@@ -1889,11 +1385,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blight Charm III",
-            "ja": null
-        },
+    "Blight Charm III": {
         "skills": {
             "Blight Resistance": 3
         },
@@ -1904,11 +1396,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Frost Charm I",
-            "ja": null
-        },
+    "Frost Charm I": {
         "skills": {
             "Ice Attack": 1
         },
@@ -1919,11 +1407,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Frost Charm II",
-            "ja": null
-        },
+    "Frost Charm II": {
         "skills": {
             "Ice Attack": 2
         },
@@ -1934,11 +1418,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Frost Charm III",
-            "ja": null
-        },
+    "Frost Charm III": {
         "skills": {
             "Ice Attack": 3
         },
@@ -1949,11 +1429,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Master's Charm I",
-            "ja": null
-        },
+    "Master's Charm I": {
         "skills": {
             "Critical Eye": 1
         },
@@ -1964,11 +1440,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Master's Charm II",
-            "ja": null
-        },
+    "Master's Charm II": {
         "skills": {
             "Critical Eye": 2
         },
@@ -1979,11 +1451,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Master's Charm III",
-            "ja": null
-        },
+    "Master's Charm III": {
         "skills": {
             "Critical Eye": 3
         },
@@ -1994,11 +1462,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Evasion Charm I",
-            "ja": null
-        },
+    "Evasion Charm I": {
         "skills": {
             "Evade Window": 1
         },
@@ -2009,11 +1473,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Evasion Charm II",
-            "ja": null
-        },
+    "Evasion Charm II": {
         "skills": {
             "Evade Window": 2
         },
@@ -2024,11 +1484,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Evasion Charm III",
-            "ja": null
-        },
+    "Evasion Charm III": {
         "skills": {
             "Evade Window": 3
         },
@@ -2039,11 +1495,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sheath Charm I",
-            "ja": null
-        },
+    "Sheath Charm I": {
         "skills": {
             "Quick Sheath": 1
         },
@@ -2054,11 +1506,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sheath Charm II",
-            "ja": null
-        },
+    "Sheath Charm II": {
         "skills": {
             "Quick Sheath": 2
         },
@@ -2069,11 +1517,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sheath Charm III",
-            "ja": null
-        },
+    "Sheath Charm III": {
         "skills": {
             "Quick Sheath": 3
         },
@@ -2084,11 +1528,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Whetstone Charm I",
-            "ja": null
-        },
+    "Whetstone Charm I": {
         "skills": {
             "Speed Sharpening": 1
         },
@@ -2099,11 +1539,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Whetstone Charm II",
-            "ja": null
-        },
+    "Whetstone Charm II": {
         "skills": {
             "Speed Sharpening": 2
         },
@@ -2114,11 +1550,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Whetstone Charm III",
-            "ja": null
-        },
+    "Whetstone Charm III": {
         "skills": {
             "Speed Sharpening": 3
         },
@@ -2129,11 +1561,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blast Charm I",
-            "ja": null
-        },
+    "Blast Charm I": {
         "skills": {
             "Blast Resistance": 1
         },
@@ -2144,11 +1572,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blast Charm II",
-            "ja": null
-        },
+    "Blast Charm II": {
         "skills": {
             "Blast Resistance": 2
         },
@@ -2159,11 +1583,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blast Charm III",
-            "ja": null
-        },
+    "Blast Charm III": {
         "skills": {
             "Blast Resistance": 3
         },
@@ -2174,11 +1594,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Dragon Charm I",
-            "ja": null
-        },
+    "Dragon Charm I": {
         "skills": {
             "Dragon Resistance": 1
         },
@@ -2189,11 +1605,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Dragon Charm II",
-            "ja": null
-        },
+    "Dragon Charm II": {
         "skills": {
             "Dragon Resistance": 2
         },
@@ -2204,11 +1616,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Dragon Charm III",
-            "ja": null
-        },
+    "Dragon Charm III": {
         "skills": {
             "Dragon Resistance": 3
         },
@@ -2219,11 +1627,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Wyrmsbane Charm I",
-            "ja": null
-        },
+    "Wyrmsbane Charm I": {
         "skills": {
             "Dragon Attack": 1
         },
@@ -2234,11 +1638,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Wyrmsbane Charm II",
-            "ja": null
-        },
+    "Wyrmsbane Charm II": {
         "skills": {
             "Dragon Attack": 2
         },
@@ -2249,11 +1649,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Wyrmsbane Charm III",
-            "ja": null
-        },
+    "Wyrmsbane Charm III": {
         "skills": {
             "Dragon Attack": 3
         },
@@ -2264,11 +1660,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Demolition Charm I",
-            "ja": null
-        },
+    "Demolition Charm I": {
         "skills": {
             "Blast Attack": 1
         },
@@ -2279,11 +1671,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Demolition Charm II",
-            "ja": null
-        },
+    "Demolition Charm II": {
         "skills": {
             "Blast Attack": 2
         },
@@ -2294,11 +1682,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Demolition Charm III",
-            "ja": null
-        },
+    "Demolition Charm III": {
         "skills": {
             "Blast Attack": 3
         },
@@ -2309,11 +1693,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Draw Charm I",
-            "ja": null
-        },
+    "Draw Charm I": {
         "skills": {
             "Critical Draw": 1
         },
@@ -2324,11 +1704,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Draw Charm II",
-            "ja": null
-        },
+    "Draw Charm II": {
         "skills": {
             "Critical Draw": 2
         },
@@ -2339,11 +1715,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Trickshot Charm I",
-            "ja": null
-        },
+    "Trickshot Charm I": {
         "skills": {
             "Special Ammo Boost": 1
         },
@@ -2354,11 +1726,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Trickshot Charm II",
-            "ja": null
-        },
+    "Trickshot Charm II": {
         "skills": {
             "Special Ammo Boost": 2
         },
@@ -2369,11 +1737,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Marathon Charm I",
-            "ja": null
-        },
+    "Marathon Charm I": {
         "skills": {
             "Marathon Runner": 1
         },
@@ -2384,11 +1748,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Marathon Charm II",
-            "ja": null
-        },
+    "Marathon Charm II": {
         "skills": {
             "Marathon Runner": 2
         },
@@ -2399,11 +1759,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fitness Charm I",
-            "ja": null
-        },
+    "Fitness Charm I": {
         "skills": {
             "Constitution": 1
         },
@@ -2414,11 +1770,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fitness Charm II",
-            "ja": null
-        },
+    "Fitness Charm II": {
         "skills": {
             "Constitution": 2
         },
@@ -2429,11 +1781,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fitness Charm III",
-            "ja": null
-        },
+    "Fitness Charm III": {
         "skills": {
             "Constitution": 3
         },
@@ -2444,11 +1792,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Surge Charm I",
-            "ja": null
-        },
+    "Surge Charm I": {
         "skills": {
             "Stamina Surge": 1
         },
@@ -2459,11 +1803,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Surge Charm II",
-            "ja": null
-        },
+    "Surge Charm II": {
         "skills": {
             "Stamina Surge": 2
         },
@@ -2474,11 +1814,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Leaping Charm I",
-            "ja": null
-        },
+    "Leaping Charm I": {
         "skills": {
             "Evade Extender": 1
         },
@@ -2489,11 +1825,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Leaping Charm II",
-            "ja": null
-        },
+    "Leaping Charm II": {
         "skills": {
             "Evade Extender": 2
         },
@@ -2504,11 +1836,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bombardier Charm I",
-            "ja": null
-        },
+    "Bombardier Charm I": {
         "skills": {
             "Bombardier": 1
         },
@@ -2519,11 +1847,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bombardier Charm II",
-            "ja": null
-        },
+    "Bombardier Charm II": {
         "skills": {
             "Bombardier": 2
         },
@@ -2534,11 +1858,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Bombardier Charm III",
-            "ja": null
-        },
+    "Bombardier Charm III": {
         "skills": {
             "Bombardier": 3
         },
@@ -2549,11 +1869,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mushroom Charm I",
-            "ja": null
-        },
+    "Mushroom Charm I": {
         "skills": {
             "Mushroomancer": 1
         },
@@ -2564,11 +1880,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mushroom Charm II",
-            "ja": null
-        },
+    "Mushroom Charm II": {
         "skills": {
             "Mushroomancer": 2
         },
@@ -2579,11 +1891,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Awakening Charm I",
-            "ja": null
-        },
+    "Awakening Charm I": {
         "skills": {
             "Free Elem/Ammo Up": 1
         },
@@ -2594,11 +1902,7 @@
             "Aquacore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Awakening Charm II",
-            "ja": null
-        },
+    "Awakening Charm II": {
         "skills": {
             "Free Elem/Ammo Up": 2
         },
@@ -2609,11 +1913,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Handicraft Charm I",
-            "ja": null
-        },
+    "Handicraft Charm I": {
         "skills": {
             "Handicraft": 1
         },
@@ -2624,11 +1924,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Handicraft Charm II",
-            "ja": null
-        },
+    "Handicraft Charm II": {
         "skills": {
             "Handicraft": 2
         },
@@ -2639,11 +1935,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Handicraft Charm III",
-            "ja": null
-        },
+    "Handicraft Charm III": {
         "skills": {
             "Handicraft": 3
         },
@@ -2654,11 +1946,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mud Puppy Charm",
-            "ja": null
-        },
+    "Mud Puppy Charm": {
         "skills": {
             "Muck Resistance": 1,
             "Leap of Faith": 1
@@ -2670,11 +1958,7 @@
             "Spiritcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Trickshot Charm",
-            "ja": null
-        },
+    "Trickshot Charm": {
         "skills": {
             "Dungmaster": 1,
             "Blindsider": 1
@@ -2686,11 +1970,7 @@
             "Spiritcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Hunter's Life Charm",
-            "ja": null
-        },
+    "Hunter's Life Charm": {
         "skills": {
             "BBQ Master": 1,
             "Master Fisher": 1
@@ -2702,11 +1982,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Procurer's Charm",
-            "ja": null
-        },
+    "Procurer's Charm": {
         "skills": {
             "Pro Transporter": 1,
             "Honey Hunter": 1
@@ -2718,11 +1994,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Gatherer's Charm",
-            "ja": null
-        },
+    "Gatherer's Charm": {
         "skills": {
             "Master Gatherer": 1,
             "Carving Pro": 1
@@ -2734,11 +2006,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Guard Charm I",
-            "ja": null
-        },
+    "Guard Charm I": {
         "skills": {
             "Iron Skin": 1
         },
@@ -2749,11 +2017,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Guard Charm II",
-            "ja": null
-        },
+    "Guard Charm II": {
         "skills": {
             "Iron Skin": 2
         },
@@ -2764,11 +2028,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Guard Charm III",
-            "ja": null
-        },
+    "Guard Charm III": {
         "skills": {
             "Iron Skin": 3
         },
@@ -2779,11 +2039,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Earplugs Charm I",
-            "ja": null
-        },
+    "Earplugs Charm I": {
         "skills": {
             "Earplugs": 1
         },
@@ -2794,11 +2050,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Earplugs Charm II",
-            "ja": null
-        },
+    "Earplugs Charm II": {
         "skills": {
             "Earplugs": 2
         },
@@ -2809,11 +2061,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Earplugs Charm III",
-            "ja": null
-        },
+    "Earplugs Charm III": {
         "skills": {
             "Earplugs": 3
         },
@@ -2824,11 +2072,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tremor Charm I",
-            "ja": null
-        },
+    "Tremor Charm I": {
         "skills": {
             "Tremor Resistance": 1
         },
@@ -2839,11 +2083,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Tremor Charm II",
-            "ja": null
-        },
+    "Tremor Charm II": {
         "skills": {
             "Tremor Resistance": 2
         },
@@ -2854,11 +2094,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Exploiter Charm I",
-            "ja": null
-        },
+    "Exploiter Charm I": {
         "skills": {
             "Weakness Exploit": 1
         },
@@ -2869,11 +2105,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Exploiter Charm II",
-            "ja": null
-        },
+    "Exploiter Charm II": {
         "skills": {
             "Weakness Exploit": 2
         },
@@ -2884,11 +2116,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Focus Charm I",
-            "ja": null
-        },
+    "Focus Charm I": {
         "skills": {
             "Focus": 1
         },
@@ -2899,11 +2127,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Focus Charm II",
-            "ja": null
-        },
+    "Focus Charm II": {
         "skills": {
             "Focus": 2
         },
@@ -2914,11 +2138,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Breaker Charm I",
-            "ja": null
-        },
+    "Breaker Charm I": {
         "skills": {
             "Partbreaker": 1
         },
@@ -2929,11 +2149,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Breaker Charm II",
-            "ja": null
-        },
+    "Breaker Charm II": {
         "skills": {
             "Partbreaker": 2
         },
@@ -2944,11 +2160,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fury Charm I",
-            "ja": null
-        },
+    "Fury Charm I": {
         "skills": {
             "Resentment": 1
         },
@@ -2959,11 +2171,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Fury Charm II",
-            "ja": null
-        },
+    "Fury Charm II": {
         "skills": {
             "Resentment": 2
         },
@@ -2974,11 +2182,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Grit Charm I",
-            "ja": null
-        },
+    "Grit Charm I": {
         "skills": {
             "Heroics": 1
         },
@@ -2989,11 +2193,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Grit Charm II",
-            "ja": null
-        },
+    "Grit Charm II": {
         "skills": {
             "Heroics": 2
         },
@@ -3004,11 +2204,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Maintenance Charm I",
-            "ja": null
-        },
+    "Maintenance Charm I": {
         "skills": {
             "Tool Specialist": 1
         },
@@ -3019,11 +2215,7 @@
             "Spiritcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Maintenance Charm II",
-            "ja": null
-        },
+    "Maintenance Charm II": {
         "skills": {
             "Tool Specialist": 2
         },
@@ -3034,11 +2226,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Maintenance Charm III",
-            "ja": null
-        },
+    "Maintenance Charm III": {
         "skills": {
             "Tool Specialist": 3
         },
@@ -3049,29 +2237,29 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Power Charm I",
-            "ja": null
+    "Power Charm I": {
+        "skills": {
+            "Latent Power": 1
         },
+        "craft": {
+            "Teostra Horn+": 3,
+            "Teostra Mane": 2,
+            "Novacrystal": 1,
+            "Dreamcore Ore": 1
+        }
+    },
+    "Power Charm II": {
         "skills": {
             "Latent Power": 2
         },
         "craft": {
-            "Teostra Horn+": 2,
-            "Teostra Mane": 2,
-            "Novacrystal": 1,
-            "Dreamcore Ore": 1,
             "Teostra Gem": 1,
+            "Teostra Horn+": 2,
             "Firecell Stone": 1,
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Challenger Charm I",
-            "ja": null
-        },
+    "Challenger Charm I": {
         "skills": {
             "Agitator": 1
         },
@@ -3082,11 +2270,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Challenger Charm II",
-            "ja": null
-        },
+    "Challenger Charm II": {
         "skills": {
             "Agitator": 2
         },
@@ -3097,11 +2281,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Unscathed Charm I",
-            "ja": null
-        },
+    "Unscathed Charm I": {
         "skills": {
             "Peak Performance": 1
         },
@@ -3112,11 +2292,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Unscathed Charm II",
-            "ja": null
-        },
+    "Unscathed Charm II": {
         "skills": {
             "Peak Performance": 2
         },
@@ -3127,11 +2303,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mighty Charm I",
-            "ja": null
-        },
+    "Mighty Charm I": {
         "skills": {
             "Maximum Might": 1
         },
@@ -3142,11 +2314,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Mighty Charm II",
-            "ja": null
-        },
+    "Mighty Charm II": {
         "skills": {
             "Maximum Might": 2
         },
@@ -3157,11 +2325,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Impact Charm I",
-            "ja": null
-        },
+    "Impact Charm I": {
         "skills": {
             "Flinch Free": 1
         },
@@ -3172,11 +2336,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Impact Charm II",
-            "ja": null
-        },
+    "Impact Charm II": {
         "skills": {
             "Flinch Free": 2
         },
@@ -3187,11 +2347,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Miasma Charm I",
-            "ja": null
-        },
+    "Miasma Charm I": {
         "skills": {
             "Effluvia Resistance": 1
         },
@@ -3202,11 +2358,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Miasma Charm II",
-            "ja": null
-        },
+    "Miasma Charm II": {
         "skills": {
             "Effluvia Resistance": 2
         },
@@ -3217,11 +2369,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Miasma Charm III",
-            "ja": null
-        },
+    "Miasma Charm III": {
         "skills": {
             "Effluvia Resistance": 3
         },
@@ -3232,11 +2380,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Normal Shots Charm",
-            "ja": null
-        },
+    "Normal Shots Charm": {
         "skills": {
             "Normal Shots": 1
         },
@@ -3247,11 +2391,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Clearmind Charm",
-            "ja": null
-        },
+    "Clearmind Charm": {
         "skills": {
             "Heat Guard": 1,
             "Effluvial Expert": 1
@@ -3263,11 +2403,7 @@
             "Dreamcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Rider's Charm",
-            "ja": null
-        },
+    "Rider's Charm": {
         "skills": {
             "Master Mounter": 1,
             "Jump Master": 1
@@ -3279,11 +2415,7 @@
             "Dreamcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Surveyor's Charm",
-            "ja": null
-        },
+    "Surveyor's Charm": {
         "skills": {
             "Scoutfly Range Up": 1,
             "Scholar": 1
@@ -3295,11 +2427,7 @@
             "Dreamcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Critical Charm I",
-            "ja": null
-        },
+    "Critical Charm I": {
         "skills": {
             "Critical Boost": 1
         },
@@ -3310,11 +2438,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Invigorate Charm I",
-            "ja": null
-        },
+    "Invigorate Charm I": {
         "skills": {
             "Power Prolonger": 1
         },
@@ -3325,11 +2449,7 @@
             "Dreamcore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Invigorate Charm II",
-            "ja": null
-        },
+    "Invigorate Charm II": {
         "skills": {
             "Power Prolonger": 2
         },
@@ -3340,11 +2460,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Penetration Charm",
-            "ja": null
-        },
+    "Penetration Charm": {
         "skills": {
             "Piercing Shots": 1
         },
@@ -3355,11 +2471,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Dispersal Charm",
-            "ja": null
-        },
+    "Dispersal Charm": {
         "skills": {
             "Spread/Power Shots": 1
         },
@@ -3370,11 +2482,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Poison Coating Charm",
-            "ja": null
-        },
+    "Poison Coating Charm": {
         "skills": {
             "Poison Functionality": 1
         },
@@ -3385,11 +2493,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Para Coating Charm",
-            "ja": null
-        },
+    "Para Coating Charm": {
         "skills": {
             "Para Functionality": 1
         },
@@ -3400,11 +2504,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Sleep Coating Charm",
-            "ja": null
-        },
+    "Sleep Coating Charm": {
         "skills": {
             "Sleep Functionality": 1
         },
@@ -3415,11 +2515,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Blast Coating Charm",
-            "ja": null
-        },
+    "Blast Coating Charm": {
         "skills": {
             "Blast Functionality": 1
         },
@@ -3430,11 +2526,7 @@
             "Dragoncore Ore": 1
         }
     },
-    {
-        "name": {
-            "en": "Geomancy Charm",
-            "ja": null
-        },
+    "Geomancy Charm": {
         "skills": {
             "Forager's Luck": 1,
             "Detector": 1
@@ -3446,11 +2538,7 @@
             "Dreamcore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Gale Charm",
-            "ja": null
-        },
+    "Gale Charm": {
         "skills": {
             "Affinity Sliding": 1,
             "Airborne": 1
@@ -3462,11 +2550,7 @@
             "Dragoncore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Wyrmslayer Charm",
-            "ja": null
-        },
+    "Wyrmslayer Charm": {
         "skills": {
             "Elderseal Boost": 1,
             "Dragon Attack": 1
@@ -3478,11 +2562,7 @@
             "Dragoncore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Bulwark Charm",
-            "ja": null
-        },
+    "Bulwark Charm": {
         "skills": {
             "Guard Up": 1,
             "Resuscitate": 1
@@ -3494,15 +2574,11 @@
             "Dragoncore Ore": 2
         }
     },
-    {
-        "name": {
-            "en": "Fair Wind Charm",
-            "ja": null
-        },
+    "Fair Wind Charm": {
         "skills": {
             "Attack Boost": 1,
             "Divine Blessing": 1
         },
         "craft": {}
     }
-]
+}

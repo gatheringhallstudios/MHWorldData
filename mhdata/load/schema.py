@@ -158,3 +158,14 @@ class DecorationBaseSchema(BaseSchema):
 
 class DecorationSchema(DecorationBaseSchema):
     chances = fields.Dict()
+
+class CharmBaseSchema(BaseSchema):
+    __groups__ = ('name',)
+    id = fields.Int()
+    name = fields.Dict()
+    previous_en = fields.Str(allow_none=True)
+    rarity = fields.Int(allow_none=True)
+
+class CharmSchema(CharmBaseSchema):
+    skills = fields.Dict()
+    craft = fields.Dict()

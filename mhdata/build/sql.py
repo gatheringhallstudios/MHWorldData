@@ -474,8 +474,15 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     skill_map = mhdata.skill_map
     charm_map = mhdata.charm_map
 
-    for charm_id, entry in charm_map.items():
-        charm = db.Charm(id=charm_id)
+    for entry in charm_map.values():
+        # Note: previous is ok to be None
+        previous = charm_map.id_of('en', entry['previous_en'])
+
+        charm = db.Charm(
+            id=entry.id,
+            previous_id=previous,
+            rarity=entry['rarity']
+        )
 
         for language in cfg.supported_languages:
             charm.translations.append(db.CharmText(
