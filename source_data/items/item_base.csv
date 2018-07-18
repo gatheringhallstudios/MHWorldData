@@ -365,7 +365,7 @@ Majestic Horn,上質なねじれた角,"Rare Diablos material. Obtained by break
 Blos Medulla,角竜の延髄,"Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,6,,3040,,,Body,DarkBeige
 Black Diablos Carapace,黒角竜の堅殻,Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.,,material,,6,,1450,,,Carapace,Gray
 Black Diablos Ridge+,黒角竜の堅甲,"Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,2150,,,Body,Gray
-Black Spiral Horn+,上質な黒巻き角,"Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,6,,5700,,,,
+Black Spiral Horn+,上質な黒巻き角,"Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,6,,5700,,,Fang,Gray
 Kirin Hide,幻獣の皮,Kirin material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,750,,,Hide,White
 Kirin Tail,幻獣の尾,Kirin material. Mostly obtained as a reward. Compatible with thunder element.,,material,,4,,1000,,,Body,White
 Kirin Mane,幻獣のたてがみ,"Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",,material,,4,,1250,,,Body,White
@@ -376,7 +376,7 @@ Kirin Azure Horn,幻獣の蒼角,Rare Kirin material. Obtain by breaking its hor
 Zorah Magdaros Heat Scale,熔山龍の熱鱗,Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,6,,800,,,Scale,Gray
 Zorah Magdaros Carapace,熔山龍の岩殻,"Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",,material,,6,,1200,,,Carapace,Gray
 Zorah Magdaros Ridge,熔山龍の背甲,"Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",,material,,6,,1400,,,Body,Gray
-Zorah Magdaros Pleura,熔山龍の胸殻,"Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",,material,,6,,1600,,,,
+Zorah Magdaros Pleura,熔山龍の胸殻,"Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",,material,,6,,1600,,,Body,Gray
 Zorah Magdaros Magma,熔山龍のマグマ,Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.,,material,,6,,3200,,,Ore,Red
 Zorah Magdaros Gem,熔山龍の宝玉,A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.,,material,,7,,6000,,,Gem,Gray
 Dodogama Scale+,岩賊竜の上鱗,Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1030,,,Scale,Blue
@@ -439,20 +439,20 @@ Lunastra Carapace,,"Rare Lunastra material. Mostly obtained as a reward. Solid, 
 Lunastra Mane,,"Rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material.",,material,,7,,3400,,,Body,Blue
 Lunastra Wing,,"Rare Lunastra material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,7,,4500,,,Wing,Blue
 Lunastra Horn,,"Rare Lunastra material. Obtained by breaking its head. Stout, used in many weapons.",,material,,7,,5500,,,Fang,Blue
-Lunastra Tail,,,,material,,,,,,,,
-Lunastra Gem,,,,material,,,,,,,Gem,Blue
+Lunastra Tail,,"Rare Lunastra material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4900,,,Tail,Blue
+Lunastra Gem,,A rare gem said to have formed within Lunastra tissue. Within it lies unimaginable power.,,material,,8,,12000,,,Gem,Blue
 Daora Dragon Scale+,鋼の上龍鱗,Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2200,,,Scale,Gray
 Daora Carapace,鋼龍の堅殻,"Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3300,,,Carapace,Gray
 Daora Webbing,鋼龍の翼,"Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",,material,,7,,4300,,,Wing,Gray
 Daora Horn+,鋼龍の尖角,"Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",,material,,7,,4500,,,Fang,Gray
-Daora Tail,鋼龍の尻尾,"Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,,,,,,,
+Daora Tail,鋼龍の尻尾,"Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4800,,,Tail,Gray
 Daora Claw+,鋼龍の尖爪,Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.,,material,,7,,4400,,,Fang,Gray
 Daora Gem,鋼龍の宝玉,A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.,,material,,8,,12000,,,Gem,Gray
 Xeno'jiiva Soulscale,冥灯龍の幽鱗,Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.,,material,,7,,3000,,,Scale,White
 Xeno'jiiva Shell,冥灯龍の白殻,"A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",,material,,7,,4000,,,Carapace,White
 Xeno'jiiva Veil,冥灯龍の幽幕,A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.,,material,,7,,4300,,,Body,Blue
 Xeno'jiiva Tail,冥灯龍の尻尾,"A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",,material,,7,,6000,,,Tail,White
-Xeno'jiiva Horn,冥灯龍の幽角,"A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",,material,,7,,5600,,,,
+Xeno'jiiva Horn,冥灯龍の幽角,"A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",,material,,7,,5600,,,Fang,White
 Xeno'jiiva Claw,冥灯龍の幽爪,"A rare Xeno'jiiva claw, said to cleave soul from flesh.",,material,,7,,5300,,,Fang,White
 Xeno'jiiva Wing,冥灯龍の幽翼,A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.,,material,,7,,5000,,,Wing,White
 Xeno'jiiva Gem,冥灯龍の幽玉,A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.,,material,,8,,15000,,,Gem,White
@@ -489,7 +489,7 @@ Tailraider Voucher,オトモダチケット,Proof of friendship with the Lynians
 Gajalaka Sketch,,Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!,,material,,4,,200,,,Voucher,LightBeige
 Commendation,勇気の証,A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!,,material,,5,,0,,,Voucher,Orange
 High Commendation,勇気の証G,A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!,,material,,7,,0,,,Voucher,Orange
-Research Commission Ticket,調査団チケット,A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!,,material,,,,,,,Voucher,
+Research Commission Ticket,調査団チケット,A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!,,material,,7,,0,,,Voucher,Cyan
 Pukei Coin,プケプケコイン,A coin given to those who have bested a Pukei-Pukei in the Arena.,,material,,4,,500,,,Coin,Lime
 Kulu Coin,クルルコイン,A coin given to those who have bested a Kulu-Ya-Ku in the Arena.,,material,,4,,500,,,Coin,LightBeige
 Rathian Coin,レイアコイン,A coin given to those who have bested a Rathian in the Arena.,,material,,4,,500,,,Coin,Green
@@ -502,9 +502,8 @@ Flying Coin,飛竜コイン,A coin given to those who have bested multiple flyin
 Pinnacle Coin,闘技王のコイン,A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.,,material,,4,,800,,,Coin,Red
 Hunter King Coin,狩猟王のコイン,A silver coin given to true hunters. It shines with all the glory of the Hunter King.,,material,,6,,1200,,,Coin,White
 Ace Hunter Coin,撃龍王のコイン,A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.,,material,,8,,2000,,,Coin,Gold
-Kulu-Ya-Ku Ticket,,,,material,,,,,,,,
-Nova Brave Trophy,,,,material,,,,,,,,
-Watcher Lens,,Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.,,material,,,,,,,,
+Kulu-Ya-Ku Ticket,,A ticket given to those who help with Kulu-Ya-Ku research. Includes a very accurate sketch.,,material,,6,,400,,,Voucher,LightBeige
+Watcher Lens,,Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.,,material,,,,,,,Question,Gray
 Nora Brave Trophy,,Proof that you have completed the Proving. Grants you the right to craft special equipment.,,material,,,,,,,,
 Spring Blossom Ticket,,A ticket you receive for attending the Spring Blossom Fest. Can be exchanged for special equipment or fireworks.,,material,,4,,200,,,Voucher,Pink
 Summer Twilight Ticket,,A ticket you receive for attending the Summer Twilight Fest. Can be exchanged for special equipment or fireworks.,,material,,4,,200,,,Voucher,Blue
