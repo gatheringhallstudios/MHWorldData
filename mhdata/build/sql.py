@@ -312,10 +312,11 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             armor_to_armorset[armor_id] = set_id
 
     # Write entries for armor
-    for armor_id, entry in armor_map.items():
+    for order_id, entry in enumerate(armor_map.values()):
         armor_name_en = entry.name('en')
 
-        armor = db.Armor(id = armor_id)
+        armor = db.Armor(id = entry.id)
+        armor.order_id = order_id
         armor.rarity = entry['rarity']
         armor.armor_type = entry['type']
         armor.male = entry['gender'] in ('male', 'both')
@@ -474,12 +475,13 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     skill_map = mhdata.skill_map
     charm_map = mhdata.charm_map
 
-    for entry in charm_map.values():
+    for order_id, entry in enumerate(charm_map.values()):
         # Note: previous is ok to be None
         previous = charm_map.id_of('en', entry['previous_en'])
 
         charm = db.Charm(
             id=entry.id,
+            order_id=order_id,
             previous_id=previous,
             rarity=entry['rarity']
         )

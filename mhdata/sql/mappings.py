@@ -253,6 +253,7 @@ class Armor(Base):
     __tablename__ = "armor"
 
     id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
     rarity = Column(Integer)
     rank = Column(Text)
     armor_type = Column(Text)
@@ -399,6 +400,7 @@ class Charm(Base):
     __tablename__ = 'charm'
 
     id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
     previous_id = Column(Integer, ForeignKey('charm.id'))
     rarity = Column(Integer)
 

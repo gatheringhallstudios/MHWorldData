@@ -1,693 +1,693 @@
-name_en,name_ja,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defense_augment_max,defense_fire,defense_water,defense_thunder,defense_ice,defense_dragon
-Leather Headgear,レザーヘッド,1,head,both,0,0,0,2,38,68,2,0,0,0,0
-Leather Mail,レザーベスト,1,chest,both,0,0,0,2,38,68,2,0,0,0,0
-Leather Gloves,レザーグラブ,1,arms,both,0,0,0,2,38,68,2,0,0,0,0
-Leather Belt,レザーベルト,1,waist,both,0,0,0,2,38,68,2,0,0,0,0
-Leather Trousers,レザーパンツ,1,legs,both,0,0,0,2,38,68,2,0,0,0,0
-Chainmail Headgear,チェーンヘッド,1,head,both,0,0,0,2,38,68,0,2,0,0,0
-Chainmail Vest,チェーンベスト,1,chest,both,0,0,0,2,38,68,0,2,0,0,0
-Chainmail Gloves,チェーングラブ,1,arms,both,0,0,0,2,38,68,0,2,0,0,0
-Chainmail Belt,チェーンベルト,1,waist,both,0,0,0,2,38,68,0,2,0,0,0
-Chainmail Trousers,チェーンパンツ,1,legs,both,0,0,0,2,38,68,0,2,0,0,0
-Hunter's Headgear,ハンターヘルム,1,head,both,0,0,0,6,42,72,2,2,0,0,0
-Hunter's Mail,ハンターメイル,1,chest,both,0,0,0,6,42,72,2,2,0,0,0
-Hunter's Vambraces,ハンターアーム,1,arms,both,0,0,0,6,42,72,2,2,0,0,0
-Hunter's Coil,ハンターコイル,1,waist,both,0,0,0,6,42,72,2,2,0,0,0
-Hunter's Greaves,ハンターグリーヴ,1,legs,both,0,0,0,6,42,72,2,2,0,0,0
-Bone Helm,ボーンヘルム,1,head,both,0,0,0,6,42,72,2,0,2,0,2
-Bone Mail,ボーンメイル,1,chest,both,0,0,0,6,42,72,2,0,2,0,2
-Bone Vambraces,ボーンアーム,1,arms,both,0,0,0,6,42,72,2,0,2,0,2
-Bone Coil,ボーンコイル,1,waist,both,0,0,0,6,42,72,2,0,2,0,2
-Bone Greaves,ボーングリーヴ,1,legs,both,0,0,0,6,42,72,2,0,2,0,2
-Vespoid Helm,ランゴヘルム,1,head,both,0,0,0,8,44,74,-2,1,1,1,2
-Vespoid Mail,ランゴメイル,1,chest,both,0,0,0,8,44,74,-2,1,1,1,2
-Vespoid Vambraces,ランゴアーム,1,arms,both,0,0,0,8,44,74,-2,1,1,1,2
-Vespoid Coil,ランゴコイル,1,waist,both,0,0,0,8,44,74,-2,1,1,1,2
-Vespoid Greaves,ランゴグリーブ,1,legs,both,0,0,0,8,44,74,-2,1,1,1,2
-Kestodon Guards,ケストガード,1,arms,both,0,0,0,12,48,78,4,0,0,0,0
-Gajau Boots,ガライ－ブーツ,1,legs,both,0,0,0,12,48,78,0,5,0,0,0
-Jagras Helm,ジャグラスヘルム,1,head,both,0,0,0,8,44,74,-2,2,-1,-1,1
-Jagras Mail,ジャグラスメイル,1,chest,both,0,0,0,8,44,74,-2,2,-1,-1,1
-Jagras Vambraces,ジャグラスアーム,1,arms,both,0,0,0,8,44,74,-2,2,-1,-1,1
-Jagras Coil,ジャグラスコイル,1,waist,both,0,0,0,8,44,74,-2,2,-1,-1,1
-Jagras Greaves,ジャグラスグリーブ,1,legs,both,0,0,0,8,44,74,-2,2,-1,-1,1
-Kulu Headpiece,クルルヘルム,1,head,both,0,0,0,10,46,76,0,-3,0,1,0
-Kulu Mail,クルルメイル,1,chest,both,0,0,0,10,46,76,0,-3,0,1,0
-Kulu Vambraces,クルルアーム,1,arms,both,0,0,0,10,46,76,0,-3,0,1,0
-Kulu Coil,クルルコイル,1,waist,both,0,0,0,10,46,76,0,-3,0,1,0
-Kulu Greaves,クルルグリーブ,1,legs,both,0,0,0,10,46,76,0,-3,0,1,0
-Alloy Helm,アロイヘルム,2,head,both,0,0,0,8,40,66,-2,1,-2,-2,1
-Alloy Mail,アロイメイル,2,chest,both,0,0,0,8,40,66,-2,1,-2,-2,1
-Alloy Vambraces,アロイアーム,2,arms,both,0,0,0,8,40,66,-2,1,-2,-2,1
-Alloy Coil,アロイコイル,2,waist,both,0,0,0,8,40,66,-2,1,-2,-2,1
-Alloy Greaves,アロイグリーヴ,2,legs,both,0,0,0,8,40,66,-2,1,-2,-2,1
-Pukei Hood,プケプケヘルム,2,head,both,0,0,0,12,44,70,0,3,-3,0,1
-Pukei Mail,プケプケメイル,2,chest,both,0,0,0,12,44,70,0,3,-3,0,1
-Pukei Vambraces,プケプケアーム,2,arms,both,0,0,0,12,44,70,0,3,-3,0,1
-Pukei Coil,プケプケコイル,2,waist,both,0,0,0,12,44,70,0,3,-3,0,1
-Pukei Greaves,プケプケグリーブ,2,legs,both,0,0,0,12,44,70,0,3,-3,0,1
-Barroth Helm,ボロスヘルム,2,head,both,0,0,0,14,38,72,-3,-1,3,-1,0
-Barroth Mail,ボロスメイル,2,chest,both,0,0,0,14,38,72,-3,-1,3,-1,0
-Barroth Vambraces,ボロスアーム,2,arms,both,0,0,0,14,38,72,-3,-1,3,-1,0
-Barroth Coil,ボロスコイル,2,waist,both,0,0,0,14,38,72,-3,-1,3,-1,0
-Barroth Greaves,ボロスグリーヴ,2,legs,both,0,0,0,14,38,72,-3,-1,3,-1,0
-Jyura Helm,ジュラヘルム,2,head,both,0,0,0,14,46,72,-1,2,-3,0,0
-Jyura Mail,ジュラメイル,2,chest,both,0,0,0,14,46,72,-1,2,-3,0,0
-Jyura Vambraces,ジュラアーム,2,arms,both,0,0,0,14,46,72,-1,2,-3,0,0
-Jyura Coil,ジュラコイル,2,waist,both,0,0,0,14,46,72,-1,2,-3,0,0
-Jyura Greaves,ジュラグリーヴ,2,legs,both,0,0,0,14,46,72,-1,2,-3,0,0
-Kadachi Helm,カガチヘルム,2,head,both,0,0,0,16,48,74,0,-3,3,0,0
-Kadachi Mail,カガチメイル,2,chest,both,0,0,0,16,48,74,0,-3,3,0,0
-Kadachi Vambraces,カガチアーム,2,arms,both,0,0,0,16,48,74,0,-3,3,0,0
-Kadachi Coil,カガチコイル,2,waist,both,0,0,0,16,48,74,0,-3,3,0,0
-Kadachi Greaves,カガチグリーヴ,2,legs,both,0,0,0,16,48,74,0,-3,3,0,0
-High Metal Helm,ハイメタヘルム,3,head,both,0,0,0,18,46,70,0,-1,-2,3,0
-High Metal Mail,ハイメタメイル,3,chest,both,0,0,0,18,46,70,0,-1,-2,3,0
-High Metal Braces,ハイメタアーム,3,arms,both,0,0,0,18,46,70,0,-1,-2,3,0
-High Metal Coil,ハイメタコイル,3,waist,both,0,0,0,18,46,70,0,-1,-2,3,0
-High Metal Greaves,ハイメタグリーヴ,3,legs,both,0,0,0,18,46,70,0,-1,-2,3,0
-King Beetle Vertex,オウビートテスタ,3,head,male,0,0,0,22,50,74,-1,-1,2,0,2
-King Beetle Thorax,オウビートペット,3,chest,male,0,0,0,22,50,74,-1,-1,2,0,2
-King Beetle Brachia,オウビートマーノ,3,arms,male,0,0,0,22,50,74,-1,-1,2,0,2
-King Beetle Elytra,オウビートアンカ,3,waist,male,0,0,0,22,50,74,-1,-1,2,0,2
-King Beetle Crura,オウビートガンバ,3,legs,male,0,0,0,22,50,74,-1,-1,2,0,2
-Butterfly Vertex,パピメルテスタ,3,head,female,0,0,0,22,50,74,-1,-1,2,0,2
-Butterfly Thorax,パピメルペット,3,chest,female,0,0,0,22,50,74,-1,-1,2,0,2
-Butterfly Brachia,パピメルマーノ,3,arms,female,0,0,0,22,50,74,-1,-1,2,0,2
-Butterfly Elytra,パピメルアンカ,3,waist,female,0,0,0,22,50,74,-1,-1,2,0,2
-Butterfly Crura,パピメル,3,legs,female,0,0,0,22,50,74,-1,-1,2,0,2
-Shamos Goggles,シャムゴーグル,3,head,both,0,0,0,22,50,74,2,2,0,-3,0
-Hornetaur Helm,タロスヘルム,3,head,both,0,0,0,18,46,70,-1,-1,0,0,2
-Hornetaur Mail,タロスメイル,3,chest,both,0,0,0,18,46,70,-1,-1,0,0,2
-Hornetaur Vambraces,タロスアーム,3,arms,both,0,0,0,18,46,70,-1,-1,0,0,2
-Hornetaur Coil,タロスコイル,3,waist,both,0,0,0,18,46,70,-1,-1,0,0,2
-Hornetaur Greaves,タロスグリーヴ,3,legs,both,0,0,0,18,46,70,-1,-1,0,0,2
-Anja Helm,ジャナフヘルム,3,head,both,0,0,0,20,48,72,3,-3,-1,-1,0
-Anja Mail,ジャナフメイル,3,chest,both,0,0,0,20,48,72,3,-3,-1,-1,0
-Anja Vambraces,ジャナフアーム,3,arms,both,0,0,0,20,48,72,3,-3,-1,-1,0
-Anja Coil,ジャナフコイル,3,waist,both,0,0,0,20,48,72,3,-3,-1,-1,0
-Anja Greaves,ジャナフグリーブ,3,legs,both,0,0,0,20,48,72,3,-3,-1,-1,0
-Rathian Helm,レイアヘルム,3,head,both,0,0,0,22,50,74,2,0,-2,0,-3
-Rathian Mail,レイアメイル,3,chest,both,0,0,0,22,50,74,2,0,-2,0,-3
-Rathian Vambraces,レイアアーム,3,arms,both,0,0,0,22,50,74,2,0,-2,0,-3
-Rathian Coil,レイアコイル,3,waist,both,0,0,0,22,50,74,2,0,-2,0,-3
-Rathian Greaves,レイアグリーヴ,3,legs,both,0,0,0,22,50,74,2,0,-2,0,-3
-Tzitzi Headgear,ツィツィヘルム,3,head,both,0,0,0,18,46,70,0,0,-3,-2,0
-Tzitzi Mail,ツィツィメイル,3,chest,both,0,0,0,18,46,70,0,0,-3,-2,0
-Tzitzi Vambraces,ツィツィアーム,3,arms,both,0,0,0,18,46,70,0,0,-3,-2,0
-Tzitzi Coil,ツィツィコイル,3,waist,both,0,0,0,18,46,70,0,0,-3,-2,0
-Tzitzi Greaves,ツィツィグリーヴ,3,legs,both,0,0,0,18,46,70,0,0,-3,-2,0
-Lumu Hat,ウルムーヘルム,3,head,both,0,0,0,20,48,72,-3,2,0,1,0
-Lumu Mail,ウルムーメイル,3,chest,both,0,0,0,20,48,72,-3,2,0,1,0
-Lumu Vambraces,ウルムーアーム,3,arms,both,0,0,0,20,48,72,-3,2,0,1,0
-Lumu Coil,ウルムーコイル,3,waist,both,0,0,0,20,48,72,-3,2,0,1,0
-Lumu Greaves,ウルムーグリーヴ,3,legs,both,0,0,0,20,48,72,-3,2,0,1,0
-Girros Mask,ギルオスヘルム,3,head,both,0,0,0,20,48,72,0,-3,2,0,1
-Girros Mail,ギルオスメイル,3,chest,both,0,0,0,20,48,72,0,-3,2,0,1
-Girros Vambraces,ギルオスアーム,3,arms,both,0,0,0,20,48,72,0,-3,2,0,1
-Girros Coil,ギルオスコイル,3,waist,both,0,0,0,20,48,72,0,-3,2,0,1
-Girros Greaves,ギルオスグリーヴ,3,legs,both,0,0,0,20,48,72,0,-3,2,0,1
-Baan Helm,バルキンヘルム,3,head,both,0,0,0,24,52,76,0,2,0,-1,-2
-Baan Mail,バルキンメイル,3,chest,both,0,0,0,24,52,76,0,2,0,-1,-2
-Baan Vambraces,バルキンアーム,3,arms,both,0,0,0,24,52,76,0,2,0,-1,-2
-Baan Coil,バルキンコイル,3,waist,both,0,0,0,24,52,76,0,2,0,-1,-2
-Baan Greaves,バルキングリーヴ,3,legs,both,0,0,0,24,52,76,0,2,0,-1,-2
-Ingot Helm,インゴットヘルム,4,head,both,0,0,0,28,52,72,-2,0,3,-1,0
-Ingot Mail,インゴットメイル,4,chest,both,0,0,0,28,52,72,-2,0,3,-1,0
-Ingot Vambraces,インゴットアーム,4,arms,both,0,0,0,28,52,72,-2,0,3,-1,0
-Ingot Coil,インゴットコイル,4,waist,both,0,0,0,28,52,72,-2,0,3,-1,0
-Ingot Greaves,インゴットグリーヴ,4,legs,both,0,0,0,28,52,72,-2,0,3,-1,0
-Death Stench Brain,デスギアゲヒル,4,head,both,0,0,0,32,56,76,3,2,-2,3,-4
-Death Stench Muscle,デスギアムスケル,4,chest,both,0,0,0,32,56,76,3,2,-2,3,-4
-Death Stench Grip,デスギアファオスト,4,arms,both,0,0,0,32,56,76,3,2,-2,3,-4
-Death Stench Bowels,デスギアナーベル,4,waist,both,0,0,0,32,56,76,3,2,-2,3,-4
-Death Stench Heels,デスギアフェルゼ,4,legs,both,0,0,0,32,56,76,3,2,-2,3,-4
-Brigade Lobos,ブリゲイドロポス,4,head,both,0,0,0,28,52,72,1,0,2,0,2
-Brigade Suit,ブリゲイドスーツ,4,chest,both,0,0,0,28,52,72,1,0,2,0,2
-Brigade Vambraces,ブリゲイドアーム,4,arms,both,0,0,0,28,52,72,1,0,2,0,2
-Brigade Coil,ブリゲイドコイル,4,waist,both,0,0,0,28,52,72,1,0,2,0,2
-Brigade Boots,ブリゲイドブーツ,4,legs,both,0,0,0,28,52,72,1,0,2,0,2
-Legiana Helm,ギエナヘルム,4,head,both,0,0,0,30,54,74,-1,2,-3,3,0
-Legiana Mail,ギエナメイル,4,chest,both,0,0,0,30,54,74,-1,2,-3,3,0
-Legiana Vambraces,ギエナアーム,4,arms,both,0,0,0,30,54,74,-1,2,-3,3,0
-Legiana Coil,ギエナコイル,4,waist,both,0,0,0,30,54,74,-1,2,-3,3,0
-Legiana Greaves,ギエナグリーヴ,4,legs,both,0,0,0,30,54,74,-1,2,-3,3,0
-Odogaron Helm,ガロンヘルム,4,head,both,0,0,0,30,54,74,2,2,-2,-3,0
-Odogaron Mail,ガロンメイル,4,chest,both,0,0,0,30,54,74,2,2,-2,-3,0
-Odogaron Vambraces,ガロンアーム,4,arms,both,0,0,0,30,54,74,2,2,-2,-3,0
-Odogaron Coil,ガロンコイル,4,waist,both,0,0,0,30,54,74,2,2,-2,-3,0
-Odogaron Greaves,ガロングリーヴ,4,legs,both,0,0,0,30,54,74,2,2,-2,-3,0
-Rathalos Helm,レウスヘルム,4,head,both,0,0,0,30,54,74,3,1,-2,1,-3
-Rathalos Mail,レウスメイル,4,chest,both,0,0,0,30,54,74,3,1,-2,1,-3
-Rathalos Vambraces,レウスアーム,4,arms,both,0,0,0,30,54,74,3,1,-2,1,-3
-Rathalos Coil,レウスコイル,4,waist,both,0,0,0,30,54,74,3,1,-2,1,-3
-Rathalos Greaves,レウスグリーヴ,4,legs,both,0,0,0,30,54,74,3,1,-2,1,-3
-Diablos Helm,ディアブロヘルム,4,head,both,0,0,0,32,56,76,3,-2,0,-3,2
-Diablos Mail,ディアブロメイル,4,chest,both,0,0,0,32,56,76,3,-2,0,-3,2
-Diablos Vambraces,ディアブロアーム,4,arms,both,0,0,0,32,56,76,3,-2,0,-3,2
-Diablos Coil,ディアブロコイル,4,waist,both,0,0,0,32,56,76,3,-2,0,-3,2
-Diablos Greaves,ディアブログリーヴ,4,legs,both,0,0,0,32,56,76,3,-2,0,-3,2
-Kirin Horn,キリンホーン,4,head,both,0,0,0,34,58,78,-3,-2,4,-2,2
-Kirin Jacket,キリンベスト,4,chest,both,0,0,0,34,58,78,-3,-2,4,-2,2
-Kirin Longarms,キリンアームロング,4,arms,both,0,0,0,34,58,78,-3,-2,4,-2,2
-Kirin Hoop,キリンフープ,4,waist,both,0,0,0,34,58,78,-3,-2,4,-2,2
-Kirin Leg Guards,キリンレガース,4,legs,both,0,0,0,34,58,78,-3,-2,4,-2,2
-Blossom Headgear,ブロッサムヘッド,3,head,both,0,0,0,18,46,70,1,1,4,1,1
-Blossom Vest,ブロッサムベスト,3,chest,both,0,0,0,18,46,70,1,1,4,1,1
-Blossom Cuffs,ブロッサムカフス,3,arms,both,0,0,0,18,46,70,1,1,4,1,1
-Blossom Coat,ブロッサムコート,3,waist,both,0,0,0,18,46,70,1,1,4,1,1
-Blossom Boots,ブロッサムブーツ,3,legs,both,0,0,0,18,46,70,1,1,4,1,1
-Leather Headgear α,レザーヘッドα,5,head,both,0,0,0,32,54,70,2,0,0,0,0
-Leather Mail α,レザーベストα,5,chest,both,0,0,0,32,54,70,2,0,0,0,0
-Leather Gloves α,レザーグラブα,5,arms,both,0,0,0,32,54,70,2,0,0,0,0
-Leather Belt α,レザーベルトα,5,waist,both,0,0,0,32,54,70,2,0,0,0,0
-Leather Trousers α,レザーパンツα,5,legs,both,0,0,0,32,54,70,2,0,0,0,0
-Leather Headgear β,レザーヘッドβ,5,head,both,1,0,0,32,54,70,2,0,0,0,0
-Leather Mail β,レザーベストβ,5,chest,both,1,0,0,32,54,70,2,0,0,0,0
-Leather Gloves β,レザーグラブβ,5,arms,both,1,0,0,32,54,70,2,0,0,0,0
-Leather Belt β,レザーベルトβ,5,waist,both,1,0,0,32,54,70,2,0,0,0,0
-Leather Trousers β,レザーパンツβ,5,legs,both,1,0,0,32,54,70,2,0,0,0,0
-Chainmail Headgear α,チェーンヘッドα,5,head,both,0,0,0,32,54,70,0,2,0,0,0
-Chainmail Armor α,チェーンベストα,5,chest,both,0,0,0,32,54,70,0,2,0,0,0
-Chainmail Gloves α,チェーングラブα,5,arms,both,0,0,0,32,54,70,0,2,0,0,0
-Chainmail Belt α,チェーンベルトα,5,waist,both,0,0,0,32,54,70,0,2,0,0,0
-Chainmail Trousers α,チェーンパンツα,5,legs,both,0,0,0,32,54,70,0,2,0,0,0
-Chainmail Headgear β,チェーンヘッドβ,5,head,both,1,0,0,32,54,70,0,2,0,0,0
-Chainmail Armor β,チェーンベストβ,5,chest,both,1,0,0,32,54,70,0,2,0,0,0
-Chainmail Gloves β,チェーングラブβ,5,arms,both,1,0,0,32,54,70,0,2,0,0,0
-Chainmail Belt β,チェーンベルトβ,5,waist,both,1,0,0,32,54,70,0,2,0,0,0
-Chainmail Trousers β,チェーンパンツβ,5,legs,both,1,0,0,32,54,70,0,2,0,0,0
-Hunter's Headgear α,ハンターヘルムα,5,head,both,0,0,0,36,58,74,2,2,0,0,0
-Hunter's Mail α,ハンターメイルα,5,chest,both,0,0,0,36,58,74,2,2,0,0,0
-Hunter's Vambraces α,ハンターアームα,5,arms,both,0,0,0,36,58,74,2,2,0,0,0
-Hunter's Coil α,ハンターコイルα,5,waist,both,0,0,0,36,58,74,2,2,0,0,0
-Hunter's Greaves α,ハンターグリーヴα,5,legs,both,0,0,0,36,58,74,2,2,0,0,0
-Hunter's Headgear β,ハンターヘルムβ,5,head,both,1,0,0,36,58,74,2,2,0,0,0
-Hunter's Mail β,ハンターメイルβ,5,chest,both,1,0,0,36,58,74,2,2,0,0,0
-Hunter's Vambraces β,ハンターアームβ,5,arms,both,1,0,0,36,58,74,2,2,0,0,0
-Hunter's Coil β,ハンターコイルβ,5,waist,both,1,0,0,36,58,74,2,2,0,0,0
-Hunter's Greaves β,ハンターグリーヴβ,5,legs,both,1,0,0,36,58,74,2,2,0,0,0
-Bone Helm α,ボーンヘルムα,5,head,both,0,0,0,36,58,74,2,0,2,0,2
-Bone Mail α,ボーンメイルα,5,chest,both,0,0,0,36,58,74,2,0,2,0,2
-Bone Vambraces α,ボーンアームα,5,arms,both,0,0,0,36,58,74,2,0,2,0,2
-Bone Coil α,ボーンコイルα,5,waist,both,0,0,0,36,58,74,2,0,2,0,2
-Bone Greaves α,ボーングリーヴα,5,legs,both,0,0,0,36,58,74,2,0,2,0,2
-Bone Helm β,ボーンヘルムβ,5,head,both,1,0,0,36,58,74,2,0,2,0,2
-Bone Mail β,ボーンメイルβ,5,chest,both,1,0,0,36,58,74,2,0,2,0,2
-Bone Vambraces β,ボーンアームβ,5,arms,both,1,0,0,36,58,74,2,0,2,0,2
-Bone Coil β,ボーンコイルβ,5,waist,both,1,0,0,36,58,74,2,0,2,0,2
-Bone Greaves β,ボーングリーヴβ,5,legs,both,1,0,0,36,58,74,2,0,2,0,2
-Alloy Helm α,アロイヘルムα,5,head,both,0,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Mail α,アロイメイルα,5,chest,both,0,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Vambraces α,アロイアームα,5,arms,both,0,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Coil α,アロイコイルα,5,waist,both,0,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Greaves α,アロイグリーヴα,5,legs,both,0,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Helm β,アロイヘルムβ,5,head,both,1,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Mail β,アロイメイルβ,5,chest,both,1,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Vambraces β,アロイアームβ,5,arms,both,1,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Coil β,アロイコイルβ,5,waist,both,1,0,0,36,58,74,-2,0,-2,-2,0
-Alloy Greaves β,アロイグリーヴβ,5,legs,both,1,0,0,36,58,74,-2,0,-2,-2,0
-King Beetle Vertex α,オウビートテスタα,5,head,male,0,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Thorax α,オウビートペットα,5,chest,male,0,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Brachia α,オウビートマーノα,5,arms,male,1,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Elytra α,オウビートアンカα,5,waist,male,1,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Crura α,オウビートガンバα,5,legs,male,1,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Vertex β,オウビートテスタβ,5,head,male,1,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Thorax β,オウビートペットβ,5,chest,male,1,0,0,42,64,80,-1,-1,2,0,2
-King Beetle Brachia β,オウビートマーノβ,5,arms,male,2,1,0,42,64,80,-1,-1,2,0,2
-King Beetle Elytra β,オウビートアンカβ,5,waist,male,2,1,0,42,64,80,-1,-1,2,0,2
-King Beetle Crura β,オウビートガンバβ,5,legs,male,2,1,0,42,64,80,-1,-1,2,0,2
-Butterfly Vertex α,パピメルテスタα,5,head,female,0,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Thorax α,パピメルペットα,5,chest,female,0,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Brachia α,パピメルマーノα,5,arms,female,0,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Elytra α,パピメルアンカα,5,waist,female,0,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Crura α,パピメルガンバα,5,legs,female,0,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Vertex β,パピメルテスタβ,5,head,female,1,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Thorax β,パピメルペットβ,5,chest,female,1,0,0,42,64,80,-1,-1,2,0,2
-Butterfly Brachia β,パピメルマーノβ,5,arms,female,2,1,0,42,64,80,-1,-1,2,0,2
-Butterfly Elytra β,パピメルアンカβ,5,waist,female,2,1,0,42,64,80,-1,-1,2,0,2
-Butterfly Crura β,パピメルガンバβ,5,legs,female,2,1,0,42,64,80,-1,-1,2,0,2
-Vespoid Helm α,ランゴヘルムα,5,head,both,0,0,0,38,60,76,-2,1,1,1,2
-Vespoid Mail α,ランゴメイルα,5,chest,both,0,0,0,38,60,76,-2,1,1,1,2
-Vespoid Vambraces α,ランゴアームα,5,arms,both,0,0,0,38,60,76,-2,1,1,1,2
-Vespoid Coil α,ランゴコイルα,5,waist,both,0,0,0,38,60,76,-2,1,1,1,2
-Vespoid Greaves α,ランゴグリーヴα,5,legs,both,0,0,0,38,60,76,-2,1,1,1,2
-Vespoid Helm β,ランゴヘルムβ,5,head,both,1,0,0,38,60,76,-2,1,1,1,2
-Vespoid Mail β,ランゴメイルβ,5,chest,both,1,0,0,38,60,76,-2,1,1,1,2
-Vespoid Vambraces β,ランゴアームβ,5,arms,both,1,0,0,38,60,76,-2,1,1,1,2
-Vespoid Coil β,ランゴコイルβ,5,waist,both,1,0,0,38,60,76,-2,1,1,1,2
-Vespoid Greaves β,ランゴグリーヴβ,5,legs,both,1,0,0,38,60,76,-2,1,1,1,2
-Hornetaur Helm α,タロスヘルムα,5,head,both,0,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Mail α,タロスメイルα,5,chest,both,0,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Vambraces α,タロスアームα,5,arms,both,0,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Coil α,タロスコイルα,5,waist,both,0,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Greaves α,タロスグリーヴα,5,legs,both,0,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Helm β,タロスヘルムβ,5,head,both,1,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Mail β,タロスメイルβ,5,chest,both,1,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Vambraces β,タロスアームβ,5,arms,both,1,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Coil β,タロスコイルβ,5,waist,both,1,0,0,38,60,76,-1,-1,0,0,2
-Hornetaur Greaves β,タロスグリーヴβ,5,legs,both,1,0,0,38,60,76,-1,-1,0,0,2
-Mosswine Mask α,モスフェイクα,5,head,both,0,0,0,40,62,78,2,2,2,2,2
-Kestodon Guards α,ケストガードα,5,arms,both,0,0,0,40,62,78,4,0,0,0,0
-Kestodon Guards β,ケストガードβ,5,arms,both,1,0,0,40,62,78,4,0,0,0,0
-Gajau Boots α,ガライーブーツα,5,legs,both,0,0,0,40,62,78,0,5,0,0,0
-Gajau Boots β,ガライーブーツβ,5,legs,both,1,0,0,40,62,78,0,5,0,0,0
-Shamos Goggles α,シャムゴーグルα,5,head,both,0,0,0,40,62,78,2,2,0,-3,0
-Shamos Goggles β,シャムゴーグルβ,5,head,both,1,0,0,40,62,78,2,2,0,-3,0
-Jagras Helm α,ジャグラスヘルムα,5,head,both,0,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Mail α,ジャグラスメイルα,5,chest,both,0,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Vambraces α,ジャグラスアームα,5,arms,both,0,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Coil α,ジャグラスコイルα,5,waist,both,0,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Greaves α,ジャグラスグリーブα,5,legs,both,0,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Helm β,ジャグラスヘルムβ,5,head,both,1,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Mail β,ジャグラスメイルβ,5,chest,both,1,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Vambraces β,ジャグラスアームβ,5,arms,both,1,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Coil β,ジャグラスコイルβ,5,waist,both,1,0,0,40,62,78,-2,2,-1,-1,1
-Jagras Greaves β,ジャグラスグリーブβ,5,legs,both,1,0,0,40,62,78,-2,2,-1,-1,1
-Kulu Headpiece α,クルルヘルムα,5,head,both,0,0,0,40,62,78,0,-3,0,1,0
-Kulu Mail α,クルルメイルα,5,chest,both,0,0,0,40,62,78,0,-3,0,1,0
-Kulu Vambraces α,クルルアームα,5,arms,both,0,0,0,40,62,78,0,-3,0,1,0
-Kulu Coil α,クルルコイルα,5,waist,both,0,0,0,40,62,78,0,-3,0,1,0
-Kulu Greaves α,クルルグリーブα,5,legs,both,0,0,0,40,62,78,0,-3,0,1,0
-Kulu Headpiece β,クルルヘルムβ,5,head,both,1,1,0,40,62,78,0,-3,0,1,0
-Kulu Mail β,クルルメイルβ,5,chest,both,1,0,0,40,62,78,0,-3,0,1,0
-Kulu Vambraces β,クルルアームβ,5,arms,both,2,0,0,40,62,78,0,-3,0,1,0
-Kulu Coil β,クルルコイルβ,5,waist,both,2,0,0,40,62,78,0,-3,0,1,0
-Kulu Greaves β,クルルグリーブβ,5,legs,both,1,0,0,40,62,78,0,-3,0,1,0
-Tzitzi Headgear α,ツィツィヘルムα,5,head,both,0,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Mail α,ツィツィメイルα,5,chest,both,0,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Vambraces α,ツィツィアームα,5,arms,both,0,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Coil α,ツィツィコイルα,5,waist,both,0,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Greaves α,ツィツィグリーヴα,5,legs,both,0,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Headgear β,ツィツィヘルムβ,5,head,both,1,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Mail β,ツィツィメイルβ,5,chest,both,1,1,0,40,62,78,0,0,-3,-2,0
-Tzitzi Vambraces β,ツィツィアームβ,5,arms,both,1,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Coil β,ツィツィコイルβ,5,waist,both,2,0,0,40,62,78,0,0,-3,-2,0
-Tzitzi Greaves β,ツィツィグリーヴβ,5,legs,both,1,0,0,40,62,78,0,0,-3,-2,0
-Girros Mask α,ギルオスヘルムα,5,head,both,0,0,0,40,62,78,0,-3,2,0,1
-Girros Mail α,ギルオスメイルα,5,chest,both,0,0,0,40,62,78,0,-3,2,0,1
-Girros Vambraces α,ギルオスアームα,5,arms,both,0,0,0,40,62,78,0,-3,2,0,1
-Girros Coil α,ギルオスコイルα,5,waist,both,0,0,0,40,62,78,0,-3,2,0,1
-Girros Greaves α,ギルオスグリーヴα,5,legs,both,0,0,0,40,62,78,0,-3,2,0,1
-Girros Mask β,ギルオスヘルムβ,5,head,both,1,0,0,40,62,78,0,-3,2,0,1
-Girros Mail β,ギルオスメイルβ,5,chest,both,1,0,0,40,62,78,0,-3,2,0,1
-Girros Vambraces β,ギルオスアームβ,5,arms,both,1,0,0,40,62,78,0,-3,2,0,1
-Girros Coil β,ギルオスコイルβ,5,waist,both,1,0,0,40,62,78,0,-3,2,0,1
-Girros Greaves β,ギルオスグリーヴβ,5,legs,both,1,0,0,40,62,78,0,-3,2,0,1
-Pukei Hood α,プケプケヘルムα,5,head,both,0,0,0,42,64,80,0,3,-3,0,1
-Pukei Mail α,プケプケメイルα,5,chest,both,0,0,0,42,64,80,0,3,-3,0,1
-Pukei Vambraces α,プケプケアームα,5,arms,both,0,0,0,42,64,80,0,3,-3,0,1
-Pukei Coil α,プケプケコイルα,5,waist,both,0,0,0,42,64,80,0,3,-3,0,1
-Pukei Greaves α,プケプケグリーヴα,5,legs,both,0,0,0,42,64,80,0,3,-3,0,1
-Pukei Hood β,プケプケヘルムβ,5,head,both,1,1,0,42,64,80,0,3,-3,0,1
-Pukei Mail β,プケプケメイルβ,5,chest,both,1,0,0,42,64,80,0,3,-3,0,1
-Pukei Vambraces β,プケプケアームβ,5,arms,both,1,1,0,42,64,80,0,3,-3,0,1
-Pukei Coil β,プケプケコイルβ,5,waist,both,1,0,0,42,64,80,0,3,-3,0,1
-Pukei Greaves β,プケプケグリーヴβ,5,legs,both,2,0,0,42,64,80,0,3,-3,0,1
-Barroth Helm α,ボロスヘルムα,5,head,both,0,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Mail α,ボロスメイルα,5,chest,both,0,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Vambraces α,ボロスアームα,5,arms,both,0,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Coil α,ボロスコイルα,5,waist,both,0,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Greaves α,ボロスグリーヴα,5,legs,both,0,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Helm β,ボロスヘルムβ,5,head,both,1,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Mail β,ボロスメイルβ,5,chest,both,1,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Vambraces β,ボロスアームβ,5,arms,both,1,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Coil β,ボロスコイルβ,5,waist,both,2,0,0,42,64,80,-3,-1,3,-1,0
-Barroth Greaves β,ボロスグリーヴβ,5,legs,both,1,1,0,42,64,80,-3,-1,3,-1,0
-Anja Helm α,ジャナフヘルムα,5,head,both,0,0,0,44,66,82,3,-3,-1,-1,0
-Anja Mail α,ジャナフメイルα,5,chest,both,0,0,0,44,66,82,3,-3,-1,-1,0
-Anja Vambraces α,ジャナフアームα,5,arms,both,0,0,0,44,66,82,3,-3,-1,-1,0
-Anja Coil α,ジャナフコイルα,5,waist,both,0,0,0,44,66,82,3,-3,-1,-1,0
-Anja Greaves α,ジャナフグリーヴα,5,legs,both,0,0,0,44,66,82,3,-3,-1,-1,0
-Anja Helm β,ジャナフヘルムβ,5,head,both,2,0,0,44,66,82,3,-3,-1,-1,0
-Anja Mail β,ジャナフメイルβ,5,chest,both,1,1,0,44,66,82,3,-3,-1,-1,0
-Anja Vambraces β,ジャナフアームβ,5,arms,both,1,0,0,44,66,82,3,-3,-1,-1,0
-Anja Coil β,ジャナフコイルβ,5,waist,both,2,0,0,44,66,82,3,-3,-1,-1,0
-Anja Greaves β,ジャナフグリーヴβ,5,legs,both,1,0,0,44,66,82,3,-3,-1,-1,0
-Jyura Helm α,ジュラヘルムα,5,head,both,0,0,0,44,66,82,-1,2,-3,0,0
-Jyura Mail α,ジュラメイルα,5,chest,both,0,0,0,44,66,82,-1,2,-3,0,0
-Jyura Vambraces α,ジュラアームα,5,arms,both,0,0,0,44,66,82,-1,2,-3,0,0
-Jyura Coil α,ジュラコイルα,5,waist,both,0,0,0,44,66,82,-1,2,-3,0,0
-Jyura Greaves α,ジュラグリーヴα,5,legs,both,0,0,0,44,66,82,-1,2,-3,0,0
-Jyura Helm β,ジュラヘルムβ,5,head,both,1,0,0,44,66,82,-1,2,-3,0,0
-Jyura Mail β,ジュラメイルβ,5,chest,both,1,0,0,44,66,82,-1,2,-3,0,0
-Jyura Vambraces β,ジュラアームβ,5,arms,both,1,0,0,44,66,82,-1,2,-3,0,0
-Jyura Coil β,ジュラコイルβ,5,waist,both,1,0,0,44,66,82,-1,2,-3,0,0
-Jyura Greaves β,ジュラグリーヴβ,5,legs,both,2,0,0,44,66,82,-1,2,-3,0,0
-Kadachi Helm α,カガチヘルムα,5,head,both,0,0,0,44,66,82,0,-3,3,0,0
-Kadachi Mail α,カガチメイルα,5,chest,both,0,0,0,44,66,82,0,-3,3,0,0
-Kadachi Vambraces α,カガチアームα,5,arms,both,0,0,0,44,66,82,0,-3,3,0,0
-Kadachi Coil α,カガチコイルα,5,waist,both,0,0,0,44,66,82,0,-3,3,0,0
-Kadachi Greaves α,カガチグリーヴα,5,legs,both,0,0,0,44,66,82,0,-3,3,0,0
-Kadachi Helm β,カガチヘルムβ,5,head,both,2,0,0,44,66,82,0,-3,3,0,0
-Kadachi Mail β,カガチメイルβ,5,chest,both,2,0,0,44,66,82,0,-3,3,0,0
-Kadachi Vambraces β,カガチアームβ,5,arms,both,2,0,0,44,66,82,0,-3,3,0,0
-Kadachi Coil β,カガチコイルβ,5,waist,both,1,1,0,44,66,82,0,-3,3,0,0
-Kadachi Greaves β,カガチグリーヴβ,5,legs,both,1,1,0,44,66,82,0,-3,3,0,0
-Lumu Hat α,ウルムーヘルムα,5,head,both,0,0,0,44,66,82,-3,2,0,1,0
-Lumu Mail α,ウルムーメイルα,5,chest,both,0,0,0,44,66,82,-3,2,0,1,0
-Lumu Vambraces α,ウルムーアームα,5,arms,both,0,0,0,44,66,82,-3,2,0,1,0
-Lumu Coil α,ウルムーコイルα,5,waist,both,0,0,0,44,66,82,-3,2,0,1,0
-Lumu Greaves α,ウルムーグリーヴα,5,legs,both,0,0,0,44,66,82,-3,2,0,1,0
-Lumu Hat β,ウルムーヘルムβ,5,head,both,2,0,0,44,66,82,-3,2,0,1,0
-Lumu Mail β,ウルムーメイルβ,5,chest,both,1,0,0,44,66,82,-3,2,0,1,0
-Lumu Vambraces β,ウルムーアームβ,5,arms,both,1,0,0,44,66,82,-3,2,0,1,0
-Lumu Coil β,ウルムーコイルβ,5,waist,both,1,0,0,44,66,82,-3,2,0,1,0
-Lumu Greaves β,ウルムーグリーヴβ,5,legs,both,1,1,0,44,66,82,-3,2,0,1,0
-Rathian Helm α,レイアヘルムα,5,head,both,0,0,0,46,68,84,2,0,-2,0,-3
-Rathian Mail α,レイアメイルα,5,chest,both,0,0,0,46,68,84,2,0,-2,0,-3
-Rathian Vambraces α,レイアアームα,5,arms,both,0,0,0,46,68,84,2,0,-2,0,-3
-Rathian Coil α,レイアコイルα,5,waist,both,0,0,0,46,68,84,2,0,-2,0,-3
-Rathian Greaves α,レイアグリーヴα,5,legs,both,0,0,0,46,68,84,2,0,-2,0,-3
-Rathian Helm β,レイアヘルムβ,5,head,both,1,0,0,46,68,84,2,0,-2,0,-3
-Rathian Mail β,レイアメイルβ,5,chest,both,1,0,0,46,68,84,2,0,-2,0,-3
-Rathian Vambraces β,レイアアームβ,5,arms,both,1,0,0,46,68,84,2,0,-2,0,-3
-Rathian Coil β,レイアコイルβ,5,waist,both,1,0,0,46,68,84,2,0,-2,0,-3
-Rathian Greaves β,レイアグリーヴβ,5,legs,both,1,0,0,46,68,84,2,0,-2,0,-3
-Rath Heart Helm α,リオハートヘルムα,6,head,both,0,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Mail α,リオハートメイルα,6,chest,both,0,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Braces α,リオハートアームα,6,arms,both,0,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Coil α,リオハートコイルα,6,waist,both,0,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Greaves α,リオハートグリーヴα,6,legs,both,0,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Helm β,リオハートヘルムβ,6,head,both,2,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Mail β,リオハートメイルβ,6,chest,both,1,1,0,52,72,84,3,0,-3,0,-4
-Rath Heart Braces β,リオハートアームβ,6,arms,both,2,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Coil β,リオハートコイルβ,6,waist,both,1,0,0,52,72,84,3,0,-3,0,-4
-Rath Heart Greaves β,リオハートグリーヴβ,6,legs,both,2,0,0,52,72,84,3,0,-3,0,-4
-Baan Helm α,バルキンヘルムα,6,head,both,0,0,0,46,66,78,0,2,0,-1,-2
-Baan Mail α,バルキンメイルα,6,chest,both,0,0,0,46,66,78,0,2,0,-1,-2
-Baan Vambraces α,バルキンアームα,6,arms,both,0,0,0,46,66,78,0,2,0,-1,-2
-Baan Coil α,バルキンコイルα,6,waist,both,0,0,0,46,66,78,0,2,0,-1,-2
-Baan Greaves α,バルキングリーヴα,6,legs,both,0,0,0,46,66,78,0,2,0,-1,-2
-Baan Helm β,バルキンヘルムβ,6,head,both,2,0,0,46,66,78,0,2,0,-1,-2
-Baan Mail β,バルキンメイルβ,6,chest,both,1,0,0,46,66,78,0,2,0,-1,-2
-Baan Vambraces β,バルキンアームβ,6,arms,both,1,0,0,46,66,78,0,2,0,-1,-2
-Baan Coil β,バルキンコイルβ,6,waist,both,2,0,0,46,66,78,0,2,0,-1,-2
-Baan Greaves β,バルキングリーヴβ,6,legs,both,1,0,0,46,66,78,0,2,0,-1,-2
-Gastodon Horn α,ガストホーンα,5,head,both,0,0,0,48,70,86,3,0,0,0,0
-Gastodon Horn β,ガストホーンβ,5,head,both,1,0,0,48,70,86,3,0,0,0,0
-Barnos Jacket α,バルノスマントα,5,chest,both,0,0,0,48,70,86,1,1,0,1,-2
-Barnos Jacket β,バルノスマントβ,5,chest,both,1,0,0,48,70,86,1,1,0,1,-2
-Dodogama Helm α,ガマルヘルムα,5,head,both,0,0,0,48,70,86,2,0,-3,0,2
-Dodogama Mail α,ガマルメイルα,5,chest,both,0,0,0,48,70,86,2,0,-3,0,2
-Dodogama Vambraces α,ガマルアームα,5,arms,both,0,0,0,48,70,86,2,0,-3,0,2
-Dodogama Coil α,ガマルコイルα,5,waist,both,0,0,0,48,70,86,2,0,-3,0,2
-Dodogama Greaves α,ガマルヴリーヴα,5,legs,both,0,0,0,48,70,86,2,0,-3,0,2
-Dodogama Helm β,ガマルヘルムβ,5,head,both,1,0,0,48,70,86,2,0,-3,0,2
-Dodogama Mail β,ガマルメイルβ,5,chest,both,1,0,0,48,70,86,2,0,-3,0,2
-Dodogama Vambraces β,ガマルアームβ,5,arms,both,1,0,0,48,70,86,2,0,-3,0,2
-Dodogama Coil β,ガマルコイルβ,5,waist,both,1,0,0,48,70,86,2,0,-3,0,2
-Dodogama Greaves β,ガマルヴリーヴβ,5,legs,both,1,0,0,48,70,86,2,0,-3,0,2
-Zorah Headgear α,ゾラマグナヘッドα,6,head,both,0,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Hide α,ゾラマグナハイドα,6,chest,both,0,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Claws α,ゾラマグナクロウα,6,arms,both,0,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Spine α,ゾラマグナスパインα,6,waist,both,0,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Spurs α,ゾラマグナフットα,6,legs,both,0,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Headgear β,ゾラマグナヘッドβ,6,head,both,1,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Hide β,ゾラマグナハイドβ,6,chest,both,2,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Claws β,ゾラマグナクロウβ,6,arms,both,1,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Spine β,ゾラマグナスパインβ,6,waist,both,2,0,0,44,64,76,4,-3,-1,-2,-3
-Zorah Spurs β,ゾラマグナフットβ,6,legs,both,2,0,0,44,64,76,4,-3,-1,-2,-3
-High Metal Helm α,ハイメタヘルムα,6,head,both,0,0,0,50,70,82,0,-1,-2,3,0
-High Metal Mail α,ハイメタメイルα,6,chest,both,0,0,0,50,70,82,0,-1,-2,3,0
-High Metal Braces α,ハイメタアームα,6,arms,both,0,0,0,50,70,82,0,-1,-2,3,0
-High Metal Coil α,ハイメタコイルα,6,waist,both,0,0,0,50,70,82,0,-1,-2,3,0
-High Metal Greaves α,ハイメタグリーヴα,6,legs,both,0,0,0,50,70,82,0,-1,-2,3,0
-High Metal Helm β,ハイメタヘルムβ,6,head,both,2,0,0,50,70,82,0,-1,-2,3,0
-High Metal Mail β,ハイメタメイルβ,6,chest,both,2,0,0,50,70,82,0,-1,-2,3,0
-High Metal Braces β,ハイメタアームβ,6,arms,both,1,0,0,50,70,82,0,-1,-2,3,0
-High Metal Coil β,ハイメタコイルβ,6,waist,both,1,0,0,50,70,82,0,-1,-2,3,0
-High Metal Greaves β,ハイメタグリーヴβ,6,legs,both,1,0,0,50,70,82,0,-1,-2,3,0
-Ingot Helm α,インゴットヘルムα,6,head,both,0,0,0,50,70,82,-2,0,3,-1,0
-Ingot Mail α,インゴットメイルα,6,chest,both,0,0,0,50,70,82,-2,0,3,-1,0
-Ingot Vambraces α,インゴットアームα,6,arms,both,0,0,0,50,70,82,-2,0,3,-1,0
-Ingot Coil α,インゴットコイルα,6,waist,both,0,0,0,50,70,82,-2,0,3,-1,0
-Ingot Greaves α,インゴットグリーヴα,6,legs,both,0,0,0,50,70,82,-2,0,3,-1,0
-Ingot Helm β,インゴットヘルムβ,6,head,both,1,0,0,50,70,82,-2,0,3,-1,0
-Ingot Mail β,インゴットメイルβ,6,chest,both,1,0,0,50,70,82,-2,0,3,-1,0
-Ingot Vambraces β,インゴットアームβ,6,arms,both,1,0,0,50,70,82,-2,0,3,-1,0
-Ingot Coil β,インゴットコイルβ,6,waist,both,3,0,0,50,70,82,-2,0,3,-1,0
-Ingot Greaves β,インゴットグリーヴβ,6,legs,both,2,0,0,50,70,82,-2,0,3,-1,0
-Brigade Lobos α,ブリゲイドロポスα,6,head,both,0,0,0,52,72,84,1,0,2,0,2
-Brigade Suit α,ブリゲイドスーツα,6,chest,both,2,0,0,52,72,84,1,0,2,0,2
-Brigade Vambraces α,ブリゲイドアームα,6,arms,both,0,0,0,52,72,84,1,0,2,0,2
-Brigade Coil α,ブリゲイドコイルα,6,waist,both,0,0,0,52,72,84,1,0,2,0,2
-Brigade Boots α,ブリゲイドブーツα,6,legs,both,1,0,0,52,72,84,1,0,2,0,2
-Brigade Lobos β,ブリゲイドロポスβ,6,head,both,1,0,0,52,72,84,1,0,2,0,2
-Brigade Suit β,ブリゲイドスーツβ,6,chest,both,2,2,0,52,72,84,1,0,2,0,2
-Brigade Vambraces β,ブリゲイドアームβ,6,arms,both,1,0,0,52,72,84,1,0,2,0,2
-Brigade Coil β,ブリゲイドコイルβ,6,waist,both,1,0,0,52,72,84,1,0,2,0,2
-Brigade Boots β,ブリゲイドブーツβ,6,legs,both,3,0,0,52,72,84,1,0,2,0,2
-Faux Felyne α,アイルーフェイクα,6,head,both,0,0,0,56,76,88,2,2,2,2,2
-Strategist Spectacles α,知略の眼鏡α,6,head,both,1,0,0,56,76,88,2,2,2,2,2
-Lavasioth Helm α,ラヴァヘルムα,6,head,both,0,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Mail α,ラヴァメイルα,6,chest,both,0,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Vambraces α,ラヴァアームα,6,arms,both,2,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Coil α,ラヴァコイルα,6,waist,both,0,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Greaves α,ラヴァグリーヴα,6,legs,both,1,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Helm β,ラヴァヘルムβ,6,head,both,1,1,0,56,76,88,3,-3,1,-2,2
-Lavasioth Mail β,ラヴァメイルβ,6,chest,both,1,1,0,56,76,88,3,-3,1,-2,2
-Lavasioth Vambraces β,ラヴァアームβ,6,arms,both,3,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Coil β,ラヴァコイルβ,6,waist,both,1,0,0,56,76,88,3,-3,1,-2,2
-Lavasioth Greaves β,ラヴァグリーヴβ,6,legs,both,2,0,0,56,76,88,3,-3,1,-2,2
-Legiana Helm α,ギエナヘルムα,6,head,both,0,0,0,54,74,86,-1,2,-3,3,0
-Legiana Mail α,ギエナメイルα,6,chest,both,0,0,0,54,74,86,-1,2,-3,3,0
-Legiana Vambraces α,ギエナアームα,6,arms,both,0,0,0,54,74,86,-1,2,-3,3,0
-Legiana Coil α,ギエナコイルα,6,waist,both,0,0,0,54,74,86,-1,2,-3,3,0
-Legiana Greaves α,ギエナグリーヴα,6,legs,both,0,0,0,54,74,86,-1,2,-3,3,0
-Legiana Helm β,ギエナヘルムβ,6,head,both,1,0,0,54,74,86,-1,2,-3,3,0
-Legiana Mail β,ギエナメイルβ,6,chest,both,1,0,0,54,74,86,-1,2,-3,3,0
-Legiana Vambraces β,ギエナアームβ,6,arms,both,3,0,0,54,74,86,-1,2,-3,3,0
-Legiana Coil β,ギエナコイルβ,6,waist,both,2,0,0,54,74,86,-1,2,-3,3,0
-Legiana Greaves β,ギエナグリーヴβ,6,legs,both,3,0,0,54,74,86,-1,2,-3,3,0
-Odogaron Helm α,ガロンヘルムα,6,head,both,0,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Mail α,ガロンメイルα,6,chest,both,0,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Vambraces α,ガロンアームα,6,arms,both,0,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Coil α,ガロンコイルα,6,waist,both,0,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Greaves α,ガロングリーヴα,6,legs,both,0,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Helm β,ガロンヘルムβ,6,head,both,2,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Mail β,ガロンメイルβ,6,chest,both,1,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Vambraces β,ガロンアームβ,6,arms,both,1,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Coil β,ガロンコイルβ,6,waist,both,2,0,0,54,74,86,2,2,-2,-3,0
-Odogaron Greaves β,ガロングリーヴβ,6,legs,both,1,0,0,54,74,86,2,2,-2,-3,0
-Rathalos Helm α,レウスヘルムα,6,head,both,0,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Mail α,レウスメイルα,6,chest,both,0,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Vambraces α,レウスアームα,6,arms,both,0,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Coil α,レウスコイルα,6,waist,both,0,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Greaves α,レウスグリーヴα,6,legs,both,0,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Helm β,レウスヘルムβ,6,head,both,1,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Mail β,レウスメイルβ,6,chest,both,1,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Vambraces β,レウスアームβ,6,arms,both,1,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Coil β,レウスコイルβ,6,waist,both,2,0,0,54,74,86,3,1,-2,1,-3
-Rathalos Greaves β,レウスグリーヴβ,6,legs,both,3,0,0,54,74,86,3,1,-2,1,-3
-Rath Soul Helm α,リオソウルヘルムα,7,head,both,0,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Mail α,リオソウルメイルα,7,chest,both,1,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Braces α,リオソウルアームα,7,arms,both,1,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Coil α,リオソウルコイルα,7,waist,both,0,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Greaves α,リオソウルグリーヴα,7,legs,both,0,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Helm β,リオソウルヘルムβ,7,head,both,1,1,0,56,68,82,3,2,2,-3,-4
-Rath Soul Mail β,リオソウルメイルβ,7,chest,both,2,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Braces β,リオソウルアームβ,7,arms,both,2,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Coil β,リオソウルコイルβ,7,waist,both,3,0,0,56,68,82,3,2,2,-3,-4
-Rath Soul Greaves β,リオソウルグリーヴβ,7,legs,both,1,0,0,56,68,82,3,2,2,-3,-4
-Diablos Helm α,ディアブロヘルムα,6,head,both,0,0,0,54,74,86,3,-2,0,-3,2
-Diablos Mail α,ディアブロメイルα,6,chest,both,0,0,0,54,74,86,3,-2,0,-3,2
-Diablos Vambraces α,ディアブロアームα,6,arms,both,0,0,0,54,74,86,3,-2,0,-3,2
-Diablos Coil α,ディアブロコイルα,6,waist,both,0,0,0,54,74,86,3,-2,0,-3,2
-Diablos Greaves α,ディアブログリーヴα,6,legs,both,0,0,0,54,74,86,3,-2,0,-3,2
-Diablos Helm β,ディアブロヘルムβ,6,head,both,2,0,0,54,74,86,3,-2,0,-3,2
-Diablos Mail β,ディアブロメイルβ,6,chest,both,2,0,0,54,74,86,3,-2,0,-3,2
-Diablos Vambraces β,ディアブロアームβ,6,arms,both,2,0,0,54,74,86,3,-2,0,-3,2
-Diablos Coil β,ディアブロコイルβ,6,waist,both,2,0,0,54,74,86,3,-2,0,-3,2
-Diablos Greaves β,ディアブログリーヴβ,6,legs,both,1,1,0,54,74,86,3,-2,0,-3,2
-Diablos Nero Helm α,ディアネロヘルムα,7,head,both,1,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Mail α,ディアネロメイルα,7,chest,both,1,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Braces α,ディアネロアームα,7,arms,both,0,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Coil α,ディアネロコイルα,7,waist,both,0,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Greaves α,ディアネログリーヴα,7,legs,both,1,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Helm β,ディアネロヘルムβ,7,head,both,3,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Mail β,ディアネロメイルβ,7,chest,both,2,1,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Braces β,ディアネロアームβ,7,arms,both,2,1,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Coil β,ディアネロコイルβ,7,waist,both,2,0,0,56,68,82,2,-3,0,-4,2
-Diablos Nero Greaves β,ディアネログリーヴβ,7,legs,both,2,0,0,56,68,82,2,-3,0,-4,2
-Uragaan Helm α,ガンキンヘルムα,7,head,both,3,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Mail α,ガンキンメイルα,7,chest,both,1,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Vambraces α,ガンキンアームα,7,arms,both,1,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Coil α,ガンキンコイルα,7,waist,both,1,1,0,60,72,86,4,-3,1,-2,-2
-Uragaan Greaves α,ガンキングリーヴα,7,legs,both,1,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Helm β,ガンキンヘルムβ,7,head,both,3,1,0,60,72,86,4,-3,1,-2,-2
-Uragaan Mail β,ガンキンメイルβ,7,chest,both,3,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Vambraces β,ガンキンアームβ,7,arms,both,2,0,0,60,72,86,4,-3,1,-2,-2
-Uragaan Coil β,ガンキンコイルβ,7,waist,both,2,1,0,60,72,86,4,-3,1,-2,-2
-Uragaan Greaves β,ガンキングリーヴβ,7,legs,both,3,0,0,60,72,86,4,-3,1,-2,-2
-Bazel Helm α,バゼルヘルムα,7,head,both,2,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Mail α,バゼルメイルα,7,chest,both,0,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Vambraces α,バゼルアームα,7,arms,both,0,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Coil α,バゼルコイルα,7,waist,both,1,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Greaves α,バゼルグリーヴα,7,legs,both,1,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Helm β,バゼルヘルムβ,7,head,both,3,1,0,58,70,84,3,1,-4,-2,-2
-Bazel Mail β,バゼルメイルβ,7,chest,both,1,1,0,58,70,84,3,1,-4,-2,-2
-Bazel Vambraces β,バゼルアームβ,7,arms,both,3,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Coil β,バゼルコイルβ,7,waist,both,3,0,0,58,70,84,3,1,-4,-2,-2
-Bazel Greaves β,バゼルグリーヴβ,7,legs,both,3,0,0,58,70,84,3,1,-4,-2,-2
-Damascus Helm α,ダマスクヘルムα,7,head,both,1,0,0,60,72,86,4,-2,0,0,0
-Damascus Mail α,ダマスクメイルα,7,chest,both,1,0,0,60,72,86,4,-2,0,0,0
-Damascus Vambraces α,ダマスクアームα,7,arms,both,0,0,0,60,72,86,4,-2,0,0,0
-Damascus Coil α,ダマスクコイルα,7,waist,both,1,0,0,60,72,86,4,-2,0,0,0
-Damascus Greaves α,ダマスクグリーヴα,7,legs,both,1,0,0,60,72,86,4,-2,0,0,0
-Damascus Helm β,ダマスクヘルムβ,7,head,both,3,0,0,60,72,86,4,-2,0,0,0
-Damascus Mail β,ダマスクメイルβ,7,chest,both,1,1,1,60,72,86,4,-2,0,0,0
-Damascus Vambraces β,ダマスクアームβ,7,arms,both,1,0,0,60,72,86,4,-2,0,0,0
-Damascus Coil β,ダマスクコイルβ,7,waist,both,1,1,1,60,72,86,4,-2,0,0,0
-Damascus Greaves β,ダマスクグリーヴβ,7,legs,both,3,0,0,60,72,86,4,-2,0,0,0
-Dober Helm α,ドーベルヘルムα,7,head,both,0,0,0,60,72,86,-2,0,-1,-1,4
-Dober Mail α,ドーベルメイルα,7,chest,both,1,0,0,60,72,86,-2,0,-1,-1,4
-Dober Vambraces α,ドーベルアームα,7,arms,both,0,0,0,60,72,86,-2,0,-1,-1,4
-Dober Coil α,ドーベルコイルα,7,waist,both,2,0,0,60,72,86,-2,0,-1,-1,4
-Dober Greaves α,ドーベルグリーヴα,7,legs,both,0,0,0,60,72,86,-2,0,-1,-1,4
-Dober Helm β,ドーベルヘルムβ,7,head,both,1,0,0,60,72,86,-2,0,-1,-1,4
-Dober Mail β,ドーベルメイルβ,7,chest,both,2,0,0,60,72,86,-2,0,-1,-1,4
-Dober Vambraces β,ドーベルアームβ,7,arms,both,1,1,0,60,72,86,-2,0,-1,-1,4
-Dober Coil β,ドーベルコイルβ,7,waist,both,3,0,0,60,72,86,-2,0,-1,-1,4
-Dober Greaves β,ドーベルグリーヴβ,7,legs,both,1,0,0,60,72,86,-2,0,-1,-1,4
-Death Stench Brain α,デスギアゲヒルα,7,head,both,2,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Muscle α,デスギアムスケルα,7,chest,both,0,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Grip α,デスギアファオストα,7,arms,both,1,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Bowels α,デスギアナーベルα,7,waist,both,0,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Heel α,デスギアフェルゼα,7,legs,both,0,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Brain β,デスギアゲヒルβ,7,head,both,3,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Muscle β,デスギアムスケルβ,7,chest,both,3,0,0,62,74,88,3,2,-2,3,-4
-Death Stench Grip β,デスギアファオストβ,7,arms,both,1,1,0,62,74,88,3,2,-2,3,-4
-Death Stench Bowels β,デスギアナーベルβ,7,waist,both,1,1,0,62,74,88,3,2,-2,3,-4
-Death Stench Heel β,デスギアフェルゼβ,7,legs,both,1,1,0,62,74,88,3,2,-2,3,-4
-Skull Mask α,スカルフェイスα,7,head,both,2,0,0,64,76,90,-3,-1,-1,-1,2
-Nergigante Helm α,オーグヘルムα,8,head,both,1,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Mail α,オーグメイルα,8,chest,both,1,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Vambraces α,オーグアームα,8,arms,both,0,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Coil α,オーグコイルα,8,waist,both,0,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Greaves α,オーググリーヴα,8,legs,both,1,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Helm β,オーグヘルムβ,8,head,both,1,1,0,64,70,84,1,1,-3,1,-3
-Nergigante Mail β,オーグメイルβ,8,chest,both,2,1,0,64,70,84,1,1,-3,1,-3
-Nergigante Vambraces β,オーグアームβ,8,arms,both,1,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Coil β,オーグコイルβ,8,waist,both,2,0,0,64,70,84,1,1,-3,1,-3
-Nergigante Greaves β,オーググリーヴβ,8,legs,both,2,0,0,64,70,84,1,1,-3,1,-3
-Kaiser Crown α,カイザークラウンα,8,head,both,0,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Mail α,カイザーメイルα,8,chest,both,0,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Vambraces α,カイザーアームα,8,arms,both,1,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Coil α,カイザーコイルα,8,waist,both,0,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Greaves α,カイザーグリーヴα,8,legs,both,0,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Crown β,カイザークラウンβ,8,head,both,2,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Mail β,カイザーメイルβ,8,chest,both,1,1,0,64,70,84,3,-3,1,-3,1
-Kaiser Vambraces β,カイザーアームβ,8,arms,both,3,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Coil β,カイザーコイルβ,8,waist,both,2,0,0,64,70,84,3,-3,1,-3,1
-Kaiser Greaves β,カイザーグリーヴβ,8,legs,both,1,0,0,64,70,84,3,-3,1,-3,1
-Kushala Glare α,クシャナアンクα,8,head,both,0,0,0,64,70,84,0,2,-3,4,-2
-Kushala Cista α,クシャナディールα,8,chest,both,0,0,0,64,70,84,0,2,-3,4,-2
-Kushala Grip α,クシャナハトゥーα,8,arms,both,0,0,0,64,70,84,0,2,-3,4,-2
-Kushala Cocoon α,クシャナアンダα,8,waist,both,0,0,0,64,70,84,0,2,-3,4,-2
-Kushala Crus α,クシャナペイルα,8,legs,both,0,0,0,64,70,84,0,2,-3,4,-2
-Kushala Glare β,クシャナアンクβ,8,head,both,1,1,1,64,70,84,0,2,-3,4,-2
-Kushala Cista β,クシャナディールβ,8,chest,both,2,0,0,64,70,84,0,2,-3,4,-2
-Kushala Grip β,クシャナハトゥーβ,8,arms,both,3,0,0,64,70,84,0,2,-3,4,-2
-Kushala Cocoon β,クシャナアンダβ,8,waist,both,1,1,0,64,70,84,0,2,-3,4,-2
-Kushala Crus β,クシャナペイルβ,8,legs,both,3,0,0,64,70,84,0,2,-3,4,-2
-Vaal Hazak Helm α,ウルズヘルムα,8,head,both,0,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Mail α,ウルズメイルα,8,chest,both,1,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Braces α,ウルズアームα,8,arms,both,1,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Coil α,ウルズコイルα,8,waist,both,1,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Greaves α,ウルズグリーヴα,8,legs,both,1,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Helm β,ウルズヘルムβ,8,head,both,1,0,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Mail β,ウルズメイルβ,8,chest,both,1,1,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Braces β,ウルズアームβ,8,arms,both,1,1,1,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Coil β,ウルズコイルβ,8,waist,both,1,1,0,64,70,84,-4,4,1,-1,-3
-Vaal Hazak Greaves β,ウルズグリーヴβ,8,legs,both,1,1,0,64,70,84,-4,4,1,-1,-3
-Kirin Horn α,キリンホーンα,6,head,both,0,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Jacket α,キリンベストα,6,chest,both,0,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Longarms α,キリンアームロングα,6,arms,both,0,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Hoop α,キリンフープα,6,waist,both,0,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Leg Guards α,キリンレガースα,8,legs,both,0,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Horn β,キリンホーンβ,8,head,both,1,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Jacket β,キリンベストβ,8,chest,both,1,0,0,64,70,84,-3,-2,4,-2,2
-Kirin Longarms β,キリンアームロングβ,8,arms,both,1,1,0,64,70,84,-3,-2,4,-2,2
-Kirin Hoop β,キリンフープβ,8,waist,both,1,1,1,64,70,84,-3,-2,4,-2,2
-Kirin Leg Guards β,キリンレガースβ,8,legs,both,1,1,0,64,70,84,-3,-2,4,-2,2
-Xeno'jiiva Headgear α,ゼノラージヘッドα,8,head,both,1,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Hide α,ゼノラージハイドα,8,chest,both,1,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Claws α,ゼノラージクロウα,8,arms,both,1,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Spine α,ゼノラージスパインα,8,waist,both,3,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Spurs α,ゼノラージフットα,8,legs,both,1,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Headgear β,ゼノラージヘッドβ,8,head,both,2,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Hide β,ゼノラージハイドβ,8,chest,both,1,1,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Claws β,ゼノラージクロウβ,8,arms,both,3,0,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Spine β,ゼノラージスパインβ,8,waist,both,2,1,0,72,78,92,-3,2,2,2,-4
-Xeno'jiiva Spurs β,ゼノラージフットβ,8,legs,both,1,1,0,72,78,92,-3,2,2,2,-4
-Guild Cross Circlet α,ギルドクロスアクセα,8,head,both,1,0,0,62,68,82,0,0,0,0,0
-Guild Cross Suit α,ギルドクロススーツα,8,chest,both,1,0,0,62,68,82,0,0,0,0,0
-Guild Cross Vambraces α,ギルドクロスアームα,8,arms,both,1,0,0,62,68,82,0,0,0,0,0
-Guild Cross Coil α,ギルドクロスコイルα,8,waist,both,1,0,0,62,68,82,0,0,0,0,0
-Guild Cross Boots α,ギルドクロスブーツα,8,legs,both,1,0,0,62,68,82,0,0,0,0,0
-Guild Cross Circlet β,ギルドクロスアクセβ,8,head,both,1,1,1,62,68,82,0,0,0,0,0
-Guild Cross Suit β,ギルドクロススーツβ,8,chest,both,3,0,0,62,68,82,0,0,0,0,0
-Guild Cross Vambraces β,ギルドクロスアームβ,8,arms,both,3,0,0,62,68,82,0,0,0,0,0
-Guild Cross Coil β,ギルドクロスコイルβ,8,waist,both,1,1,1,62,68,82,0,0,0,0,0
-Guild Cross Boots β,ギルドクロスブーツβ,8,legs,both,3,0,0,62,68,82,0,0,0,0,0
-Dragonking Eyepatch α,竜王の隻眼α,8,head,both,3,0,0,70,76,90,0,0,0,0,0
-Commission Gorget α,シーカーヘッドα,8,head,both,1,0,0,70,76,90,2,2,2,2,2
-Commission Jacket α,シーカーベストα,8,chest,both,0,0,0,70,76,90,2,2,2,2,2
-Commission Vambraces α,シーカーグラブα,8,arms,both,1,0,0,70,76,90,2,2,2,2,2
-Commission Belt α,シーカーベルトα,8,waist,both,1,0,0,70,76,90,2,2,2,2,2
-Commission Pants α,シーカーパンツα,8,legs,both,0,0,0,70,76,90,2,2,2,2,2
-Commission Gorget β,シーカーヘッドβ,8,head,both,2,0,0,70,76,90,2,2,2,2,2
-Commission Jacket β,シーカーベストβ,8,chest,both,1,0,0,70,76,90,2,2,2,2,2
-Commission Vambraces β,シーカーグラブβ,8,arms,both,2,0,0,70,76,90,2,2,2,2,2
-Commission Belt β,シーカーベルトβ,8,waist,both,2,0,0,70,76,90,2,2,2,2,2
-Commission Pants β,シーカーパンツβ,8,legs,both,2,0,0,70,76,90,2,2,2,2,2
-Vangis Helm α,バンギスヘルムα,7,head,both,1,0,0,58,70,84,1,1,-3,2,-3
-Vangis Mail α,バンギスメイルα,7,chest,both,2,0,0,58,70,84,1,1,-3,2,-3
-Vangis Vambraces α,バンギスアームα,7,arms,both,0,0,0,58,70,84,1,1,-3,2,-3
-Vangis Coil α,バンギスコイルα,7,waist,both,1,0,0,58,70,84,1,1,-3,2,-3
-Vangis Greaves α,バンギスグリーヴα,7,legs,both,0,0,0,58,70,84,1,1,-3,2,-3
-Vangis Helm β,バンギスヘルムβ,7,head,both,3,1,0,58,70,84,1,1,-3,2,-3
-Vangis Mail β,バンギスメイルβ,7,chest,both,3,0,0,58,70,84,1,1,-3,2,-3
-Vangis Vambraces β,バンギスアームβ,7,arms,both,2,0,0,58,70,84,1,1,-3,2,-3
-Vangis Coil β,バンギスコイルβ,7,waist,both,3,1,0,58,70,84,1,1,-3,2,-3
-Vangis Greaves β,バンギスグリーヴβ,7,legs,both,1,1,0,58,70,84,1,1,-3,2,-3
-Kulve Taroth's Fury α,マムガイラヘルムα,8,head,both,1,0,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Ire α,マムガイラメイルα,8,chest,both,1,0,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Rage α,マムガイラアームα,8,arms,both,1,0,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Malice α,マムガイラコイルα,8,waist,both,1,0,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Wrath α,マムガイラグリーヴα,8,legs,both,1,0,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Fury β,マムガイラヘルムβ,8,head,both,2,1,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Ire β,マムガイラメイルβ,8,chest,both,3,1,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Rage β,マムガイラアームβ,8,arms,both,3,1,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Malice β,マムガイラコイルβ,8,waist,both,3,1,0,72,78,92,4,-2,3,-4,-2
-Kulve Taroth's Wrath β,マムガイラグリーヴβ,8,legs,both,2,1,0,72,78,92,4,-2,3,-4,-2
-Blossom Headgear α,ブロッサムヘッドα,5,head,both,1,1,0,40,62,78,1,1,4,1,1
-Blossom Vest α,ブロッサムベストα,5,chest,both,1,1,0,40,62,78,1,1,4,1,1
-Blossom Cuffs α,ブロッサムカフスα,5,arms,both,1,1,0,40,62,78,1,1,4,1,1
-Blossom Coat α,ブロッサムコートα,5,waist,both,1,1,0,40,62,78,1,1,4,1,1
-Blossom Boots α,ブロッサムブーツα,5,legs,both,1,1,0,40,62,78,1,1,4,1,1
-Kirin Horn Gamma,キリンホーンγ,8,head,both,2,0,0,72,78,92,-3,-2,4,-2,2
-Kirin Jacket Gamma,キリンベストγ,8,chest,both,1,1,0,72,78,92,-3,-2,4,-2,2
-Kirin Longarms Gamma,キリンアームロングγ,8,arms,both,2,2,0,72,78,92,-3,-2,4,-2,2
-Kirin Hoop Gamma,キリンフープγ,8,waist,both,1,1,0,72,78,92,-3,-2,4,-2,2
-Kirin Leg Guards Gamma,キリンレガースγ,8,legs,both,3,0,0,72,78,92,-3,-2,4,-2,2
-Dante's Hair α,ダンテウィッグα,8,head,both,1,0,0,64,70,84,3,-3,3,-3,3
-Dante's Coat α,ダンテコートα,8,chest,both,3,0,0,64,70,84,3,-3,3,-3,3
-Dante's Gloves α,ダンテグローブα,8,arms,both,3,0,0,64,70,84,3,-3,3,-3,3
-Dante's Belt α,ダンテベルトα,8,waist,both,3,0,0,64,70,84,3,-3,3,-3,3
-Dante's Leather Boots α,ダンテレザーα,8,legs,both,1,1,0,64,70,84,3,-3,3,-3,3
-Empress Crown α,エンプレスセクターα,8,head,both,3,0,0,70,76,90,3,1,1,-3,-2
-Empress Mail α,エンプレスメイルα,8,chest,both,1,1,0,70,76,90,3,1,1,-3,-2
-Empress Vambraces α,エンプレスアームα,8,arms,both,3,0,0,70,76,90,3,1,1,-3,-2
-Empress Coil α,エンプレスコイルα,8,waist,both,2,1,0,70,76,90,3,1,1,-3,-2
-Empress Greaves α,エンプレスグリーヴα,8,legs,both,2,1,0,70,76,90,3,1,1,-3,-2
-Empress Crown β,エンプレスセクターβ,8,head,both,3,2,0,70,76,90,3,1,1,-3,-2
-Empress Mail β,エンプレスメイルβ,8,chest,both,1,1,1,70,76,90,3,1,1,-3,-2
-Empress Vambraces β,エンプレスアームβ,8,arms,both,3,2,0,70,76,90,3,1,1,-3,-2
-Empress Coil β,エンプレスコイルβ,8,waist,both,2,2,0,70,76,90,3,1,1,-3,-2
-Empress Greaves β,エンプレスグリーヴβ,8,legs,both,2,2,0,70,76,90,3,1,1,-3,-2
-Sealed Eyepatch α,封印の眼帯α,5,head,both,2,1,0,46,68,84,3,2,0,2,0
-Shadow Shades α,シャドウアイα,5,head,both,1,1,1,46,68,84,4,0,4,2,0
-Kulu-Ya-Ku Head α,クルルフェイクα,5,head,both,3,1,0,46,68,84,2,0,2,3,2
-Wiggler Head α,ユラユラフェイクα,5,head,both,1,1,0,46,68,84,0,4,0,0,4
+id,name_en,name_ja,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defense_augment_max,defense_fire,defense_water,defense_thunder,defense_ice,defense_dragon
+1,Leather Headgear,レザーヘッド,1,head,both,0,0,0,2,38,68,2,0,0,0,0
+2,Leather Mail,レザーベスト,1,chest,both,0,0,0,2,38,68,2,0,0,0,0
+3,Leather Gloves,レザーグラブ,1,arms,both,0,0,0,2,38,68,2,0,0,0,0
+4,Leather Belt,レザーベルト,1,waist,both,0,0,0,2,38,68,2,0,0,0,0
+5,Leather Trousers,レザーパンツ,1,legs,both,0,0,0,2,38,68,2,0,0,0,0
+6,Chainmail Headgear,チェーンヘッド,1,head,both,0,0,0,2,38,68,0,2,0,0,0
+7,Chainmail Vest,チェーンベスト,1,chest,both,0,0,0,2,38,68,0,2,0,0,0
+8,Chainmail Gloves,チェーングラブ,1,arms,both,0,0,0,2,38,68,0,2,0,0,0
+9,Chainmail Belt,チェーンベルト,1,waist,both,0,0,0,2,38,68,0,2,0,0,0
+10,Chainmail Trousers,チェーンパンツ,1,legs,both,0,0,0,2,38,68,0,2,0,0,0
+11,Hunter's Headgear,ハンターヘルム,1,head,both,0,0,0,6,42,72,2,2,0,0,0
+12,Hunter's Mail,ハンターメイル,1,chest,both,0,0,0,6,42,72,2,2,0,0,0
+13,Hunter's Vambraces,ハンターアーム,1,arms,both,0,0,0,6,42,72,2,2,0,0,0
+14,Hunter's Coil,ハンターコイル,1,waist,both,0,0,0,6,42,72,2,2,0,0,0
+15,Hunter's Greaves,ハンターグリーヴ,1,legs,both,0,0,0,6,42,72,2,2,0,0,0
+16,Bone Helm,ボーンヘルム,1,head,both,0,0,0,6,42,72,2,0,2,0,2
+17,Bone Mail,ボーンメイル,1,chest,both,0,0,0,6,42,72,2,0,2,0,2
+18,Bone Vambraces,ボーンアーム,1,arms,both,0,0,0,6,42,72,2,0,2,0,2
+19,Bone Coil,ボーンコイル,1,waist,both,0,0,0,6,42,72,2,0,2,0,2
+20,Bone Greaves,ボーングリーヴ,1,legs,both,0,0,0,6,42,72,2,0,2,0,2
+21,Vespoid Helm,ランゴヘルム,1,head,both,0,0,0,8,44,74,-2,1,1,1,2
+22,Vespoid Mail,ランゴメイル,1,chest,both,0,0,0,8,44,74,-2,1,1,1,2
+23,Vespoid Vambraces,ランゴアーム,1,arms,both,0,0,0,8,44,74,-2,1,1,1,2
+24,Vespoid Coil,ランゴコイル,1,waist,both,0,0,0,8,44,74,-2,1,1,1,2
+25,Vespoid Greaves,ランゴグリーブ,1,legs,both,0,0,0,8,44,74,-2,1,1,1,2
+26,Kestodon Guards,ケストガード,1,arms,both,0,0,0,12,48,78,4,0,0,0,0
+27,Gajau Boots,ガライ－ブーツ,1,legs,both,0,0,0,12,48,78,0,5,0,0,0
+28,Jagras Helm,ジャグラスヘルム,1,head,both,0,0,0,8,44,74,-2,2,-1,-1,1
+29,Jagras Mail,ジャグラスメイル,1,chest,both,0,0,0,8,44,74,-2,2,-1,-1,1
+30,Jagras Vambraces,ジャグラスアーム,1,arms,both,0,0,0,8,44,74,-2,2,-1,-1,1
+31,Jagras Coil,ジャグラスコイル,1,waist,both,0,0,0,8,44,74,-2,2,-1,-1,1
+32,Jagras Greaves,ジャグラスグリーブ,1,legs,both,0,0,0,8,44,74,-2,2,-1,-1,1
+33,Kulu Headpiece,クルルヘルム,1,head,both,0,0,0,10,46,76,0,-3,0,1,0
+34,Kulu Mail,クルルメイル,1,chest,both,0,0,0,10,46,76,0,-3,0,1,0
+35,Kulu Vambraces,クルルアーム,1,arms,both,0,0,0,10,46,76,0,-3,0,1,0
+36,Kulu Coil,クルルコイル,1,waist,both,0,0,0,10,46,76,0,-3,0,1,0
+37,Kulu Greaves,クルルグリーブ,1,legs,both,0,0,0,10,46,76,0,-3,0,1,0
+38,Alloy Helm,アロイヘルム,2,head,both,0,0,0,8,40,66,-2,1,-2,-2,1
+39,Alloy Mail,アロイメイル,2,chest,both,0,0,0,8,40,66,-2,1,-2,-2,1
+40,Alloy Vambraces,アロイアーム,2,arms,both,0,0,0,8,40,66,-2,1,-2,-2,1
+41,Alloy Coil,アロイコイル,2,waist,both,0,0,0,8,40,66,-2,1,-2,-2,1
+42,Alloy Greaves,アロイグリーヴ,2,legs,both,0,0,0,8,40,66,-2,1,-2,-2,1
+43,Pukei Hood,プケプケヘルム,2,head,both,0,0,0,12,44,70,0,3,-3,0,1
+44,Pukei Mail,プケプケメイル,2,chest,both,0,0,0,12,44,70,0,3,-3,0,1
+45,Pukei Vambraces,プケプケアーム,2,arms,both,0,0,0,12,44,70,0,3,-3,0,1
+46,Pukei Coil,プケプケコイル,2,waist,both,0,0,0,12,44,70,0,3,-3,0,1
+47,Pukei Greaves,プケプケグリーブ,2,legs,both,0,0,0,12,44,70,0,3,-3,0,1
+48,Barroth Helm,ボロスヘルム,2,head,both,0,0,0,14,38,72,-3,-1,3,-1,0
+49,Barroth Mail,ボロスメイル,2,chest,both,0,0,0,14,38,72,-3,-1,3,-1,0
+50,Barroth Vambraces,ボロスアーム,2,arms,both,0,0,0,14,38,72,-3,-1,3,-1,0
+51,Barroth Coil,ボロスコイル,2,waist,both,0,0,0,14,38,72,-3,-1,3,-1,0
+52,Barroth Greaves,ボロスグリーヴ,2,legs,both,0,0,0,14,38,72,-3,-1,3,-1,0
+53,Jyura Helm,ジュラヘルム,2,head,both,0,0,0,14,46,72,-1,2,-3,0,0
+54,Jyura Mail,ジュラメイル,2,chest,both,0,0,0,14,46,72,-1,2,-3,0,0
+55,Jyura Vambraces,ジュラアーム,2,arms,both,0,0,0,14,46,72,-1,2,-3,0,0
+56,Jyura Coil,ジュラコイル,2,waist,both,0,0,0,14,46,72,-1,2,-3,0,0
+57,Jyura Greaves,ジュラグリーヴ,2,legs,both,0,0,0,14,46,72,-1,2,-3,0,0
+58,Kadachi Helm,カガチヘルム,2,head,both,0,0,0,16,48,74,0,-3,3,0,0
+59,Kadachi Mail,カガチメイル,2,chest,both,0,0,0,16,48,74,0,-3,3,0,0
+60,Kadachi Vambraces,カガチアーム,2,arms,both,0,0,0,16,48,74,0,-3,3,0,0
+61,Kadachi Coil,カガチコイル,2,waist,both,0,0,0,16,48,74,0,-3,3,0,0
+62,Kadachi Greaves,カガチグリーヴ,2,legs,both,0,0,0,16,48,74,0,-3,3,0,0
+63,High Metal Helm,ハイメタヘルム,3,head,both,0,0,0,18,46,70,0,-1,-2,3,0
+64,High Metal Mail,ハイメタメイル,3,chest,both,0,0,0,18,46,70,0,-1,-2,3,0
+65,High Metal Braces,ハイメタアーム,3,arms,both,0,0,0,18,46,70,0,-1,-2,3,0
+66,High Metal Coil,ハイメタコイル,3,waist,both,0,0,0,18,46,70,0,-1,-2,3,0
+67,High Metal Greaves,ハイメタグリーヴ,3,legs,both,0,0,0,18,46,70,0,-1,-2,3,0
+68,King Beetle Vertex,オウビートテスタ,3,head,male,0,0,0,22,50,74,-1,-1,2,0,2
+69,King Beetle Thorax,オウビートペット,3,chest,male,0,0,0,22,50,74,-1,-1,2,0,2
+70,King Beetle Brachia,オウビートマーノ,3,arms,male,0,0,0,22,50,74,-1,-1,2,0,2
+71,King Beetle Elytra,オウビートアンカ,3,waist,male,0,0,0,22,50,74,-1,-1,2,0,2
+72,King Beetle Crura,オウビートガンバ,3,legs,male,0,0,0,22,50,74,-1,-1,2,0,2
+73,Butterfly Vertex,パピメルテスタ,3,head,female,0,0,0,22,50,74,-1,-1,2,0,2
+74,Butterfly Thorax,パピメルペット,3,chest,female,0,0,0,22,50,74,-1,-1,2,0,2
+75,Butterfly Brachia,パピメルマーノ,3,arms,female,0,0,0,22,50,74,-1,-1,2,0,2
+76,Butterfly Elytra,パピメルアンカ,3,waist,female,0,0,0,22,50,74,-1,-1,2,0,2
+77,Butterfly Crura,パピメル,3,legs,female,0,0,0,22,50,74,-1,-1,2,0,2
+78,Shamos Goggles,シャムゴーグル,3,head,both,0,0,0,22,50,74,2,2,0,-3,0
+79,Hornetaur Helm,タロスヘルム,3,head,both,0,0,0,18,46,70,-1,-1,0,0,2
+80,Hornetaur Mail,タロスメイル,3,chest,both,0,0,0,18,46,70,-1,-1,0,0,2
+81,Hornetaur Vambraces,タロスアーム,3,arms,both,0,0,0,18,46,70,-1,-1,0,0,2
+82,Hornetaur Coil,タロスコイル,3,waist,both,0,0,0,18,46,70,-1,-1,0,0,2
+83,Hornetaur Greaves,タロスグリーヴ,3,legs,both,0,0,0,18,46,70,-1,-1,0,0,2
+84,Anja Helm,ジャナフヘルム,3,head,both,0,0,0,20,48,72,3,-3,-1,-1,0
+85,Anja Mail,ジャナフメイル,3,chest,both,0,0,0,20,48,72,3,-3,-1,-1,0
+86,Anja Vambraces,ジャナフアーム,3,arms,both,0,0,0,20,48,72,3,-3,-1,-1,0
+87,Anja Coil,ジャナフコイル,3,waist,both,0,0,0,20,48,72,3,-3,-1,-1,0
+88,Anja Greaves,ジャナフグリーブ,3,legs,both,0,0,0,20,48,72,3,-3,-1,-1,0
+89,Rathian Helm,レイアヘルム,3,head,both,0,0,0,22,50,74,2,0,-2,0,-3
+90,Rathian Mail,レイアメイル,3,chest,both,0,0,0,22,50,74,2,0,-2,0,-3
+91,Rathian Vambraces,レイアアーム,3,arms,both,0,0,0,22,50,74,2,0,-2,0,-3
+92,Rathian Coil,レイアコイル,3,waist,both,0,0,0,22,50,74,2,0,-2,0,-3
+93,Rathian Greaves,レイアグリーヴ,3,legs,both,0,0,0,22,50,74,2,0,-2,0,-3
+94,Tzitzi Headgear,ツィツィヘルム,3,head,both,0,0,0,18,46,70,0,0,-3,-2,0
+95,Tzitzi Mail,ツィツィメイル,3,chest,both,0,0,0,18,46,70,0,0,-3,-2,0
+96,Tzitzi Vambraces,ツィツィアーム,3,arms,both,0,0,0,18,46,70,0,0,-3,-2,0
+97,Tzitzi Coil,ツィツィコイル,3,waist,both,0,0,0,18,46,70,0,0,-3,-2,0
+98,Tzitzi Greaves,ツィツィグリーヴ,3,legs,both,0,0,0,18,46,70,0,0,-3,-2,0
+99,Lumu Hat,ウルムーヘルム,3,head,both,0,0,0,20,48,72,-3,2,0,1,0
+100,Lumu Mail,ウルムーメイル,3,chest,both,0,0,0,20,48,72,-3,2,0,1,0
+101,Lumu Vambraces,ウルムーアーム,3,arms,both,0,0,0,20,48,72,-3,2,0,1,0
+102,Lumu Coil,ウルムーコイル,3,waist,both,0,0,0,20,48,72,-3,2,0,1,0
+103,Lumu Greaves,ウルムーグリーヴ,3,legs,both,0,0,0,20,48,72,-3,2,0,1,0
+104,Girros Mask,ギルオスヘルム,3,head,both,0,0,0,20,48,72,0,-3,2,0,1
+105,Girros Mail,ギルオスメイル,3,chest,both,0,0,0,20,48,72,0,-3,2,0,1
+106,Girros Vambraces,ギルオスアーム,3,arms,both,0,0,0,20,48,72,0,-3,2,0,1
+107,Girros Coil,ギルオスコイル,3,waist,both,0,0,0,20,48,72,0,-3,2,0,1
+108,Girros Greaves,ギルオスグリーヴ,3,legs,both,0,0,0,20,48,72,0,-3,2,0,1
+109,Baan Helm,バルキンヘルム,3,head,both,0,0,0,24,52,76,0,2,0,-1,-2
+110,Baan Mail,バルキンメイル,3,chest,both,0,0,0,24,52,76,0,2,0,-1,-2
+111,Baan Vambraces,バルキンアーム,3,arms,both,0,0,0,24,52,76,0,2,0,-1,-2
+112,Baan Coil,バルキンコイル,3,waist,both,0,0,0,24,52,76,0,2,0,-1,-2
+113,Baan Greaves,バルキングリーヴ,3,legs,both,0,0,0,24,52,76,0,2,0,-1,-2
+114,Ingot Helm,インゴットヘルム,4,head,both,0,0,0,28,52,72,-2,0,3,-1,0
+115,Ingot Mail,インゴットメイル,4,chest,both,0,0,0,28,52,72,-2,0,3,-1,0
+116,Ingot Vambraces,インゴットアーム,4,arms,both,0,0,0,28,52,72,-2,0,3,-1,0
+117,Ingot Coil,インゴットコイル,4,waist,both,0,0,0,28,52,72,-2,0,3,-1,0
+118,Ingot Greaves,インゴットグリーヴ,4,legs,both,0,0,0,28,52,72,-2,0,3,-1,0
+119,Death Stench Brain,デスギアゲヒル,4,head,both,0,0,0,32,56,76,3,2,-2,3,-4
+120,Death Stench Muscle,デスギアムスケル,4,chest,both,0,0,0,32,56,76,3,2,-2,3,-4
+121,Death Stench Grip,デスギアファオスト,4,arms,both,0,0,0,32,56,76,3,2,-2,3,-4
+122,Death Stench Bowels,デスギアナーベル,4,waist,both,0,0,0,32,56,76,3,2,-2,3,-4
+123,Death Stench Heels,デスギアフェルゼ,4,legs,both,0,0,0,32,56,76,3,2,-2,3,-4
+124,Brigade Lobos,ブリゲイドロポス,4,head,both,0,0,0,28,52,72,1,0,2,0,2
+125,Brigade Suit,ブリゲイドスーツ,4,chest,both,0,0,0,28,52,72,1,0,2,0,2
+126,Brigade Vambraces,ブリゲイドアーム,4,arms,both,0,0,0,28,52,72,1,0,2,0,2
+127,Brigade Coil,ブリゲイドコイル,4,waist,both,0,0,0,28,52,72,1,0,2,0,2
+128,Brigade Boots,ブリゲイドブーツ,4,legs,both,0,0,0,28,52,72,1,0,2,0,2
+129,Legiana Helm,ギエナヘルム,4,head,both,0,0,0,30,54,74,-1,2,-3,3,0
+130,Legiana Mail,ギエナメイル,4,chest,both,0,0,0,30,54,74,-1,2,-3,3,0
+131,Legiana Vambraces,ギエナアーム,4,arms,both,0,0,0,30,54,74,-1,2,-3,3,0
+132,Legiana Coil,ギエナコイル,4,waist,both,0,0,0,30,54,74,-1,2,-3,3,0
+133,Legiana Greaves,ギエナグリーヴ,4,legs,both,0,0,0,30,54,74,-1,2,-3,3,0
+134,Odogaron Helm,ガロンヘルム,4,head,both,0,0,0,30,54,74,2,2,-2,-3,0
+135,Odogaron Mail,ガロンメイル,4,chest,both,0,0,0,30,54,74,2,2,-2,-3,0
+136,Odogaron Vambraces,ガロンアーム,4,arms,both,0,0,0,30,54,74,2,2,-2,-3,0
+137,Odogaron Coil,ガロンコイル,4,waist,both,0,0,0,30,54,74,2,2,-2,-3,0
+138,Odogaron Greaves,ガロングリーヴ,4,legs,both,0,0,0,30,54,74,2,2,-2,-3,0
+139,Rathalos Helm,レウスヘルム,4,head,both,0,0,0,30,54,74,3,1,-2,1,-3
+140,Rathalos Mail,レウスメイル,4,chest,both,0,0,0,30,54,74,3,1,-2,1,-3
+141,Rathalos Vambraces,レウスアーム,4,arms,both,0,0,0,30,54,74,3,1,-2,1,-3
+142,Rathalos Coil,レウスコイル,4,waist,both,0,0,0,30,54,74,3,1,-2,1,-3
+143,Rathalos Greaves,レウスグリーヴ,4,legs,both,0,0,0,30,54,74,3,1,-2,1,-3
+144,Diablos Helm,ディアブロヘルム,4,head,both,0,0,0,32,56,76,3,-2,0,-3,2
+145,Diablos Mail,ディアブロメイル,4,chest,both,0,0,0,32,56,76,3,-2,0,-3,2
+146,Diablos Vambraces,ディアブロアーム,4,arms,both,0,0,0,32,56,76,3,-2,0,-3,2
+147,Diablos Coil,ディアブロコイル,4,waist,both,0,0,0,32,56,76,3,-2,0,-3,2
+148,Diablos Greaves,ディアブログリーヴ,4,legs,both,0,0,0,32,56,76,3,-2,0,-3,2
+149,Kirin Horn,キリンホーン,4,head,both,0,0,0,34,58,78,-3,-2,4,-2,2
+150,Kirin Jacket,キリンベスト,4,chest,both,0,0,0,34,58,78,-3,-2,4,-2,2
+151,Kirin Longarms,キリンアームロング,4,arms,both,0,0,0,34,58,78,-3,-2,4,-2,2
+152,Kirin Hoop,キリンフープ,4,waist,both,0,0,0,34,58,78,-3,-2,4,-2,2
+153,Kirin Leg Guards,キリンレガース,4,legs,both,0,0,0,34,58,78,-3,-2,4,-2,2
+154,Blossom Headgear,ブロッサムヘッド,3,head,both,0,0,0,18,46,70,1,1,4,1,1
+155,Blossom Vest,ブロッサムベスト,3,chest,both,0,0,0,18,46,70,1,1,4,1,1
+156,Blossom Cuffs,ブロッサムカフス,3,arms,both,0,0,0,18,46,70,1,1,4,1,1
+157,Blossom Coat,ブロッサムコート,3,waist,both,0,0,0,18,46,70,1,1,4,1,1
+158,Blossom Boots,ブロッサムブーツ,3,legs,both,0,0,0,18,46,70,1,1,4,1,1
+159,Leather Headgear α,レザーヘッドα,5,head,both,0,0,0,32,54,70,2,0,0,0,0
+160,Leather Mail α,レザーベストα,5,chest,both,0,0,0,32,54,70,2,0,0,0,0
+161,Leather Gloves α,レザーグラブα,5,arms,both,0,0,0,32,54,70,2,0,0,0,0
+162,Leather Belt α,レザーベルトα,5,waist,both,0,0,0,32,54,70,2,0,0,0,0
+163,Leather Trousers α,レザーパンツα,5,legs,both,0,0,0,32,54,70,2,0,0,0,0
+164,Leather Headgear β,レザーヘッドβ,5,head,both,1,0,0,32,54,70,2,0,0,0,0
+165,Leather Mail β,レザーベストβ,5,chest,both,1,0,0,32,54,70,2,0,0,0,0
+166,Leather Gloves β,レザーグラブβ,5,arms,both,1,0,0,32,54,70,2,0,0,0,0
+167,Leather Belt β,レザーベルトβ,5,waist,both,1,0,0,32,54,70,2,0,0,0,0
+168,Leather Trousers β,レザーパンツβ,5,legs,both,1,0,0,32,54,70,2,0,0,0,0
+169,Chainmail Headgear α,チェーンヘッドα,5,head,both,0,0,0,32,54,70,0,2,0,0,0
+170,Chainmail Armor α,チェーンベストα,5,chest,both,0,0,0,32,54,70,0,2,0,0,0
+171,Chainmail Gloves α,チェーングラブα,5,arms,both,0,0,0,32,54,70,0,2,0,0,0
+172,Chainmail Belt α,チェーンベルトα,5,waist,both,0,0,0,32,54,70,0,2,0,0,0
+173,Chainmail Trousers α,チェーンパンツα,5,legs,both,0,0,0,32,54,70,0,2,0,0,0
+174,Chainmail Headgear β,チェーンヘッドβ,5,head,both,1,0,0,32,54,70,0,2,0,0,0
+175,Chainmail Armor β,チェーンベストβ,5,chest,both,1,0,0,32,54,70,0,2,0,0,0
+176,Chainmail Gloves β,チェーングラブβ,5,arms,both,1,0,0,32,54,70,0,2,0,0,0
+177,Chainmail Belt β,チェーンベルトβ,5,waist,both,1,0,0,32,54,70,0,2,0,0,0
+178,Chainmail Trousers β,チェーンパンツβ,5,legs,both,1,0,0,32,54,70,0,2,0,0,0
+179,Hunter's Headgear α,ハンターヘルムα,5,head,both,0,0,0,36,58,74,2,2,0,0,0
+180,Hunter's Mail α,ハンターメイルα,5,chest,both,0,0,0,36,58,74,2,2,0,0,0
+181,Hunter's Vambraces α,ハンターアームα,5,arms,both,0,0,0,36,58,74,2,2,0,0,0
+182,Hunter's Coil α,ハンターコイルα,5,waist,both,0,0,0,36,58,74,2,2,0,0,0
+183,Hunter's Greaves α,ハンターグリーヴα,5,legs,both,0,0,0,36,58,74,2,2,0,0,0
+184,Hunter's Headgear β,ハンターヘルムβ,5,head,both,1,0,0,36,58,74,2,2,0,0,0
+185,Hunter's Mail β,ハンターメイルβ,5,chest,both,1,0,0,36,58,74,2,2,0,0,0
+186,Hunter's Vambraces β,ハンターアームβ,5,arms,both,1,0,0,36,58,74,2,2,0,0,0
+187,Hunter's Coil β,ハンターコイルβ,5,waist,both,1,0,0,36,58,74,2,2,0,0,0
+188,Hunter's Greaves β,ハンターグリーヴβ,5,legs,both,1,0,0,36,58,74,2,2,0,0,0
+189,Bone Helm α,ボーンヘルムα,5,head,both,0,0,0,36,58,74,2,0,2,0,2
+190,Bone Mail α,ボーンメイルα,5,chest,both,0,0,0,36,58,74,2,0,2,0,2
+191,Bone Vambraces α,ボーンアームα,5,arms,both,0,0,0,36,58,74,2,0,2,0,2
+192,Bone Coil α,ボーンコイルα,5,waist,both,0,0,0,36,58,74,2,0,2,0,2
+193,Bone Greaves α,ボーングリーヴα,5,legs,both,0,0,0,36,58,74,2,0,2,0,2
+194,Bone Helm β,ボーンヘルムβ,5,head,both,1,0,0,36,58,74,2,0,2,0,2
+195,Bone Mail β,ボーンメイルβ,5,chest,both,1,0,0,36,58,74,2,0,2,0,2
+196,Bone Vambraces β,ボーンアームβ,5,arms,both,1,0,0,36,58,74,2,0,2,0,2
+197,Bone Coil β,ボーンコイルβ,5,waist,both,1,0,0,36,58,74,2,0,2,0,2
+198,Bone Greaves β,ボーングリーヴβ,5,legs,both,1,0,0,36,58,74,2,0,2,0,2
+199,Alloy Helm α,アロイヘルムα,5,head,both,0,0,0,36,58,74,-2,0,-2,-2,0
+200,Alloy Mail α,アロイメイルα,5,chest,both,0,0,0,36,58,74,-2,0,-2,-2,0
+201,Alloy Vambraces α,アロイアームα,5,arms,both,0,0,0,36,58,74,-2,0,-2,-2,0
+202,Alloy Coil α,アロイコイルα,5,waist,both,0,0,0,36,58,74,-2,0,-2,-2,0
+203,Alloy Greaves α,アロイグリーヴα,5,legs,both,0,0,0,36,58,74,-2,0,-2,-2,0
+204,Alloy Helm β,アロイヘルムβ,5,head,both,1,0,0,36,58,74,-2,0,-2,-2,0
+205,Alloy Mail β,アロイメイルβ,5,chest,both,1,0,0,36,58,74,-2,0,-2,-2,0
+206,Alloy Vambraces β,アロイアームβ,5,arms,both,1,0,0,36,58,74,-2,0,-2,-2,0
+207,Alloy Coil β,アロイコイルβ,5,waist,both,1,0,0,36,58,74,-2,0,-2,-2,0
+208,Alloy Greaves β,アロイグリーヴβ,5,legs,both,1,0,0,36,58,74,-2,0,-2,-2,0
+209,King Beetle Vertex α,オウビートテスタα,5,head,male,0,0,0,42,64,80,-1,-1,2,0,2
+210,King Beetle Thorax α,オウビートペットα,5,chest,male,0,0,0,42,64,80,-1,-1,2,0,2
+211,King Beetle Brachia α,オウビートマーノα,5,arms,male,1,0,0,42,64,80,-1,-1,2,0,2
+212,King Beetle Elytra α,オウビートアンカα,5,waist,male,1,0,0,42,64,80,-1,-1,2,0,2
+213,King Beetle Crura α,オウビートガンバα,5,legs,male,1,0,0,42,64,80,-1,-1,2,0,2
+214,King Beetle Vertex β,オウビートテスタβ,5,head,male,1,0,0,42,64,80,-1,-1,2,0,2
+215,King Beetle Thorax β,オウビートペットβ,5,chest,male,1,0,0,42,64,80,-1,-1,2,0,2
+216,King Beetle Brachia β,オウビートマーノβ,5,arms,male,2,1,0,42,64,80,-1,-1,2,0,2
+217,King Beetle Elytra β,オウビートアンカβ,5,waist,male,2,1,0,42,64,80,-1,-1,2,0,2
+218,King Beetle Crura β,オウビートガンバβ,5,legs,male,2,1,0,42,64,80,-1,-1,2,0,2
+219,Butterfly Vertex α,パピメルテスタα,5,head,female,0,0,0,42,64,80,-1,-1,2,0,2
+220,Butterfly Thorax α,パピメルペットα,5,chest,female,0,0,0,42,64,80,-1,-1,2,0,2
+221,Butterfly Brachia α,パピメルマーノα,5,arms,female,0,0,0,42,64,80,-1,-1,2,0,2
+222,Butterfly Elytra α,パピメルアンカα,5,waist,female,0,0,0,42,64,80,-1,-1,2,0,2
+223,Butterfly Crura α,パピメルガンバα,5,legs,female,0,0,0,42,64,80,-1,-1,2,0,2
+224,Butterfly Vertex β,パピメルテスタβ,5,head,female,1,0,0,42,64,80,-1,-1,2,0,2
+225,Butterfly Thorax β,パピメルペットβ,5,chest,female,1,0,0,42,64,80,-1,-1,2,0,2
+226,Butterfly Brachia β,パピメルマーノβ,5,arms,female,2,1,0,42,64,80,-1,-1,2,0,2
+227,Butterfly Elytra β,パピメルアンカβ,5,waist,female,2,1,0,42,64,80,-1,-1,2,0,2
+228,Butterfly Crura β,パピメルガンバβ,5,legs,female,2,1,0,42,64,80,-1,-1,2,0,2
+229,Vespoid Helm α,ランゴヘルムα,5,head,both,0,0,0,38,60,76,-2,1,1,1,2
+230,Vespoid Mail α,ランゴメイルα,5,chest,both,0,0,0,38,60,76,-2,1,1,1,2
+231,Vespoid Vambraces α,ランゴアームα,5,arms,both,0,0,0,38,60,76,-2,1,1,1,2
+232,Vespoid Coil α,ランゴコイルα,5,waist,both,0,0,0,38,60,76,-2,1,1,1,2
+233,Vespoid Greaves α,ランゴグリーヴα,5,legs,both,0,0,0,38,60,76,-2,1,1,1,2
+234,Vespoid Helm β,ランゴヘルムβ,5,head,both,1,0,0,38,60,76,-2,1,1,1,2
+235,Vespoid Mail β,ランゴメイルβ,5,chest,both,1,0,0,38,60,76,-2,1,1,1,2
+236,Vespoid Vambraces β,ランゴアームβ,5,arms,both,1,0,0,38,60,76,-2,1,1,1,2
+237,Vespoid Coil β,ランゴコイルβ,5,waist,both,1,0,0,38,60,76,-2,1,1,1,2
+238,Vespoid Greaves β,ランゴグリーヴβ,5,legs,both,1,0,0,38,60,76,-2,1,1,1,2
+239,Hornetaur Helm α,タロスヘルムα,5,head,both,0,0,0,38,60,76,-1,-1,0,0,2
+240,Hornetaur Mail α,タロスメイルα,5,chest,both,0,0,0,38,60,76,-1,-1,0,0,2
+241,Hornetaur Vambraces α,タロスアームα,5,arms,both,0,0,0,38,60,76,-1,-1,0,0,2
+242,Hornetaur Coil α,タロスコイルα,5,waist,both,0,0,0,38,60,76,-1,-1,0,0,2
+243,Hornetaur Greaves α,タロスグリーヴα,5,legs,both,0,0,0,38,60,76,-1,-1,0,0,2
+244,Hornetaur Helm β,タロスヘルムβ,5,head,both,1,0,0,38,60,76,-1,-1,0,0,2
+245,Hornetaur Mail β,タロスメイルβ,5,chest,both,1,0,0,38,60,76,-1,-1,0,0,2
+246,Hornetaur Vambraces β,タロスアームβ,5,arms,both,1,0,0,38,60,76,-1,-1,0,0,2
+247,Hornetaur Coil β,タロスコイルβ,5,waist,both,1,0,0,38,60,76,-1,-1,0,0,2
+248,Hornetaur Greaves β,タロスグリーヴβ,5,legs,both,1,0,0,38,60,76,-1,-1,0,0,2
+249,Mosswine Mask α,モスフェイクα,5,head,both,0,0,0,40,62,78,2,2,2,2,2
+250,Kestodon Guards α,ケストガードα,5,arms,both,0,0,0,40,62,78,4,0,0,0,0
+251,Kestodon Guards β,ケストガードβ,5,arms,both,1,0,0,40,62,78,4,0,0,0,0
+252,Gajau Boots α,ガライーブーツα,5,legs,both,0,0,0,40,62,78,0,5,0,0,0
+253,Gajau Boots β,ガライーブーツβ,5,legs,both,1,0,0,40,62,78,0,5,0,0,0
+254,Shamos Goggles α,シャムゴーグルα,5,head,both,0,0,0,40,62,78,2,2,0,-3,0
+255,Shamos Goggles β,シャムゴーグルβ,5,head,both,1,0,0,40,62,78,2,2,0,-3,0
+256,Jagras Helm α,ジャグラスヘルムα,5,head,both,0,0,0,40,62,78,-2,2,-1,-1,1
+257,Jagras Mail α,ジャグラスメイルα,5,chest,both,0,0,0,40,62,78,-2,2,-1,-1,1
+258,Jagras Vambraces α,ジャグラスアームα,5,arms,both,0,0,0,40,62,78,-2,2,-1,-1,1
+259,Jagras Coil α,ジャグラスコイルα,5,waist,both,0,0,0,40,62,78,-2,2,-1,-1,1
+260,Jagras Greaves α,ジャグラスグリーブα,5,legs,both,0,0,0,40,62,78,-2,2,-1,-1,1
+261,Jagras Helm β,ジャグラスヘルムβ,5,head,both,1,0,0,40,62,78,-2,2,-1,-1,1
+262,Jagras Mail β,ジャグラスメイルβ,5,chest,both,1,0,0,40,62,78,-2,2,-1,-1,1
+263,Jagras Vambraces β,ジャグラスアームβ,5,arms,both,1,0,0,40,62,78,-2,2,-1,-1,1
+264,Jagras Coil β,ジャグラスコイルβ,5,waist,both,1,0,0,40,62,78,-2,2,-1,-1,1
+265,Jagras Greaves β,ジャグラスグリーブβ,5,legs,both,1,0,0,40,62,78,-2,2,-1,-1,1
+266,Kulu Headpiece α,クルルヘルムα,5,head,both,0,0,0,40,62,78,0,-3,0,1,0
+267,Kulu Mail α,クルルメイルα,5,chest,both,0,0,0,40,62,78,0,-3,0,1,0
+268,Kulu Vambraces α,クルルアームα,5,arms,both,0,0,0,40,62,78,0,-3,0,1,0
+269,Kulu Coil α,クルルコイルα,5,waist,both,0,0,0,40,62,78,0,-3,0,1,0
+270,Kulu Greaves α,クルルグリーブα,5,legs,both,0,0,0,40,62,78,0,-3,0,1,0
+271,Kulu Headpiece β,クルルヘルムβ,5,head,both,1,1,0,40,62,78,0,-3,0,1,0
+272,Kulu Mail β,クルルメイルβ,5,chest,both,1,0,0,40,62,78,0,-3,0,1,0
+273,Kulu Vambraces β,クルルアームβ,5,arms,both,2,0,0,40,62,78,0,-3,0,1,0
+274,Kulu Coil β,クルルコイルβ,5,waist,both,2,0,0,40,62,78,0,-3,0,1,0
+275,Kulu Greaves β,クルルグリーブβ,5,legs,both,1,0,0,40,62,78,0,-3,0,1,0
+276,Tzitzi Headgear α,ツィツィヘルムα,5,head,both,0,0,0,40,62,78,0,0,-3,-2,0
+277,Tzitzi Mail α,ツィツィメイルα,5,chest,both,0,0,0,40,62,78,0,0,-3,-2,0
+278,Tzitzi Vambraces α,ツィツィアームα,5,arms,both,0,0,0,40,62,78,0,0,-3,-2,0
+279,Tzitzi Coil α,ツィツィコイルα,5,waist,both,0,0,0,40,62,78,0,0,-3,-2,0
+280,Tzitzi Greaves α,ツィツィグリーヴα,5,legs,both,0,0,0,40,62,78,0,0,-3,-2,0
+281,Tzitzi Headgear β,ツィツィヘルムβ,5,head,both,1,0,0,40,62,78,0,0,-3,-2,0
+282,Tzitzi Mail β,ツィツィメイルβ,5,chest,both,1,1,0,40,62,78,0,0,-3,-2,0
+283,Tzitzi Vambraces β,ツィツィアームβ,5,arms,both,1,0,0,40,62,78,0,0,-3,-2,0
+284,Tzitzi Coil β,ツィツィコイルβ,5,waist,both,2,0,0,40,62,78,0,0,-3,-2,0
+285,Tzitzi Greaves β,ツィツィグリーヴβ,5,legs,both,1,0,0,40,62,78,0,0,-3,-2,0
+286,Girros Mask α,ギルオスヘルムα,5,head,both,0,0,0,40,62,78,0,-3,2,0,1
+287,Girros Mail α,ギルオスメイルα,5,chest,both,0,0,0,40,62,78,0,-3,2,0,1
+288,Girros Vambraces α,ギルオスアームα,5,arms,both,0,0,0,40,62,78,0,-3,2,0,1
+289,Girros Coil α,ギルオスコイルα,5,waist,both,0,0,0,40,62,78,0,-3,2,0,1
+290,Girros Greaves α,ギルオスグリーヴα,5,legs,both,0,0,0,40,62,78,0,-3,2,0,1
+291,Girros Mask β,ギルオスヘルムβ,5,head,both,1,0,0,40,62,78,0,-3,2,0,1
+292,Girros Mail β,ギルオスメイルβ,5,chest,both,1,0,0,40,62,78,0,-3,2,0,1
+293,Girros Vambraces β,ギルオスアームβ,5,arms,both,1,0,0,40,62,78,0,-3,2,0,1
+294,Girros Coil β,ギルオスコイルβ,5,waist,both,1,0,0,40,62,78,0,-3,2,0,1
+295,Girros Greaves β,ギルオスグリーヴβ,5,legs,both,1,0,0,40,62,78,0,-3,2,0,1
+296,Pukei Hood α,プケプケヘルムα,5,head,both,0,0,0,42,64,80,0,3,-3,0,1
+297,Pukei Mail α,プケプケメイルα,5,chest,both,0,0,0,42,64,80,0,3,-3,0,1
+298,Pukei Vambraces α,プケプケアームα,5,arms,both,0,0,0,42,64,80,0,3,-3,0,1
+299,Pukei Coil α,プケプケコイルα,5,waist,both,0,0,0,42,64,80,0,3,-3,0,1
+300,Pukei Greaves α,プケプケグリーヴα,5,legs,both,0,0,0,42,64,80,0,3,-3,0,1
+301,Pukei Hood β,プケプケヘルムβ,5,head,both,1,1,0,42,64,80,0,3,-3,0,1
+302,Pukei Mail β,プケプケメイルβ,5,chest,both,1,0,0,42,64,80,0,3,-3,0,1
+303,Pukei Vambraces β,プケプケアームβ,5,arms,both,1,1,0,42,64,80,0,3,-3,0,1
+304,Pukei Coil β,プケプケコイルβ,5,waist,both,1,0,0,42,64,80,0,3,-3,0,1
+305,Pukei Greaves β,プケプケグリーヴβ,5,legs,both,2,0,0,42,64,80,0,3,-3,0,1
+306,Barroth Helm α,ボロスヘルムα,5,head,both,0,0,0,42,64,80,-3,-1,3,-1,0
+307,Barroth Mail α,ボロスメイルα,5,chest,both,0,0,0,42,64,80,-3,-1,3,-1,0
+308,Barroth Vambraces α,ボロスアームα,5,arms,both,0,0,0,42,64,80,-3,-1,3,-1,0
+309,Barroth Coil α,ボロスコイルα,5,waist,both,0,0,0,42,64,80,-3,-1,3,-1,0
+310,Barroth Greaves α,ボロスグリーヴα,5,legs,both,0,0,0,42,64,80,-3,-1,3,-1,0
+311,Barroth Helm β,ボロスヘルムβ,5,head,both,1,0,0,42,64,80,-3,-1,3,-1,0
+312,Barroth Mail β,ボロスメイルβ,5,chest,both,1,0,0,42,64,80,-3,-1,3,-1,0
+313,Barroth Vambraces β,ボロスアームβ,5,arms,both,1,0,0,42,64,80,-3,-1,3,-1,0
+314,Barroth Coil β,ボロスコイルβ,5,waist,both,2,0,0,42,64,80,-3,-1,3,-1,0
+315,Barroth Greaves β,ボロスグリーヴβ,5,legs,both,1,1,0,42,64,80,-3,-1,3,-1,0
+316,Anja Helm α,ジャナフヘルムα,5,head,both,0,0,0,44,66,82,3,-3,-1,-1,0
+317,Anja Mail α,ジャナフメイルα,5,chest,both,0,0,0,44,66,82,3,-3,-1,-1,0
+318,Anja Vambraces α,ジャナフアームα,5,arms,both,0,0,0,44,66,82,3,-3,-1,-1,0
+319,Anja Coil α,ジャナフコイルα,5,waist,both,0,0,0,44,66,82,3,-3,-1,-1,0
+320,Anja Greaves α,ジャナフグリーヴα,5,legs,both,0,0,0,44,66,82,3,-3,-1,-1,0
+321,Anja Helm β,ジャナフヘルムβ,5,head,both,2,0,0,44,66,82,3,-3,-1,-1,0
+322,Anja Mail β,ジャナフメイルβ,5,chest,both,1,1,0,44,66,82,3,-3,-1,-1,0
+323,Anja Vambraces β,ジャナフアームβ,5,arms,both,1,0,0,44,66,82,3,-3,-1,-1,0
+324,Anja Coil β,ジャナフコイルβ,5,waist,both,2,0,0,44,66,82,3,-3,-1,-1,0
+325,Anja Greaves β,ジャナフグリーヴβ,5,legs,both,1,0,0,44,66,82,3,-3,-1,-1,0
+326,Jyura Helm α,ジュラヘルムα,5,head,both,0,0,0,44,66,82,-1,2,-3,0,0
+327,Jyura Mail α,ジュラメイルα,5,chest,both,0,0,0,44,66,82,-1,2,-3,0,0
+328,Jyura Vambraces α,ジュラアームα,5,arms,both,0,0,0,44,66,82,-1,2,-3,0,0
+329,Jyura Coil α,ジュラコイルα,5,waist,both,0,0,0,44,66,82,-1,2,-3,0,0
+330,Jyura Greaves α,ジュラグリーヴα,5,legs,both,0,0,0,44,66,82,-1,2,-3,0,0
+331,Jyura Helm β,ジュラヘルムβ,5,head,both,1,0,0,44,66,82,-1,2,-3,0,0
+332,Jyura Mail β,ジュラメイルβ,5,chest,both,1,0,0,44,66,82,-1,2,-3,0,0
+333,Jyura Vambraces β,ジュラアームβ,5,arms,both,1,0,0,44,66,82,-1,2,-3,0,0
+334,Jyura Coil β,ジュラコイルβ,5,waist,both,1,0,0,44,66,82,-1,2,-3,0,0
+335,Jyura Greaves β,ジュラグリーヴβ,5,legs,both,2,0,0,44,66,82,-1,2,-3,0,0
+336,Kadachi Helm α,カガチヘルムα,5,head,both,0,0,0,44,66,82,0,-3,3,0,0
+337,Kadachi Mail α,カガチメイルα,5,chest,both,0,0,0,44,66,82,0,-3,3,0,0
+338,Kadachi Vambraces α,カガチアームα,5,arms,both,0,0,0,44,66,82,0,-3,3,0,0
+339,Kadachi Coil α,カガチコイルα,5,waist,both,0,0,0,44,66,82,0,-3,3,0,0
+340,Kadachi Greaves α,カガチグリーヴα,5,legs,both,0,0,0,44,66,82,0,-3,3,0,0
+341,Kadachi Helm β,カガチヘルムβ,5,head,both,2,0,0,44,66,82,0,-3,3,0,0
+342,Kadachi Mail β,カガチメイルβ,5,chest,both,2,0,0,44,66,82,0,-3,3,0,0
+343,Kadachi Vambraces β,カガチアームβ,5,arms,both,2,0,0,44,66,82,0,-3,3,0,0
+344,Kadachi Coil β,カガチコイルβ,5,waist,both,1,1,0,44,66,82,0,-3,3,0,0
+345,Kadachi Greaves β,カガチグリーヴβ,5,legs,both,1,1,0,44,66,82,0,-3,3,0,0
+346,Lumu Hat α,ウルムーヘルムα,5,head,both,0,0,0,44,66,82,-3,2,0,1,0
+347,Lumu Mail α,ウルムーメイルα,5,chest,both,0,0,0,44,66,82,-3,2,0,1,0
+348,Lumu Vambraces α,ウルムーアームα,5,arms,both,0,0,0,44,66,82,-3,2,0,1,0
+349,Lumu Coil α,ウルムーコイルα,5,waist,both,0,0,0,44,66,82,-3,2,0,1,0
+350,Lumu Greaves α,ウルムーグリーヴα,5,legs,both,0,0,0,44,66,82,-3,2,0,1,0
+351,Lumu Hat β,ウルムーヘルムβ,5,head,both,2,0,0,44,66,82,-3,2,0,1,0
+352,Lumu Mail β,ウルムーメイルβ,5,chest,both,1,0,0,44,66,82,-3,2,0,1,0
+353,Lumu Vambraces β,ウルムーアームβ,5,arms,both,1,0,0,44,66,82,-3,2,0,1,0
+354,Lumu Coil β,ウルムーコイルβ,5,waist,both,1,0,0,44,66,82,-3,2,0,1,0
+355,Lumu Greaves β,ウルムーグリーヴβ,5,legs,both,1,1,0,44,66,82,-3,2,0,1,0
+356,Rathian Helm α,レイアヘルムα,5,head,both,0,0,0,46,68,84,2,0,-2,0,-3
+357,Rathian Mail α,レイアメイルα,5,chest,both,0,0,0,46,68,84,2,0,-2,0,-3
+358,Rathian Vambraces α,レイアアームα,5,arms,both,0,0,0,46,68,84,2,0,-2,0,-3
+359,Rathian Coil α,レイアコイルα,5,waist,both,0,0,0,46,68,84,2,0,-2,0,-3
+360,Rathian Greaves α,レイアグリーヴα,5,legs,both,0,0,0,46,68,84,2,0,-2,0,-3
+361,Rathian Helm β,レイアヘルムβ,5,head,both,1,0,0,46,68,84,2,0,-2,0,-3
+362,Rathian Mail β,レイアメイルβ,5,chest,both,1,0,0,46,68,84,2,0,-2,0,-3
+363,Rathian Vambraces β,レイアアームβ,5,arms,both,1,0,0,46,68,84,2,0,-2,0,-3
+364,Rathian Coil β,レイアコイルβ,5,waist,both,1,0,0,46,68,84,2,0,-2,0,-3
+365,Rathian Greaves β,レイアグリーヴβ,5,legs,both,1,0,0,46,68,84,2,0,-2,0,-3
+366,Rath Heart Helm α,リオハートヘルムα,6,head,both,0,0,0,52,72,84,3,0,-3,0,-4
+367,Rath Heart Mail α,リオハートメイルα,6,chest,both,0,0,0,52,72,84,3,0,-3,0,-4
+368,Rath Heart Braces α,リオハートアームα,6,arms,both,0,0,0,52,72,84,3,0,-3,0,-4
+369,Rath Heart Coil α,リオハートコイルα,6,waist,both,0,0,0,52,72,84,3,0,-3,0,-4
+370,Rath Heart Greaves α,リオハートグリーヴα,6,legs,both,0,0,0,52,72,84,3,0,-3,0,-4
+371,Rath Heart Helm β,リオハートヘルムβ,6,head,both,2,0,0,52,72,84,3,0,-3,0,-4
+372,Rath Heart Mail β,リオハートメイルβ,6,chest,both,1,1,0,52,72,84,3,0,-3,0,-4
+373,Rath Heart Braces β,リオハートアームβ,6,arms,both,2,0,0,52,72,84,3,0,-3,0,-4
+374,Rath Heart Coil β,リオハートコイルβ,6,waist,both,1,0,0,52,72,84,3,0,-3,0,-4
+375,Rath Heart Greaves β,リオハートグリーヴβ,6,legs,both,2,0,0,52,72,84,3,0,-3,0,-4
+376,Baan Helm α,バルキンヘルムα,6,head,both,0,0,0,46,66,78,0,2,0,-1,-2
+377,Baan Mail α,バルキンメイルα,6,chest,both,0,0,0,46,66,78,0,2,0,-1,-2
+378,Baan Vambraces α,バルキンアームα,6,arms,both,0,0,0,46,66,78,0,2,0,-1,-2
+379,Baan Coil α,バルキンコイルα,6,waist,both,0,0,0,46,66,78,0,2,0,-1,-2
+380,Baan Greaves α,バルキングリーヴα,6,legs,both,0,0,0,46,66,78,0,2,0,-1,-2
+381,Baan Helm β,バルキンヘルムβ,6,head,both,2,0,0,46,66,78,0,2,0,-1,-2
+382,Baan Mail β,バルキンメイルβ,6,chest,both,1,0,0,46,66,78,0,2,0,-1,-2
+383,Baan Vambraces β,バルキンアームβ,6,arms,both,1,0,0,46,66,78,0,2,0,-1,-2
+384,Baan Coil β,バルキンコイルβ,6,waist,both,2,0,0,46,66,78,0,2,0,-1,-2
+385,Baan Greaves β,バルキングリーヴβ,6,legs,both,1,0,0,46,66,78,0,2,0,-1,-2
+386,Gastodon Horn α,ガストホーンα,5,head,both,0,0,0,48,70,86,3,0,0,0,0
+387,Gastodon Horn β,ガストホーンβ,5,head,both,1,0,0,48,70,86,3,0,0,0,0
+388,Barnos Jacket α,バルノスマントα,5,chest,both,0,0,0,48,70,86,1,1,0,1,-2
+389,Barnos Jacket β,バルノスマントβ,5,chest,both,1,0,0,48,70,86,1,1,0,1,-2
+390,Dodogama Helm α,ガマルヘルムα,5,head,both,0,0,0,48,70,86,2,0,-3,0,2
+391,Dodogama Mail α,ガマルメイルα,5,chest,both,0,0,0,48,70,86,2,0,-3,0,2
+392,Dodogama Vambraces α,ガマルアームα,5,arms,both,0,0,0,48,70,86,2,0,-3,0,2
+393,Dodogama Coil α,ガマルコイルα,5,waist,both,0,0,0,48,70,86,2,0,-3,0,2
+394,Dodogama Greaves α,ガマルヴリーヴα,5,legs,both,0,0,0,48,70,86,2,0,-3,0,2
+395,Dodogama Helm β,ガマルヘルムβ,5,head,both,1,0,0,48,70,86,2,0,-3,0,2
+396,Dodogama Mail β,ガマルメイルβ,5,chest,both,1,0,0,48,70,86,2,0,-3,0,2
+397,Dodogama Vambraces β,ガマルアームβ,5,arms,both,1,0,0,48,70,86,2,0,-3,0,2
+398,Dodogama Coil β,ガマルコイルβ,5,waist,both,1,0,0,48,70,86,2,0,-3,0,2
+399,Dodogama Greaves β,ガマルヴリーヴβ,5,legs,both,1,0,0,48,70,86,2,0,-3,0,2
+400,Zorah Headgear α,ゾラマグナヘッドα,6,head,both,0,0,0,44,64,76,4,-3,-1,-2,-3
+401,Zorah Hide α,ゾラマグナハイドα,6,chest,both,0,0,0,44,64,76,4,-3,-1,-2,-3
+402,Zorah Claws α,ゾラマグナクロウα,6,arms,both,0,0,0,44,64,76,4,-3,-1,-2,-3
+403,Zorah Spine α,ゾラマグナスパインα,6,waist,both,0,0,0,44,64,76,4,-3,-1,-2,-3
+404,Zorah Spurs α,ゾラマグナフットα,6,legs,both,0,0,0,44,64,76,4,-3,-1,-2,-3
+405,Zorah Headgear β,ゾラマグナヘッドβ,6,head,both,1,0,0,44,64,76,4,-3,-1,-2,-3
+406,Zorah Hide β,ゾラマグナハイドβ,6,chest,both,2,0,0,44,64,76,4,-3,-1,-2,-3
+407,Zorah Claws β,ゾラマグナクロウβ,6,arms,both,1,0,0,44,64,76,4,-3,-1,-2,-3
+408,Zorah Spine β,ゾラマグナスパインβ,6,waist,both,2,0,0,44,64,76,4,-3,-1,-2,-3
+409,Zorah Spurs β,ゾラマグナフットβ,6,legs,both,2,0,0,44,64,76,4,-3,-1,-2,-3
+410,High Metal Helm α,ハイメタヘルムα,6,head,both,0,0,0,50,70,82,0,-1,-2,3,0
+411,High Metal Mail α,ハイメタメイルα,6,chest,both,0,0,0,50,70,82,0,-1,-2,3,0
+412,High Metal Braces α,ハイメタアームα,6,arms,both,0,0,0,50,70,82,0,-1,-2,3,0
+413,High Metal Coil α,ハイメタコイルα,6,waist,both,0,0,0,50,70,82,0,-1,-2,3,0
+414,High Metal Greaves α,ハイメタグリーヴα,6,legs,both,0,0,0,50,70,82,0,-1,-2,3,0
+415,High Metal Helm β,ハイメタヘルムβ,6,head,both,2,0,0,50,70,82,0,-1,-2,3,0
+416,High Metal Mail β,ハイメタメイルβ,6,chest,both,2,0,0,50,70,82,0,-1,-2,3,0
+417,High Metal Braces β,ハイメタアームβ,6,arms,both,1,0,0,50,70,82,0,-1,-2,3,0
+418,High Metal Coil β,ハイメタコイルβ,6,waist,both,1,0,0,50,70,82,0,-1,-2,3,0
+419,High Metal Greaves β,ハイメタグリーヴβ,6,legs,both,1,0,0,50,70,82,0,-1,-2,3,0
+420,Ingot Helm α,インゴットヘルムα,6,head,both,0,0,0,50,70,82,-2,0,3,-1,0
+421,Ingot Mail α,インゴットメイルα,6,chest,both,0,0,0,50,70,82,-2,0,3,-1,0
+422,Ingot Vambraces α,インゴットアームα,6,arms,both,0,0,0,50,70,82,-2,0,3,-1,0
+423,Ingot Coil α,インゴットコイルα,6,waist,both,0,0,0,50,70,82,-2,0,3,-1,0
+424,Ingot Greaves α,インゴットグリーヴα,6,legs,both,0,0,0,50,70,82,-2,0,3,-1,0
+425,Ingot Helm β,インゴットヘルムβ,6,head,both,1,0,0,50,70,82,-2,0,3,-1,0
+426,Ingot Mail β,インゴットメイルβ,6,chest,both,1,0,0,50,70,82,-2,0,3,-1,0
+427,Ingot Vambraces β,インゴットアームβ,6,arms,both,1,0,0,50,70,82,-2,0,3,-1,0
+428,Ingot Coil β,インゴットコイルβ,6,waist,both,3,0,0,50,70,82,-2,0,3,-1,0
+429,Ingot Greaves β,インゴットグリーヴβ,6,legs,both,2,0,0,50,70,82,-2,0,3,-1,0
+430,Brigade Lobos α,ブリゲイドロポスα,6,head,both,0,0,0,52,72,84,1,0,2,0,2
+431,Brigade Suit α,ブリゲイドスーツα,6,chest,both,2,0,0,52,72,84,1,0,2,0,2
+432,Brigade Vambraces α,ブリゲイドアームα,6,arms,both,0,0,0,52,72,84,1,0,2,0,2
+433,Brigade Coil α,ブリゲイドコイルα,6,waist,both,0,0,0,52,72,84,1,0,2,0,2
+434,Brigade Boots α,ブリゲイドブーツα,6,legs,both,1,0,0,52,72,84,1,0,2,0,2
+435,Brigade Lobos β,ブリゲイドロポスβ,6,head,both,1,0,0,52,72,84,1,0,2,0,2
+436,Brigade Suit β,ブリゲイドスーツβ,6,chest,both,2,2,0,52,72,84,1,0,2,0,2
+437,Brigade Vambraces β,ブリゲイドアームβ,6,arms,both,1,0,0,52,72,84,1,0,2,0,2
+438,Brigade Coil β,ブリゲイドコイルβ,6,waist,both,1,0,0,52,72,84,1,0,2,0,2
+439,Brigade Boots β,ブリゲイドブーツβ,6,legs,both,3,0,0,52,72,84,1,0,2,0,2
+440,Faux Felyne α,アイルーフェイクα,6,head,both,0,0,0,56,76,88,2,2,2,2,2
+441,Strategist Spectacles α,知略の眼鏡α,6,head,both,1,0,0,56,76,88,2,2,2,2,2
+442,Lavasioth Helm α,ラヴァヘルムα,6,head,both,0,0,0,56,76,88,3,-3,1,-2,2
+443,Lavasioth Mail α,ラヴァメイルα,6,chest,both,0,0,0,56,76,88,3,-3,1,-2,2
+444,Lavasioth Vambraces α,ラヴァアームα,6,arms,both,2,0,0,56,76,88,3,-3,1,-2,2
+445,Lavasioth Coil α,ラヴァコイルα,6,waist,both,0,0,0,56,76,88,3,-3,1,-2,2
+446,Lavasioth Greaves α,ラヴァグリーヴα,6,legs,both,1,0,0,56,76,88,3,-3,1,-2,2
+447,Lavasioth Helm β,ラヴァヘルムβ,6,head,both,1,1,0,56,76,88,3,-3,1,-2,2
+448,Lavasioth Mail β,ラヴァメイルβ,6,chest,both,1,1,0,56,76,88,3,-3,1,-2,2
+449,Lavasioth Vambraces β,ラヴァアームβ,6,arms,both,3,0,0,56,76,88,3,-3,1,-2,2
+450,Lavasioth Coil β,ラヴァコイルβ,6,waist,both,1,0,0,56,76,88,3,-3,1,-2,2
+451,Lavasioth Greaves β,ラヴァグリーヴβ,6,legs,both,2,0,0,56,76,88,3,-3,1,-2,2
+452,Legiana Helm α,ギエナヘルムα,6,head,both,0,0,0,54,74,86,-1,2,-3,3,0
+453,Legiana Mail α,ギエナメイルα,6,chest,both,0,0,0,54,74,86,-1,2,-3,3,0
+454,Legiana Vambraces α,ギエナアームα,6,arms,both,0,0,0,54,74,86,-1,2,-3,3,0
+455,Legiana Coil α,ギエナコイルα,6,waist,both,0,0,0,54,74,86,-1,2,-3,3,0
+456,Legiana Greaves α,ギエナグリーヴα,6,legs,both,0,0,0,54,74,86,-1,2,-3,3,0
+457,Legiana Helm β,ギエナヘルムβ,6,head,both,1,0,0,54,74,86,-1,2,-3,3,0
+458,Legiana Mail β,ギエナメイルβ,6,chest,both,1,0,0,54,74,86,-1,2,-3,3,0
+459,Legiana Vambraces β,ギエナアームβ,6,arms,both,3,0,0,54,74,86,-1,2,-3,3,0
+460,Legiana Coil β,ギエナコイルβ,6,waist,both,2,0,0,54,74,86,-1,2,-3,3,0
+461,Legiana Greaves β,ギエナグリーヴβ,6,legs,both,3,0,0,54,74,86,-1,2,-3,3,0
+462,Odogaron Helm α,ガロンヘルムα,6,head,both,0,0,0,54,74,86,2,2,-2,-3,0
+463,Odogaron Mail α,ガロンメイルα,6,chest,both,0,0,0,54,74,86,2,2,-2,-3,0
+464,Odogaron Vambraces α,ガロンアームα,6,arms,both,0,0,0,54,74,86,2,2,-2,-3,0
+465,Odogaron Coil α,ガロンコイルα,6,waist,both,0,0,0,54,74,86,2,2,-2,-3,0
+466,Odogaron Greaves α,ガロングリーヴα,6,legs,both,0,0,0,54,74,86,2,2,-2,-3,0
+467,Odogaron Helm β,ガロンヘルムβ,6,head,both,2,0,0,54,74,86,2,2,-2,-3,0
+468,Odogaron Mail β,ガロンメイルβ,6,chest,both,1,0,0,54,74,86,2,2,-2,-3,0
+469,Odogaron Vambraces β,ガロンアームβ,6,arms,both,1,0,0,54,74,86,2,2,-2,-3,0
+470,Odogaron Coil β,ガロンコイルβ,6,waist,both,2,0,0,54,74,86,2,2,-2,-3,0
+471,Odogaron Greaves β,ガロングリーヴβ,6,legs,both,1,0,0,54,74,86,2,2,-2,-3,0
+472,Rathalos Helm α,レウスヘルムα,6,head,both,0,0,0,54,74,86,3,1,-2,1,-3
+473,Rathalos Mail α,レウスメイルα,6,chest,both,0,0,0,54,74,86,3,1,-2,1,-3
+474,Rathalos Vambraces α,レウスアームα,6,arms,both,0,0,0,54,74,86,3,1,-2,1,-3
+475,Rathalos Coil α,レウスコイルα,6,waist,both,0,0,0,54,74,86,3,1,-2,1,-3
+476,Rathalos Greaves α,レウスグリーヴα,6,legs,both,0,0,0,54,74,86,3,1,-2,1,-3
+477,Rathalos Helm β,レウスヘルムβ,6,head,both,1,0,0,54,74,86,3,1,-2,1,-3
+478,Rathalos Mail β,レウスメイルβ,6,chest,both,1,0,0,54,74,86,3,1,-2,1,-3
+479,Rathalos Vambraces β,レウスアームβ,6,arms,both,1,0,0,54,74,86,3,1,-2,1,-3
+480,Rathalos Coil β,レウスコイルβ,6,waist,both,2,0,0,54,74,86,3,1,-2,1,-3
+481,Rathalos Greaves β,レウスグリーヴβ,6,legs,both,3,0,0,54,74,86,3,1,-2,1,-3
+482,Rath Soul Helm α,リオソウルヘルムα,7,head,both,0,0,0,56,68,82,3,2,2,-3,-4
+483,Rath Soul Mail α,リオソウルメイルα,7,chest,both,1,0,0,56,68,82,3,2,2,-3,-4
+484,Rath Soul Braces α,リオソウルアームα,7,arms,both,1,0,0,56,68,82,3,2,2,-3,-4
+485,Rath Soul Coil α,リオソウルコイルα,7,waist,both,0,0,0,56,68,82,3,2,2,-3,-4
+486,Rath Soul Greaves α,リオソウルグリーヴα,7,legs,both,0,0,0,56,68,82,3,2,2,-3,-4
+487,Rath Soul Helm β,リオソウルヘルムβ,7,head,both,1,1,0,56,68,82,3,2,2,-3,-4
+488,Rath Soul Mail β,リオソウルメイルβ,7,chest,both,2,0,0,56,68,82,3,2,2,-3,-4
+489,Rath Soul Braces β,リオソウルアームβ,7,arms,both,2,0,0,56,68,82,3,2,2,-3,-4
+490,Rath Soul Coil β,リオソウルコイルβ,7,waist,both,3,0,0,56,68,82,3,2,2,-3,-4
+491,Rath Soul Greaves β,リオソウルグリーヴβ,7,legs,both,1,0,0,56,68,82,3,2,2,-3,-4
+492,Diablos Helm α,ディアブロヘルムα,6,head,both,0,0,0,54,74,86,3,-2,0,-3,2
+493,Diablos Mail α,ディアブロメイルα,6,chest,both,0,0,0,54,74,86,3,-2,0,-3,2
+494,Diablos Vambraces α,ディアブロアームα,6,arms,both,0,0,0,54,74,86,3,-2,0,-3,2
+495,Diablos Coil α,ディアブロコイルα,6,waist,both,0,0,0,54,74,86,3,-2,0,-3,2
+496,Diablos Greaves α,ディアブログリーヴα,6,legs,both,0,0,0,54,74,86,3,-2,0,-3,2
+497,Diablos Helm β,ディアブロヘルムβ,6,head,both,2,0,0,54,74,86,3,-2,0,-3,2
+498,Diablos Mail β,ディアブロメイルβ,6,chest,both,2,0,0,54,74,86,3,-2,0,-3,2
+499,Diablos Vambraces β,ディアブロアームβ,6,arms,both,2,0,0,54,74,86,3,-2,0,-3,2
+500,Diablos Coil β,ディアブロコイルβ,6,waist,both,2,0,0,54,74,86,3,-2,0,-3,2
+501,Diablos Greaves β,ディアブログリーヴβ,6,legs,both,1,1,0,54,74,86,3,-2,0,-3,2
+502,Diablos Nero Helm α,ディアネロヘルムα,7,head,both,1,0,0,56,68,82,2,-3,0,-4,2
+503,Diablos Nero Mail α,ディアネロメイルα,7,chest,both,1,0,0,56,68,82,2,-3,0,-4,2
+504,Diablos Nero Braces α,ディアネロアームα,7,arms,both,0,0,0,56,68,82,2,-3,0,-4,2
+505,Diablos Nero Coil α,ディアネロコイルα,7,waist,both,0,0,0,56,68,82,2,-3,0,-4,2
+506,Diablos Nero Greaves α,ディアネログリーヴα,7,legs,both,1,0,0,56,68,82,2,-3,0,-4,2
+507,Diablos Nero Helm β,ディアネロヘルムβ,7,head,both,3,0,0,56,68,82,2,-3,0,-4,2
+508,Diablos Nero Mail β,ディアネロメイルβ,7,chest,both,2,1,0,56,68,82,2,-3,0,-4,2
+509,Diablos Nero Braces β,ディアネロアームβ,7,arms,both,2,1,0,56,68,82,2,-3,0,-4,2
+510,Diablos Nero Coil β,ディアネロコイルβ,7,waist,both,2,0,0,56,68,82,2,-3,0,-4,2
+511,Diablos Nero Greaves β,ディアネログリーヴβ,7,legs,both,2,0,0,56,68,82,2,-3,0,-4,2
+512,Uragaan Helm α,ガンキンヘルムα,7,head,both,3,0,0,60,72,86,4,-3,1,-2,-2
+513,Uragaan Mail α,ガンキンメイルα,7,chest,both,1,0,0,60,72,86,4,-3,1,-2,-2
+514,Uragaan Vambraces α,ガンキンアームα,7,arms,both,1,0,0,60,72,86,4,-3,1,-2,-2
+515,Uragaan Coil α,ガンキンコイルα,7,waist,both,1,1,0,60,72,86,4,-3,1,-2,-2
+516,Uragaan Greaves α,ガンキングリーヴα,7,legs,both,1,0,0,60,72,86,4,-3,1,-2,-2
+517,Uragaan Helm β,ガンキンヘルムβ,7,head,both,3,1,0,60,72,86,4,-3,1,-2,-2
+518,Uragaan Mail β,ガンキンメイルβ,7,chest,both,3,0,0,60,72,86,4,-3,1,-2,-2
+519,Uragaan Vambraces β,ガンキンアームβ,7,arms,both,2,0,0,60,72,86,4,-3,1,-2,-2
+520,Uragaan Coil β,ガンキンコイルβ,7,waist,both,2,1,0,60,72,86,4,-3,1,-2,-2
+521,Uragaan Greaves β,ガンキングリーヴβ,7,legs,both,3,0,0,60,72,86,4,-3,1,-2,-2
+522,Bazel Helm α,バゼルヘルムα,7,head,both,2,0,0,58,70,84,3,1,-4,-2,-2
+523,Bazel Mail α,バゼルメイルα,7,chest,both,0,0,0,58,70,84,3,1,-4,-2,-2
+524,Bazel Vambraces α,バゼルアームα,7,arms,both,0,0,0,58,70,84,3,1,-4,-2,-2
+525,Bazel Coil α,バゼルコイルα,7,waist,both,1,0,0,58,70,84,3,1,-4,-2,-2
+526,Bazel Greaves α,バゼルグリーヴα,7,legs,both,1,0,0,58,70,84,3,1,-4,-2,-2
+527,Bazel Helm β,バゼルヘルムβ,7,head,both,3,1,0,58,70,84,3,1,-4,-2,-2
+528,Bazel Mail β,バゼルメイルβ,7,chest,both,1,1,0,58,70,84,3,1,-4,-2,-2
+529,Bazel Vambraces β,バゼルアームβ,7,arms,both,3,0,0,58,70,84,3,1,-4,-2,-2
+530,Bazel Coil β,バゼルコイルβ,7,waist,both,3,0,0,58,70,84,3,1,-4,-2,-2
+531,Bazel Greaves β,バゼルグリーヴβ,7,legs,both,3,0,0,58,70,84,3,1,-4,-2,-2
+532,Damascus Helm α,ダマスクヘルムα,7,head,both,1,0,0,60,72,86,4,-2,0,0,0
+533,Damascus Mail α,ダマスクメイルα,7,chest,both,1,0,0,60,72,86,4,-2,0,0,0
+534,Damascus Vambraces α,ダマスクアームα,7,arms,both,0,0,0,60,72,86,4,-2,0,0,0
+535,Damascus Coil α,ダマスクコイルα,7,waist,both,1,0,0,60,72,86,4,-2,0,0,0
+536,Damascus Greaves α,ダマスクグリーヴα,7,legs,both,1,0,0,60,72,86,4,-2,0,0,0
+537,Damascus Helm β,ダマスクヘルムβ,7,head,both,3,0,0,60,72,86,4,-2,0,0,0
+538,Damascus Mail β,ダマスクメイルβ,7,chest,both,1,1,1,60,72,86,4,-2,0,0,0
+539,Damascus Vambraces β,ダマスクアームβ,7,arms,both,1,0,0,60,72,86,4,-2,0,0,0
+540,Damascus Coil β,ダマスクコイルβ,7,waist,both,1,1,1,60,72,86,4,-2,0,0,0
+541,Damascus Greaves β,ダマスクグリーヴβ,7,legs,both,3,0,0,60,72,86,4,-2,0,0,0
+542,Dober Helm α,ドーベルヘルムα,7,head,both,0,0,0,60,72,86,-2,0,-1,-1,4
+543,Dober Mail α,ドーベルメイルα,7,chest,both,1,0,0,60,72,86,-2,0,-1,-1,4
+544,Dober Vambraces α,ドーベルアームα,7,arms,both,0,0,0,60,72,86,-2,0,-1,-1,4
+545,Dober Coil α,ドーベルコイルα,7,waist,both,2,0,0,60,72,86,-2,0,-1,-1,4
+546,Dober Greaves α,ドーベルグリーヴα,7,legs,both,0,0,0,60,72,86,-2,0,-1,-1,4
+547,Dober Helm β,ドーベルヘルムβ,7,head,both,1,0,0,60,72,86,-2,0,-1,-1,4
+548,Dober Mail β,ドーベルメイルβ,7,chest,both,2,0,0,60,72,86,-2,0,-1,-1,4
+549,Dober Vambraces β,ドーベルアームβ,7,arms,both,1,1,0,60,72,86,-2,0,-1,-1,4
+550,Dober Coil β,ドーベルコイルβ,7,waist,both,3,0,0,60,72,86,-2,0,-1,-1,4
+551,Dober Greaves β,ドーベルグリーヴβ,7,legs,both,1,0,0,60,72,86,-2,0,-1,-1,4
+552,Death Stench Brain α,デスギアゲヒルα,7,head,both,2,0,0,62,74,88,3,2,-2,3,-4
+553,Death Stench Muscle α,デスギアムスケルα,7,chest,both,0,0,0,62,74,88,3,2,-2,3,-4
+554,Death Stench Grip α,デスギアファオストα,7,arms,both,1,0,0,62,74,88,3,2,-2,3,-4
+555,Death Stench Bowels α,デスギアナーベルα,7,waist,both,0,0,0,62,74,88,3,2,-2,3,-4
+556,Death Stench Heel α,デスギアフェルゼα,7,legs,both,0,0,0,62,74,88,3,2,-2,3,-4
+557,Death Stench Brain β,デスギアゲヒルβ,7,head,both,3,0,0,62,74,88,3,2,-2,3,-4
+558,Death Stench Muscle β,デスギアムスケルβ,7,chest,both,3,0,0,62,74,88,3,2,-2,3,-4
+559,Death Stench Grip β,デスギアファオストβ,7,arms,both,1,1,0,62,74,88,3,2,-2,3,-4
+560,Death Stench Bowels β,デスギアナーベルβ,7,waist,both,1,1,0,62,74,88,3,2,-2,3,-4
+561,Death Stench Heel β,デスギアフェルゼβ,7,legs,both,1,1,0,62,74,88,3,2,-2,3,-4
+562,Skull Mask α,スカルフェイスα,7,head,both,2,0,0,64,76,90,-3,-1,-1,-1,2
+563,Nergigante Helm α,オーグヘルムα,8,head,both,1,0,0,64,70,84,1,1,-3,1,-3
+564,Nergigante Mail α,オーグメイルα,8,chest,both,1,0,0,64,70,84,1,1,-3,1,-3
+565,Nergigante Vambraces α,オーグアームα,8,arms,both,0,0,0,64,70,84,1,1,-3,1,-3
+566,Nergigante Coil α,オーグコイルα,8,waist,both,0,0,0,64,70,84,1,1,-3,1,-3
+567,Nergigante Greaves α,オーググリーヴα,8,legs,both,1,0,0,64,70,84,1,1,-3,1,-3
+568,Nergigante Helm β,オーグヘルムβ,8,head,both,1,1,0,64,70,84,1,1,-3,1,-3
+569,Nergigante Mail β,オーグメイルβ,8,chest,both,2,1,0,64,70,84,1,1,-3,1,-3
+570,Nergigante Vambraces β,オーグアームβ,8,arms,both,1,0,0,64,70,84,1,1,-3,1,-3
+571,Nergigante Coil β,オーグコイルβ,8,waist,both,2,0,0,64,70,84,1,1,-3,1,-3
+572,Nergigante Greaves β,オーググリーヴβ,8,legs,both,2,0,0,64,70,84,1,1,-3,1,-3
+573,Kaiser Crown α,カイザークラウンα,8,head,both,0,0,0,64,70,84,3,-3,1,-3,1
+574,Kaiser Mail α,カイザーメイルα,8,chest,both,0,0,0,64,70,84,3,-3,1,-3,1
+575,Kaiser Vambraces α,カイザーアームα,8,arms,both,1,0,0,64,70,84,3,-3,1,-3,1
+576,Kaiser Coil α,カイザーコイルα,8,waist,both,0,0,0,64,70,84,3,-3,1,-3,1
+577,Kaiser Greaves α,カイザーグリーヴα,8,legs,both,0,0,0,64,70,84,3,-3,1,-3,1
+578,Kaiser Crown β,カイザークラウンβ,8,head,both,2,0,0,64,70,84,3,-3,1,-3,1
+579,Kaiser Mail β,カイザーメイルβ,8,chest,both,1,1,0,64,70,84,3,-3,1,-3,1
+580,Kaiser Vambraces β,カイザーアームβ,8,arms,both,3,0,0,64,70,84,3,-3,1,-3,1
+581,Kaiser Coil β,カイザーコイルβ,8,waist,both,2,0,0,64,70,84,3,-3,1,-3,1
+582,Kaiser Greaves β,カイザーグリーヴβ,8,legs,both,1,0,0,64,70,84,3,-3,1,-3,1
+583,Kushala Glare α,クシャナアンクα,8,head,both,0,0,0,64,70,84,0,2,-3,4,-2
+584,Kushala Cista α,クシャナディールα,8,chest,both,0,0,0,64,70,84,0,2,-3,4,-2
+585,Kushala Grip α,クシャナハトゥーα,8,arms,both,0,0,0,64,70,84,0,2,-3,4,-2
+586,Kushala Cocoon α,クシャナアンダα,8,waist,both,0,0,0,64,70,84,0,2,-3,4,-2
+587,Kushala Crus α,クシャナペイルα,8,legs,both,0,0,0,64,70,84,0,2,-3,4,-2
+588,Kushala Glare β,クシャナアンクβ,8,head,both,1,1,1,64,70,84,0,2,-3,4,-2
+589,Kushala Cista β,クシャナディールβ,8,chest,both,2,0,0,64,70,84,0,2,-3,4,-2
+590,Kushala Grip β,クシャナハトゥーβ,8,arms,both,3,0,0,64,70,84,0,2,-3,4,-2
+591,Kushala Cocoon β,クシャナアンダβ,8,waist,both,1,1,0,64,70,84,0,2,-3,4,-2
+592,Kushala Crus β,クシャナペイルβ,8,legs,both,3,0,0,64,70,84,0,2,-3,4,-2
+593,Vaal Hazak Helm α,ウルズヘルムα,8,head,both,0,0,0,64,70,84,-4,4,1,-1,-3
+594,Vaal Hazak Mail α,ウルズメイルα,8,chest,both,1,0,0,64,70,84,-4,4,1,-1,-3
+595,Vaal Hazak Braces α,ウルズアームα,8,arms,both,1,0,0,64,70,84,-4,4,1,-1,-3
+596,Vaal Hazak Coil α,ウルズコイルα,8,waist,both,1,0,0,64,70,84,-4,4,1,-1,-3
+597,Vaal Hazak Greaves α,ウルズグリーヴα,8,legs,both,1,0,0,64,70,84,-4,4,1,-1,-3
+598,Vaal Hazak Helm β,ウルズヘルムβ,8,head,both,1,0,0,64,70,84,-4,4,1,-1,-3
+599,Vaal Hazak Mail β,ウルズメイルβ,8,chest,both,1,1,0,64,70,84,-4,4,1,-1,-3
+600,Vaal Hazak Braces β,ウルズアームβ,8,arms,both,1,1,1,64,70,84,-4,4,1,-1,-3
+601,Vaal Hazak Coil β,ウルズコイルβ,8,waist,both,1,1,0,64,70,84,-4,4,1,-1,-3
+602,Vaal Hazak Greaves β,ウルズグリーヴβ,8,legs,both,1,1,0,64,70,84,-4,4,1,-1,-3
+603,Kirin Horn α,キリンホーンα,6,head,both,0,0,0,64,70,84,-3,-2,4,-2,2
+604,Kirin Jacket α,キリンベストα,6,chest,both,0,0,0,64,70,84,-3,-2,4,-2,2
+605,Kirin Longarms α,キリンアームロングα,6,arms,both,0,0,0,64,70,84,-3,-2,4,-2,2
+606,Kirin Hoop α,キリンフープα,6,waist,both,0,0,0,64,70,84,-3,-2,4,-2,2
+607,Kirin Leg Guards α,キリンレガースα,8,legs,both,0,0,0,64,70,84,-3,-2,4,-2,2
+608,Kirin Horn β,キリンホーンβ,8,head,both,1,0,0,64,70,84,-3,-2,4,-2,2
+609,Kirin Jacket β,キリンベストβ,8,chest,both,1,0,0,64,70,84,-3,-2,4,-2,2
+610,Kirin Longarms β,キリンアームロングβ,8,arms,both,1,1,0,64,70,84,-3,-2,4,-2,2
+611,Kirin Hoop β,キリンフープβ,8,waist,both,1,1,1,64,70,84,-3,-2,4,-2,2
+612,Kirin Leg Guards β,キリンレガースβ,8,legs,both,1,1,0,64,70,84,-3,-2,4,-2,2
+613,Xeno'jiiva Headgear α,ゼノラージヘッドα,8,head,both,1,0,0,72,78,92,-3,2,2,2,-4
+614,Xeno'jiiva Hide α,ゼノラージハイドα,8,chest,both,1,0,0,72,78,92,-3,2,2,2,-4
+615,Xeno'jiiva Claws α,ゼノラージクロウα,8,arms,both,1,0,0,72,78,92,-3,2,2,2,-4
+616,Xeno'jiiva Spine α,ゼノラージスパインα,8,waist,both,3,0,0,72,78,92,-3,2,2,2,-4
+617,Xeno'jiiva Spurs α,ゼノラージフットα,8,legs,both,1,0,0,72,78,92,-3,2,2,2,-4
+618,Xeno'jiiva Headgear β,ゼノラージヘッドβ,8,head,both,2,0,0,72,78,92,-3,2,2,2,-4
+619,Xeno'jiiva Hide β,ゼノラージハイドβ,8,chest,both,1,1,0,72,78,92,-3,2,2,2,-4
+620,Xeno'jiiva Claws β,ゼノラージクロウβ,8,arms,both,3,0,0,72,78,92,-3,2,2,2,-4
+621,Xeno'jiiva Spine β,ゼノラージスパインβ,8,waist,both,2,1,0,72,78,92,-3,2,2,2,-4
+622,Xeno'jiiva Spurs β,ゼノラージフットβ,8,legs,both,1,1,0,72,78,92,-3,2,2,2,-4
+623,Guild Cross Circlet α,ギルドクロスアクセα,8,head,both,1,0,0,62,68,82,0,0,0,0,0
+624,Guild Cross Suit α,ギルドクロススーツα,8,chest,both,1,0,0,62,68,82,0,0,0,0,0
+625,Guild Cross Vambraces α,ギルドクロスアームα,8,arms,both,1,0,0,62,68,82,0,0,0,0,0
+626,Guild Cross Coil α,ギルドクロスコイルα,8,waist,both,1,0,0,62,68,82,0,0,0,0,0
+627,Guild Cross Boots α,ギルドクロスブーツα,8,legs,both,1,0,0,62,68,82,0,0,0,0,0
+628,Guild Cross Circlet β,ギルドクロスアクセβ,8,head,both,1,1,1,62,68,82,0,0,0,0,0
+629,Guild Cross Suit β,ギルドクロススーツβ,8,chest,both,3,0,0,62,68,82,0,0,0,0,0
+630,Guild Cross Vambraces β,ギルドクロスアームβ,8,arms,both,3,0,0,62,68,82,0,0,0,0,0
+631,Guild Cross Coil β,ギルドクロスコイルβ,8,waist,both,1,1,1,62,68,82,0,0,0,0,0
+632,Guild Cross Boots β,ギルドクロスブーツβ,8,legs,both,3,0,0,62,68,82,0,0,0,0,0
+633,Dragonking Eyepatch α,竜王の隻眼α,8,head,both,3,0,0,70,76,90,0,0,0,0,0
+634,Commission Gorget α,シーカーヘッドα,8,head,both,1,0,0,70,76,90,2,2,2,2,2
+635,Commission Jacket α,シーカーベストα,8,chest,both,0,0,0,70,76,90,2,2,2,2,2
+636,Commission Vambraces α,シーカーグラブα,8,arms,both,1,0,0,70,76,90,2,2,2,2,2
+637,Commission Belt α,シーカーベルトα,8,waist,both,1,0,0,70,76,90,2,2,2,2,2
+638,Commission Pants α,シーカーパンツα,8,legs,both,0,0,0,70,76,90,2,2,2,2,2
+639,Commission Gorget β,シーカーヘッドβ,8,head,both,2,0,0,70,76,90,2,2,2,2,2
+640,Commission Jacket β,シーカーベストβ,8,chest,both,1,0,0,70,76,90,2,2,2,2,2
+641,Commission Vambraces β,シーカーグラブβ,8,arms,both,2,0,0,70,76,90,2,2,2,2,2
+642,Commission Belt β,シーカーベルトβ,8,waist,both,2,0,0,70,76,90,2,2,2,2,2
+643,Commission Pants β,シーカーパンツβ,8,legs,both,2,0,0,70,76,90,2,2,2,2,2
+644,Vangis Helm α,バンギスヘルムα,7,head,both,1,0,0,58,70,84,1,1,-3,2,-3
+645,Vangis Mail α,バンギスメイルα,7,chest,both,2,0,0,58,70,84,1,1,-3,2,-3
+646,Vangis Vambraces α,バンギスアームα,7,arms,both,0,0,0,58,70,84,1,1,-3,2,-3
+647,Vangis Coil α,バンギスコイルα,7,waist,both,1,0,0,58,70,84,1,1,-3,2,-3
+648,Vangis Greaves α,バンギスグリーヴα,7,legs,both,0,0,0,58,70,84,1,1,-3,2,-3
+649,Vangis Helm β,バンギスヘルムβ,7,head,both,3,1,0,58,70,84,1,1,-3,2,-3
+650,Vangis Mail β,バンギスメイルβ,7,chest,both,3,0,0,58,70,84,1,1,-3,2,-3
+651,Vangis Vambraces β,バンギスアームβ,7,arms,both,2,0,0,58,70,84,1,1,-3,2,-3
+652,Vangis Coil β,バンギスコイルβ,7,waist,both,3,1,0,58,70,84,1,1,-3,2,-3
+653,Vangis Greaves β,バンギスグリーヴβ,7,legs,both,1,1,0,58,70,84,1,1,-3,2,-3
+654,Kulve Taroth's Fury α,マムガイラヘルムα,8,head,both,1,0,0,72,78,92,4,-2,3,-4,-2
+655,Kulve Taroth's Ire α,マムガイラメイルα,8,chest,both,1,0,0,72,78,92,4,-2,3,-4,-2
+656,Kulve Taroth's Rage α,マムガイラアームα,8,arms,both,1,0,0,72,78,92,4,-2,3,-4,-2
+657,Kulve Taroth's Malice α,マムガイラコイルα,8,waist,both,1,0,0,72,78,92,4,-2,3,-4,-2
+658,Kulve Taroth's Wrath α,マムガイラグリーヴα,8,legs,both,1,0,0,72,78,92,4,-2,3,-4,-2
+659,Kulve Taroth's Fury β,マムガイラヘルムβ,8,head,both,2,1,0,72,78,92,4,-2,3,-4,-2
+660,Kulve Taroth's Ire β,マムガイラメイルβ,8,chest,both,3,1,0,72,78,92,4,-2,3,-4,-2
+661,Kulve Taroth's Rage β,マムガイラアームβ,8,arms,both,3,1,0,72,78,92,4,-2,3,-4,-2
+662,Kulve Taroth's Malice β,マムガイラコイルβ,8,waist,both,3,1,0,72,78,92,4,-2,3,-4,-2
+663,Kulve Taroth's Wrath β,マムガイラグリーヴβ,8,legs,both,2,1,0,72,78,92,4,-2,3,-4,-2
+664,Blossom Headgear α,ブロッサムヘッドα,5,head,both,1,1,0,40,62,78,1,1,4,1,1
+665,Blossom Vest α,ブロッサムベストα,5,chest,both,1,1,0,40,62,78,1,1,4,1,1
+666,Blossom Cuffs α,ブロッサムカフスα,5,arms,both,1,1,0,40,62,78,1,1,4,1,1
+667,Blossom Coat α,ブロッサムコートα,5,waist,both,1,1,0,40,62,78,1,1,4,1,1
+668,Blossom Boots α,ブロッサムブーツα,5,legs,both,1,1,0,40,62,78,1,1,4,1,1
+669,Kirin Horn Gamma,キリンホーンγ,8,head,both,2,0,0,72,78,92,-3,-2,4,-2,2
+670,Kirin Jacket Gamma,キリンベストγ,8,chest,both,1,1,0,72,78,92,-3,-2,4,-2,2
+671,Kirin Longarms Gamma,キリンアームロングγ,8,arms,both,2,2,0,72,78,92,-3,-2,4,-2,2
+672,Kirin Hoop Gamma,キリンフープγ,8,waist,both,1,1,0,72,78,92,-3,-2,4,-2,2
+673,Kirin Leg Guards Gamma,キリンレガースγ,8,legs,both,3,0,0,72,78,92,-3,-2,4,-2,2
+674,Dante's Hair α,ダンテウィッグα,8,head,both,1,0,0,64,70,84,3,-3,3,-3,3
+675,Dante's Coat α,ダンテコートα,8,chest,both,3,0,0,64,70,84,3,-3,3,-3,3
+676,Dante's Gloves α,ダンテグローブα,8,arms,both,3,0,0,64,70,84,3,-3,3,-3,3
+677,Dante's Belt α,ダンテベルトα,8,waist,both,3,0,0,64,70,84,3,-3,3,-3,3
+678,Dante's Leather Boots α,ダンテレザーα,8,legs,both,1,1,0,64,70,84,3,-3,3,-3,3
+679,Empress Crown α,エンプレスセクターα,8,head,both,3,0,0,70,76,90,3,1,1,-3,-2
+680,Empress Mail α,エンプレスメイルα,8,chest,both,1,1,0,70,76,90,3,1,1,-3,-2
+681,Empress Vambraces α,エンプレスアームα,8,arms,both,3,0,0,70,76,90,3,1,1,-3,-2
+682,Empress Coil α,エンプレスコイルα,8,waist,both,2,1,0,70,76,90,3,1,1,-3,-2
+683,Empress Greaves α,エンプレスグリーヴα,8,legs,both,2,1,0,70,76,90,3,1,1,-3,-2
+684,Empress Crown β,エンプレスセクターβ,8,head,both,3,2,0,70,76,90,3,1,1,-3,-2
+685,Empress Mail β,エンプレスメイルβ,8,chest,both,1,1,1,70,76,90,3,1,1,-3,-2
+686,Empress Vambraces β,エンプレスアームβ,8,arms,both,3,2,0,70,76,90,3,1,1,-3,-2
+687,Empress Coil β,エンプレスコイルβ,8,waist,both,2,2,0,70,76,90,3,1,1,-3,-2
+688,Empress Greaves β,エンプレスグリーヴβ,8,legs,both,2,2,0,70,76,90,3,1,1,-3,-2
+689,Sealed Eyepatch α,封印の眼帯α,5,head,both,2,1,0,46,68,84,3,2,0,2,0
+690,Shadow Shades α,シャドウアイα,5,head,both,1,1,1,46,68,84,4,0,4,2,0
+691,Kulu-Ya-Ku Head α,クルルフェイクα,5,head,both,3,1,0,46,68,84,2,0,2,3,2
+692,Wiggler Head α,ユラユラフェイクα,5,head,both,1,1,0,46,68,84,0,4,0,0,4
