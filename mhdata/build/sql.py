@@ -308,8 +308,8 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             if not entry[part]:
                 continue
             
-            armor_id = mhdata.armor_map.id_of(armor_lang, entry[part])
-            armor_to_armorset[armor_id] = set_id
+            armor_reverse_id = mhdata.armor_map.id_of(armor_lang, entry[part])
+            armor_to_armorset[armor_reverse_id] = set_id
 
     # Write entries for armor
     for order_id, entry in enumerate(armor_map.values()):
@@ -333,7 +333,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         armor.ice = entry['defense_ice']
         armor.dragon = entry['defense_dragon']
 
-        armorset_id = armor_to_armorset.get(armor_id, None)
+        armorset_id = armor_to_armorset.get(entry.id, None)
         armorset_entry = armorset_map[armorset_id]
         armor.rank = armorset_entry['rank']
         armor.armorset_id = armorset_id
