@@ -7,41 +7,41 @@ Jagras,Body Carve,LR,Sharp Claw,1,20
 Jagras,Body Carve,HR,Jagras Hide+,1,50
 Jagras,Body Carve,HR,Jagras Scale,1,30
 Jagras,Body Carve,HR,Piercing Claw,1,20
-Jagras,Quest Reward / Investigation (Bronze),LR,Jagras Hide,1,40
-Jagras,Quest Reward / Investigation (Bronze),LR,Jagras Scale,1,20
-Jagras,Quest Reward / Investigation (Bronze),LR,Sharp Claw,1,20
-Jagras,Quest Reward / Investigation (Bronze),LR,Monster Bone S,2,20
-Jagras,Quest Reward / Investigation (Bronze),HR,Jagras Hide+,1,40
-Jagras,Quest Reward / Investigation (Bronze),HR,Jagras Scale,1,20
-Jagras,Quest Reward / Investigation (Bronze),HR,Piercing Claw,1,20
-Jagras,Quest Reward / Investigation (Bronze),HR,Sturdy Bone,2,20
+Jagras,Quest Reward (Bronze),LR,Jagras Hide,1,40
+Jagras,Quest Reward (Bronze),LR,Jagras Scale,1,20
+Jagras,Quest Reward (Bronze),LR,Sharp Claw,1,20
+Jagras,Quest Reward (Bronze),LR,Monster Bone S,2,20
+Jagras,Quest Reward (Bronze),HR,Jagras Hide+,1,40
+Jagras,Quest Reward (Bronze),HR,Jagras Scale,1,20
+Jagras,Quest Reward (Bronze),HR,Piercing Claw,1,20
+Jagras,Quest Reward (Bronze),HR,Sturdy Bone,2,20
 Mernos,Body Carve,LR,Wingdrake Hide,1,70
 Mernos,Body Carve,LR,Raw Meat,1,30
 Mernos,Body Carve,HR,Wingdrake Hide+,1,70
 Mernos,Body Carve,HR,Raw Meat,1,30
-Mernos,Quest Reward / Investigation (Bronze),LR,Wingdrake Hide,1,30
-Mernos,Quest Reward / Investigation (Bronze),LR,Monster Bone S,1,25
-Mernos,Quest Reward / Investigation (Bronze),LR,Warm Pelt,1,25
-Mernos,Quest Reward / Investigation (Bronze),LR,Raw Meat,2,20
-Mernos,Quest Reward / Investigation (Bronze),HR,Wingdrake Hide+,1,30
-Mernos,Quest Reward / Investigation (Bronze),HR,Sturdy Bone,1,25
-Mernos,Quest Reward / Investigation (Bronze),HR,High-quality Pelt,1,25
-Mernos,Quest Reward / Investigation (Bronze),HR,Raw Meat,4,20
+Mernos,Quest Reward (Bronze),LR,Wingdrake Hide,1,30
+Mernos,Quest Reward (Bronze),LR,Monster Bone S,1,25
+Mernos,Quest Reward (Bronze),LR,Warm Pelt,1,25
+Mernos,Quest Reward (Bronze),LR,Raw Meat,2,20
+Mernos,Quest Reward (Bronze),HR,Wingdrake Hide+,1,30
+Mernos,Quest Reward (Bronze),HR,Sturdy Bone,1,25
+Mernos,Quest Reward (Bronze),HR,High-quality Pelt,1,25
+Mernos,Quest Reward (Bronze),HR,Raw Meat,4,20
 Vespoid,Body Carve,LR,Vespoid Shell,1,42
 Vespoid,Body Carve,LR,Vespoid Wing,1,35
 Vespoid,Body Carve,LR,Monster Fluid,1,23
 Vespoid,Body Carve,HR,Vespoid Carapace,1,42
 Vespoid,Body Carve,HR,Vespoid Innerwing,1,35
 Vespoid,Body Carve,HR,Monster Broth,1,23
-Vespoid,Quest Reward / Investigation (Bronze),LR,Vespoid Shell,1,30
-Vespoid,Quest Reward / Investigation (Bronze),LR,Vespoid Wing,1,30
-Vespoid,Quest Reward / Investigation (Bronze),LR,Monster Fluid,1,25
-Vespoid,Quest Reward / Investigation (Bronze),LR,Honey,3,15
-Vespoid,Quest Reward / Investigation (Bronze),HR,Vespoid Carapace,1,23
-Vespoid,Quest Reward / Investigation (Bronze),HR,Vespoid Innerwing,1,23
-Vespoid,Quest Reward / Investigation (Bronze),HR,Monster Broth,1,23
-Vespoid,Quest Reward / Investigation (Bronze),HR,Honey,6,21
-Vespoid,Quest Reward / Investigation (Bronze),HR,Monster Fluid,2,20
+Vespoid,Quest Reward (Bronze),LR,Vespoid Shell,1,30
+Vespoid,Quest Reward (Bronze),LR,Vespoid Wing,1,30
+Vespoid,Quest Reward (Bronze),LR,Monster Fluid,1,25
+Vespoid,Quest Reward (Bronze),LR,Honey,3,15
+Vespoid,Quest Reward (Bronze),HR,Vespoid Carapace,1,23
+Vespoid,Quest Reward (Bronze),HR,Vespoid Innerwing,1,23
+Vespoid,Quest Reward (Bronze),HR,Monster Broth,1,23
+Vespoid,Quest Reward (Bronze),HR,Honey,6,21
+Vespoid,Quest Reward (Bronze),HR,Monster Fluid,2,20
 Mosswine,Body Carve,LR,Mosswine Hide,1,100
 Mosswine,Body Carve,HR,Mosswine Hide,1,100
 Apceros,Body Carve,LR,Raw Meat,1,100
@@ -50,36 +50,36 @@ Kestodon,Body Carve,LR,Kestodon Shell,1,70
 Kestodon,Body Carve,LR,Kestodon Scalp,1,30
 Kestodon,Body Carve,HR,Kestodon Carapace,1,70
 Kestodon,Body Carve,HR,Kestodon Scalp,1,30
-Kestodon,Quest Reward / Investigation (Bronze),LR,Kestodon Shell,1,50
-Kestodon,Quest Reward / Investigation (Bronze),LR,Kestodon Carapace,1,50
-Kestodon,Quest Reward / Investigation (Bronze),LR,Kestodon Scalp,1,30
-Kestodon,Quest Reward / Investigation (Bronze),LR,Kestodon Scalp,1,30
-Kestodon,Quest Reward / Investigation (Bronze),LR,Monster Bone S,2,20
-Kestodon,Quest Reward / Investigation (Bronze),LR,Sturdy Bone,1,20
+Kestodon,Quest Reward (Bronze),LR,Kestodon Shell,1,50
+Kestodon,Quest Reward (Bronze),LR,Kestodon Carapace,1,50
+Kestodon,Quest Reward (Bronze),LR,Kestodon Scalp,1,30
+Kestodon,Quest Reward (Bronze),LR,Kestodon Scalp,1,30
+Kestodon,Quest Reward (Bronze),LR,Monster Bone S,2,20
+Kestodon,Quest Reward (Bronze),LR,Sturdy Bone,1,20
 Noios,Body Carve,LR,Screamer Sac,1,70
 Noios,Body Carve,LR,Wingdrake Hide,1,30
 Noios,Body Carve,HR,Screamer Sac,1,70
 Noios,Body Carve,HR,Wingdrake Hide+,1,30
-Noios,Quest Reward / Investigation (Bronze),LR,Screamer Sac,2,40
-Noios,Quest Reward / Investigation (Bronze),LR,Wingdrake Hide,1,20
-Noios,Quest Reward / Investigation (Bronze),LR,Monster Bone S,1,20
-Noios,Quest Reward / Investigation (Bronze),LR,Warm Pelt,1,20
-Noios,Quest Reward / Investigation (Bronze),HR,Screamer Sac,2,40
-Noios,Quest Reward / Investigation (Bronze),HR,Wingdrake Hide,1,20
-Noios,Quest Reward / Investigation (Bronze),HR,Monster Bone S,1,20
-Noios,Quest Reward / Investigation (Bronze),HR,High-quality Pelt,1,20
+Noios,Quest Reward (Bronze),LR,Screamer Sac,2,40
+Noios,Quest Reward (Bronze),LR,Wingdrake Hide,1,20
+Noios,Quest Reward (Bronze),LR,Monster Bone S,1,20
+Noios,Quest Reward (Bronze),LR,Warm Pelt,1,20
+Noios,Quest Reward (Bronze),HR,Screamer Sac,2,40
+Noios,Quest Reward (Bronze),HR,Wingdrake Hide,1,20
+Noios,Quest Reward (Bronze),HR,Monster Bone S,1,20
+Noios,Quest Reward (Bronze),HR,High-quality Pelt,1,20
 Gajau,Body Carve,LR,Gajau Skin,1,75
 Gajau,Body Carve,LR,Gajau Whisker,1,25
 Gajau,Body Carve,HR,Gajau Scale,1,75
 Gajau,Body Carve,HR,Grand Gajau Whisker,1,25
-Gajau,Quest Reward / Investigation (Bronze),LR,Gajau Skin,1,45
-Gajau,Quest Reward / Investigation (Bronze),LR,Iron Ore,1,25
-Gajau,Quest Reward / Investigation (Bronze),LR,Gajau Whisker,1,15
-Gajau,Quest Reward / Investigation (Bronze),LR,Machalite Ore,1,15
-Gajau,Quest Reward / Investigation (Bronze),HR,Gajau Scale,1,45
-Gajau,Quest Reward / Investigation (Bronze),HR,Machalite Ore,1,25
-Gajau,Quest Reward / Investigation (Bronze),HR,Grand Gajau Whisker,1,15
-Gajau,Quest Reward / Investigation (Bronze),HR,Dragonite Ore,1,15
+Gajau,Quest Reward (Bronze),LR,Gajau Skin,1,45
+Gajau,Quest Reward (Bronze),LR,Iron Ore,1,25
+Gajau,Quest Reward (Bronze),LR,Gajau Whisker,1,15
+Gajau,Quest Reward (Bronze),LR,Machalite Ore,1,15
+Gajau,Quest Reward (Bronze),HR,Gajau Scale,1,45
+Gajau,Quest Reward (Bronze),HR,Machalite Ore,1,25
+Gajau,Quest Reward (Bronze),HR,Grand Gajau Whisker,1,15
+Gajau,Quest Reward (Bronze),HR,Dragonite Ore,1,15
 Kelbi,Body Carve,LR,Warm Pelt,1,60
 Kelbi,Body Carve,LR,White Liver,1,25
 Kelbi,Body Carve,LR,Raw Meat,1,15
@@ -94,50 +94,50 @@ Raphinos,Body Carve,LR,Wingdrake Hide,1,70
 Raphinos,Body Carve,LR,Raw Meat,1,30
 Raphinos,Body Carve,HR,Wingdrake Hide+,1,70
 Raphinos,Body Carve,HR,Raw Meat,1,30
-Raphinos,Quest Reward / Investigation (Bronze),LR,Wingdrake Hide,1,20
-Raphinos,Quest Reward / Investigation (Bronze),LR,Raw Meat,1,20
-Raphinos,Quest Reward / Investigation (Bronze),LR,Nulberry,3,15
-Raphinos,Quest Reward / Investigation (Bronze),LR,Monster Bone S,2,15
-Raphinos,Quest Reward / Investigation (Bronze),LR,Sturdy Bone,1,15
-Raphinos,Quest Reward / Investigation (Bronze),LR,Warped Bone,1,15
-Raphinos,Quest Reward / Investigation (Bronze),HR,Wingdrake Hide+,1,20
-Raphinos,Quest Reward / Investigation (Bronze),HR,Raw Meat,1,20
-Raphinos,Quest Reward / Investigation (Bronze),HR,Nulberry,3,15
-Raphinos,Quest Reward / Investigation (Bronze),HR,Sturdy Bone,2,15
-Raphinos,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,15
-Raphinos,Quest Reward / Investigation (Bronze),HR,Warped Bone,1,15
+Raphinos,Quest Reward (Bronze),LR,Wingdrake Hide,1,20
+Raphinos,Quest Reward (Bronze),LR,Raw Meat,1,20
+Raphinos,Quest Reward (Bronze),LR,Nulberry,3,15
+Raphinos,Quest Reward (Bronze),LR,Monster Bone S,2,15
+Raphinos,Quest Reward (Bronze),LR,Sturdy Bone,1,15
+Raphinos,Quest Reward (Bronze),LR,Warped Bone,1,15
+Raphinos,Quest Reward (Bronze),HR,Wingdrake Hide+,1,20
+Raphinos,Quest Reward (Bronze),HR,Raw Meat,1,20
+Raphinos,Quest Reward (Bronze),HR,Nulberry,3,15
+Raphinos,Quest Reward (Bronze),HR,Sturdy Bone,2,15
+Raphinos,Quest Reward (Bronze),HR,Monster Keenbone,1,15
+Raphinos,Quest Reward (Bronze),HR,Warped Bone,1,15
 Shamos,Body Carve,LR,Shamos Hide,1,50
 Shamos,Body Carve,LR,Shamos Scale,1,30
 Shamos,Body Carve,LR,Sharp Claw,1,20
 Shamos,Body Carve,HR,Shamos Hide+,1,50
 Shamos,Body Carve,HR,Piercing Claw,1,30
 Shamos,Body Carve,HR,Shamos Scale+,1,20
-Shamos,Quest Reward / Investigation (Bronze),LR,Coral Crystal,1,12
-Shamos,Quest Reward / Investigation (Bronze),LR,Shamos Hide,1,30
-Shamos,Quest Reward / Investigation (Bronze),LR,Sharp Claw,1,24
-Shamos,Quest Reward / Investigation (Bronze),LR,Shamos Scale,1,22
-Shamos,Quest Reward / Investigation (Bronze),LR,Sturdy Bone,1,12
-Shamos,Quest Reward / Investigation (Bronze),HR,Shamos Hide+,1,30
-Shamos,Quest Reward / Investigation (Bronze),HR,Piercing Claw,1,24
-Shamos,Quest Reward / Investigation (Bronze),HR,Shamos Scale+,1,22
-Shamos,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,12
-Shamos,Quest Reward / Investigation (Bronze),HR,Coral Crystal,2,12
+Shamos,Quest Reward (Bronze),LR,Coral Crystal,1,12
+Shamos,Quest Reward (Bronze),LR,Shamos Hide,1,30
+Shamos,Quest Reward (Bronze),LR,Sharp Claw,1,24
+Shamos,Quest Reward (Bronze),LR,Shamos Scale,1,22
+Shamos,Quest Reward (Bronze),LR,Sturdy Bone,1,12
+Shamos,Quest Reward (Bronze),HR,Shamos Hide+,1,30
+Shamos,Quest Reward (Bronze),HR,Piercing Claw,1,24
+Shamos,Quest Reward (Bronze),HR,Shamos Scale+,1,22
+Shamos,Quest Reward (Bronze),HR,Monster Keenbone,1,12
+Shamos,Quest Reward (Bronze),HR,Coral Crystal,2,12
 Girros,Body Carve,LR,Girros Hide,1,50
 Girros,Body Carve,LR,Girros Scale,1,30
 Girros,Body Carve,LR,Girros Fang,1,20
 Girros,Body Carve,HR,Girros Hide+,1,50
 Girros,Body Carve,HR,Girros Scale+,1,30
 Girros,Body Carve,HR,Girros Fang,1,20
-Girros,Quest Reward / Investigation (Bronze),LR,Girros Hide,1,30
-Girros,Quest Reward / Investigation (Bronze),LR,Girros Scale,1,20
-Girros,Quest Reward / Investigation (Bronze),LR,Girros Fang,1,20
-Girros,Quest Reward / Investigation (Bronze),LR,Sharp Claw,2,15
-Girros,Quest Reward / Investigation (Bronze),LR,Sturdy Bone,1,15
-Girros,Quest Reward / Investigation (Bronze),HR,Girros Hide+,1,30
-Girros,Quest Reward / Investigation (Bronze),HR,Girros Scale+,1,20
-Girros,Quest Reward / Investigation (Bronze),HR,Girros Fang,1,20
-Girros,Quest Reward / Investigation (Bronze),HR,Piercing Claw,2,15
-Girros,Quest Reward / Investigation (Bronze),HR,Quality Bone,1,15
+Girros,Quest Reward (Bronze),LR,Girros Hide,1,30
+Girros,Quest Reward (Bronze),LR,Girros Scale,1,20
+Girros,Quest Reward (Bronze),LR,Girros Fang,1,20
+Girros,Quest Reward (Bronze),LR,Sharp Claw,2,15
+Girros,Quest Reward (Bronze),LR,Sturdy Bone,1,15
+Girros,Quest Reward (Bronze),HR,Girros Hide+,1,30
+Girros,Quest Reward (Bronze),HR,Girros Scale+,1,20
+Girros,Quest Reward (Bronze),HR,Girros Fang,1,20
+Girros,Quest Reward (Bronze),HR,Piercing Claw,2,15
+Girros,Quest Reward (Bronze),HR,Quality Bone,1,15
 Hornetaur,Body Carve,LR,Hornetaur Shell,1,40
 Hornetaur,Body Carve,LR,Hornetaur Wing,1,32
 Hornetaur,Body Carve,LR,Monster Fluid,1,20
@@ -146,24 +146,24 @@ Hornetaur,Body Carve,HR,Hornetaur Carapace,1,40
 Hornetaur,Body Carve,HR,Hornetaur Innerwing,1,32
 Hornetaur,Body Carve,HR,Monster Broth,1,20
 Hornetaur,Body Carve,HR,Hornetaur Head,1,8
-Hornetaur,Quest Reward / Investigation (Bronze),LR,Hornetaur Shell,1,40
-Hornetaur,Quest Reward / Investigation (Bronze),LR,Hornetaur Wing,1,32
-Hornetaur,Quest Reward / Investigation (Bronze),LR,Monster Fluid,1,20
-Hornetaur,Quest Reward / Investigation (Bronze),LR,Hornetaur Head,1,8
-Hornetaur,Quest Reward / Investigation (Bronze),HR,Hornetaur Carapace,1,40
-Hornetaur,Quest Reward / Investigation (Bronze),HR,Hornetaur Innerwing,1,32
-Hornetaur,Quest Reward / Investigation (Bronze),HR,Monster Broth,1,20
-Hornetaur,Quest Reward / Investigation (Bronze),HR,Hornetaur Head,1,8
+Hornetaur,Quest Reward (Bronze),LR,Hornetaur Shell,1,40
+Hornetaur,Quest Reward (Bronze),LR,Hornetaur Wing,1,32
+Hornetaur,Quest Reward (Bronze),LR,Monster Fluid,1,20
+Hornetaur,Quest Reward (Bronze),LR,Hornetaur Head,1,8
+Hornetaur,Quest Reward (Bronze),HR,Hornetaur Carapace,1,40
+Hornetaur,Quest Reward (Bronze),HR,Hornetaur Innerwing,1,32
+Hornetaur,Quest Reward (Bronze),HR,Monster Broth,1,20
+Hornetaur,Quest Reward (Bronze),HR,Hornetaur Head,1,8
 Gastodon,Body Carve,HR,Gastodon Carapace,1,70
 Gastodon,Body Carve,HR,Gastodon Horn,1,30
 Barnos,Body Carve,LR,Wingdrake Hide,1,100
 Barnos,Body Carve,HR,Barnos Hide+,1,70
 Barnos,Body Carve,HR,Barnos Talon,1,30
-Barnos,Quest Reward / Investigation (Bronze),LR,Wingdrake Hide,1,30
-Barnos,Quest Reward / Investigation (Bronze),LR,Raw Meat,1,20
-Barnos,Quest Reward / Investigation (Bronze),LR,Nulberry,3,20
-Barnos,Quest Reward / Investigation (Bronze),LR,Monster Bone S,2,15
-Barnos,Quest Reward / Investigation (Bronze),LR,Sturdy Bone,1,15
+Barnos,Quest Reward (Bronze),LR,Wingdrake Hide,1,30
+Barnos,Quest Reward (Bronze),LR,Raw Meat,1,20
+Barnos,Quest Reward (Bronze),LR,Nulberry,3,20
+Barnos,Quest Reward (Bronze),LR,Monster Bone S,2,15
+Barnos,Quest Reward (Bronze),LR,Sturdy Bone,1,15
 Great Jagras,Track,LR,Great Jagras Scale,1,100
 Great Jagras,Track,HR,Great Jagras Scale+,1,100
 Great Jagras,Body Carve,LR,Great Jagras Scale,1,36
@@ -188,19 +188,19 @@ Great Jagras,Capture,HR,Great Jagras Scale+,1,36
 Great Jagras,Capture,HR,Great Jagras Hide+,1,28
 Great Jagras,Capture,HR,Great Jagras Claw+,1,21
 Great Jagras,Capture,HR,Great Jagras Mane,1,15
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Great Jagras Hide,1,100
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Great Jagras Hide,1,32
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Great Jagras Scale,1,23
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Great Jagras Mane,1,16
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Iron Ore,2,10
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Monster Bone S,2,10
-Great Jagras,Quest Reward / Investigation (Bronze),LR,Great Jagras Claw,1,9
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Great Jagras Scale+,1,100
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Great Jagras Hide+,1,32
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Great Jagras Scale+,1,23
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Monster Bone+,1,20
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Great Jagras Mane,2,16
-Great Jagras,Quest Reward / Investigation (Bronze),HR,Great Jagras Claw+,1,9
+Great Jagras,Quest Reward (Bronze),LR,Great Jagras Hide,1,100
+Great Jagras,Quest Reward (Bronze),LR,Great Jagras Hide,1,32
+Great Jagras,Quest Reward (Bronze),LR,Great Jagras Scale,1,23
+Great Jagras,Quest Reward (Bronze),LR,Great Jagras Mane,1,16
+Great Jagras,Quest Reward (Bronze),LR,Iron Ore,2,10
+Great Jagras,Quest Reward (Bronze),LR,Monster Bone S,2,10
+Great Jagras,Quest Reward (Bronze),LR,Great Jagras Claw,1,9
+Great Jagras,Quest Reward (Bronze),HR,Great Jagras Scale+,1,100
+Great Jagras,Quest Reward (Bronze),HR,Great Jagras Hide+,1,32
+Great Jagras,Quest Reward (Bronze),HR,Great Jagras Scale+,1,23
+Great Jagras,Quest Reward (Bronze),HR,Monster Bone+,1,20
+Great Jagras,Quest Reward (Bronze),HR,Great Jagras Mane,2,16
+Great Jagras,Quest Reward (Bronze),HR,Great Jagras Claw+,1,9
 Great Jagras,Investigation (Silver),LR,Great Jagras Mane,1,30
 Great Jagras,Investigation (Silver),LR,Great Jagras Hide,2,25
 Great Jagras,Investigation (Silver),LR,Great Jagras Claw,1,25
@@ -262,19 +262,19 @@ Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Hide+,1,27
 Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Beak+,1,20
 Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Plume+,1,14
 Kulu-Ya-Ku,Capture,HR,Bird Wyvern Gem,1,5
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Kulu-Ya-Ku Scale,1,100
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Kulu-Ya-Ku Hide,1,32
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Kulu-Ya-Ku Scale,1,23
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Monster Bone S,1,20
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Kulu-Ya-Ku Plume,1,16
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Kulu-Ya-Ku Beak,1,9
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Kulu-Ya-Ku Scale+,1,100
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Kulu-Ya-Ku Hide+,1,32
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Kulu-Ya-Ku Scale+,1,21
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Monster Bone+,1,18
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Kulu-Ya-Ku Plume+,1,15
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Kulu-Ya-Ku Beak+,1,11
-Kulu-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Bird Wyvern Gem,1,3
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Scale,1,100
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Hide,1,32
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Scale,1,23
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Monster Bone S,1,20
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Plume,1,16
+Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Beak,1,9
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Kulu-Ya-Ku Scale+,1,100
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Kulu-Ya-Ku Hide+,1,32
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Kulu-Ya-Ku Scale+,1,21
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Monster Bone+,1,18
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Kulu-Ya-Ku Plume+,1,15
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Kulu-Ya-Ku Beak+,1,11
+Kulu-Ya-Ku,Quest Reward (Bronze),HR,Bird Wyvern Gem,1,3
 Kulu-Ya-Ku,Investigation (Silver),LR,Kulu-Ya-Ku Plume,1,30
 Kulu-Ya-Ku,Investigation (Silver),LR,Kulu-Ya-Ku Hide,2,25
 Kulu-Ya-Ku,Investigation (Silver),LR,Kulu-Ya-Ku Beak,1,25
@@ -344,21 +344,21 @@ Pukei-Pukei,Capture,HR,Pukei-Pukei Wing,1,18
 Pukei-Pukei,Capture,HR,Pukei-Pukei Sac+,1,14
 Pukei-Pukei,Capture,HR,Pukei-Pukei Tail,1,12
 Pukei-Pukei,Capture,HR,Bird Wyvern Gem,1,5
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Pukei-Pukei Scale,1,100
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Pukei-Pukei Shell,1,24
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Pukei-Pukei Scale,1,22
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Poison Sac,1,19
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Pukei-Pukei Quill,1,16
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Monster Bone M,2,10
-Pukei-Pukei,Quest Reward / Investigation (Bronze),LR,Pukei-Pukei Sac,1,9
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Pukei-Pukei Scale+,1,100
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Pukei-Pukei Carapace,1,24
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Pukei-Pukei Scale+,1,19
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Toxin Sac,1,19
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Pukei-Pukei Wing,1,16
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,10
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Pukei-Pukei Sac+,1,9
-Pukei-Pukei,Quest Reward / Investigation (Bronze),HR,Bird Wyvern Gem,1,3
+Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Scale,1,100
+Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Shell,1,24
+Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Scale,1,22
+Pukei-Pukei,Quest Reward (Bronze),LR,Poison Sac,1,19
+Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Quill,1,16
+Pukei-Pukei,Quest Reward (Bronze),LR,Monster Bone M,2,10
+Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Sac,1,9
+Pukei-Pukei,Quest Reward (Bronze),HR,Pukei-Pukei Scale+,1,100
+Pukei-Pukei,Quest Reward (Bronze),HR,Pukei-Pukei Carapace,1,24
+Pukei-Pukei,Quest Reward (Bronze),HR,Pukei-Pukei Scale+,1,19
+Pukei-Pukei,Quest Reward (Bronze),HR,Toxin Sac,1,19
+Pukei-Pukei,Quest Reward (Bronze),HR,Pukei-Pukei Wing,1,16
+Pukei-Pukei,Quest Reward (Bronze),HR,Monster Keenbone,1,10
+Pukei-Pukei,Quest Reward (Bronze),HR,Pukei-Pukei Sac+,1,9
+Pukei-Pukei,Quest Reward (Bronze),HR,Bird Wyvern Gem,1,3
 Pukei-Pukei,Investigation (Silver),LR,Pukei-Pukei Quill,1,31
 Pukei-Pukei,Investigation (Silver),LR,Pukei-Pukei Sac,1,24
 Pukei-Pukei,Investigation (Silver),LR,Poison Sac,2,16
@@ -444,21 +444,21 @@ Barroth,Capture,HR,Barroth Claw+,1,18
 Barroth,Capture,HR,Barroth Scalp,1,15
 Barroth,Capture,HR,Barroth Tail,1,11
 Barroth,Capture,HR,Wyvern Gem,1,2
-Barroth,Quest Reward / Investigation (Bronze),LR,Barroth Shell,1,100
-Barroth,Quest Reward / Investigation (Bronze),LR,Barroth Ridge,1,26
-Barroth,Quest Reward / Investigation (Bronze),LR,Barroth Shell,1,20
-Barroth,Quest Reward / Investigation (Bronze),LR,Barroth Claw,1,16
-Barroth,Quest Reward / Investigation (Bronze),LR,Fertile Mud,1,16
-Barroth,Quest Reward / Investigation (Bronze),LR,Monster Bone M,1,13
-Barroth,Quest Reward / Investigation (Bronze),LR,Barroth Scalp,1,9
-Barroth,Quest Reward / Investigation (Bronze),HR,Barroth Carapace,1,100
-Barroth,Quest Reward / Investigation (Bronze),HR,Barroth Ridge+,1,25
-Barroth,Quest Reward / Investigation (Bronze),HR,Barroth Carapace,1,20
-Barroth,Quest Reward / Investigation (Bronze),HR,Barroth Claw+,1,16
-Barroth,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,15
-Barroth,Quest Reward / Investigation (Bronze),HR,Fertile Mud,2,12
-Barroth,Quest Reward / Investigation (Bronze),HR,Barroth Scalp,1,11
-Barroth,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Barroth,Quest Reward (Bronze),LR,Barroth Shell,1,100
+Barroth,Quest Reward (Bronze),LR,Barroth Ridge,1,26
+Barroth,Quest Reward (Bronze),LR,Barroth Shell,1,20
+Barroth,Quest Reward (Bronze),LR,Barroth Claw,1,16
+Barroth,Quest Reward (Bronze),LR,Fertile Mud,1,16
+Barroth,Quest Reward (Bronze),LR,Monster Bone M,1,13
+Barroth,Quest Reward (Bronze),LR,Barroth Scalp,1,9
+Barroth,Quest Reward (Bronze),HR,Barroth Carapace,1,100
+Barroth,Quest Reward (Bronze),HR,Barroth Ridge+,1,25
+Barroth,Quest Reward (Bronze),HR,Barroth Carapace,1,20
+Barroth,Quest Reward (Bronze),HR,Barroth Claw+,1,16
+Barroth,Quest Reward (Bronze),HR,Monster Keenbone,1,15
+Barroth,Quest Reward (Bronze),HR,Fertile Mud,2,12
+Barroth,Quest Reward (Bronze),HR,Barroth Scalp,1,11
+Barroth,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Barroth,Investigation (Silver),LR,Barroth Claw,1,22
 Barroth,Investigation (Silver),LR,Barroth Ridge,2,18
 Barroth,Investigation (Silver),LR,Barroth Scalp,1,18
@@ -527,21 +527,21 @@ Jyuratodus,Capture,HR,Jyuratodus Carapace,1,27
 Jyuratodus,Capture,HR,Jyuratodus Fin+,1,20
 Jyuratodus,Capture,HR,Jyuratodus Fang+,1,15
 Jyuratodus,Capture,HR,Wyvern Gem,1,2
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Jyuratodus Scale,1,100
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Jyuratodus Shell,1,27
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Jyuratodus Scale,1,21
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Aqua Sac,1,18
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Jyuratodus Fang,1,15
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Monster Bone M,2,10
-Jyuratodus,Quest Reward / Investigation (Bronze),LR,Jyuratodus Fin,1,9
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Jyuratodus Scale+,1,100
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Jyuratodus Carapace,1,26
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Jyuratodus Scale+,1,21
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Torrent Sac,1,18
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Jyuratodus Fang+,1,15
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,2,10
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Jyuratodus Fin+,1,9
-Jyuratodus,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Scale,1,100
+Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Shell,1,27
+Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Scale,1,21
+Jyuratodus,Quest Reward (Bronze),LR,Aqua Sac,1,18
+Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Fang,1,15
+Jyuratodus,Quest Reward (Bronze),LR,Monster Bone M,2,10
+Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Fin,1,9
+Jyuratodus,Quest Reward (Bronze),HR,Jyuratodus Scale+,1,100
+Jyuratodus,Quest Reward (Bronze),HR,Jyuratodus Carapace,1,26
+Jyuratodus,Quest Reward (Bronze),HR,Jyuratodus Scale+,1,21
+Jyuratodus,Quest Reward (Bronze),HR,Torrent Sac,1,18
+Jyuratodus,Quest Reward (Bronze),HR,Jyuratodus Fang+,1,15
+Jyuratodus,Quest Reward (Bronze),HR,Monster Keenbone,2,10
+Jyuratodus,Quest Reward (Bronze),HR,Jyuratodus Fin+,1,9
+Jyuratodus,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Jyuratodus,Investigation (Silver),LR,Jyuratodus Fang,1,32
 Jyuratodus,Investigation (Silver),LR,Jyuratodus Fin,1,25
 Jyuratodus,Investigation (Silver),LR,Jyuratodus Shell,2,18
@@ -611,21 +611,21 @@ Tobi-Kadachi,Capture,HR,Tobi-Kadachi Membrane,1,16
 Tobi-Kadachi,Capture,HR,Tobi-Kadachi Claw+,1,15
 Tobi-Kadachi,Capture,HR,Tobi-Kadachi Electrode+,1,12
 Tobi-Kadachi,Capture,HR,Wyvern Gem,1,2
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Tobi-Kadachi Scale,1,100
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Tobi-Kadachi Pelt,1,26
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Tobi-Kadachi Scale,1,20
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Electro Sac,1,18
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Tobi-Kadachi Membrane,1,16
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Monster Bone M,1,11
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),LR,Tobi-Kadachi Claw,1,9
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Tobi-Kadachi Scale+,1,100
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Tobi-Kadachi Pelt+,1,24
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Tobi-Kadachi Scale+,1,20
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Thunder Sac,1,18
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Tobi-Kadachi Membrane,1,15
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,13
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Tobi-Kadachi Claw+,1,9
-Tobi-Kadachi,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Scale,1,100
+Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Pelt,1,26
+Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Scale,1,20
+Tobi-Kadachi,Quest Reward (Bronze),LR,Electro Sac,1,18
+Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Membrane,1,16
+Tobi-Kadachi,Quest Reward (Bronze),LR,Monster Bone M,1,11
+Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Claw,1,9
+Tobi-Kadachi,Quest Reward (Bronze),HR,Tobi-Kadachi Scale+,1,100
+Tobi-Kadachi,Quest Reward (Bronze),HR,Tobi-Kadachi Pelt+,1,24
+Tobi-Kadachi,Quest Reward (Bronze),HR,Tobi-Kadachi Scale+,1,20
+Tobi-Kadachi,Quest Reward (Bronze),HR,Thunder Sac,1,18
+Tobi-Kadachi,Quest Reward (Bronze),HR,Tobi-Kadachi Membrane,1,15
+Tobi-Kadachi,Quest Reward (Bronze),HR,Monster Keenbone,1,13
+Tobi-Kadachi,Quest Reward (Bronze),HR,Tobi-Kadachi Claw+,1,9
+Tobi-Kadachi,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Tobi-Kadachi,Investigation (Silver),LR,Tobi-Kadachi Membrane,1,22
 Tobi-Kadachi,Investigation (Silver),LR,Tobi-Kadachi Pelt,2,18
 Tobi-Kadachi,Investigation (Silver),LR,Tobi-Kadachi Claw,1,18
@@ -714,22 +714,22 @@ Anjanath,Capture,HR,Anjanath Nosebone+,1,20
 Anjanath,Capture,HR,Anjanath Fang+,1,15
 Anjanath,Capture,HR,Anjanath Plate,1,5
 Anjanath,Capture,HR,Anjanath Gem,1,2
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Scale,1,100
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Pelt,1,27
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Scale,1,21
-Anjanath,Quest Reward / Investigation (Bronze),LR,Flame Sac,1,18
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Nosebone,1,12
-Anjanath,Quest Reward / Investigation (Bronze),LR,Monster Bone L,2,10
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Tail,1,9
-Anjanath,Quest Reward / Investigation (Bronze),LR,Anjanath Plate,1,3
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Scale+,1,100
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Pelt+,1,27
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Scale+,1,21
-Anjanath,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Nosebone+,1,12
-Anjanath,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,2,10
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Tail,1,9
-Anjanath,Quest Reward / Investigation (Bronze),HR,Anjanath Plate,1,3
+Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,100
+Anjanath,Quest Reward (Bronze),LR,Anjanath Pelt,1,27
+Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,21
+Anjanath,Quest Reward (Bronze),LR,Flame Sac,1,18
+Anjanath,Quest Reward (Bronze),LR,Anjanath Nosebone,1,12
+Anjanath,Quest Reward (Bronze),LR,Monster Bone L,2,10
+Anjanath,Quest Reward (Bronze),LR,Anjanath Tail,1,9
+Anjanath,Quest Reward (Bronze),LR,Anjanath Plate,1,3
+Anjanath,Quest Reward (Bronze),HR,Anjanath Scale+,1,100
+Anjanath,Quest Reward (Bronze),HR,Anjanath Pelt+,1,27
+Anjanath,Quest Reward (Bronze),HR,Anjanath Scale+,1,21
+Anjanath,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Anjanath,Quest Reward (Bronze),HR,Anjanath Nosebone+,1,12
+Anjanath,Quest Reward (Bronze),HR,Monster Keenbone,2,10
+Anjanath,Quest Reward (Bronze),HR,Anjanath Tail,1,9
+Anjanath,Quest Reward (Bronze),HR,Anjanath Plate,1,3
 Anjanath,Investigation (Silver),LR,Anjanath Tail,1,21
 Anjanath,Investigation (Silver),LR,Anjanath Fang,1,18
 Anjanath,Investigation (Silver),LR,Anjanath Nosebone,1,17
@@ -819,22 +819,22 @@ Rathian,Capture,HR,Rathian Webbing,1,20
 Rathian,Capture,HR,Rathian Spike+,1,16
 Rathian,Capture,HR,Rathian Plate,1,5
 Rathian,Capture,HR,Rathian Ruby,1,1
-Rathian,Quest Reward / Investigation (Bronze),LR,Rathian Scale,1,100
-Rathian,Quest Reward / Investigation (Bronze),LR,Rathian Shell,1,27
-Rathian,Quest Reward / Investigation (Bronze),LR,Rathian Scale,1,21
-Rathian,Quest Reward / Investigation (Bronze),LR,Flame Sac,1,18
-Rathian,Quest Reward / Investigation (Bronze),LR,Rath Wingtalon,1,12
-Rathian,Quest Reward / Investigation (Bronze),LR,Monster Bone L,1,10
-Rathian,Quest Reward / Investigation (Bronze),LR,Rathian Webbing,1,9
-Rathian,Quest Reward / Investigation (Bronze),LR,Rathian Plate,1,3
-Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Scale+,1,100
-Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Carapace,1,27
-Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Scale+,1,21
-Rathian,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Rathian,Quest Reward / Investigation (Bronze),HR,Rath Wingtalon,2,12
-Rathian,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,2,10
-Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Webbing,2,9
-Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Plate,1,3
+Rathian,Quest Reward (Bronze),LR,Rathian Scale,1,100
+Rathian,Quest Reward (Bronze),LR,Rathian Shell,1,27
+Rathian,Quest Reward (Bronze),LR,Rathian Scale,1,21
+Rathian,Quest Reward (Bronze),LR,Flame Sac,1,18
+Rathian,Quest Reward (Bronze),LR,Rath Wingtalon,1,12
+Rathian,Quest Reward (Bronze),LR,Monster Bone L,1,10
+Rathian,Quest Reward (Bronze),LR,Rathian Webbing,1,9
+Rathian,Quest Reward (Bronze),LR,Rathian Plate,1,3
+Rathian,Quest Reward (Bronze),HR,Rathian Scale+,1,100
+Rathian,Quest Reward (Bronze),HR,Rathian Carapace,1,27
+Rathian,Quest Reward (Bronze),HR,Rathian Scale+,1,21
+Rathian,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Rathian,Quest Reward (Bronze),HR,Rath Wingtalon,2,12
+Rathian,Quest Reward (Bronze),HR,Monster Keenbone,2,10
+Rathian,Quest Reward (Bronze),HR,Rathian Webbing,2,9
+Rathian,Quest Reward (Bronze),HR,Rathian Plate,1,3
 Rathian,Investigation (Silver),LR,Rathian Spike,1,22
 Rathian,Investigation (Silver),LR,Rath Wingtalon,1,17
 Rathian,Investigation (Silver),LR,Rathian Webbing,1,15
@@ -919,21 +919,21 @@ Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Scale+,1,35
 Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Hide+,1,27
 Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Claw+,1,14
 Tzitzi-Ya-Ku,Capture,HR,Bird Wyvern Gem,1,4
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Tzitzi-Ya-Ku Scale,1,100
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Tzitzi-Ya-Ku Hide,1,27
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Tzitzi-Ya-Ku Scale,1,21
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Monster Bone L,1,16
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Tzitzi-Ya-Ku Claw,1,15
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Dash Extract,1,12
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),LR,Tzitzi-Ya-Ku Photophore,1,9
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Tzitzi-Ya-Ku Scale+,1,100
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Tzitzi-Ya-Ku Hide+,1,26
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Tzitzi-Ya-Ku Scale+,1,20
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Monster Bone+,1,16
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Tzitzi-Ya-Ku Claw+,1,14
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Dash Extract,2,12
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Tzitzi-Ya-Ku Photophore+,1,9
-Tzitzi-Ya-Ku,Quest Reward / Investigation (Bronze),HR,Bird Wyvern Gem,1,3
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Scale,1,100
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Hide,1,27
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Scale,1,21
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Monster Bone L,1,16
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Claw,1,15
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Dash Extract,1,12
+Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Photophore,1,9
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Tzitzi-Ya-Ku Scale+,1,100
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Tzitzi-Ya-Ku Hide+,1,26
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Tzitzi-Ya-Ku Scale+,1,20
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Monster Bone+,1,16
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Tzitzi-Ya-Ku Claw+,1,14
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Dash Extract,2,12
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Tzitzi-Ya-Ku Photophore+,1,9
+Tzitzi-Ya-Ku,Quest Reward (Bronze),HR,Bird Wyvern Gem,1,3
 Tzitzi-Ya-Ku,Investigation (Silver),LR,Tzitzi-Ya-Ku Claw,1,32
 Tzitzi-Ya-Ku,Investigation (Silver),LR,Tzitzi-Ya-Ku Photophore,1,25
 Tzitzi-Ya-Ku,Investigation (Silver),LR,Tzitzi-Ya-Ku Hide,2,18
@@ -997,21 +997,21 @@ Paolumu,Capture,HR,Paolumu Pelt+,1,28
 Paolumu,Capture,HR,Paolumu Wing,1,21
 Paolumu,Capture,HR,Paolumu Carapace+,1,15
 Paolumu,Capture,HR,Wyvern Gem,1,2
-Paolumu,Quest Reward / Investigation (Bronze),LR,Paolumu Scale,1,100
-Paolumu,Quest Reward / Investigation (Bronze),LR,Paolumu Pelt,1,27
-Paolumu,Quest Reward / Investigation (Bronze),LR,Paolumu Scale,1,21
-Paolumu,Quest Reward / Investigation (Bronze),LR,Monster Bone L,1,16
-Paolumu,Quest Reward / Investigation (Bronze),LR,Paolumu Shell,1,15
-Paolumu,Quest Reward / Investigation (Bronze),LR,Nourishing Extract,1,12
-Paolumu,Quest Reward / Investigation (Bronze),LR,Paolumu Webbing,1,9
-Paolumu,Quest Reward / Investigation (Bronze),HR,Paolumu Scale+,1,100
-Paolumu,Quest Reward / Investigation (Bronze),HR,Paolumu Pelt+,1,26
-Paolumu,Quest Reward / Investigation (Bronze),HR,Paolumu Scale+,1,20
-Paolumu,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,16
-Paolumu,Quest Reward / Investigation (Bronze),HR,Paolumu Carapace+,1,14
-Paolumu,Quest Reward / Investigation (Bronze),HR,Nourishing Extract,2,14
-Paolumu,Quest Reward / Investigation (Bronze),HR,Paolumu Wing,2,9
-Paolumu,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Paolumu,Quest Reward (Bronze),LR,Paolumu Scale,1,100
+Paolumu,Quest Reward (Bronze),LR,Paolumu Pelt,1,27
+Paolumu,Quest Reward (Bronze),LR,Paolumu Scale,1,21
+Paolumu,Quest Reward (Bronze),LR,Monster Bone L,1,16
+Paolumu,Quest Reward (Bronze),LR,Paolumu Shell,1,15
+Paolumu,Quest Reward (Bronze),LR,Nourishing Extract,1,12
+Paolumu,Quest Reward (Bronze),LR,Paolumu Webbing,1,9
+Paolumu,Quest Reward (Bronze),HR,Paolumu Scale+,1,100
+Paolumu,Quest Reward (Bronze),HR,Paolumu Pelt+,1,26
+Paolumu,Quest Reward (Bronze),HR,Paolumu Scale+,1,20
+Paolumu,Quest Reward (Bronze),HR,Monster Keenbone,1,16
+Paolumu,Quest Reward (Bronze),HR,Paolumu Carapace+,1,14
+Paolumu,Quest Reward (Bronze),HR,Nourishing Extract,2,14
+Paolumu,Quest Reward (Bronze),HR,Paolumu Wing,2,9
+Paolumu,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Paolumu,Investigation (Silver),LR,Paolumu Shell,1,32
 Paolumu,Investigation (Silver),LR,Paolumu Webbing,2,25
 Paolumu,Investigation (Silver),LR,Paolumu Pelt,1,18
@@ -1087,20 +1087,20 @@ Great Girros,Capture,HR,Great Girros Hide+,1,24
 Great Girros,Capture,HR,Great Girros Fang+,1,18
 Great Girros,Capture,HR,Great Girros Hood+,1,15
 Great Girros,Capture,HR,Great Girros Tail,1,12
-Great Girros,Quest Reward / Investigation (Bronze),LR,Great Girros Scale,1,100
-Great Girros,Quest Reward / Investigation (Bronze),LR,Great Girros Hide,1,26
-Great Girros,Quest Reward / Investigation (Bronze),LR,Great Girros Scale,1,21
-Great Girros,Quest Reward / Investigation (Bronze),LR,Paralysis Sac,1,18
-Great Girros,Quest Reward / Investigation (Bronze),LR,Great Girros Fang,1,16
-Great Girros,Quest Reward / Investigation (Bronze),LR,Monster Bone L,2,10
-Great Girros,Quest Reward / Investigation (Bronze),LR,Great Girros Hood,1,9
-Great Girros,Quest Reward / Investigation (Bronze),HR,Great Girros Scale+,1,100
-Great Girros,Quest Reward / Investigation (Bronze),HR,Great Girros Hide+,1,26
-Great Girros,Quest Reward / Investigation (Bronze),HR,Great Girros Scale+,1,21
-Great Girros,Quest Reward / Investigation (Bronze),HR,Omniplegia Sac,1,18
-Great Girros,Quest Reward / Investigation (Bronze),HR,Great Girros Fang+,1,16
-Great Girros,Quest Reward / Investigation (Bronze),HR,Monster Bone+,2,10
-Great Girros,Quest Reward / Investigation (Bronze),HR,Great Girros Hood+,1,9
+Great Girros,Quest Reward (Bronze),LR,Great Girros Scale,1,100
+Great Girros,Quest Reward (Bronze),LR,Great Girros Hide,1,26
+Great Girros,Quest Reward (Bronze),LR,Great Girros Scale,1,21
+Great Girros,Quest Reward (Bronze),LR,Paralysis Sac,1,18
+Great Girros,Quest Reward (Bronze),LR,Great Girros Fang,1,16
+Great Girros,Quest Reward (Bronze),LR,Monster Bone L,2,10
+Great Girros,Quest Reward (Bronze),LR,Great Girros Hood,1,9
+Great Girros,Quest Reward (Bronze),HR,Great Girros Scale+,1,100
+Great Girros,Quest Reward (Bronze),HR,Great Girros Hide+,1,26
+Great Girros,Quest Reward (Bronze),HR,Great Girros Scale+,1,21
+Great Girros,Quest Reward (Bronze),HR,Omniplegia Sac,1,18
+Great Girros,Quest Reward (Bronze),HR,Great Girros Fang+,1,16
+Great Girros,Quest Reward (Bronze),HR,Monster Bone+,2,10
+Great Girros,Quest Reward (Bronze),HR,Great Girros Hood+,1,9
 Great Girros,Investigation (Silver),LR,Great Girros Fang,1,22
 Great Girros,Investigation (Silver),LR,Great Jagras Hide,2,18
 Great Girros,Investigation (Silver),LR,Great Girros Hood,1,18
@@ -1183,21 +1183,21 @@ Radobaan,Capture,HR,Radobaan Carapace,1,28
 Radobaan,Capture,HR,Radobaan Oilshell,1,20
 Radobaan,Capture,HR,Radobaan Medulla,1,14
 Radobaan,Capture,HR,Wyvern Gem,1,2
-Radobaan,Quest Reward / Investigation (Bronze),LR,Radobaan Scale,1,100
-Radobaan,Quest Reward / Investigation (Bronze),LR,Radobaan Shell,1,27
-Radobaan,Quest Reward / Investigation (Bronze),LR,Radobaan Scale,1,21
-Radobaan,Quest Reward / Investigation (Bronze),LR,Sleep Sac,1,18
-Radobaan,Quest Reward / Investigation (Bronze),LR,Radobaan Oilshell,1,12
-Radobaan,Quest Reward / Investigation (Bronze),LR,Radobaan Marrow,1,12
-Radobaan,Quest Reward / Investigation (Bronze),LR,Monster Bone L,2,10
-Radobaan,Quest Reward / Investigation (Bronze),HR,Radobaan Scale+,1,100
-Radobaan,Quest Reward / Investigation (Bronze),HR,Radobaan Carapace,1,26
-Radobaan,Quest Reward / Investigation (Bronze),HR,Radobaan Scale+,1,21
-Radobaan,Quest Reward / Investigation (Bronze),HR,Coma Sac,1,18
-Radobaan,Quest Reward / Investigation (Bronze),HR,Radobaan Oilshell,2,12
-Radobaan,Quest Reward / Investigation (Bronze),HR,Radobaan Medulla,1,12
-Radobaan,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,2,10
-Radobaan,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Radobaan,Quest Reward (Bronze),LR,Radobaan Scale,1,100
+Radobaan,Quest Reward (Bronze),LR,Radobaan Shell,1,27
+Radobaan,Quest Reward (Bronze),LR,Radobaan Scale,1,21
+Radobaan,Quest Reward (Bronze),LR,Sleep Sac,1,18
+Radobaan,Quest Reward (Bronze),LR,Radobaan Oilshell,1,12
+Radobaan,Quest Reward (Bronze),LR,Radobaan Marrow,1,12
+Radobaan,Quest Reward (Bronze),LR,Monster Bone L,2,10
+Radobaan,Quest Reward (Bronze),HR,Radobaan Scale+,1,100
+Radobaan,Quest Reward (Bronze),HR,Radobaan Carapace,1,26
+Radobaan,Quest Reward (Bronze),HR,Radobaan Scale+,1,21
+Radobaan,Quest Reward (Bronze),HR,Coma Sac,1,18
+Radobaan,Quest Reward (Bronze),HR,Radobaan Oilshell,2,12
+Radobaan,Quest Reward (Bronze),HR,Radobaan Medulla,1,12
+Radobaan,Quest Reward (Bronze),HR,Monster Keenbone,2,10
+Radobaan,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Radobaan,Investigation (Silver),LR,Radobaan Oilshell,1,22
 Radobaan,Investigation (Silver),LR,Radobaan Scale,2,18
 Radobaan,Investigation (Silver),LR,Wyvern Bonemass,1,18
@@ -1282,21 +1282,21 @@ Legiana,Capture,HR,Legiana Claw+,1,20
 Legiana,Capture,HR,Legiana Wing,1,15
 Legiana,Capture,HR,Legiana Plate,1,5
 Legiana,Capture,HR,Legiana Gem,1,2
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Scale,1,100
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Hide,1,27
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Scale,1,21
-Legiana,Quest Reward / Investigation (Bronze),LR,Freezer Sac,1,18
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Claw,1,12
-Legiana,Quest Reward / Investigation (Bronze),LR,Monster Bone+,1,10
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Webbing,1,9
-Legiana,Quest Reward / Investigation (Bronze),LR,Legiana Plate,1,3
-Legiana,Quest Reward / Investigation (Bronze),HR,Legiana Hide+,1,27
-Legiana,Quest Reward / Investigation (Bronze),HR,Legiana Scale+,1,21
-Legiana,Quest Reward / Investigation (Bronze),HR,Freezer Sac,1,18
-Legiana,Quest Reward / Investigation (Bronze),HR,Legiana Claw+,1,12
-Legiana,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,1,10
-Legiana,Quest Reward / Investigation (Bronze),HR,Legiana Wing,1,9
-Legiana,Quest Reward / Investigation (Bronze),HR,Legiana Plate,1,3
+Legiana,Quest Reward (Bronze),LR,Legiana Scale,1,100
+Legiana,Quest Reward (Bronze),LR,Legiana Hide,1,27
+Legiana,Quest Reward (Bronze),LR,Legiana Scale,1,21
+Legiana,Quest Reward (Bronze),LR,Freezer Sac,1,18
+Legiana,Quest Reward (Bronze),LR,Legiana Claw,1,12
+Legiana,Quest Reward (Bronze),LR,Monster Bone+,1,10
+Legiana,Quest Reward (Bronze),LR,Legiana Webbing,1,9
+Legiana,Quest Reward (Bronze),LR,Legiana Plate,1,3
+Legiana,Quest Reward (Bronze),HR,Legiana Hide+,1,27
+Legiana,Quest Reward (Bronze),HR,Legiana Scale+,1,21
+Legiana,Quest Reward (Bronze),HR,Freezer Sac,1,18
+Legiana,Quest Reward (Bronze),HR,Legiana Claw+,1,12
+Legiana,Quest Reward (Bronze),HR,Monster Hardbone,1,10
+Legiana,Quest Reward (Bronze),HR,Legiana Wing,1,9
+Legiana,Quest Reward (Bronze),HR,Legiana Plate,1,3
 Legiana,Investigation (Silver),LR,Legiana Tail Webbing,1,22
 Legiana,Investigation (Silver),LR,Legiana Webbing,1,17
 Legiana,Investigation (Silver),LR,Legiana Claw,1,16
@@ -1399,21 +1399,21 @@ Odogaron,Capture,HR,Odogaron Claw+,1,20
 Odogaron,Capture,HR,Odogaron Fang+,1,15
 Odogaron,Capture,HR,Odogaron Plate,1,5
 Odogaron,Capture,HR,Odogaron Gem,1,2
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Sinew,1,100
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Sinew,1,27
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Scale,1,20
-Odogaron,Quest Reward / Investigation (Bronze),LR,Nourishing Extract,1,16
-Odogaron,Quest Reward / Investigation (Bronze),LR,Monster Bone+,1,13
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Claw,1,12
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Tail,1,9
-Odogaron,Quest Reward / Investigation (Bronze),LR,Odogaron Plate,1,3
-Odogaron,Quest Reward / Investigation (Bronze),HR,Odogaron Sinew+,1,26
-Odogaron,Quest Reward / Investigation (Bronze),HR,Odogaron Scale+,1,21
-Odogaron,Quest Reward / Investigation (Bronze),HR,Nourishing Extract,2,16
-Odogaron,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,13
-Odogaron,Quest Reward / Investigation (Bronze),HR,Odogaron Claw+,1,12
-Odogaron,Quest Reward / Investigation (Bronze),HR,Odogaron Tail,1,9
-Odogaron,Quest Reward / Investigation (Bronze),HR,Odogaron Plate,1,3
+Odogaron,Quest Reward (Bronze),LR,Odogaron Sinew,1,100
+Odogaron,Quest Reward (Bronze),LR,Odogaron Sinew,1,27
+Odogaron,Quest Reward (Bronze),LR,Odogaron Scale,1,20
+Odogaron,Quest Reward (Bronze),LR,Nourishing Extract,1,16
+Odogaron,Quest Reward (Bronze),LR,Monster Bone+,1,13
+Odogaron,Quest Reward (Bronze),LR,Odogaron Claw,1,12
+Odogaron,Quest Reward (Bronze),LR,Odogaron Tail,1,9
+Odogaron,Quest Reward (Bronze),LR,Odogaron Plate,1,3
+Odogaron,Quest Reward (Bronze),HR,Odogaron Sinew+,1,26
+Odogaron,Quest Reward (Bronze),HR,Odogaron Scale+,1,21
+Odogaron,Quest Reward (Bronze),HR,Nourishing Extract,2,16
+Odogaron,Quest Reward (Bronze),HR,Monster Hardbone,2,13
+Odogaron,Quest Reward (Bronze),HR,Odogaron Claw+,1,12
+Odogaron,Quest Reward (Bronze),HR,Odogaron Tail,1,9
+Odogaron,Quest Reward (Bronze),HR,Odogaron Plate,1,3
 Odogaron,Investigation (Silver),LR,Odogaron Tail,1,21
 Odogaron,Investigation (Silver),LR,Odogaron Claw,1,18
 Odogaron,Investigation (Silver),LR,Odogaron Fang,1,17
@@ -1510,22 +1510,22 @@ Rathalos,Capture,HR,Rathalos Wing,1,20
 Rathalos,Capture,HR,Rathalos Medulla,1,14
 Rathalos,Capture,HR,Rathalos Plate,1,7
 Rathalos,Capture,HR,Rathalos Ruby,1,1
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Scale,1,100
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Shell,1,24
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Scale,1,19
-Rathalos,Quest Reward / Investigation (Bronze),LR,Flame Sac,1,17
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rath Wingtalon,2,10
-Rathalos,Quest Reward / Investigation (Bronze),LR,Monster Bone+,2,10
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Webbing,1,9
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Tail,1,8
-Rathalos,Quest Reward / Investigation (Bronze),LR,Rathalos Plate,1,3
-Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Carapace,1,27
-Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Scale+,1,21
-Rathalos,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Wing,1,12
-Rathalos,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,10
-Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Tail,1,9
-Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Plate,1,3
+Rathalos,Quest Reward (Bronze),LR,Rathalos Scale,1,100
+Rathalos,Quest Reward (Bronze),LR,Rathalos Shell,1,24
+Rathalos,Quest Reward (Bronze),LR,Rathalos Scale,1,19
+Rathalos,Quest Reward (Bronze),LR,Flame Sac,1,17
+Rathalos,Quest Reward (Bronze),LR,Rath Wingtalon,2,10
+Rathalos,Quest Reward (Bronze),LR,Monster Bone+,2,10
+Rathalos,Quest Reward (Bronze),LR,Rathalos Webbing,1,9
+Rathalos,Quest Reward (Bronze),LR,Rathalos Tail,1,8
+Rathalos,Quest Reward (Bronze),LR,Rathalos Plate,1,3
+Rathalos,Quest Reward (Bronze),HR,Rathalos Carapace,1,27
+Rathalos,Quest Reward (Bronze),HR,Rathalos Scale+,1,21
+Rathalos,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Rathalos,Quest Reward (Bronze),HR,Rathalos Wing,1,12
+Rathalos,Quest Reward (Bronze),HR,Monster Hardbone,2,10
+Rathalos,Quest Reward (Bronze),HR,Rathalos Tail,1,9
+Rathalos,Quest Reward (Bronze),HR,Rathalos Plate,1,3
 Rathalos,Investigation (Silver),LR,Rathalos Webbing,2,16
 Rathalos,Investigation (Silver),LR,Rathalos Tail,1,16
 Rathalos,Investigation (Silver),LR,Rath Wingtalon,2,15
@@ -1623,19 +1623,19 @@ Diablos,Capture,HR,Diablos Fang,1,15
 Diablos,Capture,HR,Diablos Marrow,1,15
 Diablos,Capture,HR,Diablos Tailcase,1,12
 Diablos,Capture,HR,Wyvern Gem,1,3
-Diablos,Quest Reward / Investigation (Bronze),LR,Diablos Ridge,1,26
-Diablos,Quest Reward / Investigation (Bronze),LR,Diablos Shell,1,21
-Diablos,Quest Reward / Investigation (Bronze),LR,Dash Extract,1,16
-Diablos,Quest Reward / Investigation (Bronze),LR,Diablos Fang,1,15
-Diablos,Quest Reward / Investigation (Bronze),LR,Monster Bone+,1,13
-Diablos,Quest Reward / Investigation (Bronze),LR,Diablos Marrow,1,9
-Diablos,Quest Reward / Investigation (Bronze),HR,Diablos Ridge+,1,26
-Diablos,Quest Reward / Investigation (Bronze),HR,Diablos Carapace,1,21
-Diablos,Quest Reward / Investigation (Bronze),HR,Dash Extract,2,16
-Diablos,Quest Reward / Investigation (Bronze),HR,Diablos Fang,1,14
-Diablos,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,1,13
-Diablos,Quest Reward / Investigation (Bronze),HR,Blos Medulla,1,9
-Diablos,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Diablos,Quest Reward (Bronze),LR,Diablos Ridge,1,26
+Diablos,Quest Reward (Bronze),LR,Diablos Shell,1,21
+Diablos,Quest Reward (Bronze),LR,Dash Extract,1,16
+Diablos,Quest Reward (Bronze),LR,Diablos Fang,1,15
+Diablos,Quest Reward (Bronze),LR,Monster Bone+,1,13
+Diablos,Quest Reward (Bronze),LR,Diablos Marrow,1,9
+Diablos,Quest Reward (Bronze),HR,Diablos Ridge+,1,26
+Diablos,Quest Reward (Bronze),HR,Diablos Carapace,1,21
+Diablos,Quest Reward (Bronze),HR,Dash Extract,2,16
+Diablos,Quest Reward (Bronze),HR,Diablos Fang,1,14
+Diablos,Quest Reward (Bronze),HR,Monster Hardbone,1,13
+Diablos,Quest Reward (Bronze),HR,Blos Medulla,1,9
+Diablos,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Diablos,Investigation (Silver),LR,Diablos Tailcase,1,20
 Diablos,Investigation (Silver),LR,Diablos Fang,1,18
 Diablos,Investigation (Silver),LR,Diablos Marrow,1,17
@@ -1700,18 +1700,18 @@ Kirin,Shiny Drop,LR,Dragon Treasure,1,9
 Kirin,Shiny Drop,HR,Kirin Hide+,1,50
 Kirin,Shiny Drop,HR,Kirin Mane,1,28
 Kirin,Shiny Drop,HR,Dragon Treasure,1,22
-Kirin,Quest Reward / Investigation (Bronze),LR,Kirin Hide,1,100
-Kirin,Quest Reward / Investigation (Bronze),LR,Kirin Mane,1,35
-Kirin,Quest Reward / Investigation (Bronze),LR,Kirin Hide,1,20
-Kirin,Quest Reward / Investigation (Bronze),LR,Kirin Tail,1,20
-Kirin,Quest Reward / Investigation (Bronze),LR,Kirin Thunderhorn,1,16
-Kirin,Quest Reward / Investigation (Bronze),LR,Lightcrystal,1,9
-Kirin,Quest Reward / Investigation (Bronze),HR,Kirin Mane,1,28
-Kirin,Quest Reward / Investigation (Bronze),HR,Kirin Hide+,1,21
-Kirin,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,1,16
-Kirin,Quest Reward / Investigation (Bronze),HR,Kirin Thundertail,1,13
-Kirin,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,1,13
-Kirin,Quest Reward / Investigation (Bronze),HR,Novacrystal,1,9
+Kirin,Quest Reward (Bronze),LR,Kirin Hide,1,100
+Kirin,Quest Reward (Bronze),LR,Kirin Mane,1,35
+Kirin,Quest Reward (Bronze),LR,Kirin Hide,1,20
+Kirin,Quest Reward (Bronze),LR,Kirin Tail,1,20
+Kirin,Quest Reward (Bronze),LR,Kirin Thunderhorn,1,16
+Kirin,Quest Reward (Bronze),LR,Lightcrystal,1,9
+Kirin,Quest Reward (Bronze),HR,Kirin Mane,1,28
+Kirin,Quest Reward (Bronze),HR,Kirin Hide+,1,21
+Kirin,Quest Reward (Bronze),HR,Elder Dragon Blood,1,16
+Kirin,Quest Reward (Bronze),HR,Kirin Thundertail,1,13
+Kirin,Quest Reward (Bronze),HR,Elder Dragon Bone,1,13
+Kirin,Quest Reward (Bronze),HR,Novacrystal,1,9
 Kirin,Investigation (Silver),LR,Kirin Tail,1,28
 Kirin,Investigation (Silver),LR,Kirin Thunderhorn,1,22
 Kirin,Investigation (Silver),LR,Kirin Mane,2,18
@@ -1765,20 +1765,20 @@ Zorah Magdaros,Red Crystal Mining / Shiny,LR,Lightcrystal,1,10
 Zorah Magdaros,Red Crystal Mining / Shiny,HR,Dragonite Ore,1,60
 Zorah Magdaros,Red Crystal Mining / Shiny,HR,Zorah Magdaros Carapace,1,30
 Zorah Magdaros,Red Crystal Mining / Shiny,HR,Lightcrystal,1,10
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Heat Scale,1,100
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Ridge,1,24
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Heat Scale,1,21
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Pleura,1,18
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Magma,1,18
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Zorah Magdaros Carapace,1,15
-Zorah Magdaros,Quest Reward / Investigation (Bronze),LR,Lightcrystal,1,4
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Heat Scale,1,100
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Ridge,1,23
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Heat Scale,1,20
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Pleura,1,18
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Magma,1,16
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Carapace,1,15
-Zorah Magdaros,Quest Reward / Investigation (Bronze),HR,Zorah Magdaros Gem,1,8
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Heat Scale,1,100
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Ridge,1,24
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Heat Scale,1,21
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Pleura,1,18
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Magma,1,18
+Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Carapace,1,15
+Zorah Magdaros,Quest Reward (Bronze),LR,Lightcrystal,1,4
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Heat Scale,1,100
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Ridge,1,23
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Heat Scale,1,20
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Pleura,1,18
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Magma,1,16
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Carapace,1,15
+Zorah Magdaros,Quest Reward (Bronze),HR,Zorah Magdaros Gem,1,8
 Zorah Magdaros,Palico Bonus,LR,Dragonite Ore,1,55
 Zorah Magdaros,Palico Bonus,LR,Zorah Magdaros Carapace,1,30
 Zorah Magdaros,Palico Bonus,LR,Zorah Magdaros Heat Scale,1,15
@@ -1813,12 +1813,12 @@ Dodogama,Capture,HR,Dodogama Hide+,1,24
 Dodogama,Capture,HR,Dodogama Jaw,1,18
 Dodogama,Capture,HR,Dodogama Talon,1,15
 Dodogama,Capture,HR,Dodogama Tail,1,12
-Dodogama,Quest Reward / Investigation (Bronze),HR,Dodogama Hide+,1,26
-Dodogama,Quest Reward / Investigation (Bronze),HR,Dodogama Scale+,1,20
-Dodogama,Quest Reward / Investigation (Bronze),HR,Dodogama Talon,1,16
-Dodogama,Quest Reward / Investigation (Bronze),HR,Nourishing Extract,1,16
-Dodogama,Quest Reward / Investigation (Bronze),HR,Monster Keenbone,1,13
-Dodogama,Quest Reward / Investigation (Bronze),HR,Dodogama Jaw,1,9
+Dodogama,Quest Reward (Bronze),HR,Dodogama Hide+,1,26
+Dodogama,Quest Reward (Bronze),HR,Dodogama Scale+,1,20
+Dodogama,Quest Reward (Bronze),HR,Dodogama Talon,1,16
+Dodogama,Quest Reward (Bronze),HR,Nourishing Extract,1,16
+Dodogama,Quest Reward (Bronze),HR,Monster Keenbone,1,13
+Dodogama,Quest Reward (Bronze),HR,Dodogama Jaw,1,9
 Dodogama,Investigation (Silver),HR,Dodogama Talon,1,30
 Dodogama,Investigation (Silver),HR,Dodogama Jaw,1,25
 Dodogama,Investigation (Silver),HR,Dodogama Hide+,2,17
@@ -1857,14 +1857,14 @@ Pink Rathian,Capture,HR,Rath Wingtalon,1,20
 Pink Rathian,Capture,HR,Rathian Webbing,1,15
 Pink Rathian,Capture,HR,Rathian Plate,1,5
 Pink Rathian,Capture,HR,Rathian Ruby,1,2
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Pink Rathian Scale+,1,100
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Pink Rathian Carapace,1,27
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Pink Rathian Scale+,1,21
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Rath Wingtalon,1,12
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,10
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Webbing,2,9
-Pink Rathian,Quest Reward / Investigation (Bronze),HR,Rathian Plate,1,3
+Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Scale+,1,100
+Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Carapace,1,27
+Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Scale+,1,21
+Pink Rathian,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Pink Rathian,Quest Reward (Bronze),HR,Rath Wingtalon,1,12
+Pink Rathian,Quest Reward (Bronze),HR,Monster Hardbone,2,10
+Pink Rathian,Quest Reward (Bronze),HR,Rathian Webbing,2,9
+Pink Rathian,Quest Reward (Bronze),HR,Rathian Plate,1,3
 Pink Rathian,Investigation (Silver),HR,Rathian Spike+,1,21
 Pink Rathian,Investigation (Silver),HR,Pink Rathian Carapace,2,18
 Pink Rathian,Investigation (Silver),HR,Pink Rathian Scale+,2,16
@@ -1913,13 +1913,13 @@ Bazelgeuse,Capture,HR,Bazelgeuse Talon,1,17
 Bazelgeuse,Capture,HR,Bazelgeuse Fuse,1,14
 Bazelgeuse,Capture,HR,Bazelgeuse Wing,1,11
 Bazelgeuse,Capture,HR,Bazelgeuse Gem,1,2
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Carapace,1,26
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Scale+,1,20
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Talon,1,14
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Fuse,1,12
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,11
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Wing,1,9
-Bazelgeuse,Quest Reward / Investigation (Bronze),HR,Bazelgeuse Tail,1,8
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Carapace,1,26
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Scale+,1,20
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Talon,1,14
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Fuse,1,12
+Bazelgeuse,Quest Reward (Bronze),HR,Monster Hardbone,2,11
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Wing,1,9
+Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Tail,1,8
 Bazelgeuse,Investigation (Silver),HR,Bazelgeuse Talon,1,24
 Bazelgeuse,Investigation (Silver),HR,Bazelgeuse Fuse,1,18
 Bazelgeuse,Investigation (Silver),HR,Bazelgeuse Carapace,2,14
@@ -1963,13 +1963,13 @@ Lavasioth,Capture,HR,Lavasioth Carapace,1,27
 Lavasioth,Capture,HR,Lavasioth Fin+,1,20
 Lavasioth,Capture,HR,Lavasioth Fang+,1,15
 Lavasioth,Capture,HR,Wyvern Gem,1,3
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Lavasioth Carapace,1,27
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Lavasioth Scale+,1,24
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Lavasioth Fang+,1,15
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,14
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,10
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Lavasioth Fin+,1,9
-Lavasioth,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Lavasioth,Quest Reward (Bronze),HR,Lavasioth Carapace,1,27
+Lavasioth,Quest Reward (Bronze),HR,Lavasioth Scale+,1,24
+Lavasioth,Quest Reward (Bronze),HR,Lavasioth Fang+,1,15
+Lavasioth,Quest Reward (Bronze),HR,Inferno Sac,1,14
+Lavasioth,Quest Reward (Bronze),HR,Monster Hardbone,2,10
+Lavasioth,Quest Reward (Bronze),HR,Lavasioth Fin+,1,9
+Lavasioth,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Lavasioth,Investigation (Silver),HR,Lavasioth Fang+,1,32
 Lavasioth,Investigation (Silver),HR,Lavasioth Fin+,1,23
 Lavasioth,Investigation (Silver),HR,Lavasioth Carapace,2,14
@@ -2011,13 +2011,13 @@ Uragaan,Capture,HR,Uragaan Carapace,1,25
 Uragaan,Capture,HR,Uragaan Scute,1,21
 Uragaan,Capture,HR,Uragaan Marrow,1,15
 Uragaan,Capture,HR,Uragaan Ruby,1,2
-Uragaan,Quest Reward / Investigation (Bronze),HR,Uragaan Carapace,1,26
-Uragaan,Quest Reward / Investigation (Bronze),HR,Uragaan Scale+,1,21
-Uragaan,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Uragaan,Quest Reward / Investigation (Bronze),HR,Uragaan Scute,1,12
-Uragaan,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,1,10
-Uragaan,Quest Reward / Investigation (Bronze),HR,Uragaan Marrow,1,8
-Uragaan,Quest Reward / Investigation (Bronze),HR,Firecell Stone,1,5
+Uragaan,Quest Reward (Bronze),HR,Uragaan Carapace,1,26
+Uragaan,Quest Reward (Bronze),HR,Uragaan Scale+,1,21
+Uragaan,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Uragaan,Quest Reward (Bronze),HR,Uragaan Scute,1,12
+Uragaan,Quest Reward (Bronze),HR,Monster Hardbone,1,10
+Uragaan,Quest Reward (Bronze),HR,Uragaan Marrow,1,8
+Uragaan,Quest Reward (Bronze),HR,Firecell Stone,1,5
 Uragaan,Investigation (Silver),HR,Uragaan Scute,1,26
 Uragaan,Investigation (Silver),HR,Uragaan Marrow,1,19
 Uragaan,Investigation (Silver),HR,Lava Nugget,2,14
@@ -2067,13 +2067,13 @@ Azure Rathalos,Capture,HR,Azure Rathalos Wing,1,20
 Azure Rathalos,Capture,HR,Rathalos Medulla,1,14
 Azure Rathalos,Capture,HR,Rathalos Plate,1,7
 Azure Rathalos,Capture,HR,Rathalos Ruby,1,2
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Azure Rathalos Carapace,1,27
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Azure Rathalos Scale+,1,21
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Inferno Sac,1,18
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Azure Rathalos Wing,1,12
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,2,10
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Azure Rathalos Tail,1,9
-Azure Rathalos,Quest Reward / Investigation (Bronze),HR,Rathalos Plate,1,3
+Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Carapace,1,27
+Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Scale+,1,21
+Azure Rathalos,Quest Reward (Bronze),HR,Inferno Sac,1,18
+Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Wing,1,12
+Azure Rathalos,Quest Reward (Bronze),HR,Monster Hardbone,2,10
+Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Tail,1,9
+Azure Rathalos,Quest Reward (Bronze),HR,Rathalos Plate,1,3
 Azure Rathalos,Investigation (Silver),HR,Azure Rathalos Wing,1,20
 Azure Rathalos,Investigation (Silver),HR,Azure Rathalos Tail,1,20
 Azure Rathalos,Investigation (Silver),HR,Azure Rathalos Carapace,2,14
@@ -2124,13 +2124,13 @@ Black Diablos,Capture,HR,Blos Medulla,1,16
 Black Diablos,Capture,HR,Diablos Fang,1,13
 Black Diablos,Capture,HR,Diablos Tailcase,1,12
 Black Diablos,Capture,HR,Wyvern Gem,1,4
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Black Diablos Ridge+,1,26
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Black Diablos Carapace,1,21
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Dash Extract,1,16
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Diablos Fang,1,14
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Monster Hardbone,1,13
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Blos Medulla,1,9
-Black Diablos,Quest Reward / Investigation (Bronze),HR,Wyvern Gem,1,1
+Black Diablos,Quest Reward (Bronze),HR,Black Diablos Ridge+,1,26
+Black Diablos,Quest Reward (Bronze),HR,Black Diablos Carapace,1,21
+Black Diablos,Quest Reward (Bronze),HR,Dash Extract,1,16
+Black Diablos,Quest Reward (Bronze),HR,Diablos Fang,1,14
+Black Diablos,Quest Reward (Bronze),HR,Monster Hardbone,1,13
+Black Diablos,Quest Reward (Bronze),HR,Blos Medulla,1,9
+Black Diablos,Quest Reward (Bronze),HR,Wyvern Gem,1,1
 Black Diablos,Investigation (Silver),HR,Black Diablos Ridge+,2,20
 Black Diablos,Investigation (Silver),HR,Blos Medulla,1,20
 Black Diablos,Investigation (Silver),HR,Black Diablos Carapace,2,14
@@ -2169,12 +2169,12 @@ Nergigante,Shiny Drop,HR,Dragon Treasure,1,22
 Nergigante,Tail Carve,HR,Nergigante Tail,1,70
 Nergigante,Tail Carve,HR,Nergigante Regrowth Plate,1,27
 Nergigante,Tail Carve,HR,Nergigante Gem,1,3
-Nergigante,Quest Reward / Investigation (Bronze),HR,Nergigante Carapace,1,27
-Nergigante,Quest Reward / Investigation (Bronze),HR,Immortal Dragonscale,1,22
-Nergigante,Quest Reward / Investigation (Bronze),HR,Nergigante Regrowth Plate,1,18
-Nergigante,Quest Reward / Investigation (Bronze),HR,Nergigante Talon,1,13
-Nergigante,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,1,12
-Nergigante,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,1,8
+Nergigante,Quest Reward (Bronze),HR,Nergigante Carapace,1,27
+Nergigante,Quest Reward (Bronze),HR,Immortal Dragonscale,1,22
+Nergigante,Quest Reward (Bronze),HR,Nergigante Regrowth Plate,1,18
+Nergigante,Quest Reward (Bronze),HR,Nergigante Talon,1,13
+Nergigante,Quest Reward (Bronze),HR,Elder Dragon Bone,1,12
+Nergigante,Quest Reward (Bronze),HR,Elder Dragon Blood,1,8
 Nergigante,Investigation (Silver),HR,Nergigante Talon,1,20
 Nergigante,Investigation (Silver),HR,Nergigante Tail,1,18
 Nergigante,Investigation (Silver),HR,Nergigante Horn+,1,18
@@ -2213,13 +2213,13 @@ Teostra,Shiny Drop,HR,Dragon Treasure,1,22
 Teostra,Tail Carve,HR,Teostra Tail,1,75
 Teostra,Tail Carve,HR,Fire Dragon Scale+,1,22
 Teostra,Tail Carve,HR,Teostra Gem,1,3
-Teostra,Quest Reward / Investigation (Bronze),HR,Teostra Carapace,1,24
-Teostra,Quest Reward / Investigation (Bronze),HR,Fire Dragon Scale+,1,20
-Teostra,Quest Reward / Investigation (Bronze),HR,Teostra Claw+,1,18
-Teostra,Quest Reward / Investigation (Bronze),HR,Teostra Mane,1,14
-Teostra,Quest Reward / Investigation (Bronze),HR,Teostra Powder,2,10
-Teostra,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,2,7
-Teostra,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,2,7
+Teostra,Quest Reward (Bronze),HR,Teostra Carapace,1,24
+Teostra,Quest Reward (Bronze),HR,Fire Dragon Scale+,1,20
+Teostra,Quest Reward (Bronze),HR,Teostra Claw+,1,18
+Teostra,Quest Reward (Bronze),HR,Teostra Mane,1,14
+Teostra,Quest Reward (Bronze),HR,Teostra Powder,2,10
+Teostra,Quest Reward (Bronze),HR,Elder Dragon Bone,2,7
+Teostra,Quest Reward (Bronze),HR,Elder Dragon Blood,2,7
 Teostra,Investigation (Silver),HR,Teostra Carapace,2,12
 Teostra,Investigation (Silver),HR,Teostra Mane,1,12
 Teostra,Investigation (Silver),HR,Teostra Tail,1,12
@@ -2263,12 +2263,12 @@ Kushala Daora,Shiny Drop,HR,Dragon Treasure,1,22
 Kushala Daora,Tail Carve,HR,Daora Tail,1,70
 Kushala Daora,Tail Carve,HR,Daora Carapace,1,27
 Kushala Daora,Tail Carve,HR,Daora Gem,1,3
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Daora Carapace,1,27
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Daora Dragon Scale+,1,22
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Daora Claw+,1,18
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Daora Webbing,1,13
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,1,12
-Kushala Daora,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,1,8
+Kushala Daora,Quest Reward (Bronze),HR,Daora Carapace,1,27
+Kushala Daora,Quest Reward (Bronze),HR,Daora Dragon Scale+,1,22
+Kushala Daora,Quest Reward (Bronze),HR,Daora Claw+,1,18
+Kushala Daora,Quest Reward (Bronze),HR,Daora Webbing,1,13
+Kushala Daora,Quest Reward (Bronze),HR,Elder Dragon Blood,1,12
+Kushala Daora,Quest Reward (Bronze),HR,Elder Dragon Bone,1,8
 Kushala Daora,Investigation (Silver),HR,Daora Tail,1,18
 Kushala Daora,Investigation (Silver),HR,Daora Claw+,1,18
 Kushala Daora,Investigation (Silver),HR,Daora Horn+,1,16
@@ -2309,13 +2309,13 @@ Vaal Hazak,Shiny Drop,HR,Dragon Treasure,1,22
 Vaal Hazak,Tail Carve,HR,Vaal Hazak Tail,1,75
 Vaal Hazak,Tail Carve,HR,Deceased Scale,1,22
 Vaal Hazak,Tail Carve,HR,Vaal Hazak Gem,1,3
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Vaal Hazak Carapace,1,24
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Deceased Scale,1,19
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Vaal Hazak Wing,1,14
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Vaal Hazak Talon,1,13
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,1,12
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Vaal Hazak Membrane,1,10
-Vaal Hazak,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,1,8
+Vaal Hazak,Quest Reward (Bronze),HR,Vaal Hazak Carapace,1,24
+Vaal Hazak,Quest Reward (Bronze),HR,Deceased Scale,1,19
+Vaal Hazak,Quest Reward (Bronze),HR,Vaal Hazak Wing,1,14
+Vaal Hazak,Quest Reward (Bronze),HR,Vaal Hazak Talon,1,13
+Vaal Hazak,Quest Reward (Bronze),HR,Elder Dragon Blood,1,12
+Vaal Hazak,Quest Reward (Bronze),HR,Vaal Hazak Membrane,1,10
+Vaal Hazak,Quest Reward (Bronze),HR,Elder Dragon Bone,1,8
 Vaal Hazak,Investigation (Silver),HR,Vaal Hazak Wing,1,17
 Vaal Hazak,Investigation (Silver),HR,Vaal Hazak Talon,1,16
 Vaal Hazak,Investigation (Silver),HR,Vaal Hazak Fang+,1,15
@@ -2359,14 +2359,14 @@ Xeno'jiiva,Shiny Drop,HR,Dragon Treasure,1,22
 Xeno'jiiva,Tail Carve,HR,Xeno'jiiva Tail,1,71
 Xeno'jiiva,Tail Carve,HR,Xeno'jiiva Soulscale,1,22
 Xeno'jiiva,Tail Carve,HR,Xeno'jiiva Gem,1,7
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Shell,1,22
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Soulscale,1,18
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Veil,1,14
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Claw,1,13
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Wing,1,10
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Elder Dragon Bone,2,10
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Elder Dragon Blood,2,10
-Xeno'jiiva,Quest Reward / Investigation (Bronze),HR,Xeno'jiiva Gem,1,3
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Shell,1,22
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Soulscale,1,18
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Veil,1,14
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Claw,1,13
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Wing,1,10
+Xeno'jiiva,Quest Reward (Bronze),HR,Elder Dragon Bone,2,10
+Xeno'jiiva,Quest Reward (Bronze),HR,Elder Dragon Blood,2,10
+Xeno'jiiva,Quest Reward (Bronze),HR,Xeno'jiiva Gem,1,3
 Xeno'jiiva,Palico Bonus,HR,Xeno'jiiva Veil,1,50
 Xeno'jiiva,Palico Bonus,HR,Xeno'jiiva Soulscale,1,28
 Xeno'jiiva,Palico Bonus,HR,Dragon Treasure,1,22

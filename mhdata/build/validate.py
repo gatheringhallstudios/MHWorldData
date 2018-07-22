@@ -87,7 +87,7 @@ def validate_monster_rewards(mhdata):
     # Quest rewards sometimes contain a guaranteed reward.
     # We should probably separate, but most databases don't separate them.
     # Investigate further
-    uncapped_conditions = ("Quest Reward / Investigation (Bronze)")
+    uncapped_conditions = ("Quest Reward (Bronze)")
 
     errors = set()
     
