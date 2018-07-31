@@ -201,6 +201,7 @@ class SkillTree(Base):
     __tablename__ = 'skilltree'
 
     id = Column(Integer, primary_key=True)
+    max_level = Column(Integer)
     icon_color = Column(Text)
 
     translations = relationship("SkillTreeText")

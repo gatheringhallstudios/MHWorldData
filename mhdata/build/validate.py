@@ -18,6 +18,7 @@ def validate(mhdata):
     errors.extend(validate_locations(mhdata))
     errors.extend(validate_monsters(mhdata))
     errors.extend(validate_monster_rewards(mhdata))
+    errors.extend(validate_skills(mhdata))
     errors.extend(validate_armor(mhdata))
     errors.extend(validate_charms(mhdata))
 
@@ -42,6 +43,7 @@ def validate_items(mhdata):
 
     return errors
 
+
 def validate_locations(mhdata):
     errors = []
 
@@ -53,6 +55,7 @@ def validate_locations(mhdata):
                 errors.append(f"{item_name} in location items doesn't exist")
 
     return errors
+
 
 def validate_monsters(mhdata):
     errors = []
@@ -140,6 +143,26 @@ def validate_monster_rewards(mhdata):
 
     return errors
 
+
+def validate_skills(mhdata):
+    errors = []
+
+    for skill in mhdata.skill_map.values():
+        skill_name = skill['name']['en']
+        expected_max = len(skill['levels'])
+        encountered_levels = set()
+        for level in skill['levels']:
+            level_value = level['level']
+            if level_value < 0 or level_value > expected_max:
+                errors.append(f"Skill {skill_name} has out of range effect {level_value}")
+                continue
+            encountered_levels.add(level_value)
+        if len(encountered_levels) != expected_max:
+            errors.append(f"Skill {skill_name} is missing effect levels")
+
+    return errors
+
+
 def validate_armor(mhdata):
     errors = []
 
@@ -193,6 +216,7 @@ def validate_armor(mhdata):
                 errors.append(f"Skill {skill_name} in set bonuses does not exist")
 
     return errors
+
 
 def validate_charms(mhdata):
     errors = []

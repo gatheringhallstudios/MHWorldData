@@ -230,6 +230,7 @@ def build_skills(session : sqlalchemy.orm.Session, mhdata):
     for skill_entry in skill_map.values():
         skilltree = db.SkillTree(
             id=skill_entry.id,
+            max_level=len(skill_entry['levels']),
             icon_color=skill_entry['icon_color'])
 
         for language in cfg.supported_languages:
