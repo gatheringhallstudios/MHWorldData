@@ -69,7 +69,7 @@ class LocationSchema(BaseSchema):
 
 class LocationItemEntrySchema(BaseSchema):
     area = fields.Int()
-    rank = ValidatedStr(*cfg.supported_ranks)
+    rank = ValidatedStr(*cfg.supported_ranks, 'ALL')
     item_lang = ValidatedStr(*cfg.supported_languages)
     item = fields.Str()
     stack = fields.Int()
