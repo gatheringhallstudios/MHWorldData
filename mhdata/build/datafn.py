@@ -44,3 +44,14 @@ def iter_armor_recipe(armor):
             break
 
         yield (item_name, quantity)
+
+def iter_weapon_recipe(recipe):
+    "Iterates over the items in a weapon recipe, returning (name, qty) tuples"
+    for idx in range(1, cfg.max_recipe_item_count + 1):
+        item_name = recipe[f'item{idx}_name']
+        quantity = recipe[f'item{idx}_qty']
+        
+        if not item_name:
+            break
+
+        yield (item_name, quantity)

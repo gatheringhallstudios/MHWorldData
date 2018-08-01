@@ -306,21 +306,25 @@ class Weapon(Base):
     rarity = Column(Integer)
     
     attack = Column(Integer)
+    defense = Column(Integer)
     slot_1 = Column(Integer)
     slot_2 = Column(Integer)
     slot_3 = Column(Integer)
 
-    element_type = Column(Text)
-    element_damage = Column(Integer)
+    element1 = Column(Text)
+    element1_attack = Column(Integer)
+    element2 = Column(Text)
+    element2_attack = Column(Integer)
     element_hidden = Column(Boolean)
 
-    # todo: sharpness, once we decide how we're storing it
+    sharpness = Column(Text)
+    sharpness_complete = Column(Boolean)
 
     previous_weapon_id = Column(ForeignKey("weapon.id"), nullable=True)
     craftable = Column(Boolean, default=False)
     final = Column(Boolean, default=False)
 
-    glaive_boost_type = Column(Text)
+    kinsect_bonus = Column(Text)
     deviation = Column(Text)
     special_ammo = Column(Text)
 
@@ -341,6 +345,10 @@ class Weapon(Base):
     ammo_cluster_3 = Column(Integer)
     ammo_recover_1 = Column(Integer)
     ammo_recover_2 = Column(Integer)
+    ammo_poison_1 = Column(Integer)
+    ammo_poison_2 = Column(Integer)
+    ammo_paralysis_1 = Column(Integer)
+    ammo_paralysis_2 = Column(Integer)
     ammo_sleep_1 = Column(Integer)
     ammo_sleep_2 = Column(Integer)
     ammo_exhaust_1 = Column(Integer)
@@ -355,6 +363,13 @@ class Weapon(Base):
     ammo_demon = Column(Integer)
     ammo_armor = Column(Integer)
     ammo_tranq = Column(Integer)
+
+    coating_close = Column(Integer)
+    coating_power = Column(Integer)
+    coating_poison = Column(Integer)
+    coating_paralysis = Column(Integer)
+    coating_sleep = Column(Integer)
+    coating_blast = Column(Integer)
 
     translations = relationship("WeaponText")
 

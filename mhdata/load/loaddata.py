@@ -80,8 +80,12 @@ def load_data():
                     .get(schema=schema.ArmorSetBonus()))
 
     # todo: stitch
-    result.weapon_map = reader.load_base_json("weapons/weapon_base.json")
-    result.weapon_data = reader.load_split_data_map(result.weapon_map, "weapons/weapon_data")
+    result.weapon_map = (DataStitcher(reader, dir="weapons/")
+                    .base_csv("weapon_base.csv")
+                    .add_csv_ext("weapon_bow_ext.csv", key="bow")
+                    .add_csv_ext("weapon_gun_ext.csv", key="gun")
+                    .add_csv("weapon_craft_ext.csv", key="craft")
+                    .get(schema=schema.WeaponSchema()))
 
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
                     .base_csv("decoration_base.csv")

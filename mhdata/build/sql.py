@@ -368,50 +368,24 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
 
 def build_weapons(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map
-    weapon_data = mhdata.weapon_data
     weapon_map = mhdata.weapon_map
 
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
-    all_final = set(weapon_data.keys())
-    for entry in weapon_data.values():
-        if not entry.get('previous', None):
+    all_final = set(weapon_map.keys())
+    for entry in weapon_map.values():
+        if not entry.get('previous_en', None):
             continue
         try:
-            prev_id = weapon_map.id_of('en', entry['previous'])
+            prev_id = weapon_map.id_of('en', entry['previous_en'])
             all_final.remove(prev_id)
         except KeyError:
             pass
 
-    for weapon_id, entry in weapon_data.items():
+    # now iterate over actual weapons
+    for weapon_id, entry in weapon_map.items():
         weapon = db.Weapon(id = weapon_id)
-        weapon.weapon_type = entry['weapon_type']
-        weapon.rarity = entry['rarity']
-        weapon.attack = entry['attack']
-        weapon.slot_1 = entry['slots'][0]
-        weapon.slot_2 = entry['slots'][1]
-        weapon.slot_3 = entry['slots'][2]
-
-        weapon.element_type = entry['element_type']
-        weapon.element_damage = entry['element_damage']
-        weapon.element_hidden = entry['element_hidden']
-
-        # todo: sharpness, coatings, ammo
-
-        # Note: High probably the way this is stored in data will be refactored
-        # Possibilities are either split weapon_data files, or separated sub-data files
-        weapon.glaive_boost_type = entry.get('glaive_boost_type', None)
-        weapon.deviation = entry.get('deviation', None)
-        weapon.special_ammo = entry.get('special_ammo', None)
         
-        weapon.craftable = bool(entry.get('craft', False))
-        weapon.final = weapon_id in all_final
-
-        if entry.get('previous', None):
-            previous_weapon_id = weapon_map.id_of("en", entry['previous'])
-            ensure(previous_weapon_id, f"Weapon {entry['previous']} does not exist")
-            weapon.previous_weapon_id = previous_weapon_id
-
         # Add language translations
         for language in cfg.supported_languages:
             weapon.translations.append(db.WeaponText(
@@ -419,18 +393,97 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
                 name = entry.name(language)
             ))
 
+        weapon.weapon_type = entry['weapon_type']
+        weapon.rarity = entry['rarity']
+        weapon.attack = entry['attack']
+        weapon.defense = entry['defense'] or 0
+        weapon.slot_1 = entry['slot_1']
+        weapon.slot_2 = entry['slot_2']
+        weapon.slot_3 = entry['slot_3']
+
+        weapon.element1 = entry['element1']
+        weapon.element1_attack = entry['element1_attack']
+        weapon.element2 = entry['element2']
+        weapon.element2_attack = entry['element2_attack']
+        weapon.element_hidden = entry['element_hidden']
+
+        weapon.sharpness = entry['sharpness']
+        weapon.sharpness_complete = entry['sharpness_complete']
+        weapon.kinsect_bonus = entry.get('kinsect_bonus', None)
+
+        weapon.craftable = False # set to true later if it can be crafted
+        weapon.final = weapon_id in all_final
+
+        if entry.get('previous', None):
+            previous_weapon_id = weapon_map.id_of("en", entry['previous'])
+            ensure(previous_weapon_id, f"Weapon {entry['previous']} does not exist")
+            weapon.previous_weapon_id = previous_weapon_id
+
         # Add crafting/upgrade recipes
-        for recipe_type in ('craft', 'upgrade'):
-            recipe = entry.get(recipe_type, {}) or {}
-            for item, quantity in recipe.items():
+        for recipe in entry.get('craft', {}):
+            recipe_type = recipe['type']
+            if recipe_type == "Create":
+                weapon.craftable = True
+                
+            for item, quantity in datafn.iter_weapon_recipe(recipe):
                 item_id = item_map.id_of("en", item)
-                ensure(item_id, f"Item {item_id} in weapon {entry.name('en')} does not exist")
                 session.add(db.WeaponRecipe(
                     weapon_id = weapon_id,
                     item_id = item_id,
                     quantity = quantity,
                     recipe_type = recipe_type
                 ))
+
+        # Bow data (if any)
+        if entry.get("bow", None):
+            bow_data = entry['bow']
+            weapon.coating_close = bow_data['close']
+            weapon.coating_power = bow_data['power']
+            weapon.coating_poison = bow_data['poison']
+            weapon.coating_paralysis = bow_data['paralysis']
+            weapon.coating_sleep = bow_data['sleep']
+            weapon.coating_blast = bow_data['blast']
+
+        # Gun data
+        if entry.get("gun", None):
+            gun_data = entry['gun']
+            weapon.deviation = gun_data['deviation']
+            weapon.special_ammo = gun_data['special']
+            weapon.ammo_normal_1 = gun_data['normal_1']
+            weapon.ammo_normal_2 = gun_data['normal_2']
+            weapon.ammo_normal_3 = gun_data['normal_3']
+            weapon.ammo_pierce_1 = gun_data['pierce_1']
+            weapon.ammo_pierce_2 = gun_data['pierce_2']
+            weapon.ammo_pierce_3 = gun_data['pierce_3']
+            weapon.ammo_spread_1 = gun_data['spread_1']
+            weapon.ammo_spread_2 = gun_data['spread_2']
+            weapon.ammo_spread_3 = gun_data['spread_3']
+            weapon.ammo_sticky_1 = gun_data['sticky_1']
+            weapon.ammo_sticky_2 = gun_data['sticky_2']
+            weapon.ammo_sticky_3 = gun_data['sticky_3']
+            weapon.ammo_cluster_1 = gun_data['cluster_1']
+            weapon.ammo_cluster_2 = gun_data['cluster_2']
+            weapon.ammo_cluster_3 = gun_data['cluster_3']
+            weapon.ammo_recover_1 = gun_data['recover_1']
+            weapon.ammo_recover_2 = gun_data['recover_2']
+            weapon.ammo_poison_1 = gun_data['poison_1']
+            weapon.ammo_poison_2 = gun_data['poison_2']
+            weapon.ammo_paralysis_1 = gun_data['paralysis_1']
+            weapon.ammo_paralysis_2 = gun_data['paralysis_2']
+            weapon.ammo_sleep_1 = gun_data['sleep_1']
+            weapon.ammo_sleep_2 = gun_data['sleep_2']
+            weapon.ammo_exhaust_1 = gun_data['exhaust_1']
+            weapon.ammo_exhaust_2 = gun_data['exhaust_2']
+            weapon.ammo_flaming = gun_data['flaming']
+            weapon.ammo_water = gun_data['water']
+            weapon.ammo_freeze = gun_data['freeze']
+            weapon.ammo_thunder = gun_data['thunder']
+            weapon.ammo_dragon = gun_data['dragon']
+            weapon.ammo_slicing = gun_data['slicing']
+            weapon.ammo_wyvern = gun_data['wyvern']
+            weapon.ammo_demon = gun_data['demon']
+            weapon.ammo_armor = gun_data['armor']
+            weapon.ammo_tranq = gun_data['tranq']
         
         session.add(weapon)
 
