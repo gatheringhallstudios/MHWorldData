@@ -29,7 +29,7 @@ def validate_csv(obj_list, filename):
                 continue
 
             if value.startswith(" ") or value.endswith(" "):
-                warn_value_rows.append(idx)
+                warn_value_rows.append(str(idx))
                 break
                 
     if warn_keys:
