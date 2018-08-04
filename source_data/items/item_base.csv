@@ -8,7 +8,7 @@ Herbal Medicine,漢方薬,Removes all traces of poison and restores a slight amo
 Nulberry,ウチケシの実,A mysterious berry that cures various blights.,,item,,2,,120,10,,Seed,Blue
 Energy Drink,,"A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",,item,,2,,6,10,,Liquid,Yellow
 Ration,,Food that restores a bit of stamina.,,item,,1,,3,10,,Meat,DarkBeige
-Rare Steak,,Provides a moderate boost to your stamina. This one's still red in the middle.,,item,,1,,3,10,,Meat,
+Rare Steak,,Provides a moderate boost to your stamina. This one's still red in the middle.,,item,,1,,3,10,,Meat,DarkBeige
 Well-done Steak,,Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!,,item,,2,,48,10,,Meat,Beige
 Burnt Meat,,Provides a small boost to your stamina. Can be eaten quickly.,,item,,1,,1,10,,Meat,Gray
 Cool Drink,,Provides temporary relief from extreme heat.,,item,,1,300,30,5,,Liquid,White
@@ -521,28 +521,28 @@ Spring Insect Field Guide,,,,material,,,,,,,,
 Red Orb,,Blood of demonic beings condensed into stone. Can be used to craft stylish devil hunter equipment,,material,,8,,800,,,Gem,Red
 Master Craftsman's Blueprint,,"A blueprint for a revolutionary Great Sword, designed by a famed craftsman.",,material,,6,,800,,,Voucher,Gray
 Bushi Ticket,,A voucher given to those who assisted in the special investigation. Be sure to show it to the Resource Center!,,material,,4,,400,,,Voucher,Red
-Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",,material,trade,4,,1000,,,,
-Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",,material,trade,,,,,,,
-Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",,material,trade,,,,,,,
-Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",,material,trade,,,,,,,
-Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item),,material,trade,,,,,,,
-Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item),,material,trade,,,,,,,
-Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item),,material,trade,,,,,,,
-Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item),,material,trade,,,,,,,
-Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",,material,trade,,,,,,,
-Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",,material,trade,,,,,,,
-Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,material,trade,,,,,,,
-Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,material,trade,,,,,,,
-Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",,material,trade,,,,,,,
-Golden Scale,,The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item),,material,trade,,,,,,,
-Golden Scale+,,The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item),,material,trade,,,,,,,
-Platinum Scale,,The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item),,material,trade,,,,,,,
-Platinum Scale+,,The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item),,material,trade,,,,,,,
-Gilded Scale,,The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item),,material,trade,,,,,,,
-Gilded Scale+,,The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item),,material,trade,,,,,,,
-Golden Fragment,,A fragment of pure gold. It fetches a high price despite its size. (Trade-in Item),,material,trade,4,,750,,,,
-Golden Chunk,,A precious lump of gold. Its brilliance can bewitch the purest of hearts. (Trade-in Item),,material,trade,4,,1500,,,,
-Gold Chip Fragment,,A fragment that a Copper Calappa harvest from a Kulve Taroth track. (Trade-in Item),,material,trade,4,,300,,,,
+Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter.",,material,trade,4,,1000,,,,
+Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,,,,,,,
+Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter.",,material,trade,,,,,,,
+Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,,,,,,,
+Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors.,,material,trade,,,,,,,
+Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors.,,material,trade,,,,,,,
+Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector.,,material,trade,,,,,,,
+Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,,,,,,,
+Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Golden Scale,,The scales of a Goldenfish. They shimmer like only pure gold can.,,material,trade,,,,,,,
+Golden Scale+,,The scales of a Great Goldenfish. Trades at the same price as actual gold.,,material,trade,,,,,,,
+Platinum Scale,,The scales of a Platinumfish. They give off a beautiful gleam.,,material,trade,,,,,,,
+Platinum Scale+,,The scales of a Great Platinumfish. Their shine is nigh on blinding.,,material,trade,,,,,,,
+Gilded Scale,,The scales of a Goldenfry. Used by artisans in their crafts.,,material,trade,,,,,,,
+Gilded Scale+,,The scales of a Great Goldenfry. Used in the very finest of crafts.,,material,trade,,,,,,,
+Golden Fragment,,A fragment of pure gold. It fetches a high price despite its size.,,material,trade,4,,750,,,,
+Golden Chunk,,A precious lump of gold. Its brilliance can bewitch the purest of hearts.,,material,trade,4,,1500,,,,
+Gold Chip Fragment,,A fragment that a Copper Calappa harvest from a Kulve Taroth track.,,material,trade,4,,300,,,,
 Normal Ammo 2,,Non-specialized ammo. More powerful than Normal Ammo 1.,,ammo,,2,3,1,99,,Ammo,White
 Normal Ammo 3,,Ammo made with high-quality gunpowder. Each shot packs considerable punch.,,ammo,,3,,2,99,,Ammo,White
 Pierce Ammo 1,,Armor-piercing ammo that deals multiple hits to some monsters.,,ammo,,1,4,2,60,,Ammo,Blue
@@ -583,12 +583,12 @@ Paralysis Coating,,An arrow coating that applies paralysis effects to arrows.,,a
 Sleep Coating,,An arrow coating that induces sleep.,,ammo,,3,17,2,20,,Bottle,Cyan
 Blast Coating,,An arrow coating that applies explosive powder to arrows.,,ammo,,3,20,6,20,,Bottle,Lime
 Normal Ammo 1,,,,hidden,,,,,,,Ammo,White
-Mysterious Feystone,,A jewel that conceals faint traces of power within it.,,misc,appraisal,,,,,,,
-Glowing Feystone,,A jewel that conceals an unknown power within it.,,misc,appraisal,,,,,,,
-Worn Feystone,,A jewel that conceals considerable power within it.,,misc,appraisal,,,,,,,
-Warped Feystone,,A jewel that conceals a mystical power within it.,,misc,appraisal,,,,,,,
-Sullied Streamstone,,"Though dirty, this stone pulses with undeniable power.",,misc,appraisal,,,,,,,
-Shining Streamstone,,A stone that shines with the brilliance of endless possibility.,,misc,appraisal,,,,,,,
+Mysterious Feystone,,A jewel that conceals faint traces of power within it.,,misc,appraisal,4,,25,,,Feystone,Gray
+Glowing Feystone,,A jewel that conceals an unknown power within it.,,misc,appraisal,5,,25,,,Feystone,Blue
+Worn Feystone,,A jewel that conceals considerable power within it.,,misc,appraisal,6,,25,,,Feystone,Beige
+Warped Feystone,,A jewel that conceals a mystical power within it.,,misc,appraisal,7,,25,,,Feystone,Red
+Sullied Streamstone,,"Though dirty, this stone pulses with undeniable power.",,misc,appraisal,,,,,,Streamstone,Gray
+Shining Streamstone,,A stone that shines with the brilliance of endless possibility.,,misc,appraisal,,,,,,Streamstone,Gold
 Wyvern Tear,竜のナミダ,Bitter tears wept by wyverns on certain occasions.,,misc,account,3,,,,200,,
 Large Wyvern Tear,竜の大粒ナミダ,,,misc,account,,,,,,,
 Dragon Treasure,龍秘宝,A shiny rock that elder dragons like to collect.,,misc,account,3,,,,800,Ore,Violet
