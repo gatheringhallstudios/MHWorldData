@@ -22,8 +22,8 @@ Demondrug,,Boosts your attack power by filling you with -- guess what? -- demoni
 Mega Demondrug,,Boosts your attack power even more than a regular Demondrug.,,item,,5,,283,5,,Liquid,Red
 Might Pill,,Temporarily endows you with the strength of a might god. Potent!,,item,,4,,280,5,,Pellets,Red
 Adamant Seed,,Temporarily raises your defense when ingested by hardening issue.,,item,,2,,110,10,,Seed,Beige
-Armorskin,,Boosts your defense by turning your skin as hard as rock.,,item,,4,,58,5,,Drink,Beige
-Mega Armorskin,,Boosts your defense even more than a regular armorskin.,,item,,5,,269,5,,Drink,Beige
+Armorskin,,Boosts your defense by turning your skin as hard as rock.,,item,,4,,58,5,,Liquid,Beige
+Mega Armorskin,,Boosts your defense even more than a regular armorskin.,,item,,5,,269,5,,Liquid,Beige
 Adamant Pill,,Temporarily makes your skin as hard as adamant. Potent!,,item,,4,,260,5,,Pellets,Beige
 Lifepowder,生命の粉塵,Produces a healing cloud in the area around the user.,,item,,4,,315,3,,Sac,LightBeige
 Herbal Powder,,A mysterious powder that produces a cloud around the area that restores health and neutralizes poison.,,item,,4,,315,3,,Sac,Blue
@@ -53,8 +53,8 @@ Godbug,不死虫,An insect said to live a millennium. Combine it with other item
 Thunderbug,,An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.,,item,,4,,80,10,,Bug,Yellow
 Baitbug,,"An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",,item,,3,,2,10,,Bait,Pink
 Kelbi Horn,ケルビの角,"While not practical when forging equipment, Kelbi horns are a vital component of many items.",,item,,4,,52,99,,Fang,Green
-Dash Extract,,A mysterious substance culled from certain monsters that increases endurance.,,item,,4,,56,20,,Drink,Gold
-Nourishing Extract,,Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.,,item,,4,,122,20,,Drink,White
+Dash Extract,,A mysterious substance culled from certain monsters that increases endurance.,,item,,4,,56,20,,Liquid,Gold
+Nourishing Extract,,Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.,,item,,4,,122,20,,Liquid,White
 Screamer Sac,,A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.,,item,,2,,15,10,,Sac,Gray
 Catalyst,,Works with other materials to enhance their effects. Cannot be used by itself.,,item,,2,,48,5,,Sac,DarkGreen
 Tranq Bomb,,A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.,,item,,3,,35,8,,Smoke,Red
