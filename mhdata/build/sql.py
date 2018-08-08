@@ -133,7 +133,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 
             if 'alt' in weaknesses:
                 monster.has_alt_weakness = True
-                for key, value in weaknesses['normal'].items():
+                for key, value in weaknesses['alt'].items():
                     setattr(monster, 'alt_weakness_'+key, value)
 
         # Save language data
