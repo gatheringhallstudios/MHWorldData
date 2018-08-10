@@ -210,13 +210,16 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Save Habitats
-        for location_name, habitat_values in entry.get('habitats', {}).items():
+        for habitat_data in entry.get('habitats', []):
+            location_name = habitat_data['map_en']
             location_id = location_map.id_of("en", location_name)
             ensure(location_id, "Invalid location name " + location_name)
 
             monster.habitats.append(db.MonsterHabitat(
                 location_id=location_id,
-                **habitat_values
+                start_area=habitat_data['start_area'],
+                move_area=habitat_data['move_area'],
+                rest_area=habitat_data['rest_area']
             ))
 
         # Complete - add to session

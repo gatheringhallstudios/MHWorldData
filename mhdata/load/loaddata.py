@@ -60,7 +60,7 @@ def load_data():
                     .add_json("monster_weaknesses.json", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
-                    .add_json("monster_habitats.json", key="habitats")
+                    .add_csv("monster_habitats.csv", key="habitats")
                     .add_csv("monster_rewards.csv", key="rewards")
                     .get())
 
