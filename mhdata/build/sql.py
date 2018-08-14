@@ -168,6 +168,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
                 fire=hitzone_data['fire'],
                 water=hitzone_data['water'],
                 thunder=hitzone_data['thunder'],
+                ice=hitzone_data['ice'],
                 dragon=hitzone_data['dragon'],
                 ko=hitzone_data['ko'])
 
