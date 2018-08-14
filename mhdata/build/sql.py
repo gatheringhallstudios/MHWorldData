@@ -98,6 +98,15 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
                 percentage=item_entry['percentage'],
                 nodes=item_entry['nodes']
             ))
+
+        for camp in entry['camps']:
+            for language in cfg.supported_languages:
+                session.add(db.LocationCamp(
+                    location_id=entry.id,
+                    lang_id = language,
+                    name = camp['name']['en'],
+                    area = camp['area']
+                ))
             
     print("Built locations")
 

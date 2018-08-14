@@ -66,6 +66,7 @@ class LocationSchema(BaseSchema):
     __groups__ = ('name',)
     name = fields.Dict()
     items = fields.Nested('LocationItemEntrySchema', many=True, missing=[])
+    camps = fields.Nested('LocationCampSchema', many=True, missing=[])
 
 class LocationItemEntrySchema(BaseSchema):
     area = fields.Int()
@@ -75,6 +76,12 @@ class LocationItemEntrySchema(BaseSchema):
     stack = fields.Int()
     percentage = fields.Int()
     nodes = fields.Int(allow_none=True, default=1)
+
+class LocationCampSchema(BaseSchema):
+    __groups__ = ('name',)
+    base_name_en = fields.Str()
+    name = fields.Dict()
+    area = fields.Int()
 
 class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')

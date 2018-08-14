@@ -67,6 +67,19 @@ class LocationItem(Base):
     percentage = Column(Integer)
     nodes = Column(Integer, default=1, nullable=False)
 
+class LocationCamp(Base):
+    """Defines a location camp and a name entry. 
+    As this has limited data, its the text entry as well"""
+    __tablename__ = 'location_camp_text'
+
+    # This join-table has no "real id" and uses a surrogate instead
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    location_id = Column(Integer, ForeignKey("location_text.id"))
+    lang_id = Column(Text, ForeignKey('language.id'))
+    name = Column(Text)
+    area = Column(Integer)
+
 class Monster(Base):
     __tablename__ = 'monster'
 

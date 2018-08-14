@@ -143,11 +143,11 @@ class DataReader:
 
         # Auto detect language
         first_column = next(iter(rows[0].keys()))
-        match = re.match('name_([a-zA-Z]+)', first_column)
+        match = re.match('(base_)?name_([a-zA-Z]+)', first_column)
         if not match:
-            raise Exception("First column needs to be a name_{lang} column")
+            raise Exception("First column needs to be a base_name_{lang} column")
         
-        lang = match.group(1)
+        lang = match.group(2)
         data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
 
         return parent_map.merge(data, lang=lang, key=key)

@@ -29,6 +29,12 @@ def transform_dmap(dmap: DataMap, obj_schema):
     return results
 
 def load_data():
+    """Loads all data from the source_data/ directory
+    
+    All data is merged together using data stitchers and run through a schema.
+    The schemas perform additional type transformations, column merging into dicts (groups),
+    and minor validations.
+    """
     result = SimpleNamespace()
 
     item_map = reader.load_base_csv("items/item_base.csv", groups=['description'])
@@ -41,6 +47,7 @@ def load_data():
     result.location_map = (DataStitcher(reader, dir="locations/")
                     .base_csv('location_base.csv')
                     .add_csv("location_items.csv", key="items")
+                    .add_csv("location_camps.csv", key="camps")
                     .get(schema=schema.LocationSchema()))
 
     result.skill_map = (DataStitcher(reader, dir="skills/")
