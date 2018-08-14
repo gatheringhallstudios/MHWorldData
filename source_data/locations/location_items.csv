@@ -1,4 +1,4 @@
-name_en,area,rank,item_lang,item,stack,percentage,nodes
+base_name_en,area,rank,item_lang,item,stack,percentage,nodes
 Ancient Forest,1,,en,Flamenut,1,100,1
 Ancient Forest,1,,en,Flowfern,1,100,2
 Ancient Forest,1,,en,Herb,1,100,5

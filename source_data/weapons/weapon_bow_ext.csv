@@ -1,4 +1,4 @@
-name_en,close,power,poison,paralysis,sleep,blast
+base_name_en,close,power,poison,paralysis,sleep,blast
 Iron Bow I,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 Iron Bow II,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 Iron Bow III,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE

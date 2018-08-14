@@ -1,4 +1,4 @@
-name_en,deviation,special,normal_1,normal_2,normal_3,pierce_1,pierce_2,pierce_3,spread_1,spread_2,spread_3,sticky_1,sticky_2,sticky_3,cluster_1,cluster_2,cluster_3,recover_1,recover_2,poison_1,poison_2,paralysis_1,paralysis_2,sleep_1,sleep_2,exhaust_1,exhaust_2,flaming,water,freeze,thunder,dragon,slicing,wyvern,demon,armor,tranq
+base_name_en,deviation,special,normal_1,normal_2,normal_3,pierce_1,pierce_2,pierce_3,spread_1,spread_2,spread_3,sticky_1,sticky_2,sticky_3,cluster_1,cluster_2,cluster_3,recover_1,recover_2,poison_1,poison_2,paralysis_1,paralysis_2,sleep_1,sleep_2,exhaust_1,exhaust_2,flaming,water,freeze,thunder,dragon,slicing,wyvern,demon,armor,tranq
 Chain Blitz I,Low,Wyvernblast,6,4,3,5,3,2,4,0,0,2,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
 Chain Blitz II,Low,Wyvernblast,6,4,3,5,3,2,4,0,0,2,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
 Chain Blitz III,Low,Wyvernblast,6,4,3,5,3,2,4,0,0,2,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2

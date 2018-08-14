@@ -144,7 +144,7 @@ class DataMap(typing.Mapping[int, DataRow]):
         unlinked = [key for key in data.keys() if key not in data_names]
         if unlinked:
             raise Exception(
-                "Several invalid names found in extension map. Invalid entries are " +
+                "Several invalid names found in sub data map. Invalid entries are " +
                 ','.join(unlinked))
 
                 # validation complete, it may not link to all base entries but thats ok

@@ -1,4 +1,4 @@
-name_en,type,item1_name,item1_qty,item2_name,item2_qty,item3_name,item3_qty,item4_name,item4_qty
+base_name_en,type,item1_name,item1_qty,item2_name,item2_qty,item3_name,item3_qty,item4_name,item4_qty
 Buster Sword I,Create,Iron Ore,1,,,,,,
 Buster Sword II,Upgrade,Iron Ore,2,,,,,,
 Buster Sword III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
