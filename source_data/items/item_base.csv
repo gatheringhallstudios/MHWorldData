@@ -521,19 +521,19 @@ Spring Insect Field Guide,,,,material,,,,,,,,
 Red Orb,,Blood of demonic beings condensed into stone. Can be used to craft stylish devil hunter equipment,,material,,8,,800,,,Gem,Red
 Master Craftsman's Blueprint,,"A blueprint for a revolutionary Great Sword, designed by a famed craftsman.",,material,,6,,800,,,Voucher,Gray
 Bushi Ticket,,A voucher given to those who assisted in the special investigation. Be sure to show it to the Resource Center!,,material,,4,,400,,,Voucher,Red
-Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter.",,material,trade,4,,1000,,,,
-Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,,,,,,,
-Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter.",,material,trade,,,,,,,
-Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,,,,,,,
-Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors.,,material,trade,,,,,,,
-Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors.,,material,trade,,,,,,,
-Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector.,,material,trade,,,,,,,
-Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,,,,,,,
+Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter.",,material,trade,4,,1000,,,Egg,Gray
+Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,,,,,,Egg,
+Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter.",,material,trade,,,,,,Egg,
+Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,,,,,,Scale,
+Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors.,,material,trade,4,,1000,,,Scale,LightBeige
+Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors.,,material,trade,5,,2000,,,Scale,White
+Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector.,,material,trade,6,,3000,,,Scale,Cyan
+Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,,,,,,Scale,
 Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
 Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
-Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
-Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
-Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,5,,1500,,,Ore,LightBeige
+Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,6,,2000,,,Ore,White
+Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,7,,5000,,,Ore,Gold
 Golden Scale,,The scales of a Goldenfish. They shimmer like only pure gold can.,,material,trade,,,,,,,
 Golden Scale+,,The scales of a Great Goldenfish. Trades at the same price as actual gold.,,material,trade,,,,,,,
 Platinum Scale,,The scales of a Platinumfish. They give off a beautiful gleam.,,material,trade,,,,,,,
