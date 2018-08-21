@@ -427,9 +427,10 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.craftable = False # set to true later if it can be crafted
         weapon.final = weapon_id in all_final
 
-        if entry.get('previous', None):
-            previous_weapon_id = weapon_map.id_of("en", entry['previous'])
-            ensure(previous_weapon_id, f"Weapon {entry['previous']} does not exist")
+        previous_weapon_name = entry.get('previous_en', None)
+        if previous_weapon_name:
+            previous_weapon_id = weapon_map.id_of("en", previous_weapon_name)
+            ensure(previous_weapon_id, f"Weapon {previous_weapon_name} does not exist")
             weapon.previous_weapon_id = previous_weapon_id
 
         # Add crafting/upgrade recipes
