@@ -15,3 +15,29 @@ from .writer import DataReaderWriter
 from .stitcher import DataStitcher
 
 from .datamap import DataMap, DataRow
+
+def create_reader():
+    "Creates a DataReader with default settings"
+    from mhdata import cfg
+    import os
+    from os.path import dirname, abspath, join
+
+    current_dir = dirname(abspath(__file__))
+    return DataReader(
+        required_languages=cfg.required_languages,
+        languages=list(cfg.supported_languages), 
+        data_path=join(current_dir, '../../source_data')
+    )
+
+def create_writer():
+    "Creates a DataReader with default settings"
+    from mhdata import cfg
+    import os
+    from os.path import dirname, abspath, join
+
+    current_dir = dirname(abspath(__file__))
+    return DataReaderWriter(
+        required_languages=cfg.required_languages,
+        languages=list(cfg.supported_languages), 
+        data_path=join(current_dir, '../../source_data')
+    )

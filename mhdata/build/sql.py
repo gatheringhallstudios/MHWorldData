@@ -1,10 +1,9 @@
 import sqlalchemy.orm
 import mhdata.sql as db
 
+from mhdata import cfg
 from mhdata.io import DataMap
 from mhdata.util import ensure, ensure_warn, get_duplicates
-
-import mhdata.load.cfg as cfg
 
 from .objectindex import ObjectIndex
 from . import datafn

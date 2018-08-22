@@ -7,7 +7,7 @@ This may change in the future, ideas are to:
 
 """
 
-import mhdata.load.cfg as cfg
+from mhdata import cfg
 
 
 def iter_setbonus_skills(setbonus):

@@ -2,17 +2,13 @@ import os.path
 from os.path import abspath, join, dirname
 from types import SimpleNamespace
 
-from mhdata.io import DataMap, DataReader, DataStitcher
+from mhdata import cfg
+from mhdata.io import DataMap, DataReader, DataStitcher, create_reader
 from mhdata.io.csv import read_csv
 
-from . import cfg
 from . import schema
 
-reader = DataReader(
-    required_languages=cfg.required_languages,
-    languages=list(cfg.supported_languages), 
-    data_path=join(dirname(abspath(__file__)), '../../source_data')
-)
+reader = create_reader()
 
 def transform_dmap(dmap: DataMap, obj_schema):
     """Returns a new datamap, 

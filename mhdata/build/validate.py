@@ -1,10 +1,10 @@
 import itertools
 
+from mhdata import cfg
 from mhdata.io import DataMap
 from mhdata.util import ensure_warn
 
 from . import datafn
-import mhdata.load.cfg as cfg
 
 supported_languages = cfg.supported_languages
 all_languages = cfg.all_languages

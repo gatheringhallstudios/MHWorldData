@@ -6,7 +6,7 @@ import collections
 from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 
 from mhdata.util import group_fields, ungroup_fields
-from . import cfg
+from mhdata import cfg
 
 def choice_check(*items):
     def validate_fn(check):

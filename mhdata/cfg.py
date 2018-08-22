@@ -3,7 +3,7 @@ Contains configuration data for interacting with the source_data folder.
 These are hardcoded here as this is meant to be a dumping 
 ground. Source_data is not actually user configurable.
 
-For configurable data loading, use mhwdata.io directly.
+For customized data loading, use mhwdata.io directly.
 """
 
 supported_ranks = ('LR', 'HR')
