@@ -24,7 +24,7 @@ Kirin,Coral Highlands,,"1,2,3,4,6,8,12,13,15",15
 Dodogama,Elder's Recess,8,"5,7,8,9,12",8
 Pink Rathian,Ancient Forest,,"1～6,8,9,11,12,14,15,16",16
 Pink Rathian,Wildspire Waste,,"1,2,3,4,6,7,8,9,12",12
-Bazelgeuse,Ancient Forest,,"5,10,16",?
+Bazelgeuse,Ancient Forest,,"1,4,5,6,10,12,16",16
 Bazelgeuse,Wildspire Waste,,"1,4,6,8,12",12
 Bazelgeuse,Coral Highlands,,"1,2,3,5,8,12,13",13
 Bazelgeuse,Rotten Vale,,"1,2,3,4,6,9",4
@@ -35,7 +35,7 @@ Azure Rathalos,Ancient Forest,16,"5,6,7,14",15
 Azure Rathalos,Elder's Recess,8,"7,8",3
 Black Diablos,Wildspire Waste,13,"6,8,13,14",14
 Nergigante,Wildspire Waste,4,"4,6,7,8,13,14",14
-Nergigante,Elder's Recess,9,"8,9,14,15",15
+Nergigante,Elder's Recess,14,"8,9,14,15",15
 Teostra,Elder's Recess,8,"7,8,9,10,11,12,13",13
 Kushala Daora,Ancient Forest,,"5,16",16
 Kushala Daora,Elder's Recess,3,"2,3,4,8,9",4
@@ -43,7 +43,8 @@ Vaal Hazak,Rotten Vale,,"12,14",16
 Aptonoth,Ancient Forest,,8,
 Gajau,Ancient Forest,,9,
 Jagras,Ancient Forest,,"2,7,8",
-Kestodon,Ancient Forest,,4,
+Kestodon,Ancient Forest,,"4,12",
+Mernos,Ancient Forest,,5,
 Mosswine,Ancient Forest,,"11,15",
 Vespoid,Ancient Forest,,"6,11",
 Gajau,Wildspire Waste,,10,
@@ -51,3 +52,10 @@ Kelbi,Wildspire Waste,,1,
 Kestodon,Wildspire Waste,,6,
 Noios,Wildspire Waste,,"8,9,12",
 Vespoid,Wildspire Waste,,"8,9,12",
+Kelbi,Coral Highlands,,1,
+Raphinos,Coral Highlands,,"3,5",
+Shamos,Coral Highlands,,"2,4",
+Vespoid,Coral Highlands,,"9,10,13",
+Barnos,Elder's Recess,,"2,9",
+Gastodon,Elder's Recess,,"5,11",
+Vespoid,Elder's Recess,,"2,7,12",
