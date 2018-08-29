@@ -1,0 +1,967 @@
+Buster Sword 1,100,50,80,20,0,0
+Buster Sword 2,70,70,30,80,0,0
+Buster Sword 3,60,70,30,90,0,0
+Buster Blade 1,70,50,80,100,0,0
+Buster Blade 2,60,50,80,110,0,0
+Buster Blade 3,100,50,50,80,70,0
+Chrome Razor 1,90,50,50,80,80,0
+Chrome Razor 2,60,60,20,150,90,20
+Nergal Judicator,120,120,40,50,70,0
+Purgation's Atrocity,110,120,40,50,80,0
+Thunder Blade 1,70,50,80,100,0,0
+Thunder Blade 2,60,50,80,110,0,0
+Lightning Punisher 1,100,50,80,100,20,0
+Lightning Punisher 2,100,50,50,80,70,0
+Lightning Punisher 3,100,120,40,50,90,0
+Freeze Blade 1,60,50,80,110,0,0
+Freeze Blade 2,100,50,80,100,20,0
+Frost Blaze 1,90,50,50,80,80,0
+Frost Blaze 2,70,70,80,80,80,20
+Jagras Blade 1,80,70,30,70,0,0
+Jagras Blade 2,80,50,80,90,0,0
+Jagras Blade 3,60,50,80,110,0,0
+Jagras Hacker 1,100,50,80,100,20,0
+Jagras Hacker 2,110,50,50,80,60,0
+Jagras Hacker 3,110,120,40,50,80,0
+Girros Blade 1,80,50,80,90,0,0
+Girros Blade 2,60,50,80,110,0,0
+Malady's Kiss 1,110,50,50,80,60,0
+Malady's Kiss 2,100,50,50,80,70,0
+Malady's Kiss 3,80,60,60,100,70,30
+Lava Blaze 1,100,50,50,80,70,0
+Lava Blaze 2,90,60,60,100,60,30
+Blooming Blade 1,60,70,30,90,0,0
+Blooming Blade 2,70,50,80,100,0,0
+Blooming Blade 3,60,50,80,110,0,0
+Datura Blaze 1,110,50,40,90,60,0
+Datura Blaze 2,100,50,50,80,70,0
+Datura Blaze 3,110,120,40,50,80,0
+Flame Blade 1,70,50,80,100,0,0
+Flame Blade 2,100,50,80,100,20,0
+Red Wing,100,50,50,80,70,0
+Blue Wing,110,120,40,50,80,0
+Rathalos Glinsword,90,60,60,100,60,30
+Bone Blade 1,100,60,80,10,0,0
+Bone Blade 2,90,60,80,20,0,0
+Bone Blade 3,90,50,50,60,0,0
+Bone Slasher 1,130,70,30,70,0,0
+Bone Slasher 2,120,70,30,80,0,0
+Bone Slasher 3,120,60,80,80,10,0
+Giant Jawblade 1,110,100,40,40,60,0
+Giant Jawblade 2,110,120,40,50,80,0
+Hazak Kys,110,60,80,80,50,20
+Leviathan's Fury,200,70,20,20,50,40
+Flammenzahn,120,70,30,80,0,0
+Flammenzahn+,110,100,40,40,60,0
+Gnashing Flammenzahn,120,120,40,50,70,0
+Aqua Slasher 1,90,70,30,60,0,0
+Aqua Slasher 2,130,70,30,70,0,0
+Aqua Slasher 3,120,70,30,80,0,0
+Water Golem 1,140,70,30,100,10,0
+Water Golem 2,130,70,30,100,20,0
+Water Golem 3,190,70,20,50,30,40
+Carapace Buster 1,80,70,30,70,0,0
+Carapace Buster 2,120,70,30,80,0,0
+Carapace Buster 3,110,70,30,90,0,0
+Barroth Shredder 1,110,100,40,40,60,0
+Barroth Shredder 2,100,100,40,40,70,0
+Barroth Shredder 3,110,120,40,50,80,0
+Spiked Blade 1,120,70,30,80,0,0
+Spiked Blade 2,110,70,30,90,0,0
+Radobaan Slab 1,140,70,30,100,10,0
+Radobaan Slab 2,110,100,40,40,60,0
+Radobaan Slab 3,110,120,40,50,80,0
+Dragonbone Cleaver 1,110,70,30,90,0,0
+Dragonbone Cleaver 2,100,70,30,100,0,0
+Dragonbone Cleaver 3,120,110,40,40,70,20
+Thundersword,60,50,80,110,0,0
+Kirin Thundersword,110,20,20,160,90,0
+King Thundersword,110,20,20,150,100,0
+Magda Potestas 1,110,50,80,100,10,0
+Magda Potestas 2,210,30,40,90,30,0
+Blacksteel Chopper 1,150,110,40,40,10,0
+Blacksteel Chopper 2,140,110,40,40,20,0
+Icesteel Edge,110,60,80,80,50,20
+Daora's Decimator,90,60,80,80,70,20
+Xeno Maliq,130,30,60,80,40,60
+Wyvern Jawblade,120,120,40,50,70,0
+Great Wyvern Jawblade,110,120,40,50,80,0
+Iron Katana 1,100,50,80,20,0,0
+Iron Katana 2,80,70,30,70,0,0
+Iron Katana 3,60,70,30,90,0,0
+Iron Grace 1,80,50,80,90,0,0
+Iron Grace 2,70,50,80,100,0,0
+Iron Grace 3,90,50,50,80,80,0
+Iron Gospel 1,70,50,50,80,100,0
+Iron Gospel 2,50,60,20,150,90,30
+Nergal Reaver,120,120,40,50,70,0
+Extermination's Edge,110,120,40,50,80,0
+Flickering Glow 1,70,50,80,100,0,0
+Flickering Glow 2,60,50,80,110,0,0
+Dazzling Flash 1,100,50,50,80,70,0
+Dazzling Flash 2,90,50,50,80,80,0
+Dazzling Flash 3,80,50,60,120,50,40
+First Dance 1,70,70,30,80,0,0
+First Dance 2,80,50,80,90,0,0
+First Dance 3,60,50,80,110,0,0
+Last Dance 1,110,50,50,80,60,0
+Last Dance 2,80,50,50,80,90,0
+Last Dance 3,80,60,80,80,80,20
+Brazenridge 1,100,50,50,80,70,0
+Brazenridge 2,90,50,50,80,130,0
+Wyvern Blade "Leaf",90,50,80,80,0,0
+Wyvern Blade "Verde",110,50,50,80,60,0
+Wyvern Blade "Holly",80,60,60,100,70,30
+Wyvern Blade "Fall",80,50,80,90,0,0
+Wyvern Blade "Blood",110,50,50,80,60,0
+Wyvern Blade "Azure",100,60,80,80,60,20
+Wyvern Blade "Indigo",70,50,60,120,60,40
+Bone Shotel 1,100,60,80,10,0,0
+Bone Shotel 2,90,50,80,30,0,0
+Bone Shotel 3,70,60,60,60,0,0
+Hard Bone Shotel 1,130,70,30,70,0,0
+Hard Bone Shotel 2,110,70,30,90,0,0
+Hard Bone Shotel 3,140,70,30,100,10,0
+Bone Reaper 1,100,100,40,40,70,0
+Bone Reaper 2,100,120,40,50,90,0
+Rookslayer Long Sword,100,100,40,40,70,0
+Bazel Varga Rookslayer,60,120,80,60,30,50
+Blazing Shotel 1,130,70,30,70,0,0
+Blazing Shotel 2,120,70,30,80,0,0
+Anja Scimitar 1,140,70,30,100,10,0
+Anja Scimitar 2,100,100,40,40,70,0
+Anja Scimitar 3,110,120,40,50,80,0
+Jyura Shotel 1,80,70,30,70,0,0
+Jyura Shotel 2,120,70,30,80,0,0
+Jyura Shotel 3,110,70,30,90,0,0
+Dipterus 1,140,70,30,100,10,0
+Dipterus 2,110,100,40,40,60,0
+Dipterus 3,170,100,30,30,40,30
+Hazak Grosser 1,160,100,30,30,50,30
+Hazak Grosser 2,200,70,20,20,50,40
+Pulsar Shotel 1,60,70,30,90,0,0
+Pulsar Shotel 2,100,70,30,100,0,0
+Pulsar Shotel 3,90,70,30,110,0,0
+Kadachi Fang 1,100,100,40,40,70,0
+Kadachi Fang 2,90,100,40,40,80,0
+Kadachi Fang 3,150,100,30,30,60,30
+Glacial Shotel 1,90,70,30,110,0,0
+Glacial Shotel 2,90,100,40,40,80,0
+Stealer,80,100,40,40,90,0
+Legia Stealer,240,20,20,20,30,70
+Dark Shotel 1,80,70,30,120,0,0
+Dark Shotel 2,70,70,30,130,0,0
+Dark Scimitar 1,100,100,40,40,70,0
+Dark Scimitar 2,80,100,40,40,90,0
+Dark Scimitar 3,110,30,60,80,40,80
+Dragonbone Stabber 1,110,70,30,90,0,0
+Dragonbone Stabber 2,100,70,30,100,0,0
+Dragonbone Stabber 3,150,100,30,30,60,30
+Magda Facultas 1,110,50,80,100,10,0
+Magda Facultas 2,210,30,40,90,30,0
+Blacksteel Long Sword 1,150,110,40,40,10,0
+Blacksteel Long Sword 2,140,110,40,40,20,0
+Imperial Saber,100,60,80,80,60,20
+Imperial Shimmer,70,50,60,120,60,40
+Xeno Cypher,130,30,60,80,40,60
+Supremacy Blade,100,50,50,80,70,0
+Divine Slasher,100,60,60,100,50,30
+Azure Star Blade,60,120,80,60,30,50
+Hunter's Knife 1,90,50,80,30,0,0
+Hunter's Knife 2,70,70,30,80,0,0
+Hunter's Knife 3,50,70,30,100,0,0
+Steel Knife 1,70,50,80,100,0,0
+Steel Knife 2,50,50,80,120,0,0
+Steel Knife 3,100,50,50,80,70,0
+Chrome Slicer 1,80,50,50,80,90,0
+Chrome Slicer 2,50,60,20,150,90,30
+Nergal Jack,110,120,40,50,80,0
+Eradication Vanguard,90,120,40,50,100,0
+Flame Knife 1,60,50,80,110,0,0
+Flame Knife 2,100,50,80,100,20,0
+Heat Edge,90,50,50,80,80,0
+Corona,90,60,60,100,60,30
+Heavy Bang,40,50,80,130,0,0
+Heavy Bang+,80,50,50,80,90,0
+Master Bang,90,120,40,50,100,0
+Aqua Messer 1,70,70,30,80,0,0
+Aqua Messer 2,80,50,80,90,0,0
+Aqua Messer 3,70,50,80,100,0,0
+Rogue Wave 1,100,50,80,100,20,0
+Rogue Wave 2,100,50,50,80,70,0
+Rogue Wave 3,100,60,60,100,50,30
+Glacial Grace 1,60,50,80,110,0,0
+Glacial Grace 2,100,50,50,80,70,0
+Rimespire,80,50,50,80,90,0
+Legia Rimespire,120,30,60,80,40,70
+Princess Rapier,60,50,80,110,0,0
+Queen Rapier,110,50,50,80,60,0
+Queen Rose,100,50,50,80,70,0
+Royal Rose,90,60,60,100,60,30
+Lumu Knife 1,70,50,80,100,0,0
+Lumu Knife 2,60,50,80,110,0,0
+Lumu Tabar 1,100,50,50,80,70,0
+Lumu Tabar 2,90,50,50,80,80,0
+Lumu Tabar 3,80,50,60,120,50,40
+Blooming Knife 1,60,70,30,90,0,0
+Blooming Knife 2,60,50,80,110,0,0
+Blooming Knife 3,40,50,80,130,0,0
+Datura Blossom 1,90,50,50,80,80,0
+Datura Blossom 2,80,50,50,80,90,0
+Datura Blossom 3,90,120,40,50,100,0
+Girros Knife 1,70,50,80,100,0,0
+Girros Knife 2,50,50,80,120,0,0
+Malady's Tabar 1,100,50,50,80,70,0
+Malady's Tabar 2,90,50,50,80,80,0
+Malady's Tabar 3,80,50,60,120,50,40
+Bone Kukri 1,90,60,80,20,0,0
+Bone Kukri 2,80,50,80,40,0,0
+Bone Kukri 3,80,50,50,70,0,0
+Chief Kukri 1,110,70,30,90,0,0
+Chief Kukri 2,100,70,30,100,0,0
+Chief Kukri 3,130,70,30,100,20,0
+Grand Barong 1,100,100,40,40,70,0
+Grand Barong 2,90,120,40,50,100,0
+Spiked Edge 1,120,70,30,80,0,0
+Spiked Edge 2,110,70,30,90,0,0
+Baan Claw 1,140,70,30,100,10,0
+Baan Claw 2,100,100,40,40,70,0
+Baan Claw 3,100,120,40,50,90,0
+Jagras Edge 1,70,50,50,80,0,0
+Jagras Edge 2,100,70,30,100,0,0
+Jagras Edge 3,80,70,30,120,0,0
+Jagras Garotte 1,100,100,40,40,70,0
+Jagras Garotte 2,90,100,40,40,80,0
+Jagras Garotte 3,90,120,40,50,100,0
+Thunder Edge 1,110,70,30,90,0,0
+Thunder Edge 2,100,70,30,100,0,0
+Lightning Nemesis 1,140,70,30,100,10,0
+Lightning Nemesis 2,100,100,40,40,70,0
+Lightning Nemesis 3,100,120,40,50,90,0
+Carapace Edge 1,80,50,50,70,0,0
+Carapace Edge 2,120,70,30,80,0,0
+Carapace Edge 3,110,70,30,90,0,0
+Barroth Club 1,140,70,30,100,10,0
+Barroth Club 2,110,100,40,40,60,0
+Barroth Club 3,100,120,40,50,90,0
+Blazing Edge 1,120,70,30,80,0,0
+Blazing Edge 2,100,70,30,100,0,0
+Flammensucher,100,100,40,40,70,0
+Gnashing Flammensucher,100,120,40,50,90,0
+Dragonbone Sword 1,110,70,30,90,0,0
+Dragonbone Sword 2,70,70,30,130,0,0
+Dragonbone Sword 3,150,100,30,30,60,30
+Fulminator,40,50,80,130,0,0
+Thunderbolt Sword 1,110,20,20,150,100,0
+Thunderbolt Sword 2,110,20,20,130,120,0
+Blacksteel Sword 1,150,110,40,40,10,0
+Blacksteel Sword 2,140,110,40,40,20,0
+Teostra's Spada,100,60,60,100,50,30
+Teostra's Emblem,70,50,60,120,60,40
+Xeno Mabura,130,30,60,80,40,60
+Matched Slicers 1,90,50,80,30,0,0
+Matched Slicers 2,70,70,30,80,0,0
+Matched Slicers 3,50,70,30,100,0,0
+Dual Slicers 1,60,50,80,110,0,0
+Dual Slicers 2,50,50,80,120,0,0
+Dual Slicers 3,90,50,50,80,80,0
+Chrome Slicers 1,80,50,50,80,90,0
+Chrome Slicers 2,60,60,20,150,90,20
+Nergal Gouge,110,120,40,50,80,0
+Decimation Claws,90,120,40,50,100,0
+Luminous Daggers 1,70,50,80,100,0,0
+Luminous Daggers 2,60,50,80,110,0,0
+Dual Destroyers 1,100,50,50,80,70,0
+Dual Destroyers 2,90,50,50,80,80,0
+Dual Destroyers 3,80,50,60,120,50,40
+Rookslayer Handaxes,100,50,50,80,70,0
+Bazelhawk Rookslayer,60,120,80,60,30,50
+Freeze Daggers 1,50,50,80,120,0,0
+Freeze Daggers 2,100,50,50,80,70,0
+Freeze Chain 1,90,50,50,80,80,0
+Freeze Chain 2,80,50,60,120,50,40
+Rending Beaks 1,60,70,30,90,0,0
+Rending Beaks 2,60,50,80,110,0,0
+Rending Beaks 3,50,50,80,120,0,0
+Arcanaria 1,90,50,50,80,80,0
+Arcanaria 2,80,50,50,80,90,0
+Arcanaria 3,80,60,60,100,70,30
+Sworn Rapiers,50,50,80,120,0,0
+Sworn Rapiers+,90,50,50,80,80,0
+Holy Sabers,60,50,60,120,70,40
+Bone Hatchets 1,100,60,80,10,0,0
+Bone Hatchets 2,90,50,80,30,0,0
+Bone Hatchets 3,80,70,30,70,0,0
+Wild Hatchets 1,110,70,30,90,0,0
+Wild Hatchets 2,90,70,30,110,0,0
+Wild Hatchets 3,120,70,30,100,30,0
+Strong Hatchets 1,60,60,60,100,70,0
+Strong Hatchets 2,110,50,50,80,110,0
+Blazing Hatchets 1,120,70,30,80,0,0
+Blazing Hatchets 2,100,70,30,100,0,0
+Anja Cyclone 1,140,70,30,100,10,0
+Anja Cyclone 2,130,70,30,100,20,0
+Anja Cyclone 3,100,120,40,50,90,0
+Diablos Hatchets 1,110,70,30,90,0,0
+Diablos Hatchets 2,140,70,30,100,10,0
+Diablos Clubs 1,100,100,40,40,70,0
+Diablos Clubs 2,90,50,60,120,60,20
+Madness Pangas 1,80,50,50,70,0,0
+Madness Pangas 2,120,70,30,80,0,0
+Madness Pangas 3,110,70,30,90,0,0
+Jyura Hatchets 1,140,70,30,100,10,0
+Jyura Hatchets 2,100,100,40,40,70,0
+Jyura Hatchets 3,110,150,30,30,50,30
+Lava Cyclone 1,100,100,40,40,70,0
+Lava Cyclone 2,200,70,20,20,50,40
+Taurus Pangas 1,100,70,30,100,0,0
+Taurus Pangas 2,80,70,30,120,0,0
+Dark Ripper 1,90,100,40,40,80,0
+Dark Ripper 2,80,100,40,40,90,0
+Dark Ripper 3,110,30,60,80,40,80
+Pulsar Hatchets 1,70,50,50,80,0,0
+Pulsar Hatchets 2,100,70,30,100,0,0
+Pulsar Hatchets 3,90,70,30,110,0,0
+Kadachi Claws 1,100,100,40,40,70,0
+Kadachi Claws 2,90,100,40,40,80,0
+Kadachi Claws 3,200,70,20,20,50,40
+Garon Hatchets 1,80,70,30,120,0,0
+Garon Hatchets 2,90,100,40,40,80,0
+Blood-drinker Chainblade,80,100,40,40,90,0
+Sin,200,70,20,20,50,40
+Dragonbone Twinblades 1,110,70,30,90,0,0
+Dragonbone Twinblades 2,70,70,30,130,0,0
+Enduring Schism,110,110,40,40,80,20
+Kirin Bolts,70,70,30,130,0,0
+Kirin Bolts+,110,20,20,140,110,0
+Monarch,110,20,20,120,130,0
+Magda Ungulae 1,110,50,80,100,10,0
+Magda Ungulae 2,180,30,60,90,40,0
+Blacksteel Twins 1,150,110,40,40,10,0
+Blacksteel Twins 2,140,110,40,40,20,0
+Twin Nails,100,60,80,80,60,20
+Fire and Ice,60,50,60,120,70,40
+Xeno Raqs,120,30,60,80,40,70
+Iron Hammer 1,100,50,80,20,0,0
+Iron Hammer 2,80,70,30,70,0,0
+Iron Hammer 3,60,70,30,90,0,0
+Iron Demon 1,70,50,80,100,0,0
+Iron Demon 2,60,50,80,110,0,0
+Iron Demon 3,100,50,50,80,70,0
+Iron Archdemon 1,90,50,50,80,80,0
+Iron Archdemon 2,60,60,20,150,90,20
+Nergal Crusher,120,120,40,50,70,0
+Obliteration's Footfall,110,120,40,50,80,0
+Frozen Core,50,50,80,120,0,0
+Frozen Core+,90,50,50,80,80,0
+Cocytus,110,120,40,50,80,0
+Aqua Hammer 1,80,70,30,70,0,0
+Aqua Hammer 2,90,50,80,80,0,0
+Aqua Hammer 3,80,50,80,90,0,0
+Water Basher 1,110,60,80,80,20,0
+Water Basher 2,100,50,50,80,70,0
+Water Basher 3,90,60,80,80,70,20
+Girros Hammer 1,80,50,80,90,0,0
+Girros Hammer 2,70,50,80,100,0,0
+Malady's Fist 1,60,50,80,150,10,0
+Malady's Fist 2,90,50,50,80,80,0
+Malady's Fist 3,90,60,60,100,60,30
+Blooming Hammer 1,70,70,30,80,0,0
+Blooming Hammer 2,70,50,80,100,0,0
+Blooming Hammer 3,50,50,80,120,0,0
+Buon Fiore,100,50,80,100,20,0
+Buona Flora,100,120,40,50,90,0
+Thunder Hammer 1,80,50,80,90,0,0
+Thunder Hammer 2,70,50,80,100,0,0
+Lightning Bash 1,110,50,80,100,10,0
+Lightning Bash 2,100,100,40,40,70,0
+Lightning Bash 3,150,100,30,30,60,30
+Bone Bludgeon 1,110,60,80,0,0,0
+Bone Bludgeon 2,90,60,80,20,0,0
+Bone Bludgeon 3,90,50,50,60,0,0
+Fossil Bludgeon 1,130,70,30,70,0,0
+Fossil Bludgeon 2,120,70,30,80,0,0
+Fossil Bludgeon 3,110,70,30,100,40,0
+Grandrock 1,110,100,40,40,60,0
+Grandrock 2,110,120,40,50,80,0
+Hazak Vlafos,140,110,40,40,50,20
+Pandemonium's Root,200,70,20,20,50,40
+Bone Spike 1,120,70,30,80,0,0
+Bone Spike 2,110,70,30,90,0,0
+Baan Strike 1,110,100,40,40,60,0
+Baan Strike 2,100,100,40,40,70,0
+Baan Strike 3,110,120,40,50,80,0
+Brazenbreak 1,110,100,40,40,60,0
+Brazenbreak 2,120,120,40,50,70,0
+Kulu Beak 1,60,70,30,90,0,0
+Kulu Beak 2,110,70,30,90,0,0
+Kulu Beak 3,100,70,30,100,0,0
+Crushing Beak 1,140,70,30,100,10,0
+Crushing Beak 2,130,70,30,100,20,0
+Crushing Beak 3,120,110,40,40,70,20
+Diablos Sledge 1,90,70,30,110,0,0
+Diablos Sledge 2,130,70,30,100,20,0
+Diablos Shatterer 1,120,70,30,100,30,0
+Diablos Shatterer 2,100,50,60,120,50,20
+Carapace Sledge 1,70,50,50,80,0,0
+Carapace Sledge 2,110,70,30,90,0,0
+Carapace Sledge 3,100,70,30,100,0,0
+Barroth Breaker 1,130,70,30,100,20,0
+Barroth Breaker 2,110,70,30,100,40,0
+Barroth Breaker 3,110,120,40,50,80,0
+Blazing Hammer 1,120,70,30,80,0,0
+Blazing Hammer 2,110,70,30,90,0,0
+Anja Striker 1,110,60,80,80,20,0
+Anja Striker 2,110,100,40,40,60,0
+Anja Striker 3,120,120,40,50,70,0
+Dragonbone Basher 1,110,70,30,90,0,0
+Dragonbone Basher 2,70,70,30,130,0,0
+Dragonbone Basher 3,120,110,40,40,70,20
+Magda Floga,110,50,80,100,10,0
+Ragefire Magda Floga,190,30,60,80,40,0
+Blacksteel Hammer 1,150,110,40,40,10,0
+Blacksteel Hammer 2,140,110,40,40,20,0
+Icesteel Hammer,110,60,80,80,50,20
+Daora's Colossus,90,60,80,80,70,20
+Xeno Maph'agarna,130,30,60,80,40,60
+Jail Hammer,120,120,40,50,70,0
+Binder Mace,160,100,30,30,50,30
+Metal Bagpipe 1,100,50,80,20,0,0
+Metal Bagpipe 2,80,70,30,70,0,0
+Metal Bagpipe 3,60,70,30,90,0,0
+Great Bagpipe 1,70,50,80,100,0,0
+Great Bagpipe 2,60,50,80,110,0,0
+Great Bagpipe 3,100,50,50,80,70,0
+Fortissimo 1,90,50,50,80,80,0
+Fortissimo 2,60,60,20,150,90,20
+Nergal Groove,120,120,40,50,70,0
+Desolation's Overture,110,120,40,50,80,0
+Thunder Gaida 1,80,50,80,90,0,0
+Thunder Gaida 2,70,50,80,100,0,0
+Lightning Drum 1,110,50,80,100,10,0
+Lightning Drum 2,100,50,50,80,70,0
+Lightning Drum 3,90,60,80,80,70,20
+Kulu Duda 1,70,70,30,80,0,0
+Kulu Duda 2,80,50,80,90,0,0
+Kulu Duda 3,70,50,80,100,0,0
+Dancing Davul 1,110,50,80,100,10,0
+Dancing Davul 2,100,50,50,80,70,0
+Dancing Davul 3,90,60,80,80,70,20
+Valkyrie Chordmaker,60,50,80,110,0,0
+Queen Chordmaker,100,50,50,80,70,0
+Coral Chordmaker,80,50,50,80,90,0
+Royal Chordmaker,70,50,60,120,60,40
+Aqua Bagpipe 1,60,70,30,90,0,0
+Aqua Bagpipe 2,70,50,80,100,0,0
+Aqua Bagpipe 3,60,50,80,110,0,0
+Water Tamtam 1,100,50,80,100,20,0
+Water Tamtam 2,90,50,50,80,80,0
+Water Tamtam 3,90,60,80,80,70,20
+Glacial Bagpipe 1,50,50,80,120,0,0
+Glacial Bagpipe 2,110,50,50,80,60,0
+Sectored,100,50,50,80,70,0
+Legia Sectored,130,30,60,80,40,60
+Bone Horn 1,110,60,80,0,0,0
+Bone Horn 2,90,60,80,20,0,0
+Bone Horn 3,80,50,50,70,0,0
+Hard Bone Horn 1,120,70,30,80,0,0
+Hard Bone Horn 2,110,70,30,90,0,0
+Hard Bone Horn 3,140,70,30,100,10,0
+Heavy Bone Horn 1,110,100,40,40,60,0
+Heavy Bone Horn 2,110,120,40,50,80,0
+Gama Horn 1,100,100,40,40,70,0
+Gama Horn 2,120,110,40,40,70,20
+Blazing Horn 1,130,70,30,70,0,0
+Blazing Horn 2,120,70,30,80,0,0
+Anja Barone 1,140,70,30,100,10,0
+Anja Barone 2,130,70,30,100,20,0
+Anja Barone 3,120,120,40,50,70,0
+Blooming Horn 1,70,50,50,80,0,0
+Blooming Horn 2,110,70,30,90,0,0
+Blooming Horn 3,100,70,30,100,0,0
+Datura Horn 1,110,100,40,40,60,0
+Datura Horn 2,100,100,40,40,70,0
+Datura Horn 3,110,120,40,50,80,0
+Lumu Horn 1,120,70,30,80,0,0
+Lumu Horn 2,100,70,30,100,0,0
+Lumu Barone 1,110,100,40,40,60,0
+Lumu Barone 2,90,100,40,40,80,0
+Lumu Barone 3,80,50,60,120,50,40
+Rookslayer Drum,110,100,40,40,60,0
+Bazelreid Rookslayer,70,120,80,60,20,50
+Sonic Horn 1,60,70,30,90,0,0
+Sonic Horn 2,100,70,30,100,0,0
+Sonic Horn 3,80,70,30,120,0,0
+Glass Royale,90,100,40,40,80,0
+Glass Royale+,80,100,40,40,90,0
+Queen Vespoid Horn,110,30,60,80,40,80
+Spiked Horn 1,110,70,30,90,0,0
+Spiked Horn 2,90,70,30,110,0,0
+Baan Horn 1,110,100,40,40,60,0
+Baan Horn 2,100,100,40,40,70,0
+Baan Horn 3,110,120,40,50,80,0
+Dragonbone Auldhorn 1,110,70,30,90,0,0
+Dragonbone Auldhorn 2,70,70,30,130,0,0
+Dragonbone Auldhorn 3,120,110,40,40,70,20
+Thundercry Horn,60,50,80,110,0,0
+Thunderbolt Horn 1,110,20,20,150,100,0
+Thunderbolt Horn 2,110,20,20,140,110,0
+Blacksteel Dragonhorn 1,150,110,40,40,10,0
+Blacksteel Dragonhorn 2,140,110,40,40,20,0
+Teostra's Tiple,110,60,80,80,50,20
+Teostra's Orphée,90,60,60,100,60,30
+Xeno Manasheena,130,30,60,80,40,60
+Iron Lance 1,100,50,80,20,0,0
+Iron Lance 2,80,70,30,70,0,0
+Iron Lance 3,60,70,30,90,0,0
+Steel Lance 1,80,50,80,90,0,0
+Steel Lance 2,70,50,80,100,0,0
+Steel Lance 3,90,50,50,80,80,0
+Chrome Lance 1,70,50,50,80,100,0
+Chrome Lance 2,60,60,20,150,90,20
+Nergal Impaler,120,120,40,50,70,0
+Perdition's Hand,110,120,40,50,80,0
+Glacial Lance 1,100,70,30,100,0,0
+Glacial Lance 2,110,100,40,40,60,0
+Legiana Halberd 1,100,100,40,40,70,0
+Legiana Halberd 2,130,30,60,80,40,60
+Kulu Lance 1,70,70,30,80,0,0
+Kulu Lance 2,80,50,80,90,0,0
+Kulu Lance 3,60,50,80,110,0,0
+Kulu Hasta 1,110,50,50,80,60,0
+Kulu Hasta 2,90,50,50,80,80,0
+Kulu Hasta 3,90,60,60,100,60,30
+Gama Pilebunker 1,100,50,50,80,70,0
+Gama Pilebunker 2,90,60,80,80,70,20
+Thunder Lance 1,90,50,80,80,0,0
+Thunder Lance 2,80,50,80,90,0,0
+Lightning Spire 1,60,50,80,150,10,0
+Lightning Spire 2,110,50,50,80,60,0
+Lightning Spire 3,90,60,80,80,70,20
+Blooming Lance 1,60,70,30,90,0,0
+Blooming Lance 2,70,50,80,100,0,0
+Blooming Lance 3,60,50,80,110,0,0
+Datura Pike 1,110,50,50,80,60,0
+Datura Pike 2,100,50,50,80,70,0
+Datura Pike 3,100,120,40,50,90,0
+Flame Lance 1,50,50,80,120,0,0
+Flame Lance 2,90,50,80,100,30,0
+Red Tail,110,50,50,80,60,0
+Blue Tail,110,60,80,80,50,20
+Blue Prominence,90,60,60,100,60,30
+Bone Lance 1,100,60,80,10,0,0
+Bone Lance 2,90,50,80,30,0,0
+Bone Lance 3,80,50,50,70,0,0
+Hard Bone Lance 1,120,70,30,80,0,0
+Hard Bone Lance 2,110,70,30,90,0,0
+Hard Bone Lance 3,140,70,30,100,10,0
+Heavy Bone Lance 1,100,100,40,40,70,0
+Heavy Bone Lance 2,100,120,40,50,90,0
+Hazak Wächter,140,110,40,40,50,20
+Love's Sorrow,200,70,20,20,50,40
+Taurus Lance 1,110,70,30,90,0,0
+Taurus Lance 2,100,70,30,100,0,0
+Dark Stinger 1,100,100,40,40,70,0
+Dark Stinger 2,90,100,40,40,80,0
+Dark Stinger 3,110,30,60,80,40,80
+Carapace Lance 1,70,50,50,80,0,0
+Carapace Lance 2,110,70,30,90,0,0
+Carapace Lance 3,100,70,30,100,0,0
+Barroth Stinger 1,130,70,30,100,20,0
+Barroth Stinger 2,110,70,30,100,40,0
+Barroth Stinger 3,100,120,40,50,90,0
+Garon Lance 1,90,70,30,110,0,0
+Garon Lance 2,100,100,40,40,70,0
+Garon Dhara 1,80,100,40,40,90,0
+Garon Dhara 2,170,100,30,30,40,30
+Aqua Horn 1,80,50,50,70,0,0
+Aqua Horn 2,120,70,30,80,0,0
+Aqua Horn 3,110,70,30,90,0,0
+Water Spike 1,140,70,30,100,10,0
+Water Spike 2,100,100,40,40,70,0
+Water Spike 3,110,120,40,50,80,0
+Dragonbone Lance 1,110,70,30,90,0,0
+Dragonbone Lance 2,70,70,30,130,0,0
+Dragonbone Lance 3,120,110,40,40,70,20
+Rookslayer Lance,110,100,40,40,60,0
+Bazel Myniad Rookslayer,70,120,80,60,20,50
+Thunderpike,60,50,80,110,0,0
+Thunderspear,110,20,20,150,100,0
+Thunderpiercer,110,20,20,140,110,0
+Blacksteel Lance 1,150,110,40,40,10,0
+Blacksteel Lance 2,140,110,40,40,20,0
+Icesteel Spear,110,60,80,80,50,20
+Daora's Fang,90,60,80,80,70,20
+Xeno Zauta,130,30,60,80,40,60
+Babel Spear,120,120,40,50,70,0
+Elder Babel Spear,110,120,40,50,80,0
+Iron Gunlance 1,100,50,80,20,0,0
+Iron Gunlance 2,70,70,30,80,0,0
+Iron Gunlance 3,60,70,30,90,0,0
+Steel Gunlance 1,80,50,80,90,0,0
+Steel Gunlance 2,70,50,80,100,0,0
+Steel Gunlance 3,90,50,50,80,80,0
+Chrome Gunlance 1,70,50,50,80,100,0
+Chrome Gunlance 2,60,60,20,150,90,20
+Nergal Ram,120,120,40,50,70,0
+Eradication Flame,110,120,40,50,80,0
+Pulsar Gunlance 1,70,70,30,80,0,0
+Pulsar Gunlance 2,80,50,80,90,0,0
+Pulsar Gunlance 3,70,50,80,100,0,0
+Kadachi Striker,110,50,50,80,60,0
+Kadachi Striker+,100,50,50,80,70,0
+Mythic Kadachi Striker,100,60,60,100,50,30
+Rath Gunlance 1,60,50,80,110,0,0
+Rath Gunlance 2,90,50,80,100,30,0
+Red Rook,110,50,50,80,60,0
+Blue Rook,110,60,80,80,50,20
+Blue Chariot,80,50,60,120,50,40
+Princess Panoply,70,50,80,100,0,0
+Princess Panoply+,100,50,50,80,70,0
+Rose Burst,90,50,50,80,80,0
+Royal Burst,80,60,60,100,70,30
+Madness Gunlance 1,60,70,30,90,0,0
+Madness Gunlance 2,70,50,80,100,0,0
+Madness Gunlance 3,60,50,80,110,0,0
+Jyura Buster 1,100,50,80,100,20,0
+Jyura Buster 2,110,50,50,80,60,0
+Jyura Buster 3,110,60,80,80,50,20
+Glacial Gunlance 1,50,50,80,120,0,0
+Glacial Gunlance 2,100,50,50,80,70,0
+Legiana Cannon 1,80,50,50,80,90,0
+Legiana Cannon 2,130,30,60,80,40,60
+Bone Gunlance 1,100,60,80,10,0,0
+Bone Gunlance 2,80,50,80,40,0,0
+Bone Gunlance 3,80,50,50,70,0,0
+Bone Cannon 1,120,70,30,80,0,0
+Bone Cannon 2,110,70,30,90,0,0
+Bone Cannon 3,140,70,30,100,10,0
+Great Bone Gunlance 1,100,100,40,40,70,0
+Great Bone Gunlance 2,100,120,40,50,90,0
+Bazel Buster 1,100,100,40,40,70,0
+Bazel Buster 2,60,120,80,60,30,50
+Jagras Gunlance 1,90,50,50,60,0,0
+Jagras Gunlance 2,110,70,30,90,0,0
+Jagras Gunlance 3,90,70,30,110,0,0
+Glutton Gunlance 1,130,70,30,100,20,0
+Glutton Gunlance 2,110,50,50,80,60,0
+Glutton Gunlance 3,90,120,40,50,100,0
+Girros Gunlance 1,120,70,30,80,0,0
+Girros Gunlance 2,110,70,30,90,0,0
+Deathfang Gunlance 1,140,70,30,100,10,0
+Deathfang Gunlance 2,100,100,40,40,70,0
+Deathfang Gunlance 3,150,100,30,30,60,30
+Hazak Spysa 1,140,110,40,40,50,20
+Hazak Spysa 2,200,70,20,20,50,40
+Carapace Cannon 1,80,50,50,70,0,0
+Carapace Cannon 2,110,70,30,90,0,0
+Carapace Cannon 3,90,70,30,110,0,0
+Barroth Blaster 1,120,70,30,100,30,0
+Barroth Blaster 2,100,50,50,80,70,0
+Barroth Blaster 3,120,70,30,100,80,0
+Blazing Gunlance 1,120,70,30,80,0,0
+Blazing Gunlance 2,110,70,30,90,0,0
+Anja Cannon 1,140,70,30,100,10,0
+Anja Cannon 2,130,70,30,100,20,0
+Anja Cannon 3,130,70,30,100,70,0
+Dragonbone Gunlance 1,110,70,30,90,0,0
+Dragonbone Gunlance 2,70,70,30,130,0,0
+Dragonbone Gunlance 3,120,110,40,40,70,20
+Magda Lahat,110,50,80,100,10,0
+Earthshaker Magda Lahat,210,30,40,90,30,0
+Blacksteel Gunlance 1,150,110,40,40,10,0
+Blacksteel Gunlance 2,140,110,40,40,20,0
+Icesteel Gunlance,110,60,80,80,50,20
+Daora's Brigia,90,60,80,80,70,20
+Xeno Hemta,130,30,60,80,40,60
+Proto Iron Axe 1,100,50,80,20,0,0
+Proto Iron Axe 2,80,70,30,70,0,0
+Proto Iron Axe 3,60,70,30,90,0,0
+Improved Steel Axe 1,70,50,80,100,0,0
+Improved Steel Axe 2,60,50,80,110,0,0
+Improved Steel Axe 3,90,50,50,80,80,0
+Perfected Alloy Axe 1,70,50,50,80,100,0
+Perfected Alloy Axe 2,60,60,20,150,90,20
+Nergal Gash,120,120,40,50,70,0
+Dying Light,110,120,40,50,80,0
+Glacial Axe 1,60,50,80,110,0,0
+Glacial Axe 2,100,50,50,80,70,0
+Frostreaver,90,50,50,80,80,0
+Legia Frostreaver,130,30,60,80,40,60
+Thunder Axe 1,90,50,80,80,0,0
+Thunder Axe 2,80,50,80,90,0,0
+Lightning Chopper 1,110,50,80,100,10,0
+Lightning Chopper 2,100,50,50,80,70,0
+Lightning Chopper 3,90,60,80,80,70,20
+Motor Chopper 1,90,50,50,80,80,0
+Motor Chopper 2,80,50,80,100,90,0
+Jagras Axe 1,60,70,30,90,0,0
+Jagras Axe 2,70,50,80,100,0,0
+Jagras Axe 3,50,50,80,120,0,0
+Jagras Raider 1,110,50,50,80,60,0
+Jagras Raider 2,100,50,50,80,70,0
+Jagras Raider 3,110,120,40,50,80,0
+Bazel Raider 1,100,50,50,80,70,0
+Bazel Raider 2,70,120,80,60,20,50
+Rathalos Axe 1,60,50,80,110,0,0
+Rathalos Axe 2,100,50,80,100,20,0
+Rathbringer Axe 1,90,50,50,80,80,0
+Rathbringer Axe 2,90,60,80,80,70,20
+Bone Axe 1,100,60,80,10,0,0
+Bone Axe 2,90,50,80,30,0,0
+Bone Axe 3,80,50,50,70,0,0
+Bone Smasher 1,120,70,30,80,0,0
+Bone Smasher 2,110,70,30,90,0,0
+Bone Smasher 3,140,70,30,100,10,0
+Power Smasher 1,100,100,40,40,70,0
+Power Smasher 2,100,120,40,50,90,0
+Hazak Demios 1,140,110,40,40,50,20
+Hazak Demios 2,200,70,20,20,50,40
+Madness Axe 1,80,50,50,70,0,0
+Madness Axe 2,120,70,30,80,0,0
+Madness Axe 3,110,70,30,90,0,0
+Jyura Drought 1,110,60,80,80,20,0
+Jyura Drought 2,110,100,40,40,60,0
+Jyura Drought 3,140,110,40,40,50,20
+Lumu Axe 1,120,70,30,80,0,0
+Lumu Axe 2,100,70,30,100,0,0
+Lumu Smasher 1,130,70,30,100,20,0
+Lumu Smasher 2,90,100,40,40,80,0
+Lumu Smasher 3,140,100,30,30,70,30
+Carapace Axe 1,90,50,50,60,0,0
+Carapace Axe 2,110,70,30,90,0,0
+Carapace Axe 3,90,70,30,110,0,0
+Barroth Grinder 1,130,70,30,100,20,0
+Barroth Grinder 2,120,70,30,100,30,0
+Barroth Grinder 3,120,70,30,100,80,0
+Diablos Axe 1,100,70,30,100,0,0
+Diablos Axe 2,140,70,30,100,10,0
+Axe Semper Tyrannis,110,50,50,80,60,0
+Axe of Thanatos,140,110,40,40,50,20
+Axe of Demons,90,50,60,120,60,20
+Flammenbeil,120,70,30,80,0,0
+Flammenbeil+,110,100,40,40,60,0
+Gnashing Flammenbeil,110,120,40,50,80,0
+Dragonbone Slicer 1,110,70,30,90,0,0
+Dragonbone Slicer 2,70,70,30,130,0,0
+Dragonbone Slicer 3,120,110,40,40,70,20
+Peal,60,50,80,110,0,0
+Peal+,110,20,20,150,100,0
+Kirin Thunderpeal,110,20,20,140,110,0
+Blacksteel Switch Axe 1,150,110,40,40,10,0
+Blacksteel Switch Axe 2,140,110,40,40,20,0
+Teostra's Arx,110,60,80,80,50,20
+Teostra's Castle,90,60,60,100,60,30
+Xeno Martshu,130,30,60,90,30,60
+Proto Commission Axe 1,90,50,80,30,0,0
+Proto Commission Axe 2,70,70,30,80,0,0
+Proto Commission Axe 3,50,70,30,100,0,0
+Elite Commission Axe 1,70,50,80,100,0,0
+Elite Commission Axe 2,50,50,80,120,0,0
+Elite Commission Axe 3,100,50,50,80,70,0
+Chrome Guardian 1,80,50,50,80,90,0
+Chrome Guardian 2,60,60,20,150,90,20
+Nergal Lacerator,110,120,40,50,80,0
+Devastation's Thorns,100,120,40,50,90,0
+Rathsblade 1,60,50,80,110,0,0
+Rathsblade 2,100,50,80,100,20,0
+Axelion Blade,90,50,50,80,80,0
+Halberion Blade,70,50,60,120,60,40
+Mudslide Blade 1,80,70,30,70,0,0
+Mudslide Blade 2,90,50,80,80,0,0
+Mudslide Blade 3,80,50,80,90,0,0
+Jyura Depth 1,110,50,80,100,10,0
+Jyura Depth 2,110,50,50,80,60,0
+Jyura Depth 3,100,60,60,100,50,30
+Everfrost Blade 1,70,50,80,100,0,0
+Everfrost Blade 2,100,50,80,100,20,0
+Gigafrost 1,100,50,50,80,70,0
+Gigafrost 2,90,60,80,80,70,20
+Dear Lutemis,70,50,80,100,0,0
+Dear Lutemia,100,50,50,80,70,0
+Dear Hecatel,90,50,50,80,80,0
+Dear Hecatelia,70,50,60,120,60,40
+Bone Strongarm 1,90,60,80,20,0,0
+Bone Strongarm 2,80,50,80,40,0,0
+Bone Strongarm 3,80,50,50,70,0,0
+Hard Bone Strongarm 1,110,70,30,90,0,0
+Hard Bone Strongarm 2,100,70,30,100,0,0
+Hard Bone Strongarm 3,130,70,30,100,20,0
+Mighty Strongarm 1,90,100,40,40,80,0
+Mighty Strongarm 2,90,120,40,50,100,0
+Diablos Wall 1,100,70,30,100,0,0
+Diablos Wall 2,140,70,30,100,10,0
+Diablos Tyrannis 1,110,100,40,40,60,0
+Diablos Tyrannis 2,90,50,60,120,60,20
+Jagras Strongarm 1,70,50,50,80,0,0
+Jagras Strongarm 2,100,70,30,100,0,0
+Jagras Strongarm 3,90,70,30,110,0,0
+Jagras Escudo 1,130,70,30,100,20,0
+Jagras Escudo 2,90,100,40,40,80,0
+Jagras Escudo 3,100,120,40,50,90,0
+Gama Silt 1,80,100,40,40,90,0
+Gama Silt 2,110,110,40,40,80,20
+Girros Strongarm 1,110,70,30,90,0,0
+Girros Strongarm 2,100,70,30,100,0,0
+Girros Nadja 1,110,100,40,40,60,0
+Girros Nadja 2,100,100,40,40,70,0
+Girros Nadja 3,110,110,40,40,80,20
+Hazak Aspida 1,130,110,40,40,60,20
+Hazak Aspida 2,200,70,20,20,50,40
+Pulsar Strongarm 1,60,70,30,90,0,0
+Pulsar Strongarm 2,100,70,30,100,0,0
+Pulsar Strongarm 3,80,70,30,120,0,0
+Kadachi Kaina 1,90,100,40,40,80,0
+Kadachi Kaina 2,80,100,40,40,90,0
+Kadachi Kaina 3,190,70,20,20,60,40
+Garon Strongarm 1,90,70,30,110,0,0
+Garon Strongarm 2,100,100,40,40,70,0
+Hate's Undying Flame,90,100,40,40,80,0
+Odium,200,70,20,20,50,40
+Dragonbone Cutter 1,110,70,30,90,0,0
+Dragonbone Cutter 2,70,70,30,130,0,0
+Dragonbone Cutter 3,120,110,40,40,70,20
+Magda Manus,110,50,80,100,10,0
+Avenging Magda Manus,210,30,40,90,30,0
+Blacksteel Charger 1,150,110,40,40,10,0
+Blacksteel Charger 2,140,110,40,40,20,0
+Daora's Casca,110,60,80,80,50,20
+Daora's Thwartoise,90,60,80,80,70,20
+Xeno Ra'atz,130,30,60,80,40,60
+Iron Blade 1,90,50,80,30,0,0
+Iron Blade 2,70,70,30,80,0,0
+Iron Blade 3,50,70,30,100,0,0
+Steel Blade 1,70,50,80,100,0,0
+Steel Blade 2,50,50,80,120,0,0
+Steel Blade 3,100,50,50,80,70,0
+Chrome Blade 1,80,50,50,80,90,0
+Chrome Blade 2,60,60,20,150,90,20
+Nergal Reaper,110,120,40,50,80,0
+Catastrophe's Light,100,120,40,50,90,0
+Flame Glaive 1,60,50,80,110,0,0
+Flame Glaive 2,100,50,80,100,20,0
+Rathmaul,90,50,50,80,80,0
+Firedance Rathmaul,90,60,60,100,60,30
+Kulu Blade 1,60,70,30,90,0,0
+Kulu Blade 2,60,50,80,110,0,0
+Kulu Blade 3,50,50,80,120,0,0
+Ya-Ku Wrath 1,90,50,50,80,80,0
+Ya-Ku Wrath 2,80,50,50,80,90,0
+Ya-Ku Wrath 3,80,60,60,100,70,30
+Luminous Blade 1,70,50,80,100,0,0
+Luminous Blade 2,60,50,80,110,0,0
+Destroyer Bo 1,100,50,50,80,70,0
+Destroyer Bo 2,90,50,50,80,80,0
+Destroyer Bo 3,80,50,60,120,50,40
+Frost Blade 1,50,50,80,120,0,0
+Frost Blade 2,90,50,80,100,30,0
+Freeze Gale 1,100,50,50,80,70,0
+Freeze Gale 2,90,60,80,80,70,20
+Blooming Glaive 1,70,70,30,80,0,0
+Blooming Glaive 2,70,50,80,100,0,0
+Blooming Glaive 3,50,50,80,120,0,0
+Datura Blade 1,90,50,80,100,30,0
+Datura Blade 2,90,50,50,80,80,0
+Datura Blade 3,90,120,40,50,100,0
+Gama Cane 1,100,100,40,40,70,0
+Gama Cane 2,130,110,40,40,60,20
+Bone Rod 1,90,60,80,20,0,0
+Bone Rod 2,80,50,80,40,0,0
+Bone Rod 3,70,50,50,80,0,0
+Hard Bone Rod 1,110,70,30,90,0,0
+Hard Bone Rod 2,100,70,30,100,0,0
+Hard Bone Rod 3,130,70,30,100,20,0
+Aerial Rod 1,100,100,40,40,70,0
+Aerial Rod 2,90,120,40,50,100,0
+Hazak Entoma 1,130,110,40,40,60,20
+Hazak Entoma 2,200,70,20,20,50,40
+Flammenkaefer,120,70,30,80,0,0
+Flammenkaefer+,100,100,40,40,70,0
+Gnashing Flammenkaefer,100,120,40,50,90,0
+Aqua Rod 1,80,50,50,70,0,0
+Aqua Rod 2,120,70,30,80,0,0
+Aqua Rod 3,100,70,30,100,0,0
+Water Glaive 1,140,70,30,100,10,0
+Water Glaive 2,100,100,40,40,70,0
+Water Glaive 3,110,120,40,50,80,0
+Diablos Rod 1,110,70,30,90,0,0
+Diablos Rod 2,110,60,80,80,20,0
+Tyrannis Glaive 1,110,100,40,40,60,0
+Tyrannis Glaive 2,90,50,60,120,60,20
+Pulsar Rod 1,60,70,30,90,0,0
+Pulsar Rod 2,100,70,30,100,0,0
+Pulsar Rod 3,80,70,30,120,0,0
+Kadachi Pillar 1,90,100,40,40,80,0
+Kadachi Pillar 2,80,100,40,40,90,0
+Kadachi Pillar 3,190,70,20,20,60,40
+Garon Rod 1,90,70,30,110,0,0
+Garon Rod 2,100,100,40,40,70,0
+Temptation's Trident,90,50,90,40,80,0
+Vice,200,70,20,20,50,40
+Dragonbone Glaive 1,110,70,30,90,0,0
+Dragonbone Glaive 2,70,70,30,130,0,0
+Dragonbone Glaive 3,120,110,40,40,70,20
+Indigo Flash,40,50,80,130,0,0
+Azure Bolt,110,20,20,140,110,0
+Verdant Levin,110,20,20,120,130,0
+Blacksteel Glaive 1,150,110,40,40,10,0
+Blacksteel Glaive 2,140,110,40,40,20,0
+Daora's Entom,110,60,80,80,50,20
+Daora's Tethidine,90,60,80,80,70,20
+Xeno Shmaena,130,30,60,80,40,60
+Berserker Sword,70,120,80,60,20,50
+Anguish,60,120,80,60,30,50
+Reaver "Cruelty",50,120,80,60,40,50
+Reaver "Calamity",90,80,20,110,0,0
+Fatal Jho,60,120,80,60,30,50
+Fatal Bite,50,120,80,60,40,50
+Wrath & Rancor,50,120,80,60,40,50
+Wrathful Predation,40,120,80,60,50,50
+Devil's Due,60,120,80,60,30,50
+Devil's Crush,50,120,80,60,40,50
+Devil's Maestro,60,120,80,60,30,50
+Deep Vero,50,120,80,60,40,50
+Grief Lance,60,120,80,60,30,50
+Fiendish Tower,50,120,80,60,40,50
+Ravenous Gunlance,50,120,80,60,40,50
+Insatiable Gunlance,40,120,80,60,50,50
+Tyrannos,60,120,80,60,30,50
+Terror Tyrannos,50,120,80,60,40,50
+Tyrant's Charge Blade,60,120,80,60,30,50
+Oppressor's Charge Blade,50,120,80,60,40,50
+Bad Wing,60,120,80,60,30,50
+Grunge Storm,50,120,80,60,40,50
+Wyvern Ignition "Steel",180,70,20,20,60,0
+Wyvern Ignition "Impact",250,20,20,20,30,60
+Empress Galea,110,30,60,80,40,80
+Empress Galea "Blaze",110,30,60,80,40,80
+Empress Galea "Ruin",110,30,60,80,40,80
+Empress Galea "Styx",110,30,60,80,40,80
+Hazel Grosser 2,120,30,60,80,40,70
+Empress Sword,110,30,60,80,40,80
+Empress Sword "Blaze",110,30,60,80,40,80
+Empress Sword "Ruin",110,30,60,80,40,80
+Empress Sword "Styx",110,30,60,80,40,80
+Empress Edge,90,30,60,80,40,100
+Empress Edge "Blaze",90,30,60,80,40,100
+Empress Edge "Ruin",90,30,60,80,40,100
+Empress Edge "Styx",90,30,60,80,40,100
+Empress Daggers,90,30,60,80,40,100
+Empress Daggers "Blaze",90,30,60,80,40,100
+Empress Daggers "Ruin",90,30,60,80,40,100
+Empress Daggers "Styx",90,30,60,80,40,100
+Empress Mace,110,30,60,80,40,80
+Empress Mace "Blaze",110,30,60,80,40,80
+Empress Mace "Ruin",110,30,60,80,40,80
+Empress Mace "Styx",110,30,60,80,40,80
+Empress Roar,110,30,60,80,40,80
+Empress Roar "Blaze",110,30,60,80,40,80
+Empress Roar "Ruin",110,30,60,80,40,80
+Empress Roar "Styx",110,30,60,80,40,80
+Bazel Myriad Rookslayer,110,30,60,80,40,80
+Empress Lance,110,30,60,80,40,80
+Empress Lance "Blaze",110,30,60,80,40,80
+Empress Lance "Ruin",110,30,60,80,40,80
+Empress Lance "Styx",60,50,80,110,0,0
+Shooting Star Lance,90,50,50,80,130,0
+Empress H
