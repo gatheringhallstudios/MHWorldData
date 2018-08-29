@@ -1,3 +1,4 @@
+base_name_en,sharpness_1,sharpness_2,sharpness_3,sharpness_4,sharpness_5
 Buster Sword 1,100,50,80,20,0,0
 Buster Sword 2,70,70,30,80,0,0
 Buster Sword 3,60,70,30,90,0,0
@@ -964,4 +965,22 @@ Empress Lance "Blaze",110,30,60,80,40,80
 Empress Lance "Ruin",110,30,60,80,40,80
 Empress Lance "Styx",60,50,80,110,0,0
 Shooting Star Lance,90,50,50,80,130,0
-Empress H
+Empress Howl,100,30,60,80,40,90
+Empress Howl "Blaze",100,30,60,80,40,90
+Empress Howl "Ruin",100,30,60,80,40,90
+Empress Howl "Styx",100,30,60,80,40,90
+Empress Axe,110,30,60,80,40,80
+Empress Axe "Blaze",110,30,60,80,40,80
+Empress Axe "Ruin",110,30,60,80,40,80
+Empress Axe "Styx",110,30,60,80,40,80
+Empress Alma,40,50,50,80,180,0
+Empress Alma "Blaze",100,30,60,90,30,90
+Empress Alma "Ruin",100,30,60,90,30,90
+Empress Alma "Styx",100,30,60,90,30,90
+Dante's Devil Sword,100,30,60,90,30,90
+Empress Cane,100,30,60,90,30,90
+Empress Cane "Blaze",100,30,60,90,30,90
+Empress Cane "Ruin",100,30,60,90,30,90
+Empress Cane "Styx",100,30,60,90,30,90
+Gae Bolg,80,70,70,80,80,20
+True Gae Bolg,60,60,20,150,90,20
