@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gatheringhallstudios/MHWorldData.svg?branch=master)](https://travis-ci.org/CarlosFdez/MHWorldData)
+[![Build Status](https://travis-ci.org/gatheringhallstudios/MHWorldData.svg?branch=master)](https://travis-ci.org/gatheringhallstudios/MHWorldData)
 
 # MHWorldData
 A project used to generate a SQLite database file from Monster Hunter World data.
