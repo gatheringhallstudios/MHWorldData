@@ -196,6 +196,27 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 
             monster.breaks.append(breakzone)
 
+        # Save ailments
+        ailments = entry.get('ailments', None)
+        if ailments:
+            monster.ailment_roar = ailments['roar']
+            monster.ailment_wind = ailments['wind']
+            monster.ailment_tremor = ailments['tremor']
+            monster.ailment_defensedown = ailments['defense_down']
+            monster.ailment_fireblight = ailments['fireblight']
+            monster.ailment_waterblight = ailments['waterblight']
+            monster.ailment_thunderblight = ailments['thunderblight']
+            monster.ailment_iceblight = ailments['iceblight']
+            monster.ailment_dragonblight = ailments['dragonblight']
+            monster.ailment_blastblight = ailments['blastblight']
+            monster.ailment_poison = ailments['poison']
+            monster.ailment_sleep = ailments['sleep']
+            monster.ailment_paralysis = ailments['paralysis']
+            monster.ailment_bleed = ailments['bleed']
+            monster.ailment_stun = ailments['stun']
+            monster.ailment_mud = ailments['mud']
+            monster.ailment_effluvia = ailments['effluvia']
+
         # Create a temp base map of the conditions
         # This temp map extends the global map with monster-specific conditions
         #monster_conditions = DataMap(reward_conditions_map)

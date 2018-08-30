@@ -8,15 +8,7 @@ from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 from mhdata.util import group_fields, ungroup_fields
 from mhdata import cfg
 
-def choice_check(*items):
-    def validate_fn(check):
-        if check not in items:
-            item_str = ", ".join(map(lambda i: i or "None", items))
-            raise ValidationError(f"Value {check} not one of ({item_str})")
-    return validate_fn
-
-def ValidatedStr(*items):
-    return fields.Str(allow_none=True, validate=choice_check(*items))
+from .cfields import ValidatedStr, EmptyBool
 
 class BaseSchema(Schema):
     "Base class for all schemas in this project"
@@ -82,6 +74,41 @@ class LocationCampSchema(BaseSchema):
     base_name_en = fields.Str()
     name = fields.Dict()
     area = fields.Int()
+
+class MonsterSchema(BaseSchema):
+    __groups__ = ('name', 'description', 'ecology')
+    name = fields.Dict()
+    description = fields.Dict()
+    ecology = fields.Dict()
+    size = ValidatedStr('small', 'large')
+
+    # most sub-items are currently unvalidated
+    # todo: create schema entries for the below
+    weaknesses = fields.Dict()
+    hitzones = fields.List(fields.Dict())
+    breaks = fields.List(fields.Dict())
+    habitats = fields.List(fields.Dict())
+    rewards = fields.List(fields.Dict())
+    ailments = fields.Nested('MonsterAilments', many=False)
+
+class MonsterAilments(BaseSchema):
+    roar = ValidatedStr(None, 'small', 'large')
+    wind = ValidatedStr(None, 'small', 'large', 'extreme')
+    tremor = ValidatedStr(None, "small", "large")
+    defense_down = EmptyBool()
+    fireblight = EmptyBool()
+    waterblight = EmptyBool()
+    thunderblight = EmptyBool()
+    iceblight = EmptyBool()
+    dragonblight = EmptyBool()
+    blastblight = EmptyBool()
+    poison = EmptyBool()
+    sleep = EmptyBool()
+    paralysis = EmptyBool()
+    bleed = EmptyBool()
+    stun = EmptyBool()
+    mud = EmptyBool()
+    effluvia = EmptyBool()
 
 class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')

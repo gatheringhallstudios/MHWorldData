@@ -59,13 +59,14 @@ def load_data():
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
 
     result.monster_map = (DataStitcher(reader, dir="monsters/")
-                    .base_csv("monster_base.csv", groups=['description', 'ecology'])
+                    .base_csv("monster_base.csv")
                     .add_json("monster_weaknesses.json", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
+                    .add_csv_ext("monster_ailments.csv", key="ailments")
                     .add_csv("monster_habitats.csv", key="habitats")
                     .add_csv("monster_rewards.csv", key="rewards")
-                    .get())
+                    .get(schema=schema.MonsterSchema()))
 
     result.armor_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armor_base.csv")
