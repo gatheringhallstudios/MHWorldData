@@ -39,6 +39,8 @@ def is_flat_iterable(value):
 
 def is_flat_dict(obj : dict) -> bool:
     "Returns true if the dictionary has only scalar values"
+    if not isinstance(obj, collections.Mapping):
+        raise Exception("obj is not a dictionary")
     return all({ is_scalar(v) for v in obj.values()})
 
 

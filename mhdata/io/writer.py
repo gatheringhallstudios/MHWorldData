@@ -17,8 +17,10 @@ from mhdata.io.csv import save_csv
 class DataReaderWriter(DataReader):
     "A data reader that can also be used to create and update data"
 
-    def save_csv(self, location, rows):
+    def save_csv(self, location, rows, *, schema=None):
         "Saves a raw csv relative to the source data location"
+        if schema:
+            rows, errors = schema.dump(rows, many=True)
         location = self.get_data_path(location)
         save_csv(rows, location)
 
@@ -30,14 +32,22 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_base_map_csv(self, location, base_map, *, groups=['name']):
+    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None):
+        """
+        Saves a base map as a csv file.
+        If a marshmallow schema is provided, groups is ignored. 
+        The schema becomes in charge of flattening.
+        """
+        
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
 
         rows = base_map.to_list()
-        rows = [ungroup_fields(v, groups=groups) for v in rows]
 
-        self.save_csv(location, rows)
+        if not schema:
+            rows = [ungroup_fields(v, groups=groups) for v in rows]
+
+        self.save_csv(location, rows, schema=schema)
 
     def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.

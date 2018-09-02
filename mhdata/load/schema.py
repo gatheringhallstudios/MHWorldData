@@ -8,7 +8,7 @@ from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
 from mhdata.util import group_fields, ungroup_fields
 from mhdata import cfg
 
-from .cfields import ValidatedStr, EmptyBool
+from .cfields import ValidatedStr, ExcelBool
 
 class BaseSchema(Schema):
     "Base class for all schemas in this project"
@@ -95,20 +95,20 @@ class MonsterAilments(BaseSchema):
     roar = ValidatedStr(None, 'small', 'large')
     wind = ValidatedStr(None, 'small', 'large', 'extreme')
     tremor = ValidatedStr(None, "small", "large")
-    defense_down = EmptyBool()
-    fireblight = EmptyBool()
-    waterblight = EmptyBool()
-    thunderblight = EmptyBool()
-    iceblight = EmptyBool()
-    dragonblight = EmptyBool()
-    blastblight = EmptyBool()
-    poison = EmptyBool()
-    sleep = EmptyBool()
-    paralysis = EmptyBool()
-    bleed = EmptyBool()
-    stun = EmptyBool()
-    mud = EmptyBool()
-    effluvia = EmptyBool()
+    defense_down = ExcelBool(null_is_false=True)
+    fireblight = ExcelBool(null_is_false=True)
+    waterblight = ExcelBool(null_is_false=True)
+    thunderblight = ExcelBool(null_is_false=True)
+    iceblight = ExcelBool(null_is_false=True)
+    dragonblight = ExcelBool(null_is_false=True)
+    blastblight = ExcelBool(null_is_false=True)
+    poison = ExcelBool(null_is_false=True)
+    sleep = ExcelBool(null_is_false=True)
+    paralysis = ExcelBool(null_is_false=True)
+    bleed = ExcelBool(null_is_false=True)
+    stun = ExcelBool(null_is_false=True)
+    mud = ExcelBool(null_is_false=True)
+    effluvia = ExcelBool(null_is_false=True)
 
 class SkillSchema(BaseSchema):
     __groups__ = ('name', 'description')
@@ -204,7 +204,7 @@ class CharmSchema(CharmBaseSchema):
     skills = fields.Dict()
     craft = fields.Dict()
 
-class WeaponSchema(BaseSchema):
+class WeaponBaseSchema(BaseSchema):
     __groups__ = ('name',)
     id = fields.Int()
     name = fields.Dict()
@@ -217,7 +217,7 @@ class WeaponSchema(BaseSchema):
     element1_attack = fields.Int(allow_none=True)
     element2 = fields.Str(allow_none=True)
     element2_attack = fields.Int(allow_none=True)
-    element_hidden = fields.Boolean()
+    element_hidden = ExcelBool()
     slot_1 = fields.Int()
     slot_2 = fields.Int()
     slot_3 = fields.Int()
@@ -228,6 +228,7 @@ class WeaponSchema(BaseSchema):
     shelling_type = fields.Str(allow_none=True)
     shelling_level = fields.Int(allow_none=True)
 
+class WeaponSchema(WeaponBaseSchema):
     craft = fields.Nested('WeaponCraftSchema', many=True, missing={})
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
     gun = fields.Nested('WeaponGunSchema', many=False, missing={})

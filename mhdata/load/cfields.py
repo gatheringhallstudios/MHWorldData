@@ -16,10 +16,30 @@ def choice_check(*items):
 def ValidatedStr(*items):
     return fields.Str(allow_none=True, validate=choice_check(*items))
 
-class EmptyBool(fields.Boolean):
-    '''A subclass of fields.Boolean, that deserializes None to false.
+class NullableBool(fields.Boolean):
+    """
+    Defines a boolean that serializes null to false so long as null_is_false is passed
     Created because allow_none early exits deserialization'''
+    """
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.null_is_false = kwargs.get('null_is_false', False)
+
     def deserialize(self, value, attr=None, data=None):
-        if value is None:
+        if self.null_is_false and value is None:
             return False
         return super().deserialize(value, attr, data)
+
+    def _serialize(self, value, attr, obj):
+        if self.null_is_false and value is False:
+            return None
+        return super()._serialize(value, attr, obj)
+
+class ExcelBool(NullableBool):
+    def _serialize(self, value, attr, obj):
+        if value == True:
+            return 'TRUE'
+        elif self.null_is_false:
+            return None
+        else:
+            return 'FALSE'
