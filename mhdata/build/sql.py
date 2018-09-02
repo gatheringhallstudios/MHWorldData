@@ -440,9 +440,14 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.element2_attack = entry['element2_attack']
         weapon.element_hidden = entry['element_hidden']
 
+        # sharpness temporarily disabled
         # weapon.sharpness = entry['sharpness']
         # weapon.sharpness_complete = entry['sharpness_complete']
-        weapon.kinsect_bonus = entry.get('kinsect_bonus', None)
+        weapon.kinsect_bonus = entry['kinsect_bonus']
+        weapon.phial = entry['phial']
+        weapon.phial_power = entry['phial_power']
+        weapon.shelling = entry['shelling']
+        weapon.shelling_level = entry['shelling_level']
 
         weapon.craftable = False # set to true later if it can be crafted
         weapon.final = weapon_id in all_final

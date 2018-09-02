@@ -222,10 +222,10 @@ class WeaponBaseSchema(BaseSchema):
     slot_2 = fields.Int()
     slot_3 = fields.Int()
     
-    kinsect_bonus = fields.Str(allow_none=True)
-    phial = fields.Str(allow_none=True)
+    kinsect_bonus = ValidatedStr(None, *cfg.valid_kinsects)
+    phial = ValidatedStr(None, *cfg.valid_phials)
     phial_power = fields.Int(allow_none=True)
-    shelling_type = fields.Str(allow_none=True)
+    shelling = ValidatedStr(None, *cfg.valid_shellings)
     shelling_level = fields.Int(allow_none=True)
 
 class WeaponSchema(WeaponBaseSchema):

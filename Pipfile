@@ -13,6 +13,7 @@ pytest = "*"
 click = "*"
 pylint = "*"
 marshmallow = "*"
+requests = "*"
 
 
 [dev-packages]

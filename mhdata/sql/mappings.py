@@ -355,6 +355,10 @@ class Weapon(Base):
     final = Column(Boolean, default=False)
 
     kinsect_bonus = Column(Text)
+    phial = Column(Text)
+    phial_power = Column(Integer)
+    shelling = Column(Text)
+    shelling_level = Column(Integer)
     deviation = Column(Text)
     special_ammo = Column(Text)
 
