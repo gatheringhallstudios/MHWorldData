@@ -221,11 +221,12 @@ class WeaponSchema(BaseSchema):
     slot_1 = fields.Int()
     slot_2 = fields.Int()
     slot_3 = fields.Int()
-    sharpness = fields.Str(allow_none=True) # todo: special validation for a number of numbers
-    sharpness_complete = fields.Boolean(allow_none=True)
     
     kinsect_bonus = fields.Str(allow_none=True)
-    # todo: phial / shelling
+    phial = fields.Str(allow_none=True)
+    phial_power = fields.Int(allow_none=True)
+    shelling_type = fields.Str(allow_none=True)
+    shelling_level = fields.Int(allow_none=True)
 
     craft = fields.Nested('WeaponCraftSchema', many=True, missing={})
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
