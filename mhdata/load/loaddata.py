@@ -86,6 +86,7 @@ def load_data():
     # todo: stitch
     result.weapon_map = (DataStitcher(reader, dir="weapons/")
                     .base_csv("weapon_base.csv")
+                    .add_csv_ext("weapon_sharpness.csv", key="sharpness")
                     .add_csv_ext("weapon_bow_ext.csv", key="bow")
                     .add_csv_ext("weapon_gun_ext.csv", key="gun")
                     .add_csv("weapon_craft_ext.csv", key="craft")

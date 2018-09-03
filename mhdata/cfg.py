@@ -32,6 +32,17 @@ max_recipe_item_count = 4
 "Maximum number of skills in an armor piece/weapon"
 max_skill_count = 2
 
+"A list of all melee weapon types"
+weapon_types_melee = ('great-sword', 'long-sword', 'sword-and-shield', 'dual-blades',
+    'hammer', 'hunting-horn', 'lance', 'gunlance', 'switch-axe', 'charge-blade',
+    'insect-glaive')
+
+"A list of all ranged weapon types"
+weapon_types_ranged = ('light-bowgun', 'heavy-bowgun', 'bow')
+
+"A list of all weapon types"
+weapon_types = (*weapon_types_melee, *weapon_types_ranged)
+
 "Valid possible kinsect boosts"
 valid_kinsects = ('sever', 'blunt', 'speed', 'element', 'health', 'stamina')
 

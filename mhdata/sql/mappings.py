@@ -348,7 +348,7 @@ class Weapon(Base):
     element_hidden = Column(Boolean)
 
     sharpness = Column(Text)
-    sharpness_complete = Column(Boolean)
+    sharpness_maxed = Column(Boolean)
 
     previous_weapon_id = Column(ForeignKey("weapon.id"), nullable=True)
     craftable = Column(Boolean, default=False)

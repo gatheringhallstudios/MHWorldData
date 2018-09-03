@@ -208,7 +208,7 @@ class WeaponBaseSchema(BaseSchema):
     __groups__ = ('name',)
     id = fields.Int()
     name = fields.Dict()
-    weapon_type = fields.Str() # todo: replace for validated str
+    weapon_type = ValidatedStr(*cfg.weapon_types)
     previous_en = fields.Str(allow_none=True)
     rarity = fields.Int(allow_none=True)
     attack = fields.Int()
@@ -230,8 +230,20 @@ class WeaponBaseSchema(BaseSchema):
 
 class WeaponSchema(WeaponBaseSchema):
     craft = fields.Nested('WeaponCraftSchema', many=True, missing={})
+    sharpness = fields.Nested('WeaponSharpnessSchema', many=False, missing=None)
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
     gun = fields.Nested('WeaponGunSchema', many=False, missing={})
+
+class WeaponSharpnessSchema(BaseSchema):
+    base_name_en = fields.Str()
+    maxed = ExcelBool()
+    red = fields.Int()
+    orange = fields.Int()
+    yellow = fields.Int()
+    green = fields.Int()
+    blue = fields.Int()
+    white = fields.Int()
+    purple = fields.Int()
 
 class WeaponCraftSchema(RecipeSchema):
     type = ValidatedStr("Create", "Upgrade")
