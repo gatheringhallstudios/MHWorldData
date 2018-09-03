@@ -77,7 +77,7 @@ def merge_weapons():
         if existing['shelling_level'] and existing['shelling_level'] != inc_shelling_level:
             mismatches_other.append(f"Warning: {inc_label} has mismatching shell level")
 
-        # Copy over data if there are new fields
+        # Copy over new base data if there are new fields
         if not existing['kinsect_bonus'] and inc_kinsect:
             existing['kinsect_bonus'] = inc_kinsect
         if not existing['phial'] and inc_phial:
@@ -89,6 +89,22 @@ def merge_weapons():
         if not existing['shelling_level'] and inc_shelling_level:
             existing['shelling_level'] = inc_shelling_level
 
+        # Add sharpness data for anything that's missing sharpness data
+        if 'durability' in weapon_inc and not existing.get('sharpness', None):
+            inc_sharpness = weapon_inc['durability'][5]
+            maxed = weapon_inc['durability'][0] == inc_sharpness
+            existing['sharpness'] = {
+                'maxed': 'TRUE' if maxed else 'FALSE',
+                'red': inc_sharpness['red'],
+                'orange': inc_sharpness['orange'],
+                'yellow': inc_sharpness['yellow'],
+                'green': inc_sharpness['green'],
+                'blue': inc_sharpness['blue'],
+                'white': inc_sharpness['white'],
+                'purple': 0
+            }
+        
+
     # print errors and warnings
     print_all(not_exist)
     print_all(mismatches_atk)
@@ -97,3 +113,4 @@ def merge_weapons():
 
     weapon_base_schema = schema.WeaponBaseSchema()
     writer.save_base_map_csv('weapons/weapon_base_NEW.csv', data, schema=weapon_base_schema)
+    writer.save_data_csv('weapons/weapon_sharpness_NEW.csv', data, key='sharpness')

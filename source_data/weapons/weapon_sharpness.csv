@@ -1,0 +1,912 @@
+name_en,maxed,red,orange,yellow,green,blue,white,purple
+Buster Sword I,FALSE,100,50,80,20,0,0,0
+Buster Sword II,FALSE,70,70,30,80,0,0,0
+Buster Sword III,FALSE,60,70,30,90,0,0,0
+Buster Blade I,FALSE,70,50,80,100,0,0,0
+Buster Blade II,FALSE,60,50,80,110,0,0,0
+Buster Blade III,FALSE,100,50,50,80,70,0,0
+Chrome Razor I,FALSE,90,50,50,80,80,0,0
+Chrome Razor II,FALSE,60,60,20,150,90,20,0
+Nergal Judicator,TRUE,120,120,40,50,70,0,0
+Purgation's Atrocity,TRUE,110,120,40,50,80,0,0
+Thunder Blade I,FALSE,70,50,80,100,0,0,0
+Thunder Blade II,FALSE,60,50,80,110,0,0,0
+Lightning Punisher I,FALSE,100,50,80,100,20,0,0
+Lightning Punisher II,FALSE,100,50,50,80,70,0,0
+Lightning Punisher III,FALSE,100,120,40,50,90,0,0
+Freeze Blade I,FALSE,60,50,80,110,0,0,0
+Freeze Blade II,FALSE,100,50,80,100,20,0,0
+Frost Blaze I,FALSE,90,50,50,80,80,0,0
+Frost Blaze II,FALSE,70,70,80,80,80,20,0
+Jagras Blade I,FALSE,80,70,30,70,0,0,0
+Jagras Blade II,FALSE,80,50,80,90,0,0,0
+Jagras Blade III,FALSE,60,50,80,110,0,0,0
+Jagras Hacker I,FALSE,100,50,80,100,20,0,0
+Jagras Hacker II,FALSE,110,50,50,80,60,0,0
+Jagras Hacker III,FALSE,110,120,40,50,80,0,0
+Girros Blade I,FALSE,80,50,80,90,0,0,0
+Girros Blade II,FALSE,60,50,80,110,0,0,0
+Malady's Kiss I,FALSE,110,50,50,80,60,0,0
+Malady's Kiss II,FALSE,100,50,50,80,70,0,0
+Malady's Kiss III,FALSE,80,60,60,100,70,30,0
+Lava Blaze I,FALSE,100,50,50,80,70,0,0
+Lava Blaze II,FALSE,90,60,60,100,60,30,0
+Blooming Blade I,FALSE,60,70,30,90,0,0,0
+Blooming Blade II,FALSE,70,50,80,100,0,0,0
+Blooming Blade III,FALSE,60,50,80,110,0,0,0
+Datura Blaze I,FALSE,110,50,40,90,60,0,0
+Datura Blaze II,FALSE,100,50,50,80,70,0,0
+Datura Blaze III,FALSE,110,120,40,50,80,0,0
+Flame Blade I,FALSE,70,50,80,100,0,0,0
+Flame Blade II,FALSE,100,50,80,100,20,0,0
+Red Wing,FALSE,100,50,50,80,70,0,0
+Blue Wing,FALSE,110,120,40,50,80,0,0
+Rathalos Glinsword,FALSE,90,60,60,100,60,30,0
+Bone Blade I,FALSE,100,60,80,10,0,0,0
+Bone Blade II,FALSE,90,60,80,20,0,0,0
+Bone Blade III,FALSE,90,50,50,60,0,0,0
+Bone Slasher I,FALSE,130,70,30,70,0,0,0
+Bone Slasher II,FALSE,120,70,30,80,0,0,0
+Bone Slasher III,FALSE,120,60,80,80,10,0,0
+Giant Jawblade I,FALSE,110,100,40,40,60,0,0
+Giant Jawblade II,FALSE,110,120,40,50,80,0,0
+Hazak Kys,FALSE,110,60,80,80,50,20,0
+Leviathan's Fury,FALSE,200,70,20,20,50,40,0
+Flammenzahn,FALSE,120,70,30,80,0,0,0
+Flammenzahn+,FALSE,110,100,40,40,60,0,0
+Gnashing Flammenzahn,FALSE,120,120,40,50,70,0,0
+Aqua Slasher I,FALSE,90,70,30,60,0,0,0
+Aqua Slasher II,FALSE,130,70,30,70,0,0,0
+Aqua Slasher III,FALSE,120,70,30,80,0,0,0
+Water Golem I,FALSE,140,70,30,100,10,0,0
+Water Golem II,FALSE,130,70,30,100,20,0,0
+Water Golem III,FALSE,190,70,20,50,30,40,0
+Carapace Buster I,FALSE,80,70,30,70,0,0,0
+Carapace Buster II,FALSE,120,70,30,80,0,0,0
+Carapace Buster III,FALSE,110,70,30,90,0,0,0
+Barroth Shredder I,FALSE,110,100,40,40,60,0,0
+Barroth Shredder II,FALSE,100,100,40,40,70,0,0
+Barroth Shredder III,FALSE,110,120,40,50,80,0,0
+Spiked Blade I,FALSE,120,70,30,80,0,0,0
+Spiked Blade II,FALSE,110,70,30,90,0,0,0
+Radobaan Slab I,FALSE,140,70,30,100,10,0,0
+Radobaan Slab II,FALSE,110,100,40,40,60,0,0
+Radobaan Slab III,FALSE,110,120,40,50,80,0,0
+Dragonbone Cleaver I,FALSE,110,70,30,90,0,0,0
+Dragonbone Cleaver II,FALSE,100,70,30,100,0,0,0
+Dragonbone Cleaver III,FALSE,120,110,40,40,70,20,0
+Thundersword,FALSE,60,50,80,110,0,0,0
+Kirin Thundersword,FALSE,110,20,20,160,90,0,0
+King Thundersword,FALSE,110,20,20,150,100,0,0
+Magda Potestas I,FALSE,110,50,80,100,10,0,0
+Magda Potestas II,FALSE,210,30,40,90,30,0,0
+Blacksteel Chopper I,FALSE,150,110,40,40,10,0,0
+Blacksteel Chopper II,FALSE,140,110,40,40,20,0,0
+Icesteel Edge,FALSE,110,60,80,80,50,20,0
+Daora's Decimator,FALSE,90,60,80,80,70,20,0
+Xeno Maliq,FALSE,130,30,60,80,40,60,0
+Wyvern Jawblade,FALSE,120,120,40,50,70,0,0
+Great Wyvern Jawblade,FALSE,110,120,40,50,80,0,0
+Iron Katana I,FALSE,100,50,80,20,0,0,0
+Iron Katana II,FALSE,80,70,30,70,0,0,0
+Iron Katana III,FALSE,60,70,30,90,0,0,0
+Iron Grace I,FALSE,80,50,80,90,0,0,0
+Iron Grace II,FALSE,70,50,80,100,0,0,0
+Iron Grace III,FALSE,90,50,50,80,80,0,0
+Iron Gospel I,FALSE,70,50,50,80,100,0,0
+Iron Gospel II,FALSE,50,60,20,150,90,30,0
+Nergal Reaver,TRUE,120,120,40,50,70,0,0
+Extermination's Edge,TRUE,110,120,40,50,80,0,0
+Flickering Glow I,FALSE,70,50,80,100,0,0,0
+Flickering Glow II,FALSE,60,50,80,110,0,0,0
+Dazzling Flash I,FALSE,100,50,50,80,70,0,0
+Dazzling Flash II,FALSE,90,50,50,80,80,0,0
+Dazzling Flash III,FALSE,80,50,60,120,50,40,0
+First Dance I,FALSE,70,70,30,80,0,0,0
+First Dance II,FALSE,80,50,80,90,0,0,0
+First Dance III,FALSE,60,50,80,110,0,0,0
+Last Dance I,FALSE,110,50,50,80,60,0,0
+Last Dance II,FALSE,80,50,50,80,90,0,0
+Last Dance III,FALSE,80,60,80,80,80,20,0
+Brazenridge I,FALSE,100,50,50,80,70,0,0
+Brazenridge II,FALSE,90,50,50,80,130,0,0
+"Wyvern Blade ""Leaf""",FALSE,90,50,80,80,0,0,0
+"Wyvern Blade ""Verde""",FALSE,110,50,50,80,60,0,0
+"Wyvern Blade ""Holly""",FALSE,80,60,60,100,70,30,0
+"Wyvern Blade ""Fall""",FALSE,80,50,80,90,0,0,0
+"Wyvern Blade ""Blood""",FALSE,110,50,50,80,60,0,0
+"Wyvern Blade ""Azure""",FALSE,100,60,80,80,60,20,0
+"Wyvern Blade ""Indigo""",FALSE,70,50,60,120,60,40,0
+Bone Shotel I,FALSE,100,60,80,10,0,0,0
+Bone Shotel II,FALSE,90,50,80,30,0,0,0
+Bone Shotel III,FALSE,70,60,60,60,0,0,0
+Hard Bone Shotel I,FALSE,130,70,30,70,0,0,0
+Hard Bone Shotel II,FALSE,110,70,30,90,0,0,0
+Hard Bone Shotel III,FALSE,140,70,30,100,10,0,0
+Bone Reaper I,FALSE,100,100,40,40,70,0,0
+Bone Reaper II,FALSE,100,120,40,50,90,0,0
+Rookslayer Long Sword,FALSE,100,100,40,40,70,0,0
+Bazel Varga Rookslayer,FALSE,60,120,80,60,30,50,0
+Blazing Shotel I,FALSE,130,70,30,70,0,0,0
+Blazing Shotel II,FALSE,120,70,30,80,0,0,0
+Anja Scimitar I,FALSE,140,70,30,100,10,0,0
+Anja Scimitar II,FALSE,100,100,40,40,70,0,0
+Anja Scimitar III,FALSE,110,120,40,50,80,0,0
+Jyura Shotel I,FALSE,80,70,30,70,0,0,0
+Jyura Shotel II,FALSE,120,70,30,80,0,0,0
+Jyura Shotel III,FALSE,110,70,30,90,0,0,0
+Dipterus I,FALSE,140,70,30,100,10,0,0
+Dipterus II,FALSE,110,100,40,40,60,0,0
+Dipterus III,FALSE,170,100,30,30,40,30,0
+Hazak Grosser I,FALSE,160,100,30,30,50,30,0
+Hazak Grosser II,FALSE,200,70,20,20,50,40,0
+Pulsar Shotel I,FALSE,60,70,30,90,0,0,0
+Pulsar Shotel II,FALSE,100,70,30,100,0,0,0
+Pulsar Shotel III,FALSE,90,70,30,110,0,0,0
+Kadachi Fang I,FALSE,100,100,40,40,70,0,0
+Kadachi Fang II,FALSE,90,100,40,40,80,0,0
+Kadachi Fang III,FALSE,150,100,30,30,60,30,0
+Glacial Shotel I,FALSE,90,70,30,110,0,0,0
+Glacial Shotel II,FALSE,90,100,40,40,80,0,0
+Stealer,FALSE,80,100,40,40,90,0,0
+Legia Stealer,FALSE,240,20,20,20,30,70,0
+Dark Shotel I,FALSE,80,70,30,120,0,0,0
+Dark Shotel II,FALSE,70,70,30,130,0,0,0
+Dark Scimitar I,FALSE,100,100,40,40,70,0,0
+Dark Scimitar II,FALSE,80,100,40,40,90,0,0
+Dark Scimitar III,FALSE,110,30,60,80,40,80,0
+Dragonbone Stabber I,FALSE,110,70,30,90,0,0,0
+Dragonbone Stabber II,FALSE,100,70,30,100,0,0,0
+Dragonbone Stabber III,FALSE,150,100,30,30,60,30,0
+Magda Facultas I,FALSE,110,50,80,100,10,0,0
+Magda Facultas II,FALSE,210,30,40,90,30,0,0
+Blacksteel Long Sword I,FALSE,150,110,40,40,10,0,0
+Blacksteel Long Sword II,FALSE,140,110,40,40,20,0,0
+Imperial Saber,FALSE,100,60,80,80,60,20,0
+Imperial Shimmer,FALSE,70,50,60,120,60,40,0
+Xeno Cypher,FALSE,130,30,60,80,40,60,0
+Supremacy Blade,FALSE,100,50,50,80,70,0,0
+Divine Slasher,FALSE,100,60,60,100,50,30,0
+Azure Star Blade,FALSE,60,120,80,60,30,50,0
+Hunter's Knife I,FALSE,90,50,80,30,0,0,0
+Hunter's Knife II,FALSE,70,70,30,80,0,0,0
+Hunter's Knife III,FALSE,50,70,30,100,0,0,0
+Steel Knife I,FALSE,70,50,80,100,0,0,0
+Steel Knife II,FALSE,50,50,80,120,0,0,0
+Steel Knife III,FALSE,100,50,50,80,70,0,0
+Chrome Slicer I,FALSE,80,50,50,80,90,0,0
+Chrome Slicer II,FALSE,50,60,20,150,90,30,0
+Nergal Jack,TRUE,110,120,40,50,80,0,0
+Eradication Vanguard,TRUE,90,120,40,50,100,0,0
+Flame Knife I,FALSE,60,50,80,110,0,0,0
+Flame Knife II,FALSE,100,50,80,100,20,0,0
+Heat Edge,FALSE,90,50,50,80,80,0,0
+Corona,FALSE,90,60,60,100,60,30,0
+Heavy Bang,FALSE,40,50,80,130,0,0,0
+Heavy Bang+,FALSE,80,50,50,80,90,0,0
+Master Bang,FALSE,90,120,40,50,100,0,0
+Aqua Messer I,FALSE,70,70,30,80,0,0,0
+Aqua Messer II,FALSE,80,50,80,90,0,0,0
+Aqua Messer III,FALSE,70,50,80,100,0,0,0
+Rogue Wave I,FALSE,100,50,80,100,20,0,0
+Rogue Wave II,FALSE,100,50,50,80,70,0,0
+Rogue Wave III,FALSE,100,60,60,100,50,30,0
+Glacial Grace I,FALSE,60,50,80,110,0,0,0
+Glacial Grace II,FALSE,100,50,50,80,70,0,0
+Rimespire,FALSE,80,50,50,80,90,0,0
+Legia Rimespire,FALSE,120,30,60,80,40,70,0
+Princess Rapier,FALSE,60,50,80,110,0,0,0
+Queen Rapier,FALSE,110,50,50,80,60,0,0
+Queen Rose,FALSE,100,50,50,80,70,0,0
+Royal Rose,FALSE,90,60,60,100,60,30,0
+Lumu Knife I,FALSE,70,50,80,100,0,0,0
+Lumu Knife II,FALSE,60,50,80,110,0,0,0
+Lumu Tabar I,FALSE,100,50,50,80,70,0,0
+Lumu Tabar II,FALSE,90,50,50,80,80,0,0
+Lumu Tabar III,FALSE,80,50,60,120,50,40,0
+Blooming Knife I,FALSE,60,70,30,90,0,0,0
+Blooming Knife II,FALSE,60,50,80,110,0,0,0
+Blooming Knife III,FALSE,40,50,80,130,0,0,0
+Datura Blossom I,FALSE,90,50,50,80,80,0,0
+Datura Blossom II,FALSE,80,50,50,80,90,0,0
+Datura Blossom III,FALSE,90,120,40,50,100,0,0
+Girros Knife I,FALSE,70,50,80,100,0,0,0
+Girros Knife II,FALSE,50,50,80,120,0,0,0
+Malady's Tabar I,FALSE,100,50,50,80,70,0,0
+Malady's Tabar II,FALSE,90,50,50,80,80,0,0
+Malady's Tabar III,FALSE,80,50,60,120,50,40,0
+Bone Kukri I,FALSE,90,60,80,20,0,0,0
+Bone Kukri II,FALSE,80,50,80,40,0,0,0
+Bone Kukri III,FALSE,80,50,50,70,0,0,0
+Chief Kukri I,FALSE,110,70,30,90,0,0,0
+Chief Kukri II,FALSE,100,70,30,100,0,0,0
+Chief Kukri III,FALSE,130,70,30,100,20,0,0
+Grand Barong I,FALSE,100,100,40,40,70,0,0
+Grand Barong II,FALSE,90,120,40,50,100,0,0
+Spiked Edge I,FALSE,120,70,30,80,0,0,0
+Spiked Edge II,FALSE,110,70,30,90,0,0,0
+Baan Claw I,FALSE,140,70,30,100,10,0,0
+Baan Claw II,FALSE,100,100,40,40,70,0,0
+Baan Claw III,FALSE,100,120,40,50,90,0,0
+Jagras Edge I,FALSE,70,50,50,80,0,0,0
+Jagras Edge II,FALSE,100,70,30,100,0,0,0
+Jagras Edge III,FALSE,80,70,30,120,0,0,0
+Jagras Garotte I,FALSE,100,100,40,40,70,0,0
+Jagras Garotte II,FALSE,90,100,40,40,80,0,0
+Jagras Garotte III,FALSE,90,120,40,50,100,0,0
+Thunder Edge I,FALSE,110,70,30,90,0,0,0
+Thunder Edge II,FALSE,100,70,30,100,0,0,0
+Lightning Nemesis I,FALSE,140,70,30,100,10,0,0
+Lightning Nemesis II,FALSE,100,100,40,40,70,0,0
+Lightning Nemesis III,FALSE,100,120,40,50,90,0,0
+Carapace Edge I,FALSE,80,50,50,70,0,0,0
+Carapace Edge II,FALSE,120,70,30,80,0,0,0
+Carapace Edge III,FALSE,110,70,30,90,0,0,0
+Barroth Club I,FALSE,140,70,30,100,10,0,0
+Barroth Club II,FALSE,110,100,40,40,60,0,0
+Barroth Club III,FALSE,100,120,40,50,90,0,0
+Blazing Edge I,FALSE,120,70,30,80,0,0,0
+Blazing Edge II,FALSE,100,70,30,100,0,0,0
+Flammensucher,FALSE,100,100,40,40,70,0,0
+Gnashing Flammensucher,FALSE,100,120,40,50,90,0,0
+Dragonbone Sword I,FALSE,110,70,30,90,0,0,0
+Dragonbone Sword II,FALSE,70,70,30,130,0,0,0
+Dragonbone Sword III,FALSE,150,100,30,30,60,30,0
+Fulminator,FALSE,40,50,80,130,0,0,0
+Thunderbolt Sword I,FALSE,110,20,20,150,100,0,0
+Thunderbolt Sword II,FALSE,110,20,20,130,120,0,0
+Blacksteel Sword I,FALSE,150,110,40,40,10,0,0
+Blacksteel Sword II,FALSE,140,110,40,40,20,0,0
+Teostra's Spada,FALSE,100,60,60,100,50,30,0
+Teostra's Emblem,FALSE,70,50,60,120,60,40,0
+Xeno Mabura,FALSE,130,30,60,80,40,60,0
+Matched Slicers I,FALSE,90,50,80,30,0,0,0
+Matched Slicers II,FALSE,70,70,30,80,0,0,0
+Matched Slicers III,FALSE,50,70,30,100,0,0,0
+Dual Slicers I,FALSE,60,50,80,110,0,0,0
+Dual Slicers II,FALSE,50,50,80,120,0,0,0
+Dual Slicers III,FALSE,90,50,50,80,80,0,0
+Chrome Slicers I,FALSE,80,50,50,80,90,0,0
+Chrome Slicers II,FALSE,60,60,20,150,90,20,0
+Nergal Gouge,TRUE,110,120,40,50,80,0,0
+Decimation Claws,TRUE,90,120,40,50,100,0,0
+Luminous Daggers I,FALSE,70,50,80,100,0,0,0
+Luminous Daggers II,FALSE,60,50,80,110,0,0,0
+Dual Destroyers I,FALSE,100,50,50,80,70,0,0
+Dual Destroyers II,FALSE,90,50,50,80,80,0,0
+Dual Destroyers III,FALSE,80,50,60,120,50,40,0
+Rookslayer Handaxes,FALSE,100,50,50,80,70,0,0
+Bazelhawk Rookslayer,FALSE,60,120,80,60,30,50,0
+Freeze Daggers I,FALSE,50,50,80,120,0,0,0
+Freeze Daggers II,FALSE,100,50,50,80,70,0,0
+Freeze Chain I,FALSE,90,50,50,80,80,0,0
+Freeze Chain II,FALSE,80,50,60,120,50,40,0
+Rending Beaks I,FALSE,60,70,30,90,0,0,0
+Rending Beaks II,FALSE,60,50,80,110,0,0,0
+Rending Beaks III,FALSE,50,50,80,120,0,0,0
+Arcanaria I,FALSE,90,50,50,80,80,0,0
+Arcanaria II,FALSE,80,50,50,80,90,0,0
+Arcanaria III,FALSE,80,60,60,100,70,30,0
+Sworn Rapiers,FALSE,50,50,80,120,0,0,0
+Sworn Rapiers+,FALSE,90,50,50,80,80,0,0
+Holy Sabers,FALSE,60,50,60,120,70,40,0
+Bone Hatchets I,FALSE,100,60,80,10,0,0,0
+Bone Hatchets II,FALSE,90,50,80,30,0,0,0
+Bone Hatchets III,FALSE,80,70,30,70,0,0,0
+Wild Hatchets I,FALSE,110,70,30,90,0,0,0
+Wild Hatchets II,FALSE,90,70,30,110,0,0,0
+Wild Hatchets III,FALSE,120,70,30,100,30,0,0
+Strong Hatchets I,FALSE,60,60,60,100,70,0,0
+Strong Hatchets II,FALSE,110,50,50,80,110,0,0
+Blazing Hatchets I,FALSE,120,70,30,80,0,0,0
+Blazing Hatchets II,FALSE,100,70,30,100,0,0,0
+Anja Cyclone I,FALSE,140,70,30,100,10,0,0
+Anja Cyclone II,FALSE,130,70,30,100,20,0,0
+Anja Cyclone III,FALSE,100,120,40,50,90,0,0
+Diablos Hatchets I,FALSE,110,70,30,90,0,0,0
+Diablos Hatchets II,FALSE,140,70,30,100,10,0,0
+Diablos Clubs I,FALSE,100,100,40,40,70,0,0
+Diablos Clubs II,FALSE,90,50,60,120,60,20,0
+Madness Pangas I,FALSE,80,50,50,70,0,0,0
+Madness Pangas II,FALSE,120,70,30,80,0,0,0
+Madness Pangas III,FALSE,110,70,30,90,0,0,0
+Jyura Hatchets I,FALSE,140,70,30,100,10,0,0
+Jyura Hatchets II,FALSE,100,100,40,40,70,0,0
+Jyura Hatchets III,FALSE,110,150,30,30,50,30,0
+Lava Cyclone I,FALSE,100,100,40,40,70,0,0
+Lava Cyclone II,FALSE,200,70,20,20,50,40,0
+Taurus Pangas I,FALSE,100,70,30,100,0,0,0
+Taurus Pangas II,FALSE,80,70,30,120,0,0,0
+Dark Ripper I,FALSE,90,100,40,40,80,0,0
+Dark Ripper II,FALSE,80,100,40,40,90,0,0
+Dark Ripper III,FALSE,110,30,60,80,40,80,0
+Pulsar Hatchets I,FALSE,70,50,50,80,0,0,0
+Pulsar Hatchets II,FALSE,100,70,30,100,0,0,0
+Pulsar Hatchets III,FALSE,90,70,30,110,0,0,0
+Kadachi Claws I,FALSE,100,100,40,40,70,0,0
+Kadachi Claws II,FALSE,90,100,40,40,80,0,0
+Kadachi Claws III,FALSE,200,70,20,20,50,40,0
+Garon Hatchets I,FALSE,80,70,30,120,0,0,0
+Garon Hatchets II,FALSE,90,100,40,40,80,0,0
+Blood-drinker Chainblade,FALSE,80,100,40,40,90,0,0
+Sin,TRUE,200,70,20,20,50,40,0
+Dragonbone Twinblades I,FALSE,110,70,30,90,0,0,0
+Dragonbone Twinblades II,FALSE,70,70,30,130,0,0,0
+Enduring Schism,FALSE,110,110,40,40,80,20,0
+Kirin Bolts,FALSE,70,70,30,130,0,0,0
+Kirin Bolts+,FALSE,110,20,20,140,110,0,0
+Monarch,FALSE,110,20,20,120,130,0,0
+Magda Ungulae I,FALSE,110,50,80,100,10,0,0
+Magda Ungulae II,FALSE,180,30,60,90,40,0,0
+Blacksteel Twins I,FALSE,150,110,40,40,10,0,0
+Blacksteel Twins II,FALSE,140,110,40,40,20,0,0
+Twin Nails,FALSE,100,60,80,80,60,20,0
+Fire and Ice,FALSE,60,50,60,120,70,40,0
+Xeno Raqs,FALSE,120,30,60,80,40,70,0
+Iron Hammer I,FALSE,100,50,80,20,0,0,0
+Iron Hammer II,FALSE,80,70,30,70,0,0,0
+Iron Hammer III,FALSE,60,70,30,90,0,0,0
+Iron Demon I,FALSE,70,50,80,100,0,0,0
+Iron Demon II,FALSE,60,50,80,110,0,0,0
+Iron Demon III,FALSE,100,50,50,80,70,0,0
+Iron Archdemon I,FALSE,90,50,50,80,80,0,0
+Iron Archdemon II,FALSE,60,60,20,150,90,20,0
+Nergal Crusher,TRUE,120,120,40,50,70,0,0
+Obliteration's Footfall,TRUE,110,120,40,50,80,0,0
+Frozen Core,FALSE,50,50,80,120,0,0,0
+Frozen Core+,FALSE,90,50,50,80,80,0,0
+Cocytus,FALSE,110,120,40,50,80,0,0
+Aqua Hammer I,FALSE,80,70,30,70,0,0,0
+Aqua Hammer II,FALSE,90,50,80,80,0,0,0
+Aqua Hammer III,FALSE,80,50,80,90,0,0,0
+Water Basher I,FALSE,110,60,80,80,20,0,0
+Water Basher II,FALSE,100,50,50,80,70,0,0
+Water Basher III,FALSE,90,60,80,80,70,20,0
+Girros Hammer I,FALSE,80,50,80,90,0,0,0
+Girros Hammer II,FALSE,70,50,80,100,0,0,0
+Malady's Fist I,FALSE,60,50,80,150,10,0,0
+Malady's Fist II,FALSE,90,50,50,80,80,0,0
+Malady's Fist III,FALSE,90,60,60,100,60,30,0
+Blooming Hammer I,FALSE,70,70,30,80,0,0,0
+Blooming Hammer II,FALSE,70,50,80,100,0,0,0
+Blooming Hammer III,FALSE,50,50,80,120,0,0,0
+Buon Fiore,FALSE,100,50,80,100,20,0,0
+Buona Flora,FALSE,100,120,40,50,90,0,0
+Thunder Hammer I,FALSE,80,50,80,90,0,0,0
+Thunder Hammer II,FALSE,70,50,80,100,0,0,0
+Lightning Bash I,FALSE,110,50,80,100,10,0,0
+Lightning Bash II,FALSE,100,100,40,40,70,0,0
+Lightning Bash III,FALSE,150,100,30,30,60,30,0
+Bone Bludgeon I,FALSE,110,60,80,0,0,0,0
+Bone Bludgeon II,FALSE,90,60,80,20,0,0,0
+Bone Bludgeon III,FALSE,90,50,50,60,0,0,0
+Fossil Bludgeon I,FALSE,130,70,30,70,0,0,0
+Fossil Bludgeon II,FALSE,120,70,30,80,0,0,0
+Fossil Bludgeon III,FALSE,110,70,30,100,40,0,0
+Grandrock I,FALSE,110,100,40,40,60,0,0
+Grandrock II,FALSE,110,120,40,50,80,0,0
+Hazak Vlafos,FALSE,140,110,40,40,50,20,0
+Pandemonium's Root,FALSE,200,70,20,20,50,40,0
+Bone Spike I,FALSE,120,70,30,80,0,0,0
+Bone Spike II,FALSE,110,70,30,90,0,0,0
+Baan Strike I,FALSE,110,100,40,40,60,0,0
+Baan Strike II,FALSE,100,100,40,40,70,0,0
+Baan Strike III,FALSE,110,120,40,50,80,0,0
+Brazenbreak I,FALSE,110,100,40,40,60,0,0
+Brazenbreak II,FALSE,120,120,40,50,70,0,0
+Kulu Beak I,FALSE,60,70,30,90,0,0,0
+Kulu Beak II,FALSE,110,70,30,90,0,0,0
+Kulu Beak III,FALSE,100,70,30,100,0,0,0
+Crushing Beak I,FALSE,140,70,30,100,10,0,0
+Crushing Beak II,FALSE,130,70,30,100,20,0,0
+Crushing Beak III,FALSE,120,110,40,40,70,20,0
+Diablos Sledge I,FALSE,90,70,30,110,0,0,0
+Diablos Sledge II,FALSE,130,70,30,100,20,0,0
+Diablos Shatterer I,FALSE,120,70,30,100,30,0,0
+Diablos Shatterer II,FALSE,100,50,60,120,50,20,0
+Carapace Sledge I,FALSE,70,50,50,80,0,0,0
+Carapace Sledge II,FALSE,110,70,30,90,0,0,0
+Carapace Sledge III,FALSE,100,70,30,100,0,0,0
+Barroth Breaker I,FALSE,130,70,30,100,20,0,0
+Barroth Breaker II,FALSE,110,70,30,100,40,0,0
+Barroth Breaker III,FALSE,110,120,40,50,80,0,0
+Blazing Hammer I,FALSE,120,70,30,80,0,0,0
+Blazing Hammer II,FALSE,110,70,30,90,0,0,0
+Anja Striker I,FALSE,110,60,80,80,20,0,0
+Anja Striker II,FALSE,110,100,40,40,60,0,0
+Anja Striker III,FALSE,120,120,40,50,70,0,0
+Dragonbone Basher I,FALSE,110,70,30,90,0,0,0
+Dragonbone Basher II,FALSE,70,70,30,130,0,0,0
+Dragonbone Basher III,FALSE,120,110,40,40,70,20,0
+Magda Floga,FALSE,110,50,80,100,10,0,0
+Ragefire Magda Floga,FALSE,190,30,60,80,40,0,0
+Blacksteel Hammer I,FALSE,150,110,40,40,10,0,0
+Blacksteel Hammer II,FALSE,140,110,40,40,20,0,0
+Icesteel Hammer,FALSE,110,60,80,80,50,20,0
+Daora's Colossus,FALSE,90,60,80,80,70,20,0
+Xeno Maph'agarna,FALSE,130,30,60,80,40,60,0
+Jail Hammer,FALSE,120,120,40,50,70,0,0
+Binder Mace,FALSE,160,100,30,30,50,30,0
+Metal Bagpipe I,FALSE,100,50,80,20,0,0,0
+Metal Bagpipe II,FALSE,80,70,30,70,0,0,0
+Metal Bagpipe III,FALSE,60,70,30,90,0,0,0
+Great Bagpipe I,FALSE,70,50,80,100,0,0,0
+Great Bagpipe II,FALSE,60,50,80,110,0,0,0
+Great Bagpipe III,FALSE,100,50,50,80,70,0,0
+Fortissimo I,FALSE,90,50,50,80,80,0,0
+Fortissimo II,FALSE,60,60,20,150,90,20,0
+Nergal Groove,TRUE,120,120,40,50,70,0,0
+Desolation's Overture,TRUE,110,120,40,50,80,0,0
+Thunder Gaida I,FALSE,80,50,80,90,0,0,0
+Thunder Gaida II,FALSE,70,50,80,100,0,0,0
+Lightning Drum I,FALSE,110,50,80,100,10,0,0
+Lightning Drum II,FALSE,100,50,50,80,70,0,0
+Lightning Drum III,FALSE,90,60,80,80,70,20,0
+Kulu Duda I,FALSE,70,70,30,80,0,0,0
+Kulu Duda II,FALSE,80,50,80,90,0,0,0
+Kulu Duda III,FALSE,70,50,80,100,0,0,0
+Dancing Davul I,FALSE,110,50,80,100,10,0,0
+Dancing Davul II,FALSE,100,50,50,80,70,0,0
+Dancing Davul III,FALSE,90,60,80,80,70,20,0
+Valkyrie Chordmaker,FALSE,60,50,80,110,0,0,0
+Queen Chordmaker,FALSE,100,50,50,80,70,0,0
+Coral Chordmaker,FALSE,80,50,50,80,90,0,0
+Royal Chordmaker,FALSE,70,50,60,120,60,40,0
+Aqua Bagpipe I,FALSE,60,70,30,90,0,0,0
+Aqua Bagpipe II,FALSE,70,50,80,100,0,0,0
+Aqua Bagpipe III,FALSE,60,50,80,110,0,0,0
+Water Tamtam I,FALSE,100,50,80,100,20,0,0
+Water Tamtam II,FALSE,90,50,50,80,80,0,0
+Water Tamtam III,FALSE,90,60,80,80,70,20,0
+Glacial Bagpipe I,FALSE,50,50,80,120,0,0,0
+Glacial Bagpipe II,FALSE,110,50,50,80,60,0,0
+Sectored,FALSE,100,50,50,80,70,0,0
+Legia Sectored,FALSE,130,30,60,80,40,60,0
+Bone Horn I,FALSE,110,60,80,0,0,0,0
+Bone Horn II,FALSE,90,60,80,20,0,0,0
+Bone Horn III,FALSE,80,50,50,70,0,0,0
+Hard Bone Horn I,FALSE,120,70,30,80,0,0,0
+Hard Bone Horn II,FALSE,110,70,30,90,0,0,0
+Hard Bone Horn III,FALSE,140,70,30,100,10,0,0
+Heavy Bone Horn I,FALSE,110,100,40,40,60,0,0
+Heavy Bone Horn II,FALSE,110,120,40,50,80,0,0
+Gama Horn I,FALSE,100,100,40,40,70,0,0
+Gama Horn II,FALSE,120,110,40,40,70,20,0
+Blazing Horn I,FALSE,130,70,30,70,0,0,0
+Blazing Horn II,FALSE,120,70,30,80,0,0,0
+Anja Barone I,FALSE,140,70,30,100,10,0,0
+Anja Barone II,FALSE,130,70,30,100,20,0,0
+Anja Barone III,FALSE,120,120,40,50,70,0,0
+Blooming Horn I,FALSE,70,50,50,80,0,0,0
+Blooming Horn II,FALSE,110,70,30,90,0,0,0
+Blooming Horn III,FALSE,100,70,30,100,0,0,0
+Datura Horn I,FALSE,110,100,40,40,60,0,0
+Datura Horn II,FALSE,100,100,40,40,70,0,0
+Datura Horn III,FALSE,110,120,40,50,80,0,0
+Lumu Horn I,FALSE,120,70,30,80,0,0,0
+Lumu Horn II,FALSE,100,70,30,100,0,0,0
+Lumu Barone I,FALSE,110,100,40,40,60,0,0
+Lumu Barone II,FALSE,90,100,40,40,80,0,0
+Lumu Barone III,FALSE,80,50,60,120,50,40,0
+Rookslayer Drum,FALSE,110,100,40,40,60,0,0
+Bazelreid Rookslayer,FALSE,70,120,80,60,20,50,0
+Sonic Horn I,FALSE,60,70,30,90,0,0,0
+Sonic Horn II,FALSE,100,70,30,100,0,0,0
+Sonic Horn III,FALSE,80,70,30,120,0,0,0
+Glass Royale,FALSE,90,100,40,40,80,0,0
+Glass Royale+,FALSE,80,100,40,40,90,0,0
+Queen Vespoid Horn,FALSE,110,30,60,80,40,80,0
+Spiked Horn I,FALSE,110,70,30,90,0,0,0
+Spiked Horn II,FALSE,90,70,30,110,0,0,0
+Baan Horn I,FALSE,110,100,40,40,60,0,0
+Baan Horn II,FALSE,100,100,40,40,70,0,0
+Baan Horn III,FALSE,110,120,40,50,80,0,0
+Dragonbone Auldhorn I,FALSE,110,70,30,90,0,0,0
+Dragonbone Auldhorn II,FALSE,70,70,30,130,0,0,0
+Dragonbone Auldhorn III,FALSE,120,110,40,40,70,20,0
+Thundercry Horn,FALSE,60,50,80,110,0,0,0
+Thunderbolt Horn I,FALSE,110,20,20,150,100,0,0
+Thunderbolt Horn II,FALSE,110,20,20,140,110,0,0
+Blacksteel Dragonhorn I,FALSE,150,110,40,40,10,0,0
+Blacksteel Dragonhorn II,FALSE,140,110,40,40,20,0,0
+Teostra's Tiple,FALSE,110,60,80,80,50,20,0
+Teostra's Orphée,FALSE,90,60,60,100,60,30,0
+Xeno Manasheena,FALSE,130,30,60,80,40,60,0
+Iron Lance I,FALSE,100,50,80,20,0,0,0
+Iron Lance II,FALSE,80,70,30,70,0,0,0
+Iron Lance III,FALSE,60,70,30,90,0,0,0
+Steel Lance I,FALSE,80,50,80,90,0,0,0
+Steel Lance II,FALSE,70,50,80,100,0,0,0
+Steel Lance III,FALSE,90,50,50,80,80,0,0
+Chrome Lance I,FALSE,70,50,50,80,100,0,0
+Chrome Lance II,FALSE,60,60,20,150,90,20,0
+Nergal Impaler,TRUE,120,120,40,50,70,0,0
+Perdition's Hand,TRUE,110,120,40,50,80,0,0
+Glacial Lance I,FALSE,100,70,30,100,0,0,0
+Glacial Lance II,FALSE,110,100,40,40,60,0,0
+Legiana Halberd I,FALSE,100,100,40,40,70,0,0
+Legiana Halberd II,FALSE,130,30,60,80,40,60,0
+Kulu Lance I,FALSE,70,70,30,80,0,0,0
+Kulu Lance II,FALSE,80,50,80,90,0,0,0
+Kulu Lance III,FALSE,60,50,80,110,0,0,0
+Kulu Hasta I,FALSE,110,50,50,80,60,0,0
+Kulu Hasta II,FALSE,90,50,50,80,80,0,0
+Kulu Hasta III,FALSE,90,60,60,100,60,30,0
+Gama Pilebunker I,FALSE,100,50,50,80,70,0,0
+Gama Pilebunker II,FALSE,90,60,80,80,70,20,0
+Thunder Lance I,FALSE,90,50,80,80,0,0,0
+Thunder Lance II,FALSE,80,50,80,90,0,0,0
+Lightning Spire I,FALSE,60,50,80,150,10,0,0
+Lightning Spire II,FALSE,110,50,50,80,60,0,0
+Lightning Spire III,FALSE,90,60,80,80,70,20,0
+Blooming Lance I,FALSE,60,70,30,90,0,0,0
+Blooming Lance II,FALSE,70,50,80,100,0,0,0
+Blooming Lance III,FALSE,60,50,80,110,0,0,0
+Datura Pike I,FALSE,110,50,50,80,60,0,0
+Datura Pike II,FALSE,100,50,50,80,70,0,0
+Datura Pike III,FALSE,100,120,40,50,90,0,0
+Flame Lance I,FALSE,50,50,80,120,0,0,0
+Flame Lance II,FALSE,90,50,80,100,30,0,0
+Red Tail,FALSE,110,50,50,80,60,0,0
+Blue Tail,FALSE,110,60,80,80,50,20,0
+Blue Prominence,FALSE,90,60,60,100,60,30,0
+Bone Lance I,FALSE,100,60,80,10,0,0,0
+Bone Lance II,FALSE,90,50,80,30,0,0,0
+Bone Lance III,FALSE,80,50,50,70,0,0,0
+Hard Bone Lance I,FALSE,120,70,30,80,0,0,0
+Hard Bone Lance II,FALSE,110,70,30,90,0,0,0
+Hard Bone Lance III,FALSE,140,70,30,100,10,0,0
+Heavy Bone Lance I,FALSE,100,100,40,40,70,0,0
+Heavy Bone Lance II,FALSE,100,120,40,50,90,0,0
+Hazak Wächter,FALSE,140,110,40,40,50,20,0
+Love's Sorrow,FALSE,200,70,20,20,50,40,0
+Taurus Lance I,FALSE,110,70,30,90,0,0,0
+Taurus Lance II,FALSE,100,70,30,100,0,0,0
+Dark Stinger I,FALSE,100,100,40,40,70,0,0
+Dark Stinger II,FALSE,90,100,40,40,80,0,0
+Dark Stinger III,FALSE,110,30,60,80,40,80,0
+Carapace Lance I,FALSE,70,50,50,80,0,0,0
+Carapace Lance II,FALSE,110,70,30,90,0,0,0
+Carapace Lance III,FALSE,100,70,30,100,0,0,0
+Barroth Stinger I,FALSE,130,70,30,100,20,0,0
+Barroth Stinger II,FALSE,110,70,30,100,40,0,0
+Barroth Stinger III,FALSE,100,120,40,50,90,0,0
+Garon Lance I,FALSE,90,70,30,110,0,0,0
+Garon Lance II,FALSE,100,100,40,40,70,0,0
+Garon Dhara I,FALSE,80,100,40,40,90,0,0
+Garon Dhara II,TRUE,170,100,30,30,40,30,0
+Aqua Horn I,FALSE,80,50,50,70,0,0,0
+Aqua Horn II,FALSE,120,70,30,80,0,0,0
+Aqua Horn III,FALSE,110,70,30,90,0,0,0
+Water Spike I,FALSE,140,70,30,100,10,0,0
+Water Spike II,FALSE,100,100,40,40,70,0,0
+Water Spike III,FALSE,110,120,40,50,80,0,0
+Dragonbone Lance I,FALSE,110,70,30,90,0,0,0
+Dragonbone Lance II,FALSE,70,70,30,130,0,0,0
+Dragonbone Lance III,FALSE,120,110,40,40,70,20,0
+Rookslayer Lance,FALSE,110,100,40,40,60,0,0
+Bazel Myniad Rookslayer,FALSE,70,120,80,60,20,50,0
+Thunderpike,FALSE,60,50,80,110,0,0,0
+Thunderspear,FALSE,110,20,20,150,100,0,0
+Thunderpiercer,FALSE,110,20,20,140,110,0,0
+Blacksteel Lance I,FALSE,150,110,40,40,10,0,0
+Blacksteel Lance II,FALSE,140,110,40,40,20,0,0
+Icesteel Spear,FALSE,110,60,80,80,50,20,0
+Daora's Fang,FALSE,90,60,80,80,70,20,0
+Xeno Zauta,FALSE,130,30,60,80,40,60,0
+Babel Spear,FALSE,120,120,40,50,70,0,0
+Elder Babel Spear,FALSE,110,120,40,50,80,0,0
+Iron Gunlance I,FALSE,100,50,80,20,0,0,0
+Iron Gunlance II,FALSE,70,70,30,80,0,0,0
+Iron Gunlance III,FALSE,60,70,30,90,0,0,0
+Steel Gunlance I,FALSE,80,50,80,90,0,0,0
+Steel Gunlance II,FALSE,70,50,80,100,0,0,0
+Steel Gunlance III,FALSE,90,50,50,80,80,0,0
+Chrome Gunlance I,FALSE,70,50,50,80,100,0,0
+Chrome Gunlance II,FALSE,60,60,20,150,90,20,0
+Nergal Ram,TRUE,120,120,40,50,70,0,0
+Eradication Flame,TRUE,110,120,40,50,80,0,0
+Pulsar Gunlance I,FALSE,70,70,30,80,0,0,0
+Pulsar Gunlance II,FALSE,80,50,80,90,0,0,0
+Pulsar Gunlance III,FALSE,70,50,80,100,0,0,0
+Kadachi Striker,FALSE,110,50,50,80,60,0,0
+Kadachi Striker+,FALSE,100,50,50,80,70,0,0
+Mythic Kadachi Striker,FALSE,100,60,60,100,50,30,0
+Rath Gunlance I,FALSE,60,50,80,110,0,0,0
+Rath Gunlance II,FALSE,90,50,80,100,30,0,0
+Red Rook,FALSE,110,50,50,80,60,0,0
+Blue Rook,FALSE,110,60,80,80,50,20,0
+Blue Chariot,FALSE,80,50,60,120,50,40,0
+Princess Panoply,FALSE,70,50,80,100,0,0,0
+Princess Panoply+,FALSE,100,50,50,80,70,0,0
+Rose Burst,FALSE,90,50,50,80,80,0,0
+Royal Burst,FALSE,80,60,60,100,70,30,0
+Madness Gunlance I,FALSE,60,70,30,90,0,0,0
+Madness Gunlance II,FALSE,70,50,80,100,0,0,0
+Madness Gunlance III,FALSE,60,50,80,110,0,0,0
+Jyura Buster I,FALSE,100,50,80,100,20,0,0
+Jyura Buster II,FALSE,110,50,50,80,60,0,0
+Jyura Buster III,FALSE,110,60,80,80,50,20,0
+Glacial Gunlance I,FALSE,50,50,80,120,0,0,0
+Glacial Gunlance II,FALSE,100,50,50,80,70,0,0
+Legiana Cannon I,FALSE,80,50,50,80,90,0,0
+Legiana Cannon II,FALSE,130,30,60,80,40,60,0
+Bone Gunlance I,FALSE,100,60,80,10,0,0,0
+Bone Gunlance II,FALSE,80,50,80,40,0,0,0
+Bone Gunlance III,FALSE,80,50,50,70,0,0,0
+Bone Cannon I,FALSE,120,70,30,80,0,0,0
+Bone Cannon II,FALSE,110,70,30,90,0,0,0
+Bone Cannon III,FALSE,140,70,30,100,10,0,0
+Great Bone Gunlance I,FALSE,100,100,40,40,70,0,0
+Great Bone Gunlance II,FALSE,100,120,40,50,90,0,0
+Bazel Buster I,FALSE,100,100,40,40,70,0,0
+Bazel Buster II,FALSE,60,120,80,60,30,50,0
+Jagras Gunlance I,FALSE,90,50,50,60,0,0,0
+Jagras Gunlance II,FALSE,110,70,30,90,0,0,0
+Jagras Gunlance III,FALSE,90,70,30,110,0,0,0
+Glutton Gunlance I,FALSE,130,70,30,100,20,0,0
+Glutton Gunlance II,FALSE,110,50,50,80,60,0,0
+Glutton Gunlance III,FALSE,90,120,40,50,100,0,0
+Girros Gunlance I,FALSE,120,70,30,80,0,0,0
+Girros Gunlance II,FALSE,110,70,30,90,0,0,0
+Deathfang Gunlance I,FALSE,140,70,30,100,10,0,0
+Deathfang Gunlance II,FALSE,100,100,40,40,70,0,0
+Deathfang Gunlance III,FALSE,150,100,30,30,60,30,0
+Hazak Spysa I,FALSE,140,110,40,40,50,20,0
+Hazak Spysa II,FALSE,200,70,20,20,50,40,0
+Carapace Cannon I,FALSE,80,50,50,70,0,0,0
+Carapace Cannon II,FALSE,110,70,30,90,0,0,0
+Carapace Cannon III,FALSE,90,70,30,110,0,0,0
+Barroth Blaster I,FALSE,120,70,30,100,30,0,0
+Barroth Blaster II,FALSE,100,50,50,80,70,0,0
+Barroth Blaster III,FALSE,120,70,30,100,80,0,0
+Blazing Gunlance I,FALSE,120,70,30,80,0,0,0
+Blazing Gunlance II,FALSE,110,70,30,90,0,0,0
+Anja Cannon I,FALSE,140,70,30,100,10,0,0
+Anja Cannon II,FALSE,130,70,30,100,20,0,0
+Anja Cannon III,FALSE,130,70,30,100,70,0,0
+Dragonbone Gunlance I,FALSE,110,70,30,90,0,0,0
+Dragonbone Gunlance II,FALSE,70,70,30,130,0,0,0
+Dragonbone Gunlance III,FALSE,120,110,40,40,70,20,0
+Magda Lahat,FALSE,110,50,80,100,10,0,0
+Earthshaker Magda Lahat,FALSE,210,30,40,90,30,0,0
+Blacksteel Gunlance I,FALSE,150,110,40,40,10,0,0
+Blacksteel Gunlance II,FALSE,140,110,40,40,20,0,0
+Icesteel Gunlance,FALSE,110,60,80,80,50,20,0
+Daora's Brigia,FALSE,90,60,80,80,70,20,0
+Xeno Hemta,FALSE,130,30,60,80,40,60,0
+Proto Iron Axe I,FALSE,100,50,80,20,0,0,0
+Proto Iron Axe II,FALSE,80,70,30,70,0,0,0
+Proto Iron Axe III,FALSE,60,70,30,90,0,0,0
+Improved Steel Axe I,FALSE,70,50,80,100,0,0,0
+Improved Steel Axe II,FALSE,60,50,80,110,0,0,0
+Improved Steel Axe III,FALSE,90,50,50,80,80,0,0
+Perfected Alloy Axe I,FALSE,70,50,50,80,100,0,0
+Perfected Alloy Axe II,FALSE,60,60,20,150,90,20,0
+Nergal Gash,TRUE,120,120,40,50,70,0,0
+Dying Light,TRUE,110,120,40,50,80,0,0
+Glacial Axe I,FALSE,60,50,80,110,0,0,0
+Glacial Axe II,FALSE,100,50,50,80,70,0,0
+Frostreaver,FALSE,90,50,50,80,80,0,0
+Legia Frostreaver,FALSE,130,30,60,80,40,60,0
+Thunder Axe I,FALSE,90,50,80,80,0,0,0
+Thunder Axe II,FALSE,80,50,80,90,0,0,0
+Lightning Chopper I,FALSE,110,50,80,100,10,0,0
+Lightning Chopper II,FALSE,100,50,50,80,70,0,0
+Lightning Chopper III,FALSE,90,60,80,80,70,20,0
+Motor Chopper I,FALSE,90,50,50,80,80,0,0
+Motor Chopper II,FALSE,80,50,80,100,90,0,0
+Jagras Axe I,FALSE,60,70,30,90,0,0,0
+Jagras Axe II,FALSE,70,50,80,100,0,0,0
+Jagras Axe III,FALSE,50,50,80,120,0,0,0
+Jagras Raider I,FALSE,110,50,50,80,60,0,0
+Jagras Raider II,FALSE,100,50,50,80,70,0,0
+Jagras Raider III,FALSE,110,120,40,50,80,0,0
+Bazel Raider I,FALSE,100,50,50,80,70,0,0
+Bazel Raider II,FALSE,70,120,80,60,20,50,0
+Rathalos Axe I,FALSE,60,50,80,110,0,0,0
+Rathalos Axe II,FALSE,100,50,80,100,20,0,0
+Rathbringer Axe I,FALSE,90,50,50,80,80,0,0
+Rathbringer Axe II,FALSE,90,60,80,80,70,20,0
+Bone Axe I,FALSE,100,60,80,10,0,0,0
+Bone Axe II,FALSE,90,50,80,30,0,0,0
+Bone Axe III,FALSE,80,50,50,70,0,0,0
+Bone Smasher I,FALSE,120,70,30,80,0,0,0
+Bone Smasher II,FALSE,110,70,30,90,0,0,0
+Bone Smasher III,FALSE,140,70,30,100,10,0,0
+Power Smasher I,FALSE,100,100,40,40,70,0,0
+Power Smasher II,FALSE,100,120,40,50,90,0,0
+Hazak Demios I,FALSE,140,110,40,40,50,20,0
+Hazak Demios II,FALSE,200,70,20,20,50,40,0
+Madness Axe I,FALSE,80,50,50,70,0,0,0
+Madness Axe II,FALSE,120,70,30,80,0,0,0
+Madness Axe III,FALSE,110,70,30,90,0,0,0
+Jyura Drought I,FALSE,110,60,80,80,20,0,0
+Jyura Drought II,FALSE,110,100,40,40,60,0,0
+Jyura Drought III,FALSE,140,110,40,40,50,20,0
+Lumu Axe I,FALSE,120,70,30,80,0,0,0
+Lumu Axe II,FALSE,100,70,30,100,0,0,0
+Lumu Smasher I,FALSE,130,70,30,100,20,0,0
+Lumu Smasher II,FALSE,90,100,40,40,80,0,0
+Lumu Smasher III,FALSE,140,100,30,30,70,30,0
+Carapace Axe I,FALSE,90,50,50,60,0,0,0
+Carapace Axe II,FALSE,110,70,30,90,0,0,0
+Carapace Axe III,FALSE,90,70,30,110,0,0,0
+Barroth Grinder I,FALSE,130,70,30,100,20,0,0
+Barroth Grinder II,FALSE,120,70,30,100,30,0,0
+Barroth Grinder III,FALSE,120,70,30,100,80,0,0
+Diablos Axe I,FALSE,100,70,30,100,0,0,0
+Diablos Axe II,FALSE,140,70,30,100,10,0,0
+Axe Semper Tyrannis,FALSE,110,50,50,80,60,0,0
+Axe of Thanatos,FALSE,140,110,40,40,50,20,0
+Axe of Demons,FALSE,90,50,60,120,60,20,0
+Flammenbeil,FALSE,120,70,30,80,0,0,0
+Flammenbeil+,FALSE,110,100,40,40,60,0,0
+Gnashing Flammenbeil,FALSE,110,120,40,50,80,0,0
+Dragonbone Slicer I,FALSE,110,70,30,90,0,0,0
+Dragonbone Slicer II,FALSE,70,70,30,130,0,0,0
+Dragonbone Slicer III,FALSE,120,110,40,40,70,20,0
+Peal,FALSE,60,50,80,110,0,0,0
+Peal+,FALSE,110,20,20,150,100,0,0
+Kirin Thunderpeal,FALSE,110,20,20,140,110,0,0
+Blacksteel Switch Axe I,FALSE,150,110,40,40,10,0,0
+Blacksteel Switch Axe II,FALSE,140,110,40,40,20,0,0
+Teostra's Arx,FALSE,110,60,80,80,50,20,0
+Teostra's Castle,FALSE,90,60,60,100,60,30,0
+Xeno Martshu,FALSE,130,30,60,90,30,60,0
+Proto Commission Axe I,FALSE,90,50,80,30,0,0,0
+Proto Commission Axe II,FALSE,70,70,30,80,0,0,0
+Proto Commission Axe III,FALSE,50,70,30,100,0,0,0
+Elite Commission Axe I,FALSE,70,50,80,100,0,0,0
+Elite Commission Axe II,FALSE,50,50,80,120,0,0,0
+Elite Commission Axe III,FALSE,100,50,50,80,70,0,0
+Chrome Guardian I,FALSE,80,50,50,80,90,0,0
+Chrome Guardian II,FALSE,60,60,20,150,90,20,0
+Nergal Lacerator,TRUE,110,120,40,50,80,0,0
+Devastation's Thorns,TRUE,100,120,40,50,90,0,0
+Rathsblade I,FALSE,60,50,80,110,0,0,0
+Rathsblade II,FALSE,100,50,80,100,20,0,0
+Axelion Blade,FALSE,90,50,50,80,80,0,0
+Halberion Blade,FALSE,70,50,60,120,60,40,0
+Mudslide Blade I,FALSE,80,70,30,70,0,0,0
+Mudslide Blade II,FALSE,90,50,80,80,0,0,0
+Mudslide Blade III,FALSE,80,50,80,90,0,0,0
+Jyura Depth I,FALSE,110,50,80,100,10,0,0
+Jyura Depth II,FALSE,110,50,50,80,60,0,0
+Jyura Depth III,FALSE,100,60,60,100,50,30,0
+Everfrost Blade I,FALSE,70,50,80,100,0,0,0
+Everfrost Blade II,FALSE,100,50,80,100,20,0,0
+Gigafrost I,FALSE,100,50,50,80,70,0,0
+Gigafrost II,FALSE,90,60,80,80,70,20,0
+Dear Lutemis,FALSE,70,50,80,100,0,0,0
+Dear Lutemia,FALSE,100,50,50,80,70,0,0
+Dear Hecatel,FALSE,90,50,50,80,80,0,0
+Dear Hecatelia,FALSE,70,50,60,120,60,40,0
+Bone Strongarm I,FALSE,90,60,80,20,0,0,0
+Bone Strongarm II,FALSE,80,50,80,40,0,0,0
+Bone Strongarm III,FALSE,80,50,50,70,0,0,0
+Hard Bone Strongarm I,FALSE,110,70,30,90,0,0,0
+Hard Bone Strongarm II,FALSE,100,70,30,100,0,0,0
+Hard Bone Strongarm III,FALSE,130,70,30,100,20,0,0
+Mighty Strongarm I,FALSE,90,100,40,40,80,0,0
+Mighty Strongarm II,FALSE,90,120,40,50,100,0,0
+Diablos Wall I,FALSE,100,70,30,100,0,0,0
+Diablos Wall II,FALSE,140,70,30,100,10,0,0
+Diablos Tyrannis I,FALSE,110,100,40,40,60,0,0
+Diablos Tyrannis II,FALSE,90,50,60,120,60,20,0
+Jagras Strongarm I,FALSE,70,50,50,80,0,0,0
+Jagras Strongarm II,FALSE,100,70,30,100,0,0,0
+Jagras Strongarm III,FALSE,90,70,30,110,0,0,0
+Jagras Escudo I,FALSE,130,70,30,100,20,0,0
+Jagras Escudo II,FALSE,90,100,40,40,80,0,0
+Jagras Escudo III,FALSE,100,120,40,50,90,0,0
+Gama Silt I,FALSE,80,100,40,40,90,0,0
+Gama Silt II,FALSE,110,110,40,40,80,20,0
+Girros Strongarm I,FALSE,110,70,30,90,0,0,0
+Girros Strongarm II,FALSE,100,70,30,100,0,0,0
+Girros Nadja I,FALSE,110,100,40,40,60,0,0
+Girros Nadja II,FALSE,100,100,40,40,70,0,0
+Girros Nadja III,FALSE,110,110,40,40,80,20,0
+Hazak Aspida I,FALSE,130,110,40,40,60,20,0
+Hazak Aspida II,FALSE,200,70,20,20,50,40,0
+Pulsar Strongarm I,FALSE,60,70,30,90,0,0,0
+Pulsar Strongarm II,FALSE,100,70,30,100,0,0,0
+Pulsar Strongarm III,FALSE,80,70,30,120,0,0,0
+Kadachi Kaina I,FALSE,90,100,40,40,80,0,0
+Kadachi Kaina II,FALSE,80,100,40,40,90,0,0
+Kadachi Kaina III,FALSE,190,70,20,20,60,40,0
+Garon Strongarm I,FALSE,90,70,30,110,0,0,0
+Garon Strongarm II,FALSE,100,100,40,40,70,0,0
+Hate's Undying Flame,FALSE,90,100,40,40,80,0,0
+Odium,TRUE,200,70,20,20,50,40,0
+Dragonbone Cutter I,FALSE,110,70,30,90,0,0,0
+Dragonbone Cutter II,FALSE,70,70,30,130,0,0,0
+Dragonbone Cutter III,FALSE,120,110,40,40,70,20,0
+Magda Manus,FALSE,110,50,80,100,10,0,0
+Avenging Magda Manus,FALSE,210,30,40,90,30,0,0
+Blacksteel Charger I,FALSE,150,110,40,40,10,0,0
+Blacksteel Charger II,FALSE,140,110,40,40,20,0,0
+Daora's Casca,FALSE,110,60,80,80,50,20,0
+Daora's Thwartoise,FALSE,90,60,80,80,70,20,0
+Xeno Ra'atz,FALSE,130,30,60,80,40,60,0
+Iron Blade I,FALSE,90,50,80,30,0,0,0
+Iron Blade II,FALSE,70,70,30,80,0,0,0
+Iron Blade III,FALSE,50,70,30,100,0,0,0
+Steel Blade I,FALSE,70,50,80,100,0,0,0
+Steel Blade II,FALSE,50,50,80,120,0,0,0
+Steel Blade III,FALSE,100,50,50,80,70,0,0
+Chrome Blade I,FALSE,80,50,50,80,90,0,0
+Chrome Blade II,FALSE,60,60,20,150,90,20,0
+Nergal Reaper,TRUE,110,120,40,50,80,0,0
+Catastrophe's Light,TRUE,100,120,40,50,90,0,0
+Flame Glaive I,FALSE,60,50,80,110,0,0,0
+Flame Glaive II,FALSE,100,50,80,100,20,0,0
+Rathmaul,FALSE,90,50,50,80,80,0,0
+Firedance Rathmaul,FALSE,90,60,60,100,60,30,0
+Kulu Blade I,FALSE,60,70,30,90,0,0,0
+Kulu Blade II,FALSE,60,50,80,110,0,0,0
+Kulu Blade III,FALSE,50,50,80,120,0,0,0
+Ya-Ku Wrath I,FALSE,90,50,50,80,80,0,0
+Ya-Ku Wrath II,FALSE,80,50,50,80,90,0,0
+Ya-Ku Wrath III,FALSE,80,60,60,100,70,30,0
+Luminous Blade I,FALSE,70,50,80,100,0,0,0
+Luminous Blade II,FALSE,60,50,80,110,0,0,0
+Destroyer Bo I,FALSE,100,50,50,80,70,0,0
+Destroyer Bo II,FALSE,90,50,50,80,80,0,0
+Destroyer Bo III,FALSE,80,50,60,120,50,40,0
+Frost Blade I,FALSE,50,50,80,120,0,0,0
+Frost Blade II,FALSE,90,50,80,100,30,0,0
+Freeze Gale I,FALSE,100,50,50,80,70,0,0
+Freeze Gale II,FALSE,90,60,80,80,70,20,0
+Blooming Glaive I,FALSE,70,70,30,80,0,0,0
+Blooming Glaive II,FALSE,70,50,80,100,0,0,0
+Blooming Glaive III,FALSE,50,50,80,120,0,0,0
+Datura Blade I,FALSE,90,50,80,100,30,0,0
+Datura Blade II,FALSE,90,50,50,80,80,0,0
+Datura Blade III,FALSE,90,120,40,50,100,0,0
+Gama Cane I,FALSE,100,100,40,40,70,0,0
+Gama Cane II,FALSE,130,110,40,40,60,20,0
+Bone Rod I,FALSE,90,60,80,20,0,0,0
+Bone Rod II,FALSE,80,50,80,40,0,0,0
+Bone Rod III,FALSE,70,50,50,80,0,0,0
+Hard Bone Rod I,FALSE,110,70,30,90,0,0,0
+Hard Bone Rod II,FALSE,100,70,30,100,0,0,0
+Hard Bone Rod III,FALSE,130,70,30,100,20,0,0
+Aerial Rod I,FALSE,100,100,40,40,70,0,0
+Aerial Rod II,FALSE,90,120,40,50,100,0,0
+Hazak Entoma I,FALSE,130,110,40,40,60,20,0
+Hazak Entoma II,FALSE,200,70,20,20,50,40,0
+Flammenkaefer,FALSE,120,70,30,80,0,0,0
+Flammenkaefer+,FALSE,100,100,40,40,70,0,0
+Gnashing Flammenkaefer,FALSE,100,120,40,50,90,0,0
+Aqua Rod I,FALSE,80,50,50,70,0,0,0
+Aqua Rod II,FALSE,120,70,30,80,0,0,0
+Aqua Rod III,FALSE,100,70,30,100,0,0,0
+Water Glaive I,FALSE,140,70,30,100,10,0,0
+Water Glaive II,FALSE,100,100,40,40,70,0,0
+Water Glaive III,FALSE,110,120,40,50,80,0,0
+Diablos Rod I,FALSE,110,70,30,90,0,0,0
+Diablos Rod II,FALSE,110,60,80,80,20,0,0
+Tyrannis Glaive I,FALSE,110,100,40,40,60,0,0
+Tyrannis Glaive II,FALSE,90,50,60,120,60,20,0
+Pulsar Rod I,FALSE,60,70,30,90,0,0,0
+Pulsar Rod II,FALSE,100,70,30,100,0,0,0
+Pulsar Rod III,FALSE,80,70,30,120,0,0,0
+Kadachi Pillar I,FALSE,90,100,40,40,80,0,0
+Kadachi Pillar II,FALSE,80,100,40,40,90,0,0
+Kadachi Pillar III,FALSE,190,70,20,20,60,40,0
+Garon Rod I,FALSE,90,70,30,110,0,0,0
+Garon Rod II,FALSE,100,100,40,40,70,0,0
+Temptation's Trident,FALSE,90,50,90,40,80,0,0
+Vice,TRUE,200,70,20,20,50,40,0
+Dragonbone Glaive I,FALSE,110,70,30,90,0,0,0
+Dragonbone Glaive II,FALSE,70,70,30,130,0,0,0
+Dragonbone Glaive III,FALSE,120,110,40,40,70,20,0
+Indigo Flash,FALSE,40,50,80,130,0,0,0
+Azure Bolt,FALSE,110,20,20,140,110,0,0
+Verdant Levin,FALSE,110,20,20,120,130,0,0
+Blacksteel Glaive I,FALSE,150,110,40,40,10,0,0
+Blacksteel Glaive II,FALSE,140,110,40,40,20,0,0
+Daora's Entom,FALSE,110,60,80,80,50,20,0
+Daora's Tethidine,FALSE,90,60,80,80,70,20,0
+Xeno Shmaena,FALSE,130,30,60,80,40,60,0
