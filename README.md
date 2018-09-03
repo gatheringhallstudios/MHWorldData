@@ -20,7 +20,6 @@ This is data we'd love to receive help towards.
 - Gathering Data is incomplete (**Important**).
   - Normal gather data: Requires us to throughly examine areas in game for different items and manually insert them into a spreadsheet.
   - Ore/Bone data: We will need a copy of モンスターハンター:ワールド 公式データハンドブック フィールド＆アイテムの知識書, and anyone capable of reading it, to read data and insert into a spreadsheet. This includes rare vs non-rare nodes.
-- Proper Sharpness Data  (**Important**). Sharpness data needs to max to 400 units, and exist for sharpness+5 entries. Once we have max sharpness entries, we can derive non-max sharpness mathematically. Current existing sharpness data is wrong units and for sharpness+0 (cannot derive the other way).
 - Quest list. Not really useful all on its own but leads into unlock conditions.
 - Unlock conditions for special items like mantles, and base camps, including deliveries.
 - Weapon motion value data
@@ -43,13 +42,13 @@ Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.s
 You can run the tests by executing `pipenv run pytest tests`.
 
 ## Data Sources
-The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and multiple Japanese wikis. Handwritten guides are not collected in the repository.
-
-If we accidently anything added here is yours, create an issue and I'll make sure to remove it.
+The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and Japanese wikis like [MHWG](http://mhwg.org/). Handwritten guides and editorial content are not collected in the repository.
 
 ## License
 The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data and images are from Monster Hunter World, which is owned by Capcom. You are free to use it, but I'd really appreciate it if you let me know what you're working on, and would be even more stoked if you let other people know where you got the data from in a note somewhere (although that's not required).
 
 ## Special Credits
-- DiscreetMath - For streaming the game to me as I copied data down, while I lamented my wait for the PC release.
+- [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from
 - [Vocalonation](https://github.com/ahctang) - For helping with translating and crossvalidating data.
+- [TanukiSharp](https://github.com/TanukiSharp/) - For creating a computer usable collection of sharpness data and allowing others to use it. His original project is [here](https://github.com/TanukiSharp/MHWSharpnessExtractor)
+- DiscreetMath - For streaming the game to me as I copied data down, while I waited for the PC release.
