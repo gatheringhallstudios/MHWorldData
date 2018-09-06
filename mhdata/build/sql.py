@@ -429,6 +429,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.weapon_type = entry['weapon_type']
         weapon.rarity = entry['rarity']
         weapon.attack = entry['attack']
+        weapon.affinity = entry['affinity']
         weapon.defense = entry['defense'] or 0
         weapon.slot_1 = entry['slot_1']
         weapon.slot_2 = entry['slot_2']

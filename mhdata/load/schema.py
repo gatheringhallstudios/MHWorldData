@@ -212,6 +212,7 @@ class WeaponBaseSchema(BaseSchema):
     previous_en = fields.Str(allow_none=True)
     rarity = fields.Int(allow_none=True)
     attack = fields.Int()
+    affinity = fields.Int()
     defense = fields.Int(allow_none=True)
     element1 = fields.Str(allow_none=True)
     element1_attack = fields.Int(allow_none=True)

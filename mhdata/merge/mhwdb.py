@@ -44,6 +44,7 @@ def merge_weapons():
         inc_phial = weapon_inc['attributes'].get('phialType', None)
         inc_phial_power = None
         inc_kinsect = weapon_inc['attributes'].get('boostType', None)
+        inc_affinity = weapon_inc['attributes'].get('affinity', 0)
 
         # If there are two values and the second is a number, populate the phial power
         if inc_phial and ' ' in inc_phial:
@@ -88,6 +89,8 @@ def merge_weapons():
             existing['shelling'] = inc_shelling_type
         if not existing['shelling_level'] and inc_shelling_level:
             existing['shelling_level'] = inc_shelling_level
+        if not existing['affinity']:
+            existing['affinity'] = inc_affinity
 
         # Add sharpness data for anything that's missing sharpness data
         if 'durability' in weapon_inc and not existing.get('sharpness', None):
