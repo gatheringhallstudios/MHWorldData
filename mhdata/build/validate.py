@@ -20,6 +20,7 @@ def validate(mhdata):
     errors.extend(validate_monster_rewards(mhdata))
     errors.extend(validate_skills(mhdata))
     errors.extend(validate_armor(mhdata))
+    errors.extend(validate_weapons(mhdata))
     errors.extend(validate_charms(mhdata))
 
     if errors:
@@ -217,6 +218,12 @@ def validate_armor(mhdata):
 
     return errors
 
+def validate_weapons(mhdata):
+    for entry in mhdata.weapon_map.values():
+        if entry['weapon_type'] in cfg.weapon_types_melee and not entry.get('sharpness', None):
+            print(f"WARNING: Melee weapon {entry.name('en')} does not have a sharpness value")
+
+    return []
 
 def validate_charms(mhdata):
     errors = []

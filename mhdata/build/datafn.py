@@ -55,3 +55,9 @@ def iter_weapon_recipe(recipe):
             break
 
         yield (item_name, quantity)
+
+def merge_sharpness(weapon):
+    s = weapon['sharpness']
+    values = (s['red'], s['orange'], s['yellow'],
+                s['green'], s['blue'], s['white'], s['purple'])
+    return ",".join((str(v) for v in values))

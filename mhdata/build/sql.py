@@ -440,9 +440,10 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.element2_attack = entry['element2_attack']
         weapon.element_hidden = entry['element_hidden']
 
-        # sharpness temporarily disabled
-        # weapon.sharpness = entry['sharpness']
-        # weapon.sharpness_complete = entry['sharpness_complete']
+        if entry.get('sharpness', None):
+            weapon.sharpness = datafn.merge_sharpness(entry)
+            weapon.sharpness_maxed = entry['sharpness']['maxed']
+
         weapon.kinsect_bonus = entry['kinsect_bonus']
         weapon.phial = entry['phial']
         weapon.phial_power = entry['phial_power']
