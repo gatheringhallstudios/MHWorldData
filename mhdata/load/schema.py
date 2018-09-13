@@ -230,7 +230,7 @@ class WeaponBaseSchema(BaseSchema):
     shelling_level = fields.Int(allow_none=True)
 
 class WeaponSchema(WeaponBaseSchema):
-    craft = fields.Nested('WeaponCraftSchema', many=True, missing={})
+    craft = fields.Nested('WeaponCraftSchema', many=True, default={})
     sharpness = fields.Nested('WeaponSharpnessSchema', many=False, missing=None)
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
     gun = fields.Nested('WeaponGunSchema', many=False, missing={})

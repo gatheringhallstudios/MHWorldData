@@ -87,6 +87,8 @@ Daora's Decimator,FALSE,90,60,80,80,70,20,0
 Xeno Maliq,FALSE,130,30,60,80,40,60,0
 Wyvern Jawblade,FALSE,120,120,40,50,70,0,0
 Great Wyvern Jawblade,FALSE,110,120,40,50,80,0,0
+Berserker Sword,FALSE,70,120,80,60,20,50,0
+Anguish,FALSE,60,120,80,60,30,50,0
 Iron Katana I,FALSE,100,50,80,20,0,0,0
 Iron Katana II,FALSE,80,70,30,70,0,0,0
 Iron Katana III,FALSE,60,70,30,90,0,0,0
@@ -168,6 +170,8 @@ Xeno Cypher,FALSE,130,30,60,80,40,60,0
 Supremacy Blade,FALSE,100,50,50,80,70,0,0
 Divine Slasher,FALSE,100,60,60,100,50,30,0
 Azure Star Blade,FALSE,60,120,80,60,30,50,0
+"Reaver ""Cruelty""",FALSE,50,120,80,60,40,50,0
+"Reaver ""Calamity""",FALSE,90,80,20,110,0,0,0
 Hunter's Knife I,FALSE,90,50,80,30,0,0,0
 Hunter's Knife II,FALSE,70,70,30,80,0,0,0
 Hunter's Knife III,FALSE,50,70,30,100,0,0,0
@@ -260,6 +264,8 @@ Blacksteel Sword II,FALSE,140,110,40,40,20,0,0
 Teostra's Spada,FALSE,100,60,60,100,50,30,0
 Teostra's Emblem,FALSE,70,50,60,120,60,40,0
 Xeno Mabura,FALSE,130,30,60,80,40,60,0
+Fatal Jho,FALSE,60,120,80,60,30,50,0
+Fatal Bite,FALSE,50,120,80,60,40,50,0
 Matched Slicers I,FALSE,90,50,80,30,0,0,0
 Matched Slicers II,FALSE,70,70,30,80,0,0,0
 Matched Slicers III,FALSE,50,70,30,100,0,0,0
@@ -343,6 +349,8 @@ Blacksteel Twins II,FALSE,140,110,40,40,20,0,0
 Twin Nails,FALSE,100,60,80,80,60,20,0
 Fire and Ice,FALSE,60,50,60,120,70,40,0
 Xeno Raqs,FALSE,120,30,60,80,40,70,0
+Wrath & Rancor,FALSE,50,120,80,60,40,50,0
+Wrathful Predation,FALSE,40,120,80,60,50,50,0
 Iron Hammer I,FALSE,100,50,80,20,0,0,0
 Iron Hammer II,FALSE,80,70,30,70,0,0,0
 Iron Hammer III,FALSE,60,70,30,90,0,0,0
@@ -427,6 +435,8 @@ Daora's Colossus,FALSE,90,60,80,80,70,20,0
 Xeno Maph'agarna,FALSE,130,30,60,80,40,60,0
 Jail Hammer,FALSE,120,120,40,50,70,0,0
 Binder Mace,FALSE,160,100,30,30,50,30,0
+Devil's Due,FALSE,60,120,80,60,30,50,0
+Devil's Crush,FALSE,50,120,80,60,40,50,0
 Metal Bagpipe I,FALSE,100,50,80,20,0,0,0
 Metal Bagpipe II,FALSE,80,70,30,70,0,0,0
 Metal Bagpipe III,FALSE,60,70,30,90,0,0,0
@@ -512,6 +522,8 @@ Blacksteel Dragonhorn II,FALSE,140,110,40,40,20,0,0
 Teostra's Tiple,FALSE,110,60,80,80,50,20,0
 Teostra's Orphée,FALSE,90,60,60,100,60,30,0
 Xeno Manasheena,FALSE,130,30,60,80,40,60,0
+Devil's Maestro,FALSE,60,120,80,60,30,50,0
+Deep Vero,FALSE,50,120,80,60,40,50,0
 Iron Lance I,FALSE,100,50,80,20,0,0,0
 Iron Lance II,FALSE,80,70,30,70,0,0,0
 Iron Lance III,FALSE,60,70,30,90,0,0,0
@@ -596,6 +608,8 @@ Daora's Fang,FALSE,90,60,80,80,70,20,0
 Xeno Zauta,FALSE,130,30,60,80,40,60,0
 Babel Spear,FALSE,120,120,40,50,70,0,0
 Elder Babel Spear,FALSE,110,120,40,50,80,0,0
+Grief Lance,FALSE,60,120,80,60,30,50,0
+Fiendish Tower,FALSE,50,120,80,60,40,50,0
 Iron Gunlance I,FALSE,100,50,80,20,0,0,0
 Iron Gunlance II,FALSE,70,70,30,80,0,0,0
 Iron Gunlance III,FALSE,60,70,30,90,0,0,0
@@ -675,6 +689,8 @@ Blacksteel Gunlance II,FALSE,140,110,40,40,20,0,0
 Icesteel Gunlance,FALSE,110,60,80,80,50,20,0
 Daora's Brigia,FALSE,90,60,80,80,70,20,0
 Xeno Hemta,FALSE,130,30,60,80,40,60,0
+Ravenous Gunlance,FALSE,50,120,80,60,40,50,0
+Insatiable Gunlance,FALSE,40,120,80,60,50,50,0
 Proto Iron Axe I,FALSE,100,50,80,20,0,0,0
 Proto Iron Axe II,FALSE,80,70,30,70,0,0,0
 Proto Iron Axe III,FALSE,60,70,30,90,0,0,0
@@ -754,6 +770,8 @@ Blacksteel Switch Axe II,FALSE,140,110,40,40,20,0,0
 Teostra's Arx,FALSE,110,60,80,80,50,20,0
 Teostra's Castle,FALSE,90,60,60,100,60,30,0
 Xeno Martshu,FALSE,130,30,60,90,30,60,0
+Tyrannos,FALSE,60,120,80,60,30,50,0
+Terror Tyrannos,FALSE,50,120,80,60,40,50,0
 Proto Commission Axe I,FALSE,90,50,80,30,0,0,0
 Proto Commission Axe II,FALSE,70,70,30,80,0,0,0
 Proto Commission Axe III,FALSE,50,70,30,100,0,0,0
@@ -829,6 +847,8 @@ Blacksteel Charger II,FALSE,140,110,40,40,20,0,0
 Daora's Casca,FALSE,110,60,80,80,50,20,0
 Daora's Thwartoise,FALSE,90,60,80,80,70,20,0
 Xeno Ra'atz,FALSE,130,30,60,80,40,60,0
+Tyrant's Charge Blade,FALSE,60,120,80,60,30,50,0
+Oppressor's Charge Blade,FALSE,50,120,80,60,40,50,0
 Iron Blade I,FALSE,90,50,80,30,0,0,0
 Iron Blade II,FALSE,70,70,30,80,0,0,0
 Iron Blade III,FALSE,50,70,30,100,0,0,0
@@ -910,3 +930,5 @@ Blacksteel Glaive II,FALSE,140,110,40,40,20,0,0
 Daora's Entom,FALSE,110,60,80,80,50,20,0
 Daora's Tethidine,FALSE,90,60,80,80,70,20,0
 Xeno Shmaena,FALSE,130,30,60,80,40,60,0
+Bad Wing,FALSE,60,120,80,60,30,50,0
+Grunge Storm,FALSE,50,120,80,60,40,50,0

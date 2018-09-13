@@ -89,6 +89,8 @@ Daora's Decimator,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Win
 Xeno Maliq,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
 Wyvern Jawblade,Create,Barroth Coin,4,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4
 Great Wyvern Jawblade,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
+Berserker Sword,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Anguish,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Katana I,Create,Iron Ore,1,,,,,,
 Iron Katana II,Upgrade,Iron Ore,2,,,,,,
 Iron Katana III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -172,6 +174,8 @@ Xeno Cypher,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'j
 Supremacy Blade,Create,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4,,
 Divine Slasher,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Azure Star Blade,Create,Azure Star Shard,3,Great Jagras Claw,4,Lightcrystal,1,Monster Bone M,4
+"Reaver ""Cruelty""",Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+"Reaver ""Calamity""",Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Hunter's Knife I,Create,Iron Ore,1,,,,,,
 Hunter's Knife II,Upgrade,Iron Ore,2,,,,,,
 Hunter's Knife III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -266,6 +270,8 @@ Blacksteel Sword II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wyver
 Teostra's Spada,Upgrade,Teostra Carapace,5,Teostra Claw+,2,Teostra Mane,2,Teostra Powder,4
 Teostra's Emblem,Upgrade,Teostra Claw+,2,Teostra Gem,1,Teostra Horn+,5,Xeno'jiiva Soulscale,5
 Xeno Mabura,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Fatal Jho,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Fatal Bite,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Matched Slicers I,Create,Iron Ore,1,,,,,,
 Matched Slicers II,Upgrade,Iron Ore,2,,,,,,
 Matched Slicers III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -351,6 +357,8 @@ Blacksteel Twins II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wyver
 Twin Nails,Upgrade,Daora Claw+,2,Firecell Stone,2,Teostra Claw+,2,Wyvern Gem,1
 Fire and Ice,Upgrade,Daora Horn+,3,Novacrystal,2,Teostra Horn+,3,Xeno'jiiva Claw,2
 Xeno Raqs,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Wrath & Rancor,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Wrathful Predation,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Hammer I,Create,Iron Ore,1,,,,,,
 Iron Hammer II,Upgrade,Iron Ore,2,,,,,,
 Iron Hammer III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -437,6 +445,8 @@ Daora's Colossus,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing
 Xeno Maph'agarna,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
 Jail Hammer,Create,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4,Tzitzi Coin,4
 Binder Mace,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
+Devil's Due,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Devil's Crush,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Metal Bagpipe I,Create,Iron Ore,1,,,,,,
 Metal Bagpipe II,Upgrade,Iron Ore,2,,,,,,
 Metal Bagpipe III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -524,6 +534,8 @@ Blacksteel Dragonhorn II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,
 Teostra's Tiple,Upgrade,Teostra Carapace,5,Teostra Claw+,2,Teostra Mane,2,Teostra Powder,4
 Teostra's Orphée,Upgrade,Teostra Claw+,2,Teostra Gem,1,Teostra Horn+,5,Xeno'jiiva Soulscale,5
 Xeno Manasheena,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Devil's Maestro,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Deep Vero,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Lance I,Create,Iron Ore,1,,,,,,
 Iron Lance II,Upgrade,Iron Ore,2,,,,,,
 Iron Lance III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -610,6 +622,8 @@ Daora's Fang,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing,2
 Xeno Zauta,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
 Babel Spear,Create,Gama Coin,4,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4
 Elder Babel Spear,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
+Grief Lance,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Fiendish Tower,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Gunlance I,Create,Iron Ore,1,,,,,,
 Iron Gunlance II,Upgrade,Iron Ore,2,,,,,,
 Iron Gunlance III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -691,6 +705,8 @@ Blacksteel Gunlance II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wy
 Icesteel Gunlance,Upgrade,Daora Claw+,3,Daora Tail,2,Daora Webbing,4,Nergigante Carapace,5
 Daora's Brigia,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing,2
 Xeno Hemta,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Ravenous Gunlance,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Insatiable Gunlance,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Proto Iron Axe I,Create,Iron Ore,1,,,,,,
 Proto Iron Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Iron Axe III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -772,6 +788,8 @@ Blacksteel Switch Axe II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,
 Teostra's Arx,Upgrade,Teostra Carapace,5,Teostra Claw+,2,Teostra Mane,2,Teostra Powder,4
 Teostra's Castle,Upgrade,Teostra Claw+,2,Teostra Gem,1,Teostra Horn+,5,Xeno'jiiva Soulscale,5
 Xeno Martshu,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Tyrannos,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Terror Tyrannos,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Proto Commission Axe I,Create,Iron Ore,1,,,,,,
 Proto Commission Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Commission Axe III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -849,6 +867,8 @@ Blacksteel Charger II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wyv
 Daora's Casca,Upgrade,Daora Claw+,3,Daora Tail,2,Daora Webbing,4,Nergigante Carapace,5
 Daora's Thwartoise,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing,2
 Xeno Ra'atz,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Tyrant's Charge Blade,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Oppressor's Charge Blade,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Blade I,Create,Iron Ore,1,,,,,,
 Iron Blade II,Upgrade,Iron Ore,2,,,,,,
 Iron Blade III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -932,6 +952,8 @@ Blacksteel Glaive II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wyve
 Daora's Entom,Upgrade,Daora Claw+,3,Daora Tail,2,Daora Webbing,4,Nergigante Carapace,5
 Daora's Tethidine,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing,2
 Xeno Shmaena,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Bad Wing,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Grunge Storm,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Chain Blitz I,Create,Monster Bone S,1,,,,,,
 Chain Blitz II,Upgrade,Monster Bone S,2,,,,,,
 Chain Blitz III,Upgrade,Ancient Bone,1,Monster Bone M,2,,,,
@@ -1018,6 +1040,8 @@ Daora's Hornet,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wing,2
 Xeno Neqiina,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
 Cross Bowgun,Create,Gama Coin,4,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4
 Great Bowgun,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
+Devil's Grin,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Devil's Madness,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Assault I,Create,Iron Ore,1,,,,,,
 Iron Assault II,Upgrade,Iron Ore,2,,,,,,
 Iron Assault III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -1099,6 +1123,8 @@ Blacksteel Cannon II,Upgrade,Carbalite Ore,10,Firecell Stone,1,Fucium Ore,5,Wyve
 Teostra's Artillery,Upgrade,Teostra Carapace,5,Teostra Claw+,2,Teostra Mane,2,Teostra Powder,4
 Teostra's Flames,Upgrade,Teostra Claw+,2,Teostra Gem,1,Teostra Horn+,5,Xeno'jiiva Soulscale,5
 Xeno Jiiqa,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
+Gluttonous Cannon,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Dark Devourer,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
 Iron Bow I,Create,Iron Ore,1,,,,,,
 Iron Bow II,Upgrade,Iron Ore,2,,,,,,
 Iron Bow III,Upgrade,Earth Crystal,2,Iron Ore,5,Machalite Ore,2,,
@@ -1176,3 +1202,5 @@ Daora's Sagittarii,Upgrade,Daora Claw+,4,Daora Gem,1,Daora Horn+,5,Xeno'jiiva Wi
 Xeno Metora,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Gem,1,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2
 Cross Hunter's Bow,Create,Barroth Coin,4,Hunter King Coin,5,Novacrystal,1,Rathalos Coin,4
 Great Hunter's Bow,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
+Insurgent's Bow,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
+Villainous Brace,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1

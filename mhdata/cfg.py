@@ -37,8 +37,12 @@ weapon_types_melee = ('great-sword', 'long-sword', 'sword-and-shield', 'dual-bla
     'hammer', 'hunting-horn', 'lance', 'gunlance', 'switch-axe', 'charge-blade',
     'insect-glaive')
 
+weapon_types_bow = 'bow'
+
+weapon_types_gun = ('light-bowgun', 'heavy-bowgun')
+
 "A list of all ranged weapon types"
-weapon_types_ranged = ('light-bowgun', 'heavy-bowgun', 'bow')
+weapon_types_ranged = (*weapon_types_gun, weapon_types_bow)
 
 "A list of all weapon types"
 weapon_types = (*weapon_types_melee, *weapon_types_ranged)

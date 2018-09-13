@@ -219,11 +219,19 @@ def validate_armor(mhdata):
     return errors
 
 def validate_weapons(mhdata):
+    errors = []
     for entry in mhdata.weapon_map.values():
-        if entry['weapon_type'] in cfg.weapon_types_melee and not entry.get('sharpness', None):
-            print(f"WARNING: Melee weapon {entry.name('en')} does not have a sharpness value")
+        weapon_type = entry['weapon_type']
+        if weapon_type in cfg.weapon_types_melee and not entry.get('sharpness', None):
+            errors.append(f"Melee weapon {entry.name('en')} does not have a sharpness value")
+        if not entry.get('craft', {}):
+            errors.append(f"Weapon {entry.name('en')} does not have any recipes")
+        if weapon_type == cfg.weapon_types_bow and not entry.get('bow', None):
+            errors.append(f"Weapon {entry.name('en')} is missing bow data")
+        if weapon_type in cfg.weapon_types_gun and not entry.get('gun', None):
+            errors.append(f"Weapon {entry.name('en')} is missing gun data")
 
-    return []
+    return errors
 
 def validate_charms(mhdata):
     errors = []
