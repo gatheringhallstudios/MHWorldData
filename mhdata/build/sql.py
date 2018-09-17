@@ -403,6 +403,49 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map
     weapon_map = mhdata.weapon_map
 
+    # Save all weapon ammo configurations
+    for entry in mhdata.weapon_ammo_map.values():
+        ammo = db.WeaponAmmo(id=entry.id)
+        ammo.deviation = entry['deviation']
+        ammo.special_ammo = entry['special']
+        ammo.normal1_clip = entry['normal1']['clip']
+        ammo.normal2_clip = entry['normal2']['clip']
+        ammo.normal3_clip = entry['normal3']['clip']
+        ammo.pierce1_clip = entry['pierce1']['clip']
+        ammo.pierce2_clip = entry['pierce2']['clip']
+        ammo.pierce3_clip = entry['pierce3']['clip']
+        ammo.spread1_clip = entry['spread1']['clip']
+        ammo.spread2_clip = entry['spread2']['clip']
+        ammo.spread3_clip = entry['spread3']['clip']
+        ammo.sticky1_clip = entry['sticky1']['clip']
+        ammo.sticky2_clip = entry['sticky2']['clip']
+        ammo.sticky3_clip = entry['sticky3']['clip']
+        ammo.cluster1_clip = entry['cluster1']['clip']
+        ammo.cluster2_clip = entry['cluster2']['clip']
+        ammo.cluster3_clip = entry['cluster3']['clip']
+        ammo.recover1_clip = entry['recover1']['clip']
+        ammo.recover2_clip = entry['recover2']['clip']
+        ammo.poison1_clip = entry['poison1']['clip']
+        ammo.poison2_clip = entry['poison2']['clip']
+        ammo.paralysis1_clip = entry['paralysis1']['clip']
+        ammo.paralysis2_clip = entry['paralysis2']['clip']
+        ammo.sleep1_clip = entry['sleep1']['clip']
+        ammo.sleep2_clip = entry['sleep2']['clip']
+        ammo.exhaust1_clip = entry['exhaust1']['clip']
+        ammo.exhaust2_clip = entry['exhaust2']['clip']
+        ammo.flaming_clip = entry['flaming']['clip']
+        ammo.water_clip = entry['water']['clip']
+        ammo.freeze_clip = entry['freeze']['clip']
+        ammo.thunder_clip = entry['thunder']['clip']
+        ammo.dragon_clip = entry['dragon']['clip']
+        ammo.slicing_clip = entry['slicing']['clip']
+        ammo.wyvern_clip = entry['wyvern']['clip']
+        ammo.demon_clip = entry['demon']['clip']
+        ammo.armor_clip = entry['armor']['clip']
+        ammo.tranq_clip = entry['tranq']['clip']
+
+        session.add(ammo)
+
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
     all_final = set(weapon_map.keys())
@@ -485,46 +528,10 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             weapon.coating_sleep = bow_data['sleep']
             weapon.coating_blast = bow_data['blast']
 
-        # Gun data
-        if entry.get("gun", None):
-            gun_data = entry['gun']
-            weapon.deviation = gun_data['deviation']
-            weapon.special_ammo = gun_data['special']
-            weapon.ammo_normal_1 = gun_data['normal_1']
-            weapon.ammo_normal_2 = gun_data['normal_2']
-            weapon.ammo_normal_3 = gun_data['normal_3']
-            weapon.ammo_pierce_1 = gun_data['pierce_1']
-            weapon.ammo_pierce_2 = gun_data['pierce_2']
-            weapon.ammo_pierce_3 = gun_data['pierce_3']
-            weapon.ammo_spread_1 = gun_data['spread_1']
-            weapon.ammo_spread_2 = gun_data['spread_2']
-            weapon.ammo_spread_3 = gun_data['spread_3']
-            weapon.ammo_sticky_1 = gun_data['sticky_1']
-            weapon.ammo_sticky_2 = gun_data['sticky_2']
-            weapon.ammo_sticky_3 = gun_data['sticky_3']
-            weapon.ammo_cluster_1 = gun_data['cluster_1']
-            weapon.ammo_cluster_2 = gun_data['cluster_2']
-            weapon.ammo_cluster_3 = gun_data['cluster_3']
-            weapon.ammo_recover_1 = gun_data['recover_1']
-            weapon.ammo_recover_2 = gun_data['recover_2']
-            weapon.ammo_poison_1 = gun_data['poison_1']
-            weapon.ammo_poison_2 = gun_data['poison_2']
-            weapon.ammo_paralysis_1 = gun_data['paralysis_1']
-            weapon.ammo_paralysis_2 = gun_data['paralysis_2']
-            weapon.ammo_sleep_1 = gun_data['sleep_1']
-            weapon.ammo_sleep_2 = gun_data['sleep_2']
-            weapon.ammo_exhaust_1 = gun_data['exhaust_1']
-            weapon.ammo_exhaust_2 = gun_data['exhaust_2']
-            weapon.ammo_flaming = gun_data['flaming']
-            weapon.ammo_water = gun_data['water']
-            weapon.ammo_freeze = gun_data['freeze']
-            weapon.ammo_thunder = gun_data['thunder']
-            weapon.ammo_dragon = gun_data['dragon']
-            weapon.ammo_slicing = gun_data['slicing']
-            weapon.ammo_wyvern = gun_data['wyvern']
-            weapon.ammo_demon = gun_data['demon']
-            weapon.ammo_armor = gun_data['armor']
-            weapon.ammo_tranq = gun_data['tranq']
+        # Gun data mapping (if any)
+        ammo_config_name = entry.get('ammo_config', None)
+        if ammo_config_name:
+            weapon.ammo_id = mhdata.weapon_ammo_map[ammo_config_name].id
         
         session.add(weapon)
 

@@ -2,8 +2,10 @@
 Custom fields used by the marshmallow schema
 """
 
-from marshmallow import fields, ValidationError
+import collections
+from marshmallow import fields, ValidationError, Schema, pre_load, post_dump
 
+from mhdata.util import group_fields, ungroup_fields
 
 def choice_check(*items):
     def validate_fn(check):
@@ -43,3 +45,35 @@ class ExcelBool(NullableBool):
             return None
         else:
             return 'FALSE'
+
+class NestedPrefix(fields.Nested):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **{ 'many': False, **kwargs })
+        self.prefix = kwargs.get('prefix', None)
+
+class BaseSchema(Schema):
+    "Base class for all schemas in this project"
+    __groups__ = ()
+    class Meta:
+        ordered = True
+
+    def identify_prefixes(self):
+        "Identifies all potential prefixes by examining the fields"
+        # note: could be made more efficient via caching? See if there is a way to dirty check fields
+        prefixes = []
+        for name, field in self.fields.items():
+            if isinstance(field, NestedPrefix):
+                prefixes.append(field.prefix or name)
+        return prefixes
+
+    @pre_load
+    def group_fields(self, data):
+        if not isinstance(data, collections.Mapping):
+            raise TypeError("Invalid data type, perhaps you forgot many=true?")
+        groups = list(self.__groups__ or []) + self.identify_prefixes()
+        return group_fields(data, groups=groups)
+
+    @post_dump
+    def ungroup_fields(self, data):
+        groups = self.__groups__ or []
+        return ungroup_fields(data, groups=groups)

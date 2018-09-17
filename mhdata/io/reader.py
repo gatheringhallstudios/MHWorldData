@@ -22,6 +22,19 @@ def validate_key_join(data_map : DataMap, keys : typing.Set, *, join_lang='en'):
     data_names = data_map.names(join_lang) 
     return [key for key in keys if key not in data_names] 
 
+def apply_schema_to_map(map, schema):
+    "Internal helper to apply a marshmallow schema to the values of a map."
+    errors = []
+    for key in map.keys():
+        value = map[key]
+        (converted, val_errors) = schema.load(value, many=False)
+        if val_errors:
+            errors.extend(val_errors)
+        else:
+            map[key] = converted
+    if errors:
+        raise Exception(str(errors))
+    return map
 
 class DataReader:
     """A class used to deserialize objects from the data files.
@@ -76,7 +89,6 @@ class DataReader:
             data = converted
 
         return data
-
         
     def load_base_json(self, data_file, validate=True):
         "Loads a base data map object."
@@ -92,6 +104,21 @@ class DataReader:
         self._validate_base_map(data_file, result, error=validate)
 
         return result
+
+    def load_keymap_csv(self, data_file, schema=None):
+        """Loads a simple csv file as a key map. 
+        The key column becomes the map's key, and every entry gets an id field (accessed via variable).
+        TODO: Polish, might need an interface tweak to be similar to datamap"""
+        items = self.load_list_csv(data_file)
+
+        keymap = { entry['key']:entry for entry in items }
+        if schema:
+            keymap = apply_schema_to_map(keymap, schema)
+
+        for idx, entry in enumerate(keymap.values()):
+            entry.id = idx + 1 
+
+        return keymap
 
     def load_base_csv(self, data_file, groups=[], validate=True):
         """Loads a base data map object from a csv

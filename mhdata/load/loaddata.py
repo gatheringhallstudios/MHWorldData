@@ -83,15 +83,18 @@ def load_data():
                     .base_csv("armorset_bonus_base.csv")
                     .get(schema=schema.ArmorSetBonus()))
 
-    # todo: stitch
+    # Load Ammo config.
+    result.weapon_ammo_map = reader.load_keymap_csv("weapons/weapon_ammo.csv", schema.WeaponAmmoSchema())
+
+    # Load weapon data
     result.weapon_map = (DataStitcher(reader, dir="weapons/")
                     .base_csv("weapon_base.csv")
                     .add_csv_ext("weapon_sharpness.csv", key="sharpness")
                     .add_csv_ext("weapon_bow_ext.csv", key="bow")
-                    .add_csv_ext("weapon_gun_ext.csv", key="gun")
                     .add_csv("weapon_craft_ext.csv", key="craft")
                     .get(schema=schema.WeaponSchema()))
 
+    # Load decoration data
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
                     .base_csv("decoration_base.csv")
                     .add_json("decoration_chances.json", key="chances")

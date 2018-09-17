@@ -228,8 +228,11 @@ def validate_weapons(mhdata):
             errors.append(f"Weapon {entry.name('en')} does not have any recipes")
         if weapon_type == cfg.weapon_types_bow and not entry.get('bow', None):
             errors.append(f"Weapon {entry.name('en')} is missing bow data")
-        if weapon_type in cfg.weapon_types_gun and not entry.get('gun', None):
-            errors.append(f"Weapon {entry.name('en')} is missing gun data")
+        if weapon_type in cfg.weapon_types_gun:
+            if not entry.get('ammo_config', None):
+                errors.append(f"Weapon {entry.name('en')} is missing ammo config")
+            elif entry['ammo_config'] not in mhdata.weapon_ammo_map:
+                errors.append(f"Weapon {entry.name('en')} has invalid ammo config")
 
     return errors
 

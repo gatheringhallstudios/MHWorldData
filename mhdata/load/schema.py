@@ -2,32 +2,10 @@
 This module contains marshmallo schema definitions for loaded files.
 """
 
-import collections
-from marshmallow import Schema, fields, ValidationError, pre_load, post_dump
-
-from mhdata.util import group_fields, ungroup_fields
 from mhdata import cfg
 
-from .cfields import ValidatedStr, ExcelBool
-
-class BaseSchema(Schema):
-    "Base class for all schemas in this project"
-    __groups__ = ()
-    class Meta:
-        ordered = True
-
-    @pre_load
-    def group_fields(self, data):
-        if not isinstance(data, collections.Mapping):
-            raise TypeError("Invalid data type, perhaps you forgot many=true?")
-        groups = self.__groups__ or []
-        return group_fields(data, groups=groups)
-
-    @post_dump
-    def ungroup_fields(self, data):
-        groups = self.__groups__ or []
-        return ungroup_fields(data, groups=groups)
-
+from marshmallow import fields, ValidationError
+from .cfields import ValidatedStr, ExcelBool, BaseSchema, NestedPrefix
 
 # schemas were added later down the line, so no schemas exist for certain objects yet
 # schemas are used mostly for type conversion and pre-validation
@@ -228,12 +206,13 @@ class WeaponBaseSchema(BaseSchema):
     phial_power = fields.Int(allow_none=True)
     shelling = ValidatedStr(None, *cfg.valid_shellings)
     shelling_level = fields.Int(allow_none=True)
+    ammo_config = fields.Str(allow_none=True)
 
 class WeaponSchema(WeaponBaseSchema):
     craft = fields.Nested('WeaponCraftSchema', many=True, default={})
     sharpness = fields.Nested('WeaponSharpnessSchema', many=False, missing=None)
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
-    gun = fields.Nested('WeaponGunSchema', many=False, missing={})
+    gun = fields.Nested('WeaponAmmoSchema', many=False, missing={})
 
 class WeaponSharpnessSchema(BaseSchema):
     base_name_en = fields.Str()
@@ -257,41 +236,47 @@ class WeaponBowSchema(BaseSchema):
     sleep = fields.Bool()
     blast = fields.Bool()
 
-class WeaponGunSchema(BaseSchema):
+class AmmoGroupSchema(BaseSchema):
+    clip = fields.Int()
+
+def AmmoGroup():
+    return NestedPrefix("AmmoGroupSchema")
+
+class WeaponAmmoSchema(BaseSchema):
     deviation = fields.Str()
     special = fields.Str()
-    normal_1 = fields.Int()
-    normal_2 = fields.Int()
-    normal_3 = fields.Int()
-    pierce_1 = fields.Int()
-    pierce_2 = fields.Int()
-    pierce_3 = fields.Int()
-    spread_1 = fields.Int()
-    spread_2 = fields.Int()
-    spread_3 = fields.Int()
-    sticky_1 = fields.Int()
-    sticky_2 = fields.Int()
-    sticky_3 = fields.Int()
-    cluster_1 = fields.Int()
-    cluster_2 = fields.Int()
-    cluster_3 = fields.Int()
-    recover_1 = fields.Int()
-    recover_2 = fields.Int()
-    poison_1 = fields.Int()
-    poison_2 = fields.Int()
-    paralysis_1 = fields.Int()
-    paralysis_2 = fields.Int()
-    sleep_1 = fields.Int()
-    sleep_2 = fields.Int()
-    exhaust_1 = fields.Int()
-    exhaust_2 = fields.Int()
-    flaming = fields.Int()
-    water = fields.Int()
-    freeze = fields.Int()
-    thunder = fields.Int()
-    dragon = fields.Int()
-    slicing = fields.Int()
-    wyvern = fields.Int()
-    demon = fields.Int()
-    armor = fields.Int()
-    tranq = fields.Int()
+    normal1 = AmmoGroup()
+    normal2 = AmmoGroup()
+    normal3 = AmmoGroup()
+    pierce1 = AmmoGroup()
+    pierce2 = AmmoGroup()
+    pierce3 = AmmoGroup()
+    spread1 = AmmoGroup()
+    spread2 = AmmoGroup()
+    spread3 = AmmoGroup()
+    sticky1 = AmmoGroup()
+    sticky2 = AmmoGroup()
+    sticky3 = AmmoGroup()
+    cluster1 = AmmoGroup()
+    cluster2 = AmmoGroup()
+    cluster3 = AmmoGroup()
+    recover1 = AmmoGroup()
+    recover2 = AmmoGroup()
+    poison1 = AmmoGroup()
+    poison2 = AmmoGroup()
+    paralysis1 = AmmoGroup()
+    paralysis2 = AmmoGroup()
+    sleep1 = AmmoGroup()
+    sleep2 = AmmoGroup()
+    exhaust1 = AmmoGroup()
+    exhaust2 = AmmoGroup()
+    flaming = AmmoGroup()
+    water = AmmoGroup()
+    freeze = AmmoGroup()
+    thunder = AmmoGroup()
+    dragon = AmmoGroup()
+    slicing = AmmoGroup()
+    wyvern = AmmoGroup()
+    demon = AmmoGroup()
+    armor = AmmoGroup()
+    tranq = AmmoGroup()
