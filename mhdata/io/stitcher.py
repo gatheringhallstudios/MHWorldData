@@ -110,7 +110,8 @@ class DataStitcher:
                 (converted, errors) = schema.load(data, many=False) # converted
 
                 if errors:
-                    raise Exception(str(errors))
+                    name = entry.name('en')
+                    raise Exception(f"Error loading {name}: {str(errors)}")
 
                 # id may have changed type or value:
                 # get the converted id before the original,
