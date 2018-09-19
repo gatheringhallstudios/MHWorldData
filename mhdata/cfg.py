@@ -11,7 +11,17 @@ supported_ranks = ('LR', 'HR')
 "A mapping of all translations"
 all_languages = {
     'en': "English",
-    'ja': "Japanese"
+    'ja': "日本語",
+    'fr': 'Français',
+    'it': 'Italiano',
+    'de': 'Deutsch',
+    'es': 'Español',
+    'pt': 'Português do Brasil',
+    'pl': 'Polski',
+    'ru': 'Pусский',
+    'ko': '한국어',
+    'zh': '繁體中文',
+    'ar': 'Arabe'
 }
 
 "A list of languages that require complete translations. Used in validation"
@@ -32,17 +42,31 @@ max_recipe_item_count = 4
 "Maximum number of skills in an armor piece/weapon"
 max_skill_count = 2
 
+GREAT_SWORD = 'great-sword'
+LONG_SWORD = 'long-sword'
+SWORD_AND_SHEILD = 'sword-and-shield'
+DUAL_BLADES = 'dual-blades'
+HAMMER = 'hammer'
+HUNTING_HORN = 'hunting-horn'
+LANCE = 'lance'
+GUNLANCE = 'gunlance'
+SWITCH_AXE = 'switch-axe'
+CHARGE_BLADE = 'charge-blade'
+INSECT_GLAIVE = 'insect-glaive'
+LIGHT_BOWGUN = 'light-bowgun'
+HEAVY_BOWGUN = 'heavy-bowgun'
+BOW = 'bow'
+
 "A list of all melee weapon types"
-weapon_types_melee = ('great-sword', 'long-sword', 'sword-and-shield', 'dual-blades',
-    'hammer', 'hunting-horn', 'lance', 'gunlance', 'switch-axe', 'charge-blade',
-    'insect-glaive')
+weapon_types_melee = (GREAT_SWORD, LONG_SWORD, SWORD_AND_SHEILD, DUAL_BLADES,
+    HAMMER, HUNTING_HORN, LANCE, GUNLANCE, SWITCH_AXE, CHARGE_BLADE,
+    INSECT_GLAIVE)
 
-weapon_types_bow = 'bow'
-
-weapon_types_gun = ('light-bowgun', 'heavy-bowgun')
+"A list of all bowgun weapon types"
+weapon_types_gun = (LIGHT_BOWGUN, HEAVY_BOWGUN)
 
 "A list of all ranged weapon types"
-weapon_types_ranged = (*weapon_types_gun, weapon_types_bow)
+weapon_types_ranged = (*weapon_types_gun, BOW)
 
 "A list of all weapon types"
 weapon_types = (*weapon_types_melee, *weapon_types_ranged)

@@ -6,10 +6,10 @@ from mhdata.util import ensure_warn
 
 from . import datafn
 
-supported_languages = cfg.supported_languages
-all_languages = cfg.all_languages
-incomplete_languages = cfg.incomplete_languages
-supported_ranks = cfg.supported_ranks
+# todo: many of these validations could be moved to the schema,
+# but doing so would cause errors during merges/corrections (we only want errors when building).
+# Decide if we want all non-typed validations to be here, 
+# or if we pass a flag to the schema objects on whether to throw or not
 
 def validate(mhdata):
     "Perform all validations, print out the errors, and return if it succeeded or not"
@@ -102,7 +102,7 @@ def validate_monster_rewards(mhdata):
         monster_name = entry.name('en') # used for error display
 
         # accumulates percentages by rank
-        reward_percentages = { rank:[] for rank in supported_ranks }
+        reward_percentages = { rank:[] for rank in cfg.supported_ranks }
 
         valid = True
         for reward in entry['rewards']:
@@ -118,7 +118,7 @@ def validate_monster_rewards(mhdata):
                 errors.add(f"Monster reward item {reward['item_en']} doesn't exist")
                 valid = False
 
-            if rank not in supported_ranks:
+            if rank not in cfg.supported_ranks:
                 errors.add(f"Unsupported rank {rank} in {monster_name} rewards")
                 valid = False
 
@@ -221,18 +221,21 @@ def validate_armor(mhdata):
 def validate_weapons(mhdata):
     errors = []
     for entry in mhdata.weapon_map.values():
+        name = entry.name('en')
         weapon_type = entry['weapon_type']
-        if weapon_type in cfg.weapon_types_melee and not entry.get('sharpness', None):
-            errors.append(f"Melee weapon {entry.name('en')} does not have a sharpness value")
+
         if not entry.get('craft', {}):
-            errors.append(f"Weapon {entry.name('en')} does not have any recipes")
-        if weapon_type == cfg.weapon_types_bow and not entry.get('bow', None):
-            errors.append(f"Weapon {entry.name('en')} is missing bow data")
+            errors.append(f"Weapon {name} does not have any recipes")
+        
+        if weapon_type in cfg.weapon_types_melee and not entry.get('sharpness', None):
+            errors.append(f"Melee weapon {name} does not have a sharpness value")
+        if weapon_type == cfg.BOW and not entry.get('bow', None):
+            errors.append(f"Weapon {name} is missing bow data")
         if weapon_type in cfg.weapon_types_gun:
             if not entry.get('ammo_config', None):
-                errors.append(f"Weapon {entry.name('en')} is missing ammo config")
+                errors.append(f"Weapon {name} is missing ammo config")
             elif entry['ammo_config'] not in mhdata.weapon_ammo_map:
-                errors.append(f"Weapon {entry.name('en')} has invalid ammo config")
+                errors.append(f"Weapon {name} has invalid ammo config")
 
     return errors
 
