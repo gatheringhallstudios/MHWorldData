@@ -4,7 +4,7 @@ This module contains marshmallo schema definitions for loaded files.
 
 from mhdata import cfg
 
-from marshmallow import fields, ValidationError
+from marshmallow import fields, ValidationError, validates
 from .cfields import ValidatedStr, ExcelBool, BaseSchema, NestedPrefix
 
 # schemas were added later down the line, so no schemas exist for certain objects yet
@@ -183,6 +183,7 @@ class CharmSchema(CharmBaseSchema):
     craft = fields.Dict()
 
 class WeaponBaseSchema(BaseSchema):
+    # note: combination fields are validated in validate.py
     __groups__ = ('name',)
     id = fields.Int()
     name = fields.Dict()
@@ -206,7 +207,21 @@ class WeaponBaseSchema(BaseSchema):
     phial_power = fields.Int(allow_none=True)
     shelling = ValidatedStr(None, *cfg.valid_shellings)
     shelling_level = fields.Int(allow_none=True)
+    notes = fields.Str(allow_none=True)
     ammo_config = fields.Str(allow_none=True)
+
+    @validates('notes')
+    def validate_notes(self, notes_str):
+        if not notes_str:
+            return # valid, none is allowed
+
+        notes = set(notes_str)
+        if len(notes) != 3:
+            raise ValidationError(f"Notes must be 3 unique characters")
+        
+        valid = notes <= set(cfg.valid_notes)
+        if not valid: # not a subset of valid notes
+            raise ValidationError(f"invalid notes {notes_str}, notes must be subset of {str(cfg.valid_notes)}")
 
 class WeaponSchema(WeaponBaseSchema):
     craft = fields.Nested('WeaponCraftSchema', many=True, default={})

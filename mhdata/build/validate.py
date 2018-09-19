@@ -229,6 +229,8 @@ def validate_weapons(mhdata):
         
         if weapon_type in cfg.weapon_types_melee and not entry.get('sharpness', None):
             errors.append(f"Melee weapon {name} does not have a sharpness value")
+        if weapon_type == cfg.HUNTING_HORN and not entry.get('notes', None):
+            errors.append(f"Hunting horn {name} is missing a notes value")
         if weapon_type == cfg.BOW and not entry.get('bow', None):
             errors.append(f"Weapon {name} is missing bow data")
         if weapon_type in cfg.weapon_types_gun:

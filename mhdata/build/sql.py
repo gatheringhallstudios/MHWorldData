@@ -493,6 +493,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.phial_power = entry['phial_power']
         weapon.shelling = entry['shelling']
         weapon.shelling_level = entry['shelling_level']
+        weapon.notes = entry['notes']
 
         weapon.craftable = False # set to true later if it can be crafted
         weapon.final = weapon_id in all_final

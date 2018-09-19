@@ -360,6 +360,7 @@ class Weapon(Base):
     phial_power = Column(Integer)
     shelling = Column(Text)
     shelling_level = Column(Integer)
+    notes = Column(Text)
     deviation = Column(Text)
     special_ammo = Column(Text)
 

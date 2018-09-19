@@ -80,6 +80,10 @@ valid_phials = ('power', 'power element', 'dragon', 'poison', 'paralysis', 'exha
 "Valid gunlance shelling types"
 valid_shellings = ('normal', 'wide', 'long')
 
+# notes are (white, purple, red, cyan, blue, green, orange, yellow)
+"Valid notes for hunting horns"
+valid_notes = ('W', 'P', 'R', 'C', 'B', 'G', 'O', 'Y')
+
 icon_colors = [
     "Gray", "White", "Lime", "Green", "Cyan", "Blue", "Violet", "Orange",
     "Pink", "Red", "DarkRed", "LightBeige", "Beige", "DarkBeige", "Yellow",
