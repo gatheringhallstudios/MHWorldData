@@ -405,9 +405,11 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
 
     # Save all weapon ammo configurations
     for entry in mhdata.weapon_ammo_map.values():
-        ammo = db.WeaponAmmo(id=entry.id)
-        ammo.deviation = entry['deviation']
-        ammo.special_ammo = entry['special']
+        ammo = db.WeaponAmmo(
+            id=entry.id,
+            deviation=entry['deviation'],
+            special_ammo=entry['special']
+        )
         ammo.normal1_clip = entry['normal1']['clip']
         ammo.normal2_clip = entry['normal2']['clip']
         ammo.normal3_clip = entry['normal3']['clip']

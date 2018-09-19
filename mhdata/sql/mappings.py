@@ -361,8 +361,6 @@ class Weapon(Base):
     shelling = Column(Text)
     shelling_level = Column(Integer)
     notes = Column(Text)
-    deviation = Column(Text)
-    special_ammo = Column(Text)
 
     coating_close = Column(Integer)
     coating_power = Column(Integer)
@@ -388,6 +386,8 @@ class WeaponText(Base):
 class WeaponAmmo(Base):
     __tablename__ = "weapon_ammo"
     id = Column(Integer, primary_key=True)
+    deviation = Column(Text)
+    special_ammo = Column(Text)
     normal1_clip = Column(Integer)
     normal2_clip = Column(Integer)
     normal3_clip = Column(Integer)
