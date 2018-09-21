@@ -347,6 +347,7 @@ class Weapon(Base):
     element2 = Column(Text)
     element2_attack = Column(Integer)
     element_hidden = Column(Boolean)
+    elderseal = Column(Text)
 
     sharpness = Column(Text)
     sharpness_maxed = Column(Boolean)

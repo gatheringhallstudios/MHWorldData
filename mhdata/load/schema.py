@@ -198,6 +198,7 @@ class WeaponBaseSchema(BaseSchema):
     element2 = fields.Str(allow_none=True)
     element2_attack = fields.Int(allow_none=True)
     element_hidden = ExcelBool()
+    elderseal = ValidatedStr(None, 'low', 'average', 'high')
     slot_1 = fields.Int()
     slot_2 = fields.Int()
     slot_3 = fields.Int()

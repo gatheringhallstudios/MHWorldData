@@ -485,6 +485,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon.element2 = entry['element2']
         weapon.element2_attack = entry['element2_attack']
         weapon.element_hidden = entry['element_hidden']
+        weapon.elderseal = entry['elderseal']
 
         if entry.get('sharpness', None):
             weapon.sharpness = datafn.merge_sharpness(entry)

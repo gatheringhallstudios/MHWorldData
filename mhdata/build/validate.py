@@ -238,6 +238,17 @@ def validate_weapons(mhdata):
                 errors.append(f"Weapon {name} is missing ammo config")
             elif entry['ammo_config'] not in mhdata.weapon_ammo_map:
                 errors.append(f"Weapon {name} has invalid ammo config")
+        
+        if entry['element1'] and (entry['element1_attack'] or 0) == 0:
+            errors.append(f"Weapon {name} has an element but is missing an attack value")
+
+        # Test that dragon has elderseal and vice versa
+        has_elderseal = entry['elderseal'] is not None
+        is_dragon = entry['element1'] == 'Dragon' or entry['element2'] == 'Dragon'
+        if has_elderseal and not is_dragon:
+            errors.append(f"Weapon {name} has elderseal but no dragon element")
+        if is_dragon and not has_elderseal:
+            errors.append(f"Weapon {name} has a dragon element but no elderseal")
 
     return errors
 
