@@ -336,6 +336,7 @@ class Weapon(Base):
     rarity = Column(Integer)
     
     attack = Column(Integer)
+    attack_true = Column(Integer)
     affinity = Column(Integer)
     defense = Column(Integer)
     slot_1 = Column(Integer)

@@ -6,6 +6,8 @@ ground. Source_data is not actually user configurable.
 For customized data loading, use mhwdata.io directly.
 """
 
+from decimal import Decimal
+
 supported_ranks = ('LR', 'HR')
 
 "A mapping of all translations"
@@ -89,3 +91,22 @@ icon_colors = [
     "Pink", "Red", "DarkRed", "LightBeige", "Beige", "DarkBeige", "Yellow",
     "Gold", "DarkGreen", "DarkPurple"
 ]
+
+"""A mapping of weapon type -> weapon multiplier to calculate true attack
+These are decimal objects so that division can be exact"""
+weapon_multiplier = {
+    GREAT_SWORD: Decimal("4.8"),
+    LONG_SWORD: Decimal("3.3"),
+    SWORD_AND_SHEILD: Decimal("1.4"),
+    DUAL_BLADES: Decimal("1.4"),
+    HAMMER: Decimal("5.2"),
+    HUNTING_HORN: Decimal("4.2"),
+    LANCE: Decimal("2.3"),
+    GUNLANCE: Decimal("2.3"),
+    SWITCH_AXE: Decimal("3.5"),
+    CHARGE_BLADE: Decimal("3.6"),
+    INSECT_GLAIVE: Decimal("3.1"),
+    LIGHT_BOWGUN: Decimal("1.3"),
+    HEAVY_BOWGUN: Decimal("1.5"),
+    BOW: Decimal("1.2")
+}

@@ -250,6 +250,10 @@ def validate_weapons(mhdata):
         if is_dragon and not has_elderseal:
             errors.append(f"Weapon {name} has a dragon element but no elderseal")
 
+        true_attack = entry['attack'] / cfg.weapon_multiplier[weapon_type]
+        if int(true_attack) != true_attack:
+            print(f"WARNING: Weapon {name} has a suspicious true attack value {true_attack}")
+
     return errors
 
 def validate_charms(mhdata):

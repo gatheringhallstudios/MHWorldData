@@ -435,7 +435,7 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 426,Xeno Maph'agarna,,hammer,Blacksteel Hammer II,8,884,15,,FALSE,Dragon,180,,,low,0,0,2,,,,,,,
 427,Jail Hammer,,hammer,,6,832,0,20,FALSE,Paralysis,180,,,,0,1,0,,,,,,,
 428,Binder Mace,,hammer,Jail Hammer,8,936,0,20,FALSE,Paralysis,210,,,,0,0,1,,,,,,,
-1158,Devil's Due,,hammer,,6,1087,-30,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
+1158,Devil's Due,,hammer,,6,1092,-30,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1159,Devil's Crush,,hammer,Devil's Due,7,1196,-30,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
 429,Metal Bagpipe I,,hunting-horn,,1,336,0,,FALSE,,,,,,0,0,0,,,,,,WRB,
 430,Metal Bagpipe II,,hunting-horn,Metal Bagpipe I,1,378,0,,FALSE,,,,,,0,0,0,,,,,,WRB,
@@ -609,7 +609,7 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 596,Babel Spear,,lance,,6,414,0,20,TRUE,Fire,270,,,,0,1,0,,,,,,,
 597,Elder Babel Spear,,lance,Babel Spear,8,460,0,20,TRUE,Fire,330,,,,0,0,1,,,,,,,
 1162,Grief Lance,,lance,,6,483,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
-1163,Fiendish Tower,,lance,Grief Lance,7,579,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+1163,Fiendish Tower,,lance,Grief Lance,7,529,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
 598,Iron Gunlance I,,gunlance,,1,184,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
 599,Iron Gunlance II,,gunlance,Iron Gunlance I,1,207,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
 600,Iron Gunlance III,,gunlance,Iron Gunlance II,2,230,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
@@ -690,7 +690,7 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 675,Daora's Brigia,,gunlance,Icesteel Gunlance,8,414,10,,FALSE,Ice,240,,,,0,0,1,,,,long,3,,
 676,Xeno Hemta,,gunlance,Blacksteel Gunlance II,8,391,15,,FALSE,Dragon,180,,,low,0,0,2,,,,long,3,,
 1164,Ravenous Gunlance,,gunlance,,6,483,-30,,FALSE,Dragon,180,,,high,0,0,0,,,,long,3,,
-1165,Insatiable Gunlance,,gunlance,Ravenous Gunlance,7,579,-30,,FALSE,Dragon,240,,,high,0,0,0,,,,long,3,,
+1165,Insatiable Gunlance,,gunlance,Ravenous Gunlance,7,529,-30,,FALSE,Dragon,240,,,high,0,0,0,,,,long,3,,
 677,Proto Iron Axe I,,switch-axe,,1,280,0,,FALSE,,,,,,0,0,0,,power,,,,,
 678,Proto Iron Axe II,,switch-axe,Proto Iron Axe I,1,315,0,,FALSE,,,,,,0,0,0,,power,,,,,
 679,Proto Iron Axe III,,switch-axe,Proto Iron Axe II,2,350,0,,FALSE,,,,,,0,0,0,,power,,,,,
@@ -848,7 +848,7 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 829,Daora's Thwartoise,,charge-blade,Daora's Casca,8,648,15,,FALSE,Ice,180,,,,1,1,0,,impact,,,,,
 830,Xeno Ra'atz,,charge-blade,Blacksteel Charger II,8,648,15,,FALSE,Dragon,180,,,low,0,0,2,,impact,,,,,
 1168,Tyrant's Charge Blade,,charge-blade,,6,720,-25,,FALSE,Dragon,150,,,high,0,0,0,,power element,,,,,
-1169,Oppressor's Charge Blade,,charge-blade,Tyrant's Charge Blade,7,787,-25,,FALSE,Dragon,210,,,high,0,0,0,,power element,,,,,
+1169,Oppressor's Charge Blade,,charge-blade,Tyrant's Charge Blade,7,792,-25,,FALSE,Dragon,210,,,high,0,0,0,,power element,,,,,
 831,Iron Blade I,,insect-glaive,,1,248,0,,FALSE,,,,,,0,0,0,sever,,,,,,
 832,Iron Blade II,,insect-glaive,Iron Blade I,1,279,0,,FALSE,,,,,,0,0,0,sever,,,,,,
 833,Iron Blade III,,insect-glaive,Iron Blade II,2,310,0,,FALSE,,,,,,0,0,0,sever,,,,,,
@@ -1017,7 +1017,7 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 994,Cross Bowgun,,light-bowgun,,6,234,0,20,FALSE,,,,,,0,1,0,,,,,,,LBG Workshop 2
 995,Great Bowgun,,light-bowgun,Cross Bowgun,8,260,0,20,FALSE,,,,,,0,0,1,,,,,,,LBG Workshop 2
 1181,Devil's Grin,,light-bowgun,,6,273,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
-1182,Devil's Madness,,light-bowgun,Devil's Grin,7,289,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
+1182,Devil's Madness,,light-bowgun,Devil's Grin,7,299,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
 996,Iron Assault I,,heavy-bowgun,,1,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
 997,Iron Assault II,,heavy-bowgun,Iron Assault I,1,165,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
 998,Iron Assault III,,heavy-bowgun,Iron Assault II,2,180,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
@@ -1174,5 +1174,5 @@ id,name_en,name_ja,weapon_type,previous_en,rarity,attack,affinity,defense,elemen
 1147,Xeno Metora,,bow,Blacksteel Bow II,8,204,15,,FALSE,Dragon,180,,,low,0,0,2,,,,,,,
 1148,Cross Hunter's Bow,,bow,,6,216,0,20,FALSE,Blast,120,,,,0,0,1,,,,,,,
 1149,Great Hunter's Bow,,bow,Cross Hunter's Bow,8,228,0,20,FALSE,Blast,150,,,,0,0,1,,,,,,,
-1185,Insurgent's Bow,,bow,,6,257,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
+1185,Insurgent's Bow,,bow,,6,252,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1186,Villainous Brace,,bow,Insurgent's Bow,7,276,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,

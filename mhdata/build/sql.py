@@ -463,6 +463,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
     # now iterate over actual weapons
     for weapon_id, entry in weapon_map.items():
         weapon = db.Weapon(id = weapon_id)
+        weapon_type = entry['weapon_type']
         
         # Add language translations
         for language in cfg.supported_languages:
@@ -471,9 +472,11 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
                 name = entry.name(language)
             ))
 
-        weapon.weapon_type = entry['weapon_type']
+
+        weapon.weapon_type = weapon_type
         weapon.rarity = entry['rarity']
         weapon.attack = entry['attack']
+        weapon.attack_true = int(entry['attack'] / cfg.weapon_multiplier[weapon_type])
         weapon.affinity = entry['affinity']
         weapon.defense = entry['defense'] or 0
         weapon.slot_1 = entry['slot_1']
