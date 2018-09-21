@@ -46,6 +46,12 @@ def merge_weapons():
         inc_kinsect = weapon_inc['attributes'].get('boostType', None)
         inc_affinity = weapon_inc['attributes'].get('affinity', 0)
 
+        # Ensure minimum of 3 slots (avoid out of bounds)
+        weapon_inc['slots'] += [{'rank':0}] * 3
+        inc_slot1 = weapon_inc['slots'][0]['rank']
+        inc_slot2 = weapon_inc['slots'][1]['rank']
+        inc_slot3 = weapon_inc['slots'][2]['rank']
+
         # If there are two values and the second is a number, populate the phial power
         if inc_phial and ' ' in inc_phial:
             values = inc_phial.split(' ')
@@ -78,19 +84,28 @@ def merge_weapons():
         if existing['shelling_level'] and existing['shelling_level'] != inc_shelling_level:
             mismatches_other.append(f"Warning: {inc_label} has mismatching shell level")
 
+        def copy_maybe(field_name, value):
+            "Inner function to copy a value if no value exists and there is a new val"
+            if not existing[field_name] and value:
+                existing[field_name] = value
+
+        def copy_with_warning(field_name, value):
+            if existing[field_name] != value:
+                print(f"OVERRIDING: {inc_label} will get new {field_name}")
+                existing[field_name] = value
+
         # Copy over new base data if there are new fields
-        if not existing['kinsect_bonus'] and inc_kinsect:
-            existing['kinsect_bonus'] = inc_kinsect
-        if not existing['phial'] and inc_phial:
-            existing['phial'] = inc_phial
-        if not existing['phial_power'] and inc_phial_power:
-            existing['phial_power'] = inc_phial_power
-        if not existing['shelling'] and inc_shelling_type:
-            existing['shelling'] = inc_shelling_type
-        if not existing['shelling_level'] and inc_shelling_level:
-            existing['shelling_level'] = inc_shelling_level
-        if not existing['affinity']:
-            existing['affinity'] = inc_affinity
+        copy_maybe('kinsect_bonus', inc_kinsect)
+        copy_maybe('phial', inc_phial)
+        copy_maybe('phial_power', inc_phial_power)
+        copy_maybe('shelling', inc_shelling_type)
+        copy_maybe('shelling_level', inc_shelling_level)
+        copy_maybe('affinity', inc_affinity)
+
+        # Copy over with warning. TODO: Add arg to require opt in to overwrite slots
+        copy_with_warning('slot_1', inc_slot1)
+        copy_with_warning('slot_2', inc_slot2)
+        copy_with_warning('slot_3', inc_slot3)
 
         # Add sharpness data for anything that's missing sharpness data
         if 'durability' in weapon_inc and not existing.get('sharpness', None):
