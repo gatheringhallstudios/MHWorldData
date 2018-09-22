@@ -390,36 +390,97 @@ class WeaponAmmo(Base):
     id = Column(Integer, primary_key=True)
     deviation = Column(Text)
     special_ammo = Column(Text)
+    
     normal1_clip = Column(Integer)
+    normal1_rapid = Column(Boolean)
+    
     normal2_clip = Column(Integer)
+    normal2_rapid = Column(Boolean)
+
     normal3_clip = Column(Integer)
+    normal3_rapid = Column(Boolean)
+    
     pierce1_clip = Column(Integer)
+    pierce1_rapid = Column(Boolean)
+
     pierce2_clip = Column(Integer)
+    pierce2_rapid = Column(Boolean)
+
     pierce3_clip = Column(Integer)
+    pierce3_rapid = Column(Boolean)
+    
     spread1_clip = Column(Integer)
+    spread1_rapid = Column(Boolean)
+
     spread2_clip = Column(Integer)
+    spread2_rapid = Column(Boolean)
+
     spread3_clip = Column(Integer)
+    spread3_rapid = Column(Boolean)
+    
     sticky1_clip = Column(Integer)
+    sticky1_rapid = Column(Boolean)
+
     sticky2_clip = Column(Integer)
+    sticky2_rapid = Column(Boolean)
+
     sticky3_clip = Column(Integer)
+    sticky3_rapid = Column(Boolean)
+    
     cluster1_clip = Column(Integer)
+    cluster1_rapid = Column(Boolean)
+
     cluster2_clip = Column(Integer)
+    cluster2_rapid = Column(Boolean)
+    
     cluster3_clip = Column(Integer)
+    cluster3_rapid = Column(Boolean)
+    
     recover1_clip = Column(Integer)
+    recover1_rapid = Column(Boolean)
+
     recover2_clip = Column(Integer)
+    recover2_rapid = Column(Boolean)
+    
     poison1_clip = Column(Integer)
+    poison1_rapid = Column(Boolean)
+
     poison2_clip = Column(Integer)
+    poison2_rapid = Column(Boolean)
+    
     paralysis1_clip = Column(Integer)
+    paralysis1_rapid = Column(Boolean)
+
     paralysis2_clip = Column(Integer)
+    paralysis2_rapid = Column(Boolean)
+    
     sleep1_clip = Column(Integer)
+    sleep1_rapid = Column(Boolean)
+
     sleep2_clip = Column(Integer)
+    sleep2_rapid = Column(Boolean)
+    
     exhaust1_clip = Column(Integer)
+    exhaust1_rapid = Column(Boolean)
+
     exhaust2_clip = Column(Integer)
+    exhaust2_rapid = Column(Boolean)
+
     flaming_clip = Column(Integer)
+    flaming_rapid = Column(Boolean)
+
     water_clip = Column(Integer)
+    water_rapid = Column(Boolean)
+    
     freeze_clip = Column(Integer)
+    freeze_rapid = Column(Boolean)
+
     thunder_clip = Column(Integer)
+    thunder_rapid = Column(Boolean)
+    
     dragon_clip = Column(Integer)
+    dragon_rapid = Column(Boolean)
+    
     slicing_clip = Column(Integer)
     wyvern_clip = Column(Integer)
     demon_clip = Column(Integer)

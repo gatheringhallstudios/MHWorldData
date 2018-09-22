@@ -410,36 +410,43 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             deviation=entry['deviation'],
             special_ammo=entry['special']
         )
-        ammo.normal1_clip = entry['normal1']['clip']
-        ammo.normal2_clip = entry['normal2']['clip']
-        ammo.normal3_clip = entry['normal3']['clip']
-        ammo.pierce1_clip = entry['pierce1']['clip']
-        ammo.pierce2_clip = entry['pierce2']['clip']
-        ammo.pierce3_clip = entry['pierce3']['clip']
-        ammo.spread1_clip = entry['spread1']['clip']
-        ammo.spread2_clip = entry['spread2']['clip']
-        ammo.spread3_clip = entry['spread3']['clip']
-        ammo.sticky1_clip = entry['sticky1']['clip']
-        ammo.sticky2_clip = entry['sticky2']['clip']
-        ammo.sticky3_clip = entry['sticky3']['clip']
-        ammo.cluster1_clip = entry['cluster1']['clip']
-        ammo.cluster2_clip = entry['cluster2']['clip']
-        ammo.cluster3_clip = entry['cluster3']['clip']
-        ammo.recover1_clip = entry['recover1']['clip']
-        ammo.recover2_clip = entry['recover2']['clip']
-        ammo.poison1_clip = entry['poison1']['clip']
-        ammo.poison2_clip = entry['poison2']['clip']
-        ammo.paralysis1_clip = entry['paralysis1']['clip']
-        ammo.paralysis2_clip = entry['paralysis2']['clip']
-        ammo.sleep1_clip = entry['sleep1']['clip']
-        ammo.sleep2_clip = entry['sleep2']['clip']
-        ammo.exhaust1_clip = entry['exhaust1']['clip']
-        ammo.exhaust2_clip = entry['exhaust2']['clip']
-        ammo.flaming_clip = entry['flaming']['clip']
-        ammo.water_clip = entry['water']['clip']
-        ammo.freeze_clip = entry['freeze']['clip']
-        ammo.thunder_clip = entry['thunder']['clip']
-        ammo.dragon_clip = entry['dragon']['clip']
+
+        # helper to assign the entirety of a group to the db
+        def assign_group(ammotype):
+            group = entry[ammotype]
+            setattr(ammo, ammotype + "_clip", group['clip'])
+            setattr(ammo, ammotype + "_rapid", group['rapid'])
+
+        assign_group('normal1')
+        assign_group('normal2')
+        assign_group('normal3')
+        assign_group('pierce1')
+        assign_group('pierce2')
+        assign_group('pierce3')
+        assign_group('spread1')
+        assign_group('spread2')
+        assign_group('spread3')
+        assign_group('sticky1')
+        assign_group('sticky2')
+        assign_group('sticky3')
+        assign_group('cluster1')
+        assign_group('cluster2')
+        assign_group('recover1')
+        assign_group('recover2')
+        assign_group('poison1')
+        assign_group('poison2')
+        assign_group('paralysis1')
+        assign_group('paralysis2')
+        assign_group('sleep1')
+        assign_group('sleep2')
+        assign_group('exhaust1')
+        assign_group('exhaust2')
+        assign_group('flaming')
+        assign_group('water')
+        assign_group('freeze')
+        assign_group('thunder')
+        assign_group('dragon')
+
         ammo.slicing_clip = entry['slicing']['clip']
         ammo.wyvern_clip = entry['wyvern']['clip']
         ammo.demon_clip = entry['demon']['clip']

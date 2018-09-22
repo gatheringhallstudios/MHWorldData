@@ -254,6 +254,7 @@ class WeaponBowSchema(BaseSchema):
 
 class AmmoGroupSchema(BaseSchema):
     clip = fields.Int()
+    rapid = ExcelBool(null_is_false=True, missing=False)
 
 def AmmoGroup():
     return NestedPrefix("AmmoGroupSchema")
