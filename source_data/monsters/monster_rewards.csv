@@ -166,28 +166,20 @@ Barnos,Quest Reward (Bronze),LR,Monster Bone S,2,15
 Barnos,Quest Reward (Bronze),LR,Sturdy Bone,1,15
 Great Jagras,Track,LR,Great Jagras Scale,1,100
 Great Jagras,Track,HR,Great Jagras Scale+,1,100
-Great Jagras,Body Carve,LR,Great Jagras Scale,1,36
-Great Jagras,Body Carve,LR,Great Jagras Hide,1,28
-Great Jagras,Body Carve,LR,Great Jagras Claw,1,21
-Great Jagras,Body Carve,LR,Great Jagras Mane,1,15
-Great Jagras,Body Carve,HR,Great Jagras Scale+,1,36
-Great Jagras,Body Carve,HR,Great Jagras Hide+,1,28
-Great Jagras,Body Carve,HR,Great Jagras Claw+,1,21
-Great Jagras,Body Carve,HR,Great Jagras Mane,1,15
+Great Jagras,Carve / Capture,LR,Great Jagras Scale,1,36
+Great Jagras,Carve / Capture,LR,Great Jagras Hide,1,28
+Great Jagras,Carve / Capture,LR,Great Jagras Claw,1,21
+Great Jagras,Carve / Capture,LR,Great Jagras Mane,1,15
+Great Jagras,Carve / Capture,HR,Great Jagras Scale+,1,36
+Great Jagras,Carve / Capture,HR,Great Jagras Hide+,1,28
+Great Jagras,Carve / Capture,HR,Great Jagras Claw+,1,21
+Great Jagras,Carve / Capture,HR,Great Jagras Mane,1,15
 Great Jagras,Shiny Drop,LR,Great Jagras Scale,1,50
 Great Jagras,Shiny Drop,LR,Great Jagras Hide,1,28
 Great Jagras,Shiny Drop,LR,Wyvern Tear,1,22
 Great Jagras,Shiny Drop,HR,Great Jagras Scale+,1,50
 Great Jagras,Shiny Drop,HR,Great Jagras Claw+,1,28
 Great Jagras,Shiny Drop,HR,Wyvern Tear,1,22
-Great Jagras,Capture,LR,Great Jagras Scale,1,36
-Great Jagras,Capture,LR,Great Jagras Hide,1,28
-Great Jagras,Capture,LR,Great Jagras Claw,1,21
-Great Jagras,Capture,LR,Great Jagras Mane,1,15
-Great Jagras,Capture,HR,Great Jagras Scale+,1,36
-Great Jagras,Capture,HR,Great Jagras Hide+,1,28
-Great Jagras,Capture,HR,Great Jagras Claw+,1,21
-Great Jagras,Capture,HR,Great Jagras Mane,1,15
 Great Jagras,Quest Reward (Bronze),LR,Great Jagras Hide,1,100
 Great Jagras,Quest Reward (Bronze),LR,Great Jagras Hide,1,32
 Great Jagras,Quest Reward (Bronze),LR,Great Jagras Scale,1,23
@@ -238,30 +230,21 @@ Great Jagras,Wound Belly,LR,Great Jagras Hide,2,100
 Great Jagras,Wound Belly,HR,Great Jagras Hide+,2,100
 Kulu-Ya-Ku,Track,LR,Kulu-Ya-Ku Scale,1,100
 Kulu-Ya-Ku,Track,HR,Kulu-Ya-Ku Scale+,1,100
-Kulu-Ya-Ku,Body Carve,LR,Kulu-Ya-Ku Scale,1,36
-Kulu-Ya-Ku,Body Carve,LR,Kulu-Ya-Ku Hide,1,28
-Kulu-Ya-Ku,Body Carve,LR,Kulu-Ya-Ku Beak,1,21
-Kulu-Ya-Ku,Body Carve,LR,Kulu-Ya-Ku Plume,1,15
-Kulu-Ya-Ku,Body Carve,HR,Kulu-Ya-Ku Scale+,1,34
-Kulu-Ya-Ku,Body Carve,HR,Kulu-Ya-Ku Hide+,1,27
-Kulu-Ya-Ku,Body Carve,HR,Kulu-Ya-Ku Beak+,1,20
-Kulu-Ya-Ku,Body Carve,HR,Kulu-Ya-Ku Plume+,1,14
-Kulu-Ya-Ku,Body Carve,HR,Bird Wyvern Gem,1,5
+Kulu-Ya-Ku,Carve / Capture,LR,Kulu-Ya-Ku Scale,1,36
+Kulu-Ya-Ku,Carve / Capture,LR,Kulu-Ya-Ku Hide,1,28
+Kulu-Ya-Ku,Carve / Capture,LR,Kulu-Ya-Ku Beak,1,21
+Kulu-Ya-Ku,Carve / Capture,LR,Kulu-Ya-Ku Plume,1,15
+Kulu-Ya-Ku,Carve / Capture,HR,Kulu-Ya-Ku Scale+,1,34
+Kulu-Ya-Ku,Carve / Capture,HR,Kulu-Ya-Ku Hide+,1,27
+Kulu-Ya-Ku,Carve / Capture,HR,Kulu-Ya-Ku Beak+,1,20
+Kulu-Ya-Ku,Carve / Capture,HR,Kulu-Ya-Ku Plume+,1,14
+Kulu-Ya-Ku,Carve / Capture,HR,Bird Wyvern Gem,1,5
 Kulu-Ya-Ku,Shiny Drop,LR,Kulu-Ya-Ku Scale,1,50
 Kulu-Ya-Ku,Shiny Drop,LR,Kulu-Ya-Ku Plume,1,28
 Kulu-Ya-Ku,Shiny Drop,LR,Wyvern Tear,1,22
 Kulu-Ya-Ku,Shiny Drop,HR,Kulu-Ya-Ku Scale+,1,50
 Kulu-Ya-Ku,Shiny Drop,HR,Kulu-Ya-Ku Plume+,1,28
 Kulu-Ya-Ku,Shiny Drop,HR,Wyvern Tear,1,22
-Kulu-Ya-Ku,Capture,LR,Kulu-Ya-Ku Scale,1,36
-Kulu-Ya-Ku,Capture,LR,Kulu-Ya-Ku Hide,1,28
-Kulu-Ya-Ku,Capture,LR,Kulu-Ya-Ku Beak,1,21
-Kulu-Ya-Ku,Capture,LR,Kulu-Ya-Ku Plume,1,15
-Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Scale+,1,34
-Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Hide+,1,27
-Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Beak+,1,20
-Kulu-Ya-Ku,Capture,HR,Kulu-Ya-Ku Plume+,1,14
-Kulu-Ya-Ku,Capture,HR,Bird Wyvern Gem,1,5
 Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Scale,1,100
 Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Hide,1,32
 Kulu-Ya-Ku,Quest Reward (Bronze),LR,Kulu-Ya-Ku Scale,1,23
@@ -312,17 +295,17 @@ Kulu-Ya-Ku,Wound Forearms,LR,Kulu-Ya-Ku Plume,1,100
 Kulu-Ya-Ku,Wound Forearms,HR,Kulu-Ya-Ku Plume+,1,100
 Pukei-Pukei,Track,LR,Pukei-Pukei Scale,1,100
 Pukei-Pukei,Track,HR,Pukei-Pukei Scale+,1,100
-Pukei-Pukei,Body Carve,LR,Pukei-Pukei Scale,1,31
-Pukei-Pukei,Body Carve,LR,Pukei-Pukei Shell,1,24
-Pukei-Pukei,Body Carve,LR,Pukei-Pukei Quill,1,18
-Pukei-Pukei,Body Carve,LR,Pukei-Pukei Sac,1,15
-Pukei-Pukei,Body Carve,LR,Pukei-Pukei Tail,1,12
-Pukei-Pukei,Body Carve,HR,Pukei-Pukei Scale+,1,29
-Pukei-Pukei,Body Carve,HR,Pukei-Pukei Carapace,1,22
-Pukei-Pukei,Body Carve,HR,Pukei-Pukei Wing,1,18
-Pukei-Pukei,Body Carve,HR,Pukei-Pukei Sac+,1,14
-Pukei-Pukei,Body Carve,HR,Pukei-Pukei Tail,1,12
-Pukei-Pukei,Body Carve,HR,Bird Wyvern Gem,1,5
+Pukei-Pukei,Carve / Capture,LR,Pukei-Pukei Scale,1,31
+Pukei-Pukei,Carve / Capture,LR,Pukei-Pukei Shell,1,24
+Pukei-Pukei,Carve / Capture,LR,Pukei-Pukei Quill,1,18
+Pukei-Pukei,Carve / Capture,LR,Pukei-Pukei Sac,1,15
+Pukei-Pukei,Carve / Capture,LR,Pukei-Pukei Tail,1,12
+Pukei-Pukei,Carve / Capture,HR,Pukei-Pukei Scale+,1,29
+Pukei-Pukei,Carve / Capture,HR,Pukei-Pukei Carapace,1,22
+Pukei-Pukei,Carve / Capture,HR,Pukei-Pukei Wing,1,18
+Pukei-Pukei,Carve / Capture,HR,Pukei-Pukei Sac+,1,14
+Pukei-Pukei,Carve / Capture,HR,Pukei-Pukei Tail,1,12
+Pukei-Pukei,Carve / Capture,HR,Bird Wyvern Gem,1,5
 Pukei-Pukei,Shiny Drop,LR,Pukei-Pukei Scale,1,50
 Pukei-Pukei,Shiny Drop,LR,Pukei-Pukei Quill,1,28
 Pukei-Pukei,Shiny Drop,LR,Wyvern Tear,1,22
@@ -333,17 +316,6 @@ Pukei-Pukei,Tail Carve,LR,Pukei-Pukei Tail,1,80
 Pukei-Pukei,Tail Carve,LR,Pukei-Pukei Shell,1,20
 Pukei-Pukei,Tail Carve,HR,Pukei-Pukei Tail,1,80
 Pukei-Pukei,Tail Carve,HR,Pukei-Pukei Scale+,1,20
-Pukei-Pukei,Capture,LR,Pukei-Pukei Scale,1,31
-Pukei-Pukei,Capture,LR,Pukei-Pukei Shell,1,24
-Pukei-Pukei,Capture,LR,Pukei-Pukei Quill,1,18
-Pukei-Pukei,Capture,LR,Pukei-Pukei Sac,1,15
-Pukei-Pukei,Capture,LR,Pukei-Pukei Tail,1,12
-Pukei-Pukei,Capture,HR,Pukei-Pukei Scale+,1,29
-Pukei-Pukei,Capture,HR,Pukei-Pukei Carapace,1,22
-Pukei-Pukei,Capture,HR,Pukei-Pukei Wing,1,18
-Pukei-Pukei,Capture,HR,Pukei-Pukei Sac+,1,14
-Pukei-Pukei,Capture,HR,Pukei-Pukei Tail,1,12
-Pukei-Pukei,Capture,HR,Bird Wyvern Gem,1,5
 Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Scale,1,100
 Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Shell,1,24
 Pukei-Pukei,Quest Reward (Bronze),LR,Pukei-Pukei Scale,1,22
@@ -408,17 +380,17 @@ Pukei-Pukei,Wound Back,HR,Pukei-Pukei Carapace,1,80
 Pukei-Pukei,Wound Back,HR,Pukei-Pukei Scale+,1,20
 Barroth,Track,LR,Barroth Shell,1,100
 Barroth,Track,HR,Barroth Carapace,1,100
-Barroth,Body Carve,LR,Barroth Shell,1,31
-Barroth,Body Carve,LR,Barroth Ridge,1,24
-Barroth,Body Carve,LR,Barroth Claw,1,18
-Barroth,Body Carve,LR,Barroth Scalp,1,15
-Barroth,Body Carve,LR,Barroth Tail,1,12
-Barroth,Body Carve,HR,Barroth Carapace,1,30
-Barroth,Body Carve,HR,Barroth Ridge+,1,24
-Barroth,Body Carve,HR,Barroth Claw+,1,18
-Barroth,Body Carve,HR,Barroth Scalp,1,15
-Barroth,Body Carve,HR,Barroth Tail,1,11
-Barroth,Body Carve,HR,Wyvern Gem,1,2
+Barroth,Carve / Capture,LR,Barroth Shell,1,31
+Barroth,Carve / Capture,LR,Barroth Ridge,1,24
+Barroth,Carve / Capture,LR,Barroth Claw,1,18
+Barroth,Carve / Capture,LR,Barroth Scalp,1,15
+Barroth,Carve / Capture,LR,Barroth Tail,1,12
+Barroth,Carve / Capture,HR,Barroth Carapace,1,30
+Barroth,Carve / Capture,HR,Barroth Ridge+,1,24
+Barroth,Carve / Capture,HR,Barroth Claw+,1,18
+Barroth,Carve / Capture,HR,Barroth Scalp,1,15
+Barroth,Carve / Capture,HR,Barroth Tail,1,11
+Barroth,Carve / Capture,HR,Wyvern Gem,1,2
 Barroth,Shiny Drop,LR,Fertile Mud,1,50
 Barroth,Shiny Drop,LR,Barroth Shell,1,28
 Barroth,Shiny Drop,LR,Wyvern Tear,1,22
@@ -433,17 +405,6 @@ Barroth,Head Shell Carve,LR,Barroth Scalp,1,80
 Barroth,Head Shell Carve,LR,Barroth Ridge,1,20
 Barroth,Head Shell Carve,HR,Barroth Scalp,1,80
 Barroth,Head Shell Carve,HR,Barroth Ridge+,1,20
-Barroth,Capture,LR,Barroth Shell,1,31
-Barroth,Capture,LR,Barroth Ridge,1,24
-Barroth,Capture,LR,Barroth Claw,1,18
-Barroth,Capture,LR,Barroth Scalp,1,15
-Barroth,Capture,LR,Barroth Tail,1,12
-Barroth,Capture,HR,Barroth Carapace,1,30
-Barroth,Capture,HR,Barroth Ridge+,1,24
-Barroth,Capture,HR,Barroth Claw+,1,18
-Barroth,Capture,HR,Barroth Scalp,1,15
-Barroth,Capture,HR,Barroth Tail,1,11
-Barroth,Capture,HR,Wyvern Gem,1,2
 Barroth,Quest Reward (Bronze),LR,Barroth Shell,1,100
 Barroth,Quest Reward (Bronze),LR,Barroth Ridge,1,26
 Barroth,Quest Reward (Bronze),LR,Barroth Shell,1,20
@@ -503,30 +464,21 @@ Barroth,Wound Hindlegs,LR,Barroth Shell,2,100
 Barroth,Wound Hindlegs,HR,Barroth Carapace,2,100
 Jyuratodus,Track,LR,Jyuratodus Scale,1,100
 Jyuratodus,Track,HR,Jyuratodus Scale+,1,100
-Jyuratodus,Body Carve,LR,Jyuratodus Scale,1,36
-Jyuratodus,Body Carve,LR,Jyuratodus Shell,1,28
-Jyuratodus,Body Carve,LR,Jyuratodus Fin,1,21
-Jyuratodus,Body Carve,LR,Jyuratodus Fang,1,15
-Jyuratodus,Body Carve,HR,Jyuratodus Scale+,1,36
-Jyuratodus,Body Carve,HR,Jyuratodus Carapace,1,27
-Jyuratodus,Body Carve,HR,Jyuratodus Fin+,1,20
-Jyuratodus,Body Carve,HR,Jyuratodus Fang+,1,15
-Jyuratodus,Body Carve,HR,Wyvern Gem,1,2
+Jyuratodus,Carve / Capture,LR,Jyuratodus Scale,1,36
+Jyuratodus,Carve / Capture,LR,Jyuratodus Shell,1,28
+Jyuratodus,Carve / Capture,LR,Jyuratodus Fin,1,21
+Jyuratodus,Carve / Capture,LR,Jyuratodus Fang,1,15
+Jyuratodus,Carve / Capture,HR,Jyuratodus Scale+,1,36
+Jyuratodus,Carve / Capture,HR,Jyuratodus Carapace,1,27
+Jyuratodus,Carve / Capture,HR,Jyuratodus Fin+,1,20
+Jyuratodus,Carve / Capture,HR,Jyuratodus Fang+,1,15
+Jyuratodus,Carve / Capture,HR,Wyvern Gem,1,2
 Jyuratodus,Shiny Drop,LR,Jyuratodus Scale,1,50
 Jyuratodus,Shiny Drop,LR,Jyuratodus Fin,1,28
 Jyuratodus,Shiny Drop,LR,Wyvern Tear,1,22
 Jyuratodus,Shiny Drop,HR,Jyuratodus Scale+,1,50
 Jyuratodus,Shiny Drop,HR,Jyuratodus Fin+,1,28
 Jyuratodus,Shiny Drop,HR,Wyvern Tear,1,22
-Jyuratodus,Capture,LR,Jyuratodus Scale,1,36
-Jyuratodus,Capture,LR,Jyuratodus Shell,1,28
-Jyuratodus,Capture,LR,Jyuratodus Fin,1,21
-Jyuratodus,Capture,LR,Jyuratodus Fang,1,15
-Jyuratodus,Capture,HR,Jyuratodus Scale+,1,36
-Jyuratodus,Capture,HR,Jyuratodus Carapace,1,27
-Jyuratodus,Capture,HR,Jyuratodus Fin+,1,20
-Jyuratodus,Capture,HR,Jyuratodus Fang+,1,15
-Jyuratodus,Capture,HR,Wyvern Gem,1,2
 Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Scale,1,100
 Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Shell,1,27
 Jyuratodus,Quest Reward (Bronze),LR,Jyuratodus Scale,1,21
@@ -583,34 +535,23 @@ Jyuratodus,Wound Back,LR,Jyuratodus Fin,1,100
 Jyuratodus,Wound Back,HR,Jyuratodus Fin+,1,100
 Tobi-Kadachi,Track,LR,Tobi-Kadachi Scale,1,100
 Tobi-Kadachi,Track,HR,Tobi-Kadachi Scale+,1,100
-Tobi-Kadachi,Body Carve,LR,Tobi-Kadachi Scale,1,31
-Tobi-Kadachi,Body Carve,LR,Tobi-Kadachi Pelt,1,24
-Tobi-Kadachi,Body Carve,LR,Tobi-Kadachi Membrane,1,23
-Tobi-Kadachi,Body Carve,LR,Tobi-Kadachi Electrode,1,12
-Tobi-Kadachi,Body Carve,LR,Tobi-Kadachi Claw,1,10
-Tobi-Kadachi,Body Carve,HR,Tobi-Kadachi Scale+,1,30
-Tobi-Kadachi,Body Carve,HR,Tobi-Kadachi Pelt+,1,25
-Tobi-Kadachi,Body Carve,HR,Tobi-Kadachi Membrane,1,16
-Tobi-Kadachi,Body Carve,HR,Tobi-Kadachi Claw+,1,15
-Tobi-Kadachi,Body Carve,HR,Tobi-Kadachi Electrode+,1,12
-Tobi-Kadachi,Body Carve,HR,Wyvern Gem,1,2
+Tobi-Kadachi,Carve / Capture,LR,Tobi-Kadachi Scale,1,31
+Tobi-Kadachi,Carve / Capture,LR,Tobi-Kadachi Pelt,1,24
+Tobi-Kadachi,Carve / Capture,LR,Tobi-Kadachi Membrane,1,23
+Tobi-Kadachi,Carve / Capture,LR,Tobi-Kadachi Electrode,1,12
+Tobi-Kadachi,Carve / Capture,LR,Tobi-Kadachi Claw,1,10
+Tobi-Kadachi,Carve / Capture,HR,Tobi-Kadachi Scale+,1,30
+Tobi-Kadachi,Carve / Capture,HR,Tobi-Kadachi Pelt+,1,25
+Tobi-Kadachi,Carve / Capture,HR,Tobi-Kadachi Membrane,1,16
+Tobi-Kadachi,Carve / Capture,HR,Tobi-Kadachi Claw+,1,15
+Tobi-Kadachi,Carve / Capture,HR,Tobi-Kadachi Electrode+,1,12
+Tobi-Kadachi,Carve / Capture,HR,Wyvern Gem,1,2
 Tobi-Kadachi,Shiny Drop,LR,Tobi-Kadachi Scale,1,50
 Tobi-Kadachi,Shiny Drop,LR,Tobi-Kadachi Claw,1,28
 Tobi-Kadachi,Shiny Drop,LR,Wyvern Tear,1,22
 Tobi-Kadachi,Shiny Drop,HR,Tobi-Kadachi Scale+,1,50
 Tobi-Kadachi,Shiny Drop,HR,Tobi-Kadachi Claw+,1,28
 Tobi-Kadachi,Shiny Drop,HR,Wyvern Tear,1,22
-Tobi-Kadachi,Capture,LR,Tobi-Kadachi Scale,1,31
-Tobi-Kadachi,Capture,LR,Tobi-Kadachi Pelt,1,24
-Tobi-Kadachi,Capture,LR,Tobi-Kadachi Membrane,1,23
-Tobi-Kadachi,Capture,LR,Tobi-Kadachi Electrode,1,12
-Tobi-Kadachi,Capture,LR,Tobi-Kadachi Claw,1,10
-Tobi-Kadachi,Capture,HR,Tobi-Kadachi Scale+,1,30
-Tobi-Kadachi,Capture,HR,Tobi-Kadachi Pelt+,1,25
-Tobi-Kadachi,Capture,HR,Tobi-Kadachi Membrane,1,16
-Tobi-Kadachi,Capture,HR,Tobi-Kadachi Claw+,1,15
-Tobi-Kadachi,Capture,HR,Tobi-Kadachi Electrode+,1,12
-Tobi-Kadachi,Capture,HR,Wyvern Gem,1,2
 Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Scale,1,100
 Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Pelt,1,26
 Tobi-Kadachi,Quest Reward (Bronze),LR,Tobi-Kadachi Scale,1,20
@@ -703,17 +644,17 @@ Anjanath,Tail Carve,HR,Anjanath Tail,1,70
 Anjanath,Tail Carve,HR,Anjanath Scale+,1,20
 Anjanath,Tail Carve,HR,Anjanath Plate,1,7
 Anjanath,Tail Carve,HR,Anjanath Gem,1,3
-Anjanath,Capture,LR,Anjanath Pelt,1,35
-Anjanath,Capture,LR,Anjanath Scale,1,25
-Anjanath,Capture,LR,Anjanath Nosebone,1,20
-Anjanath,Capture,LR,Anjanath Fang,1,15
-Anjanath,Capture,LR,Anjanath Plate,1,5
-Anjanath,Capture,HR,Anjanath Scale+,1,34
-Anjanath,Capture,HR,Anjanath Pelt+,1,24
-Anjanath,Capture,HR,Anjanath Nosebone+,1,20
-Anjanath,Capture,HR,Anjanath Fang+,1,15
-Anjanath,Capture,HR,Anjanath Plate,1,5
-Anjanath,Capture,HR,Anjanath Gem,1,2
+Anjanath,Carve / Capture,LR,Anjanath Pelt,1,35
+Anjanath,Carve / Capture,LR,Anjanath Scale,1,25
+Anjanath,Carve / Capture,LR,Anjanath Nosebone,1,20
+Anjanath,Carve / Capture,LR,Anjanath Fang,1,15
+Anjanath,Carve / Capture,LR,Anjanath Plate,1,5
+Anjanath,Carve / Capture,HR,Anjanath Scale+,1,34
+Anjanath,Carve / Capture,HR,Anjanath Pelt+,1,24
+Anjanath,Carve / Capture,HR,Anjanath Nosebone+,1,20
+Anjanath,Carve / Capture,HR,Anjanath Fang+,1,15
+Anjanath,Carve / Capture,HR,Anjanath Plate,1,5
+Anjanath,Carve / Capture,HR,Anjanath Gem,1,2
 Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,100
 Anjanath,Quest Reward (Bronze),LR,Anjanath Pelt,1,27
 Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,21
@@ -782,18 +723,18 @@ Anjanath,Wound Hindlegs,LR,Anjanath Scale,2,100
 Anjanath,Wound Hindlegs,HR,Anjanath Scale+,2,100
 Rathian,Track,LR,Rathian Scale,1,100
 Rathian,Track,HR,Rathian Scale+,1,100
-Rathian,Body Carve,LR,Rathian Scale,1,35
-Rathian,Body Carve,LR,Rathian Shell,1,25
-Rathian,Body Carve,LR,Rathian Webbing,1,15
-Rathian,Body Carve,LR,Rath Wingtalon,1,12
-Rathian,Body Carve,LR,Rathian Spike,1,8
-Rathian,Body Carve,LR,Rathian Plate,1,5
-Rathian,Body Carve,HR,Rathian Scale+,1,34
-Rathian,Body Carve,HR,Rathian Carapace,1,24
-Rathian,Body Carve,HR,Rathian Webbing,1,20
-Rathian,Body Carve,HR,Rathian Spike+,1,16
-Rathian,Body Carve,HR,Rathian Plate,1,5
-Rathian,Body Carve,HR,Rathian Ruby,1,1
+Rathian,Carve / Capture,LR,Rathian Scale,1,35
+Rathian,Carve / Capture,LR,Rathian Shell,1,25
+Rathian,Carve / Capture,LR,Rathian Webbing,1,15
+Rathian,Carve / Capture,LR,Rath Wingtalon,1,12
+Rathian,Carve / Capture,LR,Rathian Spike,1,8
+Rathian,Carve / Capture,LR,Rathian Plate,1,5
+Rathian,Carve / Capture,HR,Rathian Scale+,1,34
+Rathian,Carve / Capture,HR,Rathian Carapace,1,24
+Rathian,Carve / Capture,HR,Rathian Webbing,1,20
+Rathian,Carve / Capture,HR,Rathian Spike+,1,16
+Rathian,Carve / Capture,HR,Rathian Plate,1,5
+Rathian,Carve / Capture,HR,Rathian Ruby,1,1
 Rathian,Shiny Drop,LR,Rathian Scale,1,50
 Rathian,Shiny Drop,LR,Rathian Shell,1,28
 Rathian,Shiny Drop,LR,Wyvern Tear,1,22
@@ -807,18 +748,6 @@ Rathian,Tail Carve,HR,Rathian Spike+,1,70
 Rathian,Tail Carve,HR,Rathian Scale+,1,21
 Rathian,Tail Carve,HR,Rathian Plate,1,7
 Rathian,Tail Carve,HR,Rathian Ruby,1,2
-Rathian,Capture,LR,Rathian Scale,1,35
-Rathian,Capture,LR,Rathian Shell,1,25
-Rathian,Capture,LR,Rathian Webbing,1,15
-Rathian,Capture,LR,Rath Wingtalon,1,12
-Rathian,Capture,LR,Rathian Spike,1,8
-Rathian,Capture,LR,Rathian Plate,1,5
-Rathian,Capture,HR,Rathian Scale+,1,34
-Rathian,Capture,HR,Rathian Carapace,1,24
-Rathian,Capture,HR,Rathian Webbing,1,20
-Rathian,Capture,HR,Rathian Spike+,1,16
-Rathian,Capture,HR,Rathian Plate,1,5
-Rathian,Capture,HR,Rathian Ruby,1,1
 Rathian,Quest Reward (Bronze),LR,Rathian Scale,1,100
 Rathian,Quest Reward (Bronze),LR,Rathian Shell,1,27
 Rathian,Quest Reward (Bronze),LR,Rathian Scale,1,21
@@ -895,30 +824,21 @@ Rathian,Wound Back,HR,Rathian Spike+,1,30
 Rathian,Wound Back,HR,Rathian Ruby,1,1
 Tzitzi-Ya-Ku,Track,LR,Tzitzi-Ya-Ku Scale,1,100
 Tzitzi-Ya-Ku,Track,HR,Tzitzi-Ya-Ku Scale+,1,100
-Tzitzi-Ya-Ku,Body Carve,LR,Tzitzi-Ya-Ku Scale,1,36
-Tzitzi-Ya-Ku,Body Carve,LR,Tzitzi-Ya-Ku Hide,1,28
-Tzitzi-Ya-Ku,Body Carve,LR,Tzitzi-Ya-Ku Photophore,1,21
-Tzitzi-Ya-Ku,Body Carve,LR,Tzitzi-Ya-Ku Claw,1,15
-Tzitzi-Ya-Ku,Body Carve,HR,Tzitzi-Ya-Ku Scale+,1,35
-Tzitzi-Ya-Ku,Body Carve,HR,Tzitzi-Ya-Ku Hide+,1,27
-Tzitzi-Ya-Ku,Body Carve,HR,Tzitzi-Ya-Ku Photophore+,1,20
-Tzitzi-Ya-Ku,Body Carve,HR,Tzitzi-Ya-Ku Claw+,1,14
-Tzitzi-Ya-Ku,Body Carve,HR,Bird Wyvern Gem,1,4
+Tzitzi-Ya-Ku,Carve / Capture,LR,Tzitzi-Ya-Ku Scale,1,36
+Tzitzi-Ya-Ku,Carve / Capture,LR,Tzitzi-Ya-Ku Hide,1,28
+Tzitzi-Ya-Ku,Carve / Capture,LR,Tzitzi-Ya-Ku Photophore,1,21
+Tzitzi-Ya-Ku,Carve / Capture,LR,Tzitzi-Ya-Ku Claw,1,15
+Tzitzi-Ya-Ku,Carve / Capture,HR,Tzitzi-Ya-Ku Scale+,1,35
+Tzitzi-Ya-Ku,Carve / Capture,HR,Tzitzi-Ya-Ku Hide+,1,27
+Tzitzi-Ya-Ku,Carve / Capture,HR,Tzitzi-Ya-Ku Photophore+,1,20
+Tzitzi-Ya-Ku,Carve / Capture,HR,Tzitzi-Ya-Ku Claw+,1,14
+Tzitzi-Ya-Ku,Carve / Capture,HR,Bird Wyvern Gem,1,4
 Tzitzi-Ya-Ku,Shiny Drop,LR,Tzitzi-Ya-Ku Scale,1,50
 Tzitzi-Ya-Ku,Shiny Drop,LR,Tzitzi-Ya-Ku Claw,1,28
 Tzitzi-Ya-Ku,Shiny Drop,LR,Wyvern Tear,1,22
 Tzitzi-Ya-Ku,Shiny Drop,HR,Tzitzi-Ya-Ku Scale,1,50
 Tzitzi-Ya-Ku,Shiny Drop,HR,Tzitzi-Ya-Ku Claw,1,28
 Tzitzi-Ya-Ku,Shiny Drop,HR,Wyvern Tear,1,22
-Tzitzi-Ya-Ku,Capture,LR,Tzitzi-Ya-Ku Scale,1,36
-Tzitzi-Ya-Ku,Capture,LR,Tzitzi-Ya-Ku Hide,1,28
-Tzitzi-Ya-Ku,Capture,LR,Tzitzi-Ya-Ku Photophore,1,21
-Tzitzi-Ya-Ku,Capture,LR,Tzitzi-Ya-Ku Claw,1,15
-Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Photophore+,1,20
-Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Scale+,1,35
-Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Hide+,1,27
-Tzitzi-Ya-Ku,Capture,HR,Tzitzi-Ya-Ku Claw+,1,14
-Tzitzi-Ya-Ku,Capture,HR,Bird Wyvern Gem,1,4
 Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Scale,1,100
 Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Hide,1,27
 Tzitzi-Ya-Ku,Quest Reward (Bronze),LR,Tzitzi-Ya-Ku Scale,1,21
@@ -973,30 +893,21 @@ Tzitzi-Ya-Ku,Wound Antennae,LR,Tzitzi-Ya-Ku Photophore,1,100
 Tzitzi-Ya-Ku,Wound Antennae,HR,Tzitzi-Ya-Ku Photophore+,1,100
 Paolumu,Track,LR,Paolumu Scale,1,100
 Paolumu,Track,HR,Paolumu Scale+,1,100
-Paolumu,Body Carve,LR,Paolumu Scale,1,36
-Paolumu,Body Carve,LR,Paolumu Pelt,1,28
-Paolumu,Body Carve,LR,Paolumu Webbing,1,21
-Paolumu,Body Carve,LR,Paolumu Shell,1,15
-Paolumu,Body Carve,HR,Paolumu Scale+,1,34
-Paolumu,Body Carve,HR,Paolumu Pelt+,1,28
-Paolumu,Body Carve,HR,Paolumu Wing,1,21
-Paolumu,Body Carve,HR,Paolumu Carapace+,1,15
-Paolumu,Body Carve,HR,Wyvern Gem,1,2
+Paolumu,Carve / Capture,LR,Paolumu Scale,1,36
+Paolumu,Carve / Capture,LR,Paolumu Pelt,1,28
+Paolumu,Carve / Capture,LR,Paolumu Webbing,1,21
+Paolumu,Carve / Capture,LR,Paolumu Shell,1,15
+Paolumu,Carve / Capture,HR,Paolumu Scale+,1,34
+Paolumu,Carve / Capture,HR,Paolumu Pelt+,1,28
+Paolumu,Carve / Capture,HR,Paolumu Wing,1,21
+Paolumu,Carve / Capture,HR,Paolumu Carapace+,1,15
+Paolumu,Carve / Capture,HR,Wyvern Gem,1,2
 Paolumu,Shiny Drop,LR,Paolumu Scale,1,50
 Paolumu,Shiny Drop,LR,Paolumu Shell,1,28
 Paolumu,Shiny Drop,LR,Wyvern Tear,1,22
 Paolumu,Shiny Drop,HR,Paolumu Scale+,1,50
 Paolumu,Shiny Drop,HR,Paolumu Carapace+,1,28
 Paolumu,Shiny Drop,HR,Wyvern Tear,1,22
-Paolumu,Capture,LR,Paolumu Scale,1,36
-Paolumu,Capture,LR,Paolumu Pelt,1,28
-Paolumu,Capture,LR,Paolumu Webbing,1,21
-Paolumu,Capture,LR,Paolumu Shell,1,15
-Paolumu,Capture,HR,Paolumu Scale+,1,34
-Paolumu,Capture,HR,Paolumu Pelt+,1,28
-Paolumu,Capture,HR,Paolumu Wing,1,21
-Paolumu,Capture,HR,Paolumu Carapace+,1,15
-Paolumu,Capture,HR,Wyvern Gem,1,2
 Paolumu,Quest Reward (Bronze),LR,Paolumu Scale,1,100
 Paolumu,Quest Reward (Bronze),LR,Paolumu Pelt,1,27
 Paolumu,Quest Reward (Bronze),LR,Paolumu Scale,1,21
@@ -1057,16 +968,16 @@ Paolumu,Wound Tail,LR,Paolumu Shell,1,100
 Paolumu,Wound Tail,HR,Paolumu Carapace+,1,100
 Great Girros,Track,LR,Great Girros Fang,1,100
 Great Girros,Track,HR,Great Girros Scale+,1,100
-Great Girros,Body Carve,LR,Great Girros Scale,1,31
-Great Girros,Body Carve,LR,Great Girros Hide,1,24
-Great Girros,Body Carve,LR,Great Girros Fang,1,18
-Great Girros,Body Carve,LR,Great Girros Hood,1,15
-Great Girros,Body Carve,LR,Great Girros Tail,1,12
-Great Girros,Body Carve,HR,Great Girros Scale+,1,31
-Great Girros,Body Carve,HR,Great Girros Hide+,1,24
-Great Girros,Body Carve,HR,Great Girros Fang+,1,18
-Great Girros,Body Carve,HR,Great Girros Hood+,1,15
-Great Girros,Body Carve,HR,Great Girros Tail,1,12
+Great Girros,Carve / Capture,LR,Great Girros Scale,1,31
+Great Girros,Carve / Capture,LR,Great Girros Hide,1,24
+Great Girros,Carve / Capture,LR,Great Girros Fang,1,18
+Great Girros,Carve / Capture,LR,Great Girros Hood,1,15
+Great Girros,Carve / Capture,LR,Great Girros Tail,1,12
+Great Girros,Carve / Capture,HR,Great Girros Scale+,1,31
+Great Girros,Carve / Capture,HR,Great Girros Hide+,1,24
+Great Girros,Carve / Capture,HR,Great Girros Fang+,1,18
+Great Girros,Carve / Capture,HR,Great Girros Hood+,1,15
+Great Girros,Carve / Capture,HR,Great Girros Tail,1,12
 Great Girros,Shiny Drop,LR,Great Girros Scale,1,50
 Great Girros,Shiny Drop,LR,Great Girros Fang,1,28
 Great Girros,Shiny Drop,LR,Wyvern Tear,1,22
@@ -1077,16 +988,6 @@ Great Girros,Tail Carve,LR,Great Girros Tail,1,80
 Great Girros,Tail Carve,LR,Great Girros Scale,1,20
 Great Girros,Tail Carve,HR,Great Girros Tail,1,80
 Great Girros,Tail Carve,HR,Great Girros Scale+,1,20
-Great Girros,Capture,LR,Great Girros Scale,1,31
-Great Girros,Capture,LR,Great Girros Hide,1,24
-Great Girros,Capture,LR,Great Girros Fang,1,18
-Great Girros,Capture,LR,Great Girros Hood,1,15
-Great Girros,Capture,LR,Great Girros Tail,1,12
-Great Girros,Capture,HR,Great Girros Scale+,1,31
-Great Girros,Capture,HR,Great Girros Hide+,1,24
-Great Girros,Capture,HR,Great Girros Fang+,1,18
-Great Girros,Capture,HR,Great Girros Hood+,1,15
-Great Girros,Capture,HR,Great Girros Tail,1,12
 Great Girros,Quest Reward (Bronze),LR,Great Girros Scale,1,100
 Great Girros,Quest Reward (Bronze),LR,Great Girros Hide,1,26
 Great Girros,Quest Reward (Bronze),LR,Great Girros Scale,1,21
@@ -1147,15 +1048,15 @@ Great Girros,Wound Forelegs,HR,Great Girros Hide+,1,75
 Great Girros,Wound Forelegs,HR,Great Girros Scale+,2,25
 Radobaan,Track,LR,Radobaan Scale,1,100
 Radobaan,Track,HR,Radobaan Scale+,1,100
-Radobaan,Body Carve,LR,Radobaan Scale,1,38
-Radobaan,Body Carve,LR,Radobaan Shell,1,28
-Radobaan,Body Carve,LR,Radobaan Oilshell,1,20
-Radobaan,Body Carve,LR,Radobaan Marrow,1,14
-Radobaan,Body Carve,HR,Radobaan Scale+,1,36
-Radobaan,Body Carve,HR,Radobaan Carapace,1,28
-Radobaan,Body Carve,HR,Radobaan Oilshell,1,20
-Radobaan,Body Carve,HR,Radobaan Medulla,1,14
-Radobaan,Body Carve,HR,Wyvern Gem,1,2
+Radobaan,Carve / Capture,LR,Radobaan Scale,1,38
+Radobaan,Carve / Capture,LR,Radobaan Shell,1,28
+Radobaan,Carve / Capture,LR,Radobaan Oilshell,1,20
+Radobaan,Carve / Capture,LR,Radobaan Marrow,1,14
+Radobaan,Carve / Capture,HR,Radobaan Scale+,1,36
+Radobaan,Carve / Capture,HR,Radobaan Carapace,1,28
+Radobaan,Carve / Capture,HR,Radobaan Oilshell,1,20
+Radobaan,Carve / Capture,HR,Radobaan Medulla,1,14
+Radobaan,Carve / Capture,HR,Wyvern Gem,1,2
 Radobaan,Shiny Drop,LR,Wyvern Bonemass,1,50
 Radobaan,Shiny Drop,LR,Radobaan Scale,1,28
 Radobaan,Shiny Drop,LR,Wyvern Tear,1,22
@@ -1174,15 +1075,6 @@ Radobaan,Back Mining,HR,Quality Bone,1,44
 Radobaan,Back Mining,HR,Wyvern Bonemass,2,23
 Radobaan,Back Mining,HR,Warped Bone,1,20
 Radobaan,Back Mining,HR,Dragonbone Relic,1,13
-Radobaan,Capture,LR,Radobaan Scale,1,38
-Radobaan,Capture,LR,Radobaan Shell,1,28
-Radobaan,Capture,LR,Radobaan Oilshell,1,20
-Radobaan,Capture,LR,Radobaan Marrow,1,14
-Radobaan,Capture,HR,Radobaan Scale+,1,36
-Radobaan,Capture,HR,Radobaan Carapace,1,28
-Radobaan,Capture,HR,Radobaan Oilshell,1,20
-Radobaan,Capture,HR,Radobaan Medulla,1,14
-Radobaan,Capture,HR,Wyvern Gem,1,2
 Radobaan,Quest Reward (Bronze),LR,Radobaan Scale,1,100
 Radobaan,Quest Reward (Bronze),LR,Radobaan Shell,1,27
 Radobaan,Quest Reward (Bronze),LR,Radobaan Scale,1,21
@@ -1254,34 +1146,23 @@ Radobaan,Wound Legs,HR,Wyvern Bonemass,2,64
 Radobaan,Wound Legs,HR,Radobaan Scale+,1,36
 Legiana,Track,LR,Legiana Scale,1,100
 Legiana,Track,HR,Legiana Scale+,1,100
-Legiana,Body Carve,LR,Legiana Scale,1,35
-Legiana,Body Carve,LR,Legiana Hide,1,25
-Legiana,Body Carve,LR,Legiana Claw,1,20
-Legiana,Body Carve,LR,Legiana Webbing,1,15
-Legiana,Body Carve,LR,Legiana Plate,1,5
-Legiana,Body Carve,HR,Legiana Scale+,1,34
-Legiana,Body Carve,HR,Legiana Hide+,1,24
-Legiana,Body Carve,HR,Legiana Claw+,1,20
-Legiana,Body Carve,HR,Legiana Wing,1,15
-Legiana,Body Carve,HR,Legiana Plate,1,5
-Legiana,Body Carve,HR,Legiana Gem,1,2
+Legiana,Carve / Capture,LR,Legiana Scale,1,35
+Legiana,Carve / Capture,LR,Legiana Hide,1,25
+Legiana,Carve / Capture,LR,Legiana Claw,1,20
+Legiana,Carve / Capture,LR,Legiana Webbing,1,15
+Legiana,Carve / Capture,LR,Legiana Plate,1,5
+Legiana,Carve / Capture,HR,Legiana Scale+,1,34
+Legiana,Carve / Capture,HR,Legiana Hide+,1,24
+Legiana,Carve / Capture,HR,Legiana Claw+,1,20
+Legiana,Carve / Capture,HR,Legiana Wing,1,15
+Legiana,Carve / Capture,HR,Legiana Plate,1,5
+Legiana,Carve / Capture,HR,Legiana Gem,1,2
 Legiana,Shiny Drop,LR,Legiana Scale,1,50
 Legiana,Shiny Drop,LR,Legiana Claw,1,28
 Legiana,Shiny Drop,LR,Wyvern Tear,1,22
 Legiana,Shiny Drop,HR,Legiana Scale+,1,50
 Legiana,Shiny Drop,HR,Legiana Claw+,1,28
 Legiana,Shiny Drop,HR,Wyvern Tear,1,22
-Legiana,Capture,LR,Legiana Scale,1,35
-Legiana,Capture,LR,Legiana Hide,1,25
-Legiana,Capture,LR,Legiana Claw,1,20
-Legiana,Capture,LR,Legiana Webbing,1,15
-Legiana,Capture,LR,Legiana Plate,1,5
-Legiana,Capture,HR,Legiana Scale+,1,34
-Legiana,Capture,HR,Legiana Hide+,1,24
-Legiana,Capture,HR,Legiana Claw+,1,20
-Legiana,Capture,HR,Legiana Wing,1,15
-Legiana,Capture,HR,Legiana Plate,1,5
-Legiana,Capture,HR,Legiana Gem,1,2
 Legiana,Quest Reward (Bronze),LR,Legiana Scale,1,100
 Legiana,Quest Reward (Bronze),LR,Legiana Hide,1,27
 Legiana,Quest Reward (Bronze),LR,Legiana Scale,1,21
@@ -1364,17 +1245,17 @@ Legiana,Wound Tail,HR,Legiana Plate,1,5
 Legiana,Wound Tail,HR,Legiana Gem,1,1
 Odogaron,Track,LR,Odogaron Scale,1,100
 Odogaron,Track,HR,Odogaron Scale+,1,100
-Odogaron,Body Carve,LR,Odogaron Scale,1,35
-Odogaron,Body Carve,LR,Odogaron Sinew,1,25
-Odogaron,Body Carve,LR,Odogaron Claw,1,20
-Odogaron,Body Carve,LR,Odogaron Fang,1,15
-Odogaron,Body Carve,LR,Odogaron Plate,1,5
-Odogaron,Body Carve,HR,Odogaron Scale+,1,34
-Odogaron,Body Carve,HR,Odogaron Sinew+,1,24
-Odogaron,Body Carve,HR,Odogaron Claw+,1,20
-Odogaron,Body Carve,HR,Odogaron Fang+,1,15
-Odogaron,Body Carve,HR,Odogaron Plate,1,5
-Odogaron,Body Carve,HR,Odogaron Gem,1,2
+Odogaron,Carve / Capture,LR,Odogaron Scale,1,35
+Odogaron,Carve / Capture,LR,Odogaron Sinew,1,25
+Odogaron,Carve / Capture,LR,Odogaron Claw,1,20
+Odogaron,Carve / Capture,LR,Odogaron Fang,1,15
+Odogaron,Carve / Capture,LR,Odogaron Plate,1,5
+Odogaron,Carve / Capture,HR,Odogaron Scale+,1,34
+Odogaron,Carve / Capture,HR,Odogaron Sinew+,1,24
+Odogaron,Carve / Capture,HR,Odogaron Claw+,1,20
+Odogaron,Carve / Capture,HR,Odogaron Fang+,1,15
+Odogaron,Carve / Capture,HR,Odogaron Plate,1,5
+Odogaron,Carve / Capture,HR,Odogaron Gem,1,2
 Odogaron,Shiny Drop,LR,Odogaron Scale,1,50
 Odogaron,Shiny Drop,LR,Odogaron Fang,1,28
 Odogaron,Shiny Drop,LR,Wyvern Tear,1,22
@@ -1388,17 +1269,6 @@ Odogaron,Tail Carve,HR,Odogaron Tail,1,70
 Odogaron,Tail Carve,HR,Odogaron Scale+,1,20
 Odogaron,Tail Carve,HR,Odogaron Plate,1,7
 Odogaron,Tail Carve,HR,Odogaron Gem,1,3
-Odogaron,Capture,LR,Odogaron Scale,1,35
-Odogaron,Capture,LR,Odogaron Sinew,1,25
-Odogaron,Capture,LR,Odogaron Claw,1,20
-Odogaron,Capture,LR,Odogaron Fang,1,15
-Odogaron,Capture,LR,Odogaron Plate,1,5
-Odogaron,Capture,HR,Odogaron Scale+,1,34
-Odogaron,Capture,HR,Odogaron Sinew+,1,24
-Odogaron,Capture,HR,Odogaron Claw+,1,20
-Odogaron,Capture,HR,Odogaron Fang+,1,15
-Odogaron,Capture,HR,Odogaron Plate,1,5
-Odogaron,Capture,HR,Odogaron Gem,1,2
 Odogaron,Quest Reward (Bronze),LR,Odogaron Sinew,1,100
 Odogaron,Quest Reward (Bronze),LR,Odogaron Sinew,1,27
 Odogaron,Quest Reward (Bronze),LR,Odogaron Scale,1,20
@@ -1473,17 +1343,17 @@ Odogaron,Wound Hindlegs,HR,Odogaron Sinew+,1,75
 Odogaron,Wound Hindlegs,HR,Odogaron Scale+,2,25
 Rathalos,Track,LR,Rathalos Scale,1,100
 Rathalos,Track,HR,Rathalos Scale+,1,100
-Rathalos,Body Carve,LR,Rathalos Scale,1,35
-Rathalos,Body Carve,LR,Rathalos Shell,1,26
-Rathalos,Body Carve,LR,Rathalos Webbing,1,20
-Rathalos,Body Carve,LR,Rathalos Marrow,1,14
-Rathalos,Body Carve,LR,Rathalos Plate,1,5
-Rathalos,Body Carve,HR,Rathalos Scale+,1,34
-Rathalos,Body Carve,HR,Rathalos Carapace,1,24
-Rathalos,Body Carve,HR,Rathalos Wing,1,20
-Rathalos,Body Carve,HR,Rathalos Medulla,1,14
-Rathalos,Body Carve,HR,Rathalos Plate,1,7
-Rathalos,Body Carve,HR,Rathalos Ruby,1,1
+Rathalos,Carve / Capture,LR,Rathalos Scale,1,35
+Rathalos,Carve / Capture,LR,Rathalos Shell,1,26
+Rathalos,Carve / Capture,LR,Rathalos Webbing,1,20
+Rathalos,Carve / Capture,LR,Rathalos Marrow,1,14
+Rathalos,Carve / Capture,LR,Rathalos Plate,1,5
+Rathalos,Carve / Capture,HR,Rathalos Scale+,1,34
+Rathalos,Carve / Capture,HR,Rathalos Carapace,1,24
+Rathalos,Carve / Capture,HR,Rathalos Wing,1,20
+Rathalos,Carve / Capture,HR,Rathalos Medulla,1,14
+Rathalos,Carve / Capture,HR,Rathalos Plate,1,7
+Rathalos,Carve / Capture,HR,Rathalos Ruby,1,1
 Rathalos,Shiny Drop,LR,Rathalos Scale,1,50
 Rathalos,Shiny Drop,LR,Rathalos Shell,1,28
 Rathalos,Shiny Drop,LR,Wyvern Tear,1,22
@@ -1499,17 +1369,6 @@ Rathalos,Tail Carve,HR,Rathalos Scale+,1,20
 Rathalos,Tail Carve,HR,Rathalos Medulla,1,7
 Rathalos,Tail Carve,HR,Rathalos Plate,1,5
 Rathalos,Tail Carve,HR,Rathalos Ruby,1,2
-Rathalos,Capture,LR,Rathalos Scale,1,35
-Rathalos,Capture,LR,Rathalos Shell,1,26
-Rathalos,Capture,LR,Rathalos Webbing,1,20
-Rathalos,Capture,LR,Rathalos Marrow,1,14
-Rathalos,Capture,LR,Rathalos Plate,1,5
-Rathalos,Capture,HR,Rathalos Scale+,1,34
-Rathalos,Capture,HR,Rathalos Carapace,1,24
-Rathalos,Capture,HR,Rathalos Wing,1,20
-Rathalos,Capture,HR,Rathalos Medulla,1,14
-Rathalos,Capture,HR,Rathalos Plate,1,7
-Rathalos,Capture,HR,Rathalos Ruby,1,1
 Rathalos,Quest Reward (Bronze),LR,Rathalos Scale,1,100
 Rathalos,Quest Reward (Bronze),LR,Rathalos Shell,1,24
 Rathalos,Quest Reward (Bronze),LR,Rathalos Scale,1,19
@@ -1589,17 +1448,17 @@ Rathalos,Wound Back,HR,Rathalos Medulla,1,30
 Rathalos,Wound Back,HR,Rathalos Ruby,1,1
 Diablos,Track,LR,Diablos Shell,1,100
 Diablos,Track,HR,Diablos Carapace,1,100
-Diablos,Body Carve,LR,Diablos Shell,1,31
-Diablos,Body Carve,LR,Diablos Ridge,1,24
-Diablos,Body Carve,LR,Diablos Fang,1,18
-Diablos,Body Carve,LR,Diablos Marrow,1,15
-Diablos,Body Carve,LR,Diablos Tailcase,1,12
-Diablos,Body Carve,HR,Diablos Carapace,1,31
-Diablos,Body Carve,HR,Diablos Ridge+,1,24
-Diablos,Body Carve,HR,Diablos Fang,1,15
-Diablos,Body Carve,HR,Blos Medulla,1,15
-Diablos,Body Carve,HR,Diablos Tailcase,1,12
-Diablos,Body Carve,HR,Wyvern Gem,1,3
+Diablos,Carve / Capture,LR,Diablos Shell,1,31
+Diablos,Carve / Capture,LR,Diablos Ridge,1,24
+Diablos,Carve / Capture,LR,Diablos Fang,1,18
+Diablos,Carve / Capture,LR,Diablos Marrow,1,15
+Diablos,Carve / Capture,LR,Diablos Tailcase,1,12
+Diablos,Carve / Capture,HR,Diablos Carapace,1,31
+Diablos,Carve / Capture,HR,Diablos Ridge+,1,24
+Diablos,Carve / Capture,HR,Diablos Fang,1,15
+Diablos,Carve / Capture,HR,Blos Medulla,1,15
+Diablos,Carve / Capture,HR,Diablos Tailcase,1,12
+Diablos,Carve / Capture,HR,Wyvern Gem,1,3
 Diablos,Shiny Drop,LR,Diablos Shell,1,50
 Diablos,Shiny Drop,LR,Diablos Ridge,1,28
 Diablos,Shiny Drop,LR,Wyvern Tear,1,22
@@ -1612,17 +1471,6 @@ Diablos,Tail Carve,HR,Diablos Tailcase,1,40
 Diablos,Tail Carve,HR,Diablos Carapace,1,35
 Diablos,Tail Carve,HR,Blos Medulla,1,22
 Diablos,Tail Carve,HR,Wyvern Gem,1,3
-Diablos,Capture,LR,Diablos Shell,1,31
-Diablos,Capture,LR,Diablos Ridge,1,24
-Diablos,Capture,LR,Diablos Fang,1,18
-Diablos,Capture,LR,Diablos Marrow,1,15
-Diablos,Capture,LR,Diablos Tailcase,1,12
-Diablos,Capture,HR,Diablos Carapace,1,31
-Diablos,Capture,HR,Diablos Ridge+,1,24
-Diablos,Capture,HR,Diablos Fang,1,15
-Diablos,Capture,HR,Diablos Marrow,1,15
-Diablos,Capture,HR,Diablos Tailcase,1,12
-Diablos,Capture,HR,Wyvern Gem,1,3
 Diablos,Quest Reward (Bronze),LR,Diablos Ridge,1,26
 Diablos,Quest Reward (Bronze),LR,Diablos Shell,1,21
 Diablos,Quest Reward (Bronze),LR,Dash Extract,1,16
@@ -1798,21 +1646,16 @@ Zorah Magdaros,Wound Head,HR,Zorah Magdaros Magma,2,33
 Zorah Magdaros,Wound Chest Shell,LR,Zorah Magdaros Pleura,1,100
 Zorah Magdaros,Wound Chest Shell,HR,Zorah Magdaros Pleura,1,100
 Dodogama,Track,HR,Dodogama Scale+,1,100
-Dodogama,Body Carve,HR,Dodogama Scale+,1,31
-Dodogama,Body Carve,HR,Dodogama Hide+,1,24
-Dodogama,Body Carve,HR,Dodogama Jaw,1,18
-Dodogama,Body Carve,HR,Dodogama Talon,1,15
-Dodogama,Body Carve,HR,Dodogama Tail,1,12
+Dodogama,Carve / Capture,HR,Dodogama Scale+,1,31
+Dodogama,Carve / Capture,HR,Dodogama Hide+,1,24
+Dodogama,Carve / Capture,HR,Dodogama Jaw,1,18
+Dodogama,Carve / Capture,HR,Dodogama Talon,1,15
+Dodogama,Carve / Capture,HR,Dodogama Tail,1,12
 Dodogama,Shiny Drop,HR,Dodogama Scale+,1,50
 Dodogama,Shiny Drop,HR,Dodogama Talon,1,28
 Dodogama,Shiny Drop,HR,Wyvern Tear,1,22
 Dodogama,Tail Carve,HR,Dodogama Tail,1,80
 Dodogama,Tail Carve,HR,Dodogama Hide+,1,20
-Dodogama,Capture,HR,Dodogama Scale+,1,31
-Dodogama,Capture,HR,Dodogama Hide+,1,24
-Dodogama,Capture,HR,Dodogama Jaw,1,18
-Dodogama,Capture,HR,Dodogama Talon,1,15
-Dodogama,Capture,HR,Dodogama Tail,1,12
 Dodogama,Quest Reward (Bronze),HR,Dodogama Hide+,1,26
 Dodogama,Quest Reward (Bronze),HR,Dodogama Scale+,1,20
 Dodogama,Quest Reward (Bronze),HR,Dodogama Talon,1,16
@@ -1838,12 +1681,12 @@ Dodogama,Plunderblade,HR,Dodogama Jaw,1,22
 Dodogama,Wound Head,HR,Dodogama Jaw,1,100
 Dodogama,Wound Forearms,HR,Dodogama Talon,1,100
 Pink Rathian,Track,HR,Pink Rathian Scale+,1,100
-Pink Rathian,Body Carve,HR,Pink Rathian Scale+,1,34
-Pink Rathian,Body Carve,HR,Pink Rathian Carapace,1,24
-Pink Rathian,Body Carve,HR,Rath Wingtalon,1,20
-Pink Rathian,Body Carve,HR,Rathian Webbing,1,15
-Pink Rathian,Body Carve,HR,Rathian Plate,1,5
-Pink Rathian,Body Carve,HR,Rathian Ruby,1,2
+Pink Rathian,Carve / Capture,HR,Pink Rathian Scale+,1,34
+Pink Rathian,Carve / Capture,HR,Pink Rathian Carapace,1,24
+Pink Rathian,Carve / Capture,HR,Rath Wingtalon,1,20
+Pink Rathian,Carve / Capture,HR,Rathian Webbing,1,15
+Pink Rathian,Carve / Capture,HR,Rathian Plate,1,5
+Pink Rathian,Carve / Capture,HR,Rathian Ruby,1,2
 Pink Rathian,Shiny Drop,HR,Pink Rathian Scale+,1,50
 Pink Rathian,Shiny Drop,HR,Pink Rathian Carapace,1,28
 Pink Rathian,Shiny Drop,HR,Large Wyvern Tear,1,22
@@ -1851,12 +1694,6 @@ Pink Rathian,Tail Carve,HR,Rathian Spike+,1,65
 Pink Rathian,Tail Carve,HR,Pink Rathian Scale+,1,25
 Pink Rathian,Tail Carve,HR,Rathian Plate,1,7
 Pink Rathian,Tail Carve,HR,Rathian Ruby,1,3
-Pink Rathian,Capture,HR,Pink Rathian Scale+,1,34
-Pink Rathian,Capture,HR,Pink Rathian Carapace,1,24
-Pink Rathian,Capture,HR,Rath Wingtalon,1,20
-Pink Rathian,Capture,HR,Rathian Webbing,1,15
-Pink Rathian,Capture,HR,Rathian Plate,1,5
-Pink Rathian,Capture,HR,Rathian Ruby,1,2
 Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Scale+,1,100
 Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Carapace,1,27
 Pink Rathian,Quest Reward (Bronze),HR,Pink Rathian Scale+,1,21
@@ -1895,24 +1732,18 @@ Pink Rathian,Wound Back,HR,Pink Rathian Carapace,1,69
 Pink Rathian,Wound Back,HR,Rathian Spike+,1,30
 Pink Rathian,Wound Back,HR,Rathian Ruby,1,1
 Bazelgeuse,Track,HR,Bazelgeuse Scale+,1,100
-Bazelgeuse,Body Carve,HR,Bazelgeuse Scale+,1,32
-Bazelgeuse,Body Carve,HR,Bazelgeuse Carapace,1,24
-Bazelgeuse,Body Carve,HR,Bazelgeuse Talon,1,17
-Bazelgeuse,Body Carve,HR,Bazelgeuse Fuse,1,14
-Bazelgeuse,Body Carve,HR,Bazelgeuse Wing,1,11
-Bazelgeuse,Body Carve,HR,Bazelgeuse Gem,1,2
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Scale+,1,32
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Carapace,1,24
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Talon,1,17
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Fuse,1,14
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Wing,1,11
+Bazelgeuse,Carve / Capture,HR,Bazelgeuse Gem,1,2
 Bazelgeuse,Shiny Drop,HR,Bazelgeuse Scale+,1,50
 Bazelgeuse,Shiny Drop,HR,Bazelgeuse Talon,1,28
 Bazelgeuse,Shiny Drop,HR,Large Wyvern Tear,1,22
 Bazelgeuse,Tail Carve,HR,Bazelgeuse Tail,1,70
 Bazelgeuse,Tail Carve,HR,Bazelgeuse Carapace,1,27
 Bazelgeuse,Tail Carve,HR,Bazelgeuse Gem,1,3
-Bazelgeuse,Capture,HR,Bazelgeuse Scale+,1,32
-Bazelgeuse,Capture,HR,Bazelgeuse Carapace,1,24
-Bazelgeuse,Capture,HR,Bazelgeuse Talon,1,17
-Bazelgeuse,Capture,HR,Bazelgeuse Fuse,1,14
-Bazelgeuse,Capture,HR,Bazelgeuse Wing,1,11
-Bazelgeuse,Capture,HR,Bazelgeuse Gem,1,2
 Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Carapace,1,26
 Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Scale+,1,20
 Bazelgeuse,Quest Reward (Bronze),HR,Bazelgeuse Talon,1,14
@@ -1950,19 +1781,14 @@ Bazelgeuse,Wound Back,HR,Bazelgeuse Carapace,1,69
 Bazelgeuse,Wound Back,HR,Bazelgeuse Fuse,1,30
 Bazelgeuse,Wound Back,HR,Bazelgeuse Gem,1,1
 Lavasioth,Track,HR,Lavasioth Scale+,1,100
-Lavasioth,Body Carve,HR,Lavasioth Scale+,1,35
-Lavasioth,Body Carve,HR,Lavasioth Carapace,1,27
-Lavasioth,Body Carve,HR,Lavasioth Fin+,1,20
-Lavasioth,Body Carve,HR,Lavasioth Fang+,1,15
-Lavasioth,Body Carve,HR,Wyvern Gem,1,3
+Lavasioth,Carve / Capture,HR,Lavasioth Scale+,1,35
+Lavasioth,Carve / Capture,HR,Lavasioth Carapace,1,27
+Lavasioth,Carve / Capture,HR,Lavasioth Fin+,1,20
+Lavasioth,Carve / Capture,HR,Lavasioth Fang+,1,15
+Lavasioth,Carve / Capture,HR,Wyvern Gem,1,3
 Lavasioth,Shiny Drop,HR,Lavasioth Scale+,1,50
 Lavasioth,Shiny Drop,HR,Lavasioth Fin+,1,28
 Lavasioth,Shiny Drop,HR,Wyvern Tear,1,22
-Lavasioth,Capture,HR,Lavasioth Scale+,1,35
-Lavasioth,Capture,HR,Lavasioth Carapace,1,27
-Lavasioth,Capture,HR,Lavasioth Fin+,1,20
-Lavasioth,Capture,HR,Lavasioth Fang+,1,15
-Lavasioth,Capture,HR,Wyvern Gem,1,3
 Lavasioth,Quest Reward (Bronze),HR,Lavasioth Carapace,1,27
 Lavasioth,Quest Reward (Bronze),HR,Lavasioth Scale+,1,24
 Lavasioth,Quest Reward (Bronze),HR,Lavasioth Fang+,1,15
@@ -1992,11 +1818,11 @@ Lavasioth,Plunderblade,HR,Wyvern Gem,1,2
 Lavasioth,Wound Head,HR,Lavasioth Fang+,1,100
 Lavasioth,Wound Back,HR,Lavasioth Fin+,1,100
 Uragaan,Track,HR,Uragaan Scale+,1,100
-Uragaan,Body Carve,HR,Uragaan Scale+,1,37
-Uragaan,Body Carve,HR,Uragaan Carapace,1,25
-Uragaan,Body Carve,HR,Uragaan Scute,1,21
-Uragaan,Body Carve,HR,Uragaan Marrow,1,15
-Uragaan,Body Carve,HR,Uragaan Ruby,1,2
+Uragaan,Carve / Capture,HR,Uragaan Scale+,1,37
+Uragaan,Carve / Capture,HR,Uragaan Carapace,1,25
+Uragaan,Carve / Capture,HR,Uragaan Scute,1,21
+Uragaan,Carve / Capture,HR,Uragaan Marrow,1,15
+Uragaan,Carve / Capture,HR,Uragaan Ruby,1,2
 Uragaan,Shiny Drop,HR,Lava Nugget,1,50
 Uragaan,Shiny Drop,HR,Uragaan Scale+,1,28
 Uragaan,Shiny Drop,HR,Large Wyvern Tear,1,22
@@ -2006,11 +1832,6 @@ Uragaan,Tail Carve,HR,Uragaan Ruby,1,3
 Uragaan,Body Mining,HR,Lava Nugget,1,60
 Uragaan,Body Mining,HR,Carbalite Ore,1,27
 Uragaan,Body Mining,HR,Firecell Stone,1,13
-Uragaan,Capture,HR,Uragaan Scale+,1,37
-Uragaan,Capture,HR,Uragaan Carapace,1,25
-Uragaan,Capture,HR,Uragaan Scute,1,21
-Uragaan,Capture,HR,Uragaan Marrow,1,15
-Uragaan,Capture,HR,Uragaan Ruby,1,2
 Uragaan,Quest Reward (Bronze),HR,Uragaan Carapace,1,26
 Uragaan,Quest Reward (Bronze),HR,Uragaan Scale+,1,21
 Uragaan,Quest Reward (Bronze),HR,Inferno Sac,1,18
@@ -2047,12 +1868,12 @@ Uragaan,Wound Back,HR,Uragaan Marrow,1,30
 Uragaan,Wound Tail,HR,Uragaan Scale+,2,70
 Uragaan,Wound Tail,HR,Uragaan Scute,1,30
 Azure Rathalos,Track,HR,Azure Rathalos Scale+,1,100
-Azure Rathalos,Body Carve,HR,Azure Rathalos Scale+,1,33
-Azure Rathalos,Body Carve,HR,Azure Rathalos Carapace,1,24
-Azure Rathalos,Body Carve,HR,Azure Rathalos Wing,1,20
-Azure Rathalos,Body Carve,HR,Rathalos Medulla,1,14
-Azure Rathalos,Body Carve,HR,Rathalos Plate,1,7
-Azure Rathalos,Body Carve,HR,Rathalos Ruby,1,2
+Azure Rathalos,Carve / Capture,HR,Azure Rathalos Scale+,1,33
+Azure Rathalos,Carve / Capture,HR,Azure Rathalos Carapace,1,24
+Azure Rathalos,Carve / Capture,HR,Azure Rathalos Wing,1,20
+Azure Rathalos,Carve / Capture,HR,Rathalos Medulla,1,14
+Azure Rathalos,Carve / Capture,HR,Rathalos Plate,1,7
+Azure Rathalos,Carve / Capture,HR,Rathalos Ruby,1,2
 Azure Rathalos,Shiny Drop,HR,Azure Rathalos Scale+,1,50
 Azure Rathalos,Shiny Drop,HR,Azure Rathalos Carapace,1,28
 Azure Rathalos,Shiny Drop,HR,Large Wyvern Tear,1,22
@@ -2061,12 +1882,6 @@ Azure Rathalos,Tail Carve,HR,Azure Rathalos Scale+,1,20
 Azure Rathalos,Tail Carve,HR,Rathalos Medulla,1,7
 Azure Rathalos,Tail Carve,HR,Rathalos Plate,1,5
 Azure Rathalos,Tail Carve,HR,Rathalos Ruby,1,3
-Azure Rathalos,Capture,HR,Azure Rathalos Scale+,1,33
-Azure Rathalos,Capture,HR,Azure Rathalos Carapace,1,24
-Azure Rathalos,Capture,HR,Azure Rathalos Wing,1,20
-Azure Rathalos,Capture,HR,Rathalos Medulla,1,14
-Azure Rathalos,Capture,HR,Rathalos Plate,1,7
-Azure Rathalos,Capture,HR,Rathalos Ruby,1,2
 Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Carapace,1,27
 Azure Rathalos,Quest Reward (Bronze),HR,Azure Rathalos Scale+,1,21
 Azure Rathalos,Quest Reward (Bronze),HR,Inferno Sac,1,18
@@ -2105,12 +1920,12 @@ Azure Rathalos,Wound Back,HR,Azure Rathalos Carapace,1,69
 Azure Rathalos,Wound Back,HR,Rathalos Medulla,1,30
 Azure Rathalos,Wound Back,HR,Rathalos Ruby,1,1
 Black Diablos,Track,HR,Black Diablos Carapace,1,100
-Black Diablos,Body Carve,HR,Black Diablos Carapace,1,31
-Black Diablos,Body Carve,HR,Black Diablos Ridge+,1,24
-Black Diablos,Body Carve,HR,Blos Medulla,1,16
-Black Diablos,Body Carve,HR,Diablos Fang,1,13
-Black Diablos,Body Carve,HR,Diablos Tailcase,1,12
-Black Diablos,Body Carve,HR,Wyvern Gem,1,4
+Black Diablos,Carve / Capture,HR,Black Diablos Carapace,1,31
+Black Diablos,Carve / Capture,HR,Black Diablos Ridge+,1,24
+Black Diablos,Carve / Capture,HR,Blos Medulla,1,16
+Black Diablos,Carve / Capture,HR,Diablos Fang,1,13
+Black Diablos,Carve / Capture,HR,Diablos Tailcase,1,12
+Black Diablos,Carve / Capture,HR,Wyvern Gem,1,4
 Black Diablos,Shiny Drop,HR,Black Diablos Carapace,1,50
 Black Diablos,Shiny Drop,HR,Black Diablos Ridge+,1,28
 Black Diablos,Shiny Drop,HR,Large Wyvern Tear,1,22
@@ -2118,12 +1933,6 @@ Black Diablos,Tail Carve,HR,Diablos Tailcase,1,40
 Black Diablos,Tail Carve,HR,Black Diablos Carapace,1,34
 Black Diablos,Tail Carve,HR,Diablos Marrow,1,22
 Black Diablos,Tail Carve,HR,Wyvern Gem,1,4
-Black Diablos,Capture,HR,Black Diablos Carapace,1,31
-Black Diablos,Capture,HR,Black Diablos Ridge+,1,24
-Black Diablos,Capture,HR,Blos Medulla,1,16
-Black Diablos,Capture,HR,Diablos Fang,1,13
-Black Diablos,Capture,HR,Diablos Tailcase,1,12
-Black Diablos,Capture,HR,Wyvern Gem,1,4
 Black Diablos,Quest Reward (Bronze),HR,Black Diablos Ridge+,1,26
 Black Diablos,Quest Reward (Bronze),HR,Black Diablos Carapace,1,21
 Black Diablos,Quest Reward (Bronze),HR,Dash Extract,1,16
