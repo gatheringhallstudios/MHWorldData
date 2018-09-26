@@ -601,10 +601,10 @@ id,name_en,name_ja,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_
 600,Vaal Hazak Braces β,ウルズアームβ,8,arms,both,1,1,1,64,70,84,-4,4,1,-1,-3
 601,Vaal Hazak Coil β,ウルズコイルβ,8,waist,both,1,1,0,64,70,84,-4,4,1,-1,-3
 602,Vaal Hazak Greaves β,ウルズグリーヴβ,8,legs,both,1,1,0,64,70,84,-4,4,1,-1,-3
-603,Kirin Horn α,キリンホーンα,6,head,both,0,0,0,64,70,84,-3,-2,4,-2,2
-604,Kirin Jacket α,キリンベストα,6,chest,both,0,0,0,64,70,84,-3,-2,4,-2,2
-605,Kirin Longarms α,キリンアームロングα,6,arms,both,0,0,0,64,70,84,-3,-2,4,-2,2
-606,Kirin Hoop α,キリンフープα,6,waist,both,0,0,0,64,70,84,-3,-2,4,-2,2
+603,Kirin Horn α,キリンホーンα,8,head,both,0,0,0,64,70,84,-3,-2,4,-2,2
+604,Kirin Jacket α,キリンベストα,8,chest,both,0,0,0,64,70,84,-3,-2,4,-2,2
+605,Kirin Longarms α,キリンアームロングα,8,arms,both,0,0,0,64,70,84,-3,-2,4,-2,2
+606,Kirin Hoop α,キリンフープα,8,waist,both,0,0,0,64,70,84,-3,-2,4,-2,2
 607,Kirin Leg Guards α,キリンレガースα,8,legs,both,0,0,0,64,70,84,-3,-2,4,-2,2
 608,Kirin Horn β,キリンホーンβ,8,head,both,1,0,0,64,70,84,-3,-2,4,-2,2
 609,Kirin Jacket β,キリンベストβ,8,chest,both,1,0,0,64,70,84,-3,-2,4,-2,2
