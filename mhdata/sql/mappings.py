@@ -332,6 +332,7 @@ class ArmorRecipe(Base):
 class Weapon(Base):
     __tablename__ = "weapon"
     id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
     weapon_type = Column(Text)
     rarity = Column(Integer)
     
