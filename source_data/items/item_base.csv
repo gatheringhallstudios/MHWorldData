@@ -522,15 +522,15 @@ Red Orb,,Blood of demonic beings condensed into stone. Can be used to craft styl
 Master Craftsman's Blueprint,,"A blueprint for a revolutionary Great Sword, designed by a famed craftsman.",,material,,6,,800,,,Voucher,Gray
 Bushi Ticket,,A voucher given to those who assisted in the special investigation. Be sure to show it to the Resource Center!,,material,,4,,400,,,Voucher,Red
 Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter.",,material,trade,4,,1000,,,Egg,Gray
-Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,,,,,,Egg,
+Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,4,,10000,,,Egg,White
 Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter.",,material,trade,,,,,,Egg,
-Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,,,,,,Scale,
+Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,4,,500,,,Scale,Gray
 Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors.,,material,trade,4,,1000,,,Scale,LightBeige
 Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors.,,material,trade,5,,2000,,,Scale,White
 Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector.,,material,trade,6,,3000,,,Scale,Cyan
-Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,,,,,,Scale,
-Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
-Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,,,,,,,
+Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,7,,5000,,,Scale,Gold
+Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,4,,400,,,Ore,Cyan
+Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,4,,800,,,Ore,Blue
 Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,5,,1500,,,Ore,LightBeige
 Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,6,,2000,,,Ore,White
 Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,7,,5000,,,Ore,Gold
@@ -589,10 +589,10 @@ Worn Feystone,,A jewel that conceals considerable power within it.,,misc,apprais
 Warped Feystone,,A jewel that conceals a mystical power within it.,,misc,appraisal,7,,25,,,Feystone,Red
 Sullied Streamstone,,"Though dirty, this stone pulses with undeniable power.",,misc,appraisal,,,,,,Streamstone,Gray
 Shining Streamstone,,A stone that shines with the brilliance of endless possibility.,,misc,appraisal,,,,,,Streamstone,Gold
-Wyvern Tear,竜のナミダ,Bitter tears wept by wyverns on certain occasions.,,misc,account,3,,,,200,,
+Wyvern Tear,竜のナミダ,Bitter tears wept by wyverns on certain occasions.,,misc,account,3,,,,200,Body,Blue
 Large Wyvern Tear,竜の大粒ナミダ,,,misc,account,,,,,,,
 Dragon Treasure,龍秘宝,A shiny rock that elder dragons like to collect.,,misc,account,3,,,,800,Ore,Violet
-White Liver,ホワイトレバ,,,misc,account,,,,,,,
+White Liver,ホワイトレバ,"A white-colored liver, popular for its juicy texture.",,misc,account,2,,,,40,Meat,White
 Gourmet Shroomcap,,A mushroom from the Ancient Forest. Known for its unique tenderness.,,misc,account,,,,,10,Mushroom,White
 Exquisite Shroomcap,,A rare mushroom from the Ancient Forest. Highly sought after by elite chefs.,,misc,account,,,,,25,Mushroom,White
 Spirit Shroomcap,,A precious mushroom from the Ancient Forest. Possesses a fantastical glow.,,misc,account,,,,,50,Mushroom,White
@@ -613,8 +613,9 @@ Innocent Pearl,,A precious jewel from the Coral Highlands. Glistens with purity.
 Underground Fruit,,Fruit from the Rotten Vale. It grows to maturity without sun.,,misc,account,2,,,,14,Seed,DarkRed
 Tainted Fruit,,Rare Fruit from the Rotten Vale. It thrives under arduous conditions.,,misc,account,3,,,,34,Seed,DarkRed
 Elysian Fruit,,Precious fruit from the Rotten Vale. Its aroma is not of this world.,,misc,account,4,,,,190,Seed,DarkRed
-Forgotten Fossil,,A fossil from the Rotten Vale. It bears tracks from antiquity.,,misc,account,2,,,,15,,Orange
-Legendary Fossil,,A rare fossil from the Rotten Vale. The life it holds is long extinct.,,misc,account,3,,,,35,,Orange
+Forgotten Fossil,,A fossil from the Rotten Vale. It bears tracks from antiquity.,,misc,account,2,,,,15,Bone,DarkBeige
+Legendary Fossil,,A rare fossil from the Rotten Vale. The life it holds is long extinct.,,misc,account,3,,,,35,Bone,DarkBeige
+Mystical Fossil,,A precious fossil from the Rotten Vale. The key to an ancient mystery.,,misc,account,,,,,200,Bone,DarkBeige
 Blue Beryl,,A gem from the Elder's Recess. It shines with the color of the waves.,,misc,account,2,,,,32,Ore,Blue
 True Beryl,,A rare gem from the Elder's Recess. It glints with the clarity of truth.,,misc,account,3,,,,54,Ore,Blue
 Abyssal Beryl,,"A precious gem from the Elder's Recess. Has a deep, hypnotic hue.",,misc,account,4,,,,260,Ore,Blue
