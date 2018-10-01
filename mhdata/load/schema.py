@@ -117,6 +117,7 @@ class ArmorSetSchema(BaseSchema):
     name = fields.Dict()
     armor_lang = fields.Str()
     rank = ValidatedStr(*cfg.supported_ranks)
+    monster = fields.Str(allow_none=True)
     head = fields.Str(allow_none=True)
     chest = fields.Str(allow_none=True)
     arms = fields.Str(allow_none=True)

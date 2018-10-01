@@ -328,6 +328,9 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             rank=entry['rank'],
             armorset_bonus_id=armorset_bonus_id
         ) 
+
+        if entry['monster']:
+            armorset.monster_id = mhdata.monster_map.id_of('en', entry['monster'])
         
         for language in cfg.supported_languages:
             armorset.translations.append(db.ArmorSetText(

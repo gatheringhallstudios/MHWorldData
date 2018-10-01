@@ -174,6 +174,10 @@ def validate_armor(mhdata):
     for setentry in mhdata.armorset_map.values():
         setname = setentry.name('en')
         armor_lang = setentry['armor_lang']
+
+        monster_name = setentry['monster']
+        if monster_name and not monster_name in mhdata.monster_map.names('en'):
+            errors.append(f"Armorset {setname} has invalid monster {monster_name}")
         
         # All armor pieces in the set
         armor_names = [setentry[part] for part in cfg.armor_parts]
@@ -186,10 +190,10 @@ def validate_armor(mhdata):
             armor_id = mhdata.armor_map.id_of(armor_lang, armor_name)
             
             if not armor_id:
-                errors.append(f"{setname} has invalid armor {armor_name}")
+                errors.append(f"Armorset {setname} has invalid armor {armor_name}")
                 continue
             if armor_id in encountered_armors:
-                errors.append(f"{setname} has duplicated armor {armor_name}")
+                errors.append(f"Armorset {setname} has duplicated armor {armor_name}")
                 continue
 
             encountered_armors.add(armor_id)

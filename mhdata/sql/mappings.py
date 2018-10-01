@@ -256,6 +256,7 @@ class ArmorSet(Base):
     __tablename__ = "armorset"
     id = Column(Integer, primary_key=True)
     rank = Column(Text)
+    monster_id = Column(Integer, ForeignKey('monster.id'))
     armorset_bonus_id = Column(Integer)
 
     translations = relationship("ArmorSetText")
