@@ -121,6 +121,7 @@ Death Stench Brain,デスギアゲヒル,Cerveau putride,Cervello putrefatto,Tod
 Death Stench Muscle,デスギアムスケル,Muscle putride,Muscolo putrefatto,Todesgestank-Muskel,,Músculo Putrefato,Mięsień rozkładu,Доспех зловония смерти,데스기어무스켈,死神肌肉,عضلة رائحة الموت
 Death Stench Grip,デスギアファオスト,Étreinte putride,Mani putrefatte,Todesgestank-Klauen,,Garra Putrefata,Chwyt rozkładu,Наручи зловония смерти,데스기어파오스트,死神雙手,قبضة رائحة الموت
 Death Stench Bowels,デスギアナーベル,Boyaux putrides,Budella putrefatte,Todesgestank-Gedärm,,Vísceras Putrefatas,Jelita rozkładu,Пояс дыхания смерти,데스기어네이블,死神臍帶,مصران رائحة الموت
+Death Stench Heels,,,,,,,,,,,
 Brigade Lobos,ブリゲイドロポス,Chapeau de brigade,Feluca di brigata,Brigade-Lobos,,Chapéu de Brigada,Kapelusz Brygady,Почетная шляпа,브리게이드로포스,旅團帽,لوبُس السرية
 Brigade Suit,ブリゲイドスーツ,Tenue de brigade,Abito di brigata,Brigade-Anzug,,Traje de Brigada,Strój Brygady,Почетный мундир,브리게이드슈트,旅團戰衣,سترة السرية
 Brigade Vambraces,ブリゲイドアーム,Protège-bras de brigade,Parabraccia di brigata,Brigade-Armschienen,,Avambraços de Brigada,Zarękawia Brygady,Почетные наручи,브리게이드암,旅團腕甲,درع ساعد السرية
@@ -151,6 +152,11 @@ Kirin Jacket,キリンベスト,Veste Kirin,Pettino di Kirin,Kirin-Jacke,,Jaquet
 Kirin Longarms,キリンアームロング,Bras-longs Kirin,Copribraccia di Kirin,Kirin-Armstulpen,,Braços Longos de Kirin,Zarękawia z Kirina,Наручи кирина,키린롱암,麒麟長腕甲,درع ذراع كيرين الطويل
 Kirin Hoop,キリンフープ,Ceinture Kirin,Cerchio di Kirin,Kirin-Reifen,,Argola de Kirin,Obręcz z Kirina,Обод кирина,키린후프,麒麟腰環,حلقة كيرين
 Kirin Leg Guards,キリンレガース,Bottines Kirin,Paragambe di Kirin,Kirin-Beinschutz,,Caneleiras de Kirin,Nogawice z Kirina,Поножи кирина,키린레그가드,麒麟護脛,واقي ساق كيرين
+Blossom Headgear,,,,,,,,,,,
+Blossom Vest,,,,,,,,,,,
+Blossom Cuffs,,,,,,,,,,,
+Blossom Coat,,,,,,,,,,,
+Blossom Boots,,,,,,,,,,,
 Leather Headgear α,レザーヘッドα,Lunettes en cuir α,Copricapo di cuoio α,Leder-Kopfschutz α,,Elmo de Couro α,Skórzany kaptur α,Кожаный шлем α,레더헤드α,皮製頭飾α,عتاد رأس جلدي α
 Leather Mail α,レザーベストα,Veste en cuir α,Cotta di cuoio α,Leder-Panzerung α,,Armadura de Couro α,Skórzana zbroja α,Кожаный доспех α,레더베스트α,皮製服飾α,درع جلدي α
 Leather Gloves α,レザーグラブα,Gants en cuir α,Guanti di cuoio α,Leder-Handschuhe α,,Luvas de Couro α,Skórzane rękawice α,Кожаные наручи α,레더글러브α,皮製手套α,قفازات جلدية α
@@ -636,6 +642,52 @@ Commission Jacket β,シーカーベストβ,Veste de la Commission β,Pettino d
 Commission Vambraces β,シーカーグラブβ,Garde-mains de la Commission β,Parabraccia della commissione β,Kommissionsarmschienen β,,Avambraços da Comissão β,Zarękawia Komisji β,Наручи экспедиции β,시커글러브β,追蹤者手套β,درع ساعد اللجنة β
 Commission Belt β,シーカーベルトβ,Kit de la Commission β,Cintura della commissione β,Kommissionsgürtel β,,Cinto da Comissão β,Pas Komisji β,Ремень экспедиции β,시커벨트β,追蹤者皮帶β,حزام اللجنة β
 Commission Pants β,シーカーパンツβ,Pantalon de la Commission β,Brache della commissione β,Kommissionshose β,,Calças da Comissão β,Spodnie Komisji β,Штаны экспедиции β,시커팬츠β,追蹤者長褲β,سروال اللجنة β
+Vangis Helm α,,,,,,,,,,,
+Vangis Mail α,,,,,,,,,,,
+Vangis Vambraces α,,,,,,,,,,,
+Vangis Coil α,,,,,,,,,,,
+Vangis Greaves α,,,,,,,,,,,
+Vangis Helm β,,,,,,,,,,,
+Vangis Mail β,,,,,,,,,,,
+Vangis Vambraces β,,,,,,,,,,,
+Vangis Coil β,,,,,,,,,,,
+Vangis Greaves β,,,,,,,,,,,
+Kulve Taroth's Fury α,,,,,,,,,,,
+Kulve Taroth's Ire α,,,,,,,,,,,
+Kulve Taroth's Rage α,,,,,,,,,,,
+Kulve Taroth's Malice α,,,,,,,,,,,
+Kulve Taroth's Wrath α,,,,,,,,,,,
+Kulve Taroth's Fury β,,,,,,,,,,,
+Kulve Taroth's Ire β,,,,,,,,,,,
+Kulve Taroth's Rage β,,,,,,,,,,,
+Kulve Taroth's Malice β,,,,,,,,,,,
+Kulve Taroth's Wrath β,,,,,,,,,,,
+Blossom Headgear α,,,,,,,,,,,
+Blossom Vest α,,,,,,,,,,,
+Blossom Cuffs α,,,,,,,,,,,
+Blossom Coat α,,,,,,,,,,,
+Blossom Boots α,,,,,,,,,,,
+Kirin Horn γ,,,,,,,,,,,
+Kirin Jacket γ,,,,,,,,,,,
+Kirin Longarms γ,,,,,,,,,,,
+Kirin Hoop γ,,,,,,,,,,,
+Kirin Leg Guards γ,,,,,,,,,,,
+Dante's Hair α,,,,,,,,,,,
+Dante's Coat α,,,,,,,,,,,
+Dante's Gloves α,,,,,,,,,,,
+Dante's Belt α,,,,,,,,,,,
+Dante's Leather Boots α,,,,,,,,,,,
+Empress Crown α,,,,,,,,,,,
+Empress Mail α,,,,,,,,,,,
+Empress Vambraces α,,,,,,,,,,,
+Empress Coil α,,,,,,,,,,,
+Empress Greaves α,,,,,,,,,,,
+Empress Crown β,,,,,,,,,,,
+Empress Mail β,,,,,,,,,,,
+Empress Vambraces β,,,,,,,,,,,
+Empress Coil β,,,,,,,,,,,
+Empress Greaves β,,,,,,,,,,,
 Sealed Eyepatch α,封印の眼帯α,Cache-œil scellé α,Benda nera α,Dichte Augenklappe α,,Tapa-olho Selado α,Zapieczętowana opaska α,Повязка с печатью α,봉인의 안대α,封印的眼罩α,رقعة عين مذهلة α
 Shadow Shades α,シャドウアイα,Lunettes obscures α,Occhiali del buio α,Schatten-Sonnenbrille α,,Óculos Escuros Sombrios α,Okulary cienia α,Теневые очки α,섀도우아이α,墨鏡α,ألوان ظلال α
+Kulu-Ya-Ku Head α,,,,,,,,,,,
 Wiggler Head α,ユラユラフェイクα,Tête de tortilleur α,Testa di tremogliola α,Wackelwurm-Kopf α,,Cabeça Treme-treme α,Głowa pełzacza α,Голова ползуна α,흔들흔들 페이크α,孑孓頭套α,عتاد رأس دودة ضخمة α

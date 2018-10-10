@@ -402,6 +402,14 @@ Bazelgeuse Fuse,爆鱗竜の爆腺,Mèche Bazelgeuse,Bazelgeuse: spoletta,Bazelg
 Bazelgeuse Talon,爆鱗竜の尖爪,Serre Bazelgeuse,Bazelgeuse: sperone,Bazelgeuse-Kralle,,Garra de Bazelgeuse,Szpon Bazelgeza,Коготь базельгейса,폭린룡의 첨예발톱,爆鱗龍的尖爪,برثن بازيلغيس
 Bazelgeuse Wing,爆鱗竜の翼,Aile Bazelgeuse,Bazelgeuse: ala,Bazelgeuse-Flügel,,Asa de Bazelgeuse,Skrzydło Bazelgeza,Крыло базельгейса,폭린룡의 날개,爆鱗龍之翼,جناح بازيلغيس
 Bazelgeuse Gem,爆鱗竜の宝玉,Gemme Bazelgeuse,Bazelgeuse: gemma,Bazelgeuse-Edelstein,,Gema de Bazelgeuse,Klejnot Bazelgeza,Самоцвет базельгейса,폭린룡의 보옥,爆鱗龍的寶玉,جوهرة بازيلغيس
+Deviljho Scale,,,,,,,,,,,
+Deviljho Hide,,,,,,,,,,,
+Deviljho Tallfang,,,,,,,,,,,
+Deviljho Talon,,,,,,,,,,,
+Deviljho Scalp,,,,,,,,,,,
+Deviljho Tail,,,,,,,,,,,
+Deviljho Saliva,,,,,,,,,,,
+Deviljho Gem,,,,,,,,,,,
 Immortal Dragonscale,不滅の龍鱗,Écaille de dragon immortel,Scaglia immortale,Unsterbliche Drachenschuppe,,Escama de Dragão Imortal,Nieśmiertelna smocza łuska,Бессмертная драконья чешуя,불멸의 용비늘,不滅的龍鱗,قشرة تنين سرمدية
 Nergigante Carapace,滅尽龍の堅殻,Cuirasse Nergigante,Nergigante: carapace,Nergigante-Rückenpanzer,,Carapaça de Nergigante,Karapaks Nergiganta,Панцирь нергиганта,멸진룡의 견갑각,滅盡龍的堅殼,درقة نيرغي
 Nergigante Tail,滅尽龍の尻尾,Queue Nergigante,Nergigante: coda,Nergigante-Schwanz,,Cauda de Nergigante,Ogon Nergiganta,Хвост нергиганта,멸진룡의 꼬리,滅盡龍的尾巴,ذيل نيرغي
@@ -426,6 +434,13 @@ Teostra Claw+,炎龍の尖爪,Griffe Teostra +,Teostra: artiglio+,Teostra-Klaue+
 Teostra Webbing,炎龍の翼,Palmure Teostra,Teostra: membrana,Teostra-Gewebe,,Membrana de Teostra,Błona pławna Teostry,Перепонка теостры,염룡의 날개,炎龍之翼,نسيج تيوسترا
 Teostra Powder,炎龍の塵粉,Poudre Teostra,Teostra: polvere,Teostra-Pulver,,Pó de Teostra,Proszek Teostry,Порошок теостры,염룡의 가루,炎龍的塵粉,مسحوق تيوسترا
 Teostra Gem,炎龍の宝玉,Gemme Teostra,Teostra: gemma,Teostra-Edelstein,,Gema de Teostra,Klejnot Teostry,Самоцвет теостры,염룡의 보옥,炎龍的寶玉,جوهرة تيوسترا
+Lunastra Scale+,,,,,,,,,,,
+Lunastra Carapace,,,,,,,,,,,
+Lunastra Mane,,,,,,,,,,,
+Lunastra Wing,,,,,,,,,,,
+Lunastra Horn,,,,,,,,,,,
+Lunastra Tail,,,,,,,,,,,
+Lunastra Gem,,,,,,,,,,,
 Daora Dragon Scale+,鋼の上龍鱗,Écaille Daora +,Daora: scaglia+,Daora-Drachenschuppe+,,Escama de Dragão de Daora+,Smocza łuska Daory+,Чешуя даоры+,강철의 용비늘+,鋼的上龍鱗,قشرة تنين داورا+
 Daora Carapace,鋼龍の堅殻,Cuirasse Daora,Daora: carapace,Daora-Rückenpanzer,,Carapaça de Daora,Karapaks Daory,Панцирь даоры,강룡의 견갑각,鋼龍的堅殼,درقة داورا
 Daora Webbing,鋼龍の翼,Palmure Daora,Daora: membrana,Daora-Gewebe,,Membrana de Daora,Błona pławna Daory,Перепонка даоры,강룡의 날개,鋼龍之翼,نسيج داورا
@@ -441,6 +456,12 @@ Xeno'jiiva Horn,冥灯龍の幽角,Corne Xeno'jiiva,Xeno'jiiva: corno,Xeno'jiiva
 Xeno'jiiva Claw,冥灯龍の幽爪,Griffe Xeno'jiiva,Xeno'jiiva: artiglio,Xeno'jiiva-Klaue,,Garra de Xeno'jiiva,Pazur Xeno'jiiva,Коготь ксено'джиивы,명등룡의 유조,冥燈龍的幽爪,مخلب زينوجيفا
 Xeno'jiiva Wing,冥灯龍の幽翼,Aile Xeno'jiiva,Xeno'jiiva: ala,Xeno'jiiva-Flügel,,Asa de Xeno'jiiva,Skrzydło Xeno'jiiva,Крыло ксено'джиивы,명등룡의 유익,冥燈龍的幽翼,جناح زينوجيفا
 Xeno'jiiva Gem,冥灯龍の幽玉,Gemme Xeno'jiiva,Xeno’jiiva: gemma,Xeno'jiiva-Edelstein,,Gema de Xeno'jiiva,Klejnot Xeno'jiiva,Самоцвет ксено'джиивы,명등룡의 유옥,冥燈龍的幽玉,جوهرة زينوجيفا
+Kulve Taroth Golden Scale,,,,,,,,,,,
+Kulve Taroth Golden Shell,,,,,,,,,,,
+Kulve Taroth Golden Nugget,,,,,,,,,,,
+Kulve Taroth Golden Spiralhorn,,,,,,,,,,,
+Kulve Taroth Golden Tailshell,,,,,,,,,,,
+Kulve Taroth Golden Glimstone,,,,,,,,,,,
 Streamstone Shard,龍脈石のかけら,Éclat de pierre-dragon,Frammento di flussopietra,Stromsteinscherbe,,Estilhaço de Pedriacho,Okruch potokowca,Осколок поточного камня,용맥석의 조각,龍脈石碎片,شظية حجر تيار
 Streamstone,龍脈石,Pierre-dragon,Flussopietra,Stromstein,,Pedriacho,Potokowiec,Поточный камень,용맥석,龍脈石,حجر تيار
 Gleaming Streamstone,大龍脈石,Pierre-dragon scintillante,Flussopietra splendente,Schimmernder Stromstein,,Pedriacho Reluzente,Lśniący potokowiec,Мерцающий поточный камень,대용맥석,大龍脈石,حجر تيار لامع
@@ -481,13 +502,25 @@ Flying Coin,飛竜コイン,Pièce de l'air,Moneta volante,Flieger-Münze,,Moeda
 Pinnacle Coin,闘技王のコイン,Pièce "Apogée",Moneta apogeo,Spitzenmünze,,Moeda Auge,Moneta szczytu,Монета мастера,격투왕코인,鬥技王硬幣,عملة القمة
 Hunter King Coin,狩猟王のコイン,Pièce "Roi de la chasse",Moneta re dei cacciatori,Jägerkönigs-Münze,,Moeda Caçador-rei,Moneta Króla Łowców,Монета славного охотника,수렵왕코인,狩獵王硬幣,عملة ملك الصيادين
 Ace Hunter Coin,撃龍王のコイン,Pièce "As de la chasse",Moneta Grancaccia,Jägerass-Münze,,Moeda Caçador-ás,Moneta asa łowów,Монета великого охотника,격룡왕코인,擊龍王硬幣,عملة خبير الصيادين
+Kulu-Ya-Ku Ticket,,,,,,,,,,,
 Watcher Lens,機械獣のレンズ,Lentille de Veilleur,Lente di Vedetta,Wächter-Linse,,Lente de Vigia,Obiektyw Obserwatora,Линза Знатока,기계동물의 렌즈,機械動物的鏡頭,عدسات المراقب
 Nora Brave Trophy,ノラ族義勇兵の証,Trophée de valeur Nora,Trofeo Audace Nora,Nora-Kriegertrophäe,,Troféu de Valente dos Nora,Trofeum wojownika Nora,Трофей воина Нора,노라족 의용병의 증표,諾拉族勇者之證,جائزة محاربة النورا
+Spring Blossom Ticket,,,,,,,,,,,
+Summer Twilight Ticket,,,,,,,,,,,
+Vaal Hazak Ticket,,,,,,,,,,,
+Kirin Ticket,,,,,,,,,,,
 Black Bandage,黒い包帯,Bandage noir,Tessuto nero,Schwarze Bandage,,Bandagem Negra,Czarny bandaż,Черная повязка,검은 붕대,黑色繃帶,ضمادة سوداء
 Black Crystal Ticket,黒い水晶チケット,Ticket cristal noir,Buono cristallo nero,Schwarzer-Kristall-Ticket,,Bilhete de Cristal Negro,Kwit na czarny kryształ,Билет черного кристалла,검은 수정 티켓,黑水晶票,تذكرة بلورية سوداء
 Wiggler Ticket,ユラユラチケット,Ticket tortilleur,Buono tremogliola,Wackelwurm-Ticket,,Bilhete de Treme-treme,Kwit pełzacza,Билет ползуна,흔들흔들 티켓,孑孓票,تذكرة الدودة الضخمة
+Mega Man Ticket,,,,,,,,,,,
 SFV Ticket,ＳＦⅤチケット,Ticket SFV,Buono SFV,SFV-Ticket,,Bilhete de SFV,Kwit SFV,Билет SFV,SF V 티켓,ＳＦＶ票,تذكرة Street Fighter V
+SFV Ticket III,,,,,,,,,,,
+SFV Ticket II,,,,,,,,,,,
 Azure Star Shard,蒼星のかけら,Fragment d'étoile céleste,Frammento astro celeste,Azurstern-Scherbe,,Fragmento de Estrela Lazúli,Okruch Lazurowej Gwiazdy,Осколок лазурной звезды,파란별의 조각,蒼星碎片,شظية نجمية لازوردية
+Spring Insect Field Guide,,,,,,,,,,,
+Red Orb,,,,,,,,,,,
+Master Craftsman's Blueprint,,,,,,,,,,,
+Bushi Ticket,,,,,,,,,,,
 Steel Egg,鋼のたまご,Œuf d'acier,Uovo d'acciaio,Stahlei,,Ovo de Aço,Stalowe jajo,Стальное яйцо,강철알,鋼蛋,بيضة صلبة
 Silver Egg,銀のたまご,Œuf d'argent,Uovo d'argento,Silberei,,Ovo Prateado,Srebrne jajo,Серебряное яйцо,은알,銀蛋,بيضة فضية
 Golden Egg,金のたまご,Œuf d'or,Uovo d'oro,Goldei,,Ovo Dourado,Złote jajo,Золотое яйцо,금알,金蛋,بيضة ذهبية
@@ -507,6 +540,9 @@ Platinum Scale,白金のウロコ,Écaille de platine,Scaglia di platino,Platin-
 Platinum Scale+,白金の大ウロコ,Grande écaille de platine,Scaglia di platino+,Platin-Schuppe+,,Escama Platinada+,Platynowa łuska+,Платиновая чешуя+,백금 비늘+,白金的大鱗片,قشرة بلاتينية+
 Gilded Scale,金色のウロコ,Écaille rouge,Scaglia dorata,Vergoldete Schuppe,,Escama Áurea,Złocona łuska,Позолоченная чешуя,금빛 비늘,金色的鱗片,قشرة مطلية بالذهب
 Gilded Scale+,金色の大ウロコ,Grande écaille rouge,Scaglia dorata+,Vergoldete Schuppe+,,Escama Áurea+,Złocona łuska+,Позолоченная чешуя+,금빛 비늘+,金色的大鱗片,قشرة مطلية بالذهب+
+Golden Fragment,,,,,,,,,,,
+Golden Chunk,,,,,,,,,,,
+Gold Chip Fragment,,,,,,,,,,,
 Normal Ammo 2,LV2 通常弾,Normal II,Proiettili normali II,Normal II,,Munição Normal 2,Amunicja normalna 2,Обычные снаряды 2,LV2 통상탄,LV2通常彈,ذخيرة عادية 2
 Normal Ammo 3,LV3 通常弾,Normal III,Proiettili normali III,Normal III,,Munição Normal 3,Amunicja normalna 3,Обычные снаряды 3,LV3 통상탄,LV3通常彈,ذخيرة عادية 3
 Pierce Ammo 1,LV1 貫通弾,Perforant,Proiettili perforanti I,Perforation I,,Munição Perfurante 1,Amunicja przebijająca 1,Проникающие снаряды 1,LV1 관통탄,LV1貫通彈,ذخيرة ثقب 1

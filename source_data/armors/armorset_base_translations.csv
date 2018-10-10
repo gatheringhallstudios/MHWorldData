@@ -32,6 +32,7 @@ Odogaron,ガロン,Odogaron,Odogaron,Odogaron-Set,,Odogaron,Odogarona,Одога
 Rathalos,レウス,Rathalos,Rathalos,Rathalos-Set,,Rathalos,Rathalosa,Раталос,레우스,火龍,راذالوس
 Diablos,ディアブロ,Diablos,Diablos,Diablos-Set,,Diablos,Diablosa,Диаблос,디아블로,角龍,ديابلوس
 Kirin,キリン,Kirin,Kirin,Kirin-Set,,Kirin,Kirina,Кирин,키린,麒麟,كيرين
+Blossom,,,,,,,,,,,
 Leather α,レザーα,Cuir α,Cuoio α,Leder-Set α,,Couro α,Skórzany α,Кожаный α,레더α,皮製α,جلدي α
 Leather β,レザーβ,Cuir β,Cuoio β,Leder-Set β,,Couro β,Skórzany β,Кожаный β,레더β,皮製β,جلدي β
 Chainmail α,チェーンα,Mailles α,Maglia α,Ketten-Set α,,Cota de Malha α,Kolczy α,Кольчужный α,체인α,鎖甲α,فولاذي α
@@ -126,6 +127,8 @@ Death Stench β,デスギアβ,Putride β,Putrefatto β,Todesgestank-Set β,,Put
 Skull α,スカルα,Crâne α,Scheletrico α,Schädel-Set α,,Caveira α,Czaszki α,Череп α,스컬α,骷髏α,الجمجمة α
 Nergigante α,オーグα,Nergigante α,Nergigante α,Nergigante-Set α,,Nergigante α,Nergiganta α,Нергигант α,오그α,戰紋α,نيرغي α
 Nergigante β,オーグβ,Nergigante β,Nergigante β,Nergigante-Set β,,Nergigante β,Nergiganta β,Нергигант β,오그β,戰紋β,نيرغي β
+Teostra α,,,,,,,,,,,
+Teostra β,,,,,,,,,,,
 Kushala α,クシャナα,Kushala Daora α,Kushala α,Kushala-Set α,,Kushala α,Kushali α,Кушала α,크샤나α,鋼龍α,كوشالا α
 Kushala β,クシャナβ,Kushala Daora β,Kushala β,Kushala-Set β,,Kushala β,Kushali β,Кушала β,크샤나β,鋼龍β,كوشالا β
 Vaal Hazak α,ウルズα,Vaal Hazak α,Vaal Hazak α,Vaal-Hazak-Set α,,Vaal Hazak α,Vaal Hazaka α,Ваал-хазак α,우르즈α,烏爾德α,فال هازاك α
@@ -139,6 +142,16 @@ Guild Cross β,ギルドクロスβ,Croix de Guilde β,Gilda β,Gildenkreuz-Set 
 Dragonking α,竜王の隻眼α,Roi-Dragon α,Re drago α,Drachenkönig-Set α,,Dragão-rei α,Smoczego króla α,Драконий король α,용왕의쌍안α,龍王的獨眼α,الملك التنين α
 Commission α,シーカーα,Commission α,Commissione α,Kommissionsset α,,Comissão α,Komisji α,Экспедиция α,시커α,追蹤者α,اللجنة α
 Commission β,シーカーβ,Commission β,Commissione β,Kommissionsset β,,Comissão β,Komisji β,Экспедиция β,시커β,追蹤者β,اللجنة β
+Deviljho α,,,,,,,,,,,
+Deviljho β,,,,,,,,,,,
+Kulve Taroth α,,,,,,,,,,,
+Kulve Taroth β,,,,,,,,,,,
+Blossom α,,,,,,,,,,,
+Kirin γ,,,,,,,,,,,
+Dante α,,,,,,,,,,,
+Lunastra α,,,,,,,,,,,
+Lunastra β,,,,,,,,,,,
 Sealed Eyepatch α,封印の眼帯α,Cache-œil scellé α,Benda nera α,Dichte Augenklappe α,,Tapa-olho Selado α,Zapieczętowana opaska α,Повязка с печатью α,봉인의 안대α,封印的眼罩α,رقعة عين مذهلة α
 Shadow Shades α,シャドウアイα,Lunettes obscures α,Occhiali del buio α,Schatten-Sonnenbrille α,,Ócul. Esc. Sombrios α,Okulary cienia α,Теневые очки α,섀도우아이α,墨鏡α,ألوان ظلال α
+Kulu-Ya-Ku Head α,,,,,,,,,,,
 Wiggler Head α,ユラユラフェイクα,Tête de tortilleur α,Tremogliola α,Wackelwurm-Kopf α,,Cabeça Treme-treme α,Głowa pełzacza α,Голова ползуна α,흔들흔들 페이크α,孑孓頭套α,عتاد رأس دودة ضخمة α
