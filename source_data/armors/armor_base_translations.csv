@@ -1,0 +1,641 @@
+name_en,name_ja,name_fr,name_it,name_de,name_es,name_pt,name_pl,name_ru,name_ko,name_zh,name_ar
+Leather Headgear,レザーヘッド,Lunettes en cuir,Copricapo di cuoio,Leder-Kopfschutz,,Elmo de Couro,Skórzany kaptur,Кожаный шлем,레더헤드,皮製頭飾,عتاد رأس جلدي
+Leather Mail,レザーベスト,Cotte en cuir,Maglia di cuoio,Leder-Panzerung,,Armadura de Couro,Skórzana zbroja,Кожаный доспех,레더베스트,皮製服飾,درع جلدي
+Leather Gloves,レザーグラブ,Gants en cuir,Guanti di cuoio,Leder-Handschuhe,,Luvas de Couro,Skórzane rękawice,Кожаные наручи,레더글러브,皮製手套,قفازات جلدية
+Leather Belt,レザーベルト,Ceinture en cuir,Cintura di cuoio,Leder-Gürtel,,Cinto de Couro,Skórzany pas,Кожаный пояс,레더벨트,皮製皮帶,حزام جلدي
+Leather Trousers,レザーパンツ,Pantalon en cuir,Pantaloni di cuoio,Leder-Hose,,Calças de Couro,Skórzane spodnie,Кожаные поножи,레더팬츠,皮製長褲,سروال جلدي
+Chainmail Headgear,チェーンヘッド,Heaume de mailles,Copricapo di maglia,Ketten-Kopfschutz,,Elmo de Cota de Malha,Hełm kolczy,Кольчужный шлем,체인헤드,鎖甲頭飾,خوذة حلقية فولاذية
+Chainmail Vest,チェーンベスト,Veste de mailles,Pettorina di maglia,Ketten-Weste,,Col. de Cota de Malha,Kolczuga,Кольчужный доспех,체인베스트,鎖甲服飾,صديري حلقي فولاذي
+Chainmail Gloves,チェーングラブ,Gants de mailles,Guanti di maglia,Ketten-Handschuhe,,Luvas de Cota de Malha,Rękawice kolcze,Кольчужные наручи,체인글러브,鎖甲手套,قفازات حلقية فولاذية
+Chainmail Belt,チェーンベルト,Ceinture de mailles,Cintura di maglia,Ketten-Gürtel,,Cinto de Cota de Malha,Pas kolczy,Кольчужный пояс,체인벨트,鎖甲皮帶,حزام حلقي فولاذي
+Chainmail Trousers,チェーンパンツ,Pantalon de mailles,Pantaloni di maglia,Ketten-Hose,,Calças de Cota de Malha,Spodnie kolcze,Кольчужные поножи,체인팬츠,鎖甲長褲,سروال حلقي فولاذي
+Hunter's Headgear,ハンターヘルム,Coiffe de chasseur,Elmo del cacciatore,Jäger-Kopfschutz,,Elmo do Caçador,Nakrycie głowy łowcy,Охотничий шлем,헌터헬름,獵人頭盔,عتاد رأس الصيّاد
+Hunter's Mail,ハンターメイル,Cotte de chasseur,Cotta del cacciatore,Jäger-Panzerung,,Armadura do Caçador,Zbroja łowcy,Охотничий доспех,헌터메일,獵人鎧甲,درع الصياد
+Hunter's Vambraces,ハンターアーム,Avant-bras de chasseur,Parabraccia del cacciatore,Jäger-Armschienen,,Avambraços do Caçador,Zarękawia łowcy,Охотничьи наручи,헌터암,獵人腕甲,درع ساعد الصياد
+Hunter's Coil,ハンターコイル,Boucle de chasseur,Spira del cacciatore,Jäger-Hüftring,,Cinturão do Caçador,Pas łowcy,Охотничий пояс,헌터코일,獵人腰甲,لفيفة الصياد
+Hunter's Greaves,ハンターグリーヴ,Grèves de chasseur,Schinieri del cacciatore,Jäger-Beinschienen,,Grevas de Caçador,Nagolenice łowcy,Охотничьи поножи,헌터그리브,獵人護腿,درع ساق الصياد
+Bone Helm,ボーンヘルム,Casque d'os,Elmo d'osso,Knochen-Helm,,Elmo Ósseo,Kościany hełm,Костяной шлем,본헬름,骨製頭盔,خوذة عظمية
+Bone Mail,ボーンメイル,Veste d'os,Cotta d'osso,Knochen-Panzerung,,Armadura Óssea,Kościana zbroja,Костяной доспех,본메일,骨製鎧甲,درع عظمي
+Bone Vambraces,ボーンアーム,Avant-bras d'os,Parabraccia d'osso,Knochen-Armschienen,,Avambraços Ósseos,Kościane zarękawia,Костяные наручи,본암,骨製腕甲,درع ساعد عظمي
+Bone Coil,ボーンコイル,Tassette d'os,Spira d'osso,Knochen-Hüftring,,Cinturão Ósseo,Kościany pas,Костяной пояс,본코일,骨製腰甲,لفيفة عظمية
+Bone Greaves,ボーングリーヴ,Jambières d'os,Schinieri d'osso,Knochen-Beinschienen,,Grevas Ósseas,Kościane nagolenice,Костяные поножи,본그리브,骨製護腿,درع ساق عظمي
+Vespoid Helm,ランゴヘルム,Calot Vespoid,Elmo di Vespoid,Vespoid-Helm,,Elmo de Vespoidea,Hełm z Vespoida,Осиный шлем,랑고헬름,巨蜂頭盔,خوذة فيسبويد
+Vespoid Mail,ランゴメイル,Cotte Vespoid,Cotta di Vespoid,Vespoid-Panzerung,,Armadura de Vespoidea,Zbroja z Vespoida,Осиный доспех,랑고메일,巨蜂鎧甲,درع فيسبويد
+Vespoid Vambraces,ランゴアーム,Avant-bras Vespoid,Parabraccia di Vespoid,Vespoid-Armschienen,,Avambraços de Vespoidea,Zarękawia z Vespoida,Осиные наручи,랑고암,巨蜂腕甲,درع ساعد فيسبويد
+Vespoid Coil,ランゴコイル,Tassette Vespoid,Spira di Vespoid,Vespoid-Hüftring,,Cinturão de Vespoidea,Pas z Vespoida,Осиный пояс,랑고코일,巨蜂腕甲,لفيفة فيسبويد
+Vespoid Greaves,ランゴグリーヴ,Jambières Vespoid,Schinieri di Vespoid,Vespoid-Beinschienen,,Grevas de Vespoidea,Nagolenice z Vespoida,Осиные поножи,랑고그리브,巨蜂護腿,درع ساق فيسبويد
+Kestodon Guards,ケストガード,Gardes Kestodon,Protezioni di Kestodon,Kestodon-Armschutz,,Cotoveleiras de Kestodonte,Naramienniki z Kestodona,Щитки кестодона,케스토가드,冠突龍護手,درع كيستودون
+Gajau Boots,ガライーブーツ,Bottes Gajau,Stivali di Gajau,Gajau-Stiefel,,Botas de Gajau,Buty z Gajau,Сапоги гаджау,가쟈우부츠,咬魚靴,حذاء غاجاو
+Jagras Helm,ジャグラスヘルム,Casque Jagras,Elmo di Jagras,Jagras-Helm,,Elmo de Jagras,Hełm z Jagrasa,Яграсовый шлем,쟈그라스헬름,凶豺龍頭盔,خوذة جاغراس
+Jagras Mail,ジャグラスメイル,Tunique Jagras,Cotta di Jagras,Jagras-Panzerung,,Armadura de Jagras,Zbroja z Jagrasa,Яграсовый доспех,쟈그라스메일,凶豺龍鎧甲,درع جاغراس
+Jagras Vambraces,ジャグラスアーム,Avant-bras Jagras,Parabraccia di Jagras,Jagras-Armschienen,,Avambraços de Jagras,Zarękawia z Jagrasa,Яграсовые наручи,쟈그라스암,凶豺龍腕甲,درع ساعد جاغراس
+Jagras Coil,ジャグラスコイル,Boucle Jagras,Spira di Jagras,Jagras-Hüftring,,Cinturão de Jagras,Pas z Jagrasa,Яграсовый пояс,쟈그라스코일,凶豺龍腰甲,لفيفة جاغراس
+Jagras Greaves,ジャグラスグリーヴ,Cuissardes Jagras,Schinieri di Jagras,Jagras-Beinschienen,,Grevas de Jagras,Nagolenice z Jagrasa,Яграсовые поножи,쟈그라스그리브,凶豺龍護腿,درع ساق جاغراس
+Kulu Headpiece,クルルヘルム,Voile Kulu,Elmo di Kulu,Kulu-Kopfschutz,,Adorno de Kulu,Osłona głowy z Kulu,Шлем кулу,쿠루루헬름,搔鳥頭盔,غطاء رأس كولو
+Kulu Mail,クルルメイル,Corset Kulu,Cotta di Kulu,Kulu-Panzerung,,Armadura de Kulu,Zbroja z Kulu,Доспех кулу,쿠루루메일,搔鳥鎧甲,مدرع كولو
+Kulu Vambraces,クルルアーム,Avant-bras Kulu,Parabraccia di Kulu,Kulu-Armschienen,,Avambraços de Kulu,Zarękawia z Kulu,Наручи кулу,쿠루루암,搔鳥腕甲,درع ساعد كولو
+Kulu Coil,クルルコイル,Écharpe Kulu,Spira di Kulu,Kulu-Hüftring,,Cinturão de Kulu,Pas z Kulu,Пояс кулу,쿠루루코일,搔鳥腰甲,لفيفة كولو
+Kulu Greaves,クルルグリーヴ,Pantalon Kulu,Schinieri di Kulu,Kulu-Beinschienen,,Grevas de Kulu,Nagolenice z Kulu,Поножи кулу,쿠루루그리브,搔鳥護腿,درع ساق كولو
+Alloy Helm,アロイヘルム,Heaume en alliage,Elmo in lega,Legierungs-Helm,,Elmo de Liga Leve,Hełm ze stopu,Литой шлем,얼로이헬름,合金頭盔,خوذة خليط معدني
+Alloy Mail,アロイメイル,Cotte en alliage,Cotta in lega,Legierungs-Panzerung,,Armadura de Liga Leve,Zbroja ze stopu,Литой доспех,얼로이메일,合金鎧甲,درع خليط معدني
+Alloy Vambraces,アロイアーム,Avant-bras en alliage,Parabraccia in lega,Legierungs-Armschienen,,Avambraços de Liga Leve,Zarękawia ze stopu,Литые наручи,얼로이암,合金腕甲,درع ساعد من خليط معدني
+Alloy Coil,アロイコイル,Boucle en alliage,Spira in lega,Legierungs-Hüftring,,Cinturão de Liga Leve,Pas ze stopu,Литой пояс,얼로이코일,合金腰甲,لفيفة خليط معدني
+Alloy Greaves,アロイグリーヴ,Grèves en alliage,Schinieri in lega,Legierungs-Beinschienen,,Grevas de Liga Leve,Nagolenice ze stopu,Литые поножи,얼로이그리브,合金護腿,درع ساق خليط معدني
+Pukei Hood,プケプケヘルム,Capuche Pukei,Cappuccio di Pukei,Pukei-Kopfschutz,,Capuz de Pukei,Kaptur z Pukei,Капюшон поки,푸케푸케헬름,毒妖鳥頭盔,قلنسوة بوكي
+Pukei Mail,プケプケメイル,Cotte Pukei,Cotta di Pukei,Pukei-Panzerung,,Armadura de Pukei,Zbroja z Pukei,Доспех поки,푸케푸케메일,毒妖鳥鎧甲,درع بوكي
+Pukei Vambraces,プケプケアーム,Gantelets Pukei,Parabraccia di Pukei,Pukei-Armschienen,,Avambraços de Pukei,Zarękawia z Pukei,Наручи поки,푸케푸케암,毒妖鳥腕甲,درع ساعد بوكي
+Pukei Coil,プケプケコイル,Tassette Pukei,Spira di Pukei,Pukei-Hüftring,,Cinturão de Pukei,Pas z Pukei,Пояс поки,푸케푸케코일,毒妖鳥腰甲,لفيفة بوكي
+Pukei Greaves,プケプケグリーヴ,Bottes Pukei,Schinieri di Pukei,Pukei-Beinschienen,,Grevas de Pukei,Nagolenice z Pukei,Поножи поки,푸케푸케그리브,毒妖鳥護腿,درع ساق بوكي
+Barroth Helm,ボロスヘルム,Heaume Barroth,Elmo di Barroth,Barroth-Helm,,Elmo de Barroth,Hełm z Barrotha,Барротовый шлем,보로스헬름,土砂龍頭盔,خوذة باروث
+Barroth Mail,ボロスメイル,Cuirasse Barroth,Cotta di Barroth,Barroth-Panzerung,,Armadura de Barroth,Zbroja z Barrotha,Барротовый доспех,보로스메일,土砂龍鎧甲,درع باروث
+Barroth Vambraces,ボロスアーム,Avant-bras Barroth,Parabraccia di Barroth,Barroth-Armschienen,,Avambraços de Barroth,Zarękawia z Barrotha,Барротовые наручи,보로스암,土砂龍腕甲,درع ساعد باروث
+Barroth Coil,ボロスコイル,Tassette Barroth,Spira di Barroth,Barroth-Hüftring,,Cinturão de Barroth,Pas z Barrotha,Барротовый пояс,보로스코일,土砂龍腰甲,لفيفة باروث
+Barroth Greaves,ボロスグリーヴ,Grèves Barroth,Schinieri di Barroth,Barroth-Beinschienen,,Grevas de Barroth,Nagolenice z Barrotha,Барротовые поножи,보로스그리브,土砂龍護腿,درع ساق باروث
+Jyura Helm,ジュラヘルム,Heaume Jyura,Elmo di Jyura,Jyura-Helm,,Elmo de Jyura,Hełm z Jyura,Юратодовый шлем,쥬라헬름,泥魚龍頭盔,خوذة جيورا
+Jyura Mail,ジュラメイル,Cuirasse Jyura,Cotta di Jyura,Jyura-Panzerung,,Armadura de Jyura,Zbroja z Jyura,Юратодовый доспех,쥬라메일,泥魚龍鎧甲,درع جيورا
+Jyura Vambraces,ジュラアーム,Avant-bras Jyura,Parabraccia di Jyura,Jyura-Armschienen,,Avambraços de Jyura,Zarękawia z Jyura,Юратодовые наручи,쥬라암,泥魚龍腕甲,درع ساعد جيورا
+Jyura Coil,ジュラコイル,Tassette Jyura,Spira di Jyura,Jyura-Hüftring,,Cinturão de Jyura,Pas z Jyura,Юратодовый пояс,쥬라코일,泥魚龍腰甲,لفيفة جيورا
+Jyura Greaves,ジュラグリーヴ,Grèves Jyura,Schinieri di Jyura,Jyura-Beinschienen,,Grevas de Jyura,Nagolenice z Jyura,Юратодовые поножи,쥬라그리브,泥魚龍護腿,درع ساق جيورا
+Kadachi Helm,カガチヘルム,Toque Kadachi,Elmo di Kadachi,Kadachi-Helm,,Elmo de Kadachi,Hełm z Kadachi,Шлем кадачи,카가치헬름,飛雷龍頭盔,خوذة كاداتشي
+Kadachi Mail,カガチメイル,Veste Kadachi,Cotta di Kadachi,Kadachi-Panzerung,,Armadura de Kadachi,Zbroja z Kadachi,Доспех кадачи,카가치메일,飛雷龍鎧甲,درع كاداتشي
+Kadachi Vambraces,カガチアーム,Gantelets Kadachi,Parabraccia di Kadachi,Kadachi-Armschienen,,Avambraços de Kadachi,Zarękawia z Kadachi,Наручи кадачи,카가치암,飛雷龍腕甲,درع ساعد كاداتشي
+Kadachi Coil,カガチコイル,Jupette Kadachi,Spira di Kadachi,Kadachi-Hüftring,,Cinturão de Kadachi,Pas z Kadachi,Пояс кадачи,카가치코일,飛雷龍腰甲,لفيفة كاداتشي
+Kadachi Greaves,カガチグリーヴ,Grèves Kadachi,Schinieri di Kadachi,Kadachi-Beinschienen,,Grevas de Kadachi,Nagolenice z Kadachi,Поножи кадачи,카가치그리브,飛雷龍護腿,درع ساق كاداتشي
+High Metal Helm,ハイメタヘルム,Heaume haut-métal,Elmo in ipermetallo,Hochmetall-Helm,,Elmo de Metal Denso,Hełm z metalu,Шлем высшего металла,하이메탈헬름,礦石頭盔,خوذة معدن قوي
+High Metal Mail,ハイメタメイル,Cotte haut-métal,Cotta in ipermetallo,Hochmetall-Panzerung,,Armadura de Metal Denso,Zbroja z metalu,Доспех высшего металла,하이메탈메일,礦石鎧甲,درع معدني عالي المستوى
+High Metal Braces,ハイメタアーム,Gantelets haut-métal,Parabraccia in ipermetallo,Hochmetall-Armschienen,,Braçadeiras Metal Denso,Zarękawia z metalu,Наручи высшего металла,하이메탈암,礦石腕甲,دعامات معدن قوي
+High Metal Coil,ハイメタコイル,Tassette haut-métal,Spira in ipermetallo,Hochmetall-Hüftring,,Cinturão de Metal Denso,Pas z metalu,Пояс высшего металла,하이메탈코일,礦石腰甲,لفيفة معدن قوي
+High Metal Greaves,ハイメタグリーヴ,Grèves haut-métal,Schinieri in ipermetallo,Hochmetall-Beinschienen,,Grevas de Metal Denso,Nagolenice z metalu,Поножи высшего металла,하이메탈그리브,礦石護腿,درع ساق معدن قوي
+King Beetle Vertex,オウビートテスタ,Vertex Scarabée,Vertex dello scarabeo,Königskäfer-Vertex,,Vértice de Besouro-rei,Wierzchołek żuka król.,Голова королевского жука,킹비트테스타,獨角仙護頭,رأس الخنفساء الملك
+King Beetle Thorax,オウビートペット,Thorax Scarabée,Torace dello scarabeo,Königskäfer-Thorax,,Tórax de Besouro-rei,Tułów żuka królewskiego,Панцирь королевск. жука,킹비트페트,獨角仙上身,صدر الخنفساء الملك
+King Beetle Brachia,オウビートマーノ,Brachia Scarabée,Brachia dello scarabeo,Königskäfer-Brachia,,Braços de Besouro-rei,Ramiona żuka król.,Предплечье корол. жука,킹비트마노,獨角仙護袖,عضد الخنفساء الملك
+King Beetle Elytra,オウビートアンカ,Élytre Scarabée,Elitre dello scarabeo,Königskäfer-Elytren,,Élitros de Besouro-rei,Okrywy żuka królewskiego,Надкрылье корол. жука,킹비트앙카,獨角仙護腰具,غمد الخنفساء الملك
+King Beetle Crura,オウビートガンバ,Crura Scarabée,Crura dello scarabeo,Königskäfer-Crura,,Crurais de Besouro-rei,Nogi żuka królewskiego,Лапы королевск. жука,킹비트감바,獨角仙腳,درع رِجل الخنفساء الملك
+Butterfly Vertex,パピメルテスタ,Vertex Papillon,Vertex di farfalla,Schmetterling-Vertex,,Vértice de Borboleta,Wierzchołek motyla,Головка бабочки,파피메르테스타,燕尾蝶護頭,رأس الفراشة
+Butterfly Thorax,パピメルペット,Thorax Papillon,Torace di farfalla,Schmetterling-Thorax,,Tórax de Borboleta,Tułów motyla,Панцирь бабочки,파피메르페트,燕尾蝶上身,صدر الفراشة
+Butterfly Brachia,パピメルマーノ,Brachia Papillon,Brachia di farfalla,Schmetterling-Brachia,,Braços de Borboleta,Ramiona motyla,Предплечье бабочки,파피메르마노,燕尾蝶護袖,عضد الفراشة
+Butterfly Elytra,パピメルアンカ,Élytre Papillon,Elitre di farfalla,Schmetterling-Elytren,,Élitros de Borboleta,Okrywy motyla,Надкрылье бабочки,파피메르앙카,燕尾蝶護腰具,غمد الفراشة
+Butterfly Crura,パピメルガンバ,Crura Papillon,Crura di farfalla,Schmetterling-Crura,,Crurais de Borboleta,Nogi motyla,Лапки бабочки,파피메르감바,燕尾蝶腳,درع رِجل الفراشة
+Shamos Goggles,シャムゴーグル,Jumelles Shamos,Occhiali di Shamos,Shamos-Brille,,Óculos de Shamos,Gogle z Shamosa,Очки шамоса,샤무고글,貓蜥龍護目鏡,نظارات شاموس
+Hornetaur Helm,タロスヘルム,Heaume Hornetaur,Elmo di Hornetaur,Hornetaur-Helm,,Elmo de Chifrotauro,Hełm z Hornetaura,Роготавровый шлем,타로스헬름,巨甲蟲頭盔,خوذة هورنتور
+Hornetaur Mail,タロスメイル,Cuirasse Hornetaur,Cotta di Hornetaur,Hornetaur-Panzerung,,Armadura de Chifrotauro,Zbroja z Hornetaura,Роготавровый доспех,타로스메일,巨甲蟲鎧甲,درع هورنتور
+Hornetaur Vambraces,タロスアーム,Avant-bras Hornetaur,Parabraccia di Hornetaur,Hornetaur-Armschienen,,Avambraços Chifrotauro,Zarękawia z Hornetaura,Роготавровые наручи,타로스암,巨甲蟲腕甲,درع ساعد هورنتور
+Hornetaur Coil,タロスコイル,Tassette Hornetaur,Spira di Hornetaur,Hornetaur-Hüftring,,Cinturão de Chifrotauro,Pas z Hornetaura,Роготавровый пояс,타로스코일,巨甲蟲腰甲,لفيفة هورنتور
+Hornetaur Greaves,タロスグリーヴ,Grèves Hornetaur,Schinieri di Hornetaur,Hornetaur-Beinschienen,,Grevas de Chifrotauro,Golenie z Hornetaura,Роготавровые поножи,타로스그리브,巨甲蟲護腿,درع ساق هورنتور
+Anja Helm,ジャナフヘルム,Casque Anjanath,Elmo di Anja,Anjanath-Helm,,Elmo de Anja,Hełm z Anja,Шлем анджи,쟈나프헬름,蠻顎龍頭盔,خوذة أنجا
+Anja Mail,ジャナフメイル,Manteau Anjanath,Cotta di Anja,Anjanath-Panzerung,,Armadura de Anja,Zbroja z Anja,Доспех анджи,쟈나프메일,蠻顎龍鎧甲,درع أنجا
+Anja Vambraces,ジャナフアーム,Avant-bras Anjanath,Parabraccia di Anja,Anjanath-Armschienen,,Avambraços de Anja,Zarękawia z Anja,Наручи анджи,쟈나프암,蠻顎龍腕甲,درع ساعد أنجا
+Anja Coil,ジャナフコイル,Boucle Anjanath,Spira di Anja,Anjanath-Hüftring,,Cinturão de Anja,Pas z Anja,Пояс анджи,쟈나프코일,蠻顎龍腰甲,لفيفة أنجا
+Anja Greaves,ジャナフグリーヴ,Genouillère Anjanath,Schinieri di Anja,Anjanath-Beinschienen,,Grevas de Anja,Nagolenice z Anja,Поножи анджи,쟈나프그리브,蠻顎龍護腿,درع ساق أنجا
+Rathian Helm,レイアヘルム,Heaume Rathian,Elmo di Rathian,Rathian-Helm,,Elmo de Rathian,Hełm z Rathiany,Ратиановый шлем,레이아헬름,雌火龍頭盔,خوذة راثيان
+Rathian Mail,レイアメイル,Cotte Rathian,Cotta di Rathian,Rathian-Panzerung,,Armadura de Rathian,Zbroja z Rathiany,Ратиановый доспех,레이아메일,雌火龍鎧甲,درع راثيان
+Rathian Vambraces,レイアアーム,Avant-bras Rathian,Parabraccia di Rathian,Rathian-Armschienen,,Avambraços de Rathian,Zarękawia z Rathiany,Ратиановые наручи,레이아암,雌火龍腕甲,درع ساعد راثيان
+Rathian Coil,レイアコイル,Jupe Rathian,Spira di Rathian,Rathian-Hüftring,,Cinturão de Rathian,Pas z Rathiany,Ратиановый пояс,레이아코일,雌火龍腰甲,لفيفة راثيان
+Rathian Greaves,レイアグリーヴ,Grèves Rathian,Schinieri di Rathian,Rathian-Beinschienen,,Grevas de Rathian,Nagolenice z Rathiany,Ратиановые поножи,레이아그리브,雌火龍護腿,درع ساق راثيان
+Tzitzi Headgear,ツィツィヘルム,Lunettes Tzitzi,Elmo di Tzitzi,Tzitzi-Kopfschutz,,Máscara de Tzitzi,Maska z Tzitzi,Очки цици,치치헬름,眩鳥頭盔,عتاد رأس تسيتسي
+Tzitzi Mail,ツィツィメイル,Cotte Tzitzi,Cotta di Tzitzi,Tzitzi-Panzerung,,Armadura de Tzitzi,Zbroja z Tzitzi,Доспех цици,치치메일,眩鳥鎧甲,درع تسيتسي
+Tzitzi Vambraces,ツィツィアーム,Avant-bras Tzitzi,Parabraccia di Tzitzi,Tzitzi-Armschienen,,Avambraços de Tzitzi,Zarękawia z Tzitzi,Наручи цици,치치암,眩鳥腕甲,درع ساعد تسيتسي
+Tzitzi Coil,ツィツィコイル,Jupe Tzitzi,Spira di Tzitzi,Tzitzi-Hüftring,,Cinturão de Tzitzi,Pas z Tzitzi,Пояс цици,치치코일,眩鳥腰甲,لفيفة تسيتسي
+Tzitzi Greaves,ツィツィグリーヴ,Grèves Tzitzi,Schinieri di Tzitzi,Tzitzi-Beinschienen,,Grevas de Tzitzi,Nagolenice z Tzitzi,Поножи цици,치치그리브,眩鳥護腿,درع ساق تسيتسي
+Lumu Hat,ウルムーヘルム,Ouchanka Lumu,Copricapo di Lumu,Paolumu-Hut,,Chapéu de Lumu,Czapka z Lumu,Шляпа луму,우르무헬름,浮空龍頭盔,قبعة لومو
+Lumu Mail,ウルムーメイル,Veste Lumu,Cotta di Lumu,Paolumu-Panzerung,,Armadura de Lumu,Zbroja z Lumu,Доспех луму,우르무메일,浮空龍鎧甲,درع لومو
+Lumu Vambraces,ウルムーアーム,Moufles Lumu,Parabraccia di Lumu,Paolumu-Armschienen,,Avambraços de Lumu,Zarękawia z Lumu,Наручи луму,우르무암,浮空龍腕甲,درع ساعد لومو
+Lumu Coil,ウルムーコイル,Short Lumu,Spira di Lumu,Paolumu-Hüftring,,Cinturão de Lumu,Pas z Lumu,Пояс луму,우르무코일,浮空龍腰甲,لفيفة لومو
+Lumu Greaves,ウルムーグリーヴ,Pantalon Lumu,Schinieri di Lumu,Paolumu-Beinschienen,,Grevas de Lumu,Nagolenice z Lumu,Поножи луму,우르무그리브,浮空龍護腿,درع ساق لومو
+Girros Mask,ギルオスヘルム,Masque Girros,Maschera di Girros,Girros-Maske,,Máscara de Girros,Maska z Girrosa,Гирросовая маска,기르오스헬름,凶顎龍頭盔,قناع غيروس
+Girros Mail,ギルオスメイル,Cotte Girros,Cotta di Girros,Girros-Panzerung,,Armadura de Girros,Zbroja z Girrosa,Гирросовый доспех,기르오스메일,凶顎龍鎧甲,درع غيروس
+Girros Vambraces,ギルオスアーム,Avant-bras Girros,Parabraccia di Girros,Girros-Armschienen,,Avambraços de Girros,Zarękawia z Girrosa,Гирросовые наручи,기르오스암,凶顎龍腕甲,درع ساعد غيروس
+Girros Coil,ギルオスコイル,Tassette Girros,Spira di Girros,Girros-Hüftring,,Cinturão de Girros,Pas z Girrosa,Гирросовый пояс,기르오스코일,凶顎龍腰甲,لفيفة غيروس
+Girros Greaves,ギルオスグリーヴ,Pantalon Girros,Schinieri di Girros,Girros-Beinschienen,,Grevas de Girros,Nagolenice z Girrosa,Гирросовые поножи,기르오스그리브,凶顎龍護腿,درع ساق غيروس
+Baan Helm,バルキンヘルム,Casque Radobaan,Elmo di Baan,Baan-Helm,,Elmo de Baan,Hełm z Baana,Баановый шлем,발킨헬름,骨鎚龍頭盔,خوذة بان
+Baan Mail,バルキンメイル,Cuirasse Radobaan,Cotta di Baan,Baan-Panzerung,,Armadura de Baan,Zbroja z Baana,Баановый доспех,발킨메일,骨鎚龍鎧甲,درع بان
+Baan Vambraces,バルキンアーム,Boucliers Radobaan,Parabraccia di Baan,Baan-Armschienen,,Avambraços de Baan,Zarękawia z Baana,Баановые наручи,발킨암,骨鎚龍腕甲,درع ساعد بان
+Baan Coil,バルキンコイル,Tassette Radobaan,Spira di Baan,Baan-Hüftring,,Cinturão de Baan,Pas z Baana,Баановый пояс,발킨코일,骨鎚龍腰甲,لفيفة بان
+Baan Greaves,バルキングリーヴ,Grèves Radobaan,Schinieri di Baan,Baan-Beinschienen,,Grevas de Baan,Nogawice z Baana,Баановые поножи,발킨그리브,骨鎚龍護腿,درع ساق بان
+Ingot Helm,インゴットヘルム,Couronne en lingot,Elmo del lingotto,Guss-Helm,,Elmo de Lingote,Hełm ze sztabek,Драгоценный шлем,잉곳헬름,鑄鐵頭盔,خوذة إنغوت
+Ingot Mail,インゴットメイル,Cuirasse en lingot,Cotta del lingotto,Guss-Panzerung,,Armadura de Lingote,Zbroja ze sztabek,Драгоценный доспех,잉곳메일,鑄鐵鎧甲,درع إنغوت
+Ingot Vambraces,インゴットアーム,Avant-bras en lingot,Parabraccia del lingotto,Guss-Armschienen,,Avambraços de Lingote,Zarękawia ze sztabek,Драгоценные наручи,잉곳암,鑄鐵腕甲,درع ساعد إنغوت
+Ingot Coil,インゴットコイル,Pagne en lingot,Spira del lingotto,Guss-Hüftring,,Cinturão de Lingote,Pas ze sztabek,Драгоценный пояс,잉곳코일,鑄鐵腰甲,لفيفة إنغوت
+Ingot Greaves,インゴットグリーヴ,Chausses en lingot,Schinieri del lingotto,Guss-Beinschienen,,Grevas de Lingote,Nagolenice ze sztabek,Драгоценные поножи,잉곳그리브,鑄鐵護腿,درع ساق إنغوت
+Death Stench Brain,デスギアゲヒル,Cerveau putride,Cervello putrefatto,Todesgestank-Hirn,,Cérebro Putrefato,Mózg rozkładu,Капюшон зловония смерти,데스기어게힐,死神首腦,درع رأس رائحة الموت
+Death Stench Muscle,デスギアムスケル,Muscle putride,Muscolo putrefatto,Todesgestank-Muskel,,Músculo Putrefato,Mięsień rozkładu,Доспех зловония смерти,데스기어무스켈,死神肌肉,عضلة رائحة الموت
+Death Stench Grip,デスギアファオスト,Étreinte putride,Mani putrefatte,Todesgestank-Klauen,,Garra Putrefata,Chwyt rozkładu,Наручи зловония смерти,데스기어파오스트,死神雙手,قبضة رائحة الموت
+Death Stench Bowels,デスギアナーベル,Boyaux putrides,Budella putrefatte,Todesgestank-Gedärm,,Vísceras Putrefatas,Jelita rozkładu,Пояс дыхания смерти,데스기어네이블,死神臍帶,مصران رائحة الموت
+Brigade Lobos,ブリゲイドロポス,Chapeau de brigade,Feluca di brigata,Brigade-Lobos,,Chapéu de Brigada,Kapelusz Brygady,Почетная шляпа,브리게이드로포스,旅團帽,لوبُس السرية
+Brigade Suit,ブリゲイドスーツ,Tenue de brigade,Abito di brigata,Brigade-Anzug,,Traje de Brigada,Strój Brygady,Почетный мундир,브리게이드슈트,旅團戰衣,سترة السرية
+Brigade Vambraces,ブリゲイドアーム,Protège-bras de brigade,Parabraccia di brigata,Brigade-Armschienen,,Avambraços de Brigada,Zarękawia Brygady,Почетные наручи,브리게이드암,旅團腕甲,درع ساعد السرية
+Brigade Coil,ブリゲイドコイル,Boucle de brigade,Spira di brigata,Brigade-Hüftring,,Cinturão de Brigada,Pas Brygady,Почетный пояс,브리게이드코일,旅團腰甲,لفيفة السرية
+Brigade Boots,ブリゲイドブーツ,Bottes de brigade,Stivali di brigata,Brigade-Stiefel,,Botas de Brigada,Buty Brygady,Почетные сапоги,브리게이드부츠,旅團靴,حذاء السرية
+Legiana Helm,ギエナヘルム,Valkyrie Legiana,Elmo di Legiana,Legiana-Helm,,Elmo de Legiana,Hełm z Legiany,Легиановый шлем,기에나헬름,風漂龍頭盔,خوذة ليغيانا
+Legiana Mail,ギエナメイル,Veste Legiana,Cotta di Legiana,Legiana-Panzerung,,Armadura de Legiana,Zbroja z Legiany,Легиановый доспех,기에나메일,風漂龍鎧甲,درع ليغيانا
+Legiana Vambraces,ギエナアーム,Avant-bras Legiana,Parabraccia di Legiana,Legiana-Armschienen,,Avambraços de Legiana,Zarękawia z Legiany,Легиановые наручи,기에나암,風漂龍腕甲,درع ساعد ليغيانا
+Legiana Coil,ギエナコイル,Ceinture Legiana,Spira di Legiana,Legiana-Hüftring,,Cinturão de Legiana,Pas z Legiany,Легиановый пояс,기에나코일,風漂龍腰甲,لفيفة ليغيانا
+Legiana Greaves,ギエナグリーヴ,Grèves Legiana,Schinieri di Legiana,Legiana-Beinschienen,,Grevas de Legiana,Nagolenice z Legiany,Легиановые поножи,기에나그리브,風漂龍護腿,درع ساق ليغيانا
+Odogaron Helm,ガロンヘルム,Masque Odogaron,Elmo di Odogaron,Odogaron-Helm,,Elmo de Odogaron,Hełm z Odogarona,Одогароновый шлем,가론헬름,慘爪龍頭盔,خوذة أودوغارون
+Odogaron Mail,ガロンメイル,Cotte Odogaron,Cotta di Odogaron,Odogaron-Panzerung,,Armadura de Odogaron,Zbroja z Odogarona,Одогароновый доспех,가론메일,慘爪龍鎧甲,درع أودوغارون
+Odogaron Vambraces,ガロンアーム,Avant-bras Odogaron,Parabraccia di Odogaron,Odogaron-Armschienen,,Avambraços de Odogaron,Zarękawia z Odogarona,Одогароновые наручи,가론암,慘爪龍腕甲,درع ساعد أودوغارون
+Odogaron Coil,ガロンコイル,Obi Odogaron,Spira di Odogaron,Odogaron-Hüftring,,Cinturão de Odogaron,Pas z Odogarona,Одогароновый пояс,가론코일,慘爪龍腰甲,لفيفة أودوغارون
+Odogaron Greaves,ガロングリーヴ,Cuissards Odogaron,Schinieri di Odogaron,Odogaron-Beinschienen,,Grevas de Odogaron,Nagolenice z Odogarona,Одогароновые поножи,가론그리브,慘爪龍護腿,درع ساق أودوغارون
+Rathalos Helm,レウスヘルム,Casque Rathalos,Elmo di Rathalos,Rathalos-Helm,,Elmo de Rathalos,Hełm z Rathalosa,Раталосовый шлем,레우스헬름,火龍頭盔,خوذة راذالوس
+Rathalos Mail,レウスメイル,Cotte Rathalos,Cotta di Rathalos,Rathalos-Panzerung,,Armadura de Rathalos,Zbroja z Rathalosa,Раталосовый доспех,레우스메일,火龍鎧甲,درع راذالوس
+Rathalos Vambraces,レウスアーム,Avant-bras Rathalos,Parabraccia di Rathalos,Rathalos-Armschienen,,Avambraços de Rathalos,Zarękawia z Rathalosa,Раталосовые наручи,레우스암,火龍腕甲,درع ساعد راذالوس
+Rathalos Coil,レウスコイル,Tassette Rathalos,Spira di Rathalos,Rathalos-Hüftring,,Cinturão de Rathalos,Pas z Rathalosa,Раталосовый пояс,레우스코일,火龍腰甲,لفيفة راذالوس
+Rathalos Greaves,レウスグリーヴ,Grèves Rathalos,Schinieri di Rathalos,Rathalos-Beinschienen,,Grevas de Rathalos,Nagolenice z Rathalosa,Раталосовые поножи,레우스그리브,火龍護腿,درع ساق راذالوس
+Diablos Helm,ディアブロヘルム,Heaume Diablos,Elmo di Diablos,Diablos-Helm,,Elmo de Diablos,Hełm z Diablosa,Диаблосовый шлем,디아블로헬름,角龍頭盔,خوذة ديابلوس
+Diablos Mail,ディアブロメイル,Cuirasse Diablos,Cotta di Diablos,Diablos-Panzerung,,Armadura de Diablos,Zbroja z Diablosa,Диаблосовый доспех,디아블로메일,角龍鎧甲,درع ديابلوس
+Diablos Vambraces,ディアブロアーム,Avant-bras Diablos,Parabraccia di Diablos,Diablos-Armschienen,,Avambraços de Diablos,Zarękawia z Diablosa,Диаблосовые наручи,디아블로암,角龍腕甲,درع ساعد ديابلوس
+Diablos Coil,ディアブロコイル,Garde Diablos,Spira di Diablos,Diablos-Hüftring,,Cinturão de Diablos,Pas z Diablosa,Диаблосовый пояс,디아블로코일,角龍腰甲,لفيفة ديابلوس
+Diablos Greaves,ディアブログリーヴ,Grèves Diablos,Schinieri di Diablos,Diablos-Beinschienen,,Grevas de Diablos,Nagolenice z Diablosa,Диаблосовые поножи,디아블로그리브,角龍護腿,درع ساق ديابلوس
+Kirin Horn,キリンホーン,Corne Kirin,Corno di Kirin,Kirin-Horn,,Chifre de Kirin,Róg Kirina,Рог кирина,키린혼,麒麟角,قرن كيرين
+Kirin Jacket,キリンベスト,Veste Kirin,Pettino di Kirin,Kirin-Jacke,,Jaqueta de Kirin,Kubrak z Kirina,Куртка кирина,키린베스트,麒麟服飾,سترة كيرين
+Kirin Longarms,キリンアームロング,Bras-longs Kirin,Copribraccia di Kirin,Kirin-Armstulpen,,Braços Longos de Kirin,Zarękawia z Kirina,Наручи кирина,키린롱암,麒麟長腕甲,درع ذراع كيرين الطويل
+Kirin Hoop,キリンフープ,Ceinture Kirin,Cerchio di Kirin,Kirin-Reifen,,Argola de Kirin,Obręcz z Kirina,Обод кирина,키린후프,麒麟腰環,حلقة كيرين
+Kirin Leg Guards,キリンレガース,Bottines Kirin,Paragambe di Kirin,Kirin-Beinschutz,,Caneleiras de Kirin,Nogawice z Kirina,Поножи кирина,키린레그가드,麒麟護脛,واقي ساق كيرين
+Leather Headgear α,レザーヘッドα,Lunettes en cuir α,Copricapo di cuoio α,Leder-Kopfschutz α,,Elmo de Couro α,Skórzany kaptur α,Кожаный шлем α,레더헤드α,皮製頭飾α,عتاد رأس جلدي α
+Leather Mail α,レザーベストα,Veste en cuir α,Cotta di cuoio α,Leder-Panzerung α,,Armadura de Couro α,Skórzana zbroja α,Кожаный доспех α,레더베스트α,皮製服飾α,درع جلدي α
+Leather Gloves α,レザーグラブα,Gants en cuir α,Guanti di cuoio α,Leder-Handschuhe α,,Luvas de Couro α,Skórzane rękawice α,Кожаные наручи α,레더글러브α,皮製手套α,قفازات جلدية α
+Leather Belt α,レザーベルトα,Ceinture en cuir α,Falda di cuoio α,Leder-Gürtel α,,Cinto de Couro α,Skórzany pas α,Кожаный пояс α,레더벨트α,皮製皮帶α,حزام جلدي α
+Leather Trousers α,レザーパンツα,Pantalon en cuir α,Pantaloni di cuoio α,Leder-Hose α,,Calças de Couro α,Skórzane spodnie α,Кожаные поножи α,레더팬츠α,皮製長褲α,سروال جلدي α
+Leather Headgear β,レザーヘッドβ,Lunettes en cuir β,Copricapo di cuoio β,Leder-Kopfschutz β,,Elmo de Couro β,Skórzany kaptur β,Кожаный шлем β,레더헤드β,皮製頭飾β,عتاد رأس جلدي β
+Leather Mail β,レザーベストβ,Veste en cuir β,Cotta di cuoio β,Leder-Panzerung β,,Armadura de Couro β,Skórzana zbroja β,Кожаный доспех β,레더베스트β,皮製服飾β,درع جلدي β
+Leather Gloves β,レザーグラブβ,Gants en cuir β,Guanti di cuoio β,Leder-Handschuhe β,,Luvas de Couro β,Skórzane rękawice β,Кожаные наручи β,레더글러브β,皮製手套β,قفازات جلدية β
+Leather Belt β,レザーベルトβ,Ceinture en cuir β,Falda di cuoio β,Leder-Gürtel β,,Cinto de Couro β,Skórzany pas β,Кожаный пояс β,레더벨트β,皮製皮帶β,حزام جلدي β
+Leather Trousers β,レザーパンツβ,Pantalon en cuir β,Pantaloni di cuoio β,Leder-Hose β,,Calças de Couro β,Skórzane spodnie β,Кожаные поножи β,레더팬츠β,皮製長褲β,سروال جلدي β
+Chainmail Headgear α,チェーンヘッドα,Heaume de mailles α,Copricapo di maglia α,Ketten-Kopfschutz α,,Elmo de Cota de Malha α,Hełm kolczy α,Кольчужный шлем α,체인헤드α,鎖甲頭飾α,خوذة حلقية فولاذية α
+Chainmail Armor α,チェーンベストα,Cotte de mailles α,Armatura di maglia α,Ketten-Rüstung α,,Cota de Malha α,Kolczuga α,Кольчужный доспех α,체인베스트α,鎖甲服飾α,درع حلقي فولاذي α
+Chainmail Gloves α,チェーングラブα,Gants de mailles α,Guanti di maglia α,Ketten-Handschuhe α,,Luvas de Cota de Malha α,Rękawice kolcze α,Кольчужные наручи α,체인글러브α,鎖甲手套α,قفازات حلقية فولاذية α
+Chainmail Belt α,チェーンベルトα,Ceinture de mailles α,Falda di maglia α,Ketten-Gürtel α,,Cinto de Cota de Malha α,Pas kolczy α,Кольчужный пояс α,체인벨트α,鎖甲皮帶α,حزام حلقي فولاذي α
+Chainmail Trousers α,チェーンパンツα,Pantalon de mailles α,Pantaloni di maglia α,Ketten-Hose α,,Calças Cota de Malha α,Spodnie kolcze α,Кольчужные поножи α,체인팬츠α,鎖甲長褲α,سروال حلقي فولاذي α
+Chainmail Headgear β,チェーンヘッドβ,Heaume de mailles β,Copricapo di maglia β,Ketten-Kopfschutz β,,Elmo de Cota de Malha β,Hełm kolczy β,Кольчужный шлем β,체인헤드β,鎖甲頭飾β,خوذة حلقية فولاذية β
+Chainmail Armor β,チェーンベストβ,Cotte de mailles β,Armatura di maglia β,Ketten-Rüstung β,,Cota de Malha β,Kolczuga β,Кольчужный доспех β,체인베스트β,鎖甲服飾β,درع حلقي فولاذي β
+Chainmail Gloves β,チェーングラブβ,Gants de mailles β,Guanti di maglia β,Ketten-Handschuhe β,,Luvas de Cota de Malha β,Rękawice kolcze β,Кольчужные наручи β,체인글러브β,鎖甲手套β,قفازات حلقية فولاذية β
+Chainmail Belt β,チェーンベルトβ,Ceinture de mailles β,Falda di maglia β,Ketten-Gürtel β,,Cinto de Cota de Malha β,Pas kolczy β,Кольчужный пояс β,체인벨트β,鎖甲皮帶β,حزام حلقي فولاذي β
+Chainmail Trousers β,チェーンパンツβ,Pantalon de mailles β,Pantaloni di maglia β,Ketten-Hose β,,Calças Cota de Malha β,Spodnie kolcze β,Кольчужные  поножи β,체인팬츠β,鎖甲長褲β,سروال حلقي فولاذي β
+Hunter's Headgear α,ハンターヘルムα,Coiffe de chasseur α,Elmo del cacciatore α,Jäger-Kopfschutz α,,Elmo do Caçador α,Nakrycie głowy łowcy α,Охотничий шлем α,헌터헬름α,獵人頭盔α,عتاد رأس الصيّاد α
+Hunter's Mail α,ハンターメイルα,Cotte de chasseur α,Cotta del cacciatore α,Jäger-Panzerung α,,Armadura do Caçador α,Zbroja łowcy α,Охотничий доспех α,헌터메일α,獵人鎧甲α,درع الصياد α
+Hunter's Vambraces α,ハンターアームα,Avant-bras de chasseur α,Parabraccia del cacciatore α,Jäger-Armschienen α,,Avambraços do Caçador α,Zarękawia łowcy α,Охотничьи наручи α,헌터암α,獵人腕甲α,درع ساعد الصياد α
+Hunter's Coil α,ハンターコイルα,Jupette de chasseur α,Spira del cacciatore α,Jäger-Hüftring α,,Cinturão do Caçador α,Pas łowcy α,Охотничий пояс α,헌터코일α,獵人腰甲α,لفيفة الصياد α
+Hunter's Greaves α,ハンターグリーヴα,Grèves de chasseur α,Schinieri del cacciatore α,Jäger-Beinschienen α,,Grevas de Caçador α,Nagolenice łowcy α,Охотничьи поножи α,헌터그리브α,獵人護腿α,درع ساق الصياد α
+Hunter's Headgear β,ハンターヘルムβ,Coiffe de chasseur β,Elmo del cacciatore β,Jäger-Kopfschutz β,,Elmo do Caçador β,Nakrycie głowy łowcy β,Охотничий шлем β,헌터헬름β,獵人頭盔β,عتاد رأس الصيّاد β
+Hunter's Mail β,ハンターメイルβ,Cotte de chasseur β,Cotta del cacciatore β,Jäger-Panzerung β,,Armadura do Caçador β,Zbroja łowcy β,Охотничий доспех β,헌터메일β,獵人鎧甲β,درع الصياد β
+Hunter's Vambraces β,ハンターアームβ,Avant-bras de chasseur β,Parabraccia del cacciatore β,Jäger-Armschienen β,,Avambraços do Caçador β,Zarękawia łowcy β,Охотничьи наручи β,헌터암β,獵人腕甲β,درع ساعد الصياد β
+Hunter's Coil β,ハンターコイルβ,Jupette de chasseur β,Spira del cacciatore β,Jäger-Hüftring β,,Cinturão do Caçador β,Pas łowcy β,Охотничий пояс β,헌터코일β,獵人腰甲β,لفيفة الصياد β
+Hunter's Greaves β,ハンターグリーヴβ,Grèves de chasseur β,Schinieri del cacciatore β,Jäger-Beinschienen β,,Grevas de Caçador β,Nagolenice łowcy β,Охотничьи поножи β,헌터그리브β,獵人護腿β,درع ساق الصياد β
+Bone Helm α,ボーンヘルムα,Casque d'os α,Elmo d'osso α,Knochen-Helm α,,Elmo Ósseo α,Kościany hełm α,Костяной шлем α,본헬름α,骨製頭盔α,خوذة عظمية α
+Bone Mail α,ボーンメイルα,Veste d'os α,Cotta d'osso α,Knochen-Panzerung α,,Armadura Óssea α,Kościana zbroja α,Костяной доспех α,본메일α,骨製鎧甲α,درع عظمي α
+Bone Vambraces α,ボーンアームα,Avant-bras d'os α,Parabraccia d'osso α,Knochen-Armschienen α,,Avambraços Ósseos α,Kościane zarękawia α,Костяные наручи α,본암α,骨製腕甲α,درع ساعد عظمي α
+Bone Coil α,ボーンコイルα,Tassette d'os α,Spira d'osso α,Knochen-Hüftring α,,Cinturão Óssea α,Kościany pas α,Костяной пояс α,본코일α,骨製腰甲α,لفيفة عظمية α
+Bone Greaves α,ボーングリーヴα,Jambières d'os α,Schinieri d'osso α,Knochen-Beinschienen α,,Grevas Ósseas α,Kościane nagolenice α,Костяные поножи α,본그리브α,骨製護腿α,درع ساق عظمي α
+Bone Helm β,ボーンヘルムβ,Casque d'os β,Elmo d'osso β,Knochen-Helm β,,Elmo Ósseo β,Kościany hełm β,Костяной шлем β,본헬름β,骨製頭盔β,خوذة عظمية β
+Bone Mail β,ボーンメイルβ,Veste d'os β,Cotta d'osso β,Knochen-Panzerung β,,Armadura Óssea β,Kościana zbroja β,Костяной доспех β,본메일β,骨製鎧甲β,درع عظمي β
+Bone Vambraces β,ボーンアームβ,Avant-bras d'os β,Parabraccia d'osso β,Knochen-Armschienen β,,Avambraços Ósseos β,Kościane zarękawia β,Костяные наручи β,본암β,骨製腕甲β,درع ساعد عظمي β
+Bone Coil β,ボーンコイルβ,Tassette d'os β,Spira d'osso β,Knochen-Hüftring β,,Cinturão Óssea β,Kościany pas β,Костяной пояс β,본코일β,骨製腰甲β,لفيفة عظمية β
+Bone Greaves β,ボーングリーヴβ,Jambières d'os β,Schinieri d'osso β,Knochen-Beinschienen β,,Grevas Ósseas β,Kościane nagolenice β,Костяные поножи β,본그리브β,骨製護腿β,درع ساق عظمي β
+Alloy Helm α,アロイヘルムα,Heaume en alliage α,Elmo in lega α,Legierungs-Helm α,,Elmo de Liga Leve α,Hełm ze stopu α,Литой шлем α,얼로이헬름α,合金頭盔α,خوذة خليط معدني α
+Alloy Mail α,アロイメイルα,Cotte en alliage α,Cotta in lega α,Legierungs-Panzerung α,,Armadura de Liga Leve α,Zbroja ze stopu α,Литой доспех α,얼로이메일α,合金鎧甲α,درع خليط معدني α
+Alloy Vambraces α,アロイアームα,Avant-bras en alliage α,Parabraccia in lega α,Legierung-Armschienen α,,Avambraços Liga Leve α,Zarękawia ze stopu α,Литые наручи α,얼로이암α,合金腕甲α,درع ساعد خليط معدني α
+Alloy Coil α,アロイコイルα,Boucle en alliage α,Spira in lega α,Legierungs-Hüftring α,,Cinturão de Liga Leve α,Pas ze stopu α,Литой пояс α,얼로이코일α,合金腰甲α,لفيفة خليط معدني α
+Alloy Greaves α,アロイグリーヴα,Grèves en alliage α,Schinieri in lega α,LegierungsBeinschienen α,,Grevas de Liga Leve α,Nagolenice ze stopu α,Литые поножи α,얼로이그리브α,合金護腿α,درع ساق خليط معدني α
+Alloy Helm β,アロイヘルムβ,Heaume en alliage β,Elmo in lega β,Legierungs-Helm β,,Elmo de Liga Leve β,Hełm ze stopu β,Литой шлем β,얼로이헬름β,合金頭盔β,خوذة خليط معدني β
+Alloy Mail β,アロイメイルβ,Cotte en alliage β,Cotta in lega β,Legierungs-Panzerung β,,Armadura de Liga Leve β,Zbroja ze stopu β,Литой доспех β,얼로이메일β,合金鎧甲β,درع خليط معدني β
+Alloy Vambraces β,アロイアームβ,Avant-bras en alliage β,Parabraccia in lega β,Legierung-Armschienen β,,Avambraços Liga Leve β,Zarękawia ze stopu β,Литые наручи β,얼로이암β,合金腕甲β,درع ساعد خليط معدني β
+Alloy Coil β,アロイコイルβ,Boucle en alliage β,Spira in lega β,Legierungs-Hüftring β,,Cinturão de Liga Leve β,Pas ze stopu β,Литой пояс β,얼로이코일β,合金腰甲β,لفيفة خليط معدني β
+Alloy Greaves β,アロイグリーヴβ,Grèves en alliage β,Schinieri in lega β,LegierungsBeinschienen β,,Grevas de Liga Leve β,Nagolenice ze stopu β,Литые поножи β,얼로이그리브β,合金護腿β,درع ساق خليط معدني β
+King Beetle Vertex α,オウビートテスタα,Vertex Scarabée α,Vertex dello scarabeo α,Königskäfer-Vertex α,,Vértice de Besouro-rei α,Wierzchołek żuka król. α,Голова королевск. жука α,킹비트테스타α,獨角仙護頭α,رأس الخنفساء الملك α
+King Beetle Thorax α,オウビートペットα,Thorax Scarabée α,Torace dello scarabeo α,Königskäfer-Thorax α,,Tórax de Besouro-rei α,Tułów żuka król. α,Панцирь корол. жука α,킹비트페트α,獨角仙上身α,صدر الخنفساء الملك α
+King Beetle Brachia α,オウビートマーノα,Brachia Scarabée α,Brachia dello scarabeo α,Königskäfer-Brachia α,,Braços de Besouro-rei α,Ramiona żuka król. α,Предплечье корол. жука α,킹비트마노α,獨角仙護袖α,عضد الخنفساء الملك α
+King Beetle Elytra α,オウビートアンカα,Élytre Scarabée α,Elitre dello scarabeo α,Königskäfer-Elytren α,,Élitros de Besouro-rei α,Okrywy żuka król. α,Надкрылье корол. жука α,킹비트앙카α,獨角仙護腰具α,غمد الخنفساء الملك α
+King Beetle Crura α,オウビートガンバα,Crura Scarabée α,Crura dello scarabeo α,Königskäfer-Crura α,,Crurais de Besouro-rei α,Nogi żuka królewskiego α,Лапы королевск. жука α,킹비트감바α,獨角仙腳α,درع رِجل الخنفساء الملك α
+King Beetle Vertex β,オウビートテスタβ,Vertex Scarabée β,Vertex dello scarabeo β,Königskäfer-Vertex β,,Vértice de Besouro-rei β,Wierzchołek żuka król. β,Голова королевск. жука β,킹비트테스타β,獨角仙護頭β,رأس الخنفساء الملك β
+King Beetle Thorax β,オウビートペットβ,Thorax Scarabée β,Torace dello scarabeo β,Königskäfer-Thorax β,,Tórax de Besouro-rei β,Tułów żuka król. β,Панцирь корол. жука β,킹비트페트β,獨角仙上身β,صدر الخنفساء الملك β
+King Beetle Brachia β,オウビートマーノβ,Brachia Scarabée β,Brachia dello scarabeo β,Königskäfer-Brachia β,,Braços de Besouro-rei β,Ramiona żuka król. β,Предплечье корол. жука β,킹비트마노β,獨角仙護袖β,عضد الخنفساء الملك β
+King Beetle Elytra β,オウビートアンカβ,Élytre Scarabée β,Elitre dello scarabeo β,Königskäfer-Elytren β,,Élitros de Besouro-rei β,Okrywy żuka król. β,Надкрылье корол. жука β,킹비트앙카β,獨角仙護腰具β,غمد الخنفساء الملك β
+King Beetle Crura β,オウビートガンバβ,Crura Scarabée β,Crura dello scarabeo β,Königskäfer-Crura β,,Crurais de Besouro-rei β,Nogi żuka królewskiego β,Лапы королевск. жука β,킹비트감바β,獨角仙腳β,درع رِجل الخنفساء الملك β
+Butterfly Vertex α,パピメルテスタα,Vertex Papillon α,Vertex di farfalla α,Schmetterling-Vertex α,,Vértice de Borboleta α,Wierzchołek motyla α,Головка бабочки α,파피메르테스타α,燕尾蝶護頭α,رأس الفراشة α
+Butterfly Thorax α,パピメルペットα,Thorax Papillon α,Torace di farfalla α,Schmetterling-Thorax α,,Tórax de Borboleta α,Tułów motyla α,Панцирь бабочки α,파피메르페트α,燕尾蝶上身α,صدر الفراشة α
+Butterfly Brachia α,パピメルマーノα,Brachia Papillon α,Brachia di farfalla α,Schmetterling-Brachia α,,Braços de Borboleta α,Ramiona motyla α,Предплечье бабочки α,파피메르마노α,燕尾蝶護袖α,عضد الفراشة α
+Butterfly Elytra α,パピメルアンカα,Élytre Papillon α,Elitre di farfalla α,Schmetterling-Elytren α,,Élitros de Borboleta α,Okrywy motyla α,Надкрылье бабочки α,파피메르앙카α,燕尾蝶護腰具α,غمد الفراشة α
+Butterfly Crura α,パピメルガンバα,Crura Papillon α,Crura di farfalla α,Schmetterling-Crura α,,Crurais de Borboleta α,Nogi motyla α,Лапки бабочки α,파피메르감바α,燕尾蝶腳α,درع رِجل الفراشة α
+Butterfly Vertex β,パピメルテスタβ,Vertex Papillon β,Vertex di farfalla β,Schmetterling-Vertex β,,Vértice de Borboleta β,Wierzchołek motyla β,Головка бабочки β,파피메르테스타β,燕尾蝶護頭β,رأس الفراشة β
+Butterfly Thorax β,パピメルペットβ,Thorax Papillon β,Torace di farfalla β,Schmetterling-Thorax β,,Tórax de Borboleta β,Tułów motyla β,Панцирь бабочки β,파피메르페트β,燕尾蝶上身β,صدر الفراشة β
+Butterfly Brachia β,パピメルマーノβ,Brachia Papillon β,Brachia di farfalla β,Schmetterling-Brachia β,,Braços de Borboleta β,Ramiona motyla β,Предплечье бабочки β,파피메르마노β,燕尾蝶護袖β,عضد الفراشة β
+Butterfly Elytra β,パピメルアンカβ,Élytre Papillon β,Elitre di farfalla β,Schmetterling-Elytren β,,Élitros de Borboleta β,Okrywy motyla β,Надкрылье бабочки β,파피메르앙카β,燕尾蝶護腰具β,غمد الفراشة β
+Butterfly Crura β,パピメルガンバβ,Crura Papillon β,Crura di farfalla β,Schmetterling-Crura β,,Crurais de Borboleta β,Nogi motyla β,Лапки бабочки β,파피메르감바β,燕尾蝶腳β,درع رِجل الفراشة β
+Vespoid Helm α,ランゴヘルムα,Calot Vespoid α,Elmo di Vespoid α,Vespoid-Helm α,,Elmo de Vespoidea α,Hełm z Vespoida α,Осиный шлем α,랑고헬름α,巨蜂頭盔α,خوذة فيسبويد α
+Vespoid Mail α,ランゴメイルα,Cotte Vespoid α,Cotta di Vespoid α,Vespoid-Panzerung α,,Armadura de Vespoidea α,Zbroja z Vespoida α,Осиный доспех α,랑고메일α,巨蜂鎧甲α,درع فيسبويد α
+Vespoid Vambraces α,ランゴアームα,Avant-bras Vespoid α,Parabraccia di Vespoid α,Vespoid-Armschienen α,,Avambraços Vespoidea α,Zarękawia z Vespoida α,Осиные наручи α,랑고암α,巨蜂腕甲α,درع ساعد فيسبويد α
+Vespoid Coil α,ランゴコイルα,Tassette Vespoid α,Spira di Vespoid α,Vespoid-Hüftring α,,Cinturão de Vespoidea α,Pas z Vespoida α,Осиный пояс α,랑고코일α,巨蜂腕甲α,لفيفة فيسبويد α
+Vespoid Greaves α,ランゴグリーヴα,Jambières Vespoid α,Schinieri di Vespoid α,Vespoid-Beinschienen α,,Grevas de Vespoidea α,Nagolenice z Vespoida α,Осиные поножи α,랑고그리브α,巨蜂護腿α,درع ساق فيسبويد α
+Vespoid Helm β,ランゴヘルムβ,Calot Vespoid β,Elmo di Vespoid β,Vespoid-Helm β,,Elmo de Vespoidea β,Hełm z Vespoida β,Осиный шлем β,랑고헬름β,巨蜂頭盔β,خوذة فيسبويد β
+Vespoid Mail β,ランゴメイルβ,Cotte Vespoid β,Cotta di Vespoid β,Vespoid-Panzerung β,,Armadura de Vespoidea β,Zbroja z Vespoida β,Осиный доспех β,랑고메일β,巨蜂鎧甲β,درع فيسبويد β
+Vespoid Vambraces β,ランゴアームβ,Avant-bras Vespoid β,Parabraccia di Vespoid β,Vespoid-Armschienen β,,Avambraços Vespoidea β,Zarękawia z Vespoida β,Осиные наручи β,랑고암β,巨蜂腕甲β,درع ساعد فيسبويد β
+Vespoid Coil β,ランゴコイルβ,Tassette Vespoid β,Spira di Vespoid β,Vespoid-Hüftring β,,Cinturão de Vespoidea β,Pas z Vespoida β,Осиный пояс β,랑고코일β,巨蜂腕甲β,لفيفة فيسبويد β
+Vespoid Greaves β,ランゴグリーヴβ,Jambières Vespoid β,Schinieri di Vespoid β,Vespoid-Beinschienen β,,Grevas de Vespoidea β,Nagolenice z Vespoida β,Осиные поножи β,랑고그리브β,巨蜂護腿β,درع ساق فيسبويد β
+Hornetaur Helm α,タロスヘルムα,Heaume Hornetaur α,Elmo di Hornetaur α,Hornetaur-Helm α,,Elmo de Chifrotauro α,Hełm z Hornetaura α,Роготавровый шлем α,타로스헬름α,巨甲蟲頭盔α,خوذة هورنتور α
+Hornetaur Mail α,タロスメイルα,Cuirasse Hornetaur α,Cotta di Hornetaur α,Hornetaur-Panzerung α,,Armadura Chifrotauro α,Zbroja z Hornetaura α,Роготавровый доспех α,타로스메일α,巨甲蟲鎧甲α,درع هورنتور α
+Hornetaur Vambraces α,タロスアームα,Avant-bras Hornetaur α,Parabraccia di Hornetaur α,Hornetaur-Armschienen α,,Avambraços Chifrotauro α,Zarękawia z Hornetaura α,Роготавровые наручи α,타로스암α,巨甲蟲腕甲α,درع ساعد هورنتور α
+Hornetaur Coil α,タロスコイルα,Tassette Hornetaur α,Spira di Hornetaur α,Hornetaur-Hüftring α,,Cinturão de Chifrotauro α,Pas z Hornetaura α,Роготавровый пояс α,타로스코일α,巨甲蟲腰甲α,لفيفة هورنتور α
+Hornetaur Greaves α,タロスグリーヴα,Grèves Hornetaur α,Schinieri di Hornetaur α,Hornetaur-Beinschienen α,,Grevas de Chifrotauro α,Golenie z Hornetaura α,Роготавровые поножи α,타로스그리브α,巨甲蟲護腿α,درع ساق هورنتور α
+Hornetaur Helm β,タロスヘルムβ,Heaume Hornetaur β,Elmo di Hornetaur β,Hornetaur-Helm β,,Elmo de Chifrotauro β,Hełm z Hornetaura β,Роготавровый шлем β,타로스헬름β,巨甲蟲頭盔β,خوذة هورنتور β
+Hornetaur Mail β,タロスメイルβ,Cuirasse Hornetaur β,Cotta di Hornetaur β,Hornetaur-Panzerung β,,Armadura Chifrotauro β,Zbroja z Hornetaura β,Роготавровый доспех β,타로스메일β,巨甲蟲鎧甲β,درع هورنتور β
+Hornetaur Vambraces β,タロスアームβ,Avant-bras Hornetaur β,Parabraccia di Hornetaur β,Hornetaur-Armschienen β,,Avambraços Chifrotauro β,Zarękawia z Hornetaura β,Роготавровые наручи β,타로스암β,巨甲蟲腕甲β,درع ساعد هورنتور β
+Hornetaur Coil β,タロスコイルβ,Tassette Hornetaur β,Spira di Hornetaur β,Hornetaur-Hüftring β,,Cinturão de Chifrotauro β,Pas z Hornetaura β,Роготавровый пояс β,타로스코일β,巨甲蟲腰甲β,لفيفة هورنتور β
+Hornetaur Greaves β,タロスグリーヴβ,Grèves Hornetaur β,Schinieri di Hornetaur β,Hornetaur-Beinschienen β,,Grevas de Chifrotauro β,Golenie z Hornetaura β,Роготавровые поножи β,타로스그리브β,巨甲蟲護腿β,درع ساق هورنتور β
+Mosswine Mask α,モスフェイクα,Masque Mosswine α,Maschera di Mosswine α,Mosswine-Maske α,,Máscara Musgoíno α,Maska Mchoświni α,Маска мохосвина α,모스페이크α,菌豬頭套α,قناع موسواين α
+Kestodon Guards α,ケストガードα,Gardes Kestodon α,Protezioni di Kestodon α,Kestodon-Armschutz α,,Ombreiras Kestodonte α,Naramien. z Kestodona α,Щитки кестодона α,케스토가드α,冠突龍護手α,درع كيستودون α
+Kestodon Guards β,ケストガードβ,Gardes Kestodon β,Protezioni di Kestodon β,Kestodon-Armschutz β,,Ombreiras Kestodonte β,Naramien. z Kestodona β,Щитки кестодона β,케스토가드β,冠突龍護手β,درع كيستودون β
+Gajau Boots α,ガライーブーツα,Bottes Gajau α,Stivali di Gajau α,Gajau-Stiefel α,,Botas de Gajau α,Buty z Gajau α,Сапоги гаджау α,가쟈우부츠α,咬魚靴α,حذاء غاجاو α
+Gajau Boots β,ガライーブーツβ,Bottes Gajau β,Stivali di Gajau β,Gajau-Stiefel β,,Botas de Gajau β,Buty z Gajau β,Сапоги гаджау β,가쟈우부츠β,咬魚靴β,حذاء غاجاو β
+Shamos Goggles α,シャムゴーグルα,Lunettes Shamos α,Occhiali di Shamos α,Shamos-Brille α,,Óculos de Shamos α,Gogle z Shamosa α,Очки шамоса α,샤무고글α,貓蜥龍護目鏡α,نظارات شاموس α
+Shamos Goggles β,シャムゴーグルβ,Lunettes Shamos β,Occhiali di Shamos β,Shamos-Brille β,,Óculos de Shamos β,Gogle z Shamosa β,Очки шамоса β,샤무고글β,貓蜥龍護目鏡β,نظارات شاموس β
+Jagras Helm α,ジャグラスヘルムα,Casque Jagras α,Elmo di Jagras α,Jagras-Helm α,,Elmo de Jagras α,Hełm z Jagrasa α,Яграсовый шлем α,쟈그라스헬름α,凶豺龍頭盔α,خوذة جاغراس α
+Jagras Mail α,ジャグラスメイルα,Tunique Jagras α,Cotta di Jagras α,Jagras-Panzerung α,,Armadura de Jagras α,Zbroja z Jagrasa α,Яграсовый доспех α,쟈그라스메일α,凶豺龍鎧甲α,درع جاغراس α
+Jagras Vambraces α,ジャグラスアームα,Avant-bras Jagras α,Parabraccia di Jagras α,Jagras-Armschienen α,,Avambraços de Jagras α,Zarękawia z Jagrasa α,Яграсовые наручи α,쟈그라스암α,凶豺龍腕甲α,درع ساعد جاغراس α
+Jagras Coil α,ジャグラスコイルα,Boucle Jagras α,Spira di Jagras α,Jagras-Hüftring α,,Cinturão de Jagras α,Pas z Jagrasa α,Яграсовый пояс α,쟈그라스코일α,凶豺龍腰甲α,لفيفة جاغراس α
+Jagras Greaves α,ジャグラスグリーヴα,Cuissardes Jagras α,Schinieri di Jagras α,Jagras-Beinschienen α,,Grevas de Jagras α,Nagolenice z Jagrasa α,Яграсовые поножи α,쟈그라스그리브α,凶豺龍護腿α,درع ساق جاغراس α
+Jagras Helm β,ジャグラスヘルムβ,Casque Jagras β,Elmo di Jagras β,Jagras-Helm β,,Elmo de Jagras β,Hełm z Jagrasa β,Яграсовый шлем β,쟈그라스헬름β,凶豺龍頭盔β,خوذة جاغراس β
+Jagras Mail β,ジャグラスメイルβ,Tunique Jagras β,Cotta di Jagras β,Jagras-Panzerung β,,Armadura de Jagras β,Zbroja z Jagrasa β,Яграсовый доспех β,쟈그라스메일β,凶豺龍鎧甲β,درع جاغراس β
+Jagras Vambraces β,ジャグラスアームβ,Avant-bras Jagras β,Parabraccia di Jagras β,Jagras-Armschienen β,,Avambraços de Jagras β,Zarękawia z Jagrasa β,Яграсовые наручи β,쟈그라스암β,凶豺龍腕甲β,درع ساعد جاغراس β
+Jagras Coil β,ジャグラスコイルβ,Boucle Jagras β,Spira di Jagras β,Jagras-Hüftring β,,Cinturão de Jagras β,Pas z Jagrasa β,Яграсовый пояс β,쟈그라스코일β,凶豺龍腰甲β,لفيفة جاغراس β
+Jagras Greaves β,ジャグラスグリーヴβ,Cuissardes Jagras β,Schinieri di Jagras β,Jagras-Beinschienen β,,Grevas de Jagras β,Nagolenice z Jagrasa β,Яграсовые поножи β,쟈그라스그리브β,凶豺龍護腿β,درع ساق جاغراس β
+Kulu Headpiece α,クルルヘルムα,Voile Kulu α,Elmo di Kulu α,Kulu-Kopfschutz α,,Adorno de Kulu α,Osłona głowy z Kulu α,Шлем кулу α,쿠루루헬름α,搔鳥頭盔α,غطاء رأس كولو α
+Kulu Mail α,クルルメイルα,Corset Kulu α,Cotta di Kulu α,Kulu-Panzerung α,,Armadura de Kulu α,Zbroja z Kulu α,Доспех кулу α,쿠루루메일α,搔鳥鎧甲α,درع كولو α
+Kulu Vambraces α,クルルアームα,Avant-bras Kulu α,Parabraccia di Kulu α,Kulu-Armschienen α,,Avambraços de Kulu α,Zarękawia z Kulu α,Наручи кулу α,쿠루루암α,搔鳥腕甲α,درع ساعد كولو α
+Kulu Coil α,クルルコイルα,Pagne Kulu α,Spira di Kulu α,Kulu-Hüftring α,,Cinturão de Kulu α,Pas z Kulu α,Пояс кулу α,쿠루루코일α,搔鳥腰甲α,لفيفة كولو α
+Kulu Greaves α,クルルグリーヴα,Pantalon Kulu α,Schinieri di Kulu α,Kulu-Beinschienen α,,Grevas de Kulu α,Nagolenice z Kulu α,Поножи кулу α,쿠루루그리브α,搔鳥護腿α,درع ساق كولو α
+Kulu Headpiece β,クルルヘルムβ,Voile Kulu β,Elmo di Kulu β,Kulu-Kopfschutz β,,Adorno de Kulu β,Osłona głowy z Kulu β,Шлем кулу β,쿠루루헬름β,搔鳥頭盔β,غطاء رأس كولو β
+Kulu Mail β,クルルメイルβ,Corset Kulu β,Cotta di Kulu β,Kulu-Panzerung β,,Armadura de Kulu β,Zbroja z Kulu β,Доспех кулу β,쿠루루메일β,搔鳥鎧甲β,درع كولو β
+Kulu Vambraces β,クルルアームβ,Avant-bras Kulu β,Parabraccia di Kulu β,Kulu-Armschienen β,,Avambraços de Kulu β,Zarękawia z Kulu β,Наручи кулу β,쿠루루암β,搔鳥腕甲β,درع ساعد كولو β
+Kulu Coil β,クルルコイルβ,Pagne Kulu β,Spira di Kulu β,Kulu-Hüftring β,,Cinturão de Kulu β,Pas z Kulu β,Пояс кулу β,쿠루루코일β,搔鳥腰甲β,لفيفة كولو β
+Kulu Greaves β,クルルグリーヴβ,Pantalon Kulu β,Schinieri di Kulu β,Kulu-Beinschienen β,,Grevas de Kulu β,Nagolenice z Kulu β,Поножи кулу β,쿠루루그리브β,搔鳥護腿β,درع ساق كولو β
+Tzitzi Headgear α,ツィツィヘルムα,Lunettes Tzitzi α,Elmo di Tzitzi α,Tzitzi-Kopfschutz α,,Máscara de Tzitzi α,Maska z Tzitzi α,Очки цици α,치치헬름α,眩鳥頭盔α,عتاد رأس تسيتسي α
+Tzitzi Mail α,ツィツィメイルα,Cotte Tzitzi α,Cotta di Tzitzi α,Tzitzi-Panzerung α,,Armadura de Tzitzi α,Zbroja z Tzitzi α,Доспех цици α,치치메일α,眩鳥鎧甲α,درع تسيتسي α
+Tzitzi Vambraces α,ツィツィアームα,Avant-bras Tzitzi α,Parabraccia di Tzitzi α,Tzitzi-Armschienen α,,Avambraços de Tzitzi α,Zarękawia z Tzitzi α,Наручи цици α,치치암α,眩鳥腕甲α,درع ساعد تسيتسي α
+Tzitzi Coil α,ツィツィコイルα,Jupe Tzitzi α,Spira di Tzitzi α,Tzitzi-Hüftring α,,Cinturão de Tzitzi α,Pas z Tzitzi α,Пояс цици α,치치코일α,眩鳥腰甲α,لفيفة تسيتسي α
+Tzitzi Greaves α,ツィツィグリーヴα,Grèves Tzitzi α,Schinieri di Tzitzi α,Tzitzi-Beinschienen α,,Grevas de Tzitzi α,Nagolenice z Tzitzi α,Поножи цици α,치치그리브α,眩鳥護腿α,درع ساق تسيتسي α
+Tzitzi Headgear β,ツィツィヘルムβ,Lunettes Tzitzi β,Elmo di Tzitzi β,Tzitzi-Kopfschutz β,,Máscara de Tzitzi β,Maska z Tzitzi β,Очки цици β,치치헬름β,眩鳥頭盔β,عتاد رأس تسيتسي β
+Tzitzi Mail β,ツィツィメイルβ,Cotte Tzitzi β,Cotta di Tzitzi β,Tzitzi-Panzerung β,,Armadura de Tzitzi β,Zbroja z Tzitzi β,Доспех цици β,치치메일β,眩鳥鎧甲β,درع تسيتسي β
+Tzitzi Vambraces β,ツィツィアームβ,Avant-bras Tzitzi β,Parabraccia di Tzitzi β,Tzitzi-Armschienen β,,Avambraços de Tzitzi β,Zarękawia z Tzitzi β,Наручи цици β,치치암β,眩鳥腕甲β,درع ساعد تسيتسي β
+Tzitzi Coil β,ツィツィコイルβ,Jupe Tzitzi β,Spira di Tzitzi β,Tzitzi-Hüftring β,,Cinturão de Tzitzi β,Pas z Tzitzi β,Пояс цици β,치치코일β,眩鳥腰甲β,لفيفة تسيتسي β
+Tzitzi Greaves β,ツィツィグリーヴβ,Grèves Tzitzi β,Schinieri di Tzitzi β,Tzitzi-Beinschienen β,,Grevas de Tzitzi β,Nagolenice z Tzitzi β,Поножи цици β,치치그리브β,眩鳥護腿β,درع ساق تسيتسي β
+Girros Mask α,ギルオスヘルムα,Masque Girros α,Maschera di Girros α,Girros-Maske α,,Máscara de Girros α,Maska z Girrosa α,Гирросовая маска α,기르오스헬름α,凶顎龍頭盔α,قناع غيروس α
+Girros Mail α,ギルオスメイルα,Cotte Girros α,Cotta di Girros α,Girros-Panzerung α,,Armadura de Girros α,Zbroja z Girrosa α,Гирросовый доспех α,기르오스메일α,凶顎龍鎧甲α,درع غيروس α
+Girros Vambraces α,ギルオスアームα,Avant-bras Girros α,Parabraccia di Girros α,Girros-Armschienen α,,Avambraços de Girros α,Zarękawia z Girrosa α,Гирросовые наручи α,기르오스암α,凶顎龍腕甲α,درع ساعد غيروس α
+Girros Coil α,ギルオスコイルα,Tassette Girros α,Spira di Girros α,Girros-Hüftring α,,Cinturão de Girros α,Pas z Girrosa α,Гирросовый пояс α,기르오스코일α,凶顎龍腰甲α,لفيفة غيروس α
+Girros Greaves α,ギルオスグリーヴα,Pantalon Girros α,Schinieri di Girros α,Girros-Beinschienen α,,Grevas de Girros α,Nagolenice z Girrosa α,Гирросовые поножи α,기르오스그리브α,凶顎龍護腿α,درع ساق غيروس α
+Girros Mask β,ギルオスヘルムβ,Masque Girros β,Maschera di Girros β,Girros-Maske β,,Máscara de Girros β,Maska z Girrosa β,Гирросовая маска β,기르오스헬름β,凶顎龍頭盔β,قناع غيروس β
+Girros Mail β,ギルオスメイルβ,Cotte Girros β,Cotta di Girros β,Girros-Panzerung β,,Armadura de Girros β,Zbroja z Girrosa β,Гирросовый доспех β,기르오스메일β,凶顎龍鎧甲β,درع غيروس β
+Girros Vambraces β,ギルオスアームβ,Avant-bras Girros β,Parabraccia di Girros β,Girros-Armschienen β,,Avambraços de Girros β,Zarękawia z Girrosa β,Гирросовые наручи β,기르오스암β,凶顎龍腕甲β,درع ساعد غيروس β
+Girros Coil β,ギルオスコイルβ,Tassette Girros β,Spira di Girros β,Girros-Hüftring β,,Cinturão de Girros β,Pas z Girrosa β,Гирросовый пояс β,기르오스코일β,凶顎龍腰甲β,لفيفة غيروس β
+Girros Greaves β,ギルオスグリーヴβ,Pantalon Girros β,Schinieri di Girros β,Girros-Beinschienen β,,Grevas de Girros β,Nagolenice z Girrosa β,Гирросовые поножи β,기르오스그리브β,凶顎龍護腿β,درع ساق غيروس β
+Pukei Hood α,プケプケヘルムα,Capuche Pukei α,Cappuccio di Pukei α,Pukei-Kopfschutz α,,Capuz de Pukei α,Kaptur z Pukei α,Капюшон поки α,푸케푸케헬름α,毒妖鳥頭盔α,قلنسوة بوكي α
+Pukei Mail α,プケプケメイルα,Cotte Pukei α,Cotta di Pukei α,Pukei-Panzerung α,,Armadura de Pukei α,Zbroja z Pukei α,Доспех поки α,푸케푸케메일α,毒妖鳥鎧甲α,درع بوكي α
+Pukei Vambraces α,プケプケアームα,Gantelets Pukei α,Parabraccia di Pukei α,Pukei-Armschienen α,,Avambraços de Pukei α,Zarękawia z Pukei α,Наручи поки α,푸케푸케암α,毒妖鳥腕甲α,درع ساعد بوكي α
+Pukei Coil α,プケプケコイルα,Tassette Pukei α,Spira di Pukei α,Pukei-Hüftring α,,Cinturão de Pukei α,Pas z Pukei α,Пояс поки α,푸케푸케코일α,毒妖鳥腰甲α,لفيفة بوكي α
+Pukei Greaves α,プケプケグリーヴα,Bottes Pukei α,Schinieri di Pukei α,Pukei-Beinschienen α,,Grevas de Pukei α,Nagolenice z Pukei α,Поножи поки α,푸케푸케그리브α,毒妖鳥護腿α,درع ساق بوكي α
+Pukei Hood β,プケプケヘルムβ,Capuche Pukei β,Cappuccio di Pukei β,Pukei-Kopfschutz β,,Capuz de Pukei β,Kaptur z Pukei β,Капюшон поки β,푸케푸케헬름β,毒妖鳥頭盔β,قلنسوة بوكي β
+Pukei Mail β,プケプケメイルβ,Cotte Pukei β,Cotta di Pukei β,Pukei-Panzerung β,,Armadura de Pukei β,Zbroja z Pukei β,Доспех поки β,푸케푸케메일β,毒妖鳥鎧甲β,درع بوكي β
+Pukei Vambraces β,プケプケアームβ,Gantelets Pukei β,Parabraccia di Pukei β,Pukei-Armschienen β,,Avambraços de Pukei β,Zarękawia z Pukei β,Наручи поки β,푸케푸케암β,毒妖鳥腕甲β,درع ساعد بوكي β
+Pukei Coil β,プケプケコイルβ,Tassette Pukei β,Spira di Pukei β,Pukei-Hüftring β,,Cinturão de Pukei β,Pas z Pukei β,Пояс поки β,푸케푸케코일β,毒妖鳥腰甲β,لفيفة بوكي β
+Pukei Greaves β,プケプケグリーヴβ,Bottes Pukei β,Schinieri di Pukei β,Pukei-Beinschienen β,,Grevas de Pukei β,Nagolenice z Pukei β,Поножи поки β,푸케푸케그리브β,毒妖鳥護腿β,درع ساق بوكي β
+Barroth Helm α,ボロスヘルムα,Heaume Barroth α,Elmo di Barroth α,Barroth-Helm α,,Elmo de Barroth α,Hełm z Barrotha α,Барротовый шлем α,보로스헬름α,土砂龍頭盔α,خوذة باروث α
+Barroth Mail α,ボロスメイルα,Cuirasse Barroth α,Cotta di Barroth α,Barroth-Panzerung α,,Armadura de Barroth α,Zbroja z Barrotha α,Барротовый доспех α,보로스메일α,土砂龍鎧甲α,درع باروث α
+Barroth Vambraces α,ボロスアームα,Avant-bras Barroth α,Parabraccia di Barroth α,Barroth-Armschienen α,,Avambraços de Barroth α,Zarękawia z Barrotha α,Барротовые наручи α,보로스암α,土砂龍腕甲α,درع ساعد باروث α
+Barroth Coil α,ボロスコイルα,Tassette Barroth α,Spira di Barroth α,Barroth-Hüftring α,,Cinturão de Barroth α,Pas z Barrotha α,Барротовый пояс α,보로스코일α,土砂龍腰甲α,لفيفة باروث α
+Barroth Greaves α,ボロスグリーヴα,Grèves Barroth α,Schinieri di Barroth α,Barroth-Beinschienen α,,Grevas de Barroth α,Nagolenice z Barrotha α,Барротовые поножи α,보로스그리브α,土砂龍護腿α,درع ساق باروث α
+Barroth Helm β,ボロスヘルムβ,Heaume Barroth β,Elmo di Barroth β,Barroth-Helm β,,Elmo de Barroth β,Hełm z Barrotha β,Барротовый шлем β,보로스헬름β,土砂龍頭盔β,خوذة باروث β
+Barroth Mail β,ボロスメイルβ,Cuirasse Barroth β,Cotta di Barroth β,Barroth-Panzerung β,,Armadura de Barroth β,Zbroja z Barrotha β,Барротовый доспех β,보로스메일β,土砂龍鎧甲β,درع باروث β
+Barroth Vambraces β,ボロスアームβ,Avant-bras Barroth β,Parabraccia di Barroth β,Barroth-Armschienen β,,Avambraços de Barroth β,Zarękawia z Barrotha β,Барротовые наручи β,보로스암β,土砂龍腕甲β,درع ساعد باروث β
+Barroth Coil β,ボロスコイルβ,Tassette Barroth β,Spira di Barroth β,Barroth-Hüftring β,,Cinturão de Barroth β,Pas z Barrotha β,Барротовый пояс β,보로스코일β,土砂龍腰甲β,لفيفة باروث β
+Barroth Greaves β,ボロスグリーヴβ,Grèves Barroth β,Schinieri di Barroth β,Barroth-Beinschienen β,,Grevas de Barroth β,Nagolenice z Barrotha β,Барротовые поножи β,보로스그리브β,土砂龍護腿β,درع ساق باروث β
+Anja Helm α,ジャナフヘルムα,Casque Anjanath α,Elmo di Anja α,Anjanath-Helm α,,Elmo de Anja α,Hełm z Anja α,Шлем анджи α,쟈나프헬름α,蠻顎龍頭盔α,خوذة أنجا α
+Anja Mail α,ジャナフメイルα,Manteau Anjanath α,Cotta di Anja α,Anjanath-Panzerung α,,Armadura de Anja α,Zbroja z Anja α,Доспех анджи α,쟈나프메일α,蠻顎龍鎧甲α,درع أنجا α
+Anja Vambraces α,ジャナフアームα,Avant-bras Anjanath α,Parabraccia di Anja α,Anjanath-Armschienen α,,Avambraços de Anja α,Zarękawia z Anja α,Наручи анджи α,쟈나프암α,蠻顎龍腕甲α,درع ساعد أنجا α
+Anja Coil α,ジャナフコイルα,Boucle Anjanath α,Spira di Anja α,Anjanath-Hüftring α,,Cinturão de Anja α,Pas z Anja α,Пояс анджи α,쟈나프코일α,蠻顎龍腰甲α,لفيفة أنجا α
+Anja Greaves α,ジャナフグリーヴα,Genouillère Anjanath α,Schinieri di Anja α,Anjanath-Beinschienen α,,Grevas de Anja α,Nagolenice z Anja α,Поножи анджи α,쟈나프그리브α,蠻顎龍護腿α,درع ساق أنجا α
+Anja Helm β,ジャナフヘルムβ,Casque Anjanath β,Elmo di Anja β,Anjanath-Helm β,,Elmo de Anja β,Hełm z Anja β,Шлем анджи β,쟈나프헬름β,蠻顎龍頭盔β,خوذة أنجا β
+Anja Mail β,ジャナフメイルβ,Manteau Anjanath β,Cotta di Anja β,Anjanath-Panzerung β,,Armadura de Anja β,Zbroja z Anja β,Доспех анджи β,쟈나프메일β,蠻顎龍鎧甲β,درع أنجا β
+Anja Vambraces β,ジャナフアームβ,Avant-bras Anjanath β,Parabraccia di Anja β,Anjanath-Armschienen β,,Avambraços de Anja β,Zarękawia z Anja β,Наручи анджи β,쟈나프암β,蠻顎龍腕甲β,درع ساعد أنجا β
+Anja Coil β,ジャナフコイルβ,Boucle Anjanath β,Spira di Anja β,Anjanath-Hüftring β,,Cinturão de Anja β,Pas z Anja β,Пояс анджи β,쟈나프코일β,蠻顎龍腰甲β,لفيفة أنجا β
+Anja Greaves β,ジャナフグリーヴβ,Genouillère Anjanath β,Schinieri di Anja β,Anjanath-Beinschienen β,,Grevas de Anja β,Nagolenice z Anja β,Поножи анджи β,쟈나프그리브β,蠻顎龍護腿β,درع ساق أنجا β
+Jyura Helm α,ジュラヘルムα,Heaume Jyura α,Elmo di Jyura α,Jyura-Helm α,,Elmo de Jyura α,Hełm z Jyura α,Юратодовый шлем α,쥬라헬름α,泥魚龍頭盔α,خوذة جيورا α
+Jyura Mail α,ジュラメイルα,Cuirasse Jyura α,Cotta di Jyura α,Jyura-Panzerung α,,Armadura de Jyura α,Zbroja z Jyura α,Юратодовый доспех α,쥬라메일α,泥魚龍鎧甲α,درع جيورا α
+Jyura Vambraces α,ジュラアームα,Avant-bras Jyura α,Parabraccia di Jyura α,Jyura-Armschienen α,,Avambraços de Jyura α,Zarękawia z Jyura α,Юратодовые наручи α,쥬라암α,泥魚龍腕甲α,درع ساعد جيورا α
+Jyura Coil α,ジュラコイルα,Tassette Jyura α,Spira di Jyura α,Jyura-Hüftring α,,Cinturão de Jyura α,Pas z Jyura α,Юратодовый пояс α,쥬라코일α,泥魚龍腰甲α,لفيفة جيورا α
+Jyura Greaves α,ジュラグリーヴα,Grèves Jyura α,Schinieri di Jyura α,Jyura-Beinschienen α,,Grevas de Jyura α,Nagolenice z Jyura α,Юратодовые поножи α,쥬라그리브α,泥魚龍護腿α,درع ساق جيورا α
+Jyura Helm β,ジュラヘルムβ,Heaume Jyura β,Elmo di Jyura β,Jyura-Helm β,,Elmo de Jyura β,Hełm z Jyura β,Юратодовый шлем β,쥬라헬름β,泥魚龍頭盔β,خوذة جيورا β
+Jyura Mail β,ジュラメイルβ,Cuirasse Jyura β,Cotta di Jyura β,Jyura-Panzerung β,,Armadura de Jyura β,Zbroja z Jyura β,Юратодовый доспех β,쥬라메일β,泥魚龍鎧甲β,درع جيورا β
+Jyura Vambraces β,ジュラアームβ,Avant-bras Jyura β,Parabraccia di Jyura β,Jyura-Armschienen β,,Avambraços de Jyura β,Zarękawia z Jyura β,Юратодовые наручи β,쥬라암β,泥魚龍腕甲β,درع ساعد جيورا β
+Jyura Coil β,ジュラコイルβ,Tassette Jyura β,Spira di Jyura β,Jyura-Hüftring β,,Cinturão de Jyura β,Pas z Jyura β,Юратодовый пояс β,쥬라코일β,泥魚龍腰甲β,لفيفة جيورا β
+Jyura Greaves β,ジュラグリーヴβ,Grèves Jyura β,Schinieri di Jyura β,Jyura-Beinschienen β,,Grevas de Jyura β,Nagolenice z Jyura β,Юратодовые поножи β,쥬라그리브β,泥魚龍護腿β,درع ساق جيورا β
+Kadachi Helm α,カガチヘルムα,Toque Kadachi α,Elmo di Kadachi α,Kadachi-Helm α,,Elmo de Kadachi α,Hełm z Kadachi α,Шлем кадачи α,카가치헬름α,飛雷龍頭盔α,خوذة كاداتشي α
+Kadachi Mail α,カガチメイルα,Veste Kadachi α,Cotta di Kadachi α,Kadachi-Panzerung α,,Armadura de Kadachi α,Zbroja z Kadachi α,Доспех кадачи α,카가치메일α,飛雷龍鎧甲α,درع كاداتشي α
+Kadachi Vambraces α,カガチアームα,Gantelets Kadachi α,Parabraccia di Kadachi α,Kadachi-Armschienen α,,Avambraços de Kadachi α,Zarękawia z Kadachi α,Наручи кадачи α,카가치암α,飛雷龍腕甲α,درع ساعد كاداتشي α
+Kadachi Coil α,カガチコイルα,Jupette Kadachi α,Spira di Kadachi α,Kadachi-Hüftring α,,Cinturão de Kadachi α,Pas z Kadachi α,Пояс кадачи α,카가치코일α,飛雷龍腰甲α,لفيفة كاداتشي α
+Kadachi Greaves α,カガチグリーヴα,Grèves Kadachi α,Schinieri di Kadachi α,Kadachi-Beinschienen α,,Grevas de Kadachi α,Nagolenice z Kadachi α,Поножи кадачи α,카가치그리브α,飛雷龍護腿α,درع ساق كاداتشي α
+Kadachi Helm β,カガチヘルムβ,Toque Kadachi β,Elmo di Kadachi β,Kadachi-Helm β,,Elmo de Kadachi β,Hełm z Kadachi β,Шлем кадачи β,카가치헬름β,飛雷龍頭盔β,خوذة كاداتشي β
+Kadachi Mail β,カガチメイルβ,Veste Kadachi β,Cotta di Kadachi β,Kadachi-Panzerung β,,Armadura de Kadachi β,Zbroja z Kadachi β,Доспех кадачи β,카가치메일β,飛雷龍鎧甲β,درع كاداتشي β
+Kadachi Vambraces β,カガチアームβ,Gantelets Kadachi β,Parabraccia di Kadachi β,Kadachi-Armschienen β,,Avambraços de Kadachi β,Zarękawia z Kadachi β,Наручи кадачи β,카가치암β,飛雷龍腕甲β,درع ساعد كاداتشي β
+Kadachi Coil β,カガチコイルβ,Jupette Kadachi β,Spira di Kadachi β,Kadachi-Hüftring β,,Cinturão de Kadachi β,Pas z Kadachi β,Пояс кадачи β,카가치코일β,飛雷龍腰甲β,لفيفة كاداتشي β
+Kadachi Greaves β,カガチグリーヴβ,Grèves Kadachi β,Schinieri di Kadachi β,Kadachi-Beinschienen β,,Grevas de Kadachi β,Nagolenice z Kadachi β,Поножи кадачи β,카가치그리브β,飛雷龍護腿β,درع ساق كاداتشي β
+Lumu Hat α,ウルムーヘルムα,Ouchanka Lumu α,Copricapo di Lumu α,Paolumu-Hut α,,Chapéu de Lumu α,Czapka z Lumu α,Шляпа луму α,우르무헬름α,浮空龍頭盔α,قبعة لومو α
+Lumu Mail α,ウルムーメイルα,Veste Lumu α,Cotta di Lumu α,Paolumu-Panzerung α,,Armadura de Lumu α,Zbroja z Lumu α,Доспех луму α,우르무메일α,浮空龍鎧甲α,درع لومو α
+Lumu Vambraces α,ウルムーアームα,Moufles Lumu α,Parabraccia di Lumu α,Paolumu-Armschienen α,,Avambraços de Lumu α,Zarękawia z Lumu α,Наручи луму α,우르무암α,浮空龍腕甲α,درع ساعد لومو α
+Lumu Coil α,ウルムーコイルα,Short Lumu α,Spira di Lumu α,Paolumu-Hüftring α,,Cinturão de Lumu α,Pas z Lumu α,Пояс луму α,우르무코일α,浮空龍腰甲α,لفيفة لومو α
+Lumu Greaves α,ウルムーグリーヴα,Pantalon Lumu α,Schinieri di Lumu α,Paolumu-Beinschienen α,,Grevas de Lumu α,Nagolenice z Lumu α,Поножи луму α,우르무그리브α,浮空龍護腿α,درع ساق لومو α
+Lumu Hat β,ウルムーヘルムβ,Ouchanka Lumu β,Copricapo di Lumu β,Paolumu-Hut β,,Chapéu de Lumu β,Czapka z Lumu β,Шляпа луму β,우르무헬름β,浮空龍頭盔β,قبعة لومو β
+Lumu Mail β,ウルムーメイルβ,Veste Lumu β,Cotta di Lumu β,Paolumu-Panzerung β,,Armadura de Lumu β,Zbroja z Lumu β,Доспех луму β,우르무메일β,浮空龍鎧甲β,درع لومو β
+Lumu Vambraces β,ウルムーアームβ,Moufles Lumu β,Parabraccia di Lumu β,Paolumu-Armschienen β,,Avambraços de Lumu β,Zarękawia z Lumu β,Наручи луму β,우르무암β,浮空龍腕甲β,درع ساعد لومو β
+Lumu Coil β,ウルムーコイルβ,Short Lumu β,Spira di Lumu β,Paolumu-Hüftring β,,Cinturão de Lumu β,Pas z Lumu β,Пояс луму β,우르무코일β,浮空龍腰甲β,لفيفة لومو β
+Lumu Greaves β,ウルムーグリーヴβ,Pantalon Lumu β,Schinieri di Lumu β,Paolumu-Beinschienen β,,Grevas de Lumu β,Nagolenice z Lumu β,Поножи луму β,우르무그리브β,浮空龍護腿β,درع ساق لومو β
+Rathian Helm α,レイアヘルムα,Heaume Rathian α,Elmo di Rathian α,Rathian-Helm α,,Elmo de Rathian α,Hełm z Rathiany α,Ратиановый шлем α,레이아헬름α,雌火龍頭盔α,خوذة راثيان α
+Rathian Mail α,レイアメイルα,Cotte Rathian α,Cotta di Rathian α,Rathian-Panzerung α,,Armadura de Rathian α,Zbroja z Rathiany α,Ратиановый доспех α,레이아메일α,雌火龍鎧甲α,درع راثيان α
+Rathian Vambraces α,レイアアームα,Avant-bras Rathian α,Parabraccia di Rathian α,Rathian-Armschienen α,,Avambraços de Rathian α,Zarękawia z Rathiany α,Ратиановые наручи α,레이아암α,雌火龍腕甲α,درع ساعد راثيان α
+Rathian Coil α,レイアコイルα,Jupe Rathian α,Spira di Rathian α,Rathian-Hüftring α,,Cinturão de Rathian α,Pas z Rathiany α,Ратиановый пояс α,레이아코일α,雌火龍腰甲α,لفيفة راثيان α
+Rathian Greaves α,レイアグリーヴα,Grèves Rathian α,Schinieri di Rathian α,Rathian-Beinschienen α,,Grevas de Rathian α,Nagolenice z Rathiany α,Ратиановые поножи α,레이아그리브α,雌火龍護腿α,درع ساق راثيان α
+Rathian Helm β,レイアヘルムβ,Heaume Rathian β,Elmo di Rathian β,Rathian-Helm β,,Elmo de Rathian β,Hełm z Rathiany β,Ратиановый шлем β,레이아헬름β,雌火龍頭盔β,خوذة راثيان β
+Rathian Mail β,レイアメイルβ,Cotte Rathian β,Cotta di Rathian β,Rathian-Panzerung β,,Armadura de Rathian β,Zbroja z Rathiany β,Ратиановый доспех β,레이아메일β,雌火龍鎧甲β,درع راثيان β
+Rathian Vambraces β,レイアアームβ,Avant-bras Rathian β,Parabraccia di Rathian β,Rathian-Armschienen β,,Avambraços de Rathian β,Zarękawia z Rathiany β,Ратиановые наручи β,레이아암β,雌火龍腕甲β,درع ساعد راثيان β
+Rathian Coil β,レイアコイルβ,Jupe Rathian β,Spira di Rathian β,Rathian-Hüftring β,,Cinturão de Rathian β,Pas z Rathiany β,Ратиановый пояс β,레이아코일β,雌火龍腰甲β,لفيفة راثيان β
+Rathian Greaves β,レイアグリーヴβ,Grèves Rathian β,Schinieri di Rathian β,Rathian-Beinschienen β,,Grevas de Rathian β,Nagolenice z Rathiany β,Ратиановые поножи β,레이아그리브β,雌火龍護腿β,درع ساق راثيان β
+Rath Heart Helm α,リオハートヘルムα,Bonnet Cœur Rathian α,Elmo cuore di Rath α,Rathianherz-Helm α,,Elmo Coração Rath α,Hełm z serca Ratha α,Шлем сердца раты α,리오하트헬름α,火龍心頭盔α,خوذة قلب راث α
+Rath Heart Mail α,リオハートメイルα,Cotte Cœur Rathian α,Cotta cuore di Rath α,Rathianherz-Panzerung α,,Armad. Coração Rath α,Zbroja z serca Ratha α,Доспех сердца раты α,리오하트메일α,火龍心鎧甲α,درع قلب راث α
+Rath Heart Braces α,リオハートアームα,Avant-bras Cœur Rathian α,Parabraccia cuore di Rath α,RathianherzArmschienen α,,Braçad. Coração Rath α,Rękawy z serca Ratha α,Наручи сердца раты α,리오하트암α,火龍心腕甲α,دعامات قلب راث α
+Rath Heart Coil α,リオハートコイルα,Boucle Cœur Rathian α,Spira cuore di Rath α,Rathianherz-Hüftring α,,Cint. Coração Rath α,Pas z serca Ratha α,Пояс сердца раты α,리오하트코일α,火龍心腰甲α,لفيفة قلب راث α
+Rath Heart Greaves α,リオハートグリーヴα,Grèves Cœur Rathian α,Schinieri cuore di Rath α,RathianherzBeinschienen α,,Grevas Coração Rath α,Golenie z serca Ratha α,Поножи сердца раты α,리오하트그리브α,火龍心護腿α,درع ساق قلب راث α
+Rath Heart Helm β,リオハートヘルムβ,Bonnet Cœur Rathian β,Elmo cuore di Rath β,Rathianherz-Helm β,,Elmo Coração Rath β,Hełm z serca Ratha β,Шлем сердца раты β,리오하트헬름β,火龍心頭盔β,خوذة قلب راث β
+Rath Heart Mail β,リオハートメイルβ,Cotte Cœur Rathian β,Cotta cuore di Rath β,Rathianherz-Panzerung β,,Armad. Coração Rath β,Zbroja z serca Ratha β,Доспех сердца раты β,리오하트메일β,火龍心鎧甲β,درع قلب راث β
+Rath Heart Braces β,リオハートアームβ,Avant-bras Cœur Rathian β,Parabraccia cuore di Rath β,RathianherzArmschienen β,,Braçad. Coração Rath β,Rękawy z serca Ratha β,Наручи сердца раты β,리오하트암β,火龍心腕甲β,دعامات قلب راث β
+Rath Heart Coil β,リオハートコイルβ,Boucle Cœur Rathian β,Spira cuore di Rath β,Rathianherz-Hüftring β,,Cint. Coração Rath β,Pas z serca Ratha β,Пояс сердца раты β,리오하트코일β,火龍心腰甲β,لفيفة قلب راث β
+Rath Heart Greaves β,リオハートグリーヴβ,Grèves Cœur Rathian β,Schinieri cuore di Rath β,RathianherzBeinschienen β,,Grevas Coração Rath β,Golenie z serca Ratha β,Поножи сердца раты β,리오하트그리브β,火龍心護腿β,درع ساق قلب راث β
+Baan Helm α,バルキンヘルムα,Casque Radobaan α,Elmo di Baan α,Baan-Helm α,,Elmo de Baan α,Hełm z Baana α,Баановый шлем α,발킨헬름α,骨鎚龍頭盔α,خوذة بان α
+Baan Mail α,バルキンメイルα,Cuirasse Radobaan α,Cotta di Baan α,Baan-Panzerung α,,Armadura de Baan α,Zbroja z Baana α,Баановый доспех α,발킨메일α,骨鎚龍鎧甲α,درع بان α
+Baan Vambraces α,バルキンアームα,Boucliers Radobaan α,Parabraccia di Baan α,Baan-Armschienen α,,Avambraços de Baan α,Zarękawia z Baana α,Баановые наручи α,발킨암α,骨鎚龍腕甲α,درع ساعد بان α
+Baan Coil α,バルキンコイルα,Tassette Radobaan α,Spira di Baan α,Baan-Hüftring α,,Cinturão de Baan α,Pas z Baana α,Баановый пояс α,발킨코일α,骨鎚龍腰甲α,لفيفة بان α
+Baan Greaves α,バルキングリーヴα,Grèves Radobaan α,Schinieri di Baan α,Baan-Beinschienen α,,Grevas de Baan α,Nogawice z Baana α,Баановые поножи α,발킨그리브α,骨鎚龍護腿α,درع ساق بان α
+Baan Helm β,バルキンヘルムβ,Casque Radobaan β,Elmo di Baan β,Baan-Helm β,,Elmo de Baan β,Hełm z Baana β,Баановый шлем β,발킨헬름β,骨鎚龍頭盔β,خوذة بان β
+Baan Mail β,バルキンメイルβ,Cuirasse Radobaan β,Cotta di Baan β,Baan-Panzerung β,,Armadura de Baan β,Zbroja z Baana β,Баановый доспех β,발킨메일β,骨鎚龍鎧甲β,درع بان β
+Baan Vambraces β,バルキンアームβ,Boucliers Radobaan β,Parabraccia di Baan β,Baan-Armschienen β,,Avambraços de Baan β,Zarękawia z Baana β,Баановые наручи β,발킨암β,骨鎚龍腕甲β,درع ساعد بان β
+Baan Coil β,バルキンコイルβ,Tassette Radobaan β,Spira di Baan β,Baan-Hüftring β,,Cinturão de Baan β,Pas z Baana β,Баановый пояс β,발킨코일β,骨鎚龍腰甲β,لفيفة بان β
+Baan Greaves β,バルキングリーヴβ,Grèves Radobaan β,Schinieri di Baan β,Baan-Beinschienen β,,Grevas de Baan β,Nogawice z Baana β,Баановые поножи β,발킨그리브β,骨鎚龍護腿β,درع ساق بان β
+Gastodon Horn α,ガストホーンα,Crinière Gastodon α,Corno di Gastodon α,Gastodon-Horn α,,Chifre de Gastodonte α,Róg Gastodona α,Рог гастодона α,가스토혼α,突擊龍角α,قرن غاستودون α
+Gastodon Horn β,ガストホーンβ,Crinière Gastodon β,Corno di Gastodon β,Gastodon-Horn β,,Chifre de Gastodonte β,Róg Gastodona β,Рог гастодона β,가스토혼β,突擊龍角β,قرن غاستودون β
+Barnos Jacket α,バルノスマントα,Veste Barnos α,Pettino di Barnos α,Barnos-Jacke α,,Jaqueta de Barnos α,Kubrak z Barnosa α,Барносовая куртка α,바르노스망토α,酸翼龍斗篷α,سترة بارنوس α
+Barnos Jacket β,バルノスマントβ,Veste Barnos β,Pettino di Barnos β,Barnos-Jacke β,,Jaqueta de Barnos β,Kubrak z Barnosa β,Барносовая куртка β,바르노스망토β,酸翼龍斗篷β,سترة بارنوس β
+Dodogama Helm α,ガマルヘルムα,Bassinet Dodogama α,Elmo di Dodogama α,Dodogama-Helm α,,Elmo de Dodogama α,Hełm z Dodogamy α,Додогамовый шлем α,가마루헬름α,岩賊龍頭盔α,خوذة دودوغما α
+Dodogama Mail α,ガマルメイルα,Cuirasse Dodogama α,Cotta di Dodogama α,Dodogama-Panzerung α,,Armadura de Dodogama α,Zbroja z Dodogamy α,Додогамовый доспех α,가마루메일α,岩賊龍鎧甲α,درع دودوغما α
+Dodogama Vambraces α,ガマルアームα,Avant-bras Dodogama α,Parabraccia di Dodogama α,Dodogama-Armschienen α,,Avambraços de Dodogama α,Zarękawia z Dodogamy α,Додогамовые наручи α,가마루암α,岩賊龍腕甲α,درع ساعد دودوغما α
+Dodogama Coil α,ガマルコイルα,Tassette Dodogama α,Spira di Dodogama α,Dodogama-Hüftring α,,Cinturão de Dodogama α,Pas z Dodogamy α,Додогамовый пояс α,가마루코일α,岩賊龍腰甲α,لفيفة دودوغما α
+Dodogama Greaves α,ガマルグリーヴα,Grèves Dodogama α,Schinieri di Dodogama α,Dodogama-Beinschienen α,,Grevas de Dodogama α,Nagolenice z Dodogamy α,Додогамовые поножи α,가마루그리브α,岩賊龍護腿α,درع ساق دودوغما α
+Dodogama Helm β,ガマルヘルムβ,Bassinet Dodogama β,Elmo di Dodogama β,Dodogama-Helm β,,Elmo de Dodogama β,Hełm z Dodogamy β,Додогамовый шлем β,가마루헬름β,岩賊龍頭盔β,خوذة دودوغما β
+Dodogama Mail β,ガマルメイルβ,Cuirasse Dodogama β,Cotta di Dodogama β,Dodogama-Panzerung β,,Armadura de Dodogama β,Zbroja z Dodogamy β,Додогамовый доспех β,가마루메일β,岩賊龍鎧甲β,درع دودوغما β
+Dodogama Vambraces β,ガマルアームβ,Avant-bras Dodogama β,Parabraccia di Dodogama β,Dodogama-Armschienen β,,Avambraços de Dodogama β,Zarękawia z Dodogamy β,Додогамовые наручи β,가마루암β,岩賊龍鎧甲β,درع ساعد دودوغما β
+Dodogama Coil β,ガマルコイルβ,Tassette Dodogama β,Spira di Dodogama β,Dodogama-Hüftring β,,Cinturão de Dodogama β,Pas z Dodogamy β,Додогамовый пояс β,가마루코일β,岩賊龍腰甲β,لفيفة دودوغما β
+Dodogama Greaves β,ガマルグリーヴβ,Grèves Dodogama β,Schinieri di Dodogama β,Dodogama-Beinschienen β,,Grevas de Dodogama β,Nagolenice z Dodogamy β,Додогамовые поножи β,가마루그리브β,岩賊龍護腿β,درع ساق دودوغما β
+Zorah Headgear α,ゾラマグナヘッドα,Couronne Zorah α,Testa di Zorah α,Zorah-Kopfschutz α,,Elmo de Zorah α,Hełm Zoraha α,Шлем Дзоры α,조라마그나헤드α,鑄島熔岩頭飾α,عتاد رأس زوراه α
+Zorah Hide α,ゾラマグナハイドα,Cotte Zorah Magdaros α,Cotta di Zorah α,Zorah-Lederhaut α,,Couro de Zorah α,Skóra Zoraha α,Доспех Дзоры α,조라마그나하이드α,鑄島熔岩皮α,جلد زوراه α
+Zorah Claws α,ゾラマグナクロウα,Griffes Zorah α,Artigli di Zorah α,Zorah-Klauen α,,Garras de Zorah α,Pazury Zoraha α,Наручи Дзоры α,조라마그나클로α,鑄島熔岩鋼爪α,مخالب زوراه α
+Zorah Spine α,ゾラマグナスパインα,Vertèbre Zorah α,Colonna di Zorah α,Zorah-Stachel α,,Espinha de Zorah α,Kręgosłup Zoraha α,Хребет Дзоры α,조라마그나스파인α,鑄島熔岩脊椎α,درع ظهر زوراه α
+Zorah Spurs α,ゾラマグナフットα,Éperons Zorah α,Speroni di Zorah α,Zorah-Sporen α,,Esporas de Zorah α,Ostrogi Zoraha α,Поножи Дзоры α,조라마그나풋α,鑄島熔岩靴α,مهمز زوراه α
+Zorah Headgear β,ゾラマグナヘッドβ,Couronne Zorah β,Testa di Zorah β,Zorah-Kopfschutz β,,Elmo de Zorah β,Hełm Zoraha β,Шлем Дзоры β,조라마그나헤드β,鑄島熔岩頭飾β,عتاد رأس زوراه β
+Zorah Hide β,ゾラマグナハイドβ,Peau Zorah β,Pelle di Zorah β,Zorah-Lederhaut β,,Couro de Zorah β,Skóra Zoraha β,Доспех Дзоры β,조라마그나하이드β,鑄島熔岩皮β,جلد زوراه β
+Zorah Claws β,ゾラマグナクロウβ,Griffes Zorah β,Artigli di Zorah β,Zorah-Klauen β,,Garras de Zorah β,Pazury Zoraha β,Наручи Дзоры β,조라마그나클로β,鑄島熔岩鋼爪β,مخالب زوراه β
+Zorah Spine β,ゾラマグナスパインβ,Vertèbre Zorah β,Colonna di Zorah β,Zorah-Stachel β,,Espinha de Zorah β,Kręgosłup Zoraha β,Хребет Дзоры β,조라마그나스파인β,鑄島熔岩脊椎β,درع ظهر زوراه β
+Zorah Spurs β,ゾラマグナフットβ,Éperons Zorah β,Speroni di Zorah β,Zorah-Sporen β,,Esporas de Zorah β,Ostrogi Zoraha β,Поножи Дзоры β,조라마그나풋β,鑄島熔岩靴β,مهمز زوراه β
+High Metal Helm α,ハイメタヘルムα,Heaume haut-métal α,Elmo in ipermetallo α,Hochmetall-Helm α,,Elmo de Metal Denso α,Hełm z metalu α,Шлем высшего металла α,하이메탈헬름α,礦石頭盔α,خوذة معدن قوى α
+High Metal Mail α,ハイメタメイルα,Cotte haut-métal α,Cotta in ipermetallo α,Hochmetall-Panzerung α,,Armadura Metal Denso α,Zbroja z metalu α,Доспех высшего металла α,하이메탈메일α,礦石鎧甲α,درع معدن قوي α
+High Metal Braces α,ハイメタアームα,Gantelets α,Parabraccia in ipermetallo α,HochmetallArmschienen α,,Braçad. Metal Denso α,Zarękawia z metalu α,Наручи высшего металла α,하이메탈암α,礦石腕甲α,دعامات معدن قوي α
+High Metal Coil α,ハイメタコイルα,Tassette haut-métal α,Spira in ipermetallo α,Hochmetall-Hüftring α,,Cint. de Metal Denso α,Pas z metalu α,Пояс высшего металла α,하이메탈코일α,礦石腰甲α,لفيفة معدن قوي α
+High Metal Greaves α,ハイメタグリーヴα,Grèves haut-métal α,Schinieri in ipermetallo α,HochmetallBeinschienen α,,Grevas de Metal Denso α,Nagolenice z metalu α,Поножи высшего металла α,하이메탈그리브α,礦石護腿α,درع ساق معدن قوي α
+High Metal Helm β,ハイメタヘルムβ,Heaume haut-métal β,Elmo in ipermetallo β,Hochmetall-Helm β,,Elmo de Metal Denso β,Hełm z metalu β,Шлем высшего металла β,하이메탈헬름β,礦石頭盔β,خوذة معدن قوى β
+High Metal Mail β,ハイメタメイルβ,Cotte haut-métal β,Cotta in ipermetallo β,Hochmetall-Panzerung β,,Armadura Metal Denso β,Zbroja z metalu β,Доспех высшего металла β,하이메탈메일β,礦石鎧甲β,درع معدن قوى β
+High Metal Braces β,ハイメタアームβ,Gantelets β,Parabraccia in ipermetallo β,HochmetallArmschienen β,,Braçad. Metal Denso β,Zarękawia z metalu β,Наручи высшего металла β,하이메탈암β,礦石腕甲β,دعامات معدن قوي β
+High Metal Coil β,ハイメタコイルβ,Tassette haut-métal β,Spira in ipermetallo β,Hochmetall-Hüftring β,,Cint. de Metal Denso β,Pas z metalu β,Пояс высшего металла β,하이메탈코일β,礦石腰甲β,لفيفة معدن قوي β
+High Metal Greaves β,ハイメタグリーヴβ,Grèves haut-métal β,Schinieri in ipermetallo β,HochmetallBeinschienen β,,Grevas de Metal Denso β,Nagolenice z metalu β,Поножи высшего металла β,하이메탈그리브β,礦石護腿β,درع ساق معدن قوي β
+Ingot Helm α,インゴットヘルムα,Couronne en lingot α,Elmo del lingotto α,Guss-Helm α,,Elmo de Lingote α,Hełm ze sztabek α,Драгоценный шлем α,잉곳헬름α,鑄鐵頭盔α,خوذة إنغوت α
+Ingot Mail α,インゴットメイルα,Cuirasse en lingot α,Cotta del lingotto α,Guss-Panzerung α,,Armadura de Lingote α,Zbroja ze sztabek α,Драгоценный доспех α,잉곳메일α,鑄鐵鎧甲α,درع إنغوت α
+Ingot Vambraces α,インゴットアームα,Avant-bras en lingot α,Parabraccia del lingotto α,Guss-Armschienen α,,Avambraços de Lingote α,Zarękawia ze sztabek α,Драгоценные наручи α,잉곳암α,鑄鐵腕甲α,درع ساعد إنغوت α
+Ingot Coil α,インゴットコイルα,Paréo en lingot α,Spira del lingotto α,Guss-Hüftring α,,Cinturão de Lingote α,Pas ze sztabek α,Драгоценный пояс α,잉곳코일α,鑄鐵腰甲α,لفيفة إنغوت α
+Ingot Greaves α,インゴットグリーヴα,Chausses en lingot α,Schinieri del lingotto α,Guss-Beinschienen α,,Grevas de Lingote α,Nagolenice ze sztabek α,Драгоценные поножи α,잉곳그리브α,鑄鐵護腿α,درع ساق إنغوت α
+Ingot Helm β,インゴットヘルムβ,Couronne en lingot β,Elmo del lingotto β,Guss-Helm β,,Elmo de Lingote β,Hełm ze sztabek β,Драгоценный шлем β,잉곳헬름β,鑄鐵頭盔β,خوذة إنغوت β
+Ingot Mail β,インゴットメイルβ,Cuirasse en lingot β,Cotta del lingotto β,Guss-Panzerung β,,Armadura de Lingote β,Zbroja ze sztabek β,Драгоценный доспех β,잉곳메일β,鑄鐵鎧甲β,درع إنغوت β
+Ingot Vambraces β,インゴットアームβ,Avant-bras en lingot β,Parabraccia del lingotto β,Guss-Armschienen β,,Avambraços de Lingote β,Zarękawia ze sztabek β,Драгоценные наручи β,잉곳암β,鑄鐵腕甲β,درع ساعد إنغوت β
+Ingot Coil β,インゴットコイルβ,Paréo en lingot β,Spira del lingotto β,Guss-Hüftring β,,Cinturão de Lingote β,Pas ze sztabek β,Драгоценный пояс β,잉곳코일β,鑄鐵腰甲β,لفيفة إنغوت β
+Ingot Greaves β,インゴットグリーヴβ,Chausses en lingot β,Schinieri del lingotto β,Guss-Beinschienen β,,Grevas de Lingote β,Nagolenice ze sztabek β,Драгоценные поножи β,잉곳그리브β,鑄鐵護腿β,درع ساق إنغوت β
+Brigade Lobos α,ブリゲイドロポスα,Chapeau de brigade α,Feluca di brigata α,Brigade-Lobos α,,Chapéu de Brigada α,Kapelusz Brygady α,Почетная шляпа α,브리게이드로포스α,旅團帽α,لوبُس السرية α
+Brigade Suit α,ブリゲイドスーツα,Tenue de brigade α,Abito di brigata α,Brigade-Anzug α,,Traje de Brigada α,Strój Brygady α,Почетный мундир α,브리게이드슈트α,旅團戰衣α,سترة السرية α
+Brigade Vambraces α,ブリゲイドアームα,Protège-bras de brigade α,Parabraccia di brigata α,Brigade-Armschienen α,,Avambraços de Brigada α,Zarękawia Brygady α,Почетные наручи α,브리게이드암α,旅團腕甲α,درع ساعد السرية α
+Brigade Coil α,ブリゲイドコイルα,Boucle de brigade α,Spira di brigata α,Brigade-Hüftring α,,Cinturão de Brigada α,Pas Brygady α,Почетный пояс α,브리게이드코일α,旅團腰甲α,لفيفة السرية α
+Brigade Boots α,ブリゲイドブーツα,Bottes de brigade α,Stivali di brigata α,Brigade-Stiefel α,,Botas de Brigada α,Buty Brygady α,Почетные сапоги α,브리게이드부츠α,旅團靴α,حذاء السرية α
+Brigade Lobos β,ブリゲイドロポスβ,Chapeau de brigade β,Feluca di brigata β,Brigade-Lobos β,,Chapéu de Brigada β,Kapelusz Brygady β,Почетная шляпа β,브리게이드로포스β,旅團帽β,لوبُس السرية β
+Brigade Suit β,ブリゲイドスーツβ,Tenue de brigade β,Abito di brigata β,Brigade-Anzug β,,Traje de Brigada β,Strój Brygady β,Почетный мундир β,브리게이드슈트β,旅團戰衣β,سترة السرية β
+Brigade Vambraces β,ブリゲイドアームβ,Protège-bras de brigade β,Parabraccia di brigata β,Brigade-Armschienen β,,Avambraços de Brigada β,Zarękawia Brygady β,Почетные наручи β,브리게이드암β,旅團腕甲β,درع ساعد السرية β
+Brigade Coil β,ブリゲイドコイルβ,Boucle de brigade β,Spira di brigata β,Brigade-Hüftring β,,Cinturão de Brigada β,Pas Brygady β,Почетный пояс β,브리게이드코일β,旅團腰甲β,لفيفة السرية β
+Brigade Boots β,ブリゲイドブーツβ,Bottes de brigade β,Stivali di brigata β,Brigade-Stiefel β,,Botas de Brigada β,Buty Brygady β,Почетные сапоги β,브리게이드부츠β,旅團靴β,حذاء السرية β
+Faux Felyne α,アイルーフェイクα,Faux Felyne α,Felyne fasullo α,Falscher Felyne α,,Felyno Falso α,Pseudofelin α,Фальшивый котт α,아이루페이크α,艾路頭套α,فيلاين مزيف α
+Strategist Spectacles α,知略の眼鏡α,Lunettes de stratège α,Occhiali da stratega α,Strategiker-Brille α,,Óculos de Estrategista α,Okulary stratega α,Очки стратега α,지략의안경α,知性眼鏡α,نظارات الاستراتيجي α
+Lavasioth Helm α,ラヴァヘルムα,Heaume Lavasioth α,Elmo di Lavasioth α,Lavasioth-Helm α,,Elmo de Lavasioth α,Hełm z Lavasiotha α,Лавасиотовый шлем α,라바헬름α,熔岩龍頭盔α,خوذة لافاسيوث α
+Lavasioth Mail α,ラヴァメイルα,Cotte Lavasioth α,Cotta di Lavasioth α,Lavasioth-Panzerung α,,Armadura de Lavasioth α,Zbroja z Lavasiotha α,Лавасиотовый доспех α,라바메일α,熔岩龍鎧甲α,درع لافاسيوث α
+Lavasioth Vambraces α,ラヴァアームα,Avant-bras Lavasioth α,Parabraccia di Lavasioth α,Lavasioth-Armschienen α,,Avambraços Lavasioth α,Zarękawia z Lavasiotha α,Лавасиотовые наручи α,라바암α,熔岩龍腕甲α,درع ساعد لافاسيوث α
+Lavasioth Coil α,ラヴァコイルα,Tassette Lavasioth α,Spira di Lavasioth α,Lavasioth-Hüftring α,,Cinturão de Lavasioth α,Pas z Lavasiotha α,Лавасиотовый пояс α,라바코일α,熔岩龍腰甲α,لفيفة لافاسيوث α
+Lavasioth Greaves α,ラヴァグリーヴα,Grèves Lavasioth α,Schinieri di Lavasioth α,Lavasioth-Beinschienen α,,Grevas de Lavasioth α,Nogawice z Lavasiotha α,Лавасиотовые поножи α,라바그리브α,熔岩龍護腿α,درع ساق لافاسيوث α
+Lavasioth Helm β,ラヴァヘルムβ,Heaume Lavasioth β,Elmo di Lavasioth β,Lavasioth-Helm β,,Elmo de Lavasioth β,Hełm z Lavasiotha β,Лавасиотовый шлем β,라바헬름β,熔岩龍頭盔β,خوذة لافاسيوث β
+Lavasioth Mail β,ラヴァメイルβ,Cotte Lavasioth β,Cotta di Lavasioth β,Lavasioth-Panzerung β,,Armadura de Lavasioth β,Zbroja z Lavasiotha β,Лавасиотовый доспех β,라바메일β,熔岩龍鎧甲β,درع لافاسيوث β
+Lavasioth Vambraces β,ラヴァアームβ,Avant-bras Lavasioth β,Parabraccia di Lavasioth β,Lavasioth-Armschienen β,,Avambraços Lavasioth β,Zarękawia z Lavasiotha β,Лавасиотовые наручи β,라바암β,熔岩龍腕甲β,درع ساعد لافاسيوث β
+Lavasioth Coil β,ラヴァコイルβ,Tassette Lavasioth β,Spira di Lavasioth β,Lavasioth-Hüftring β,,Cinturão de Lavasioth β,Pas z Lavasiotha β,Лавасиотовый пояс β,라바코일β,熔岩龍腰甲β,لفيفة لافاسيوث β
+Lavasioth Greaves β,ラヴァグリーヴβ,Grèves Lavasioth β,Schinieri di Lavasioth β,Lavasioth-Beinschienen β,,Grevas de Lavasioth β,Nogawice z Lavasiotha β,Лавасиотовые поножи β,라바그리브β,熔岩龍護腿β,درع ساق لافاسيوث β
+Legiana Helm α,ギエナヘルムα,Valkyrie Legiana α,Elmo di Legiana α,Legiana-Helm α,,Elmo de Legiana α,Hełm z Legiany α,Легиановый шлем α,기에나헬름α,風漂龍頭盔α,خوذة ليغيانا α
+Legiana Mail α,ギエナメイルα,Veste Legiana α,Cotta di Legiana α,Legiana-Panzerung α,,Armadura de Legiana α,Zbroja z Legiany α,Легиановый доспех α,기에나메일α,風漂龍鎧甲α,درع ليغيانا α
+Legiana Vambraces α,ギエナアームα,Avant-bras Legiana α,Parabraccia di Legiana α,Legiana-Armschienen α,,Avambraços de Legiana α,Zarękawia z Legiany α,Легиановые наручи α,기에나암α,風漂龍腕甲α,درع ساعد ليغيانا α
+Legiana Coil α,ギエナコイルα,Ceinture Legiana α,Spira di Legiana α,Legiana-Hüftring α,,Cinturão de Legiana α,Pas z Legiany α,Легиановый пояс α,기에나코일α,風漂龍腰甲α,لفيفة ليغيانا α
+Legiana Greaves α,ギエナグリーヴα,Grèves Legiana α,Schinieri di Legiana α,Legiana-Beinschienen α,,Grevas de Legiana α,Nagolenice z Legiany α,Легиановые поножи α,기에나그리브α,風漂龍護腿α,درع ساق ليغيانا α
+Legiana Helm β,ギエナヘルムβ,Valkyrie Legiana β,Elmo di Legiana β,Legiana-Helm β,,Elmo de Legiana β,Hełm z Legiany β,Легиановый шлем β,기에나헬름β,風漂龍頭盔β,خوذة ليغيانا β
+Legiana Mail β,ギエナメイルβ,Veste Legiana β,Cotta di Legiana β,Legiana-Panzerung β,,Armadura de Legiana β,Zbroja z Legiany β,Легиановый доспех β,기에나메일β,風漂龍鎧甲β,درع ليغيانا β
+Legiana Vambraces β,ギエナアームβ,Avant-bras Legiana β,Parabraccia di Legiana β,Legiana-Armschienen β,,Avambraços de Legiana β,Zarękawia z Legiany β,Легиановые наручи β,기에나암β,風漂龍腕甲β,درع ساعد ليغيانا β
+Legiana Coil β,ギエナコイルβ,Ceinture Legiana β,Spira di Legiana β,Legiana-Hüftring β,,Cinturão de Legiana β,Pas z Legiany β,Легиановый пояс β,기에나코일β,風漂龍腰甲β,لفيفة ليغيانا β
+Legiana Greaves β,ギエナグリーヴβ,Grèves Legiana β,Schinieri di Legiana β,Legiana-Beinschienen β,,Grevas de Legiana β,Nagolenice z Legiany β,Легиановые поножи β,기에나그리브β,風漂龍護腿β,درع ساق ليغيانا β
+Odogaron Helm α,ガロンヘルムα,Masque Odogaron α,Elmo di Odogaron α,Odogaron-Helm α,,Elmo de Odogaron α,Hełm z Odogarona α,Одогароновый шлем α,가론헬름α,慘爪龍頭盔α,خوذة أودوغارون α
+Odogaron Mail α,ガロンメイルα,Cotte Odogaron α,Cotta di Odogaron α,Odogaron-Panzerung α,,Armadura de Odogaron α,Zbroja z Odogarona α,Одогароновый доспех α,가론메일α,慘爪龍鎧甲α,درع أودوغارون α
+Odogaron Vambraces α,ガロンアームα,Avant-bras Odogaron α,Parabraccia di Odogaron α,Odogaron-Armschienen α,,Avambraços de Odogaron α,Zarękawia z Odogarona α,Одогароновые наручи α,가론암α,慘爪龍腕甲α,درع ساعد أودوغارون α
+Odogaron Coil α,ガロンコイルα,Obi Odogaron α,Spira di Odogaron α,Odogaron-Hüftring α,,Cinturão de Odogaron α,Pas z Odogarona α,Одогароновый пояс α,가론코일α,慘爪龍腰甲α,لفيفة أودوغارون α
+Odogaron Greaves α,ガロングリーヴα,Cuissards Odogaron α,Schinieri di Odogaron α,Odogaron-Beinschienen α,,Grevas de Odogaron α,Nagolenice z Odogarona α,Одогароновые поножи α,가론그리브α,慘爪龍護腿α,درع ساق أودوغارون α
+Odogaron Helm β,ガロンヘルムβ,Masque Odogaron β,Elmo di Odogaron β,Odogaron-Helm β,,Elmo de Odogaron β,Hełm z Odogarona β,Одогароновый шлем β,가론헬름β,慘爪龍頭盔β,خوذة أودوغارون β
+Odogaron Mail β,ガロンメイルβ,Cotte Odogaron β,Cotta di Odogaron β,Odogaron-Panzerung β,,Armadura de Odogaron β,Zbroja z Odogarona β,Одогароновый доспех β,가론메일β,慘爪龍鎧甲β,درع أودوغارون β
+Odogaron Vambraces β,ガロンアームβ,Avant-bras Odogaron β,Parabraccia di Odogaron β,Odogaron-Armschienen β,,Avambraços de Odogaron β,Zarękawia z Odogarona β,Одогароновые наручи β,가론암β,慘爪龍腕甲β,درع ساعد أودوغارون β
+Odogaron Coil β,ガロンコイルβ,Obi Odogaron β,Spira di Odogaron β,Odogaron-Hüftring β,,Cinturão de Odogaron β,Pas z Odogarona β,Одогароновый пояс β,가론코일β,慘爪龍腰甲β,لفيفة أودوغارون β
+Odogaron Greaves β,ガロングリーヴβ,Cuissards Odogaron β,Schinieri di Odogaron β,Odogaron-Beinschienen β,,Grevas de Odogaron β,Nagolenice z Odogarona β,Одогароновые поножи β,가론그리브β,慘爪龍護腿β,درع ساق أودوغارون β
+Rathalos Helm α,レウスヘルムα,Casque Rathalos α,Elmo di Rathalos α,Rathalos-Helm α,,Elmo de Rathalos α,Hełm z Rathalosa α,Раталосовый шлем α,레우스헬름α,火龍頭盔α,خوذة راذالوس α
+Rathalos Mail α,レウスメイルα,Cotte Rathalos α,Cotta di Rathalos α,Rathalos-Panzerung α,,Armadura de Rathalos α,Zbroja z Rathalosa α,Раталосовый доспех α,레우스메일α,火龍鎧甲α,درع راذالوس α
+Rathalos Vambraces α,レウスアームα,Avant-bras Rathalos α,Parabraccia di Rathalos α,Rathalos-Armschienen α,,Avambraços de Rathalos α,Zarękawia z Rathalosa α,Раталосовые наручи α,레우스암α,火龍腕甲α,درع ساعد راذالوس α
+Rathalos Coil α,レウスコイルα,Tassette Rathalos α,Spira di Rathalos α,Rathalos-Hüftring α,,Cinturão de Rathalos α,Pas z Rathalosa α,Раталосовый пояс α,레우스코일α,火龍腰甲α,لفيفة راذالوس α
+Rathalos Greaves α,レウスグリーヴα,Grèves Rathalos α,Schinieri di Rathalos α,Rathalos-Beinschienen α,,Grevas de Rathalos α,Nagolenice z Rathalosa α,Раталосовые поножи α,레우스그리브α,火龍護腿α,درع ساق راذالوس α
+Rathalos Helm β,レウスヘルムβ,Casque Rathalos β,Elmo di Rathalos β,Rathalos-Helm β,,Elmo de Rathalos β,Hełm z Rathalosa β,Раталосовый шлем β,레우스헬름β,火龍頭盔β,خوذة راذالوس β
+Rathalos Mail β,レウスメイルβ,Cotte Rathalos β,Cotta di Rathalos β,Rathalos-Panzerung β,,Armadura de Rathalos β,Zbroja z Rathalosa β,Раталосовый доспех β,레우스메일β,火龍鎧甲β,درع راذالوس β
+Rathalos Vambraces β,レウスアームβ,Avant-bras Rathalos β,Parabraccia di Rathalos β,Rathalos-Armschienen β,,Avambraços de Rathalos β,Zarękawia z Rathalosa β,Раталосовые наручи β,레우스암β,火龍腕甲β,درع ساعد راذالوس β
+Rathalos Coil β,レウスコイルβ,Tassette Rathalos β,Spira di Rathalos β,Rathalos-Hüftring β,,Cinturão de Rathalos β,Pas z Rathalosa β,Раталосовый пояс β,레우스코일β,火龍腰甲β,لفيفة راذالوس β
+Rathalos Greaves β,レウスグリーヴβ,Grèves Rathalos β,Schinieri di Rathalos β,Rathalos-Beinschienen β,,Grevas de Rathalos β,Nagolenice z Rathalosa β,Раталосовые поножи β,레우스그리브β,火龍護腿β,درع ساق راذالوس β
+Rath Soul Helm α,リオソウルヘルムα,Heaume Âme Rathalos α,Elmo anima di Rath α,Rathalosseelen-Helm α,,Elmo Alma de Rath α,Hełm z duszy Ratha α,Шлем души раты α,리오소울헬름α,火龍魂頭盔α,خوذة روح راث α
+Rath Soul Mail α,リオソウルメイルα,Cotte Âme Rathalos α,Cotta anima di Rath α,Rathalosseelen-Panzerung α,,Armadura Alma de Rath α,Zbroja z duszy Ratha α,Доспех души раты α,리오소울메일α,火龍魂鎧甲α,درع روح راث α
+Rath Soul Braces α,リオソウルアームα,Avant-bras Âme Rathalos α,Parabraccia anima di Rath α,RathalosseelnArmschinen α,,Braçadeiras Alma Rath α,Rękawy z duszy Ratha α,Наручи души раты α,리오소울암α,火龍魂腕甲α,دعامات روح راث α
+Rath Soul Coil α,リオソウルコイルα,Boucle Âme Rathalos α,Spira anima di Rath α,RathalosseelenHüftring α,,Cint. Alma de Rath α,Pas z duszy Ratha α,Пояс души раты α,리오소울코일α,火龍魂腰甲α,لفيفة روح راث α
+Rath Soul Greaves α,リオソウルグリーヴα,Garde-jambes Âme Rathalos α,Schinieri anima di Rath α,RathalosselnBeinschinen α,,Grevas Alma de Rath α,Golenie z duszy Ratha α,Поножи души раты α,리오소울그리브α,火龍魂護腿α,درع ساق روح راث α
+Rath Soul Helm β,リオソウルヘルムβ,Heaume Âme Rathalos β,Elmo anima di Rath β,Rathalosseelen-Helm β,,Elmo Alma de Rath β,Hełm z duszy Ratha β,Шлем души раты β,리오소울헬름β,火龍魂頭盔β,خوذة روح راث β
+Rath Soul Mail β,リオソウルメイルβ,Cotte Âme Rathalos β,Cotta anima di Rath β,Rathalosseelen-Panzerung β,,Armadura Alma de Rath β,Zbroja z duszy Ratha β,Доспех души раты β,리오소울메일β,火龍魂鎧甲β,درع روح راث β
+Rath Soul Braces β,リオソウルアームβ,Avant-bras Âme Rathalos β,Parabraccia anima di Rath β,RathalosseelnArmschinen β,,Braçadeiras Alma Rath β,Rękawy z duszy Ratha β,Наручи души раты β,리오소울암β,火龍魂腕甲β,دعامات روح راث β
+Rath Soul Coil β,リオソウルコイルβ,Boucle Âme Rathalos β,Spira anima di Rath β,RathalosseelenHüftring β,,Cint. Alma de Rath β,Pas z duszy Ratha β,Пояс души раты β,리오소울코일β,火龍魂腰甲β,لفيفة روح راث β
+Rath Soul Greaves β,リオソウルグリーヴβ,Garde-jambes Âme Rathalos β,Schinieri anima di Rath β,RathalosselnBeinschinen β,,Grevas Alma de Rath β,Golenie z duszy Ratha β,Поножи души раты β,리오소울그리브β,火龍魂護腿β,درع ساق روح راث β
+Diablos Helm α,ディアブロヘルムα,Heaume Diablos α,Elmo di Diablos α,Diablos-Helm α,,Elmo de Diablos α,Hełm z Diablosa α,Диаблосовый шлем α,디아블로헬름α,角龍頭盔α,خوذة ديابلوس α
+Diablos Mail α,ディアブロメイルα,Cuirasse Diablos α,Cotta di Diablos α,Diablos-Panzerung α,,Armadura de Diablos α,Zbroja z Diablosa α,Диаблосовый доспех α,디아블로메일α,角龍鎧甲α,درع ديابلوس α
+Diablos Vambraces α,ディアブロアームα,Avant-bras Diablos α,Parabraccia di Diablos α,Diablos-Armschienen α,,Avambraços de Diablos α,Zarękawia z Diablosa α,Диаблосовые наручи α,디아블로암α,角龍腕甲α,درع ساعد ديابلوس α
+Diablos Coil α,ディアブロコイルα,Garde Diablos α,Spira di Diablos α,Diablos-Hüftring α,,Cinturão de Diablos α,Pas z Diablosa α,Диаблосовый пояс α,디아블로코일α,角龍腰甲α,لفيفة ديابلوس α
+Diablos Greaves α,ディアブログリーヴα,Grèves Diablos α,Schinieri di Diablos α,Diablos-Beinschienen α,,Grevas de Diablos α,Nagolenice z Diablosa α,Диаблосовые поножи α,디아블로그리브α,角龍護腿α,درع ساق ديابلوس α
+Diablos Helm β,ディアブロヘルムβ,Heaume Diablos β,Elmo di Diablos β,Diablos-Helm β,,Elmo de Diablos β,Hełm z Diablosa β,Диаблосовый шлем β,디아블로헬름β,角龍頭盔β,خوذة ديابلوس β
+Diablos Mail β,ディアブロメイルβ,Cuirasse Diablos β,Cotta di Diablos β,Diablos-Panzerung β,,Armadura de Diablos β,Zbroja z Diablosa β,Диаблосовый доспех β,디아블로메일β,角龍鎧甲β,درع ديابلوس β
+Diablos Vambraces β,ディアブロアームβ,Avant-bras Diablos β,Parabraccia di Diablos β,Diablos-Armschienen β,,Avambraços de Diablos β,Zarękawia z Diablosa β,Диаблосовые наручи β,디아블로암β,角龍腕甲β,درع ساعد ديابلوس β
+Diablos Coil β,ディアブロコイルβ,Garde Diablos β,Spira di Diablos β,Diablos-Hüftring β,,Cinturão de Diablos β,Pas z Diablosa β,Диаблосовый пояс β,디아블로코일β,角龍腰甲β,لفيفة ديابلوس β
+Diablos Greaves β,ディアブログリーヴβ,Grèves Diablos β,Schinieri di Diablos β,Diablos-Beinschienen β,,Grevas de Diablos β,Nagolenice z Diablosa β,Диаблосовые поножи β,디아블로그리브β,角龍護腿β,درع ساق ديابلوس β
+Diablos Nero Helm α,ディアネロヘルムα,Coiffe Diablos noire α,Elmo di Diablos nera α,Diablos-Nero-Helm α,,Elmo de Diablos Negra α,Hełm z Cz. Diabli α,Жуткий шлем диаблос α,디아네로헬름α,暴君角龍頭盔α,خوذة نيرو ديابلوس α
+Diablos Nero Mail α,ディアネロメイルα,Cuirasse Diablos noire α,Cotta di Diablos nera α,Diablos-Nero-Panzerung α,,Armadura Diablos Negra α,Zbroja z Cz. Diabli α,Жуткий доспех диаблос α,디아네로메일α,暴君角龍鎧甲α,درع نيرو ديابلوس α
+Diablos Nero Braces α,ディアネロアームα,Avant-bras Diablos noire α,Parabraccia di Diablos nera α,Diablos-Nero-Armschienen α,,Braçad. Diablos Negra α,Rękawy z Cz. Diabli α,Жуткие наручи диаблос α,디아네로암α,暴君角龍腕甲α,دعامات نيرو ديابلوس α
+Diablos Nero Coil α,ディアネロコイルα,Garde Diablos noire α,Spira di Diablos nera α,Diablos-Nero-Hüftring α,,Cint. Diablos Negra α,Pas z Cz. Diabli α,Жуткий пояс диаблос α,디아네로코일α,暴君角龍腰甲α,لفيفة نيرو ديابلوس α
+Diablos Nero Greaves α,ディアネログリーヴα,Grèves Diablos noire α,Schinieri di Diablos nera α,DiablosNeroBeinschienen α,,Grevas Diablos Negra α,Golenie z Cz. Diabli α,Жуткие поножи диаблос α,디아네로그리브α,暴君角龍護腿α,درع ساق نيرو ديابلوس α
+Diablos Nero Helm β,ディアネロヘルムβ,Coiffe Diablos noire β,Elmo di Diablos nera β,Diablos-Nero-Helm β,,Elmo de Diablos Negra β,Hełm z Cz. Diabli β,Жуткий шлем диаблос β,디아네로헬름β,暴君角龍頭盔β,خوذة نيرو ديابلوس β
+Diablos Nero Mail β,ディアネロメイルβ,Cuirasse Diablos noire β,Cotta di Diablos nera β,Diablos-Nero-Panzerung β,,Armadura Diablos Negra β,Zbroja z Cz. Diabli β,Жуткий доспех диаблос β,디아네로메일β,暴君角龍鎧甲β,درع نيرو ديابلوس β
+Diablos Nero Braces β,ディアネロアームβ,Avant-bras Diablos noire β,Parabraccia di Diablos nera β,Diablos-Nero-Armschienen β,,Braçad. Diablos Negra β,Rękawy z Cz. Diabli β,Жуткие наручи диаблос β,디아네로암β,暴君角龍腕甲β,دعامات نيرو ديابلوس β
+Diablos Nero Coil β,ディアネロコイルβ,Garde Diablos noire β,Spira di Diablos nera β,Diablos-Nero-Hüftring β,,Cint. Diablos Negra β,Pas z Cz. Diabli β,Жуткий пояс диаблос β,디아네로코일β,暴君角龍腰甲β,لفيفة نيرو ديابلوس β
+Diablos Nero Greaves β,ディアネログリーヴβ,Grèves Diablos noire β,Schinieri di Diablos nera β,DiablosNeroBeinschienen β,,Grevas Diablos Negra β,Golenie z Cz. Diabli β,Жуткие поножи диаблос β,디아네로그리브β,暴君角龍護腿β,درع ساق نيرو ديابلوس β
+Uragaan Helm α,ガンキンヘルムα,Kabuto Uragaan α,Elmo di Uragaan α,Uragaan-Helm α,,Elmo de Uragaan α,Hełm z Uragaana α,Урагаановый шлем α,간킨헬름α,爆鎚龍頭盔α,خوذة أوراغان α
+Uragaan Mail α,ガンキンメイルα,Cotte Uragaan α,Cotta di Uragaan α,Uragaan-Panzerung α,,Armadura de Uragaan α,Zbroja z Uragaana α,Урагаановый доспех α,간킨메일α,爆鎚龍鎧甲α,درع أوراغان α
+Uragaan Vambraces α,ガンキンアームα,Étrangleurs Uragaan α,Parabraccia di Uragaan α,Uragaan-Armschienen α,,Avambraços de Uragaan α,Zarękawia z Uragaana α,Урагаановые наручи α,간킨암α,爆鎚龍腕甲α,درع ساعد أوراغان α
+Uragaan Coil α,ガンキンコイルα,Tassette Uragaan α,Spira di Uragaan α,Uragaan-Hüftring α,,Cinturão de Uragaan α,Pas z Uragaana α,Пояс урагаана α,간킨코일α,爆鎚龍腰甲α,لفيفة أوراغان α
+Uragaan Greaves α,ガンキングリーヴα,Bottes Uragaan α,Schinieri di Uragaan α,Uragaan-Beinschienen α,,Grevas de Uragaan α,Nagolenice z Uragaana α,Урагаановые поножи α,간킨그리브α,爆鎚龍護腿α,درع ساق أوراغان α
+Uragaan Helm β,ガンキンヘルムβ,Kabuto Uragaan β,Elmo di Uragaan β,Uragaan-Helm β,,Elmo de Uragaan β,Hełm z Uragaana β,Урагаановый шлем β,간킨헬름β,爆鎚龍頭盔β,خوذة أوراغان β
+Uragaan Mail β,ガンキンメイルβ,Cotte Uragaan β,Cotta di Uragaan β,Uragaan-Panzerung β,,Armadura de Uragaan β,Zbroja z Uragaana β,Урагаановый доспех β,간킨메일β,爆鎚龍鎧甲β,درع أوراغان β
+Uragaan Vambraces β,ガンキンアームβ,Étrangleurs Uragaan β,Parabraccia di Uragaan β,Uragaan-Armschienen β,,Avambraços de Uragaan β,Zarękawia z Uragaana β,Урагаановые наручи β,간킨암β,爆鎚龍腕甲β,درع ساعد أوراغان β
+Uragaan Coil β,ガンキンコイルβ,Tassette Uragaan β,Spira di Uragaan β,Uragaan-Hüftring β,,Cinturão de Uragaan β,Pas z Uragaana β,Пояс урагаана β,간킨코일β,爆鎚龍腰甲β,لفيفة أوراغان β
+Uragaan Greaves β,ガンキングリーヴβ,Bottes Uragaan β,Schinieri di Uragaan β,Uragaan Beinschienen β,,Grevas de Uragaan β,Nagolenice z Uragaana β,Урагаановые поножи β,간킨그리브β,爆鎚龍護腿β,درع ساق أوراغان β
+Bazel Helm α,バゼルヘルムα,Coiffe Bazelgeuse α,Elmo di Bazel α,Bazel-Helm α,,Elmo de Bazel α,Hełm z Bazela α,Базелевый шлем α,바젤헬름α,爆鱗龍頭盔α,خوذة بازيل α
+Bazel Mail α,バゼルメイルα,Haubert Bazelgeuse α,Cotta di Bazel α,Bazel-Panzerung α,,Armadura de Bazel α,Zbroja z Bazela α,Базелевый доспех α,바젤메일α,爆鱗龍鎧甲α,درع بازيل α
+Bazel Vambraces α,バゼルアームα,Avant-bras Bazelgeuse α,Parabraccia di Bazel α,Bazel-Armschienen α,,Avambraços de Bazel α,Zarękawia z Bazela α,Базелевые наручи α,바젤암α,爆鱗龍腕甲α,درع ساعد بازيل α
+Bazel Coil α,バゼルコイルα,Tassette Bazelgeuse α,Spira di Bazel α,Bazel-Hüftring α,,Cinturão de Bazel α,Pas z Bazela α,Базелевый пояс α,바젤코일α,爆鱗龍腰甲α,لفيفة بازيل α
+Bazel Greaves α,バゼルグリーヴα,Grèves Bazelgeuse α,Schinieri di Bazel α,Bazel-Beinschienen α,,Grevas de Bazel α,Nagolenice z Bazela α,Базелевые поножи α,바젤그리브α,爆鱗龍護腿α,درع ساق بازيل α
+Bazel Helm β,バゼルヘルムβ,Coiffe Bazelgeuse β,Elmo di Bazel β,Bazel-Helm β,,Elmo de Bazel β,Hełm z Bazela β,Базелевый шлем β,바젤헬름β,爆鱗龍頭盔β,خوذة بازيل β
+Bazel Mail β,バゼルメイルβ,Haubert Bazelgeuse β,Cotta di Bazel β,Bazel-Panzerung β,,Armadura de Bazel β,Zbroja z Bazela β,Базелевый доспех β,바젤메일β,爆鱗龍鎧甲β,درع بازيل β
+Bazel Vambraces β,バゼルアームβ,Avant-bras Bazelgeuse β,Parabraccia di Bazel β,Bazel-Armschienen β,,Avambraços de Bazel β,Zarękawia z Bazela β,Базелевые наручи β,바젤암β,爆鱗龍腕甲β,درع ساعد بازيل β
+Bazel Coil β,バゼルコイルβ,Tassette Bazelgeuse β,Spira di Bazel β,Bazel-Hüftring β,,Cinturão de Bazel β,Pas z Bazela β,Базелевый пояс β,바젤코일β,爆鱗龍腰甲β,لفيفة بازيل β
+Bazel Greaves β,バゼルグリーヴβ,Grèves Bazelgeuse β,Schinieri di Bazel β,Bazel-Beinschienen β,,Grevas de Bazel β,Nagolenice z Bazela β,Базелевые поножи β,바젤그리브β,爆鱗龍護腿β,درع ساق بازيل β
+Damascus Helm α,ダマスクヘルムα,Heaume Damascus α,Elmo di Damasco α,Damaskus-Helm α,,Elmo de Damascus α,Hełm damasceński α,Дамасский шлем α,다마스크헬름α,大馬士革頭盔α,خوذة دمشق α
+Damascus Mail α,ダマスクメイルα,Cotte Damascus α,Cotta di Damasco α,Damaskus-Panzerung α,,Armadura de Damascus α,Zbroja damasceńska α,Дамасский доспех α,다마스크메일α,大馬士革鎧甲α,درع دمشق α
+Damascus Vambraces α,ダマスクアームα,Avant-bras Damascus α,Parabraccia di Damasco α,Damaskus-Armschienen α,,Avambraços de Damascus α,Zarękawia damasceńskie α,Дамасские наручи α,다마스크암α,大馬士革腕甲α,درع ساعد دمشق α
+Damascus Coil α,ダマスクコイルα,Jupe Damascus α,Spira di Damasco α,Damaskus-Hüftring α,,Cinturão de Damascus α,Pas damasceński α,Дамасский пояс α,다마스크코일α,大馬士革腰甲α,لفيفة دمشق α
+Damascus Greaves α,ダマスクグリーヴα,Jambières Damascus α,Schinieri di Damasco α,Damaskus-Beinschienen α,,Grevas de Damascus α,Nogawice damasceńskie α,Дамасские поножи α,다마스크그리브α,大馬士革護腿α,درع ساق دمشق α
+Damascus Helm β,ダマスクヘルムβ,Heaume Damascus β,Elmo di Damasco β,Damaskus-Helm β,,Elmo de Damascus β,Hełm damasceński β,Дамасский шлем β,다마스크헬름β,大馬士革頭盔β,خوذة دمشق β
+Damascus Mail β,ダマスクメイルβ,Cotte Damascus β,Cotta di Damasco β,Damaskus-Panzerung β,,Armadura de Damascus β,Zbroja damasceńska β,Дамасский доспех β,다마스크메일β,大馬士革鎧甲β,درع دمشق β
+Damascus Vambraces β,ダマスクアームβ,Avant-bras Damascus β,Parabraccia di Damasco β,Damaskus-Armschienen β,,Avambraços de Damascus β,Zarękawia damasceńskie β,Дамасские наручи β,다마스크암β,大馬士革腕甲β,درع ساعد دمشق β
+Damascus Coil β,ダマスクコイルβ,Jupe Damascus β,Spira di Damasco β,Damaskus-Hüftring β,,Cinturão de Damascus β,Pas damasceński β,Дамасский пояс β,다마스크코일β,大馬士革腰甲β,لفيفة دمشق β
+Damascus Greaves β,ダマスクグリーヴβ,Jambières Damascus β,Schinieri di Damasco β,Damaskus-Beinschienen β,,Grevas de Damascus β,Nogawice damasceńskie β,Дамасские поножи β,다마스크그리브β,大馬士革護腿β,درع ساق دمشق β
+Dober Helm α,ドーベルヘルムα,Cornes Dober α,Elmo di Dober α,Dober-Helm α,,Elmo de Dober α,Hełm z dobera α,Доберовый шлем α,도베르헬름α,杜賓頭盔α,خوذة دوبر α
+Dober Mail α,ドーベルメイルα,Gilet Dober α,Cotta di Dober α,Dober-Panzerung α,,Armadura de Dober α,Kolczuga z dobera α,Дамасский доспех α,도베르메일α,杜賓鎧甲α,درع دوبر α
+Dober Vambraces α,ドーベルアームα,Avant-bras Dober α,Parabraccia di Dober α,Dober-Armschienen α,,Avambraços de Dober α,Zarękawia z dobera α,Доберовые наручи α,도베르암α,杜賓腕甲α,درع ساعد دوبر α
+Dober Coil α,ドーベルコイルα,Boucle Dober α,Spira di Dober α,Dober-Hüftring α,,Cinturão de Dober α,Pas z dobera α,Доберовый пояс α,도베르코일α,杜賓腰甲α,لفيفة دوبر α
+Dober Greaves α,ドーベルグリーヴα,Bottes Dober α,Schinieri di Dober α,Dober-Beinschienen α,,Grevas de Dober α,Nagolenice z dobera α,Доберовые поножи α,도베르그리브α,杜賓護腿α,درع ساق دوبر α
+Dober Helm β,ドーベルヘルムβ,Cornes Dober β,Elmo di Dober β,Dober-Helm β,,Elmo de Dober β,Hełm z dobera β,Доберовый шлем β,도베르헬름β,杜賓頭盔β,خوذة دوبر β
+Dober Mail β,ドーベルメイルβ,Gilet Dober β,Cotta di Dober β,Dober-Panzerung β,,Armadura de Dober β,Kolczuga z dobera β,Дамасский доспех β,도베르메일β,杜賓鎧甲β,درع دوبر β
+Dober Vambraces β,ドーベルアームβ,Avant-bras Dober β,Parabraccia di Dober β,Dober-Armschienen β,,Avambraços de Dober β,Zarękawia z dobera β,Доберовые наручи β,도베르암β,杜賓腕甲β,درع ساعد دوبر β
+Dober Coil β,ドーベルコイルβ,Boucle Dober β,Spira di Dober β,Dober-Hüftring β,,Cinturão de Dober β,Pas z dobera β,Доберовый пояс β,도베르코일β,杜賓腰甲β,لفيفة دوبر β
+Dober Greaves β,ドーベルグリーヴβ,Bottes Dober β,Schinieri di Dober β,Dober-Beinschienen β,,Grevas de Dober β,Nagolenice z dobera β,Доберовые поножи β,도베르그리브β,杜賓護腿β,درع ساق دوبر β
+Death Stench Brain α,デスギアゲヒルα,Cerveau putride α,Cervello putrefatto α,Todesgestank-Hirn α,,Cérebro Putrefato α,Mózg rozkładu α,Капюшон зловония смерти α,데스기어게힐α,死神首腦α,درع رأس رائحة الموت α
+Death Stench Muscle α,デスギアムスケルα,Muscle putride α,Muscolo putrefatto α,Todesgestank-Muskel α,,Músculo Putrefato α,Mięsień rozkładu α,Доспех зловония смерти α,데스기어무스켈α,死神肌肉α,عضلة رائحة الموت α
+Death Stench Grip α,デスギアファオストα,Étreinte putride α,Mani putrefatte α,Todesgestank-Klauen α,,Garra Putrefata α,Chwyt rozkładu α,Наручи зловония смерти α,데스기어파오스트α,死神雙手α,قبضة رائحة الموت α
+Death Stench Bowels α,デスギアナーベルα,Boyaux putrides α,Budella putrefatte α,Todesgestank-Gedärm α,,Vísceras Putrefatas α,Jelita rozkładu α,Пояс дыхания смерти α,데스기어네이블α,死神臍帶α,مصران رائحة الموت α
+Death Stench Heel α,デスギアフェルゼα,Talon putride α,Tallone putrefatto α,Todesgestank-Ferse α,,Calcanhar Putrefato α,Pięta rozkładu α,Поножи дыхания смерти α,데스기어페르제α,死神腳跟α,كعب رائحة الموت α
+Death Stench Brain β,デスギアゲヒルβ,Cerveau putride β,Cervello putrefatto β,Todesgestank-Hirn β,,Cérebro Putrefato β,Mózg rozkładu β,Капюшон зловония смерти β,데스기어게힐β,死神首腦β,درع رأس رائحة الموت β
+Death Stench Muscle β,デスギアムスケルβ,Muscle putride β,Muscolo putrefatto β,Todesgestank-Muskel β,,Músculo Putrefato β,Mięsień rozkładu β,Доспех зловония смерти β,데스기어무스켈β,死神肌肉β,عضلة رائحة الموت β
+Death Stench Grip β,デスギアファオストβ,Étreinte putride β,Mani putrefatte β,Todesgestank-Klauen β,,Garra Putrefata β,Chwyt rozkładu β,Наручи зловония смерти β,데스기어파오스트β,死神雙手β,قبضة رائحة الموت β
+Death Stench Bowels β,デスギアナーベルβ,Boyaux putrides β,Budella putrefatte β,Todesgestank-Gedärm β,,Vísceras Putrefatas β,Jelita rozkładu β,Пояс дыхания смерти β,데스기어네이블β,死神臍帶β,مصران رائحة الموت β
+Death Stench Heel β,デスギアフェルゼβ,Talon putride β,Tallone putrefatto β,Todesgestank-Ferse β,,Calcanhar Putrefato β,Pięta rozkładu β,Поножи дыхания смерти β,데스기어페르제β,死神腳跟β,كعب رائحة الموت β
+Skull Mask α,スカルフェイスα,Visage de mort α,Maschera scheletrica α,Totenschädel α,,Máscara Craniana α,Maska czaszki α,Маска черепа α,스컬페이스α,骷髏面罩α,قناع الجمجمة α
+Nergigante Helm α,オーグヘルムα,Coiffe Nergigante α,Elmo di Nergigante α,Nergigante-Helm α,,Elmo de Nergigante α,Hełm z Nergiganta α,Нергигантовый шлем α,오그헬름α,戰紋頭盔α,خوذة نيرغي α
+Nergigante Mail α,オーグメイルα,Corselet Nergigante α,Cotta di Nergigante α,Nergigante-Panzerung α,,Armadura de Nergigante α,Zbroja z Nergiganta α,Нергигантовый доспех α,오그메일α,戰紋鎧甲α,درع نيرغي α
+Nergigante Vambraces α,オーグアームα,Avant-bras Nergigante α,Parabraccia di Nergigante α,Nergigante-Armschienen α,,Avambraços Nergigante α,Zarękawia z Nergiganta α,Нергигантовые наручи α,오그암α,戰紋腕甲α,درع ساعد نيرغي α
+Nergigante Coil α,オーグコイルα,Tassette Nergigante α,Spira di Nergigante α,Nergigante-Hüftring α,,Cint. de Nergigante α,Pas z Nergiganta α,Пояс нергиганта α,오그코일α,戰紋腰甲α,لفيفة نيرغي α
+Nergigante Greaves α,オーググリーヴα,Jambières Nergigante α,Schinieri di Nergigante α,NergiganteBeinschienen α,,Grevas de Nergigante α,Nogawice z Nergiganta α,Нергигантовые поножи α,오그그리브α,戰紋護腿α,درع ساق نيرغي α
+Nergigante Helm β,オーグヘルムβ,Coiffe Nergigante β,Elmo di Nergigante β,Nergigante-Helm β,,Elmo de Nergigante β,Hełm z Nergiganta β,Нергигантовый шлем β,오그헬름β,戰紋頭盔β,خوذة نيرغي β
+Nergigante Mail β,オーグメイルβ,Corselet Nergigante β,Cotta di Nergigante β,Nergigante-Panzerung β,,Armadura de Nergigante β,Zbroja z Nergiganta β,Нергигантовый доспех β,오그메일β,戰紋鎧甲β,درع نيرغي β
+Nergigante Vambraces β,オーグアームβ,Avant-bras Nergigante β,Parabraccia di Nergigante β,Nergigante-Armschienen β,,Avambraços Nergigante β,Zarękawia z Nergiganta β,Нергигантовые наручи β,오그암β,戰紋腕甲β,درع ساعد نيرغي β
+Nergigante Coil β,オーグコイルβ,Tassette Nergigante β,Spira di Nergigante β,Nergigante-Hüftring β,,Cint. de Nergigante β,Pas z Nergiganta β,Пояс нергиганта β,오그코일β,戰紋腰甲β,لفيفة نيرغي β
+Nergigante Greaves β,オーググリーヴβ,Jambières Nergigante β,Schinieri di Nergigante β,NergiganteBeinschienen β,,Grevas de Nergigante β,Nogawice z Nergiganta β,Нергигантовые поножи β,오그그리브β,戰紋護腿β,درع ساق نيرغي β
+Kaiser Crown α,カイザークラウンα,Couronne Kaiser α,Corona del Kaiser α,Kaiserkrone α,,Coroa de Kaiser α,Korona monarchy α,Корона Кайзера α,카이저크라운α,帝王皇冠α,تاج القيصر α
+Kaiser Mail α,カイザーメイルα,Veste Kaiser α,Cotta del Kaiser α,Kaiser-Panzerung α,,Armadura de Kaiser α,Zbroja monarchy α,Доспех Кайзера α,카이저메일α,帝王鎧甲α,درع القيصر α
+Kaiser Vambraces α,カイザーアームα,Poigne Kaiser α,Parabraccia del Kaiser α,Kaiser-Armschienen α,,Avambraços de Kaiser α,Zarękawia monarchy α,Наручи Кайзера α,카이저암α,帝王腕甲α,درع ساعد القيصر α
+Kaiser Coil α,カイザーコイルα,Tassette Kaiser α,Spira del Kaiser α,Kaiser-Hüftring α,,Cinturão de Kaiser α,Pas monarchy α,Пояс Кайзера α,카이저코일α,帝王腰甲α,لفيفة القيصر α
+Kaiser Greaves α,カイザーグリーヴα,Cuissards Kaiser α,Schinieri del Kaiser α,Kaiser-Beinschienen α,,Grevas de Kaiser α,Nagolenice monarchy α,Поножи Кайзера α,카이저그리브α,帝王護腿α,درع ساق القيصر α
+Kaiser Crown β,カイザークラウンβ,Couronne Kaiser β,Corona del Kaiser β,Kaiserkrone β,,Coroa de Kaiser β,Korona monarchy β,Корона Кайзера β,카이저크라운β,帝王皇冠β,تاج القيصر β
+Kaiser Mail β,カイザーメイルβ,Veste Kaiser β,Cotta del Kaiser β,Kaiser-Panzerung β,,Armadura de Kaiser β,Zbroja monarchy β,Доспех Кайзера β,카이저메일β,帝王鎧甲β,درع القيصر β
+Kaiser Vambraces β,カイザーアームβ,Poigne Kaiser β,Parabraccia del Kaiser β,Kaiser-Armschienen β,,Avambraços de Kaiser β,Zarękawia monarchy β,Наручи Кайзера β,카이저암β,帝王腕甲β,درع ساعد القيصر β
+Kaiser Coil β,カイザーコイルβ,Tassette Kaiser β,Spira del Kaiser β,Kaiser-Hüftring β,,Cinturão de Kaiser β,Pas monarchy β,Пояс Кайзера β,카이저코일β,帝王腰甲β,لفيفة القيصر β
+Kaiser Greaves β,カイザーグリーヴβ,Cuissards Kaiser β,Schinieri del Kaiser β,Kaiser-Beinschienen β,,Grevas de Kaiser β,Nagolenice monarchy β,Поножи Кайзера β,카이저그리브β,帝王護腿β,درع ساق القيصر β
+Kushala Glare α,クシャナアンクα,Regard Kushala α,Riverbero di Kushala α,Kushala-Glanz α,,Fulgor de Kushala α,Spojrzenie Kushali α,Взгляд кушалы α,크샤나앵크α,鋼龍強力α,وهج كوشالا α
+Kushala Cista α,クシャナディールα,Cista Kushala α,Cista di Kushala α,Kushala-Zista α,,Cista de Kushala α,Zbroja z Kushali α,Торс кушалы α,크샤나딜α,鋼龍恐懼α,زرد كوشالا α
+Kushala Grip α,クシャナハトゥーα,Poigne Kushala α,Mani di Kushala α,Kushala-Klauen α,,Garra de Kushala α,Chwyt Kushali α,Хватка кушалы α,크샤나하투α,鋼龍剛強α,قبضة كوشالا α
+Kushala Cocoon α,クシャナアンダα,Cocon Kushala α,Bozzolo di Kushala α,Kushala-Kokon α,,Casulo de Kushala α,Kokon Kushali α,Кокон кушалы α,크샤나안다α,鋼龍安穩α,غلاف كوشالا α
+Kushala Crus α,クシャナペイルα,Mollet Kushala α,Tibia di Kushala α,Kushala-Crus α,,Crurais de Kushala α,Nogi Kushali α,Лапы кушалы α,크샤나페이르α,鋼龍踏實α,درع قصبة كوشالا α
+Kushala Glare β,クシャナアンクβ,Regard Kushala β,Riverbero di Kushala β,Kushala-Glanz β,,Fulgor de Kushala β,Spojrzenie Kushali β,Взгляд кушалы β,크샤나앵크β,鋼龍強力β,وهج كوشالا β
+Kushala Cista β,クシャナディールβ,Cista Kushala β,Cista di Kushala β,Kushala-Zista β,,Cista de Kushala β,Zbroja z Kushali β,Торс кушалы β,크샤나딜β,鋼龍恐懼β,زرد كوشالا β
+Kushala Grip β,クシャナハトゥーβ,Poigne Kushala β,Mani di Kushala β,Kushala-Klauen β,,Garra de Kushala β,Chwyt Kushali β,Хватка кушалы β,크샤나하투β,鋼龍剛強β,قبضة كوشالا β
+Kushala Cocoon β,クシャナアンダβ,Cocon Kushala β,Bozzolo di Kushala β,Kushala-Kokon β,,Casulo de Kushala β,Kokon Kushali β,Кокон кушалы β,크샤나안다β,鋼龍安穩β,غلاف كوشالا β
+Kushala Crus β,クシャナペイルβ,Mollet Kushala β,Tibia di Kushala β,Kushala-Crus β,,Crurais de Kushala β,Nogi Kushali β,Лапы кушалы β,크샤나페이르β,鋼龍踏實β,درع قصبة كوشالا β
+Vaal Hazak Helm α,ウルズヘルムα,Heaume Vaal Hazak α,Elmo di Vaal Hazak α,Vaal-Hazak-Helm α,,Elmo de Vaal Hazak α,Hełm z Vaal Hazaka α,Ваал-хазаковый шлем α,우르즈헬름α,烏爾德頭盔α,خوذة فال هازاك α
+Vaal Hazak Mail α,ウルズメイルα,Cotte Vaal Hazak α,Cotta di Vaal Hazak α,Vaal-Hazak-Panzerung α,,Armadura de Vaal Hazak α,Zbroja z Vaal Hazaka α,Ваал-хазаковый доспех α,우르즈메일α,烏爾德鎧甲α,درع فال هازاك α
+Vaal Hazak Braces α,ウルズアームα,Avant-bras Vaal Hazak α,Parabraccia di Vaal Hazak α,Vaal-Hazak-Armschienen α,,Braçadeiras Vaal Hazak α,Rękawy z Vaal Hazaka α,Ваал-хазаковые наручи α,우르즈암α,烏爾德腕甲α,دعامات فال هازاك α
+Vaal Hazak Coil α,ウルズコイルα,Jupe Vaal Hazak α,Spira di Vaal Hazak α,Vaal-Hazak-Hüftring α,,Cint. de Vaal Hazak α,Pas z Vaal Hazaka α,Пояс ваал-хазака α,우르즈코일α,烏爾德腰甲α,لفيفة فال هازاك α
+Vaal Hazak Greaves α,ウルズグリーヴα,Cuissardes Vaal Hazak α,Schinieri di Vaal Hazak α,VaalHazak-Beinschienen α,,Grevas de Vaal Hazak α,Nagolenice z Vaala α,Ваал-хазаковые поножи α,우르즈그리브α,烏爾德護腿α,درع ساق فال هازاك α
+Vaal Hazak Helm β,ウルズヘルムβ,Heaume Vaal Hazak β,Elmo di Vaal Hazak β,Vaal-Hazak-Helm β,,Elmo de Vaal Hazak β,Hełm z Vaal Hazaka β,Ваал-хазаковый шлем β,우르즈헬름β,烏爾德頭盔β,خوذة فال هازاك β
+Vaal Hazak Mail β,ウルズメイルβ,Cotte Vaal Hazak β,Cotta di Vaal Hazak β,Vaal-Hazak-Panzerung β,,Armadura de Vaal Hazak β,Zbroja z Vaal Hazaka β,Ваал-хазаковый доспех β,우르즈메일β,烏爾德鎧甲β,درع فال هازاك β
+Vaal Hazak Braces β,ウルズアームβ,Avant-bras Vaal Hazak β,Parabraccia di Vaal Hazak β,Vaal-Hazak-Armschienen β,,Braçadeiras Vaal Hazak β,Rękawy z Vaal Hazaka β,Ваал-хазаковые наручи β,우르즈암β,烏爾德腕甲β,دعامات فال هازاك β
+Vaal Hazak Coil β,ウルズコイルβ,Jupe Vaal Hazak β,Spira di Vaal Hazak β,Vaal-Hazak-Hüftring β,,Cint. de Vaal Hazak β,Pas z Vaal Hazaka β,Пояс ваал-хазака β,우르즈코일β,烏爾德腰甲β,لفيفة فال هازاك β
+Vaal Hazak Greaves β,ウルズグリーヴβ,Cuissardes Vaal Hazak β,Schinieri di Vaal Hazak β,VaalHazak-Beinschienen β,,Grevas de Vaal Hazak β,Nagolenice z Vaala β,Ваал-хазаковые поножи β,우르즈그리브β,烏爾德護腿β,درع ساق فال هازاك β
+Kirin Horn α,キリンホーンα,Corne Kirin α,Corno di Kirin α,Kirin-Horn α,,Chifre de Kirin α,Róg Kirina α,Рог кирина α,키린혼α,麒麟角α,قرن كيرين α
+Kirin Jacket α,キリンベストα,Veste Kirin α,Pettino di Kirin α,Kirin-Jacke α,,Jaqueta de Kirin α,Kubrak z Kirina α,Куртка кирина α,키린베스트α,麒麟服飾α,سترة كيرين α
+Kirin Longarms α,キリンアームロングα,Bras-longs Kirin α,Copribraccia di Kirin α,Kirin-Armstulpen α,,Braços Longos de Kirin α,Zarękawia z Kirina α,Наручи кирина α,키린롱암α,麒麟長腕甲α,درع ذراع كيرين الطويل α
+Kirin Hoop α,キリンフープα,Ceinture Kirin α,Cerchio di Kirin α,Kirin-Reifen α,,Argola de Kirin α,Obręcz z Kirina α,Обод кирина α,키린후프α,麒麟腰環α,حلقة كيرين α
+Kirin Leg Guards α,キリンレガースα,Bottines Kirin α,Paragambe di Kirin α,Kirin-Beinschutz α,,Caneleiras de Kirin α,Nogawice z Kirina α,Поножи кирина α,키린레그가드α,麒麟護脛α,واقي ساق كيرين α
+Kirin Horn β,キリンホーンβ,Corne Kirin β,Corno di Kirin β,Kirin-Horn β,,Chifre de Kirin β,Róg Kirina β,Рог кирина β,키린혼β,麒麟角β,قرن كيرين β
+Kirin Jacket β,キリンベストβ,Veste Kirin β,Pettino di Kirin β,Kirin-Jacke β,,Jaqueta de Kirin β,Kubrak z Kirina β,Куртка кирина β,키린베스트β,麒麟服飾β,سترة كيرين β
+Kirin Longarms β,キリンアームロングβ,Bras-longs Kirin β,Copribraccia di Kirin β,Kirin-Armstulpen β,,Braços Longos de Kirin β,Zarękawia z Kirina β,Наручи кирина β,키린롱암β,麒麟長腕甲β,درع ذراع كيرين الطويل β
+Kirin Hoop β,キリンフープβ,Ceinture Kirin β,Cerchio di Kirin β,Kirin-Reifen β,,Argola de Kirin β,Obręcz z Kirina β,Обод кирина β,키린후프β,麒麟腰環β,حلقة كيرين β
+Kirin Leg Guards β,キリンレガースβ,Bottines Kirin β,Paragambe di Kirin β,Kirin-Beinschutz β,,Caneleiras de Kirin β,Nogawice z Kirina β,Поножи кирина β,키린레그가드β,麒麟護脛β,واقي ساق كيرين β
+Xeno'jiiva Headgear α,ゼノラージヘッドα,Voile Xeno'jiiva α,Testa di Xeno'jiiva α,Xeno'jiiva-Kopfschutz α,,Elmo de Xeno'jiiva α,Hełm Xeno'jiiva α,Шлем ксено'джиивы α,제노라지헤드α,異種大型頭飾α,عتاد رأس زينوجيفا α
+Xeno'jiiva Hide α,ゼノラージハイドα,Peau Xeno'jiiva α,Cotta di Xeno'jiiva α,Xeno'jiiva-Lederhaut α,,Couro de Xeno'jiiva α,Skóra Xeno'jiiva α,Шкура ксено'джиивы α,제노라지하이드α,異種大型皮α,جلد زينوجيفا α
+Xeno'jiiva Claws α,ゼノラージクロウα,Griffes Xeno'jiiva α,Artigli di Xeno'jiiva α,Xeno'jiiva-Klauen α,,Garras de Xeno’jiiva α,Pazury Xeno'jiiva α,Когти ксено'джиивы α,제노라지클로α,異種大型鋼爪α,مخالب زينوجيفا α
+Xeno'jiiva Spine α,ゼノラージスパインα,Vertèbre Xeno'jiiva α,Colonna di Xeno'jiiva α,Xeno'jiiva-Stachel α,,Espinha de Xeno'jiiva α,Kręgosłup Xeno'jiiva α,Хребет ксено'джиивы α,제노라지스파인α,異種大型脊椎α,درع ظهر زينوجيفا α
+Xeno'jiiva Spurs α,ゼノラージフットα,Éperons Xeno'jiiva α,Speroni di Xeno'jiiva α,Xeno'jiiva-Sporen α,,Esporas de Xeno'jiiva α,Ostrogi Xeno'jiiva α,Шпоры ксено'джиивы α,제노라지풋α,異種大型靴α,مهمز زينوجيفا α
+Xeno'jiiva Headgear β,ゼノラージヘッドβ,Voile Xeno'jiiva β,Testa di Xeno'jiiva β,Xeno'jiiva-Kopfschutz β,,Elmo de Xeno'jiiva β,Hełm Xeno'jiiva β,Шлем ксено'джиивы β,제노라지헤드β,異種大型頭飾β,عتاد رأس زينوجيفا β
+Xeno'jiiva Hide β,ゼノラージハイドβ,Peau Xeno'jiiva β,Pelle di Xeno'jiiva β,Xeno'jiiva-Lederhaut β,,Couro de Xeno'jiiva β,Skóra Xeno'jiiva β,Шкура ксено'джиивы β,제노라지하이드β,異種大型皮β,جلد زينوجيفا β
+Xeno'jiiva Claws β,ゼノラージクロウβ,Griffes Xeno'jiiva β,Artigli di Xeno'jiiva β,Xeno'jiiva-Klauen β,,Garras de Xeno’jiiva β,Pazury Xeno'jiiva β,Когти ксено'джиивы β,제노라지클로β,異種大型鋼爪β,مخالب زينوجيفا β
+Xeno'jiiva Spine β,ゼノラージスパインβ,Vertèbre Xeno'jiiva β,Colonna di Xeno'jiiva β,Xeno'jiiva-Stachel β,,Espinha de Xeno'jiiva β,Kręgosłup Xeno'jiiva β,Хребет ксено'джиивы β,제노라지스파인β,異種大型脊椎β,درع ظهر زينوجيفا β
+Xeno'jiiva Spurs β,ゼノラージフットβ,Éperons Xeno'jiiva β,Speroni di Xeno'jiiva β,Xeno'jiiva-Sporen β,,Esporas de Xeno'jiiva β,Ostrogi Xeno'jiiva β,Шпоры ксено'джиивы β,제노라지풋β,異種大型靴β,مهمز زينوجيفا β
+Guild Cross Circlet α,ギルドクロスアクセα,Diadème Croix de Guilde α,Cerchietto della Gilda α,Gildenkreuz-Reif α,,Diadema Cruz de Guilda α,Diadem krzyża Gildii α,Венец креста гильдии α,길드크로스악세α,公會十字頭飾α,حلقة شكل للنقابة α
+Guild Cross Suit α,ギルドクロススーツα,Tenue Croix de Guilde α,Abito della Gilda α,Gildenkreuz-Anzug α,,Traje Cruz de Guilda α,Zbroja krzyża Gildii α,Латы креста гильдии α,길드크로스슈트α,公會十字戰衣α,بذلة شكل للنقابة α
+Guild Cross Vambraces α,ギルドクロスアームα,Avant-bras Croix de Guilde α,Parabraccia della Gilda α,Gildenkreuz-Armschienen α,,Avamb. Cruz de Guilda α,Zarękawia krzyża Gildii α,Наручи креста гильдии α,길드크로스암α,公會十字腕甲α,درع ساعد شكل للنقابة α
+Guild Cross Coil α,ギルドクロスコイルα,Kilt Croix de Guilde α,Spira della Gilda α,Gildenkreuz-Hüftring α,,Cint. Cruz de Guilda α,Pas krzyża Gildii α,Пояс креста гильдии α,길드크로스코일α,公會十字腰甲α,لفيفة شكل للنقابة α
+Guild Cross Boots α,ギルドクロスブーツα,Bottes Croix de Guilde α,Stivali della Gilda α,Gildenkreuz-Stiefel α,,Botas Cruz de Guilda α,Buty krzyża Gildii α,Сапоги креста гильдии α,길드크로스부츠α,公會十字靴α,حذاء شكل للنقابة α
+Guild Cross Circlet β,ギルドクロスアクセβ,Diadème Croix de Guilde β,Cerchietto della Gilda β,Gildenkreuz-Reif β,,Diadema Cruz de Guilda β,Diadem krzyża Gildii β,Венец креста гильдии β,길드크로스악세β,公會十字頭飾β,حلقة شكل للنقابة β
+Guild Cross Suit β,ギルドクロススーツβ,Tenue Croix de Guilde β,Abito della Gilda β,Gildenkreuz-Anzug β,,Traje Cruz de Guilda β,Zbroja krzyża Gildii β,Латы креста гильдии β,길드크로스슈트β,公會十字戰衣β,بذلة شكل للنقابة β
+Guild Cross Vambraces β,ギルドクロスアームβ,Avant-bras Croix de Guilde β,Parabraccia della Gilda β,Gildenkreuz-Armschienen β,,Avamb. Cruz de Guilda β,Zarękawia krzyża Gildii β,Наручи креста гильдии β,길드크로스암β,公會十字腕甲β,درع ساعد شكل للنقابة β
+Guild Cross Coil β,ギルドクロスコイルβ,Kilt Croix de Guilde β,Spira della Gilda β,Gildenkreuz-Hüftring β,,Cint. Cruz de Guilda β,Pas krzyża Gildii β,Пояс креста гильдии β,길드크로스코일β,公會十字腰甲β,لفيفة شكل للنقابة β
+Guild Cross Boots β,ギルドクロスブーツβ,Bottes Croix de Guilde β,Stivali della Gilda β,Gildenkreuz-Stiefel β,,Botas Cruz de Guilda β,Buty krzyża Gildii β,Сапоги креста гильдии β,길드크로스부츠β,公會十字靴β,حذاء شكل للنقابة β
+Dragonking Eyepatch α,竜王の隻眼α,Cache-œil Roi-dragon α,Benda del re drago α,DrKönigAugenklappe α,,Tapa-olho Dragão-rei α,Opaska smoczego króla α,Повязка короля-дракона α,용왕의쌍안α,龍王的獨眼α,رقعة عين الملك التنين α
+Commission Gorget α,シーカーヘッドα,Coiffe de la Commission α,Elmo della commissione α,Kommissionsringkragen α,,Gorjal da Comissão α,Ryngraf Komisji α,Горжет экспедиции α,시커헤드α,追蹤者頭飾α,لفة عنق اللجنة α
+Commission Jacket α,シーカーベストα,Veste de la Commission α,Pettino della commissione α,Kommissionsjacke α,,Jaqueta da Comissão α,Kubrak Komisji α,Куртка экспедиции α,시커베스트α,追蹤者服飾α,سترة اللجنة α
+Commission Vambraces α,シーカーグラブα,Garde-mains de la Commission α,Parabraccia della commissione α,Kommissionsarmschienen α,,Avambraços da Comissão α,Zarękawia Komisji α,Наручи экспедиции α,시커글러브α,追蹤者手套α,درع ساعد اللجنة α
+Commission Belt α,シーカーベルトα,Kit de la Commission α,Cintura della commissione α,Kommissionsgürtel α,,Cinto da Comissão α,Pas Komisji α,Ремень экспедиции α,시커벨트α,追蹤者皮帶α,حزام اللجنة α
+Commission Pants α,シーカーパンツα,Pantalon de la Commission α,Brache della commissione α,Kommissionshose α,,Calças da Comissão α,Spodnie Komisji α,Штаны экспедиции α,시커팬츠α,追蹤者長褲α,سروال اللجنة α
+Commission Gorget β,シーカーヘッドβ,Coiffe de la Commission β,Elmo della commissione β,Kommissionsringkragen β,,Gorjal da Comissão β,Ryngraf Komisji β,Горжет экспедиции β,시커헤드β,追蹤者頭飾β,لفة عنق اللجنة β
+Commission Jacket β,シーカーベストβ,Veste de la Commission β,Pettino della commissione β,Kommissionsjacke β,,Jaqueta da Comissão β,Kubrak Komisji β,Куртка экспедиции β,시커베스트β,追蹤者服飾β,سترة اللجنة β
+Commission Vambraces β,シーカーグラブβ,Garde-mains de la Commission β,Parabraccia della commissione β,Kommissionsarmschienen β,,Avambraços da Comissão β,Zarękawia Komisji β,Наручи экспедиции β,시커글러브β,追蹤者手套β,درع ساعد اللجنة β
+Commission Belt β,シーカーベルトβ,Kit de la Commission β,Cintura della commissione β,Kommissionsgürtel β,,Cinto da Comissão β,Pas Komisji β,Ремень экспедиции β,시커벨트β,追蹤者皮帶β,حزام اللجنة β
+Commission Pants β,シーカーパンツβ,Pantalon de la Commission β,Brache della commissione β,Kommissionshose β,,Calças da Comissão β,Spodnie Komisji β,Штаны экспедиции β,시커팬츠β,追蹤者長褲β,سروال اللجنة β
+Sealed Eyepatch α,封印の眼帯α,Cache-œil scellé α,Benda nera α,Dichte Augenklappe α,,Tapa-olho Selado α,Zapieczętowana opaska α,Повязка с печатью α,봉인의 안대α,封印的眼罩α,رقعة عين مذهلة α
+Shadow Shades α,シャドウアイα,Lunettes obscures α,Occhiali del buio α,Schatten-Sonnenbrille α,,Óculos Escuros Sombrios α,Okulary cienia α,Теневые очки α,섀도우아이α,墨鏡α,ألوان ظلال α
+Wiggler Head α,ユラユラフェイクα,Tête de tortilleur α,Testa di tremogliola α,Wackelwurm-Kopf α,,Cabeça Treme-treme α,Głowa pełzacza α,Голова ползуна α,흔들흔들 페이크α,孑孓頭套α,عتاد رأس دودة ضخمة α

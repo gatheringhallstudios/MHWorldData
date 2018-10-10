@@ -1,0 +1,604 @@
+name_en,name_ja,name_fr,name_it,name_de,name_es,name_pt,name_pl,name_ru,name_ko,name_zh,name_ar
+Potion,回復薬,Potion,Pozione,Trank,,Poção,Mikstura,Зелье,회복약,回復藥,الجرعة
+Mega Potion,回復薬グレート,Méga potion,Mega pozione,Mega-Trank,,Megapoção,Megamikstura,Мегазелье,그레이트 회복약,回復藥‧大,جرعة عملاقة
+Max Potion,秘薬,Potion secrète,Pillola della salute,Maxi-Trank,,Poção Máxima,Maksmikstura,Максимальное зелье,비약,秘藥,الجرعة القصوى
+Ancient Potion,いにしえの秘薬,Potion ancestrale,Pillola antica,Uralter Trank,,Poção Anciã,Pradawna mikstura,Древнее зелье,고대의 비약,古老的秘藥,الجرعة القديمة
+Antidote,解毒薬,Antidote,Antidoto,Gegengift,,Antídoto,Antidotum,Противоядие,해독약,解毒藥,ترياق
+Herbal Medicine,漢方薬,Remède d'herbe,Rimedio erboristico,Kräutermedizin,,Ervas Medicinais,Lek ziołowy,Травяное лекарство,한방약,漢方藥,دواء عشبي
+Nulberry,ウチケシの実,Baie-soin,Nulbacca,Nullbeere,,Nulafruta,Oczystka,Пустоягода,지움열매,打消果實,نولبيري
+Energy Drink,元気ドリンコ,Boisson énergétique,Bevanda energetica,Energy-Drink,,Energético,Napój energetyczny,Тоник,에너지드링크,元氣飲料,مشروب الطاقة
+Ration,携帯食料,Ration,Razione,Ration,,Ração,Prowiant,Паек,휴대 식량,隨身食物,مؤونة
+Rare Steak,生焼け肉,Steak saignant,Bistecca al sangue,Blutiges Steak,,Bife Malpassado,Krwisty stek,Полусырой стейк,설익은 고기,半熟肉,شريحة لحم مطهية قليلًا
+Well-done Steak,こんがり肉,Steak à point,Bistecca ben cotta,Gebratenes Steak,,Bife Bem Passado,Dobrze wysmażony stek,Хорошо прожаренный стейк,잘 익은 고기,全熟肉,شريحة لحم مطهية جيدًا
+Burnt Meat,コゲ肉,Viande brûlée,Carne bruciata,Verkohltes Fleisch,,Carne Queimada,Spalone mięso,Сгоревшее мясо,탄 고기,烤焦肉,لحم محترق
+Cool Drink,クーラードリンク,Boisson fraîche,Bevanda fresca,Kaltgetränk,,Bebida Gelada,Chłodny napój,Освежающий напиток,쿨드링크,冷飲,مشروب بارد
+Nutrients,栄養剤,Nutriments,Nutrienti,Nährstoffe,,Nutrientes,Substancje odżywcze,Питательная смесь,영양제,營養劑,المغذيات
+Mega Nutrients,栄養剤グレート,Méga nutriments,Mega nutrienti,Mega-Nährstoffe,,Meganutrientes,Megasubstancje odżywcze,Мегапитательная смесь,그레이트 영양제,營養劑‧大,مغذيات هائلة
+Immunizer,活力剤,Immunisateur,Immunizzatore,Immunisierer,,Imunizador,Immunizator,Иммунатор,활력제,活力劑,المحصِن
+Astera Jerky,アステラジャーキー,Viande Mosswine,Fettine di Mosswine,Astera-Jerky,,Carne Seca de Astera,Suszone mięso z Astery,Мясо по-астерски,아스테라저키,星辰肉乾,لحم أستيرا المقدد
+Dash Juice,強走薬,Potion de vitalité,Succo sprint,Sprintsaft,,Isotônico,Zrywny sok,Сок бодрости,강주약,強走藥,عصير الاندفاع
+Might Seed,怪力の種,Graine de force,Seme demoniaco,Machtsamen,,Grão de Força,Ziarno mocy,Зерно могущества,괴력씨앗,怪力種子,بذرة القوة
+Demondrug,鬼人薬,Potion du démon,Siero demoniaco,Dämonenmittel,,Pílula Demoníaca,Pigułka demona,Демоническое снадобье,귀인약,鬼人藥,عقار العفريت
+Mega Demondrug,鬼人薬グレート,Potion du démon +,Mega siero demoniaco,Mega-Dämonenmittel,,Megapílula Demoníaca,Megapigułka demona,Мегадемоническое снадобье,그레이트 귀인약,鬼人藥‧大,عقار العفريت الهائل
+Might Pill,怪力の丸薬,Philtre du diable,Pillola della forza,Machtpille,,Pílula de Força,Pigułka mocy,Таблетка могущества,괴력의 환약,怪力藥丸,قرص الطّاقة
+Adamant Seed,忍耐の種,Graine de ténacité,Seme della difesa,Diamantsamen,,Grão Duro,Adamantowe ziarno,Адамантовое зерно,인내씨앗,忍耐種子,بذرة الصّلابة
+Armorskin,硬化薬,Potion de pierre,Siero armatura,Panzerhaut,,Pele de Pedra,Pancerna skóra,Бронированная кожа,경화약,硬化藥,جلد مصفّح
+Mega Armorskin,硬化薬グレート,Potion de pierre +,Mega siero armatura,Mega-Panzerhaut,,Megapele de Pedra,Megapancerna skóra,Мегабронированная кожа,그레이트 경화약,硬化藥‧大,جلد مصفّح عملاق
+Adamant Pill,忍耐の丸薬,Philtre de métal,Pillola della difesa,Diamantpille,,Pílula Dura,Adamantowa pigułka,Адамантовая таблетка,인내의 환약,忍耐藥丸,قرص الصّلابة
+Lifepowder,生命の粉塵,Poudre de vie,Polvere di vita,Lebenspulver,,Pó da Vida,Proszek życia,Порошок жизни,생명의 가루,生命粉塵,مسحوق الحياة
+Herbal Powder,漢方の粉塵,Poudre végétale,Polvere d'erbe,Kräuterpulver,,Pó de Ervas,Proszek ziołowy,Травяной порошок,한방가루,漢方粉塵,المسحوق العشبي
+Demon Powder,鬼人の粉塵,Poudre du démon,Polvere demoniaca,Dämonenpulver,,Pó Demoníaco,Proszek demona,Демонический порошок,도깨비가루,鬼人粉塵,مسحوق العفريت
+Hardshell Powder,硬化の粉塵,Poudre de pierre,Polvere guscioduro,Harthülsenpulver,,Pó de Conchas,Proszek skorupowy,Порошок из скорлупы,경화의 가루,硬化粉塵,المسحوق الصلب
+Honey,ハチミツ,Miel,Miele,Honig,,Mel,Miód,Мед,벌꿀,蜂蜜,عسل
+Herb,薬草,Herbe,Erba,Kraut,,Erva,Zioło,Трава,약초,藥草,عشبة
+Antidote Herb,げどく草,Herbe à antidote,Erba antidoto,Gegengiftkraut,,Erva Antídoto,Zioło odtruwające,Противоядная трава,해독초,解毒草,عشب ترياق
+Fire Herb,火薬草,Herbe de feu,Erba fuoco,Feuerkraut,,Erva de Fogo,Zioło ogniste,Огненная трава,화약초,火藥草,عشب النّار
+Flowfern,流水草,Ondulite,Felce ruscello,Flussfarn,,Samambaia d'Água,Paproć wodna,Речной папоротник,유수초,流水草,النّبتة المائية
+Snow Herb,霜ふり草,Herbe des neiges,Erba neve,Schneekraut,,Erva da Neve,Zioło śnieżne,Снежная трава,서리초,霜降草,عشب الثّلج
+Sleep Herb,ネムリ草,Herbe du sommeil,Erba soporifera,Schlafkraut,,Erva Sonífera,Zioło nasenne,Сонная трава,수면초,眠草,عشب النّوم
+Ivy,ツタの葉,Lierre,Edera,Efeu,,Hera,Bluszcz,Плющ,넝쿨의 잎,常春藤葉,اللّبلاب
+Smokenut,ケムリの実,Noix fumigène,Noce fumo,Rauchnuss,,Noz de Fumo,Orzech dymny,Дымный орех,연기열매,煙果實,مكسّرات الدخان
+Dragonfell Berry,龍殺しの実,Baie-dragon,Bacca drago,Drachentod-Beere,,Fruta Antidragão,Smokobójcza jagoda,Драконья ягодка,용살열매,屠龍果實,توت تبغضُه التّنانين
+Blue Mushroom,アオキノコ,Champignon bleu,Fungo blu,Blaupilz,,Cogumelo Azul,Niebieski grzyb,Синий гриб,푸른버섯,青菇,الفطر الأزرق
+Mandragora,マンドラゴラ,Mandragore,Mandragora,Mandragora,,Mandrágora,Mandragora,Мандрагора,만드라고라,風茄,تفّاح الجنّ
+Nitroshroom,ニトロダケ,Champinitro,Fungo nitro,Nitropilz,,Nitromelo,Nitrogrzyb,Нитрогриб,니트로버섯,爆炸菇,فطر النّيترو
+Devil's Blight,鬼ニトロダケ,Fléau du diable,Fungo del diavolo,Teufelspest,,Flagelo do Diabo,Diabelska plaga,Дьяволомор,도깨비 니트로버섯,鬼爆炸菇,وباء الشّيطان
+Parashroom,マヒダケ,Champaralysie,Fungo paralizzante,Lähmpilz,,Paramelo,Paragrzyb,Парагриб,마비버섯,麻痺菇,فطر الشّلل
+Toadstool,毒テングダケ,Champi vénéneux,Fungo velenoso,Giftpilz,,Cogumelo Venenoso,Muchomor,Мухомор,독광대버섯,毒菇,كمأة
+Exciteshroom,ドキドキノコ,Champexciteur,Fungo stimolante,Reizpilz,,Eufungoria,Euforygrzyb,Чудогриб,두근두근버섯,心跳加速菇,فطر التّشويق
+Chillshroom,ヒンヤリダケ,Champicool,Frescofungo,Frostpilz,,Cogugélido,Zimnogrzyb,Холодный гриб,서늘버섯,冰冷菇,فطر ثلجي
+Bitterbug,にが虫,Amerinsecte,Insetto amaro,Bitterkäfer,,Amarguinseto,Goryczek,Горький жук,씁쓸충,苦蟲,الحشرة اللاذعة
+Flashbug,光蟲,Scaralux,Insetto lampo,Blitzkäfer,,Lampejinseto,Błyskowad,Светожук,광충,光蟲,الحشرات المضيئة
+Godbug,不死虫,Insecte immortel,Insetto divino,Götterkäfer,,Inseto-deus,Boski owad,Божественный жук,불사충,不死蟲,الحشرة العظيمة
+Thunderbug,雷光虫,Foudrinsecte,Insetto elettrico,Donnerkäfer,,Insetrovão,Gromuszek,Грозовой жук,뇌광충,雷光蟲,الحشرة الصّاعقة
+Baitbug,イレグイコガネ,Délicioptère,Insetto dolcetto,Köderkäfer,,Insetisca,Przynętnica,Жук-приманка,넣자마자풍뎅이,陸續上鉤黃金餌,حشرة الطُعم
+Kelbi Horn,ケルビの角,Corne Kelbi,Kelbi: corno,Kelbi-Horn,,Chifre de Kelbi,Róg Kelbi,Рог келби,켈비의 뿔,精靈鹿角,قرن كيلبي
+Dash Extract,狂走エキス,Extrait de vitalité,Estratto sprint,Sprint-Extrakt,,Extrato de Corrida,Zrywny ekstrakt,Рывковый экстракт,질주진액,急奔萃取液,مستخلص الإندفاع
+Nourishing Extract,滋養エキス,Extrait d'arginine,Estratto corroborante,Nährendes Extrakt,,Extrato Nutritivo,Pożywny ekstrakt,Питательный экстракт,자양진액,滋養萃取液,مستخلص تغذية
+Screamer Sac,鳴き袋,Poche hurlante,Sacca urlante,Kreischbeutel,,Glândula Vocal,Krzyczący worek,Железа крикуна,울음주머니,鳴袋,كيس الصّراخ
+Catalyst,増強剤,Catalyseur,Catalizzatore,Beschleuniger,,Catalisador,Katalizator,Катализатор,증강제,增強劑,المحفز
+Tranq Bomb,捕獲用麻酔玉,Bombe tranquillisante,Sfera soporifera,Beruhigungsbombe,,Bomba Sedativa,Bomba uspokajająca,Снотворная бомба,포획용마취옥,捕獲用麻醉球,قنبلة مهدئة
+Flash Pod,スリンガー閃光弾,Capsule aveuglante,Baccello lampo,Blitzkapsel,,Cápsula de Lampejo,Strąk błyskowy,Зерно вспышки,슬링어 섬광탄,投射器閃光彈,كبسولة وميض
+Screamer Pod,スリンガー音爆弾,Capsule sonore,Baccello urlante,Schreikapsel,,Cápsula de Grito,Krzyczący strąk,Зерно крика,슬링어 음폭탄,投射器音爆彈,كبسولة الصراخ
+Dung Pod,スリンガーこやし弾,Capsule de bouse,Baccello letame,Dungkapsel,,Cápsula de Esterco,Gnojowy strąk,Навозный снаряд,슬링어 거름탄,投射器異臭彈,كبسولة الروث
+Smoke Bomb,けむり玉,Bombe fumigène,Sfera fumogena,Rauchbombe,,Bomba de Fumaça,Bomba dymna,Дымовая бомба,연기옥,煙霧球,قنبلة دخان
+Poison Smoke Bomb,毒けむり玉,Bombe de poison,Sfera velenosa,Giftrauchbombe,,Bomba de Fumaça Venenosa,Trująca bomba dymna,Бомба с отравленным дымом,독연기옥,毒煙霧球,قنبلة دخان سامة
+Farcaster,モドリ玉,Téléportogène,Sfera del ritorno,Teleporter,,Transportador,Przerzutnik,Транспортировщик,귀환옥,回歸球,الناقل البعيد
+Raw Meat,生肉,Viande crue,Carne cruda,Rohes Fleisch,,Carne Crua,Surowe mięso,Сырое мясо,날고기,生肉,لحم نيئ
+Poisoned Meat,毒生肉,Viande empoisonnée,Carne avvelenata,Giftfleisch,,Carne Envenenada,Zatrute mięso,Отравленное мясо,독고기,毒生肉,لحم مسمم
+Tinged Meat,シビレ生肉,Viande paralysante,Carne paralizzante,Faules Fleisch,,Carne Paralisante,Mięso paraliżujące,Мясо с сюрпризом,마비고기,麻痺生肉,لحم مخلوط
+Drugged Meat,眠り生肉,Viande somnifère,Carne soporifera,Rauschfleisch,,Carne Entorpecente,Mięso usypiające,Мясо со снотворным,수면고기,睡眠生肉,لحم مخدِر
+Gunpowder,爆薬,Poudre à canon,Polvere da sparo,Schießpulver,,Pólvora,Proch,Порох,폭약,爆藥,البارود
+Small Barrel,小タル,Petit baril,Botte piccola,Kleines Fass,,Barrilete,Mała beczka,Маленькая бочка,소형나무통,小木桶,برميل صغير
+Barrel Bomb,小タル爆弾,Bombe baril,Bomba-botte,Fassbombe,,Bomba de Barril,Bomba beczkowa,Бочковая бомба,소형나무통폭탄,小爆彈桶,برميل متفجر
+Bounce Bomb,打上げタル爆弾,Bombe artifice,Bomba-missile,Abprallbombe,,Bomba-ricochete,Bomba sprężysta,Прыгающая бомба,발사나무통폭탄,木桶飛彈,قنبلة قفز
+Mega Bounce Bomb,打上げタル爆弾Ｇ,Méga bombe artifice,Mega bomba-missile,Mega-Abprallbombe,,Megabomba-ricochete,Megabomba sprężysta,Мегапрыгающая бомба,발사나무통폭탄G,木桶飛彈Ｇ,قنبلة مرتدة ضخمة
+Large Barrel,大タル,Grand baril,Botte grande,Großes Fass,,Barril,Duża beczka,Большая бочка,대형나무통,大桶,برميل ضخم
+Large Barrel Bomb,大タル爆弾,Grande bombe baril,Bomba-botte grande,Große Fassbombe,,Superbomba de Barril,Duża bomba beczkowa,Большая бочковая бомба,대형나무통폭탄,大爆彈桶,برميل متفجر ضخم
+Mega Barrel Bomb,大タル爆弾Ｇ,Méga bombe baril,Mega bomba-botte,Mega-Fassbombe,,Megabomba de Barril,Megabomba beczkowa,Мегабочковая бомба,대형나무통폭탄G,大爆彈桶Ｇ,برميل متفجر هائل
+Spider Web,クモの巣,Toile d'araignée,Ragnatela,Spinnennetz,,Teia de Aranha,Pajęczyna,Паутина,거미집,蜘蛛網,نسيج العنكبوت
+Net,ネット,Filet,Rete,Netz,,Rede,Siatka,Сеть,그물,網子,شبكة
+Trap Tool,トラップツール,Kit de piège,Intrappolatore,Fallengerät,,Chave Armadilheira,Narzędzie do pułapek,Инструмент для ловушек,트랩툴,陷阱工具,أداة الفخ
+Pitfall Trap,落とし穴,Piège à fosse,Trappola coperta,Fallgrube,,Armadilha de Poço,Dół-pułapka,Волчья яма,구멍 함정,地洞,فخ حفرة
+Shock Trap,シビレ罠,Piège électrochoc,Trappola scossa,Schockfalle,,Armadilha de Choque,Pułapka rażąca,Шоковая ловушка,마비덫,麻痺陷阱,فخ الصدمة
+Rolled-up Dung,ころがされたフン,Boule de bouse,Letame appallottolato,Gerollter Dung,,Bola de Esterco,Zawinięty gnój,Свернутый навоз,굴린 응가,轉動過的糞,روث ملفوف
+Dung,モンスターのフン,Bouse,Letame,Dung,,Esterco,Gnój,Навоз,몬스터의 대변,魔物的糞,روث
+Arowana Bait,アロワナダンゴ,Appât pour Arowana,Esca arowana,Arowana-Köder,,Isca de Aruanã,Przynęta na arowany,Приманка из араваны,아로와나 경단,龍魚糰子,طُعم الأروانا
+Gunpowderfish Bait,デメキンダンゴ,Appât pour poisson-poudre,Esca pesce pirico,Schießpulverfisch-Köder,,Isca de Peixe-pólvora,Przynęta na ryby prochowe,Приманка из пороховой рыбы,금붕어 경단,金魚糰子,طُعم سمك البارود
+Goldenfish Bait,黄金ダンゴ,Appât pour poisson d'or,Esca pesce dorato,Goldenfisch-Köder,,Isca de Peixe-dourado.,Przynęta na złote rybki,Приманка из золотой рыбки,황금 경단,黃金糰子,طُعم السمك الذهبي
+Boomerang,ブーメラン,Boomerang,Boomerang,Bumerang,,Bumerangue,Bumerang,Бумеранг,부메랑,迴力標,البومرانغ
+Binoculars,双眼鏡,Jumelles,Binocolo,Fernglas,,Binóculos,Lornetka,Бинокль,쌍안경,望遠鏡,نظارات مكبرة
+Powercharm,力の護符,Amulette de force,Talismano della forza,Kraftamulett,,Amuleto do Poder,Amulet mocy,Амулет силы,힘의 부적,力量之護符,سحر القوة
+Powertalon,力の爪,Griffe de force,Sperone demoniaco,Kraftkralle,,Garra do Poder,Szpon mocy,Силовой коготь,힘의 발톱,力量之爪,مخلب القوة
+Armorcharm,守りの護符,Amulette de défense,Talismano della difesa,Panzeramulett,,Amuleto de Armadura,Amulet pancerza,Амулет брони,방어의 부적,守護之護符,سحر الدرع
+Armortalon,守りの爪,Griffe de défense,Artiglio della difesa,Panzerkralle,,Garra-armadura,Szpon pancerza,Коготь брони,방어의 발톱,守護之爪,مخلب الدرع
+Needleberry,ハリの実,Noix aiguille,Bacca spillo,Nadelbeere,,Frutagulha,Igłówka,Иглоягода,바늘열매,針果實,حبة الإبر
+Blastnut,バクレツの実,Noix dynamite,Noce esplosiva,Sprengnuss,,Noz Grudenta,Wybuchorzech,Взрывной орех,폭렬열매,爆裂果實,مكسرات متفجرة
+Dragonstrike Nut,リュウゲキの実,Noix frappe-du-dragon,Noce drago,Drachenschlag-Nuss,,Noz Bafo de Dragão,Orzech smoczego ciosu,Драконий орех,용격열매,龍擊果實,مكسرات ضربة التنين
+Slashberry,ザンレツの実,Noix tranchante,Fendibacca,Schlitzbeere,,Noz Cortante,Cięciówka,Остроягода,참열열매,斬裂果實,حبة الضربة القاطعة
+Latchberry,ツラヌキの実,Noix perforante,Baccappiccicosa,Schnallenbeere,,Noz Pontuda,Wkrętówka,Винтоягода,관통열매,螺旋果實,حبة القفل
+Bomberry,カクサンの実,Noix explosive,Bacca-bomba,Bombeere,,Noz Bomba,Bombówka,Взрывоягода,확산열매,擴散果實,حبة قنابل
+Flamenut,チャッカの実,Noix-de-feu,Noce fiamma,Feuernuss,,Noz Inflamável,Orzech płomienny,Огненный орех,착화열매,結果果實,حبة اللهب
+Blazenut,ハッカの実,Noix-de-volcan,Noce vampa,Brandnuss,,Noz Comburente,Orzech ogniowy,Пламенный орех,발화열매,薄荷果實,حبة اللهيب
+Gunpowder Level 2,LV2 火薬粉,Poudre à canon II,Polvere da sparo lv.2,Schießpulver Stufe 2,,Pólvora Nível 2,Proch poziomu 2,Порох 2 уровня,LV2 화약분,LV2 火藥粉,بارود من المستوى 2
+Gunpowder Level 3,LV3 火薬粉,Poudre à canon III,Polvere da sparo lv.3,Schießpulver Stufe 3,,Pólvora Nível 3,Proch poziomu 3,Порох 3 уровня,LV3 화약분,LV3 火藥粉,بارود من المستوى 3
+Whetfish Fin,キレアジのヒレ,Nageoire de poissaiguiseur,Pinna sgombro-coltello,Wetzfisch-Flosse,,Barbatana de Peixe-amola,Płetwa ostrzalnika,Плавник точильной рыбы,예리어 지느러미,堅硬竹筴魚的魚肉片,زعنفة سمكة وِت
+Whetfish Fin+,キレアジの上ヒレ,Nageoire de poissaiguiseur +,Pinna sgombro-coltello+,Wetzfisch-Flosse+,,Barbatana de Peixe-amola+,Płetwa ostrzalnika+,Плавник точильной рыбы+,예리어 지느러미+,堅硬竹筴魚的上等肉片,زعنفة سمكة وِت+
+Sushifish Scale,サシミウロコ,Écaille de sushipoisson,Scaglia pesce-sushi,Sushifisch-Schuppe,,Escama de Peixuxi,Łuska ryby sushi,Чешуя рыбы суши,사시미 비늘,刺身魚鱗片,قشرة سمكة السوشي
+Great Sushifish Scale,大サシミウロコ,Grande écaille de sushipoisson,Scaglia gran pesce-sushi+,Großer-Sushifisch-Schuppe,,Escama de Grande Peixuxi,Łuska wielkiej ryby sushi,Чешуя большой рыбы суши,대형사시미 비늘,大刺身魚鱗片,قشرة سمك السوشي العظيم
+Gunpowderfish Scale,バクヤクウロコ,Écaille de poisson-poudre,Scaglia pesce pirico,Schießpulverfisch-Schuppe,,Escama de Peixe-pólvora,Łuska ryby prochowej,Чешуя пороховой рыбы,폭약 비늘,火藥金魚鱗片,قشرة سمكة البارود
+Great Gunpowderfish Scale,大バクヤクウロコ,Écaille de grand poisson-poudre,Scaglia gran pesce pirico,GroßerSchießpulverfischSchuppe,,Escama de Grande Peixe-pólvora,Łuska wielkiej ryby prochowej,Чешуя большой пороховой рыбы,대형폭약 비늘,大火藥金魚鱗片,قشرة سمك البارود العظيم
+Burst Arowana Scale,ハレツウロコ,Écaille d'arowana explosif,Scaglia arowana scoppio,Berst-Arowana-Schuppe,,Escama de Aruanã Explosivo,Łuska wybucharowany,Чешуя взрывной араваны,파열 비늘,破裂鱗片,قشرة الأروانا المتفجرة
+Great Burst Arowana Scale,大ハレツウロコ,Écaille de grand arowana explosif,Scaglia gran arowana scoppio,Großer-Berst-Arowana-Schuppe,,Escama de Grande Aruanã Expl.,Łuska wielkiej wybucharowany,Чешуя большой взрывной араваны,대형파열 비늘,大破裂鱗片,قشرة الأروانا المتفجرة الضخمة
+Bomb Arowana Scale,バクレツウロコ,Écaille d'arowana bombe,Scaglia arowana bomba,Bomben-Arowana-Schuppe,,Escama de Aruanã-bomba,Łuska bombarowany,Чешуя араваны-бомбы,폭렬 비늘,爆裂鱗片,قشرة أروانا مفجِرة
+Great Bomb Arowana Scale,大バクレツウロコ,Écaille de grand arowana bombe,Scaglia gran arowana bomba,Großer-Bomben-Arowana-Schuppe,,Escama de Grande Aruanã-bomba,Łuska wielkiej bombarowany,Чешуя большой араваны-бомбы,대형폭렬 비늘,大爆裂鱗片,قشرة أروانا مفجِرة عظيمة
+Empty Phial,空きビン,Fiole vide,Fiala vuota,Leere Phiole,,Frasco Vazio,Pusta fiolka,Пустая склянка,빈 병,空瓶,قارورة فارغة
+Iron Ore,鉄鉱石,Minerai de fer,Minerale ferroso,Eisenerz,,Minério de Ferro,Ruda żelaza,Железная руда,철광석,鐵礦石,خام الحديد
+Machalite Ore,マカライト鉱石,Machalite,Minerale machalite,Machalit-Erz,,Minério de Malaquita,Ruda machalitu,Махалитовая руда,마카라이트광석,燕雀石,خام ماكالايت
+Dragonite Ore,ドラグライト鉱石,Dragonite,Minerale dragonite,Drachenit-Erz,,Minério de Dragonita,Ruda dragonitu,Драконитовая руда,드래그라이트광석,輝龍石,خام الدراغونايت
+Carbalite Ore,カブレライト鉱石,Carbalite,Minerale carbalite,Karbalit-Erz,,Minério de Carbalita,Ruda karbalitu,Карбалитовая руда,카브레라이트광석,靈鶴石,خام الكربالايت
+Fucium Ore,ユニオン鉱石,Fucium,Minerale fucium,Fusium-Erz,,Minério de Fundium,Ruda fuzjum,Фуциевая руда,유니언광석,白鳩石,خام الصهر
+Earth Crystal,大地の結晶,Cristal de terre,Cristallo terra,Erdkristall,,Cristal da Terra,Kryształ ziemny,Кристаллическая пыль,대지의 결정,大地結晶,بلور الأرض
+Coral Crystal,深海の結晶,Cristal de corail,Cristallo corallino,Korallenkristall,,Cristal de Coral,Kryształ koralowy,Коралловый кристалл,심해의 결정,深海結晶,البلور المرجاني
+Dragonvein Crystal,龍脈の結晶,Cristal de dragon ancien,Cristallo venadrago,Drachenader-Kristall,,Cristal de Dragoveio,Kryształ smoczej żyły,Кристалл драконьей жилы,용맥의 결정,龍脈結晶,بلور دارغونفين
+Lightcrystal,ライトクリスタル,Cristal de lumière,Cristallo luce,Lichtkristall,,Cristal de Luz,Kryształ świetlny,Кристалл света,라이트크리스털,亮水晶,البلور الخفيف
+Novacrystal,ノヴァクリスタル,Cristal nova,Novacristallo,Novakristall,,Novacristal,Nowakryształ,Новакристалл,노바크리스털,璀璨水晶,بلور نوفا
+Firecell Stone,獄炎石,Pierre de lave,Minerale lavico,Feuerzellenstein,,Pedra de Chamacel,Kamień ognisty,Пылающий камень,옥염석,獄炎石,حجر خلية النار
+Aquacore Ore,水晶原石,Pierre marine,Minerale aqualux,Wasserkern-Erz,,Minério de Oceanita,Akwalit,Водяная руда,수정원석,水晶原石,خام قلب المحيط
+Spiritcore Ore,精晶原石,Minerai solaire,Minerale lucedisol,Seelenkern-Erz,,Minério Espirituoso,Spirolit,Духовная руда,정정원석,精晶原石,خام قلب الروح
+Dreamcore Ore,幻晶原石,Onirite,Minerale miraggite,Traumkern-Erz,,Minério de Sonhos,Somnolit,Руда грез,환정원석,幻晶原石,خام قلب الحلم
+Dragoncore Ore,龍晶原石,Quartz de wyrm,Minerale nucleodrago,Drachenkern-Erz,,Minério de Dragocerne,Drakolit,Драконья руда,용정원석,龍晶原石,خام قلب التنين
+Armor Sphere,鎧玉,Sphère d'armure,Sfera-armatura I,Rüstkugel I,,Esfera de Armadura,Kula pancerza,Сфера доспехов,갑옥,鎧玉,إطار الدرع
+Armor Sphere+,上鎧玉,Sphère d'armure II,Sfera-armatura II,Rüstkugel II,,Esfera de Armadura+,Kula pancerza+,Сфера доспехов+,갑옥+,上鎧玉,إطار الدرع +
+Advanced Armor Sphere,尖鎧玉,Sphère d'armure III,Sfera-armatura III,Rüstkugel III,,Esfera de Armadura Avançada,Zaawansowana kula pancerza,Продвинутая сфера доспехов,첨갑옥,尖鎧玉,إطار الدرع المتطور
+Hard Armor Sphere,堅鎧玉,Sphère d'armure IV,Sfera-armatura IV,Rüstkugel IV,,Esfera de Armadura Rígida,Twarda kula pancerza,Жесткая сфера доспехов,견갑옥,堅鎧玉,إطار الدرع الصلب
+Heavy Armor Sphere,重鎧玉,Sphère d'armure V,Sfera-armatura V,Rüstkugel V,,Esfera de Armadura Pesada,Ciężka kula pancerza,Тяжелая сфера доспехов,중갑옥,重鎧玉,إطار الدرع الثقيل
+Sturdy Bone,頑丈な骨,Os solide,Osso resistente,Fester Knochen,,Osso Robusto,Solidna kość,Крепкая кость,단단한 뼈,硬質骨頭,عظمة متينة
+Quality Bone,上質な堅骨,Os de qualité,Osso di qualità,Hochwertiger Knochen,,Osso de Qualidade,Kość dobrej jakości,Качественная кость,양질의 견골,良質硬骨,عظمة عالية الجودة
+Ancient Bone,太古の大骨,Os ancien,Osso antico,Alter Knochen,,Osso Ancião,Pradawna kość,Древняя кость,태고의 대골,太古大骨,عظمة قديمة جدًا
+Boulder Bone,強固な岩骨,Os fossilisé,Osso roccioso,Felsknochen,,Osso Pedregulho,Kość głazowa,Массивная кость,강고한 암골,堅硬岩骨,عظمة كبيرة
+Coral Bone,サンゴの紅骨,Os de corail,Osso corallino,Korallenknochen,,Osso Coralino,Kość koralowa,Коралловая кость,산호의 홍골,珊瑚紅骨,عظمة مرجانيّة
+Warped Bone,いびつな狂骨,Os déformé,Osso deforme,Krummer Knochen,,Osso Deformado,Odkształcona kość,Искаженная кость,찌그러진 광골,扭曲狂骨,عظمة ملتفّة
+Brutal Bone,荒々しい蛮骨,Os bestial,Osso brutale,Brutaler Knochen,,Osso Brutal,Brutalna kość,Грубая кость,난폭한 만골,狂亂蠻骨,عظمة وحشيّة
+Dragonbone Relic,いにしえの龍骨,Relique de dragon,Reliquia osso di drago,Drachenknochen-Relikt,,Relíquia Dragosso,Resztki smoczej kości,Ископаемая кость дракона,고대의 용골,古老龍骨,أثر عظْمة التنين
+Unknown Skull,なぞの頭骨,Crâne mystérieux,Teschio ignoto,Anonymer Schädel,,Crânio Desconhecido,Nieznana czaszka,Неизвестный череп,수수께끼의 머리뼈,謎樣的頭骨,الجمجمة غير المعروفة
+Great Hornfly,オオツノアゲハ,Grand papillon corne,Mosca-corno,Große Hornfliege,,Grande Mosca de Chifre,Wielka mucha rogowa,Большой мухорог,장수호랑나비,大角鳳蝶,ذبابة القرن الضخم
+Sinister Cloth,禍々しい布,Étoffe sinistre,Tessuto malevolo,Finsteres Tuch,,Sudário Sinistro,Złowieszcza tkanina,Жуткая ткань,불길한 천,災禍之布,القماش الشرير
+Monster Bone S,竜骨【小】,Os de wyverne (P),Osso di mostro piccolo,Monsterknochen S,,Osso de Monstro P,Kość potwora M,Малая кость чудовища,용골【소】,龍骨【小】,عظْمة الوحش إس
+Monster Bone M,竜骨【中】,Os de wyverne (M),Osso di mostro medio,Monsterknochen M,,Osso de Monstro M,Kość potwora Ś,Средняя кость чудовища,용골【중】,龍骨【中】,عظْمة الوحش إم
+Monster Bone L,竜骨【大】,Os de wyverne (G),Osso di mostro grande,Monsterknochen L,,Osso de Monstro G,Kość potwora D,Большая кость чудовища,용골【대】,龍骨【大】,عظْمة الوحش إل
+Monster Bone+,上竜骨,Os de monstre,Osso di mostro+,Monsterknochen+,,Osso de Monstro+,Kość potwora+,Кость чудовища+,용골+,上龍骨,عظْمة الوحش+
+Monster Keenbone,尖竜骨,Os acéros,Osso di mostro affilato,Monster-Spitzknochen,,Incisivo de Monstro,Ostra kość potwora,Острая кость чудовища,첨룡골,尖龍骨,عظْمة الوحش الحادة
+Monster Hardbone,堅竜骨,Os duros,Osso di mostro granitico,Monster-Hartknochen,,Osso Duro de Monstro,Twarda kość potwora,Твердая кость чудовища,견룡골,堅龍骨,عظْمة الوحش الصلبة
+Elder Dragon Bone,古龍骨,Os dragon ancien,Osso di drago anziano,Drachenältester-Knochen,,Osso de Dragão Ancião,Kość Starszego Smoka,Кость древнего дракона,고룡골,古龍骨,عظْمة التنين المعمِّر
+Sharp Claw,とがった爪,Griffe acérée,Artiglio affilato,Scharfe Klaue,,Garra Afiada,Ostry pazur,Острый коготь,뾰족한 발톱,尖爪,المخلب الحاد
+Piercing Claw,鋭利な爪,Griffe perforante,Artiglio perforante,Stechklaue,,Garra Perfurante,Przebijający pazur,Пронзающий коготь,예리한 발톱,銳爪,المخلب المخترق
+Monster Fluid,モンスターの体液,Liquide de monstre,Fluido di mostro,Monsterfluid,,Fluido de Monstro,Płyn z potwora,Чудовищная жидкость,몬스터의 체액,魔物體液,سائل الوحش
+Monster Broth,モンスターの濃汁,Bouillon de monstre,Brodo di mostro,Monsterbrühe,,Caldo de Monstro,Wywar z potwora,Чудовищный бульон,몬스터의 농즙,魔物濃液,مرق الوحش
+Poison Sac,毒袋,Poche de poison,Sacca velenosa,Giftbeutel,,Glândula de Veneno,Worek z trucizną,Ядовитая железа,독주머니,毒袋,كيس السم
+Toxin Sac,猛毒袋,Poche de toxine,Sacca tossica,Toxinbeutel,,Glândula de Toxina,Worek z toksyną,Токсичная железа,맹독주머니,猛毒袋,كيس المادة السامة
+Paralysis Sac,麻痺袋,Poche de paralysie,Sacca paralizzante,Lähmbeutel,,Glândula de Paralisia,Worek paraliżujący,Парализующая железа,마비주머니,麻痺袋,كيس مادة الشلل
+Omniplegia Sac,強力麻痺袋,Poche d'omniplégie,Sacca inabilitante,Omniplegia-Beutel,,Glândula Omniplégica,Worek omniplegii,Всепоражающая железа,강력 마비주머니,強力麻痺袋,كيس الشلل المطلق
+Sleep Sac,睡眠袋,Poche de somnifère,Sacca soporifera,Schlafbeutel,,Glândula de Sono,Worek usypiający,Сонная железа,수면주머니,睡眠袋,كيس النُّعاس
+Coma Sac,昏睡袋,Poche de coma,Sacca comatosa,Komabeutel,,Glândula de Coma,Worek śpiączki,Коматозная железа,혼수주머니,昏睡袋,كيس الغيبوبة
+Flame Sac,火炎袋,Poche de flamme,Sacca fiammeggiante,Flammenbeutel,,Glândula de Chama,Worek płomienny,Пламенная железа,화염주머니,火炎袋,كيس اللهب
+Inferno Sac,爆炎袋,Poche infernale,Sacca infernale,Höllenbeutel,,Glândula Infernal,Worek piekielny,Адская железа,폭염주머니,爆炎袋,كيس الجحيم
+Aqua Sac,水袋,Poche d'eau,Sacca acquatica,Aqua-Beutel,,Glândula d'Água,Worek wodny,Водяная железа,물주머니,水袋,كيس الماء
+Torrent Sac,大水袋,Poche de torrent,Sacca torrente,Sturzflutbeutel,,Glândula Torrencial,Worek potokowy,Железа потока,큰물주머니,大水袋,كيس السيل
+Frost Sac,氷結袋,Poche de givre,Sacca siderale,Frostbeutel,,Glândula de Geada,Worek mroźny,Морозная железа,빙결주머니,冰結袋,الكيس المثلج
+Freezer Sac,凍結袋,Poche de glace,Sacca congelante,Frierbeutel,,Glândula Congelante,Worek mrożący,Ледяная железа,동결주머니,凍結袋,كيس التجميد
+Electro Sac,電気袋,Poche électrique,Sacca elettrica,Strombeutel,,Glândula de Raio,Worek elektryczny,Электрическая железа,전기주머니,電氣袋,الكيس الكهربي
+Thunder Sac,電撃袋,Poche de foudre,Sacca tonante,Donnerbeutel,,Glândula Trovejante,Worek piorunowy,Грозовая железа,전격주머니,電擊袋,كيس الرعد
+Bird Wyvern Gem,鳥竜玉,Gemme wyverne rapace,Gemma wyvern rapace,Vogelwyvern-Edelstein,,Gema de Serpássaro,Klejnot wiwerny ptasiej,Самоцвет пернатой виверны,조룡옥,鳥龍玉,جوهرة تنين مجنح شبيه بالطيور
+Wyvern Gem,竜玉,Gemme wyverne,Gemma wyvern,Wyvern-Edelstein,,Gema de Serpe,Klejnot wiwerny,Самоцвет виверны,용옥,龍玉,جوهرة التنين المجنح
+Elder Dragon Blood,古龍の血,Sang dragon ancien,Sangue di drago anziano,Drachenältester-Blut,,Sangue de Dragão Ancião,Krew Starszego Smoka,Кровь древнего дракона,고룡의 피,古龍之血,دم التنين المعمِر
+Mosswine Hide,モスの苔皮,Peau Mosswine,Mosswine: pelle,Mosswine-Mooshaut,,Couro de Musgoíno,Skóra Mchoświni,Шкура мохосвина,모스의 태피,菌豬苔皮,جلد خنزير الطحالب
+Warm Pelt,暖かい毛皮,Pelage chaud,Pelle calda,Warmer Pelz,,Pelica Morna,Ciepła skórka,Теплая шкура,따뜻한 모피,溫暖的毛皮,الفراء الدافئ
+High-quality Pelt,上質な毛皮,Pelage de qualité,Pelle lussuosa,Hochwertiger Pelz,,Pelica de Alta Qualidade,Skórka dobrej jakości,Качественная шкура,양질의 모피,良質毛皮,الفراء عالي الجودة
+Vespoid Shell,ランゴスタの甲殻,Carapace Vespoid,Vespoid: corazza,Vespoid-Panzer,,Casco de Vespoidea,Skorupa Vespoida,Шкура осоида,랑고스타의 갑각,巨蜂的甲殼,درع فيسبويد
+Vespoid Wing,ランゴスタの羽,Aile Vespoid,Vespoid: ala,Vespoid-Flügel,,Asa de Vespoidea,Skrzydło Vespoida,Крыло осоида,랑고스타의 날개,巨蜂的翅膀,جناح فيسبويد
+Vespoid Carapace,ランゴスタの堅殻,Cuirasse Vespoid,Vespoid: carapace,Vespoid-Rückenpanzer,,Carapaça de Vespoidea,Karapaks Vespoida,Панцирь осоида,랑고스타의 견갑각,巨蜂的堅殼,درقة فيسبويد
+Vespoid Innerwing,ランゴスタの薄羽,Aile fine Vespoid,Vespoid: ala interna,Vespoid-Innenflügel,,Asa Interna de Vespoidea,Wewnętrzne skrzydło Vespoida,Внутреннее крыло осоида,랑고스타의 얇은날개,巨蜂的薄羽,جناح فيسبويد الداخلي
+Hornetaur Shell,カンタロスの甲殻,Carapace Hornetaur,Hornetaur: corazza,Hornetaur-Panzer,,Casco de Chifrotauro,Skorupa Hornetaura,Шкура роготавра,칸타로스의 갑각,巨甲蟲的甲殼,درع هورنتور
+Hornetaur Wing,カンタロスの羽,Aile Hornetaur,Hornetaur: ala,Hornetaur-Flügel,,Asa de Chifrotauro,Skrzydło Hornetaura,Крыло роготавра,칸타로스의 날개,巨甲蟲的翅膀,جناح هورنتور
+Hornetaur Head,カンタロスの頭,Tête Hornetaur,Hornetaur: testa,Hornetaur-Kopf,,Cabeça de Chifrotauro,Głowa Hornetaura,Голова роготавра,칸타로스의 머리,巨甲蟲的頭,رأس هورنتور
+Hornetaur Carapace,カンタロスの堅殻,Cuirasse Hornetaur,Hornetaur: carapace,Hornetaur-Rückenpanzer,,Carapaça de Chifrotauro,Karapaks Hornetaura,Панцирь роготавра,칸타로스의 견갑각,巨甲蟲的堅殼,درقة هورنتور
+Hornetaur Innerwing,カンタロスの薄羽,Aile fine Hornetaur,Hornetaur: ala interna,Hornetaur-Innenflügel,,Asa Interna de Chifrotauro,Wewnętrzne skrzydło Hornetaura,Внутреннее крыло роготавра,칸타로스의 얇은날개,巨甲蟲的薄羽,جناح هورنتور الداخلي
+Gajau Skin,咬魚の皮,Peau Gajau,Gajau: pelle,Gajau-Haut,,Pele de Gajau,Skóra Gajau,Кожа гаджау,교어의 껍질,咬魚的皮,جلد غاجاو
+Gajau Whisker,咬魚のヒゲ,Moustache Gajau,Gajau: baffo,Gajau-Barthaar,,Bigodes de Gajau,Wąs Gajau,Усы гаджау,교어의 수염,咬魚的鬚,سوالف غاجاو
+Gajau Scale,咬魚の上皮,Écaille Gajau,Gajau: scaglia,Gajau-Schuppe,,Escama de Gajau,Łuska Gajau,Чешуя гаджау,교어의 껍질+,咬魚的上皮,قشرة غاجاو
+Grand Gajau Whisker,咬魚の大ヒゲ,Moustache Grand Gajau,Gran Gajau: baffo,Großes Gajau-Barthaar,,Bigodes de Gajau Grandioso,Wąs wielkiego Gajau,Большой ус гаджау,교어의 큰수염,咬魚的大鬚,سوالف غاجاو الكبير
+Wingdrake Hide,翼竜の皮,Peau drake ailé,Pterowyvern: pelle,Flugdrachen-Lederhaut,,Couro de Dracoalado,Skóra skrzydłosmoka,Шкура крылатого ящера,익룡의 가죽,翼龍的皮,جلد وينغدرايك
+Wingdrake Hide+,翼竜の上皮,Peau drake ailé +,Pterowyvern: pelle+,Flugdrachen-Lederhaut+,,Couro de Dracoalado+,Skóra skrzydłosmoka+,Шкура крылатого ящера+,익룡의 가죽+,翼龍的上皮,جلد وينغدرايك+
+Barnos Hide+,バルノスの上皮,Peau Barnos +,Barnos: pelle+,Barnos-Lederhaut+,,Couro de Barnos+,Skóra Barnosa+,Шкура барноса+,바르노스의 가죽+,酸翼龍的上皮,جلد بارنوس+
+Barnos Talon,バルノスの尖爪,Serre Barnos +,Barnos: sperone,Barnos-Kralle,,Garra de Barnos,Szpon Barnosa+,Коготь барноса,바르노스의 첨예발톱,酸翼龍的尖爪,برثن بارنوس
+Kestodon Shell,ケストドンの甲殻,Carapace Kestodon,Kestodon: corazza,Kestodon-Panzer,,Casco de Kestodonte,Skorupa Kestodona,Шкура кестодона,케스토돈의 갑각,冠突龍的甲殼,درع كيستودون
+Kestodon Scalp,ケストドンの頭殻,Scalp Kestodon,Kestodon: scalpo,Kestodon-Skalp,,Escalpo de Kestodonte,Skalp Kestodona,Скальп кестодона,케스토돈의 두갑각,冠突龍的頭殼,فروة رأس كيستودون
+Kestodon Carapace,ケストドンの堅殻,Cuirasse Kestodon,Kestodon: carapace,Kestodon-Rückenpanzer,,Carapaça de Kestodonte,Karapaks Kestodona,Панцирь кестодона,케스토돈의 견갑각,冠突龍的堅殼,درقة كيستودون
+Gastodon Carapace,ガストドンの堅殻,Cuirasse Gastodon,Gastodon: carapace,Gastodon-Rückenpanzer,,Carapaça de Gastodonte,Karapaks Gastodona,Панцирь гастодона,가스토돈의 견갑각,突擊龍的堅殼,درقة غاستودون
+Gastodon Horn,ガストドンの尖角,Corne Gastodon,Gastodon: corno,Gastodon-Horn,,Chifre de Gastodonte,Róg Gastodona,Рог гастодона,가스토돈의 첨예뿔,突擊龍的尖角,قرن غاستودون
+Jagras Scale,ジャグラスの鱗,Écaille Jagras,Jagras: scaglia,Jagras-Schuppe,,Escama de Jagras,Łuska Jagrasa,Чешуя яграса,쟈그라스의 비늘,凶豺龍的鱗,قشرة جاغراس
+Jagras Hide,ジャグラスの皮,Peau Jagras,Jagras: pelle,Jagras-Lederhaut,,Couro de Jagras,Skóra Jagrasa,Шкура яграса,쟈그라스의 가죽,凶豺龍的皮,جلد جاغراس
+Jagras Scale+,ジャグラスの上鱗,Écaille Jagras +,Jagras: scaglia+,Jagras-Schuppe+,,Escama de Jagras+,Łuska Jagrasa+,Чешуя яграса+,쟈그라스의 비늘+,凶豺龍的上鱗,قشرة جاغراس+
+Jagras Hide+,ジャグラスの上皮,Peau Jagras +,Jagras: pelle+,Jagras-Lederhaut+,,Couro de Jagras+,Skóra Jagrasa+,Шкура яграса+,쟈그라스의 가죽+,凶豺龍的上皮,جلد جاغراس+
+Shamos Scale,シャムオスの鱗,Écaille Shamos,Shamos: scaglia,Shamos-Schuppe,,Escama de Shamos,Łuska Shamosa,Чешуя шамоса,샤무오스의 비늘,貓蜥龍的鱗,قشرة شاموس
+Shamos Hide,シャムオスの皮,Peau Shamos,Shamos: pelle,Shamos-Lederhaut,,Couro de Shamos,Skóra Shamosa,Шкура шамоса,샤무오스의 가죽,貓蜥龍的皮,جلد شاموس
+Shamos Scale+,シャムオスの上鱗,Écaille Shamos +,Shamos: scaglia+,Shamos-Schuppe+,,Escama de Shamos+,Łuska Shamosa+,Чешуя шамоса+,샤무오스의 비늘+,貓蜥龍的上鱗,قشرة شاموس+
+Shamos Hide+,シャムオスの上皮,Peau Shamos +,Shamos: pelle+,Shamos-Lederhaut+,,Couro de Shamos+,Skóra Shamosa+,Шкура шамоса+,샤무오스의 가죽+,貓蜥龍的上皮,جلد شاموس+
+Girros Scale,ギルオスの鱗,Écaille Girros,Girros: scaglia,Girros-Schuppe,,Escama de Girros,Łuska Girrosa,Чешуя гирроса,기르오스의 비늘,凶顎龍的鱗,قشرة غيروس
+Girros Hide,ギルオスの皮,Peau Girros,Girros: pelle,Girros-Lederhaut,,Couro de Girros,Skóra Girrosa,Шкура гирроса,기르오스의 가죽,凶顎龍的皮,جلد غيروس
+Girros Fang,ギルオスの麻痺牙,Croc Girros,Girros: zanna,Girros-Reißzahn,,Presa de Girros,Kieł Girrosa,Клык гирроса,기르오스의 마비어금니,凶顎龍的麻痺牙,ناب غيروس
+Girros Scale+,ギルオスの上鱗,Écaille Girros +,Girros: scaglia+,Girros-Schuppe+,,Escama de Girros+,Łuska Girrosa+,Чешуя гирроса+,기르오스의 비늘+,凶顎龍的上鱗,قشرة غيروس+
+Girros Hide+,ギルオスの上皮,Peau Girros +,Girros: pelle+,Girros-Lederhaut+,,Couro de Girros+,Skóra Girrosa+,Шкура гирроса+,기르오스의 가죽+,凶顎龍的上皮,جلد غيروس+
+Great Jagras Scale,賊竜の鱗,Écaille Grand Jagras,Gran Jagras: scaglia,Groß-Jagras-Schuppe,,Escama de Grande Jagras,Łuska Wielkiego Jagrasa,Чешуя большого яграса,적룡의 비늘,大凶豺龍的鱗,قشرة جاغراس العظيم
+Great Jagras Hide,賊竜の皮,Peau Grand Jagras,Gran Jagras: pelle,Groß-Jagras-Lederhaut,,Couro de Grande Jagras,Skóra Wielkiego Jagrasa,Шкура большого яграса,적룡의 가죽,大凶豺龍的皮,جلد جاغراس العظيم
+Great Jagras Mane,賊竜のたてがみ,Crinière Grand Jagras,Gran Jagras: criniera,Groß-Jagras-Mähne,,Juba de Grande Jagras,Grzywa Wielkiego Jagrasa,Грива большого яграса,적룡의 갈기,大凶豺龍的鬃毛,عُرف جاغراس العظيم
+Great Jagras Claw,賊竜の爪,Griffe Grand Jagras,Gran Jagras: artiglio,Groß-Jagras-Klaue,,Garra de Grande Jagras,Pazur Wielkiego Jagrasa,Коготь большого яграса,적룡의 발톱,大凶豺龍的爪,مخلب جاغراس العظيم
+Great Jagras Scale+,賊竜の上鱗,Écaille Grand Jagras +,Gran Jagras: scaglia+,Groß-Jagras-Schuppe+,,Escama de Grande Jagras+,Łuska Wielkiego Jagrasa+,Чешуя большого яграса+,적룡의 비늘+,大凶豺龍的上鱗,قشرة جاغراس العظيم+
+Great Jagras Hide+,賊竜の上皮,Peau Grand Jagras +,Gran Jagras: pelle+,Groß-Jagras-Lederhaut+,,Couro de Grande Jagras+,Skóra Wielkiego Jagrasa+,Шкура большого яграса+,적룡의 가죽+,大凶豺龍的上皮,جلد جاغراس العظيم+
+Great Jagras Claw+,賊竜の尖爪,Griffe Grand Jagras +,Gran Jagras: artiglio+,Groß-Jagras-Klaue+,,Garra de Grande Jagras+,Pazur Wielkiego Jagrasa+,Коготь большого яграса+,적룡의 첨예발톱,大凶豺龍的尖爪,مخلب جاغراس العظيم+
+Kulu-Ya-Ku Scale,掻鳥の鱗,Écaille Kulu-Ya-Ku,Kulu-Ya-Ku: scaglia,Kulu-Ya-Ku-Schuppe,,Escama de Kulu-Ya-Ku,Łuska Kulu-Ya-Ku,Чешуя кулу-йа-ку,소조의 비늘,搔鳥的鱗,قشرة كولو-يا-كو
+Kulu-Ya-Ku Hide,掻鳥の皮,Peau Kulu-Ya-Ku,Kulu-Ya-Ku: pelle,Kulu-Ya-Ku-Lederhaut,,Couro de Kulu-Ya-Ku,Skóra Kulu-Ya-Ku,Шкура кулу-йа-ку,소조의 가죽,搔鳥的皮,جلد كولو-يا-كو
+Kulu-Ya-Ku Plume,掻鳥の飾り羽,Aigrette Kulu-Ya-Ku,Kulu-Ya-Ku: piuma,Kulu-Ya-Ku-Prachtfeder,,Plumagem de Kulu-Ya-Ku,Pióro Kulu-Ya-Ku,Хохолок кулу-йа-ку,소조의 장식깃털,搔鳥的飾羽,زفيف كولو-يا-كو
+Kulu-Ya-Ku Beak,掻鳥のクチバシ,Bec Kulu-Ya-Ku,Kulu-Ya-Ku: becco,Kulu-Ya-Ku-Schnabel,,Bico de Kulu-Ya-Ku,Dziób Kulu-Ya-Ku,Клюв кулу-йа-ку,소조의 부리,搔鳥的啄,منقار كولو-يا-كو
+Kulu-Ya-Ku Scale+,掻鳥の上鱗,Écaille Kulu-Ya-Ku +,Kulu-Ya-Ku: scaglia+,Kulu-Ya-Ku-Schuppe+,,Escama de Kulu-Ya-Ku+,Łuska Kulu-Ya-Ku+,Чешуя кулу-йа-ку+,소조의 비늘+,搔鳥的上鱗,قشرة كولو-يا-كو+
+Kulu-Ya-Ku Hide+,掻鳥の上皮,Peau Kulu-Ya-Ku +,Kulu-Ya-Ku: pelle+,Kulu-Ya-Ku-Lederhaut+,,Couro de Kulu-Ya-Ku+,Skóra Kulu-Ya-Ku+,Шкура кулу-йа-ку+,소조의 가죽+,搔鳥的上皮,جلد كولو-يا-كو+
+Kulu-Ya-Ku Plume+,掻鳥の大飾り羽,Aigrette Kulu-Ya-Ku +,Kulu-Ya-Ku: piuma+,Kulu-Ya-Ku-Prachtfeder+,,Plumagem de Kulu-Ya-Ku+,Pióro Kulu-Ya-Ku+,Хохолок кулу-йа-ку+,소조의 장식깃털+,搔鳥的大飾羽,زفيف كولو-يا-كو+
+Kulu-Ya-Ku Beak+,掻鳥の大クチバシ,Bec Kulu-Ya-Ku +,Kulu-Ya-Ku: becco+,Kulu-Ya-Ku-Schnabel+,,Bico de Kulu-Ya-Ku+,Dziób Kulu-Ya-Ku+,Клюв кулу-йа-ку+,소조의 부리+,搔鳥的大啄,منقار كولو-يا-كو+
+Pukei-Pukei Scale,毒妖鳥の鱗,Écaille Pukei-Pukei,Pukei-Pukei: scaglia,Pukei-Pukei-Schuppe,,Escama de Pukei-Pukei,Łuska Pukei-Pukei,Чешуя поки-поки,독요조의 비늘,毒妖鳥的鱗,قشرة بوكي-بوكي
+Pukei-Pukei Shell,毒妖鳥の甲殻,Carapace Pukei-Pukei,Pukei-Pukei: corazza,Pukei-Pukei-Panzer,,Casco de Pukei-Pukei,Skorupa Pukei-Pukei,Шкура поки-поки,독요조의 갑각,毒妖鳥的甲殼,درع بوكي-بوكي
+Pukei-Pukei Quill,毒妖鳥の羽根,Plume Pukei-Pukei,Pukei-Pukei: penna,Pukei-Pukei-Feder,,Pena de Pukei-Pukei,Pióro Pukei-Pukei,Перья поки-поки,독요조의 우근,毒妖鳥的羽毛,ريش بوكي-بوكي
+Pukei-Pukei Sac,毒妖鳥の喉袋,Poche Pukei-Pukei,Pukei-Pukei: sacca,Pukei-Pukei-Beutel,,Glândula de Pukei-Pukei,Worek Pukei-Pukei,Железа поки-поки,독요조의 후대,毒妖鳥的喉袋,كيس بوكي-بوكي
+Pukei-Pukei Tail,毒妖鳥の尻尾,Queue Pukei-Pukei,Pukei-Pukei: coda,Pukei-Pukei-Schwanz,,Cauda de Pukei-Pukei,Ogon Pukei-Pukei,Хвост поки-поки,독요조의 꼬리,毒妖鳥的尾巴,ذيل بوكي-بوكي
+Pukei-Pukei Scale+,毒妖鳥の上鱗,Écaille Pukei-Pukei +,Pukei-Pukei: scaglia+,Pukei-Pukei-Schuppe+,,Escama de Pukei-Pukei+,Łuska Pukei-Pukei+,Чешуя поки-поки+,독요조의 비늘+,毒妖鳥的上鱗,قشرة بوكي-بوكي+
+Pukei-Pukei Carapace,毒妖鳥の堅殻,Cuirasse Pukei-Pukei,Pukei-Pukei: carapace,Pukei-Pukei-Rückenpanzer,,Carapaça de Pukei-Pukei,Karapaks Pukei-Pukei,Панцирь поки-поки,독요조의 견갑각,毒妖鳥的堅殼,درقة بوكي-بوكي
+Pukei-Pukei Wing,毒妖鳥の翼,Aile Pukei-Pukei,Pukei-Pukei: ala,Pukei-Pukei-Flügel,,Asa de Pukei-Pukei,Skrzydło Pukei-Pukei,Крыло поки-поки,독요조의 날개,毒妖鳥之翼,جناح بوكي-بوكي
+Pukei-Pukei Sac+,毒妖鳥の大喉袋,Poche Pukei-Pukei +,Pukei-Pukei: sacca+,Pukei-Pukei-Beutel+,,Glândula de Pukei-Pukei+,Worek Pukei-Pukei+,Железа поки-поки+,독요조의 후대+,毒妖鳥的大喉袋,كيس بوكي-بوكي+
+Barroth Shell,土砂竜の甲殻,Cuirasse Barroth,Barroth: corazza,Barroth-Panzer,,Casco de Barroth,Skorupa Barrotha,Шкура баррота,토사룡의 갑각,土砂龍的甲殼,صدفة باروث
+Barroth Ridge,土砂竜の背甲,Vertèbre Barroth,Barroth: cresta,Barroth-Rückgrat,,Anca de Barroth,Grzbiet Barrotha,Хребет баррота,토사룡의 배갑,土砂龍的背甲,نتوء باروث
+Barroth Claw,土砂竜の爪,Griffe Barroth,Barroth: artiglio,Barroth-Klaue,,Garra de Barroth,Pazur Barrotha,Коготь баррота,토사룡의 발톱,土砂龍的爪,مخلب باروث
+Barroth Scalp,土砂竜の頭殻,Scalp Barroth,Barroth: scalpo,Barroth-Skalp,,Escalpo de Barroth,Skalp Barrotha,Скальп баррота,토사룡의 두갑각,土砂龍的頭殼,فروة رأس باروث
+Barroth Tail,土砂竜の尻尾,Queue Barroth,Barroth: coda,Barroth-Schwanz,,Cauda de Barroth,Ogon Barrotha,Хвост баррота,토사룡의 꼬리,土砂龍的尾巴,ذيل باروث
+Fertile Mud,肥沃なドロ,Boue fertile,Fango fertile,Fruchtbarer Schlamm,,Lama Fértil,Żyzne błoto,Плодородная грязь,비옥한 진흙,肥沃的泥,الطين الخصب
+Barroth Carapace,土砂竜の堅殻,Carapace Barroth,Barroth: carapace,Barroth-Rückenpanzer,,Carapaça de Barroth,Karapaks Barrotha,Панцирь баррота,토사룡의 견갑각,土砂龍的堅殼,درقة باروث
+Barroth Ridge+,土砂竜の堅甲,Thorax Barroth,Barroth: cresta+,Barroth-Thorax,,Anca de Barroth+,Grzbiet Barrotha+,Хребет баррота+,토사룡의 견갑,土砂龍的堅甲,نتوء باروث+
+Barroth Claw+,土砂竜の鋭爪,Griffe Barroth +,Barroth: artiglio+,Barroth-Klaue+,,Garra de Barroth+,Pazur Barrotha+,Коготь баррота+,토사룡의 발톱+,土砂龍的銳爪,مخلب باروث+
+Jyuratodus Scale,泥魚竜の鱗,Écaille Jyuratodus,Jyuratodus: scaglia,Jyuratodus-Schuppe,,Escama de Jyuratodus,Łuska Jyuratodusa,Чешуя юратода,이어룡의 비늘,泥魚龍的鱗,قشرة جيوراتودوس
+Jyuratodus Shell,泥魚竜の甲殻,Carapace Jyuratodus,Jyuratodus: corazza,Jyuratodus-Panzer,,Casco de Jyuratodus,Skorupa Jyuratodusa,Шкура юратода,이어룡의 갑각,泥魚龍的甲殼,درع جيوراتودوس
+Jyuratodus Fang,泥魚竜の牙,Croc Jyuratodus,Jyuratodus: zanna,Jyuratodus-Reißzahn,,Presa de Jyuratodus,Kieł Jyuratodusa,Клык юратода,이어룡의 어금니,泥魚龍的牙,ناب جيوراتودوس
+Jyuratodus Fin,泥魚竜のヒレ,Nageoire Jyuratodus,Jyuratodus: pinna,Jyuratodus-Flosse,,Barbatana de Jyuratodus,Płetwa Jyuratodusa,Плавник юратода,이어룡의 지느러미,泥魚龍的腰內肉,زعنفة جيوراتودوس
+Jyuratodus Scale+,泥魚竜の上鱗,Écaille Jyuratodus +,Jyuratodus: scaglia+,Jyuratodus-Schuppe+,,Escama de Jyuratodus+,Łuska Jyuratodusa+,Чешуя юратода+,이어룡의 비늘+,泥魚龍的上鱗,قشرة جيوراتودوس+
+Jyuratodus Carapace,泥魚竜の堅殻,Cuirasse Jyuratodus,Jyuratodus: carapace,Jyuratodus-Rückenpanzer,,Carapaça de Jyuratodus,Karapaks Jyuratodusa,Панцирь юратода,이어룡의 견갑각,泥魚龍的堅殼,درقة جيوراتودوس
+Jyuratodus Fang+,泥魚竜の鋭牙,Croc Jyuratodus +,Jyuratodus: zanna+,Jyuratodus-Reißzahn+,,Presa de Jyuratodus+,Kieł Jyuratodusa+,Клык юратода+,이어룡의 어금니+,泥魚龍的銳牙,ناب جيوراتودوس+
+Jyuratodus Fin+,泥魚竜の上ヒレ,Nageoire Jyuratodus +,Jyuratodus: pinna+,Jyuratodus-Flosse+,,Barbatana de Jyuratodus+,Płetwa Jyuratodusa+,Плавник юратода+,이어룡의 지느러미+,泥魚龍的上腰內肉,زعنفة جيوراتودوس+
+Tobi-Kadachi Scale,飛雷竜の鱗,Écaille Tobi-Kadachi,Tobi-Kadachi: scaglia,Tobi-Kadachi-Schuppe,,Escama de Tobi-Kadachi,Łuska Tobi-Kadachi,Чешуя тоби-кадачи,비뢰룡의 비늘,飛雷龍的鱗,قشرة توبي-كاداتشي
+Tobi-Kadachi Pelt,飛雷竜の毛皮,Pelage Tobi-Kadachi,Tobi-Kadachi: pelle,Tobi-Kadachi-Pelz,,Pelica de Tobi-Kadachi,Skórka Tobi-Kadachi,Шкура тоби-кадачи,비뢰룡의 모피,飛雷龍的毛皮,فراء توبي-كاداتشي
+Tobi-Kadachi Membrane,飛雷竜の皮膜,Membrane Tobi-Kadachi,Tobi-Kadachi: membrana,Tobi-Kadachi-Membran,,Membrana de Tobi-Kadachi,Błona Tobi-Kadachi,Мембрана тоби-кадачи,비뢰룡의 피막,飛雷龍的皮膜,غشاء توبي-كاداتشي
+Tobi-Kadachi Claw,飛雷竜の爪,Griffe Tobi-Kadachi,Tobi-Kadachi: artiglio,Tobi-Kadachi-Klaue,,Garra de Tobi-Kadachi,Pazur Tobi-Kadachi,Коготь тоби-кадачи,비뢰룡의 손톱,飛雷龍的爪,مخلب توبي-كاداتشي
+Tobi-Kadachi Electrode,飛雷竜の電極針,Électrode Tobi-Kadachi,Tobi-Kadachi: elettrodo,Tobi-Kadachi-Elektrode,,Eletrodo de Tobi-Kadachi,Elektroda Tobi-Kadachi,Электрод тоби-кадачи,비뢰룡의 전극침,飛雷龍的電極針,إلكترود توبي-كاداتشي
+Tobi-Kadachi Scale+,飛雷竜の上鱗,Écaille Tobi-Kadachi +,Tobi-Kadachi: scaglia+,Tobi-Kadachi-Schuppe+,,Escama de Tobi-Kadachi+,Łuska Tobi-Kadachi+,Чешуя тоби-кадачи+,비뢰룡의 비늘+,飛雷龍的上鱗,قشرة توبي-كاداتشي+
+Tobi-Kadachi Pelt+,飛雷竜の上毛皮,Pelage Tobi-Kadachi +,Tobi-Kadachi: pelle+,Tobi-Kadachi-Pelz+,,Pelica de Tobi-Kadachi+,Skórka Tobi-Kadachi+,Шкура тоби-кадачи+,비뢰룡의 모피+,飛雷龍的上毛皮,فراء توبي-كاداتشي+
+Tobi-Kadachi Claw+,飛雷竜の尖爪,Griffe Tobi-Kadachi +,Tobi-Kadachi: artiglio+,Tobi-Kadachi-Klaue+,,Garra de Tobi-Kadachi+,Pazur Tobi-Kadachi+,Коготь тоби-кадачи+,비뢰룡의 첨예발톱,飛雷龍的尖爪,مخلب توبي-كاداتشي+
+Tobi-Kadachi Electrode+,飛雷竜の雷極針,Électrode Tobi-Kadachi +,Tobi-Kadachi: elettrodo+,Tobi-Kadachi-Elektrode+,,Eletrodo de Tobi-Kadachi+,Elektroda Tobi-Kadachi+,Электрод тоби-кадачи+,비뢰룡의 전극침+,飛雷龍的雷極針,إلكترود توبي-كاداتشي+
+Anjanath Scale,蛮顎竜の鱗,Écaille Anjanath,Anjanath: scaglia,Anjanath-Schuppe,,Escama de Anjanath,Łuska Anjanatha,Чешуя аньяната,만악룡의 비늘,蠻顎龍的鱗,قشرة أنجاناث
+Anjanath Pelt,蛮顎竜の毛皮,Pelage Anjanath,Anjanath: pelle,Anjanath-Pelz,,Pelica de Anjanath,Skórka Anjanatha,Шкура аньяната,만악룡의 모피,蠻顎龍的毛皮,فراء أنجاناث
+Anjanath Fang,蛮顎竜の牙,Croc Anjanath,Anjanath: zanna,Anjanath-Reißzahn,,Presa de Anjanath,Kieł Anjanatha,Клык аньяната,만악룡의 어금니,蠻顎龍的牙,ناب أنجاناث
+Anjanath Nosebone,蛮顎竜の鼻骨,Os nasal Anjanath,Anjanath: osso nasale,Anjanath-Nasenbein,,Focinhosso de Anjanath,Kość nosowa Anjanatha,Переносица аньяната,만악룡의 코뼈,蠻顎龍的鼻骨,عظْمة أنف أنجاناث
+Anjanath Tail,蛮顎竜の尻尾,Queue Anjanath,Anjanath: coda,Anjanath-Schwanz,,Cauda de Anjanath,Ogon Anjanatha,Хвост аньяната,만악룡의 꼬리,蠻顎龍的尾巴,ذيل أنجاناث
+Anjanath Plate,蛮顎竜の逆鱗,Plaque Anjanath,Anjanath: piastra,Anjanath-Platte,,Placa de Anjanath,Płytka Anjanatha,Пластина аньяната,만악룡의 역린,蠻顎龍的逆鱗,لوحة أنجاناث
+Anjanath Scale+,蛮顎竜の上鱗,Écaille Anjanath +,Anjanath: scaglia+,Anjanath-Schuppe+,,Escama de Anjanath+,Łuska Anjanatha+,Чешуя аньяната+,만악룡의 비늘+,蠻顎龍的上鱗,قشرة أنجاناث+
+Anjanath Pelt+,蛮顎竜の上毛皮,Pelage Anjanath +,Anjanath: pelle+,Anjanath-Pelz+,,Pelica de Anjanath+,Skórka Anjanatha+,Шкура аньяната+,만악룡의 가죽+,蠻顎龍的上毛皮,فراء أنجاناث+
+Anjanath Fang+,蛮顎竜の鋭牙,Croc Anjanath +,Anjanath: zanna+,Anjanath-Reißzahn+,,Presa de Anjanath+,Kieł Anjanatha+,Клык аньяната+,만악룡의 어금니+,蠻顎龍的銳牙,ناب أنجاناث+
+Anjanath Nosebone+,蛮顎竜の大鼻骨,Os nasal Anjanath +,Anjanath: osso nasale+,Anjanath-Nasenbein+,,Focinhosso de Anjanath+,Kość nosowa Anjanatha+,Переносица аньяната+,만악룡의 코뼈+,蠻顎龍的大鼻骨,عظْمة أنف أنجاناث+
+Anjanath Gem,蛮顎竜の宝玉,Gemme Anjanath,Anjanath: gemma,Anjanath-Edelstein,,Gema de Anjanath,Klejnot Anjanatha,Самоцвет аньяната,만악룡의 보옥,蠻顎龍的寶玉,جوهرة أنجاناث
+Rathian Scale,雌火竜の鱗,Écaille Rathian,Rathian: scaglia,Rathian-Schuppe,,Escama de Rathian,Łuska Rathiany,Чешуя ратианы,자화룡의 비늘,雌火龍的鱗,قشرة راثيان
+Rathian Shell,雌火竜の甲殻,Carapace Rathian,Rathian: corazza,Rathian-Panzer,,Casco de Rathian,Skorupa Rathiany,Шкура ратианы,자화룡의 갑각,雌火龍的甲殼,درع راثيان
+Rathian Webbing,雌火竜の翼膜,Palmure Rathian,Rathian: membrana,Rathian-Gewebe,,Membrana de Rathian,Błona pławna Rathiany,Перепонки ратианы,자화룡의 익막,雌火龍的翼膜,نسيج راثيان
+Rathian Spike,雌火竜の棘,Pointe Rathian,Rathian: punta,Rathian-Stachel,,Cravo de Rathian,Kolec Rathiany,Шип ратианы,자화룡의 가시,雌火龍的棘,شوك راثيان
+Rathian Plate,雌火竜の逆鱗,Plaque Rathian,Rathian: piastra,Rathian-Platte,,Placa de Rathian,Płytka Rathiany,Пластина ратианы,자화룡의 역린,雌火龍的逆鱗,لوحة راثيان
+Rathian Scale+,雌火竜の上鱗,Écaille Rathian +,Rathian: scaglia+,Rathian-Schuppe+,,Escama de Rathian+,Łuska Rathiany+,Чешуя ратианы+,자화룡의 비늘+,雌火龍的上鱗,قشرة راثيان+
+Rathian Carapace,雌火竜の堅殻,Cuirasse Rathian,Rathian: carapace,Rathian-Rückenpanzer,,Carapaça de Rathian,Karapaks Rathiany,Панцирь ратианы,자화룡의 견갑각,雌火龍的堅殼,درقة راثيان
+Rathian Spike+,雌火竜の上棘,Pointe Rathian +,Rathian: punta+,Rathian-Stachel+,,Cravo de Rathian+,Kolec Rathiany+,Шип ратианы+,자화룡의 가시+,雌火龍的上棘,شوك راثيان+
+Rathian Ruby,雌火竜の紅玉,Rubis Rathian,Rathian: rubino,Rathian-Rubin,,Rubi de Rathian,Rubin Rathiany,Рубин ратианы,자화룡의 홍옥,雌火龍的紅玉,ياقوت راثيان
+Pink Rathian Scale+,桜火竜の上鱗,Écaille Rathian sakura +,Rathian rosa: scaglia+,Rosa-Rathian-Schuppe+,,Escama de Rathian Rosa+,Łuska Różowej Rathiany+,Чешуя розовой ратианы+,홍화룡의 비늘+,櫻火龍的上鱗,قشرة راثيان الوردية+
+Pink Rathian Carapace,桜火竜の堅殻,Cuirasse Rathian sakura,Rathian rosa: carapace,Rosa-Rathian-Rückenpanzer,,Carapaça de Rathian Rosa,Karapaks Różowej Rathiany,Панцирь розовой ратианы,홍화룡의 견갑각,櫻火龍的堅殼,درقة راثيان الوردية
+Tzitzi-Ya-Ku Scale,眩鳥の鱗,Écaille Tzitzi-Ya-Ku,Tzitzi-Ya-Ku: scaglia,Tzitzi-Ya-Ku-Schuppe,,Escama de Tzitzi-Ya-Ku,Łuska Tzitzi-Ya-Ku,Чешуя цици-йа-ку,현조의 비늘,眩鳥的鱗,قشرة تسيتسي
+Tzitzi-Ya-Ku Hide,眩鳥の皮,Peau Tzitzi-Ya-Ku,Tzitzi-Ya-Ku: pelle,Tzitzi-Ya-Ku-Lederhaut,,Couro de Tzitzi-Ya-Ku,Skóra Tzitzi-Ya-Ku,Шкура цици-йа-ку,현조의 가죽,眩鳥的皮,جلد تسيتسي
+Tzitzi-Ya-Ku Claw,眩鳥の爪,Griffe Tzitzi-Ya-Ku,Tzitzi-Ya-Ku: artiglio,Tzitzi-Ya-Ku-Klaue,,Garra de Tzitzi-Ya-Ku,Pazur Tzitzi-Ya-Ku,Коготь цици-йа-ку,현조의 발톱,眩鳥的爪,مخلب تسيتسي
+Tzitzi-Ya-Ku Photophore,眩鳥の発光膜,Photophore Tzitzi-Ya-Ku,Tzitzi-Ya-Ku: fotoforo,Tzitzi-Ya-Ku-Leuchtorgan,,Fotóforo de Tzitzi-Ya-Ku,Fotofor Tzitzi-Ya-Ku,Фотофора цици-йа-ку,현조의 발광막,眩鳥的發光膜,أعضاء تسيتسي المضيئة
+Tzitzi-Ya-Ku Scale+,眩鳥の上鱗,Écaille Tzitzi-Ya-Ku +,Tzitzi-Ya-Ku: scaglia+,Tzitzi-Ya-Ku-Schuppe+,,Escama de Tzitzi-Ya-Ku+,Łuska Tzitzi-Ya-Ku+,Чешуя цици-йа-ку+,현조의 비늘+,眩鳥的上鱗,قشرة تسيتسي+
+Tzitzi-Ya-Ku Hide+,眩鳥の上皮,Peau Tzitzi-Ya-Ku +,Tzitzi-Ya-Ku: pelle+,Tzitzi-Ya-Ku-Lederhaut+,,Couro de Tzitzi-Ya-Ku+,Skóra Tzitzi-Ya-Ku+,Шкура цици-йа-ку+,현조의 가죽+,眩鳥的上皮,جلد تسيتسي+
+Tzitzi-Ya-Ku Claw+,眩鳥の尖爪,Griffe Tzitzi-Ya-Ku +,Tzitzi-Ya-Ku: artiglio+,Tzitzi-Ya-Ku-Klaue+,,Garra de Tzitzi-Ya-Ku+,Pazur Tzitzi-Ya-Ku+,Коготь цици-йа-ку+,현조의 첨예발톱,眩鳥的尖爪,مخلب تسيتسي+
+Tzitzi-Ya-Ku Photophore+,眩鳥の閃光膜,Photophore Tzitzi-Ya-Ku +,Tzitzi-Ya-Ku: fotoforo+,Tzitzi-Ya-Ku-Leuchtorgan+,,Fotóforo de Tzitzi-Ya-Ku+,Fotofor Tzitzi-Ya-Ku+,Фотофора цици-йа-ку+,현조의 섬광막,眩鳥的閃光膜,أعضاء تسيتسي المضيئة+
+Paolumu Pelt,浮空竜の毛皮,Pelage Paolumu,Paolumu: pelle,Paolumu-Pelz,,Pelica de Paolumu,Skórka Paolumu,Шкура паолуму,부공룡의 모피,浮空龍的毛皮,فراء باولومو
+Paolumu Scale,浮空竜の鱗,Écaille Paolumu,Paolumu: scaglia,Paolumu-Schuppe,,Escama de Paolumu,Łuska Paolumu,Чешуя паолуму,부공룡의 비늘,浮空龍的鱗,قشرة باولومو
+Paolumu Shell,ゴム質の甲殻,Carapace Paolumu,Paolumu: corazza,Paolumu-Panzer,,Casco de Paolumu,Skorupa Paolumu,Шкура паолуму,고무질의 갑각,膠質甲殼,درع باولومو
+Paolumu Webbing,浮空竜の翼膜,Palmure Paolumu,Paolumu: membrana,Paolumu-Gewebe,,Membrana de Paolumu,Błona pławna Paolumu,Перепонки паолуму,부공룡의 익막,浮空龍的翼膜,نسيج باولومو
+Paolumu Pelt+,浮空竜の上毛皮,Pelage Paolumu +,Paolumu: pelle+,Paolumu-Pelz+,,Pelica de Paolumu+,Skórka Paolumu+,Шкура паолуму+,부공룡의 모피+,浮空龍的上毛皮,فراء باولومو+
+Paolumu Scale+,浮空竜の上鱗,Écaille Paolumu +,Paolumu: scaglia+,Paolumu-Schuppe+,,Escama de Paolumu+,Łuska Paolumu+,Чешуя паолуму+,부공룡의 비늘+,浮空龍的上鱗,قشرة باولومو+
+Paolumu Carapace+,ゴム質の堅殻,Cuirasse Paolumu +,Paolumu: carapace+,Paolumu-Rückenpanzer+,,Carapaça de Paolumu+,Karapaks Paolumu+,Панцирь паолуму+,고무질의 견갑각,膠質堅殼,درقة باولومو+
+Paolumu Wing,浮空竜の翼,Aile Paolumu,Paolumu: ala,Paolumu-Flügel,,Asa de Paolumu,Skrzydło Paolumu,Крыло паолуму,부공룡의 날개,浮空龍之翼,جناح باولومو
+Great Girros Scale,痺賊竜の鱗,Écaille Grand Girros,Gran Girros: scaglia,Groß-Girros-Schuppe,,Escama de Grande Girros,Łuska Wielkiego Girrosa,Чешуя большого гирроса,비적룡의 비늘,大凶顎龍的鱗,قشرة غيروس العظيم
+Great Girros Hide,痺賊竜の皮,Peau Grand Girros,Gran Girros: pelle,Groß-Girros-Lederhaut,,Couro de Grande Girros,Skóra Wielkiego Girrosa,Шкура большого гирроса,비적룡의 가죽,大凶顎龍的皮,جلد غيروس العظيم
+Great Girros Hood,痺賊竜の頭巾殻,Capuchon Grand Girros,Gran Girros: cappuccio,Groß-Girros-Haube,,Capelo de Grande Girros,Kaptur Wielkiego Girrosa,Капюшон большого гирроса,비적룡의 두건각,大凶顎龍的頭巾殼,قلنسوة غيروس العظيم
+Great Girros Fang,痺賊竜の牙,Croc Grand Girros,Gran Girros: zanna,Groß-Girros-Reißzahn,,Presa de Grande Girros,Kieł Wielkiego Girrosa,Клык большого гирроса,비적룡의 어금니,大凶顎龍的牙,ناب غيروس العظيم
+Great Girros Tail,痺賊竜の尻尾,Queue Grand Girros,Gran Girros: coda,Groß-Girros-Schwanz,,Cauda de Grande Girros,Ogon Wielkiego Girrosa,Хвост большого гирроса,비적룡의 꼬리,大凶顎龍的尾巴,ذيل غيروس العظيم
+Great Girros Scale+,痺賊竜の上鱗,Écaille Grand Girros +,Gran Girros: scaglia+,Groß-Girros-Schuppe+,,Escama de Grande Girros+,Łuska Wielkiego Girrosa+,Чешуя большого гирроса+,비적룡의 비늘+,大凶顎龍的上鱗,قشرة غيروس العظيم+
+Great Girros Hide+,痺賊竜の上皮,Peau Grand Girros +,Gran Girros: pelle+,Groß-Girros-Lederhaut+,,Couro de Grande Girros+,Skóra Wielkiego Girrosa+,Шкура большого гирроса+,비적룡의 가죽+,大凶顎龍的上皮,جلد غيروس العظيم+
+Great Girros Hood+,痺賊竜の大頭巾,Capuchon Grand Girros +,Gran Girros: cappuccio+,Groß-Girros-Haube+,,Capelo de Grande Girros+,Kaptur Wielkiego Girrosa+,Капюшон большого гирроса+,비적룡의 두건각+,大凶顎龍的大頭巾,قلنسوة غيروس العظيم+
+Great Girros Fang+,痺賊竜の鋭牙,Croc Grand Girros +,Gran Girros: zanna+,Groß-Girros-Reißzahn+,,Presa de Grande Girros+,Kieł Wielkiego Girrosa+,Клык большого гирроса+,비적룡의 어금니+,大凶顎龍的銳牙,ناب غيروس العظيم+
+Radobaan Scale,骨鎚竜の鱗,Écaille Radobaan,Radobaan: scaglia,Radobaan-Schuppe,,Escama de Radobaan,Łuska Radobaana,Чешуя радобаана,골추룡의 비늘,骨鎚龍的鱗,قشرة رادوبان
+Radobaan Shell,骨鎚竜の甲殻,Carapace Radobaan,Radobaan: corazza,Radobaan-Panzer,,Casco de Radobaan,Skorupa Radobaana,Шкура радобаана,골추룡의 갑각,骨鎚龍的甲殼,صدفة رادوبان
+Radobaan Oilshell,骨鎚竜の黒油殻,Carapace huileuse Radobaan,Radobaan: corazza oleosa,Radobaan-Ölpanzer,,Cascóleo de Radobaan,Skorupa olejowa Radobaana,Маслянистая шкура радобаана,골추룡의 흑유각,骨鎚龍的黑油殼,درع رادوبان الخارجي
+Wyvern Bonemass,竜骨塊,Masse osseuse Wyverne,Massa ossea wyvern,Wyvern-Knochenmasse,,Massosso de Serpe,Masa kostna wiwerny,Кости виверны,용골 덩어리,龍骨塊,التالي، التنين ذو القرن...
+Radobaan Marrow,骨鎚竜の骨髄,Moelle Radobaan,Radobaan: midollo,Radobaan-Rückenmark,,Tutano de Radobaan,Szpik Radobaana,Костный мозг радобаана,골추룡의 골수,骨鎚龍的骨髓,نخاع رادوبان
+Radobaan Scale+,骨鎚竜の上鱗,Écaille Radobaan +,Radobaan: scaglia+,Radobaan-Schuppe+,,Escama de Radobaan+,Łuska Radobaana+,Чешуя радобаана+,골추룡의 비늘+,骨鎚龍的上鱗,قشرة رادوبان+
+Radobaan Carapace,骨鎚竜の堅殻,Cuirasse Radobaan,Radobaan: carapace,Radobaan-Rückenpanzer,,Carapaça de Radobaan,Karapaks Radobaana,Панцирь радобаана,골추룡의 견갑각,骨鎚龍的堅殼,درقة رادوبان
+Radobaan Medulla,骨鎚竜の延髄,Médulla Radobaan,Radobaan: bulbo,Radobaan-Medulla,,Medula de Radobaan,Rdzeniomózgowie Radobaana,Мозговой слой радобаана,골추룡의 연수,骨鎚龍的延髓,نخاع رادوبان
+Legiana Scale,風漂竜の鱗,Écaille Legiana,Legiana: scaglia,Legiana-Schuppe,,Escama de Legiana,Łuska Legiany,Чешуя легианы,풍표룡의 비늘,風漂龍的鱗,قشرة ليغيانا
+Legiana Hide,風漂竜の皮,Peau Legiana,Legiana: pelle,Legiana-Lederhaut,,Couro de Legiana,Skóra Legiany,Шкура легианы,풍표룡의 가죽,風漂龍的皮,جلد ليغيانا
+Legiana Claw,風漂竜の爪,Griffe Legiana,Legiana: artiglio,Legiana-Klaue,,Garra de Legiana,Pazur Legiany,Коготь легианы,풍표룡의 발톱,風漂龍的爪,مخلب ليغيانا
+Legiana Webbing,風漂竜の翼膜,Palmure Legiana,Legiana: membrana,Legiana-Gewebe,,Membrana de Legiana,Błona pławna Legiany,Перепонка легианы,풍표룡의 익막,風漂龍的翼膜,نسيج ليغيانا
+Legiana Tail Webbing,風漂竜の尾膜,Palmure de queue Legiana,Legiana: membrana caudale,Legiana-Schwanzgewebe,,Membrana de Cauda de Legiana,Błona ogonowa Legiany,Хвостовая перепонка легианы,풍표룡의 꼬리,風漂龍的尾膜,نسيج ذيل ليغيانا
+Legiana Plate,風漂竜の逆鱗,Plaque Legiana,Legiana: piastra,Legiana-Platte,,Placa de Legiana,Płytka Legiany,Пластина легианы,풍표룡의 역린,風漂龍的逆鱗,لوحة ليغيانا
+Legiana Scale+,風漂竜の上鱗,Écaille Legiana +,Legiana: scaglia+,Legiana-Schuppe+,,Escama de Legiana+,Łuska Legiany+,Чешуя легианы+,풍표룡의 비늘+,風漂龍的上鱗,قشرة ليغيانا+
+Legiana Hide+,風漂竜の上皮,Peau Legiana +,Legiana: pelle+,Legiana-Lederhaut+,,Couro de Legiana+,Skóra Legiany+,Шкура легианы+,풍표룡의 가죽+,風漂龍的上皮,جلد ليغيانا+
+Legiana Claw+,風漂竜の尖爪,Griffe Legiana +,Legiana: artiglio+,Legiana-Klaue+,,Garra de Legiana+,Pazur Legiany+,Коготь легианы+,풍표룡의 첨예발톱,風漂龍的尖爪,مخلب ليغيانا+
+Legiana Wing,風漂竜の翼,Aile Legiana,Legiana: ala,Legiana-Flügel,,Asa de Legiana,Skrzydło Legiany,Крыло легианы,풍표룡의 날개,風漂龍之翼,جناح ليغيانا
+Legiana Gem,風漂竜の宝玉,Gemme Legiana,Legiana: gemma,Legiana-Edelstein,,Gema de Legiana,Klejnot Legiany,Самоцвет легианы,풍표룡의 보옥,風漂龍的寶玉,جوهرة ليغيانا
+Odogaron Scale,惨爪竜の鱗,Écaille Odogaron,Odogaron: scaglia,Odogaron-Schuppe,,Escama de Odogaron,Łuska Odogarona,Чешуя одогарона,참조룡의 비늘,慘爪龍的鱗,قشرة أودوغارون
+Odogaron Sinew,惨爪竜の硬筋,Tendon Odogaron,Odogaron: tendine,Odogaron-Sehne,,Tendão de Odogaron,Ścięgno Odogarona,Сухожилие одогарона,참조룡의 경근,慘爪龍的硬筋,وتر أودوغارون
+Odogaron Claw,惨爪竜の爪,Griffe Odogaron,Odogaron: artiglio,Odogaron-Klaue,,Garra de Odogaron,Pazur Odogarona,Коготь одогарона,참조룡의 발톱,慘爪龍的爪,مخلب أودوغارون
+Odogaron Fang,惨爪竜の牙,Croc Odogaron,Odogaron: zanna,Odogaron-Reißzahn,,Presa de Odogaron,Kieł Odogarona,Клык одогарона,참조룡의 어금니,慘爪龍的牙,ناب أودوغارون
+Odogaron Tail,惨爪竜の尻尾,Queue Odogaron,Odogaron: coda,Odogaron-Schwanz,,Cauda de Odogaron,Ogon Odogarona,Хвост одогарона,참조룡의 꼬리,慘爪龍的尾巴,ذيل أودوغارون
+Odogaron Plate,惨爪竜の逆鱗,Plaque Odogaron,Odogaron: piastra,Odogaron-Platte,,Placa de Odogaron,Płytka Odogarona,Пластина одогарона,참조룡의 역린,慘爪龍的逆鱗,لوحة أودوغارون
+Odogaron Scale+,惨爪竜の上鱗,Écaille Odogaron +,Odogaron: scaglia+,Odogaron-Schuppe+,,Escama de Odogaron+,Łuska Odogarona+,Чешуя одогарона+,참조룡의 비늘+,慘爪龍的上鱗,قشرة أودوغارون+
+Odogaron Sinew+,惨爪竜の大硬筋,Tendon Odogaron +,Odogaron: tendine+,Odogaron-Sehne+,,Tendão de Odogaron+,Ścięgno Odogarona+,Сухожилие одогарона+,참조룡의 경근+,慘爪龍的大硬筋,وتر أودوغارون+
+Odogaron Claw+,惨爪竜の尖爪,Griffe Odogaron +,Odogaron: artiglio+,Odogaron-Klaue+,,Garra de Odogaron+,Pazur Odogarona+,Коготь одогарона+,참조룡의 첨예발톱,慘爪龍的尖爪,مخلب أودوغارون+
+Odogaron Fang+,惨爪竜の鋭牙,Croc Odogaron +,Odogaron: zanna+,Odogaron-Reißzahn+,,Presa de Odogaron+,Kieł Odogarona+,Клык одогарона+,참조룡의 어금니+,慘爪龍的銳牙,ناب أودوغارون+
+Odogaron Gem,惨爪竜の宝玉,Gemme Odogaron,Odogaron: gemma,Odogaron-Edelstein,,Gema de Odogaron,Klejnot Odogarona,Самоцвет одогарона,참조룡의 보옥,慘爪龍的寶玉,جوهرة أودوغارون
+Rathalos Scale,火竜の鱗,Écaille Rathalos,Rathalos: scaglia,Rathalos-Schuppe,,Escama de Rathalos,Łuska Rathalosa,Чешуя раталоса,화룡의 비늘,火龍的鱗,قشرة راذالوس
+Rathalos Shell,火竜の甲殻,Carapace Rathalos,Rathalos: corazza,Rathalos-Panzer,,Casco de Rathalos,Skorupa Rathalosa,Шкура раталоса,화룡의 갑각,火龍的甲殼,درع راذالوس
+Rathalos Webbing,火竜の翼膜,Palmure Rathalos,Rathalos: membrana,Rathalos-Gewebe,,Membrana de Rathalos,Błona pławna Rathalosa,Перепонка раталоса,화룡의 익막,火龍的翼膜,نسيج راذالوس
+Rathalos Tail,火竜の尻尾,Queue Rathalos,Rathalos: coda,Rathalos-Schwanz,,Cauda de Rathalos,Ogon Rathalosa,Хвост раталоса,화룡의 꼬리,火龍的尾巴,ذيل راذالوس
+Rath Wingtalon,火竜の翼爪,Serre Rathalos,Rath: sperone,Rath-Flügelkralle,,Garrasa de Rathalos,Szpon skrzydłowy Ratha,Крыльная шпора раталоса,화룡의 날개발톱,火龍的翼爪,برثن جناح راذ
+Rathalos Marrow,火竜の骨髄,Moelle Rathalos,Rathalos: midollo,Rathalos-Rückenmark,,Tutano de Rathalos,Szpik Rathalosa,Костный мозг раталоса,화룡의 골수,火龍的骨髓,نخاع راذالوس
+Rathalos Plate,火竜の逆鱗,Plaque Rathalos,Rathalos: piastra,Rathalos-Platte,,Placa de Rathalos,Płytka Rathalosa,Пластина раталоса,화룡의 역린,火龍的逆鱗,لوحة راذالوس
+Rathalos Scale+,火竜の上鱗,Écaille Rathalos +,Rathalos: scaglia+,Rathalos-Schuppe+,,Escama de Rathalos+,Łuska Rathalosa+,Чешуя раталоса+,화룡의 비늘+,火龍的上鱗,قشرة راذالوس+
+Rathalos Carapace,火竜の堅殻,Cuirasse Rathalos,Rathalos: carapace,Rathalos-Rückenpanzer,,Carapaça de Rathalos,Karapaks Rathalosa,Панцирь раталоса,화룡의 견갑각,火龍的堅殼,درقة راذالوس
+Rathalos Wing,火竜の翼,Aile Rathalos,Rathalos: ala,Rathalos-Flügel,,Asa de Rathalos,Skrzydło Rathalosa,Крыло раталоса,화룡의 날개,火龍之翼,جناح راذالوس
+Rathalos Medulla,火竜の延髄,Medulla Rathalos,Rathalos: bulbo,Rathalos-Medulla,,Medula de Rathalos,Rdzeniomózgowie Rathalosa,Мозговой слой раталоса,화룡의 연수,火龍的延髓,نخاع راذالوس
+Rathalos Ruby,火竜の紅玉,Rubis Rathalos,Rathalos: rubino,Rathalos-Rubin,,Rubi de Rathalos,Rubin Rathalosa,Рубин раталоса,화룡의 홍옥,火龍的紅玉,ياقوت راذالوس
+Azure Rathalos Scale+,蒼火竜の上鱗,Écaille Rathalos azur +,Rathalos azzurro: scaglia+,Azurner-Rathalos-Schuppe+,,Escama de Rathalos Lazúli+,Łuska Lazurowego Rathalosa+,Чешуя лазурного раталоса+,창화룡의 비늘+,蒼火龍的上鱗,قشرة راذالوس لازوردي+.
+Azure Rathalos Carapace,蒼火竜の堅殻,Cuirasse Rathalos azur,Rathalos azzurro: carapace,Azurner-Rathalos-Rückenpanzer,,Carapaça de Rathalos Lazúli,Karapaks Lazurowego Rathalosa,Панцирь лазурного раталоса,창화룡의 견갑각,蒼火龍的堅殼,درقة راذالوس لازوردي.
+Azure Rathalos Tail,蒼火竜の尻尾,Queue Rathalos azur,Rathalos azzurro: coda,Azurner-Rathalos-Schwanz,,Cauda de Rathalos Lazúli,Ogon Lazurowego Rathalosa,Хвост лазурного раталоса,창화룡의 꼬리,蒼火龍的尾巴,ذيل راذالوس لازوردي.
+Azure Rathalos Wing,蒼火竜の翼,Aile Rathalos azur,Rathalos azzurro: ala,Azurner-Rathalos-Flügel,,Asa de Rathalos Lazúli,Skrzydło Lazurowego Rathalosa,Крыло лазурного раталоса,창화룡의 날개,蒼火龍之翼,جناح راذالوس لازوردي
+Diablos Shell,角竜の甲殻,Carapace Diablos,Diablos: corazza,Diablos-Panzer,,Casco de Diablos,Skorupa Diablosa,Шкура диаблоса,각룡의 갑각,角龍的甲殼,صدفة ديابلوس
+Diablos Ridge,角竜の背甲,Vertèbre Diablos,Diablos: cresta,Diablos-Rückgrat,,Anca de Diablos,Grzbiet Diablosa,Хребет диаблоса,각룡의 배갑,角龍的背甲,نتوء ديابلوس
+Diablos Tailcase,角竜の尾甲,Chevron Diablos,Diablos: caudale,Diablos-Schwanzschutz,,Capacauda de Diablos,Pokrywa ogonowa Diablosa,Хвостовик диаблоса,각룡의 미갑,角龍的尾甲,ذيل ديابلوس
+Diablos Fang,角竜の牙,Croc Diablos,Diablos: zanna,Diablos-Reißzahn,,Presa de Diablos,Kieł Diablosa,Клык диаблоса,각룡의 어금니,角龍的牙,ناب ديابلوس
+Twisted Horn,ねじれた角,Corne tordue,Corno contorto,Gedrehtes Horn,,Chifre Torcido,Kręcony róg,Витой рог,비틀린뿔,彎曲的角,القرن المتشابك
+Diablos Marrow,角竜の骨髄,Moelle Diablos,Diablos: midollo,Diablos-Rückenmark,,Tutano de Diablos,Szpik Diablosa,Костный мозг диаблоса,각룡의 골수,角龍的骨髓,نخاع ديابلوس
+Diablos Carapace,角竜の堅殻,Cuirasse Diablos,Diablos: carapace,Diablos-Rückenpanzer,,Carapaça de Diablos,Karapaks Diablosa,Панцирь диаблоса,각룡의 견갑각,角龍的堅殼,درقة ديابلوس
+Diablos Ridge+,角竜の堅甲,Thorax Diablos,Diablos: cresta+,Diablos-Thorax,,Anca de Diablos+,Grzbiet Diablosa+,Хребет диаблоса+,각룡의 견갑,角龍的堅甲,نتوء ديابلوس+
+Majestic Horn,上質なねじれた角,Corne majestueuse,Corno maestoso,Erhabenes Horn,,Chifre Majestoso,Majestatyczny róg,Величественный рог,양질의 비틀린뿔,優質的彎曲角,القرن المهيب
+Blos Medulla,角竜の延髄,Medulla à épines,Bulbo spinoso,Diablos-Medulla,,Medula de Diablos,Rdzeniomózgowie Diablosa,Мозговой слой диаблоса,각룡의 연수,角龍的延髓,النخاع الذيلي
+Black Diablos Carapace,黒角竜の堅殻,Cuirasse Diablos noire,Diablos nera: carapace,Schwarze-Diablos-Rückenpanzer,,Carapaça de Diablos Negra,Karapaks czarnego Diablosa,Панцирь черной диаблы,흑각룡의 견갑각,黑角龍的堅殼,درقة ديابلوس سوداء
+Black Diablos Ridge+,黒角竜の堅甲,Thorax Diablos noire,Diablos nera: cresta+,Schwarze-Diablos-Thorax,,Anca de Diablos Negra+,Grzbiet czarnego Diablosa+,Хребет черной диаблы+,흑각룡의 견갑,黑角龍的堅甲,نتوء ديابلوس أسود+
+Black Spiral Horn+,上質な黒巻き角,Corne spiralée noire +,Corno a spirale nero+,Schwarzes Spiralhorn+,,Chifre de Espiral Negra+,Czarny spiralny róg+,Черный спиральный рог+,양질의 검은회오리뿔,優質的黑卷角,القرن الملتف الأسود+
+Kirin Hide,幻獣の皮,Peau Kirin,Kirin: pelle,Kirin-Lederhaut,,Couro de Kirin,Skóra Kirina,Шкура кирина,환수의 가죽,麒麟皮,جلد كيرين
+Kirin Tail,幻獣の尾,Queue Kirin,Kirin: coda,Kirin-Schwanz,,Cauda de Kirin,Ogon Kirina,Хвост кирина,환수의 꼬리,麒麟的尾巴,ذيل كيرين
+Kirin Mane,幻獣のたてがみ,Crinière Kirin,Kirin: criniera,Kirin-Mähne,,Juba de Kirin,Grzywa Kirina,Грива кирина,환수의 갈기,麒麟的鬃毛,عُرف كيرين
+Kirin Thunderhorn,幻獣の雷角,Corne Kirin,Kirin: cornotuono,Kirin-Donnerhorn,,Chifretrovão de Kirin,Gromoróg Kirina,Грозовой рог кирина,환수의 뇌각,麒麟的雷角,قرن برق كيرين
+Kirin Hide+,幻獣の上皮,Peau Kirin +,Kirin: pelle+,Kirin-Lederhaut+,,Couro de Kirin+,Skóra Kirina+,Шкура кирина+,환수의 가죽+,麒麟的上皮,جلد كيرين+
+Kirin Thundertail,幻獣の雷尾,Queue de foudre Kirin,Kirin: codatuono,Kirin-Donnerschwanz,,Caudatrovão de Kirin,Gromoogon Kirina,Грозовой хвост кирина,환수의 뇌미,麒麟的雷尾,ذيل رعد كيرين
+Kirin Azure Horn,幻獣の蒼角,Corne azur Kirin,Kirin: corno azzurro,Azurnes Kirin-Horn,,Chifre de Kirin Lazúli,Lazurowy róg Kirina,Рог лазурного кирина,환수의 창각,麒麟的蒼角,قرن كيرين لازوردي
+Zorah Magdaros Heat Scale,熔山龍の熱鱗,Écaille calorifuge Zorah Magdaros,Zorah Magdaros: scaglia rovente,Zorah-Magdaros-Hitzeschuppe,,Escama Quente Zorah Magdaros,Łuska termiczna Zoraha,Горячая чешуя Дзоры Магдароса,용산룡의 열비늘,熔山龍的熱鱗,قشرة حرارة زوراه
+Zorah Magdaros Carapace,熔山龍の岩殻,Cuirasse Zorah Magdaros,Zorah Magdaros: carapace,Zorah-Magdaros-Rückenpanzer,,Carapaça de Zorah Magdaros,Karapaks Zoraha Magdarosa,Панцирь Дзоры Магдароса,용산룡의 암각,熔山龍的岩殼,درقة زوراه
+Zorah Magdaros Ridge,熔山龍の背甲,Vertèbre Zorah Magdaros,Zorah Magdaros: cresta,Zorah-Magdaros-Kamm,,Anca de Zorah Magdaros,Grzbiet Zoraha Magdarosa,Хребет Дзоры Магдароса,용산룡의 배갑,熔山龍的背甲,نتوء زوراه
+Zorah Magdaros Pleura,熔山龍の胸殻,Plexus Zorah Magdaros,Zorah Magdaros: pleura,Zorah-Magdaros-Pleura,,Pleura de Zorah Magdaros,Opłucna Zoraha Magdarosa,Плевра Дзоры Магдароса,용산룡의 흉각,熔山龍的胸殼,غشاء زوراه
+Zorah Magdaros Magma,熔山龍のマグマ,Magma Zorah Magdaros,Zorah Magdaros: magma,Zorah-Magdaros-Magma,,Magma de Zorah Magdaros,Magma Zoraha Magdarosa,Магма Дзоры Магдароса,용산룡의 마그마,熔山龍的岩漿,حمم زوراه
+Zorah Magdaros Gem,熔山龍の宝玉,Gemme Zorah Magdaros,Zorah Magdaros: gemma,Zorah-Magdaros-Edelstein,,Gema de Zorah Magdaros,Klejnot Zoraha Magdarosa,Самоцвет Дзоры Магдароса,용산룡의 보옥,熔山龍的寶玉,جوهرة زوراه ماغداروس
+Dodogama Scale+,岩賊竜の上鱗,Écaille Dodogama +,Dodogama: scaglia+,Dodogama-Schuppe+,,Escama de Dodogama+,Łuska Dodogamy+,Чешуя додогамы+,암적룡의 비늘+,岩賊龍的上鱗,قشرة دودوغما+
+Dodogama Hide+,岩賊竜の上皮,Peau Dodogama +,Dodogama: pelle+,Dodogama-Lederhaut+,,Couro de Dodogama+,Skóra Dodogamy+,Шкура додогамы+,암적룡의 가죽+,岩賊龍的上皮,جلد دودوغما+
+Dodogama Jaw,岩賊竜の顎,Mâchoire Dodogama,Dodogama: mandibola,Dodogama-Kiefer,,Mandíbula de Dodogama,Szczęka Dodogamy,Челюсть додогамы,암적룡의 턱,岩賊龍的顎,فك دودوغما
+Dodogama Talon,岩賊竜の尖爪,Serre Dodogama,Dodogama: sperone,Dodogama-Kralle,,Garra de Dodogama,Szpon Dodogamy,Коготь додогамы,암적룡의 첨예발톱,岩賊龍的尖爪,برثن دودوغما
+Dodogama Tail,岩賊竜の尻尾,Queue Dodogama,Dodogama: coda,Dodogama-Schwanz,,Cauda de Dodogama,Ogon Dodogamy,Хвост додогамы,암적룡의 꼬리,岩賊龍的尾巴,ذيل دودوغما
+Lavasioth Scale+,溶岩竜の上鱗,Écaille Lavasioth +,Lavasioth: scaglia+,Lavasioth-Schuppe+,,Escama de Lavasioth+,Łuska Lavasiotha+,Чешуя лавасиота+,용암룡의 비늘+,熔岩龍的上鱗,قشرة لافاسيوث+
+Lavasioth Carapace,溶岩竜の堅殻,Cuirasse Lavasioth,Lavasioth: carapace,Lavasioth-Rückenpanzer,,Carapaça de Lavasioth,Karapaks Lavasiotha,Панцирь лавасиота,용암룡의 견갑각,熔岩龍的堅殼,درقة لافاسيوث
+Lavasioth Fang+,溶岩竜の鋭牙,Croc Lavasioth +,Lavasioth: zanna+,Lavasioth-Reißzahn+,,Presa de Lavasioth+,Kieł Lavasiotha+,Клык лавасиота+,용암룡의 어금니+,熔岩龍的銳牙,ناب لافاسيوث+
+Lavasioth Fin+,溶岩竜の上ヒレ,Nageoire Lavasioth +,Lavasioth: pinna+,Lavasioth-Flosse+,,Barbatana de Lavasioth+,Płetwa Lavasiotha+,Плавник лавасиота+,용암룡의 지느러미+,熔岩龍的上腰內肉,زعنفة لافاسيوث+
+Uragaan Scale+,爆鎚竜の上鱗,Écaille Uragaan +,Uragaan: scaglia+,Uragaan-Schuppe+,,Escama de Uragaan+,Łuska Uragaana+,Чешуя урагаана+,폭추룡의 비늘+,爆鎚龍的上鱗,قشرة أوراغان+
+Uragaan Carapace,爆鎚竜の堅殻,Cuirasse Uragaan,Uragaan: carapace,Uragaan-Rückenpanzer,,Carapaça de Uragaan,Karapaks Uragaana,Панцирь урагаана,폭추룡의 견갑각,爆鎚龍的堅殼,درقة أوراغان
+Uragaan Jaw,爆鎚竜の顎,Mâchoire Uragaan,Uragaan: mandibola,Uragaan-Kiefer,,Mandíbula de Uragaan,Szczęka Uragaana,Челюсть урагаана,폭추룡의 턱,爆鎚龍的顎,فك أوراغان
+Uragaan Scute,爆鎚竜の耐熱殻,Scutum Uragaan,Uragaan: placca,Uragaan-Schild,,Grande Escama de Uragaan,Tarczka Uragaana,Щиток урагаана,폭추룡의 내열갑각,爆鎚龍的耐熱殼,ترس أوراغان المدبب
+Uragaan Marrow,爆鎚竜の延髄,Moelle Uragaan,Uragaan: midollo,Uragaan-Rückenmark,,Tutano de Uragaan,Szpik Uragaana,Костный мозг урагаана,폭추룡의 연수,爆鎚龍的延髓,نخاع أوراغان
+Uragaan Ruby,爆鎚竜の紅玉,Rubis Uragaan,Uragaan: rubino,Uragaan-Rubin,,Rubi de Uragaan,Rubin Uragaana,Рубин урагаана,폭추룡의 홍옥,爆鎚龍的紅玉,ياقوت أوراغان
+Lava Nugget,溶岩塊,Pépite de lave,Roccia lavica,Lavabrocken,,Pedaço de Lava,Bryłka lawy,Кусок лавы,용암 덩어리,熔岩塊,كتلة الحمم
+Bazelgeuse Scale+,爆鱗竜の上鱗,Écaille Bazelgeuse +,Bazelgeuse: scaglia+,Bazelgeuse-Schuppe+,,Escama de Bazelgeuse+,Łuska Bazelgeza+,Чешуя базельгейса+,폭린룡의 비늘+,爆鱗龍的上鱗,قشرة بازيلغيس+
+Bazelgeuse Carapace,爆鱗竜の堅殻,Cuirasse Bazelgeuse,Bazelgeuse: carapace,Bazelgeuse-Rückenpanzer,,Carapaça de Bazelgeuse,Karapaks Bazelgeza,Панцирь базельгейса,폭린룡의 견갑각,爆鱗龍的堅殼,درقة بازيلغيس
+Bazelgeuse Tail,爆鱗竜の尻尾,Queue Bazelgeuse,Bazelgeuse: coda,Bazelgeuse-Schwanz,,Cauda de Bazelgeuse,Ogon Bazelgeza,Хвост базельгейса,폭린룡의 꼬리,爆鱗龍的尾巴,ذيل بازيلغيس
+Bazelgeuse Fuse,爆鱗竜の爆腺,Mèche Bazelgeuse,Bazelgeuse: spoletta,Bazelgeuse-Lunte,,Estopim de Bazelgeuse,Lont Bazelgeza,Запал базельгейса,폭린룡의 폭선,爆鱗龍的爆腺,فتيل بازيلغيس
+Bazelgeuse Talon,爆鱗竜の尖爪,Serre Bazelgeuse,Bazelgeuse: sperone,Bazelgeuse-Kralle,,Garra de Bazelgeuse,Szpon Bazelgeza,Коготь базельгейса,폭린룡의 첨예발톱,爆鱗龍的尖爪,برثن بازيلغيس
+Bazelgeuse Wing,爆鱗竜の翼,Aile Bazelgeuse,Bazelgeuse: ala,Bazelgeuse-Flügel,,Asa de Bazelgeuse,Skrzydło Bazelgeza,Крыло базельгейса,폭린룡의 날개,爆鱗龍之翼,جناح بازيلغيس
+Bazelgeuse Gem,爆鱗竜の宝玉,Gemme Bazelgeuse,Bazelgeuse: gemma,Bazelgeuse-Edelstein,,Gema de Bazelgeuse,Klejnot Bazelgeza,Самоцвет базельгейса,폭린룡의 보옥,爆鱗龍的寶玉,جوهرة بازيلغيس
+Immortal Dragonscale,不滅の龍鱗,Écaille de dragon immortel,Scaglia immortale,Unsterbliche Drachenschuppe,,Escama de Dragão Imortal,Nieśmiertelna smocza łuska,Бессмертная драконья чешуя,불멸의 용비늘,不滅的龍鱗,قشرة تنين سرمدية
+Nergigante Carapace,滅尽龍の堅殻,Cuirasse Nergigante,Nergigante: carapace,Nergigante-Rückenpanzer,,Carapaça de Nergigante,Karapaks Nergiganta,Панцирь нергиганта,멸진룡의 견갑각,滅盡龍的堅殼,درقة نيرغي
+Nergigante Tail,滅尽龍の尻尾,Queue Nergigante,Nergigante: coda,Nergigante-Schwanz,,Cauda de Nergigante,Ogon Nergiganta,Хвост нергиганта,멸진룡의 꼬리,滅盡龍的尾巴,ذيل نيرغي
+Nergigante Horn+,滅尽龍の大角,Corne Nergigante +,Nergigante: corno+,Nergigante-Horn+,,Chifre de Nergigante+,Róg Nergiganta+,Рог нергиганта+,멸진룡의 뿔+,滅盡龍的大角,قرن نيرغي+
+Nergigante Talon,滅尽龍の尖爪,Serre Nergigante,Nergigante: sperone,Nergigante-Kralle,,Garra de Nergigante,Szpon Nergiganta,Коготь нергиганта,멸진룡의 첨예발톱,滅盡龍的尖爪,برثن نيرغي
+Nergigante Regrowth Plate,滅尽龍の再生殻,Plaque régénérante Nergigante,Nergigante: piastra rigenerata,Nergigante-Nachwachsplatte,,Placa Recrescimento Nergigante,Płytka odrostu Nergiganta,Вторичная пластина нергиганта,멸진룡의 재생각,滅盡龍的再生殼,لوحة إعادة نمو نيرغي
+Nergigante Gem,滅尽龍の宝玉,Gemme Nergigante,Nergigante: gemma,Nergigante-Edelstein,,Gema de Nergigante,Klejnot Nergiganta,Самоцвет нергиганта,멸진룡의 보옥,滅盡龍的寶玉,جوهرة نيرغي
+Deceased Scale,死屍の龍鱗,Écaille de dragon-zombie,Scaglia putrefatta,Verstorbene Schuppe,,Escama Falecida,Martwa łuska,Мертвая чешуя,사체의 용비늘,死屍的龍鱗,قشرة الميت
+Vaal Hazak Carapace,屍套龍の堅殻,Cuirasse Vaal Hazak,Vaal Hazak: carapace,Vaal-Hazak-Rückenpanzer,,Carapaça de Vaal Hazak,Karapaks Vaal Hazaka,Панцирь ваал-хазака,시투룡의 견갑각,屍套龍的堅殼,درقة فال هازاك
+Vaal Hazak Membrane,屍套龍の被膜,Membrane Vaal Hazak,Vaal Hazak: membrana,Vaal-Hazak-Membran,,Membrana de Vaal Hazak,Błona Vaal Hazaka,Мембрана ваал-хазака,시투룡의 피막,屍套龍的被膜,غشاء فال هازاك
+Vaal Hazak Tail,屍套龍の尻尾,Queue Vaal Hazak,Vaal Hazak: coda,Vaal-Hazak-Schwanz,,Cauda de Vaal Hazak,Ogon Vaal Hazaka,Хвост ваал-хазака,시투룡의 꼬리,屍套龍的尾巴,ذيل فال هازاك
+Vaal Hazak Fang+,屍套龍の鋭牙,Croc Vaal Hazak +,Vaal Hazak: zanna+,Vaal-Hazak-Reißzahn+,,Presa de Vaal Hazak+,Kieł Vaal Hazaka+,Клык ваал-хазака+,시투룡의 어금니+,屍套龍的銳牙,ناب فال هازاك+
+Vaal Hazak Talon,屍套龍の尖爪,Serre Vaal Hazak,Vaal Hazak: sperone,Vaal-Hazak-Kralle,,Garra de Vaal Hazak,Szpon Vaal Hazaka,Коготь ваал-хазака,시투룡의 첨예발톱,屍套龍的尖爪,برثن فال هازاك
+Vaal Hazak Wing,屍套龍の翼,Aile Vaal Hazak,Vaal Hazak: ala,Vaal-Hazak-Flügel,,Asa de Vaal Hazak,Skrzydło Vaal Hazaka,Крыло ваал-хазака,시투룡의 날개,屍套龍之翼,جناح فال هازاك
+Vaal Hazak Gem,屍套龍の宝玉,Gemme Vaal Hazak,Vaal Hazak: gemma,Vaal-Hazak-Edelstein,,Gema de Vaal Hazak,Klejnot Vaal Hazaka,Самоцвет ваал-хазака,시투룡의 보옥,屍套龍的寶玉,جوهرة فال هازاك
+Fire Dragon Scale+,獄炎の龍鱗,Écaille Teostra +,Teostra: scaglia+,Teostra-Schuppe+,,Escama de Dragão de Fogo+,Łuska ogniowego smoka+,Чешуя огненного дракона+,옥염의 용비늘,獄炎的龍鱗,قشرة تنين النار+
+Teostra Carapace,炎王龍の堅殻,Cuirasse Teostra,Teostra: carapace,Teostra-Rückenpanzer,,Carapaça de Teostra,Karapaks Teostry,Панцирь теостры,염왕룡의 견갑각,炎王龍的堅殼,درقة تيوسترا
+Teostra Mane,炎王龍のたてがみ,Crinière Teostra,Teostra: criniera,Teostra-Mähne,,Juba de Teostra,Grzywa Teostry,Грива теостры,염왕룡의 갈기,炎王龍的鬃毛,عُرف تيوسترا
+Teostra Tail,炎王龍の尻尾,Queue Teostra,Teostra: coda,Teostra-Schwanz,,Cauda de Teostra,Ogon Teostry,Хвост теостры,염왕룡의 꼬리,炎王龍的尾巴,ذيل تيوسترا
+Teostra Horn+,炎王龍の尖角,Corne Teostra +,Teostra: corno+,Teostra-Horn+,,Chifre de Teostra+,Róg Teostry+,Рог теостры+,염왕룡의 첨예뿔,炎王龍的尖角,قرن تيوسترا+
+Teostra Claw+,炎龍の尖爪,Griffe Teostra +,Teostra: artiglio+,Teostra-Klaue+,,Garra de Teostra+,Pazur Teostry+,Коготь теостры,염룡의 첨예발톱,炎龍的尖爪,مخلب تيوسترا+
+Teostra Webbing,炎龍の翼,Palmure Teostra,Teostra: membrana,Teostra-Gewebe,,Membrana de Teostra,Błona pławna Teostry,Перепонка теостры,염룡의 날개,炎龍之翼,نسيج تيوسترا
+Teostra Powder,炎龍の塵粉,Poudre Teostra,Teostra: polvere,Teostra-Pulver,,Pó de Teostra,Proszek Teostry,Порошок теостры,염룡의 가루,炎龍的塵粉,مسحوق تيوسترا
+Teostra Gem,炎龍の宝玉,Gemme Teostra,Teostra: gemma,Teostra-Edelstein,,Gema de Teostra,Klejnot Teostry,Самоцвет теостры,염룡의 보옥,炎龍的寶玉,جوهرة تيوسترا
+Daora Dragon Scale+,鋼の上龍鱗,Écaille Daora +,Daora: scaglia+,Daora-Drachenschuppe+,,Escama de Dragão de Daora+,Smocza łuska Daory+,Чешуя даоры+,강철의 용비늘+,鋼的上龍鱗,قشرة تنين داورا+
+Daora Carapace,鋼龍の堅殻,Cuirasse Daora,Daora: carapace,Daora-Rückenpanzer,,Carapaça de Daora,Karapaks Daory,Панцирь даоры,강룡의 견갑각,鋼龍的堅殼,درقة داورا
+Daora Webbing,鋼龍の翼,Palmure Daora,Daora: membrana,Daora-Gewebe,,Membrana de Daora,Błona pławna Daory,Перепонка даоры,강룡의 날개,鋼龍之翼,نسيج داورا
+Daora Horn+,鋼龍の尖角,Corne Daora +,Daora: corno+,Daora-Horn+,,Chifre de Daora+,Róg Daory+,Рог даоры+,강룡의 첨예뿔,鋼龍的尖角,قرن داورا+
+Daora Tail,鋼龍の尻尾,Queue Daora,Daora: coda,Daora-Schwanz,,Cauda de Daora,Ogon Daory,Хвост даоры,강룡의 꼬리,鋼龍的尾巴,ذيل داورا
+Daora Claw+,鋼龍の尖爪,Griffe Daora +,Daora: artiglio+,Daora-Klaue+,,Garra de Daora+,Pazur Daory+,Коготь даоры+,강룡의 첨예발톱,鋼龍的尖爪,مخلب داورا+
+Daora Gem,鋼龍の宝玉,Gemme Daora,Daora: gemma,Daora-Edelstein,,Gema de Daora,Klejnot Daory,Самоцвет даоры,강룡의 보옥,鋼龍的寶玉,جوهرة داورا
+Xeno'jiiva Soulscale,冥灯龍の幽鱗,Écaille d'âme Xeno'jiiva,Xeno'jiiva: scaglia anima,Xeno'jiiva-Seelenschuppe,,Escama D'Alma de Xeno'jiiva,Łuska duszy Xeno'jiiva,Чешуйка души ксено'джиивы,명등룡의 유린,冥燈龍的幽鱗,قشرة زينوجيفا
+Xeno'jiiva Shell,冥灯龍の白殻,Carapace Xeno'jiiva,Xeno'jiiva: corazza,Xeno'jiiva-Panzer,,Casco de Xeno'jiiva,Skorupa Xeno'jiiva,Панцирь ксено'джиивы,명등룡의 백각,冥燈龍的白殼,صدفة زينوجيفا
+Xeno'jiiva Veil,冥灯龍の幽幕,Voile Xeno'jiiva,Xeno'jiiva: velo,Xeno'jiiva-Schleier,,Véu de Xeno'jiiva,Woal Xeno'jiiva,Зоб ксено'джиивы,명등룡의 유막,冥燈龍的幽幕,حجاب زينوجيفا
+Xeno'jiiva Tail,冥灯龍の尻尾,Queue Xeno'jiiva,Xeno'jiiva: coda,Xeno'jiiva-Schwanz,,Cauda de Xeno'jiiva,Ogon Xeno'jiiva,Хвост ксено'джиивы,명등룡의 꼬리,冥燈龍的尾巴,ذيل زينوجيفا
+Xeno'jiiva Horn,冥灯龍の幽角,Corne Xeno'jiiva,Xeno'jiiva: corno,Xeno'jiiva-Horn,,Chifre de Xeno'jiiva,Róg Xeno'jiiva,Рог ксено'джиивы,명등룡의 유각,冥燈龍的幽角,قرن زينوجيفا
+Xeno'jiiva Claw,冥灯龍の幽爪,Griffe Xeno'jiiva,Xeno'jiiva: artiglio,Xeno'jiiva-Klaue,,Garra de Xeno'jiiva,Pazur Xeno'jiiva,Коготь ксено'джиивы,명등룡의 유조,冥燈龍的幽爪,مخلب زينوجيفا
+Xeno'jiiva Wing,冥灯龍の幽翼,Aile Xeno'jiiva,Xeno'jiiva: ala,Xeno'jiiva-Flügel,,Asa de Xeno'jiiva,Skrzydło Xeno'jiiva,Крыло ксено'джиивы,명등룡의 유익,冥燈龍的幽翼,جناح زينوجيفا
+Xeno'jiiva Gem,冥灯龍の幽玉,Gemme Xeno'jiiva,Xeno’jiiva: gemma,Xeno'jiiva-Edelstein,,Gema de Xeno'jiiva,Klejnot Xeno'jiiva,Самоцвет ксено'джиивы,명등룡의 유옥,冥燈龍的幽玉,جوهرة زينوجيفا
+Streamstone Shard,龍脈石のかけら,Éclat de pierre-dragon,Frammento di flussopietra,Stromsteinscherbe,,Estilhaço de Pedriacho,Okruch potokowca,Осколок поточного камня,용맥석의 조각,龍脈石碎片,شظية حجر تيار
+Streamstone,龍脈石,Pierre-dragon,Flussopietra,Stromstein,,Pedriacho,Potokowiec,Поточный камень,용맥석,龍脈石,حجر تيار
+Gleaming Streamstone,大龍脈石,Pierre-dragon scintillante,Flussopietra splendente,Schimmernder Stromstein,,Pedriacho Reluzente,Lśniący potokowiec,Мерцающий поточный камень,대용맥석,大龍脈石,حجر تيار لامع
+Warrior's Streamstone: Sword,猛者の龍脈石・剣,Pierre-dragon du guerrier - Épée,Flussopietra campione (spade),Krieger-Stromstein (Schwert),,Pedriacho do Guerreiro: Espada,Potokowiec wojownika: miecz,Поточный камень воина: меч,용자의 용맥석: 검,猛者龍脈石‧劍,حجر تيار 1: السيف
+Warrior's Streamstone: Blade,猛者の龍脈石・刃,Pierre-dragon du guerrier - Lame,Flussopietra campione (lame),Krieger-Stromstein (Klinge),,Pedriacho do Guerreiro: Lâmina,Potokowiec wojownika: ostrze,Поточный камень воина: клинок,용자의 용맥석: 인,猛者龍脈石‧刃,حجر تيار 2: النصل
+Warrior's Streamstone: Hammer,猛者の龍脈石・鎚,Pierre-dragon du guerrier - Marteau,Flussopietra campione (martelli),Krieger-Stromstein (Hammer),,Pedriacho do Guerr.: Martelo,Potokowiec wojownika: młot,Поточный камень воина: молот,용자의 용맥석: 추,猛者龍脈石‧鎚,حجر تيار 3: المطرقة
+Warrior's Streamstone: Lance,猛者の龍脈石・槍,Pierre-dragon du guerrier - Lance,Flussopietra campione (lance),Krieger-Stromstein (Lanze),,Pedriacho do Guerreiro: Lança,Potokowiec wojownika: lanca,Поточный камень воина: копье,용자의 용맥석: 창,猛者龍脈石‧槍,حجر تيار 4: الرمح
+Warrior's Streamstone: Axe,猛者の龍脈石・斧,Pierre-dragon du guerrier - Hache,Flussopietra campione (asce),Krieger-Stromstein (Axt),,Pedriacho do Guerr.: Machado,Potokowiec wojownika: topór,Поточный камень воина: топор,용자의 용맥석: 부,猛者龍脈石‧斧,حجر تيار 5: الفأس
+Warrior's Streamstone: Shaft,猛者の龍脈石・柄,Pierre-dragon du guerrier - Bâton,Flussopietra campione (aste),Krieger-Stromstein (Stab),,Pedriacho do Guerreiro: Haste,Potokowiec wojownika: drzewce,Поточный камень воина: древко,용자의 용맥석: 병,猛者龍脈石‧柄,حجر تيار 6: الرمح
+Warrior's Streamstone: Ranged,猛者の龍脈石・弩,Pierre-dragon du guerrier - Corde,Flussopietra campione (lunga distanza),Krieger-Stromstein (Distanz),,Pedriacho do Guerr.: Alcance,Potokowiec wojownika: dystans,Поточный камень воина: лук,용자의 용맥석: 노,猛者龍脈石‧弩,حجر تيار 7: المدى البعيد
+Hero's Streamstone: Sword,英雄の龍脈石・剣,Pierre-dragon du héros - Épée,Flussopietra eroe (spade),Helden-Stromstein (Schwert),,Pedriacho do Herói: Espada,Potokowiec bohatera: miecz,Поточный камень героя: меч,영웅의 용맥석: 검,英雄龍脈石‧劍,حجر تيار أ: السيف
+Hero's Streamstone: Blade,英雄の龍脈石・刃,Pierre-dragon du héros - Lame,Flussopietra eroe (lame),Helden-Stromstein (Klinge),,Pedriacho do Herói: Lâmina,Potokowiec bohatera: ostrze,Поточный камень героя: клинок,영웅의 용맥석: 도,英雄龍脈石‧刃,حجر تيار ب: النصل
+Hero's Streamstone: Hammer,英雄の龍脈石・鎚,Pierre-dragon du héros - Marteau,Flussopietra eroe (martelli),Helden-Stromstein (Hammer),,Pedriacho do Herói: Martelo,Potokowiec bohatera: młot,Поточный камень героя: молот,영웅의 용맥석: 추,英雄龍脈石‧鎚,حجر تيار ج: المطرقة
+Hero's Streamstone: Lance,英雄の龍脈石・槍,Pierre-dragon du héros - Lance,Flussopietra eroe (lance),Helden-Stromstein (Lanze),,Pedriacho do Herói: Lança,Potokowiec bohatera: lanca,Поточный камень героя: копье,영웅의 용맥석: 창,英雄龍脈石‧槍,حجر تيار د: الرمح
+Hero's Streamstone: Axe,英雄の龍脈石・斧,Pierre-dragon du héros - Hache,Flussopietra eroe (asce),Helden-Stromstein (Axt),,Pedriacho do Herói: Machado,Potokowiec bohatera: topór,Поточный камень героя: топор,영웅의 용맥석: 부,英雄龍脈石‧斧,حجر تيار هـ: الفأس
+Hero's Streamstone: Shaft,英雄の龍脈石・柄,Pierre-dragon du héros - Bâton,Flussopietra eroe (aste),Helden-Stromstein (Stab),,Pedriacho do Herói: Haste,Potokowiec bohatera: drzewce,Поточный камень героя: древко,영웅의 용맥석: 병,英雄龍脈石‧柄,حجر تيار و: الرمح
+Hero's Streamstone: Ranged,英雄の龍脈石・弩,Pierre-dragon du héros - Corde,Flussopietra eroe (lunga distanza),Helden-Stromstein (Distanz),,Pedriacho do Herói: Alcance,Potokowiec bohatera: dystans,Поточный камень героя: лук,영웅의 용맥석: 노,英雄龍脈石‧弩,حجر تيار ز: مدى بعيد
+Voucher,お食事券,Coupon,Buono pasto,Gutschein,,Vale,Talon,Талон,식사권,餐券,الإيصال
+First Wyverian Print,古代竜人の手形,Billet des Anciens Wyvériens,Stampa antico wyverniano,Erster-Wyverianer-Druck,,Marca do Primeiro Serperiano,Odcisk Pierwszych Wiwerian,Виверианский знак,고대용인의 증서,古代龍人的票據,بصمة أول بشري تنين
+Deluxe First Wyverian Print,古代竜人の手形Ｇ,Billet des Anciens Wyvériens EX,Stampa wyvern premium,Deluxe-Erster-Wyverianer-Druck,,Marca Prim. Serperiano Deluxe,Luksusowy odcisk Wiwerian,Особый виверианский знак,고대용인의 증서G,古代龍人的票據Ｇ,بصمة أول بشري تنين فاخرة
+Steel Wyverian Print,鋼の竜人手形,Billet wyvérien en acier,Stampa wyvern acciaio,Stählerner Wyverianer-Druck,,Marca Serperiano Aço,Stalowy odcisk wiwerian,Стальной виверианский знак,동 용인증서,鋼之龍人票據,بصمة أول بشري تنين صلبة
+Silver Wyverian Print,銀の竜人手形,Billet wyvérien en argent,Stampa wyvern argento,Silberner Wyverianer-Druck,,Marca Serperiano Prata,Srebrny odcisk wiwerian,Серебряный виверианский знак,은 용인증서,銀之龍人票據,بصمة أول بشري تنين فضية
+Gold Wyverian Print,金の竜人手形,Billet wyvérien en or,Stampa wyvern oro,Goldener Wyverianer-Druck,,Marca Serperiano Ouro,Złoty odcisk wiwerian,Золотой виверианский знак,금 용인증서,金之龍人票據,بصمة أول بشري تنين ذهبية
+Tailraider Voucher,オトモダチケット,Coupon Chasseur de miaonstres,Buono cacciaprede,Schnurrtrupp-Gutschein,,Recibo Atacauda,Talon ogonowca,Купон миньона,동료 티켓,隨從票,إيصال مغير الوحوش
+Gajalaka Sketch,奇面族スケッチ,Dessin Gajalaka,Scarabocchio Gajalaka,Gajalaka-Skizze,,Desenho de Gajalaka,Szkic Gajalaków,Рисунок гаялака,기면족 스케치,奇面族寫生,رسم غاجالاكا
+Commendation,勇気の証,Certificat du champion,Encomio,Belobigung,,Condecoração,Pochwała,Благодарность,용기의 증표,勇氣之證,توصية
+High Commendation,勇気の証Ｇ,Certificat du héros,Alto encomio,Große Belobigung,,Alta Condecoração,Wielka pochwała,Особая благодарность,용기의 증표G,勇氣之證Ｇ,توصية عالية
+Research Commission Ticket,調査団チケット,Ticket Commission de recherche,Buono commissione di ricerca,Forschungskommission-Ticket,,Bilhete Comissão de Pesquisa,Kwit Komisji Badawczej,Билет иссл. экспедиции,조사단 티켓,調查團票,تذكرة لجنة البحث
+Pukei Coin,プケプケコイン,Pièce Pukei,Moneta Pukei,Pukei-Münze,,Moeda Pukei,Moneta Pukei,Монета поки,푸케푸케코인,毒妖鳥硬幣,عملة بوكي
+Kulu Coin,クルルコイン,Pièce Kulu,Moneta Kulu,Kulu-Münze,,Moeda Kulu,Moneta Kulu,Монета кулу,쿠루루코인,搔鳥硬幣,عملة كولو
+Rathian Coin,レイアコイン,Pièce Rathian,Moneta Rathian,Rathian-Münze,,Moeda Rathian,Moneta Rathiany,Монета ратианы,레이아코인,雌火龍硬幣,عملة راثيان
+Tzitzi Coin,ツィツィコイン,Pièce Tzitzi,Moneta Tzitzi,Tzitzi-Münze,,Moeda Tzitzi,Moneta Tzitzi,Монета цици,치치코인,眩鳥硬幣,عملة تسيتسي
+Barroth Coin,ボロスコイン,Pièce Barroth,Moneta Barroth,Barroth-Münze,,Moeda Barroth,Moneta Barrotha,Монета баррота,보로스코인,土砂龍硬幣,عملة باروث
+Gama Coin,ガマルコイン,Pièce Gama,Moneta Gama,Gama-Münze,,Moeda Gama,Moneta Dodogamy,Монета гамы,가마루코인,岩賊龍硬幣,عملة غاما
+Rathalos Coin,レウスコイン,Pièce Rathalos,Moneta Rathalos,Rathalos-Münze,,Moeda Rathalos,Moneta Rathalosa,Монета раталоса,레우스코인,火龍硬幣,عملة راذالوس
+Brute Coin,獣竜コイン,Pièce de la terre,Moneta brutale,Kampf-Münze,,Moeda Bruta,Moneta zwalista,Монета укротителя,수룡코인,獸龍硬幣,عملة الغاشم
+Flying Coin,飛竜コイン,Pièce de l'air,Moneta volante,Flieger-Münze,,Moeda Voadora,Moneta latająca,Монета летуна,비룡코인,飛龍硬幣,عملة طائرة
+Pinnacle Coin,闘技王のコイン,Pièce "Apogée",Moneta apogeo,Spitzenmünze,,Moeda Auge,Moneta szczytu,Монета мастера,격투왕코인,鬥技王硬幣,عملة القمة
+Hunter King Coin,狩猟王のコイン,Pièce "Roi de la chasse",Moneta re dei cacciatori,Jägerkönigs-Münze,,Moeda Caçador-rei,Moneta Króla Łowców,Монета славного охотника,수렵왕코인,狩獵王硬幣,عملة ملك الصيادين
+Ace Hunter Coin,撃龍王のコイン,Pièce "As de la chasse",Moneta Grancaccia,Jägerass-Münze,,Moeda Caçador-ás,Moneta asa łowów,Монета великого охотника,격룡왕코인,擊龍王硬幣,عملة خبير الصيادين
+Watcher Lens,機械獣のレンズ,Lentille de Veilleur,Lente di Vedetta,Wächter-Linse,,Lente de Vigia,Obiektyw Obserwatora,Линза Знатока,기계동물의 렌즈,機械動物的鏡頭,عدسات المراقب
+Nora Brave Trophy,ノラ族義勇兵の証,Trophée de valeur Nora,Trofeo Audace Nora,Nora-Kriegertrophäe,,Troféu de Valente dos Nora,Trofeum wojownika Nora,Трофей воина Нора,노라족 의용병의 증표,諾拉族勇者之證,جائزة محاربة النورا
+Black Bandage,黒い包帯,Bandage noir,Tessuto nero,Schwarze Bandage,,Bandagem Negra,Czarny bandaż,Черная повязка,검은 붕대,黑色繃帶,ضمادة سوداء
+Black Crystal Ticket,黒い水晶チケット,Ticket cristal noir,Buono cristallo nero,Schwarzer-Kristall-Ticket,,Bilhete de Cristal Negro,Kwit na czarny kryształ,Билет черного кристалла,검은 수정 티켓,黑水晶票,تذكرة بلورية سوداء
+Wiggler Ticket,ユラユラチケット,Ticket tortilleur,Buono tremogliola,Wackelwurm-Ticket,,Bilhete de Treme-treme,Kwit pełzacza,Билет ползуна,흔들흔들 티켓,孑孓票,تذكرة الدودة الضخمة
+SFV Ticket,ＳＦⅤチケット,Ticket SFV,Buono SFV,SFV-Ticket,,Bilhete de SFV,Kwit SFV,Билет SFV,SF V 티켓,ＳＦＶ票,تذكرة Street Fighter V
+Azure Star Shard,蒼星のかけら,Fragment d'étoile céleste,Frammento astro celeste,Azurstern-Scherbe,,Fragmento de Estrela Lazúli,Okruch Lazurowej Gwiazdy,Осколок лазурной звезды,파란별의 조각,蒼星碎片,شظية نجمية لازوردية
+Steel Egg,鋼のたまご,Œuf d'acier,Uovo d'acciaio,Stahlei,,Ovo de Aço,Stalowe jajo,Стальное яйцо,강철알,鋼蛋,بيضة صلبة
+Silver Egg,銀のたまご,Œuf d'argent,Uovo d'argento,Silberei,,Ovo Prateado,Srebrne jajo,Серебряное яйцо,은알,銀蛋,بيضة فضية
+Golden Egg,金のたまご,Œuf d'or,Uovo d'oro,Goldei,,Ovo Dourado,Złote jajo,Золотое яйцо,금알,金蛋,بيضة ذهبية
+Chipped Scale,欠けたウロコ,Écaille ébréchée,Scaglia scheggiata,Angeschlagene Schuppe,,Escama Lascada,Ukruszona łuska,Отколотая чешуя,빠진 비늘,缺損的鱗片,قشرة رقيقة
+Large Scale,大きなウロコ,Grande écaille,Scaglia enorme,Große Schuppe,,Escama Grande,Duża łuska,Большая чешуя,큰 비늘,大鱗片,قشرة ضخمة
+Beautiful Scale,きれいなウロコ,Écaille magnifique,Scaglia magnifica,Hübsche Schuppe,,Escama Bonita,Piękna łuska,Прекрасная чешуя,예쁜 비늘,漂亮的鱗片,قشرة جميلة
+Lustrous Scale,つやめくウロコ,Écaille brillante,Scaglia lucida,Glänzende Schuppe,,Escama Lustrosa,Lśniąca łuska,Блестящая чешуя,윤기나는 비늘,鮮豔的鱗片,قشرة برّاقة
+Glimmering Scale,かがやくウロコ,Écaille scintillante,Scaglia scintillante,Schimmernde Schuppe,,Escama Luzente,Migocąca łuska,Мерцающая чешуя,반짝 비늘,閃爍的鱗片,قشرة لامعة
+Bhernastone,ベルナストーン,Pierre de Bherna,Bhernapietra,Bhernastein,,Pedra de Bherna,Kamień z Bherny,Бэрнастоун,베르나스톤,貝爾娜石,بيرناستون
+Dundormarin,ドンドルマリン,Joyau de Dundorma,Dundormarina,Dundormarin,,Dundormarin,Dundormaryn,Дандормарин,돈도르마린,特德爾燐礦,دوندورمارين
+Loc Lac Ore,ロックラック鉱,Minerai de Loc Lac,Loclachite,Loc-Lac-Erz,,Minério de Loc Lac,Ruda z Loc Lac,Руда Лос Лак,록랙광석,勒克拉克礦,معدن لوك لاك
+Val Habar Quartz,バルバレクォーツ,Quartz de Val Habar,Quarzo Val Habar,Val-Habar-Quarz,,Quartzo de Val Habar,Kwarc z Val Habar,Кварц Вал Хабар,발바레쿼츠,巴露巴雷石英,كوارتز فال هابار
+Minegardenite,ミナガルデナイト,Minegardenite,Minegardenite,Minnegardenit,,Minegardenite,Minegardenit,Минегарденит,미나가르데나이트,米那加洛特寶石,ماينغاردينايت
+Golden Scale,黄金のウロコ,Écaille d'or,Scaglia d’oro,Golden-Schuppe,,Escama Dourada,Złota łuska,Золотая чешуя,황금 비늘,黃金的鱗片,قشرة ذهبية
+Golden Scale+,黄金の大ウロコ,Grande écaille d'or,Scaglia d’oro+,Golden-Schuppe+,,Escama Dourada+,Złota łuska+,Золотая чешуя+,황금 비늘+,黃金的大鱗片,قشرة ذهبية+
+Platinum Scale,白金のウロコ,Écaille de platine,Scaglia di platino,Platin-Schuppe,,Escama Platinada,Platynowa łuska,Платиновая чешуя,백금 비늘,白金的鱗片,قشرة بلاتينية
+Platinum Scale+,白金の大ウロコ,Grande écaille de platine,Scaglia di platino+,Platin-Schuppe+,,Escama Platinada+,Platynowa łuska+,Платиновая чешуя+,백금 비늘+,白金的大鱗片,قشرة بلاتينية+
+Gilded Scale,金色のウロコ,Écaille rouge,Scaglia dorata,Vergoldete Schuppe,,Escama Áurea,Złocona łuska,Позолоченная чешуя,금빛 비늘,金色的鱗片,قشرة مطلية بالذهب
+Gilded Scale+,金色の大ウロコ,Grande écaille rouge,Scaglia dorata+,Vergoldete Schuppe+,,Escama Áurea+,Złocona łuska+,Позолоченная чешуя+,금빛 비늘+,金色的大鱗片,قشرة مطلية بالذهب+
+Normal Ammo 2,LV2 通常弾,Normal II,Proiettili normali II,Normal II,,Munição Normal 2,Amunicja normalna 2,Обычные снаряды 2,LV2 통상탄,LV2通常彈,ذخيرة عادية 2
+Normal Ammo 3,LV3 通常弾,Normal III,Proiettili normali III,Normal III,,Munição Normal 3,Amunicja normalna 3,Обычные снаряды 3,LV3 통상탄,LV3通常彈,ذخيرة عادية 3
+Pierce Ammo 1,LV1 貫通弾,Perforant,Proiettili perforanti I,Perforation I,,Munição Perfurante 1,Amunicja przebijająca 1,Проникающие снаряды 1,LV1 관통탄,LV1貫通彈,ذخيرة ثقب 1
+Pierce Ammo 2,LV2 貫通弾,Perforant II,Proiettili perforanti II,Perforation II,,Munição Perfurante 2,Amunicja przebijająca 2,Проникающие снаряды 2,LV2 관통탄,LV2貫通彈,ذخيرة ثقب 2
+Pierce Ammo 3,LV3 貫通弾,Perforant III,Proiettili perforanti III,Perforation III,,Munição Perfurante 3,Amunicja przebijająca 3,Проникающие снаряды 3,LV3 관통탄,LV3貫通彈,ذخيرة ثقب 3
+Spread Ammo 1,LV1 散弾,Grenaille,Proiettili ventaglio I,Schrot I,,Munição Dispersa 1,Amunicja rozrzutowa 1,Снаряды с разбросом 1,LV1 산탄,LV1散彈,ذخيرة منتشرة 1
+Spread Ammo 2,LV2 散弾,Grenaille II,Proiettili ventaglio II,Schrot II,,Munição Dispersa 2,Amunicja rozrzutowa 2,Снаряды с разбросом 2,LV2 산탄,LV2散彈,ذخيرة منتشرة 2
+Spread Ammo 3,LV3 散弾,Grenaille III,Proiettili ventaglio III,Schrot III,,Munição Dispersa 3,Amunicja rozrzutowa 3,Снаряды с разбросом 3,LV3 산탄,LV3散彈,ذخيرة منتشرة 3
+Sticky Ammo 1,LV1 徹甲榴弾,Antiblindage,Proiettili esplosivi I,Detonation I,,Munição Pegajosa 1,Amunicja przylepna 1,Липкие снаряды 1,LV1 철갑유탄,LV1徹甲榴彈,ذخيرة لزجة 1
+Sticky Ammo 2,LV2 徹甲榴弾,Antiblindage II,Proiettili esplosivi II,Detonation II,,Munição Pegajosa 2,Amunicja przylepna 2,Липкие снаряды 2,LV2 철갑유탄,LV2徹甲榴彈,ذخيرة لزجة 2
+Sticky Ammo 3,LV3 徹甲榴弾,Antiblindage III,Proiettili esplosivi III,Detonation III,,Munição Pegajosa 3,Amunicja przylepna 3,Липкие снаряды 3,LV3 철갑유탄,LV3徹甲榴彈,ذخيرة لزجة 3
+Cluster Bomb 1,LV1 拡散弾,Fragmentation,Proiettili grappolo I,Streuung I,,Bomba Fragmentada 1,Bomba kasetowa 1,Осколочная бомба 1,LV1 확산탄,LV1擴散彈,قنبلة عنقودية 1
+Cluster Bomb 2,LV2 拡散弾,Fragmentation II,Proiettili grappolo II,Streuung II,,Bomba Fragmentada 2,Bomba kasetowa 2,Осколочная бомба 2,LV2 확산탄,LV2擴散彈,قنبلة عنقودية 2
+Cluster Bomb 3,LV3 拡散弾,Fragmentation III,Proiettili grappolo III,Streuung III,,Bomba Fragmentada 3,Bomba kasetowa 3,Осколочная бомба 3,LV3 확산탄,LV3擴散彈,قنبلة عنقودية 3
+Flaming Ammo,火炎弾,Incendiaire,Proiettili fuoco,Flamme,,Munição de Fogo,Amunicja zapalna,Пламенные снаряды,화염탄,火炎彈,الذخيرة الملتهبة
+Water Ammo,水冷弾,Aquatique,Proiettili acqua,Wasser,,Munição d'Água,Amunicja wodna,Водяные снаряды,수냉탄,水冷彈,ذخيرة الماء
+Thunder Ammo,電撃弾,Foudre,Proiettili tuono,Donner,,Munição de Raio,Amunicja piorunowa,Грозовые снаряды,전격탄,電擊彈,ذخيرة الرعد
+Freeze Ammo,氷結弾,Cryogénique,Proiettili ghiaccio,Frost,,Munição de Gelo,Amunicja mrożąca,Ледяные снаряды,빙결탄,冰結彈,ذخيرة التجميد
+Dragon Ammo,滅龍弾,Dragon,Proiettili drago,Drachen,,Munição de Dragão,Amunicja smocza,Драконьи снаряды,멸룡탄,滅龍彈,ذخيرة التنين
+Poison Ammo 1,LV1 毒弾,Toxique,Proiettili veleno I,Gift I,,Munição Venenosa 1,Amunicja trująca 1,Отравленные снаряды 1,LV1 독탄,LV1毒彈,ذخيرة سامة 1
+Poison Ammo 2,LV2 毒弾,Toxique II,Proiettili veleno II,Gift II,,Munição Venenosa 2,Amunicja trująca 2,Отравленные снаряды 2,LV2 독탄,LV2毒彈,ذخيرة سامة 2
+Paralysis Ammo 1,LV1 麻痺弾,Paralysant,Proiettili paralisi I,Lähmung I,,Munição Paralisante 1,Amunicja paraliżująca 1,Парализующие снаряды 1,LV1 마비탄,LV1麻痺彈,ذخيرة الشلل 1
+Paralysis Ammo 2,LV2 麻痺弾,Paralysant II,Proiettili paralisi II,Lähmung II,,Munição Paralisante 2,Amunicja paraliżująca 2,Парализующие снаряды 2,LV2 마비탄,LV2麻痺彈,ذخيرة الشلل 2
+Sleep Ammo 1,LV1 睡眠弾,Somnifère,Proiettili sonno I,Schlaf I,,Munição Sonífera 1,Amunicja usypiająca 1,Сонные снаряды 1,LV1 수면탄,LV1睡眠彈,ذخيرة النوم 1
+Sleep Ammo 2,LV2 睡眠弾,Somnifère II,Proiettili sonno II,Schlaf II,,Munição Sonífera 2,Amunicja usypiająca 2,Сонные снаряды 2,LV2 수면탄,LV2睡眠彈,ذخيرة النوم 2
+Exhaust Ammo 1,LV1 減気弾,Léthargique,Proiettili fatica I,Ermüdung I,,Munição Exaustiva 1,Amunicja wyczerpująca 1,Снаряды усталости 1,LV1 멸기탄,LV1減氣彈,ذخيرة الإرهاق 1
+Exhaust Ammo 2,LV2 減気弾,Léthargique II,Proiettili fatica II,Ermüdung II,,Munição Exaustiva 2,Amunicja wyczerpująca 2,Снаряды усталости 2,LV2 멸기탄,LV2減氣彈,ذخيرة الإرهاق 2
+Recover Ammo 1,LV1 回復弾,Guérison,Proiettili recupero I,Genesung I,,Munição Curativa 1,Amunicja regenerująca 1,Восстанавливающие снаряды 1,LV1 회복탄,LV1回復彈,ذخيرة الاسترداد 1
+Recover Ammo 2,LV2 回復弾,Guérison II,Proiettili recupero II,Genesung II,,Munição Curativa 2,Amunicja regenerująca 2,Восстанавливающие снаряды 2,LV2 회복탄,LV2回復彈,ذخيرة الاسترداد 2
+Wyvern Ammo,竜撃弾,Wyverne,Proiettili wyvern,Wyvern,,Munição Serpe,Amunicja wiwernia,Снаряды виверны,용격탄,龍擊彈,ذخيرة التنين المجنح
+Slicing Ammo,斬裂弾,Tranchant,Proiettili laceranti,Schnitt,,Munição Cortante,Amunicja tnąca,Рассекающие снаряды,참렬탄,斬裂彈,ذخيرة تقطيع
+Tranq Ammo,捕獲用麻酔弾,Tranquillisant,Proiettili soporiferi,Beruhigung,,Munição Sedativa,Amunicja uspokajająca,Снотворные снаряды,포획용마취탄,捕獲用麻醉彈,ذخيرة تهدئة
+Demon Ammo,鬼人弾,Démon,Proiettili demoniaci,Dämon,,Munição Demoníaca,Amunicja demona,Демонические снаряды,귀인탄,鬼人彈,ذخيرة العفريت
+Armor Ammo,硬化弾,Peau-de-pierre,Proiettili armatura,Rüstung,,Munição Armadura,Amunicja pancerna,Защитные снаряды,경화탄,硬化彈,ذخيرة درع
+Power Coating,強撃ビン,Fiole de force,Rivestimento potenza,Kraftbeschichtung,,Revestimento de Poder,Powłoka mocy,Силовое покрытие,강격병,強擊瓶,غطاء القوة
+Poison Coating,毒ビン,Fiole de poison,Rivestimento veleno,Giftbeschichtung,,Revestimento Venenoso,Powłoka trująca,Ядовитое покрытие,독병,毒瓶,غطاء السم
+Paralysis Coating,麻痺ビン,Fiole de paralysie,Rivestimento paralisi,Lähmungsbeschichtung,,Revestimento Paralisante,Powłoka paraliżująca,Парализующее покрытие,마비병,麻痺瓶,غطاء الشلل
+Sleep Coating,睡眠ビン,Fiole de sommeil,Rivestimento sonno,Schlafbeschichtung,,Revestimento Sonífero,Powłoka usypiająca,Усыпляющее покрытие,수면병,睡眠瓶,غطاء النوم
+Blast Coating,爆破ビン,Fiole explosive,Rivestimento scoppio,Explosionsbeschichtung,,Revestimento Explosivo,Powłoka wybuchowa,Взрывное покрытие,폭파병,爆破瓶,غطاء الانفجار
+Normal Ammo 1,LV1 通常弾,Normal,Proiettili normali I,Normal I,,Munição Normal 1,Amunicja normalna 1,Обычные снаряды 1,LV1 통상탄,LV1通常彈,ذخيرة عادية 1
+Mysterious Feystone,なぞの珠,Joyaux ???,Fatapietra misteriosa,Mysteriöser Feenstein,,Pedra Fey Misteriosa,Tajemniczy kamień mocy,Таинственный мертвый камень,수수께끼의 구슬,謎樣的寶珠,حجر غامض
+Glowing Feystone,光る珠,Joyaux ???,Fatapietra lucente,Leuchtender Feenstein,,Pedra Fey Reluzente,Świecący kamień mocy,Сияющий мертвый камень,빛나는 구슬,發光寶珠,حجر مشع
+Worn Feystone,古びた珠,Joyaux ???,Fatapietra consunta,Abgenutzter Feenstein,,Pedra Fey Gasta,Wytarty kamień mocy,Старый мертвый камень,낡은 구슬,老舊寶珠,حجر مهترئ
+Warped Feystone,風化した珠,Joyaux ???,Fatapietra distorta,Krummer Feenstein,,Pedra Fey Distorcida,Odkształcony kamień mocy,Искаженный мертвый камень,풍화된 구슬,風化的寶珠,حجر ملتو
+Sullied Streamstone,汚れた龍脈石,Pierre-dragon terne,Flussopietra macchiata,Befleckter Stromstein,,Pedriacho Maculada,Skalany potokowiec,Грязный поточный камень,더러워진 용맥석,污穢的龍脈石,حجر تيار متسخ
+Shining Streamstone,輝く龍脈石,Pierre-dragon brillante,Flussopietra scintillante,Glänzender Stromstein,,Pedriacho Brilhante,Lśniący potokowiec,Блестящий поточный камень,반짝이는 용맥석,閃耀的龍脈石,حجر تيار برّاق
+Wyvern Tear,竜のナミダ,Larme de wyverne,Lacrima di wyvern,Wyvernträne,,Lágrima de Serpe,Łza wiwerny,Слеза виверны,용의 눈물방울,龍之淚,دمعة تنين مجنح
+Large Wyvern Tear,竜の大粒ナミダ,Grosse larme de wyverne,Granlacrima di wyvern,Große Wyvernträne,,Lágrima Grande de Serpe,Duża łza wiwerny,Большая слеза виверны,용의 큰눈물방울,大顆的龍之淚,دمعة تنين مجنح ضخمة
+Dragon Treasure,龍秘宝,Trésor de dragon,Tesoro di drago,Drachenschatz,,Tesouro de Dragão,Smoczy skarb,Сокровище дракона,용의 보물,龍秘寶,كنز التنين
+White Liver,ホワイトレバー,Foie blanc,Fegato bianco,Weiße Leber,,Fígado Branco,Biała wątróbka,Белая печень,화이트리버,白肝,كبد أبيض
+Gourmet Shroomcap,特産スジタケ,Champignon délicat,Fungo gran gourmet,Gourmet-Pilzhut,,Chapéu de Cogumelo Gourmet,Grzybek przepyszny,Вкусный гриб,특산 줄무늬버섯,特產茸菇,قلنسوة فطر الذواقة
+Exquisite Shroomcap,厳選スジタケ,Champignon exquis,Fungo delizioso,Exquisiter Pilzhut,,Chapéu de Cogumelo Primor,Grzybek wyborny,Изысканный гриб,엄선 줄무늬버섯,嚴選茸菇,قلنسوة الفطر الفاخر
+Spirit Shroomcap,霊光スジタケ,Champignon mystique,Fungo spirito,Perfekter Pilzhut,,Chapéu de Cogumelo Espírito,Grzybek duchowy,Духовный гриб,혼령빛 줄무늬버섯,靈光茸菇,قلنسوة فطر الروح
+Moonlit Mushroom,月夜茸,Champignon sélénite,Fungo lunare,Mondscheinpilz,,Cogumelo Enluarado,Grzyb księżycowy,Лунный гриб,달빛버섯,月夜茸,فطر القمر المضيء
+Sunbloom,サニーフラワー,Fleur du soleil,Bocciolo di sole,Sonnenblüte,,Flor do Sol,Słońcokwiat,Лучистый цветок,써니 플라워,太陽花,زهرة الشمس
+Shinebloom,シャインフラワー,Grand-soleil,Bocciolo di luce,Leuchtblüte,,Resplendorência,Blaskokwiat,Солнечный цветок,샤인 플라워,亮光花,زهرة البريق
+Goldbloom,ゴールドフラワー,Déesse d'or,Bocciolo dorato,Goldblüte,,Aurescência,Złotokwiat,Золотой цветок,골드 플라워,黃金花,الزهرة الذهبية
+Bauble Cactus,小玉サボテン,Cactus nain,Cactus ninnolo,Narrenkaktus,,Cacto-miçanga,Kaktus błyskotkowy,Маленький кактус,작은구슬 선인장,小顆仙人掌,صبّار حلية
+Jewel Cactus,大玉サボテン,Cactus raffiné,Cactus gioiello,Juwelenkaktus,,Cacto-joia,Kaktus klejnotowy,Самоцветный кактус,왕구슬 선인장,大顆仙人掌,صبار الجوهرة
+Kingly Cactus,王様サボテン,Cactus royal,Cactus regale,Königlicher Kaktus,,Cacto-real,Kaktus królewski,Королевский кактус,임금님 선인장,國王仙人掌,الصبار الملكي
+Hardfruit,ハードフルーツ,Fruit fibreux,Frutto duro,Hartfrucht,,Fruta-dura,Twardosz,Твердофрукт,배틀 후르츠,堅實果,فاكهة صلبة
+Super Abalone,特産ツボアワビ,Ormeau nacré,Abalone super,Super-Abalone,,Super Haliote,Superuchowiec,Суперабалон,특산 항아리전복,特產藤壺鮑魚,أُذن البحر المميز
+Choice Abalone,厳選ツボアワビ,Ormeau rosé,Abalone pregiato,Qualitätsabalone,,Haliote Favorito,Wyborowy uchowiec,Избранный абалон,엄선 항아리전복,嚴選藤壺鮑魚,أُذن البحر المفضل
+Precious Abalone,秘蔵ツボアワビ,Ormeau aux truffes,Abalone prezioso,Kostbare Abalone,,Haliote Precioso,Cenny uchowiec,Бесценный абалон,비장의 항아리전복,祕藏藤壺鮑魚,أُذن البحر الثمين
+Light Pearl,ライトパール,Perle de lumière,Perla leggera,Lichtperle,,Pérola Suave,Jasna perła,Светлая жемчужина,라이트펄,光明珍珠,لؤلؤة خفيفة
+Deep Pearl,ディープパール,Perle des abysses,Perla scura,Tiefseeperle,,Pérola Profunda,Głęboka perła,Темная жемчужина,딥펄,深邃珍珠,لؤلؤة عميقة
+Innocent Pearl,イノセントパール,Perle d'innocence,Perla innocente,Unschuldsperle,,Pérola Inocente,Niewinna perła,Невинная жемчужина,이노센트펄,潔白珍珠,لؤلؤة بريئة
+Underground Fruit,地下の果実,Fruit souterrain,Frutto sotterraneo,Erdfrucht,,Fruta do Subsolo,Podziemny owoc,Подземный фрукт,지하의 과실,地底的果實,فاكهة سفلية
+Tainted Fruit,瘴気の果実,Fruit infect,Frutto putrefatto,Verdorbene Frucht,,Fruta Estragada,Splamiony owoc,Нечистый фрукт,독기의 과실,瘴氣果實,فاكهة متعفنة
+Elysian Fruit,彼岸の果実,Fruit élyséen,Frutto ultraterreno,Elysische Frucht,,Fruto Elisiano,Owoc elizejski,Неземной фрукт,피안의 과실,彼岸的果實,فاكهة فردوسية
+Forgotten Fossil,いにしえの化石,Fossile oublié,Fossile dimenticato,Vergessenes Fossil,,Fóssil Esquecido,Zapomniana skamielina,Забытая окаменелость,고대의 화석,古老化石,أحفورة منسية
+Legendary Fossil,まぼろしの化石,Fossile légendaire,Fossile leggendario,Legendäres Fossil,,Fóssil Lendário,Legendarna skamielina,Легендарная окаменелость,환상의 화석,夢幻化石,أحفورة أسطورية
+Mystical Fossil,神秘の化石,Fossile mystique,Fossile mistico,Mystisches Fossil,,Fóssil Místico,Mistyczna skamielina,Таинственная окаменелость,신비의 화석,神秘化石,أحفورة غامضة
+Blue Beryl,ブルーマリン,Béryl bleu,Acquamarina blu,Blauer Beryll,,Berilo Azul,Niebieski beryl,Синий берил,블루마린,藍色海產,بيريل الأزرق
+True Beryl,トゥルーマリン,Béryl véritable,Acquamarina vera,Echter Beryll,,Berilo Genuíno,Prawdziwy beryl,Истинный берил,트루마린,正確海產,بيريل الخالص
+Abyssal Beryl,アビスマリン,Béryl des abysses,Acquamarina abissale,Unheil-Beryll,,Berilo Abissal,Głębinowy beryl,Берил бездны,어비스마린,深淵海產,بيريل البحار العميقة
+Gaia Amber,大地のコハク,Ambre de Gaïa,Ambra gaia,Gaia-Bernstein,,Âmbar Gaia,Bursztyn Gai,Янтарь Геи,대지의 호박,大地琥珀,كهرمان غايا
+Dragonvein Amber,龍脈のコハク,Ambre draconique,Ambra venadrago,Drachenader-Bernstein,,Âmbar Veia de Dragão,Bursztyn smoczej żyły,Янтарь драконьей жилы,용맥의 호박,龍脈琥珀,كهرمان دراغونفاين
+Ancient Amber,太古のコハク,Ambre millénaire,Ambra antica,Uralter Bernstein,,Âmbar Ancestral,Pradawny bursztyn,Древний янтарь,태고의 호박,太古琥珀,كهرمان قديم
+First-aid Med,応急薬,Premiers soins,Pronto soccorso (scorta),Erste Hilfe,,Kit de Primeiros Socorros,Apteczka,Аптечка,응급약,應急藥,علاج الإسعافات الأوليّة
+First-aid Med+,応急薬グレート,Premiers soins +,Pronto soccorso+ (scorta),Erste Hilfe+,,Kit de Primeiros Socorros+,Apteczka+,Аптечка+,그레이트 응급약,應急藥‧大,علاج الإسعافات الأوليّة+
+EZ Ration,支給用携帯食料,Ration X,Razione (scorta),Simple Ration,,Ração (apoio),Prowiant (przydział),Р: Паек,지급전용 휴대 식량,補給專用隨身食物,مؤونة إز
+EZ Max Potion,支給用秘薬,Potion secrète X,Pillola della salute (scorta),Simpler Maxi-Trank,,Poção Máxima (apoio),Maksmikstura (przydział),Р: Максимальное зелье,지급전용 비약,補給專用秘藥,جرعة إز القصوى
+EZ Shock Trap,支給用シビレ罠,Piège électrochoc X,Trappola scossa (scorta),Simple Schockfalle,,Armadilha de Choque (apoio),Pułapka rażąca (przydział),Р: Шоковая ловушка,휴대 마비덫,補給專用麻痺陷阱,فخ الصدمة إز
+EZ Pitfall Trap,支給用落とし穴,Piège à fosse X,Trappola coperta (scorta),Simple Fallgrube,,Armadilha de Poço (Apoio),Dół-pułapka (przydział),Р: Волчья яма,지급전용 함정,補給專用地洞,فخ حفرة إز
+EZ Dung Pod,支給用こやし弾,Capsule de bouse X,Baccello letame (scorta),Simple Dungkapsel,,Cápsula de Esterco (Apoio),Gnojowy strąk (przydział),Р: Навозный снаряд,지급전용 거름탄,補給專用異臭彈,كبسولة روث إز
+EZ Flash Pod,支給用閃光弾,Capsule aveuglante X,Baccello lampo (scorta),Simple Blitzkapsel,,Cápsula de Lampejo (Apoio),Strąk błyskowy (przydział),Р: Зерно вспышки,지급전용 섬광탄,補給專用閃光彈,كبسولة وميض إز
+EZ Screamer Pod,支給用音爆弾,Capsule sonore X,Baccello urlante (scorta),Simple Schreikapsel,,Cápsula de Grito (Apoio),Krzyczący strąk (przydział),Р: Зерно крика,지급전용 음폭탄,補給專用音爆彈,كبسولة صراخ إز
+Throwing Knife,投げナイフ,Couteau de lancer,Coltello da lancio (scorta),Wurfmesser,,Faca de Arremesso,Nóż do rzucania,Метательный нож,투척나이프,飛刀,سكين الرمي
+Tranq Knife,捕獲用麻酔投げナイフ,Couteau tranquillisant,Coltello soporifero (scorta),Beruhigungsmesser,,Faca Sedativa,Nóż uspokajający,Снотворный нож,포획용 마취 투척나이프,捕獲用麻醉飛刀,السكين المهدئ
+Poison Knife,毒投げナイフ,Couteau poison,Coltello veleno (scorta),Giftmesser,,Faca Envenenada,Zatruty nóż,Отравленный нож,독투척나이프,毒飛刀,سكين السم
+Sleep Knife,眠り投げナイフ,Couteau somnifère,Coltello sonno (scorta),Schlafmesser,,Faca Sonífera,Nóż nasenny,Усыпляющий нож,수면투척나이프,睡眠飛刀,سكين النوم
+Paralysis Knife,麻痺投げナイフ,Couteau paralysant,Coltello paralisi,Lähmungsmesser,,Faca Paralisante,Nóż paraliżujący,Парализующий нож,마비투척나이프,麻痺飛刀,سكين الشلل
+EZ Farcaster,支給用モドリ玉,Téléportogène X,Sfera del ritorno (scorta),Simpler Teleporter,,Transportador (Apoio),Przerzutnik (przydział),Р: Транспортировщик,지급전용귀환옥,補給專用回歸球,ناقل إز البعيد
+EZ Tranq Bomb,支給用麻酔玉,Bombe tranquillisante X,Sfera soporifera (scorta),Simple Beruhigungsbombe,,Bomba Sedativa (Apoio),Bomba uspokajająca (przydział),Р: Снотворная бомба,지급전용마취옥,補給專用麻醉球,قنبلة إز المهدئة
