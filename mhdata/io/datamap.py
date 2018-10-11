@@ -60,7 +60,26 @@ class DataMap(typing.Mapping[int, DataRow]):
         self._last_id = entry_id
         return entry_id
 
-    def _add_entry(self, entry_id, entry: dict):
+    def _unregister_entry(self, entry):
+        "Internal function to remove the entry from the reverse mapping"
+        for lang, name in entry.names():
+            if name is None: continue
+
+            key = (lang, name)
+            del self._reverse_entries[key]
+
+    def _register_entry(self, entry):
+        "Internal function add the entry to the reverse mapping"
+        for lang, name in entry.names():
+            if name is None: continue
+
+            key = (lang, name)
+            if key in self._reverse_entries:
+                raise ValueError(f"Duplicate name ({lang}, {name}) in DataMap")
+           
+            self._reverse_entries[key] = entry.id
+
+    def _add_entry(self, entry_id: int, entry: dict):
         "Internal: Adds an entry to the dict, and returns the entry"
         if 'name' not in entry:
             raise KeyError("An entry is missing a name value")
@@ -69,22 +88,16 @@ class DataMap(typing.Mapping[int, DataRow]):
             raise KeyError(f"An entry with the given key already exists: {entry_id}")
 
         new_entry = DataRow(entry_id, entry)
-        for lang, name in new_entry.names():
-            if name is None: continue
-
-            key = (lang, name)
-            if key in self._reverse_entries:
-                raise ValueError(f"Duplicate name ({lang}, {name}) in DataMap")
-           
-            self._reverse_entries[key] = entry_id
+        self._register_entry(new_entry)
         
         self._data[entry_id] = new_entry
         return new_entry
 
-    def add_entry(self, entry_id, entry: dict):
+    def add_entry(self, entry_id: int, entry: dict):
         """"
         Adds an entry to the dict, and returns the entry.
         If this is higher than the last set id, reset the generator"""
+        entry_id = int(entry_id)
 
         if 'id' in entry and entry['id'] != entry_id:
             raise ValueError("Mismatch in add_entry: entry already has an id")
@@ -98,7 +111,7 @@ class DataMap(typing.Mapping[int, DataRow]):
     def insert(self, entry: dict):
         """Inserts a dictionary as a new entry
         
-        If the entry has an id field, it is used.
+        If the entry has an id field, it is used (and changed to an int)
         Otherwise a new id is auto-generated.
         """
         if 'id' in entry:
@@ -153,8 +166,15 @@ class DataMap(typing.Mapping[int, DataRow]):
             
             if key:
                 base_entry[key] = data_entry
-            elif hasattr(data_entry, 'keys'):
-                joindicts(base_entry, data_entry)
+                
+            elif isinstance(data_entry, collections.Mapping):
+                if 'name' in data_entry:
+                    self._unregister_entry(base_entry)
+                    joindicts(base_entry, data_entry)
+                    self._register_entry(base_entry)
+                else:
+                    joindicts(base_entry, data_entry)
+                    
             else:
                 # If we get here, its a key-less merge with a non-dict
                 # We cannot merge a dictionary with a non-dictionary

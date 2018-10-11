@@ -6,8 +6,11 @@ class DataRow(MutableMapping):
     These objects are regular dictionaries that can also get translated names.
     """
 
-    def __init__(self, id: int, datarowdict: dict):
-        self._data = { 'id': id, **datarowdict }
+    def __init__(self, row_id: int, datarowdict: dict):
+        self._data = { 'id': row_id }
+        for key, value in datarowdict.items():
+            if key != 'id':
+                self._data[key] = value
 
     @property
     def id(self):

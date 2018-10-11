@@ -155,3 +155,28 @@ def test_merge_adds_data_under_key():
     assert datamap[1]['test']['extended'] == 2, 'expected data 1 to get extended'
     assert datamap[3]['test']['extended'] == 3, 'expected data 3 to get extended'
     assert 'test' not in datamap[2], 'expected data 2 to not update'
+
+def test_merges_names():
+    datamap = DataMap({
+        1: create_test_entry({'en': 'NAME EN'})
+    })
+
+    datamap.merge({
+        'NAME EN': { 'name': { 'es': 'NAME ES'}}
+    })
+
+    assert datamap[1]['name']['en'] == 'NAME EN', 'kept old name'
+    assert 'es' in datamap[1]['name'], 'Added new spanish name'
+    assert datamap[1]['name']['es'] == 'NAME ES', 'spanish name is correct'
+
+def test_merged_names_update_lookup():
+    datamap = DataMap({
+        1: create_test_entry({'en': 'NAME EN'})
+    })
+
+    datamap.merge({
+        'NAME EN': { 'name': { 'es': 'NAME ES'}}
+    })
+    
+    assert 'NAME ES' in datamap.names('es'), "Spanish existance check should work"
+    assert datamap.entry_of('es', 'NAME ES') != None, "Name lookup on merged language should work"

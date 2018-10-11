@@ -47,3 +47,7 @@ def is_flat_dict(obj : dict) -> bool:
 def is_flat_dict_list(obj_list) -> bool:
     "Returns true if all dictionaries in the list have only scalar values"
     return all(( is_flat_dict(o) for o in obj_list))
+
+def is_dict(obj) -> bool:
+    "Returns true if obj is a dictionary. Mirror for is_instance(obj, collections.Mapping)"
+    return isinstance(obj, collections.Mapping)

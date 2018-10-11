@@ -27,16 +27,28 @@ def get_duplicates(iterable):
 
 
 def joindicts(dest, *dictlist):
-    """Merges one or more dictionaries into dest, without overwriting existing entries
+    """Merges one or more dictionaries into dest recursively.
+    Dictionaries are merged, lists are merged. Scalars and strings are ignored.
     Returns the generated result.
 
     To merge with overwrite, use the native dict update method.
     """
     result = dest
-    for d in dictlist:
-        for key, value in d.items():
+    for inputdict in dictlist:
+        for key, value in inputdict.items():
+            # If this is a new value, take as is
             if key not in result:
                 result[key] = value
+                continue
+            
+            existing_value = dest[key]
+            if typecheck.is_dict(existing_value) and typecheck.is_dict(value):
+                result[key] = joindicts(existing_value, value)
+            elif typecheck.is_list(existing_value) and typecheck.is_list(value):
+                result[key] = existing_value + value
+            else:
+                raise Exception("Failed to merge dictionaries on key")
+
     return result
 
 
