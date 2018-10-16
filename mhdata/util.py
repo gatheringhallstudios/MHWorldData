@@ -53,6 +53,7 @@ def joindicts(dest, *dictlist):
 
 
 def extract_fields(obj : dict, *fieldnames) -> dict:
+    "Extract a subset of fields from an object. Only those fields are pulled"
     result = {}
     for fieldname in fieldnames:
         if fieldname not in obj:

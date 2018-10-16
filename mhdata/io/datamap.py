@@ -160,7 +160,7 @@ class DataMap(typing.Mapping[int, DataRow]):
                 "Several invalid names found in sub data map. Invalid entries are " +
                 ','.join(unlinked))
 
-                # validation complete, it may not link to all base entries but thats ok
+        # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():
             base_entry = self.entry_of(lang, data_key)
             
