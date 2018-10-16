@@ -1,640 +1,640 @@
-name_en,name_ja,description_en,description_ja,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,icon_name,icon_color
-Potion,,Restores a small amount of health.,,item,,1,66,8,10,,Liquid,Green
-Mega Potion,,Restores a moderate amount of health.,,item,,2,,2,10,,Liquid,Green
-Max Potion,,Fully restores health and maximizes the size of your Health Gauge.,,item,,3,,210,2,,Pellets,Gold
-Ancient Potion,,Fully restores health and maximizes the size of your Health and Stamina Gauges.,,item,,5,,345,1,,Pellets,Gold
-Antidote,解毒薬,A cure for poison.,,item,,1,60,6,10,,Liquid,Blue
-Herbal Medicine,漢方薬,Removes all traces of poison and restores a slight amount of health.,,item,,2,,25,5,,Pellets,Blue
-Nulberry,ウチケシの実,A mysterious berry that cures various blights.,,item,,2,,120,10,,Seed,Blue
-Energy Drink,,"A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",,item,,2,,6,10,,Liquid,Yellow
-Ration,,Food that restores a bit of stamina.,,item,,1,,3,10,,Meat,DarkBeige
-Rare Steak,,Provides a moderate boost to your stamina. This one's still red in the middle.,,item,,1,,3,10,,Meat,DarkBeige
-Well-done Steak,,Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!,,item,,2,,48,10,,Meat,Beige
-Burnt Meat,,Provides a small boost to your stamina. Can be eaten quickly.,,item,,1,,1,10,,Meat,Gray
-Cool Drink,,Provides temporary relief from extreme heat.,,item,,1,300,30,5,,Liquid,White
-Nutrients,栄養剤,Very slightly increases your maximum health level.,,item,,2,,25,5,,Liquid,Cyan
-Mega Nutrients,栄養剤グレート,Slightly increases your maximum health level.,,item,,3,,92,5,,Liquid,Cyan
-Immunizer,,Boosts your natural ability to heal.,,item,,3,,92,10,,Liquid,Beige
-Astera Jerky,,"Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",,item,,2,98,10,5,,Meat,Pink
-Dash Juice,,Dulls one's sense of exhaustion. Reduces stamina depletion for a time.,,item,,2,,29,5,,Liquid,Gold
-Might Seed,,Temporarily strengthens your attacks when ingested by improving energy flow.,,item,,2,,140,10,,Seed,Red
-Demondrug,,Boosts your attack power by filling you with -- guess what? -- demonic strength.,,item,,4,,67,5,,Liquid,Red
-Mega Demondrug,,Boosts your attack power even more than a regular Demondrug.,,item,,5,,283,5,,Liquid,Red
-Might Pill,,Temporarily endows you with the strength of a might god. Potent!,,item,,4,,280,5,,Pellets,Red
-Adamant Seed,,Temporarily raises your defense when ingested by hardening issue.,,item,,2,,110,10,,Seed,Beige
-Armorskin,,Boosts your defense by turning your skin as hard as rock.,,item,,4,,58,5,,Liquid,Beige
-Mega Armorskin,,Boosts your defense even more than a regular armorskin.,,item,,5,,269,5,,Liquid,Beige
-Adamant Pill,,Temporarily makes your skin as hard as adamant. Potent!,,item,,4,,260,5,,Pellets,Beige
-Lifepowder,生命の粉塵,Produces a healing cloud in the area around the user.,,item,,4,,315,3,,Sac,LightBeige
-Herbal Powder,,A mysterious powder that produces a cloud around the area that restores health and neutralizes poison.,,item,,4,,315,3,,Sac,Blue
-Demon Powder,,A mysterious powder that produces a cloud around the area that temporarily strengthens attacks.,,item,,4,,315,3,,Sac,Red
-Hardshell Powder,,A mysterious powder that produces a cloud around the area that temporarily strengthens defense.,,item,,4,,315,3,,Sac,Beige
-Honey,ハチミツ,Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.,,item,,2,,45,10,,Webbing,Beige
-Herb,薬草,A primary ingredient in potions.,,item,,1,,2,10,,Herb,Green
-Antidote Herb,,A primary ingredient in antidotes.,,item,,1,,2,10,,Herb,Blue
-Fire Herb,,"A wondrous, flammable plant. Useful for crafting explosives.",,item,,2,,4,20,,Herb,Orange
-Flowfern,,This plant's leaves store a great amount of water. A component for making Water Ammo.,,item,,1,,4,20,,Herb,DarkPurple
-Snow Herb,,A plant that radiates ice-cold air. Use in combinations to create freeze ammo.,,item,,2,,6,20,,Herb,White
-Sleep Herb,,A plant containing sleeping agents. Used to craft tranquilizers.,,item,,1,,5,10,,Herb,Cyan
-Ivy,ツタの葉,A lightweight and extremely strong plant. Used to make nets for pitfall traps.,,item,,1,,8,10,,Herb,DarkGreen
-Smokenut,,A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.,,item,,1,,4,10,,Seed,White
-Dragonfell Berry,,"A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",,item,,4,,78,10,,Seed,DarkRed
-Blue Mushroom,アオキノコ,A mushroom infused with power-enhancing effects. Used in restorative items.,,item,,2,,2,10,,Mushroom,Blue
-Mandragora,マンドラゴラ,A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.,,item,,3,,40,10,,Mushroom,Beige
-Nitroshroom,,A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.,,item,,2,,6,20,,Mushroom,Red
-Devil's Blight,,A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.,,item,,2,,60,10,,Mushroom,DarkRed
-Parashroom,,A mushroom that induces paralysis. Required to craft Tranq Bombs.,,item,,3,,15,10,,Mushroom,Yellow
-Toadstool,,A poisonous fungus. Can be used as a toxin for knives.,,item,,2,,8,10,,Mushroom,Violet
-Exciteshroom,,This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.,,item,,3,,18,10,,Mushroom,DarkGreen
-Chillshroom,,This mushroom is a primary ingredient in cool drinks.,,item,,3,,18,10,,Mushroom,White
-Bitterbug,にが虫,A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.,,item,,1,,2,10,,Bug,Blue
-Flashbug,,An insect that emits a powerful flash when it dies. Required to craft Flash Pods.,,item,,2,,48,10,,Bug,Gold
-Godbug,不死虫,An insect said to live a millennium. Combine it with other items to add their properties to the powder.,,item,,4,,120,10,,Bug,White
-Thunderbug,,An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.,,item,,4,,80,10,,Bug,Yellow
-Baitbug,,"An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",,item,,3,,2,10,,Bait,Pink
-Kelbi Horn,ケルビの角,"While not practical when forging equipment, Kelbi horns are a vital component of many items.",,item,,4,,52,99,,Fang,Green
-Dash Extract,,A mysterious substance culled from certain monsters that increases endurance.,,item,,4,,56,20,,Liquid,Gold
-Nourishing Extract,,Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.,,item,,4,,122,20,,Liquid,White
-Screamer Sac,,A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.,,item,,2,,15,10,,Sac,Gray
-Catalyst,,Works with other materials to enhance their effects. Cannot be used by itself.,,item,,2,,48,5,,Sac,DarkGreen
-Tranq Bomb,,A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.,,item,,3,,35,8,,Smoke,Red
-Flash Pod,,Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.,,item,,2,,57,3,,Slinger,Gold
-Screamer Pod,,"Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",,item,,2,,45,3,,Slinger,Gray
-Dung Pod,,Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.,,item,,2,,20,10,,Slinger,Beige
-Smoke Bomb,,Creates a large cloud of smoke wherever it lands.,,item,,2,,44,3,,Smoke,White
-Poison Smoke Bomb,,Releases a toxic cloud of mist when used. Also popular as a household bug bomb.,,item,,2,,60,5,,Smoke,Violet
-Farcaster,,Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.,,item,,3,,30,1,,Smoke,Green
-Raw Meat,,"Meat carved from a monster. Can be cooked, combined, or used to set a trap.",,item,,1,,5,10,,Meat,Red
-Poisoned Meat,,Raw meat that poisons whatever eats it. Makes great bait for traps.,,item,,2,,19,10,,Meat,Violet
-Tinged Meat,,Raw meat that paralyzes whatever eats it. Makes great bait for traps.,,item,,2,,30,10,,Meat,Yellow
-Drugged Meat,,Raw meat that puts whatever eats it to sleep. Makes great bait for traps.,,item,,2,,32,10,,Meat,Cyan
-Gunpowder,,A dangerous substance that explodes when struct or heated.,,item,,2,,45,20,,Sac,Orange
-Small Barrel,,"A small, empty barrel.",,item,,1,80,8,10,,Barrel,Gold
-Barrel Bomb,,A small time bomb.,,item,,2,156,16,10,,BarrelBomb,Gold
-Bounce Bomb,,Launches into the air when set. This modified bomb requires skill to use.,,item,,2,150,18,5,,BarrelBomb,Cyan
-Mega Bounce Bomb,,An improved version of the bounce bomb. Requires some skill to use.,,item,,4,,68,5,,BarrelBomb,Cyan
-Large Barrel,,"A large, empty barrel. Combine with gunpowder to make it into a bomb.",,item,,2,210,21,5,,Barrel,Orange
-Large Barrel Bomb,,A powerful bomb triggered by external physical impact.,,item,,3,518,52,2,,BarrelBomb,Orange
-Mega Barrel Bomb,,An upgraded large barrel bomb. Effective against large monsters.,,item,,4,,80,2,,BarrelBomb,Orange
-Spider Web,クモの巣,A very sticky web. Used to craft pitfall traps.,,item,,1,,6,10,,Web,White
-Net,,A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.,,item,,2,,54,10,,Web,DarkGreen
-Trap Tool,,A must-have item for putting together pitfall traps and other kinds of traps.,,item,,3,200,20,2,,TrapTool,White
-Pitfall Trap,,A trap for catching certain large monsters. It is tripped by a heavy weight.,,item,,3,,200,1,,Trap,DarkGreen
-Shock Trap,,A trap that immobilizes a target. Use it to capture monsters.,,item,,3,,160,1,,Trap,Yellow
-Rolled-up Dung,,A ball of condensed monster dung. Used to make dung pods for your slinger.,,item,,1,,10,20,,Dung,DarkBeige
-Dung,,Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.,,item,,1,,1,10,,Dung,DarkBeige
-Arowana Bait,,A ball of bait favored by fish of the Arowana family.,,item,,2,150,15,10,,Bait,Green
-Gunpowderfish Bait,,A ball of bait favored by fish of the Gunpowderfish family.,,item,,2,150,15,10,,Bait,White
-Goldenfish Bait,,A ball of bait favored by fish of the Goldenfish family.,,item,,2,300,30,10,,Bait,Gold
-Boomerang,,An unusually-shaped weapon from abroad that returns to its user when thrown.,,item,,4,150,15,5,,Boomerang,Gold
-Binoculars,,Allows you to see farther and observe from a distance.,,item,,1,50,5,1,,Binoculars,Gray
-Powercharm,,An amulet that strengthens attacks. Just carrying this gives you demonic strength.,,item,,5,36000,3,1,,Sac,Red
-Powertalon,,A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.,,item,,5,,6,1,,Fang,Red
-Armorcharm,,An amulet that increases defense. Just carrying this hardens your skin like stone.,,item,,5,24000,2,1,,Sac,Beige
-Armortalon,,A charm that increases defense. Its effects are amplified by the dragon parts it contains.,,item,,5,,5,1,,Fang,Beige
-Needleberry,,A nut covered in needle-like spines. Used to make spread ammo.,,item,,1,,1,99,,Husk,DarkGreen
-Blastnut,,A nut used to make sticky ammo.,,item,,1,,4,30,,Husk,Beige
-Dragonstrike Nut,,A nut that explodes on impact. Used to make wyvern ammo.,,item,,2,,12,5,,Husk,DarkBeige
-Slashberry,,Used to make slicing ammo.,,item,,1,,4,60,,Husk,White
-Latchberry,,A nut that bears a spiral groove. Used to make pierce ammo.,,item,,1,,4,99,,Husk,Blue
-Bomberry,,A nut that ruptures on impact. Used to make cluster bombs.,,item,,2,,12,10,,Husk,DarkRed
-Flamenut,,Used to make gunpowder that increases ammo firepower.,,item,,2,,12,80,,Seed,Gray
-Blazenut,,Used to make gunpowder that greatly increases ammo firepower.,,item,,2,,12,60,,Seed,Gray
-Gunpowder Level 2,,Combustible powser. Combine with level 1 ammo to raise its level.,,item,,2,16,1,80,,Sac,Gray
-Gunpowder Level 3,,Highly combustible powser. Combine with level 1 ammo to raise its level.,,item,,2,30,3,80,,Sac,Gray
-Whetfish Fin,,"A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",,item,,2,,45,10,,Scale,Gold
-Whetfish Fin+,,"A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",,item,,4,,45,5,,Scale,Gold
-Sushifish Scale,,A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.,,item,,2,,45,10,,Scale,Beige
-Great Sushifish Scale,,"Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",,item,,4,,45,5,,Scale,Beige
-Gunpowderfish Scale,,The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.,,item,,3,,150,5,,Scale,Gray
-Great Gunpowderfish Scale,,The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.,,item,,4,,150,5,,Scale,Gray
-Burst Arowana Scale,,The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.,,item,,2,,45,5,,Scale,Green
-Great Burst Arowana Scale,,The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.,,item,,4,,45,5,,Scale,Green
-Bomb Arowana Scale,,The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.,,item,,2,,135,5,,Scale,Violet
-Great Bomb Arowana Scale,,The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.,,item,,4,,135,5,,Scale,Violet
-Empty Phial,,"A regularly old empty phial. Nothing more, nothing less.",,item,,1,5,1,99,,EmptyBottle,
-Iron Ore,鉄鉱石,Ore that can be smelted into metal and used for many different purposes.,,material,,4,,60,,,Ore,Gray
-Machalite Ore,マカライト鉱石,Ore that's more difficult to procure than Iron Ore. Produces fine metal.,,material,,4,,160,,,Ore,Blue
-Dragonite Ore,ドラグライト鉱石,An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.,,material,,4,,480,,,Ore,Green
-Carbalite Ore,カブレライト鉱石,"Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",,material,,6,,680,,,Ore,Violet
-Fucium Ore,ユニオン鉱石,"Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",,material,,6,,1020,,,Ore,Pink
-Earth Crystal,大地の結晶,Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.,,material,,4,,80,,,Ore,White
-Coral Crystal,深海の結晶,Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.,,material,,4,,600,,,Ore,Blue
-Dragonvein Crystal,龍脈の結晶,Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.,,material,,6,,800,,,Ore,Red
-Lightcrystal,ライトクリスタル,A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.,,material,,5,,1150,,,Ore,Gray
-Novacrystal,ノヴァクリスタル,"High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",,material,,7,,2440,,,Ore,White
-Firecell Stone,獄炎石,A magma-like deposit that only trained hands can work with. Armor made from it is first-class.,,material,,7,,1720,,,Ore,Beige
-Aquacore Ore,,A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.,,material,,4,,400,,,CharmOre,Blue
-Spiritcore Ore,,"A valuable mineral used to create charms. Gives off a warm, sunny glow.",,material,,6,,800,,,CharmOre,Gray
-Dreamcore Ore,,A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.,,material,,7,,1200,,,CharmOre,Violet
-Dragoncore Ore,,A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.,,material,,8,,2000,,,CharmOre,Gold
-Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.,,material,,4,,80,,,Sphere,Blue
-Armor Sphere+,,Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.,,material,,5,,200,,,Sphere,Green
-Advanced Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to improve it.,,material,,6,,300,,,Sphere,Beige
-Hard Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to significantly improve it.,,material,,7,,400,,,Sphere,Violet
-Heavy Armor Sphere,,Reacts uniquely to heat. Fuse this to armor to greatly improve it.,,material,,8,,600,,,Sphere,Red
-Sturdy Bone,頑丈な骨,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.,,material,,4,,500,,,Bone,White
-Quality Bone,上質な堅骨,A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.,,material,,6,,750,,,Bone,White
-Ancient Bone,太古の大骨,A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.,,material,,4,,400,,,Bone,Green
-Boulder Bone,強固な岩骨,A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.,,material,,4,,400,,,Bone,Gold
-Coral Bone,サンゴの紅骨,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.,,material,,4,,800,,,Bone,Pink
-Warped Bone,いびつな狂骨,A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.,,material,,4,,800,,,Bone,DarkBeige
-Brutal Bone,荒々しい蛮骨,A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.,,material,,6,,1200,,,Bone,Gray
-Dragonbone Relic,いにしえの龍骨,A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.,,material,,7,,1600,,,Bone,White
-Unknown Skull,なぞの頭骨,A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.,,material,,7,,1800,,,Bone,Gold
-Great Hornfly,オオツノアゲハ,"Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",,material,,5,,200,,,Bug,Gold
-Sinister Cloth,禍々しい布,Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.,,material,,5,,350,,,Question,Gray
-Monster Bone S,竜骨【小】,A material found in bonepiles. Indispensable for both hunting and daily life.,,material,,4,,30,,,Bone,Gold
-Monster Bone M,竜骨【中】,"Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",,material,,4,,300,,,Bone,Gold
-Monster Bone L,竜骨【大】,"Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",,material,,4,,400,,,Bone,Gold
-Monster Bone+,上竜骨,"Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",,material,,4,,500,,,Bone,Beige
-Monster Keenbone,尖竜骨,Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.,,material,,6,,800,,,Bone,Pink
-Monster Hardbone,堅竜骨,Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.,,material,,6,,1200,,,Bone,DarkRed
-Elder Dragon Bone,古龍骨,A bone from an elder dragon. It exudes the great majesty of the beast that bore it.,,material,,7,,1600,,,Bone,Violet
-Sharp Claw,とがった爪,"Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",,material,,4,,200,,,Fang,Gray
-Piercing Claw,鋭利な爪,Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.,,material,,6,,800,,,Fang,Gray
-Monster Fluid,モンスターの体液,Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.,,material,,4,,200,,,Liquid,Cyan
-Monster Broth,モンスターの濃汁,Material from high rank insects. A rich broth made from only the thickest of monster juices.,,material,,6,,800,,,Liquid,Blue
-Poison Sac,毒袋,A monster organ that contains a lethal toxin. Handle with extreme care.,,material,,4,,600,,,Sac,Violet
-Toxin Sac,猛毒袋,A monster organ filled with an extremely potent toxin. Just touching it is dangerous.,,material,,6,,1600,,,Sac,Violet
-Paralysis Sac,麻痺袋,A monster organ that contains paralyzing neurotoxins.,,material,,4,,800,,,Sac,Yellow
-Omniplegia Sac,強力麻痺袋,A monster organ filled with potent neurotoxins. A single touch can cause paralysis.,,material,,6,,1600,,,Sac,Yellow
-Sleep Sac,睡眠袋,A monster organ that contains a knockout powder capable of inducing sleep.,,material,,4,,800,,,Sac,Blue
-Coma Sac,昏睡袋,A monster organ that contains dangerous powder. One whiff can induce a coma.,,material,,6,,1600,,,Sac,Blue
-Flame Sac,火炎袋,A monster organ filled with flammable powder. Handle with extreme care.,,material,,4,,800,,,Sac,Red
-Inferno Sac,爆炎袋,A monster organ filled with powder that ignites if it so much as touches air. Danger!,,material,,6,,1600,,,Sac,Red
-Aqua Sac,水袋,A monster organ designed to hold and preserve water.,,material,,4,,600,,,Sac,Cyan
-Torrent Sac,大水袋,A monster organ designed to hold and preserve copious amounts of water.,,material,,6,,1600,,,Sac,Cyan
-Frost Sac,氷結袋,"A monster internal organ, filled with extremely low temperature fluid. Handle with care.",,material,,4,,1000,,,Sac,White
-Freezer Sac,凍結袋,A monster organ with tremendous freezing power. Turns its surroundings to ice.,,material,,6,,2400,,,Sac,White
-Electro Sac,電気袋,"A monster organ that can store up electricity, which is released on impact.",,material,,4,,1000,,,Sac,Gold
-Thunder Sac,電撃袋,A monster organ that can store up large amounts of high voltage electricity.,,material,,6,,1600,,,Sac,Gold
-Bird Wyvern Gem,鳥竜玉,A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.,,material,,7,,4000,,,Gem,Blue
-Wyvern Gem,竜玉,"Throughout a wyvern's life, impurities gather and form this peculiar gem.",,material,,7,,4000,,,Gem,Cyan
-Elder Dragon Blood,古龍の血,Contains an unknown compound. The object of much scholarly research.,,material,,7,,1600,,,Liquid,Red
-Mosswine Hide,モスの苔皮,A musty hide covered in moss.,,material,,4,,200,,,Hide,DarkGreen
-Warm Pelt,暖かい毛皮,"A pelt from a small animal. Used for many things, but mostly just regular clothes.",,material,,4,,120,,,Hide,Green
-High-quality Pelt,上質な毛皮,Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.,,material,,6,,320,,,Hide,Beige
-Vespoid Shell,ランゴスタの甲殻,Vespoid material. Obtained by carving. Used for many purposes.,,material,,4,,160,,,Bug,Gold
-Vespoid Wing,ランゴスタの羽,"Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",,material,,4,,210,,,Webbing,Gold
-Vespoid Carapace,ランゴスタの堅殻,Rare Vespoid material. Obtained by carving. Used for many purposes.,,material,,6,,460,,,Bug,Gold
-Vespoid Innerwing,ランゴスタの薄羽,"Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",,material,,6,,560,,,Webbing,Gold
-Hornetaur Shell,カンタロスの甲殻,Hornetaur material. Obtained by carving. Used for many purposes.,,material,,4,,260,,,Bug,Gray
-Hornetaur Wing,カンタロスの羽,Hornetaur material. Obtained by carving. Used for many purposes.,,material,,4,,310,,,Webbing,Gray
-Hornetaur Head,カンタロスの頭,"Hornetaur material. Obtained by carving. Unusual, used in select gear.",,material,,4,,360,,,Bug,Gray
-Hornetaur Carapace,カンタロスの堅殻,Rare Hornetaur material. Obtained by carving. Used for many purposes.,,material,,6,,560,,,Bug,Gray
-Hornetaur Innerwing,カンタロスの薄羽,"Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",,material,,6,,660,,,Webbing,Gray
-Gajau Skin,咬魚の皮,"Gajau material. Obtained by carving. Water resistant, used to craft gear.",,material,,4,,220,,,Hide,DarkBeige
-Gajau Whisker,咬魚のヒゲ,"Gajau material. Obtained by carving. Hardy, used to craft gear.",,material,,4,,270,,,Body,DarkBeige
-Gajau Scale,咬魚の上皮,"Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",,material,,6,,420,,,Hide,DarkBeige
-Grand Gajau Whisker,咬魚の大ヒゲ,"Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",,material,,6,,520,,,Body,DarkBeige
-Wingdrake Hide,翼竜の皮,A material carved from wingdrakes. Lightweight and often used when crafting armor.,,material,,4,,180,,,Wing,DarkBeige
-Wingdrake Hide+,翼竜の上皮,A rare material carved from wingdrakes. Lightweight and often used when crafting armor.,,material,,6,,380,,,Wing,DarkBeige
-Barnos Hide+,バルノスの上皮,"Rare Barnos material. Obtained by carving. Supple, used to craft gear.",,material,,6,,720,,,Hide,DarkBeige
-Barnos Talon,バルノスの尖爪,"Rare Barnos material. Obtained by carving. Unusual, used in select gear.",,material,,6,,820,,,Fang,DarkBeige
-Kestodon Shell,ケストドンの甲殻,"Kestodon material. Obtained by carving. Sturdy, used to craft gear.",,material,,4,,180,,,Carapace,Beige
-Kestodon Scalp,ケストドンの頭殻,"Kestodon material. Obtained by carving. Unusual, used in select gear.",,material,,4,,230,,,Jaw,Beige
-Kestodon Carapace,ケストドンの堅殻,"Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",,material,,6,,430,,,Carapace,Beige
-Gastodon Carapace,ガストドンの堅殻,"Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",,material,,6,,760,,,Carapace,DarkRed
-Gastodon Horn,ガストドンの尖角,"Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",,material,,6,,860,,,Fang,DarkRed
-Jagras Scale,ジャグラスの鱗,Jagras material. Obtained by carving. Used for many purposes.,,material,,4,,140,,,Scale,Gold
-Jagras Hide,ジャグラスの皮,"Jagras material. Obtained by carving. Supple, used to craft gear.",,material,,4,,180,,,Hide,Gold
-Jagras Scale+,ジャグラスの上鱗,Rare Jagras material. Obtained by carving. Used for many purposes.,,material,,6,,340,,,Scale,Gold
-Jagras Hide+,ジャグラスの上皮,"Rare Jagras material. Obtained by carving. Supple, used to craft gear.",,material,,6,,480,,,Hide,Gold
-Shamos Scale,シャムオスの鱗,Shamos material. Obtained by carving. Used for many purposes.,,material,,4,,220,,,Scale,Red
-Shamos Hide,シャムオスの皮,"Shamos material. Obtained by carving. Supple, used to craft gear.",,material,,4,,280,,,Hide,Red
-Shamos Scale+,シャムオスの上鱗,Rare Shamos material. Obtained by carving. Used for many purposes.,,material,,6,,420,,,Scale,Red
-Shamos Hide+,シャムオスの上皮,"Rare Shamos material. Obtained by carving. Supple, used to craft gear.",,material,,6,,480,,,Hide,Red
-Girros Scale,ギルオスの鱗,Girros material. Obtained by carving Used for many purposes.,,material,,4,,240,,,Scale,Gray
-Girros Hide,ギルオスの皮,"Girros material. Obtained by carving. Supple, used to craft gear.",,material,,4,,300,,,Hide,Gray
-Girros Fang,ギルオスの麻痺牙,Girros material. Obtained by carving. Grants paralytic properties.,,material,,4,,260,,,Fang,Yellow
-Girros Scale+,ギルオスの上鱗,Rare Girros material. Obtained by carving. Used for many purposes.,,material,,6,,460,,,Scale,Gray
-Girros Hide+,ギルオスの上皮,"Rare Girros material. Obtained by carving. Supple, used to craft gear.",,material,,6,,520,,,Hide,Gray
-Great Jagras Scale,賊竜の鱗,Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,260,,,Scale,Gold
-Great Jagras Hide,賊竜の皮,Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,4,,360,,,Hide,Gold
-Great Jagras Mane,賊竜のたてがみ,Great Jagras material. Obtained by breaking its head. Used for many purposes.,,material,,4,,440,,,Body,Gold
-Great Jagras Claw,賊竜の爪,"Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,material,,4,,420,,,Fang,Gold
-Great Jagras Scale+,賊竜の上鱗,Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,860,,,Scale,Gold
-Great Jagras Hide+,賊竜の上皮,"Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,6,,1220,,,Hide,Gold
-Great Jagras Claw+,賊竜の尖爪,"Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,material,,6,,1620,,,Fang,Gold
-Kulu-Ya-Ku Scale,掻鳥の鱗,Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,4,,290,,,Scale,Beige
-Kulu-Ya-Ku Hide,掻鳥の皮,"Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",,material,,4,,390,,,Hide,Beige
-Kulu-Ya-Ku Plume,掻鳥の飾り羽,Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.,,material,,4,,460,,,Body,Orange
-Kulu-Ya-Ku Beak,掻鳥のクチバシ,"Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",,material,,4,,490,,,Jaw,Beige
-Kulu-Ya-Ku Scale+,掻鳥の上鱗,Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,890,,,Scale,Beige
-Kulu-Ya-Ku Hide+,掻鳥の上皮,"Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",,material,,6,,1290,,,Hide,Beige
-Kulu-Ya-Ku Plume+,掻鳥の大飾り羽,Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.,,material,,6,,1660,,,Body,Orange
-Kulu-Ya-Ku Beak+,掻鳥の大クチバシ,"Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",,material,,6,,1660,,,Jaw,Beige
-Pukei-Pukei Scale,毒妖鳥の鱗,Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,360,,,Scale,Lime
-Pukei-Pukei Shell,毒妖鳥の甲殻,"Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,470,,,Carapace,Lime
-Pukei-Pukei Quill,毒妖鳥の羽根,Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.,,material,,4,,640,,,Wing,Lime
-Pukei-Pukei Sac,毒妖鳥の喉袋,Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.,,material,,4,,660,,,Sac,Lime
-Pukei-Pukei Tail,毒妖鳥の尻尾,"Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",,material,,4,,620,,,Tail,Lime
-Pukei-Pukei Scale+,毒妖鳥の上鱗,Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.,,material,,6,,950,,,Scale,Lime
-Pukei-Pukei Carapace,毒妖鳥の堅殻,"Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1350,,,Carapace,Lime
-Pukei-Pukei Wing,毒妖鳥の翼,Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.,,material,,6,,1700,,,Wing,Lime
-Pukei-Pukei Sac+,毒妖鳥の大喉袋,Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.,,material,,6,,1750,,,Sac,Lime
-Barroth Shell,土砂竜の甲殻,Barroth material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,1330,,,Carapace,Beige
-Barroth Ridge,土砂竜の背甲,"Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,480,,,Body,Beige
-Barroth Claw,土砂竜の爪,"Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",,material,,4,,630,,,Fang,Beige
-Barroth Scalp,土砂竜の頭殻,"Barroth material. Obtained by breaking its scalp. Tough, used in many weapons.",,material,,4,,870,,,Jaw,Beige
-Barroth Tail,土砂竜の尻尾,"Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,4,,800,,,Tail,Beige
-Fertile Mud,肥沃なドロ,"Barroth material. Obtained by breaking its mud covering Unusual, used in select gear.",,material,,4,,390,,,Dung,Beige
-Barroth Carapace,土砂竜の堅殻,Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,870,,,Carapace,Beige
-Barroth Ridge+,土砂竜の堅甲,"Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1270,,,Body,Beige
-Barroth Claw+,土砂竜の鋭爪,"Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",,material,,6,,1670,,,Fang,Beige
-Jyuratodus Scale,泥魚竜の鱗,Jyuratodus material. Mostly obtained by carving. Used for many purposes.,,material,,4,,340,,,Scale,LightBeige
-Jyuratodus Shell,泥魚竜の甲殻,"Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",,material,,4,,490,,,Carapace,LightBeige
-Jyuratodus Fang,泥魚竜の牙,"Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,4,,640,,,Fang,LightBeige
-Jyuratodus Fin,泥魚竜のヒレ,Jyuratodus material. Obtained by breaking its back. Used for many purposes.,,material,,4,,720,,,Body,LightBeige
-Jyuratodus Scale+,泥魚竜の上鱗,Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.,,material,,6,,1040,,,Scale,LightBeige
-Jyuratodus Carapace,泥魚竜の堅殻,"Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",,material,,6,,1540,,,Carapace,LightBeige
-Jyuratodus Fang+,泥魚竜の鋭牙,"Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,6,,2040,,,Fang,LightBeige
-Jyuratodus Fin+,泥魚竜の上ヒレ,Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.,,material,,6,,2120,,,Body,LightBeige
-Tobi-Kadachi Scale,飛雷竜の鱗,Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,360,,,Scale,Cyan
-Tobi-Kadachi Pelt,飛雷竜の毛皮,"Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",,material,,4,,510,,,Hide,Cyan
-Tobi-Kadachi Membrane,飛雷竜の皮膜,"Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",,material,,4,,800,,,Wing,Cyan
-Tobi-Kadachi Claw,飛雷竜の爪,"Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",,material,,4,,660,,,Fang,Cyan
-Tobi-Kadachi Electrode,飛雷竜の電極針,Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.,,material,,4,,720,,,Body,Cyan
-Tobi-Kadachi Scale+,飛雷竜の上鱗,Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1050,,,Scale,Cyan
-Tobi-Kadachi Pelt+,飛雷竜の上毛皮,"Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",,material,,6,,1550,,,Hide,Cyan
-Tobi-Kadachi Claw+,飛雷竜の尖爪,"Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",,material,,6,,1650,,,Fang,Cyan
-Tobi-Kadachi Electrode+,飛雷竜の雷極針,Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.,,material,,6,,1750,,,Body,Cyan
-Anjanath Scale,蛮顎竜の鱗,Anjanath material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,430,,,Scale,Pink
-Anjanath Pelt,蛮顎竜の毛皮,"Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",,material,,4,,630,,,Hide,Pink
-Anjanath Fang,蛮顎竜の牙,"Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,4,,830,,,Fang,Pink
-Anjanath Nosebone,蛮顎竜の鼻骨,Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.,,material,,4,,890,,,Bone,Pink
-Anjanath Tail,蛮顎竜の尻尾,"Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,4,,860,,,Tail,Pink
-Anjanath Plate,蛮顎竜の逆鱗,"Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,5,,2400,,,Plate,Pink
-Anjanath Scale+,蛮顎竜の上鱗,Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1060,,,Scale,Pink
-Anjanath Pelt+,蛮顎竜の上毛皮,"Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",,material,,6,,1560,,,Hide,Pink
-Anjanath Fang+,蛮顎竜の鋭牙,"Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,6,,2060,,,Fang,Pink
-Anjanath Nosebone+,蛮顎竜の大鼻骨,"Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",,material,,6,,2120,,,Bone,Pink
-Anjanath Gem,蛮顎竜の宝玉,A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.,,material,,7,,6000,,,Gem,Pink
-Rathian Scale,雌火竜の鱗,Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,460,,,Scale,Green
-Rathian Shell,雌火竜の甲殻,"Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,660,,,Carapace,Green
-Rathian Webbing,雌火竜の翼膜,"Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,4,,860,,,Wing,Green
-Rathian Spike,雌火竜の棘,Rathian material. Obtained by carving its severed tail. Grants poisonous properties.,,material,,4,,980,,,Body,Green
-Rathian Plate,雌火竜の逆鱗,"Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,5,,2400,,,Plate,Green
-Rathian Scale+,雌火竜の上鱗,Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1060,,,Scale,Green
-Rathian Carapace,雌火竜の堅殻,"Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1560,,,Carapace,Green
-Rathian Spike+,雌火竜の上棘,Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.,,material,,6,,2240,,,Body,Green
-Rathian Ruby,雌火竜の紅玉,A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.,,material,,7,,6000,,,Gem,Green
-Pink Rathian Scale+,桜火竜の上鱗,Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1260,,,Scale,Pink
-Pink Rathian Carapace,桜火竜の堅殻,"Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1860,,,Carapace,Pink
-Tzitzi-Ya-Ku Scale,眩鳥の鱗,Tzitzi-Ya-Ku material. Mostly obtained by carving Broadly used for many purposes.,,material,,4,,440,,,Scale,Blue
-Tzitzi-Ya-Ku Hide,眩鳥の皮,"Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,4,,640,,,Hide,Blue
-Tzitzi-Ya-Ku Claw,眩鳥の爪,"Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",,material,,4,,840,,,Fang,Blue
-Tzitzi-Ya-Ku Photophore,眩鳥の発光膜,"Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",,material,,4,,920,,,Body,Blue
-Tzitzi-Ya-Ku Scale+,眩鳥の上鱗,Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,840,,,Scale,Blue
-Tzitzi-Ya-Ku Hide+,眩鳥の上皮,"Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,6,,1240,,,Hide,Blue
-Tzitzi-Ya-Ku Claw+,眩鳥の尖爪,"Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",,material,,6,,1640,,,Fang,Blue
-Tzitzi-Ya-Ku Photophore+,眩鳥の閃光膜,"Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",,material,,6,,1680,,,Body,Blue
-Paolumu Pelt,浮空竜の毛皮,Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,4,,650,,,Hide,White
-Paolumu Scale,浮空竜の鱗,"Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",,material,,4,,450,,,Scale,White
-Paolumu Shell,ゴム質の甲殻,Paolumu material. Obtained by breaking its tail. Used for many purposes.,,material,,4,,950,,,Carapace,Pink
-Paolumu Webbing,浮空竜の翼膜,"Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",,material,,4,,850,,,Wing,White
-Paolumu Pelt+,浮空竜の上毛皮,Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,6,,1570,,,Hide,White
-Paolumu Scale+,浮空竜の上鱗,"Rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",,material,,6,,1070,,,Scale,White
-Paolumu Carapace+,ゴム質の堅殻,Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.,,material,,6,,2140,,,Carapace,Pink
-Paolumu Wing,浮空竜の翼,"Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",,material,,6,,2070,,,Wing,White
-Great Girros Scale,痺賊竜の鱗,Great Girros material. Mostly obtained by carving Broadly used for many purposes.,,material,,4,,450,,,Scale,Gray
-Great Girros Hide,痺賊竜の皮,"Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,4,,650,,,Hide,Gray
-Great Girros Hood,痺賊竜の頭巾殻,Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.,,material,,4,,950,,,Body,Gray
-Great Girros Fang,痺賊竜の牙,Great Girros material. Obtained by breaking its head. Grants paralytic properties.,,material,,4,,750,,,Fang,Gray
-Great Girros Tail,痺賊竜の尻尾,"Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,4,,850,,,Tail,Gray
-Great Girros Scale+,痺賊竜の上鱗,Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1060,,,Scale,Gray
-Great Girros Hide+,痺賊竜の上皮,"Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,6,,1560,,,Hide,Gray
-Great Girros Hood+,痺賊竜の大頭巾,"Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",,material,,6,,2180,,,Body,Gray
-Great Girros Fang+,痺賊竜の鋭牙,Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.,,material,,5,,2060,,,Fang,Gray
-Radobaan Scale,骨鎚竜の鱗,Radobaan material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,480,,,Scale,White
-Radobaan Shell,骨鎚竜の甲殻,"Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,680,,,Carapace,White
-Radobaan Oilshell,骨鎚竜の黒油殻,"Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",,material,,4,,960,,,Body,White
-Wyvern Bonemass,竜骨塊,"Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",,material,,4,,880,,,Bone,White
-Radobaan Marrow,骨鎚竜の骨髄,"Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,4,,1120,,,Body,White
-Radobaan Scale+,骨鎚竜の上鱗,Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1080,,,Scale,White
-Radobaan Carapace,骨鎚竜の堅殻,"Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1580,,,Carapace,White
-Radobaan Medulla,骨鎚竜の延髄,"Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,6,,2240,,,Body,White
-Legiana Scale,風漂竜の鱗,Legiana material. Mostly obtained by carving Broadly used for many purposes.,,material,,4,,540,,,Scale,Blue
-Legiana Hide,風漂竜の皮,"Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,790,,,Hide,Blue
-Legiana Claw,風漂竜の爪,Legiana material. Mostly obtained by carving. Grants ice element properties.,,material,,4,,1040,,,Fang,Blue
-Legiana Webbing,風漂竜の翼膜,"Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,4,,1080,,,Wing,Blue
-Legiana Tail Webbing,風漂竜の尾膜,"Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",,material,,4,,1160,,,Tail,Blue
-Legiana Plate,風漂竜の逆鱗,"Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,5,,3000,,,Plate,Blue
-Legiana Scale+,風漂竜の上鱗,Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.,,material,,6,,1230,,,Scale,Blue
-Legiana Hide+,風漂竜の上皮,"Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",,material,,6,,1830,,,Hide,Blue
-Legiana Claw+,風漂竜の尖爪,Rare Legiana material. Mostly obtained by carving. Grants ice element properties.,,material,,6,,2430,,,Fang,Blue
-Legiana Wing,風漂竜の翼,"Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,6,,2460,,,Wing,Blue
-Legiana Gem,風漂竜の宝玉,A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.,,material,,7,,7200,,,Gem,Blue
-Odogaron Scale,惨爪竜の鱗,Odogaron material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,560,,,Scale,DarkRed
-Odogaron Sinew,惨爪竜の硬筋,"Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,810,,,Body,DarkRed
-Odogaron Claw,惨爪竜の爪,"Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,material,,4,,1060,,,Fang,DarkRed
-Odogaron Fang,惨爪竜の牙,"Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,4,,1120,,,Fang,DarkRed
-Odogaron Tail,惨爪竜の尻尾,"Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,4,,1240,,,Tail,DarkRed
-Odogaron Plate,惨爪竜の逆鱗,"Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,5,,3000,,,Plate,DarkRed
-Odogaron Scale+,惨爪竜の上鱗,Rare Odogaron material. Mostly obtained by carving Broadly used for many purposes.,,material,,6,,1240,,,Scale,DarkRed
-Odogaron Sinew+,惨爪竜の大硬筋,"Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1840,,,Body,DarkRed
-Odogaron Claw+,惨爪竜の尖爪,"Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,material,,6,,2440,,,Fang,DarkRed
-Odogaron Fang+,惨爪竜の鋭牙,"Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,6,,2480,,,Fang,DarkRed
-Odogaron Gem,惨爪竜の宝玉,A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.,,material,,7,,7200,,,Gem,DarkRed
-Rathalos Scale,火竜の鱗,Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,590,,,Scale,Red
-Rathalos Shell,火竜の甲殻,"Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,840,,,Carapace,Red
-Rathalos Webbing,火竜の翼膜,"Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,4,,1180,,,Wing,Red
-Rathalos Tail,火竜の尻尾,Rathalos material. Obtained by carving its severed tail. Compatible with fire element.,,material,,4,,1270,,,Tail,Red
-Rath Wingtalon,火竜の翼爪,"Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",,material,,4,,1090,,,Fang,Red
-Rathalos Marrow,火竜の骨髄,Rathalos material. Mostly obtained by carving Grants fire element properties.,,material,,4,,1360,,,Body,Red
-Rathalos Plate,火竜の逆鱗,"Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,5,,3000,,,Plate,Red
-Rathalos Scale+,火竜の上鱗,Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1250,,,Scale,Red
-Rathalos Carapace,火竜の堅殻,"Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1850,,,Carapace,Red
-Rathalos Wing,火竜の翼,"Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,6,,2500,,,Wing,Red
-Rathalos Medulla,火竜の延髄,Rare Rathalos material. Obtained by carving. Grants fire element properties.,,material,,6,,2600,,,Body,Red
-Rathalos Ruby,火竜の紅玉,A rare gem said to have formed within Rathalos tissue. Almost too nice to use.,,material,,7,,7200,,,Gem,Red
-Azure Rathalos Scale+,蒼火竜の上鱗,Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1450,,,Scale,Blue
-Azure Rathalos Carapace,蒼火竜の堅殻,"Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,2150,,,Carapace,Blue
-Azure Rathalos Tail,蒼火竜の尻尾,Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.,,material,,6,,3000,,,Tail,Blue
-Azure Rathalos Wing,蒼火竜の翼,"Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,6,,2850,,,Wing,Blue
-Diablos Shell,角竜の甲殻,Diablos material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,620,,,Carapace,DarkBeige
-Diablos Ridge,角竜の背甲,"Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,4,,870,,,Body,DarkBeige
-Diablos Tailcase,角竜の尾甲,"Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",,material,,4,,1240,,,Body,DarkBeige
-Diablos Fang,角竜の牙,"Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",,material,,4,,1120,,,Fang,DarkBeige
-Twisted Horn,ねじれた角,"Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,4,,1360,,,Fang,DarkBeige
-Diablos Marrow,角竜の骨髄,"Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,4,,1480,,,Body,DarkBeige
-Diablos Carapace,角竜の堅殻,Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1260,,,Carapace,DarkBeige
-Diablos Ridge+,角竜の堅甲,"Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1860,,,Body,DarkBeige
-Majestic Horn,上質なねじれた角,"Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,6,,2980,,,Fang,DarkBeige
-Blos Medulla,角竜の延髄,"Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,6,,3040,,,Body,DarkBeige
-Black Diablos Carapace,黒角竜の堅殻,Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.,,material,,6,,1450,,,Carapace,Gray
-Black Diablos Ridge+,黒角竜の堅甲,"Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,2150,,,Body,Gray
-Black Spiral Horn+,上質な黒巻き角,"Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,6,,5700,,,Fang,Gray
-Kirin Hide,幻獣の皮,Kirin material. Mostly obtained by carving. Broadly used for many purposes.,,material,,4,,750,,,Hide,White
-Kirin Tail,幻獣の尾,Kirin material. Mostly obtained as a reward. Compatible with thunder element.,,material,,4,,1000,,,Body,White
-Kirin Mane,幻獣のたてがみ,"Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",,material,,4,,1250,,,Body,White
-Kirin Thunderhorn,幻獣の雷角,Kirin material. Obtain by breaking its horn. Grants thunder element properties.,,material,,4,,1750,,,Fang,Blue
-Kirin Hide+,幻獣の上皮,Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,1630,,,Hide,White
-Kirin Thundertail,幻獣の雷尾,Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.,,material,,7,,2430,,,Body,White
-Kirin Azure Horn,幻獣の蒼角,Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.,,material,,7,,3200,,,Fang,Blue
-Zorah Magdaros Heat Scale,熔山龍の熱鱗,Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.,,material,,6,,800,,,Scale,Gray
-Zorah Magdaros Carapace,熔山龍の岩殻,"Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",,material,,6,,1200,,,Carapace,Gray
-Zorah Magdaros Ridge,熔山龍の背甲,"Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",,material,,6,,1400,,,Body,Gray
-Zorah Magdaros Pleura,熔山龍の胸殻,"Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",,material,,6,,1600,,,Body,Gray
-Zorah Magdaros Magma,熔山龍のマグマ,Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.,,material,,6,,3200,,,Ore,Red
-Zorah Magdaros Gem,熔山龍の宝玉,A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.,,material,,7,,6000,,,Gem,Gray
-Dodogama Scale+,岩賊竜の上鱗,Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1030,,,Scale,Blue
-Dodogama Hide+,岩賊竜の上皮,"Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,6,,1530,,,Hide,Blue
-Dodogama Jaw,岩賊竜の顎,Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.,,material,,6,,2120,,,Jaw,Blue
-Dodogama Talon,岩賊竜の尖爪,"Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",,material,,6,,2060,,,Fang,Blue
-Dodogama Tail,岩賊竜の尻尾,"Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",,material,,6,,2210,,,Tail,Blue
-Lavasioth Scale+,溶岩竜の上鱗,Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1280,,,Scale,Gray
-Lavasioth Carapace,溶岩竜の堅殻,"Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,1880,,,Carapace,Gray
-Lavasioth Fang+,溶岩竜の鋭牙,"Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,6,,2480,,,Fang,Gray
-Lavasioth Fin+,溶岩竜の上ヒレ,Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.,,material,,6,,2560,,,Body,Gray
-Uragaan Scale+,爆鎚竜の上鱗,Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1460,,,Scale,Gold
-Uragaan Carapace,爆鎚竜の堅殻,"Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,2160,,,Carapace,Gold
-Uragaan Jaw,爆鎚竜の顎,"Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",,material,,6,,2980,,,Jaw,Gold
-Uragaan Scute,爆鎚竜の耐熱殻,"Rare Uragaan material. Obtained by carving its severed tail. Highly heat resistant, used to craft gear.",,material,,6,,2880,,,Body,Gold
-Uragaan Marrow,爆鎚竜の延髄,"Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",,material,,6,,3100,,,Body,Gold
-Uragaan Ruby,爆鎚竜の紅玉,A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.,,material,,7,,8400,,,Gem,Gold
-Lava Nugget,溶岩塊,"A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together.",,material,,6,,1580,,,Ore,Beige
-Bazelgeuse Scale+,爆鱗竜の上鱗,Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.,,material,,5,,1600,,,Scale,White
-Bazelgeuse Carapace,爆鱗竜の堅殻,"Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,6,,2400,,,Carapace,White
-Bazelgeuse Tail,爆鱗竜の尻尾,"Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,6,,3600,,,Tail,White
-Bazelgeuse Fuse,爆鱗竜の爆腺,Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.,,material,,6,,4000,,,Body,Red
-Bazelgeuse Talon,爆鱗竜の尖爪,Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.,,material,,6,,3200,,,Fang,White
-Bazelgeuse Wing,爆鱗竜の翼,"Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",,material,,6,,3400,,,Wing,White
-Bazelgeuse Gem,爆鱗竜の宝玉,A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.,,material,,7,,9600,,,Gem,White
-Deviljho Scale,,Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.,,material,,6,,1600,,,Scale,DarkGreen
-Deviljho Hide,,"Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",,material,,6,,2400,,,Hide,DarkGreen
-Deviljho Tallfang,,"Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",,material,,6,,3200,,,Fang,DarkGreen
-Deviljho Talon,,Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.,,material,,6,,3400,,,Fang,DarkGreen
-Deviljho Scalp,,"Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",,material,,6,,4000,,,Jaw,DarkGreen
-Deviljho Tail,,"Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,6,,3600,,,Tail,DarkGreen
-Deviljho Saliva,,Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.,,material,,6,,2200,,,Liquid,DarkGreen
-Deviljho Gem,,A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.,,material,,7,,9600,,,Gem,DarkGreen
-Immortal Dragonscale,不滅の龍鱗,Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2100,,,Scale,Gray
-Nergigante Carapace,滅尽龍の堅殻,"Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3200,,,Carapace,Gray
-Nergigante Tail,滅尽龍の尻尾,"Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4300,,,Tail,Gray
-Nergigante Horn+,滅尽龍の大角,"Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",,material,,7,,5000,,,Fang,Gray
-Nergigante Talon,滅尽龍の尖爪,"Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",,material,,7,,4500,,,Fang,Gray
-Nergigante Regrowth Plate,滅尽龍の再生殻,"Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",,material,,7,,3400,,,Body,White
-Nergigante Gem,滅尽龍の宝玉,A rare gem said to have formed within Nergigante tissue. Holds untold potential.,,material,,8,,12000,,,Gem,Gray
-Deceased Scale,死屍の龍鱗,Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2250,,,Scale,White
-Vaal Hazak Carapace,屍套龍の堅殻,"Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3350,,,Carapace,White
-Vaal Hazak Membrane,屍套龍の被膜,Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.,,material,,7,,3500,,,Body,DarkRed
-Vaal Hazak Tail,屍套龍の尻尾,"Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4900,,,Tail,White
-Vaal Hazak Fang+,屍套龍の鋭牙,"Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",,material,,7,,4600,,,Fang,White
-Vaal Hazak Talon,屍套龍の尖爪,"Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",,material,,7,,4750,,,Fang,White
-Vaal Hazak Wing,屍套龍の翼,"Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",,material,,7,,4450,,,Wing,White
-Vaal Hazak Gem,屍套龍の宝玉,A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.,,material,,8,,12000,,,Gem,White
-Fire Dragon Scale+,獄炎の龍鱗,Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2300,,,Scale,Red
-Teostra Carapace,炎王龍の堅殻,"Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3400,,,Carapace,Red
-Teostra Mane,炎王龍のたてがみ,"Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",,material,,7,,3400,,,Body,Red
-Teostra Tail,炎王龍の尻尾,"Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4900,,,Tail,Red
-Teostra Horn+,炎王龍の尖角,"Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",,material,,7,,5500,,,Fang,Red
-Teostra Claw+,炎龍の尖爪,"Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",,material,,7,,4700,,,Fang,Red
-Teostra Webbing,炎龍の翼,"Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,7,,4500,,,Wing,Red
-Teostra Powder,炎龍の塵粉,"Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",,material,,7,,3600,,,Sac,Red
-Teostra Gem,炎龍の宝玉,A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.,,material,,8,,12000,,,Gem,Red
-Lunastra Scale+,,Rare Lunastra material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2300,,,Scale,Blue
-Lunastra Carapace,,"Rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3400,,,Carapace,Blue
-Lunastra Mane,,"Rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material.",,material,,7,,3400,,,Body,Blue
-Lunastra Wing,,"Rare Lunastra material. Obtained by breaking its wings. Supple, used to craft gear.",,material,,7,,4500,,,Wing,Blue
-Lunastra Horn,,"Rare Lunastra material. Obtained by breaking its head. Stout, used in many weapons.",,material,,7,,5500,,,Fang,Blue
-Lunastra Tail,,"Rare Lunastra material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4900,,,Tail,Blue
-Lunastra Gem,,A rare gem said to have formed within Lunastra tissue. Within it lies unimaginable power.,,material,,8,,12000,,,Gem,Blue
-Daora Dragon Scale+,鋼の上龍鱗,Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.,,material,,7,,2200,,,Scale,Gray
-Daora Carapace,鋼龍の堅殻,"Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",,material,,7,,3300,,,Carapace,Gray
-Daora Webbing,鋼龍の翼,"Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",,material,,7,,4300,,,Wing,Gray
-Daora Horn+,鋼龍の尖角,"Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",,material,,7,,4500,,,Fang,Gray
-Daora Tail,鋼龍の尻尾,"Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",,material,,7,,4800,,,Tail,Gray
-Daora Claw+,鋼龍の尖爪,Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.,,material,,7,,4400,,,Fang,Gray
-Daora Gem,鋼龍の宝玉,A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.,,material,,8,,12000,,,Gem,Gray
-Xeno'jiiva Soulscale,冥灯龍の幽鱗,Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.,,material,,7,,3000,,,Scale,White
-Xeno'jiiva Shell,冥灯龍の白殻,"A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",,material,,7,,4000,,,Carapace,White
-Xeno'jiiva Veil,冥灯龍の幽幕,A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.,,material,,7,,4300,,,Body,Blue
-Xeno'jiiva Tail,冥灯龍の尻尾,"A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",,material,,7,,6000,,,Tail,White
-Xeno'jiiva Horn,冥灯龍の幽角,"A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",,material,,7,,5600,,,Fang,White
-Xeno'jiiva Claw,冥灯龍の幽爪,"A rare Xeno'jiiva claw, said to cleave soul from flesh.",,material,,7,,5300,,,Fang,White
-Xeno'jiiva Wing,冥灯龍の幽翼,A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.,,material,,7,,5000,,,Wing,White
-Xeno'jiiva Gem,冥灯龍の幽玉,A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.,,material,,8,,15000,,,Gem,White
-Kulve Taroth Golden Scale,,Rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these.,,material,,7,,3000,,,Scale,Gold
-Kulve Taroth Golden Shell,,Rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine.,,material,,7,,4000,,,Carapace,Gold
-Kulve Taroth Golden Nugget,,Rare Kulve Taroth material. Obtained by collecting rare drops. Emits an exotic light towards those that look at it.,,material,,7,,1000,,,Ore,Gold
-Kulve Taroth Golden Spiralhorn,,Rare Kulve Taroth material. Obtained by breaking its head. It defiantly glows despite its age and weight.,,material,,7,,6000,,,Fang,Gold
-Kulve Taroth Golden Tailshell,,Rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold.,,material,,7,,5000,,,Body,Gold
-Kulve Taroth Golden Glimstone,,A rare gem said to have formed within Kulve Taroth tissue. Within it lies unimaginable power.,,material,,8,,15000,,,Gem,Gold
-Streamstone Shard,,"A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",,material,,6,,1000,,,Streamstone,Violet
-Streamstone,,"A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",,material,,7,,2000,,,Streamstone,Violet
-Gleaming Streamstone,,A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.,,material,,8,,3000,,,Streamstone,Violet
-Warrior's Streamstone: Sword,,A material used by champions of old. Used to bring out the hidden power in long swords and great swords.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Blade,,A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Hammer,,A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Lance,,A material used by champions of old. Used to bring out the hidden power in lances and gunlances.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Axe,,A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Shaft,,A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.,,material,,6,,10000,,,Streamstone,White
-Warrior's Streamstone: Ranged,,A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.,,material,,6,,10000,,,Streamstone,White
-Hero's Streamstone: Sword,英雄の龍脈石・剣,A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Blade,英雄の龍脈石・刃,A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Hammer,英雄の龍脈石・鎚,A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Lance,英雄の龍脈石・槍,A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Axe,英雄の龍脈石・斧,A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Shaft,英雄の龍脈石・柄,A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.,,material,,8,,20000,,,Streamstone,Beige
-Hero's Streamstone: Ranged,英雄の龍脈石・弩,A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.,,material,,8,,20000,,,Streamstone,Beige
-Voucher,,Redeem this for a special meal with stronger effects than usual.,,material,,4,,500,,,Voucher,Gray
-First Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",,material,,4,,0,,,Voucher,Green
-Deluxe First Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",,material,,4,,0,,,Voucher,Green
-Steel Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",,material,,4,,0,,,Voucher,DarkBeige
-Silver Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",,material,,4,,0,,,Voucher,White
-Gold Wyverian Print,,"A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",,material,,4,,0,,,Voucher,Gold
-Tailraider Voucher,オトモダチケット,Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!,,material,,4,,200,,,Voucher,LightBeige
-Gajalaka Sketch,,Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!,,material,,4,,200,,,Voucher,LightBeige
-Commendation,勇気の証,A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!,,material,,5,,0,,,Voucher,Orange
-High Commendation,勇気の証G,A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!,,material,,7,,0,,,Voucher,Orange
-Research Commission Ticket,調査団チケット,A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!,,material,,7,,0,,,Voucher,Cyan
-Pukei Coin,プケプケコイン,A coin given to those who have bested a Pukei-Pukei in the Arena.,,material,,4,,500,,,Coin,Lime
-Kulu Coin,クルルコイン,A coin given to those who have bested a Kulu-Ya-Ku in the Arena.,,material,,4,,500,,,Coin,LightBeige
-Rathian Coin,レイアコイン,A coin given to those who have bested a Rathian in the Arena.,,material,,4,,500,,,Coin,Green
-Tzitzi Coin,ツィツィコイン,A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.,,material,,4,,800,,,Coin,Blue
-Barroth Coin,ボロスコイン,A coin given to those who have bested a Barroth in the Arena.,,material,,4,,800,,,Coin,Beige
-Gama Coin,ガマルコイン,A coin given to those who have bested a Dodogama in the Arena.,,material,,4,,800,,,Coin,Blue
-Rathalos Coin,レウスコイン,A coin given to those who have bested a Rathalos in the Arena.,,material,,4,,800,,,Coin,Red
-Brute Coin,獣竜コイン,A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.,,material,,4,,1500,,,Coin,White
-Flying Coin,飛竜コイン,A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.,,material,,4,,1500,,,Coin,DarkBeige
-Pinnacle Coin,闘技王のコイン,A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.,,material,,4,,800,,,Coin,Red
-Hunter King Coin,狩猟王のコイン,A silver coin given to true hunters. It shines with all the glory of the Hunter King.,,material,,6,,1200,,,Coin,White
-Ace Hunter Coin,撃龍王のコイン,A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.,,material,,8,,2000,,,Coin,Gold
-Kulu-Ya-Ku Ticket,,A ticket given to those who help with Kulu-Ya-Ku research. Includes a very accurate sketch.,,material,,6,,400,,,Voucher,LightBeige
-Watcher Lens,,Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.,,material,,,,,,,Question,Gray
-Nora Brave Trophy,,Proof that you have completed the Proving. Grants you the right to craft special equipment.,,material,,,,,,,,
-Spring Blossom Ticket,,A ticket you receive for attending the Spring Blossom Fest. Can be exchanged for special equipment or fireworks.,,material,,4,,200,,,Voucher,Pink
-Summer Twilight Ticket,,A ticket you receive for attending the Summer Twilight Fest. Can be exchanged for special equipment or fireworks.,,material,,4,,200,,,Voucher,Blue
-Vaal Hazak Ticket,,"A ticket bearing Vaal Hazak, engulfed in eternal darkness. Redeem at the Smithy to make novel equipment.",,material,,8,,800,,,Voucher,Gray
-Kirin Ticket,,"A ticket bearing Kirin, carressed by lightning. Redeem at the Smithy to make novel equipment.",,material,,8,,800,,,Voucher,White
-Black Bandage,,Cloth made from the glossy black hide of a monster. Not obtainable by normal means.,,material,,6,,400,,,Question,Gray
-Black Crystal Ticket,,A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.,,material,,6,,400,,,Voucher,Gray
-Wiggler Ticket,,A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.,,material,,6,,400,,,Voucher,Blue
-Mega Man Ticket,,A ticket for a special Mega Man tie-in. Gives you access to special 8-bit retro Palico equipment.,,material,,6,,400,,,Voucher,Blue
-SFV Ticket,SFVチケット,A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?,,material,,4,,200,,,Voucher,White
-SFV Ticket III,,A Street Fighter V collaboration ticket. Has that legendary world warrior leveled up his game!?,,material,,6,,400,,,Voucher,Blue
-SFV Ticket II,,"A Street Fighter V collaboration ticket. Wait, that female fighter is also going to hunt monsters!?",,material,,6,,400,,,Voucher,Red
-Azure Star Shard,,"Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",,material,,4,,200,,,,
-Spring Insect Field Guide,,,,material,,,,,,,,
-Red Orb,,Blood of demonic beings condensed into stone. Can be used to craft stylish devil hunter equipment,,material,,8,,800,,,Gem,Red
-Master Craftsman's Blueprint,,"A blueprint for a revolutionary Great Sword, designed by a famed craftsman.",,material,,6,,800,,,Voucher,Gray
-Bushi Ticket,,A voucher given to those who assisted in the special investigation. Be sure to show it to the Resource Center!,,material,,4,,400,,,Voucher,Red
-Steel Egg,,"An egg of glittering steel. Valuable and rare, but of no use to a hunter.",,material,trade,4,,1000,,,Egg,Gray
-Silver Egg,,"An egg of glittering silver. Valuable and rare, but of no use to a hunter.",,material,trade,4,,10000,,,Egg,White
-Golden Egg,,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter.",,material,trade,,,,,,Egg,
-Chipped Scale,,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors.",,material,trade,4,,500,,,Scale,Gray
-Large Scale,,Acquired by using the Bandit Mantle. Consistently popular among collectors.,,material,trade,4,,1000,,,Scale,LightBeige
-Beautiful Scale,,Acquired by using the Bandit Mantle. In perpetual demand among collectors.,,material,trade,5,,2000,,,Scale,White
-Lustrous Scale,,Acquired by using the Bandit Mantle. A source of pride for any collector.,,material,trade,6,,3000,,,Scale,Cyan
-Glimmering Scale,,Acquired by using the Bandit Mantle. A must-have for any collector.,,material,trade,7,,5000,,,Scale,Gold
-Bhernastone,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,4,,400,,,Ore,Cyan
-Dundormarin,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,4,,800,,,Ore,Blue
-Loc Lac Ore,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,5,,1500,,,Ore,LightBeige
-Val Habar Quartz,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,6,,2000,,,Ore,White
-Minegardenite,,"An Old World import. Beautiful, but not suitable for crafting.",,material,trade,7,,5000,,,Ore,Gold
-Golden Scale,,The scales of a Goldenfish. They shimmer like only pure gold can.,,material,trade,,,,,,,
-Golden Scale+,,The scales of a Great Goldenfish. Trades at the same price as actual gold.,,material,trade,,,,,,,
-Platinum Scale,,The scales of a Platinumfish. They give off a beautiful gleam.,,material,trade,,,,,,,
-Platinum Scale+,,The scales of a Great Platinumfish. Their shine is nigh on blinding.,,material,trade,,,,,,,
-Gilded Scale,,The scales of a Goldenfry. Used by artisans in their crafts.,,material,trade,,,,,,,
-Gilded Scale+,,The scales of a Great Goldenfry. Used in the very finest of crafts.,,material,trade,,,,,,,
-Golden Fragment,,A fragment of pure gold. It fetches a high price despite its size.,,material,trade,4,,750,,,,
-Golden Chunk,,A precious lump of gold. Its brilliance can bewitch the purest of hearts.,,material,trade,4,,1500,,,,
-Gold Chip Fragment,,A fragment that a Copper Calappa harvest from a Kulve Taroth track.,,material,trade,4,,300,,,,
-Normal Ammo 2,,Non-specialized ammo. More powerful than Normal Ammo 1.,,ammo,,2,3,1,99,,Ammo,White
-Normal Ammo 3,,Ammo made with high-quality gunpowder. Each shot packs considerable punch.,,ammo,,3,,2,99,,Ammo,White
-Pierce Ammo 1,,Armor-piercing ammo that deals multiple hits to some monsters.,,ammo,,1,4,2,60,,Ammo,Blue
-Pierce Ammo 2,,High-grade armor-piercing ammo. Deals more hits than Pierce Ammo 1.,,ammo,,2,8,2,60,,Ammo,Blue
-Pierce Ammo 3,,Max-grade armor-piercing ammo. Deals numerous hits.,,ammo,,3,,3,60,,Ammo,Blue
-Spread Ammo 1,,Ammo that covers a wide area. Deals multiple hits at close range.,,ammo,,1,4,1,80,,Ammo,DarkGreen
-Spread Ammo 2,,High-grade ammo that covers a wide area. Deals more hits than Spread Ammo 1.,,ammo,,2,8,2,70,,Ammo,DarkGreen
-Spread Ammo 3,,Max-grade ammo that covers a wide area and deals numerous hits.,,ammo,,3,,2,60,,Ammo,DarkGreen
-Sticky Ammo 1,,Powerful ammo that lodges in a target and explodes. Also stuns.,,ammo,,1,12,2,9,,Ammo,Beige
-Sticky Ammo 2,,Very powerful ammo that lodges in a target and explodes. Also stuns.,,ammo,,2,24,3,9,,Ammo,Beige
-Sticky Ammo 3,,Extremely ammo that lodges in a target and explodes. Also stuns.,,ammo,,3,,4,9,,Ammo,Beige
-Cluster Bomb 1,,Ammo that fragments into three shells upon impact. Beware of friendly fire!,,ammo,,2,30,6,3,,Ammo,DarkRed
-Cluster Bomb 2,,Ammo that fragments into four shells upon impact. Beware of friendly fire!,,ammo,,3,60,6,3,,Ammo,DarkRed
-Cluster Bomb 3,,Ammo that fragments into five shells upon impact. Beware of friendly fire!,,ammo,,4,,10,3,,Ammo,DarkRed
-Flaming Ammo,,Ammo that packs a punch against monsters susceptible to fire.,,ammo,,2,20,2,60,,Ammo,Orange
-Water Ammo,,Ammo that packs a punch against monsters susceptible to water.,,ammo,,2,20,2,60,,Ammo,DarkPurple
-Thunder Ammo,,Ammo that packs a punch against monsters susceptible to thunder.,,ammo,,2,20,2,60,,Ammo,Gold
-Freeze Ammo,,Ammo that packs a punch against monsters susceptible to freeze.,,ammo,,2,20,2,60,,Ammo,White
-Dragon Ammo,,Elderseal-imbued ammo that packs a punch against monsters weak to dragon.,,ammo,,3,,10,3,,Ammo,DarkRed
-Poison Ammo 1,,"Poisons target, but may require several shots.",,ammo,,2,15,2,12,,Ammo,Violet
-Poison Ammo 2,,Enhanced ammo that inflicts poison. Some targets require multiple shots.,,ammo,,3,30,2,12,,Ammo,Violet
-Paralysis Ammo 1,,Ammo that causes paralysis. Some targets require multiple shots.,,ammo,,2,15,3,12,,Ammo,Yellow
-Paralysis Ammo 2,,Enhanced ammo that causes paralysis. Some targets require multiple shots.,,ammo,,3,30,5,8,,Ammo,Yellow
-Sleep Ammo 1,,Ammo that induces sleep. Some targets require multiple shots.,,ammo,,2,15,2,12,,Ammo,Cyan
-Sleep Ammo 2,,Enhanced ammo that induces sleep. Some targets require multiple shots.,,ammo,,3,30,3,8,,Ammo,Cyan
-Exhaust Ammo 1,,Ammo that drains a monster's stamina.,,ammo,,2,15,3,12,,Ammo,DarkPurple
-Exhaust Ammo 2,,Enhanced ammo that drains a monster's stamina.,,ammo,,3,30,5,8,,Ammo,DarkPurple
-Recover Ammo 1,,Ammo that restores a small amount of health to an ally upon impact.,,ammo,,2,8,2,12,,Ammo,Green
-Recover Ammo 2,,Ammo that restores a moderate amount of health to an ally upon impact.,,ammo,,3,,2,12,,Ammo,Green
-Wyvern Ammo,,Ammo created through years of research into Wyvern's Fire,,ammo,,3,62,6,5,,Ammo,DarkBeige
-Slicing Ammo,,"Ammo that ejects sharp blades on impact, which can sever tails.",,ammo,,2,12,3,30,,Ammo,White
-Tranq Ammo,,Bowgun ammo used to capture monsters ensnared in traps.,,ammo,,3,45,4,8,,Ammo,Pink
-Demon Ammo,,Ammo that fills the target with savage amounts of strength.,,ammo,,4,,9,5,,Ammo,Red
-Armor Ammo,,Amoo that makes the target's skin as hard as stone.,,ammo,,4,,7,5,,Ammo,Beige
-Power Coating,,An arrow coating that increases the attack power of arrows.,,ammo,,2,20,2,50,,Bottle,Red
-Poison Coating,,An arrow coating that applies poison effects to arrows.,,ammo,,3,17,2,20,,Bottle,Violet
-Paralysis Coating,,An arrow coating that applies paralysis effects to arrows.,,ammo,,3,26,3,20,,Bottle,Yellow
-Sleep Coating,,An arrow coating that induces sleep.,,ammo,,3,17,2,20,,Bottle,Cyan
-Blast Coating,,An arrow coating that applies explosive powder to arrows.,,ammo,,3,20,6,20,,Bottle,Lime
-Normal Ammo 1,,,,hidden,,,,,,,Ammo,White
-Mysterious Feystone,,A jewel that conceals faint traces of power within it.,,misc,appraisal,4,,25,,,Feystone,Gray
-Glowing Feystone,,A jewel that conceals an unknown power within it.,,misc,appraisal,5,,25,,,Feystone,Blue
-Worn Feystone,,A jewel that conceals considerable power within it.,,misc,appraisal,6,,25,,,Feystone,Beige
-Warped Feystone,,A jewel that conceals a mystical power within it.,,misc,appraisal,7,,25,,,Feystone,Red
-Sullied Streamstone,,"Though dirty, this stone pulses with undeniable power.",,misc,appraisal,,,,,,Streamstone,Gray
-Shining Streamstone,,A stone that shines with the brilliance of endless possibility.,,misc,appraisal,,,,,,Streamstone,Gold
-Wyvern Tear,竜のナミダ,Bitter tears wept by wyverns on certain occasions.,,misc,account,3,,,,200,Body,Blue
-Large Wyvern Tear,竜の大粒ナミダ,,,misc,account,,,,,,,
-Dragon Treasure,龍秘宝,A shiny rock that elder dragons like to collect.,,misc,account,3,,,,800,Ore,Violet
-White Liver,ホワイトレバ,"A white-colored liver, popular for its juicy texture.",,misc,account,2,,,,40,Meat,White
-Gourmet Shroomcap,,A mushroom from the Ancient Forest. Known for its unique tenderness.,,misc,account,,,,,10,Mushroom,White
-Exquisite Shroomcap,,A rare mushroom from the Ancient Forest. Highly sought after by elite chefs.,,misc,account,,,,,25,Mushroom,White
-Spirit Shroomcap,,A precious mushroom from the Ancient Forest. Possesses a fantastical glow.,,misc,account,,,,,50,Mushroom,White
-Moonlit Mushroom,,,,misc,account,,,,,,,
-Sunbloom,,A flower from the Ancient Forest. It's been bathed in the warmth of the sun.,,misc,account,,,,,12,Herb,Pink
-Shinebloom,,A rare flower from the Ancient Forest. Has a scent of sunlight on its petals.,,misc,account,,,,,27,Herb,Pink
-Goldbloom,,,,misc,account,,,,,,Herb,Pink
-Bauble Cactus,,A cactus from the Wildspire Waste. Small but fleshy.,,misc,account,2,,,,14,Herb,Green
-Jewel Cactus,,A rare cactus from the Wildspire Waste. Big and meaty.,,misc,account,3,,,,28,Herb,Green
-Kingly Cactus,,,,misc,account,,,,,,Herb,Green
-Hardfruit,,"Fruit from the Wildspire Waste. Hard on the outside, juicy on the inside.",,misc,account,2,,,,12,Seed,Orange
-Super Abalone,,Coral Highlands seafood. A rare delicacy.,,misc,account,2,,,,16,Sac,LightBeige
-Choice Abalone,,"Rare Coral Highlands seafood. Big in size, big in flavor.",,misc,account,3,,,,36,Sac,LightBeige
-Precious Abalone,,Precious Coral Highlands seafood. A delicacy among delicacies.,,misc,account,4,,,,210,Sac,LightBeige
-Light Pearl,,A jewel from the Coral Highlands. Gleams brilliantly.,,misc,account,2,,,,18,Charm,Gray
-Deep Pearl,,A rare jewel from the Coral Highlands. Glows with a profound luster.,,misc,account,3,,,,38,Charm,Gray
-Innocent Pearl,,A precious jewel from the Coral Highlands. Glistens with purity.,,misc,account,4,,,,180,Charm,Gray
-Underground Fruit,,Fruit from the Rotten Vale. It grows to maturity without sun.,,misc,account,2,,,,14,Seed,DarkRed
-Tainted Fruit,,Rare Fruit from the Rotten Vale. It thrives under arduous conditions.,,misc,account,3,,,,34,Seed,DarkRed
-Elysian Fruit,,Precious fruit from the Rotten Vale. Its aroma is not of this world.,,misc,account,4,,,,190,Seed,DarkRed
-Forgotten Fossil,,A fossil from the Rotten Vale. It bears tracks from antiquity.,,misc,account,2,,,,15,Bone,DarkBeige
-Legendary Fossil,,A rare fossil from the Rotten Vale. The life it holds is long extinct.,,misc,account,3,,,,35,Bone,DarkBeige
-Mystical Fossil,,A precious fossil from the Rotten Vale. The key to an ancient mystery.,,misc,account,,,,,200,Bone,DarkBeige
-Blue Beryl,,A gem from the Elder's Recess. It shines with the color of the waves.,,misc,account,2,,,,32,Ore,Blue
-True Beryl,,A rare gem from the Elder's Recess. It glints with the clarity of truth.,,misc,account,3,,,,54,Ore,Blue
-Abyssal Beryl,,"A precious gem from the Elder's Recess. Has a deep, hypnotic hue.",,misc,account,4,,,,260,Ore,Blue
-Gaia Amber,,Amber from the Elder's Recess. A golden tear plucked from the earth.,,misc,account,2,,,,30,Ore,Beige
-Dragonvein Amber,,Rare amber from the Elder's Recess. It pulses with nature's raw energy.,,misc,account,3,,,,50,Ore,Beige
-Ancient Amber,,Precious amber from the Elder's Recess. A piece of antiquity.,,misc,account,4,,,,250,Ore,Beige
-First-aid Med,,Restores a small amount of health.,,misc,supply,1,,,10,,Liquid,Green
-First-aid Med+,,Restores a moderate amount of health.,,misc,supply,2,,,10,,Liquid,Green
-EZ Ration,,Restores a small amount of stamina.,,misc,supply,1,,,10,,Meat,DarkBeige
-EZ Max Potion,,Fully restores health and maximizes your Health Gauge.,,misc,supply,2,,,2,,Pellets,LightBeige
-EZ Shock Trap,,Immobilizes a target for easy capture.,,misc,supply,3,,,1,,Trap,Yellow
-EZ Pitfall Trap,,Activates a pitfall to catch monsters with.,,misc,supply,3,,,1,,Trap,DarkGreen
-EZ Dung Pod,,Releases a strong odor on impact. Causes certain monsters to flee.,,misc,supply,2,,,10,,Slinger,Beige
-EZ Flash Pod,,Slinger ammo that flashes brightly on impact.,,misc,supply,2,,,3,,Slinger,Gold
-EZ Screamer Pod,,Slinger ammo that femits an earsplitting sonic blast.,,misc,supply,2,,,3,,Slinger,Gray
-Throwing Knife,,A knife that can be shot from your slinger. Can be coated with a range of chemicals.,,misc,supply,1,,,10,,Knife,White
-Tranq Knife,,A knife coated with a tranquilizer that can be shot from your slinger.,,misc,supply,3,,,8,,Knife,Pink
-Poison Knife,,A knife coated with poison that can be shot from your slinger.,,misc,supply,2,,,5,,Knife,Violet
-Sleep Knife,,A knife coated with a sedative that can be shot from your slinger.,,misc,supply,2,,,5,,Knife,Cyan
-Paralysis Knife,,A knife coated with a paralyzing toxin that can be shot from your slinger.,,misc,supply,2,,,5,,Knife,Yellow
-EZ Farcaster,,Call for a wingdrake to transport you to the nearest camp.,,misc,supply,3,,,1,,Smoke,Green
-EZ Tranq Bomb,,A hand grenade used to capture monsters ensnared in traps.,,misc,supply,3,,,8,,Smoke,Red
+name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,icon_name,icon_color
+Potion,item,,1,66,8,10,,Liquid,Green
+Mega Potion,item,,2,,2,10,,Liquid,Green
+Max Potion,item,,3,,210,2,,Pellets,Gold
+Ancient Potion,item,,5,,345,1,,Pellets,Gold
+Antidote,item,,1,60,6,10,,Liquid,Blue
+Herbal Medicine,item,,2,,25,5,,Pellets,Blue
+Nulberry,item,,2,,120,10,,Seed,Blue
+Energy Drink,item,,2,,6,10,,Liquid,Yellow
+Ration,item,,1,,3,10,,Meat,DarkBeige
+Rare Steak,item,,1,,3,10,,Meat,DarkBeige
+Well-done Steak,item,,2,,48,10,,Meat,Beige
+Burnt Meat,item,,1,,1,10,,Meat,Gray
+Cool Drink,item,,1,300,30,5,,Liquid,White
+Nutrients,item,,2,,25,5,,Liquid,Cyan
+Mega Nutrients,item,,3,,92,5,,Liquid,Cyan
+Immunizer,item,,3,,92,10,,Liquid,Beige
+Astera Jerky,item,,2,98,10,5,,Meat,Pink
+Dash Juice,item,,2,,29,5,,Liquid,Gold
+Might Seed,item,,2,,140,10,,Seed,Red
+Demondrug,item,,4,,67,5,,Liquid,Red
+Mega Demondrug,item,,5,,283,5,,Liquid,Red
+Might Pill,item,,4,,280,5,,Pellets,Red
+Adamant Seed,item,,2,,110,10,,Seed,Beige
+Armorskin,item,,4,,58,5,,Liquid,Beige
+Mega Armorskin,item,,5,,269,5,,Liquid,Beige
+Adamant Pill,item,,4,,260,5,,Pellets,Beige
+Lifepowder,item,,4,,315,3,,Sac,LightBeige
+Herbal Powder,item,,4,,315,3,,Sac,Blue
+Demon Powder,item,,4,,315,3,,Sac,Red
+Hardshell Powder,item,,4,,315,3,,Sac,Beige
+Honey,item,,2,,45,10,,Webbing,Beige
+Herb,item,,1,,2,10,,Herb,Green
+Antidote Herb,item,,1,,2,10,,Herb,Blue
+Fire Herb,item,,2,,4,20,,Herb,Orange
+Flowfern,item,,1,,4,20,,Herb,DarkPurple
+Snow Herb,item,,2,,6,20,,Herb,White
+Sleep Herb,item,,1,,5,10,,Herb,Cyan
+Ivy,item,,1,,8,10,,Herb,DarkGreen
+Smokenut,item,,1,,4,10,,Seed,White
+Dragonfell Berry,item,,4,,78,10,,Seed,DarkRed
+Blue Mushroom,item,,2,,2,10,,Mushroom,Blue
+Mandragora,item,,3,,40,10,,Mushroom,Beige
+Nitroshroom,item,,2,,6,20,,Mushroom,Red
+Devil's Blight,item,,2,,60,10,,Mushroom,DarkRed
+Parashroom,item,,3,,15,10,,Mushroom,Yellow
+Toadstool,item,,2,,8,10,,Mushroom,Violet
+Exciteshroom,item,,3,,18,10,,Mushroom,DarkGreen
+Chillshroom,item,,3,,18,10,,Mushroom,White
+Bitterbug,item,,1,,2,10,,Bug,Blue
+Flashbug,item,,2,,48,10,,Bug,Gold
+Godbug,item,,4,,120,10,,Bug,White
+Thunderbug,item,,4,,80,10,,Bug,Yellow
+Baitbug,item,,3,,2,10,,Bait,Pink
+Kelbi Horn,item,,4,,52,99,,Fang,Green
+Dash Extract,item,,4,,56,20,,Liquid,Gold
+Nourishing Extract,item,,4,,122,20,,Liquid,White
+Screamer Sac,item,,2,,15,10,,Sac,Gray
+Catalyst,item,,2,,48,5,,Sac,DarkGreen
+Tranq Bomb,item,,3,,35,8,,Smoke,Red
+Flash Pod,item,,2,,57,3,,Slinger,Gold
+Screamer Pod,item,,2,,45,3,,Slinger,Gray
+Dung Pod,item,,2,,20,10,,Slinger,Beige
+Smoke Bomb,item,,2,,44,3,,Smoke,White
+Poison Smoke Bomb,item,,2,,60,5,,Smoke,Violet
+Farcaster,item,,3,,30,1,,Smoke,Green
+Raw Meat,item,,1,,5,10,,Meat,Red
+Poisoned Meat,item,,2,,19,10,,Meat,Violet
+Tinged Meat,item,,2,,30,10,,Meat,Yellow
+Drugged Meat,item,,2,,32,10,,Meat,Cyan
+Gunpowder,item,,2,,45,20,,Sac,Orange
+Small Barrel,item,,1,80,8,10,,Barrel,Gold
+Barrel Bomb,item,,2,156,16,10,,BarrelBomb,Gold
+Bounce Bomb,item,,2,150,18,5,,BarrelBomb,Cyan
+Mega Bounce Bomb,item,,4,,68,5,,BarrelBomb,Cyan
+Large Barrel,item,,2,210,21,5,,Barrel,Orange
+Large Barrel Bomb,item,,3,518,52,2,,BarrelBomb,Orange
+Mega Barrel Bomb,item,,4,,80,2,,BarrelBomb,Orange
+Spider Web,item,,1,,6,10,,Web,White
+Net,item,,2,,54,10,,Web,DarkGreen
+Trap Tool,item,,3,200,20,2,,TrapTool,White
+Pitfall Trap,item,,3,,200,1,,Trap,DarkGreen
+Shock Trap,item,,3,,160,1,,Trap,Yellow
+Rolled-up Dung,item,,1,,10,20,,Dung,DarkBeige
+Dung,item,,1,,1,10,,Dung,DarkBeige
+Arowana Bait,item,,2,150,15,10,,Bait,Green
+Gunpowderfish Bait,item,,2,150,15,10,,Bait,White
+Goldenfish Bait,item,,2,300,30,10,,Bait,Gold
+Boomerang,item,,4,150,15,5,,Boomerang,Gold
+Binoculars,item,,1,50,5,1,,Binoculars,Gray
+Powercharm,item,,5,36000,3,1,,Sac,Red
+Powertalon,item,,5,,6,1,,Fang,Red
+Armorcharm,item,,5,24000,2,1,,Sac,Beige
+Armortalon,item,,5,,5,1,,Fang,Beige
+Needleberry,item,,1,,1,99,,Husk,DarkGreen
+Blastnut,item,,1,,4,30,,Husk,Beige
+Dragonstrike Nut,item,,2,,12,5,,Husk,DarkBeige
+Slashberry,item,,1,,4,60,,Husk,White
+Latchberry,item,,1,,4,99,,Husk,Blue
+Bomberry,item,,2,,12,10,,Husk,DarkRed
+Flamenut,item,,2,,12,80,,Seed,Gray
+Blazenut,item,,2,,12,60,,Seed,Gray
+Gunpowder Level 2,item,,2,16,1,80,,Sac,Gray
+Gunpowder Level 3,item,,2,30,3,80,,Sac,Gray
+Whetfish Fin,item,,2,,45,10,,Scale,Gold
+Whetfish Fin+,item,,4,,45,5,,Scale,Gold
+Sushifish Scale,item,,2,,45,10,,Scale,Beige
+Great Sushifish Scale,item,,4,,45,5,,Scale,Beige
+Gunpowderfish Scale,item,,3,,150,5,,Scale,Gray
+Great Gunpowderfish Scale,item,,4,,150,5,,Scale,Gray
+Burst Arowana Scale,item,,2,,45,5,,Scale,Green
+Great Burst Arowana Scale,item,,4,,45,5,,Scale,Green
+Bomb Arowana Scale,item,,2,,135,5,,Scale,Violet
+Great Bomb Arowana Scale,item,,4,,135,5,,Scale,Violet
+Empty Phial,item,,1,5,1,99,,EmptyBottle,
+Iron Ore,material,,4,,60,,,Ore,Gray
+Machalite Ore,material,,4,,160,,,Ore,Blue
+Dragonite Ore,material,,4,,480,,,Ore,Green
+Carbalite Ore,material,,6,,680,,,Ore,Violet
+Fucium Ore,material,,6,,1020,,,Ore,Pink
+Earth Crystal,material,,4,,80,,,Ore,White
+Coral Crystal,material,,4,,600,,,Ore,Blue
+Dragonvein Crystal,material,,6,,800,,,Ore,Red
+Lightcrystal,material,,5,,1150,,,Ore,Gray
+Novacrystal,material,,7,,2440,,,Ore,White
+Firecell Stone,material,,7,,1720,,,Ore,Beige
+Aquacore Ore,material,,4,,400,,,CharmOre,Blue
+Spiritcore Ore,material,,6,,800,,,CharmOre,Gray
+Dreamcore Ore,material,,7,,1200,,,CharmOre,Violet
+Dragoncore Ore,material,,8,,2000,,,CharmOre,Gold
+Armor Sphere,material,,4,,80,,,Sphere,Blue
+Armor Sphere+,material,,5,,200,,,Sphere,Green
+Advanced Armor Sphere,material,,6,,300,,,Sphere,Beige
+Hard Armor Sphere,material,,7,,400,,,Sphere,Violet
+Heavy Armor Sphere,material,,8,,600,,,Sphere,Red
+Sturdy Bone,material,,4,,500,,,Bone,White
+Quality Bone,material,,6,,750,,,Bone,White
+Ancient Bone,material,,4,,400,,,Bone,Green
+Boulder Bone,material,,4,,400,,,Bone,Gold
+Coral Bone,material,,4,,800,,,Bone,Pink
+Warped Bone,material,,4,,800,,,Bone,DarkBeige
+Brutal Bone,material,,6,,1200,,,Bone,Gray
+Dragonbone Relic,material,,7,,1600,,,Bone,White
+Unknown Skull,material,,7,,1800,,,Bone,Gold
+Great Hornfly,material,,5,,200,,,Bug,Gold
+Sinister Cloth,material,,5,,350,,,Question,Gray
+Monster Bone S,material,,4,,30,,,Bone,Gold
+Monster Bone M,material,,4,,300,,,Bone,Gold
+Monster Bone L,material,,4,,400,,,Bone,Gold
+Monster Bone+,material,,4,,500,,,Bone,Beige
+Monster Keenbone,material,,6,,800,,,Bone,Pink
+Monster Hardbone,material,,6,,1200,,,Bone,DarkRed
+Elder Dragon Bone,material,,7,,1600,,,Bone,Violet
+Sharp Claw,material,,4,,200,,,Fang,Gray
+Piercing Claw,material,,6,,800,,,Fang,Gray
+Monster Fluid,material,,4,,200,,,Liquid,Cyan
+Monster Broth,material,,6,,800,,,Liquid,Blue
+Poison Sac,material,,4,,600,,,Sac,Violet
+Toxin Sac,material,,6,,1600,,,Sac,Violet
+Paralysis Sac,material,,4,,800,,,Sac,Yellow
+Omniplegia Sac,material,,6,,1600,,,Sac,Yellow
+Sleep Sac,material,,4,,800,,,Sac,Blue
+Coma Sac,material,,6,,1600,,,Sac,Blue
+Flame Sac,material,,4,,800,,,Sac,Red
+Inferno Sac,material,,6,,1600,,,Sac,Red
+Aqua Sac,material,,4,,600,,,Sac,Cyan
+Torrent Sac,material,,6,,1600,,,Sac,Cyan
+Frost Sac,material,,4,,1000,,,Sac,White
+Freezer Sac,material,,6,,2400,,,Sac,White
+Electro Sac,material,,4,,1000,,,Sac,Gold
+Thunder Sac,material,,6,,1600,,,Sac,Gold
+Bird Wyvern Gem,material,,7,,4000,,,Gem,Blue
+Wyvern Gem,material,,7,,4000,,,Gem,Cyan
+Elder Dragon Blood,material,,7,,1600,,,Liquid,Red
+Mosswine Hide,material,,4,,200,,,Hide,DarkGreen
+Warm Pelt,material,,4,,120,,,Hide,Green
+High-quality Pelt,material,,6,,320,,,Hide,Beige
+Vespoid Shell,material,,4,,160,,,Bug,Gold
+Vespoid Wing,material,,4,,210,,,Webbing,Gold
+Vespoid Carapace,material,,6,,460,,,Bug,Gold
+Vespoid Innerwing,material,,6,,560,,,Webbing,Gold
+Hornetaur Shell,material,,4,,260,,,Bug,Gray
+Hornetaur Wing,material,,4,,310,,,Webbing,Gray
+Hornetaur Head,material,,4,,360,,,Bug,Gray
+Hornetaur Carapace,material,,6,,560,,,Bug,Gray
+Hornetaur Innerwing,material,,6,,660,,,Webbing,Gray
+Gajau Skin,material,,4,,220,,,Hide,DarkBeige
+Gajau Whisker,material,,4,,270,,,Body,DarkBeige
+Gajau Scale,material,,6,,420,,,Hide,DarkBeige
+Grand Gajau Whisker,material,,6,,520,,,Body,DarkBeige
+Wingdrake Hide,material,,4,,180,,,Wing,DarkBeige
+Wingdrake Hide+,material,,6,,380,,,Wing,DarkBeige
+Barnos Hide+,material,,6,,720,,,Hide,DarkBeige
+Barnos Talon,material,,6,,820,,,Fang,DarkBeige
+Kestodon Shell,material,,4,,180,,,Carapace,Beige
+Kestodon Scalp,material,,4,,230,,,Jaw,Beige
+Kestodon Carapace,material,,6,,430,,,Carapace,Beige
+Gastodon Carapace,material,,6,,760,,,Carapace,DarkRed
+Gastodon Horn,material,,6,,860,,,Fang,DarkRed
+Jagras Scale,material,,4,,140,,,Scale,Gold
+Jagras Hide,material,,4,,180,,,Hide,Gold
+Jagras Scale+,material,,6,,340,,,Scale,Gold
+Jagras Hide+,material,,6,,480,,,Hide,Gold
+Shamos Scale,material,,4,,220,,,Scale,Red
+Shamos Hide,material,,4,,280,,,Hide,Red
+Shamos Scale+,material,,6,,420,,,Scale,Red
+Shamos Hide+,material,,6,,480,,,Hide,Red
+Girros Scale,material,,4,,240,,,Scale,Gray
+Girros Hide,material,,4,,300,,,Hide,Gray
+Girros Fang,material,,4,,260,,,Fang,Yellow
+Girros Scale+,material,,6,,460,,,Scale,Gray
+Girros Hide+,material,,6,,520,,,Hide,Gray
+Great Jagras Scale,material,,4,,260,,,Scale,Gold
+Great Jagras Hide,material,,4,,360,,,Hide,Gold
+Great Jagras Mane,material,,4,,440,,,Body,Gold
+Great Jagras Claw,material,,4,,420,,,Fang,Gold
+Great Jagras Scale+,material,,6,,860,,,Scale,Gold
+Great Jagras Hide+,material,,6,,1220,,,Hide,Gold
+Great Jagras Claw+,material,,6,,1620,,,Fang,Gold
+Kulu-Ya-Ku Scale,material,,4,,290,,,Scale,Beige
+Kulu-Ya-Ku Hide,material,,4,,390,,,Hide,Beige
+Kulu-Ya-Ku Plume,material,,4,,460,,,Body,Orange
+Kulu-Ya-Ku Beak,material,,4,,490,,,Jaw,Beige
+Kulu-Ya-Ku Scale+,material,,6,,890,,,Scale,Beige
+Kulu-Ya-Ku Hide+,material,,6,,1290,,,Hide,Beige
+Kulu-Ya-Ku Plume+,material,,6,,1660,,,Body,Orange
+Kulu-Ya-Ku Beak+,material,,6,,1660,,,Jaw,Beige
+Pukei-Pukei Scale,material,,4,,360,,,Scale,Lime
+Pukei-Pukei Shell,material,,4,,470,,,Carapace,Lime
+Pukei-Pukei Quill,material,,4,,640,,,Wing,Lime
+Pukei-Pukei Sac,material,,4,,660,,,Sac,Lime
+Pukei-Pukei Tail,material,,4,,620,,,Tail,Lime
+Pukei-Pukei Scale+,material,,6,,950,,,Scale,Lime
+Pukei-Pukei Carapace,material,,6,,1350,,,Carapace,Lime
+Pukei-Pukei Wing,material,,6,,1700,,,Wing,Lime
+Pukei-Pukei Sac+,material,,6,,1750,,,Sac,Lime
+Barroth Shell,material,,4,,1330,,,Carapace,Beige
+Barroth Ridge,material,,4,,480,,,Body,Beige
+Barroth Claw,material,,4,,630,,,Fang,Beige
+Barroth Scalp,material,,4,,870,,,Jaw,Beige
+Barroth Tail,material,,4,,800,,,Tail,Beige
+Fertile Mud,material,,4,,390,,,Dung,Beige
+Barroth Carapace,material,,6,,870,,,Carapace,Beige
+Barroth Ridge+,material,,6,,1270,,,Body,Beige
+Barroth Claw+,material,,6,,1670,,,Fang,Beige
+Jyuratodus Scale,material,,4,,340,,,Scale,LightBeige
+Jyuratodus Shell,material,,4,,490,,,Carapace,LightBeige
+Jyuratodus Fang,material,,4,,640,,,Fang,LightBeige
+Jyuratodus Fin,material,,4,,720,,,Body,LightBeige
+Jyuratodus Scale+,material,,6,,1040,,,Scale,LightBeige
+Jyuratodus Carapace,material,,6,,1540,,,Carapace,LightBeige
+Jyuratodus Fang+,material,,6,,2040,,,Fang,LightBeige
+Jyuratodus Fin+,material,,6,,2120,,,Body,LightBeige
+Tobi-Kadachi Scale,material,,4,,360,,,Scale,Cyan
+Tobi-Kadachi Pelt,material,,4,,510,,,Hide,Cyan
+Tobi-Kadachi Membrane,material,,4,,800,,,Wing,Cyan
+Tobi-Kadachi Claw,material,,4,,660,,,Fang,Cyan
+Tobi-Kadachi Electrode,material,,4,,720,,,Body,Cyan
+Tobi-Kadachi Scale+,material,,6,,1050,,,Scale,Cyan
+Tobi-Kadachi Pelt+,material,,6,,1550,,,Hide,Cyan
+Tobi-Kadachi Claw+,material,,6,,1650,,,Fang,Cyan
+Tobi-Kadachi Electrode+,material,,6,,1750,,,Body,Cyan
+Anjanath Scale,material,,4,,430,,,Scale,Pink
+Anjanath Pelt,material,,4,,630,,,Hide,Pink
+Anjanath Fang,material,,4,,830,,,Fang,Pink
+Anjanath Nosebone,material,,4,,890,,,Bone,Pink
+Anjanath Tail,material,,4,,860,,,Tail,Pink
+Anjanath Plate,material,,5,,2400,,,Plate,Pink
+Anjanath Scale+,material,,6,,1060,,,Scale,Pink
+Anjanath Pelt+,material,,6,,1560,,,Hide,Pink
+Anjanath Fang+,material,,6,,2060,,,Fang,Pink
+Anjanath Nosebone+,material,,6,,2120,,,Bone,Pink
+Anjanath Gem,material,,7,,6000,,,Gem,Pink
+Rathian Scale,material,,4,,460,,,Scale,Green
+Rathian Shell,material,,4,,660,,,Carapace,Green
+Rathian Webbing,material,,4,,860,,,Wing,Green
+Rathian Spike,material,,4,,980,,,Body,Green
+Rathian Plate,material,,5,,2400,,,Plate,Green
+Rathian Scale+,material,,6,,1060,,,Scale,Green
+Rathian Carapace,material,,6,,1560,,,Carapace,Green
+Rathian Spike+,material,,6,,2240,,,Body,Green
+Rathian Ruby,material,,7,,6000,,,Gem,Green
+Pink Rathian Scale+,material,,6,,1260,,,Scale,Pink
+Pink Rathian Carapace,material,,6,,1860,,,Carapace,Pink
+Tzitzi-Ya-Ku Scale,material,,4,,440,,,Scale,Blue
+Tzitzi-Ya-Ku Hide,material,,4,,640,,,Hide,Blue
+Tzitzi-Ya-Ku Claw,material,,4,,840,,,Fang,Blue
+Tzitzi-Ya-Ku Photophore,material,,4,,920,,,Body,Blue
+Tzitzi-Ya-Ku Scale+,material,,6,,840,,,Scale,Blue
+Tzitzi-Ya-Ku Hide+,material,,6,,1240,,,Hide,Blue
+Tzitzi-Ya-Ku Claw+,material,,6,,1640,,,Fang,Blue
+Tzitzi-Ya-Ku Photophore+,material,,6,,1680,,,Body,Blue
+Paolumu Pelt,material,,4,,650,,,Hide,White
+Paolumu Scale,material,,4,,450,,,Scale,White
+Paolumu Shell,material,,4,,950,,,Carapace,Pink
+Paolumu Webbing,material,,4,,850,,,Wing,White
+Paolumu Pelt+,material,,6,,1570,,,Hide,White
+Paolumu Scale+,material,,6,,1070,,,Scale,White
+Paolumu Carapace+,material,,6,,2140,,,Carapace,Pink
+Paolumu Wing,material,,6,,2070,,,Wing,White
+Great Girros Scale,material,,4,,450,,,Scale,Gray
+Great Girros Hide,material,,4,,650,,,Hide,Gray
+Great Girros Hood,material,,4,,950,,,Body,Gray
+Great Girros Fang,material,,4,,750,,,Fang,Gray
+Great Girros Tail,material,,4,,850,,,Tail,Gray
+Great Girros Scale+,material,,6,,1060,,,Scale,Gray
+Great Girros Hide+,material,,6,,1560,,,Hide,Gray
+Great Girros Hood+,material,,6,,2180,,,Body,Gray
+Great Girros Fang+,material,,5,,2060,,,Fang,Gray
+Radobaan Scale,material,,4,,480,,,Scale,White
+Radobaan Shell,material,,4,,680,,,Carapace,White
+Radobaan Oilshell,material,,4,,960,,,Body,White
+Wyvern Bonemass,material,,4,,880,,,Bone,White
+Radobaan Marrow,material,,4,,1120,,,Body,White
+Radobaan Scale+,material,,6,,1080,,,Scale,White
+Radobaan Carapace,material,,6,,1580,,,Carapace,White
+Radobaan Medulla,material,,6,,2240,,,Body,White
+Legiana Scale,material,,4,,540,,,Scale,Blue
+Legiana Hide,material,,4,,790,,,Hide,Blue
+Legiana Claw,material,,4,,1040,,,Fang,Blue
+Legiana Webbing,material,,4,,1080,,,Wing,Blue
+Legiana Tail Webbing,material,,4,,1160,,,Tail,Blue
+Legiana Plate,material,,5,,3000,,,Plate,Blue
+Legiana Scale+,material,,6,,1230,,,Scale,Blue
+Legiana Hide+,material,,6,,1830,,,Hide,Blue
+Legiana Claw+,material,,6,,2430,,,Fang,Blue
+Legiana Wing,material,,6,,2460,,,Wing,Blue
+Legiana Gem,material,,7,,7200,,,Gem,Blue
+Odogaron Scale,material,,4,,560,,,Scale,DarkRed
+Odogaron Sinew,material,,4,,810,,,Body,DarkRed
+Odogaron Claw,material,,4,,1060,,,Fang,DarkRed
+Odogaron Fang,material,,4,,1120,,,Fang,DarkRed
+Odogaron Tail,material,,4,,1240,,,Tail,DarkRed
+Odogaron Plate,material,,5,,3000,,,Plate,DarkRed
+Odogaron Scale+,material,,6,,1240,,,Scale,DarkRed
+Odogaron Sinew+,material,,6,,1840,,,Body,DarkRed
+Odogaron Claw+,material,,6,,2440,,,Fang,DarkRed
+Odogaron Fang+,material,,6,,2480,,,Fang,DarkRed
+Odogaron Gem,material,,7,,7200,,,Gem,DarkRed
+Rathalos Scale,material,,4,,590,,,Scale,Red
+Rathalos Shell,material,,4,,840,,,Carapace,Red
+Rathalos Webbing,material,,4,,1180,,,Wing,Red
+Rathalos Tail,material,,4,,1270,,,Tail,Red
+Rath Wingtalon,material,,4,,1090,,,Fang,Red
+Rathalos Marrow,material,,4,,1360,,,Body,Red
+Rathalos Plate,material,,5,,3000,,,Plate,Red
+Rathalos Scale+,material,,6,,1250,,,Scale,Red
+Rathalos Carapace,material,,6,,1850,,,Carapace,Red
+Rathalos Wing,material,,6,,2500,,,Wing,Red
+Rathalos Medulla,material,,6,,2600,,,Body,Red
+Rathalos Ruby,material,,7,,7200,,,Gem,Red
+Azure Rathalos Scale+,material,,6,,1450,,,Scale,Blue
+Azure Rathalos Carapace,material,,6,,2150,,,Carapace,Blue
+Azure Rathalos Tail,material,,6,,3000,,,Tail,Blue
+Azure Rathalos Wing,material,,6,,2850,,,Wing,Blue
+Diablos Shell,material,,4,,620,,,Carapace,DarkBeige
+Diablos Ridge,material,,4,,870,,,Body,DarkBeige
+Diablos Tailcase,material,,4,,1240,,,Body,DarkBeige
+Diablos Fang,material,,4,,1120,,,Fang,DarkBeige
+Twisted Horn,material,,4,,1360,,,Fang,DarkBeige
+Diablos Marrow,material,,4,,1480,,,Body,DarkBeige
+Diablos Carapace,material,,6,,1260,,,Carapace,DarkBeige
+Diablos Ridge+,material,,6,,1860,,,Body,DarkBeige
+Majestic Horn,material,,6,,2980,,,Fang,DarkBeige
+Blos Medulla,material,,6,,3040,,,Body,DarkBeige
+Black Diablos Carapace,material,,6,,1450,,,Carapace,Gray
+Black Diablos Ridge+,material,,6,,2150,,,Body,Gray
+Black Spiral Horn+,material,,6,,5700,,,Fang,Gray
+Kirin Hide,material,,4,,750,,,Hide,White
+Kirin Tail,material,,4,,1000,,,Body,White
+Kirin Mane,material,,4,,1250,,,Body,White
+Kirin Thunderhorn,material,,4,,1750,,,Fang,Blue
+Kirin Hide+,material,,7,,1630,,,Hide,White
+Kirin Thundertail,material,,7,,2430,,,Body,White
+Kirin Azure Horn,material,,7,,3200,,,Fang,Blue
+Zorah Magdaros Heat Scale,material,,6,,800,,,Scale,Gray
+Zorah Magdaros Carapace,material,,6,,1200,,,Carapace,Gray
+Zorah Magdaros Ridge,material,,6,,1400,,,Body,Gray
+Zorah Magdaros Pleura,material,,6,,1600,,,Body,Gray
+Zorah Magdaros Magma,material,,6,,3200,,,Ore,Red
+Zorah Magdaros Gem,material,,7,,6000,,,Gem,Gray
+Dodogama Scale+,material,,6,,1030,,,Scale,Blue
+Dodogama Hide+,material,,6,,1530,,,Hide,Blue
+Dodogama Jaw,material,,6,,2120,,,Jaw,Blue
+Dodogama Talon,material,,6,,2060,,,Fang,Blue
+Dodogama Tail,material,,6,,2210,,,Tail,Blue
+Lavasioth Scale+,material,,6,,1280,,,Scale,Gray
+Lavasioth Carapace,material,,6,,1880,,,Carapace,Gray
+Lavasioth Fang+,material,,6,,2480,,,Fang,Gray
+Lavasioth Fin+,material,,6,,2560,,,Body,Gray
+Uragaan Scale+,material,,6,,1460,,,Scale,Gold
+Uragaan Carapace,material,,6,,2160,,,Carapace,Gold
+Uragaan Jaw,material,,6,,2980,,,Jaw,Gold
+Uragaan Scute,material,,6,,2880,,,Body,Gold
+Uragaan Marrow,material,,6,,3100,,,Body,Gold
+Uragaan Ruby,material,,7,,8400,,,Gem,Gold
+Lava Nugget,material,,6,,1580,,,Ore,Beige
+Bazelgeuse Scale+,material,,5,,1600,,,Scale,White
+Bazelgeuse Carapace,material,,6,,2400,,,Carapace,White
+Bazelgeuse Tail,material,,6,,3600,,,Tail,White
+Bazelgeuse Fuse,material,,6,,4000,,,Body,Red
+Bazelgeuse Talon,material,,6,,3200,,,Fang,White
+Bazelgeuse Wing,material,,6,,3400,,,Wing,White
+Bazelgeuse Gem,material,,7,,9600,,,Gem,White
+Deviljho Scale,material,,6,,1600,,,Scale,DarkGreen
+Deviljho Hide,material,,6,,2400,,,Hide,DarkGreen
+Deviljho Tallfang,material,,6,,3200,,,Fang,DarkGreen
+Deviljho Talon,material,,6,,3400,,,Fang,DarkGreen
+Deviljho Scalp,material,,6,,4000,,,Jaw,DarkGreen
+Deviljho Tail,material,,6,,3600,,,Tail,DarkGreen
+Deviljho Saliva,material,,6,,2200,,,Liquid,DarkGreen
+Deviljho Gem,material,,7,,9600,,,Gem,DarkGreen
+Immortal Dragonscale,material,,7,,2100,,,Scale,Gray
+Nergigante Carapace,material,,7,,3200,,,Carapace,Gray
+Nergigante Tail,material,,7,,4300,,,Tail,Gray
+Nergigante Horn+,material,,7,,5000,,,Fang,Gray
+Nergigante Talon,material,,7,,4500,,,Fang,Gray
+Nergigante Regrowth Plate,material,,7,,3400,,,Body,White
+Nergigante Gem,material,,8,,12000,,,Gem,Gray
+Deceased Scale,material,,7,,2250,,,Scale,White
+Vaal Hazak Carapace,material,,7,,3350,,,Carapace,White
+Vaal Hazak Membrane,material,,7,,3500,,,Body,DarkRed
+Vaal Hazak Tail,material,,7,,4900,,,Tail,White
+Vaal Hazak Fang+,material,,7,,4600,,,Fang,White
+Vaal Hazak Talon,material,,7,,4750,,,Fang,White
+Vaal Hazak Wing,material,,7,,4450,,,Wing,White
+Vaal Hazak Gem,material,,8,,12000,,,Gem,White
+Fire Dragon Scale+,material,,7,,2300,,,Scale,Red
+Teostra Carapace,material,,7,,3400,,,Carapace,Red
+Teostra Mane,material,,7,,3400,,,Body,Red
+Teostra Tail,material,,7,,4900,,,Tail,Red
+Teostra Horn+,material,,7,,5500,,,Fang,Red
+Teostra Claw+,material,,7,,4700,,,Fang,Red
+Teostra Webbing,material,,7,,4500,,,Wing,Red
+Teostra Powder,material,,7,,3600,,,Sac,Red
+Teostra Gem,material,,8,,12000,,,Gem,Red
+Lunastra Scale+,material,,7,,2300,,,Scale,Blue
+Lunastra Carapace,material,,7,,3400,,,Carapace,Blue
+Lunastra Mane,material,,7,,3400,,,Body,Blue
+Lunastra Wing,material,,7,,4500,,,Wing,Blue
+Lunastra Horn,material,,7,,5500,,,Fang,Blue
+Lunastra Tail,material,,7,,4900,,,Tail,Blue
+Lunastra Gem,material,,8,,12000,,,Gem,Blue
+Daora Dragon Scale+,material,,7,,2200,,,Scale,Gray
+Daora Carapace,material,,7,,3300,,,Carapace,Gray
+Daora Webbing,material,,7,,4300,,,Wing,Gray
+Daora Horn+,material,,7,,4500,,,Fang,Gray
+Daora Tail,material,,7,,4800,,,Tail,Gray
+Daora Claw+,material,,7,,4400,,,Fang,Gray
+Daora Gem,material,,8,,12000,,,Gem,Gray
+Xeno'jiiva Soulscale,material,,7,,3000,,,Scale,White
+Xeno'jiiva Shell,material,,7,,4000,,,Carapace,White
+Xeno'jiiva Veil,material,,7,,4300,,,Body,Blue
+Xeno'jiiva Tail,material,,7,,6000,,,Tail,White
+Xeno'jiiva Horn,material,,7,,5600,,,Fang,White
+Xeno'jiiva Claw,material,,7,,5300,,,Fang,White
+Xeno'jiiva Wing,material,,7,,5000,,,Wing,White
+Xeno'jiiva Gem,material,,8,,15000,,,Gem,White
+Kulve Taroth Golden Scale,material,,7,,3000,,,Scale,Gold
+Kulve Taroth Golden Shell,material,,7,,4000,,,Carapace,Gold
+Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold
+Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold
+Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold
+Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold
+Streamstone Shard,material,,6,,1000,,,Streamstone,Violet
+Streamstone,material,,7,,2000,,,Streamstone,Violet
+Gleaming Streamstone,material,,8,,3000,,,Streamstone,Violet
+Warrior's Streamstone: Sword,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Blade,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Hammer,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Lance,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Axe,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Shaft,material,,6,,10000,,,Streamstone,White
+Warrior's Streamstone: Ranged,material,,6,,10000,,,Streamstone,White
+Hero's Streamstone: Sword,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Blade,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Hammer,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Lance,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Axe,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Shaft,material,,8,,20000,,,Streamstone,Beige
+Hero's Streamstone: Ranged,material,,8,,20000,,,Streamstone,Beige
+Voucher,material,,4,,500,,,Voucher,Gray
+First Wyverian Print,material,,4,,0,,,Voucher,Green
+Deluxe First Wyverian Print,material,,4,,0,,,Voucher,Green
+Steel Wyverian Print,material,,4,,0,,,Voucher,DarkBeige
+Silver Wyverian Print,material,,4,,0,,,Voucher,White
+Gold Wyverian Print,material,,4,,0,,,Voucher,Gold
+Tailraider Voucher,material,,4,,200,,,Voucher,LightBeige
+Gajalaka Sketch,material,,4,,200,,,Voucher,LightBeige
+Commendation,material,,5,,0,,,Voucher,Orange
+High Commendation,material,,7,,0,,,Voucher,Orange
+Research Commission Ticket,material,,7,,0,,,Voucher,Cyan
+Pukei Coin,material,,4,,500,,,Coin,Lime
+Kulu Coin,material,,4,,500,,,Coin,LightBeige
+Rathian Coin,material,,4,,500,,,Coin,Green
+Tzitzi Coin,material,,4,,800,,,Coin,Blue
+Barroth Coin,material,,4,,800,,,Coin,Beige
+Gama Coin,material,,4,,800,,,Coin,Blue
+Rathalos Coin,material,,4,,800,,,Coin,Red
+Brute Coin,material,,4,,1500,,,Coin,White
+Flying Coin,material,,4,,1500,,,Coin,DarkBeige
+Pinnacle Coin,material,,4,,800,,,Coin,Red
+Hunter King Coin,material,,6,,1200,,,Coin,White
+Ace Hunter Coin,material,,8,,2000,,,Coin,Gold
+Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige
+Watcher Lens,material,,,,,,,Question,Gray
+Nora Brave Trophy,material,,,,,,,,
+Spring Blossom Ticket,material,,4,,200,,,Voucher,Pink
+Summer Twilight Ticket,material,,4,,200,,,Voucher,Blue
+Vaal Hazak Ticket,material,,8,,800,,,Voucher,Gray
+Kirin Ticket,material,,8,,800,,,Voucher,White
+Black Bandage,material,,6,,400,,,Question,Gray
+Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
+Wiggler Ticket,material,,6,,400,,,Voucher,Blue
+Mega Man Ticket,material,,6,,400,,,Voucher,Blue
+SFV Ticket,material,,4,,200,,,Voucher,White
+SFV Ticket III,material,,6,,400,,,Voucher,Blue
+SFV Ticket II,material,,6,,400,,,Voucher,Red
+Azure Star Shard,material,,4,,200,,,,
+Spring Insect Field Guide,material,,,,,,,,
+Red Orb,material,,8,,800,,,Gem,Red
+Master Craftsman's Blueprint,material,,6,,800,,,Voucher,Gray
+Bushi Ticket,material,,4,,400,,,Voucher,Red
+Steel Egg,material,trade,4,,1000,,,Egg,Gray
+Silver Egg,material,trade,4,,10000,,,Egg,White
+Golden Egg,material,trade,,,,,,Egg,
+Chipped Scale,material,trade,4,,500,,,Scale,Gray
+Large Scale,material,trade,4,,1000,,,Scale,LightBeige
+Beautiful Scale,material,trade,5,,2000,,,Scale,White
+Lustrous Scale,material,trade,6,,3000,,,Scale,Cyan
+Glimmering Scale,material,trade,7,,5000,,,Scale,Gold
+Bhernastone,material,trade,4,,400,,,Ore,Cyan
+Dundormarin,material,trade,4,,800,,,Ore,Blue
+Loc Lac Ore,material,trade,5,,1500,,,Ore,LightBeige
+Val Habar Quartz,material,trade,6,,2000,,,Ore,White
+Minegardenite,material,trade,7,,5000,,,Ore,Gold
+Golden Scale,material,trade,,,,,,,
+Golden Scale+,material,trade,,,,,,,
+Platinum Scale,material,trade,,,,,,,
+Platinum Scale+,material,trade,,,,,,,
+Gilded Scale,material,trade,,,,,,,
+Gilded Scale+,material,trade,,,,,,,
+Golden Fragment,material,trade,4,,750,,,,
+Golden Chunk,material,trade,4,,1500,,,,
+Gold Chip Fragment,material,trade,4,,300,,,,
+Normal Ammo 2,ammo,,2,3,1,99,,Ammo,White
+Normal Ammo 3,ammo,,3,,2,99,,Ammo,White
+Pierce Ammo 1,ammo,,1,4,2,60,,Ammo,Blue
+Pierce Ammo 2,ammo,,2,8,2,60,,Ammo,Blue
+Pierce Ammo 3,ammo,,3,,3,60,,Ammo,Blue
+Spread Ammo 1,ammo,,1,4,1,80,,Ammo,DarkGreen
+Spread Ammo 2,ammo,,2,8,2,70,,Ammo,DarkGreen
+Spread Ammo 3,ammo,,3,,2,60,,Ammo,DarkGreen
+Sticky Ammo 1,ammo,,1,12,2,9,,Ammo,Beige
+Sticky Ammo 2,ammo,,2,24,3,9,,Ammo,Beige
+Sticky Ammo 3,ammo,,3,,4,9,,Ammo,Beige
+Cluster Bomb 1,ammo,,2,30,6,3,,Ammo,DarkRed
+Cluster Bomb 2,ammo,,3,60,6,3,,Ammo,DarkRed
+Cluster Bomb 3,ammo,,4,,10,3,,Ammo,DarkRed
+Flaming Ammo,ammo,,2,20,2,60,,Ammo,Orange
+Water Ammo,ammo,,2,20,2,60,,Ammo,DarkPurple
+Thunder Ammo,ammo,,2,20,2,60,,Ammo,Gold
+Freeze Ammo,ammo,,2,20,2,60,,Ammo,White
+Dragon Ammo,ammo,,3,,10,3,,Ammo,DarkRed
+Poison Ammo 1,ammo,,2,15,2,12,,Ammo,Violet
+Poison Ammo 2,ammo,,3,30,2,12,,Ammo,Violet
+Paralysis Ammo 1,ammo,,2,15,3,12,,Ammo,Yellow
+Paralysis Ammo 2,ammo,,3,30,5,8,,Ammo,Yellow
+Sleep Ammo 1,ammo,,2,15,2,12,,Ammo,Cyan
+Sleep Ammo 2,ammo,,3,30,3,8,,Ammo,Cyan
+Exhaust Ammo 1,ammo,,2,15,3,12,,Ammo,DarkPurple
+Exhaust Ammo 2,ammo,,3,30,5,8,,Ammo,DarkPurple
+Recover Ammo 1,ammo,,2,8,2,12,,Ammo,Green
+Recover Ammo 2,ammo,,3,,2,12,,Ammo,Green
+Wyvern Ammo,ammo,,3,62,6,5,,Ammo,DarkBeige
+Slicing Ammo,ammo,,2,12,3,30,,Ammo,White
+Tranq Ammo,ammo,,3,45,4,8,,Ammo,Pink
+Demon Ammo,ammo,,4,,9,5,,Ammo,Red
+Armor Ammo,ammo,,4,,7,5,,Ammo,Beige
+Power Coating,ammo,,2,20,2,50,,Bottle,Red
+Poison Coating,ammo,,3,17,2,20,,Bottle,Violet
+Paralysis Coating,ammo,,3,26,3,20,,Bottle,Yellow
+Sleep Coating,ammo,,3,17,2,20,,Bottle,Cyan
+Blast Coating,ammo,,3,20,6,20,,Bottle,Lime
+Normal Ammo 1,hidden,,,,,,,Ammo,White
+Mysterious Feystone,misc,appraisal,4,,25,,,Feystone,Gray
+Glowing Feystone,misc,appraisal,5,,25,,,Feystone,Blue
+Worn Feystone,misc,appraisal,6,,25,,,Feystone,Beige
+Warped Feystone,misc,appraisal,7,,25,,,Feystone,Red
+Sullied Streamstone,misc,appraisal,,,,,,Streamstone,Gray
+Shining Streamstone,misc,appraisal,,,,,,Streamstone,Gold
+Wyvern Tear,misc,account,3,,,,200,Body,Blue
+Large Wyvern Tear,misc,account,,,,,,,
+Dragon Treasure,misc,account,3,,,,800,Ore,Violet
+White Liver,misc,account,2,,,,40,Meat,White
+Gourmet Shroomcap,misc,account,,,,,10,Mushroom,White
+Exquisite Shroomcap,misc,account,,,,,25,Mushroom,White
+Spirit Shroomcap,misc,account,,,,,50,Mushroom,White
+Moonlit Mushroom,misc,account,,,,,,,
+Sunbloom,misc,account,,,,,12,Herb,Pink
+Shinebloom,misc,account,,,,,27,Herb,Pink
+Goldbloom,misc,account,,,,,,Herb,Pink
+Bauble Cactus,misc,account,2,,,,14,Herb,Green
+Jewel Cactus,misc,account,3,,,,28,Herb,Green
+Kingly Cactus,misc,account,,,,,,Herb,Green
+Hardfruit,misc,account,2,,,,12,Seed,Orange
+Super Abalone,misc,account,2,,,,16,Sac,LightBeige
+Choice Abalone,misc,account,3,,,,36,Sac,LightBeige
+Precious Abalone,misc,account,4,,,,210,Sac,LightBeige
+Light Pearl,misc,account,2,,,,18,Charm,Gray
+Deep Pearl,misc,account,3,,,,38,Charm,Gray
+Innocent Pearl,misc,account,4,,,,180,Charm,Gray
+Underground Fruit,misc,account,2,,,,14,Seed,DarkRed
+Tainted Fruit,misc,account,3,,,,34,Seed,DarkRed
+Elysian Fruit,misc,account,4,,,,190,Seed,DarkRed
+Forgotten Fossil,misc,account,2,,,,15,Bone,DarkBeige
+Legendary Fossil,misc,account,3,,,,35,Bone,DarkBeige
+Mystical Fossil,misc,account,,,,,200,Bone,DarkBeige
+Blue Beryl,misc,account,2,,,,32,Ore,Blue
+True Beryl,misc,account,3,,,,54,Ore,Blue
+Abyssal Beryl,misc,account,4,,,,260,Ore,Blue
+Gaia Amber,misc,account,2,,,,30,Ore,Beige
+Dragonvein Amber,misc,account,3,,,,50,Ore,Beige
+Ancient Amber,misc,account,4,,,,250,Ore,Beige
+First-aid Med,misc,supply,1,,,10,,Liquid,Green
+First-aid Med+,misc,supply,2,,,10,,Liquid,Green
+EZ Ration,misc,supply,1,,,10,,Meat,DarkBeige
+EZ Max Potion,misc,supply,2,,,2,,Pellets,LightBeige
+EZ Shock Trap,misc,supply,3,,,1,,Trap,Yellow
+EZ Pitfall Trap,misc,supply,3,,,1,,Trap,DarkGreen
+EZ Dung Pod,misc,supply,2,,,10,,Slinger,Beige
+EZ Flash Pod,misc,supply,2,,,3,,Slinger,Gold
+EZ Screamer Pod,misc,supply,2,,,3,,Slinger,Gray
+Throwing Knife,misc,supply,1,,,10,,Knife,White
+Tranq Knife,misc,supply,3,,,8,,Knife,Pink
+Poison Knife,misc,supply,2,,,5,,Knife,Violet
+Sleep Knife,misc,supply,2,,,5,,Knife,Cyan
+Paralysis Knife,misc,supply,2,,,5,,Knife,Yellow
+EZ Farcaster,misc,supply,3,,,1,,Smoke,Green
+EZ Tranq Bomb,misc,supply,3,,,8,,Smoke,Red
