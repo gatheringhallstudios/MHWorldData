@@ -8,7 +8,7 @@ Buster Blade III,バスターブレイドⅢ,Claymore III,Lama devastatrice III,
 Chrome Razor I,クロームレイザーⅠ,Zweihänder,Rasoio cromato I,Chrom-Rasiermesser I,Cromocuchilla I,Navalha Cromada I,Chromowa brzytwa I,Блестящее лезвие 1,크롬레이저Ⅰ,鉻鋼剃刀Ⅰ,شفرة الكروم I
 Chrome Razor II,クロームレイザーⅡ,Zweihänder II,Rasoio cromato II,Chrom-Rasiermesser II,Cromocuchilla II,Navalha Cromada II,Chromowa brzytwa II,Блестящее лезвие 2,크롬레이저Ⅱ,鉻鋼剃刀Ⅱ,شفرة الكروم II
 Nergal Judicator,ネルガルジャッジ,Jugement Nergal,Giudice Nergi,Nergal-Richter,Sentencia Nergal,Julgadora de Nergal,Nergalny Sędzia,Нергальский вершитель,네르갈저지,滅盡龍的裁決,مُحاكم نيرغال
-Purgation's Atrocity,滅鬼の凶器,Atrocité du Purgatoire,Purificazione atroce,Atrozität,Purgatorio Atroz,Crueldade da Purgação,Zbrodnia oczyszczenia,Бич искупления,멸혼의흉기,滅鬼兇器,قسوة التطهير
+Purgation's Atrocity,滅鬼の凶器,Atrocité du Purgatoire,Purificazione atroce,Atrozität,Purgatorio Atroz,Crueldade da Purgação,Zbrodnia oczyszczenia,Бич искупления,멸귀의 흉기,滅鬼兇器,قسوة التطهير
 Thunder Blade I,サンダーブレイドⅠ,Estramaçon de l'orage,Lama del tuono I,Donnerklinge I,Hoja Trueno I,Lâmina de Raio I,Ostrze piorunów I,Клинок грозы 1,선더블레이드Ⅰ,雷刃劍Ⅰ,نصل الرعد I
 Thunder Blade II,サンダーブレイドⅡ,Estramaçon de l'orage II,Lama del tuono II,Donnerklinge II,Hoja Trueno II,Lâmina de Raio II,Ostrze piorunów II,Клинок грозы 2,선더블레이드Ⅱ,雷刃劍Ⅱ,نصل الرعد II
 Lightning Punisher I,ライトニングパニッシュⅠ,Vengeur de foudre,Punitore lampante I,Blitz-Bestrafer I,Castigadora Relámpago I,Punição Fulgural I,Ostrze błyskawic I,Молниеносный каратель 1,라이트닝퍼니시Ⅰ,雷光懲罰者Ⅰ,مُعاقِب البرق I
@@ -87,8 +87,8 @@ Daora's Decimator,ダオラ＝デグニダル,Décimeur Daora,Decimatore Daora,D
 Xeno Maliq,ゼノ＝マーリク,Xeno Maliq,Maliq Xeno,Xeno-Maliq,Xeno Maliq,Maliq de Xeno,Xeno Maliq,Ксено-малик,제노마리크,冥燈龍大劍,زينو ماليك
 Wyvern Jawblade,リュウノアギト,Mâchoire wyverne,Mascellama wyvern,Wyvern-Kiefernklinge,Filo Muerdedragón,Maxilâmina de Serpe,Szczękowe wiwernostrze,Оскал виверны,용의아기토,龍顎劍,نصل فك التنين المجنح
 Great Wyvern Jawblade,リュウノアギト【大牙】,Grande mâchoire wyverne,Gran mascellama wyvern,Großwyvern-Kiefernklinge,Gran Filo Muerdedragón,Grd. Maxilâmina de Serpe,Wielkie sz. wiwernostrze,Оскал большой виверны,용의아기토【어금니】,龍顎劍【大牙】,نصل فك تنين مجنح عظيم
-Berserker Sword,,,,,,,,,,,
-Anguish,,,,,,,,,,,
+Berserker Sword,ベルセルクソード,Fureur sacrée,Spada Berserker,Berserker-Schwert,Espada de Berserker,Espada da Fúria,Miecz berserkera,Меч берсерка,버서크소드,狂戰士之劍,سيف الثائر
+Anguish,アングイッシュ,Angoisse,Angoscia,Pein,Agonía,Angústia,Cierpienie,Страдание,앵귀시,痛苦之劍,العذاب
 Iron Katana I,鉄刀Ⅰ,Katana de fer,Katana di ferro I,Eisen-Katana I,Katana Férrea I,Katana de Ferro I,Żelazna katana I,Железная катана 1,철도Ⅰ,鐵刀Ⅰ,كاتانا الحديدي I
 Iron Katana II,鉄刀Ⅱ,Katana de fer II,Katana di ferro II,Eisen-Katana II,Katana Férrea II,Katana de Ferro II,Żelazna katana II,Железная катана 2,철도Ⅱ,鐵刀Ⅱ,كاتانا الحديدي II
 Iron Katana III,鉄刀Ⅲ,Katana de fer III,Katana di ferro III,Eisen-Katana III,Katana Férrea III,Katana de Ferro III,Żelazna katana III,Железная катана 3,철도Ⅲ,鐵刀Ⅲ,كاتانا الحديدي III
@@ -112,13 +112,13 @@ Last Dance II,アルダジャージュⅡ,Marche funèbre II,Ultimo ballo II,Let
 Last Dance III,アルダジャージュⅢ,Marche funèbre III,Ultimo ballo III,Letzter Tanz III,Último Baile III,Última Dança III,Ostatni taniec III,Последний танец 3,알다자주Ⅲ,星空迅刀Ⅲ,الرقصة الأخيرة III
 Brazenridge I,ブラスリッジⅠ,Épée du maraudeur,Lama d'ottone I,Messingrücken I,Filo Audaz I,Bravespinho I,Twardogrzbiet I,Медный кряж 1,브라스리지Ⅰ,爆鎚太刀Ⅰ,الحافة النحاسية I
 Brazenridge II,ブラスリッジⅡ,Épée du maraudeur II,Lama d'ottone II,Messingrücken II,Filo Audaz II,Bravespinho II,Twardogrzbiet II,Медный кряж 2,브라스리지Ⅱ,爆鎚太刀Ⅱ,الحافة النحاسية II
-"Wyvern Blade ""Leaf""",飛竜刀【青葉】,"Lame wyverne ""Feuille""","Lama wyvern ""Foglia""","Wyvernklinge ""Blatt""","Filo Wyvern ""Hoja""","Serpe-lâmina ""Folha""","Ostrze wiwerny ""Liść""","Меч виверны ""Листва""",비룡도【청엽】,飛龍刀【綠葉】,نصل التنين المجنح الورقة
-"Wyvern Blade ""Verde""",飛竜刀【翠】,"Lame wyverne ""Verde""","Lama wyvern ""Verde""","Wyvernklinge ""Verde""","Filo Wyvern ""Verde""","Serpe-lâmina ""Verde""","Ostrze wiwerny ""Verde""","Меч виверны ""Зелень""",비룡도【익】,飛龍刀【翠】,نصل التنين المجنح الأخضر
-"Wyvern Blade ""Holly""",飛竜刀【葵】,"Lame wyverne ""Houx""","Lama wyvern ""Agrifoglio""","Wyvernklinge ""Malve""","Filo Wyvern ""Acebo""","Serpe-lâmina ""Azevinho""","Ostrze wiwerny ""Cierń""","Меч виверны ""Остролист""",비룡도【규】,飛龍刀【葵】,نصل التنين المجنح الإيلكس
-"Wyvern Blade ""Fall""",飛竜刀【紅葉】,"Lame wyverne ""Automne""","Lama wyvern ""Autunno""","Wyvernklinge ""Herbst""","Filo Wyvern ""Otoño""","Serpe-lâmina ""Outono""","Ostrze wiwerny ""Upadek""","Меч виверны ""Осень""",비룡도【홍엽】,飛龍刀【紅葉】,نصل التنين المجنح الخريف
-"Wyvern Blade ""Blood""",飛竜刀【朱】,"Lame wyverne ""Sang""","Lama wyvern ""Sangue""","Wyvernklinge ""Blut""","Filo Wyvern ""Sangre""","Serpe-lâmina ""Sangue""","Ostrze wiwerny ""Krew""","Меч виверны ""Кровь""",비룡도【주】,飛龍刀【朱】,نصل التنين المجنح قرمزي
-"Wyvern Blade ""Azure""",飛竜刀【蒼】,"Lame wyverne ""Azur""","Lama wyvern ""Azzurra""","Wyvernklinge ""Azur""","Filo Wyvern ""Celeste""","Serpe-lâmina ""Lazúli""","Ostrze wiwerny ""Lazur""","Меч виверны ""Лазурь""",비룡도【창】,飛龍刀【蒼】,نصل التنين المجنح لازوردي
-"Wyvern Blade ""Indigo""",飛竜刀【藍染】,"Lame wyverne ""Indigo""","Lama wyvern ""Indigo""","Wyvernklinge ""Indigo""","Filo Wyvern ""Índigo""","Serpe-lâmina ""Índigo""","Ostrze wiwerny ""Indygo""","Меч виверны ""Индиго""",비룡도【감염】,飛龍刀【藍染】,نصل التنين المجنح أزرق داكن
+"Wyvern Blade ""Leaf""",飛竜刀【青葉】,"Lame wyverne ""Feuille""","Lama wyvern ""Foglia""","Wyvernklinge ""Blatt""","Filo Wyvern ""Hoja""","Serpe-lâmina ""Folha""",Ostrze wiwerny „Liść”,"Меч виверны ""Листва""",비룡도【청엽】,飛龍刀【綠葉】,نصل التنين المجنح الورقة
+"Wyvern Blade ""Verde""",飛竜刀【翠】,"Lame wyverne ""Verde""","Lama wyvern ""Verde""","Wyvernklinge ""Verde""","Filo Wyvern ""Verde""","Serpe-lâmina ""Verde""",Ostrze wiwerny „Verde”,"Меч виверны ""Зелень""",비룡도【익】,飛龍刀【翠】,نصل التنين المجنح الأخضر
+"Wyvern Blade ""Holly""",飛竜刀【葵】,"Lame wyverne ""Houx""","Lama wyvern ""Agrifoglio""","Wyvernklinge ""Malve""","Filo Wyvern ""Acebo""","Serpe-lâmina ""Azevinho""",Ostrze wiwerny „Cierń”,"Меч виверны ""Остролист""",비룡도【규】,飛龍刀【葵】,نصل التنين المجنح الإيلكس
+"Wyvern Blade ""Fall""",飛竜刀【紅葉】,"Lame wyverne ""Automne""","Lama wyvern ""Autunno""","Wyvernklinge ""Herbst""","Filo Wyvern ""Otoño""","Serpe-lâmina ""Outono""",Ostrze wiwerny „Upadek”,"Меч виверны ""Осень""",비룡도【홍엽】,飛龍刀【紅葉】,نصل التنين المجنح الخريف
+"Wyvern Blade ""Blood""",飛竜刀【朱】,"Lame wyverne ""Sang""","Lama wyvern ""Sangue""","Wyvernklinge ""Blut""","Filo Wyvern ""Sangre""","Serpe-lâmina ""Sangue""",Ostrze wiwerny „Krew”,"Меч виверны ""Кровь""",비룡도【주】,飛龍刀【朱】,نصل التنين المجنح قرمزي
+"Wyvern Blade ""Azure""",飛竜刀【蒼】,"Lame wyverne ""Azur""","Lama wyvern ""Azzurra""","Wyvernklinge ""Azur""","Filo Wyvern ""Celeste""","Serpe-lâmina ""Lazúli""",Ostrze wiwerny „Lazur”,"Меч виверны ""Лазурь""",비룡도【창】,飛龍刀【蒼】,نصل التنين المجنح لازوردي
+"Wyvern Blade ""Indigo""",飛竜刀【藍染】,"Lame wyverne ""Indigo""","Lama wyvern ""Indigo""","Wyvernklinge ""Indigo""","Filo Wyvern ""Índigo""","Serpe-lâmina ""Índigo""",Ostrze wiwerny „Indygo”,"Меч виверны ""Индиго""",비룡도【감염】,飛龍刀【藍染】,نصل التنين المجنح أزرق داكن
 Bone Shotel I,ボーンショテルⅠ,Shotel en os,Shotel d'osso I,Knochen-Shotel I,Shotel Óseo I,Shotel Óssea I,Kościany shotel I,Костяной шотел 1,본쇼텔Ⅰ,骨製彎刀Ⅰ,شوتل عظمي I
 Bone Shotel II,ボーンショテルⅡ,Shotel en os II,Shotel d'osso II,Knochen-Shotel II,Shotel Óseo II,Shotel Óssea II,Kościany shotel II,Костяной шотел 2,본쇼텔Ⅱ,骨製彎刀Ⅱ,شوتل عظمي II
 Bone Shotel III,ボーンショテルⅢ,Shotel en os III,Shotel d'osso III,Knochen-Shotel III,Shotel Óseo III,Shotel Óssea III,Kościany shotel III,Костяной шотел 3,본쇼텔Ⅲ,骨製彎刀Ⅲ,شوتل عظمي III
@@ -141,10 +141,10 @@ Dipterus I,ディプテルスⅠ,Dipterus,Dipterus I,Dipterus I,Díptero I,Dipte
 Dipterus II,ディプテルスⅡ,Dipterus II,Dipterus II,Dipterus II,Díptero II,Dipterus II,Dipterus II,Диптерус 2,디프테루스Ⅱ,深土太刀Ⅱ,دبتيروس II
 Dipterus III,ディプテルスⅢ,Dipterus III,Dipterus III,Dipterus III,Díptero III,Dipterus III,Dipterus III,Диптерус 3,디프테루스Ⅲ,深土太刀Ⅲ,دبتيروس III
 Hazak Grosser I,ハザクグローサⅠ,Hazak Grosser,Affettatore Hazak I,Hazak-Grausamer I,Grosser Hazak I,Grosser de Hazak I,Hazak Grosser I,Хазак гроссер 1,하자크그로서Ⅰ,屍套龍太刀Ⅰ,حاصد هازاك I
-Hazak Grosser II,ハザクグローサⅡ,Hazak Grosser II,Affettatore Hazak II,Hazak-Grausamer II,Grosser Hazak II,Grosser de Hazak II,Hazak Grosser I,Хазак гроссер 2,하자크그로서Ⅱ,屍套龍太刀Ⅱ,حاصد هازاك II
+Hazak Grosser II,ハザクグローサⅡ,Hazak Grosser II,Affettatore Hazak II,Hazak-Grausamer II,Grosser Hazak II,Grosser de Hazak II,Hazak Grosser II,Хазак гроссер 2,하자크그로서Ⅱ,屍套龍太刀Ⅱ,حاصد هازاك II
 Pulsar Shotel I,パルサーショテルⅠ,Shotel pulsar,Shotel pulsante I,Pulsar-Shotel I,Shotel Púlsar I,Shotel Pulsar I,Pulsarowy shotel I,Шотел-пульсар 1,펄서쇼텔Ⅰ,脈衝彎刀Ⅰ,الشوتل المشعّ I
-Pulsar Shotel II,パルサーショテルⅡ,Shotel pulsar II,Shotel pulsante II,Pulsar-Shotel II,Shotel Púlsar II,Shotel Pulsar II,Pulsarowy shotel II,Шотел-пульсар 2,펄서쇼텔Ⅱ,脈衝灣刀Ⅱ,الشوتل المشعّ II
-Pulsar Shotel III,パルサーショテルⅢ,Shotel pulsar III,Shotel pulsante III,Pulsar-Shotel III,Shotel Púlsar III,Shotel Pulsar III,Pulsarowy shotel III,Шотел-пульсар 3,펄서쇼텔Ⅲ,脈衝灣刀Ⅲ,الشوتل المشعّ III
+Pulsar Shotel II,パルサーショテルⅡ,Shotel pulsar II,Shotel pulsante II,Pulsar-Shotel II,Shotel Púlsar II,Shotel Pulsar II,Pulsarowy shotel II,Шотел-пульсар 2,펄서쇼텔Ⅱ,脈衝彎刀Ⅱ,الشوتل المشعّ II
+Pulsar Shotel III,パルサーショテルⅢ,Shotel pulsar III,Shotel pulsante III,Pulsar-Shotel III,Shotel Púlsar III,Shotel Pulsar III,Pulsarowy shotel III,Шотел-пульсар 3,펄서쇼텔Ⅲ,脈衝彎刀Ⅲ,الشوتل المشعّ III
 Kadachi Fang I,カガチノキバⅠ,Croc Kadachi,Zanna Kadachi I,Kadachi-Reißzahn I,Colmillo Kadachi I,Presa de Kadachi I,Kieł Kadachi I,Клык кадачи 1,카가치의송곳니Ⅰ,飛雷龍之牙Ⅰ,ناب كاداتشي I
 Kadachi Fang II,カガチノキバⅡ,Croc Kadachi II,Zanna Kadachi II,Kadachi-Reißzahn II,Colmillo Kadachi II,Presa de Kadachi II,Kieł Kadachi II,Клык кадачи 2,카가치의송곳니Ⅱ,飛雷龍之牙Ⅱ,ناب كاداتشي II
 Kadachi Fang III,カガチノキバⅢ,Croc Kadachi III,Zanna Kadachi III,Kadachi-Reißzahn III,Colmillo Kadachi III,Presa de Kadachi III,Kieł Kadachi III,Клык кадачи 3,카가치의송곳니Ⅲ,飛雷龍之牙Ⅲ,ناب كاداتشي III
@@ -169,9 +169,9 @@ Imperial Shimmer,帝王刀【陽炎】,Sabre impérial II,Scintilla imperiale,Ka
 Xeno Cypher,ゼノ＝サイファ,Xeno Cypher,Saifa Xeno,Xeno-Cypher,Xeno Cypher,Cypher de Xeno,Xeno Szyfr,Загадка ксено'джиивы,제노사이퍼,冥燈龍太刀,شيفرة زينو
 Supremacy Blade,天下無双刀,Lames de la suprématie,Lama suprema,Vormachtklinge,Hoja Suprema,Lâmina da Supremacia,Ostrze dominacji,Клинок превосходства,천하무쌍도,天下無雙刀,نصل الهيمنة
 Divine Slasher,天上天下無双刀,Guillotine divine,Affettatore divino,Göttliches Haumesser,Cortador Divino,Cortadora Divina,Boski rozpruwacz,Божественный серп,천상천하무쌍도,天上天下無雙刀,الجارح المقدس
-Azure Star Blade,蒼星ノ太刀,Épée étoilée,Lama astro celeste,Azurstern-Klinge,Hoja estrella celeste,Lâmina Estrela Lazúli,Ostrze Lazurowej Gwiazdy,"Клинок ""Лазурная звезда""",파란별의 태도,蒼星的太刀,نصل نجمي لازوردي
-"Reaver ""Cruelty""",,,,,,,,,,,
-"Reaver ""Calamity""",,,,,,,,,,,
+Azure Star Blade,,,,,,,,,,,
+"Reaver ""Cruelty""",クルーエルペイン,"Saccageur ""Cruauté""",Crudeltà straziante,"Räuber ""Grausamkeit""",Segadora Cruel,"""Crueldade"" Aniquiladora",Rozcinacz „Okrutnik”,"Пожиратель ""Жестокость""",크룰페인,殘酷痛苦太刀,"""قسوة"" الممزق"
+"Reaver ""Calamity""",カラミティペイン,"Saccageur ""Catastrophe""",Flagello straziante,"Räuber ""Verhängnis""",Segadora Calamitosa,"""Tragédia"" Aniquiladora",Rozcinacz „Klęska”,"Пожиратель ""Погибель""",캘러미티페인,悲慘痛苦太刀,"""ضربة"" الممزق"
 Hunter's Knife I,ハンターナイフⅠ,Épée du chasseur,Coltello da cacciatore I,Jägermesser I,Cuchillo de cazador I,Faca do Caçador I,Nóż łowcy I,Охотничий нож 1,헌터나이프Ⅰ,獵人小刀Ⅰ,سكين الصيّاد I
 Hunter's Knife II,ハンターナイフⅡ,Épée du chasseur II,Coltello da cacciatore II,Jägermesser II,Cuchillo de cazador II,Faca do Caçador II,Nóż łowcy II,Охотничий нож 2,헌터나이프Ⅱ,獵人小刀Ⅱ,سكين الصيّاد II
 Hunter's Knife III,ハンターナイフⅢ,Épée du chasseur III,Coltello da cacciatore III,Jägermesser III,Cuchillo de cazador III,Faca do Caçador III,Nóż łowcy III,Охотничий нож 3,헌터나이프Ⅲ,獵人小刀Ⅲ,سكين الصيّاد III
@@ -264,8 +264,8 @@ Blacksteel Sword II,黒鋼の剣Ⅱ,Épée sombracier II,Spada neracciaio II,Sch
 Teostra's Spada,テオ＝スパーダ,Spada Teostra,Gladio Teostra,Teostras Spada,Spada Teostra,Espada de Teostra,Szpada Teostry,Шпага теостры,테오스파다,炎王之劍,سيف تيوسترا الجانبي
 Teostra's Emblem,テオ＝エンブレム,Emblème Teostra,Emblema Teostra,Teostras Wappen,Emblema Teostra,Emblema de Teostra,Sygnet Teostry,Эмблема теостры,테오엠블렘,炎王紋章,رمز تيوسترا
 Xeno Mabura,ゼノ＝マブーラー,Xeno Mabura,Mabura Xeno,Xeno-Mabura,Xeno Mabura,Mabura de Xeno,Xeno Mabura,Ксено-мабура,제노마부라,冥燈龍劍,سيف زينو مابورا
-Fatal Jho,,,,,,,,,,,
-Fatal Bite,,,,,,,,,,,
+Fatal Jho,フェイタルジョー,Déchirure fatale,Jho fatale,Tödlicher Jho,Fatal Jho,Jho Fatal,Zabójczy Jho,Смертильо,페이털조,致命暴龍,ديفيلجو المميت
+Fatal Bite,フェイタルヴァイト,Morsure fatale,Morso fatale,Tödlicher Biss,Mordisco Fatal,Mordida Letal,Zabójcze ukąszenie,Смертельный укус,페이털바이트,致命寬劍,الضربة المميتة
 Matched Slicers I,ツインダガーⅠ,Dagues jumelles,Forbici combinate I,Zwillingsdolche I,Rebanadoras Gemelas I,Fatiadores Pareados I,Dopasowane majchry I,Парные тесаки 1,트윈대거Ⅰ,雙刀Ⅰ,الشاطر الثنائي I
 Matched Slicers II,ツインダガーⅡ,Dagues jumelles II,Forbici combinate II,Zwillingsdolche II,Rebanadoras Gemelas II,Fatiadores Pareados II,Dopasowane majchry II,Парные тесаки 2,트윈대거Ⅱ,雙刀Ⅱ,الشاطر الثنائي II
 Matched Slicers III,ツインダガーⅢ,Dagues jumelles III,Forbici combinate III,Zwillingsdolche III,Rebanadoras Gemelas III,Fatiadores Pareados III,Dopasowane majchry III,Парные тесаки 3,트윈대거Ⅲ,雙刀Ⅲ,الشاطر الثنائي III
@@ -275,7 +275,7 @@ Dual Slicers III,デュエルツインダガーⅢ,Les Découpeurs III,Forbici d
 Chrome Slicers I,クロムツインダガーⅠ,Trancheurs chromés,Forbici cromate I,Chromschlitzer I,Cromorrebanadoras I,Fatiadores Cromados I,Chromowe majchry I,Блестящие тесаки 1,크롬트윈대거Ⅰ,鉻鋼雙刀Ⅰ,نصل الكروم I
 Chrome Slicers II,クロムツインダガーⅡ,Trancheurs chromés II,Forbici cromate II,Chromschlitzer II,Cromorrebanadoras II,Fatiadores Cromados II,Chromowe majchry II,Блестящие тесаки 2,크롬트윈대거Ⅱ,鉻鋼雙刀Ⅱ,نصل الكروم II
 Nergal Gouge,ネルガルガウジ,Catastrophe Nergal,Cavaocchi Nergi,Nergal-Hohleisen,Gubias Nergal,Estripador de Nergal,Nergalne Dłuta,Нергальская борозда,네르갈가우지,滅盡龍裂痕,مُقتلع نيرغال
-Decimation Claws,残滅の爪,Griffes de la décimation,Artigli decimatori,Dezimierungsklauen,Garras Diezmadoras,Garras do Extermínio,Szpony Zagłady,Когти карателя,잔멸의발톱,殘滅之爪。,مخالب الهلاك
+Decimation Claws,残滅の爪,Griffes de la décimation,Artigli decimatori,Dezimierungsklauen,Garras Diezmadoras,Garras do Extermínio,Szpony Zagłady,Когти карателя,잔멸의발톱,殘滅之爪,مخالب الهلاك
 Luminous Daggers I,イルミナルダガーⅠ,Dagues de lumière,Pugnali luminosi I,Leuchtende Dolche I,Dagas Lumínicas I,Adagas Luminosas I,Lśniące sztylety I,Блестящие кинжалы 1,일루미널대거Ⅰ,閃耀小刀Ⅰ,الخناجر المضيئة I
 Luminous Daggers II,イルミナルダガーⅡ,Dagues de lumière II,Pugnali luminosi II,Leuchtende Dolche II,Dagas Lumínicas II,Adagas Luminosas II,Lśniące sztylety II,Блестящие кинжалы 2,일루미널대거Ⅱ,閃耀小刀Ⅱ,الخناجر المضيئة II
 Dual Destroyers I,デュエルデステリオⅠ,Les Destructeurs,Distruttori doppi I,Doppel-Zerstörer I,Duodestructoras I,Destruidoras Duplas I,Dwa przetrzebiacze I,Близнецы-разрушители 1,듀얼데스테리오Ⅰ,決鬥者對劍Ⅰ,المدمّر المزدوج I
@@ -304,8 +304,8 @@ Wild Hatchets II,ワイルドハチェットⅡ,Hachettes sauvages II,Accette se
 Wild Hatchets III,ワイルドハチェットⅢ,Hachettes sauvages III,Accette selvagge III,Wilde Beile III,Hachas Salvajes III,Machadinhas Ferozes III,Dzikie siekiery III,Шальные топорики 3,와일드해체트Ⅲ,狂野戰斧Ⅲ,المعاول الشرسة III
 Strong Hatchets I,ストロングハチェットⅠ,Haches de force,Accette tenaci I,Starke Beile I,Hachas reforzadas I,Machadinhas Fortes I,Mocne siekiery I,Крепкие топорики 1,스트롱해체트Ⅰ,強斧Ⅰ,المعاول القوية I
 Strong Hatchets II,ストロングハチェットⅡ,Haches de force II,Accette tenaci II,Starke Beile II,Hachas reforzadas II,Machadinhas Fortes II,Mocne siekiery II,Крепкие топорики 2,스트롱해체트Ⅱ,強斧Ⅱ,المعاول القوية II
-Blazing Hatchets I,ブレイズハチェットⅠ,Hachettes flamboyantes,Accette fiammanti I,Glut-Beile I,Hachas Flameantes I,Mach. Escaldantes I,Płonące siekiery I,Полыхающие топорики 1,블레이즈해체트Ⅰ,火焰戰斧Ⅰ,المعاول المتوهجة I
-Blazing Hatchets II,ブレイズハチェットⅡ,Hachettes flamboyantes II,Accette fiammanti II,Glut-Beile II,Hachas Flameantes II,Mach. Escaldantes II,Płonące siekiery II,Полыхающие топорики 2,블레이즈해체트Ⅱ,火焰戰斧Ⅱ,المعاول المتوهجة II
+Blazing Hatchets I,ブレイズハチェットⅠ,Hachettes flamboyantes,Accette fiammanti I,Glut-Beile I,Hachas Flameantes I,Mach. Escaldantes I,Ogniste siekiery I,Полыхающие топорики 1,블레이즈해체트Ⅰ,火焰戰斧Ⅰ,المعاول المتوهجة I
+Blazing Hatchets II,ブレイズハチェットⅡ,Hachettes flamboyantes II,Accette fiammanti II,Glut-Beile II,Hachas Flameantes II,Mach. Escaldantes II,Ogniste siekiery II,Полыхающие топорики 2,블레이즈해체트Ⅱ,火焰戰斧Ⅱ,المعاول المتوهجة II
 Anja Cyclone I,ジャナフサイクロンⅠ,Cyclone Anja,Ciclone Anja I,Anjanath-Zyklone I,Ciclón Anja I,Ciclone de Anja I,Cyklon Anja I,Циклон аньяната 1,쟈나프사이클론Ⅰ,蠻顎龍颶風Ⅰ,سايكلون أنجا I
 Anja Cyclone II,ジャナフサイクロンⅡ,Cyclone Anja II,Ciclone Anja II,Anjanath-Zyklone II,Ciclón Anja II,Ciclone de Anja II,Cyklon Anja II,Циклон аньяната 2,쟈나프사이클론Ⅱ,蠻顎龍颶風Ⅱ,سايكلون أنجا II
 Anja Cyclone III,ジャナフサイクロンⅢ,Cyclone Anja III,Ciclone Anja III,Anjanath-Zyklone III,Ciclón Anja III,Ciclone de Anja III,Cyklon Anja III,Циклон аньяната 3,쟈나프사이클론Ⅲ,蠻顎龍颶風Ⅲ,سايكلون أنجا III
@@ -349,8 +349,8 @@ Blacksteel Twins II,黒鋼の双剣Ⅱ,Jumeaux sombracier II,Lame gemelle neracc
 Twin Nails,ツインネイル,Arrache-tripes,Unghie gemelle,Zwillingsnägel,Clavos Gemelos,Garras Gêmeas,Dwa gwoździe,Когти-близнецы,트윈네일,雙爪刀,الظفر المزدوج
 Fire and Ice,氷炎剣ヴィルマフレア,Le Feu et la Glace,Fuoco e ghiaccio,Feuer und Eis,Fuego y Hielo,Fogo e Gelo,Ogień i lód,Лед и пламя,빙염검 빌마플레어,冰炎劍維爾瑪閃焰,النار والجليد
 Xeno Raqs,ゼノ＝ラクス,Xeno Raqs,Raqs Xeno,Xeno-Raqs,Xeno Raqs,Raqs de Xeno,Xeno Raqs,Танец ксено'джиивы,제노라크스,冥燈龍雙劍,نصل زينو راكس
-Wrath & Rancor,,,,,,,,,,,
-Wrathful Predation,,,,,,,,,,,
+Wrath & Rancor,憤怒の双刃,Colère et Rancœur,Ira e rancore,Zorn & Hass,Ira y rencor,Ira e Rancor,Gniew i uraza,Гнев и ярость,분노의 쌍검,憤怒的雙刀,الغضب والغل
+Wrathful Predation,ラースプレデター,Prédateur de la vengeance,Predatori irati,Ingrimmiger Raub,Depredador Rabioso,Ira Predatória,Gniewna drapieżność,Яростное истребление,라스프레데터,憤怒捕食者,افتراس حانق
 Iron Hammer I,アイアンハンマーⅠ,Marteau de fer,Martello di ferro I,Eisenhammer I,Martillo de hierro I,Martelo de Ferro I,Żelazny młot I,Железный молот 1,아이언해머Ⅰ,鐵鎚Ⅰ,المطرقة الحديدية I
 Iron Hammer II,アイアンハンマーⅡ,Marteau de fer II,Martello di ferro II,Eisenhammer II,Martillo de hierro II,Martelo de Ferro II,Żelazny młot II,Железный молот 2,아이언해머Ⅱ,鐵鎚Ⅱ,المطرقة الحديدية II
 Iron Hammer III,アイアンハンマーⅢ,Marteau de fer III,Martello di ferro III,Eisenhammer III,Martillo de hierro III,Martelo de Ferro III,Żelazny młot III,Железный молот 3,아이언해머Ⅲ,鐵鎚Ⅲ,المطرقة الحديدية III
@@ -435,8 +435,8 @@ Daora's Colossus,コロサル＝ダオラ,Colossus Doara,Colosso Daora,Daoras Ko
 Xeno Maph'agarna,ゼノ＝マファガルナ,Xeno Maph'agarna,Maph'agarna Xeno,Xeno-Maph'agarna,Xeno Maph'agarna,Maph'agarna de Xeno,Xeno Maph'agarna,Ксено-маф’агарна,제노마파가르나,冥燈龍大鎚,زينو مافاغارنا
 Jail Hammer,ジェイルハンマー,Masse à protons,Nucleo paralizzante I,Kerkerhammer,Martillo Carcelario,Martelo Aprisionador,Więżący młot,Молот тюремщика,제일해머,牢獄錘,مطرقة السجن
 Binder Mace,バインドキューブ,Masse à protons II,Nucleo paralizzante II,Bindekeule,Mazo Ceñidor,Maça Prendedora,Buława oprawcy,Сковывающая булава,바인드큐브,電擊錘,صولجان الحاجز
-Devil's Due,,,,,,,,,,,
-Devil's Crush,,,,,,,,,,,
+Devil's Due,混沌の鎚,Marteau du Chaos,Patto diabolico,Teufelsschuld,Diablo Sediento,Dívida do Diabo,Diabelna danina,Собственность дьявола,혼돈의 해머,混沌之鎚,حصة الشّيطان
+Devil's Crush,カオスラッシュ,Fracas du Chaos,Maglio diabolico,Teufelsbrecher,Diablo Aplastador,Esmagador do Diabo,Diabelny łamacz,Удар дьявола,카오스 러시,混沌之鎚,حطام الشّيطان
 Metal Bagpipe I,メタルバグパイプⅠ,Cornemuse de métal,Cornamusa metallica I,Metall-Dudelsack I,Gaita Metálica I,Gaita de Fole Metal I,Metalowe dudy I,Металлическая волынка 1,메탈백파이프Ⅰ,金屬風笛Ⅰ,مزمار القربة المعدني I
 Metal Bagpipe II,メタルバグパイプⅡ,Cornemuse de métal II,Cornamusa metallica II,Metall-Dudelsack II,Gaita Metálica II,Gaita de Fole Metal II,Metalowe dudy II,Металлическая волынка 2,메탈백파이프Ⅱ,金屬風笛Ⅱ,مزمار القربة المعدني II
 Metal Bagpipe III,メタルバグパイプⅢ,Cornemuse de métal III,Cornamusa metallica III,Metall-Dudelsack III,Gaita Metálica III,Gaita de Fole Metal III,Metalowe dudy III,Металлическая волынка 3,메탈백파이프Ⅲ,金屬風笛Ⅲ,مزمار القربة المعدني III
@@ -450,8 +450,8 @@ Desolation's Overture,寂滅の一節,Ouverture de la Désolation,Ouverture di d
 Thunder Gaida I,サンダーガイダⅠ,Gaïta de l'orage,Gaida del tuono I,Donner-Gajda I,Gaida Trueno I,Gaida de Raio I,Gajda piorunów I,Громовая гайда 1,선더가이더Ⅰ,閃電風笛Ⅰ,مزمار قربة غايدا الرعد I
 Thunder Gaida II,サンダーガイダⅡ,Gaïta de l'orage II,Gaida del tuono II,Donner-Gajda II,Gaida Trueno II,Gaida de Raio II,Gajda piorunów II,Громовая гайда 2,선더가이더Ⅱ,閃電風笛Ⅱ,مزمار قربة غايدا الرعد II
 Lightning Drum I,ライトニングドラムⅠ,Électro-tambour,Tamburo lampante I,Blitz-Trommel I,Tambor Relámpago I,Tambor Fulgural I,Bęben błyskawic I,Клекот молнии 1,라이트닝드럼Ⅰ,雷鼓Ⅰ,طبلة البرق I
-Lightning Drum II,ライトニングドラムⅡ,Électro-tambour II,Tamburo lampante II,Blitz-Trommel II,Tambor Relámpago II,Tambor Fulgural II,Bęben błyskawic II,Клекот молнии 2,라이트닝드럼Ⅱ,雷鼓Ⅱ, طبلة البرق II
-Lightning Drum III,ライトニングドラムⅢ,Électro-tambour III,Tamburo lampante III,Blitz-Trommel III,Tambor Relámpago III,Tambor Fulgural III,Bęben błyskawic III,Клекот молнии 3,라이트닝드럼Ⅲ,雷鼓Ⅲ, طبلة البرق III
+Lightning Drum II,ライトニングドラムⅡ,Électro-tambour II,Tamburo lampante II,Blitz-Trommel II,Tambor Relámpago II,Tambor Fulgural II,Bęben błyskawic II,Клекот молнии 2,라이트닝드럼Ⅱ,雷鼓Ⅱ,طبلة البرق II
+Lightning Drum III,ライトニングドラムⅢ,Électro-tambour III,Tamburo lampante III,Blitz-Trommel III,Tambor Relámpago III,Tambor Fulgural III,Bęben błyskawic III,Клекот молнии 3,라이트닝드럼Ⅲ,雷鼓Ⅲ,طبلة البرق III
 Kulu Duda I,クルルドゥダⅠ,Duda Kulu,Duda Kulu I,Kulu-Duda I,Duta Kulu I,Duda de Kulu I,Duda Kulu I,Дудка кулу-йа-ку 1,쿠루루두다Ⅰ,搔鳥風笛Ⅰ,كولو دودا I
 Kulu Duda II,クルルドゥダⅡ,Duda Kulu II,Duda Kulu II,Kulu-Duda II,Duta Kulu II,Duda de Kulu II,Duda Kulu II,Дудка кулу-йа-ку 2,쿠루루두다Ⅱ,搔鳥風笛Ⅱ,كولو دودا II
 Kulu Duda III,クルルドゥダⅢ,Duda Kulu III,Duda Kulu III,Kulu-Duda III,Duta Kulu III,Duda de Kulu III,Duda Kulu III,Дудка кулу-йа-ку 3,쿠루루두다Ⅲ,搔鳥風笛Ⅲ,كولو دودا III
@@ -517,13 +517,13 @@ Dragonbone Auldhorn III,龍骨古笛Ⅲ,Corne draconique III,Corno dragosso III,
 Thundercry Horn,雷鳴ノ笛,Cœur-de-tonnerre,Pianto tonante,Donnerschrei-Horn,Cuerno Atronador,Sonoro Chorraio,Róg płaczących piorunów,Рог громового раската,천둥의피리,雷鳴笛,قرن صوت الرعد
 Thunderbolt Horn I,雷光ノ笛Ⅰ,Corne du tonnerre,Corno del tuono I,Blitzschlag-Horn I,Cuerno Relámpago I,Sonoro Relâmpago I,Róg gromu I,Грозовой рог 1,뇌광의피리Ⅰ,雷光笛Ⅰ,قرن حزام الرعد I
 Thunderbolt Horn II,雷光ノ笛Ⅱ,Corne du tonnerre II,Corno del tuono II,Blitzschlag-Horn II,Cuerno Relámpago II,Sonoro Relâmpago II,Róg gromu II,Грозовой рог 2,뇌광의피리Ⅱ,雷光笛Ⅱ,قرن حزام الرعد II
-Blacksteel Dragonhorn I,黒鋼の龍笛Ⅰ,Corne-dragon sombracier,Corno neracciaio I,SchwarzstahlDrachnhorn I,Dracuerno Acero Negro I,Draconoro Aço Negro I,Smoczy róg ze stali I,Черный драконий рог 1,흑강의용피리Ⅰ,黒鋼龍笛Ⅰ,قرن تنين الفولاذ الأسود I
+Blacksteel Dragonhorn I,黒鋼の龍笛Ⅰ,Corne-dragon sombracier,Corno neracciaio I,SchwarzstahlDrachnhorn I,Dracuerno Acero Negro I,Draconoro Aço Negro I,Smoczy róg ze stali I,Черный драконий рог 1,흑강의용피리Ⅰ,黑鋼龍笛Ⅰ,قرن تنين الفولاذ الأسود I
 Blacksteel Dragonhorn II,黒鋼の龍笛Ⅱ,Corne-dragon sombracier II,Corno neracciaio II,SchwarzstahlDrchnhorn II,Dracuerno Acero Negro II,Draconoro Aço Negro II,Smoczy róg ze stali II,Черный драконий рог 2,흑강의용피리Ⅱ,黑鋼龍笛Ⅱ,قرن تنين الفولاذ الأسود II
 Teostra's Tiple,テオ＝クエルダ,Tiple Teostra,Corno Teostra,Teostras Tiple,Tiple Teostra,Soprano de Teostra,Sopran Teostry,Гитара теостры,테오쿠에르다,炎王琴,قيثار تيوسترا
 Teostra's Orphée,テオ＝オルフェス,Orphée Teostra,Orfeo Teostra,Teostras Orpheus,Orfeón Teostra,Orfeu de Teostra,Orphée Teostry,Песнь теостры,테오오르페스,炎王豎琴,قيثار تيوسترا المتطورة
 Xeno Manasheena,ゼノ＝マナシーナ,Xeno Manasheena,Manasheena Xeno,Xeno-Manasheena,Xeno Manasheena,Manasheena de Xeno,Xeno Manasheena,Ксено-манашэна,제노마나시나,冥燈龍狩獵笛,زينو ماناشينا
-Devil's Maestro,,,,,,,,,,,
-Deep Vero,,,,,,,,,,,
+Devil's Maestro,鎖縛の暴竜,Messe du Chaos,Melodia diabolica,Teufels Maestro,Diablo Virtuoso,Maestro do Diabo,Diabelski wirtuoz,Маэстро дьявола,쇄박의 폭룡,鎖縛的暴龍,مهارة الشّيطان
+Deep Vero,ディープヴェロウ,Concerto du Désespoir,Sinfonia diabolica,Tiefes Vero,Vero Profundis,Verdade Profunda,Głęboka prawda,Глубокий Веро,딥베로우,深邃之鎖,اختراق عميق
 Iron Lance I,アイアンランスⅠ,Lance de fer,Lancia di ferro I,Eisenlanze I,Lanza Férrea I,Lança de Ferro I,Żelazna lanca I,Железное копье 1,아이언랜스Ⅰ,鐵槍Ⅰ,الرمح الحديدي I
 Iron Lance II,アイアンランスⅡ,Lance de fer II,Lancia di ferro II,Eisenlanze II,Lanza Férrea II,Lança de Ferro II,Żelazna lanca II,Железное копье 2,아이언랜스Ⅱ,鐵槍Ⅱ,الرمح الحديدي II
 Iron Lance III,アイアンランスⅢ,Lance de fer III,Lancia di ferro III,Eisenlanze III,Lanza Férrea III,Lança de Ferro III,Żelazna lanca III,Железное копье 3,아이언랜스Ⅲ,鐵槍Ⅲ,الرمح الحديدي III
@@ -548,9 +548,9 @@ Gama Pilebunker I,ガマルパイルⅠ,Ruineur Gama,Maglio Gama I,Gama-Bunkerbr
 Gama Pilebunker II,ガマルパイルⅡ,Ruineur Gama II,Maglio Gama II,Gama-Bunkerbrecher II,Perforadora Gama II,Bate-estacas Gama II,Włócznia Gamy II,Штык гамы 2,가마루파일Ⅱ,岩賊龍刺針Ⅱ,مدفع غاما الرشاش II
 Thunder Lance I,サンダーランスⅠ,Lance de l'orage,Lancia del tuono I,Donnerlanze I,Lanza Trueno I,Lança de Raio I,Lanca piorunów I,Копье грозы 1,선더랜스Ⅰ,閃電長槍Ⅰ,رمح الرعد I
 Thunder Lance II,サンダーランスⅡ,Lance de l'orage II,Lancia del tuono II,Donnerlanze II,Lanza Trueno II,Lança de Raio II,Lanca piorunów II,Копье грозы 2,선더랜스Ⅱ,閃電長槍Ⅱ,رمح الرعد II
-Lightning Spire I,ライトニングパイルⅠ,Électro-tambour,Guglia lampante I,Blitz-Nadel I,Aguja Relámpago I,Agulha Fulgural I,Iglica błyskawic I,Клекот молнии 1,라이트닝파일Ⅰ,雷光長槍Ⅰ,قمة الصاعق المدببة I
-Lightning Spire II,ライトニングパイルⅡ,Électro-tambour II,Guglia lampante II,Blitz-Nadel II,Aguja Relámpago II,Agulha Fulgural II,Iglica błyskawic II,Клекот молнии 2,라이트닝파일Ⅱ,雷光長槍Ⅱ,قمة الصاعق المدببة II
-Lightning Spire III,ライトニングパイルⅢ,Électro-tambour III,Guglia lampante III,Blitz-Nadel III,Aguja Relámpago III,Agulha Fulgural III,Iglica błyskawic III,Клекот молнии 3,라이트닝파일Ⅲ,雷光長槍Ⅲ,قمة الصاعق المدببة III
+Lightning Spire I,ライトニングパイルⅠ,Électro-tambour,Guglia lampante I,Blitz-Nadel I,Aguja Relámpago I,Agulha Fulgural I,Iglica błyskawic I,Блеск молнии 1,라이트닝파일Ⅰ,雷光長槍Ⅰ,قمة الصاعق المدببة I
+Lightning Spire II,ライトニングパイルⅡ,Électro-tambour II,Guglia lampante II,Blitz-Nadel II,Aguja Relámpago II,Agulha Fulgural II,Iglica błyskawic II,Блеск молнии 2,라이트닝파일Ⅱ,雷光長槍Ⅱ,قمة الصاعق المدببة II
+Lightning Spire III,ライトニングパイルⅢ,Électro-tambour III,Guglia lampante III,Blitz-Nadel III,Aguja Relámpago III,Agulha Fulgural III,Iglica błyskawic III,Блеск молнии 3,라이트닝파일Ⅲ,雷光長槍Ⅲ,قمة الصاعق المدببة III
 Blooming Lance I,ブルームランスⅠ,Lance du tourment,Lancia piumata I,Blühende Lanze I,Lanza Floral I,Lança Pujante I,Kwitnąca lanca I,Пестрое копье 1,블룸랜스Ⅰ,花朵長槍Ⅰ,رمح المزدهر I
 Blooming Lance II,ブルームランスⅡ,Lance du tourment II,Lancia piumata II,Blühende Lanze II,Lanza Floral II,Lança Pujante II,Kwitnąca lanca II,Пестрое копье 2,블룸랜스Ⅱ,花朵長槍Ⅱ,رمح المزدهر II
 Blooming Lance III,ブルームランスⅢ,Lance du tourment III,Lancia piumata III,Blühende Lanze III,Lanza Floral III,Lança Pujante III,Kwitnąca lanca III,Пестрое копье 3,블룸랜스Ⅲ,花朵長槍Ⅲ,رمح المزدهر III
@@ -561,7 +561,7 @@ Flame Lance I,フレイムランスⅠ,Lance de feu,Lancia infuocata I,Flammenla
 Flame Lance II,フレイムランスⅡ,Lance de feu II,Lancia infuocata II,Flammenlanze II,Lanza Abrasadora II,Lança de Fogo II,Ognista lanca II,Огненное копье 2,플레임랜스Ⅱ,火焰長槍Ⅱ,رمح اللهب II
 Red Tail,レッドテイル,Queue ardente,Coda rossa,Rotschwanz,Cola Roja,Cauda Vermelha,Czerwony ogon,Красный хвост,레드테일,赤尾長槍,الذيل الأحمر
 Blue Tail,ブルーテイル,Queue d'azur,Coda blu,Blauschwanz,Cola Azul,Cauda Azul,Błękitny ogon,Синий хвост,블루테일,蒼尾長槍,الذيل الأزرق
-Blue Prominence,ブループロミネンス,Sérénité d'azur,Prominenza blu,Blaue Erhabenheit,Prominencia Azul,Proeminência Azul,Błękitna Eminencja,Синий пик,블루프로미넌스,蒼色日珥,البروز الأزرق
+Blue Prominence,ブループロミネンス,Sérénité d'azur,Prominenza blu,Blaue Erhabenheit,Prominencia azul,Proeminência Azul,Błękitna Eminencja,Синий пик,블루프로미넌스,蒼色日珥,البروز الأزرق
 Bone Lance I,ボーンランスⅠ,Lance en os,Lancia d'osso I,Knochenlanze I,Lanza Ósea I,Lança Óssea I,Kościana lanca I,Костяное копье 1,본랜스Ⅰ,骨槍Ⅰ,رمح العظم I
 Bone Lance II,ボーンランスⅡ,Lance en os II,Lancia d'osso II,Knochenlanze II,Lanza Ósea II,Lança Óssea II,Kościana lanca II,Костяное копье 2,본랜스Ⅱ,骨槍Ⅱ,رمح العظم II
 Bone Lance III,ボーンランスⅢ,Lance en os III,Lancia d'osso III,Knochenlanze III,Lanza Ósea III,Lança Óssea III,Kościana lanca III,Костяное копье 3,본랜스Ⅲ,骨槍Ⅲ,رمح العظم III
@@ -585,7 +585,7 @@ Barroth Stinger II,ボロススティンガーⅡ,Piqûre Barroth II,Pungitore B
 Barroth Stinger III,ボロススティンガーⅢ,Piqûre Barroth III,Pungitore Barroth III,Barroth-Stachel III,Aguijón Barroth III,Agulha de Barroth III,Żądło Barrotha III,Жало баррота 3,보로스스팅어Ⅲ,土砂龍刺針Ⅲ,واخز باروث III
 Garon Lance I,ガロンランスⅠ,Lance Garon,Lancia Garon I,Garon-Lanze I,Lanza Garon I,Lança de Garon I,Lanca Garona I,Копье гарона 1,가론랜스Ⅰ,慘爪長槍Ⅰ,رمح غارون I
 Garon Lance II,ガロンランスⅡ,Lance Garon II,Lancia Garon II,Garon-Lanze II,Lanza Garon II,Lança de Garon II,Lanca Garona II,Копье гарона 2,가론랜스Ⅱ,慘爪長槍Ⅱ,رمح غارون II
-Garon Dhara I,ガロンダーラⅠ,Dhara Garon,Dhara Garon I,Garon-Dhara I,Dhara Garon I,Dhara Garon I,Dhara Garona I,Дхара гарона 1,가론다라Ⅰ,慘爪刺針Ⅲ,غارون دهارة I
+Garon Dhara I,ガロンダーラⅠ,Dhara Garon,Dhara Garon I,Garon-Dhara I,Dhara Garon I,Dhara Garon I,Dhara Garona I,Дхара гарона 1,가론다라Ⅰ,慘爪刺針Ⅰ,غارون دهارة I
 Garon Dhara II,ガロンダーラⅡ,Dhara Garon II,Dhara Garon II,Garon-Dhara II,Dhara Garon II,Dhara Garon II,Dhara Garona II,Дхара гарона 2,가론다라Ⅱ,慘爪刺針Ⅱ,غارون دهارة II
 Aqua Horn I,アクアホーンⅠ,Corne aquatique,Corno acquatico I,Aqua-Horn I,Cuerno Aqua I,Chifre d'Água I,Wodny róg I,Морской рог 1,아쿠아혼Ⅰ,水流骨槍Ⅰ,القرن المائي I
 Aqua Horn II,アクアホーンⅡ,Corne aquatique II,Corno acquatico II,Aqua-Horn II,Cuerno Aqua II,Chifre d'Água II,Wodny róg II,Морской рог 2,아쿠아혼Ⅱ,水流骨槍Ⅱ,القرن المائي II
@@ -608,8 +608,8 @@ Daora's Fang,テリオス＝ダオラ,Croc Daora,Zanna Daora,Daoras Reißzahn,Co
 Xeno Zauta,ゼノ＝ザウータ,Xeno Zauta,Zauta Xeno,Xeno-Zauta,Xeno Zauta,Zauta de Xeno,Xeno Zauta,Ксено-заута,제노자우타,冥燈龍長槍,زينو زاوتا
 Babel Spear,バベル,Lance de Babel,Lancia Babel,Babel-Speer,Venablo de Babel,Lanção de Babel,Włócznia Babel,Вавилонская пика,바벨,巴別塔,رمح بابل
 Elder Babel Spear,エルダーバベル,Vieille lance de Babel,Lancia Babel antica,Ältesten-Babelspeer,Venablo Babel Antiguo,Lanção de Babel Ancião,Starsza Włócznia Babel,Древняя вавилонская пика,엘더바벨,遠古巴別塔,رمح بابل المعمِّر
-Grief Lance,,,,,,,,,,,
-Fiendish Tower,,,,,,,,,,,
+Grief Lance,悲哀の重鎗,Lance de souffrance,Lancia della pena,Trauerlanze,Lanza de Dolor,Lança da Ruína,Lanca żalu,Копье скорби,비애의 중창,悲哀的重槍,رمح الحزن
+Fiendish Tower,アトロシスタワー,Tour diabolique,Torre malvagia,Teuflischer Turm,Torre Diabólica,Torre Demoníaca,Diabelska wieża,Дьявольская сила,어트로시스타워,亞特羅西斯塔,البرج الشيطاني
 Iron Gunlance I,アイアンガンランスⅠ,Lancecanon de fer,Lancia-fucile di ferro I,Eisengewehrlanze I,Lanza pistola Férrea I,Lançarma de Ferro I,Żelazny lancopał I,Железная копьепушка 1,아이언건랜스Ⅰ,鐵銃槍Ⅰ,بندقية رمح حديدية I
 Iron Gunlance II,アイアンガンランスⅡ,Lancecanon de fer II,Lancia-fucile di ferro II,Eisengewehrlanze II,Lanza pistola Férrea II,Lançarma de Ferro II,Żelazny lancopał II,Железная копьепушка 2,아이언건랜스Ⅱ,鐵銃槍Ⅱ,بندقية رمح حديدية II
 Iron Gunlance III,アイアンガンランスⅢ,Lancecanon de fer III,Lancia-fucile di ferro III,Eisengewehrlanze III,Lanza pistola Férrea III,Lançarma de Ferro III,Żelazny lancopał III,Железная копьепушка 3,아이언건랜스Ⅲ,鐵銃槍Ⅲ,بندقية رمح حديدية III
@@ -643,8 +643,8 @@ Jyura Buster II,シュラムバスターⅡ,Destructeur Jyura II,Devastatore Jyu
 Jyura Buster III,シュラムバスターⅢ,Destructeur Jyura III,Devastatore Jyura III,Jyura-Brecher III,Cañón Jyura III,Destruidora de Jyura III,Pogromca Jyura III,Юратодовая пушка 3,슈람버스터Ⅲ,泥岩龍銃槍Ⅲ,محراث جيورا III
 Glacial Gunlance I,グレイスガンランスⅠ,Lancecanon polaire,Lancia-fucile glaciale I,Gletscher-Gewehrlanze I,Lanza pistola Glacial I,Lançarma Glacial I,Lancopał lodowcowy I,Ледяная копьепушка 1,그레이스건랜스Ⅰ,優雅銃槍Ⅰ,بندقية رمح جليدية I
 Glacial Gunlance II,グレイスガンランスⅡ,Lancecanon polaire II,Lancia-fucile glaciale II,Gletscher-Gewehrlanze II,Lanza pistola Glacial II,Lançarma Glacial II,Lancopał lodowcowy II,Ледяная копьепушка 2,그레이스건랜스Ⅱ,優雅銃槍Ⅱ,بندقية رمح جليدية II
-Legiana Cannon I,ギエナキャノンⅠ,Canon Legiana,Cannone Legia I,Legiana-Kanone I,Cañón Legiana I,Canhão de Legiana I,Działo Legiany I,Пушка легиана 1,기에나캐논Ⅰ,風漂龍加農砲Ⅰ,مدفع ليغيانا I
-Legiana Cannon II,ギエナキャノンⅡ,Canon Legiana II,Cannone Legia II,Legiana-Kanone II,Cañón Legiana II,Canhão de Legiana II,Działo Legiany II,Пушка легиана 2,기에나캐논Ⅱ,風漂龍加農砲Ⅱ,مدفع ليغيانا II
+Legiana Cannon I,ギエナキャノンⅠ,Canon Legiana,Cannone Legia I,Legiana-Kanone I,Cañón Legiana I,Canhão de Legiana I,Działo Legiany I,Пушка легианы 1,기에나캐논Ⅰ,風漂龍加農砲Ⅰ,مدفع ليغيانا I
+Legiana Cannon II,ギエナキャノンⅡ,Canon Legiana II,Cannone Legia II,Legiana-Kanone II,Cañón Legiana II,Canhão de Legiana II,Działo Legiany II,Пушка легианы 2,기에나캐논Ⅱ,風漂龍加農砲Ⅱ,مدفع ليغيانا II
 Bone Gunlance I,骨銃槍Ⅰ,Lancecanon en os,Lancia-fucile d'osso I,Knochengewehrlanze I,Lanza pistola Ósea I,Lançarma de Osso I,Kościany lancopał I,Костяная копьепушка 1,골총창Ⅰ,骨銃槍Ⅰ,بندقية رمح جليدية I
 Bone Gunlance II,骨銃槍Ⅱ,Lancecanon en os II,Lancia-fucile d'osso II,Knochengewehrlanze II,Lanza pistola Ósea II,Lançarma de Osso II,Kościany lancopał II,Костяная копьепушка 2,골총창Ⅱ,骨銃槍Ⅱ,بندقية رمح جليدية II
 Bone Gunlance III,骨銃槍Ⅲ,Lancecanon en os III,Lancia-fucile d'osso III,Knochengewehrlanze III,Lanza pistola Ósea III,Lançarma de Osso III,Kościany lancopał III,Костяная копьепушка 3,골총창Ⅲ,骨銃槍Ⅲ,بندقية رمح جليدية III
@@ -689,8 +689,8 @@ Blacksteel Gunlance II,黒鋼の銃槍Ⅱ,Lancecanon sombracier II,Lancia-fucile
 Icesteel Gunlance,鋼氷銃槍,Lancecanon inexorable,Lancia-fucile ghiacciaio,Eisstahl-Gewehrlanze,Lanza pist. Acero Helado,Lançarma de Friaço,Lancopał z lodowej stali,Ледяная копьепушка,강빙총창,鋼冰銃槍,بندقية رمح نصل ثلجي
 Daora's Brigia,ダオラ＝ブリジア,Brigia Daora,Brigia Daora,Daoras Brigia,Brillo Daora,Brigia de Daora,Brigia Daory,Бригия даоры,다오라블리지아,鋼龍爪銃槍,حربة داورا
 Xeno Hemta,ゼノ＝ヘムタ,Xeno Hemta,Hemta Xeno,Xeno-Hemta,Xeno Hemta,Hemta de Xeno,Xeno Hemta,Ксено-хемта,제노헴타,冥燈龍銃槍,هيمتا زينو
-Ravenous Gunlance,,,,,,,,,,,
-Insatiable Gunlance,,,,,,,,,,,
+Ravenous Gunlance,愚欲の銃槍,Lancecanon vorace,Lancia-fucile vorace,Gefräßige Gewehrlanze,Lanza pistola Voraz,Lançarma Voraz,Żarłoczny lancopał,Хищная копьепушка,우욕의 건랜스,愚欲的銃槍,بندقية رماح خاطفة
+Insatiable Gunlance,暴銃槍グラグリード,Lancecanon insatiable,Lancia-fucile insaziabile,Unersättliche Gewehrlanze,Lanza pistola Insaciable,Lançarma Insaciável,Nienasycony lancopał,Ненасытная копьепушка,폭총창 그라그리드,暴銃槍格拉古利德,بندقية رماح متعطشة
 Proto Iron Axe I,鉄製試作剣斧Ⅰ,Hache bestiale,Ascia di ferro I,Proto-Eisenaxt I,Protohacha Férrea I,Protomachado Ferro I,Prototopór z żelaza I,Простой железный топор 1,철제시험작검부Ⅰ,鐵製試作劍斧Ⅰ,فأس بروتو الحديدي I
 Proto Iron Axe II,鉄製試作剣斧Ⅱ,Hache bestiale II,Ascia di ferro II,Proto-Eisenaxt II,Protohacha Férrea II,Protomachado Ferro II,Prototopór z żelaza II,Простой железный топор 2,철제시험작검부Ⅱ,鐵製試做劍斧Ⅱ,فأس بروتو الحديدي II
 Proto Iron Axe III,鉄製試作剣斧Ⅲ,Hache bestiale III,Ascia di ferro III,Proto-Eisenaxt III,Protohacha Férrea III,Protomachado Ferro III,Prototopór z żelaza III,Простой железный топор 3,철제시험작검부Ⅲ,鐵製試做劍斧Ⅲ,فأس بروتو الحديدي III
@@ -703,13 +703,13 @@ Nergal Gash,ネルガルガッシュ,Balafreur Nergal,Fenditore Nergi,Nergal-Ein
 Dying Light,断滅の一閃,Crépuscule,Luce morente,Sterbendes Licht,Luz Perecedera,Luz Agonizante,Gasnące Światło,Уходящий свет,단멸의일섬,斷滅的一閃,الضوء الخامد
 Glacial Axe I,グレイスアックスⅠ,Hache polaire,Ascia glaciale I,Gletscher-Axt I,Hacha Glacial I,Machado Glacial I,Topór lodowcowy I,Ледяной топор 1,그레이스액스Ⅰ,優雅戰斧Ⅰ,الفأس الجليدي I
 Glacial Axe II,グレイスアックスⅡ,Hache polaire II,Ascia glaciale II,Gletscher-Axt II,Hacha Glacial II,Machado Glacial II,Topór lodowcowy II,Ледяной топор 2,그레이스액스Ⅱ,優雅戰斧Ⅱ,الفأس الجليدي II
-Frostreaver,ホロウコラム,Ravageur du néant,Rapitore del gelo,Frosträuber,Cortahielos,Aniquilagélido,Mroźny Łupieżca,Оледенелая секира,할로우코람,凶靈之柱 ,فروستريفر
-Legia Frostreaver,レイ＝ホロウコラム,Ravageur du néant II,Fendighiaccio Legia,Legia-Frosträuber,Cortahielos Legia,Aniquilagélido de Legia,Legia Mroźny Łupieżca,Ледяная секира легианы,레이할로우코람,凶靈之柱,فروستريفر ليغيا
+Frostreaver,ホロウコラム,Ravageur du néant,Rapitore del gelo,Frosträuber,Cortahielos,Aniquilagélido,Mroźny Łupieżca,Оледенелая секира,할로우코람,凶靈之柱,فروستريفر
+Legia Frostreaver,レイ＝ホロウコラム,Ravageur du néant II,Fendighiaccio Legia,Legia-Frosträuber,Cortahielos Legia,Aniquilagélido de Legia,Legia Mroźny Łupieżca,Ледяная секира легианы,레이할로우코람,亡靈之柱,فروستريفر ليغيا
 Thunder Axe I,サンダーアックスⅠ,Hache de l'orage,Ascia del tuono I,Donneraxt I,Hacha Trueno I,Machado de Raio I,Topór piorunów I,Топор грома 1,선더액스Ⅰ,閃電斧Ⅰ,فأس الرعد I
 Thunder Axe II,サンダーアックスⅡ,Hache de l'orage II,Ascia del tuono II,Donneraxt II,Hacha Trueno II,Machado de Raio II,Topór piorunów II,Топор грома 2,선더액스Ⅱ,閃電斧Ⅱ,فأس الرعد II
 Lightning Chopper I,ライトニングアクセルⅠ,Électro-hache,Mannaia lampante I,Blitz-Hackmesser I,Cortadora Relámpago I,Cutelo Fulgural I,Tasak błyskawic I,Грозовой тесак 1,라이트닝액셀Ⅰ,雷光迅斧Ⅰ,قاطع البرق I
 Lightning Chopper II,ライトニングアクセルⅡ,Électro-hache II,Mannaia lampante II,Blitz-Hackmesser II,Cortadora Relámpago II,Cutelo Fulgural II,Tasak błyskawic II,Грозовой тесак 2,라이트닝액셀Ⅱ,雷光迅斧Ⅱ,قاطع البرق II
-Lightning Chopper III,ライトニングアクセルⅢ,Électro-hache III,Mannaia lampante III,Blitz-Hackmesser III,Cortadora Relámpago III,Cutelo Fulgural III,Tasak błyskawic IIII,Грозовой тесак 3,라이트닝액셀Ⅲ,雷光迅斧Ⅲ,قاطع البرق III
+Lightning Chopper III,ライトニングアクセルⅢ,Électro-hache III,Mannaia lampante III,Blitz-Hackmesser III,Cortadora Relámpago III,Cutelo Fulgural III,Tasak błyskawic III,Грозовой тесак 3,라이트닝액셀Ⅲ,雷光迅斧Ⅲ,قاطع البرق III
 Motor Chopper I,モーターアクセルⅠ,Hache de la destruction,Mannaia a motore I,Motor-Hackmesser I,Cuchilla Motora I,Cutelo Motriz I,Tasak silnikowy I,Заводной тесак 1,모터액셀Ⅰ,動力迅斧Ⅰ,القاطع الثقيل I
 Motor Chopper II,モーターアクセルⅡ,Hache de la destruction II,Mannaia a motore II,Motor-Hackmesser II,Cuchilla Motora II,Cutelo Motriz II,Tasak silnikowy II,Заводной тесак 2,모터액셀Ⅱ,動力迅斧Ⅱ,القاطع الثقيل II
 Jagras Axe I,ジャグラスアックスⅠ,Hache Jagras,Ascia Jagras I,Jagras-Axt I,Hacha Jagras I,Machado de Jagras I,Topór Jagrasa I,Топор яграса 1,쟈그라스액스Ⅰ,凶豺龍劍斧Ⅰ,فأس جاغراس I
@@ -770,8 +770,8 @@ Blacksteel Switch Axe II,黒鋼の剣斧Ⅱ,Morpho-hache sombracier II,Spadascia
 Teostra's Arx,テオ＝アルクス,Arx Teostra,Ascia Teostra,Teostras Arx,Arx Teostra,Cidadela de Teostra,Arx Teostry,Сцена теостры,테오아르크스,炎王劍斧,معقل تيوسترا
 Teostra's Castle,テオ＝キャッスル,Forteresse Teostra,Castello Teostra,Teostras Schloss,Castillo Teostra,Castelo de Teostra,Zamek Teostry,Замок теостры,테오캐슬,炎王城塞,قلعة تيوسترا
 Xeno Martshu,ゼノ＝マルトーシュ,Xeno Martshu,Martojsz Xeno,Xeno-Martshu,Xeno Martshu,Martshu de Xeno,Xeno Martshu,Ксено-мартшу,제노마르토슈,冥燈龍劍斧,مارتشو زينو
-Tyrannos,,,,,,,,,,,
-Terror Tyrannos,,,,,,,,,,,
+Tyrannos,テュランノス,Tyrannos,Tyrannos,Tyrannos,Tyrannos,Tiranos,Tyrannos,Тираннос,튜란노스,暴君,الطاغية
+Terror Tyrannos,テラーテュランノス,Terreur Tyrannos,Tyrannos terribile,Terror Tyrannos,Tyrannos Terrorífica,Tiranos Aterrorizante,Tyrannos grozy,Тираннос ужаса,테라 튜란노스,恐怖暴君,رعب الطاغية
 Proto Commission Axe I,調査団試作盾斧Ⅰ,Hache primaire,Prototipo della Gilda I,Proto-Kommissionsaxt I,Protohacha Comitiva I,Protomachado Oficial I,Prototopór Komisji I,Простой топор Флота 1,조사단시험작순부Ⅰ,調查團試作盾斧Ⅰ,فأس لجنة بروتو I
 Proto Commission Axe II,調査団試作盾斧Ⅱ,Hache primaire II,Prototipo della Gilda II,Proto-Kommissionsaxt II,Protohacha Comitiva II,Protomachado Oficial II,Prototopór Komisji II,Простой топор Флота 2,조사단시험작순부Ⅱ,調查團試作盾斧Ⅱ,فأس لجنة بروتو II
 Proto Commission Axe III,調査団試作盾斧Ⅲ,Hache primaire III,Prototipo della Gilda III,Proto-Kommissionsaxt III,Protohacha Comitiva III,Protomachado Oficial III,Prototopór Komisji III,Простой топор Флота 3,조사단시험작순부Ⅲ,調查團試作盾斧Ⅲ,فأس لجنة بروتو III
@@ -781,7 +781,7 @@ Elite Commission Axe III,精鋭調査団盾斧Ⅲ,Hache de la Commission III,Asc
 Chrome Guardian I,クロムガーディアンⅠ,Gardien chromé,Guardiano cromato I,Chromwächter I,Cromoguardián I,Guardiã Cromada I,Chromowy strażnik I,Блестящий страж 1,크롬가디언Ⅰ,鉻鐵守護者Ⅰ,حارس الكروم I
 Chrome Guardian II,クロムガーディアンⅡ,Gardien chromé II,Guardiano cromato II,Chromwächter II,Cromoguardián II,Guardiã Cromada II,Chromowy strażnik II,Блестящий страж 2,크롬가디언Ⅱ,鉻鐵守護者Ⅱ,حارس الكروم II
 Nergal Lacerator,ネルガルスイング,Fléau Nergal,Laceratore Nergi,Nergal-Reißer,Azote Nergal,Lacerador de Nergal,Nergalny Przecinacz,Нергальский измельчитель,네르갈스윙,滅盡龍的揮擊,الممزق الهامس
-Devastation's Thorns,壊滅の一束,Épine de la dévastation,Spine distruttrici,Zernichtungsdornen,Espinas de devastación,Espinhos da Devastação,Ciernie Spustoszenia,Шипы уничтожения,괴멸의일속,帶來毀滅的一把武器,أشواك الدمار
+Devastation's Thorns,壊滅の一束,Épine de la dévastation,Spine distruttrici,Zernichtungsdornen,Espinas de devastación,Espinhos da Devastação,Ciernie Spustoszenia,Шипы уничтожения,괴멸의일속,壞滅一束,أشواك الدمار
 Rathsblade I,火竜の盾斧Ⅰ,Volto-hache Rathalos,Lama Rath I,Rathklinge I,Rathmetal I,Lâmina Rathaliana I,Ostrze Ratha I,Меч раталоса 1,화룡의순부Ⅰ,火龍盾斧Ⅰ,راذبلايد I
 Rathsblade II,火竜の盾斧Ⅱ,Volto-hache Rathalos II,Lama Rath II,Rathklinge II,Rathmetal II,Lâmina Rathaliana II,Ostrze Ratha II,Меч раталоса 2,화룡의순부Ⅱ,火龍盾斧Ⅱ,راذبلايد II
 Axelion Blade,炎斧アクセリオン,Lame d'Axelion,Lama Axelion,Axelion-Klinge,Filo Hachelion,Lâmina de Axelion,Ostrze Toporiona,Клинок Ахелоя,염부 액셀리온,炎斧蛇王,نصل أكزيليون
@@ -833,8 +833,8 @@ Pulsar Strongarm III,パルサーアームズⅢ,Décapiteur pulsar III,Braccia 
 Kadachi Kaina I,カガチノカイナⅠ,Kaina Kadachi,Braccia Kadachi I,Kadachi-Kaina I,Kaina Kadachi I,Kaina Kadachi I,Kaina Kadachi I,Кадачи кайна 1,카가치의팔Ⅰ,飛雷龍之腕Ⅰ,كاداتشي كاينا I
 Kadachi Kaina II,カガチノカイナⅡ,Kaina Kadachi II,Braccia Kadachi II,Kadachi-Kaina II,Kaina Kadachi II,Kaina Kadachi II,Kaina Kadachi II,Кадачи кайна 2,카가치의팔Ⅱ,飛雷龍之腕Ⅱ,كاداتشي كاينا II
 Kadachi Kaina III,カガチノカイナⅢ,Kaina Kadachi III,Braccia Kadachi III,Kadachi-Kaina III,Kaina Kadachi III,Kaina Kadachi III,Kaina Kadachi III,Кадачи кайна 3,카가치의팔Ⅲ,飛雷龍之腕Ⅲ,كاداتشي كاينا III
-Garon Strongarm I,ガロンアームズⅠ,Décapiteur Garon,Forza di Garon I,Garon-Schläger I,Aspa Garon I,Braço de Garon I,Siłówka Garona I,Штык-нож гарона 1,가론암즈Ⅰ,慘爪兵裝,نصل غارون القوي I
-Garon Strongarm II,ガロンアームズⅡ,Décapiteur Garon II,Forza di Garon II,Garon-Schläger II,Aspa Garon II,Braço de Garon II,Siłówka Garona II,Штык-нож гарона 2,가론암즈Ⅱ,慘爪兵裝,نصل غارون القوي II
+Garon Strongarm I,ガロンアームズⅠ,Décapiteur Garon,Forza di Garon I,Garon-Schläger I,Aspa Garon I,Braço de Garon I,Siłówka Garona I,Штык-нож гарона 1,가론암즈Ⅰ,慘爪兵裝 Ⅰ,نصل غارون القوي I
+Garon Strongarm II,ガロンアームズⅡ,Décapiteur Garon II,Forza di Garon II,Garon-Schläger II,Aspa Garon II,Braço de Garon II,Siłówka Garona II,Штык-нож гарона 2,가론암즈Ⅱ,慘爪兵裝 Ⅱ,نصل غارون القوي II
 Hate's Undying Flame,憎しみの炎,Feu Immortel de la Haine,Fiamma dell'odio eterno,Unsterbliche Hassflamme,Llama de Odio Inmortal,Chama Imortal do Ódio,Płomień Nienawiści,Негасимая ненависть,증오의불꽃,憎恨的火炎,لهب الكره الأبدي
 Odium,憎【オディウム】,Odium,Odium,Odium,Odium,Odium,Odium,Одиум,증오【오디엄】,憎【忿恨】,المقت
 Dragonbone Cutter I,龍骨盾斧Ⅰ,Découpeur draconique,Lama caricata dragosso I,DrachenknochnSchneider I,Aspa Dracóstea I,Cortador de Dragosso I,Rębacz sm. kości I,Драконий резак 1,용골순부Ⅰ,龍骨盾斧Ⅰ,قاطع عظام التنين I
@@ -847,8 +847,8 @@ Blacksteel Charger II,黒鋼の盾斧Ⅱ,Chargeur sombracier II,Lama caricata ne
 Daora's Casca,ダオラ＝カスカ,Casca Daora,Casca Daora,Daoras Casca,Casca Daora,Casca de Daora,Casca Daory,Шлем даоры,다오라카스카,鋼龍冰盾,داورا كاسكا
 Daora's Thwartoise,ダオラ＝ゲンム,Tortue Daora,Thwartoise Daora,Daoras Vereitlung,Tortuga Daora,Tartamuro de Daora,Psółw Daory,Разрушитель даоры,다오라겐무,鋼龍幻夢,ثورتس داورا
 Xeno Ra'atz,ゼノ＝ラーツ,Xeno Ra'atz,Ra'atz Xeno,Xeno-Ra'atz,Xeno Ra'atz,Ra'atz de Xeno,Xeno Ra'atz,Ксено-ра’атц,제노라츠,冥燈龍盾斧,زينو رائتاز
-Tyrant's Charge Blade,,,,,,,,,,,
-Oppressor's Charge Blade,,,,,,,,,,,
+Tyrant's Charge Blade,暴虐の盾斧,Volto-hache du tyran,Lama del tiranno,Tyrannen-Energieklinge,Hacha cargada Tiránica,Serralâmina do Tirano,Ładowane ostrze tyrana,Силовой клинок тирана,포학의 순부,暴虐的盾斧,نصل الطاغية المشحون
+Oppressor's Charge Blade,デストネーター,Volto-hache de l'oppresseur,Lama del despota,Zwingherr-Energieklinge,Hacha cargada Opresora,Serralâmina do Opressor,Ładowane ostrze ciemięzcy,Силовой клинок угнетателя,데스토네이터,德斯特涅塔,نصل الجائر المشحون
 Iron Blade I,アイアンブレードⅠ,Glaive en fer,Lama di ferro I,Eisenklinge I,Vara Férrea I,Lâmina de Ferro I,Żelazne ostrze I,Железный клинок 1,아이언블레이드Ⅰ,鐵製長刀Ⅰ,النصل الحديد I
 Iron Blade II,アイアンブレードⅡ,Glaive en fer II,Lama di ferro II,Eisenklinge II,Vara Férrea II,Lâmina de Ferro II,Żelazne ostrze II,Железный клинок 2,아이언블레이드Ⅱ,鐵製長刀Ⅱ,النصل الحديد II
 Iron Blade III,アイアンブレードⅢ,Glaive en fer III,Lama di ferro III,Eisenklinge III,Vara Férrea III,Lâmina de Ferro III,Żelazne ostrze III,Железный клинок 3,아이언블레이드Ⅲ,鐵製長刀Ⅲ,النصل الحديد III
@@ -930,8 +930,8 @@ Blacksteel Glaive II,黒鋼の長刀Ⅱ,Glaive sombracier II,Falcione neracciaio
 Daora's Entom,ウルス＝ダオラ,Entom Daora,Entom Daora,Daoras Entom,Éntomo Daora,Entom de Daora,Entom Daory,Энтом даоры,우르스다오라,靈魂鋼龍棍,إنتوم داورا
 Daora's Tethidine,クイド＝ダオラ,Tethidine Daora,Tethidine Daora,Daoras Tethidine,Tetidina Daora,Correntina de Daora,Tethidyn Daory,Тэтидн даоры,구이도다오라,冰體鋼龍棍,تيثيداين داورا
 Xeno Shmaena,ゼノ＝シュマイナ,Xeno Shmaena,Shmaena Xeno,Xeno-Shmaena,Xeno Shmaena,Shmaena de Xeno,Xeno Shmaena,Ксено-шаэна,제노슈마이너,冥燈龍長刀,زينو شماينا
-Bad Wing,,,,,,,,,,,
-Grunge Storm,,,,,,,,,,,
+Bad Wing,バッドウィング,Aile de la mort,Ala della follia,Schlimmer Flügel,Ala de Perdición,Asa Ruim,Złowrogie skrzydło,Плохое крыло,배드윙,邪惡之翼,الجناح الشرير
+Grunge Storm,グランジストーム,Tonnerre absolu,Tempesta impura,Schmutzsturm,Tormenta Atronadora,Tempestade de Impurezas,Burza plugastwa,Грязная буря,그런지스톰,污穢暴風雨,عاصفة قذرة
 Chain Blitz I,チェーンブリッツⅠ,Déchiqueteur de fer,Fulmine a catena I,Kettenblitz I,Saeta Cadena I,Bombardeio em Série I,Blitz łańcuchowy I,Разящая цепь 1,체인블리츠Ⅰ,迅擊鍊弩Ⅰ,الغارة المسلسلة I
 Chain Blitz II,チェーンブリッツⅡ,Déchiqueteur de fer II,Fulmine a catena II,Kettenblitz II,Saeta Cadena II,Bombardeio em Série II,Blitz łańcuchowy II,Разящая цепь 2,체인블리츠Ⅱ,迅擊鍊弩Ⅱ,غارة مسلسلة II
 Chain Blitz III,チェーンブリッツⅢ,Déchiqueteur de fer III,Fulmine a catena III,Kettenblitz III,Saeta Cadena III,Bombardeio em Série III,Blitz łańcuchowy III,Разящая цепь 3,체인블리츠Ⅲ,迅擊鍊弩Ⅲ,غارة مسلسلة III
@@ -977,7 +977,7 @@ Power Rifle III,パワーライフルⅢ,Fusil de puissance III,Fucile potente I
 Sniper Shot I,スナイプシューターⅠ,Fusil de sniper,Colpo cecchino I,Heckenschützen-Schuss I,Francotirador I,Disparo Furtivo I,Strzelba snajperska I,Снайперский выстрел 1,스나이프슈터Ⅰ,狙擊射手Ⅰ,طلقة القناص I
 Sniper Shot II,スナイプシューターⅡ,Fusil de sniper II,Colpo cecchino II,Heckenschützen-Schuss II,Francotirador II,Disparo Furtivo II,Strzelba snajperska II,Снайперский выстрел 2,스나이프슈터Ⅱ,狙擊射手Ⅱ,طلقة القناص II
 Hazak Ereipia,ハザクエリピア,Hazak Ereipia,Ereipia Hazak,Hazak-Ereipia,Ereipia Hazak,Ereipia de Hazak,Hazak Ereipia,Хазак-эрейпиа,하자크에리피아,屍套龍輕弩,هازاك إيريبيا
-Gulgoleth's Wail,グルゴレットの叫喚,Hurlement de Gulgoleth,Lamento di Gulgoleth,Gulgoleths Wehklagen,Llanto de Gulgoleth,Lamento de Gulgoleth,Lament Gulgoletha,Плач Гулголета,굴고렛의규환,髑髅的吶喊,نحيب غولغوليث
+Gulgoleth's Wail,グルゴレットの叫喚,Hurlement de Gulgoleth,Lamento di Gulgoleth,Gulgoleths Wehklagen,Llanto de Gulgoleth,Lamento de Gulgoleth,Lament Gulgoletha,Плач Гулголета,굴고렛의규환,髑髏的吶喊,نحيب غولغوليث
 Blazing Rifle I,ブレイズライフルⅠ,Fusil flamboyant,Fucile fiammante I,Glut-Büchse I,Rifle Flameante I,Rifle Escaldante I,Ognisty karabin I,Полыхающее ружье 1,블레이즈라이플Ⅰ,火焰步槍Ⅰ,بندقية اللهب I
 Blazing Rifle II,ブレイズライフルⅡ,Fusil flamboyant II,Fucile fiammante II,Glut-Büchse II,Rifle Flameante II,Rifle Escaldante II,Ognisty karabin II,Полыхающее ружье 2,블레이즈라이플Ⅱ,火焰步槍Ⅱ,بندقية اللهب II
 Anja Buster I,ジャナフバスターⅠ,Casseur Anja,Devastatore Anja I,Anjanath-Brecher I,Destructor Anja I,Destruidor de Anja I,Pogromca Anja I,Анджи-убийца 1,쟈나프버스터Ⅰ,蠻顎龍破壞砲Ⅰ,محطّم أنجا I
@@ -1016,8 +1016,8 @@ Daora's Hornet,ホーネス＝ダオラ,Frelon Daora,Calabrone Daora,Daoras Horn
 Xeno Neqiina,ゼノ＝ネキーナ,Xeno Neqiina,Neqiina Xeno,SchwarzstahlBogngwehr III,Xeno Neqiina,Neqiina de Xeno,Xeno Neqiina,Ксено-некиина,제노네키나,冥燈龍輕弩槍,زينو نقينا
 Cross Bowgun,クロスボウガン,Fusarbalète du traqueur,Balestra incrociata,Kreuz-Bogengewehr,Ballesta Cruzada,Fuzilarco Cruzado,Łukodziałko krzyżowe,Крестовое лукорудье,크로스보우건,十字弩槍,بندقية القوس المستعرض
 Great Bowgun,グレイトボウガン,Grand fusarbalète,Gran balestra,Großes Bogengewehr,Gran Ballesta,Fuzilarco Grande,Wielkie łukodziałko,Великое лукорудие,그레이트보우건,巨型十字槍,بندقية القوس العظيمة
-Devil's Grin,,,,,,,,,,,
-Devil's Madness,,,,,,,,,,,
+Devil's Grin,イビルマシーン,Sourire du Diable,Ghigno diabolico,Teufelsgrinsen,Sonrisa del Diablo,Sorriso do Diabo,Diabelski uśmiech,Ухмылка дьявола,이블 머신,恐怖機械,تجهم الشّيطان
+Devil's Madness,マッドネスグリーフ,Folie du Diable,Follia diabolica,Teufelswahn,Locura del Diablo,Loucura do Diabo,Diabelski obłęd,Безумие дьявола,매드니스 그리브,瘋狂的悲嘆,هوس الشّيطان
 Iron Assault I,アイアンアサルトⅠ,Arbalète en fer,Assalto di ferro I,Eisen-Überfall I,Asalto Férreo I,Assalto Férreo I,Żelazna nawała I,Железный штурмовик 1,아이언어썰트Ⅰ,鐵製突擊弩Ⅰ,البطش الحديدي I
 Iron Assault II,アイアンアサルトⅡ,Arbalète en fer II,Assalto di ferro II,Eisen-Überfall II,Asalto Férreo II,Assalto Férreo II,Żelazna nawała II,Железный штурмовик 2,아이언어썰트Ⅱ,鐵製突擊弩Ⅱ,البطش الحديدي II
 Iron Assault III,アイアンアサルトⅢ,Arbalète en fer III,Assalto di ferro III,Eisen-Überfall III,Asalto Férreo III,Assalto Férreo III,Żelazna nawała III,Железный штурмовик 3,아이언어썰트Ⅲ,鐵製突擊弩Ⅲ,البطش الحديدي III
@@ -1097,8 +1097,8 @@ Blacksteel Cannon II,黒鋼の砲筒Ⅱ,Canon sombracier II,Cannone neracciaio I
 Teostra's Artillery,テオ＝アーティレリ,Artillerie Teostra,Artiglieria Teostra,Teostras Artillerie,Artillería Teostra,Artilharia de Teostra,Artyleria Teostry,Артиллерия теостры,테오아틸러리,炎王大砲,مدفعية تيوسترا
 Teostra's Flames,テオ＝フランマルス,Flammes Teostra,Fiamme Teostra,Teostras Flammen,Llamarada Teostra,Chamas de Teostra,Płomienie Teostry,Пламя теостры,테오플람마르스,炎王灼紅巨砲,لهب تيوسترا
 Xeno Jiiqa,ゼノ＝ジィカ,Xeno Jiiqa,Jiiqa Xeno,Xeno-Jiiqa,Xeno Jiiqa,Jiiqa de Xeno,Xeno Jiiqa,Ксено-джиика,제노지카,冥燈龍重弩槍,زينو جيكا
-Gluttonous Cannon,,,,,,,,,,,
-Dark Devourer,,,,,,,,,,,
+Gluttonous Cannon,暴食の重弩,Canon gargantuesque,Cannone ingordo,Völlerei-Kanone,Cañón Glotón,Canhão Insaciável,Żarłoczne działo,Прожорливая пушка,폭식의 중노,暴食的重弩,مِدفع شرس
+Dark Devourer,アンフィニグラ,Dévoreur des Ténèbres,Divoratore oscuro,Dunkler Verschlinger,Devoradora Oscura,Devorador Negro,Mroczny pożeracz,Темный пожиратель,안피니그라,黑暗左右,الملتهم المُظلم
 Iron Bow I,鉄弓Ⅰ,Arc en fer,Arco di ferro I,Eisenbogen I,Arco Férreo I,Arco de Ferro I,Żelazny łuk I,Железный лук 1,강궁Ⅰ,鐵弓Ⅰ,القوس الحديدي I
 Iron Bow II,鉄弓Ⅱ,Arc en fer II,Arco di ferro II,Eisenbogen II,Arco Férreo II,Arco de Ferro II,Żelazny łuk II,Железный лук 2,강궁Ⅱ,鐵弓Ⅱ,القوس الحديدي II
 Iron Bow III,鉄弓Ⅲ,Arc en fer III,Arco di ferro III,Eisenbogen III,Arco Férreo III,Arco de Ferro III,Żelazny łuk III,Железный лук 3,강궁Ⅲ,鐵弓Ⅲ,القوس الحديدي III
@@ -1151,7 +1151,7 @@ Cera Coilbender,角王弓ゲイルホーン,Ouragan,Arcorno di cera,Cera-Ringbeu
 Blooming Arch I,ブルームアーチⅠ,Arc du tourment,Arco piumato I,Blühender Bogen I,Arco Floral I,Arco Pujante I,Kwitnący łuk I,Пестрая дуга 1,블룸아치Ⅰ,花朵弓Ｉ,القوس المزدهر I
 Blooming Arch II,ブルームアーチⅡ,Arc du tourment II,Arco piumato II,Blühender Bogen II,Arco Floral II,Arco Pujante II,Kwitnący łuk II,Пестрая дуга 2,블룸아치Ⅱ,花朵弓Ⅱ,القوس المزدهر II
 Blooming Arch III,ブルームアーチⅢ,Arc du tourment III,Arco piumato III,Blühender Bogen III,Arco Floral III,Arco Pujante III,Kwitnący łuk III,Пестрая дуга 3,블룸아치Ⅲ,花朵弓Ⅲ,القوس المزدهر III
-Datura String I,ダチュラストリングⅠ,Corde du diable,Corda datura I,Datura-Sehne I,Cordel Datura I,Corda de Datura I,Cięciwa Datury I,Тетива дурмана 1,다추라스트링Ⅰ, 曼陀羅弓Ｉ,حبل داتورا I
+Datura String I,ダチュラストリングⅠ,Corde du diable,Corda datura I,Datura-Sehne I,Cordel Datura I,Corda de Datura I,Cięciwa Datury I,Тетива дурмана 1,다추라스트링Ⅰ,曼陀羅弓Ｉ,حبل داتورا I
 Datura String II,ダチュラストリングⅡ,Corde du diable II,Corda datura II,Datura-Sehne II,Cordel Datura II,Corda de Datura II,Cięciwa Datury II,Тетива дурмана 2,다추라스트링Ⅱ,曼陀羅弓Ⅱ,حبل داتورا II
 Datura String III,ダチュラストリングⅢ,Corde du diable III,Corda datura III,Datura-Sehne III,Cordel Datura III,Corda de Datura III,Cięciwa Datury III,Тетива дурмана 3,다추라스트링Ⅲ,曼陀羅弓Ⅲ,حبل داتورا III
 Blazing Bow I,ブレイズボウⅠ,Arc flamboyant,Arco fiammante I,Glut-Bogen I,Arco Flameante I,Arco Escaldante I,Ognisty łuk I,Пылающий лук 1,블레이즈보우Ⅰ,火焰弓Ⅰ,القوس المتّقد I
@@ -1174,5 +1174,5 @@ Daora's Sagittarii,アルナス＝ダオラ,Sagittarii Daora,Sagittarii Daora,Da
 Xeno Metora,ゼノ＝メートラ,Xeno Metora,Metora Xeno,Xeno-Metora,Xeno Metora,Metora de Xeno,Xeno Metora,Ксено-метора,제노메토라,冥燈龍大弓,زينو ميتورا
 Cross Hunter's Bow,クロスハンターボウ,Arc du traqueur,Arco incrociato,Kleiner Jägerbogen,Arco Cruzado de cazador,Balestra do Caçador,Krzyżowy łuk łowcy,Крестовый лук,크로스헌터보우,十字獵弓,قوس الصياد
 Great Hunter's Bow,グレイトハンターボウ,Grand arc de chasseur,Gran arco,Großer Jägerbogen,Gran arco de cazador,Grande Arco do Caçador,Łuk wielkiego łowcy,Большой лук охотника,그레이트헌터보우,巨型獵弓,قوس الصياد الأعظم
-Insurgent's Bow,,,,,,,,,,,
-Villainous Brace,,,,,,,,,,,
+Insurgent's Bow,暴徒の凶弓,Arc de l'Insurgé,Arco ribelle,Rebellenbogen,Arco Insurrecto,Arco do Insurgente,Łuk buntownika,Лук мятежника,폭주의 흉노,暴徒的凶弓,قوس الثائر
+Villainous Brace,ヴィランブレイス,Étreinte infâme,Pilastro malvagio,Garstiger Doppeltreffer,Puntal Malvado,Preparo Ignóbil,Nikczemna klamra,Злодейский гребень,뷔란 블레이즈,惡棍之弓,تحصين شرير
