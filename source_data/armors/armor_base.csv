@@ -121,7 +121,7 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 120,Death Stench Muscle,4,chest,both,0,0,0,32,56,76,3,2,-2,3,-4
 121,Death Stench Grip,4,arms,both,0,0,0,32,56,76,3,2,-2,3,-4
 122,Death Stench Bowels,4,waist,both,0,0,0,32,56,76,3,2,-2,3,-4
-123,Death Stench Heels,4,legs,both,0,0,0,32,56,76,3,2,-2,3,-4
+123,Death Stench Heel,4,legs,both,0,0,0,32,56,76,3,2,-2,3,-4
 124,Brigade Lobos,4,head,both,0,0,0,28,52,72,1,0,2,0,2
 125,Brigade Suit,4,chest,both,0,0,0,28,52,72,1,0,2,0,2
 126,Brigade Vambraces,4,arms,both,0,0,0,28,52,72,1,0,2,0,2
