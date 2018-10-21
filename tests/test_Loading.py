@@ -15,7 +15,8 @@ def loader_mock(tmpdir):
     "Returns loader pointed to a temporary directory created for the test"
     return DataReader(
         data_path=tmpdir,
-        languages=['en', 'ja']
+        languages=['en', 'ja'],
+        required_languages=['en', 'ja']
     )
 
 def test_load_base_json(loader_mock, basedata):

@@ -8,6 +8,11 @@ from mhdata.util import ensure, ensure_warn, get_duplicates
 from .objectindex import ObjectIndex
 from . import datafn
 
+
+def get_translated(obj, attr, lang):
+    value = obj[attr].get(lang, None)
+    return value or obj[attr]['en']
+
 def build_sql_database(output_filename, mhdata):
     "Builds a SQLite database and outputs to output_filename"
     sessionbuilder = db.recreate_database(output_filename)
@@ -52,8 +57,8 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             item.translations.append(db.ItemText(
                 lang_id=language,
-                name=entry.name(language),
-                description=entry['description'].get(language, None)
+                name=get_translated(entry, 'name', language),
+                description=get_translated(entry, 'description', language),
             ))
 
         session.add(item)
@@ -80,7 +85,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
                 id=entry.id,
                 order_id=order_id,
                 lang_id=language,
-                name=entry.name(language)
+                name=get_translated(entry, 'name', language),
             ))
 
         for item_entry in entry['items']:
@@ -103,7 +108,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
                 session.add(db.LocationCamp(
                     location_id=entry.id,
                     lang_id = language,
-                    name = camp['name']['en'],
+                    name = get_translated(camp, 'name', language),
                     area = camp['area']
                 ))
             
@@ -121,7 +126,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
             session.add(db.MonsterRewardConditionText(
                 id=condition_id,
                 lang_id=language,
-                name=entry.name(language)
+                name=get_translated(entry, 'name', language),
             ))
 
     # Save monsters
@@ -148,13 +153,13 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             alt_state_description = None
             if 'alt_description' in entry.get('weaknesses', {}):
-                alt_state_description = entry['weaknesses']['alt_description'][language]
+                alt_state_description = get_translated(entry['weaknesses'], 'alt_description', language)
 
             monster.translations.append(db.MonsterText(
                 lang_id=language,
                 name=entry.name(language),
-                ecology=entry['ecology'][language],
-                description=entry['description'][language],
+                ecology=get_translated(entry, 'ecology', language),
+                description=get_translated(entry, 'description', language),
                 alt_state_description=alt_state_description
             ))
 
@@ -171,9 +176,10 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
                 dragon=hitzone_data['dragon'],
                 ko=hitzone_data['ko'])
 
-            for lang, part_name in hitzone_data['hitzone'].items():
+            for language in cfg.supported_languages:
+                part_name = get_translated(hitzone_data, 'hitzone', language)
                 hitzone.translations.append(db.MonsterHitzoneText(
-                    lang_id=lang,
+                    lang_id=language,
                     name=part_name
                 ))
 
@@ -187,11 +193,11 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
                 sever=break_data['sever'],
                 extract=break_data['extract']
             )
-                        
-            for lang, part_name in break_data['part'].items():
+
+            for language in cfg.supported_languages:
                 breakzone.translations.append(db.MonsterBreakText(
-                    lang_id=lang,
-                    part_name=part_name
+                    lang_id=language,
+                    part_name=get_translated(break_data, 'part', language),
                 ))
 
             monster.breaks.append(breakzone)
@@ -269,15 +275,15 @@ def build_skills(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             skilltree.translations.append(db.SkillTreeText(
                 lang_id=language,
-                name=skill_entry.name(language),
-                description=skill_entry['description'][language]
+                name=get_translated(skill_entry, 'name', language),
+                description=get_translated(skill_entry, 'description', language)
             ))
 
             for effect in skill_entry['levels']:
                 skilltree.skills.append(db.Skill(
                     lang_id=language,
                     level=effect['level'],
-                    description=effect['description'][language]
+                    description=get_translated(effect, 'description', language)
                 ))
 
         session.add(skilltree)
@@ -302,7 +308,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             session.add(db.ArmorSetBonusText(
                 id=bonus_entry.id,
                 lang_id=language,
-                name=bonus_entry.name(language)
+                name=get_translated(bonus_entry, 'name', language)
             ))
         
         for skill_name, required in datafn.iter_setbonus_skills(bonus_entry):
@@ -335,7 +341,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             armorset.translations.append(db.ArmorSetText(
                 lang_id=language,
-                name=entry.name(language)
+                name=get_translated(entry, 'name', language)
             ))
 
         session.add(armorset)
@@ -379,7 +385,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             armor.translations.append(db.ArmorText(
                 lang_id=language, 
-                name=entry.name(language)
+                name=get_translated(entry, 'name', language),
             ))
 
         # Armor Skills
@@ -484,8 +490,8 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         # Add language translations
         for language in cfg.supported_languages:
             weapon.translations.append(db.WeaponText(
-                lang_id = language,
-                name = entry.name(language)
+                lang_id=language,
+                name=get_translated(entry, 'name', language)
             ))
 
         weapon.rarity = entry['rarity']
@@ -586,7 +592,7 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             decoration.translations.append(db.DecorationText(
                 lang_id=language,
-                name=entry.name('en')
+                name=get_translated(entry, 'name', language)
             ))
 
         session.add(decoration)

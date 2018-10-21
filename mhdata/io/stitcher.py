@@ -1,7 +1,7 @@
 import json
 import os.path
 
-from mhdata.util import joindicts
+from mhdata.util import joindicts, extract_fields, group_fields
 from .datamap import DataMap
 from .reader import DataReader
 
@@ -45,6 +45,32 @@ class DataStitcher:
         # NOTE: this will be removed in a later version
         data_file = self._get_filename(data_file)
         self._data_map = self.reader.load_base_json(data_file)
+        return self
+
+    def extend_base(self, filename, *, groups=[]):
+        filename = self._get_filename(filename)
+        dataitems = self.reader.load_list_csv(filename)
+        if not dataitems:
+            return self
+
+        groups = set(['name'] + groups)
+        
+        # todo: have it check the first column name and allow joins on other languages
+        
+        # Get first column name, whose values will anchor the data to merge
+        first_column_name = next(iter(dataitems[0].keys()))
+
+        results = {}
+        for item in dataitems:
+            key = item[first_column_name]
+
+            # Remove the join from the subdata
+            item.pop(first_column_name) 
+            
+            results[key] = group_fields(item, groups=groups)
+
+        self.data_map.merge(results)
+
         return self
 
     def add_json(self, data_file, *, key=None):
@@ -104,7 +130,7 @@ class DataStitcher:
         If schema is provided, returns the items run through the marshmallow schema
         """
         if schema:
-            results = DataMap()
+            results = DataMap(languages=self.reader.required_languages)
             for entry in self.data_map.values():
                 data = entry.to_dict()
                 (converted, errors) = schema.load(data, many=False) # converted
