@@ -19,24 +19,25 @@ def validate_csv(obj_list, filename):
     "Minor validation. Warning for any key/value without whitespace"
     warn_keys = False
     warn_value_rows = []
-    for idx, item in enumerate(obj_list):
+    for row_idx, item in enumerate(obj_list):
         for key in item.keys():
             if key.startswith(" ") or key.endswith(" "):
                 warn_keys = True
 
-        for value in item.values():
+        for column_idx, value in enumerate(item.values()):
             if value is None:
                 continue
 
             if value.startswith(" ") or value.endswith(" "):
-                warn_value_rows.append(str(idx))
+                warn_value_rows.append((row_idx + 1, column_idx + 1))
                 break
                 
     if warn_keys:
         print("Warning: Some keys in CSV are not trimmed: " + filename)
     if warn_value_rows:
+        cell_strings = map(lambda c: "({0}, {1})".format(c[0], c[1]), warn_value_rows)
         print("Warning: Some values in CSV are not trimmed: "
-            + filename + " rows: " + ", ".join(warn_value_rows))
+            + filename + " cells: " + ", ".join(cell_strings))
 
 
 def save_csv(obj_list, location):

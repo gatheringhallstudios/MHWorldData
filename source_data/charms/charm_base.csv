@@ -1,235 +1,235 @@
-id,name_en,name_ja,previous_en,rarity
-1,Poison Charm I,,,3
-2,Poison Charm II,,Poison Charm I,5
-3,Poison Charm III,,Poison Charm II,7
-4,Attack Charm I,,,3
-5,Attack Charm II,,Attack Charm I,5
-6,Attack Charm III,,Attack Charm II,7
-7,Defense Charm I,,,3
-8,Defense Charm II,,Defense Charm I,5
-9,Defense Charm III,,Defense Charm II,7
-10,Paralysis Charm I,,,3
-11,Paralysis Charm II,,Paralysis Charm I,5
-12,Paralysis Charm III,,Paralysis Charm II,7
-13,Sleep Charm I,,,3
-14,Sleep Charm II,,Sleep Charm I,5
-15,Sleep Charm III,,Sleep Charm II,7
-16,Stun Charm I,,,3
-17,Stun Charm II,,Stun Charm I,5
-18,Stun Charm III,,Stun Charm II,7
-19,Windproof Charm I,,,3
-20,Windproof Charm II,,Windproof Charm I,5
-21,Windproof Charm III,,Windproof Charm II,7
-22,Health Charm I,,,3
-23,Health Charm II,,Health Charm I,5
-24,Health Charm III,,Health Charm II,7
-25,Recovery Charm I,,,3
-26,Recovery Charm II,,Recovery Charm I,5
-27,Recovery Charm III,,Recovery Charm II,7
-28,Fire Charm I,,,3
-29,Fire Charm II,,Fire Charm I,5
-30,Fire Charm III,,Fire Charm II,7
-31,Water Charm I,,,3
-32,Water Charm II,,Water Charm I,5
-33,Water Charm III,,Water Charm II,7
-34,Thunder Charm I,,,3
-35,Thunder Charm II,,Thunder Charm I,5
-36,Thunder Charm III,,Thunder Charm II,7
-37,Blaze Charm I,,,3
-38,Blaze Charm II,,Blaze Charm I,5
-39,Blaze Charm III,,Blaze Charm II,7
-40,Flood Charm I,,,3
-41,Flood Charm II,,Flood Charm I,5
-42,Flood Charm III,,Flood Charm II,7
-43,Shock Charm I,,,3
-44,Shock Charm II,,Shock Charm I,5
-45,Shock Charm III,,Shock Charm II,7
-46,Venom Charm I,,,3
-47,Venom Charm II,,Venom Charm I,5
-48,Venom Charm III,,Venom Charm II,7
-49,Immobilize Charm I,,,3
-50,Immobilize Charm II,,Immobilize Charm I,5
-51,Immobilize Charm III,,Immobilize Charm II,7
-52,Tranq Charm I,,,3
-53,Tranq Charm II,,Tranq Charm I,5
-54,Tranq Charm III,,Tranq Charm II,7
-55,KO Charm I,,,3
-56,KO Charm II,,KO Charm I,5
-57,KO Charm III,,KO Charm II,7
-58,Enervate Charm I,,,3
-59,Enervate Charm II,,Enervate Charm I,5
-60,Enervate Charm III,,Enervate Charm II,7
-61,Artillery Charm I,,,3
-62,Artillery Charm II,,Artillery Charm I,5
-63,Artillery Charm III,,Artillery Charm II,7
-64,Hungerless Charm I,,,3
-65,Hungerless Charm II,,Hungerless Charm I,5
-66,Hungerless Charm III,,Hungerless Charm II,7
-67,Ironside Charm I,,,3
-68,Ironside Charm II,,Ironside Charm I,5
-69,Ironside Charm III,,Ironside Charm II,7
-70,Friendship Charm I,,,3
-71,Friendship Charm II,,Friendship Charm I,5
-72,Friendship Charm III,,Friendship Charm II,7
-73,Extension Charm I,,,3
-74,Extension Charm II,,Extension Charm I,5
-75,Extension Charm III,,Extension Charm II,7
-76,Glutton's Charm I,,,3
-77,Glutton's Charm II,,Glutton's Charm I,5
-78,Glutton's Charm III,,Glutton's Charm II,7
-79,Blessing Charm I,,,3
-80,Blessing Charm II,,Blessing Charm I,5
-81,Blessing Charm III,,Blessing Charm II,7
-82,Rally Charm I,,,3
-83,Rally Charm II,,Rally Charm I,5
-84,Rally Charm III,,Rally Charm II,7
-85,Botany Charm I,,,3
-86,Botany Charm II,,Botany Charm I,5
-87,Botany Charm III,,Botany Charm II,7
-88,Geology Charm I,,,3
-89,Geology Charm II,,Geology Charm I,5
-90,Geology Charm III,,Geology Charm II,7
-91,Slinger Charm I,,,3
-92,Slinger Charm II,,Slinger Charm I,5
-93,Slinger Charm III,,Slinger Charm II,7
-94,Stealth Charm I,,,3
-95,Stealth Charm II,,Stealth Charm I,5
-96,Stealth Charm III,,Stealth Charm II,7
-97,Smoke Charm I,,,3
-98,Smoke Charm II,,Smoke Charm I,5
-99,Smoke Charm III,,Smoke Charm II,7
-100,Mirewalker Charm I,,,3
-101,Mirewalker Charm II,,Mirewalker Charm I,5
-102,Mirewalker Charm III,,Mirewalker Charm II,7
-103,Insect Charm I,,,3
-104,Insect Charm II,,Insect Charm I,5
-105,Insect Charm III,,Insect Charm II,7
-106,Intimidator Charm I,,,3
-107,Intimidator Charm II,,Intimidator Charm I,5
-108,Intimidator Charm III,,Intimidator Charm II,7
-109,Heavy Artillery Charm I,,,3
-110,Heavy Artillery Charm II,,Heavy Artillery Charm I,5
-111,Light Eater's Charm,,,3
-112,Tracker Charm,,,3
-113,Fortification Charm,,,3
-114,Performer's Charm,,,3
-115,Capacity Charm,,,3
-116,Bleed Charm I,,,4
-117,Bleed Charm II,,Bleed Charm I,6
-118,Bleed Charm III,,Bleed Charm II,7
-119,Speed Heal Charm I,,,4
-120,Speed Heal Charm II,,Speed Heal Charm I,6
-121,Speed Heal Charm III,,Speed Heal Charm II,7
-122,Ice Charm I,,,4
-123,Ice Charm II,,Ice Charm I,6
-124,Ice Charm III,,Ice Charm II,7
-125,Blight Charm I,,,4
-126,Blight Charm II,,Blight Charm I,6
-127,Blight Charm III,,Blight Charm II,7
-128,Frost Charm I,,,4
-129,Frost Charm II,,Frost Charm I,6
-130,Frost Charm III,,Frost Charm II,7
-131,Master's Charm I,,,4
-132,Master's Charm II,,Master's Charm I,6
-133,Master's Charm III,,Master's Charm II,7
-134,Evasion Charm I,,,4
-135,Evasion Charm II,,Evasion Charm I,6
-136,Evasion Charm III,,Evasion Charm II,7
-137,Sheath Charm I,,,4
-138,Sheath Charm II,,Sheath Charm I,6
-139,Sheath Charm III,,Sheath Charm II,7
-140,Whetstone Charm I,,,4
-141,Whetstone Charm II,,Whetstone Charm I,6
-142,Whetstone Charm III,,Whetstone Charm II,7
-143,Blast Charm I,,,5
-144,Blast Charm II,,Blast Charm I,6
-145,Blast Charm III,,Blast Charm II,7
-146,Dragon Charm I,,,5
-147,Dragon Charm II,,Dragon Charm I,6
-148,Dragon Charm III,,Dragon Charm II,7
-149,Wyrmsbane Charm I,,,5
-150,Wyrmsbane Charm II,,Wyrmsbane Charm I,6
-151,Wyrmsbane Charm III,,Wyrmsbane Charm II,7
-152,Demolition Charm I,,,5
-153,Demolition Charm II,,Demolition Charm I,6
-154,Demolition Charm III,,Demolition Charm II,7
-155,Draw Charm I,,,5
-156,Draw Charm II,,Draw Charm I,7
-157,Trickshot Charm I,,,5
-158,Trickshot Charm II,,Trickshot Charm I,7
-159,Marathon Charm I,,,5
-160,Marathon Charm II,,Marathon Charm I,7
-161,Fitness Charm I,,,5
-162,Fitness Charm II,,Fitness Charm I,6
-163,Fitness Charm III,,Fitness Charm II,7
-164,Surge Charm I,,,5
-165,Surge Charm II,,Surge Charm I,7
-166,Leaping Charm I,,,5
-167,Leaping Charm II,,Leaping Charm I,7
-168,Bombardier Charm I,,,5
-169,Bombardier Charm II,,Bombardier Charm I,6
-170,Bombardier Charm III,,Bombardier Charm II,7
-171,Mushroom Charm I,,,5
-172,Mushroom Charm II,,Mushroom Charm I,8
-173,Awakening Charm I,,,5
-174,Awakening Charm II,,Awakening Charm I,8
-175,Handicraft Charm I,,,5
-176,Handicraft Charm II,,Handicraft Charm I,7
-177,Handicraft Charm III,,Handicraft Charm II,8
-178,Mud Puppy Charm,,,5
-179,Trickshot Charm,,,5
-180,Hunter's Life Charm,,,5
-181,Procurer's Charm,,,5
-182,Gatherer's Charm,,,5
-183,Guard Charm I,,,6
-184,Guard Charm II,,Guard Charm I,7
-185,Guard Charm III,,Guard Charm II,8
-186,Earplugs Charm I,,,6
-187,Earplugs Charm II,,Earplugs Charm I,7
-188,Earplugs Charm III,,Earplugs Charm II,8
-189,Tremor Charm I,,,6
-190,Tremor Charm II,,Tremor Charm I,7
-191,Exploiter Charm I,,,6
-192,Exploiter Charm II,,Exploiter Charm I,7
-193,Focus Charm I,,,6
-194,Focus Charm II,,Focus Charm I,8
-195,Breaker Charm I,,,6
-196,Breaker Charm II,,Breaker Charm I,8
-197,Fury Charm I,,,6
-198,Fury Charm II,,Fury Charm I,8
-199,Grit Charm I,,,6
-200,Grit Charm II,,Grit Charm I,8
-201,Maintenance Charm I,,,6
-202,Maintenance Charm II,,Maintenance Charm I,7
-203,Maintenance Charm III,,Maintenance Charm II,8
-204,Power Charm I,,,7
-205,Power Charm II,,Power Charm I,8
-206,Challenger Charm I,,,7
-207,Challenger Charm II,,Challenger Charm I,8
-208,Unscathed Charm I,,,7
-209,Unscathed Charm II,,Unscathed Charm I,8
-210,Mighty Charm I,,,7
-211,Mighty Charm II,,Mighty Charm I,8
-212,Impact Charm I,,,7
-213,Impact Charm II,,Impact Charm I,8
-214,Miasma Charm I,,,7
-215,Miasma Charm II,,Miasma Charm I,7
-216,Miasma Charm III,,Miasma Charm II,8
-217,Normal Shots Charm,,,7
-218,Clearmind Charm,,,7
-219,Rider's Charm,,,7
-220,Surveyor's Charm,,,7
-221,Critical Charm I,,,8
-222,Invigorate Charm I,,,8
-223,Invigorate Charm II,,Invigorate Charm I,8
-224,Penetration Charm,,,8
-225,Dispersal Charm,,,8
-226,Poison Coating Charm,,,8
-227,Para Coating Charm,,,8
-228,Sleep Coating Charm,,,8
-229,Blast Coating Charm,,,8
-230,Geomancy Charm,,,8
-231,Gale Charm,,,8
-232,Wyrmslayer Charm,,,8
-233,Bulwark Charm,,,8
-234,Fair Wind Charm,,,3
+id,name_en,previous_en,rarity
+1,Poison Charm I,,3
+2,Poison Charm II,Poison Charm I,5
+3,Poison Charm III,Poison Charm II,7
+4,Attack Charm I,,3
+5,Attack Charm II,Attack Charm I,5
+6,Attack Charm III,Attack Charm II,7
+7,Defense Charm I,,3
+8,Defense Charm II,Defense Charm I,5
+9,Defense Charm III,Defense Charm II,7
+10,Paralysis Charm I,,3
+11,Paralysis Charm II,Paralysis Charm I,5
+12,Paralysis Charm III,Paralysis Charm II,7
+13,Sleep Charm I,,3
+14,Sleep Charm II,Sleep Charm I,5
+15,Sleep Charm III,Sleep Charm II,7
+16,Stun Charm I,,3
+17,Stun Charm II,Stun Charm I,5
+18,Stun Charm III,Stun Charm II,7
+19,Windproof Charm I,,3
+20,Windproof Charm II,Windproof Charm I,5
+21,Windproof Charm III,Windproof Charm II,7
+22,Health Charm I,,3
+23,Health Charm II,Health Charm I,5
+24,Health Charm III,Health Charm II,7
+25,Recovery Charm I,,3
+26,Recovery Charm II,Recovery Charm I,5
+27,Recovery Charm III,Recovery Charm II,7
+28,Fire Charm I,,3
+29,Fire Charm II,Fire Charm I,5
+30,Fire Charm III,Fire Charm II,7
+31,Water Charm I,,3
+32,Water Charm II,Water Charm I,5
+33,Water Charm III,Water Charm II,7
+34,Thunder Charm I,,3
+35,Thunder Charm II,Thunder Charm I,5
+36,Thunder Charm III,Thunder Charm II,7
+37,Blaze Charm I,,3
+38,Blaze Charm II,Blaze Charm I,5
+39,Blaze Charm III,Blaze Charm II,7
+40,Flood Charm I,,3
+41,Flood Charm II,Flood Charm I,5
+42,Flood Charm III,Flood Charm II,7
+43,Shock Charm I,,3
+44,Shock Charm II,Shock Charm I,5
+45,Shock Charm III,Shock Charm II,7
+46,Venom Charm I,,3
+47,Venom Charm II,Venom Charm I,5
+48,Venom Charm III,Venom Charm II,7
+49,Immobilize Charm I,,3
+50,Immobilize Charm II,Immobilize Charm I,5
+51,Immobilize Charm III,Immobilize Charm II,7
+52,Tranq Charm I,,3
+53,Tranq Charm II,Tranq Charm I,5
+54,Tranq Charm III,Tranq Charm II,7
+55,KO Charm I,,3
+56,KO Charm II,KO Charm I,5
+57,KO Charm III,KO Charm II,7
+58,Enervate Charm I,,3
+59,Enervate Charm II,Enervate Charm I,5
+60,Enervate Charm III,Enervate Charm II,7
+61,Artillery Charm I,,3
+62,Artillery Charm II,Artillery Charm I,5
+63,Artillery Charm III,Artillery Charm II,7
+64,Hungerless Charm I,,3
+65,Hungerless Charm II,Hungerless Charm I,5
+66,Hungerless Charm III,Hungerless Charm II,7
+67,Ironside Charm I,,3
+68,Ironside Charm II,Ironside Charm I,5
+69,Ironside Charm III,Ironside Charm II,7
+70,Friendship Charm I,,3
+71,Friendship Charm II,Friendship Charm I,5
+72,Friendship Charm III,Friendship Charm II,7
+73,Extension Charm I,,3
+74,Extension Charm II,Extension Charm I,5
+75,Extension Charm III,Extension Charm II,7
+76,Glutton's Charm I,,3
+77,Glutton's Charm II,Glutton's Charm I,5
+78,Glutton's Charm III,Glutton's Charm II,7
+79,Blessing Charm I,,3
+80,Blessing Charm II,Blessing Charm I,5
+81,Blessing Charm III,Blessing Charm II,7
+82,Rally Charm I,,3
+83,Rally Charm II,Rally Charm I,5
+84,Rally Charm III,Rally Charm II,7
+85,Botany Charm I,,3
+86,Botany Charm II,Botany Charm I,5
+87,Botany Charm III,Botany Charm II,7
+88,Geology Charm I,,3
+89,Geology Charm II,Geology Charm I,5
+90,Geology Charm III,Geology Charm II,7
+91,Slinger Charm I,,3
+92,Slinger Charm II,Slinger Charm I,5
+93,Slinger Charm III,Slinger Charm II,7
+94,Stealth Charm I,,3
+95,Stealth Charm II,Stealth Charm I,5
+96,Stealth Charm III,Stealth Charm II,7
+97,Smoke Charm I,,3
+98,Smoke Charm II,Smoke Charm I,5
+99,Smoke Charm III,Smoke Charm II,7
+100,Mirewalker Charm I,,3
+101,Mirewalker Charm II,Mirewalker Charm I,5
+102,Mirewalker Charm III,Mirewalker Charm II,7
+103,Insect Charm I,,3
+104,Insect Charm II,Insect Charm I,5
+105,Insect Charm III,Insect Charm II,7
+106,Intimidator Charm I,,3
+107,Intimidator Charm II,Intimidator Charm I,5
+108,Intimidator Charm III,Intimidator Charm II,7
+109,Heavy Artillery Charm I,,3
+110,Heavy Artillery Charm II,Heavy Artillery Charm I,5
+111,Light Eater's Charm,,3
+112,Tracker Charm,,3
+113,Fortification Charm,,3
+114,Performer's Charm,,3
+115,Capacity Charm,,3
+116,Bleed Charm I,,4
+117,Bleed Charm II,Bleed Charm I,6
+118,Bleed Charm III,Bleed Charm II,7
+119,Speed Heal Charm I,,4
+120,Speed Heal Charm II,Speed Heal Charm I,6
+121,Speed Heal Charm III,Speed Heal Charm II,7
+122,Ice Charm I,,4
+123,Ice Charm II,Ice Charm I,6
+124,Ice Charm III,Ice Charm II,7
+125,Blight Charm I,,4
+126,Blight Charm II,Blight Charm I,6
+127,Blight Charm III,Blight Charm II,7
+128,Frost Charm I,,4
+129,Frost Charm II,Frost Charm I,6
+130,Frost Charm III,Frost Charm II,7
+131,Master's Charm I,,4
+132,Master's Charm II,Master's Charm I,6
+133,Master's Charm III,Master's Charm II,7
+134,Evasion Charm I,,4
+135,Evasion Charm II,Evasion Charm I,6
+136,Evasion Charm III,Evasion Charm II,7
+137,Sheath Charm I,,4
+138,Sheath Charm II,Sheath Charm I,6
+139,Sheath Charm III,Sheath Charm II,7
+140,Whetstone Charm I,,4
+141,Whetstone Charm II,Whetstone Charm I,6
+142,Whetstone Charm III,Whetstone Charm II,7
+143,Blast Charm I,,5
+144,Blast Charm II,Blast Charm I,6
+145,Blast Charm III,Blast Charm II,7
+146,Dragon Charm I,,5
+147,Dragon Charm II,Dragon Charm I,6
+148,Dragon Charm III,Dragon Charm II,7
+149,Wyrmsbane Charm I,,5
+150,Wyrmsbane Charm II,Wyrmsbane Charm I,6
+151,Wyrmsbane Charm III,Wyrmsbane Charm II,7
+152,Demolition Charm I,,5
+153,Demolition Charm II,Demolition Charm I,6
+154,Demolition Charm III,Demolition Charm II,7
+155,Draw Charm I,,5
+156,Draw Charm II,Draw Charm I,7
+157,Special Shot Charm I,,5
+158,Special Shot Charm II,Special Shot Charm I,7
+159,Marathon Charm I,,5
+160,Marathon Charm II,Marathon Charm I,7
+161,Fitness Charm I,,5
+162,Fitness Charm II,Fitness Charm I,6
+163,Fitness Charm III,Fitness Charm II,7
+164,Surge Charm I,,5
+165,Surge Charm II,Surge Charm I,7
+166,Leaping Charm I,,5
+167,Leaping Charm II,Leaping Charm I,7
+168,Bombardier Charm I,,5
+169,Bombardier Charm II,Bombardier Charm I,6
+170,Bombardier Charm III,Bombardier Charm II,7
+171,Mushroom Charm I,,5
+172,Mushroom Charm II,Mushroom Charm I,8
+173,Awakening Charm I,,5
+174,Awakening Charm II,Awakening Charm I,8
+175,Handicraft Charm I,,5
+176,Handicraft Charm II,Handicraft Charm I,7
+177,Handicraft Charm III,Handicraft Charm II,8
+178,Mud Puppy Charm,,5
+179,Trickshot Charm,,5
+180,Hunter's Life Charm,,5
+181,Procurer's Charm,,5
+182,Gatherer's Charm,,5
+183,Guard Charm I,,6
+184,Guard Charm II,Guard Charm I,7
+185,Guard Charm III,Guard Charm II,8
+186,Earplugs Charm I,,6
+187,Earplugs Charm II,Earplugs Charm I,7
+188,Earplugs Charm III,Earplugs Charm II,8
+189,Tremor Charm I,,6
+190,Tremor Charm II,Tremor Charm I,7
+191,Exploiter Charm I,,6
+192,Exploiter Charm II,Exploiter Charm I,7
+193,Focus Charm I,,6
+194,Focus Charm II,Focus Charm I,8
+195,Breaker Charm I,,6
+196,Breaker Charm II,Breaker Charm I,8
+197,Fury Charm I,,6
+198,Fury Charm II,Fury Charm I,8
+199,Grit Charm I,,6
+200,Grit Charm II,Grit Charm I,8
+201,Maintenance Charm I,,6
+202,Maintenance Charm II,Maintenance Charm I,7
+203,Maintenance Charm III,Maintenance Charm II,8
+204,Power Charm I,,7
+205,Power Charm II,Power Charm I,8
+206,Challenger Charm I,,7
+207,Challenger Charm II,Challenger Charm I,8
+208,Unscathed Charm I,,7
+209,Unscathed Charm II,Unscathed Charm I,8
+210,Mighty Charm I,,7
+211,Mighty Charm II,Mighty Charm I,8
+212,Impact Charm I,,7
+213,Impact Charm II,Impact Charm I,8
+214,Miasma Charm I,,7
+215,Miasma Charm II,Miasma Charm I,7
+216,Miasma Charm III,Miasma Charm II,8
+217,Normal Shots Charm,,7
+218,Clearmind Charm,,7
+219,Rider's Charm,,7
+220,Surveyor's Charm,,7
+221,Critical Charm I,,8
+222,Invigorate Charm I,,8
+223,Invigorate Charm II,Invigorate Charm I,8
+224,Penetration Charm,,8
+225,Dispersal Charm,,8
+226,Poison Coating Charm,,8
+227,Para Coating Charm,,8
+228,Sleep Coating Charm,,8
+229,Blast Coating Charm,,8
+230,Geomancy Charm,,8
+231,Gale Charm,,8
+232,Wyrmslayer Charm,,8
+233,Bulwark Charm,,8
+234,Fair Wind Charm,,3

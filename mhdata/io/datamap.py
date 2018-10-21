@@ -31,13 +31,21 @@ class DataMap(typing.Mapping[int, DataRow]):
 
     Entries on this map can be retrieved using its id, or using its name in any language.
     To iterate over entries, use the values function.
+
+    If languages is given, use those languages as the key languages.
+    Key languages are used for associations and can be mapped, but require a uniqueness constraint.
+    TODO: Allow existance check to work on non-key languages. Right now non-keys are "ignored".
     """
 
-    def __init__(self, data: typing.Mapping[int, dict] = None):
+    def __init__(self, data: typing.Mapping[int, dict] = None, languages=None):
         self._data = collections.OrderedDict()
         self._reverse_entries = {}
 
-        # todo: replace id gen with the object index...maybe...
+        # List of languages that the data map can innately handle.
+        # This distinction is required as some languages have duplicate entries for certain items.
+        self.languages = languages
+
+        # todo: replace id gen with the object index custom object...maybe...
         self._id_gen = itertools.count(1)
         self._last_id = 0
 
@@ -64,6 +72,7 @@ class DataMap(typing.Mapping[int, DataRow]):
         "Internal function to remove the entry from the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
+            if self.languages and lang not in self.languages: continue
 
             key = (lang, name)
             del self._reverse_entries[key]
@@ -72,6 +81,7 @@ class DataMap(typing.Mapping[int, DataRow]):
         "Internal function add the entry to the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
+            if self.languages and lang not in self.languages: continue
 
             key = (lang, name)
             if key in self._reverse_entries:
@@ -160,7 +170,7 @@ class DataMap(typing.Mapping[int, DataRow]):
                 "Several invalid names found in sub data map. Invalid entries are " +
                 ','.join(unlinked))
 
-                # validation complete, it may not link to all base entries but thats ok
+        # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():
             base_entry = self.entry_of(lang, data_key)
             

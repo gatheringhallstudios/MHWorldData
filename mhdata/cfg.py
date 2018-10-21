@@ -30,10 +30,10 @@ all_languages = {
 required_languages = ('en',)
 
 "A list of languages that can be exported"
-supported_languages = ('en', 'ja')
+supported_languages = list(all_languages.keys())
 
 "Languages that are designated as potentially incomplete"
-incomplete_languages = ('ja',)
+incomplete_languages = []
 
 "List of all possible armor parts"
 armor_parts = ('head', 'chest', 'arms', 'waist', 'legs')

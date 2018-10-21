@@ -97,7 +97,7 @@ class DataReader:
         with open(data_file, encoding="utf-8") as f:
             data = json.load(f)
 
-        result = DataMap()
+        result = DataMap(languages=self.required_languages)
         for row in data:
             result.insert(row)
 
@@ -131,7 +131,7 @@ class DataReader:
         rows = read_csv(data_file)
         rows = [group_fields(row, groups=groups) for row in rows]
 
-        basemap = DataMap()
+        basemap = DataMap(languages=self.required_languages)
         basemap.extend(rows)
         self._validate_base_map(data_file, basemap, error=validate)
 
@@ -222,4 +222,4 @@ class DataReader:
                 continue
             result[id] = joindicts({}, entry, data[name])
 
-        return DataMap(result)
+        return DataMap(result, languages=self.required_languages)
