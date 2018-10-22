@@ -1,51 +1,51 @@
-id,name_en,ecology_en,ecology_ja,description_en,description_ja,size
-1,Aptonoth,,,"Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately",,small
-2,Jagras,,,"Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They are also known for ambushing larger monsters at a moment's notice.",,small
-3,Mernos,,,"Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",,small
-4,Vespoid,,,"Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",,small
-5,Mosswine,,,"Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting around for mushrooms, follow the Mosswine to the motherlode.",,small
-6,Apceros,,,"Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",,small
-7,Kestodon,,,"Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks",,small
-8,Noios,,,"Wingdrakes that will produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them as transportation",,small
-9,Gajau,,,Vicious piscine that forms groups to defend their territory from intruders. Be sure not to venture too close to their habitat!,,small
-10,Kelbi,,,Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.,,small
-11,Raphinos,,,"Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",,small
-12,Shamos,,,"Small nocturnal monsters. They are particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",,small
-13,Girros,,,"Monsters that are known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They are known for crippling targets with their paralyzing fangs",,small
-14,Hornetaur,,,Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with a slinger,,small
-15,Gastodon,,,"Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",,small
-16,Barnos,,,"Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",,small
-17,Great Jagras,Fanged Wyvern,,"The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",,large
-18,Kulu-Ya-Ku,Bird Wyvern,,An odd bird wyvern that has developed limbs capable of carrying weapons.,,large
-19,Pukei-Pukei,Bird Wyvern,,A flying wyvern known to possess poisonous toxins in its body.,,large
-20,Barroth,Brute Wyvern,,"Barroths seek out ants, their favorite snack, and mark their territory with mud.",,large
-21,Jyuratodus,Piscine Wyvern,,A large piscine wyvern that inhabits the swamps of the Wildspire Waste.,,large
-22,Tobi-Kadachi,Fanged Wyvern,,A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.,,large
-23,Anjanath,Brute Wyvern,,"The Anjanath patrols the Ancient Forest looking for its favorite meal, Aptonoth.",,large
-24,Rathian,Flying Wyvern,,"A wyvern known as the ""Queen of the Land.""",,large
-25,Tzitzi-Ya-Ku,Bird Wyvern,,This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.,,large
-26,Paolumu,Flying Wyvern,,"Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",,large
-27,Great Girros,Fanged Wyvern,,A monster that scavenges for meals dropped from the Coral Highlands.,,large
-28,Radobaan,Brute Wyvern,,"A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",,large
-29,Legiana,Flying Wyvern,,"The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",,large
-30,Odogaron,Fanged Wyvern,,"A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",,large
-31,Rathalos,Flying Wyvern,,"The apex monster of the Ancient Forest, also known as the ""King of the Skies"".",,large
-32,Diablos,Flying Wyvern,,"The apex monster of the Wildspire Waste. A menacing, territorial beast that lurks underground. Loud noises will cause it to lunge out of the sand in search of prey.",,large
-33,Kirin,Elder Dragon,,Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.,,large
-34,Zorah Magdaros,Elder Dragon,,"An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",,large
-35,Dodogama,Fanged Wyvern,,A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.,,large
-36,Pink Rathian,Flying Wyvern,,"A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",,large
-37,Bazelgeuse,Flying Wyvern,,A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.,,large
-38,Deviljho,Brute Wyvern,,"Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up large monsters in its powerful maw and flail them around.",,large
-39,Lavasioth,Piscine Wyvern,,Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.,,large
-40,Uragaan,Brute Wyvern,,"Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes",,large
-41,Azure Rathalos,Flying Wyvern,,"An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",,large
-42,Black Diablos,Flying Wyvern,,These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat,,large
-43,Nergigante,Elder Dragon,,A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.,,large
-44,Teostra,Elder Dragon,,A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.,,large
-49,Lunastra,Elder Dragon,,"A rare female Elder Dragon that litters the air with a hot blue dust. Reports of it traveling with her mate, Teostra, are still unconfirmed.",,large
-45,Kushala Daora,Elder Dragon,,"An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",,large
-46,Vaal Hazak,Elder Dragon,,"A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",,large
-48,Kulve Taroth,Elder Dragon,,"An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",,large
-47,Xeno'jiiva,Elder Dragon,,RESEARCHING. Threat level unknown.,,large
-100,Gajalaka,,,,,small
+id,name_en,ecology_en,ecology_ja,size
+1,Aptonoth,,,small
+2,Jagras,,,small
+3,Mernos,,,small
+4,Vespoid,,,small
+5,Mosswine,,,small
+6,Apceros,,,small
+7,Kestodon,,,small
+8,Noios,,,small
+9,Gajau,,,small
+10,Kelbi,,,small
+11,Raphinos,,,small
+12,Shamos,,,small
+13,Girros,,,small
+14,Hornetaur,,,small
+15,Gastodon,,,small
+16,Barnos,,,small
+17,Great Jagras,Fanged Wyvern,,large
+18,Kulu-Ya-Ku,Bird Wyvern,,large
+19,Pukei-Pukei,Bird Wyvern,,large
+20,Barroth,Brute Wyvern,,large
+21,Jyuratodus,Piscine Wyvern,,large
+22,Tobi-Kadachi,Fanged Wyvern,,large
+23,Anjanath,Brute Wyvern,,large
+24,Rathian,Flying Wyvern,,large
+25,Tzitzi-Ya-Ku,Bird Wyvern,,large
+26,Paolumu,Flying Wyvern,,large
+27,Great Girros,Fanged Wyvern,,large
+28,Radobaan,Brute Wyvern,,large
+29,Legiana,Flying Wyvern,,large
+30,Odogaron,Fanged Wyvern,,large
+31,Rathalos,Flying Wyvern,,large
+32,Diablos,Flying Wyvern,,large
+33,Kirin,Elder Dragon,,large
+34,Zorah Magdaros,Elder Dragon,,large
+35,Dodogama,Fanged Wyvern,,large
+36,Pink Rathian,Flying Wyvern,,large
+37,Bazelgeuse,Flying Wyvern,,large
+38,Deviljho,Brute Wyvern,,large
+39,Lavasioth,Piscine Wyvern,,large
+40,Uragaan,Brute Wyvern,,large
+41,Azure Rathalos,Flying Wyvern,,large
+42,Black Diablos,Flying Wyvern,,large
+43,Nergigante,Elder Dragon,,large
+44,Teostra,Elder Dragon,,large
+49,Lunastra,Elder Dragon,,large
+45,Kushala Daora,Elder Dragon,,large
+46,Vaal Hazak,Elder Dragon,,large
+48,Kulve Taroth,Elder Dragon,,large
+47,Xeno'jiiva,Elder Dragon,,large
+100,Gajalaka,,,small
