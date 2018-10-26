@@ -395,99 +395,173 @@ class WeaponAmmo(Base):
     
     normal1_clip = Column(Integer)
     normal1_rapid = Column(Boolean)
+    normal1_recoil = Column(Integer)
+    normal1_reload = Column(Text)
     
     normal2_clip = Column(Integer)
     normal2_rapid = Column(Boolean)
+    normal2_recoil = Column(Integer)
+    normal2_reload = Column(Text)
 
     normal3_clip = Column(Integer)
     normal3_rapid = Column(Boolean)
+    normal3_recoil = Column(Integer)
+    normal3_reload = Column(Text)
     
     pierce1_clip = Column(Integer)
     pierce1_rapid = Column(Boolean)
+    pierce1_recoil = Column(Integer)
+    pierce1_reload = Column(Text)
 
     pierce2_clip = Column(Integer)
     pierce2_rapid = Column(Boolean)
+    pierce2_recoil = Column(Integer)
+    pierce2_reload = Column(Text)
 
     pierce3_clip = Column(Integer)
     pierce3_rapid = Column(Boolean)
+    pierce3_recoil = Column(Integer)
+    pierce3_reload = Column(Text)
     
     spread1_clip = Column(Integer)
     spread1_rapid = Column(Boolean)
+    spread1_recoil = Column(Integer)
+    spread1_reload = Column(Text)
 
     spread2_clip = Column(Integer)
     spread2_rapid = Column(Boolean)
+    spread2_recoil = Column(Integer)
+    spread2_reload = Column(Text)
 
     spread3_clip = Column(Integer)
     spread3_rapid = Column(Boolean)
+    spread3_recoil = Column(Integer)
+    spread3_reload = Column(Text)
     
     sticky1_clip = Column(Integer)
     sticky1_rapid = Column(Boolean)
+    sticky1_recoil = Column(Integer)
+    sticky1_reload = Column(Text)
 
     sticky2_clip = Column(Integer)
     sticky2_rapid = Column(Boolean)
+    sticky2_recoil = Column(Integer)
+    sticky2_reload = Column(Text)
 
     sticky3_clip = Column(Integer)
     sticky3_rapid = Column(Boolean)
+    sticky3_recoil = Column(Integer)
+    sticky3_reload = Column(Text)
     
     cluster1_clip = Column(Integer)
     cluster1_rapid = Column(Boolean)
+    cluster1_recoil = Column(Integer)
+    cluster1_reload = Column(Text)
 
     cluster2_clip = Column(Integer)
     cluster2_rapid = Column(Boolean)
+    cluster2_recoil = Column(Integer)
+    cluster2_reload = Column(Text)
     
     cluster3_clip = Column(Integer)
     cluster3_rapid = Column(Boolean)
+    cluster3_recoil = Column(Integer)
+    cluster3_reload = Column(Text)
     
     recover1_clip = Column(Integer)
     recover1_rapid = Column(Boolean)
+    recover1_recoil = Column(Integer)
+    recover1_reload = Column(Text)
 
     recover2_clip = Column(Integer)
     recover2_rapid = Column(Boolean)
+    recover2_recoil = Column(Integer)
+    recover2_reload = Column(Text)
     
     poison1_clip = Column(Integer)
     poison1_rapid = Column(Boolean)
+    poison1_recoil = Column(Integer)
+    poison1_reload = Column(Text)
 
     poison2_clip = Column(Integer)
     poison2_rapid = Column(Boolean)
+    poison2_recoil = Column(Integer)
+    poison2_reload = Column(Text)
     
     paralysis1_clip = Column(Integer)
     paralysis1_rapid = Column(Boolean)
+    paralysis1_recoil = Column(Integer)
+    paralysis1_reload = Column(Text)
 
     paralysis2_clip = Column(Integer)
     paralysis2_rapid = Column(Boolean)
+    paralysis2_recoil = Column(Integer)
+    paralysis2_reload = Column(Text)
     
     sleep1_clip = Column(Integer)
     sleep1_rapid = Column(Boolean)
+    sleep1_recoil = Column(Integer)
+    sleep1_reload = Column(Text)
 
     sleep2_clip = Column(Integer)
     sleep2_rapid = Column(Boolean)
-    
+    sleep2_recoil = Column(Integer)
+    sleep2_reload = Column(Text)
+
     exhaust1_clip = Column(Integer)
     exhaust1_rapid = Column(Boolean)
+    exhaust1_recoil = Column(Integer)
+    exhaust1_reload = Column(Text)
 
     exhaust2_clip = Column(Integer)
     exhaust2_rapid = Column(Boolean)
+    exhaust2_recoil = Column(Integer)
+    exhaust2_reload = Column(Text)
 
     flaming_clip = Column(Integer)
     flaming_rapid = Column(Boolean)
+    flaming_recoil = Column(Integer)
+    flaming_reload = Column(Text)
 
     water_clip = Column(Integer)
     water_rapid = Column(Boolean)
+    water_recoil = Column(Integer)
+    water_reload = Column(Text)
     
     freeze_clip = Column(Integer)
     freeze_rapid = Column(Boolean)
+    freeze_recoil = Column(Integer)
+    freeze_reload = Column(Text)
 
     thunder_clip = Column(Integer)
     thunder_rapid = Column(Boolean)
+    thunder_recoil = Column(Integer)
+    thunder_reload = Column(Text)
     
     dragon_clip = Column(Integer)
     dragon_rapid = Column(Boolean)
-    
+    dragon_recoil = Column(Integer)
+    dragon_reload = Column(Text)
+
     slicing_clip = Column(Integer)
+    slicing_rapid = Column(Boolean)
+    slicing_recoil = Column(Integer)
+    slicing_reload = Column(Text)
+
     wyvern_clip = Column(Integer)
+    wyvern_reload = Column(Text)
+
     demon_clip = Column(Integer)
+    demon_recoil = Column(Integer)
+    demon_reload = Column(Text)
+
     armor_clip = Column(Integer)
+    armor_recoil = Column(Integer)
+    armor_reload = Column(Text)
+
     tranq_clip = Column(Integer)
+    tranq_recoil = Column(Integer)
+    tranq_reload = Column(Text)
 
 class WeaponRecipe(Base):
     __tablename__ = 'weapon_recipe'

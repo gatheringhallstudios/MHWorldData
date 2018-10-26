@@ -425,6 +425,8 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             group = entry[ammotype]
             setattr(ammo, ammotype + "_clip", group['clip'])
             setattr(ammo, ammotype + "_rapid", group['rapid'])
+            setattr(ammo, ammotype + "_recoil", group.get('recoil', None) or 0)
+            setattr(ammo, ammotype + "_reload", group.get('reload', None))
 
         assign_group('normal1')
         assign_group('normal2')
@@ -456,11 +458,13 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         assign_group('thunder')
         assign_group('dragon')
 
-        ammo.slicing_clip = entry['slicing']['clip']
+        assign_group('slicing')
+        assign_group('demon')
+        assign_group('armor')
+        assign_group('tranq')
+        
         ammo.wyvern_clip = entry['wyvern']['clip']
-        ammo.demon_clip = entry['demon']['clip']
-        ammo.armor_clip = entry['armor']['clip']
-        ammo.tranq_clip = entry['tranq']['clip']
+        ammo.wyvern_reload = entry['wyvern']['reload']
 
         session.add(ammo)
 

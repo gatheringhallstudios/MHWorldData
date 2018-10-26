@@ -256,6 +256,8 @@ class WeaponBowSchema(BaseSchema):
 class AmmoGroupSchema(BaseSchema):
     clip = fields.Int()
     rapid = ExcelBool(null_is_false=True, missing=False)
+    recoil = fields.Int(allow_none=True)
+    reload = ValidatedStr(None, "very slow", "slow", "normal", "fast")
 
 def AmmoGroup():
     return NestedPrefix("AmmoGroupSchema")
