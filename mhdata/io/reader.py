@@ -29,7 +29,7 @@ def apply_schema_to_map(map, schema):
         value = map[key]
         (converted, val_errors) = schema.load(value, many=False)
         if val_errors:
-            errors.extend(val_errors)
+            errors.append(val_errors)
         else:
             map[key] = converted
     if errors:

@@ -15,8 +15,8 @@ def choice_check(*items):
     return validate_fn
 
 
-def ValidatedStr(*items):
-    return fields.Str(allow_none=True, validate=choice_check(*items))
+def ValidatedStr(*items, **kwargs):
+    return fields.Str(allow_none=True, validate=choice_check(*items), **kwargs)
 
 class NullableBool(fields.Boolean):
     """
