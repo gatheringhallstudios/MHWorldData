@@ -1,4 +1,5 @@
 import itertools
+import collections
 
 from mhdata import cfg
 from mhdata.io import DataMap
@@ -257,6 +258,26 @@ def validate_weapons(mhdata):
         true_attack = entry['attack'] / cfg.weapon_multiplier[weapon_type]
         if int(true_attack) != true_attack:
             print(f"WARNING: Weapon {name} has a suspicious true attack value {true_attack}")
+
+    # Validate weapon ammo settings. Bullet types with clip size zero must have "null state" other attributes.
+    for name, ammo_entry in mhdata.weapon_ammo_map.items():
+        for key, data in ammo_entry.items():
+            if not isinstance(data, collections.Mapping): continue
+            if 'clip' not in data: continue
+
+            if data['clip'] == 0:
+                # This bullet exists, so make sure other parameters make sense
+                if data.get('rapid', False) == True:
+                    errors.append(f"{name} has invalid rapid value for {key}")
+                if data.get('recoil', None):
+                    errors.append(f"{name} has invalid recoil value for {key}")
+                if data.get('reload', None):
+                    errors.append(f"{name} has invalid reload value for {key}") 
+            else:
+                if 'recoil' in data and not data.get('recoil', None):
+                    errors.append(f"{name} is missing recoil value for {key}")
+                if not data.get('reload', None):
+                    errors.append(f"{name} is missing reload value for {key}") 
 
     return errors
 
