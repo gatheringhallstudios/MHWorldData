@@ -468,6 +468,24 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
 
         session.add(ammo)
 
+    # Save all weapon melodies
+    for idx, entry in enumerate(mhdata.weapon_melodies):
+        melody_id = idx + 1
+        melody = db.WeaponMelody(
+            notes=entry['notes'],
+            duration=entry['duration'],
+            extension=entry['extension']
+        )
+
+        for language in cfg.supported_languages:
+            melody.translations.append(db.WeaponMelodyText(
+                lang_id=language,
+                effect1=get_translated(entry, 'effect1', language),
+                effect2=get_translated(entry, 'effect2', language)
+            ))
+
+        session.add(melody)
+
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
     all_final = set(weapon_map.keys())

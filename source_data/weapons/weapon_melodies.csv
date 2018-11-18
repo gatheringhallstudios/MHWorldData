@@ -1,65 +1,65 @@
-id, notes, duration, extension
-1,WRR,120(150),+60(+90)
-2,RBW,180(240),+120(+180)
-3,BBR,180(240),+90(+120)
-4,WBB,120(150),+60(+90)
-5,WW,180(240),+90(+120)
-6,CCC,180(240),+180(+240)
-7,CRC,180(240),+180(+240)
-8,RRC,120(180),+120(+180)
-9,CCRW,180(210),+120(+150)
-10,CYW,180(210),+120(+180)
-11,CCY,180(210),+180(+210)
-12,YCW,120(180),+120(+180)
-13,WYC,120(180),+120(+180)
-14,YCYC,120(150),+90(+120)
-15,YYY,N/A,N/A
-16,WCB,90(120),+30(+60)
-17,BBC,180(240),+90(+120)
-18,WBC,30(60),+30(+60)
-19,WGW,N/A,N/A
-20,GWCG,N/A,N/A
-21,CCGW,180(210),+120(+150)
-22,WYB,90(120),+30(+60)
-23,YBW,120(180),+120(+180)
-24,WGB,90(120),+30(+60)
-25,BBG,180(240),+90(+120)
-26,GBWB,N/A,N/A
-27,YRW,120(180),+120(+180)
-28,GGY,120(180),+120(+150)
-29,YGW,120(180),+120(+180)
-30,PGBG,120(150),+60(+90)
-31,PBBP,90(120),+60(+90)
-32,PGP,N/A,N/A
-33,GBPB,N/A,N/A
-34,PP,180(240),+90(+120)
-35,PCBC,120(150),+60(+90)
-36,PBC,60(90),+60(+90)
-37,CPB,180(210),+120(+180)
-38,GGPC,N/A,N/A
-39,CCGP,180(210),+120(+150)
-40,PYB,120(150),+60(+90)
-41,BBYP,180(240),+90(+120)
-42,YBP,120(180),+120(+180)
-43,PRY,120(150),+60(+90)
-44,YPR,120(150),+60(+90)
-45,RYP,120(150),+60(+90)
-46,YRP,120(180),+120(+180)
-47,CYP,180(210),+120(+180)
-48,YCP,120(180),+120(+180)
-49,PYC,120(180),+120(+180)
-50,PRBP,90(120),+30(+60)
-51,RBRP,180(240),+120(+180)
-52,PRCP,90(120),+30(+60)
-53,CCRP,180(210),+120(+150)
-54,GP,120(150),+60(+90)
-55,CP,90(120),+60(+90)
-56,PPC,120(150),+90(+120)
-57,BPB,120(150),+60(+90)
-58,PB,120(150),+60(+90)
-59,BB,180(240),+90(+120)
-60,GYPY,120(150),+90(+120)
-61,YGP,120(180),+120(+180)
-62,GYG,120(150),+90(+120)
-63,PRGP,90(120),+30(+60)
-64,GGRP,120(180),+120(+150)
+notes,duration,extension,effect1_en,effect2_en,effect1_ja,effect2_ja,effect1_fr,effect2_fr,effect1_it,effect2_it,effect1_de,effect2_de,effect1_es,effect2_es,effect1_pt,effect2_pt,effect1_pl,effect2_pl,effect1_ru,effect2_ru,effect1_ko,effect2_ko,effect1_zh,effect2_zh,effect1_ar,effect2_ar
+WRR,120(150),+60(+90),Attack Up (S),Attack Up (L),,,,,,,,,,,,,,,,,,,,,,
+RBW,180(240),+120(+180),Health Boost (S),Health Boost Extended,,,,,,,,,,,,,,,,,,,,,,
+BBR,180(240),+90(+120),Wind Pressure Negated,Wind Pressure Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+WBB,120(150),+60(+90),Defense Up (S),Defense Up (L),,,,,,,,,,,,,,,,,,,,,,
+WW,180(240),+90(+120),Movement Speed Up,Attack Deflection Prevention,,,,,,,,,,,,,,,,,,,,,,
+CCC,180(240),+180(+240),Scoutfly Power Up,Scoutfly Power Up Extended,,,,,,,,,,,,,,,,,,,,,,
+CRC,180(240),+180(+240),Muck Res,Muck Res Extended,,,,,,,,,,,,,,,,,,,,,,
+RRC,120(180),+120(+180),Envir. Damage Negated,Envir. Damage Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+CCRW,180(210),+120(+150),Earplugs (S),Earplugs (S) Extended,,,,,,,,,,,,,,,,,,,,,,
+CYW,180(210),+120(+180),Paralysis Negated,Paralysis Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+CCY,180(210),+180(+210),Tremors Negated,Tremors Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+YCW,120(180),+120(+180),Water Resistance Boost (S),Water Resistance Boost (L),,,,,,,,,,,,,,,,,,,,,,
+WYC,120(180),+120(+180),Dragon Resistance Boost (S),Dragon Resistance Boost (L),,,,,,,,,,,,,,,,,,,,,,
+YCYC,120(150),+90(+120),Elemental Attack Boost (S),Elemental Attack Boost (L),,,,,,,,,,,,,,,,,,,,,,
+YYY,N/A,N/A,Sonic Waves,N/A,,,,,,,,,,,,,,,,,,,,,,
+WCB,90(120),+30(+60),Stamina Use Reduced (S),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+BBC,180(240),+90(+120),Wind Pressure Negated,Wind Pressure Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+WBC,30(60),+30(+60),Tool Use Drain Reduced (S),Tool Use Drain Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+WGW,N/A,N/A,Health Recovery (S),N/A,,,,,,,,,,,,,,,,,,,,,,
+GWCG,N/A,N/A,Health Recovery (M),N/A,,,,,,,,,,,,,,,,,,,,,,
+CCGW,180(210),+120(+150),Earplugs (S),Earplugs (S) Extended,,,,,,,,,,,,,,,,,,,,,,
+WYB,90(120),+30(+60),Stamina Use Reduced (S),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+YBW,120(180),+120(+180),Ice Resistance Boost (S),Ice Resistance Boost (L),,,,,,,,,,,,,,,,,,,,,,
+WGB,90(120),+30(+60),Stamina Use Reduced (S),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+BBG,180(240),+90(+120),Wind Pressure Negated,Wind Pressure Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+GBWB,N/A,N/A,Health Recovery (S) + Antidote,N/A,,,,,,,,,,,,,,,,,,,,,,
+YRW,120(180),+120(+180),Fire Resistance Boost (S),Fire Resistance Boost (L),,,,,,,,,,,,,,,,,,,,,,
+GGY,120(180),+120(+150),Recovery Speed (S),Recovery Speed Extended,,,,,,,,,,,,,,,,,,,,,,
+YGW,120(180),+120(+180),Thunder Resistance Boost (S),Thunder Resistance Boost (L),,,,,,,,,,,,,,,,,,,,,,
+PGBG,120(150),+60(+90),Stamina Use Reduced (L),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+PBBP,90(120),+60(+90),Defense Up (L),Defense Up (XL),,,,,,,,,,,,,,,,,,,,,,
+PGP,N/A,N/A,Health Recovery (S),N/A,,,,,,,,,,,,,,,,,,,,,,
+GBPB,N/A,N/A,Health Recovery (M) + Antidote,N/A,,,,,,,,,,,,,,,,,,,,,,
+PP,180(240),+90(+120),Movement Speed Up,Attack Deflection Prevention,,,,,,,,,,,,,,,,,,,,,,
+PCBC,120(150),+60(+90),Stamina Use Reduced (L),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+PBC,60(90),+60(+90),Tool Use Drain Reduced (L),Tool Use Drain Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+CPB,180(210),+120(+180),Stun Negated,Stun Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+GGPC,N/A,N/A,Health Recovery (L),N/A,,,,,,,,,,,,,,,,,,,,,,
+CCGP,180(210),+120(+150),Earplugs (L),Earplugs (L) Extended,,,,,,,,,,,,,,,,,,,,,,
+PYB,120(150),+60(+90),Stamina Use Reduced (L),Stamina Use Reduction Extended,,,,,,,,,,,,,,,,,,,,,,
+BBYP,180(240),+90(+120),All Wind Pressure Negated,All Wind Pressure Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+YBP,120(180),+120(+180),Ice Resistance Boost (L),Ice Resistance Boost (XL),,,,,,,,,,,,,,,,,,,,,,
+PRY,120(150),+60(+90),Attack Up (S),Attack Up (L),,,,,,,,,,,,,,,,,,,,,,
+YPR,120(150),+60(+90),Attack Up (S),Attack Up (L),,,,,,,,,,,,,,,,,,,,,,
+RYP,120(150),+60(+90),Attack Up (S),Attack Up (L),,,,,,,,,,,,,,,,,,,,,,
+YRP,120(180),+120(+180),Fire Resistance Boost (L),Fire Resistance Boost (XL),,,,,,,,,,,,,,,,,,,,,,
+CYP,180(210),+120(+180),Paralysis Negated,Paralysis Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+YCP,120(180),+120(+180),Water Resistance Boost (L),Water Resistance Boost (XL),,,,,,,,,,,,,,,,,,,,,,
+PYC,120(180),+120(+180),Dragon Resistance Boost (L),Dragon Resistance Boost (XL),,,,,,,,,,,,,,,,,,,,,,
+PRBP,90(120),+30(+60),Attack Up (L),Attack Up (XL),,,,,,,,,,,,,,,,,,,,,,
+RBRP,180(240),+120(+180),Health Boost (L),Health Boost Extended,,,,,,,,,,,,,,,,,,,,,,
+PRCP,90(120),+30(+60),Attack Up (L),Attack Up (XL),,,,,,,,,,,,,,,,,,,,,,
+CCRP,180(210),+120(+150),Earplugs (S),Earplugs (S) Extended,,,,,,,,,,,,,,,,,,,,,,
+GP,120(150),+60(+90),Affinity Up (S) / Health Recovery (S),Affinity Up (L) / Health Recovery (S),,,,,,,,,,,,,,,,,,,,,,
+CP,90(120),+60(+90),Abnormal Status Attack Up (S),Abnormal Status Attack Up (L),,,,,,,,,,,,,,,,,,,,,,
+PPC,120(150),+90(+120),Divine Protection,Divine Protection Extended,,,,,,,,,,,,,,,,,,,,,,
+BPB,120(150),+60(+90),Attack and Defense Up (S),Attack and Defense Up (L),,,,,,,,,,,,,,,,,,,,,,
+PB,120(150),+60(+90),Attack and Defense Up (S),Attack and Defense Up (L),,,,,,,,,,,,,,,,,,,,,,
+BB,180(240),+90(+120),All Wind Pressure Negated,All Wind Pressure Negation Extended,,,,,,,,,,,,,,,,,,,,,,
+GYPY,120(150),+90(+120),Divine Protection,Divine Protection Extended,,,,,,,,,,,,,,,,,,,,,,
+YGP,120(180),+120(+180),Thunder Resistance Boost (L),Thunder Resistance Boost (XL),,,,,,,,,,,,,,,,,,,,,,
+GYG,120(150),+90(+120),Elemental Attack Boost (S),Elemental Attack Boost (L),,,,,,,,,,,,,,,,,,,,,,
+PRGP,90(120),+30(+60),Attack Up (L),Attack Up (XL),,,,,,,,,,,,,,,,,,,,,,
+GGRP,120(180),+120(+150),Recovery Speed (L),Recovery Speed Extended,,,,,,,,,,,,,,,,,,,,,,
