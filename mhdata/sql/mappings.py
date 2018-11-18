@@ -570,6 +570,22 @@ class WeaponRecipe(Base):
     recipe_type = Column(Text, primary_key=True)
     quantity = Column(Integer)
 
+class WeaponMelody(Base):
+    __tablename__ = 'weapon_melody'
+    id = Column(Integer, primary_key=True)
+    notes = Column(Text)
+    duration = Column(Text)
+    extension = Column(Text)
+    
+    translations = relationship('WeaponMelodyText')
+
+class WeaponMelodyText(Base):
+    __tablename__ = 'weapon_melody_text'
+    id = Column(Integer, ForeignKey('weapon_melody.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    effect1 = Column(Text)
+    effect2 = Column(Text)
+
 class Decoration(Base):
     __tablename__ = 'decoration'
 
