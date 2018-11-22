@@ -5,3 +5,6 @@ mhw.db
 
 # Libreoffice lock file
 .~lock.*
+/venv/
+
+\.idea/
