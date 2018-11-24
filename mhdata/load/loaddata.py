@@ -7,6 +7,7 @@ from mhdata.io import DataMap, DataReader, DataStitcher, create_reader
 from mhdata.io.csv import read_csv
 
 from . import schema
+from . import process
 
 reader = create_reader()
 
@@ -108,7 +109,7 @@ def load_data():
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
                     .base_csv("decoration_base.csv")
                     .extend_base('decoration_base_translations.csv')
-                    .add_json("decoration_chances.json", key="chances")
                     .get(schema=schema.DecorationSchema()))
+    process.extend_decoration_chances(result.decoration_map)
 
     return result
