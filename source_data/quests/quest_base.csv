@@ -1,4 +1,4 @@
-name,classification,client,location,difficulty,clear_type,hunter_rank,time_limit,faint_limit,zeni_reward,request_text,target_text
+name_en,classification,client,location,difficulty,clear_type,hunter_rank,time_limit,faint_limit,zeni_reward,request_text,target_text
 Jagras of the Ancient Forest,Assignment,The Commander,Ancient Forest,1,Slay,0,50,3,720,"Zorah Magdaros's appearance has brought about changes in the local ecosystem. Head into Jagras territory to investigate, and take them out if necessary.",Slay 7 Jagras
 A Kestodon Kerfuffle,Assignment,The Commander,Ancient Forest,2,Slay,0,50,3,1200,Zorah Magdaros's appearance has driven a herd of Kestodon to new territory. We'll need you to go out and thin that herd of head-butters.,Complete the assignment
 The Great Jagras Hunt,Assignment,Field Team Leader,Ancient Forest,2,Hunt,0,50,3,1200,"Things I'm not interested in writing in my daily report: ""Researchers swallowed whole by Great Jagras."" Take it out before I actually have to write it!",Hunt a Great Jagras
