@@ -310,3 +310,18 @@ class WeaponMelodySchema(BaseSchema):
     extension = fields.String()
     effect1 = fields.Dict()
     effect2 = fields.Dict()
+
+class QuestSchema(BaseSchema):
+    __groups__ = ("name",)
+    name = fields.Dict(allow_none=True)
+    classification = fields.String(allow_none=True)
+    client = fields.String(allow_none=True)
+    location = fields.String(allow_none=True)
+    difficulty = fields.Int(allow_none=True)
+    clear_type = fields.String(allow_none=True)
+    hunter_rank = fields.Int(allow_none=True)
+    time_limit = fields.Int(allow_none=True)
+    faint_limit = fields.Int(allow_none=True)
+    zeni_reward = fields.Int(allow_none=True)
+    request_text = fields.String(allow_none=True)
+    target_text = fields.String(allow_none=True)

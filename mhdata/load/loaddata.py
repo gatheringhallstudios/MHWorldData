@@ -111,4 +111,11 @@ def load_data():
                     .add_json("decoration_chances.json", key="chances")
                     .get(schema=schema.DecorationSchema()))
 
+    result.quest_map = (DataStitcher(reader, dir="quests/")
+                        .base_csv("quest_base.csv")
+                        .extend_base('quest_base_translations.csv')
+                        .add_csv("quest_targets.csv", key="name_en")
+                        .add_csv("quest_delivery_items.csv", key="name_en")
+                        .get(schema=schema.QuestSchema()))
+
     return result
