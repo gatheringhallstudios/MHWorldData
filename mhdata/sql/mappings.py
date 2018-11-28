@@ -663,8 +663,3 @@ class QuestText(Base):
     target_text = Column(Text)
     miss_text = Column(Text)
     client_text = Column(Text)
-    info1_text = Column(Text)
-    info2_text = Column(Text)
-    info3_text = Column(Text)
-    info4_text = Column(Text)
-    info5_text = Column(Text)

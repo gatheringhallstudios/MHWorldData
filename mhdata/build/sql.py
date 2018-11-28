@@ -673,7 +673,7 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
     location_map = mhdata.location_map
 
     for order_id, entry in enumerate(quest_map.values()):
-        print(entry)
+        # print(entry)
         quest = db.Quest(id=entry.id,
                          classification=entry["classification"],
                          location_id=location_map.id_of("en", entry["location"]),
@@ -689,14 +689,9 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
                 lang_id=lang,
                 name=get_translated(entry, 'name', lang),
                 request_text=get_translated(entry, 'request_text', lang),
-                #target_text=get_translated(entry, 'target_text', lang),
-                #miss_text=get_translated(entry, 'miss_text', lang),
-                #client_text=get_translated(entry, 'client_text', lang),
-                #info1_text=get_translated(entry, 'info1_text', lang),
-                #info2_text=get_translated(entry, 'info2_text', lang),
-                #info3_text=get_translated(entry, 'info3_text', lang),
-                #info4_text=get_translated(entry, 'info4_text', lang),
-                #info5_text=get_translated(entry, 'info5_text', lang)
+                target_text=get_translated(entry, 'target_text', lang),
+                miss_text=get_translated(entry, 'miss_text', lang),
+                client_text=get_translated(entry, 'client', lang)
             ))
 
 

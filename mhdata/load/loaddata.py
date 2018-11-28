@@ -113,7 +113,10 @@ def load_data():
 
     result.quest_map = (DataStitcher(reader, dir="quests/")
                         .base_csv("quest_base.csv")
-                        .extend_base('quest_base_translations.csv', groups=["request_text"])
+                        .extend_base('quest_base_translations.csv', groups=["request_text",
+                                                                            "client",
+                                                                            "target_text",
+                                                                            "miss_text"])
                         .add_csv("quest_targets.csv", key="name_en")
                         .add_csv("quest_delivery_items.csv", key="name_en")
                         .get(schema=schema.QuestSchema()))
