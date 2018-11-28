@@ -639,3 +639,32 @@ class CharmText(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
+
+class Quest(Base):
+    __tablename__ = 'quest'
+    id = Column(Integer, primary_key=True)
+    classification = Column(Text)
+    location_id = Column(Integer, ForeignKey('location_text.id'))
+    difficulty = Column(Integer)
+    clear_type = Column(Text)
+    hunter_rank = Column(Integer)
+    time_limit = Column(Integer)
+    faint_limit = Column(Integer)
+    zeni_reward = Column(Integer)
+
+    translations = relationship('QuestText')
+
+class QuestText(Base):
+    __tablename__ = 'quest_text'
+    id = Column(Integer, ForeignKey('quest.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+    request_text = Column(Text)
+    target_text = Column(Text)
+    miss_text = Column(Text)
+    client_text = Column(Text)
+    info1_text = Column(Text)
+    info2_text = Column(Text)
+    info3_text = Column(Text)
+    info4_text = Column(Text)
+    info5_text = Column(Text)

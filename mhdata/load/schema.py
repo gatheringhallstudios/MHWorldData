@@ -323,5 +323,5 @@ class QuestSchema(BaseSchema):
     time_limit = fields.Int(allow_none=True)
     faint_limit = fields.Int(allow_none=True)
     zeni_reward = fields.Int(allow_none=True)
-    request_text = fields.String(allow_none=True)
+    request_text = fields.Dict(allow_none=True)
     target_text = fields.String(allow_none=True)
