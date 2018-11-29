@@ -231,6 +231,12 @@ def validate_weapons(mhdata):
 
         if not entry.get('craft', {}):
             errors.append(f"Weapon {name} does not have any recipes")
+        else:
+            # Check if items in the recipe exist
+            for recipe in entry['craft']:
+                for item, quantity in datafn.iter_weapon_recipe(recipe):
+                    if item not in mhdata.item_map.names('en'):
+                        errors.append(f"Weapon {name} has invalid item {item} in a recipe")
         
         if weapon_type in cfg.weapon_types_melee and not entry.get('sharpness', None):
             errors.append(f"Melee weapon {name} does not have a sharpness value")

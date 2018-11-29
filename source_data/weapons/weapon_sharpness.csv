@@ -169,7 +169,8 @@ Imperial Shimmer,FALSE,70,50,60,120,60,40,0
 Xeno Cypher,FALSE,130,30,60,80,40,60,0
 Supremacy Blade,FALSE,100,50,50,80,70,0,0
 Divine Slasher,FALSE,100,60,60,100,50,30,0
-Azure Star Blade,FALSE,60,120,80,60,30,50,0
+Azure Star Blade,FALSE,90,80,20,110,0,0,0
+"Azure Star ""Dragon Dance""",FALSE,120,30,60,80,40,70,0
 "Reaver ""Cruelty""",FALSE,50,120,80,60,40,50,0
 "Reaver ""Calamity""",FALSE,90,80,20,110,0,0,0
 Hunter's Knife I,FALSE,90,50,80,30,0,0,0

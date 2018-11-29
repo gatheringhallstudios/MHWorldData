@@ -170,6 +170,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 167,Supremacy Blade,long-sword,,6,561,0,20,TRUE,Dragon,120,,,high,3,0,0,,,,,,,
 168,Divine Slasher,long-sword,Supremacy Blade,8,693,0,20,TRUE,Dragon,150,,,high,3,0,0,,,,,,,
 169,Azure Star Blade,long-sword,,3,363,20,,FALSE,Water,120,,,,0,0,0,,,,,,,
+1187,"Azure Star ""Dragon Dance""",long-sword,Azure Star Blade,7,495,30,,FALSE,Water,180,,,,3,0,0,,,,,,,
 1152,"Reaver ""Cruelty""",long-sword,,6,693,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1153,"Reaver ""Calamity""",long-sword,"Reaver ""Cruelty""",7,759,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
 170,Hunter's Knife I,sword-and-shield,,1,112,0,,FALSE,,,,,,0,0,0,,,,,,,
