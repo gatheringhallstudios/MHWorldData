@@ -654,6 +654,7 @@ class Quest(Base):
 
     translations = relationship('QuestText')
     targets = relationship('QuestTargets')
+    delivery_targets = relationship('QuestDeliveryTargets')
 
 class QuestText(Base):
     __tablename__ = 'quest_text'
@@ -672,3 +673,9 @@ class QuestTargets(Base):
     quantity = Column(Integer)
     tempered = Column(Boolean)
     arch_tempered = Column(Boolean)
+
+class QuestDeliveryTargets(Base):
+    __tablename__ = 'quest_delivery_targets'
+    id = Column(Integer, ForeignKey("quest.id"), primary_key=True)
+    item_id = Column(Integer, ForeignKey('item.id'), primary_key=True)
+    quantity = Column(Integer)

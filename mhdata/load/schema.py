@@ -333,3 +333,8 @@ class QuestTargetSchema(BaseSchema):
     quantity = fields.Integer()
     tempered = fields.Boolean()
     arch_tempered = fields.Boolean()
+
+class QuestDeliverySchema(BaseSchema):
+    name_en = fields.String()
+    item = fields.String()
+    quantity = fields.Integer()

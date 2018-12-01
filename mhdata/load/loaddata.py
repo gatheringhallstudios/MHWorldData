@@ -124,4 +124,8 @@ def load_data():
         'quests/quest_targets.csv',
         schema=schema.QuestTargetSchema())
 
+    result.quest_delivery_map = reader.load_list_csv(
+        "quests/quest_delivery_items.csv",
+        schema=schema.QuestDeliverySchema())
+
     return result
