@@ -653,6 +653,7 @@ class Quest(Base):
     zeni_reward = Column(Integer)
 
     translations = relationship('QuestText')
+    targets = relationship('QuestTargets')
 
 class QuestText(Base):
     __tablename__ = 'quest_text'
@@ -663,3 +664,11 @@ class QuestText(Base):
     target_text = Column(Text)
     miss_text = Column(Text)
     client_text = Column(Text)
+
+class QuestTargets(Base):
+    __tablename__ = 'quest_targets'
+    id = Column(Integer, ForeignKey("quest.id"), primary_key=True)
+    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    quantity = Column(Integer)
+    tempered = Column(Boolean)
+    arch_tempered = Column(Boolean)

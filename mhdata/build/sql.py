@@ -670,7 +670,9 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
 def build_quests(session : sqlalchemy.orm.Session, mhdata):
     quest_map = mhdata.quest_map
+    quest_target_map = mhdata.quest_target_map
     location_map = mhdata.location_map
+    monster_map = mhdata.monster_map
 
     for order_id, entry in enumerate(quest_map.values()):
         # print(entry)
@@ -693,6 +695,17 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
                 miss_text=get_translated(entry, 'miss_text', lang),
                 client_text=get_translated(entry, 'client', lang)
             ))
+
+        for target_entry in quest_target_map:
+            if target_entry["name_en"] == get_translated(entry, "name", "en"):
+                if monster_map.id_of("en", target_entry["target"]) is not None:  # BEHEMOTH is missing...
+                    quest.targets.append(db.QuestTargets(
+                        id=quest_map.id_of("en", target_entry["name_en"]),
+                        monster_id=monster_map.id_of("en", target_entry["target"],),
+                        quantity=target_entry["quantity"],
+                        tempered=target_entry["tempered"],
+                        arch_tempered=target_entry["arch_tempered"]
+                    ))
 
 
         session.add(quest)

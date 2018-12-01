@@ -117,8 +117,11 @@ def load_data():
                                                                             "client",
                                                                             "target_text",
                                                                             "miss_text"])
-                        .add_csv("quest_targets.csv", key="name_en")
                         .add_csv("quest_delivery_items.csv", key="name_en")
                         .get(schema=schema.QuestSchema()))
+
+    result.quest_target_map = reader.load_list_csv(
+        'quests/quest_targets.csv',
+        schema=schema.QuestTargetSchema())
 
     return result

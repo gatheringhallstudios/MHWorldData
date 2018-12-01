@@ -326,3 +326,10 @@ class QuestSchema(BaseSchema):
     request_text = fields.Dict(allow_none=True)
     target_text = fields.Dict(allow_none=True)
     miss_text = fields.Dict(allow_none=True)
+
+class QuestTargetSchema(BaseSchema):
+    name_en = fields.String()
+    target = fields.String()
+    quantity = fields.Integer()
+    tempered = fields.Boolean()
+    arch_tempered = fields.Boolean()
