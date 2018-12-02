@@ -670,8 +670,6 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
 def build_quests(session : sqlalchemy.orm.Session, mhdata):
     quest_map = mhdata.quest_map
-    quest_target_map = mhdata.quest_target_map
-    quest_delivery_map = mhdata.quest_delivery_map
     location_map = mhdata.location_map
     monster_map = mhdata.monster_map
     item_map = mhdata.item_map
@@ -697,34 +695,29 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
                 client_text=get_translated(entry, 'client', lang)
             ))
 
-        for target_entry in quest_target_map:
-            if target_entry["name_en"] == get_translated(entry, "name", "en"):
-                if monster_map.id_of("en", target_entry["target"]) is None:  # BEHEMOTH is missing...
-                    print(f"WARNING: Missing Target Monster ID: {target_entry['target']}"
-                          f" for quest: {entry['name']['en']}")
-                    continue
+        for target_entry in entry['targets']:
+            if monster_map.id_of("en", target_entry["target"]) is None:
+                print(f"WARNING: Missing Target Monster ID: {target_entry['target']}"
+                        f" for quest: {entry['name']['en']}")
+                continue
 
-                quest.targets.append(db.QuestTargets(
-                    id=quest_map.id_of("en", target_entry["name_en"]),
-                    monster_id=monster_map.id_of("en", target_entry["target"]),
-                    quantity=target_entry["quantity"],
-                    tempered=target_entry["tempered"],
-                    arch_tempered=target_entry["arch_tempered"]
-                ))
+            quest.targets.append(db.QuestTargets(
+                monster_id=monster_map.id_of("en", target_entry["target"]),
+                quantity=target_entry["quantity"],
+                tempered=target_entry["tempered"],
+                arch_tempered=target_entry["arch_tempered"]
+            ))
 
-        for delivery_entry in quest_delivery_map:
-            if delivery_entry["name_en"] == get_translated(entry, "name", "en"):
-                if item_map.id_of("en", delivery_entry["item"]) is None:
-                    print(f"WARNING: Missing Delivery Item ID: {delivery_entry['item']}"
-                          f" for quest: {entry['name']['en']}")
-                    continue
+        for delivery_entry in entry['delivery']:
+            if item_map.id_of("en", delivery_entry["item"]) is None:
+                print(f"WARNING: Missing Delivery Item ID: {delivery_entry['item']}"
+                        f" for quest: {entry['name']['en']}")
+                continue
 
-                quest.delivery_targets.append(db.QuestDeliveryTargets(
-                    id=quest_map.id_of("en", delivery_entry["name_en"]),
-                    item_id=item_map.id_of("en", delivery_entry["item"]),
-                    quantity=delivery_entry["quantity"]
-                ))
-
+            quest.delivery_targets.append(db.QuestDeliveryTargets(
+                item_id=item_map.id_of("en", delivery_entry["item"]),
+                quantity=delivery_entry["quantity"]
+            ))
 
         session.add(quest)
 

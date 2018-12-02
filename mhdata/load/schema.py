@@ -327,6 +327,9 @@ class QuestSchema(BaseSchema):
     target_text = fields.Dict(allow_none=True)
     miss_text = fields.Dict(allow_none=True)
 
+    targets = fields.Nested("QuestTargetSchema", many=True, missing=[])
+    delivery = fields.Nested("QuestDeliverySchema", many=True, missing=[])
+
 class QuestTargetSchema(BaseSchema):
     name_en = fields.String()
     target = fields.String()
