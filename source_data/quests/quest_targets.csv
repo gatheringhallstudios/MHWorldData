@@ -1,10 +1,8 @@
 name_en,target,quantity,tempered,arch_tempered
 Jagras of the Ancient Forest,Jagras,7,0,0
-A Kestodon Kerfuffle,Kestadon (Male),3,0,0
-A Kestodon Kerfuffle,Kestadon (Female),5,0,0
+A Kestodon Kerfuffle,Kestodon,8,0,0
 The Great Jagras Hunt,Great Jagras,1,0,0
-Butting Heads with Nature,Kestadon (Female),7,0,0
-Butting Heads with Nature,Kestadon (Male),5,0,0
+Butting Heads with Nature,Kestodon,12,0,0
 A Thicket of Thugs,Jagras,7,0,0
 Bird-Brained Bandit,Kulu-Ya-Ku,1,0,0
 Urgent: Pukei-Pukei Hunt,Pukei-Pukei,1,0,0
@@ -206,7 +204,7 @@ The Best of the Best,Nergigante,1,0,0
 Challenge Quest 1: Expert,Bazelgeuse,1,1,0
 Challenge Quest 1: Expert,Uragaan,1,1,0
 Challenge Quest 2: Expert,Nergigante,1,0,0
-Up at the Crack of Dawn,Kestadon,12,0,0
+Up at the Crack of Dawn,Kestodon,12,0,0
 Chew the Fat,Great Jagras,2,0,0
 USJ: Gold Star Treatment,Great Jagras,3,0,0
 Where Sun Meets Moon,Tobi-Kadachi,1,0,0

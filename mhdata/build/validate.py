@@ -23,6 +23,7 @@ def validate(mhdata):
     errors.extend(validate_armor(mhdata))
     errors.extend(validate_weapons(mhdata))
     errors.extend(validate_charms(mhdata))
+    errors.extend(validate_quests(mhdata))
 
     if errors:
         for error in errors:
@@ -289,5 +290,18 @@ def validate_charms(mhdata):
         previous_entry = entry['previous_en']
         if previous_entry is not None and previous_entry not in names:
             errors.append(f"Charm {previous_entry} for previous_en does not exist")
+
+    return errors
+
+def validate_quests(mhdata):
+    errors = []
+
+    for entry in mhdata.quest_map.values():
+        missing = []
+        for key in entry:
+            if entry[key] is None:
+                missing.append(key)
+        if missing:
+            print(f"WARNING: Quest {entry.name('en')} missing values for the following fields: {missing}")
 
     return errors
