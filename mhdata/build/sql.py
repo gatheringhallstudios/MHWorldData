@@ -677,7 +677,6 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map
 
     for order_id, entry in enumerate(quest_map.values()):
-        # print(entry)
         quest = db.Quest(id=entry.id,
                          classification=entry["classification"],
                          location_id=location_map.id_of("en", entry["location"]),
