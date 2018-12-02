@@ -678,9 +678,9 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
         quest = db.Quest(id=entry.id,
                          classification=entry["classification"],
                          location_id=location_map.id_of("en", entry["location"]),
-                         difficulty=entry["difficulty"],
+                         stars=entry["stars"],
                          clear_type=entry["clear_type"],
-                         hunter_rank=entry["hunter_rank"],
+                         hr_requirement=entry["hr_requirement"],
                          time_limit=entry["time_limit"],
                          faint_limit=entry["faint_limit"],
                          zeni_reward=entry["zeni_reward"])
