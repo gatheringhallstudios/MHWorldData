@@ -51,8 +51,10 @@ def load_data():
 
     result.skill_map = (DataStitcher(reader, dir="skills/")
                     .base_csv("skill_base.csv")
+                    .extend_base('skill_base_translations.csv')
                     .add_csv("skill_levels.csv", key="levels")
                     .get(schema=schema.SkillSchema()))
+    process.copy_skill_descriptions(result.skill_map)
 
     result.charm_map = (DataStitcher(reader, dir="charms/")
                     .base_csv("charm_base.csv")

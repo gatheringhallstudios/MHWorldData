@@ -5,6 +5,31 @@ Additional import step processes isolated to a separate file.
 from mhdata.io import DataMap
 from decimal import *
 
+from mhdata import cfg
+
+def copy_skill_descriptions(skill_map: DataMap):
+    """Copies the descriptions of certain skill levels to the skill tree.
+
+    Some skill trees are "artificial" and do not exist in the game, therefore they
+    have no actual description. This includes skills like Good Luck. Therefore,
+    should certain conditions be applied, we reuse the skill detail description.
+
+    The conditions for it to occur are:
+    - Missing an english description (missing a translation shouldn't trigger this)
+    - Only one available skill level (multi-stage skills are ignored)
+    """
+
+    for tree_entry in skill_map.values():
+        if tree_entry['description']['en']:
+            continue
+        if len(tree_entry['levels']) != 1:
+            continue
+        
+        # We don't do a default translation here, since its handled by another part of the build
+        level_entry = tree_entry['levels'][0]
+        for language in cfg.supported_languages:
+            tree_entry['description'][language] = level_entry['description'][language]
+
 def extend_decoration_chances(decoration_map: DataMap):
     """Calculates the drop tables given the decoration map.
 

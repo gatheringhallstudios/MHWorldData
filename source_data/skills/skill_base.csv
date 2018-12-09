@@ -1,136 +1,136 @@
-name_en,name_ja,description_en,description_ja,icon_color
-Poison Resistance,毒耐性,Grants protection against the effects of poison.,,Violet
-Paralysis Resistance,麻痺耐性,Reduces the duration of paralysis.,,Yellow
-Sleep Resistance,睡眠耐性,Reduces the duration of sleep.,,Cyan
-Stun Resistance,気絶耐性,Reduces stun duration.,,Gold
-Muck Resistance,泥耐性,Reduces impairments to mobility while stuck in monster muck.,,Gray
-Blast Resistance,爆破やられ耐性,Grants protection against blastblight.,,Orange
-Bleeding Resistance,裂傷耐性,Grants protection against bleeding.,,Beige
-Iron Skin,防御力DOWN耐性,Grants protection against Defense Down.,,Beige
-Earplugs,耳栓,Grants protection from large monsters' roars.,,White
-Windproof,風圧耐性,Grants protection against wind pressure.,,White
-Tremor Resistance,耐震,Grants protection against ground tremors.,,Gray
-Dungmaster,こやし名人,Makes monsters hit with slinger dung pods more likely to run.,,DarkBeige
-Effluvial Expert,瘴気環境適応,Nullifies or reduces environmental damage in the Rotten Vale.,,DarkBeige
-Heat Guard,熱ダメージ無効,Nullifies damage from heat.,,Beige
-Attack Boost,攻撃,Increases attack power. Also improves affinity at higher levels.,,Red
-Defense Boost,防御,Increases defense. Level up to improve resistances as well.,,Beige
-Health Boost,体力増強,Increases health.,,Green
-Recovery Up,体力回復量UP,Increases the amount recovered when restoring health.,,Green
-Recovery Speed,回復速度,Speeds healing of recoverable damage (the red portion of the health gauge).,,Green
-Fire Resistance,火耐性,Increases fire resistance. Also improves defense at higher levels.,,Red
-Water Resistance,水耐性,Increases water resistance. Also improves defense at higher levels.,,Blue
-Ice Resistance,氷耐性,Increases ice resistance. Also improves defense at higher levels.,,White
-Thunder Resistance,雷耐性,Increases thunder resistance. Also improves defense at higher levels.,,Gold
-Dragon Resistance,龍耐性,Increases dragon resistance. Also improves defense at higher levels.,,DarkRed
-Blight Resistance,属性やられ耐性,Grants protection against all elemental blights.,,DarkPurple
-Fire Attack,火属性攻撃強化,Increases fire element attack power. (Elemental attack power has a maximum limit.),,Red
-Water Attack,水属性攻撃強化,Increases water element attack power. (Elemental attack power has a maximum limit.),,Blue
-Ice Attack,氷属性攻撃強化,Increases ice element attack power. (Elemental attack power has a maximum limit.),,White
-Thunder Attack,雷属性攻撃強化,Increases thunder element attack power. (Elemental attack power has a maximum limit.),,Gold
-Dragon Attack,龍属性攻撃強化,Increases dragon element attack power. (Elemental attack power has a maximum limit.),,DarkRed
-Poison Attack,毒属性強化,Increases the rate of poison buildup. (Elemental buildup has a maximum limit.),,Violet
-Paralysis Attack,麻痺属性強化,Increases the rate of paralysis buildup. (Elemental buildup has a maximum limit.),,Yellow
-Sleep Attack,睡眠属性強化,Increases the rate of sleep buildup. (Elemental buildup has a maximum limit.),,Cyan
-Blast Attack,爆破属性強化,Increases the rate of blast buildup. (Elemental buildup has a maximum limit.),,Orange
-Normal Shots,通常弾・通常矢強化,Increases the attack power of normal ammo and normal arrows.,,White
-Piercing Shots,貫通弾・竜の一矢強化,Increases the attack power of piercing ammo and Dragon Piercer.,,Blue
-Spread/Power Shots,散弾・剛射強化,Increases the attack power of spread ammo and power shot arrows.,,DarkGreen
-Free Elem/Ammo Up,属性解放/装填拡張,Unlocks your weapon's hidden element. Also increases bowgun loading capacity. (There is a cap to loading capacity.),,Cyan
-Critical Eye,見切り,Increases affinity.,,DarkPurple
-Critical Boost,超会心,Increases the damage of critical hits.,,DarkPurple
-Weakness Exploit,弱点特効,Increases the affinity of attacks that exploit a monster weak spot.,,DarkPurple
-Focus,集中,Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.,,LightBeige
-Power Prolonger,強化持続,"Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",,LightBeige
-Handicraft,匠,"Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",,White
-Critical Draw,抜刀術【技】,Increases affinity when performing draw attacks.,,DarkPurple
-Partbreaker,破壊王,Makes it easier to break or sever parts of large monsters.,,Gray
-Slugger,KO術,Makes it easier to stun monsters.,,Gold
-Stamina Thief,スタミナ奪取,Increases certain attacks' ability to exhaust monsters.,,Cyan
-Master Mounter,乗り名人,Makes it easier to mount monsters.,,Blue
-Airborne,飛燕,Increases the damage caused by jumping attacks.,,Blue
-Latent Power,力の解放,Temporarily increases affinity and reduces stamina depletion when certain conditions are met.,,Red
-Agitator,挑戦者,Increases attack power and affinity when large monsters become enraged.,,Red
-Peak Performance,フルチャージ,Increases attack when your health is full.,,Red
-Heroics,火事場力,Increases attack power and defense when health drops to 35% or lower.,,Red
-Fortify,不屈,Increases your attack and defense every time you fall in battle. (This effect can stack twice.),,DarkRed
-Resentment,逆恨み,Increases attack when you have recoverable damage (the red portion of your health gauge).,,DarkRed
-Resuscitate,死中に活,Improves evasion and reduces stamina depletion when afflicted with abnormal status effects.,,Cyan
-Horn Maestro,笛吹き名人,Increases the effect duration of hunting horn melodies.,,White
-Capacity Boost,砲弾装填数UP,Increases the gunlance's shell capacity and charge blade's phial capacity.,,Gray
-Special Ammo Boost,特殊射撃強化,Increases the power of bowgun special ammo and Dragon Piercer.,,Gray
-Artillery,砲術,"Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.",,Gray
-Heavy Artillery,砲撃手,Increases the firepower of ballistae and cannons.,,Gray
-Marathon Runner,ランナー,Slows down stamina depletion for actions which continuously drain stamina (such as dashing).,,Beige
-Constitution,体術,"Reduces stamina depletion when performing stamina-draining moves such as evading, etc.",,Beige
-Leap of Faith,飛び込み,"Alows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance.",,Cyan
-Stamina Surge,スタミナ急速回復,Speeds up stamina recovery.,,Beige
-Hunger Resistance,腹減り耐性,Reduces maximum stamina depletion over time.,,Beige
-Evade Window,回避性能,Extends the invulnerability period when evading.,,Cyan
-Evade Extender,回避距離UP,Increases evade distance.,,Cyan
-Guard,ガード性能,Reduces knockbacks and stamina depletion when guarding.,,Gray
-Quick Sheath,納刀術,Speeds up weapon sheating.,,LightBeige
-Wide-Range,広域化,Sllows the effects of certain items to also affect nearby allies.,,White
-Item Prolonger,アイテム使用強化,Extends the duration of some item effects.,,LightBeige
-Free Meal,満足感,Gives you a predetermined chance of consuming a food or drink item for free.,,LightBeige
-Speed Eating,早食い,Increases meat-eating and item-consumption speed.,,Beige
-Speed Sharpening,砥石使用高速化,Speeds up weapon sharpening when using a whetstone.,,Gold
-Bombardier,ボマー,Increases the damage of explosive items.,,Orange
-Mushroomancer,キノコ大好き,Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.,,Violet
-Master Fisher,釣り名人,Improves your skill at fishing.,,Blue
-Pro Transporter,運搬の達人,"Increases your speed while transporting items and decreases the likelihood of dropping them,",,LightBeige
-Master Gatherer,採集の達人,"Allows you to gather more quickly, and also prevents attacks from knocking you back while gathering.",,Lime
-Honey Hunter,ハニーハンター,Increases the quantity of honey you receive when gathering in the field.,,Beige
-Carving Pro,剥ぎ取り鉄人,Prevents knockback from attacks while carving.,,Gray
-Divine Blessing,精霊の加護,Has a predetermined chance of reducing the damage you take.,,Blue
-Palico Rally,オトモへの采配,Powers up Palicoes.,,LightBeige
-Botanist,植生学,Increases the quantity of herbs and other consumable items you gather.,,Lime
-Geologist,地質学,Increases the number of times you can use a gathering point.,,LightBeige
-Maximum Might,渾身,Increases affinity when stamina is full.,,Red
-Slinger Capacity,スリンガー装填数UP,Increases the loading capacity for slinger ammo obtained in the field.,,Lime
-Stealth,潜伏,Makes it easier for monsters to lose sight of you.,,Gray
-Flinch Free,ひるみ軽減,Prevents knockbacks and other reactions to small damage.,,Gray
-Scoutfly Range Up,導蟲反応距離UP,Expands your scoutflies' detection range.,,Lime
-Speed Crawler,しゃがみ移動速度UP,Increases movement speed while crouching.,,White
-Jump Master,ジャンプ鉄人,Prevents attacks from knocking you back during a jump.,,Blue
-Sporepuff Expert,綿胞子草の知識,Recover health when using sporepuffs.,,White
-Aquatic Expert,水場適応,Improves mobility in water.,,Blue
-Cliffhanger,クライマー,Decreases stamina depletion when evading while clinging to walls or ivy.,,Beige
-Blindsider,閃光強化,Improves the effectiveness of flash attacks and items.,,Gold
-Scholar,研究者,Speeds up progress on research levels and special investigations. (Effect is applied at the quest results screen.),,Lime
-Entomologist,昆虫標本の達人,"Decreases the chances of destroying the bodies of small insect monsters, allowing them to be carved.",,Green
-Effluvia Resistance,瘴気耐性,Gain a resistance to effluvial buildup.,,DarkBeige
-Scenthound,追跡の達人,Increases your scoutflies' gauge fill rate when you find tracks and other traces left by monsters.,,Beige
-Forager's Luck,探索者の幸運,Increases the chance of finding rare gathering points.,,White
-Detector,感知,Shows rare gathering points on the Wildlife Map.,,White
-Tool Specialist,整備,Reduces the recharge time for specialized tools.,,LightBeige
-Affinity Sliding,滑走強化,Sliding increases your affinity for a short time.,,Red
-Intimidator,威嚇,Reduces the chances small monsters will attack after spotting you. (No effect on certain monsters.),,White
-Hasten Recovery,,Regenerates your health as you continually attack a monster. Recovery varies by weapon.,,
-Super Recovery,,Allows recovery to exceed the red portion of the health gauge.,,
-Poison Duration Up,,Extends the duration of your poison's effect on monsters.,,
-Adrenaline,,Temporarily reduces stamina depletion when health is at 40% or lower.,,
-Stamina Cap Up,,Increases stamina cap.,,
-Critical Element,,"Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",,
-Mind's Eye/Ballistics,心眼/弾導強化,Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.,,Red
-Bludgeoner,,Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.,,
-Non-elemental Boost,無属性強化,Powers up non-elemental weapons you have equipped.,,DarkBeige
-Capture Master,,High chance of increased capture rewards. (No effect when joining mid-quest.),,
-Guard Up,ガード強化,Allows you to guard against ordinarily unblockable attacks.,,
-Guts,,"Above a certain health threshold, you withstand an attack that would normally cart you (once only).",,
-Master's Touch,,Prevents your weapon from losing sharpness during critical hits.,,
-Nullify Wind Pressure,,Negates all wind pressure.,,
-Razor Sharp/Spare Shot,,"Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo.",,
-Critical Status,,"Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits.",,
-Great Luck,,High chance of increased quest rewards. (No effect when joining mid-quest.),,
-Carving Master,,Lets you carve one additional time. (No effect when joining mid-quest.),,
-Good Luck,,Good chance of increased quest rewards. (No effect when joining mid-quest.),,
-Bow Charge Plus,弓溜め段階解放,Increases max bow charge level by one.,,Blue
-Punishing Draw,,Adds a stun effect to draw attacks and slightly increases attack power.,,
-Protective Polish,剛刃研磨,Weapon sharpness does not decrease for a set time after sharpening.,,DarkRed
-BBQ Master,肉焼き名人,Improves your skill at cooking meat.,,
-Blast Functionality,爆破ビン追加,Allows you to apply blast coatings.,,Orange
-Elderseal Boost,龍封力強化,Increases the Elderseal of weapons and dragon ammo.,,DarkRed
-Para Functionality,麻痺ビン追加,Allows you to apply paralysis coatings.,,Yellow
-Poison Functionality,毒ビン追加,Allows you to apply poison coatings.,,Violet
-Sleep Functionality,睡眠ビン追加,Allows you to apply sleep coatings.,,Cyan
+name_en,icon_color
+Poison Resistance,Violet
+Paralysis Resistance,Yellow
+Sleep Resistance,Cyan
+Stun Resistance,Gold
+Muck Resistance,Gray
+Blast Resistance,Orange
+Bleeding Resistance,Beige
+Iron Skin,Beige
+Earplugs,White
+Windproof,White
+Tremor Resistance,Gray
+Dungmaster,DarkBeige
+Effluvial Expert,DarkBeige
+Heat Guard,Beige
+Attack Boost,Red
+Defense Boost,Beige
+Health Boost,Green
+Recovery Up,Green
+Recovery Speed,Green
+Fire Resistance,Red
+Water Resistance,Blue
+Ice Resistance,White
+Thunder Resistance,Gold
+Dragon Resistance,DarkRed
+Blight Resistance,DarkPurple
+Fire Attack,Red
+Water Attack,Blue
+Ice Attack,White
+Thunder Attack,Gold
+Dragon Attack,DarkRed
+Poison Attack,Violet
+Paralysis Attack,Yellow
+Sleep Attack,Cyan
+Blast Attack,Orange
+Normal Shots,White
+Piercing Shots,Blue
+Spread/Power Shots,DarkGreen
+Free Elem/Ammo Up,Cyan
+Critical Eye,DarkPurple
+Critical Boost,DarkPurple
+Weakness Exploit,DarkPurple
+Focus,LightBeige
+Power Prolonger,LightBeige
+Handicraft,White
+Critical Draw,DarkPurple
+Partbreaker,Gray
+Slugger,Gold
+Stamina Thief,Cyan
+Master Mounter,Blue
+Airborne,Blue
+Latent Power,Red
+Agitator,Red
+Peak Performance,Red
+Heroics,Red
+Fortify,DarkRed
+Resentment,DarkRed
+Resuscitate,Cyan
+Horn Maestro,White
+Capacity Boost,Gray
+Special Ammo Boost,Gray
+Artillery,Gray
+Heavy Artillery,Gray
+Marathon Runner,Beige
+Constitution,Beige
+Leap of Faith,Cyan
+Stamina Surge,Beige
+Hunger Resistance,Beige
+Evade Window,Cyan
+Evade Extender,Cyan
+Guard,Gray
+Quick Sheath,LightBeige
+Wide-Range,White
+Item Prolonger,LightBeige
+Free Meal,LightBeige
+Speed Eating,Beige
+Speed Sharpening,Gold
+Bombardier,Orange
+Mushroomancer,Violet
+Master Fisher,Blue
+Pro Transporter,LightBeige
+Master Gatherer,Lime
+Honey Hunter,Beige
+Carving Pro,Gray
+Divine Blessing,Blue
+Palico Rally,LightBeige
+Botanist,Lime
+Geologist,LightBeige
+Maximum Might,Red
+Slinger Capacity,Lime
+Stealth,Gray
+Flinch Free,Gray
+Scoutfly Range Up,Lime
+Speed Crawler,White
+Jump Master,Blue
+Sporepuff Expert,White
+Aquatic Expert,Blue
+Cliffhanger,Beige
+Blindsider,Gold
+Scholar,Lime
+Entomologist,Green
+Effluvia Resistance,DarkBeige
+Scenthound,Beige
+Forager's Luck,White
+Detector,White
+Tool Specialist,LightBeige
+Affinity Sliding,Red
+Intimidator,White
+Hasten Recovery,
+Super Recovery,
+Poison Duration Up,
+Adrenaline,
+Stamina Cap Up,
+Critical Element,
+Mind's Eye/Ballistics,Red
+Bludgeoner,
+Non-elemental Boost,DarkBeige
+Capture Master,
+Guard Up,
+Guts,
+Master's Touch,
+Nullify Wind Pressure,
+Razor Sharp/Spare Shot,
+Critical Status,
+Great Luck,
+Carving Master,
+Good Luck,
+Bow Charge Plus,Blue
+Punishing Draw,
+Protective Polish,DarkRed
+BBQ Master,
+Blast Functionality,Orange
+Elderseal Boost,DarkRed
+Para Functionality,Yellow
+Poison Functionality,Violet
+Sleep Functionality,Cyan

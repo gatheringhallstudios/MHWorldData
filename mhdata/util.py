@@ -41,13 +41,15 @@ def joindicts(dest, *dictlist):
                 result[key] = value
                 continue
             
+            # Handle collision
             existing_value = dest[key]
             if typecheck.is_dict(existing_value) and typecheck.is_dict(value):
                 result[key] = joindicts(existing_value, value)
             elif typecheck.is_list(existing_value) and typecheck.is_list(value):
                 result[key] = existing_value + value
             else:
-                raise Exception("Failed to merge dictionaries on key")
+                raise Exception("Failed to merge dictionaries: " +
+                    f"could not resolve collision on key '{key}'")
 
     return result
 
