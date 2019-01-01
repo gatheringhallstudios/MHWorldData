@@ -26,7 +26,7 @@ class NameSet(KeysView):
         return False
 
 
-class DataMap(typing.Mapping[int, DataRow]):
+class DataMap(collections.abc.Mapping):
     """A collection of data entries key'd by an id.
 
     Entries on this map can be retrieved using its id, or using its name in any language.
@@ -63,10 +63,28 @@ class DataMap(typing.Mapping[int, DataRow]):
         id_value = self.id_of(language_code, name)
         return self._data.get(id_value, None)
 
+    @property
+    def max_id(self):
+        "Gets the max id value stored. Runs in linear time every time."
+        return max((entry.id for entry in self._data.values()))
+
     def _generate_id(self):
+        "Helper that creates a new id for a new object. Handles collisions"
         entry_id = next(self._id_gen)
+        if entry_id in self:
+            # This should have been handled
+            print("Warning: Unexpected entry id expansion in DataMap")
+            self._revaluate_idgen(self.max_id)
+            entry_id = next(self._id_gen)
+
         self._last_id = entry_id
         return entry_id
+
+    def _revaluate_idgen(self, entry_id):
+        "Helper that updates the id generator if the old generator is now invalid"
+        if isinstance(entry_id, int) and entry_id > self._last_id:
+            self._id_gen = itertools.count(entry_id + 1)
+            self._last_id = entry_id
 
     def _unregister_entry(self, entry):
         "Internal function to remove the entry from the reverse mapping"
@@ -101,6 +119,8 @@ class DataMap(typing.Mapping[int, DataRow]):
         self._register_entry(new_entry)
         
         self._data[entry_id] = new_entry
+        self._revaluate_idgen(entry_id)
+
         return new_entry
 
     def add_entry(self, entry_id: int, entry: dict):
@@ -111,10 +131,6 @@ class DataMap(typing.Mapping[int, DataRow]):
 
         if 'id' in entry and entry['id'] != entry_id:
             raise ValueError("Mismatch in add_entry: entry already has an id")
-
-        if isinstance(entry_id, int) and entry_id > self._last_id:
-            self._id_gen = itertools.count(entry_id + 1)
-            self._last_id = entry_id
 
         return self._add_entry(entry_id, entry)
 
@@ -130,7 +146,7 @@ class DataMap(typing.Mapping[int, DataRow]):
             except ValueError:
                 raise ValueError("Entry id must be an int")
         else:
-            entry_id = next(self._id_gen)
+            entry_id = self._generate_id()
         return self._add_entry(entry_id, entry)
 
     def extend(self, entries: typing.List[dict]):
@@ -252,4 +268,6 @@ class DataMap(typing.Mapping[int, DataRow]):
         entry = self._data[id]
         del self._data[id]
         for lang, val in entry.names():
-            del self._reverse_entries[(lang, val)]
+            key = (lang, val)
+            if key in self._reverse_entries:
+                del self._reverse_entries[key]

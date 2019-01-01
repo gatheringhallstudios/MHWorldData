@@ -32,7 +32,7 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None):
+    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None, translation_filename=None, translation_extra=[]):
         """
         Saves a base map as a csv file.
         If a marshmallow schema is provided, groups is ignored. 
@@ -44,10 +44,30 @@ class DataReaderWriter(DataReader):
 
         rows = base_map.to_list()
 
+        if translation_filename:
+            translations = []
+            translation_fields = ['name'] + translation_extra
+            for row in rows:
+                translation_row = {}
+                for lang in self.languages:
+                    for field in translation_fields:
+                        value = row[field].get(lang, '') or ''
+                        translation_row[f'{field}_{lang}'] = value.strip()
+                
+                translations.append(translation_row)
+
+                row['name'] = { 'en': row['name']['en'] }
+                for field in translation_extra:
+                    del row[field]
+
+            self.save_csv(translation_filename, translations)
+
         if not schema:
             rows = [ungroup_fields(v, groups=groups) for v in rows]
+        else:
+            rows, errors = schema.dump(rows, many=True)
 
-        self.save_csv(location, rows, schema=schema)
+        self.save_csv(location, rows)
 
     def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
         """Write a DataMap to a location in the data directory.
@@ -82,7 +102,7 @@ class DataReaderWriter(DataReader):
         TODO: Write about nest_additional and groups
         """
         extracted = data_map.extract(key=key, fields=fields, lang=lang)
-        flattened_rows = flatten(extracted, nest=['name_'+lang] + nest_additional)
+        flattened_rows = flatten(extracted, nest=['base_name_'+lang] + nest_additional)
         flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
         self.save_csv(location, flattened_rows)

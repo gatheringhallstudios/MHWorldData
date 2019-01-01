@@ -21,8 +21,8 @@ class ItemSchema(BaseSchema):
     rarity = fields.Int(allow_none=True, default=0)
     buy_price = fields.Int(allow_none=True)
     sell_price = fields.Int(allow_none=True)
-    points = fields.Int(allow_none=True)
     carry_limit = fields.Int(allow_none=True)
+    points = fields.Int(allow_none=True)
     
     icon_name = fields.Str(allow_none=True)
     icon_color = ValidatedStr(None, *cfg.icon_colors)
@@ -138,6 +138,7 @@ class ArmorSetBonus(BaseSchema):
 class ArmorBaseSchema(BaseSchema):
     "Schema for armor base data"
     __groups__ = ('name',)
+    id = fields.Int()
     name = fields.Dict()
     rarity = fields.Int()
     type = ValidatedStr('head', 'chest', 'arms', 'waist', 'legs')
