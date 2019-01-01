@@ -1,19 +1,21 @@
 [![Build Status](https://travis-ci.org/gatheringhallstudios/MHWorldData.svg?branch=master)](https://travis-ci.org/gatheringhallstudios/MHWorldData)
 
 # MHWorldData
-A project used to generate a SQLite database file from Monster Hunter World data.
+A project used to generate a SQLite database file from Monster Hunter World data. Check the releases section for compiled db files.
 
 There's currently no documentation for the db file. I recommend using a graphical tool like [SQliteBrowser](http://sqlitebrowser.org/) or figuring it out from the [mapping file](https://github.com/gatheringhallstudios/MHWorldData/blob/master/mhdata/sql/mappings.py). To see the data we build from, look at the [source_data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder.
 
 ## Purpose and goals
-This project exists as a free and open collection of Monster Hunter World data for people to build cool things with. While the data has to be manually built right now, once we approach a stable version they will be available without the need to build.
+This project exists as a free and open collection of Monster Hunter World data for people to build cool things with. We use this data in the (also open source) [MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) Android app.
 
-We use the data generated here for the [MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) Android app, which is also open source. 
+There are very few open collections of Monster Hunter data out there, and assembling what we have added a significant amount of time to the app's development process. Hopefully this database can spare you some of that trouble.
+
+The data collected is limited to observable or computable data. Handwritten guides and editorial content are not collected in the repository
 
 ## How to contribute
-To contribute, create a pull request adding the data or translation you wish to add to the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If the translation is for a language that is not supported, then add a name_code column using the [ISO language code](https://en.wikipedia.org/wiki/ISO_639-1). 
+To contribute, create a pull request. All data is found in the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If you want to contribute a code change, inspect build.py in the root folder and follow the import trail.
 
-If you are unable to work Git but have data corrections or translations to contribute, you can create a Github Issue with new file or share a link to a google drive spreadsheet.
+If you are unable to work Git but have data corrections or translations to contribute, you can create a Github Issue with the new file or share a link to a google drive spreadsheet.
 
 ### MISSING (Important Todo)
 This is data we'd love to receive help towards.
@@ -31,6 +33,7 @@ To edit the CSV files, I suggest using an office program like Excel or [LibreOff
 
 Each subsystem (Monster/Armor/Weapons/etc) is stored in its own subdirectory. There are several types of data files:
 - ***type*_base.csv**: A names and basic data registry containing the names of different objects of that type for each supported language, as well as any additional base data.
+- ***type*_base_translations.csv**: An extension of a base file that adds translated names and potentially descriptions to the main base file.
 - ***type*_*data*.csv**: Additional data key'd by the name of the owning type. These are used when the type can have many data, like a monster can have many hunting rewards.
 - ***type*_ext.csv**: Extension data that adds additional data to the type. This is used when each type can be optionally extended, such as a weapon that may be a bowgun and has bowgun ammo.
 
@@ -41,11 +44,31 @@ Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.s
 
 You can run the tests by executing `pipenv run pytest tests`.
 
+### Merging ingame binaries
+This project uses [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) to parse ingame binary data. To use it, follow the directions in fresch's repository to create a merged chunk data folder (make sure you own a copy of Monster Hunter World...), rename it to `mergedchunks`, and move it outside the project (to the same directory this project is contained in). Afterwards, run `pipenv run python merge.py binary update`.
+
+The directory structure should approximately look like this:
+
+```
+-- any parent directory
+ |-- mhworlddata/
+  |-- mhdata/
+  |-- mhw_armor_edit/
+  |-- build.py
+ |-- mergedchunks/
+```
+
 ## Data Sources
-The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and Japanese wikis like [MHWG](http://mhwg.org/). Handwritten guides and editorial content are not collected in the repository.
+The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and Japanese wikis like [MHWG](http://mhwg.org/). .
+
+We also use [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) for parsing ingame binaries.
 
 ## License
-The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data and images are from Monster Hunter World, which is owned by Capcom. You are free to use it, but I'd really appreciate it if you let me know what you're working on, and would be even more stoked if you let other people know where you got the data from in a note somewhere (although that's not required).
+The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data and images are from Monster Hunter World, which is owned by Capcom.
+
+The `mhw_armor_edit/` folder and its contents are public domain. Instead of our silly little extraction, feel free to access the real deal [here](https://github.com/fre-sch/mhw_armor_edit).
+
+You are free to use this database for any purpose.
 
 ## Special Credits
 - [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from
