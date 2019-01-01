@@ -71,11 +71,11 @@ King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
 King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Aqua Sac,1
 King Beetle Elytra,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
 King Beetle Crura,Great Hornfly,1,Dragonite Ore,2,Monster Fluid,3,Paralysis Sac,1
-Butterfly Vertex,Great Hornfly,1,Dragonite Ore,2,Coral Crystal,2,Flame Sac,1
-Butterfly Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
-Butterfly Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Aqua Sac,1
-Butterfly Elytra,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
-Butterfly Crura,Great Hornfly,1,Dragonite Ore,2,Monster Fluid,3,Paralysis Sac,1
+Butterfly Vertex,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
+Butterfly Thorax,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Butterfly Brachia,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
+Butterfly Elytra,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Butterfly Crura,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
 Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal,1
 Hornetaur Helm,Hornetaur Head,1,Hornetaur Shell,1,Machalite Ore,1,Monster Fluid,1
 Hornetaur Mail,Hornetaur Wing,2,Hornetaur Shell,2,Dragonite Ore,2,Machalite Ore,2
@@ -152,6 +152,16 @@ Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal,4,Coral Bone,2
 Kirin Longarms,Kirin Hide,3,Kirin Mane,2,Paolumu Shell,2,Lightcrystal,1
 Kirin Hoop,Kirin Hide,2,Kirin Thunderhorn,1,Kirin Tail,1,Electro Sac,1
 Kirin Leg Guards,Kirin Hide,2,Kirin Thunderhorn,1,Paolumu Shell,2,,
+Harvest Flor,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Tronco,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Trama,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Hoja,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Raiz,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Orion Cap,Winter Star Ticket,1,Monster Bone+,1,,,,
+Orion Vest,Winter Star Ticket,1,Monster Bone+,2,,,,
+Orion Vambraces,Winter Star Ticket,1,Monster Bone+,1,,,,
+Orion Coat,Winter Star Ticket,1,Monster Bone+,1,,,,
+Orion Boots,Winter Star Ticket,1,Monster Bone+,2,,,,
 Blossom Headgear,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
 Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
@@ -162,7 +172,7 @@ Leather Mail α,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Gloves α,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Belt α,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Trousers α,Carbalite Ore,2,High-quality Pelt,1,,,,
-Leather Headgear β,Carbalite Ore,2,High-quality Pelt,1,,,,
+Leather Headgear β,Carbalite Ore,3,High-quality Pelt,1,,,,
 Leather Mail β,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Gloves β,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Belt β,Carbalite Ore,2,High-quality Pelt,1,,,,
@@ -217,16 +227,16 @@ King Beetle Thorax β,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,
 King Beetle Brachia β,Great Hornfly,1,Dragonvein Crystal,2,Monster Broth,2,Torrent Sac,2
 King Beetle Elytra β,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
 King Beetle Crura β,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Omniplegia Sac,2
-Butterfly Vertex α,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Inferno Sac,3
-Butterfly Thorax α,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
-Butterfly Brachia α,Great Hornfly,1,Dragonvein Crystal,2,Monster Broth,2,Torrent Sac,2
-Butterfly Elytra α,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
-Butterfly Crura α,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Omniplegia Sac,2
-Butterfly Vertex β,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Inferno Sac,3
-Butterfly Thorax β,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
-Butterfly Brachia β,Great Hornfly,1,Dragonvein Crystal,2,Monster Broth,2,Torrent Sac,2
-Butterfly Elytra β,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
-Butterfly Crura β,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Omniplegia Sac,2
+Butterfly Vertex α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Thorax α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Brachia α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Elytra α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Crura α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Vertex β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Thorax β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Brachia β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Elytra β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Crura β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
 Vespoid Helm α,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
 Vespoid Mail α,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
 Vespoid Vambraces α,Vespoid Carapace,4,Vespoid Innerwing,2,Monster Broth,3,Omniplegia Sac,2
@@ -687,6 +697,26 @@ Empress Mail β,Lunastra Horn,2,Lunastra Scale+,4,Lunastra Mane,2,Lunastra Gem,1
 Empress Vambraces β,Lunastra Carapace,4,Lunastra Horn,1,Lunastra Tail,2,Firecell Stone,1
 Empress Coil β,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Mane,2,Novacrystal,1
 Empress Greaves β,Teostra Carapace,4,Lunastra Wing,3,Lunastra Tail,1,Elder Dragon Blood,3
+Harvest Flor α,Autumn Harvest Ticket,1,Monster Hardbone,2,Monster Keenbone,1,,
+Harvest Tronco α,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Harvest Trama α,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Harvest Hoja α,Autumn Harvest Ticket,1,Monster Hardbone,2,Monster Keenbone,1,,
+Harvest Raiz α,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Orion Cap α,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
+Orion Vest α,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
+Orion Vambraces α,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
+Orion Coat α,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
+Orion Boots α,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
+Vaal Hazak Helm γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Talon,4
+Vaal Hazak Mail γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Membrane,3
+Vaal Hazak Braces γ,Vaal Hazak Ticket,1,Vaal Hazak Fang+,3,Deceased Scale,6,Vaal Hazak Gem,1
+Vaal Hazak Coil γ,Vaal Hazak Ticket,1,Vaal Hazak Carapace,5,Vaal Hazak Wing,4,Vaal Hazak Membrane,3
+Vaal Hazak Greaves γ,Vaal Hazak Ticket,1,Vaal Hazak Carapace,5,Vaal Hazak Fang+,3,Vaal Hazak Tail,2
+Drachen Armet α,Behemoth Mane,2,Behemoth Bone,3,Behemoth Great Horn,1,Aetheryte Shard,3
+Drachen Mail α,Behemoth Mane,2,Behemoth Bone,3,Behemoth Shearclaw,2,Dragonbone Relic,2
+Drachen Vambraces α,Behemoth Mane,3,Behemoth Bone,3,Behemoth Great Horn,1,Behemoth Tail,1
+Drachen Coil α,Behemoth Mane,1,Behemoth Bone,2,Behemoth Tail,1,Novacrystal,2
+Drachen Greaves α,Behemoth Mane,1,Behemoth Bone,2,Behemoth Shearclaw,1,Firecell Stone,2
 Sealed Eyepatch α,Black Bandage,2,Shamos Scale+,7,Shamos Hide+,5,Piercing Claw,4
 Shadow Shades α,Black Crystal Ticket,3,Lightcrystal,3,Novacrystal,1,Dragonvein Crystal,5
 Kulu-Ya-Ku Head α,Kulu-Ya-Ku Ticket,3,Kulu-Ya-Ku Beak+,1,Kulu-Ya-Ku Plume+,4,Kulu-Ya-Ku Hide+,5

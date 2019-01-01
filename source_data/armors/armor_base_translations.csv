@@ -71,11 +71,11 @@ King Beetle Thorax,オウビートペット,Thorax Scarabée,Torace dello scarab
 King Beetle Brachia,オウビートマーノ,Brachia Scarabée,Brachia dello scarabeo,Königskäfer-Brachia,Ristre rey escarabajo,Braços de Besouro-rei,Ramiona żuka król.,Наручи королев. жука,킹비트마노,獨角仙護袖,عضد الخنفساء الملك
 King Beetle Elytra,オウビートアンカ,Élytre Scarabée,Elitre dello scarabeo,Königskäfer-Elytren,Élitro rey escarabajo,Élitros de Besouro-rei,Okrywy żuka królewskiego,Пояс королевск. жука,킹비트앙카,獨角仙護腰具,غمد الخنفساء الملك
 King Beetle Crura,オウビートガンバ,Crura Scarabée,Crura dello scarabeo,Königskäfer-Crura,Patas rey escarabajo,Crurais de Besouro-rei,Nogi żuka królewskiego,Поножи королев. жука,킹비트감바,獨角仙腳,درع رِجل الخنفساء الملك
-Butterfly Vertex,パピメルテスタ,Vertex Papillon,Vertex di farfalla,Schmetterling-Vertex,Vértice de mariposa,Vértice de Borboleta,Wierzchołek motyla,Головка бабочки,파피메르테스타,燕尾蝶護頭,رأس الفراشة
-Butterfly Thorax,パピメルペット,Thorax Papillon,Torace di farfalla,Schmetterling-Thorax,Tórax de mariposa,Tórax de Borboleta,Tułów motyla,Панцирь бабочки,파피메르페트,燕尾蝶上身,صدر الفراشة
-Butterfly Brachia,パピメルマーノ,Brachia Papillon,Brachia di farfalla,Schmetterling-Brachia,Ristre de mariposa,Braços de Borboleta,Ramiona motyla,Предплечье бабочки,파피메르마노,燕尾蝶護袖,عضد الفراشة
-Butterfly Elytra,パピメルアンカ,Élytre Papillon,Elitre di farfalla,Schmetterling-Elytren,Élitro de mariposa,Élitros de Borboleta,Okrywy motyla,Надкрылье бабочки,파피메르앙카,燕尾蝶護腰具,غمد الفراشة
-Butterfly Crura,パピメルガンバ,Crura Papillon,Crura di farfalla,Schmetterling-Crura,Espinillera de mariposa,Crurais de Borboleta,Nogi motyla,Лапки бабочки,파피메르감바,燕尾蝶腳,درع رِجل الفراشة
+Butterfly Vertex,パピオムテスタ,Vertex Papillon,Vertex di farfalla,Schmetterling-Vertex,Vértice de mariposa,Vértice de Borboleta,Wierzchołek motyla,Голова бабочки,파피옴테스타,燕尾蝶男護頭,رأس الفراشة
+Butterfly Thorax,パピオムペット,Thorax Papillon,Torace di farfalla,Schmetterling-Thorax,Tórax de mariposa,Tórax de Borboleta,Tułów motyla,Панцирь бабочки,파피옴페트,燕尾蝶男上身,صدر الفراشة
+Butterfly Brachia,パピオムマーノ,Brachia Papillon,Brachia di farfalla,Schmetterling-Brachia,Ristre de mariposa,Braços de Borboleta,Ramiona motyla,Предплечье бабочки,파피옴마노,燕尾蝶男護袖,عضد الفراشة
+Butterfly Elytra,パピオムアンカ,Élytre Papillon,Elitre di farfalla,Schmetterling-Elytra,Élitro de mariposa,Élitros de Borboleta,Okrywy motyla,Надкрылье бабочки,파피옴앙카,燕尾蝶男護腰具,غمد الفراشة
+Butterfly Crura,パピオムガンバ,Crura Papillon,Crura di farfalla,Schmetterling-Crura,Espinillera de mariposa,Crurais de Borboleta,Nogi motyla,Лапы бабочки,파피옴감바,燕尾蝶男腳,درع رِجل الفراشة
 Shamos Goggles,シャムゴーグル,Jumelles Shamos,Occhiali di Shamos,Shamos-Brille,Anteojos de Shamos,Óculos de Shamos,Gogle z Shamosa,Очки шамоса,샤무고글,貓蜥龍護目鏡,نظارات شاموس
 Hornetaur Helm,タロスヘルム,Heaume Hornetaur,Elmo di Hornetaur,Hornetaur-Helm,Yelmo de Hornetaur,Elmo de Chifrotauro,Hełm z Hornetaura,Роготавровый шлем,타로스헬름,巨甲蟲頭盔,خوذة هورنتور
 Hornetaur Mail,タロスメイル,Cuirasse Hornetaur,Cotta di Hornetaur,Hornetaur-Panzerung,Cota de Hornetaur,Armadura de Chifrotauro,Zbroja z Hornetaura,Роготавровый доспех,타로스메일,巨甲蟲鎧甲,درع هورنتور
@@ -152,6 +152,16 @@ Kirin Jacket,キリンベスト,Veste Kirin,Pettino di Kirin,Kirin-Jacke,Chaquet
 Kirin Longarms,キリンアームロング,Bras-longs Kirin,Copribraccia di Kirin,Kirin-Armstulpen,Brazos de Kirin,Braços Longos de Kirin,Zarękawia z Kirina,Наручи кирина,키린롱암,麒麟長腕甲,درع ذراع كيرين الطويل
 Kirin Hoop,キリンフープ,Ceinture Kirin,Cerchio di Kirin,Kirin-Reifen,Aro de Kirin,Argola de Kirin,Obręcz z Kirina,Обод кирина,키린후프,麒麟腰環,حلقة كيرين
 Kirin Leg Guards,キリンレガース,Bottines Kirin,Paragambe di Kirin,Kirin-Beinschutz,Perneras de Kirin,Caneleiras de Kirin,Nogawice z Kirina,Поножи кирина,키린레그가드,麒麟護脛,واقي ساق كيرين
+Harvest Flor,ハーベストフロール,Récolte Flor,Flor del raccolto,Ernte-Flor,Flor de cosecha,Flor de Safra,Flor zbiorów,Цветок урожая,하베스트플로르,收穫頭飾,وردة الحصاد
+Harvest Tronco,ハーベストトロンコ,Récolte Tronco,Tronco del raccolto,Ernte-Tronco,Tronco de cosecha,Tronco de Safra,Tronco zbiorów,Ствол урожая,하베스트트롱코,收穫裝甲,زي جذع الحصاد
+Harvest Trama,ハーベストラーマ,Récolte Trama,Trama del raccolto,Ernte-Trama,Tramas de cosecha,Lamelas de Safra,Trama zbiorów,Пластинки урожая,하베스트라마,收穫手套,نسيج الحصاد
+Harvest Hoja,ハーベストオッハ,Récolte Hoja,Hoja del raccolto,Ernte-Hoja,Hoja de cosecha,Folha de Safra,Hoja zbiorów,Лист урожая,하베스트오하,收穫護裙,أوراق الحصاد
+Harvest Raiz,ハーベストライース,Récolte Raiz,Raiz del raccolto,Ernte-Raiz,Raíz de cosecha,Raiz de Safra,Raiz zbiorów,Корневище урожая,하베스트라이스,收穫護腿,جذور الحصاد
+Orion Cap,オリオンヘッド,Ushanka Orion,Copricapo di Orione,Orion-Mütze,Gorro Orión,Chapéu de Órion,Czapka Oriona,Колпак Ориона,오리온헤드,獵戶星頭飾,قبعة أوريون
+Orion Vest,オリオンベスト,Veste Orion,Pettino di Orione,Orion-Weste,Chaleco Orión,Veste de Órion,Kamizelka Oriona,Жилет Ориона,오리온베스트,獵戶星服飾,صديري أوريون
+Orion Vambraces,オリオンアーム,Moufles Orion,Parabraccia di Orione,Orion-Armschutz,Brazales Orión,Avambraços Órion,Zarękawia Oriona,Наручи Ориона,오리온암,獵戶星腕甲,درع ساعد أوريون
+Orion Coat,オリオンコート,Jupette Orion,Cappotto di Orione,Orion-Hüftschutz,Abrigo Orión,Cinturão Órion,Płaszcz Oriona,Плащ Ориона,오리온코트,獵戶星風衣,غطاء أوريون
+Orion Boots,オリオンブーツ,Pantalon Orion,Stivali di Orione,Orion-Stiefel,Botas Orión,Botas de Órion,Buty Oriona,Сапоги Ориона,오리온부츠,獵戶星靴,حذاء أوريون
 Blossom Headgear,ブロッサムヘッド,Coiffe Printemps,Elmo floreale,Blüten-Kopfschutz,Yelmo de flores,Elmo Florescer,Hełm kwiecia,Цветочный обруч,블로섬헤드,巴魯特頭飾,عتاد رأس الربيع
 Blossom Vest,ブロッサムベスト,Veste Printemps,Pettorina floreale,Blüten-Weste,Armadura de flores,Colete Florescer,Kamizela kwiecia,Цветочный жилет,블로섬베스트,巴魯特服飾,صديري الربيع
 Blossom Cuffs,ブロッサムカフス,Manches Printemps,Guanti floreali,Blüten-Manschetten,Guanteletes de flores,Mangas Florescer,Mankiety kwiecia,Цветочные манжеты,블로섬커프스,巴魯特手套,معصمي الربيع
@@ -217,16 +227,16 @@ King Beetle Thorax β,オウビートペットβ,Thorax Scarabée β,Torace dell
 King Beetle Brachia β,オウビートマーノβ,Brachia Scarabée β,Brachia dello scarabeo β,Königskäfer-Brachia β,Ristre rey escarabajo β,Braços de Besouro-rei β,Ramiona żuka król. β,Наручи корол. жука β,킹비트마노β,獨角仙護袖β,عضد الخنفساء الملك β
 King Beetle Elytra β,オウビートアンカβ,Élytre Scarabée β,Elitre dello scarabeo β,Königskäfer-Elytren β,Élitro rey escarabajo β,Élitros de Besouro-rei β,Okrywy żuka król. β,Пояс корол. жука β,킹비트앙카β,獨角仙護腰具β,غمد الخنفساء الملك β
 King Beetle Crura β,オウビートガンバβ,Crura Scarabée β,Crura dello scarabeo β,Königskäfer-Crura β,Patas rey escarabajo β,Crurais de Besouro-rei β,Nogi żuka królewskiego β,Поножи корол. жука β,킹비트감바β,獨角仙腳β,درع رِجل الخنفساء الملك β
-Butterfly Vertex α,パピメルテスタα,Vertex Papillon α,Vertex di farfalla α,Schmetterling-Vertex α,Vértice mariposa α,Vértice de Borboleta α,Wierzchołek motyla α,Головка бабочки α,파피메르테스타α,燕尾蝶護頭α,رأس الفراشة α
-Butterfly Thorax α,パピメルペットα,Thorax Papillon α,Torace di farfalla α,Schmetterling-Thorax α,Tórax de mariposa α,Tórax de Borboleta α,Tułów motyla α,Панцирь бабочки α,파피메르페트α,燕尾蝶上身α,صدر الفراشة α
-Butterfly Brachia α,パピメルマーノα,Brachia Papillon α,Brachia di farfalla α,Schmetterling-Brachia α,Ristre mariposa α,Braços de Borboleta α,Ramiona motyla α,Предплечье бабочки α,파피메르마노α,燕尾蝶護袖α,عضد الفراشة α
-Butterfly Elytra α,パピメルアンカα,Élytre Papillon α,Elitre di farfalla α,Schmetterling-Elytren α,Élitro de mariposa α,Élitros de Borboleta α,Okrywy motyla α,Надкрылье бабочки α,파피메르앙카α,燕尾蝶護腰具α,غمد الفراشة α
-Butterfly Crura α,パピメルガンバα,Crura Papillon α,Crura di farfalla α,Schmetterling-Crura α,Perneras mariposa α,Crurais de Borboleta α,Nogi motyla α,Лапки бабочки α,파피메르감바α,燕尾蝶腳α,درع رِجل الفراشة α
-Butterfly Vertex β,パピメルテスタβ,Vertex Papillon β,Vertex di farfalla β,Schmetterling-Vertex β,Vértice mariposa β,Vértice de Borboleta β,Wierzchołek motyla β,Головка бабочки β,파피메르테스타β,燕尾蝶護頭β,رأس الفراشة β
-Butterfly Thorax β,パピメルペットβ,Thorax Papillon β,Torace di farfalla β,Schmetterling-Thorax β,Tórax de mariposa β,Tórax de Borboleta β,Tułów motyla β,Панцирь бабочки β,파피메르페트β,燕尾蝶上身β,صدر الفراشة β
-Butterfly Brachia β,パピメルマーノβ,Brachia Papillon β,Brachia di farfalla β,Schmetterling-Brachia β,Ristre mariposa β,Braços de Borboleta β,Ramiona motyla β,Предплечье бабочки β,파피메르마노β,燕尾蝶護袖β,عضد الفراشة β
-Butterfly Elytra β,パピメルアンカβ,Élytre Papillon β,Elitre di farfalla β,Schmetterling-Elytren β,Élitro de mariposa β,Élitros de Borboleta β,Okrywy motyla β,Надкрылье бабочки β,파피메르앙카β,燕尾蝶護腰具β,غمد الفراشة β
-Butterfly Crura β,パピメルガンバβ,Crura Papillon β,Crura di farfalla β,Schmetterling-Crura β,Perneras mariposa β,Crurais de Borboleta β,Nogi motyla β,Лапки бабочки β,파피메르감바β,燕尾蝶腳β,درع رِجل الفراشة β
+Butterfly Vertex α,パピオムテスタα,Vertex Papillon α,Vertex di farfalla α,Schmetterling-Vertex α,Vértice mariposa α,Vértice Borboleta α,Wierzchołek motyla α,Голова бабочки α,파피옴테스타α,燕尾蝶男護頭α,رأس الفراشة α
+Butterfly Thorax α,パピオムペットα,Thorax Papillon α,Torace di farfalla α,Schmetterling-Thorax α,Tórax de mariposa α,Tórax de Borboleta α,Tułów motyla α,Панцирь бабочки α,파피옴페트α,燕尾蝶男上身α,صدر الفراشة α
+Butterfly Brachia α,パピオムマーノα,Brachia Papillon α,Brachia di farfalla α,Schmetterling-Brachia α,Ristre mariposa α,Braços de Borboleta α,Ramiona motyla α,Предплечье бабочки α,파피옴마노α,燕尾蝶男護袖α,عضد الفراشة α
+Butterfly Elytra α,パピオムアンカα,Élytre Papillon α,Elitre di farfalla α,Schmetterling-Elytra α,Élitro de mariposa α,Élitros de Borboleta α,Okrywy motyla α,Надкрылье бабочки α,파피옴앙카α,燕尾蝶男護腰具α,غمد الفراشة α
+Butterfly Crura α,パピオムガンバα,Crura Papillon α,Crura di farfalla α,Schmetterling-Crura α,Perneras mariposa α,Crurais de Borboleta α,Nogi motyla α,Лапы бабочки α,파피옴감바α,燕尾蝶男腳α,درع رِجل الفراشة α
+Butterfly Vertex β,パピオムテスタβ,Vertex Papillon β,Vertex di farfalla β,Schmetterling-Vertex β,Vértice mariposa β,Vértice Borboleta β,Wierzchołek motyla β,Голова бабочки β,파피옴테스타β,燕尾蝶男護頭β,رأس الفراشة β
+Butterfly Thorax β,パピオムペットβ,Thorax Papillon β,Torace di farfalla β,Schmetterling-Thorax β,Tórax de mariposa β,Tórax de Borboleta β,Tułów motyla β,Панцирь бабочки β,파피옴페트β,燕尾蝶男上身β,صدر الفراشة β
+Butterfly Brachia β,パピオムマーノβ,Brachia Papillon β,Brachia di farfalla β,Schmetterling-Brachia β,Ristre mariposa β,Braços de Borboleta β,Ramiona motyla β,Предплечье бабочки β,파피옴마노β,燕尾蝶男護袖β,عضد الفراشة β
+Butterfly Elytra β,パピオムアンカβ,Élytre Papillon β,Elitre di farfalla β,Schmetterling-Elytra β,Élitro de mariposa β,Élitros de Borboleta β,Okrywy motyla β,Надкрылье бабочки β,파피옴앙카β,燕尾蝶男護腰具β,غمد الفراشة β
+Butterfly Crura β,パピオムガンバβ,Crura Papillon β,Crura di farfalla β,Schmetterling-Crura β,Perneras mariposa β,Crurais de Borboleta β,Nogi motyla β,Лапы бабочки β,파피옴감바β,燕尾蝶男腳β,درع رِجل الفراشة β
 Vespoid Helm α,ランゴヘルムα,Calot Vespoid α,Elmo di Vespoid α,Vespoid-Helm α,Yelmo de Vespoid α,Elmo de Vespoidea α,Hełm z Vespoida α,Осиный шлем α,랑고헬름α,巨蜂頭盔α,خوذة فيسبويد α
 Vespoid Mail α,ランゴメイルα,Cotte Vespoid α,Cotta di Vespoid α,Vespoid-Panzerung α,Cota de Vespoid α,Armadura de Vespoidea α,Zbroja z Vespoida α,Осиный доспех α,랑고메일α,巨蜂鎧甲α,درع فيسبويد α
 Vespoid Vambraces α,ランゴアームα,Avant-bras Vespoid α,Parabraccia di Vespoid α,Vespoid-Armschienen α,Brazales Vespoid α,Avambraços Vespoidea α,Zarękawia z Vespoida α,Осиные наручи α,랑고암α,巨蜂腕甲α,درع ساعد فيسبويد α
@@ -667,11 +677,11 @@ Blossom Vest α,ブロッサムベストα,Veste Printemps α,Pettorina floreale
 Blossom Cuffs α,ブロッサムカフスα,Manches Printemps α,Guanti floreali α,Blüten-Manschetten α,Guanteletes de flores α,Mangas Florescer α,Mankiety kwiecia α,Цветочные манжеты α,블로섬커프스α,巴魯特手套α,معصمي الربيع α
 Blossom Coat α,ブロッサムコートα,Jupette Printemps α,Cappotto floreale α,Blüten-Hüftschutz α,Muslera de flores α,Jaqueta Florescer α,Płaszcz kwiecia α,Цветочная юбка α,블로섬코트α,巴魯特風衣α,غطاء درع الربيع α
 Blossom Boots α,ブロッサムブーツα,Bottes Printemps α,Stivali floreali α,Blüten-Stiefel α,Botas de flores α,Botas Florescer α,Buty kwiecia α,Цветочные сапоги α,블로섬부츠α,巴魯特靴α,حذاء الربيع α
-Kirin Horn γ,キリンホーンγ,,,,,,,,,,
-Kirin Jacket γ,キリンベストγ,,,,,,,,,,
-Kirin Longarms γ,キリンアームロングγ,,,,,,,,,,
-Kirin Hoop γ,キリンフープγ,,,,,,,,,,
-Kirin Leg Guards γ,キリンレガースγ,,,,,,,,,,
+Kirin Horn γ,キリンホーンγ,Corne Kirin γ,Corno di Kirin γ,Kirin-Horn γ,Cuerno de Kirin γ,Chifre de Kirin γ,Róg Kirina γ,Рог кирина γ,키린혼γ,麒麟角γ,قرن كيرين γ
+Kirin Jacket γ,キリンベストγ,Veste Kirin γ,Pettino di Kirin γ,Kirin-Jacke γ,Chaqueta de Kirin γ,Jaqueta de Kirin γ,Kubrak z Kirina γ,Куртка кирина γ,키린베스트γ,麒麟服飾γ,سترة كيرين γ
+Kirin Longarms γ,キリンアームロングγ,Bras-longs Kirin γ,Copribraccia di Kirin γ,Kirin-Armstulpen γ,Brazos de Kirin γ,Braços Longos de Kirin γ,Zarękawia z Kirina γ,Наручи кирина γ,키린롱암γ,麒麟長腕甲γ,درع ذراع كيرين الطويل γ
+Kirin Hoop γ,キリンフープγ,Ceinture Kirin γ,Cerchio di Kirin γ,Kirin-Reifen γ,Aro de Kirin γ,Argola de Kirin γ,Obręcz z Kirina γ,Обод кирина γ,키린후프γ,麒麟腰環γ,حلقة كيرين γ
+Kirin Leg Guards γ,キリンレガースγ,Bottines Kirin γ,Paragambe di Kirin γ,Kirin-Beinschutz γ,Perneras de Kirin γ,Caneleiras de Kirin γ,Nogawice z Kirina γ,Поножи кирина γ,키린레그가드γ,麒麟護脛γ,واقي ساق كيرين γ
 Dante's Hair α,ダンテウィッグα,Coiffure de Dante α,Capelli di Dante α,Dantes Haar α,Peluca de Dante α,Cabelo do Dante α,Włosy Dantego α,Волосы Данте α,단테 위그α,但丁假髮α,شعر دانتي α
 Dante's Coat α,ダンテコートα,Manteau de Dante α,Cappotto di Dante α,Dantes Mantel α,Gabardina de Dante α,Jaqueta do Dante α,Płaszcz Dantego α,Плащ Данте α,단테 코트α,但丁風衣α,معطف دانتي α
 Dante's Gloves α,ダンテグローブα,Gants de Dante α,Guanti di Dante α,Dantes Handschuhe α,Guantes de Dante α,Luvas do Dante α,Rękawice Dantego α,Перчатки Данте α,단테 글러브α,但丁手套α,قفازات دانتي α
@@ -687,6 +697,26 @@ Empress Mail β,エンプレスメイルβ,Armure Imperatrix β,Cotta dell'imper
 Empress Vambraces β,エンプレスアームβ,Gants Imperatrix β,Parabraccia dell'imperatrice β,Kaiserin-Armschienen β,Brazales de emperatriz β,Avambraços Imperatriz β,Zarękawia Luny β,Наручи императрицы β,엠프리스암β,皇后腕甲β,درع ساعد الإمبراطورة β
 Empress Coil β,エンプレスコイルβ,Ceinture Imperatrix β,Falda dell'imperatrice β,Kaiserin-Hüftring β,Faja de emperatriz β,Cinturão de Imperatriz β,Pas Luny β,Пояс императрицы β,엠프리스코일β,皇后腰甲β,لفيفة الإمبراطورة β
 Empress Greaves β,エンプレスグリーヴβ,Cuissards Imperatrix β,Schinieri dell'imperatrice β,Kaiserin-Beinschienen β,Grebas de emperatriz β,Grevas da Imperatriz β,Nagolenice Luny β,Поножи императрицы β,엠프리스그리브β,皇后護腿β,درع ساق الإمبراطورة β
+Harvest Flor α,ハーベストフロールα,Récolte Flor α,Flor del raccolto α,Ernte-Flor α,Flor de cosecha α,Flor de Safra α,Flor zbiorów α,Цветок урожая α,하베스트플로르α,收穫頭飾α,وردة الحصاد α
+Harvest Tronco α,ハーベストトロンコα,Récolte Tronco α,Tronco del raccolto α,Ernte-Tronco α,Tronco de cosecha α,Tronco de Safra α,Tronco zbiorów α,Ствол урожая α,하베스트트롱코α,收穫裝甲α,زي جذع الحصاد α
+Harvest Trama α,ハーベストラーマα,Récolte Trama α,Trama del raccolto α,Ernte-Trama α,Tramas de cosecha α,Lamelas de Safra α,Trama zbiorów α,Пластинки урожая α,하베스트라마α,收穫手套α,نسيج الحصاد α
+Harvest Hoja α,ハーベストオッハα,Récolte Hoja α,Hoja del raccolto α,Ernte-Hoja α,Hoja de cosecha α,Folha de Safra α,Hoja zbiorów α,Лист урожая α,하베스트오하α,收穫護裙α,أوراق الحصاد α
+Harvest Raiz α,ハーベストライースα,Récolte Raiz α,Raiz del raccolto α,Ernte-Raiz α,Raíz de cosecha α,Raiz de Safra α,Raiz zbiorów α,Корневище урожая α,하베스트라이스α,收穫護腿α,جذور الحصاد α
+Orion Cap α,オリオンヘッドα,Ushanka Orion α,Copricapo di Orione α,Orion-Mütze α,Gorro Orión α,Chapéu de Órion α,Czapka Oriona α,Шапка Ориона α,오리온헤드α,獵戶星頭飾α,قبعة أوريون α
+Orion Vest α,オリオンベストα,Veste Orion α,Pettino di Orione α,Orion-Weste α,Chaleco Orión α,Veste de Órion α,Kamizelka Oriona α,Жилет Ориона α,오리온베스트α,獵戶星服飾α,صديري أوريون α
+Orion Vambraces α,オリオンアームα,Moufles Orion α,Parabraccia di Orione α,Orion-Armschutz α,Brazales Orión α,Avambraços Órion α,Zarękawia Oriona α,Наручи Ориона α,오리온암α,獵戶星腕甲α,درع ساعد أوريون α
+Orion Coat α,オリオンコートα,Jupette Orion α,Cappotto di Orione α,Orion-Hüftschutz α,Abrigo Orión α,Cinturão Órion α,Płaszcz Oriona α,Плащ Ориона α,오리온코트α,獵戶星風衣α,غطاء أوريون α
+Orion Boots α,オリオンブーツα,Pantalon Orion α,Stivali di Orione α,Orion-Stiefel α,Botas Orión α,Botas de Órion α,Buty Oriona α,Сапоги Ориона α,오리온부츠α,獵戶星靴α,حذاء أوريون α
+Vaal Hazak Helm γ,ウルズヘルムγ,Heaume Vaal Hazak γ,Elmo di Vaal Hazak γ,Vaal-Hazak-Helm γ,Yelmo de Vaal Hazak γ,Elmo de Vaal Hazak γ,Hełm z Vaal Hazaka γ,Ваал-хазаковый шлем γ,우르즈헬름γ,烏爾德頭盔γ,خوذة فال هازاك γ
+Vaal Hazak Mail γ,ウルズメイルγ,Cotte Vaal Hazak γ,Cotta di Vaal Hazak γ,Vaal-Hazak-Panzerung γ,Cota de Vaal Hazak γ,Arm. de Vaal Hazak γ,Zbroja z Vaal Hazaka γ,Ваал-хазаковый доспех γ,우르즈메일γ,烏爾德鎧甲γ,درع فال هازاك γ
+Vaal Hazak Braces γ,ウルズアームγ,Avant-bras Vaal Hazak γ,Parabraccia di Vaal Hazak γ,Vaal-Hazak-Armschienen γ,Brazales Vaal Hazak γ,Braçad. Vaal Hazak γ,Rękawy z Vaal Hazaka γ,Ваал-хазаковые наручи γ,우르즈암γ,烏爾德腕甲γ,دعامات فال هازاك γ
+Vaal Hazak Coil γ,ウルズコイルγ,Jupe Vaal Hazak γ,Spira di Vaal Hazak γ,Vaal-Hazak-Hüftring γ,Faja de Vaal Hazak γ,Cinturão de Vaal Hazak γ,Pas z Vaal Hazaka γ,Ваал-хазаковый пояс γ,우르즈코일γ,烏爾德腰甲γ,لفيفة فال هازاك γ
+Vaal Hazak Greaves γ,ウルズグリーヴγ,Cuissardes Vaal Hazak γ,Schinieri di Vaal Hazak γ,VaalHazak-Beinschienen γ,Grebas de Vaal Hazak γ,Grevas de Vaal Hazak γ,Nagol. z Vaal Hazaka γ,Ваал-хазаковые поножи γ,우르즈그리브γ,烏爾德護腿γ,درع ساق فال هازاك γ
+Drachen Armet α,ドラケンアーメットα,Armet Drachen α,Celata drachen α,Drachenreiter-Armet α,Almete Drachen α,Elmo Drachen α,Dragoński armet α,Шлем дракена α,용기사 아메트α,騰龍戰盔α,درع رأس دراكين α
+Drachen Mail α,ドラケンメイルα,Armure de mailles Drachen α,Cotta drachen α,Drachenreiter-Hemd α,Cota Drachen α,Cota Malha Drachen α,Dragońska zbroja α,Доспех дракена α,용기사 메일α,騰龍戰鎧α,درع جسد دراكين α
+Drachen Vambraces α,ドラケンアームα,Manopoles Drachen α,Parabraccia drachen α,Drachenreiter-Armschienen α,Brazales Drachen α,Avambraços Drachen α,Dragońskie zaręk. α,Наручи дракена α,용기사 암α,騰龍腕甲α,درع ساعد دراكين α
+Drachen Coil α,ドラケンコイルα,Brague Drachen α,Spira drachen α,Drachenreiter-Hüftring α,Faja Drachen α,Cinturão Drachen α,Dragoński pas α,Пояс дракена α,용기사 코일α,騰龍腰甲α,لفيفة دراكين α
+Drachen Greaves α,ドラケングリーヴα,Jambards Drachen α,Gambali drachen α,Drachenreiter-Beinschutz α,Grebas Drachen α,Grevas Drachen α,Dragońskie nogawice α,Поножи дракена α,용기사 그리브α,騰龍護腿α,درع ساق دراكين α
 Sealed Eyepatch α,封印の眼帯α,Cache-œil interdit α,Benda nera α,Dichte Augenklappe α,Parche de ojo α,Tapa-olho Selado α,Zapieczętowana opaska α,Повязка с печатью α,봉인의 안대α,封印的眼罩α,رقعة عين مذهلة α
 Shadow Shades α,シャドウアイα,Lunettes teintées α,Occhiali del buio α,Schatten-Sonnenbrille α,Gafas oscuras α,Óculos Escuros Sombrios α,Okulary cienia α,Теневые очки α,섀도우아이α,墨鏡α,ألوان ظلال α
 Kulu-Ya-Ku Head α,クルルフェイクα,Tête Kulu-Ya-Ku α,Testa di Kulu-Ya-Ku α,Kulu-Ya-Ku-Kopf α,Cabeza Kulu-Ya-Ku α,Elmo Kulu-Ya-Ku α,Głowa Kulu-Ya-Ku α,Голова кулу-йа-ку α,쿠루루페이크α,扒手龍頭套α,رأس كولو-يا-كو α

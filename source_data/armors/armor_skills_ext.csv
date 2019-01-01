@@ -71,11 +71,11 @@ King Beetle Thorax,Quick Sheath,1,,
 King Beetle Brachia,Leap of Faith,1,,
 King Beetle Elytra,Honey Hunter,1,,
 King Beetle Crura,Forager's Luck,1,,
-Butterfly Vertex,Evade Window,1,,
-Butterfly Thorax,Quick Sheath,1,,
-Butterfly Brachia,Leap of Faith,1,,
-Butterfly Elytra,Honey Hunter,1,,
-Butterfly Crura,Forager's Luck,1,,
+Butterfly Vertex,Stun Resistance,1,,
+Butterfly Thorax,Health Boost,1,,
+Butterfly Brachia,Critical Eye,1,,
+Butterfly Elytra,Defense Boost,1,,
+Butterfly Crura,Marathon Runner,1,,
 Shamos Goggles,Detector,1,,
 Hornetaur Helm,Dungmaster,1,,
 Hornetaur Mail,Effluvial Expert,1,,
@@ -152,6 +152,16 @@ Kirin Jacket,Divine Blessing,1,,
 Kirin Longarms,Blight Resistance,1,,
 Kirin Hoop,Thunder Attack,1,,
 Kirin Leg Guards,Thunder Resistance,1,,
+Harvest Flor,Focus,1,,
+Harvest Tronco,Tremor Resistance,1,,
+Harvest Trama,Resentment,1,,
+Harvest Hoja,Constitution,1,,
+Harvest Raiz,Mushroomancer,1,,
+Orion Cap,Recovery Up,1,,
+Orion Vest,Flinch Free,1,,
+Orion Vambraces,Windproof,1,,
+Orion Coat,Health Boost,1,,
+Orion Boots,Heroics,1,,
 Blossom Headgear,Honey Hunter,1,,
 Blossom Vest,Quick Sheath,1,,
 Blossom Cuffs,Paralysis Resistance,1,,
@@ -180,8 +190,8 @@ Chainmail Trousers β,,,,
 Hunter's Headgear α,Scoutfly Range Up,1,Scholar,1
 Hunter's Mail α,Slinger Capacity,2,,
 Hunter's Vambraces α,Stealth,2,,
-Hunter's Coil α,Stealth,1,Master Gatherer,1
-Hunter's Greaves α,Slinger Capacity,1,Scenthound,1
+Hunter's Coil α,Master Gatherer,1,Stealth,1
+Hunter's Greaves α,Scenthound,1,Slinger Capacity,1
 Hunter's Headgear β,Scoutfly Range Up,1,,
 Hunter's Mail β,Slinger Capacity,1,,
 Hunter's Vambraces β,Stealth,1,,
@@ -217,16 +227,16 @@ King Beetle Thorax β,Quick Sheath,2,,
 King Beetle Brachia β,Botanist,2,,
 King Beetle Elytra β,Honey Hunter,1,,
 King Beetle Crura β,Forager's Luck,1,,
-Butterfly Vertex α,Botanist,1,Evade Window,2
-Butterfly Thorax α,Botanist,1,Quick Sheath,2
-Butterfly Brachia α,Botanist,2,Leap of Faith,1
-Butterfly Elytra α,Honey Hunter,1,Quick Sheath,1
-Butterfly Crura α,Forager's Luck,1,Evade Window,1
-Butterfly Vertex β,Evade Window,2,,
-Butterfly Thorax β,Quick Sheath,2,,
-Butterfly Brachia β,Botanist,2,,
-Butterfly Elytra β,Honey Hunter,1,,
-Butterfly Crura β,Forager's Luck,1,,
+Butterfly Vertex α,Stun Resistance,2,Defense Boost,1
+Butterfly Thorax α,Health Boost,2,Stun Resistance,1
+Butterfly Brachia α,Critical Eye,2,Health Boost,1
+Butterfly Elytra α,Defense Boost,2,Marathon Runner,1
+Butterfly Crura α,Marathon Runner,2,Critical Eye,1
+Butterfly Vertex β,Stun Resistance,2,,
+Butterfly Thorax β,Health Boost,2,,
+Butterfly Brachia β,Critical Eye,2,,
+Butterfly Elytra β,Defense Boost,2,,
+Butterfly Crura β,Marathon Runner,2,,
 Vespoid Helm α,Quick Sheath,1,Paralysis Attack,1
 Vespoid Mail α,Windproof,2,,
 Vespoid Vambraces α,Paralysis Attack,2,,
@@ -687,6 +697,26 @@ Empress Mail β,Peak Performance,2,,
 Empress Vambraces β,Wide-Range,2,,
 Empress Coil β,Tool Specialist,2,,
 Empress Greaves β,Health Boost,2,,
+Harvest Flor α,Focus,1,,
+Harvest Tronco α,Tremor Resistance,1,,
+Harvest Trama α,Resentment,1,,
+Harvest Hoja α,Constitution,1,,
+Harvest Raiz α,Mushroomancer,1,,
+Orion Cap α,Recovery Up,1,,
+Orion Vest α,Flinch Free,1,,
+Orion Vambraces α,Windproof,1,,
+Orion Coat α,Health Boost,1,,
+Orion Boots α,Heroics,1,,
+Vaal Hazak Helm γ,Recovery Up,2,Dragon Attack,1
+Vaal Hazak Mail γ,Peak Performance,1,Recovery Up,1
+Vaal Hazak Braces γ,Dragon Attack,3,,
+Vaal Hazak Coil γ,Recovery Speed,2,Dragon Attack,1
+Vaal Hazak Greaves γ,Peak Performance,1,Recovery Speed,1
+Drachen Armet α,Critical Boost,1,Airborne,1
+Drachen Mail α,Critical Eye,2,Critical Boost,1
+Drachen Vambraces α,Critical Eye,2,Attack Boost,1
+Drachen Coil α,Critical Eye,2,Power Prolonger,1
+Drachen Greaves α,Attack Boost,2,Critical Boost,1
 Sealed Eyepatch α,Fire Resistance,1,,
 Shadow Shades α,Stun Resistance,1,,
 Kulu-Ya-Ku Head α,Pro Transporter,1,,

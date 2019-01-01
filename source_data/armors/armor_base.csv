@@ -46,11 +46,11 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 45,Pukei Vambraces,2,arms,both,0,0,0,12,44,70,0,3,-3,0,1
 46,Pukei Coil,2,waist,both,0,0,0,12,44,70,0,3,-3,0,1
 47,Pukei Greaves,2,legs,both,0,0,0,12,44,70,0,3,-3,0,1
-48,Barroth Helm,2,head,both,0,0,0,14,38,72,-3,-1,3,-1,0
-49,Barroth Mail,2,chest,both,0,0,0,14,38,72,-3,-1,3,-1,0
-50,Barroth Vambraces,2,arms,both,0,0,0,14,38,72,-3,-1,3,-1,0
-51,Barroth Coil,2,waist,both,0,0,0,14,38,72,-3,-1,3,-1,0
-52,Barroth Greaves,2,legs,both,0,0,0,14,38,72,-3,-1,3,-1,0
+48,Barroth Helm,2,head,both,0,0,0,14,46,72,-3,-1,3,-1,0
+49,Barroth Mail,2,chest,both,0,0,0,14,46,72,-3,-1,3,-1,0
+50,Barroth Vambraces,2,arms,both,0,0,0,14,46,72,-3,-1,3,-1,0
+51,Barroth Coil,2,waist,both,0,0,0,14,46,72,-3,-1,3,-1,0
+52,Barroth Greaves,2,legs,both,0,0,0,14,46,72,-3,-1,3,-1,0
 53,Jyura Helm,2,head,both,0,0,0,14,46,72,-1,2,-3,0,0
 54,Jyura Mail,2,chest,both,0,0,0,14,46,72,-1,2,-3,0,0
 55,Jyura Vambraces,2,arms,both,0,0,0,14,46,72,-1,2,-3,0,0
@@ -71,11 +71,11 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 70,King Beetle Brachia,3,arms,male,0,0,0,22,50,74,-1,-1,2,0,2
 71,King Beetle Elytra,3,waist,male,0,0,0,22,50,74,-1,-1,2,0,2
 72,King Beetle Crura,3,legs,male,0,0,0,22,50,74,-1,-1,2,0,2
-73,Butterfly Vertex,3,head,female,0,0,0,22,50,74,-1,-1,2,0,2
-74,Butterfly Thorax,3,chest,female,0,0,0,22,50,74,-1,-1,2,0,2
-75,Butterfly Brachia,3,arms,female,0,0,0,22,50,74,-1,-1,2,0,2
-76,Butterfly Elytra,3,waist,female,0,0,0,22,50,74,-1,-1,2,0,2
-77,Butterfly Crura,3,legs,female,0,0,0,22,50,74,-1,-1,2,0,2
+73,Butterfly Vertex,3,head,male,0,0,0,22,50,74,-1,-1,2,0,2
+74,Butterfly Thorax,3,chest,male,0,0,0,22,50,74,-1,-1,2,0,2
+75,Butterfly Brachia,3,arms,male,0,0,0,22,50,74,-1,-1,2,0,2
+76,Butterfly Elytra,3,waist,male,0,0,0,22,50,74,-1,-1,2,0,2
+77,Butterfly Crura,3,legs,male,0,0,0,22,50,74,-1,-1,2,0,2
 78,Shamos Goggles,3,head,both,0,0,0,22,50,74,2,2,0,-3,0
 79,Hornetaur Helm,3,head,both,0,0,0,18,46,70,-1,-1,0,0,2
 80,Hornetaur Mail,3,chest,both,0,0,0,18,46,70,-1,-1,0,0,2
@@ -152,6 +152,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 151,Kirin Longarms,4,arms,both,0,0,0,34,58,78,-3,-2,4,-2,2
 152,Kirin Hoop,4,waist,both,0,0,0,34,58,78,-3,-2,4,-2,2
 153,Kirin Leg Guards,4,legs,both,0,0,0,34,58,78,-3,-2,4,-2,2
+693,Harvest Flor,3,head,both,0,0,0,26,54,78,4,1,1,1,1
+694,Harvest Tronco,3,chest,both,0,0,0,26,54,78,4,1,1,1,1
+695,Harvest Trama,3,arms,both,0,0,0,26,54,78,4,1,1,1,1
+696,Harvest Hoja,3,waist,both,0,0,0,26,54,78,4,1,1,1,1
+697,Harvest Raiz,3,legs,both,0,0,0,26,54,78,4,1,1,1,1
+698,Orion Cap,4,head,both,0,0,0,30,54,74,1,1,1,4,1
+699,Orion Vest,4,chest,both,0,0,0,30,54,74,1,1,1,4,1
+700,Orion Vambraces,4,arms,both,0,0,0,30,54,74,1,1,1,4,1
+701,Orion Coat,4,waist,both,0,0,0,30,54,74,1,1,1,4,1
+702,Orion Boots,4,legs,both,0,0,0,30,54,74,1,1,1,4,1
 154,Blossom Headgear,3,head,both,0,0,0,18,46,70,1,1,4,1,1
 155,Blossom Vest,3,chest,both,0,0,0,18,46,70,1,1,4,1,1
 156,Blossom Cuffs,3,arms,both,0,0,0,18,46,70,1,1,4,1,1
@@ -217,16 +227,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 216,King Beetle Brachia β,5,arms,male,2,1,0,42,64,80,-1,-1,2,0,2
 217,King Beetle Elytra β,5,waist,male,2,1,0,42,64,80,-1,-1,2,0,2
 218,King Beetle Crura β,5,legs,male,2,1,0,42,64,80,-1,-1,2,0,2
-219,Butterfly Vertex α,5,head,female,0,0,0,42,64,80,-1,-1,2,0,2
-220,Butterfly Thorax α,5,chest,female,0,0,0,42,64,80,-1,-1,2,0,2
-221,Butterfly Brachia α,5,arms,female,0,0,0,42,64,80,-1,-1,2,0,2
-222,Butterfly Elytra α,5,waist,female,0,0,0,42,64,80,-1,-1,2,0,2
-223,Butterfly Crura α,5,legs,female,0,0,0,42,64,80,-1,-1,2,0,2
-224,Butterfly Vertex β,5,head,female,1,0,0,42,64,80,-1,-1,2,0,2
-225,Butterfly Thorax β,5,chest,female,1,0,0,42,64,80,-1,-1,2,0,2
-226,Butterfly Brachia β,5,arms,female,2,1,0,42,64,80,-1,-1,2,0,2
-227,Butterfly Elytra β,5,waist,female,2,1,0,42,64,80,-1,-1,2,0,2
-228,Butterfly Crura β,5,legs,female,2,1,0,42,64,80,-1,-1,2,0,2
+219,Butterfly Vertex α,5,head,male,1,0,0,42,64,80,-1,-1,2,0,2
+220,Butterfly Thorax α,5,chest,male,0,0,0,42,64,80,-1,-1,2,0,2
+221,Butterfly Brachia α,5,arms,male,0,0,0,42,64,80,-1,-1,2,0,2
+222,Butterfly Elytra α,5,waist,male,1,0,0,42,64,80,-1,-1,2,0,2
+223,Butterfly Crura α,5,legs,male,0,0,0,42,64,80,-1,-1,2,0,2
+224,Butterfly Vertex β,5,head,male,2,0,0,42,64,80,-1,-1,2,0,2
+225,Butterfly Thorax β,5,chest,male,1,0,0,42,64,80,-1,-1,2,0,2
+226,Butterfly Brachia β,5,arms,male,1,0,0,42,64,80,-1,-1,2,0,2
+227,Butterfly Elytra β,5,waist,male,3,0,0,42,64,80,-1,-1,2,0,2
+228,Butterfly Crura β,5,legs,male,1,0,0,42,64,80,-1,-1,2,0,2
 229,Vespoid Helm α,5,head,both,0,0,0,38,60,76,-2,1,1,1,2
 230,Vespoid Mail α,5,chest,both,0,0,0,38,60,76,-2,1,1,1,2
 231,Vespoid Vambraces α,5,arms,both,0,0,0,38,60,76,-2,1,1,1,2
@@ -546,7 +556,7 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 545,Dober Coil α,7,waist,both,2,0,0,60,72,86,-2,0,-1,-1,4
 546,Dober Greaves α,7,legs,both,0,0,0,60,72,86,-2,0,-1,-1,4
 547,Dober Helm β,7,head,both,1,0,0,60,72,86,-2,0,-1,-1,4
-548,Dober Mail β,7,chest,both,2,0,0,60,72,86,-2,0,-1,-1,4
+548,Dober Mail β,7,chest,both,3,0,0,60,72,86,-2,0,-1,-1,4
 549,Dober Vambraces β,7,arms,both,1,1,0,60,72,86,-2,0,-1,-1,4
 550,Dober Coil β,7,waist,both,3,0,0,60,72,86,-2,0,-1,-1,4
 551,Dober Greaves β,7,legs,both,1,0,0,60,72,86,-2,0,-1,-1,4
@@ -614,7 +624,7 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 613,Xeno'jiiva Headgear α,8,head,both,1,0,0,72,78,92,-3,2,2,2,-4
 614,Xeno'jiiva Hide α,8,chest,both,1,0,0,72,78,92,-3,2,2,2,-4
 615,Xeno'jiiva Claws α,8,arms,both,1,0,0,72,78,92,-3,2,2,2,-4
-616,Xeno'jiiva Spine α,8,waist,both,3,0,0,72,78,92,-3,2,2,2,-4
+616,Xeno'jiiva Spine α,8,waist,both,2,0,0,72,78,92,-3,2,2,2,-4
 617,Xeno'jiiva Spurs α,8,legs,both,1,0,0,72,78,92,-3,2,2,2,-4
 618,Xeno'jiiva Headgear β,8,head,both,2,0,0,72,78,92,-3,2,2,2,-4
 619,Xeno'jiiva Hide β,8,chest,both,1,1,0,72,78,92,-3,2,2,2,-4
@@ -677,7 +687,7 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 676,Dante's Gloves α,8,arms,both,3,0,0,64,70,84,3,-3,3,-3,3
 677,Dante's Belt α,8,waist,both,3,0,0,64,70,84,3,-3,3,-3,3
 678,Dante's Leather Boots α,8,legs,both,1,1,0,64,70,84,3,-3,3,-3,3
-679,Empress Crown α,8,head,both,3,0,0,70,76,90,3,1,1,-3,-2
+679,Empress Crown α,8,head,both,3,1,0,70,76,90,3,1,1,-3,-2
 680,Empress Mail α,8,chest,both,1,1,0,70,76,90,3,1,1,-3,-2
 681,Empress Vambraces α,8,arms,both,3,0,0,70,76,90,3,1,1,-3,-2
 682,Empress Coil α,8,waist,both,2,1,0,70,76,90,3,1,1,-3,-2
@@ -687,6 +697,26 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 686,Empress Vambraces β,8,arms,both,3,2,0,70,76,90,3,1,1,-3,-2
 687,Empress Coil β,8,waist,both,2,2,0,70,76,90,3,1,1,-3,-2
 688,Empress Greaves β,8,legs,both,2,2,0,70,76,90,3,1,1,-3,-2
+703,Harvest Flor α,6,head,both,2,1,0,52,72,84,4,1,1,1,1
+704,Harvest Tronco α,6,chest,both,2,1,0,52,72,84,4,1,1,1,1
+705,Harvest Trama α,6,arms,both,2,1,0,52,72,84,4,1,1,1,1
+706,Harvest Hoja α,6,waist,both,2,1,0,52,72,84,4,1,1,1,1
+707,Harvest Raiz α,6,legs,both,2,1,0,52,72,84,4,1,1,1,1
+708,Orion Cap α,6,head,both,3,1,0,58,78,90,1,1,1,4,1
+709,Orion Vest α,6,chest,both,3,0,0,58,78,90,1,1,1,4,1
+710,Orion Vambraces α,6,arms,both,3,1,0,58,78,90,1,1,1,4,1
+711,Orion Coat α,6,waist,both,3,1,0,58,78,90,1,1,1,4,1
+712,Orion Boots α,6,legs,both,3,1,0,58,78,90,1,1,1,4,1
+713,Vaal Hazak Helm γ,8,head,both,3,0,0,72,78,92,-4,4,1,-1,-3
+714,Vaal Hazak Mail γ,8,chest,both,3,0,0,72,78,92,-4,4,1,-1,-3
+715,Vaal Hazak Braces γ,8,arms,both,3,2,0,72,78,92,-4,4,1,-1,-3
+716,Vaal Hazak Coil γ,8,waist,both,2,1,1,72,78,92,-4,4,1,-1,-3
+717,Vaal Hazak Greaves γ,8,legs,both,3,1,0,72,78,92,-4,4,1,-1,-3
+718,Drachen Armet α,8,head,both,3,1,0,72,78,92,-2,-2,3,-2,4
+719,Drachen Mail α,8,chest,both,3,0,0,72,78,92,-2,-2,3,-2,4
+720,Drachen Vambraces α,8,arms,both,2,2,0,72,78,92,-2,-2,3,-2,4
+721,Drachen Coil α,8,waist,both,3,0,0,72,78,92,-2,-2,3,-2,4
+722,Drachen Greaves α,8,legs,both,2,0,0,72,78,92,-2,-2,3,-2,4
 689,Sealed Eyepatch α,5,head,both,2,1,0,46,68,84,3,2,0,2,0
 690,Shadow Shades α,5,head,both,1,1,1,46,68,84,4,0,4,2,0
 691,Kulu-Ya-Ku Head α,5,head,both,3,1,0,46,68,84,2,0,2,3,2
