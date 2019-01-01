@@ -1,4 +1,5 @@
 import collections
+import collections.abc
 from . import typecheck
 
 def ensure(field, error_message):
@@ -108,3 +109,47 @@ def ungroup_fields(obj, groups=[]):
             result[f"{key}_{subkey}"] = subvalue
 
     return result
+
+
+class OrderedSet(collections.abc.MutableSet):
+    "A set that maintains insertion order"
+
+    def __init__(self):
+        # use a dict to hold data. 
+        # In python 2.6 and up, dicts maintain insertion order
+        self._data = {}
+
+    def add(self, item):
+        if item not in self:
+            self._data[item] = 1
+
+    def discard(self, item):
+        if item in self:
+            del self._data[item]
+
+    def __contains__(self, item):
+        return item in self._data
+
+    def __iter__(self):
+        return self._data.keys().__iter__()
+
+    def __len__(self):
+        return len(self._data)
+
+class bidict(dict):
+    """A dictionary that behaves like a normal one, 
+    with an additional reverse() method that can be used for opposite associations
+    """
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._reverse_map = {}
+
+    def __setitem__(self, key, value):
+        super().__setitem__(key, value)
+        self._reverse_map[value] = key
+
+    def reverse(self):
+        return self._reverse_map
+
+    def __delitem__(self, key):
+        self._reverse_map[self[key]]

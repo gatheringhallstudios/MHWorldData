@@ -1,7 +1,7 @@
 import click
 import sys
 
-from mhdata.merge import mhwdb
+from mhdata.merge import mhwdb, binary
 
 # todo: organize
 
@@ -13,11 +13,23 @@ if sys.version_info < (3,6):
 def merge():
     "Commands to automatically merge data with external sources."
 
-@merge.command()
+@merge.group(name="mhwdb")
+def mhwdb_cmd():
+    "Merges using mhwdb"
+
+@merge.group(name="binary")
+def binary_cmd():
+    "Merge using ingame binaries"
+
+@mhwdb_cmd.command()
 def weapons():
     "Merges weapon data with results from LartTyler's MHWDB API"
     mhwdb.merge_weapons()
 
+@binary_cmd.command()
+def update():
+    "Performs an update TODO: COMPLETE"
+    binary.update_armor()
 
 if __name__ == '__main__':
     merge()

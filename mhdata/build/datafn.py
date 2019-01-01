@@ -33,6 +33,12 @@ def iter_skill_points(obj):
 
         yield (name, points)
 
+def iter_armorset_pieces(armorset):
+    "Iterates over the armor pieces of a set, returning (part, name) tuples"
+    for part in cfg.armor_parts:
+        if not armorset[part]:
+            continue
+        yield (part, armorset[part])
 
 def iter_armor_recipe(armor):
     "Iterates over the items in an armor recipe, returning (name, qty) tuples"
