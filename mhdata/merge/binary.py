@@ -72,6 +72,19 @@ weapon_types_gun = {
     'bow': 'bow'
 }
 
+elements = [
+    "",
+    "Fire",
+    "Water",
+    "Ice",
+    "Thunder",
+    "Dragon",
+    "Poison",
+    "Paralysis",
+    "Sleep",
+    "Blast"
+]
+
 class Sharpness:
     "Object used to encapsulate sharpness data"
     def __init__(self, red=0, orange=0, yellow=0, green=0, blue=0, white=0, purple=0):
@@ -312,7 +325,8 @@ def update_weapons():
     print("Loaded sharpness data")
 
     # Internal helper to DRY up melee/gun weapons
-    def bind_basic_weapon_data(existing_entry, binary):
+    def bind_basic_weapon_data(weapon_type, existing_entry, binary):
+        existing_entry['weapon_type'] = weapon_type
         existing_entry['rarity'] = binary.rarity + 1
         existing_entry['attack'] = binary.raw_damage * multiplier
         existing_entry['affinity'] = binary.affinity
@@ -321,6 +335,21 @@ def update_weapons():
         existing_entry['slot_2'] = binary.gem_slot2_lvl
         existing_entry['slot_3'] = binary.gem_slot3_lvl
 
+        # Bind element data. Dual element ones are mapped strangely, so we skip them
+        if existing_entry.name('en') in ["Twin Nails", "Fire and Ice"]:
+            print(f"Skipping {existing_entry.name('en')} element data")
+        else:
+            hidden = binary.hidden_element_id != 0
+            element_id = binary.hidden_element_id if hidden else binary.element_id
+            element_atk = binary.hidden_element_damage if hidden else binary.element_damage
+
+            existing_entry['element_hidden'] = hidden
+            existing_entry['element1'] = elements[element_id]
+            existing_entry['element1_attack'] = element_atk * 10 if element_atk else None
+            existing_entry['element2'] = None
+            existing_entry['element2_attack'] = None
+
+    # Internal helper to bind only sharpness data (melee only)
     def bind_weapon_sharpness_info(existing_entry, binary: wp_dat.WpDatEntry):
         sharpness_binary = sharpness_data[binary.kire_id]
         sharpness_modifier = -250 + (binary.handicraft*50)
@@ -349,10 +378,8 @@ def update_weapons():
 
         # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
         weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat").entries
-        print(f"Loaded {weapon_type} binary data")
-
         weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
-        print(f"Loaded {weapon_type} text data")
+        print(f"Loaded {weapon_type} binary and text data")
 
         multiplier = cfg.weapon_multiplier[weapon_type]
 
@@ -364,7 +391,8 @@ def update_weapons():
             if not existing_entry:
                 continue
 
-            bind_basic_weapon_data(existing_entry, binary)
+            existing_entry['name'] = name
+            bind_basic_weapon_data(weapon_type, existing_entry, binary)
             bind_weapon_sharpness_info(existing_entry, binary)
 
     # Process ranged weapons. These use a different schema type and different post processing
@@ -372,11 +400,8 @@ def update_weapons():
         print(f"Processing {weapon_type} ({binary_weapon_type})")
 
         weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
-        weapon_binaries.sort(key=lambda b: b.tree_id * 1000 + b.order)
-        print(f"Loaded {weapon_type} binary data")
-
         weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
-        print(f"Loaded {weapon_type} text data")
+        print(f"Loaded {weapon_type} binary and text data")
         
         multiplier = cfg.weapon_multiplier[weapon_type]
 
@@ -388,7 +413,8 @@ def update_weapons():
             if not existing_entry:
                 continue
             
-            bind_basic_weapon_data(existing_entry, binary)
+            existing_entry['name'] = name
+            bind_basic_weapon_data(weapon_type, existing_entry, binary)
 
     writer.save_base_map_csv(
         "weapons/weapon_base.csv",

@@ -169,8 +169,8 @@ Imperial Shimmer,帝王刀【陽炎】,Sabre impérial II,Scintilla imperiale,Ka
 Xeno Cypher,ゼノ＝サイファ,Xeno Cypher,Saifa Xeno,Xeno-Cypher,Xeno Cypher,Cypher de Xeno,Xeno Szyfr,Загадка ксено'джиивы,제노사이퍼,冥燈龍太刀,شيفرة زينو
 Supremacy Blade,天下無双刀,Lames de la suprématie,Lama suprema,Vormachtklinge,Hoja Suprema,Lâmina da Supremacia,Ostrze dominacji,Клинок превосходства,천하무쌍도,天下無雙刀,نصل الهيمنة
 Divine Slasher,天上天下無双刀,Guillotine divine,Affettatore divino,Göttliches Haumesser,Cortador Divino,Cortadora Divina,Boski rozpruwacz,Божественный серп,천상천하무쌍도,天上天下無雙刀,الجارح المقدس
-Azure Star Blade,,,,,,,,,,,
-"Azure Star ""Dragon Dance""",,,,,,,,,,,
+Azure Star Blade,蒼星ノ太刀,Lame Astre bleu,Lama astro celeste,Azurstern-Klinge,Hoja estrella celeste,Lâmina Estrela Lazúli,Ostrze Lazurowej Gwiazdy,"Клинок ""Лазурная звезда""",파란별의 태도,蒼星的太刀,نصل نجمي لازوردي
+"Azure Star ""Dragon Dance""",蒼星ノ太刀【舞龍】,Astre bleu - Danse du dragon,"Astro celeste ""Drago""","Azurstern ""Drachentanz""",Estrella celeste Dragón,Estr. Lazúli Dragão,„Smoczy Taniec” Lazurowej Gwiazdy,"Клинок ""Танец дракона""",파란별 태도【무룡】,蒼星的太刀【舞龍】,"نجم لازوردي ""رقص التنين"""
 "Reaver ""Cruelty""",クルーエルペイン,"Saccageur ""Cruauté""",Crudeltà straziante,"Räuber ""Grausamkeit""",Segadora Cruel,"""Crueldade"" Aniquiladora",Rozcinacz „Okrutnik”,"Пожиратель ""Жестокость""",크룰페인,殘酷痛苦太刀,"""قسوة"" الممزق"
 "Reaver ""Calamity""",カラミティペイン,"Saccageur ""Catastrophe""",Flagello straziante,"Räuber ""Verhängnis""",Segadora Calamitosa,"""Tragédia"" Aniquiladora",Rozcinacz „Klęska”,"Пожиратель ""Погибель""",캘러미티페인,悲慘痛苦太刀,"""ضربة"" الممزق"
 Hunter's Knife I,ハンターナイフⅠ,Épée du chasseur,Coltello da cacciatore I,Jägermesser I,Cuchillo de cazador I,Faca do Caçador I,Nóż łowcy I,Охотничий нож 1,헌터나이프Ⅰ,獵人小刀Ⅰ,سكين الصيّاد I
@@ -599,9 +599,9 @@ Dragonbone Lance II,龍骨槍Ⅱ,Lance draconique II,Lancia dragosso II,Drachenk
 Dragonbone Lance III,龍骨槍Ⅲ,Lance draconique III,Lancia dragosso III,Drachenknochen-Lanze III,Lanza Dracóstea III,Lança de Dragosso III,Lanca smoczej kości III,Драконье копье 3,용골창Ⅲ,龍骨槍Ⅲ,رمح عظام التنين III
 Rookslayer Lance,爆鱗の突撃槍,Lance explosive,Lancia torre,Bazel-Contus,Lanza Rookslayer,Lança Matacorvos,Lanca wieżobójca,"Копье ""Гроза птиц""",폭린의돌격창,爆鱗突擊槍,رمح ذابح الرخ
 Bazel Myniad Rookslayer,爆鱗槍バゼルミニアド,Bazel Myniad,Torre Myniad Bazel,Bazel-Lanze,Rookslayer Bazel Myniad,Matacorvos Bazel Myniad,Bazel Myniad wieżobójcy,Гроза птиц базельминиад,폭린창바젤미니아드,爆鱗槍赤紅巨星,بازيل منياد ذابح الرخ
-Thunderpike,雷槍,Gae Bolga II,Picca del tuono,Donner-Kriegsdorn,Pica Trueno,Espeto de Raio,Pika Burzy,Вилы грозы,뇌창,雷槍,رمح الرعد المدبب
-Thunderspear,雷槍【イカズチ】,Gae Bolga III,Lancia del tuono,Donnerspeer,Jabalina trueno,Lanção de Raio,Włócznia Burzy,Громовая пика,뇌창【천둥】,雷槍【霆】,رمح الرعد
-Thunderpiercer,雷槍【タケミカヅチ】,Gae Bolga,Perforatuoni,Donner-Aufspießer,Venablo Trueno,Perfurante de Raio,Szpila Burzy,Громовой штопор,뇌창【번개신】,雷槍【建御雷】,ثاقب الرعد
+Thunderpike,雷槍,Pique-tonnerre,Picca del tuono,Donner-Kriegsdorn,Pica Trueno,Espeto de Raio,Pika Burzy,Вилы грозы,뇌창,雷槍,رمح الرعد المدبب
+Thunderspear,雷槍【イカズチ】,Crève-tonnerre,Lancia del tuono,Donnerspeer,Jabalina trueno,Lanção de Raio,Włócznia Burzy,Громовая пика,뇌창【천둥】,雷槍【霆】,رمح الرعد
+Thunderpiercer,雷槍【タケミカヅチ】,Perce-tonnerre,Perforatuoni,Donner-Aufspießer,Venablo Trueno,Perfurante de Raio,Szpila Burzy,Громовой штопор,뇌창【번개신】,雷槍【建御雷】,ثاقب الرعد
 Blacksteel Lance I,黒鋼の槍Ⅰ,Lance sombracier,Lancia neracciaio I,Schwarzstahl-Lanze I,Lanza Acero Negro I,Lança de Aço Negro I,Lanca z czarnej stali I,Черное копье 1,흑강의랜스Ⅰ,黑鋼槍Ⅰ,الرمح الفولاذي الأسود I
 Blacksteel Lance II,黒鋼の槍Ⅱ,Lance sombracier II,Lancia neracciaio II,Schwarzstahl-Lanze II,Lanza Acero Negro II,Lança de Aço Negro II,Lanca z czarnej stali II,Черное копье 2,흑강의랜스Ⅱ,黑鋼槍Ⅱ,الرمح الفولاذي الأسود II
 Icesteel Spear,鋼氷槍,Lance inexorable,Lancia ghiacciaio,Stahleis-Speer,Lanza Acero Helado,Lanção de Friaço,Lanca z lodowej stali,Пика из ледяной стали,강빙창,鋼冰槍,رمح الفولاذ الثلجي
@@ -1028,7 +1028,7 @@ Steel Assault III,スティールアサルトⅢ,Arbalète d'acier III,Assalto d
 Chrome Assault I,クロムアサルトⅠ,Arbalète chromée,Assalto cromato I,Chrom-Überfall I,Cromoasalto I,Assalto Cromado I,Chromowa nawała I,Блестящий штурмовик 1,크롬어썰트Ⅰ,鉻鋼突擊弩Ⅰ,البطش الكرومي I
 Chrome Assault II,クロムアサルトⅡ,Arbalète chromée II,Assalto cromato II,Chrom-Überfall II,Cromoasalto II,Assalto Cromado II,Chromowa nawała II,Блестящий штурмовик 2,크롬어썰트Ⅱ,鉻鋼突擊弩Ⅱ,البطش الكرومي II
 Nergal Roar,ネルガルグレア,Hurleur Nergal,Ruggito Nergi,Nergal-Gebrüll,Rugido Nergal,Rugido de Nergal,Nergalny Ryk,Рев нергиганта,네르갈글레어,滅盡龍重弩槍,زئير نيرغال
-Destruction's Fusillade,撃滅の砲火,Armageddon,Raffica distruttrice,Zerstörungssalve,Fusiladora,Fuzilaria da Destruição,Kanonada Zniszczenia,Канонада,격멸의포화,擊滅砲火,وابل من الدمار
+Destruction's Fusillade,撃滅の砲火,Fusillade de la destruction,Raffica distruttrice,Zerstörungssalve,Fusiladora,Fuzilaria da Destruição,Kanonada Zniszczenia,Канонада,격멸의포화,擊滅砲火,وابل من الدمار
 Aqua Assault I,アクアアサルトⅠ,Arbalète aquatique,Assalto acquatico I,Aqua-Überfall I,Asalto Aqua I,Assalto Aquático I,Wodna nawała I,Морской штурмовик 1,아쿠아어썰트Ⅰ,水流突擊弩Ⅰ,البطش المائي I
 Aqua Assault II,アクアアサルトⅡ,Arbalète aquatique II,Assalto acquatico II,Aqua-Überfall II,Asalto Aqua II,Assalto Aquático II,Wodna nawała II,Морской штурмовик 2,아쿠아어썰트Ⅱ,水流突擊弩Ⅱ,البطش المائي II
 Aqua Assault III,アクアアサルトⅢ,Arbalète aquatique III,Assalto acquatico III,Aqua-Überfall III,Asalto Aqua III,Assalto Aquático III,Wodna nawała III,Морской штурмовик 3,아쿠아어썰트Ⅲ,水流突擊弩Ⅲ,البطش المائي III
@@ -1116,7 +1116,7 @@ Kulu Arrow III,クルルアローⅢ,Flèche Kulu III,Freccia Kulu III,Kulu-Pfei
 Archer's Dance I,リーシャアルサクルⅠ,Danse de l'archer,Arciere danzante I,Schützentanz I,Danza de arquero I,Dança do Arqueiro I,Taniec łucznika I,Танец лучника 1,리샤알서클Ⅰ,星空迅擊弓Ⅰ,رقصة الرامي I
 Archer's Dance II,リーシャアルサクルⅡ,Danse de l'archer II,Arciere danzante II,Schützentanz II,Danza de arquero II,Dança do Arqueiro II,Taniec łucznika II,Танец лучника 2,리샤알서클Ⅱ,星空迅擊弓Ⅱ,رقصة الرامي II
 Archer's Dance III,リーシャアルサクルⅢ,Danse de l'archer III,Arciere danzante III,Schützentanz III,Danza de arquero III,Dança do Arqueiro III,Taniec łucznika III,Танец лучника 3,리샤알서클Ⅲ,星空迅擊弓Ⅲ,رقصة الرامي III
-Brazencord,ブラスコルダ,Arc du maraudeur,Corda d'ottone,Messingsaite,Arco Audaz,Cordálica,Sznurmoc,Медная струна,브라스코르다,爆鎚震弓,برازنكورد
+Brazencord,ブラスコルダ,Corde du brasier,Corda d'ottone,Messingsaite,Arco Audaz,Cordálica,Sznurmoc,Медная струна,브라스코르다,爆鎚震弓,برازنكورد
 Gigacles,重弓ヘラギガス,Gigaclès,Megagelo,Gigacles,Gigáculos,Gigóculos,Gigakles,Гигакл,중궁헤라기가스,重弓巨靈勇士,غيغاكلس
 Princess Arrow I,プリンセスアローⅠ,Flèche de la dauphine,Freccia principessa I,Prinzessinnenpfeil I,Flecha Princesa I,Flecha da Princesa I,Strzała księżniczki I,Стрела принцессы 1,프린세스애로우Ⅰ,公主弓矢Ⅰ,سهم الأميرة I
 Princess Arrow II,プリンセスアローⅡ,Flèche de la dauphine II,Freccia principessa II,Prinzessinnenpfeil II,Flecha Princesa II,Flecha da Princesa II,Strzała księżniczki II,Стрела принцессы 2,프린세스애로우Ⅱ,公主弓矢Ⅱ,سهم الأميرة II
@@ -1163,14 +1163,14 @@ Anja Arch III,ジャナフアルカウスⅢ,Arche Anja III,Arco Anja III,Anjana
 Pulsar Bow I,パルサーボウⅠ,Arc pulsar,Arco pulsante I,Pulsar-Bogen I,Arco Púlsar I,Arco de Pulsar I,Łuk pulsarowy I,Лук-пульсар 1,펄서보우Ⅰ,脈衝弓Ⅰ,القوس النابض I
 Pulsar Bow II,パルサーボウⅡ,Arc pulsar II,Arco pulsante II,Pulsar-Bogen II,Arco Púlsar II,Arco de Pulsar II,Łuk pulsarowy II,Лук-пульсар 2,펄서보우Ⅱ,脈衝弓Ⅱ,القوس النابض II
 Pulsar Bow III,パルサーボウⅢ,Arc pulsar III,Arco pulsante III,Pulsar-Bogen III,Arco Púlsar III,Arco de Pulsar III,Łuk pulsarowy III,Лук-пульсар 3,펄서보우Ⅲ,脈衝弓Ⅲ,القوس النابض III
-Kadachi Strikebow,飛雷弓イテカガチ,Perce-cœur Kadachi,Arco Kadachi,Kadachi-Bogen,Arco de ataque Kadachi,Eletrarco de Kadachi,Łuk uderzeniowy Kadachi,Ударный лук кадачи,비뢰궁이테카가치,飛雷弓射手大蛇,قوس ضربة كاداتشي
-Flying Kadachi Strikebow,飛雷弓【羽々矢】,Crève-cœur Kadachi,Arco volante Kadachi,Flug-Kadachi-Bogen,Arco Volante Kadachi,Eletrarco Aéreo Kadachi,Latający łuk ud. Kadachi,Летающий ударный лук,비뢰궁【하바야】,飛雷弓【羽羽矢】,قوس ضربة كاداتشي الطائر
+Kadachi Strikebow,飛雷弓イテカガチ,Arc de foudre Kadachi,Arco Kadachi,Kadachi-Bogen,Arco de ataque Kadachi,Eletrarco de Kadachi,Łuk uderzeniowy Kadachi,Ударный лук кадачи,비뢰궁이테카가치,飛雷弓射手大蛇,قوس ضربة كاداتشي
+Flying Kadachi Strikebow,飛雷弓【羽々矢】,Arc feu du ciel Kadachi,Arco volante Kadachi,Flug-Kadachi-Bogen,Arco Volante Kadachi,Eletrarco Aéreo Kadachi,Latający łuk ud. Kadachi,Летающий ударный лук,비뢰궁【하바야】,飛雷弓【羽羽矢】,قوس ضربة كاداتشي الطائر
 Dragonbone Bow I,龍骨弓Ⅰ,Arc draconique,Arco dragosso I,Drachenknochen-Bogen I,Arco Dracósteo I,Arco de Dragosso I,Łuk smoczej kości I,Драконий лук 1,용골궁Ⅰ,龍骨弓Ⅰ,قوس عظام التنين I
 Dragonbone Bow II,龍骨弓Ⅱ,Arc draconique II,Arco dragosso II,Drachenknochen-Bogen II,Arco Dracósteo II,Arco de Dragosso II,Łuk smoczej kości II,Драконий лук 2,용골궁Ⅱ,龍骨弓Ⅱ,قوس عظام التنين II
 Dragonbone Bow III,龍骨弓Ⅲ,Arc draconique III,Arco dragosso III,Drachenknochen-Bogen III,Arco Dracósteo III,Arco de Dragosso III,Łuk smoczej kości III,Драконий лук 3,용골궁Ⅲ,龍骨弓Ⅲ,قوس عظام التنين III
 Blacksteel Bow I,黒鋼の弓Ⅰ,Arc sombracier,Arco neracciaio I,Schwarzstahl-Bogen I,Arco Acero Negro I,Arco de Aço Negro I,Łuk z czarnej stali I,Черный лук 1,흑강의활Ⅰ,黑鋼弓Ⅰ,قوس الفولاذ الأسود I
 Blacksteel Bow II,黒鋼の弓Ⅱ,Arc sombracier II,Arco neracciaio II,Schwarzstahl-Bogen II,Arco Acero Negro II,Arco de Aço Negro II,Łuk z czarnej stali II,Черный лук 2,흑강의활Ⅱ,黑鋼弓Ⅱ,قوس الفولاذ الأسود II
-Icesteel Bow,鋼氷馬弓,Arc inexorable,Arco ghiacciaio,Eisstahl-Bogen,Arco Acero Helado,Arco de Friaço,Łuk z lodowej stali,Лук из ледяной стали,강빙마궁,鋼冰馬弓,قوس الفولاذ الثلجي
+Icesteel Bow,鋼氷馬弓,Arc acier glacé,Arco ghiacciaio,Eisstahl-Bogen,Arco Acero Helado,Arco de Friaço,Łuk z lodowej stali,Лук из ледяной стали,강빙마궁,鋼冰馬弓,قوس الفولاذ الثلجي
 Daora's Sagittarii,アルナス＝ダオラ,Sagittarii Daora,Sagittarii Daora,Daoras Sagittarii,Sagitario Daora,Sagittarii de Daora,Sagittarii Daory,Лучник даоры,알나스다오라,鋼龍強弓,رماة داورا
 Xeno Metora,ゼノ＝メートラ,Xeno Metora,Metora Xeno,Xeno-Metora,Xeno Metora,Metora de Xeno,Xeno Metora,Ксено-метора,제노메토라,冥燈龍大弓,زينو ميتورا
 Cross Hunter's Bow,クロスハンターボウ,Arc du traqueur,Arco incrociato,Kleiner Jägerbogen,Arco Cruzado de cazador,Balestra do Caçador,Krzyżowy łuk łowcy,Крестовый лук,크로스헌터보우,十字獵弓,قوس الصياد
