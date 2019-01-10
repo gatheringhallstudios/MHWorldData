@@ -4,7 +4,7 @@ import re
 
 from mhw_armor_edit import ftypes
 from mhw_armor_edit.ftypes import am_dat, gmd, arm_up, itm, skl_pt_dat, \
-    eq_crt, wp_dat, kire, wp_dat_g
+    eq_crt, wp_dat, kire, wp_dat_g, wep_wsl
 
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
@@ -111,47 +111,8 @@ s_axe_phials = {
 # wep1_id to glaive boost type mapping
 glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health']
 
-class Sharpness:
-    "Object used to encapsulate sharpness data"
-    def __init__(self, red=0, orange=0, yellow=0, green=0, blue=0, white=0, purple=0):
-        self.values = [
-            max(red, 0),
-            max(orange, 0), 
-            max(yellow, 0),
-            max(green, 0),
-            max(blue, 0),
-            max(white, 0),
-            max(purple, 0)
-        ]
-
-        # cap to 400
-        total = sum(self.values)
-        if total > 400:
-            self.subtract(total - 400)
-    
-    def subtract(self, amount: int):
-        if amount < 0:
-            raise Exception("Amount to subtract must be positive")
-
-        remaining = amount
-        for idx, value in reversed(list(enumerate(self.values))):
-            to_remove = min(remaining, value)
-            self.values[idx] = value - to_remove
-            remaining -= to_remove
-            
-            if remaining <= 0:
-                break
-
-    def to_object(self):
-        return {
-            'red': self.values[0],
-            'orange': self.values[1],
-            'yellow': self.values[2],
-            'green': self.values[3],
-            'blue': self.values[4],
-            'white': self.values[5],
-            'purple': self.values[6]
-        }
+# Note index to color mapping
+note_colors = ['P', 'R', 'O', 'Y', 'G', 'B', 'C', 'W']
 
 def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.StructFile:
     "Uses an ftypes struct file class to load() a file relative to the chunk directory"
@@ -347,8 +308,9 @@ def update_weapons():
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
 
+    notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_data = load_schema(kire.Kire, "common/equip/kireaji.kire")
-    print("Loaded sharpness data")
+    print("Loaded sharpness and notes data")
 
     # Internal helper to DRY up melee/gun weapons
     def bind_basic_weapon_data(weapon_type, existing_entry, binary):
@@ -377,7 +339,7 @@ def update_weapons():
             existing_entry['element2_attack'] = None
 
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
-        for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level']:
+        for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
         if weapon_type == cfg.CHARGE_BLADE:
             existing_entry['phial'] = cb_phials[binary.wep1_id]
@@ -393,6 +355,11 @@ def update_weapons():
             existing_entry['shelling_level'] = level
         if weapon_type == cfg.INSECT_GLAIVE:
             existing_entry['kinsect_bonus'] = glaive_boosts[binary.wep1_id]
+        if weapon_type == cfg.HUNTING_HORN:
+            note_entry = notes_data[binary.wep1_id]
+            notes = [note_entry.note1, note_entry.note2, note_entry.note3]
+            notes = [str(note_colors[n]) for n in notes]
+            existing_entry['notes'] = "".join(notes)
 
     # Internal helper to bind only sharpness data (melee only)
     def bind_weapon_sharpness_info(existing_entry, binary: wp_dat.WpDatEntry):
