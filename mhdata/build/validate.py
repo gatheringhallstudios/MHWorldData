@@ -255,7 +255,7 @@ def validate_weapons(mhdata):
 
         # Test that dragon has elderseal and vice versa
         has_elderseal = entry['elderseal'] is not None
-        is_dragon = entry['element1'] == 'Dragon' or entry['element2'] == 'Dragon'
+        is_dragon = entry['element1'] == 'Dragon' or entry['element2'] == 'Dragon' or entry['phial'] == 'dragon'
         if has_elderseal and not is_dragon:
             errors.append(f"Weapon {name} has elderseal but no dragon element")
         if is_dragon and not has_elderseal:

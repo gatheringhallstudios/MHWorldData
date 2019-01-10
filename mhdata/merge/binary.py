@@ -9,7 +9,7 @@ from mhw_armor_edit.ftypes import am_dat, gmd, arm_up, itm, skl_pt_dat, \
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.build import datafn
-from mhdata.util import OrderedSet, bidict
+from mhdata.util import OrderedSet, bidict, Sharpness
 
 from mhdata import cfg
 
