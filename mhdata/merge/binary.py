@@ -4,7 +4,7 @@ import re
 
 from mhw_armor_edit import ftypes
 from mhw_armor_edit.ftypes import am_dat, gmd, arm_up, itm, skl_pt_dat, \
-    eq_crt, wp_dat, kire, wp_dat_g, wep_wsl
+    eq_crt, eq_cus, wp_dat, kire, wp_dat_g, wep_wsl
 
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
@@ -50,27 +50,31 @@ item_type_list = [
     'jewel'
 ]
 
-# wp_dat files
-weapon_types_melee = {
-    'l_sword': 'great-sword',
-    'tachi': 'long-sword',
-    'sword': 'sword-and-shield',
-    'w_sword': 'dual-blades',
-    'hammer': 'hammer',
-    'whistle': 'hunting-horn',
-    'lance': 'lance',
-    'g_lance': 'gunlance',
-    's_axe': 'switch-axe',
-    'c_axe': 'charge-blade',
-    'rod': 'insect-glaive'
+# wp_dat files (mapping from filename -> mhwdb weapon type)
+# ranged ones map to wp_dat_g instead
+weapon_files = {
+    cfg.GREAT_SWORD: 'l_sword',
+    cfg.LONG_SWORD: 'tachi',
+    cfg.SWORD_AND_SHIELD: 'sword',
+    cfg.DUAL_BLADES: 'w_sword',
+    cfg.HAMMER: 'hammer',
+    cfg.HUNTING_HORN: 'whistle',
+    cfg.LANCE: 'lance',
+    cfg.GUNLANCE: 'g_lance',
+    cfg.SWITCH_AXE: 's_axe',
+    cfg.CHARGE_BLADE: 'c_axe',
+    cfg.INSECT_GLAIVE: 'rod',
+    cfg.LIGHT_BOWGUN: 'lbg',
+    cfg.HEAVY_BOWGUN: 'hbg',
+    cfg.BOW: 'bow'
 }
 
-# wp_dat_g files
-weapon_types_gun = {
-    'lbg': 'light-bowgun',
-    'hbg': 'heavy-bowgun',
-    'bow': 'bow'
-}
+# A list of weapon types ordered by ingame ordering. Positioning here corresponds to equip type
+weapon_types = [
+    cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
+    cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
+    cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
+]
 
 elements = [
     "",
@@ -146,12 +150,30 @@ def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
                                     .replace("</STYL>", "")).strip()
     return results
 
+class ItemTextHandler():
+    "A class that loads item text and tracks encountered items"
+
+    def __init__(self):
+        self._item_text = load_text("common/text/steam/item")
+        self.encountered = OrderedSet()
+
+    def name_for(self, item_id: int):
+        self.encountered.add(item_id)
+        return self._item_text[item_id * 2]
+
+    def description_for(self, item_id: int):
+        self.encountered.add(item_id)
+        return self._item_text[item_id * 2 + 1]
+
+    def text_for(self, item_id: int):
+        self.encountered.add(item_id)
+        return (self._item_text[item_id * 2], self._item_text[item_id * 2 + 1])
+
 def update_armor():
     "Populates and updates armor information using the armorset_base as a source of truth"
     
     armor_text = load_text("common/text/steam/armor")
     armorset_text = load_text("common/text/steam/armor_series")
-    item_text = load_text("common/text/steam/item")
 
     # Parses binary armor data, mapped by the english name
     armor_data = {}    
@@ -163,7 +185,7 @@ def update_armor():
 
     # Parses craft data, mapped by the binary armor id
     armor_craft_data = {}
-    for craft_entry in load_schema(eq_crt.EqCrt, "common/equip/armor.eq_crt"):
+    for craft_entry in load_schema(eq_crt.EqCrt, "common/equip/armor.eq_crt").entries:
         armor_craft_data[craft_entry.equip_id] = craft_entry
 
     # Get number of times armor can be upgraded by rarity level.
@@ -191,7 +213,8 @@ def update_armor():
 
     # Temporary storage for later processes
     all_set_skill_ids = OrderedSet()
-    all_item_ids = OrderedSet()
+
+    item_text_handler = ItemTextHandler()
 
     print("Populating armor data, keyed by the armorset data")
     next_armor_id = mhdata.armor_map.max_id + 1
@@ -248,11 +271,7 @@ def update_armor():
                 item_id = getattr(recipe_binary, f'item{i}_id')
                 item_qty = getattr(recipe_binary, f'item{i}_qty')
 
-                item_name = None
-                if item_qty != 0:
-                    item_name = item_text[item_id * 2]['en']
-                    all_item_ids.add(item_id)
-
+                item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
                 new_data['craft'][f'item{i}_name'] = item_name
                 new_data['craft'][f'item{i}_qty'] = item_qty if item_qty else None
 
@@ -302,15 +321,29 @@ def update_armor():
 
     print("Armor files updated")
 
-    add_missing_items(all_item_ids, mhdata=mhdata)
+    add_missing_items(item_text_handler.encountered, mhdata=mhdata)
 
 def update_weapons():
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
 
+    item_text_handler = ItemTextHandler()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_data = load_schema(kire.Kire, "common/equip/kireaji.kire")
-    print("Loaded sharpness and notes data")
+
+    crafting_data_map = {}
+    for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
+        wtype = weapon_types[entry.equip_type]
+        crafting_data_map[(wtype, entry.equip_id)] = entry
+
+    upgrade_data_map = {}
+    for entry in load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus").entries:
+        wtype = weapon_types[entry.equip_type]
+        upgrade_data_map[(wtype, entry.equip_id)] = entry
+
+    upgrading_data = load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus")
+
+    print("Loaded initial weapon binary data data")
 
     # Internal helper to DRY up melee/gun weapons
     def bind_basic_weapon_data(weapon_type, existing_entry, binary):
@@ -338,6 +371,29 @@ def update_weapons():
             existing_entry['element2'] = None
             existing_entry['element2_attack'] = None
 
+        # crafting data
+        existing_entry['craft'] = []
+        key = (weapon_type, binary.id)
+        recipes = []
+        if key in crafting_data_map:
+            recipes.append(("Create", crafting_data_map[key]))
+        if key in upgrade_data_map:
+            map_entry = upgrade_data_map[key]
+            if map_entry.item1_qty > 0:
+                recipes.append(("Upgrade", upgrade_data_map[key]))
+        for recipe_type, recipe_binary in recipes:
+            new_data = {'type': recipe_type }
+
+            for i in range(1, 4+1):
+                item_id = getattr(recipe_binary, f'item{i}_id')
+                item_qty = getattr(recipe_binary, f'item{i}_qty')
+
+                item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
+                new_data[f'item{i}_name'] = item_name
+                new_data[f'item{i}_qty'] = item_qty if item_qty else None
+
+            existing_entry['craft'].append(new_data)
+
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
@@ -360,9 +416,8 @@ def update_weapons():
             notes = [note_entry.note1, note_entry.note2, note_entry.note3]
             notes = [str(note_colors[n]) for n in notes]
             existing_entry['notes'] = "".join(notes)
-
-    # Internal helper to bind only sharpness data (melee only)
-    def bind_weapon_sharpness_info(existing_entry, binary: wp_dat.WpDatEntry):
+        
+        # Sharpness
         sharpness_binary = sharpness_data[binary.kire_id]
         sharpness_modifier = -250 + (binary.handicraft*50)
         sharpness_maxed = sharpness_modifier == 0
@@ -385,7 +440,8 @@ def update_weapons():
             **sharpness_values.to_object()
         }
 
-    for binary_weapon_type, weapon_type in weapon_types_melee.items():
+    for weapon_type in cfg.weapon_types_melee:
+        binary_weapon_type = weapon_files[weapon_type]
         print(f"Processing {weapon_type} ({binary_weapon_type})")
 
         # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
@@ -406,10 +462,10 @@ def update_weapons():
             existing_entry['name'] = name
             bind_basic_weapon_data(weapon_type, existing_entry, binary)
             bind_weapon_blade_ext(weapon_type, existing_entry, binary)
-            bind_weapon_sharpness_info(existing_entry, binary)
 
     # Process ranged weapons. These use a different schema type and different post processing
-    for binary_weapon_type, weapon_type in weapon_types_gun.items():
+    for weapon_type in cfg.weapon_types_ranged:
+        binary_weapon_type = weapon_files[weapon_type]
         print(f"Processing {weapon_type} ({binary_weapon_type})")
 
         weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
@@ -443,6 +499,15 @@ def update_weapons():
         schema=schema.WeaponSharpnessSchema()
     )
 
+    writer.save_data_csv(
+        "weapons/weapon_craft.csv",
+        mhdata.weapon_map, 
+        key="craft",
+        schema=schema.WeaponCraftSchema()
+    )
+
+    add_missing_items(item_text_handler.encountered, mhdata=mhdata)
+
 def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
     if not mhdata:
         mhdata = load_data()
@@ -451,14 +516,13 @@ def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
     item_data = sorted(
         load_schema(itm.Itm, "common/item/itemData.itm").entries,
         key=lambda i: i.order)
-    item_text = load_text("common/text/steam/item")
+    item_text_manager = ItemTextHandler()
 
     new_item_map = DataMap(languages='en')
 
     # First pass. Iterate over existing ingame items and merge with existing data
     for entry in item_data:
-        name_dict = item_text[entry.id * 2]
-        description_dict = item_text[entry.id * 2 + 1]
+        name_dict, description_dict = item_text_manager.text_for(entry.id)
         existing_item = mhdata.item_map.entry_of('en', name_dict['en'])
 
         is_encountered = entry.id in encountered_item_ids
@@ -513,7 +577,7 @@ def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
 
     # Third pass. Items need to be reordered based on type
 
-    unsorted_item_map = new_item_map
+    unsorted_item_map = new_item_map # store reference to former map
     def filter_category(category, subcategory=None):
         "helper that returns items and then removes from unsorted item map"
         results = []
@@ -526,6 +590,7 @@ def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
 
     normal_ammo_1 = unsorted_item_map.entry_of("en", "Normal Ammo 1")
 
+    # start the before-mentioned third pass by creating a new map based off the old one
     new_item_map = DataMap(languages="en")
     new_item_map.extend(filter_category('item'))
     new_item_map.extend(filter_category('material'))

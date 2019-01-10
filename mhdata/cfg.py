@@ -46,7 +46,7 @@ max_skill_count = 2
 
 GREAT_SWORD = 'great-sword'
 LONG_SWORD = 'long-sword'
-SWORD_AND_SHEILD = 'sword-and-shield'
+SWORD_AND_SHIELD = 'sword-and-shield'
 DUAL_BLADES = 'dual-blades'
 HAMMER = 'hammer'
 HUNTING_HORN = 'hunting-horn'
@@ -60,7 +60,7 @@ HEAVY_BOWGUN = 'heavy-bowgun'
 BOW = 'bow'
 
 "A list of all melee weapon types"
-weapon_types_melee = (GREAT_SWORD, LONG_SWORD, SWORD_AND_SHEILD, DUAL_BLADES,
+weapon_types_melee = (GREAT_SWORD, LONG_SWORD, SWORD_AND_SHIELD, DUAL_BLADES,
     HAMMER, HUNTING_HORN, LANCE, GUNLANCE, SWITCH_AXE, CHARGE_BLADE,
     INSECT_GLAIVE)
 
@@ -97,7 +97,7 @@ These are decimal objects so that division can be exact"""
 weapon_multiplier = {
     GREAT_SWORD: Decimal("4.8"),
     LONG_SWORD: Decimal("3.3"),
-    SWORD_AND_SHEILD: Decimal("1.4"),
+    SWORD_AND_SHIELD: Decimal("1.4"),
     DUAL_BLADES: Decimal("1.4"),
     HAMMER: Decimal("5.2"),
     HUNTING_HORN: Decimal("4.2"),

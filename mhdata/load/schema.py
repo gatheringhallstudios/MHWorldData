@@ -245,8 +245,17 @@ class WeaponSharpnessSchema(BaseSchema):
     white = fields.Int()
     purple = fields.Int()
 
-class WeaponCraftSchema(RecipeSchema):
+class WeaponCraftSchema(BaseSchema):
+    base_name_en = fields.Str()
     type = ValidatedStr("Create", "Upgrade")
+    item1_name = fields.Str(allow_none=True)
+    item1_qty = fields.Int(allow_none=True)
+    item2_name = fields.Str(allow_none=True)
+    item2_qty = fields.Int(allow_none=True)
+    item3_name = fields.Str(allow_none=True)
+    item3_qty = fields.Int(allow_none=True)
+    item4_name = fields.Str(allow_none=True)
+    item4_qty = fields.Int(allow_none=True)
 
 class WeaponBowSchema(BaseSchema):
     close = fields.Bool()
