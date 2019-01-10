@@ -1,4 +1,4 @@
-name_en,maxed,red,orange,yellow,green,blue,white,purple
+base_name_en,maxed,red,orange,yellow,green,blue,white,purple
 Buster Sword I,FALSE,100,50,80,20,0,0,0
 Buster Sword II,FALSE,70,70,30,80,0,0,0
 Buster Sword III,FALSE,60,70,30,90,0,0,0
@@ -17,7 +17,7 @@ Lightning Punisher III,FALSE,100,120,40,50,90,0,0
 Freeze Blade I,FALSE,60,50,80,110,0,0,0
 Freeze Blade II,FALSE,100,50,80,100,20,0,0
 Frost Blaze I,FALSE,90,50,50,80,80,0,0
-Frost Blaze II,FALSE,70,70,80,80,80,20,0
+Frost Blaze II,FALSE,80,60,80,80,80,20,0
 Jagras Blade I,FALSE,80,70,30,70,0,0,0
 Jagras Blade II,FALSE,80,50,80,90,0,0,0
 Jagras Blade III,FALSE,60,50,80,110,0,0,0
@@ -34,7 +34,7 @@ Lava Blaze II,FALSE,90,60,60,100,60,30,0
 Blooming Blade I,FALSE,60,70,30,90,0,0,0
 Blooming Blade II,FALSE,70,50,80,100,0,0,0
 Blooming Blade III,FALSE,60,50,80,110,0,0,0
-Datura Blaze I,FALSE,110,50,40,90,60,0,0
+Datura Blaze I,FALSE,110,50,50,80,60,0,0
 Datura Blaze II,FALSE,100,50,50,80,70,0,0
 Datura Blaze III,FALSE,110,120,40,50,80,0,0
 Flame Blade I,FALSE,70,50,80,100,0,0,0
@@ -169,10 +169,10 @@ Imperial Shimmer,FALSE,70,50,60,120,60,40,0
 Xeno Cypher,FALSE,130,30,60,80,40,60,0
 Supremacy Blade,FALSE,100,50,50,80,70,0,0
 Divine Slasher,FALSE,100,60,60,100,50,30,0
-Azure Star Blade,FALSE,90,80,20,110,0,0,0
+Azure Star Blade,FALSE,100,70,30,100,0,0,0
 "Azure Star ""Dragon Dance""",FALSE,120,30,60,80,40,70,0
-"Reaver ""Cruelty""",FALSE,50,120,80,60,40,50,0
-"Reaver ""Calamity""",FALSE,90,80,20,110,0,0,0
+"Reaver ""Cruelty""",FALSE,60,120,80,60,30,50,0
+"Reaver ""Calamity""",FALSE,50,120,80,60,40,50,0
 Hunter's Knife I,FALSE,90,50,80,30,0,0,0
 Hunter's Knife II,FALSE,70,70,30,80,0,0,0
 Hunter's Knife III,FALSE,50,70,30,100,0,0,0
@@ -319,7 +319,7 @@ Madness Pangas II,FALSE,120,70,30,80,0,0,0
 Madness Pangas III,FALSE,110,70,30,90,0,0,0
 Jyura Hatchets I,FALSE,140,70,30,100,10,0,0
 Jyura Hatchets II,FALSE,100,100,40,40,70,0,0
-Jyura Hatchets III,FALSE,110,150,30,30,50,30,0
+Jyura Hatchets III,FALSE,160,100,30,30,50,30,0
 Lava Cyclone I,FALSE,100,100,40,40,70,0,0
 Lava Cyclone II,FALSE,200,70,20,20,50,40,0
 Taurus Pangas I,FALSE,100,70,30,100,0,0,0
@@ -770,7 +770,7 @@ Blacksteel Switch Axe I,FALSE,150,110,40,40,10,0,0
 Blacksteel Switch Axe II,FALSE,140,110,40,40,20,0,0
 Teostra's Arx,FALSE,110,60,80,80,50,20,0
 Teostra's Castle,FALSE,90,60,60,100,60,30,0
-Xeno Martshu,FALSE,130,30,60,90,30,60,0
+Xeno Martshu,FALSE,130,30,60,80,40,60,0
 Tyrannos,FALSE,60,120,80,60,30,50,0
 Terror Tyrannos,FALSE,50,120,80,60,40,50,0
 Proto Commission Axe I,FALSE,90,50,80,30,0,0,0
@@ -918,7 +918,7 @@ Kadachi Pillar II,FALSE,80,100,40,40,90,0,0
 Kadachi Pillar III,FALSE,190,70,20,20,60,40,0
 Garon Rod I,FALSE,90,70,30,110,0,0,0
 Garon Rod II,FALSE,100,100,40,40,70,0,0
-Temptation's Trident,FALSE,90,50,90,40,80,0,0
+Temptation's Trident,FALSE,90,100,40,40,80,0,0
 Vice,TRUE,200,70,20,20,50,40,0
 Dragonbone Glaive I,FALSE,110,70,30,90,0,0,0
 Dragonbone Glaive II,FALSE,70,70,30,130,0,0,0

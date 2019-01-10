@@ -82,16 +82,13 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_data_csv(
-            self,
-            location,
-            data_map,
-            *,
+    def save_data_csv(self, location, data_map, *,
             lang='en',
             nest_additional=[],
             groups=[],
             key=None,
-            fields=None):
+            fields=None,
+            schema=None):
         """Write a DataMap to a location in the data directory.
 
         If key is given, then the saving is restricted to what's inside that key.
@@ -105,7 +102,7 @@ class DataReaderWriter(DataReader):
         flattened_rows = flatten(extracted, nest=['base_name_'+lang] + nest_additional)
         flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
-        self.save_csv(location, flattened_rows)
+        self.save_csv(location, flattened_rows, schema=schema)
 
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
         """Writes a DataMap to a folder as separated json files.

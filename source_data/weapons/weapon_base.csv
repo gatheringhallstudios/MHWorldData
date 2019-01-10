@@ -125,7 +125,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 122,Hard Bone Shotel I,long-sword,Bone Shotel III,3,429,0,,FALSE,,,,,,0,0,0,,,,,,,
 123,Hard Bone Shotel II,long-sword,Hard Bone Shotel I,4,495,0,,FALSE,,,,,,0,0,0,,,,,,,
 124,Hard Bone Shotel III,long-sword,Hard Bone Shotel II,5,528,0,,TRUE,Sleep,210,,,,1,0,0,,,,,,,
-125,Bone Reaper I,long-sword,Hard Bone Shotel III,6,561,0,10,TRUE,Sleep,240,,,,3,0,0,,,,,,,
+125,Bone Reaper I,long-sword,Hard Bone Shotel III,6,561,0,10,TRUE,Sleep,240,,,,2,0,0,,,,,,,
 126,Bone Reaper II,long-sword,Bone Reaper I,6,627,0,10,TRUE,Sleep,270,,,,3,0,0,,,,,,,
 127,Rookslayer Long Sword,long-sword,Bone Reaper I,6,561,-10,,FALSE,Blast,150,,,,1,1,0,,,,,,,
 128,Bazel Varga Rookslayer,long-sword,Rookslayer Long Sword,8,660,-10,,FALSE,Blast,210,,,,1,1,0,,,,,,,
@@ -142,7 +142,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 139,Dipterus III,long-sword,Dipterus II,6,627,0,,FALSE,Water,360,,,,3,0,0,,,,,,,
 140,Hazak Grosser I,long-sword,Dipterus II,7,627,0,,FALSE,Dragon,210,,,average,2,0,0,,,,,,,
 141,Hazak Grosser II,long-sword,Hazak Grosser I,7,660,0,,FALSE,Dragon,270,,,average,2,0,0,,,,,,,
-142,Pulsar Shotel I,long-sword,Bone Shotel II,3,363,10,,FALSE,Thunder,120,,,,0,0,0,,,,,,,
+142,Pulsar Shotel I,long-sword,Bone Shotel II,2,363,10,,FALSE,Thunder,120,,,,0,0,0,,,,,,,
 143,Pulsar Shotel II,long-sword,Pulsar Shotel I,3,396,10,,FALSE,Thunder,150,,,,0,0,0,,,,,,,
 144,Pulsar Shotel III,long-sword,Pulsar Shotel II,4,462,10,,FALSE,Thunder,180,,,,0,0,0,,,,,,,
 145,Kadachi Fang I,long-sword,Pulsar Shotel III,5,528,15,,FALSE,Thunder,210,,,,1,0,0,,,,,,,
@@ -271,7 +271,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 263,Matched Slicers II,dual-blades,Matched Slicers I,1,126,0,,FALSE,,,,,,0,0,0,,,,,,,
 264,Matched Slicers III,dual-blades,Matched Slicers II,2,140,0,,FALSE,,,,,,0,0,0,,,,,,,
 265,Dual Slicers I,dual-blades,Matched Slicers III,3,154,0,,FALSE,,,,,,0,0,0,,,,,,,
-266,Dual Slicers II,dual-blades,Dual Slicers I,4,182,0,,FALSE,,,,,,1,0,0,,,,,,,
+266,Dual Slicers II,dual-blades,Dual Slicers I,4,182,0,,FALSE,,,,,,0,0,0,,,,,,,
 267,Dual Slicers III,dual-blades,Dual Slicers II,5,196,0,,TRUE,Poison,210,,,,1,0,0,,,,,,,
 268,Chrome Slicers I,dual-blades,Dual Slicers III,6,224,0,,TRUE,Poison,240,,,,1,0,0,,,,,,,
 269,Chrome Slicers II,dual-blades,Chrome Slicers I,6,252,0,,TRUE,Poison,270,,,,1,1,0,,,,,,,
@@ -296,7 +296,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 288,Arcanaria III,dual-blades,Arcanaria II,6,238,20,,TRUE,Sleep,120,,,,0,0,0,,,,,,,
 289,Sworn Rapiers,dual-blades,Rending Beaks I,3,182,0,,FALSE,Water,90,,,,0,0,0,,,,,,,
 290,Sworn Rapiers+,dual-blades,Sworn Rapiers,5,210,0,,FALSE,Water,90,,,,2,0,0,,,,,,,
-291,Holy Sabers,dual-blades,Sworn Rapiers+,252,252,0,,FALSE,Water,120,,,,3,0,0,,,,,,,
+291,Holy Sabers,dual-blades,Sworn Rapiers+,7,252,0,,FALSE,Water,120,,,,3,0,0,,,,,,,
 292,Bone Hatchets I,dual-blades,,1,140,0,,FALSE,,,,,,0,0,0,,,,,,,
 293,Bone Hatchets II,dual-blades,Bone Hatchets I,1,154,0,,FALSE,,,,,,0,0,0,,,,,,,
 294,Bone Hatchets III,dual-blades,Bone Hatchets II,2,168,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -477,7 +477,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 465,Bone Horn II,hunting-horn,Bone Horn I,1,462,0,,FALSE,,,,,,0,0,0,,,,,,WRC,
 466,Bone Horn III,hunting-horn,Bone Horn II,2,504,0,,FALSE,,,,,,0,0,0,,,,,,WRC,
 467,Hard Bone Horn I,hunting-horn,Bone Horn III,3,588,0,,FALSE,,,,,,0,0,0,,,,,,WRC,
-468,Hard Bone Horn II,hunting-horn,Hard Bone Horn I,4,630,0,,FALSE,,,,,,2,0,0,,,,,,WRC,
+468,Hard Bone Horn II,hunting-horn,Hard Bone Horn I,4,630,0,,FALSE,,,,,,0,0,0,,,,,,WRC,
 469,Hard Bone Horn III,hunting-horn,Hard Bone Horn II,5,672,0,,TRUE,Ice,180,,,,2,0,0,,,,,,WRC,
 470,Heavy Bone Horn I,hunting-horn,Hard Bone Horn III,6,714,0,10,TRUE,Ice,210,,,,2,0,0,,,,,,PRC,
 471,Heavy Bone Horn II,hunting-horn,Heavy Bone Horn I,6,798,0,10,TRUE,Ice,240,,,,3,0,0,,,,,,PRC,
@@ -540,7 +540,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 526,Legiana Halberd I,lance,Glacial Lance II,6,345,0,,FALSE,Ice,330,,,,0,0,0,,,,,,,
 527,Legiana Halberd II,lance,Legiana Halberd I,7,368,0,,FALSE,Ice,360,,,,0,0,0,,,,,,,
 528,Kulu Lance I,lance,Iron Lance II,2,253,15,,FALSE,,,,,,0,0,0,,,,,,,
-529,Kulu Lance II,lance,Kulu Lance I,2,276,15,,FALSE,,,,,,0,0,0,,,,,,,
+529,Kulu Lance II,lance,Kulu Lance I,3,276,15,,FALSE,,,,,,0,0,0,,,,,,,
 530,Kulu Lance III,lance,Kulu Lance II,4,299,15,,FALSE,,,,,,0,0,0,,,,,,,
 531,Kulu Hasta I,lance,Kulu Lance III,5,345,25,,TRUE,Sleep,300,,,,0,0,0,,,,,,,
 532,Kulu Hasta II,lance,Kulu Hasta I,6,368,25,,TRUE,Sleep,330,,,,0,0,0,,,,,,,
@@ -589,7 +589,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 575,Garon Dhara I,lance,Garon Lance II,6,345,30,,TRUE,Fire,180,,,,0,0,0,,,,,,,
 576,Garon Dhara II,lance,Garon Dhara I,7,391,30,,TRUE,Fire,210,,,,0,0,0,,,,,,,
 577,Aqua Horn I,lance,Carapace Lance II,2,253,0,,FALSE,Water,150,,,,0,0,0,,,,,,,
-578,Aqua Horn II,lance,Aqua Horn I,2,276,0,,FALSE,Water,180,,,,0,0,0,,,,,,,
+578,Aqua Horn II,lance,Aqua Horn I,3,276,0,,FALSE,Water,180,,,,0,0,0,,,,,,,
 579,Aqua Horn III,lance,Aqua Horn II,4,322,0,,FALSE,Water,210,,,,0,0,0,,,,,,,
 580,Water Spike I,lance,Aqua Horn III,5,345,0,,FALSE,Water,240,,,,2,0,0,,,,,,,
 581,Water Spike II,lance,Water Spike I,6,391,0,,FALSE,Water,270,,,,2,0,0,,,,,,,
@@ -722,7 +722,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 704,Bazel Raider I,switch-axe,Jagras Raider I,6,665,-15,,FALSE,Blast,150,,,,1,0,0,,power,,,,,
 705,Bazel Raider II,switch-axe,Bazel Raider I,7,700,-15,,FALSE,Blast,180,,,,1,0,0,,power,,,,,
 706,Rathalos Axe I,switch-axe,Jagras Axe II,4,455,10,,FALSE,Fire,120,,,,0,0,0,,power,,,,,
-707,Rathalos Axe II,switch-axe,Rathalos Axe I,4,490,10,,FALSE,Fire,120,,,,1,0,0,,power,,,,,
+707,Rathalos Axe II,switch-axe,Rathalos Axe I,5,490,10,,FALSE,Fire,120,,,,1,0,0,,power,,,,,
 708,Rathbringer Axe I,switch-axe,Rathalos Axe II,6,560,15,,FALSE,Fire,150,,,,1,0,0,,power,,,,,
 709,Rathbringer Axe II,switch-axe,Rathbringer Axe I,7,665,15,,FALSE,Fire,150,,,,1,0,0,,power,,,,,
 710,Bone Axe I,switch-axe,,1,315,0,,FALSE,,,,,,0,0,0,,power,,,,,
@@ -748,7 +748,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 730,Lumu Smasher III,switch-axe,Lumu Smasher II,7,595,20,,TRUE,Blast,420,,,,3,0,0,,power,,,,,
 731,Carapace Axe I,switch-axe,Bone Axe II,2,420,-20,10,FALSE,,,,,,0,0,0,,paralysis,180,,,,
 732,Carapace Axe II,switch-axe,Carapace Axe I,3,490,-20,10,FALSE,,,,,,0,0,0,,paralysis,180,,,,
-733,Carapace Axe III,switch-axe,Carapace Axe II,5,560,-20,10,FALSE,,,,,,0,0,0,,paralysis,180,,,,
+733,Carapace Axe III,switch-axe,Carapace Axe II,4,560,-20,10,FALSE,,,,,,0,0,0,,paralysis,180,,,,
 734,Barroth Grinder I,switch-axe,Carapace Axe III,5,595,-20,15,TRUE,Paralysis,240,,,,1,0,0,,paralysis,210,,,,
 735,Barroth Grinder II,switch-axe,Barroth Grinder I,6,665,-20,15,TRUE,Paralysis,270,,,,1,1,0,,paralysis,240,,,,
 736,Barroth Grinder III,switch-axe,Barroth Grinder II,6,735,-20,15,TRUE,Paralysis,300,,,,2,1,0,,paralysis,270,,,,
@@ -787,9 +787,9 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 767,Rathsblade II,charge-blade,Rathsblade I,5,576,10,,FALSE,Fire,180,,,,1,0,0,,power element,,,,,
 768,Axelion Blade,charge-blade,Rathsblade II,6,612,20,,FALSE,Fire,210,,,,1,0,0,,power element,,,,,
 769,Halberion Blade,charge-blade,Axelion Blade,7,684,20,,FALSE,Fire,240,,,,1,0,0,,power element,,,,,
-770,Mudslide Blade I,charge-blade,Proto Commission Axe II,3,396,0,,FALSE,Water,120,,,,0,0,0,,power element,,,,,
+770,Mudslide Blade I,charge-blade,Proto Commission Axe II,2,396,0,,FALSE,Water,120,,,,0,0,0,,power element,,,,,
 771,Mudslide Blade II,charge-blade,Mudslide Blade I,3,432,0,,FALSE,Water,150,,,,0,0,0,,power element,,,,,
-772,Mudslide Blade III,charge-blade,Mudslide Blade II,5,504,0,,FALSE,Water,180,,,,0,0,0,,power element,,,,,
+772,Mudslide Blade III,charge-blade,Mudslide Blade II,4,504,0,,FALSE,Water,180,,,,0,0,0,,power element,,,,,
 773,Jyura Depth I,charge-blade,Mudslide Blade III,5,576,0,,FALSE,Water,210,,,,1,0,0,,power element,,,,,
 774,Jyura Depth II,charge-blade,Jyura Depth I,6,648,0,,FALSE,Water,240,,,,1,0,0,,power element,,,,,
 775,Jyura Depth III,charge-blade,Jyura Depth II,6,684,0,,FALSE,Water,270,,,,1,0,0,,power element,,,,,
@@ -876,7 +876,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 854,Destroyer Bo II,insect-glaive,Destroyer Bo I,6,527,0,,FALSE,Thunder,270,,,,2,0,0,speed,,,,,,
 855,Destroyer Bo III,insect-glaive,Destroyer Bo II,6,558,0,,FALSE,Thunder,300,,,,3,0,0,speed,,,,,,
 856,Frost Blade I,insect-glaive,Luminous Blade I,4,434,0,,FALSE,Ice,150,,,,0,0,0,element,,,,,,
-857,Frost Blade II,insect-glaive,Frost Blade I,4,465,0,,FALSE,Ice,180,,,,1,1,0,element,,,,,,
+857,Frost Blade II,insect-glaive,Frost Blade I,5,465,0,,FALSE,Ice,180,,,,1,1,0,element,,,,,,
 858,Freeze Gale I,insect-glaive,Frost Blade II,6,496,0,,FALSE,Ice,210,,,,2,2,0,element,,,,,,
 859,Freeze Gale II,insect-glaive,Freeze Gale I,6,527,0,,FALSE,Ice,240,,,,2,2,0,element,,,,,,
 860,Blooming Glaive I,insect-glaive,Iron Blade II,2,310,0,,FALSE,Poison,240,,,,0,0,0,health,,,,,,
@@ -917,7 +917,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 895,Kadachi Pillar II,insect-glaive,Kadachi Pillar I,6,527,10,,FALSE,Thunder,210,,,,1,0,0,speed,,,,,,
 896,Kadachi Pillar III,insect-glaive,Kadachi Pillar II,6,558,10,,FALSE,Thunder,240,,,,1,0,0,speed,,,,,,
 897,Garon Rod I,insect-glaive,Pulsar Rod II,4,403,10,,FALSE,,,,,,0,0,0,speed,,,,,,
-898,Garon Rod II,insect-glaive,Garon Rod I,5,434,10,,TRUE,Fire,90,,,,0,0,0,speed,,,,,,
+898,Garon Rod II,insect-glaive,Garon Rod I,5,434,10,,TRUE,Fire,90,,,,1,0,0,speed,,,,,,
 899,Temptation's Trident,insect-glaive,Garon Rod II,6,465,20,,TRUE,Fire,120,,,,2,0,0,speed,,,,,,
 900,Vice,insect-glaive,Temptation's Trident,8,496,20,,TRUE,Fire,150,,,,2,0,0,speed,,,,,,
 901,Dragonbone Glaive I,insect-glaive,,3,310,0,,FALSE,Dragon,300,,,low,0,0,0,element,,,,,,
@@ -947,7 +947,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 923,Lumu Blitz II,light-bowgun,Lumu Blitz I,4,182,10,,FALSE,,,,,,0,0,0,,,,,,,LBG Paolumu
 924,Lumu Typhon I,light-bowgun,Lumu Blitz II,5,195,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
 925,Lumu Typhon II,light-bowgun,Lumu Typhon I,6,208,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
-926,Lumu Typhon III,light-bowgun,,7,221,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
+926,Lumu Typhon III,light-bowgun,,6,221,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
 927,Bazel Typhoon I,light-bowgun,Lumu Typhon I,6,247,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazel
 928,Bazel Typhoon II,light-bowgun,Bazel Typhoon I,7,260,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazel
 929,Jagras Blitz I,light-bowgun,Chain Blitz II,2,169,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Great Jagras
@@ -1014,7 +1014,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 990,Blacksteel Crossbow II,light-bowgun,Blacksteel Crossbow I,6,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Blacksteel 1
 991,Icesteel Wasp,light-bowgun,Blacksteel Crossbow II,7,221,10,,FALSE,,,,,,2,0,0,,,,,,,LBG Blacksteel 2
 992,Daora's Hornet,light-bowgun,Icesteel Wasp,8,234,10,,FALSE,,,,,,2,0,0,,,,,,,LBG Blacksteel 2
-993,Xeno Neqiina,light-bowgun,Blacksteel Crossbow II,8,234,15,,FALSE,,,,,,3,3,0,,,,,,,LBG Xeno
+993,Xeno Neqiina,light-bowgun,Blacksteel Crossbow II,8,234,0,,FALSE,,,,,,3,3,0,,,,,,,LBG Xeno
 994,Cross Bowgun,light-bowgun,,6,234,0,20,FALSE,,,,,,2,0,0,,,,,,,LBG Workshop 2
 995,Great Bowgun,light-bowgun,Cross Bowgun,8,260,0,20,FALSE,,,,,,3,0,0,,,,,,,LBG Workshop 2
 1181,Devil's Grin,light-bowgun,,6,273,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
@@ -1037,12 +1037,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1011,Water Cannon III,heavy-bowgun,Water Cannon II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Water
 1012,Luminous Assault I,heavy-bowgun,Aqua Assault I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi
 1013,Luminous Assault II,heavy-bowgun,Luminous Assault I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi
-1014,Arma Destroyer I,heavy-bowgun,Luminous Assault II,4,225,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
+1014,Arma Destroyer I,heavy-bowgun,Luminous Assault II,5,225,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
 1015,Arma Destroyer II,heavy-bowgun,Arma Destroyer I,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
 1016,Arma Destroyer III,heavy-bowgun,Arma Destroyer II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
 1017,Shattercryst,heavy-bowgun,Luminous Assault I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Legiana
 1018,Shattercryst+,heavy-bowgun,Shattercryst,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Legiana
-1019,Legia Shattercryst,heavy-bowgun,Shattercryst+,7,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Legiana
+1019,Legia Shattercryst,heavy-bowgun,Shattercryst+,8,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Legiana
 1020,Jagras Assault I,heavy-bowgun,Iron Assault II,2,180,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Great Jagras
 1021,Jagras Assault II,heavy-bowgun,Jagras Assault I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Great Jagras
 1022,Jagras Assault III,heavy-bowgun,Jagras Assault II,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Great Jagras
@@ -1146,7 +1146,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1118,Hazak Velos II,bow,Hazak Velos I,7,228,0,,FALSE,Dragon,270,,,average,2,0,0,,,,,,,
 1119,Diablos Bow I,bow,Hunter's Stoutbow I,4,192,-30,10,FALSE,,,,,,0,0,0,,,,,,,
 1120,Diablos Bow II,bow,Diablos Bow I,5,216,-30,10,TRUE,Ice,60,,,,1,1,0,,,,,,,
-1121,Diablos Coilbender,bow,Diablos Bow II,7,240,-30,15,TRUE,Ice,90,,,,1,1,0,,,,,,,
+1121,Diablos Coilbender,bow,Diablos Bow II,6,240,-30,15,TRUE,Ice,90,,,,1,1,0,,,,,,,
 1122,Galebender,bow,Diablos Coilbender,7,252,-30,15,TRUE,Ice,120,,,,1,1,0,,,,,,,
 1123,Cera Coilbender,bow,Galebender,8,264,-30,15,TRUE,Ice,150,,,,1,1,0,,,,,,,
 1124,Blooming Arch I,bow,Hunter's Bow II,2,144,0,,FALSE,,,,,,0,0,0,,,,,,,

@@ -3,12 +3,15 @@ from os.path import dirname, abspath, join
 import re
 
 from mhw_armor_edit import ftypes
-from mhw_armor_edit.ftypes import am_dat, gmd, arm_up, itm, skl_pt_dat, eq_crt
+from mhw_armor_edit.ftypes import am_dat, gmd, arm_up, itm, skl_pt_dat, \
+    eq_crt, wp_dat, kire, wp_dat_g
 
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.build import datafn
 from mhdata.util import OrderedSet, bidict
+
+from mhdata import cfg
 
 # Writer used to write back updated data
 writer = create_writer()
@@ -47,6 +50,69 @@ item_type_list = [
     'jewel'
 ]
 
+# wp_dat files
+weapon_types_melee = {
+    'l_sword': 'great-sword',
+    'tachi': 'long-sword',
+    'sword': 'sword-and-shield',
+    'w_sword': 'dual-blades',
+    'hammer': 'hammer',
+    'whistle': 'hunting-horn',
+    'lance': 'lance',
+    'g_lance': 'gunlance',
+    's_axe': 'switch-axe',
+    'c_axe': 'charge-blade',
+    'rod': 'insect-glaive'
+}
+
+# wp_dat_g files
+weapon_types_gun = {
+    'lbg': 'light-bowgun',
+    'hbg': 'heavy-bowgun',
+    'bow': 'bow'
+}
+
+class Sharpness:
+    "Object used to encapsulate sharpness data"
+    def __init__(self, red=0, orange=0, yellow=0, green=0, blue=0, white=0, purple=0):
+        self.values = [
+            max(red, 0),
+            max(orange, 0), 
+            max(yellow, 0),
+            max(green, 0),
+            max(blue, 0),
+            max(white, 0),
+            max(purple, 0)
+        ]
+
+        # cap to 400
+        total = sum(self.values)
+        if total > 400:
+            self.subtract(total - 400)
+    
+    def subtract(self, amount: int):
+        if amount < 0:
+            raise Exception("Amount to subtract must be positive")
+
+        remaining = amount
+        for idx, value in reversed(list(enumerate(self.values))):
+            to_remove = min(remaining, value)
+            self.values[idx] = value - to_remove
+            remaining -= to_remove
+            
+            if remaining <= 0:
+                break
+
+    def to_object(self):
+        return {
+            'red': self.values[0],
+            'orange': self.values[1],
+            'yellow': self.values[2],
+            'green': self.values[3],
+            'blue': self.values[4],
+            'white': self.values[5],
+            'purple': self.values[6]
+        }
 
 def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.StructFile:
     "Uses an ftypes struct file class to load() a file relative to the chunk directory"
@@ -238,13 +304,113 @@ def update_armor():
 
     add_missing_items(all_item_ids, mhdata=mhdata)
 
+def update_weapons():
+    mhdata = load_data()
+    print("Existing Data loaded. Using to update weapon info")
+
+    sharpness_data = load_schema(kire.Kire, "common/equip/kireaji.kire")
+    print("Loaded sharpness data")
+
+    # Internal helper to DRY up melee/gun weapons
+    def bind_basic_weapon_data(existing_entry, binary):
+        existing_entry['rarity'] = binary.rarity + 1
+        existing_entry['attack'] = binary.raw_damage * multiplier
+        existing_entry['affinity'] = binary.affinity
+        existing_entry['defense'] = binary.defense or None
+        existing_entry['slot_1'] = binary.gem_slot1_lvl
+        existing_entry['slot_2'] = binary.gem_slot2_lvl
+        existing_entry['slot_3'] = binary.gem_slot3_lvl
+
+    def bind_weapon_sharpness_info(existing_entry, binary: wp_dat.WpDatEntry):
+        sharpness_binary = sharpness_data[binary.kire_id]
+        sharpness_modifier = -250 + (binary.handicraft*50)
+        sharpness_maxed = sharpness_modifier == 0
+        if not sharpness_maxed:
+            sharpness_modifier += 50 # we store the handicraft+5 value...
+
+        # Binary data lists "end" positions, not pool sizes
+        sharpness_values = Sharpness(
+            red=sharpness_binary.red,
+            orange=sharpness_binary.orange-sharpness_binary.red,
+            yellow=sharpness_binary.yellow-sharpness_binary.orange,
+            green=sharpness_binary.green-sharpness_binary.yellow,
+            blue=sharpness_binary.blue-sharpness_binary.green,
+            white=sharpness_binary.white-sharpness_binary.blue,
+            purple=sharpness_binary.purple-sharpness_binary.white)
+        sharpness_values.subtract(-sharpness_modifier)
+
+        existing_entry['sharpness'] = {
+            'maxed': sharpness_maxed,
+            **sharpness_values.to_object()
+        }
+
+    for binary_weapon_type, weapon_type in weapon_types_melee.items():
+        print(f"Processing {weapon_type} ({binary_weapon_type})")
+
+        # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
+        weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat").entries
+        print(f"Loaded {weapon_type} binary data")
+
+        weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
+        print(f"Loaded {weapon_type} text data")
+
+        multiplier = cfg.weapon_multiplier[weapon_type]
+
+        for binary in weapon_binaries:
+            name = weapon_text[binary.gmd_name_index]
+            existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
+
+            # For now, this routine is update only
+            if not existing_entry:
+                continue
+
+            bind_basic_weapon_data(existing_entry, binary)
+            bind_weapon_sharpness_info(existing_entry, binary)
+
+    # Process ranged weapons. These use a different schema type and different post processing
+    for binary_weapon_type, weapon_type in weapon_types_gun.items():
+        print(f"Processing {weapon_type} ({binary_weapon_type})")
+
+        weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
+        weapon_binaries.sort(key=lambda b: b.tree_id * 1000 + b.order)
+        print(f"Loaded {weapon_type} binary data")
+
+        weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
+        print(f"Loaded {weapon_type} text data")
+        
+        multiplier = cfg.weapon_multiplier[weapon_type]
+
+        for binary in weapon_binaries:
+            name = weapon_text[binary.gmd_name_index]
+            existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
+
+            # For now, this routine is update only
+            if not existing_entry:
+                continue
+            
+            bind_basic_weapon_data(existing_entry, binary)
+
+    writer.save_base_map_csv(
+        "weapons/weapon_base.csv",
+        mhdata.weapon_map,
+        schema=schema.WeaponBaseSchema(),
+        translation_filename="weapons/weapon_base_translations.csv"
+    )
+
+    writer.save_data_csv(
+        "weapons/weapon_sharpness.csv",
+        mhdata.weapon_map, 
+        key="sharpness",
+        schema=schema.WeaponSharpnessSchema()
+    )
+
 def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
     if not mhdata:
         mhdata = load_data()
         print("Existing Data loaded. Using to expand item list")
 
     item_data = sorted(
-        load_schema(ftypes.itm.Itm, "common/item/itemData.itm").entries,
+        load_schema(itm.Itm, "common/item/itemData.itm").entries,
         key=lambda i: i.order)
     item_text = load_text("common/text/steam/item")
 
