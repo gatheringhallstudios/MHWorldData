@@ -85,6 +85,32 @@ elements = [
     "Blast"
 ]
 
+elderseal = ["", "low", "average", "high"]
+
+# Mapping from wep1_id to cb phial type
+cb_phials = ['impact', 'power element']
+
+# Mapping from wep1_id to saxe phial type (obtained via trial and error)
+s_axe_phials = {
+    0: ('power', None),
+    1: ('power element', None),
+    6: ('dragon', 300),
+    8: ('dragon', 420),
+    13: ('exhaust', 120),
+    14: ('exhaust', 150),
+    15: ('exhaust', 180),
+    16: ('exhaust', 210),
+    23: ('paralysis', 180),
+    24: ('paralysis', 210),
+    25: ('paralysis', 240),
+    26: ('paralysis', 270),
+    36: ('poison', 300),
+    38: ('poison', 420)
+}
+
+# wep1_id to glaive boost type mapping
+glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health']
+
 class Sharpness:
     "Object used to encapsulate sharpness data"
     def __init__(self, red=0, orange=0, yellow=0, green=0, blue=0, white=0, purple=0):
@@ -334,6 +360,7 @@ def update_weapons():
         existing_entry['slot_1'] = binary.gem_slot1_lvl
         existing_entry['slot_2'] = binary.gem_slot2_lvl
         existing_entry['slot_3'] = binary.gem_slot3_lvl
+        existing_entry['elderseal'] = elderseal[binary.elderseal]
 
         # Bind element data. Dual element ones are mapped strangely, so we skip them
         if existing_entry.name('en') in ["Twin Nails", "Fire and Ice"]:
@@ -348,6 +375,24 @@ def update_weapons():
             existing_entry['element1_attack'] = element_atk * 10 if element_atk else None
             existing_entry['element2'] = None
             existing_entry['element2_attack'] = None
+
+    def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
+        for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level']:
+            existing_entry[key] = None
+        if weapon_type == cfg.CHARGE_BLADE:
+            existing_entry['phial'] = cb_phials[binary.wep1_id]
+        if weapon_type == cfg.SWITCH_AXE:
+            (phial, power) = s_axe_phials[binary.wep1_id]
+            existing_entry['phial'] = phial
+            existing_entry['phial_power'] = power
+        if weapon_type == cfg.GUNLANCE:
+            # first 5 are normals, second 5 are wide, third 5 are long
+            shelling = ['normal', 'wide', 'long'][binary.wep1_id // 5]
+            level = (binary.wep1_id % 5) + 1
+            existing_entry['shelling'] = shelling
+            existing_entry['shelling_level'] = level
+        if weapon_type == cfg.INSECT_GLAIVE:
+            existing_entry['kinsect_bonus'] = glaive_boosts[binary.wep1_id]
 
     # Internal helper to bind only sharpness data (melee only)
     def bind_weapon_sharpness_info(existing_entry, binary: wp_dat.WpDatEntry):
@@ -393,6 +438,7 @@ def update_weapons():
 
             existing_entry['name'] = name
             bind_basic_weapon_data(weapon_type, existing_entry, binary)
+            bind_weapon_blade_ext(weapon_type, existing_entry, binary)
             bind_weapon_sharpness_info(existing_entry, binary)
 
     # Process ranged weapons. These use a different schema type and different post processing
