@@ -101,7 +101,7 @@ def load_data():
                     .extend_base('weapon_base_translations.csv')
                     .add_csv_ext("weapon_sharpness.csv", key="sharpness")
                     .add_csv_ext("weapon_bow_ext.csv", key="bow")
-                    .add_csv("weapon_craft_ext.csv", key="craft")
+                    .add_csv("weapon_craft.csv", key="craft")
                     .get(schema=schema.WeaponSchema()))
 
     # Load weapon hunting horn songs
