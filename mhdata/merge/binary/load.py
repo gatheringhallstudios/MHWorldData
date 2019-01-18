@@ -2,10 +2,10 @@ from typing import Type, Mapping, Iterable
 from os.path import dirname, abspath, join
 import re
 
-from mhdata.util import OrderedSet
+from mhdata.util import OrderedSet, Sharpness
 
 from mhw_armor_edit import ftypes
-from mhw_armor_edit.ftypes import gmd
+from mhw_armor_edit.ftypes import gmd, kire, wp_dat
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -79,3 +79,36 @@ class ItemTextHandler():
     def text_for(self, item_id: int):
         self.encountered.add(item_id)
         return (self._item_text[item_id * 2], self._item_text[item_id * 2 + 1])
+
+class SharpnessDataReader():
+    "A class that loads sharpness data and processes it for binary weapon objects"
+    def __init__(self):
+        self.sharpness_data = load_schema(kire.Kire, "common/equip/kireaji.kire")
+
+    def sharpness_for(self, binary: wp_dat.WpDatEntry):
+        """"Returns sharpness data for the given binary weapon entry.
+        This sharpness data is in the form used in the sharpness csv file"""
+
+        sharpness_binary = self.sharpness_data[binary.kire_id]
+        sharpness_modifier = -250 + (binary.handicraft*50)
+        sharpness_maxed = sharpness_modifier == 0
+        if not sharpness_maxed:
+            sharpness_modifier += 50 # we store the handicraft+5 value...
+
+        # Binary data lists "end" positions, not pool sizes
+        # So we convert by subtracting the previous end position
+        sharpness_values = Sharpness(
+            red=sharpness_binary.red,
+            orange=sharpness_binary.orange-sharpness_binary.red,
+            yellow=sharpness_binary.yellow-sharpness_binary.orange,
+            green=sharpness_binary.green-sharpness_binary.yellow,
+            blue=sharpness_binary.blue-sharpness_binary.green,
+            white=sharpness_binary.white-sharpness_binary.blue,
+            purple=sharpness_binary.purple-sharpness_binary.white)
+        sharpness_values.subtract(-sharpness_modifier)
+
+        return {
+            'maxed': sharpness_maxed,
+            **sharpness_values.to_object()
+        }
+        

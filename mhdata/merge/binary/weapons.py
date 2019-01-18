@@ -1,10 +1,9 @@
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
-from mhdata.util import Sharpness
 from mhdata.build import datafn
 
-from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, kire, eq_crt, eq_cus
-from .load import load_schema, load_text, ItemTextHandler
+from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, eq_crt, eq_cus
+from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader
 from .items import add_missing_items
 
 from mhdata import cfg
@@ -84,7 +83,7 @@ def update_weapons():
 
     item_text_handler = ItemTextHandler()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
-    sharpness_data = load_schema(kire.Kire, "common/equip/kireaji.kire")
+    sharpness_reader = SharpnessDataReader()
 
     crafting_data_map = {}
     for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
@@ -173,27 +172,7 @@ def update_weapons():
             existing_entry['notes'] = "".join(notes)
         
         # Sharpness
-        sharpness_binary = sharpness_data[binary.kire_id]
-        sharpness_modifier = -250 + (binary.handicraft*50)
-        sharpness_maxed = sharpness_modifier == 0
-        if not sharpness_maxed:
-            sharpness_modifier += 50 # we store the handicraft+5 value...
-
-        # Binary data lists "end" positions, not pool sizes
-        sharpness_values = Sharpness(
-            red=sharpness_binary.red,
-            orange=sharpness_binary.orange-sharpness_binary.red,
-            yellow=sharpness_binary.yellow-sharpness_binary.orange,
-            green=sharpness_binary.green-sharpness_binary.yellow,
-            blue=sharpness_binary.blue-sharpness_binary.green,
-            white=sharpness_binary.white-sharpness_binary.blue,
-            purple=sharpness_binary.purple-sharpness_binary.white)
-        sharpness_values.subtract(-sharpness_modifier)
-
-        existing_entry['sharpness'] = {
-            'maxed': sharpness_maxed,
-            **sharpness_values.to_object()
-        }
+        existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
 
     for weapon_type in cfg.weapon_types_melee:
         binary_weapon_type = weapon_files[weapon_type]
