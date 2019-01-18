@@ -112,3 +112,16 @@ class SharpnessDataReader():
             **sharpness_values.to_object()
         }
         
+def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
+    "Converts a recipe binary (of type eq_cus/eq_crt) to a dictionary"
+    new_data = {}
+    
+    for i in range(1, 4+1):
+        item_id = getattr(recipe_binary, f'item{i}_id')
+        item_qty = getattr(recipe_binary, f'item{i}_qty')
+
+        item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
+        new_data[f'item{i}_name'] = item_name
+        new_data[f'item{i}_qty'] = item_qty if item_qty else None
+
+    return new_data

@@ -2,8 +2,8 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.build import datafn
 
-from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, eq_crt, eq_cus
-from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader
+from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, eq_crt, eq_cus, sh_tbl
+from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader, convert_recipe
 from .items import add_missing_items
 
 from mhdata import cfg
@@ -93,7 +93,8 @@ def update_weapons():
     upgrade_data_map = {}
     for entry in load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus").entries:
         wtype = weapon_types[entry.equip_type]
-        upgrade_data_map[(wtype, entry.equip_id)] = entry
+        if entry.item1_qty > 0:
+            upgrade_data_map[(wtype, entry.equip_id)] = entry
 
     upgrading_data = load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus")
 
@@ -128,25 +129,16 @@ def update_weapons():
         # crafting data
         existing_entry['craft'] = []
         key = (weapon_type, binary.id)
-        recipes = []
         if key in crafting_data_map:
-            recipes.append(("Create", crafting_data_map[key]))
+            existing_entry['craft'].append({
+                'type': 'Create',
+                **convert_recipe(item_text_handler, crafting_data_map[key])
+            })
         if key in upgrade_data_map:
-            map_entry = upgrade_data_map[key]
-            if map_entry.item1_qty > 0:
-                recipes.append(("Upgrade", upgrade_data_map[key]))
-        for recipe_type, recipe_binary in recipes:
-            new_data = {'type': recipe_type }
-
-            for i in range(1, 4+1):
-                item_id = getattr(recipe_binary, f'item{i}_id')
-                item_qty = getattr(recipe_binary, f'item{i}_qty')
-
-                item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
-                new_data[f'item{i}_name'] = item_name
-                new_data[f'item{i}_qty'] = item_qty if item_qty else None
-
-            existing_entry['craft'].append(new_data)
+            existing_entry['craft'].append({
+                'type': 'Upgrade',
+                **convert_recipe(item_text_handler, upgrade_data_map[key])
+            })
 
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:

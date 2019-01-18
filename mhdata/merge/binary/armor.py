@@ -4,7 +4,7 @@ from mhdata.util import OrderedSet, bidict
 from mhdata.build import datafn
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from .load import load_schema, load_text, ItemTextHandler
+from .load import load_schema, load_text, ItemTextHandler, convert_recipe
 from .items import add_missing_items
 
 # Index based gender restriction
@@ -108,13 +108,7 @@ def update_armor():
 
             # Add recipe to new armor data. Also track the encounter.
             recipe_binary = armor_craft_data[armor_binary.id]
-            for i in range(1, 4+1):
-                item_id = getattr(recipe_binary, f'item{i}_id')
-                item_qty = getattr(recipe_binary, f'item{i}_qty')
-
-                item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
-                new_data['craft'][f'item{i}_name'] = item_name
-                new_data['craft'][f'item{i}_qty'] = item_qty if item_qty else None
+            new_data['craft'] = convert_recipe(item_text_handler, recipe_binary)
 
             armor_entry = None
             if not existing_armor:
