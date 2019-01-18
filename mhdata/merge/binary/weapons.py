@@ -100,8 +100,10 @@ def update_weapons():
 
     print("Loaded initial weapon binary data data")
 
-    # Internal helper to DRY up melee/gun weapons
     def bind_basic_weapon_data(weapon_type, existing_entry, binary):
+        "Binds the basic general weapon data, plus elements"
+        multiplier = cfg.weapon_multiplier[weapon_type]
+
         existing_entry['weapon_type'] = weapon_type
         existing_entry['rarity'] = binary.rarity + 1
         existing_entry['attack'] = binary.raw_damage * multiplier
@@ -162,54 +164,34 @@ def update_weapons():
             notes = [note_entry.note1, note_entry.note2, note_entry.note3]
             notes = [str(note_colors[n]) for n in notes]
             existing_entry['notes'] = "".join(notes)
-        
-        # Sharpness
-        existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
 
-    for weapon_type in cfg.weapon_types_melee:
+    for weapon_type in cfg.weapon_types:
         binary_weapon_type = weapon_files[weapon_type]
         print(f"Processing {weapon_type} ({binary_weapon_type})")
 
         # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
-        weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat").entries
+        # Therefore its unsorted, we have to work off the spreadsheet order 
         weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
+        if weapon_type in cfg.weapon_types_melee:
+            weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat").entries
+        else:
+            weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
         print(f"Loaded {weapon_type} binary and text data")
-
-        multiplier = cfg.weapon_multiplier[weapon_type]
 
         for binary in weapon_binaries:
             name = weapon_text[binary.gmd_name_index]
             existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
-
-            # For now, this routine is update only
-            if not existing_entry:
-                continue
-
-            existing_entry['name'] = name
-            bind_basic_weapon_data(weapon_type, existing_entry, binary)
-            bind_weapon_blade_ext(weapon_type, existing_entry, binary)
-
-    # Process ranged weapons. These use a different schema type and different post processing
-    for weapon_type in cfg.weapon_types_ranged:
-        binary_weapon_type = weapon_files[weapon_type]
-        print(f"Processing {weapon_type} ({binary_weapon_type})")
-
-        weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
-        weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
-        print(f"Loaded {weapon_type} binary and text data")
-        
-        multiplier = cfg.weapon_multiplier[weapon_type]
-
-        for binary in weapon_binaries:
-            name = weapon_text[binary.gmd_name_index]
-            existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
-
+            
             # For now, this routine is update only
             if not existing_entry:
                 continue
             
             existing_entry['name'] = name
             bind_basic_weapon_data(weapon_type, existing_entry, binary)
+
+            if weapon_type in cfg.weapon_types_melee:
+                bind_weapon_blade_ext(weapon_type, existing_entry, binary)
+                existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
 
     # Write new data
     writer = create_writer()
