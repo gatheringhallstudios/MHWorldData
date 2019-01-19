@@ -104,6 +104,11 @@ class DataReaderWriter(DataReader):
 
         self.save_csv(location, flattened_rows, schema=schema)
 
+    def save_keymap_csv(self, location, data: dict, schema=None):
+        "Saves a dict as a csv, where the key becomes a value called key"
+        data = [ { 'key': key, **value } for key, value in data.items() ]
+        self.save_csv(location, data, schema=schema)
+
     def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
         """Writes a DataMap to a folder as separated json files.
         The split occurs on the value of key_field.

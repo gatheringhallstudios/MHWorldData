@@ -75,5 +75,5 @@ class BaseSchema(Schema):
 
     @post_dump
     def ungroup_fields(self, data):
-        groups = self.__groups__ or []
+        groups = list(self.__groups__ or []) + self.identify_prefixes()
         return ungroup_fields(data, groups=groups)

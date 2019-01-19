@@ -275,6 +275,7 @@ def AmmoGroup():
     return NestedPrefix("AmmoGroupSchema")
 
 class WeaponAmmoSchema(BaseSchema):
+    key = fields.Str()
     deviation = fields.Str()
     special = fields.Str()
     normal1 = AmmoGroup()

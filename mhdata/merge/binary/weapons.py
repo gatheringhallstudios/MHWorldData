@@ -77,6 +77,124 @@ glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health']
 # Note index to color mapping
 note_colors = ['P', 'R', 'O', 'Y', 'G', 'B', 'C', 'W']
 
+deviation = ["None", "Low", "Average", "High"]
+special_ammo_types = ["Wyvernblast", "Wyvernheart", "Wyvernsnipe"]
+
+bullet_types = [
+    "normal1", "normal2", "normal3", "pierce1", "pierce2", "pierce3",
+    "spread1", "spread2", "spread3", "sticky1", "sticky2", "sticky3",
+    "cluster1", "cluster2", "cluster3", "recover1", "recover2",
+    "poison1", "poison2", "paralysis1", "paralysis2", "sleep1", "sleep2",
+    "exhaust1", "exhaust2", "flaming", "water", "freeze", "thunder", "dragon",
+    "slicing", "wyvern", "demon", "armor", "tranq"
+]
+
+# Listing of which ammo starting types do not have rapid
+# This will eventually be reduced in size
+not_rapid = [
+    'sticky', 'cluster',
+    'recover', 'poison', 'paralysis', 'sleep', 'slicing',
+    'dragon', 'demon', 'armor', 'tranq', 'wyvern']
+
+def ammotype_has_rapid(ammo_type: str):
+    for val in not_rapid:
+        if ammo_type.startswith(val):
+            return False
+    return True
+
+class WeaponAmmoLoader():
+    def __init__(self):
+        self.weapon_trees = load_text("common/text/steam/wep_series")
+        self.shell_data = load_schema(sh_tbl.ShlTbl, "common/equip/shell_table.shl_tbl")
+    
+        self.data = {}
+
+    def _rapid_and_recoil_from_binary_recoil(self, val: int):
+        # hardcoded because mhw is weird
+        # inconsistencies with source data (21 is actually recoil 4, not recoil 3)
+        if val == 0:
+            return (False, 1)
+        if val == 18:
+            return (False, 1) # Mortar
+        if val == 10:
+            return (False, -1) # auto-reload/singleshot
+        if val in [1, 2, 3]:
+            return (False, 2)
+        if val in [14, 27]:
+            return (False, 2) # Mortar
+        if val in [4, 5, 7, 11, 20, 24, 32]:
+            return (False, 3)
+        if val in [15, 16, 22, 23, 26]:
+            return (False, 3) # Mortar
+        if val in [6, 8, 9, 12, 13, 19, 21, 25]:
+            return (False, 4)
+        if val in [28, 29, 30]:
+            return (True, 2)
+        if val in [31, 33]:
+            return (True, 3)
+        if val == 17:
+            return (False, 0) # probably 17 (wyvern)
+        raise Exception("Unexpected value " + str(val))
+
+    def _reload_from_binary_reload(self, val: int):
+        if val == 17:
+            return 'fast'
+        if val in [0, 1, 14, 18]:
+            return 'normal'
+        if val in [2, 3, 4, 5, 11, 15, 16]:
+            return 'slow'
+        if val in [6, 7, 8, 9, 10, 12, 13]:
+            return 'very slow'
+        return None
+
+    def create_data_for(self, wtype: str, binary: wp_dat_g.WpDatGEntry):
+        shell = self.shell_data[binary.shell_table_id]
+        
+        data = {
+            'deviation': deviation[binary.deviation],
+            'special': special_ammo_types[binary.special_ammo_type]
+        }
+
+        for btype in bullet_types:
+            clip_size = getattr(shell, f'{btype}_capacity')
+            
+            if clip_size:
+                recoil_b = getattr(shell, f'{btype}_recoil')
+                reload_b = getattr(shell, f'{btype}_reload')
+                (rapid, recoil) = self._rapid_and_recoil_from_binary_recoil(recoil_b)
+                reload = self._reload_from_binary_reload(reload_b)
+            else:
+                rapid = False
+                recoil = None
+                reload = None
+
+            data[btype] = {
+                'clip': getattr(shell, f'{btype}_capacity')
+            }
+            if ammotype_has_rapid(btype):
+                #data[btype]['rapid'] = rapid
+                data[btype]['rapid'] = False
+            if btype != 'wyvern':
+                data[btype]['recoil'] = recoil
+            data[btype]['reload'] = reload
+
+        type_short = "LBG" if wtype == cfg.LIGHT_BOWGUN else "HBG"
+        tree = self.weapon_trees[binary.tree_id]['en']
+        tree = tree.replace(" Tree", "").replace(" Element", "")
+        name = type_short + " " + tree
+        
+        for i in range(1, 1000):
+            test_name = name if i == 1 else name + " " + str(i)
+            
+            if test_name not in self.data:
+                self.data[test_name] = data
+                return (test_name, data)
+            elif self.data[test_name] == data:
+                return (test_name, data)
+                
+        raise Exception("No suitable name found")
+
+
 def update_weapons():
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
@@ -84,6 +202,7 @@ def update_weapons():
     item_text_handler = ItemTextHandler()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
+    ammo_reader = WeaponAmmoLoader()
 
     crafting_data_map = {}
     for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
@@ -192,6 +311,10 @@ def update_weapons():
             if weapon_type in cfg.weapon_types_melee:
                 bind_weapon_blade_ext(weapon_type, existing_entry, binary)
                 existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
+            elif weapon_type in cfg.weapon_types_gun:
+                (name, ammo_data) = ammo_reader.create_data_for(weapon_type, binary)
+                existing_entry['ammo_config'] = name
+                # retrieve ammo settings from ammo_reader later
 
     # Write new data
     writer = create_writer()
@@ -215,6 +338,12 @@ def update_weapons():
         mhdata.weapon_map, 
         key="craft",
         schema=schema.WeaponCraftSchema()
+    )
+
+    writer.save_keymap_csv(
+        "weapons/weapon_ammo.csv",
+        ammo_reader.data,
+        schema=schema.WeaponAmmoSchema()
     )
 
     add_missing_items(item_text_handler.encountered, mhdata=mhdata)
