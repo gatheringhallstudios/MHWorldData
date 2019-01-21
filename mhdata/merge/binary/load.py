@@ -171,7 +171,6 @@ class WeaponDataNode():
     def add_child(self, child: 'WeaponDataNode'):
         child.parent = self
         self.children.append(child)
-        # todo: sort children
 
 class WeaponTree(Iterable[WeaponDataNode]):
     def __init__(self, weapon_map: Mapping[int, WeaponDataNode]):
@@ -182,6 +181,13 @@ class WeaponTree(Iterable[WeaponDataNode]):
         for weapon in self.weapon_map.values():
             self.weapon_map_by_name[weapon.name['en']] = weapon
 
+        # Figure out which are the roots.
+        # Note that insertion order is the correct order.
+        self.roots = []
+        for weapon in self.weapon_map.values():
+            if weapon.parent == None:
+                self.roots.append(weapon)
+
     def by_id(self, entry_id):
         return self.weapon_map[entry_id]
 
@@ -189,7 +195,15 @@ class WeaponTree(Iterable[WeaponDataNode]):
         return self.weapon_map_by_name[name_en]
 
     def __iter__(self):
-        return self.weapon_map.values().__iter__()
+        "Depth-first search iteration of the weapon tree"
+        stack = []
+        stack.extend(reversed(self.roots))
+
+        while stack:
+            current_item = stack.pop()
+            yield current_item
+            if current_item.children:
+                stack.extend(reversed(current_item.children))
 
 class WeaponDataLoader():
     def __init__(self):
