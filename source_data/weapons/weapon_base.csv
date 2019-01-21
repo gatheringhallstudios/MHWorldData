@@ -948,8 +948,8 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 924,Lumu Typhon I,light-bowgun,Lumu Blitz II,5,195,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
 925,Lumu Typhon II,light-bowgun,Lumu Typhon I,6,208,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
 926,Lumu Typhon III,light-bowgun,Lumu Typhon II,6,221,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Paolumu
-927,Bazel Typhoon I,light-bowgun,Lumu Typhon I,6,247,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazel
-928,Bazel Typhoon II,light-bowgun,Bazel Typhoon I,7,260,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazel
+927,Bazel Typhoon I,light-bowgun,Lumu Typhon I,6,247,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazelgeuse
+928,Bazel Typhoon II,light-bowgun,Bazel Typhoon I,7,260,-10,,FALSE,,,,,,1,0,0,,,,,,,LBG Bazelgeuse
 929,Jagras Blitz I,light-bowgun,Chain Blitz II,2,169,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Great Jagras
 930,Jagras Blitz II,light-bowgun,Jagras Blitz I,3,182,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Great Jagras
 931,Jagras Blitz III,light-bowgun,Jagras Blitz II,4,195,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Great Jagras
@@ -1005,18 +1005,18 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 981,Dragonbone Bowgun I,light-bowgun,,3,130,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Dragonbone
 982,Dragonbone Bowgun II,light-bowgun,Dragonbone Bowgun I,4,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Dragonbone
 983,Dragonbone Bowgun III,light-bowgun,Dragonbone Bowgun II,6,208,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Dragonbone
-984,Onigashima,light-bowgun,Dragonbone Bowgun II,7,208,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Workshop 1
-985,Dai-Onigashima,light-bowgun,Onigashima,8,221,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Workshop 1
+984,Onigashima,light-bowgun,Dragonbone Bowgun II,7,208,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Workshop Weapon
+985,Dai-Onigashima,light-bowgun,Onigashima,8,221,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Workshop Weapon
 986,Mythical Horn,light-bowgun,Dragonbone Bowgun I,4,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Kirin
 987,Mythical Horn+,light-bowgun,Mythical Horn,7,182,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Kirin
 988,Mythical Three-Horn,light-bowgun,Mythical Horn+,8,208,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Kirin
-989,Blacksteel Crossbow I,light-bowgun,,5,130,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Blacksteel 1
-990,Blacksteel Crossbow II,light-bowgun,Blacksteel Crossbow I,6,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Blacksteel 1
+989,Blacksteel Crossbow I,light-bowgun,,5,130,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Blacksteel
+990,Blacksteel Crossbow II,light-bowgun,Blacksteel Crossbow I,6,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Blacksteel
 991,Icesteel Wasp,light-bowgun,Blacksteel Crossbow II,7,221,10,,FALSE,,,,,,2,0,0,,,,,,,LBG Blacksteel 2
 992,Daora's Hornet,light-bowgun,Icesteel Wasp,8,234,10,,FALSE,,,,,,2,0,0,,,,,,,LBG Blacksteel 2
-993,Xeno Neqiina,light-bowgun,Blacksteel Crossbow II,8,234,0,,FALSE,,,,,,3,3,0,,,,,,,LBG Xeno
-994,Cross Bowgun,light-bowgun,,6,234,0,20,FALSE,,,,,,2,0,0,,,,,,,LBG Workshop 2
-995,Great Bowgun,light-bowgun,Cross Bowgun,8,260,0,20,FALSE,,,,,,3,0,0,,,,,,,LBG Workshop 2
+993,Xeno Neqiina,light-bowgun,Blacksteel Crossbow II,8,234,0,,FALSE,,,,,,3,3,0,,,,,,,LBG Xeno'jiiva
+994,Cross Bowgun,light-bowgun,,6,234,0,20,FALSE,,,,,,2,0,0,,,,,,,LBG Workshop Weapon 2
+995,Great Bowgun,light-bowgun,Cross Bowgun,8,260,0,20,FALSE,,,,,,3,0,0,,,,,,,LBG Workshop Weapon 2
 1181,Devil's Grin,light-bowgun,,6,273,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
 1182,Devil's Madness,light-bowgun,Devil's Grin,7,299,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
 996,Iron Assault I,heavy-bowgun,,1,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
@@ -1035,11 +1035,11 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1009,Water Cannon I,heavy-bowgun,Aqua Assault III,5,225,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Water
 1010,Water Cannon II,heavy-bowgun,Water Cannon I,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Water
 1011,Water Cannon III,heavy-bowgun,Water Cannon II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Water
-1012,Luminous Assault I,heavy-bowgun,Aqua Assault I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi
-1013,Luminous Assault II,heavy-bowgun,Luminous Assault I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi
-1014,Arma Destroyer I,heavy-bowgun,Luminous Assault II,5,225,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
-1015,Arma Destroyer II,heavy-bowgun,Arma Destroyer I,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
-1016,Arma Destroyer III,heavy-bowgun,Arma Destroyer II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi
+1012,Luminous Assault I,heavy-bowgun,Aqua Assault I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi-Ya-Ku
+1013,Luminous Assault II,heavy-bowgun,Luminous Assault I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Tzitzi-Ya-Ku
+1014,Arma Destroyer I,heavy-bowgun,Luminous Assault II,5,225,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi-Ya-Ku
+1015,Arma Destroyer II,heavy-bowgun,Arma Destroyer I,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi-Ya-Ku
+1016,Arma Destroyer III,heavy-bowgun,Arma Destroyer II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Tzitzi-Ya-Ku
 1017,Shattercryst,heavy-bowgun,Luminous Assault I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Legiana
 1018,Shattercryst+,heavy-bowgun,Shattercryst,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Legiana
 1019,Legia Shattercryst,heavy-bowgun,Shattercryst+,8,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Legiana
@@ -1066,12 +1066,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1040,Dual Threat,heavy-bowgun,Diablos Shooter II,6,300,-20,15,FALSE,,,,,,1,0,0,,,,,,,HBG Diablos
 1041,Nero's Blazooka,heavy-bowgun,Dual Threat,7,315,-20,15,FALSE,,,,,,1,0,0,,,,,,,HBG Diablos
 1042,Griffon Blazooka,heavy-bowgun,Nero's Blazooka,8,330,-20,15,FALSE,,,,,,1,0,0,,,,,,,HBG Diablos
-1043,Blooming Shooter I,heavy-bowgun,Bone Shooter II,2,180,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei
-1044,Blooming Shooter II,heavy-bowgun,Blooming Shooter I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei
-1045,Blooming Shooter III,heavy-bowgun,Blooming Shooter II,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei
-1046,Datura Blaster I,heavy-bowgun,Blooming Shooter III,5,225,0,,FALSE,,,,,,1,1,0,,,,,,,HBG Pukei
-1047,Datura Blaster II,heavy-bowgun,Datura Blaster I,6,240,0,,FALSE,,,,,,1,1,0,,,,,,,HBG Pukei
-1048,Datura Blaster III,heavy-bowgun,Datura Blaster II,6,255,0,,FALSE,,,,,,2,1,0,,,,,,,HBG Pukei
+1043,Blooming Shooter I,heavy-bowgun,Bone Shooter II,2,180,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei-Pukei
+1044,Blooming Shooter II,heavy-bowgun,Blooming Shooter I,3,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei-Pukei
+1045,Blooming Shooter III,heavy-bowgun,Blooming Shooter II,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Pukei-Pukei
+1046,Datura Blaster I,heavy-bowgun,Blooming Shooter III,5,225,0,,FALSE,,,,,,1,1,0,,,,,,,HBG Pukei-Pukei
+1047,Datura Blaster II,heavy-bowgun,Datura Blaster I,6,240,0,,FALSE,,,,,,1,1,0,,,,,,,HBG Pukei-Pukei
+1048,Datura Blaster III,heavy-bowgun,Datura Blaster II,6,255,0,,FALSE,,,,,,2,1,0,,,,,,,HBG Pukei-Pukei
 1049,Spiked Shooter I,heavy-bowgun,Blooming Shooter I,3,195,0,15,FALSE,,,,,,0,0,0,,,,,,,HBG Radobaan
 1050,Spiked Shooter II,heavy-bowgun,Spiked Shooter I,4,210,0,15,FALSE,,,,,,0,0,0,,,,,,,HBG Radobaan
 1051,Baan Roar I,heavy-bowgun,Spiked Shooter II,5,225,0,20,FALSE,,,,,,0,0,0,,,,,,,HBG Radobaan
@@ -1079,25 +1079,25 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1053,Baan Roar III,heavy-bowgun,Baan Roar II,6,270,0,20,FALSE,,,,,,0,0,0,,,,,,,HBG Radobaan
 1054,Gama Cannon I,heavy-bowgun,Baan Roar I,6,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Dodogama
 1055,Gama Cannon II,heavy-bowgun,Gama Cannon I,7,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Dodogama
-1056,Pulsar Shooter I,heavy-bowgun,Bone Shooter II,2,180,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi
-1057,Pulsar Shooter II,heavy-bowgun,Pulsar Shooter I,3,195,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi
-1058,Pulsar Shooter III,heavy-bowgun,Pulsar Shooter II,4,210,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi
-1059,Kadachi Lion I,heavy-bowgun,Pulsar Shooter III,5,225,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi
-1060,Kadachi Lion II,heavy-bowgun,Kadachi Lion I,6,240,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi
-1061,Kadachi Lion III,heavy-bowgun,Kadachi Lion II,6,255,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi
+1056,Pulsar Shooter I,heavy-bowgun,Bone Shooter II,2,180,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi-Kadachi
+1057,Pulsar Shooter II,heavy-bowgun,Pulsar Shooter I,3,195,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi-Kadachi
+1058,Pulsar Shooter III,heavy-bowgun,Pulsar Shooter II,4,210,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Tobi-Kadachi
+1059,Kadachi Lion I,heavy-bowgun,Pulsar Shooter III,5,225,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi-Kadachi
+1060,Kadachi Lion II,heavy-bowgun,Kadachi Lion I,6,240,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi-Kadachi
+1061,Kadachi Lion III,heavy-bowgun,Kadachi Lion II,6,255,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Tobi-Kadachi
 1062,Dragonbone Cannon I,heavy-bowgun,,3,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Dragonbone
 1063,Dragonbone Cannon II,heavy-bowgun,Dragonbone Cannon I,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Dragonbone
 1064,Dragonbone Cannon III,heavy-bowgun,Dragonbone Cannon II,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Dragonbone
 1065,Quickcaster,heavy-bowgun,Dragonbone Cannon I,4,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Kirin
 1066,Quickcaster+,heavy-bowgun,Quickcaster,7,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Kirin
 1067,Quickquiver,heavy-bowgun,Quickcaster+,8,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Kirin
-1068,Magda Gemitus I,heavy-bowgun,Dragonbone Cannon I,5,240,-20,20,FALSE,,,,,,1,0,0,,,,,,,HBG Zorah
-1069,Magda Gemitus II,heavy-bowgun,Magda Gemitus I,7,315,-20,20,FALSE,,,,,,2,0,0,,,,,,,HBG Zorah
-1070,Blacksteel Cannon I,heavy-bowgun,,5,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel 1
-1071,Blacksteel Cannon II,heavy-bowgun,Blacksteel Cannon I,6,165,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel 1
+1068,Magda Gemitus I,heavy-bowgun,Dragonbone Cannon I,5,240,-20,20,FALSE,,,,,,1,0,0,,,,,,,HBG Zorah Magdaros
+1069,Magda Gemitus II,heavy-bowgun,Magda Gemitus I,7,315,-20,20,FALSE,,,,,,2,0,0,,,,,,,HBG Zorah Magdaros
+1070,Blacksteel Cannon I,heavy-bowgun,,5,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel
+1071,Blacksteel Cannon II,heavy-bowgun,Blacksteel Cannon I,6,165,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel
 1072,Teostra's Artillery,heavy-bowgun,Blacksteel Cannon II,7,255,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel 2
 1073,Teostra's Flames,heavy-bowgun,Teostra's Artillery,8,270,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Blacksteel 2
-1074,Xeno Jiiqa,heavy-bowgun,Blacksteel Cannon II,8,255,0,,FALSE,,,,,,3,3,0,,,,,,,HBG Xeno
+1074,Xeno Jiiqa,heavy-bowgun,Blacksteel Cannon II,8,255,0,,FALSE,,,,,,3,3,0,,,,,,,HBG Xeno'jiiva
 1183,Gluttonous Cannon,heavy-bowgun,,6,315,-25,,FALSE,,,,,,0,0,0,,,,,,,HBG Deviljho
 1184,Dark Devourer,heavy-bowgun,Gluttonous Cannon,7,345,-25,,FALSE,,,,,,0,0,0,,,,,,,HBG Deviljho
 1075,Iron Bow I,bow,,1,96,0,,FALSE,,,,,,0,0,0,,,,,,,

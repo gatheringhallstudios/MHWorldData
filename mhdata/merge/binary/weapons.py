@@ -144,10 +144,7 @@ class WeaponAmmoLoader():
                 'clip': getattr(shell, f'{btype}_capacity')
             }
             if ammotype_has_rapid(btype):
-                # Currently disabled to compare with existing data
-                # which is currently bugged with rapid (Will be enabled later)
-                #data[btype]['rapid'] = rapid
-                data[btype]['rapid'] = False
+                data[btype]['rapid'] = rapid
             if btype != 'wyvern':
                 data[btype]['recoil'] = recoil
             data[btype]['reload'] = reload
