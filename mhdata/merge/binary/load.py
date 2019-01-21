@@ -155,9 +155,11 @@ weapon_types = [
 ]
 
 class WeaponDataNode():
-    def __init__(self, binary, name: dict, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
+    def __init__(self, binary, wtype: str, name: dict, tree: str, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
         self.binary = binary
+        self.wtype = wtype
         self.name = name
+        self.tree = tree
         self.craft = craft
         self.upgrade = upgrade
 
@@ -207,6 +209,8 @@ class WeaponTree(Iterable[WeaponDataNode]):
 
 class WeaponDataLoader():
     def __init__(self):
+        self.weapon_trees = load_text("common/text/steam/wep_series")
+        
         # Retrieve all creation data
         self.crafting_data_map = {}
         for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
@@ -242,13 +246,12 @@ class WeaponDataLoader():
             # Pull descendants from upgrade recipe
             # and then clear if there are no ingredients
             if upgrade_recipe:
-                descendant_ids = [self.upgrade_data[idx].equip_id for idx in (
+                weapon_descendants[binary.id] = (
                     upgrade_recipe.descendant1_idx,
                     upgrade_recipe.descendant2_idx,
                     upgrade_recipe.descendant3_idx,
                     upgrade_recipe.descendant4_idx
-                ) if idx != 0]
-                weapon_descendants[binary.id] = descendant_ids
+                )
 
                 if upgrade_recipe.item1_qty == 0:
                     upgrade_recipe = None
@@ -259,16 +262,34 @@ class WeaponDataLoader():
 
             weapon_map[binary.id] = WeaponDataNode(
                 binary,
+                wtype=weapon_type,
                 name=weapon_text[binary.gmd_name_index],
+                tree=self.weapon_trees[binary.tree_id]['en'],
                 craft=craft_recipe, 
                 upgrade=upgrade_recipe)
 
         # Second pass - start connecting parents and descendants
         # Iterate on upgrade recipe as that contains the descendant data
         for weapon in weapon_map.values():
-            for descendant_id in weapon_descendants.get(weapon.id, []):
+            descendants = weapon_descendants.get(weapon.id, [])
+            if not any(descendants):
+                continue # all are 0, no descendants
+
+            # if the first entry is 0, that means that this is the last upgrade on the tree line.
+            is_last = descendants[0] == 0
+            for descendant_idx in descendants:
+                if descendant_idx == 0:
+                    continue
+
+                descendant_id = self.upgrade_data[descendant_idx].equip_id
                 descendant = weapon_map[descendant_id]
                 weapon.add_child(descendant)
 
-        # Return result
+            # override tree name for first descendants
+            # There are no splits before final upgrade in the game UI
+            if not is_last:
+                weapon.children[0].tree = weapon.tree
+
+        # Return result - the construction does some processing as well
         return WeaponTree(weapon_map)
+        

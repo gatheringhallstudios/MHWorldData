@@ -77,7 +77,6 @@ def ammotype_has_rapid(ammo_type: str):
 
 class WeaponAmmoLoader():
     def __init__(self):
-        self.weapon_trees = load_text("common/text/steam/wep_series")
         self.shell_data = load_schema(sh_tbl.ShlTbl, "common/equip/shell_table.shl_tbl")
     
         self.data = {}
@@ -120,7 +119,7 @@ class WeaponAmmoLoader():
             return 'very slow'
         return None
 
-    def create_data_for(self, wtype: str, binary: wp_dat_g.WpDatGEntry):
+    def create_data_for(self, wtype: str, tree: str, binary: wp_dat_g.WpDatGEntry):
         shell = self.shell_data[binary.shell_table_id]
         
         data = {
@@ -154,7 +153,6 @@ class WeaponAmmoLoader():
             data[btype]['reload'] = reload
 
         type_short = "LBG" if wtype == cfg.LIGHT_BOWGUN else "HBG"
-        tree = self.weapon_trees[binary.tree_id]['en']
         tree = tree.replace(" Tree", "").replace(" Element", "")
         name = type_short + " " + tree
         
@@ -262,9 +260,12 @@ def update_weapons():
             if weapon_type in cfg.weapon_types_melee:
                 bind_weapon_blade_ext(weapon_type, existing_entry, binary)
                 existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
-            #elif weapon_type in cfg.weapon_types_gun:
-            #    (ammo_name, ammo_data) = ammo_reader.create_data_for(weapon_type, binary)
-            #    existing_entry['ammo_config'] = ammo_name
+            elif weapon_type in cfg.weapon_types_gun:
+                (ammo_name, ammo_data) = ammo_reader.create_data_for(
+                    wtype=weapon_type, 
+                    tree=weapon_node.tree,
+                    binary=weapon_node.binary)
+                existing_entry['ammo_config'] = ammo_name
 
             # crafting data
             existing_entry['craft'] = []
