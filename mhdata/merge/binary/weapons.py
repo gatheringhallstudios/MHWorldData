@@ -2,38 +2,11 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.build import datafn
 
-from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, eq_crt, eq_cus, sh_tbl
-from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader, convert_recipe
+from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl
+from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader, WeaponDataLoader, convert_recipe
 from .items import add_missing_items
 
 from mhdata import cfg
-
-# wp_dat files (mapping from filename -> mhwdb weapon type)
-# ranged ones map to wp_dat_g instead
-weapon_files = {
-    cfg.GREAT_SWORD: 'l_sword',
-    cfg.LONG_SWORD: 'tachi',
-    cfg.SWORD_AND_SHIELD: 'sword',
-    cfg.DUAL_BLADES: 'w_sword',
-    cfg.HAMMER: 'hammer',
-    cfg.HUNTING_HORN: 'whistle',
-    cfg.LANCE: 'lance',
-    cfg.GUNLANCE: 'g_lance',
-    cfg.SWITCH_AXE: 's_axe',
-    cfg.CHARGE_BLADE: 'c_axe',
-    cfg.INSECT_GLAIVE: 'rod',
-    cfg.LIGHT_BOWGUN: 'lbg',
-    cfg.HEAVY_BOWGUN: 'hbg',
-    cfg.BOW: 'bow'
-}
-
-# A list of weapon types ordered by ingame ordering. 
-# Positioning here corresponds to equip type
-weapon_types = [
-    cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
-    cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
-    cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
-]
 
 elements = [
     "",
@@ -118,19 +91,19 @@ class WeaponAmmoLoader():
             return (False, 1) # Mortar
         if val == 10:
             return (False, -1) # auto-reload/singleshot
-        if val in [1, 2, 3]:
+        if val in (1, 2, 3):
             return (False, 2)
-        if val in [14, 27]:
+        if val in (14, 27):
             return (False, 2) # Mortar
-        if val in [4, 5, 7, 11, 20, 24, 32]:
+        if val in (4, 5, 7, 11, 20, 24, 32):
             return (False, 3)
-        if val in [15, 16, 22, 23, 26]:
+        if val in (15, 16, 22, 23, 26):
             return (False, 3) # Mortar
-        if val in [6, 8, 9, 12, 13, 19, 21, 25]:
+        if val in (6, 8, 9, 12, 13, 19, 21, 25):
             return (False, 4)
-        if val in [28, 29, 30]:
+        if val in (28, 29, 30):
             return (True, 2)
-        if val in [31, 33]:
+        if val in (31, 33):
             return (True, 3)
         if val == 17:
             return (False, 0) # probably 17 (wyvern)
@@ -139,11 +112,11 @@ class WeaponAmmoLoader():
     def _reload_from_binary_reload(self, val: int):
         if val == 17:
             return 'fast'
-        if val in [0, 1, 14, 18]:
+        if val in (0, 1, 14, 18):
             return 'normal'
-        if val in [2, 3, 4, 5, 11, 15, 16]:
+        if val in (2, 3, 4, 5, 11, 15, 16):
             return 'slow'
-        if val in [6, 7, 8, 9, 10, 12, 13]:
+        if val in (6, 7, 8, 9, 10, 12, 13):
             return 'very slow'
         return None
 
@@ -172,6 +145,8 @@ class WeaponAmmoLoader():
                 'clip': getattr(shell, f'{btype}_capacity')
             }
             if ammotype_has_rapid(btype):
+                # Currently disabled to compare with existing data
+                # which is currently bugged with rapid (Will be enabled later)
                 #data[btype]['rapid'] = rapid
                 data[btype]['rapid'] = False
             if btype != 'wyvern':
@@ -199,23 +174,11 @@ def update_weapons():
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
 
+    weapon_loader = WeaponDataLoader()
     item_text_handler = ItemTextHandler()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
     ammo_reader = WeaponAmmoLoader()
-
-    crafting_data_map = {}
-    for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
-        wtype = weapon_types[entry.equip_type]
-        crafting_data_map[(wtype, entry.equip_id)] = entry
-
-    upgrade_data_map = {}
-    for entry in load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus").entries:
-        wtype = weapon_types[entry.equip_type]
-        if entry.item1_qty > 0:
-            upgrade_data_map[(wtype, entry.equip_id)] = entry
-
-    upgrading_data = load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus")
 
     print("Loaded initial weapon binary data data")
 
@@ -247,20 +210,6 @@ def update_weapons():
             existing_entry['element2'] = None
             existing_entry['element2_attack'] = None
 
-        # crafting data
-        existing_entry['craft'] = []
-        key = (weapon_type, binary.id)
-        if key in crafting_data_map:
-            existing_entry['craft'].append({
-                'type': 'Create',
-                **convert_recipe(item_text_handler, crafting_data_map[key])
-            })
-        if key in upgrade_data_map:
-            existing_entry['craft'].append({
-                'type': 'Upgrade',
-                **convert_recipe(item_text_handler, upgrade_data_map[key])
-            })
-
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
@@ -285,36 +234,50 @@ def update_weapons():
             existing_entry['notes'] = "".join(notes)
 
     for weapon_type in cfg.weapon_types:
-        binary_weapon_type = weapon_files[weapon_type]
-        print(f"Processing {weapon_type} ({binary_weapon_type})")
+        print(f"Processing {weapon_type}")
 
         # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
         # Therefore its unsorted, we have to work off the spreadsheet order 
-        weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
-        if weapon_type in cfg.weapon_types_melee:
-            weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat").entries
-        else:
-            weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g").entries
-        print(f"Loaded {weapon_type} binary and text data")
+        weapon_tree = weapon_loader.load_tree(weapon_type)
+        print(f"Loaded {weapon_type} weapon tree binary data")
 
-        for binary in weapon_binaries:
-            name = weapon_text[binary.gmd_name_index]
+        for weapon_node in weapon_tree:
+            binary = weapon_node.binary
+            name = weapon_node.name
             existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
             
             # For now, this routine is update only
             if not existing_entry:
                 continue
             
+            # Bind name and parent
             existing_entry['name'] = name
-            bind_basic_weapon_data(weapon_type, existing_entry, binary)
+            existing_entry['weapon_type'] = weapon_type
+            existing_entry['previous_en'] = None
+            if weapon_node.parent != None:
+                existing_entry['previous_en'] = weapon_node.parent.name['en']
 
+            # Bind info
+            bind_basic_weapon_data(weapon_type, existing_entry, binary)
             if weapon_type in cfg.weapon_types_melee:
                 bind_weapon_blade_ext(weapon_type, existing_entry, binary)
                 existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
-            elif weapon_type in cfg.weapon_types_gun:
-                (name, ammo_data) = ammo_reader.create_data_for(weapon_type, binary)
-                existing_entry['ammo_config'] = name
-                # retrieve ammo settings from ammo_reader later
+            #elif weapon_type in cfg.weapon_types_gun:
+            #    (ammo_name, ammo_data) = ammo_reader.create_data_for(weapon_type, binary)
+            #    existing_entry['ammo_config'] = ammo_name
+
+            # crafting data
+            existing_entry['craft'] = []
+            if weapon_node.craft:
+                existing_entry['craft'].append({
+                    'type': 'Create',
+                    **convert_recipe(item_text_handler, weapon_node.craft)
+                })
+            if weapon_node.upgrade:
+                existing_entry['craft'].append({
+                    'type': 'Upgrade',
+                    **convert_recipe(item_text_handler, weapon_node.upgrade)
+                })
 
     # Write new data
     writer = create_writer()

@@ -2,10 +2,11 @@ from typing import Type, Mapping, Iterable
 from os.path import dirname, abspath, join
 import re
 
+from mhdata import cfg
 from mhdata.util import OrderedSet, Sharpness
 
 from mhw_armor_edit import ftypes
-from mhw_armor_edit.ftypes import gmd, kire, wp_dat
+from mhw_armor_edit.ftypes import gmd, kire, wp_dat, wp_dat_g, eq_crt, eq_cus
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -125,3 +126,135 @@ def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
         new_data[f'item{i}_qty'] = item_qty if item_qty else None
 
     return new_data
+
+# wp_dat files (mapping from filename -> mhwdb weapon type)
+# ranged ones map to wp_dat_g instead
+weapon_files = {
+    cfg.GREAT_SWORD: 'l_sword',
+    cfg.LONG_SWORD: 'tachi',
+    cfg.SWORD_AND_SHIELD: 'sword',
+    cfg.DUAL_BLADES: 'w_sword',
+    cfg.HAMMER: 'hammer',
+    cfg.HUNTING_HORN: 'whistle',
+    cfg.LANCE: 'lance',
+    cfg.GUNLANCE: 'g_lance',
+    cfg.SWITCH_AXE: 's_axe',
+    cfg.CHARGE_BLADE: 'c_axe',
+    cfg.INSECT_GLAIVE: 'rod',
+    cfg.LIGHT_BOWGUN: 'lbg',
+    cfg.HEAVY_BOWGUN: 'hbg',
+    cfg.BOW: 'bow'
+}
+
+# A list of weapon types ordered by ingame ordering. 
+# Positioning here corresponds to equip type
+weapon_types = [
+    cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
+    cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
+    cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
+]
+
+class WeaponDataNode():
+    def __init__(self, binary, name: dict, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
+        self.binary = binary
+        self.name = name
+        self.craft = craft
+        self.upgrade = upgrade
+
+        self.parent = None
+        self.children = []
+
+    @property
+    def id(self):
+        return self.binary.id
+    
+    def add_child(self, child: 'WeaponDataNode'):
+        child.parent = self
+        self.children.append(child)
+        # todo: sort children
+
+class WeaponTree(Iterable[WeaponDataNode]):
+    def __init__(self, weapon_map: Mapping[int, WeaponDataNode]):
+        self.weapon_map = weapon_map
+
+        # mini-pass (map by name)
+        self.weapon_map_by_name = {}
+        for weapon in self.weapon_map.values():
+            self.weapon_map_by_name[weapon.name['en']] = weapon
+
+    def by_id(self, entry_id):
+        return self.weapon_map[entry_id]
+
+    def by_name(self, name_en):
+        return self.weapon_map_by_name[name_en]
+
+    def __iter__(self):
+        return self.weapon_map.values().__iter__()
+
+class WeaponDataLoader():
+    def __init__(self):
+        # Retrieve all creation data
+        self.crafting_data_map = {}
+        for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
+            wtype = weapon_types[entry.equip_type]
+            self.crafting_data_map[(wtype, entry.equip_id)] = entry
+
+        # Retrieve all upgrade data. Include "invalid ones" as they contain descendant data
+        # Also prioritizes later ones over earlier ones.
+        self.upgrade_data = load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus")
+        self.upgrade_data_map = {}
+        for entry in self.upgrade_data.entries:
+            wtype = weapon_types[entry.equip_type]
+            self.upgrade_data_map[(wtype, entry.equip_id)] = entry
+
+    def load_tree(self, weapon_type: str) -> WeaponTree:
+        "Loads the weapon tree of a type"
+        binary_weapon_type = weapon_files[weapon_type]
+
+        weapon_text = load_text(f"common/text/steam/{binary_weapon_type}")
+        if weapon_type in cfg.weapon_types_melee:
+            weapon_binaries = load_schema(wp_dat.WpDat, f"common/equip/{binary_weapon_type}.wp_dat")
+        else:
+            weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g")
+        
+        # First pass - create weapon map (id -> WeaponDataNode objects)
+        weapon_map = {}
+        weapon_descendants = {}
+        for binary in weapon_binaries.entries:
+            recipe_key = (weapon_type, binary.id)
+            craft_recipe = self.crafting_data_map.get(recipe_key)
+            upgrade_recipe = self.upgrade_data_map.get(recipe_key)
+
+            # Pull descendants from upgrade recipe
+            # and then clear if there are no ingredients
+            if upgrade_recipe:
+                descendant_ids = [self.upgrade_data[idx].equip_id for idx in (
+                    upgrade_recipe.descendant1_idx,
+                    upgrade_recipe.descendant2_idx,
+                    upgrade_recipe.descendant3_idx,
+                    upgrade_recipe.descendant4_idx
+                ) if idx != 0]
+                weapon_descendants[binary.id] = descendant_ids
+
+                if upgrade_recipe.item1_qty == 0:
+                    upgrade_recipe = None
+            
+            # Skip if invalid (has no recipe)
+            if not craft_recipe and not upgrade_recipe:
+                continue
+
+            weapon_map[binary.id] = WeaponDataNode(
+                binary,
+                name=weapon_text[binary.gmd_name_index],
+                craft=craft_recipe, 
+                upgrade=upgrade_recipe)
+
+        # Second pass - start connecting parents and descendants
+        # Iterate on upgrade recipe as that contains the descendant data
+        for weapon in weapon_map.values():
+            for descendant_id in weapon_descendants.get(weapon.id, []):
+                descendant = weapon_map[descendant_id]
+                weapon.add_child(descendant)
+
+        # Return result
+        return WeaponTree(weapon_map)
