@@ -377,6 +377,7 @@ class Weapon(Base):
 
     translations = relationship("WeaponText")
     ammo = relationship("WeaponAmmo")
+    skills = relationship("WeaponSkill")
 
     # TODO: Find a way to create two relationships: one to craft, one to upgrade.
     # the above will require more sqlalchemy knowledge that unfortunately I don't have.
@@ -585,6 +586,12 @@ class WeaponMelodyText(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     effect1 = Column(Text)
     effect2 = Column(Text)
+
+class WeaponSkill(Base):
+    __tablename__ = 'weapon_skill'
+    weapon_id = Column(Integer, ForeignKey('weapon.id'), primary_key=True)
+    skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
+    level = Column(Integer)
 
 class Decoration(Base):
     __tablename__ = 'decoration'

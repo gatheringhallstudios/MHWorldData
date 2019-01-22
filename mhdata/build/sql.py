@@ -582,6 +582,14 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         if ammo_config_name:
             weapon.ammo_id = mhdata.weapon_ammo_map[ammo_config_name].id
         
+        # Skills
+        if entry['skill']:
+            skill_id = mhdata.skill_map.id_of('en', entry['skill'])
+            weapon.skills.append(db.WeaponSkill(
+                skilltree_id=skill_id,
+                level=1
+            ))
+
         session.add(weapon)
 
     print("Built Weapons")
