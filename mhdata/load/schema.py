@@ -214,6 +214,7 @@ class WeaponBaseSchema(BaseSchema):
     shelling_level = fields.Int(allow_none=True)
     notes = fields.Str(allow_none=True)
     ammo_config = fields.Str(allow_none=True)
+    skill = fields.Str(allow_none=True)
 
     @validates('notes')
     def validate_notes(self, notes_str):

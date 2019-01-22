@@ -4,7 +4,7 @@ from mhdata.util import OrderedSet, bidict
 from mhdata.build import datafn
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from .load import load_schema, load_text, ItemTextHandler, convert_recipe
+from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe
 from .items import add_missing_items
 
 # Index based gender restriction
@@ -35,13 +35,6 @@ def update_armor():
     rarity_upgrades = {}
     for entry in load_schema(arm_up.ArmUp, "common/equip/arm_upgrade.arm_up").entries:
         rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk8 - 1)
-
-    # Get mapping from skill idx -> skill name en (as a bidict).
-    # Discovered formula via inspecting mhw_armor_edit's source.
-    skill_map = bidict()
-    skill_text = load_text("common/text/vfont/skill_pt")
-    for entry in load_schema(skl_pt_dat.SklPtDat, "common/equip/skill_point_data.skl_pt_dat").entries:
-        skill_map[entry.index] = skill_text[entry.index * 3]['en']
     
     print("Binary data loaded")
 
@@ -56,6 +49,7 @@ def update_armor():
     all_set_skill_ids = OrderedSet()
 
     item_text_handler = ItemTextHandler()
+    skill_text_handler = SkillTextHandler()
 
     print("Populating armor data, keyed by the armorset data")
     next_armor_id = mhdata.armor_map.max_id + 1
@@ -100,7 +94,8 @@ def update_armor():
                 skill_lvl = getattr(armor_binary, f"skill{i}_lvl")
                 if skill_lvl != 0:
                     skill_id = getattr(armor_binary, f"skill{i}")
-                    new_data['skills'][f'skill{i}_name'] = skill_map[skill_id]
+                    name_en = skill_text_handler.get_skilltree_name(skill_id)['en']
+                    new_data['skills'][f'skill{i}_name'] = name_en
                     new_data['skills'][f'skill{i}_pts'] = skill_lvl
                 else:
                     new_data['skills'][f'skill{i}_name'] = None
@@ -123,9 +118,10 @@ def update_armor():
                 })
 
     # Process set skills. As we don't currently understand the set -> skill map, we only translate
+    # We pull the already established set skill name from existing CSV
     for bonus_entry in mhdata.armorset_bonus_map.values():
-        set_skill_idx = skill_map.reverse()[bonus_entry.name('en')]
-        name_dict = skill_text[set_skill_idx * 3]
+        skilltree = skill_text_handler.get_skilltree(bonus_entry.name('en'))
+        name_dict = skill_text_handler.get_skilltree_name(skilltree.index)
         new_armorset_bonus_map.insert({ **bonus_entry, 'name': name_dict })
 
     # Write new data

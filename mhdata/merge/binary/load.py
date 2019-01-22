@@ -3,10 +3,10 @@ from os.path import dirname, abspath, join
 import re
 
 from mhdata import cfg
-from mhdata.util import OrderedSet, Sharpness
+from mhdata.util import OrderedSet, Sharpness, bidict
 
 from mhw_armor_edit import ftypes
-from mhw_armor_edit.ftypes import gmd, kire, wp_dat, wp_dat_g, eq_crt, eq_cus
+from mhw_armor_edit.ftypes import gmd, kire, wp_dat, wp_dat_g, eq_crt, eq_cus, skl_pt_dat
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -80,6 +80,23 @@ class ItemTextHandler():
     def text_for(self, item_id: int):
         self.encountered.add(item_id)
         return (self._item_text[item_id * 2], self._item_text[item_id * 2 + 1])
+
+class SkillTextHandler():
+    def __init__(self):    
+        self.skilltree_text = load_text("common/text/vfont/skill_pt")
+        
+        # mapping from name -> skill tree entry
+        self.skill_map = bidict()
+        for entry in load_schema(skl_pt_dat.SklPtDat, "common/equip/skill_point_data.skl_pt_dat").entries:
+            name = self.get_skilltree_name(entry.index)['en']
+            self.skill_map[name] = entry
+
+    def get_skilltree_name(self, skill_index: int) -> dict:
+        # Discovered formula via inspecting mhw_armor_edit's source.
+        return self.skilltree_text[skill_index * 3]
+
+    def get_skilltree(self, name_en: str) -> skl_pt_dat.SklPtDatEntry:
+        return self.skill_map[name_en]
 
 class SharpnessDataReader():
     "A class that loads sharpness data and processes it for binary weapon objects"

@@ -3,7 +3,9 @@ from mhdata.load import load_data, schema
 from mhdata.build import datafn
 
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
-from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader, WeaponDataLoader, convert_recipe
+from .load import load_schema, load_text, ItemTextHandler, \
+                    SkillTextHandler, SharpnessDataReader, \
+                    WeaponDataLoader, convert_recipe
 from .items import add_missing_items
 
 from mhdata import cfg
@@ -171,6 +173,7 @@ def update_weapons():
 
     weapon_loader = WeaponDataLoader()
     item_text_handler = ItemTextHandler()
+    skill_text_handler = SkillTextHandler()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
     ammo_reader = WeaponAmmoLoader()
@@ -232,8 +235,6 @@ def update_weapons():
             if weapon_node.parent != None:
                 new_entry['previous_en'] = weapon_node.parent.name['en']
 
-            print(name['en'])
-
             # Bind info
             new_entry['weapon_type'] = weapon_type
             new_entry['rarity'] = binary.rarity + 1
@@ -258,6 +259,10 @@ def update_weapons():
                 new_entry['element1_attack'] = element_atk * 10 if element_atk else None
                 new_entry['element2'] = None
                 new_entry['element2_attack'] = None
+
+            # Bind skill
+            skill = skill_text_handler.get_skilltree_name(binary.skill_id)
+            new_entry['skill'] = skill['en'] if binary.skill_id != 0 else None
             
             # Bind Extras (Blade/Gun/Bow data)
             if weapon_type in cfg.weapon_types_melee:
