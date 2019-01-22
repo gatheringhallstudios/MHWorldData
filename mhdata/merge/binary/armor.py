@@ -156,6 +156,6 @@ def update_armor():
         translation_filename="armors/armorset_bonus_base_translations.csv"
     )
 
-    print("Armor files updated")
+    print("Armor files updated\n")
 
     add_missing_items(item_text_handler.encountered, mhdata=mhdata)

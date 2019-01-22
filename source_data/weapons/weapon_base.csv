@@ -89,6 +89,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 88,Great Wyvern Jawblade,great-sword,Wyvern Jawblade,8,960,0,20,TRUE,Blast,330,,,,3,0,0,,,,,,,
 1150,Berserker Sword,great-sword,,6,1008,-30,,FALSE,Dragon,180,,,high,0,0,0,,,,,,,
 1151,Anguish,great-sword,Berserker Sword,7,1104,-30,,FALSE,Dragon,240,,,high,0,0,0,,,,,,,
+1188,"Wyvern Ignition ""Steel""",great-sword,,4,720,-15,,FALSE,,,,,,0,0,0,,,,,,,
+1189,"Wyvern Ignition ""Impact""",great-sword,"Wyvern Ignition ""Steel""",7,1008,-15,,TRUE,Fire,510,,,,1,1,0,,,,,,,
+1190,Empress Galea,great-sword,,7,864,0,,FALSE,Blast,210,,,,2,1,0,,,,,,,
+1191,"Empress Galea ""Blaze""",great-sword,Empress Galea,8,864,20,,FALSE,Blast,270,,,,2,1,0,,,,,,,
+1192,"Empress Galea ""Ruin""",great-sword,Empress Galea,8,912,0,,FALSE,Blast,210,,,,2,2,0,,,,,,,
+1193,"Empress Galea ""Styx""",great-sword,Empress Galea,8,864,10,,FALSE,Blast,330,,,,3,3,0,,,,,,,
 89,Iron Katana I,long-sword,,1,264,0,,FALSE,,,,,,0,0,0,,,,,,,
 90,Iron Katana II,long-sword,Iron Katana I,1,297,0,,FALSE,,,,,,0,0,0,,,,,,,
 91,Iron Katana III,long-sword,Iron Katana II,2,330,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -169,10 +175,14 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 166,Xeno Cypher,long-sword,Blacksteel Long Sword II,8,594,15,,FALSE,Dragon,180,,,low,3,3,0,,,,,,,
 167,Supremacy Blade,long-sword,,6,561,0,20,TRUE,Dragon,120,,,high,3,0,0,,,,,,,
 168,Divine Slasher,long-sword,Supremacy Blade,8,693,0,20,TRUE,Dragon,150,,,high,3,0,0,,,,,,,
-169,Azure Star Blade,long-sword,,3,363,20,,FALSE,Water,120,,,,0,0,0,,,,,,,
-1187,"Azure Star ""Dragon Dance""",long-sword,Azure Star Blade,7,495,30,,FALSE,Water,180,,,,3,0,0,,,,,,,
 1152,"Reaver ""Cruelty""",long-sword,,6,693,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1153,"Reaver ""Calamity""",long-sword,"Reaver ""Cruelty""",7,759,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+169,Azure Star Blade,long-sword,,3,363,20,,FALSE,Water,120,,,,0,0,0,,,,,,,
+1187,"Azure Star ""Dragon Dance""",long-sword,Azure Star Blade,7,495,30,,FALSE,Water,180,,,,3,0,0,,,,,,,
+1194,Empress Sword,long-sword,,7,594,0,,FALSE,Blast,150,,,,2,1,0,,,,,,,
+1195,"Empress Sword ""Blaze""",long-sword,Empress Sword,8,594,20,,FALSE,Blast,180,,,,2,1,0,,,,,,,
+1196,"Empress Sword ""Ruin""",long-sword,Empress Sword,8,627,0,,FALSE,Blast,150,,,,2,2,0,,,,,,,
+1197,"Empress Sword ""Styx""",long-sword,Empress Sword,8,594,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,
 170,Hunter's Knife I,sword-and-shield,,1,112,0,,FALSE,,,,,,0,0,0,,,,,,,
 171,Hunter's Knife II,sword-and-shield,Hunter's Knife I,1,126,0,,FALSE,,,,,,0,0,0,,,,,,,
 172,Hunter's Knife III,sword-and-shield,Hunter's Knife II,2,140,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -267,6 +277,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 261,Xeno Mabura,sword-and-shield,Blacksteel Sword II,8,238,15,,FALSE,Dragon,270,,,low,3,3,0,,,,,,,
 1154,Fatal Jho,sword-and-shield,,6,280,-20,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1155,Fatal Bite,sword-and-shield,Fatal Jho,7,308,-20,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+1198,Empress Edge,sword-and-shield,,7,266,0,,FALSE,Blast,120,,,,1,0,0,,,,,,,
+1199,"Empress Edge ""Blaze""",sword-and-shield,Empress Edge,8,266,20,,FALSE,Blast,150,,,,1,0,0,,,,,,,
+1200,"Empress Edge ""Ruin""",sword-and-shield,Empress Edge,8,280,0,,FALSE,Blast,120,,,,2,0,0,,,,,,,
+1201,"Empress Edge ""Styx""",sword-and-shield,Empress Edge,8,266,10,,FALSE,Blast,210,,,,3,1,0,,,,,,,
 262,Matched Slicers I,dual-blades,,1,112,0,,FALSE,,,,,,0,0,0,,,,,,,
 263,Matched Slicers II,dual-blades,Matched Slicers I,1,126,0,,FALSE,,,,,,0,0,0,,,,,,,
 264,Matched Slicers III,dual-blades,Matched Slicers II,2,140,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -352,6 +366,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 344,Xeno Raqs,dual-blades,Blacksteel Twins II,8,238,15,,FALSE,Dragon,150,,,low,3,3,0,,,,,,,
 1156,Wrath & Rancor,dual-blades,,6,280,-20,,FALSE,Dragon,120,,,high,0,0,0,,,,,,,
 1157,Wrathful Predation,dual-blades,Wrath & Rancor,7,308,-20,,FALSE,Dragon,180,,,high,0,0,0,,,,,,,
+1202,Empress Daggers,dual-blades,,7,252,0,,FALSE,Blast,60,,,,2,1,0,,,,,,,
+1203,"Empress Daggers ""Blaze""",dual-blades,Empress Daggers,8,252,20,,FALSE,Blast,90,,,,2,1,0,,,,,,,
+1204,"Empress Daggers ""Ruin""",dual-blades,Empress Daggers,8,266,0,,FALSE,Blast,60,,,,2,2,0,,,,,,,
+1205,"Empress Daggers ""Styx""",dual-blades,Empress Daggers,8,252,10,,FALSE,Blast,120,,,,3,3,0,,,,,,,
+1206,Downy Crake Brooms,dual-blades,,3,154,0,,FALSE,Sleep,90,,,,0,0,0,,,,,,,
+1207,Downy Crake Love,dual-blades,Downy Crake Brooms,7,252,0,,FALSE,Sleep,120,,,,0,0,0,,,,,,,
 345,Iron Hammer I,hammer,,1,416,0,,FALSE,,,,,,0,0,0,,,,,,,
 346,Iron Hammer II,hammer,Iron Hammer I,1,468,0,,FALSE,,,,,,0,0,0,,,,,,,
 347,Iron Hammer III,hammer,Iron Hammer II,2,520,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -438,6 +458,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 428,Binder Mace,hammer,Jail Hammer,8,936,0,20,FALSE,Paralysis,210,,,,3,0,0,,,,,,,
 1158,Devil's Due,hammer,,6,1092,-30,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1159,Devil's Crush,hammer,Devil's Due,7,1196,-30,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+1208,Empress Mace,hammer,,7,936,0,,FALSE,Blast,150,,,,2,1,0,,,,,,,
+1209,"Empress Mace ""Blaze""",hammer,Empress Mace,8,936,20,,FALSE,Blast,180,,,,2,1,0,,,,,,,
+1210,"Empress Mace ""Ruin""",hammer,Empress Mace,8,988,0,,FALSE,Blast,150,,,,2,2,0,,,,,,,
+1211,"Empress Mace ""Styx""",hammer,Empress Mace,8,936,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,
+1212,Bristly Pincushion,hammer,,3,676,0,,FALSE,Poison,150,,,,0,0,0,,,,,,,
+1213,Bristly Grudge,hammer,Bristly Pincushion,7,1040,0,,FALSE,Poison,270,,,,0,0,0,,,,,,,
 429,Metal Bagpipe I,hunting-horn,,1,336,0,,FALSE,,,,,,0,0,0,,,,,,WRB,
 430,Metal Bagpipe II,hunting-horn,Metal Bagpipe I,1,378,0,,FALSE,,,,,,0,0,0,,,,,,WRB,
 431,Metal Bagpipe III,hunting-horn,Metal Bagpipe II,2,420,0,,FALSE,,,,,,0,0,0,,,,,,WRB,
@@ -525,6 +551,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 513,Xeno Manasheena,hunting-horn,Blacksteel Dragonhorn II,8,714,15,,FALSE,Dragon,180,,,low,3,3,0,,,,,,PBO,
 1160,Devil's Maestro,hunting-horn,,6,840,-30,,FALSE,Dragon,180,,,high,0,0,0,,,,,,PRB,
 1161,Deep Vero,hunting-horn,Devil's Maestro,7,924,-30,,FALSE,Dragon,240,,,high,0,0,0,,,,,,PRB,
+1214,Empress Roar,hunting-horn,,7,798,0,,FALSE,Blast,150,,,,1,0,0,,,,,,PRO,
+1215,"Empress Roar ""Blaze""",hunting-horn,Empress Roar,8,798,20,,FALSE,Blast,180,,,,1,0,0,,,,,,PRO,
+1216,"Empress Roar ""Ruin""",hunting-horn,Empress Roar,8,840,0,,FALSE,Blast,150,,,,2,0,0,,,,,,PGO,
+1217,"Empress Roar ""Styx""",hunting-horn,Empress Roar,8,798,10,,FALSE,Blast,240,,,,3,1,0,,,,,,PBO,
 514,Iron Lance I,lance,,1,184,0,,FALSE,,,,,,0,0,0,,,,,,,
 515,Iron Lance II,lance,Iron Lance I,1,207,0,,FALSE,,,,,,0,0,0,,,,,,,
 516,Iron Lance III,lance,Iron Lance II,2,230,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -611,6 +641,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 597,Elder Babel Spear,lance,Babel Spear,8,460,0,20,TRUE,Fire,330,,,,3,0,0,,,,,,,
 1162,Grief Lance,lance,,6,483,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1163,Fiendish Tower,lance,Grief Lance,7,529,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+1218,Empress Lance,lance,,7,414,0,,FALSE,Blast,150,,,,2,1,0,,,,,,,
+1219,"Empress Lance ""Blaze""",lance,Empress Lance,8,414,20,,FALSE,Blast,180,,,,2,1,0,,,,,,,
+1220,"Empress Lance ""Ruin""",lance,Empress Lance,8,437,0,,FALSE,Blast,150,,,,2,2,0,,,,,,,
+1221,"Empress Lance ""Styx""",lance,Empress Lance,8,414,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,
+1222,Shooting Star Lance,lance,,4,299,0,,FALSE,Paralysis,120,,,,0,0,0,,,,,,,
+1223,Sapphire Star Lance,lance,Shooting Star Lance,7,437,0,,FALSE,Paralysis,180,,,,0,0,0,,,,,,,
 598,Iron Gunlance I,gunlance,,1,184,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
 599,Iron Gunlance II,gunlance,Iron Gunlance I,1,207,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
 600,Iron Gunlance III,gunlance,Iron Gunlance II,2,230,0,,FALSE,,,,,,0,0,0,,,,normal,1,,
@@ -692,6 +728,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 676,Xeno Hemta,gunlance,Blacksteel Gunlance II,8,391,15,,FALSE,Dragon,180,,,low,3,3,0,,,,long,3,,
 1164,Ravenous Gunlance,gunlance,,6,483,-30,,FALSE,Dragon,180,,,high,0,0,0,,,,long,3,,
 1165,Insatiable Gunlance,gunlance,Ravenous Gunlance,7,529,-30,,FALSE,Dragon,240,,,high,0,0,0,,,,long,3,,
+1224,Empress Howl,gunlance,,7,437,0,,FALSE,Blast,150,,,,1,0,0,,,,wide,3,,
+1225,"Empress Howl ""Blaze""",gunlance,Empress Howl,8,437,20,,FALSE,Blast,180,,,,1,0,0,,,,wide,3,,
+1226,"Empress Howl ""Ruin""",gunlance,Empress Howl,8,460,0,,FALSE,Blast,150,,,,2,0,0,,,,wide,3,,
+1227,"Empress Howl ""Styx""",gunlance,Empress Howl,8,437,10,,FALSE,Blast,240,,,,3,1,0,,,,wide,3,,
 677,Proto Iron Axe I,switch-axe,,1,280,0,,FALSE,,,,,,0,0,0,,power,,,,,
 678,Proto Iron Axe II,switch-axe,Proto Iron Axe I,1,315,0,,FALSE,,,,,,0,0,0,,power,,,,,
 679,Proto Iron Axe III,switch-axe,Proto Iron Axe II,2,350,0,,FALSE,,,,,,0,0,0,,power,,,,,
@@ -773,6 +813,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 755,Xeno Martshu,switch-axe,Blacksteel Switch Axe II,8,595,15,,FALSE,Dragon,150,,,low,3,3,0,,power,,,,,
 1166,Tyrannos,switch-axe,,6,700,-25,,FALSE,Dragon,120,,,high,0,0,0,,power,,,,,
 1167,Terror Tyrannos,switch-axe,Tyrannos,7,770,-25,,FALSE,Dragon,180,,,high,0,0,0,,power,,,,,
+1228,Empress Axe,switch-axe,,7,630,0,,FALSE,Blast,150,,,,2,1,0,,power,,,,,
+1229,"Empress Axe ""Blaze""",switch-axe,Empress Axe,8,630,20,,FALSE,Blast,180,,,,2,1,0,,power,,,,,
+1230,"Empress Axe ""Ruin""",switch-axe,Empress Axe,8,665,0,,FALSE,Blast,150,,,,2,2,0,,power,,,,,
+1231,"Empress Axe ""Styx""",switch-axe,Empress Axe,8,630,10,,FALSE,Blast,240,,,,3,3,0,,power,,,,,
 756,Proto Commission Axe I,charge-blade,,1,288,0,,FALSE,,,,,,0,0,0,,impact,,,,,
 757,Proto Commission Axe II,charge-blade,Proto Commission Axe I,1,324,0,,FALSE,,,,,,0,0,0,,impact,,,,,
 758,Proto Commission Axe III,charge-blade,Proto Commission Axe II,2,360,0,,FALSE,,,,,,0,0,0,,impact,,,,,
@@ -850,6 +894,11 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 830,Xeno Ra'atz,charge-blade,Blacksteel Charger II,8,648,15,,FALSE,Dragon,180,,,low,3,3,0,,impact,,,,,
 1168,Tyrant's Charge Blade,charge-blade,,6,720,-25,,FALSE,Dragon,150,,,high,0,0,0,,power element,,,,,
 1169,Oppressor's Charge Blade,charge-blade,Tyrant's Charge Blade,7,792,-25,,FALSE,Dragon,210,,,high,0,0,0,,power element,,,,,
+1232,Dante's Devil Sword,charge-blade,,8,720,0,,FALSE,Thunder,150,,,,1,1,0,,impact,,,,,
+1233,Empress Alma,charge-blade,,7,648,0,,FALSE,Blast,120,,,,2,1,0,,impact,,,,,
+1234,"Empress Alma ""Blaze""",charge-blade,Empress Alma,8,648,20,,FALSE,Blast,150,,,,2,1,0,,impact,,,,,
+1235,"Empress Alma ""Ruin""",charge-blade,Empress Alma,8,684,0,,FALSE,Blast,120,,,,2,2,0,,impact,,,,,
+1236,"Empress Alma ""Styx""",charge-blade,Empress Alma,8,648,10,,FALSE,Blast,210,,,,3,3,0,,impact,,,,,
 831,Iron Blade I,insect-glaive,,1,248,0,,FALSE,,,,,,0,0,0,sever,,,,,,
 832,Iron Blade II,insect-glaive,Iron Blade I,1,279,0,,FALSE,,,,,,0,0,0,sever,,,,,,
 833,Iron Blade III,insect-glaive,Iron Blade II,2,310,0,,FALSE,,,,,,0,0,0,sever,,,,,,
@@ -933,6 +982,12 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 911,Xeno Shmaena,insect-glaive,Blacksteel Glaive II,8,558,15,,FALSE,Dragon,120,,,low,3,3,0,stamina,,,,,,
 1179,Bad Wing,insect-glaive,,6,620,-25,,FALSE,Dragon,150,,,high,0,0,0,health,,,,,,
 1180,Grunge Storm,insect-glaive,Bad Wing,7,682,-25,,FALSE,Dragon,210,,,high,0,0,0,health,,,,,,
+1237,Gae Bolg,insect-glaive,,7,558,10,,FALSE,Dragon,240,,,high,1,0,0,element,,,,,,
+1238,True Gae Bolg,insect-glaive,Gae Bolg,8,589,20,,FALSE,Dragon,300,,,high,2,0,0,element,,,,,,
+1239,Empress Cane,insect-glaive,,7,589,0,,FALSE,Blast,120,,,,1,0,0,speed,,,,,,
+1240,"Empress Cane ""Blaze""",insect-glaive,Empress Cane,8,589,20,,FALSE,Blast,150,,,,1,0,0,speed,,,,,,
+1241,"Empress Cane ""Ruin""",insect-glaive,Empress Cane,8,620,0,,FALSE,Blast,120,,,,2,0,0,speed,,,,,,
+1242,"Empress Cane ""Styx""",insect-glaive,Empress Cane,8,589,10,,FALSE,Blast,210,,,,3,1,0,speed,,,,,,
 912,Chain Blitz I,light-bowgun,,1,130,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Ore
 913,Chain Blitz II,light-bowgun,Chain Blitz I,1,143,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Ore
 914,Chain Blitz III,light-bowgun,Chain Blitz II,2,156,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Ore
@@ -1019,6 +1074,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 995,Great Bowgun,light-bowgun,Cross Bowgun,8,260,0,20,FALSE,,,,,,3,0,0,,,,,,,LBG Workshop Weapon 2
 1181,Devil's Grin,light-bowgun,,6,273,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
 1182,Devil's Madness,light-bowgun,Devil's Grin,7,299,-25,,FALSE,,,,,,0,0,0,,,,,,,LBG Deviljho
+1243,Empress Shell,light-bowgun,,7,247,0,,FALSE,,,,,,1,0,0,,,,,,,LBG Lunastra
+1244,"Empress Shell ""Blaze""",light-bowgun,Empress Shell,8,247,20,,FALSE,,,,,,1,0,0,,,,,,,LBG Lunastra 2
+1245,"Empress Shell ""Ruin""",light-bowgun,Empress Shell,8,260,0,,FALSE,,,,,,2,0,0,,,,,,,LBG Lunastra/Nergigante
+1246,"Empress Shell ""Styx""",light-bowgun,Empress Shell,8,247,10,,FALSE,,,,,,3,1,0,,,,,,,LBG Lunastra/Xeno'jiiva
 996,Iron Assault I,heavy-bowgun,,1,150,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
 997,Iron Assault II,heavy-bowgun,Iron Assault I,1,165,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
 998,Iron Assault III,heavy-bowgun,Iron Assault II,2,180,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Ore
@@ -1048,7 +1107,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1022,Jagras Assault III,heavy-bowgun,Jagras Assault II,4,210,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Great Jagras
 1023,Jagras Cannon I,heavy-bowgun,Jagras Assault III,5,240,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Great Jagras
 1024,Jagras Cannon II,heavy-bowgun,Jagras Cannon I,6,255,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Great Jagras
-1025,Jagras Cannon III,heavy-bowgun,Jagras Cannon II,7,270,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Great Jagras
+1247,Gluttonous Fangcannon,heavy-bowgun,Jagras Cannon II,7,270,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Great Jagras
 1026,Blazing Assault I,heavy-bowgun,Jagras Assault I,3,210,-20,,FALSE,,,,,,0,0,0,,,,,,,HBG Anjanath
 1027,Blazing Assault II,heavy-bowgun,Blazing Assault I,4,225,-20,,FALSE,,,,,,0,0,0,,,,,,,HBG Anjanath
 1028,Flammenkanone,heavy-bowgun,Blazing Assault II,5,255,-20,,FALSE,,,,,,1,0,0,,,,,,,HBG Anjanath
@@ -1100,6 +1159,10 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1074,Xeno Jiiqa,heavy-bowgun,Blacksteel Cannon II,8,255,0,,FALSE,,,,,,3,3,0,,,,,,,HBG Xeno'jiiva
 1183,Gluttonous Cannon,heavy-bowgun,,6,315,-25,,FALSE,,,,,,0,0,0,,,,,,,HBG Deviljho
 1184,Dark Devourer,heavy-bowgun,Gluttonous Cannon,7,345,-25,,FALSE,,,,,,0,0,0,,,,,,,HBG Deviljho
+1248,Empress Cannon,heavy-bowgun,,7,285,0,,FALSE,,,,,,1,0,0,,,,,,,HBG Lunastra
+1249,"Empress Cannon ""Blaze""",heavy-bowgun,Empress Cannon,8,285,20,,FALSE,,,,,,1,0,0,,,,,,,HBG Lunastra 2
+1250,"Empress Cannon ""Ruin""",heavy-bowgun,Empress Cannon,8,300,0,,FALSE,,,,,,2,0,0,,,,,,,HBG Lunastra/Nergigante
+1251,"Empress Cannon ""Styx""",heavy-bowgun,Empress Cannon,8,285,10,,FALSE,,,,,,3,1,0,,,,,,,HBG Lunastra/Xeno'jiiva
 1075,Iron Bow I,bow,,1,96,0,,FALSE,,,,,,0,0,0,,,,,,,
 1076,Iron Bow II,bow,Iron Bow I,1,108,0,,FALSE,,,,,,0,0,0,,,,,,,
 1077,Iron Bow III,bow,Iron Bow II,2,120,0,,FALSE,,,,,,0,0,0,,,,,,,
@@ -1177,3 +1240,7 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1149,Great Hunter's Bow,bow,Cross Hunter's Bow,8,228,0,20,FALSE,Blast,150,,,,3,0,0,,,,,,,
 1185,Insurgent's Bow,bow,,6,252,-25,,FALSE,Dragon,150,,,high,0,0,0,,,,,,,
 1186,Villainous Brace,bow,Insurgent's Bow,7,276,-25,,FALSE,Dragon,210,,,high,0,0,0,,,,,,,
+1252,Empress Arrow,bow,,7,216,0,,FALSE,Blast,90,,,,2,1,0,,,,,,,
+1253,"Empress Arrow ""Blaze""",bow,Empress Arrow,8,216,20,,FALSE,Blast,120,,,,2,1,0,,,,,,,
+1254,"Empress Arrow ""Ruin""",bow,Empress Arrow,8,228,0,,FALSE,Blast,90,,,,2,2,0,,,,,,,
+1255,"Empress Arrow ""Styx""",bow,Empress Arrow,8,216,10,,FALSE,Blast,180,,,,3,3,0,,,,,,,

@@ -37,7 +37,7 @@ class DataMap(collections.abc.Mapping):
     TODO: Allow existance check to work on non-key languages. Right now non-keys are "ignored".
     """
 
-    def __init__(self, data: typing.Mapping[int, dict] = None, languages=None):
+    def __init__(self, data: typing.Mapping[int, dict] = None, languages=None, start_id=1):
         self._data = collections.OrderedDict()
         self._reverse_entries = {}
 
@@ -46,7 +46,8 @@ class DataMap(collections.abc.Mapping):
         self.languages = languages
 
         # todo: replace id gen with the object index custom object...maybe...
-        self._id_gen = itertools.count(1)
+        self.start_id = start_id
+        self._id_gen = itertools.count(start_id)
         self._last_id = 0
 
         if data:
@@ -66,7 +67,7 @@ class DataMap(collections.abc.Mapping):
     @property
     def max_id(self):
         "Gets the max id value stored. Runs in linear time every time."
-        return max((entry.id for entry in self._data.values()))
+        return max((entry.id for entry in self._data.values()), default=0)
 
     def _generate_id(self):
         "Helper that creates a new id for a new object. Handles collisions"
@@ -83,7 +84,8 @@ class DataMap(collections.abc.Mapping):
     def _revaluate_idgen(self, entry_id):
         "Helper that updates the id generator if the old generator is now invalid"
         if isinstance(entry_id, int) and entry_id > self._last_id:
-            self._id_gen = itertools.count(entry_id + 1)
+            next_id = max(entry_id + 1, self.start_id)
+            self._id_gen = itertools.count(next_id)
             self._last_id = entry_id
 
     def _unregister_entry(self, entry):

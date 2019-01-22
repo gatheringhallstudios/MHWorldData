@@ -89,6 +89,12 @@ Wyvern Jawblade,FALSE,120,120,40,50,70,0,0
 Great Wyvern Jawblade,FALSE,110,120,40,50,80,0,0
 Berserker Sword,FALSE,70,120,80,60,20,50,0
 Anguish,FALSE,60,120,80,60,30,50,0
+"Wyvern Ignition ""Steel""",FALSE,180,70,20,20,60,0,0
+"Wyvern Ignition ""Impact""",FALSE,250,20,20,20,30,60,0
+Empress Galea,FALSE,110,30,60,80,40,80,0
+"Empress Galea ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Galea ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Galea ""Styx""",FALSE,110,30,60,80,40,80,0
 Iron Katana I,FALSE,100,50,80,20,0,0,0
 Iron Katana II,FALSE,80,70,30,70,0,0,0
 Iron Katana III,FALSE,60,70,30,90,0,0,0
@@ -169,10 +175,14 @@ Imperial Shimmer,FALSE,70,50,60,120,60,40,0
 Xeno Cypher,FALSE,130,30,60,80,40,60,0
 Supremacy Blade,FALSE,100,50,50,80,70,0,0
 Divine Slasher,FALSE,100,60,60,100,50,30,0
-Azure Star Blade,FALSE,100,70,30,100,0,0,0
-"Azure Star ""Dragon Dance""",FALSE,120,30,60,80,40,70,0
 "Reaver ""Cruelty""",FALSE,60,120,80,60,30,50,0
 "Reaver ""Calamity""",FALSE,50,120,80,60,40,50,0
+Azure Star Blade,FALSE,100,70,30,100,0,0,0
+"Azure Star ""Dragon Dance""",FALSE,120,30,60,80,40,70,0
+Empress Sword,FALSE,110,30,60,80,40,80,0
+"Empress Sword ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Sword ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Sword ""Styx""",FALSE,110,30,60,80,40,80,0
 Hunter's Knife I,FALSE,90,50,80,30,0,0,0
 Hunter's Knife II,FALSE,70,70,30,80,0,0,0
 Hunter's Knife III,FALSE,50,70,30,100,0,0,0
@@ -267,6 +277,10 @@ Teostra's Emblem,FALSE,70,50,60,120,60,40,0
 Xeno Mabura,FALSE,130,30,60,80,40,60,0
 Fatal Jho,FALSE,60,120,80,60,30,50,0
 Fatal Bite,FALSE,50,120,80,60,40,50,0
+Empress Edge,FALSE,90,30,60,80,40,100,0
+"Empress Edge ""Blaze""",FALSE,90,30,60,80,40,100,0
+"Empress Edge ""Ruin""",FALSE,90,30,60,80,40,100,0
+"Empress Edge ""Styx""",FALSE,90,30,60,80,40,100,0
 Matched Slicers I,FALSE,90,50,80,30,0,0,0
 Matched Slicers II,FALSE,70,70,30,80,0,0,0
 Matched Slicers III,FALSE,50,70,30,100,0,0,0
@@ -352,6 +366,12 @@ Fire and Ice,FALSE,60,50,60,120,70,40,0
 Xeno Raqs,FALSE,120,30,60,80,40,70,0
 Wrath & Rancor,FALSE,50,120,80,60,40,50,0
 Wrathful Predation,FALSE,40,120,80,60,50,50,0
+Empress Daggers,FALSE,90,30,60,80,40,100,0
+"Empress Daggers ""Blaze""",FALSE,90,30,60,80,40,100,0
+"Empress Daggers ""Ruin""",FALSE,90,30,60,80,40,100,0
+"Empress Daggers ""Styx""",FALSE,90,30,60,80,40,100,0
+Downy Crake Brooms,FALSE,60,50,60,120,10,0,0
+Downy Crake Love,FALSE,90,50,50,80,130,0,0
 Iron Hammer I,FALSE,100,50,80,20,0,0,0
 Iron Hammer II,FALSE,80,70,30,70,0,0,0
 Iron Hammer III,FALSE,60,70,30,90,0,0,0
@@ -438,6 +458,12 @@ Jail Hammer,FALSE,120,120,40,50,70,0,0
 Binder Mace,FALSE,160,100,30,30,50,30,0
 Devil's Due,FALSE,60,120,80,60,30,50,0
 Devil's Crush,FALSE,50,120,80,60,40,50,0
+Empress Mace,FALSE,110,30,60,80,40,80,0
+"Empress Mace ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Mace ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Mace ""Styx""",FALSE,110,30,60,80,40,80,0
+Bristly Pincushion,FALSE,60,50,80,110,0,0,0
+Bristly Grudge,FALSE,110,50,50,80,110,0,0
 Metal Bagpipe I,FALSE,100,50,80,20,0,0,0
 Metal Bagpipe II,FALSE,80,70,30,70,0,0,0
 Metal Bagpipe III,FALSE,60,70,30,90,0,0,0
@@ -525,6 +551,10 @@ Teostra's Orphée,FALSE,90,60,60,100,60,30,0
 Xeno Manasheena,FALSE,130,30,60,80,40,60,0
 Devil's Maestro,FALSE,60,120,80,60,30,50,0
 Deep Vero,FALSE,50,120,80,60,40,50,0
+Empress Roar,FALSE,110,30,60,80,40,80,0
+"Empress Roar ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Roar ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Roar ""Styx""",FALSE,110,30,60,80,40,80,0
 Iron Lance I,FALSE,100,50,80,20,0,0,0
 Iron Lance II,FALSE,80,70,30,70,0,0,0
 Iron Lance III,FALSE,60,70,30,90,0,0,0
@@ -611,6 +641,12 @@ Babel Spear,FALSE,120,120,40,50,70,0,0
 Elder Babel Spear,FALSE,110,120,40,50,80,0,0
 Grief Lance,FALSE,60,120,80,60,30,50,0
 Fiendish Tower,FALSE,50,120,80,60,40,50,0
+Empress Lance,FALSE,110,30,60,80,40,80,0
+"Empress Lance ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Lance ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Lance ""Styx""",FALSE,110,30,60,80,40,80,0
+Shooting Star Lance,FALSE,60,50,80,110,0,0,0
+Sapphire Star Lance,FALSE,90,50,50,80,130,0,0
 Iron Gunlance I,FALSE,100,50,80,20,0,0,0
 Iron Gunlance II,FALSE,70,70,30,80,0,0,0
 Iron Gunlance III,FALSE,60,70,30,90,0,0,0
@@ -692,6 +728,10 @@ Daora's Brigia,FALSE,90,60,80,80,70,20,0
 Xeno Hemta,FALSE,130,30,60,80,40,60,0
 Ravenous Gunlance,FALSE,50,120,80,60,40,50,0
 Insatiable Gunlance,FALSE,40,120,80,60,50,50,0
+Empress Howl,FALSE,100,30,60,80,40,90,0
+"Empress Howl ""Blaze""",FALSE,100,30,60,80,40,90,0
+"Empress Howl ""Ruin""",FALSE,100,30,60,80,40,90,0
+"Empress Howl ""Styx""",FALSE,100,30,60,80,40,90,0
 Proto Iron Axe I,FALSE,100,50,80,20,0,0,0
 Proto Iron Axe II,FALSE,80,70,30,70,0,0,0
 Proto Iron Axe III,FALSE,60,70,30,90,0,0,0
@@ -773,6 +813,10 @@ Teostra's Castle,FALSE,90,60,60,100,60,30,0
 Xeno Martshu,FALSE,130,30,60,80,40,60,0
 Tyrannos,FALSE,60,120,80,60,30,50,0
 Terror Tyrannos,FALSE,50,120,80,60,40,50,0
+Empress Axe,FALSE,110,30,60,80,40,80,0
+"Empress Axe ""Blaze""",FALSE,110,30,60,80,40,80,0
+"Empress Axe ""Ruin""",FALSE,110,30,60,80,40,80,0
+"Empress Axe ""Styx""",FALSE,110,30,60,80,40,80,0
 Proto Commission Axe I,FALSE,90,50,80,30,0,0,0
 Proto Commission Axe II,FALSE,70,70,30,80,0,0,0
 Proto Commission Axe III,FALSE,50,70,30,100,0,0,0
@@ -850,6 +894,11 @@ Daora's Thwartoise,FALSE,90,60,80,80,70,20,0
 Xeno Ra'atz,FALSE,130,30,60,80,40,60,0
 Tyrant's Charge Blade,FALSE,60,120,80,60,30,50,0
 Oppressor's Charge Blade,FALSE,50,120,80,60,40,50,0
+Dante's Devil Sword,FALSE,40,50,50,80,180,0,0
+Empress Alma,FALSE,100,30,60,80,40,90,0
+"Empress Alma ""Blaze""",FALSE,100,30,60,80,40,90,0
+"Empress Alma ""Ruin""",FALSE,100,30,60,80,40,90,0
+"Empress Alma ""Styx""",FALSE,100,30,60,80,40,90,0
 Iron Blade I,FALSE,90,50,80,30,0,0,0
 Iron Blade II,FALSE,70,70,30,80,0,0,0
 Iron Blade III,FALSE,50,70,30,100,0,0,0
@@ -933,3 +982,9 @@ Daora's Tethidine,FALSE,90,60,80,80,70,20,0
 Xeno Shmaena,FALSE,130,30,60,80,40,60,0
 Bad Wing,FALSE,60,120,80,60,30,50,0
 Grunge Storm,FALSE,50,120,80,60,40,50,0
+Gae Bolg,FALSE,80,60,80,80,80,20,0
+True Gae Bolg,FALSE,60,60,20,150,90,20,0
+Empress Cane,FALSE,100,30,60,80,40,90,0
+"Empress Cane ""Blaze""",FALSE,100,30,60,80,40,90,0
+"Empress Cane ""Ruin""",FALSE,100,30,60,80,40,90,0
+"Empress Cane ""Styx""",FALSE,100,30,60,80,40,90,0

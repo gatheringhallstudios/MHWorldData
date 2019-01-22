@@ -239,9 +239,14 @@ class WeaponDataLoader():
         weapon_map = {}
         weapon_descendants = {}
         for binary in weapon_binaries.entries:
+            name = weapon_text[binary.gmd_name_index]
             recipe_key = (weapon_type, binary.id)
             craft_recipe = self.crafting_data_map.get(recipe_key)
             upgrade_recipe = self.upgrade_data_map.get(recipe_key)
+
+            # Remove craft recipe if invalid
+            if craft_recipe and craft_recipe.item1_qty == 0:
+                craft_recipe = None
 
             # Pull descendants from upgrade recipe
             # and then clear if there are no ingredients
@@ -256,14 +261,16 @@ class WeaponDataLoader():
                 if upgrade_recipe.item1_qty == 0:
                     upgrade_recipe = None
             
-            # Skip if invalid (has no recipe)
+            # Skip if invalid (has no name/recipe)
+            if not name['en']:
+                continue
             if not craft_recipe and not upgrade_recipe:
                 continue
 
             weapon_map[binary.id] = WeaponDataNode(
                 binary,
                 wtype=weapon_type,
-                name=weapon_text[binary.gmd_name_index],
+                name=name,
                 tree=self.weapon_trees[binary.tree_id]['en'],
                 craft=craft_recipe, 
                 upgrade=upgrade_recipe)

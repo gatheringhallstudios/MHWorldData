@@ -89,6 +89,12 @@ Wyvern Jawblade,リュウノアギト,Mâchoire wyverne,Mascellama wyvern,Wyvern
 Great Wyvern Jawblade,リュウノアギト【大牙】,Grande mâchoire wyverne,Gran mascellama wyvern,Großwyvern-Kiefernklinge,Gran Filo Muerdedragón,Grd. Maxilâmina de Serpe,Wielkie sz. wiwernostrze,Оскал большой виверны,용의아기토【어금니】,龍顎劍【大牙】,نصل فك تنين مجنح عظيم
 Berserker Sword,ベルセルクソード,Fureur sacrée,Spada Berserker,Berserker-Schwert,Espada de Berserker,Espada da Fúria,Miecz berserkera,Меч берсерка,버서크소드,狂戰士之劍,سيف الثائر
 Anguish,アングイッシュ,Angoisse,Angoscia,Pein,Agonía,Angústia,Cierpienie,Страдание,앵귀시,痛苦之劍,العذاب
+"Wyvern Ignition ""Steel""",竜熱機関式【鋼翼】,"Combustion wyverne ""Acier""","Vampata wyvern ""Acciaio""","Wyvernzündung ""Stahl""","Ímpetu wyvern ""Acero""",Aço Ignição Serpe,Wiwerni zapłon „Stal”,"Пламя виверны ""Сталь""",용열기관식【강익】,龍熱機關式【鋼翼】,"اشتعالٌ مجنح ""فولاذ"""
+"Wyvern Ignition ""Impact""",竜熱機関式【鋼翼】改,"Combustion wyverne ""Impact""","Vampata wyvern ""Impatto""","Wyvernzündung ""Aufprall""","Ímpetu wyvern ""Impacto""","""Impacto"" Ign. Serpe",Wiwerni zapłon „Impakt”,"Пламя виверны ""Удар""",용열기관식【강익】+,龍熱機關式【鋼翼】改,"اشتعالٌ مجنح ""تأثير"""
+Empress Galea,エンプレスガレア,Galea Imperatrix,Galea fiamma,Kaiserin-Bihänder,Galea Lunastra,Galea da Luna,Galea Luny,Галеа императрицы,엠프리스갈레아,皇后盔,سلاح الإمبراطورة
+"Empress Galea ""Blaze""",エンプレスガレア・炎妃,"Galea Imperatrix ""Lethe""","Galea fiamma ""Vampa""","Kaiserin-Bihänder ""Lunastra""",Galea Lunastra (Luna),Galea da Luna Chama,Galea Luny „Żar”,"Галеа ""Пламя""",엠프리스갈레아-염비,皇后盔‧炎妃,"سلاح الإمبراطورة ""لهيب"""
+"Empress Galea ""Ruin""",エンプレスガレア・滅尽,"Galea Imperatrix ""Hadès""","Galea fiamma ""Rovina""","KaiserinBihänder""Nergigante""",Galea Lunastra (Nerg),Galea da Luna Ruína,Galea Luny „Ruina”,"Галеа ""Разруха""",엠프리스갈레아-멸진,皇后盔‧滅盡,"سلاح الإمبراطورة ""تجدد"""
+"Empress Galea ""Styx""",エンプレスガレア・冥灯,"Galea Imperatrix ""Styx""","Galea fiamma ""Stige""","KaiserinBihänder""Xeno'jiiva""",Galea Lunastra (Xeno),Galea da Luna Estige,Galea Luny „Styks”,"Галеа ""Стикс""",엠프리스갈레아-명등,皇后盔‧冥燈,"سلاح الإمبراطورة ""تنافس"""
 Iron Katana I,鉄刀Ⅰ,Katana de fer,Katana di ferro I,Eisen-Katana I,Katana Férrea I,Katana de Ferro I,Żelazna katana I,Железная катана 1,철도Ⅰ,鐵刀Ⅰ,كاتانا الحديدي I
 Iron Katana II,鉄刀Ⅱ,Katana de fer II,Katana di ferro II,Eisen-Katana II,Katana Férrea II,Katana de Ferro II,Żelazna katana II,Железная катана 2,철도Ⅱ,鐵刀Ⅱ,كاتانا الحديدي II
 Iron Katana III,鉄刀Ⅲ,Katana de fer III,Katana di ferro III,Eisen-Katana III,Katana Férrea III,Katana de Ferro III,Żelazna katana III,Железная катана 3,철도Ⅲ,鐵刀Ⅲ,كاتانا الحديدي III
@@ -169,10 +175,14 @@ Imperial Shimmer,帝王刀【陽炎】,Sabre impérial II,Scintilla imperiale,Ka
 Xeno Cypher,ゼノ＝サイファ,Xeno Cypher,Saifa Xeno,Xeno-Cypher,Xeno Cypher,Cypher de Xeno,Xeno Szyfr,Загадка ксено'джиивы,제노사이퍼,冥燈龍太刀,شيفرة زينو
 Supremacy Blade,天下無双刀,Lames de la suprématie,Lama suprema,Vormachtklinge,Hoja Suprema,Lâmina da Supremacia,Ostrze dominacji,Клинок превосходства,천하무쌍도,天下無雙刀,نصل الهيمنة
 Divine Slasher,天上天下無双刀,Guillotine divine,Affettatore divino,Göttliches Haumesser,Cortador Divino,Cortadora Divina,Boski rozpruwacz,Божественный серп,천상천하무쌍도,天上天下無雙刀,الجارح المقدس
-Azure Star Blade,蒼星ノ太刀,Lame Astre bleu,Lama astro celeste,Azurstern-Klinge,Hoja estrella celeste,Lâmina Estrela Lazúli,Ostrze Lazurowej Gwiazdy,"Клинок ""Лазурная звезда""",파란별의 태도,蒼星的太刀,نصل نجمي لازوردي
-"Azure Star ""Dragon Dance""",蒼星ノ太刀【舞龍】,Astre bleu - Danse du dragon,"Astro celeste ""Drago""","Azurstern ""Drachentanz""",Estrella celeste Dragón,Estr. Lazúli Dragão,„Smoczy Taniec” Lazurowej Gwiazdy,"Клинок ""Танец дракона""",파란별 태도【무룡】,蒼星的太刀【舞龍】,"نجم لازوردي ""رقص التنين"""
 "Reaver ""Cruelty""",クルーエルペイン,"Saccageur ""Cruauté""",Crudeltà straziante,"Räuber ""Grausamkeit""",Segadora Cruel,"""Crueldade"" Aniquiladora",Rozcinacz „Okrutnik”,"Пожиратель ""Жестокость""",크룰페인,殘酷痛苦太刀,"""قسوة"" الممزق"
 "Reaver ""Calamity""",カラミティペイン,"Saccageur ""Catastrophe""",Flagello straziante,"Räuber ""Verhängnis""",Segadora Calamitosa,"""Tragédia"" Aniquiladora",Rozcinacz „Klęska”,"Пожиратель ""Погибель""",캘러미티페인,悲慘痛苦太刀,"""ضربة"" الممزق"
+Azure Star Blade,蒼星ノ太刀,Lame Astre bleu,Lama astro celeste,Azurstern-Klinge,Hoja estrella celeste,Lâmina Estrela Lazúli,Ostrze Lazurowej Gwiazdy,"Клинок ""Лазурная звезда""",파란별의 태도,蒼星的太刀,نصل نجمي لازوردي
+"Azure Star ""Dragon Dance""",蒼星ノ太刀【舞龍】,Astre bleu - Danse du dragon,"Astro celeste ""Drago""","Azurstern ""Drachentanz""",Estrella celeste Dragón,Estr. Lazúli Dragão,„Smoczy Taniec” Lazurowej Gwiazdy,"Клинок ""Танец дракона""",파란별 태도【무룡】,蒼星的太刀【舞龍】,"نجم لازوردي ""رقص التنين"""
+Empress Sword,エンプレスソード,Lame Imperatrix,Spada fiamma,Kaiserin-Schwert,Espada Lunastra,Espada da Luna,Miecz Luny,Меч императрицы,엠프리스소드,皇后劍,سيف الإمبراطورة
+"Empress Sword ""Blaze""",エンプレスソード・炎妃,"Lame Imperatrix ""Lethe""","Spada fiamma ""Vampa""","Kaiserin-Schwert ""Lunastra""",Espada Lunastra (Luna),Espada da Luna Chama,Miecz Luny „Żar”,"Меч ""Пламя""",엠프리스소드-염비,皇后劍‧炎妃,"سيف الإمبراطورة ""لهيب"""
+"Empress Sword ""Ruin""",エンプレスソード・滅尽,"Lame Imperatrix ""Hadès""","Spada fiamma ""Rovina""","KaiserinSchwert ""Nergigante""",Espada Lunastra (Nerg),Espada da Luna Ruína,Miecz Luny „Ruina”,"Меч ""Разруха""",엠프리스소드-멸진,皇后劍‧滅盡,"سيف الإمبراطورة ""تجدد"""
+"Empress Sword ""Styx""",エンプレスソード・冥灯,"Lame Imperatrix ""Styx""","Spada fiamma ""Stige""","KaiserinSchwert ""Xeno'jiiva""",Espada Lunastra (Xeno),Espada Luna Estige,Miecz Luny „Styks”,"Меч ""Стикс""",엠프리스소드-명등,皇后劍‧冥燈,"سيف الإمبراطورة ""تنافس"""
 Hunter's Knife I,ハンターナイフⅠ,Épée du chasseur,Coltello da cacciatore I,Jägermesser I,Cuchillo de cazador I,Faca do Caçador I,Nóż łowcy I,Охотничий нож 1,헌터나이프Ⅰ,獵人小刀Ⅰ,سكين الصيّاد I
 Hunter's Knife II,ハンターナイフⅡ,Épée du chasseur II,Coltello da cacciatore II,Jägermesser II,Cuchillo de cazador II,Faca do Caçador II,Nóż łowcy II,Охотничий нож 2,헌터나이프Ⅱ,獵人小刀Ⅱ,سكين الصيّاد II
 Hunter's Knife III,ハンターナイフⅢ,Épée du chasseur III,Coltello da cacciatore III,Jägermesser III,Cuchillo de cazador III,Faca do Caçador III,Nóż łowcy III,Охотничий нож 3,헌터나이프Ⅲ,獵人小刀Ⅲ,سكين الصيّاد III
@@ -267,6 +277,10 @@ Teostra's Emblem,テオ＝エンブレム,Emblème Teostra,Emblema Teostra,Teost
 Xeno Mabura,ゼノ＝マブーラー,Xeno Mabura,Mabura Xeno,Xeno-Mabura,Xeno Mabura,Mabura de Xeno,Xeno Mabura,Ксено-мабура,제노마부라,冥燈龍劍,سيف زينو مابورا
 Fatal Jho,フェイタルジョー,Déchirure fatale,Jho fatale,Tödlicher Jho,Fatal Jho,Jho Fatal,Zabójczy Jho,Смертильо,페이털조,致命暴龍,ديفيلجو المميت
 Fatal Bite,フェイタルヴァイト,Morsure fatale,Morso fatale,Tödlicher Biss,Mordisco Fatal,Mordida Letal,Zabójcze ukąszenie,Смертельный укус,페이털바이트,致命寬劍,الضربة المميتة
+Empress Edge,エンプレスエッジ,Kopis Imperatrix,Taglio fiamma,Kaiserin-Schneide,Filo Lunastra,Gume da Luna,Ostrze Luny,Гребень императрицы,엠프리스엣지,皇后銳劍,نصل الإمبراطورة
+"Empress Edge ""Blaze""",エンプレスエッジ・炎妃,"Kopis Imperatrix ""Lethe""","Taglio fiamma ""Vampa""","Kaiserin-Schneide ""Lunastra""",Filo Lunastra (Luna),Gume da Luna Chama,Ostrze Luny „Żar”,"Гребень ""Пламя""",엠프리스엣지-염비,皇后銳劍‧炎妃,"نصل الإمبراطورة ""لهيب"""
+"Empress Edge ""Ruin""",エンプレスエッジ・滅尽,"Kopis Imperatrix ""Hadès""","Taglio fiamma ""Rovina""","KaiserinSchneide""Nergigante""",Filo Lunastra (Nerg),Gume da Luna Ruína,Ostrze Luny „Ruina”,"Гребень ""Разруха""",엠프리스엣지-멸진,皇后銳劍‧滅盡,"نصل الإمبراطورة ""تجدد"""
+"Empress Edge ""Styx""",エンプレスエッジ・冥灯,"Kopis Imperatrix ""Styx""","Taglio fiamma ""Stige""","KaiserinSchneide""Xeno'jiiva""",Filo Lunastra (Xeno),Gume da Luna Estige,Ostrze Luny „Styks”,"Гребень ""Стикс""",엠프리스엣지-명등,皇后銳劍‧冥燈,"نصل الإمبراطورة ""تنافس"""
 Matched Slicers I,ツインダガーⅠ,Dagues jumelles,Forbici combinate I,Zwillingsdolche I,Rebanadoras Gemelas I,Fatiadores Pareados I,Dopasowane majchry I,Парные тесаки 1,트윈대거Ⅰ,雙刀Ⅰ,الشاطر الثنائي I
 Matched Slicers II,ツインダガーⅡ,Dagues jumelles II,Forbici combinate II,Zwillingsdolche II,Rebanadoras Gemelas II,Fatiadores Pareados II,Dopasowane majchry II,Парные тесаки 2,트윈대거Ⅱ,雙刀Ⅱ,الشاطر الثنائي II
 Matched Slicers III,ツインダガーⅢ,Dagues jumelles III,Forbici combinate III,Zwillingsdolche III,Rebanadoras Gemelas III,Fatiadores Pareados III,Dopasowane majchry III,Парные тесаки 3,트윈대거Ⅲ,雙刀Ⅲ,الشاطر الثنائي III
@@ -352,6 +366,12 @@ Fire and Ice,氷炎剣ヴィルマフレア,Le Feu et la Glace,Fuoco e ghiaccio,
 Xeno Raqs,ゼノ＝ラクス,Xeno Raqs,Raqs Xeno,Xeno-Raqs,Xeno Raqs,Raqs de Xeno,Xeno Raqs,Танец ксено'джиивы,제노라크스,冥燈龍雙劍,نصل زينو راكس
 Wrath & Rancor,憤怒の双刃,Colère et Rancœur,Ira e rancore,Zorn & Hass,Ira y rencor,Ira e Rancor,Gniew i uraza,Гнев и ярость,분노의 쌍검,憤怒的雙刀,الغضب والغل
 Wrathful Predation,ラースプレデター,Prédateur de la vengeance,Predatori irati,Ingrimmiger Raub,Depredador Rabioso,Ira Predatória,Gniewna drapieżność,Яростное истребление,라스프레데터,憤怒捕食者,افتراس حانق
+Empress Daggers,エンプレスダガー,Dagues Imperatrix,Pugnali fiamma,Kaiserin-Dolche,Dagas Lunastra,Adagas da Luna,Sztylety Luny,Кинжалы императрицы,엠프리스대거,皇后小刀,خنجر الإمبراطورة
+"Empress Daggers ""Blaze""",エンプレスダガー・炎妃,"Dagues Imperatrix ""Lethe""","Pugnali fiamma ""Vampa""","Kaiserin-Dolche ""Lunastra""",Dagas Lunastra (Luna),Adagas da Luna Chama,Sztylety Luny „Żar”,"Кинжалы ""Пламя""",엠프리스대거-염비,皇后小刀‧炎妃,"خنجر الإمبراطورة ""لهيب"""
+"Empress Daggers ""Ruin""",エンプレスダガー・滅尽,"Dagues Imperatrix ""Hadès""","Pugnali fiamma ""Rovina""","Kaiserin-Dolche ""Nergigante""",Dagas Lunastra (Nerg),Adagas da Luna Ruína,Sztylety Luny „Ruina”,"Кинжалы ""Разруха""",엠프리스대거-멸진,皇后小刀‧滅盡,"خنجر الإمبراطورة ""تجدد"""
+"Empress Daggers ""Styx""",エンプレスダガー・冥灯,"Dagues Imperatrix ""Styx""","Pugnali fiamma ""Stige""","Kaiserin-Dolche ""Xeno'jiiva""",Dagas Lunastra (Xeno),Adagas Luna Estige,Sztylety Luny „Styks”,"Кинжалы ""Стикс""",엠프리스대거-명등,皇后小刀‧冥燈,"خنجر الإمبراطورة ""تنافس"""
+Downy Crake Brooms,フワフワの羽根箒,Balais soyeux,Spazzole mollis,Flauschhuhn-Besen,Penachos carrao algodón,Vass. Saracura Plum.,Szczotki derkacza,Пуховая пара,폭신폭신 깃털 비,鬆軟的羽毛掃把,مكانس كراك الناعم
+Downy Crake Love,フワフワの慈愛,Coup de foudre,Amore del mollis,Flauschhuhn-Liebe,Amor de carrao algodón,Amor Saracura Plum.,Miłość derkacza,Пуховая любовь,폭신폭신 자애,鬆軟的慈愛,حب كراك الناعم
 Iron Hammer I,アイアンハンマーⅠ,Marteau de fer,Martello di ferro I,Eisenhammer I,Martillo de hierro I,Martelo de Ferro I,Żelazny młot I,Железный молот 1,아이언해머Ⅰ,鐵鎚Ⅰ,المطرقة الحديدية I
 Iron Hammer II,アイアンハンマーⅡ,Marteau de fer II,Martello di ferro II,Eisenhammer II,Martillo de hierro II,Martelo de Ferro II,Żelazny młot II,Железный молот 2,아이언해머Ⅱ,鐵鎚Ⅱ,المطرقة الحديدية II
 Iron Hammer III,アイアンハンマーⅢ,Marteau de fer III,Martello di ferro III,Eisenhammer III,Martillo de hierro III,Martelo de Ferro III,Żelazny młot III,Железный молот 3,아이언해머Ⅲ,鐵鎚Ⅲ,المطرقة الحديدية III
@@ -438,6 +458,12 @@ Jail Hammer,ジェイルハンマー,Masse à protons,Nucleo paralizzante I,Kerk
 Binder Mace,バインドキューブ,Masse à protons II,Nucleo paralizzante II,Bindekeule,Mazo Ceñidor,Maça Prendedora,Buława oprawcy,Сковывающая булава,바인드큐브,電擊錘,صولجان الحاجز
 Devil's Due,混沌の鎚,Marteau du Chaos,Patto diabolico,Teufelsschuld,Diablo Sediento,Dívida do Diabo,Diabelna danina,Собственность дьявола,혼돈의 해머,混沌之鎚,حصة الشّيطان
 Devil's Crush,カオスラッシュ,Fracas du Chaos,Maglio diabolico,Teufelsbrecher,Diablo Aplastador,Esmagador do Diabo,Diabelny łamacz,Удар дьявола,카오스 러시,混沌之鎚,حطام الشّيطان
+Empress Mace,エンプレスメイス,Masse Imperatrix,Mazza fiamma,Kaiserin-Keule,Maza Lunastra,Maça da Luna,Maczuga Luny,Палица императрицы,엠프리스메이스,皇后鏈錘,عصا الإمبراطورة
+"Empress Mace ""Blaze""",エンプレスメイス・炎妃,"Masse Imperatrix ""Lethe""","Mazza fiamma ""Vampa""","Kaiserin-Keule ""Lunastra""",Maza Lunastra (Luna),Maça da Luna Chama,Maczuga Luny „Żar”,"Палица ""Пламя""",엠프리스메이스-염비,皇后鏈錘‧炎妃,"عصا الإمبراطورة ""لهيب"""
+"Empress Mace ""Ruin""",エンプレスメイス・滅尽,"Masse Imperatrix ""Hadès""","Mazza fiamma ""Rovina""","Kaiserin-Keule ""Nergigante""",Maza Lunastra (Nerg),Maça da Luna Ruína,Maczuga Luny „Ruina”,"Палица ""Разруха""",엠프리스메이스-멸진,皇后鏈錘‧滅盡,"عصا الإمبراطورة ""تجدد"""
+"Empress Mace ""Styx""",エンプレスメイス・冥灯,"Masse Imperatrix ""Styx""","Mazza fiamma ""Stige""","Kaiserin-Keule ""Xeno'jiiva""",Maza Lunastra (Xeno),Maça da Luna Estige,Maczuga Luny „Styks”,"Палица ""Стикс""",엠프리스메이스-명등,皇后鏈錘‧冥燈,"عصا الإمبراطورة ""تنافس"""
+Bristly Pincushion,ゴワゴワの針山,Pelote d'épingles,Puntaspilli rigidus,Krauskissen,Alfiletero rasposo,Alfineteira Eriçada,Szczecinowa poduszka,Щетинистая игольница,뻣뻣 바늘꽂이,硬梆梆的針山,الوسادة الشائكة
+Bristly Grudge,ゴワゴワの怨念,Rancune tenace,Rancore rigidus,Krausgroll,Agravio rasposo,Rancor Eriçado,Szczecinowa uraza,Щетинистая злоба,뻣뻣 원한,硬梆梆的怨氣,المنتقمة الشائكة
 Metal Bagpipe I,メタルバグパイプⅠ,Cornemuse de métal,Cornamusa metallica I,Metall-Dudelsack I,Gaita Metálica I,Gaita de Fole Metal I,Metalowe dudy I,Металлическая волынка 1,메탈백파이프Ⅰ,金屬風笛Ⅰ,مزمار القربة المعدني I
 Metal Bagpipe II,メタルバグパイプⅡ,Cornemuse de métal II,Cornamusa metallica II,Metall-Dudelsack II,Gaita Metálica II,Gaita de Fole Metal II,Metalowe dudy II,Металлическая волынка 2,메탈백파이프Ⅱ,金屬風笛Ⅱ,مزمار القربة المعدني II
 Metal Bagpipe III,メタルバグパイプⅢ,Cornemuse de métal III,Cornamusa metallica III,Metall-Dudelsack III,Gaita Metálica III,Gaita de Fole Metal III,Metalowe dudy III,Металлическая волынка 3,메탈백파이프Ⅲ,金屬風笛Ⅲ,مزمار القربة المعدني III
@@ -525,6 +551,10 @@ Teostra's Orphée,テオ＝オルフェス,Orphée Teostra,Orfeo Teostra,Teostra
 Xeno Manasheena,ゼノ＝マナシーナ,Xeno Manasheena,Manasheena Xeno,Xeno-Manasheena,Xeno Manasheena,Manasheena de Xeno,Xeno Manasheena,Ксено-манашэна,제노마나시나,冥燈龍狩獵笛,زينو ماناشينا
 Devil's Maestro,鎖縛の暴竜,Messe du Chaos,Melodia diabolica,Teufels Maestro,Diablo Virtuoso,Maestro do Diabo,Diabelski wirtuoz,Маэстро дьявола,쇄박의 폭룡,鎖縛的暴龍,مهارة الشّيطان
 Deep Vero,ディープヴェロウ,Concerto du Désespoir,Sinfonia diabolica,Tiefes Vero,Vero Profundis,Verdade Profunda,Głęboka prawda,Глубокий Веро,딥베로우,深邃之鎖,اختراق عميق
+Empress Roar,エンプレスドラム,Rage Imperatrix,Ruggito fiamma,Kaiserin-Gebrüll,Rugido Lunastra,Rugido da Luna,Ryk Luny,Рев императрицы,엠프리스드럼,皇后鼓,زئير الإمبراطورة
+"Empress Roar ""Blaze""",エンプレスドラム・炎妃,"Rage Imperatrix ""Lethe""","Ruggito fiamma ""Vampa""","Kaiserin-Gebrüll ""Lunastra""",Rugido Lunastra (Luna),Rugido da Luna Chama,Ryk Luny „Żar”,"Рев ""Пламя""",엠프리스드럼-염비,皇后鼓‧炎妃,"زئير الإمبراطورة ""لهيب"""
+"Empress Roar ""Ruin""",エンプレスドラム・滅尽,"Rage Imperatrix ""Hadès""","Ruggito fiamma ""Rovina""","KaiserinGebrüll ""Nergigante""",Rugido Lunastra (Nerg),Rugido da Luna Ruína,Ryk Luny „Ruina”,"Рев ""Разруха""",엠프리스드럼-멸진,皇后鼓‧滅盡,"زئير الإمبراطورة ""تجدد"""
+"Empress Roar ""Styx""",エンプレスドラム・冥灯,"Rage Imperatrix ""Styx""","Ruggito fiamma ""Stige""","KaiserinGebrüll ""Xeno'jiiva""",Rugido Lunastra (Xeno),Rugido Luna Estige,Ryk Luny „Styks”,"Рев ""Стикс""",엠프리스드럼-명등,皇后鼓‧冥燈,"زئير الإمبراطورة ""تنافس"""
 Iron Lance I,アイアンランスⅠ,Lance de fer,Lancia di ferro I,Eisenlanze I,Lanza Férrea I,Lança de Ferro I,Żelazna lanca I,Железное копье 1,아이언랜스Ⅰ,鐵槍Ⅰ,الرمح الحديدي I
 Iron Lance II,アイアンランスⅡ,Lance de fer II,Lancia di ferro II,Eisenlanze II,Lanza Férrea II,Lança de Ferro II,Żelazna lanca II,Железное копье 2,아이언랜스Ⅱ,鐵槍Ⅱ,الرمح الحديدي II
 Iron Lance III,アイアンランスⅢ,Lance de fer III,Lancia di ferro III,Eisenlanze III,Lanza Férrea III,Lança de Ferro III,Żelazna lanca III,Железное копье 3,아이언랜스Ⅲ,鐵槍Ⅲ,الرمح الحديدي III
@@ -611,6 +641,12 @@ Babel Spear,バベル,Lance de Babel,Lancia Babel,Babel-Speer,Venablo de Babel,L
 Elder Babel Spear,エルダーバベル,Vieille lance de Babel,Lancia Babel antica,Ältesten-Babelspeer,Venablo Babel Antiguo,Lanção de Babel Ancião,Starsza Włócznia Babel,Древняя вавилонская пика,엘더바벨,遠古巴別塔,رمح بابل المعمِّر
 Grief Lance,悲哀の重鎗,Lance de souffrance,Lancia della pena,Trauerlanze,Lanza de Dolor,Lança da Ruína,Lanca żalu,Копье скорби,비애의 중창,悲哀的重槍,رمح الحزن
 Fiendish Tower,アトロシスタワー,Tour diabolique,Torre malvagia,Teuflischer Turm,Torre Diabólica,Torre Demoníaca,Diabelska wieża,Дьявольская сила,어트로시스타워,亞特羅西斯塔,البرج الشيطاني
+Empress Lance,エンプレスランス,Lance Imperatrix,Lancia fiamma,Kaiserin-Lanze,Lanza Lunastra,Lança da Luna,Lanca Luny,Копье императрицы,엠프리스랜스,皇后長槍,رمح الإمبراطورة
+"Empress Lance ""Blaze""",エンプレスランス・炎妃,"Lance Imperatrix ""Lethe""","Lancia fiamma ""Vampa""","Kaiserin-Lanze ""Lunastra""",Lanza Lunastra (Luna),Lança da Luna Chama,Lanca Luny „Żar”,"Копье ""Пламя""",엠프리스랜스-염비,皇后長槍‧炎妃,"رمح الإمبراطورة ""لهيب"""
+"Empress Lance ""Ruin""",エンプレスランス・滅尽,"Lance Imperatrix ""Hadès""","Lancia fiamma ""Rovina""","Kaiserin-Lanze ""Nergigante""",Lanza Lunastra (Nerg),Lança da Luna Ruína,Lanca Luny „Ruina”,"Копье ""Разруха""",엠프리스랜스-멸진,皇后長槍‧滅盡,"رمح الإمبراطورة ""تجدد"""
+"Empress Lance ""Styx""",エンプレスランス・冥灯,"Lance Imperatrix ""Styx""","Lancia fiamma ""Stige""","Kaiserin-Lanze ""Xeno'jiiva""",Lanza Lunastra (Xeno),Lança da Luna Estige,Lanca Luny „Styks”,"Копье ""Стикс""",엠프리스랜스-명등,皇后長槍‧冥燈,"رمح الإمبراطورة ""تنافس"""
+Shooting Star Lance,団旗槍【流星】,Lance comète,Lancia stella cadente,Sternschnuppen-Lanze,Lanza Estrella Fugaz,Lança Estr. Cadente,Lanca spad. gwiazdy,Копье звездопада,단기창【유성】,團旗長槍【流星】,رمح الشهاب
+Sapphire Star Lance,団旗槍【導きの星】,Lance Étoile de saphir,Lancia stella di zaffiro,Saphirstern-Lanze,Lanza Estrella Azul,Lança Estrela Safira,Lanca Szaf. Gwiazdy,Копье Сапфир. звезды,단기창【인도의별】,團旗長槍【指引之星】,رمح نجم الياقوت الأزرق
 Iron Gunlance I,アイアンガンランスⅠ,Lancecanon de fer,Lancia-fucile di ferro I,Eisengewehrlanze I,Lanza pistola Férrea I,Lançarma de Ferro I,Żelazny lancopał I,Железная копьепушка 1,아이언건랜스Ⅰ,鐵銃槍Ⅰ,بندقية رمح حديدية I
 Iron Gunlance II,アイアンガンランスⅡ,Lancecanon de fer II,Lancia-fucile di ferro II,Eisengewehrlanze II,Lanza pistola Férrea II,Lançarma de Ferro II,Żelazny lancopał II,Железная копьепушка 2,아이언건랜스Ⅱ,鐵銃槍Ⅱ,بندقية رمح حديدية II
 Iron Gunlance III,アイアンガンランスⅢ,Lancecanon de fer III,Lancia-fucile di ferro III,Eisengewehrlanze III,Lanza pistola Férrea III,Lançarma de Ferro III,Żelazny lancopał III,Железная копьепушка 3,아이언건랜스Ⅲ,鐵銃槍Ⅲ,بندقية رمح حديدية III
@@ -692,6 +728,10 @@ Daora's Brigia,ダオラ＝ブリジア,Brigia Daora,Brigia Daora,Daoras Brigia,
 Xeno Hemta,ゼノ＝ヘムタ,Xeno Hemta,Hemta Xeno,Xeno-Hemta,Xeno Hemta,Hemta de Xeno,Xeno Hemta,Ксено-хемта,제노헴타,冥燈龍銃槍,هيمتا زينو
 Ravenous Gunlance,愚欲の銃槍,Lancecanon vorace,Lancia-fucile vorace,Gefräßige Gewehrlanze,Lanza pistola Voraz,Lançarma Voraz,Żarłoczny lancopał,Хищная копьепушка,우욕의 건랜스,愚欲的銃槍,بندقية رماح خاطفة
 Insatiable Gunlance,暴銃槍グラグリード,Lancecanon insatiable,Lancia-fucile insaziabile,Unersättliche Gewehrlanze,Lanza pistola Insaciable,Lançarma Insaciável,Nienasycony lancopał,Ненасытная копьепушка,폭총창 그라그리드,暴銃槍格拉古利德,بندقية رماح متعطشة
+Empress Howl,エンプレスハウル,Cri Imperatrix,Ululato fiamma,Kaiserin-Heulen,Aullido Lunastra,Uivo da Luna,Skowyt Luny,Вой императрицы,엠프리스하울,皇后牙杖,صياح الإمبراطورة
+"Empress Howl ""Blaze""",エンプレスハウル・炎妃,"Cri Imperatrix ""Lethe""","Ululato fiamma ""Vampa""","Kaiserin-Heulen ""Lunastra""",Aullido Lunastra (Luna),Uivo da Luna Chama,Skowyt Luny „Żar”,"Вой ""Пламя""",엠프리스하울-염비,皇后牙杖‧炎妃,"صياح الإمبراطورة ""لهيب"""
+"Empress Howl ""Ruin""",エンプレスハウル・滅尽,"Cri Imperatrix ""Hadès""","Ululato fiamma ""Rovina""","Kaiserin-Heulen ""Nergigante""",Aullido Lunastra (Nerg),Uivo da Luna Ruína,Skowyt Luny „Ruina”,"Вой ""Разруха""",엠프리스하울-멸진,皇后牙杖‧滅盡,"صياح الإمبراطورة ""تجدد"""
+"Empress Howl ""Styx""",エンプレスハウル・冥灯,"Cri Imperatrix ""Styx""","Ululato fiamma ""Stige""","Kaiserin-Heulen ""Xeno'jiiva""",Aullido Lunastra (Xeno),Uivo da Luna Estige,Skowyt Luny „Styks”,"Вой ""Стикс""",엠프리스하울-명등,皇后牙杖‧冥燈,"صياح الإمبراطورة ""تنافس"""
 Proto Iron Axe I,鉄製試作剣斧Ⅰ,Hache bestiale,Ascia di ferro I,Proto-Eisenaxt I,Protohacha Férrea I,Protomachado Ferro I,Prototopór z żelaza I,Простой железный топор 1,철제시험작검부Ⅰ,鐵製試作劍斧Ⅰ,فأس بروتو الحديدي I
 Proto Iron Axe II,鉄製試作剣斧Ⅱ,Hache bestiale II,Ascia di ferro II,Proto-Eisenaxt II,Protohacha Férrea II,Protomachado Ferro II,Prototopór z żelaza II,Простой железный топор 2,철제시험작검부Ⅱ,鐵製試做劍斧Ⅱ,فأس بروتو الحديدي II
 Proto Iron Axe III,鉄製試作剣斧Ⅲ,Hache bestiale III,Ascia di ferro III,Proto-Eisenaxt III,Protohacha Férrea III,Protomachado Ferro III,Prototopór z żelaza III,Простой железный топор 3,철제시험작검부Ⅲ,鐵製試做劍斧Ⅲ,فأس بروتو الحديدي III
@@ -773,6 +813,10 @@ Teostra's Castle,テオ＝キャッスル,Forteresse Teostra,Castello Teostra,Te
 Xeno Martshu,ゼノ＝マルトーシュ,Xeno Martshu,Martojsz Xeno,Xeno-Martshu,Xeno Martshu,Martshu de Xeno,Xeno Martshu,Ксено-мартшу,제노마르토슈,冥燈龍劍斧,مارتشو زينو
 Tyrannos,テュランノス,Tyrannos,Tyrannos,Tyrannos,Tyrannos,Tiranos,Tyrannos,Тираннос,튜란노스,暴君,الطاغية
 Terror Tyrannos,テラーテュランノス,Terreur Tyrannos,Tyrannos terribile,Terror Tyrannos,Tyrannos Terrorífica,Tiranos Aterrorizante,Tyrannos grozy,Тираннос ужаса,테라 튜란노스,恐怖暴君,رعب الطاغية
+Empress Axe,エンプレスアクス,Hache Imperatrix,Ascia fiamma,Kaiserin-Axt,Hacha Lunastra,Machado da Luna,Topór Luny,Топор императрицы,엠프리스액스,皇后斧,فأس الإمبراطورة
+"Empress Axe ""Blaze""",エンプレスアクス・炎妃,"Hache Imperatrix ""Lethe""","Ascia fiamma ""Vampa""","Kaiserin-Axt ""Lunastra""",Hacha Lunastra (Luna),Machado Luna Chama,Topór Luny „Żar”,"Топор ""Пламя""",엠프리스액스-염비,皇后斧‧炎妃,"فأس الإمبراطورة ""لهيب"""
+"Empress Axe ""Ruin""",エンプレスアクス・滅尽,"Hache Imperatrix ""Hadès""","Ascia fiamma ""Rovina""","Kaiserin-Axt ""Nergigante""",Hacha Lunastra (Nerg),Machado Luna Ruína,Topór Luny „Ruina”,"Топор ""Разруха""",엠프리스액스-멸진,皇后斧‧滅盡,"فأس الإمبراطورة ""تجدد"""
+"Empress Axe ""Styx""",エンプレスアクス・冥灯,"Hache Imperatrix ""Styx""","Ascia fiamma ""Stige""","Kaiserin-Axt ""Xeno'jiiva""",Hacha Lunastra (Xeno),Machado Luna Estige,Topór Luny „Styks”,"Топор ""Стикс""",엠프리스액스-명등,皇后斧‧冥燈,"فأس الإمبراطورة ""تنافس"""
 Proto Commission Axe I,調査団試作盾斧Ⅰ,Hache primaire,Prototipo della Gilda I,Proto-Kommissionsaxt I,Protohacha Comitiva I,Protomachado Oficial I,Prototopór Komisji I,Простой топор Флота 1,조사단시험작순부Ⅰ,調查團試作盾斧Ⅰ,فأس لجنة بروتو I
 Proto Commission Axe II,調査団試作盾斧Ⅱ,Hache primaire II,Prototipo della Gilda II,Proto-Kommissionsaxt II,Protohacha Comitiva II,Protomachado Oficial II,Prototopór Komisji II,Простой топор Флота 2,조사단시험작순부Ⅱ,調查團試作盾斧Ⅱ,فأس لجنة بروتو II
 Proto Commission Axe III,調査団試作盾斧Ⅲ,Hache primaire III,Prototipo della Gilda III,Proto-Kommissionsaxt III,Protohacha Comitiva III,Protomachado Oficial III,Prototopór Komisji III,Простой топор Флота 3,조사단시험작순부Ⅲ,調查團試作盾斧Ⅲ,فأس لجنة بروتو III
@@ -850,6 +894,11 @@ Daora's Thwartoise,ダオラ＝ゲンム,Tortue Daora,Thwartoise Daora,Daoras Ve
 Xeno Ra'atz,ゼノ＝ラーツ,Xeno Ra'atz,Ra'atz Xeno,Xeno-Ra'atz,Xeno Ra'atz,Ra'atz de Xeno,Xeno Ra'atz,Ксено-ра’атц,제노라츠,冥燈龍盾斧,زينو رائتاز
 Tyrant's Charge Blade,暴虐の盾斧,Volto-hache du tyran,Lama del tiranno,Tyrannen-Energieklinge,Hacha cargada Tiránica,Serralâmina do Tirano,Ładowane ostrze tyrana,Силовой клинок тирана,포학의 순부,暴虐的盾斧,نصل الطاغية المشحون
 Oppressor's Charge Blade,デストネーター,Volto-hache de l'oppresseur,Lama del despota,Zwingherr-Energieklinge,Hacha cargada Opresora,Serralâmina do Opressor,Ładowane ostrze ciemięzcy,Силовой клинок угнетателя,데스토네이터,德斯特涅塔,نصل الجائر المشحون
+Dante's Devil Sword,ダンテの魔剣,Épée démoniaque de Dante,Lama demoniaca di Dante,Dantes Teufelsschwert,Espada demoníaca de Dante,Lâmina Demônio Dante,Demoniczny Miecz Dantego,Клинок Данте,단테의 마검,但丁的魔劍,نصل العفريت لدانتي
+Empress Alma,エンプレスアルマ,Alma Imperatrix,Alma fiamma,Kaiserin-Alma,Alma Lunastra,Alma da Luna,Alma Luny,Альма императрицы,엠프리스알마,皇后武器,روح الإمبراطورة
+"Empress Alma ""Blaze""",エンプレスアルマ・炎妃,"Alma Imperatrix ""Lethe""","Alma fiamma ""Vampa""","Kaiserin-Alma ""Lunastra""",Alma Lunastra (Luna),Alma da Luna Chama,Alma Luny „Żar”,"Альма ""Пламя""",엠프리스알마-염비,皇后武器‧炎妃,"روح الإمبراطورة ""لهيب"""
+"Empress Alma ""Ruin""",エンプレスアルマ・滅尽,"Alma Imperatrix ""Hadès""","Alma fiamma ""Rovina""","Kaiserin-Alma ""Nergigante""",Alma Lunastra (Nerg),Alma da Luna Ruína,Alma Luny „Ruina”,"Альма ""Разруха""",엠프리스알마-멸진,皇后武器‧滅盡,"روح الإمبراطورة ""تجدد"""
+"Empress Alma ""Styx""",エンプレスアルマ・冥灯,"Alma Imperatrix ""Styx""","Alma fiamma ""Stige""","Kaiserin-Alma ""Xeno'jiiva""",Alma Lunastra (Xeno),Alma da Luna Estige,Alma Luny „Styks”,"Альма ""Стикс""",엠프리스알마-명등,皇后武器‧冥燈,"روح الإمبراطورة ""تنافس"""
 Iron Blade I,アイアンブレードⅠ,Glaive en fer,Lama di ferro I,Eisenklinge I,Vara Férrea I,Lâmina de Ferro I,Żelazne ostrze I,Железный клинок 1,아이언블레이드Ⅰ,鐵製長刀Ⅰ,النصل الحديد I
 Iron Blade II,アイアンブレードⅡ,Glaive en fer II,Lama di ferro II,Eisenklinge II,Vara Férrea II,Lâmina de Ferro II,Żelazne ostrze II,Железный клинок 2,아이언블레이드Ⅱ,鐵製長刀Ⅱ,النصل الحديد II
 Iron Blade III,アイアンブレードⅢ,Glaive en fer III,Lama di ferro III,Eisenklinge III,Vara Férrea III,Lâmina de Ferro III,Żelazne ostrze III,Железный клинок 3,아이언블레이드Ⅲ,鐵製長刀Ⅲ,النصل الحديد III
@@ -933,6 +982,12 @@ Daora's Tethidine,クイド＝ダオラ,Tethidine Daora,Tethidine Daora,Daoras T
 Xeno Shmaena,ゼノ＝シュマイナ,Xeno Shmaena,Shmaena Xeno,Xeno-Shmaena,Xeno Shmaena,Shmaena de Xeno,Xeno Shmaena,Ксено-шаэна,제노슈마이너,冥燈龍長刀,زينو شماينا
 Bad Wing,バッドウィング,Aile de la mort,Ala della follia,Schlimmer Flügel,Ala de Perdición,Asa Ruim,Złowrogie skrzydło,Плохое крыло,배드윙,邪惡之翼,الجناح الشرير
 Grunge Storm,グランジストーム,Tonnerre absolu,Tempesta impura,Schmutzsturm,Tormenta Atronadora,Tempestade de Impurezas,Burza plugastwa,Грязная буря,그런지스톰,污穢暴風雨,عاصفة قذرة
+Gae Bolg,ゲイボルグ,Gae bolg FFXIV,Gae Bolg,Gae Bolg,Gae Bolg,Gae Bolg,Gae Bolg,Гэй Болг,게 볼그,穿心槍蓋博爾格,رمح النصال
+True Gae Bolg,ゲイボルグ・真,Gae bolg suprême FFXIV,Gae Bolg Suprema,Wahrer Gae Bolg,Gae Bolg supremo,Gae Bolg Genuíno,Prawdziwy Gae Bolg,Истинный Гэй Болг,게 볼그: 진,穿心槍蓋博爾格‧真,رمح النصال الحقيقي
+Empress Cane,エンプレスケイン,Canne Imperatrix,Bastone fiamma,Kaiserin-Yueyachan,Bastón Lunastra,Vareta da Luna,Laska Luny,Трость императрицы,엠프리스케인,皇后長鞭,عود الإمبراطورة
+"Empress Cane ""Blaze""",エンプレスケイン・炎妃,"Canne Imperatrix ""Lethe""","Bastone fiamma ""Vampa""","KaiserinYueyachan ""Lunastra""",Bastón Lunastra (Luna),Vareta da Luna Chama,Laska Luny „Żar”,"Трость ""Пламя""",엠프리스케인-염비,皇后長鞭‧炎妃,"عود الإمبراطورة ""لهيب"""
+"Empress Cane ""Ruin""",エンプレスケイン・滅尽,"Canne Imperatrix ""Hadès""","Bastone fiamma ""Rovina""",KaiserinYueyachanNergigante,Bastón Lunastra (Nerg),Vareta da Luna Ruína,Laska Luny „Ruina”,"Трость ""Разруха""",엠프리스케인-멸진,皇后長鞭‧滅盡,"عود الإمبراطورة ""تجدد"""
+"Empress Cane ""Styx""",エンプレスケイン・冥灯,"Canne Imperatrix ""Styx""","Bastone fiamma ""Stige""",KaiserinYueyachanXeno'jiiva,Bastón Lunastra (Xeno),Vareta Luna Estige,Laska Luny „Styks”,"Трость ""Стикс""",엠프리스케인-명등,皇后長鞭‧冥燈,"عود الإمبراطورة ""تنافس"""
 Chain Blitz I,チェーンブリッツⅠ,Déchiqueteur de fer,Fulmine a catena I,Kettenblitz I,Saeta Cadena I,Bombardeio em Série I,Blitz łańcuchowy I,Разящая цепь 1,체인블리츠Ⅰ,迅擊鍊弩Ⅰ,الغارة المسلسلة I
 Chain Blitz II,チェーンブリッツⅡ,Déchiqueteur de fer II,Fulmine a catena II,Kettenblitz II,Saeta Cadena II,Bombardeio em Série II,Blitz łańcuchowy II,Разящая цепь 2,체인블리츠Ⅱ,迅擊鍊弩Ⅱ,غارة مسلسلة II
 Chain Blitz III,チェーンブリッツⅢ,Déchiqueteur de fer III,Fulmine a catena III,Kettenblitz III,Saeta Cadena III,Bombardeio em Série III,Blitz łańcuchowy III,Разящая цепь 3,체인블리츠Ⅲ,迅擊鍊弩Ⅲ,غارة مسلسلة III
@@ -1019,6 +1074,10 @@ Cross Bowgun,クロスボウガン,Fusarbalète du traqueur,Balestra incrociata,
 Great Bowgun,グレイトボウガン,Grand fusarbalète,Gran balestra,Großes Bogengewehr,Gran Ballesta,Fuzilarco Grande,Wielkie łukodziałko,Великое лукорудие,그레이트보우건,巨型十字槍,بندقية القوس العظيمة
 Devil's Grin,イビルマシーン,Sourire du Diable,Ghigno diabolico,Teufelsgrinsen,Sonrisa del Diablo,Sorriso do Diabo,Diabelski uśmiech,Ухмылка дьявола,이블 머신,恐怖機械,تجهم الشّيطان
 Devil's Madness,マッドネスグリーフ,Folie du Diable,Follia diabolica,Teufelswahn,Locura del Diablo,Loucura do Diabo,Diabelski obłęd,Безумие дьявола,매드니스 그리브,瘋狂的悲嘆,هوس الشّيطان
+Empress Shell,エンプレスシェル,Obus Imperatrix,Scarica fiamma,Kaiserin-Hülse,Saeta Lunastra,Casco da Luna,Łuska Luny,Панцирь императрицы,엠프리스셸,皇后甲殼,صدفة الإمبراطورة
+"Empress Shell ""Blaze""",エンプレスシェル・炎妃,"Obus Imperatrix ""Lethe""","Scarica fiamma ""Vampa""","Kaiserin-Hülse ""Lunastra""",Saeta Lunastra (Luna),Casco da Luna Chama,Łuska Luny  „Żar”,"Панцирь ""Пламя""",엠프리스셸-염비,皇后甲殼‧炎妃,"صدفة الإمبراطورة ""لهيب"""
+"Empress Shell ""Ruin""",エンプレスシェル・滅尽,"Obus Imperatrix ""Hadès""","Scarica fiamma ""Rovina""","Kaiserin-Hülse ""Nergigante""",Saeta Lunastra (Nerg),Casco da Luna Ruína,Łuska Luny „Ruina”,"Панцирь ""Разруха""",엠프리스셸-멸진,皇后甲殼‧滅盡,"صدفة الإمبراطورة ""تجدد"""
+"Empress Shell ""Styx""",エンプレスシェル・冥灯,"Obus Imperatrix ""Styx""","Scarica fiamma ""Stige""","Kaiserin-Hülse ""Xeno'jiiva""",Saeta Lunastra (Xeno),Casco da Luna Estige,Łuska Luny „Styks”,"Панцирь ""Стикс""",엠프리스셸-명등,皇后甲殼‧冥燈,"صدفة الإمبراطورة ""تنافس"""
 Iron Assault I,アイアンアサルトⅠ,Arbalète en fer,Assalto di ferro I,Eisen-Überfall I,Asalto Férreo I,Assalto Férreo I,Żelazna nawała I,Железный штурмовик 1,아이언어썰트Ⅰ,鐵製突擊弩Ⅰ,البطش الحديدي I
 Iron Assault II,アイアンアサルトⅡ,Arbalète en fer II,Assalto di ferro II,Eisen-Überfall II,Asalto Férreo II,Assalto Férreo II,Żelazna nawała II,Железный штурмовик 2,아이언어썰트Ⅱ,鐵製突擊弩Ⅱ,البطش الحديدي II
 Iron Assault III,アイアンアサルトⅢ,Arbalète en fer III,Assalto di ferro III,Eisen-Überfall III,Asalto Férreo III,Assalto Férreo III,Żelazna nawała III,Железный штурмовик 3,아이언어썰트Ⅲ,鐵製突擊弩Ⅲ,البطش الحديدي III
@@ -1048,7 +1107,7 @@ Jagras Assault II,ジャグラスアサルトⅡ,Arbalète Jagras II,Assalto Jag
 Jagras Assault III,ジャグラスアサルトⅢ,Arbalète Jagras III,Assalto Jagras III,Jagras-Überfall III,Asalto Jagras III,Assalto de Jagras III,Nawała Jagrasa III,Штурмовик яграса 3,쟈그라스어썰트Ⅲ,凶豺龍突擊弩Ⅲ,بطش جاغراس III
 Jagras Cannon I,ジャグラスキャノンⅠ,Canon Jagras,Cannone Jagras I,Jagras-Kanone I,Cañón Jagras I,Canhão de Jagras I,Działo Jagrasa I,Пушка яграса 1,쟈그라스캐논Ⅰ,凶豺龍加農砲Ⅰ,مدفع جاغراس I
 Jagras Cannon II,ジャグラスキャノンⅡ,Canon Jagras II,Cannone Jagras II,Jagras-Kanone II,Cañón Jagras II,Canhão de Jagras II,Działo Jagrasa II,Пушка яграса 2,쟈그라스캐논Ⅱ,凶豺龍加農砲Ⅱ,مدفع جاغراس II
-Jagras Cannon III,,,,,,,,,,,
+Gluttonous Fangcannon,牙竜重弩【暴食】,Croc-canon le Vorace,Arcicannone ingordo,Völlerei-Zahnkanone,Cañón Codicioso,Presacanhão Insaciável,Żarłoczne kłodziało,Прожорливый клык,아룡중노【폭식】,牙龍重弩槍【暴食】,مدفع غلاتونوس فانغ
 Blazing Assault I,ブレイズアサルトⅠ,Arbalète flamboyante,Assalto fiammante I,Glut-Überfall I,Asalto Flameante I,Assalto Escaldante I,Ognista nawała I,Пылающий штурмовик 1,블레이즈어썰트Ⅰ,火焰突擊弩Ⅰ,البطش المتّقد I
 Blazing Assault II,ブレイズアサルトⅡ,Arbalète flamboyante II,Assalto fiammante II,Glut-Überfall II,Asalto Flameante II,Assalto Escaldante II,Ognista nawała II,Пылающий штурмовик 2,블레이즈어썰트Ⅱ,火焰突擊弩Ⅱ,البطش المتّقد II
 Flammenkanone,フラムエルテルマ,Flammenkanone,Flammenkanone,Flammenkanone,Flammenkanone,Canhardente,Flammenkanone,Огненная пушка,플람엘테르마,蠻顎龍火砲,مدفع لهب
@@ -1100,6 +1159,10 @@ Teostra's Flames,テオ＝フランマルス,Flammes Teostra,Fiamme Teostra,Teos
 Xeno Jiiqa,ゼノ＝ジィカ,Xeno Jiiqa,Jiiqa Xeno,Xeno-Jiiqa,Xeno Jiiqa,Jiiqa de Xeno,Xeno Jiiqa,Ксено-джиика,제노지카,冥燈龍重弩槍,زينو جيكا
 Gluttonous Cannon,暴食の重弩,Canon gargantuesque,Cannone ingordo,Völlerei-Kanone,Cañón Glotón,Canhão Insaciável,Żarłoczne działo,Прожорливая пушка,폭식의 중노,暴食的重弩,مِدفع شرس
 Dark Devourer,アンフィニグラ,Dévoreur des Ténèbres,Divoratore oscuro,Dunkler Verschlinger,Devoradora Oscura,Devorador Negro,Mroczny pożeracz,Темный пожиратель,안피니그라,黑暗左右,الملتهم المُظلم
+Empress Cannon,エンプレスカノン,Canon Imperatrix,Cannone fiamma,Kaiserin-Kanone,Cañón Lunastra,Canhão da Luna,Działo Luny,Пушка императрицы,엠프리스캐넌,皇后加農砲,مدفع الإمبراطورة
+"Empress Cannon ""Blaze""",エンプレスカノン・炎妃,"Canon Imperatrix ""Lethe""","Cannone fiamma ""Vampa""","Kaiserin-Kanone ""Lunastra""",Cañón Lunastra (Luna),Canhão da Luna Chama,Działo Luny „Żar”,"Пушка ""Пламя""",엠프리스캐넌-염비,皇后加農砲‧炎妃,"مدفع الإمبراطورة ""لهيب"""
+"Empress Cannon ""Ruin""",エンプレスカノン・滅尽,"Canon Imperatrix ""Hadès""","Cannone fiamma ""Rovina""","Kaiserin-Kanone ""Nergigante""",Cañón Lunastra (Nerg),Canhão da Luna Ruína,Działo Luny „Ruina”,"Пушка ""Разруха""",엠프리스캐넌-멸진,皇后加農砲‧滅盡,"مدفع الإمبراطورة ""تجدد"""
+"Empress Cannon ""Styx""",エンプレスカノン・冥灯,"Canon Imperatrix ""Styx""","Cannone fiamma ""Stige""","Kaiserin-Kanone ""Xeno'jiiva""",Cañón Lunastra (Xeno),Canhão Luna Estige,Działo Luny „Styks”,"Пушка ""Стикс""",엠프리스캐넌-명등,皇后加農砲‧冥燈,"مدفع الإمبراطورة ""تنافس"""
 Iron Bow I,鉄弓Ⅰ,Arc en fer,Arco di ferro I,Eisenbogen I,Arco Férreo I,Arco de Ferro I,Żelazny łuk I,Железный лук 1,강궁Ⅰ,鐵弓Ⅰ,القوس الحديدي I
 Iron Bow II,鉄弓Ⅱ,Arc en fer II,Arco di ferro II,Eisenbogen II,Arco Férreo II,Arco de Ferro II,Żelazny łuk II,Железный лук 2,강궁Ⅱ,鐵弓Ⅱ,القوس الحديدي II
 Iron Bow III,鉄弓Ⅲ,Arc en fer III,Arco di ferro III,Eisenbogen III,Arco Férreo III,Arco de Ferro III,Żelazny łuk III,Железный лук 3,강궁Ⅲ,鐵弓Ⅲ,القوس الحديدي III
@@ -1177,3 +1240,7 @@ Cross Hunter's Bow,クロスハンターボウ,Arc du traqueur,Arco incrociato,K
 Great Hunter's Bow,グレイトハンターボウ,Grand arc de chasseur,Gran arco,Großer Jägerbogen,Gran arco de cazador,Grande Arco do Caçador,Łuk wielkiego łowcy,Большой лук охотника,그레이트헌터보우,巨型獵弓,قوس الصياد الأعظم
 Insurgent's Bow,暴徒の凶弓,Arc de l'Insurgé,Arco ribelle,Rebellenbogen,Arco Insurrecto,Arco do Insurgente,Łuk buntownika,Лук мятежника,폭주의 흉노,暴徒的凶弓,قوس الثائر
 Villainous Brace,ヴィランブレイス,Étreinte infâme,Pilastro malvagio,Garstiger Doppeltreffer,Puntal Malvado,Preparo Ignóbil,Nikczemna klamra,Злодейский гребень,뷔란 블레이즈,惡棍之弓,تحصين شرير
+Empress Arrow,エンプレスアロー,Flèche Imperatrix,Freccia fiamma,Kaiserin-Bogen,Arco Lunastra,Flecha da Luna,Strzała Luny,Стрела императрицы,엠프리스애로우,皇后弓,سهام الإمبراطورة
+"Empress Arrow ""Blaze""",エンプレスアロー・炎妃,"Flèche Imperatrix ""Lethe""","Freccia fiamma ""Vampa""","Kaiserin-Bogen ""Lunastra""",Arco Lunastra (Luna),Flecha da Luna Chama,Strzała Luny „Żar”,"Стрела ""Пламя""",엠프리스애로우-염비,皇后弓‧炎妃,"سهام الإمبراطورة ""لهيب"""
+"Empress Arrow ""Ruin""",エンプレスアロー・滅尽,"Flèche Imperatrix ""Hadès""","Freccia fiamma ""Rovina""","Kaiserin-Bogen ""Nergigante""",Arco Lunastra (Nerg),Flecha da Luna Ruína,Strzała Luny „Ruina”,"Стрела ""Разруха""",엠프리스애로우-멸진,皇后弓‧滅盡,"سهام الإمبراطورة ""تجدد"""
+"Empress Arrow ""Styx""",エンプレスアロー・冥灯,"Flèche Imperatrix ""Styx""","Freccia fiamma ""Stige""","Kaiserin-Bogen ""Xeno'jiiva""",Arco Lunastra (Xeno),Flecha Luna Estige,Strzała Luny „Styks”,"Стрела ""Стикс""",엠프리스애로우-명등,皇后弓‧冥燈,"سهام الإمبراطورة ""تنافس"""

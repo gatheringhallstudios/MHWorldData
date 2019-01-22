@@ -178,34 +178,6 @@ def update_weapons():
 
     print("Loaded initial weapon binary data data")
 
-    def bind_basic_weapon_data(weapon_type, existing_entry, binary):
-        "Binds the basic general weapon data, plus elements"
-        multiplier = cfg.weapon_multiplier[weapon_type]
-
-        existing_entry['weapon_type'] = weapon_type
-        existing_entry['rarity'] = binary.rarity + 1
-        existing_entry['attack'] = binary.raw_damage * multiplier
-        existing_entry['affinity'] = binary.affinity
-        existing_entry['defense'] = binary.defense or None
-        existing_entry['slot_1'] = binary.gem_slot1_lvl
-        existing_entry['slot_2'] = binary.gem_slot2_lvl
-        existing_entry['slot_3'] = binary.gem_slot3_lvl
-        existing_entry['elderseal'] = elderseal[binary.elderseal]
-
-        # Bind element data. Dual element ones are mapped strangely, so we skip them
-        if existing_entry.name('en') in ["Twin Nails", "Fire and Ice"]:
-            print(f"Skipping {existing_entry.name('en')} element data")
-        else:
-            hidden = binary.hidden_element_id != 0
-            element_id = binary.hidden_element_id if hidden else binary.element_id
-            element_atk = binary.hidden_element_damage if hidden else binary.element_damage
-
-            existing_entry['element_hidden'] = hidden
-            existing_entry['element1'] = elements[element_id]
-            existing_entry['element1_attack'] = element_atk * 10 if element_atk else None
-            existing_entry['element2'] = None
-            existing_entry['element2_attack'] = None
-
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
@@ -227,8 +199,12 @@ def update_weapons():
             note_entry = notes_data[binary.wep1_id]
             notes = [note_entry.note1, note_entry.note2, note_entry.note3]
             notes = [str(note_colors[n]) for n in notes]
-            existing_entry['notes'] = "".join(notes)
+            existing_entry['notes'] = "".join(notes)   
 
+    # Store new weapon entries
+    new_weapon_map = DataMap(languages="en", start_id=mhdata.weapon_map.max_id+1)
+
+    # Iterate over weapon types
     for weapon_type in cfg.weapon_types:
         print(f"Processing {weapon_type}")
 
@@ -237,38 +213,67 @@ def update_weapons():
         weapon_tree = weapon_loader.load_tree(weapon_type)
         print(f"Loaded {weapon_type} weapon tree binary data")
 
+        multiplier = cfg.weapon_multiplier[weapon_type]
+
+        # Iterate over nodes in the weapon tree (does depth first search)
         for weapon_node in weapon_tree:
             binary = weapon_node.binary
             name = weapon_node.name
             existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
             
-            # For now, this routine is update only
-            if not existing_entry:
-                continue
+            new_entry = { }
+            if existing_entry:
+                new_entry = { **existing_entry }
             
             # Bind name and parent
-            existing_entry['name'] = name
-            existing_entry['weapon_type'] = weapon_type
-            existing_entry['previous_en'] = None
+            new_entry['name'] = name
+            new_entry['weapon_type'] = weapon_type
+            new_entry['previous_en'] = None
             if weapon_node.parent != None:
-                existing_entry['previous_en'] = weapon_node.parent.name['en']
+                new_entry['previous_en'] = weapon_node.parent.name['en']
+
+            print(name['en'])
 
             # Bind info
-            bind_basic_weapon_data(weapon_type, existing_entry, binary)
+            new_entry['weapon_type'] = weapon_type
+            new_entry['rarity'] = binary.rarity + 1
+            new_entry['attack'] = binary.raw_damage * multiplier
+            new_entry['affinity'] = binary.affinity
+            new_entry['defense'] = binary.defense or None
+            new_entry['slot_1'] = binary.gem_slot1_lvl
+            new_entry['slot_2'] = binary.gem_slot2_lvl
+            new_entry['slot_3'] = binary.gem_slot3_lvl
+            new_entry['elderseal'] = elderseal[binary.elderseal]
+
+            # Bind Elements
+            if name['en'] in ["Twin Nails", "Fire and Ice"]:
+                print(f"Skipping {name['en']} element data")
+            else:
+                hidden = binary.hidden_element_id != 0
+                element_id = binary.hidden_element_id if hidden else binary.element_id
+                element_atk = binary.hidden_element_damage if hidden else binary.element_damage
+
+                new_entry['element_hidden'] = hidden
+                new_entry['element1'] = elements[element_id]
+                new_entry['element1_attack'] = element_atk * 10 if element_atk else None
+                new_entry['element2'] = None
+                new_entry['element2_attack'] = None
+            
+            # Bind Extras (Blade/Gun/Bow data)
             if weapon_type in cfg.weapon_types_melee:
-                bind_weapon_blade_ext(weapon_type, existing_entry, binary)
-                existing_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
+                bind_weapon_blade_ext(weapon_type, new_entry, binary)
+                new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
             elif weapon_type in cfg.weapon_types_gun:
                 (ammo_name, ammo_data) = ammo_reader.create_data_for(
                     wtype=weapon_type, 
                     tree=weapon_node.tree,
                     binary=weapon_node.binary)
-                existing_entry['ammo_config'] = ammo_name
+                new_entry['ammo_config'] = ammo_name
             else:
                 # TODO: Bows have an Enabled+ flag. Find out what it means
                 # 1 = enabled, 2 = enabled+
                 coating_binary = coating_data[binary.special_ammo_type]
-                existing_entry['bow'] = {
+                new_entry['bow'] = {
                     'close': coating_binary.close_range > 0,
                     'power': coating_binary.power > 0,
                     'paralysis': coating_binary.paralysis > 0,
@@ -278,45 +283,47 @@ def update_weapons():
                 }
 
             # crafting data
-            existing_entry['craft'] = []
+            new_entry['craft'] = []
             if weapon_node.craft:
-                existing_entry['craft'].append({
+                new_entry['craft'].append({
                     'type': 'Create',
                     **convert_recipe(item_text_handler, weapon_node.craft)
                 })
             if weapon_node.upgrade:
-                existing_entry['craft'].append({
+                new_entry['craft'].append({
                     'type': 'Upgrade',
                     **convert_recipe(item_text_handler, weapon_node.upgrade)
                 })
+
+            new_weapon_map.insert(new_entry)
 
     # Write new data
     writer = create_writer()
 
     writer.save_base_map_csv(
         "weapons/weapon_base.csv",
-        mhdata.weapon_map,
+        new_weapon_map,
         schema=schema.WeaponBaseSchema(),
         translation_filename="weapons/weapon_base_translations.csv"
     )
 
     writer.save_data_csv(
         "weapons/weapon_sharpness.csv",
-        mhdata.weapon_map, 
+        new_weapon_map, 
         key="sharpness",
         schema=schema.WeaponSharpnessSchema()
     )
 
     writer.save_data_csv(
         "weapons/weapon_bow_ext.csv",
-        mhdata.weapon_map,
+        new_weapon_map,
         key="bow",
         schema=schema.WeaponBowSchema()
     )
 
     writer.save_data_csv(
         "weapons/weapon_craft.csv",
-        mhdata.weapon_map, 
+        new_weapon_map, 
         key="craft",
         schema=schema.WeaponCraftSchema()
     )
@@ -326,5 +333,7 @@ def update_weapons():
         ammo_reader.data,
         schema=schema.WeaponAmmoSchema()
     )
+
+    print("Weapon files updated\n")
 
     add_missing_items(item_text_handler.encountered, mhdata=mhdata)

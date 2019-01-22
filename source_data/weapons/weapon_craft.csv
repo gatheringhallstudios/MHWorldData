@@ -91,6 +91,12 @@ Wyvern Jawblade,Create,Hunter King Coin,5,Rathalos Coin,4,Barroth Coin,4,Novacry
 Great Wyvern Jawblade,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Berserker Sword,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Anguish,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+"Wyvern Ignition ""Steel""",Create,Master Craftsman's Blueprint,2,Dragonite Ore,7,Paolumu Webbing,2,Rathalos Marrow,2
+"Wyvern Ignition ""Impact""",Upgrade,Master Craftsman's Blueprint,3,Elder Dragon Blood,2,Firecell Stone,5,Wyvern Gem,1
+Empress Galea,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Galea ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Galea ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Galea ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Iron Katana I,Create,Iron Ore,1,,,,,,
 Iron Katana II,Upgrade,Iron Ore,2,,,,,,
 Iron Katana III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -173,10 +179,14 @@ Imperial Shimmer,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,
 Xeno Cypher,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Supremacy Blade,Create,Hunter King Coin,5,Rathalos Coin,4,Gama Coin,4,Novacrystal,1
 Divine Slasher,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
-Azure Star Blade,Create,Azure Star Shard,3,Great Jagras Claw,4,Monster Bone M,4,Lightcrystal,1
-"Azure Star ""Dragon Dance""",Upgrade,Azure Stargem,2,Dodogama Talon,4,Rathalos Ruby,1,Novacrystal,1
 "Reaver ""Cruelty""",Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 "Reaver ""Calamity""",Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Azure Star Blade,Create,Azure Star Shard,3,Great Jagras Claw,4,Monster Bone M,4,Lightcrystal,1
+"Azure Star ""Dragon Dance""",Upgrade,Azure Stargem,2,Dodogama Talon,4,Rathalos Ruby,1,Novacrystal,1
+Empress Sword,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Sword ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Sword ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Sword ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Hunter's Knife I,Create,Iron Ore,1,,,,,,
 Hunter's Knife II,Upgrade,Iron Ore,2,,,,,,
 Hunter's Knife III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -273,6 +283,10 @@ Teostra's Emblem,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,
 Xeno Mabura,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Fatal Jho,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Fatal Bite,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Edge,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Edge ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Edge ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Edge ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Matched Slicers I,Create,Iron Ore,1,,,,,,
 Matched Slicers II,Upgrade,Iron Ore,2,,,,,,
 Matched Slicers III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -360,6 +374,12 @@ Fire and Ice,Upgrade,Xeno'jiiva Claw,2,Teostra Horn+,3,Daora Horn+,3,Novacrystal
 Xeno Raqs,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Wrath & Rancor,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Wrathful Predation,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Daggers,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Daggers ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Daggers ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Daggers ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
+Downy Crake Brooms,Create,Downy Crake Ticket,1,Paolumu Pelt,3,Sturdy Bone,5,Sleep Sac,2
+Downy Crake Love,Upgrade,Downy Crake Ticket,2,Paolumu Pelt+,3,Coma Sac,3,High Commendation,1
 Iron Hammer I,Create,Iron Ore,1,,,,,,
 Iron Hammer II,Upgrade,Iron Ore,2,,,,,,
 Iron Hammer III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -448,6 +468,12 @@ Jail Hammer,Create,Hunter King Coin,5,Rathalos Coin,4,Tzitzi Coin,4,Novacrystal,
 Binder Mace,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Devil's Due,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Devil's Crush,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Mace,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Mace ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Mace ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Mace ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
+Bristly Pincushion,Create,Bristly Crake Ticket,1,Radobaan Scale,3,Sturdy Bone,5,Poison Sac,2
+Bristly Grudge,Upgrade,Bristly Crake Ticket,2,Radobaan Scale+,3,Toxin Sac,3,High Commendation,1
 Metal Bagpipe I,Create,Iron Ore,1,,,,,,
 Metal Bagpipe II,Upgrade,Iron Ore,2,,,,,,
 Metal Bagpipe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -537,6 +563,10 @@ Teostra's Orphée,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2
 Xeno Manasheena,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Devil's Maestro,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Deep Vero,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Roar,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Roar ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Roar ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Roar ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Iron Lance I,Create,Iron Ore,1,,,,,,
 Iron Lance II,Upgrade,Iron Ore,2,,,,,,
 Iron Lance III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -625,6 +655,12 @@ Babel Spear,Create,Hunter King Coin,5,Rathalos Coin,4,Gama Coin,4,Novacrystal,1
 Elder Babel Spear,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Grief Lance,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Fiendish Tower,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Lance,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Lance ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Lance ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Lance ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
+Shooting Star Lance,Create,First Fleet Ticket,1,Rathalos Webbing,2,Sturdy Bone,5,Paralysis Sac,2
+Sapphire Star Lance,Upgrade,First Fleet Ticket,2,Rathalos Wing,2,Omniplegia Sac,3,High Commendation,1
 Iron Gunlance I,Create,Iron Ore,1,,,,,,
 Iron Gunlance II,Upgrade,Iron Ore,2,,,,,,
 Iron Gunlance III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -708,6 +744,10 @@ Daora's Brigia,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
 Xeno Hemta,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Ravenous Gunlance,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Insatiable Gunlance,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Howl,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Howl ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Howl ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Howl ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Proto Iron Axe I,Create,Iron Ore,1,,,,,,
 Proto Iron Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Iron Axe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -791,6 +831,10 @@ Teostra's Castle,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,
 Xeno Martshu,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Tyrannos,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Terror Tyrannos,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Axe,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Axe ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Axe ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Axe ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Proto Commission Axe I,Create,Iron Ore,1,,,,,,
 Proto Commission Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Commission Axe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -870,6 +914,11 @@ Daora's Thwartoise,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora G
 Xeno Ra'atz,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Tyrant's Charge Blade,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Oppressor's Charge Blade,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Dante's Devil Sword,Create,Red Orb,2,Anjanath Gem,1,Odogaron Gem,1,Teostra Mane,4
+Empress Alma,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Alma ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Alma ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Alma ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Iron Blade I,Create,Iron Ore,1,,,,,,
 Iron Blade II,Upgrade,Iron Ore,2,,,,,,
 Iron Blade III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -955,6 +1004,12 @@ Daora's Tethidine,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Ge
 Xeno Shmaena,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Bad Wing,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Grunge Storm,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Gae Bolg,Create,Behemoth Bone,3,Behemoth Shearclaw,2,Aetheryte Shard,3,Firecell Stone,3
+True Gae Bolg,Upgrade,Behemoth Bone,2,Behemoth Great Horn,2,Behemoth Tail,1,Elder Dragon Blood,5
+Empress Cane,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Cane ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Cane ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Cane ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Chain Blitz I,Create,Iron Ore,1,,,,,,
 Chain Blitz II,Upgrade,Iron Ore,2,,,,,,
 Chain Blitz III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -1043,6 +1098,10 @@ Cross Bowgun,Create,Hunter King Coin,5,Rathalos Coin,4,Gama Coin,4,Novacrystal,1
 Great Bowgun,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Devil's Grin,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Devil's Madness,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Shell,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Shell ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Shell ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Shell ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Iron Assault I,Create,Iron Ore,1,,,,,,
 Iron Assault II,Upgrade,Iron Ore,2,,,,,,
 Iron Assault III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -1073,7 +1132,7 @@ Jagras Assault II,Upgrade,Great Jagras Claw,2,Great Jagras Mane,2,Coral Bone,2,T
 Jagras Assault III,Upgrade,Monster Bone+,3,Great Jagras Scale,5,Great Jagras Claw,3,Great Jagras Mane,3
 Jagras Cannon I,Upgrade,Great Jagras Scale+,6,Great Jagras Claw+,4,Great Jagras Mane,6,Piercing Claw,5
 Jagras Cannon II,Upgrade,Monster Hardbone,4,Great Jagras Claw+,6,Jagras Hide+,6,Tzitzi-Ya-Ku Claw+,5
-Jagras Cannon III,Upgrade,Great Jagras Claw+,8,Great Jagras Hide+,6,Novacrystal,1,Vaal Hazak Talon,2
+Gluttonous Fangcannon,Upgrade,Vaal Hazak Talon,2,Great Jagras Claw+,8,Great Jagras Hide+,6,Novacrystal,1
 Blazing Assault I,Upgrade,Anjanath Fang,2,Anjanath Scale,3,Flame Sac,1,,
 Blazing Assault II,Upgrade,Rathalos Marrow,1,Anjanath Fang,4,Anjanath Nosebone,1,Anjanath Tail,1
 Flammenkanone,Upgrade,Anjanath Fang+,4,Anjanath Scale+,5,Inferno Sac,3,Anjanath Plate,1
@@ -1126,6 +1185,10 @@ Teostra's Flames,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,
 Xeno Jiiqa,Upgrade,Xeno'jiiva Claw,4,Xeno'jiiva Shell,6,Xeno'jiiva Tail,2,Xeno'jiiva Gem,1
 Gluttonous Cannon,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Dark Devourer,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Cannon,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Cannon ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Cannon ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Cannon ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 Iron Bow I,Create,Iron Ore,1,,,,,,
 Iron Bow II,Upgrade,Iron Ore,2,,,,,,
 Iron Bow III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
@@ -1205,3 +1268,7 @@ Cross Hunter's Bow,Create,Hunter King Coin,5,Rathalos Coin,4,Barroth Coin,4,Nova
 Great Hunter's Bow,Upgrade,Ace Hunter Coin,5,Brute Coin,4,Flying Coin,4,Wyvern Gem,2
 Insurgent's Bow,Create,Deviljho Scale,6,Deviljho Talon,2,Deviljho Tallfang,3,Deviljho Saliva,2
 Villainous Brace,Upgrade,Elder Dragon Blood,5,Deviljho Scalp,2,Deviljho Tallfang,5,Deviljho Gem,1
+Empress Arrow,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunastra Gem,1
+"Empress Arrow ""Blaze""",Upgrade,Research Commission Ticket,1,Lunastra Horn,2,Teostra Horn+,3,Bazelgeuse Gem,1
+"Empress Arrow ""Ruin""",Upgrade,Research Commission Ticket,1,Lunastra Wing,3,Nergigante Horn+,3,Nergigante Gem,1
+"Empress Arrow ""Styx""",Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
