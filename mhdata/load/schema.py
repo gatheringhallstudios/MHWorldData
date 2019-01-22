@@ -258,12 +258,13 @@ class WeaponCraftSchema(BaseSchema):
     item4_qty = fields.Int(allow_none=True)
 
 class WeaponBowSchema(BaseSchema):
-    close = fields.Bool()
-    power = fields.Bool()
-    poison = fields.Bool()
-    paralysis = fields.Bool()
-    sleep = fields.Bool()
-    blast = fields.Bool()
+    base_name_en = fields.Str()
+    close = ExcelBool()
+    power = ExcelBool()
+    paralysis = ExcelBool()
+    poison = ExcelBool()
+    sleep = ExcelBool()
+    blast = ExcelBool()
 
 class AmmoGroupSchema(BaseSchema):
     clip = fields.Int()

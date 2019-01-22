@@ -2,7 +2,7 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.build import datafn
 
-from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl
+from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
 from .load import load_schema, load_text, ItemTextHandler, SharpnessDataReader, WeaponDataLoader, convert_recipe
 from .items import add_missing_items
 
@@ -174,6 +174,7 @@ def update_weapons():
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
     ammo_reader = WeaponAmmoLoader()
+    coating_data = load_schema(bbtbl.Bbtbl, "common/equip/bottle_table.bbtbl")
 
     print("Loaded initial weapon binary data data")
 
@@ -263,6 +264,18 @@ def update_weapons():
                     tree=weapon_node.tree,
                     binary=weapon_node.binary)
                 existing_entry['ammo_config'] = ammo_name
+            else:
+                # TODO: Bows have an Enabled+ flag. Find out what it means
+                # 1 = enabled, 2 = enabled+
+                coating_binary = coating_data[binary.special_ammo_type]
+                existing_entry['bow'] = {
+                    'close': coating_binary.close_range > 0,
+                    'power': coating_binary.power > 0,
+                    'paralysis': coating_binary.paralysis > 0,
+                    'poison': coating_binary.poison > 0,
+                    'sleep': coating_binary.sleep > 0,
+                    'blast': coating_binary.blast > 0
+                }
 
             # crafting data
             existing_entry['craft'] = []
@@ -292,6 +305,13 @@ def update_weapons():
         mhdata.weapon_map, 
         key="sharpness",
         schema=schema.WeaponSharpnessSchema()
+    )
+
+    writer.save_data_csv(
+        "weapons/weapon_bow_ext.csv",
+        mhdata.weapon_map,
+        key="bow",
+        schema=schema.WeaponBowSchema()
     )
 
     writer.save_data_csv(

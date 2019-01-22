@@ -368,8 +368,8 @@ class Weapon(Base):
 
     coating_close = Column(Integer)
     coating_power = Column(Integer)
-    coating_poison = Column(Integer)
     coating_paralysis = Column(Integer)
+    coating_poison = Column(Integer)
     coating_sleep = Column(Integer)
     coating_blast = Column(Integer)
 
