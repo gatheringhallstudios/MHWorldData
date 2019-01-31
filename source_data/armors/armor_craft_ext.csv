@@ -71,11 +71,6 @@ King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
 King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Aqua Sac,1
 King Beetle Elytra,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
 King Beetle Crura,Great Hornfly,1,Dragonite Ore,2,Monster Fluid,3,Paralysis Sac,1
-Butterfly Vertex,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
-Butterfly Thorax,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
-Butterfly Brachia,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
-Butterfly Elytra,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
-Butterfly Crura,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
 Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal,1
 Hornetaur Helm,Hornetaur Head,1,Hornetaur Shell,1,Machalite Ore,1,Monster Fluid,1
 Hornetaur Mail,Hornetaur Wing,2,Hornetaur Shell,2,Dragonite Ore,2,Machalite Ore,2
@@ -162,6 +157,16 @@ Orion Vest,Winter Star Ticket,1,Monster Bone+,2,,,,
 Orion Vambraces,Winter Star Ticket,1,Monster Bone+,1,,,,
 Orion Coat,Winter Star Ticket,1,Monster Bone+,1,,,,
 Orion Boots,Winter Star Ticket,1,Monster Bone+,2,,,,
+Gala Suit Top Hat,Appreciation Ticket,1,Monster Bone+,3,,,,
+Gala Suit Jacket,Appreciation Ticket,1,Monster Bone+,2,,,,
+Gala Suit Cuffs,Appreciation Ticket,1,Monster Bone+,1,,,,
+Gala Suit Tail,Appreciation Ticket,1,Monster Bone+,1,,,,
+Gala Suit Slacks,Appreciation Ticket,1,Monster Bone+,1,,,,
+Butterfly Vertex,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
+Butterfly Thorax,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Butterfly Brachia,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
+Butterfly Elytra,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Butterfly Crura,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
 Blossom Headgear,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
 Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
@@ -707,6 +712,11 @@ Orion Vest α,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
 Orion Vambraces α,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
 Orion Coat α,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
 Orion Boots α,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
+Gala Suit Top Hat α,Appreciation Ticket,3,Elder Dragon Bone,3,High Commendation,2,,
+Gala Suit Jacket α,Appreciation Ticket,3,Elder Dragon Bone,2,High Commendation,2,,
+Gala Suit Cuffs α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
+Gala Suit Tail α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
+Gala Suit Slacks α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
 Vaal Hazak Helm γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Talon,4
 Vaal Hazak Mail γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Membrane,3
 Vaal Hazak Braces γ,Vaal Hazak Ticket,1,Vaal Hazak Fang+,3,Deceased Scale,6,Vaal Hazak Gem,1

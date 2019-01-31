@@ -71,11 +71,6 @@ King Beetle Thorax,オウビートペット,Thorax Scarabée,Torace dello scarab
 King Beetle Brachia,オウビートマーノ,Brachia Scarabée,Brachia dello scarabeo,Königskäfer-Brachia,Ristre rey escarabajo,Braços de Besouro-rei,Ramiona żuka król.,Наручи королев. жука,킹비트마노,獨角仙護袖,عضد الخنفساء الملك
 King Beetle Elytra,オウビートアンカ,Élytre Scarabée,Elitre dello scarabeo,Königskäfer-Elytren,Élitro rey escarabajo,Élitros de Besouro-rei,Okrywy żuka królewskiego,Пояс королевск. жука,킹비트앙카,獨角仙護腰具,غمد الخنفساء الملك
 King Beetle Crura,オウビートガンバ,Crura Scarabée,Crura dello scarabeo,Königskäfer-Crura,Patas rey escarabajo,Crurais de Besouro-rei,Nogi żuka królewskiego,Поножи королев. жука,킹비트감바,獨角仙腳,درع رِجل الخنفساء الملك
-Butterfly Vertex,パピオムテスタ,Vertex Papillon,Vertex di farfalla,Schmetterling-Vertex,Vértice de mariposa,Vértice de Borboleta,Wierzchołek motyla,Голова бабочки,파피옴테스타,燕尾蝶男護頭,رأس الفراشة
-Butterfly Thorax,パピオムペット,Thorax Papillon,Torace di farfalla,Schmetterling-Thorax,Tórax de mariposa,Tórax de Borboleta,Tułów motyla,Панцирь бабочки,파피옴페트,燕尾蝶男上身,صدر الفراشة
-Butterfly Brachia,パピオムマーノ,Brachia Papillon,Brachia di farfalla,Schmetterling-Brachia,Ristre de mariposa,Braços de Borboleta,Ramiona motyla,Предплечье бабочки,파피옴마노,燕尾蝶男護袖,عضد الفراشة
-Butterfly Elytra,パピオムアンカ,Élytre Papillon,Elitre di farfalla,Schmetterling-Elytra,Élitro de mariposa,Élitros de Borboleta,Okrywy motyla,Надкрылье бабочки,파피옴앙카,燕尾蝶男護腰具,غمد الفراشة
-Butterfly Crura,パピオムガンバ,Crura Papillon,Crura di farfalla,Schmetterling-Crura,Espinillera de mariposa,Crurais de Borboleta,Nogi motyla,Лапы бабочки,파피옴감바,燕尾蝶男腳,درع رِجل الفراشة
 Shamos Goggles,シャムゴーグル,Jumelles Shamos,Occhiali di Shamos,Shamos-Brille,Anteojos de Shamos,Óculos de Shamos,Gogle z Shamosa,Очки шамоса,샤무고글,貓蜥龍護目鏡,نظارات شاموس
 Hornetaur Helm,タロスヘルム,Heaume Hornetaur,Elmo di Hornetaur,Hornetaur-Helm,Yelmo de Hornetaur,Elmo de Chifrotauro,Hełm z Hornetaura,Роготавровый шлем,타로스헬름,巨甲蟲頭盔,خوذة هورنتور
 Hornetaur Mail,タロスメイル,Cuirasse Hornetaur,Cotta di Hornetaur,Hornetaur-Panzerung,Cota de Hornetaur,Armadura de Chifrotauro,Zbroja z Hornetaura,Роготавровый доспех,타로스메일,巨甲蟲鎧甲,درع هورنتور
@@ -162,6 +157,16 @@ Orion Vest,オリオンベスト,Veste Orion,Pettino di Orione,Orion-Weste,Chale
 Orion Vambraces,オリオンアーム,Moufles Orion,Parabraccia di Orione,Orion-Armschutz,Brazales Orión,Avambraços Órion,Zarękawia Oriona,Наручи Ориона,오리온암,獵戶星腕甲,درع ساعد أوريون
 Orion Coat,オリオンコート,Jupette Orion,Cappotto di Orione,Orion-Hüftschutz,Abrigo Orión,Cinturão Órion,Płaszcz Oriona,Плащ Ориона,오리온코트,獵戶星風衣,غطاء أوريون
 Orion Boots,オリオンブーツ,Pantalon Orion,Stivali di Orione,Orion-Stiefel,Botas Orión,Botas de Órion,Buty Oriona,Сапоги Ориона,오리온부츠,獵戶星靴,حذاء أوريون
+Gala Suit Top Hat,フルドレスハット,Chapeau de gala,Cilindro gran galà,Galaanzug-Zylinder,Sombrero traje gala,Cartola Traje de Gala,Cylinder stroju gal.,Выс. шляпа конц. костюма,풀드레스해트,盛裝頭飾,قبعة بذلة المهرجان الرسمية
+Gala Suit Jacket,フルドレススーツ,Veste de gala,Giacca gran galà,Galaanzug-Jacke,Chaqueta traje gala,Jaqueta Traje de Gala,Marynarka stroju gal.,Куртка конц. костюма,풀드레스슈트,盛裝服飾,سترة بذلة المهرجان
+Gala Suit Cuffs,フルドレスカフス,Manches de gala,Polsini gran galà,Galaanzug-Manschetten,Puños traje gala,Mangas Traje de Gala,Mankiety stroju gal.,Манжеты конц. костюма,풀드레스커프스,盛裝手套,معصما بذلة المهرجان
+Gala Suit Tail,フルドレスコート,Queue-de-pie de gala,Coda gran galà,Galaanzug-Frack,Cola traje gala,Fraque Traje de Gala,Poły stroju galowego,Хвост конц. костюма,풀드레스코트,盛裝護裙,ذيل بذلة المهرجان
+Gala Suit Slacks,フルドレスブーツ,Pantalon de gala,Pantaloni gran galà,Galaanzug-Hosen,Pantalones traje gala,Calças Traje de Gala,Spodnie stroju galowego,Штаны конц. костюма,풀드레스부츠,盛裝靴,سروال بذلة المهرجان العصري
+Butterfly Vertex,パピオムテスタ,Vertex Papillon,Vertex di farfalla,Schmetterling-Vertex,Vértice de mariposa,Vértice de Borboleta,Wierzchołek motyla,Голова бабочки,파피옴테스타,燕尾蝶男護頭,رأس الفراشة
+Butterfly Thorax,パピオムペット,Thorax Papillon,Torace di farfalla,Schmetterling-Thorax,Tórax de mariposa,Tórax de Borboleta,Tułów motyla,Панцирь бабочки,파피옴페트,燕尾蝶男上身,صدر الفراشة
+Butterfly Brachia,パピオムマーノ,Brachia Papillon,Brachia di farfalla,Schmetterling-Brachia,Ristre de mariposa,Braços de Borboleta,Ramiona motyla,Предплечье бабочки,파피옴마노,燕尾蝶男護袖,عضد الفراشة
+Butterfly Elytra,パピオムアンカ,Élytre Papillon,Elitre di farfalla,Schmetterling-Elytra,Élitro de mariposa,Élitros de Borboleta,Okrywy motyla,Надкрылье бабочки,파피옴앙카,燕尾蝶男護腰具,غمد الفراشة
+Butterfly Crura,パピオムガンバ,Crura Papillon,Crura di farfalla,Schmetterling-Crura,Espinillera de mariposa,Crurais de Borboleta,Nogi motyla,Лапы бабочки,파피옴감바,燕尾蝶男腳,درع رِجل الفراشة
 Blossom Headgear,ブロッサムヘッド,Coiffe Printemps,Elmo floreale,Blüten-Kopfschutz,Yelmo de flores,Elmo Florescer,Hełm kwiecia,Цветочный обруч,블로섬헤드,巴魯特頭飾,عتاد رأس الربيع
 Blossom Vest,ブロッサムベスト,Veste Printemps,Pettorina floreale,Blüten-Weste,Armadura de flores,Colete Florescer,Kamizela kwiecia,Цветочный жилет,블로섬베스트,巴魯特服飾,صديري الربيع
 Blossom Cuffs,ブロッサムカフス,Manches Printemps,Guanti floreali,Blüten-Manschetten,Guanteletes de flores,Mangas Florescer,Mankiety kwiecia,Цветочные манжеты,블로섬커프스,巴魯特手套,معصمي الربيع
@@ -621,16 +626,16 @@ Kirin Jacket β,キリンベストβ,Veste Kirin β,Pettino di Kirin β,Kirin-Ja
 Kirin Longarms β,キリンアームロングβ,Bras-longs Kirin β,Copribraccia di Kirin β,Kirin-Armstulpen β,Brazos de Kirin β,Braços Longos de Kirin β,Zarękawia z Kirina β,Наручи кирина β,키린롱암β,麒麟長腕甲β,درع ذراع كيرين الطويل β
 Kirin Hoop β,キリンフープβ,Ceinture Kirin β,Cerchio di Kirin β,Kirin-Reifen β,Aro de Kirin β,Argola de Kirin β,Obręcz z Kirina β,Обод кирина β,키린후프β,麒麟腰環β,حلقة كيرين β
 Kirin Leg Guards β,キリンレガースβ,Bottines Kirin β,Paragambe di Kirin β,Kirin-Beinschutz β,Perneras de Kirin β,Caneleiras de Kirin β,Nogawice z Kirina β,Поножи кирина β,키린레그가드β,麒麟護脛β,واقي ساق كيرين β
-Xeno'jiiva Headgear α,ゼノラージヘッドα,Voile Xeno'jiiva α,Testa di Xeno'jiiva α,Xeno'jiiva-Kopfschutz α,Yelmo de Xeno'jiiva α,Elmo de Xeno'jiiva α,Hełm Xeno'jiiva α,Шлем ксено'джиивы α,제노라지헤드α,異種大型頭飾α,عتاد رأس زينوجيفا α
-Xeno'jiiva Hide α,ゼノラージハイドα,Peau Xeno'jiiva α,Cotta di Xeno'jiiva α,Xeno'jiiva-Lederhaut α,Cota de Xeno'jiiva α,Couro de Xeno'jiiva α,Skóra Xeno'jiiva α,Доспех ксено'джиивы α,제노라지하이드α,異種大型皮α,جلد زينوجيفا α
-Xeno'jiiva Claws α,ゼノラージクロウα,Griffes Xeno'jiiva α,Artigli di Xeno'jiiva α,Xeno'jiiva-Klauen α,Garra de Xeno'jiiva α,Garras de Xeno’jiiva α,Pazury Xeno'jiiva α,Наручи ксено'джиивы α,제노라지클로α,異種大型鋼爪α,مخالب زينوجيفا α
-Xeno'jiiva Spine α,ゼノラージスパインα,Vertèbre Xeno'jiiva α,Colonna di Xeno'jiiva α,Xeno'jiiva-Stachel α,Espina de Xeno'jiiva α,Espinha de Xeno'jiiva α,Kręgosłup Xeno'jiiva α,Пояс ксено'джиивы α,제노라지스파인α,異種大型脊椎α,درع ظهر زينوجيفا α
-Xeno'jiiva Spurs α,ゼノラージフットα,Éperons Xeno'jiiva α,Speroni di Xeno'jiiva α,Xeno'jiiva-Sporen α,Espolón de Xeno'jiiva α,Esporas de Xeno'jiiva α,Ostrogi Xeno'jiiva α,Поножи ксено'джиивы α,제노라지풋α,異種大型靴α,مهمز زينوجيفا α
-Xeno'jiiva Headgear β,ゼノラージヘッドβ,Voile Xeno'jiiva β,Testa di Xeno'jiiva β,Xeno'jiiva-Kopfschutz β,Yelmo de Xeno'jiiva β,Elmo de Xeno'jiiva β,Hełm Xeno'jiiva β,Шлем ксено'джиивы β,제노라지헤드β,異種大型頭飾β,عتاد رأس زينوجيفا β
-Xeno'jiiva Hide β,ゼノラージハイドβ,Peau Xeno'jiiva β,Pelle di Xeno'jiiva β,Xeno'jiiva-Lederhaut β,Cota de Xeno'jiiva β,Couro de Xeno'jiiva β,Skóra Xeno'jiiva β,Доспех ксено'джиивы β,제노라지하이드β,異種大型皮β,جلد زينوجيفا β
-Xeno'jiiva Claws β,ゼノラージクロウβ,Griffes Xeno'jiiva β,Artigli di Xeno'jiiva β,Xeno'jiiva-Klauen β,Garra de Xeno'jiiva β,Garras de Xeno’jiiva β,Pazury Xeno'jiiva β,Наручи ксено'джиивы β,제노라지클로β,異種大型鋼爪β,مخالب زينوجيفا β
-Xeno'jiiva Spine β,ゼノラージスパインβ,Vertèbre Xeno'jiiva β,Colonna di Xeno'jiiva β,Xeno'jiiva-Stachel β,Espina de Xeno'jiiva β,Espinha de Xeno'jiiva β,Kręgosłup Xeno'jiiva β,Пояс ксено'джиивы β,제노라지스파인β,異種大型脊椎β,درع ظهر زينوجيفا β
-Xeno'jiiva Spurs β,ゼノラージフットβ,Éperons Xeno'jiiva β,Speroni di Xeno'jiiva β,Xeno'jiiva-Sporen β,Espolón de Xeno'jiiva β,Esporas de Xeno'jiiva β,Ostrogi Xeno'jiiva β,Поножи ксено'джиивы β,제노라지풋β,異種大型靴β,مهمز زينوجيفا β
+Xeno'jiiva Headgear α,ゼノラージヘッドα,Voile Xeno'jiiva α,Testa di Xeno'jiiva α,Xeno'jiiva-Kopfschutz α,Yelmo de Xeno'jiiva α,Elmo de Xeno'jiiva α,Hełm Xeno'jiiva α,Шлем ксено'джиивы α,제노라지헤드α,冥燈幽火頭飾α,عتاد رأس زينوجيفا α
+Xeno'jiiva Hide α,ゼノラージハイドα,Peau Xeno'jiiva α,Cotta di Xeno'jiiva α,Xeno'jiiva-Lederhaut α,Cota de Xeno'jiiva α,Couro de Xeno'jiiva α,Skóra Xeno'jiiva α,Доспех ксено'джиивы α,제노라지하이드α,冥燈幽火皮α,جلد زينوجيفا α
+Xeno'jiiva Claws α,ゼノラージクロウα,Griffes Xeno'jiiva α,Artigli di Xeno'jiiva α,Xeno'jiiva-Klauen α,Garra de Xeno'jiiva α,Garras de Xeno’jiiva α,Pazury Xeno'jiiva α,Наручи ксено'джиивы α,제노라지클로α,冥燈幽火鋼爪α,مخالب زينوجيفا α
+Xeno'jiiva Spine α,ゼノラージスパインα,Vertèbre Xeno'jiiva α,Colonna di Xeno'jiiva α,Xeno'jiiva-Stachel α,Espina de Xeno'jiiva α,Espinha de Xeno'jiiva α,Kręgosłup Xeno'jiiva α,Пояс ксено'джиивы α,제노라지스파인α,冥燈幽火脊椎α,درع ظهر زينوجيفا α
+Xeno'jiiva Spurs α,ゼノラージフットα,Éperons Xeno'jiiva α,Speroni di Xeno'jiiva α,Xeno'jiiva-Sporen α,Espolón de Xeno'jiiva α,Esporas de Xeno'jiiva α,Ostrogi Xeno'jiiva α,Поножи ксено'джиивы α,제노라지풋α,冥燈幽火靴α,مهمز زينوجيفا α
+Xeno'jiiva Headgear β,ゼノラージヘッドβ,Voile Xeno'jiiva β,Testa di Xeno'jiiva β,Xeno'jiiva-Kopfschutz β,Yelmo de Xeno'jiiva β,Elmo de Xeno'jiiva β,Hełm Xeno'jiiva β,Шлем ксено'джиивы β,제노라지헤드β,冥燈幽火頭飾β,عتاد رأس زينوجيفا β
+Xeno'jiiva Hide β,ゼノラージハイドβ,Peau Xeno'jiiva β,Pelle di Xeno'jiiva β,Xeno'jiiva-Lederhaut β,Cota de Xeno'jiiva β,Couro de Xeno'jiiva β,Skóra Xeno'jiiva β,Доспех ксено'джиивы β,제노라지하이드β,冥燈幽火皮β,جلد زينوجيفا β
+Xeno'jiiva Claws β,ゼノラージクロウβ,Griffes Xeno'jiiva β,Artigli di Xeno'jiiva β,Xeno'jiiva-Klauen β,Garra de Xeno'jiiva β,Garras de Xeno’jiiva β,Pazury Xeno'jiiva β,Наручи ксено'джиивы β,제노라지클로β,冥燈幽火鋼爪β,مخالب زينوجيفا β
+Xeno'jiiva Spine β,ゼノラージスパインβ,Vertèbre Xeno'jiiva β,Colonna di Xeno'jiiva β,Xeno'jiiva-Stachel β,Espina de Xeno'jiiva β,Espinha de Xeno'jiiva β,Kręgosłup Xeno'jiiva β,Пояс ксено'джиивы β,제노라지스파인β,冥燈幽火脊椎β,درع ظهر زينوجيفا β
+Xeno'jiiva Spurs β,ゼノラージフットβ,Éperons Xeno'jiiva β,Speroni di Xeno'jiiva β,Xeno'jiiva-Sporen β,Espolón de Xeno'jiiva β,Esporas de Xeno'jiiva β,Ostrogi Xeno'jiiva β,Поножи ксено'джиивы β,제노라지풋β,冥燈幽火靴β,مهمز زينوجيفا β
 Guild Cross Circlet α,ギルドクロスアクセα,Diadème Croix de Guilde α,Cerchietto della Gilda α,Gildenkreuz-Reif α,Diadema cruz gremial α,Diadema Cruz de Guilda α,Diadem krzyża Gildii α,Венец креста гильдии α,길드크로스악세α,公會十字頭飾α,حلقة شكل للنقابة α
 Guild Cross Suit α,ギルドクロススーツα,Tenue Croix de Guilde α,Abito della Gilda α,Gildenkreuz-Anzug α,Traje cruz gremial α,Traje Cruz de Guilda α,Zbroja krzyża Gildii α,Куртка креста гильдии α,길드크로스슈트α,公會十字戰衣α,بذلة شكل للنقابة α
 Guild Cross Vambraces α,ギルドクロスアームα,Avant-bras Croix de Guilde α,Parabraccia della Gilda α,Gildenkreuz-Armschienen α,Brazales cruz gremial α,Avamb. Cruz de Guilda α,Zarękawia krzyża Gildii α,Наручи креста гильдии α,길드크로스암α,公會十字腕甲α,درع ساعد شكل للنقابة α
@@ -662,16 +667,16 @@ Vangis Mail β,バンギスメイルβ,Cotte Vangis β,Cotta Vangis β,Vangis-Pa
 Vangis Vambraces β,バンギスアームβ,Avant-bras Vangis β,Parabraccia Vangis β,Vangis-Armschienen β,Brazales de Vangis β,Avambraços Vangis β,Zarękawia Vangis β,Наручи Вангиса β,반기스암β,殘虐腕甲β,درع ساعد فانغيس β
 Vangis Coil β,バンギスコイルβ,Boucle Vangis β,Spira Vangis β,Vangis-Hüftring β,Faja de Vangis β,Espiral de Vangis β,Pas Vangis β,Пояс Вангиса β,반기스코일β,殘虐腰甲β,لفيفة فانغيس β
 Vangis Greaves β,バンギスグリーヴβ,Grèves Vangis β,Schinieri Vangis β,Vangis-Beinschienen β,Grebas de Vangis β,Grevas de Vangis β,Golenie Vangis β,Поножи Вангиса β,반기스그리브β,殘虐護腿β,درع ساق فانغيس β
-Kulve Taroth's Fury α,マムガイラヘルムα,Furie Kulve Taroth α,Furia di Kulve Taroth α,Kulve Taroths Wut α,Furia Kulve Taroth α,Fúria Kulve Taroth α,Furia Kulve Taroth α,Гнев кулве тарот α,맘가이라헬름α,絢輝龍鎧羅頭盔α,غضب كولف تاروث α
+Kulve Taroth's Fury α,マムガイラヘルムα,Furie Kulve Taroth α,Furia di Kulve Taroth α,Kulve Taroths Wut α,Furia Kulve Taroth α,Fúria Kulve Taroth α,Furia Kulve Taroth α,Гнев кулве тарот α,맘가이라헬름α,絢輝龍鎧羅頭盔α,انفعال كولف تاروث α
 Kulve Taroth's Ire α,マムガイラメイルα,Colère Kulve Taroth α,Ira di Kulve Taroth α,Kulve Taroths Ärger α,Ira Kulve Taroth α,Ira Kulve Taroth α,Gniew Kulve Taroth α,Ярость кулве тарот α,맘가이라메일α,絢輝龍鎧羅鎧甲α,غضب كولف تاروث α
-Kulve Taroth's Rage α,マムガイラアームα,Rage Kulve Taroth α,Rabbia di Kulve Taroth α,Kulve Taroths Rage α,Rabia Kulve Taroth α,Raiva Kulve Taroth α,Wściekłość Kulve Taroth α,Пыл кулве тарот α,맘가이라암α,絢輝龍鎧羅腕甲α,غضب كولف تاروث α
+Kulve Taroth's Rage α,マムガイラアームα,Rage Kulve Taroth α,Rabbia di Kulve Taroth α,Kulve Taroths Rage α,Rabia Kulve Taroth α,Raiva Kulve Taroth α,Wściekłość Kulve Taroth α,Пыл кулве тарот α,맘가이라암α,絢輝龍鎧羅腕甲α,غيظ كولف تاروث α
 Kulve Taroth's Malice α,マムガイラコイルα,Courroux Kulve Taroth α,Perfidità di Kulve Taroth α,Kulve Taroths Groll α,Odio Kulve Taroth α,Malícia K. Taroth α,Złośliwość Kulve Taroth α,Злоба кулве тарот α,맘가이라코일α,絢輝龍鎧羅腰甲α,مكر كولف تاروث α
-Kulve Taroth's Wrath α,マムガイラグリーヴα,Fureur Kulve Taroth α,Collera di Kulve Taroth α,Kulve Taroths Zorn α,Cólera Kulve Taroth α,Ódio Kulve Taroth α,Złość Kulve Taroth α,Буйство кулве тарот α,맘가이라그리브α,絢輝龍鎧羅護腿α,غضب كولف تاروث α
-Kulve Taroth's Fury β,マムガイラヘルムβ,Furie Kulve Taroth β,Furia di Kulve Taroth β,Kulve Taroths Wut β,Furia Kulve Taroth β,Fúria Kulve Taroth β,Furia Kulve Taroth β,Гнев кулве тарот β,맘가이라헬름β,絢輝龍鎧羅頭盔β,غضب كولف تاروث β
+Kulve Taroth's Wrath α,マムガイラグリーヴα,Fureur Kulve Taroth α,Collera di Kulve Taroth α,Kulve Taroths Zorn α,Cólera Kulve Taroth α,Ódio Kulve Taroth α,Złość Kulve Taroth α,Буйство кулве тарот α,맘가이라그리브α,絢輝龍鎧羅護腿α,سخط كولف تاروث α
+Kulve Taroth's Fury β,マムガイラヘルムβ,Furie Kulve Taroth β,Furia di Kulve Taroth β,Kulve Taroths Wut β,Furia Kulve Taroth β,Fúria Kulve Taroth β,Furia Kulve Taroth β,Гнев кулве тарот β,맘가이라헬름β,絢輝龍鎧羅頭盔β,انفعال كولف تاروث β
 Kulve Taroth's Ire β,マムガイラメイルβ,Colère Kulve Taroth β,Ira di Kulve Taroth β,Kulve Taroths Ärger β,Ira Kulve Taroth β,Ira Kulve Taroth β,Gniew Kulve Taroth β,Ярость кулве тарот β,맘가이라메일β,絢輝龍鎧羅鎧甲β,غضب كولف تاروث β
-Kulve Taroth's Rage β,マムガイラアームβ,Rage Kulve Taroth β,Rabbia di Kulve Taroth β,Kulve Taroths Rage β,Rabia Kulve Taroth β,Raiva Kulve Taroth β,Wściekłość Kulve Taroth β,Пыл кулве тарот β,맘가이라암β,絢輝龍鎧羅腕甲β,غضب كولف تاروث β
+Kulve Taroth's Rage β,マムガイラアームβ,Rage Kulve Taroth β,Rabbia di Kulve Taroth β,Kulve Taroths Rage β,Rabia Kulve Taroth β,Raiva Kulve Taroth β,Wściekłość Kulve Taroth β,Пыл кулве тарот β,맘가이라암β,絢輝龍鎧羅腕甲β,غيظ كولف تاروث β
 Kulve Taroth's Malice β,マムガイラコイルβ,Courroux Kulve Taroth β,Perfidità di Kulve Taroth β,Kulve Taroths Groll β,Odio Kulve Taroth β,Malícia K. Taroth β,Złośliwość Kulve Taroth β,Злоба кулве тарот β,맘가이라코일β,絢輝龍鎧羅腰甲β,مكر كولف تاروث β
-Kulve Taroth's Wrath β,マムガイラグリーヴβ,Fureur Kulve Taroth β,Collera di Kulve Taroth β,Kulve Taroths Zorn β,Cólera Kulve Taroth β,Ódio Kulve Taroth β,Złość Kulve Taroth β,Буйство кулве тарот β,맘가이라그리브β,絢輝龍鎧羅護腿β,غضب كولف تاروث β
+Kulve Taroth's Wrath β,マムガイラグリーヴβ,Fureur Kulve Taroth β,Collera di Kulve Taroth β,Kulve Taroths Zorn β,Cólera Kulve Taroth β,Ódio Kulve Taroth β,Złość Kulve Taroth β,Буйство кулве тарот β,맘가이라그리브β,絢輝龍鎧羅護腿β,سخط كولف تاروث β
 Blossom Headgear α,ブロッサムヘッドα,Coiffe Printemps α,Elmo floreale α,Blüten-Kopfschutz α,Yelmo de flores β,Elmo Florescer α,Hełm kwiecia α,Цветочный обруч α,블로섬헤드α,巴魯特頭飾α,عتاد رأس الربيع α
 Blossom Vest α,ブロッサムベストα,Veste Printemps α,Pettorina floreale α,Blüten-Weste α,Armadura de flores α,Colete Florescer α,Kamizela kwiecia α,Цветочный жилет α,블로섬베스트α,巴魯特服飾α,صديري الربيع α
 Blossom Cuffs α,ブロッサムカフスα,Manches Printemps α,Guanti floreali α,Blüten-Manschetten α,Guanteletes de flores α,Mangas Florescer α,Mankiety kwiecia α,Цветочные манжеты α,블로섬커프스α,巴魯特手套α,معصمي الربيع α
@@ -693,7 +698,7 @@ Empress Vambraces α,エンプレスアームα,Gants Imperatrix α,Parabraccia 
 Empress Coil α,エンプレスコイルα,Ceinture Imperatrix α,Falda dell'imperatrice α,Kaiserin-Hüftring α,Faja de emperatriz α,Cinturão de Imperatriz α,Pas Luny α,Пояс императрицы α,엠프리스코일α,皇后腰甲α,لفيفة الإمبراطورة α
 Empress Greaves α,エンプレスグリーヴα,Cuissards Imperatrix α,Schinieri dell'imperatrice α,Kaiserin-Beinschienen α,Grebas de emperatriz α,Grevas da Imperatriz α,Nagolenice Luny α,Поножи императрицы α,엠프리스그리브α,皇后護腿α,درع ساق الإمبراطورة α
 Empress Crown β,エンプレスセクターβ,Couronne Imperatrix β,Corona dell'imperatrice β,Kaiserin-Krone β,Corona de emperatriz β,Coroa de Imperatriz β,Korona Luny β,Корона императрицы β,엠프리스섹터β,皇后琴弦β,تاج الإمبراطورة β
-Empress Mail β,エンプレスメイルβ,Armure Imperatrix β,Cotta dell'imperatrice β,Kaiserin-Panzerung β,Cota de emperatriz β,Armadura Imperatriz β,Zbroja Luny β,Кольчуга императрицы β,엠프리스메일β,皇后鎧甲β,درع الإمبراطورة β
+Empress Mail β,エンプレスメイルβ,Armure Imperatrix β,Cotta dell'imperatrice β,Kaiserin-Panzerung β,Cota de emperatriz β,Armadura da Imperatriz β,Zbroja Luny β,Кольчуга императрицы β,엠프리스메일β,皇后鎧甲β,درع الإمبراطورة β
 Empress Vambraces β,エンプレスアームβ,Gants Imperatrix β,Parabraccia dell'imperatrice β,Kaiserin-Armschienen β,Brazales de emperatriz β,Avambraços Imperatriz β,Zarękawia Luny β,Наручи императрицы β,엠프리스암β,皇后腕甲β,درع ساعد الإمبراطورة β
 Empress Coil β,エンプレスコイルβ,Ceinture Imperatrix β,Falda dell'imperatrice β,Kaiserin-Hüftring β,Faja de emperatriz β,Cinturão de Imperatriz β,Pas Luny β,Пояс императрицы β,엠프리스코일β,皇后腰甲β,لفيفة الإمبراطورة β
 Empress Greaves β,エンプレスグリーヴβ,Cuissards Imperatrix β,Schinieri dell'imperatrice β,Kaiserin-Beinschienen β,Grebas de emperatriz β,Grevas da Imperatriz β,Nagolenice Luny β,Поножи императрицы β,엠프리스그리브β,皇后護腿β,درع ساق الإمبراطورة β
@@ -707,6 +712,11 @@ Orion Vest α,オリオンベストα,Veste Orion α,Pettino di Orione α,Orion-
 Orion Vambraces α,オリオンアームα,Moufles Orion α,Parabraccia di Orione α,Orion-Armschutz α,Brazales Orión α,Avambraços Órion α,Zarękawia Oriona α,Наручи Ориона α,오리온암α,獵戶星腕甲α,درع ساعد أوريون α
 Orion Coat α,オリオンコートα,Jupette Orion α,Cappotto di Orione α,Orion-Hüftschutz α,Abrigo Orión α,Cinturão Órion α,Płaszcz Oriona α,Плащ Ориона α,오리온코트α,獵戶星風衣α,غطاء أوريون α
 Orion Boots α,オリオンブーツα,Pantalon Orion α,Stivali di Orione α,Orion-Stiefel α,Botas Orión α,Botas de Órion α,Buty Oriona α,Сапоги Ориона α,오리온부츠α,獵戶星靴α,حذاء أوريون α
+Gala Suit Top Hat α,フルドレスハットα,Chapeau de gala α,Cilindro gran galà α,Galaanzug-Zylinder α,Sombrero traje gala α,Cartola Traje de Gala α,Cylinder stroju gal. α,Выс. шляпа конц. костюма α,풀드레스해트α,盛裝頭飾α,قبعة بذلة المهرجان الرسمية α
+Gala Suit Jacket α,フルドレススーツα,Veste de gala α,Giacca gran galà α,Galaanzug-Jacke α,Chaqueta traje gala α,Jaqueta Traje de Gala α,Marynarka stroju gal. α,Куртка конц. костюма α,풀드레스슈트α,盛裝服飾α,سترة بذلة المهرجان α
+Gala Suit Cuffs α,フルドレスカフスα,Manches de gala α,Polsini gran galà α,Galaanzug-Manschetten α,Puños traje gala α,Mangas Traje de Gala α,Mankiety stroju gal. α,Манжеты конц. костюма α,풀드레스커프스α,盛裝手套α,معصما بذلة المهرجان α
+Gala Suit Tail α,フルドレスコートα,Queue-de-pie de gala α,Coda gran galà α,Galaanzug-Frack α,Cola traje gala α,Fraque Traje de Gala α,Poły stroju galowego α,Хвост конц. костюма α,풀드레스코트α,盛裝護裙α,ذيل بذلة المهرجان α
+Gala Suit Slacks α,フルドレスブーツα,Pantalon de gala α,Pantaloni gran galà α,Galaanzug-Hosen α,Pantalones traje gala α,Calças Traje de Gala α,Spodnie stroju galowego α,Штаны конц. костюма α,풀드레스부츠α,盛裝靴α,سروال بذلة المهرجان العصري α
 Vaal Hazak Helm γ,ウルズヘルムγ,Heaume Vaal Hazak γ,Elmo di Vaal Hazak γ,Vaal-Hazak-Helm γ,Yelmo de Vaal Hazak γ,Elmo de Vaal Hazak γ,Hełm z Vaal Hazaka γ,Ваал-хазаковый шлем γ,우르즈헬름γ,烏爾德頭盔γ,خوذة فال هازاك γ
 Vaal Hazak Mail γ,ウルズメイルγ,Cotte Vaal Hazak γ,Cotta di Vaal Hazak γ,Vaal-Hazak-Panzerung γ,Cota de Vaal Hazak γ,Arm. de Vaal Hazak γ,Zbroja z Vaal Hazaka γ,Ваал-хазаковый доспех γ,우르즈메일γ,烏爾德鎧甲γ,درع فال هازاك γ
 Vaal Hazak Braces γ,ウルズアームγ,Avant-bras Vaal Hazak γ,Parabraccia di Vaal Hazak γ,Vaal-Hazak-Armschienen γ,Brazales Vaal Hazak γ,Braçad. Vaal Hazak γ,Rękawy z Vaal Hazaka γ,Ваал-хазаковые наручи γ,우르즈암γ,烏爾德腕甲γ,دعامات فال هازاك γ

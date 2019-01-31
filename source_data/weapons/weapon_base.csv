@@ -647,6 +647,8 @@ id,name_en,weapon_type,previous_en,rarity,attack,affinity,defense,element_hidden
 1221,"Empress Lance ""Styx""",lance,Empress Lance,8,414,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
 1222,Shooting Star Lance,lance,,4,299,0,,FALSE,Paralysis,120,,,,0,0,0,,,,,,,,
 1223,Sapphire Star Lance,lance,Shooting Star Lance,7,437,0,,FALSE,Paralysis,180,,,,0,0,0,,,,,,,,
+1256,Fair Wind Lance,lance,,4,299,0,,FALSE,Sleep,120,,,,0,0,0,,,,,,,,
+1257,White Wind Lance,lance,Fair Wind Lance,7,391,0,,FALSE,Sleep,180,,,,0,0,0,,,,,,,,
 598,Iron Gunlance I,gunlance,,1,184,0,,FALSE,,,,,,0,0,0,,,,normal,1,,,
 599,Iron Gunlance II,gunlance,Iron Gunlance I,1,207,0,,FALSE,,,,,,0,0,0,,,,normal,1,,,
 600,Iron Gunlance III,gunlance,Iron Gunlance II,2,230,0,,FALSE,,,,,,0,0,0,,,,normal,1,,,

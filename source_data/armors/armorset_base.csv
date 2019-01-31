@@ -15,7 +15,6 @@ Jyura,en,LR,Jyuratodus,Jyura Helm,Jyura Mail,Jyura Vambraces,Jyura Coil,Jyura Gr
 Kadachi,en,LR,Tobi-Kadachi,Kadachi Helm,Kadachi Mail,Kadachi Vambraces,Kadachi Coil,Kadachi Greaves,
 High Metal,en,LR,,High Metal Helm,High Metal Mail,High Metal Braces,High Metal Coil,High Metal Greaves,
 King Beetle,en,LR,,King Beetle Vertex,King Beetle Thorax,King Beetle Brachia,King Beetle Elytra,King Beetle Crura,
-Butterfly,en,LR,,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
 Shamos,en,LR,Shamos,Shamos Goggles,,,,,
 Hornetaur,en,LR,Hornetaur,Hornetaur Helm,Hornetaur Mail,Hornetaur Vambraces,Hornetaur Coil,Hornetaur Greaves,
 Anja,en,LR,Anjanath,Anja Helm,Anja Mail,Anja Vambraces,Anja Coil,Anja Greaves,Anjanath Power
@@ -34,6 +33,8 @@ Diablos,en,LR,Diablos,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,D
 Kirin,en,LR,Kirin,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,Kirin Blessing
 Harvest,en,LR,,Harvest Flor,Harvest Tronco,Harvest Trama,Harvest Hoja,Harvest Raiz,
 Orion,en,LR,,Orion Cap,Orion Vest,Orion Vambraces,Orion Coat,Orion Boots,
+Gala Suit,en,HR,,Gala Suit Top Hat,Gala Suit Jacket,Gala Suit Cuffs,Gala Suit Tail,Gala Suit Slacks,Astera Blessing
+Butterfly,en,LR,,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
 Blossom,en,LR,,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
 Leather α,en,HR,,Leather Headgear α,Leather Mail α,Leather Gloves α,Leather Belt α,Leather Trousers α,
 Leather β,en,HR,,Leather Headgear β,Leather Mail β,Leather Gloves β,Leather Belt β,Leather Trousers β,
@@ -155,6 +156,7 @@ Lunastra α,en,HR,Lunastra,Empress Crown α,Empress Mail α,Empress Vambraces α
 Lunastra β,en,HR,Lunastra,Empress Crown β,Empress Mail β,Empress Vambraces β,Empress Coil β,Empress Greaves β,Lunastra Favor
 Harvest α,en,HR,,Harvest Flor α,Harvest Tronco α,Harvest Trama α,Harvest Hoja α,Harvest Raiz α,
 Orion α,en,HR,,Orion Cap α,Orion Vest α,Orion Vambraces α,Orion Coat α,Orion Boots α,
+Gala Suit α,en,HR,,Gala Suit Top Hat α,Gala Suit Jacket α,Gala Suit Cuffs α,Gala Suit Tail α,Gala Suit Slacks α,Astera Blessing
 Vaal Hazak γ,en,HR,Vaal Hazak,Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ,Vaal Hazak Vitality
 Drachen α,en,HR,Behemoth,Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α,Soul of the Dragoon
 Sealed Eyepatch α,en,HR,,Sealed Eyepatch α,,,,,
