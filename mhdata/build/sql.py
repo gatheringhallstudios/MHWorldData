@@ -613,10 +613,10 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             slot=entry['slot'],
             icon_color=entry['icon_color'],
             skilltree_id=skill_id,
-            mysterious_feystone_chance=entry['chances']['mysterious'],
-            glowing_feystone_chance=entry['chances']['glowing'],
-            worn_feystone_chance=entry['chances']['worn'],
-            warped_feystone_chance=entry['chances']['warped']
+            mysterious_feystone_percent=entry['chances']['mysterious'],
+            glowing_feystone_percent=entry['chances']['glowing'],
+            worn_feystone_percent=entry['chances']['worn'],
+            warped_feystone_percent=entry['chances']['warped']
         )
 
         for language in cfg.supported_languages:

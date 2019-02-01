@@ -603,10 +603,10 @@ class Decoration(Base):
     slot = Column(Integer)
     icon_color = Column(Text)
 
-    mysterious_feystone_chance = Column(Float)
-    glowing_feystone_chance = Column(Float)
-    worn_feystone_chance = Column(Float)
-    warped_feystone_chance = Column(Float)
+    mysterious_feystone_percent = Column(Float)
+    glowing_feystone_percent = Column(Float)
+    worn_feystone_percent = Column(Float)
+    warped_feystone_percent = Column(Float)
 
     translations = relationship("DecorationText")
     
