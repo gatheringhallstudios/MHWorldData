@@ -143,6 +143,11 @@ Bazelgeuse,Legs,,240,,,white
 Bazelgeuse,Left Wing,,180,180,,white
 Bazelgeuse,Right Wing,,180,180,,white
 Bazelgeuse,Tail,,280,,500,red
+Deviljho,Head,,350,350,,red
+Deviljho,Body,,300,300,,orange
+Deviljho,Arms,,150,,,green
+Deviljho,Legs,,220,,,white
+Deviljho,Tail,,180,,360,green
 Lavasioth,Head,,100,600,,red
 Lavasioth,Back,,300,600,,orange
 Lavasioth,Body,,100,,,orange
@@ -186,6 +191,9 @@ Teostra,Forelegs,,280,,,white
 Teostra,Hindlegs,,340,,,white
 Teostra,Wings,,280,280,,white
 Teostra,Tail,,330,,330,orange
+Lunastra,Head,,,0,,red
+Lunastra,Wings,,,0,,white
+Lunastra,Tail,,,,0,orange
 Kushala Daora,Head,,300,,,red
 Kushala Daora,Body,,100,,,orange
 Kushala Daora,Tail,,140,,400,green
@@ -211,3 +219,9 @@ Xeno'jiiva,Left Hindleg,,150,,,orange
 Xeno'jiiva,Right Hindleg,,150,,,orange
 Xeno'jiiva,Wings,,300,600,,white
 Xeno'jiiva,Tail,,350,,1050,green
+Behemoth,Horns,,,0,,orange
+Behemoth,Head,,,,,orange
+Behemoth,Body,,,,,green
+Behemoth,Forearms,,,0,,red
+Behemoth,Hindlegs,,,,,white
+Behemoth,Tail,,,,0,orange

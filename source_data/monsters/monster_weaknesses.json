@@ -493,5 +493,19 @@
             "blast": 2,
             "stun": 1
         }
+    },
+    "Behemoth": {
+	    "normal": {
+            "fire": 1,
+            "water": 2,
+            "thunder": 1,
+            "ice": 2,
+            "dragon": 3,
+            "poison": 2,
+            "sleep": 2,
+            "paralysis": 2,
+            "blast": 2,
+            "stun": 2
+        }
     }
 }
