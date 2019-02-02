@@ -620,17 +620,17 @@ Tobi-Kadachi,Wound Tail,HR,Tobi-Kadachi Electrode+,1,80
 Tobi-Kadachi,Wound Tail,HR,Tobi-Kadachi Pelt+,1,20
 Anjanath,Track,LR,Anjanath Scale,1,100
 Anjanath,Track,HR,Anjanath Scale+,1,100
-Anjanath,Body Carve,LR,Anjanath Pelt,1,35
-Anjanath,Body Carve,LR,Anjanath Scale,1,25
-Anjanath,Body Carve,LR,Anjanath Nosebone,1,20
-Anjanath,Body Carve,LR,Anjanath Fang,1,15
-Anjanath,Body Carve,LR,Anjanath Plate,1,5
-Anjanath,Body Carve,HR,Anjanath Scale+,1,34
-Anjanath,Body Carve,HR,Anjanath Pelt+,1,24
-Anjanath,Body Carve,HR,Anjanath Nosebone+,1,20
-Anjanath,Body Carve,HR,Anjanath Fang+,1,15
-Anjanath,Body Carve,HR,Anjanath Plate,1,5
-Anjanath,Body Carve,HR,Anjanath Gem,1,2
+Anjanath,Carve / Capture,LR,Anjanath Pelt,1,35
+Anjanath,Carve / Capture,LR,Anjanath Scale,1,25
+Anjanath,Carve / Capture,LR,Anjanath Nosebone,1,20
+Anjanath,Carve / Capture,LR,Anjanath Fang,1,15
+Anjanath,Carve / Capture,LR,Anjanath Plate,1,5
+Anjanath,Carve / Capture,HR,Anjanath Scale+,1,34
+Anjanath,Carve / Capture,HR,Anjanath Pelt+,1,24
+Anjanath,Carve / Capture,HR,Anjanath Nosebone+,1,20
+Anjanath,Carve / Capture,HR,Anjanath Fang+,1,15
+Anjanath,Carve / Capture,HR,Anjanath Plate,1,5
+Anjanath,Carve / Capture,HR,Anjanath Gem,1,2
 Anjanath,Shiny Drop,LR,Anjanath Scale,1,50
 Anjanath,Shiny Drop,LR,Anjanath Fang,1,28
 Anjanath,Shiny Drop,LR,Wyvern Tear,1,22
@@ -644,17 +644,6 @@ Anjanath,Tail Carve,HR,Anjanath Tail,1,70
 Anjanath,Tail Carve,HR,Anjanath Scale+,1,20
 Anjanath,Tail Carve,HR,Anjanath Plate,1,7
 Anjanath,Tail Carve,HR,Anjanath Gem,1,3
-Anjanath,Carve / Capture,LR,Anjanath Pelt,1,35
-Anjanath,Carve / Capture,LR,Anjanath Scale,1,25
-Anjanath,Carve / Capture,LR,Anjanath Nosebone,1,20
-Anjanath,Carve / Capture,LR,Anjanath Fang,1,15
-Anjanath,Carve / Capture,LR,Anjanath Plate,1,5
-Anjanath,Carve / Capture,HR,Anjanath Scale+,1,34
-Anjanath,Carve / Capture,HR,Anjanath Pelt+,1,24
-Anjanath,Carve / Capture,HR,Anjanath Nosebone+,1,20
-Anjanath,Carve / Capture,HR,Anjanath Fang+,1,15
-Anjanath,Carve / Capture,HR,Anjanath Plate,1,5
-Anjanath,Carve / Capture,HR,Anjanath Gem,1,2
 Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,100
 Anjanath,Quest Reward (Bronze),LR,Anjanath Pelt,1,27
 Anjanath,Quest Reward (Bronze),LR,Anjanath Scale,1,21
