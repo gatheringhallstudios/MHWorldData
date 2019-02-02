@@ -462,12 +462,12 @@ Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold
 Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold
 Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold
 Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold
-Behemoth Mane,material,,7,,8000,,,,
-Behemoth Bone,material,,7,,7000,,,,
-Behemoth Great Horn,material,,8,,15000,,,,
-Behemoth Shearclaw,material,,8,,10000,,,,
-Behemoth Tail,material,,8,,12000,,,,
-Aetheryte Shard,material,,7,,5000,,,,
+Behemoth Mane,material,,7,,8000,,,Body,Violet
+Behemoth Bone,material,,7,,7000,,,Bone,Violet
+Behemoth Great Horn,material,,8,,15000,,,Fang,Violet
+Behemoth Shearclaw,material,,8,,10000,,,Fang,Violet
+Behemoth Tail,material,,8,,12000,,,Tail,Violet
+Aetheryte Shard,material,,7,,5000,,,Ore,White
 Streamstone Shard,material,,6,,1000,,,Streamstone,Violet
 Streamstone,material,,7,,2000,,,Streamstone,Violet
 Gleaming Streamstone,material,,8,,3000,,,Streamstone,Violet
@@ -493,8 +493,8 @@ Silver Wyverian Print,material,,4,,,,,Voucher,White
 Gold Wyverian Print,material,,4,,,,,Voucher,Gold
 Tailraider Voucher,material,,4,,200,,,Voucher,LightBeige
 Gajalaka Sketch,material,,4,,200,,,Voucher,LightBeige
-Commendation,material,,5,,,,,Voucher,Orange
-High Commendation,material,,7,,,,,Voucher,Orange
+Commendation,material,,5,,,,,Voucher,Beige
+High Commendation,material,,7,,,,,Voucher,Beige
 Research Commission Ticket,material,,7,,,,,Voucher,Cyan
 Pukei Coin,material,,4,,500,,,Coin,Lime
 Kulu Coin,material,,4,,500,,,Coin,LightBeige
@@ -510,11 +510,11 @@ Hunter King Coin,material,,6,,1200,,,Coin,White
 Ace Hunter Coin,material,,8,,2000,,,Coin,Gold
 Spring Blossom Ticket,material,,4,,200,,,Voucher,Pink
 Summer Twilight Ticket,material,,4,,200,,,Voucher,Blue
-Autumn Harvest Ticket,material,,4,,200,,,,
-Winter Star Ticket,material,,4,,200,,,,
-Appreciation Ticket,material,,4,,200,,,,
-Spring Insect Field Guide,material,,4,,200,,,,
-Summer Insect Field Guide,material,,4,,200,,,,
+Autumn Harvest Ticket,material,,4,,200,,,Voucher,Beige
+Winter Star Ticket,material,,4,,200,,,Voucher,White
+Appreciation Ticket,material,,4,,200,,,Voucher,Gold
+Spring Insect Field Guide,material,,4,,200,,,Book,Pink
+Summer Insect Field Guide,material,,4,,200,,,Book,Gold
 Vaal Hazak Ticket,material,,8,,800,,,Voucher,Gray
 Kirin Ticket,material,,8,,800,,,Voucher,White
 Black Bandage,material,,6,,400,,,Question,Gray
@@ -522,7 +522,7 @@ Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
 Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige
 Wiggler Ticket,material,,6,,400,,,Voucher,Blue
 Mega Man Ticket,material,,6,,400,,,Voucher,Blue
-Azure Star Shard,material,,4,,200,,,,
+Azure Star Shard,material,,4,,200,,,Ore,Blue
 Azure Stargem,material,,6,,400,,,Gem,Blue
 Red Orb,material,,8,,800,,,Gem,Red
 Master Craftsman's Blueprint,material,,6,,800,,,Voucher,Gray
@@ -537,7 +537,7 @@ SFV Ticket III,material,,6,,400,,,Voucher,Blue
 SFV Ticket II,material,,6,,400,,,Voucher,Red
 Steel Egg,material,trade,4,,1000,,,Egg,Gray
 Silver Egg,material,trade,4,,10000,,,Egg,White
-Golden Egg,material,trade,4,,20000,,,Egg,
+Golden Egg,material,trade,4,,20000,,,Egg,Gold
 Chipped Scale,material,trade,4,,500,,,Scale,Gray
 Large Scale,material,trade,4,,1000,,,Scale,LightBeige
 Beautiful Scale,material,trade,5,,2000,,,Scale,White
