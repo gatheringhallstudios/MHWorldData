@@ -3,14 +3,18 @@ import os.path
 import pytest
 
 from mhdata import build
-from mhdata.load import load_data
+from mhdata.load import load_data, load_data_processed, validate
+
+@pytest.fixture()
+def mhdata_raw():
+    return load_data()
 
 @pytest.fixture()
 def mhdata():
-    return load_data()
+    return load_data_processed()
 
-def test_validates(mhdata):
-    assert build.validate(mhdata), "Validation should have succeeded"
+def test_validates(mhdata_raw):
+    assert validate(mhdata_raw), "Validation should have succeeded"
 
 def test_builds_sql(tmpdir, mhdata):
     "Integration test to ensure the database builds"

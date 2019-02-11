@@ -1,14 +1,8 @@
 """
 A collection of functions designed to handle data read from mhdata.load.
-
-This may change in the future, ideas are to:
-1) Make wrapper class over loaded data
-2) move these to a module that makes more sense (in mhdata.load? A new one?)
-
 """
 
 from mhdata import cfg
-
 
 def iter_setbonus_skills(setbonus):
     "Iterates over set bonuses, returning (name, required) tuples"

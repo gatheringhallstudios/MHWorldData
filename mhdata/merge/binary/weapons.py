@@ -1,6 +1,5 @@
 from mhdata.io import create_writer, DataMap
-from mhdata.load import load_data, schema
-from mhdata.build import datafn
+from mhdata.load import load_data, schema, datafn
 
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
 from .load import load_schema, load_text, ItemTextHandler, \

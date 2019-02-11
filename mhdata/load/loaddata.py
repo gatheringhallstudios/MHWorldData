@@ -7,7 +7,6 @@ from mhdata.io import DataMap, DataReader, DataStitcher, create_reader
 from mhdata.io.csv import read_csv
 
 from . import schema
-from . import process
 
 reader = create_reader()
 
@@ -54,7 +53,6 @@ def load_data():
                     .extend_base('skill_base_translations.csv')
                     .add_csv("skill_levels.csv", key="levels")
                     .get(schema=schema.SkillSchema()))
-    process.copy_skill_descriptions(result.skill_map)
 
     result.charm_map = (DataStitcher(reader, dir="charms/")
                     .base_csv("charm_base.csv")
@@ -112,6 +110,5 @@ def load_data():
                     .base_csv("decoration_base.csv")
                     .extend_base('decoration_base_translations.csv')
                     .get(schema=schema.DecorationSchema()))
-    process.extend_decoration_chances(result.decoration_map)
 
     return result

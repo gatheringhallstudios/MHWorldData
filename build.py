@@ -2,7 +2,7 @@ import click
 import sys
 
 from mhdata import build
-from mhdata.load import load_data
+from mhdata.load import load_data_processed
 
 # Python 3.6 dictionaries preserve insertion order,
 # and python 3.7 officially added it to the spec.
@@ -16,11 +16,7 @@ if sys.version_info < (3,6):
 
 @click.command()
 def build_cmd():
-    data = load_data()
-
-    if not build.validate(data):
-        raise Exception("Validation failed, exiting")
-
+    data = load_data_processed()
     output_filename = 'mhw.db'
     build.build_sql_database(output_filename, data)
     

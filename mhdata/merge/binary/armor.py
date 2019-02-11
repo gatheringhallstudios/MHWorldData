@@ -1,7 +1,6 @@
 from mhdata.io import create_writer, DataMap
-from mhdata.load import load_data, schema
+from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
-from mhdata.build import datafn
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
 from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe

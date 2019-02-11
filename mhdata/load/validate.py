@@ -7,11 +7,6 @@ from mhdata.util import ensure_warn
 
 from . import datafn
 
-# todo: many of these validations could be moved to the schema,
-# but doing so would cause errors during merges/corrections (we only want errors when building).
-# Decide if we want all non-typed validations to be here, 
-# or if we pass a flag to the schema objects on whether to throw or not
-
 def validate(mhdata):
     "Perform all validations, print out the errors, and return if it succeeded or not"
     errors = []

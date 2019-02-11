@@ -4,10 +4,9 @@ import mhdata.sql as db
 from mhdata import cfg
 from mhdata.io import DataMap
 from mhdata.util import ensure, ensure_warn, get_duplicates
+from mhdata.load import datafn
 
 from .objectindex import ObjectIndex
-from . import datafn
-
 
 def get_translated(obj, attr, lang):
     value = obj[attr].get(lang, None)
