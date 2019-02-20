@@ -518,6 +518,10 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 517,Vaal Hazak Ticket,material,,8,,800,,,Voucher,Gray
 518,Kirin Ticket,material,,8,,800,,,Voucher,White
 654,Teostra Ticket,material,,8,,800,,,,
+655,Lunastra Ticket,material,,8,,800,,,,
+656,Kushala Daora Ticket,material,,8,,800,,,,
+657,Zorah Magdaros Ticket,material,,8,,800,,,,
+658,Xeno'jiiva Ticket,material,,8,,800,,,,
 519,Black Bandage,material,,6,,400,,,Question,Gray
 520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
 521,Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige
