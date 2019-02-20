@@ -14,6 +14,7 @@ from .cfields import ValidatedStr, ExcelBool, BaseSchema, NestedPrefix
 
 class ItemSchema(BaseSchema):
     __groups__ = ('name', 'description')
+    id = fields.Int()
     name = fields.Dict()
     description = fields.Dict()
     category = ValidatedStr("item", "material", "ammo", "misc", "hidden")
