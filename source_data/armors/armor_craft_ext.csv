@@ -147,6 +147,16 @@ Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal,4,Coral Bone,2
 Kirin Longarms,Kirin Hide,3,Kirin Mane,2,Paolumu Shell,2,Lightcrystal,1
 Kirin Hoop,Kirin Hide,2,Kirin Thunderhorn,1,Kirin Tail,1,Electro Sac,1
 Kirin Leg Guards,Kirin Hide,2,Kirin Thunderhorn,1,Paolumu Shell,2,,
+Blossom Headgear,Spring Blossom Ticket,1,Earth Crystal,1,,,,
+Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
+Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
+Blossom Coat,Spring Blossom Ticket,1,Earth Crystal,1,,,,
+Blossom Boots,Spring Blossom Ticket,1,Earth Crystal,2,,,,
+Diver's Mask,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Suit,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Braces,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Belt,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Boots,Summer Twilight Ticket,1,Coral Crystal,1,,,,
 Harvest Flor,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Tronco,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Trama,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
@@ -167,11 +177,6 @@ Butterfly Thorax,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Mons
 Butterfly Brachia,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
 Butterfly Elytra,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
 Butterfly Crura,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
-Blossom Headgear,Spring Blossom Ticket,1,Earth Crystal,1,,,,
-Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
-Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
-Blossom Coat,Spring Blossom Ticket,1,Earth Crystal,1,,,,
-Blossom Boots,Spring Blossom Ticket,1,Earth Crystal,2,,,,
 Leather Headgear α,Carbalite Ore,3,High-quality Pelt,1,,,,
 Leather Mail α,Carbalite Ore,2,High-quality Pelt,1,,,,
 Leather Gloves α,Carbalite Ore,2,High-quality Pelt,1,,,,
@@ -232,16 +237,6 @@ King Beetle Thorax β,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,
 King Beetle Brachia β,Great Hornfly,1,Dragonvein Crystal,2,Monster Broth,2,Torrent Sac,2
 King Beetle Elytra β,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
 King Beetle Crura β,Great Hornfly,1,Carbalite Ore,2,Monster Broth,2,Omniplegia Sac,2
-Butterfly Vertex α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
-Butterfly Thorax α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
-Butterfly Brachia α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
-Butterfly Elytra α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
-Butterfly Crura α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
-Butterfly Vertex β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
-Butterfly Thorax β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
-Butterfly Brachia β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
-Butterfly Elytra β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
-Butterfly Crura β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
 Vespoid Helm α,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
 Vespoid Mail α,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
 Vespoid Vambraces α,Vespoid Carapace,4,Vespoid Innerwing,2,Monster Broth,3,Omniplegia Sac,2
@@ -677,21 +672,6 @@ Kulve Taroth's Ire β,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18
 Kulve Taroth's Rage β,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Spiralhorn,6,Kulve Taroth Golden Glimstone,1
 Kulve Taroth's Malice β,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Kulve Taroth Golden Glimstone,1
 Kulve Taroth's Wrath β,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Vaal Hazak Gem,1
-Blossom Headgear α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
-Blossom Vest α,Spring Blossom Ticket,3,Carbalite Ore,3,,,,
-Blossom Cuffs α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
-Blossom Coat α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
-Blossom Boots α,Spring Blossom Ticket,3,Carbalite Ore,2,,,,
-Kirin Horn γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Kirin Thundertail,2
-Kirin Jacket γ,Kirin Ticket,1,Kirin Hide+,4,Kirin Azure Horn,3,Elder Dragon Blood,3
-Kirin Longarms γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Thundertail,3,Novacrystal,1
-Kirin Hoop γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Elder Dragon Bone,3
-Kirin Leg Guards γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Mane,4,Novacrystal,1
-Dante's Hair α,Red Orb,1,Rathalos Scale+,5,Odogaron Scale+,5,Anjanath Scale+,5
-Dante's Coat α,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1
-Dante's Gloves α,Red Orb,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Plate,1
-Dante's Belt α,Red Orb,1,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Plate,1
-Dante's Leather Boots α,Red Orb,1,Teostra Carapace,6,Teostra Webbing,3,Teostra Gem,1
 Empress Crown α,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Wing,2,Elder Dragon Bone,4
 Empress Mail α,Lunastra Horn,2,Lunastra Scale+,4,Lunastra Mane,2,Lunastra Gem,1
 Empress Vambraces α,Lunastra Carapace,4,Lunastra Horn,1,Lunastra Tail,2,Firecell Stone,1
@@ -702,6 +682,16 @@ Empress Mail β,Lunastra Horn,2,Lunastra Scale+,4,Lunastra Mane,2,Lunastra Gem,1
 Empress Vambraces β,Lunastra Carapace,4,Lunastra Horn,1,Lunastra Tail,2,Firecell Stone,1
 Empress Coil β,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Mane,2,Novacrystal,1
 Empress Greaves β,Teostra Carapace,4,Lunastra Wing,3,Lunastra Tail,1,Elder Dragon Blood,3
+Blossom Headgear α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
+Blossom Vest α,Spring Blossom Ticket,3,Carbalite Ore,3,,,,
+Blossom Cuffs α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
+Blossom Coat α,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
+Blossom Boots α,Spring Blossom Ticket,3,Carbalite Ore,2,,,,
+Diver's Mask α,Summer Twilight Ticket,1,Carbalite Ore,2,Quality Bone,1,,
+Diver's Suit α,Summer Twilight Ticket,1,Carbalite Ore,1,Quality Bone,1,,
+Diver's Braces α,Summer Twilight Ticket,1,Carbalite Ore,2,Quality Bone,1,,
+Diver's Belt α,Summer Twilight Ticket,1,Carbalite Ore,1,Quality Bone,1,,
+Diver's Boots α,Summer Twilight Ticket,1,Carbalite Ore,1,Quality Bone,1,,
 Harvest Flor α,Autumn Harvest Ticket,1,Monster Hardbone,2,Monster Keenbone,1,,
 Harvest Tronco α,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
 Harvest Trama α,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
@@ -717,11 +707,41 @@ Gala Suit Jacket α,Appreciation Ticket,3,Elder Dragon Bone,2,High Commendation,
 Gala Suit Cuffs α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
 Gala Suit Tail α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
 Gala Suit Slacks α,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
+Butterfly Vertex α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Thorax α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Brachia α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Elytra α,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Crura α,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Vertex β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Thorax β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Brachia β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
+Butterfly Elytra β,Summer Insect Field Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
+Butterfly Crura β,Summer Insect Field Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1
 Vaal Hazak Helm γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Talon,4
 Vaal Hazak Mail γ,Vaal Hazak Ticket,1,Deceased Scale,5,Vaal Hazak Carapace,4,Vaal Hazak Membrane,3
 Vaal Hazak Braces γ,Vaal Hazak Ticket,1,Vaal Hazak Fang+,3,Deceased Scale,6,Vaal Hazak Gem,1
 Vaal Hazak Coil γ,Vaal Hazak Ticket,1,Vaal Hazak Carapace,5,Vaal Hazak Wing,4,Vaal Hazak Membrane,3
 Vaal Hazak Greaves γ,Vaal Hazak Ticket,1,Vaal Hazak Carapace,5,Vaal Hazak Fang+,3,Vaal Hazak Tail,2
+Kirin Horn γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Kirin Thundertail,2
+Kirin Jacket γ,Kirin Ticket,1,Kirin Hide+,4,Kirin Azure Horn,3,Elder Dragon Blood,3
+Kirin Longarms γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Thundertail,3,Novacrystal,1
+Kirin Hoop γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Elder Dragon Bone,3
+Kirin Leg Guards γ,Kirin Ticket,1,Kirin Hide+,3,Kirin Mane,4,Novacrystal,1
+Kaiser Crown γ,Teostra Ticket,1,Teostra Carapace,5,Teostra Webbing,4,Teostra Powder,4
+Kaiser Mail γ,Teostra Ticket,1,Teostra Carapace,5,Teostra Horn+,2,Teostra Tail,2
+Kaiser Vambraces γ,Teostra Ticket,1,Fire Dragon Scale+,4,Teostra Carapace,4,Teostra Mane,3
+Kaiser Coil γ,Teostra Ticket,1,Teostra Horn+,3,Fire Dragon Scale+,6,Teostra Gem,1
+Kaiser Greaves γ,Teostra Ticket,1,Fire Dragon Scale+,4,Teostra Carapace,4,Teostra Claw+,4
+Azure Starlord Crown α,Azure Stargem,1,Dodogama Scale+,5,Dodogama Hide+,6,Dodogama Jaw,3
+Azure Starlord Armor α,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Wing,4,Rathalos Medulla,2
+Azure Starlord Gauntlets α,Azure Stargem,1,Dodogama Scale+,5,Dodogama Hide+,6,Dodogama Talon,4
+Azure Starlord Tassets α,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Carapace,5,Azure Rathalos Tail,3
+Azure Starlord Guards α,Azure Stargem,1,Dodogama Scale+,5,Azure Rathalos Carapace,5,Dodogama Tail,3
+Dante's Hair α,Red Orb,1,Rathalos Scale+,5,Odogaron Scale+,5,Anjanath Scale+,5
+Dante's Coat α,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1
+Dante's Gloves α,Red Orb,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Plate,1
+Dante's Belt α,Red Orb,1,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Plate,1
+Dante's Leather Boots α,Red Orb,1,Teostra Carapace,6,Teostra Webbing,3,Teostra Gem,1
 Drachen Armet α,Behemoth Mane,2,Behemoth Bone,3,Behemoth Great Horn,1,Aetheryte Shard,3
 Drachen Mail α,Behemoth Mane,2,Behemoth Bone,3,Behemoth Shearclaw,2,Dragonbone Relic,2
 Drachen Vambraces α,Behemoth Mane,3,Behemoth Bone,3,Behemoth Great Horn,1,Behemoth Tail,1

@@ -37,11 +37,14 @@ def update_armor():
     new_armorset_map = DataMap(languages="en", start_id=mhdata.armorset_map.max_id+1)
     new_armor_map = DataMap(languages="en", start_id=mhdata.armor_map.max_id+1)
     new_armorset_bonus_map = DataMap(languages="en")
-
-    print("Updating set data, keyed by the existing names in armorset_base.csv")
-
+    
+    # Temporary storage for later processes
+    all_set_skill_ids = OrderedSet()
+    item_text_handler = ItemTextHandler()
+    skill_text_handler = SkillTextHandler()
     armor_data_by_name = {}
 
+    print("Updating set data, keyed by the existing names in armorset_base.csv")
     for armorset_entry in mhdata.armorset_map.values():
         armorseries_data = armor_series.get(armorset_entry.name('en'))
         if not armorseries_data:
@@ -49,7 +52,16 @@ def update_armor():
             new_armorset_map.insert(armorset_entry)
             continue
 
-        new_entry = { **armorset_entry, 'name': armorseries_data.name }
+        new_entry = { **armorset_entry,
+            'name': armorseries_data.name,
+            'rank': armorseries_data.rank
+        }
+
+        first_armor = armorseries_data.armors[0].binary
+        if first_armor.set_skill1_lvl > 0:
+            skill_id = first_armor.set_skill1
+            all_set_skill_ids.add(skill_id)
+            new_entry['bonus'] = skill_text_handler.get_skilltree_name(skill_id)['en']
 
         for part in cfg.armor_parts:
             armor = armorseries_data.get_part(part)
@@ -62,12 +74,6 @@ def update_armor():
         new_armorset_map.insert(new_entry)
 
     print("Armorset entries updated")
-
-    # Temporary storage for later processes
-    all_set_skill_ids = OrderedSet()
-
-    item_text_handler = ItemTextHandler()
-    skill_text_handler = SkillTextHandler()
 
     print("Updating armor")
     for armorset_entry in new_armorset_map.values():
@@ -82,10 +88,6 @@ def update_armor():
                 continue
 
             armor_binary = armor_data.binary
-
-            if armor_binary.set_skill1_lvl > 0:
-                all_set_skill_ids.add(armor_binary.set_skill1)
-
             rarity = armor_binary.rarity + 1
 
             # Initial new armor data

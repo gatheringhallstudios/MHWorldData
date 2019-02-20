@@ -31,11 +31,12 @@ Odogaron,en,LR,Odogaron,Odogaron Helm,Odogaron Mail,Odogaron Vambraces,Odogaron 
 Rathalos,en,LR,Rathalos,Rathalos Helm,Rathalos Mail,Rathalos Vambraces,Rathalos Coil,Rathalos Greaves,Rathalos Power
 Diablos,en,LR,Diablos,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,Diablos Greaves,Diablos Power
 Kirin,en,LR,Kirin,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,Kirin Blessing
+Blossom,en,LR,,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
+Diver,en,LR,,Diver's Mask,Diver's Suit,Diver's Braces,Diver's Belt,Diver's Boots,
 Harvest,en,LR,,Harvest Flor,Harvest Tronco,Harvest Trama,Harvest Hoja,Harvest Raiz,
 Orion,en,LR,,Orion Cap,Orion Vest,Orion Vambraces,Orion Coat,Orion Boots,
 Gala Suit,en,LR,,Gala Suit Top Hat,Gala Suit Jacket,Gala Suit Cuffs,Gala Suit Tail,Gala Suit Slacks,Astera Blessing
 Butterfly,en,LR,,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
-Blossom,en,LR,,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
 Leather α,en,HR,,Leather Headgear α,Leather Mail α,Leather Gloves α,Leather Belt α,Leather Trousers α,
 Leather β,en,HR,,Leather Headgear β,Leather Mail β,Leather Gloves β,Leather Belt β,Leather Trousers β,
 Chainmail α,en,HR,,Chainmail Headgear α,Chainmail Armor α,Chainmail Gloves α,Chainmail Belt α,Chainmail Trousers α,
@@ -48,8 +49,6 @@ Alloy α,en,HR,,Alloy Helm α,Alloy Mail α,Alloy Vambraces α,Alloy Coil α,All
 Alloy β,en,HR,,Alloy Helm β,Alloy Mail β,Alloy Vambraces β,Alloy Coil β,Alloy Greaves β,
 King Beetle α,en,HR,,King Beetle Vertex α,King Beetle Thorax α,King Beetle Brachia α,King Beetle Elytra α,King Beetle Crura α,
 King Beetle β,en,HR,,King Beetle Vertex β,King Beetle Thorax β,King Beetle Brachia β,King Beetle Elytra β,King Beetle Crura β,
-Butterfly α,en,HR,,Butterfly Vertex α,Butterfly Thorax α,Butterfly Brachia α,Butterfly Elytra α,Butterfly Crura α,
-Butterfly β,en,HR,,Butterfly Vertex β,Butterfly Thorax β,Butterfly Brachia β,Butterfly Elytra β,Butterfly Crura β,
 Vespoid α,en,HR,Vespoid,Vespoid Helm α,Vespoid Mail α,Vespoid Vambraces α,Vespoid Coil α,Vespoid Greaves α,
 Vespoid β,en,HR,Vespoid,Vespoid Helm β,Vespoid Mail β,Vespoid Vambraces β,Vespoid Coil β,Vespoid Greaves β,
 Hornetaur α,en,HR,Hornetaur,Hornetaur Helm α,Hornetaur Mail α,Hornetaur Vambraces α,Hornetaur Coil α,Hornetaur Greaves α,
@@ -149,15 +148,20 @@ Deviljho α,en,HR,Deviljho,Vangis Helm α,Vangis Mail α,Vangis Vambraces α,Van
 Deviljho β,en,HR,Deviljho,Vangis Helm β,Vangis Mail β,Vangis Vambraces β,Vangis Coil β,Vangis Greaves β,
 Kulve Taroth α,en,HR,Kulve Taroth,Kulve Taroth's Fury α,Kulve Taroth's Ire α,Kulve Taroth's Rage α,Kulve Taroth's Malice α,Kulve Taroth's Wrath α,
 Kulve Taroth β,en,HR,Kulve Taroth,Kulve Taroth's Fury β,Kulve Taroth's Ire β,Kulve Taroth's Rage β,Kulve Taroth's Malice β,Kulve Taroth's Wrath β,
-Blossom α,en,HR,,Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α,
-Kirin γ,en,HR,,Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ,Kirin Favor
-Dante α,en,HR,,Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α,
 Lunastra α,en,HR,Lunastra,Empress Crown α,Empress Mail α,Empress Vambraces α,Empress Coil α,Empress Greaves α,Lunastra Favor
 Lunastra β,en,HR,Lunastra,Empress Crown β,Empress Mail β,Empress Vambraces β,Empress Coil β,Empress Greaves β,Lunastra Favor
+Blossom α,en,HR,,Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α,
+Diver α,en,HR,,Diver's Mask α,Diver's Suit α,Diver's Braces α,Diver's Belt α,Diver's Boots α,
 Harvest α,en,HR,,Harvest Flor α,Harvest Tronco α,Harvest Trama α,Harvest Hoja α,Harvest Raiz α,
 Orion α,en,HR,,Orion Cap α,Orion Vest α,Orion Vambraces α,Orion Coat α,Orion Boots α,
 Gala Suit α,en,HR,,Gala Suit Top Hat α,Gala Suit Jacket α,Gala Suit Cuffs α,Gala Suit Tail α,Gala Suit Slacks α,Astera Blessing
+Butterfly α,en,HR,,Butterfly Vertex α,Butterfly Thorax α,Butterfly Brachia α,Butterfly Elytra α,Butterfly Crura α,
+Butterfly β,en,HR,,Butterfly Vertex β,Butterfly Thorax β,Butterfly Brachia β,Butterfly Elytra β,Butterfly Crura β,
 Vaal Hazak γ,en,HR,Vaal Hazak,Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ,Vaal Hazak Vitality
+Kirin γ,en,HR,Kirin,Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ,Kirin Favor
+Teostra γ,en,HR,Teostra,Kaiser Crown γ,Kaiser Mail γ,Kaiser Vambraces γ,Kaiser Coil γ,Kaiser Greaves γ,Teostra Technique
+Azure Starlord α,en,HR,Azure Rathalos,Azure Starlord Crown α,Azure Starlord Armor α,Azure Starlord Gauntlets α,Azure Starlord Tassets α,Azure Starlord Guards α,Rathalos Mastery
+Dante α,en,HR,,Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α,
 Drachen α,en,HR,Behemoth,Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α,Soul of the Dragoon
 Sealed Eyepatch α,en,HR,,Sealed Eyepatch α,,,,,
 Shadow Shades α,en,HR,,Shadow Shades α,,,,,

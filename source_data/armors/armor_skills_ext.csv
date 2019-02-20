@@ -147,6 +147,16 @@ Kirin Jacket,Divine Blessing,1,,
 Kirin Longarms,Blight Resistance,1,,
 Kirin Hoop,Thunder Attack,1,,
 Kirin Leg Guards,Thunder Resistance,1,,
+Blossom Headgear,Honey Hunter,1,,
+Blossom Vest,Quick Sheath,1,,
+Blossom Cuffs,Paralysis Resistance,1,,
+Blossom Coat,Scoutfly Range Up,1,,
+Blossom Boots,Recovery Speed,1,,
+Diver's Mask,Marathon Runner,1,,
+Diver's Suit,Critical Eye,1,,
+Diver's Braces,Quick Sheath,1,,
+Diver's Belt,Aquatic Expert,1,,
+Diver's Boots,Hunger Resistance,1,,
 Harvest Flor,Focus,1,,
 Harvest Tronco,Tremor Resistance,1,,
 Harvest Trama,Resentment,1,,
@@ -167,11 +177,6 @@ Butterfly Thorax,Health Boost,1,,
 Butterfly Brachia,Critical Eye,1,,
 Butterfly Elytra,Defense Boost,1,,
 Butterfly Crura,Marathon Runner,1,,
-Blossom Headgear,Honey Hunter,1,,
-Blossom Vest,Quick Sheath,1,,
-Blossom Cuffs,Paralysis Resistance,1,,
-Blossom Coat,Scoutfly Range Up,1,,
-Blossom Boots,Recovery Speed,1,,
 Leather Headgear α,Hunger Resistance,2,,
 Leather Mail α,Fire Resistance,1,,
 Leather Gloves α,Recovery Speed,1,,
@@ -232,16 +237,6 @@ King Beetle Thorax β,Quick Sheath,2,,
 King Beetle Brachia β,Botanist,2,,
 King Beetle Elytra β,Honey Hunter,1,,
 King Beetle Crura β,Forager's Luck,1,,
-Butterfly Vertex α,Stun Resistance,2,Defense Boost,1
-Butterfly Thorax α,Health Boost,2,Stun Resistance,1
-Butterfly Brachia α,Critical Eye,2,Health Boost,1
-Butterfly Elytra α,Defense Boost,2,Marathon Runner,1
-Butterfly Crura α,Marathon Runner,2,Critical Eye,1
-Butterfly Vertex β,Stun Resistance,2,,
-Butterfly Thorax β,Health Boost,2,,
-Butterfly Brachia β,Critical Eye,2,,
-Butterfly Elytra β,Defense Boost,2,,
-Butterfly Crura β,Marathon Runner,2,,
 Vespoid Helm α,Quick Sheath,1,Paralysis Attack,1
 Vespoid Mail α,Windproof,2,,
 Vespoid Vambraces α,Paralysis Attack,2,,
@@ -677,21 +672,6 @@ Kulve Taroth's Ire β,Stun Resistance,2,Critical Boost,1
 Kulve Taroth's Rage β,Free Elem/Ammo Up,1,Power Prolonger,1
 Kulve Taroth's Malice β,Free Elem/Ammo Up,1,Handicraft,1
 Kulve Taroth's Wrath β,Wide-Range,2,Peak Performance,1
-Blossom Headgear α,Honey Hunter,1,,
-Blossom Vest α,Quick Sheath,1,,
-Blossom Cuffs α,Paralysis Resistance,1,,
-Blossom Coat α,Scoutfly Range Up,1,,
-Blossom Boots α,Recovery Speed,1,,
-Kirin Horn γ,Blight Resistance,1,Thunder Attack,3
-Kirin Jacket γ,Free Elem/Ammo Up,2,,
-Kirin Longarms γ,Blight Resistance,1,Free Elem/Ammo Up,1
-Kirin Hoop γ,Marathon Runner,2,,
-Kirin Leg Guards γ,Blight Resistance,1,Thunder Attack,2
-Dante's Hair α,Weakness Exploit,1,Critical Eye,1
-Dante's Coat α,Evade Window,1,Critical Eye,1
-Dante's Gloves α,Evade Window,1,Special Ammo Boost,1
-Dante's Belt α,Evade Window,1,Latent Power,1
-Dante's Leather Boots α,Weakness Exploit,2,,
 Empress Crown α,Evade Extender,2,Tool Specialist,1
 Empress Mail α,Peak Performance,2,Health Boost,1
 Empress Vambraces α,Wide-Range,2,Blast Attack,2
@@ -702,6 +682,16 @@ Empress Mail β,Peak Performance,2,,
 Empress Vambraces β,Wide-Range,2,,
 Empress Coil β,Tool Specialist,2,,
 Empress Greaves β,Health Boost,2,,
+Blossom Headgear α,Honey Hunter,1,,
+Blossom Vest α,Quick Sheath,1,,
+Blossom Cuffs α,Paralysis Resistance,1,,
+Blossom Coat α,Scoutfly Range Up,1,,
+Blossom Boots α,Recovery Speed,1,,
+Diver's Mask α,Marathon Runner,1,,
+Diver's Suit α,Critical Eye,1,,
+Diver's Braces α,Quick Sheath,1,,
+Diver's Belt α,Aquatic Expert,1,,
+Diver's Boots α,Hunger Resistance,1,,
 Harvest Flor α,Focus,1,,
 Harvest Tronco α,Tremor Resistance,1,,
 Harvest Trama α,Resentment,1,,
@@ -717,11 +707,41 @@ Gala Suit Jacket α,Critical Draw,1,,
 Gala Suit Cuffs α,Maximum Might,1,,
 Gala Suit Tail α,Slinger Capacity,1,,
 Gala Suit Slacks α,Divine Blessing,1,,
+Butterfly Vertex α,Stun Resistance,2,Defense Boost,1
+Butterfly Thorax α,Health Boost,2,Stun Resistance,1
+Butterfly Brachia α,Critical Eye,2,Health Boost,1
+Butterfly Elytra α,Defense Boost,2,Marathon Runner,1
+Butterfly Crura α,Marathon Runner,2,Critical Eye,1
+Butterfly Vertex β,Stun Resistance,2,,
+Butterfly Thorax β,Health Boost,2,,
+Butterfly Brachia β,Critical Eye,2,,
+Butterfly Elytra β,Defense Boost,2,,
+Butterfly Crura β,Marathon Runner,2,,
 Vaal Hazak Helm γ,Recovery Up,2,Dragon Attack,1
 Vaal Hazak Mail γ,Peak Performance,1,Recovery Up,1
 Vaal Hazak Braces γ,Dragon Attack,3,,
 Vaal Hazak Coil γ,Recovery Speed,2,Dragon Attack,1
 Vaal Hazak Greaves γ,Peak Performance,1,Recovery Speed,1
+Kirin Horn γ,Blight Resistance,1,Thunder Attack,3
+Kirin Jacket γ,Free Elem/Ammo Up,2,,
+Kirin Longarms γ,Blight Resistance,1,Free Elem/Ammo Up,1
+Kirin Hoop γ,Marathon Runner,2,,
+Kirin Leg Guards γ,Blight Resistance,1,Thunder Attack,2
+Kaiser Crown γ,Critical Eye,2,,
+Kaiser Mail γ,Latent Power,2,Weakness Exploit,1
+Kaiser Vambraces γ,Critical Eye,3,,
+Kaiser Coil γ,Latent Power,3,,
+Kaiser Greaves γ,Critical Eye,2,,
+Azure Starlord Crown α,Agitator,1,,
+Azure Starlord Armor α,Handicraft,1,,
+Azure Starlord Gauntlets α,Recovery Up,2,,
+Azure Starlord Tassets α,Handicraft,1,,
+Azure Starlord Guards α,Critical Boost,1,,
+Dante's Hair α,Weakness Exploit,1,Critical Eye,1
+Dante's Coat α,Evade Window,1,Critical Eye,1
+Dante's Gloves α,Evade Window,1,Special Ammo Boost,1
+Dante's Belt α,Evade Window,1,Latent Power,1
+Dante's Leather Boots α,Weakness Exploit,2,,
 Drachen Armet α,Critical Boost,1,Airborne,1
 Drachen Mail α,Critical Eye,2,Critical Boost,1
 Drachen Vambraces α,Critical Eye,2,Attack Boost,1
