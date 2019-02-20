@@ -3,8 +3,10 @@ from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe
+from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe, load_armor_series
 from .items import add_missing_items
+
+from mhdata import cfg
 
 # Index based gender restriction
 gender_list = [None, 'male', 'female', 'both']
@@ -12,21 +14,7 @@ gender_list = [None, 'male', 'female', 'both']
 def update_armor():
     "Populates and updates armor information using the armorset_base as a source of truth"
     
-    armor_text = load_text("common/text/steam/armor")
-    armorset_text = load_text("common/text/steam/armor_series")
-
-    # Parses binary armor data, mapped by the english name
-    armor_data = {}    
-    for armor_entry in load_schema(am_dat.AmDat, "common/equip/armor.am_dat").entries:
-        if armor_entry.gender == 0: continue
-        if armor_entry.order == 0: continue
-        name_en = armor_text[armor_entry.gmd_name_index]['en']
-        armor_data[name_en] = armor_entry
-
-    # Parses craft data, mapped by the binary armor id
-    armor_craft_data = {}
-    for craft_entry in load_schema(eq_crt.EqCrt, "common/equip/armor.eq_crt").entries:
-        armor_craft_data[craft_entry.equip_id] = craft_entry
+    armor_series = load_armor_series()
 
     # Get number of times armor can be upgraded by rarity level.
     # Unk7 is max level pre-augment, Unk8 is max post-augment
@@ -35,14 +23,40 @@ def update_armor():
     for entry in load_schema(arm_up.ArmUp, "common/equip/arm_upgrade.arm_up").entries:
         rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk8 - 1)
     
-    print("Binary data loaded")
+    print("Binary armor data loaded")
 
     mhdata = load_data()
     print("Existing Data loaded. Using existing armorset data to drive new armor data.")
-
+    
     # Will store results. Language lookup and validation will be in english
-    new_armor_map = DataMap(languages="en")
+    new_armorset_map = DataMap(languages="en", start_id=mhdata.armorset_map.max_id+1)
+    new_armor_map = DataMap(languages="en", start_id=mhdata.armor_map.max_id+1)
     new_armorset_bonus_map = DataMap(languages="en")
+
+    print("Updating set data, keyed by the existing names in armorset_base.csv")
+
+    armor_data_by_name = {}
+
+    for armorset_entry in mhdata.armorset_map.values():
+        armorseries_data = armor_series.get(armorset_entry.name('en'))
+        if not armorseries_data:
+            print(f"Armor series {armorset_entry.name('en')} doesn't exist in binary, skipping")
+            new_armorset_map.insert(armorset_entry)
+            continue
+
+        new_entry = { **armorset_entry, 'name': armorseries_data.name }
+
+        for part in cfg.armor_parts:
+            armor = armorseries_data.get_part(part)
+            if armor:
+                armor_data_by_name[armor.name['en']] = armor
+                new_entry[part] = armor.name['en']
+            else:
+                new_entry[part] = None
+
+        new_armorset_map.insert(new_entry)
+
+    print("Armorset entries updated")
 
     # Temporary storage for later processes
     all_set_skill_ids = OrderedSet()
@@ -50,26 +64,28 @@ def update_armor():
     item_text_handler = ItemTextHandler()
     skill_text_handler = SkillTextHandler()
 
-    print("Populating armor data, keyed by the armorset data")
-    next_armor_id = mhdata.armor_map.max_id + 1
-    for armorset in mhdata.armorset_map.values():
+    print("Updating armor")
+    for armorset_entry in new_armorset_map.values():
         # Handle armor pieces
-        for part, armor_name in datafn.iter_armorset_pieces(armorset):
+        for part, armor_name in datafn.iter_armorset_pieces(armorset_entry):
             existing_armor = mhdata.armor_map.entry_of('en', armor_name)
-            armor_binary = armor_data.get(armor_name)
+            armor_data = armor_data_by_name.get(armor_name, None)
 
-            if not armor_binary:
-                raise Exception(f"Failed to find binary armor data for {armor_name}")
+            if not armor_data:
+                print(f"Failed to find binary armor data for {armor_name}, maintaining existing data")
+                new_armor_map.insert(existing_armor)
+                continue
+
+            armor_binary = armor_data.binary
 
             if armor_binary.set_skill1_lvl > 0:
                 all_set_skill_ids.add(armor_binary.set_skill1)
 
             rarity = armor_binary.rarity + 1
-            name_dict = armor_text[armor_binary.gmd_name_index]
 
             # Initial new armor data
             new_data = {
-                'name': name_dict, # Override for translation support!
+                'name': armor_data.name,
                 'rarity': rarity,
                 'type': part,
                 'gender': gender_list[armor_binary.gender],
@@ -88,6 +104,9 @@ def update_armor():
                 'craft': {}
             }
 
+            if existing_armor:
+                new_data['id'] = existing_armor.id
+
             # Add skills to new armor data
             for i in range(1, 2+1):
                 skill_lvl = getattr(armor_binary, f"skill{i}_lvl")
@@ -101,20 +120,11 @@ def update_armor():
                     new_data['skills'][f'skill{i}_pts'] = None
 
             # Add recipe to new armor data. Also track the encounter.
-            recipe_binary = armor_craft_data[armor_binary.id]
+            recipe_binary = armor_data.recipe
             new_data['craft'] = convert_recipe(item_text_handler, recipe_binary)
 
-            armor_entry = None
-            if not existing_armor:
-                print(f"Entry for {armor_name} not in armor map, creating new entry")
-                armor_entry = new_armor_map.add_entry(next_armor_id, new_data)
-                next_armor_id += 1
-
-            else:
-                armor_entry = new_armor_map.add_entry(existing_armor.id, {
-                    **existing_armor,
-                    **new_data
-                })
+            # Add new data to new armor map
+            new_armor_map.insert(new_data)
 
     # Process set skills. As we don't currently understand the set -> skill map, we only translate
     # We pull the already established set skill name from existing CSV
@@ -125,6 +135,12 @@ def update_armor():
 
     # Write new data
     writer = create_writer()
+
+    writer.save_base_map_csv(
+        "armors/armorset_base.csv", 
+        new_armorset_map, 
+        schema=schema.ArmorSetSchema(),
+        translation_filename="armors/armorset_base_translations.csv")
 
     writer.save_base_map_csv(
         "armors/armor_base.csv", 

@@ -170,9 +170,10 @@ def update_weapons():
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
 
-    weapon_loader = WeaponDataLoader()
     item_text_handler = ItemTextHandler()
     skill_text_handler = SkillTextHandler()
+
+    weapon_loader = WeaponDataLoader()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
     ammo_reader = WeaponAmmoLoader()

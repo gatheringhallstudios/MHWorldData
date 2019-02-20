@@ -6,7 +6,7 @@ from mhdata import cfg
 from mhdata.util import OrderedSet, Sharpness, bidict
 
 from mhw_armor_edit import ftypes
-from mhw_armor_edit.ftypes import gmd, kire, wp_dat, wp_dat_g, eq_crt, eq_cus, skl_pt_dat
+from mhw_armor_edit.ftypes import gmd, am_dat, arm_up, kire, wp_dat, wp_dat_g, eq_crt, eq_cus, skl_pt_dat
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -29,6 +29,33 @@ lang_map = {
     'chT': 'zh',
     'ara': 'ar',
 }
+
+# wp_dat files (mapping from filename -> mhwdb weapon type)
+# ranged ones map to wp_dat_g instead
+weapon_files = {
+    cfg.GREAT_SWORD: 'l_sword',
+    cfg.LONG_SWORD: 'tachi',
+    cfg.SWORD_AND_SHIELD: 'sword',
+    cfg.DUAL_BLADES: 'w_sword',
+    cfg.HAMMER: 'hammer',
+    cfg.HUNTING_HORN: 'whistle',
+    cfg.LANCE: 'lance',
+    cfg.GUNLANCE: 'g_lance',
+    cfg.SWITCH_AXE: 's_axe',
+    cfg.CHARGE_BLADE: 'c_axe',
+    cfg.INSECT_GLAIVE: 'rod',
+    cfg.LIGHT_BOWGUN: 'lbg',
+    cfg.HEAVY_BOWGUN: 'hbg',
+    cfg.BOW: 'bow'
+}
+
+# A list of weapon types ordered by ingame ordering. 
+# Positioning here corresponds to equip type
+weapon_types = [
+    cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
+    cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
+    cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
+]
 
 def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.StructFile:
     "Uses an ftypes struct file class to load() a file relative to the chunk directory"
@@ -81,6 +108,20 @@ class ItemTextHandler():
         self.encountered.add(item_id)
         return (self._item_text[item_id * 2], self._item_text[item_id * 2 + 1])
 
+def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
+    "Converts a recipe binary (of type eq_cus/eq_crt) to a dictionary"
+    new_data = {}
+    
+    for i in range(1, 4+1):
+        item_id = getattr(recipe_binary, f'item{i}_id')
+        item_qty = getattr(recipe_binary, f'item{i}_qty')
+
+        item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
+        new_data[f'item{i}_name'] = item_name
+        new_data[f'item{i}_qty'] = item_qty if item_qty else None
+
+    return new_data
+
 class SkillTextHandler():
     def __init__(self):    
         self.skilltree_text = load_text("common/text/vfont/skill_pt")
@@ -129,49 +170,10 @@ class SharpnessDataReader():
             'maxed': sharpness_maxed,
             **sharpness_values.to_object()
         }
-        
-def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
-    "Converts a recipe binary (of type eq_cus/eq_crt) to a dictionary"
-    new_data = {}
-    
-    for i in range(1, 4+1):
-        item_id = getattr(recipe_binary, f'item{i}_id')
-        item_qty = getattr(recipe_binary, f'item{i}_qty')
 
-        item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
-        new_data[f'item{i}_name'] = item_name
-        new_data[f'item{i}_qty'] = item_qty if item_qty else None
-
-    return new_data
-
-# wp_dat files (mapping from filename -> mhwdb weapon type)
-# ranged ones map to wp_dat_g instead
-weapon_files = {
-    cfg.GREAT_SWORD: 'l_sword',
-    cfg.LONG_SWORD: 'tachi',
-    cfg.SWORD_AND_SHIELD: 'sword',
-    cfg.DUAL_BLADES: 'w_sword',
-    cfg.HAMMER: 'hammer',
-    cfg.HUNTING_HORN: 'whistle',
-    cfg.LANCE: 'lance',
-    cfg.GUNLANCE: 'g_lance',
-    cfg.SWITCH_AXE: 's_axe',
-    cfg.CHARGE_BLADE: 'c_axe',
-    cfg.INSECT_GLAIVE: 'rod',
-    cfg.LIGHT_BOWGUN: 'lbg',
-    cfg.HEAVY_BOWGUN: 'hbg',
-    cfg.BOW: 'bow'
-}
-
-# A list of weapon types ordered by ingame ordering. 
-# Positioning here corresponds to equip type
-weapon_types = [
-    cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
-    cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
-    cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
-]
 
 class WeaponDataNode():
+    "A tree node that holds onto a weapon. Useful for weapon trees"
     def __init__(self, binary, wtype: str, name: dict, tree: str, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
         self.binary = binary
         self.wtype = wtype
@@ -316,4 +318,83 @@ class WeaponDataLoader():
 
         # Return result - the construction does some processing as well
         return WeaponTree(weapon_map)
+
+class ArmorData:
+    def __init__(self, binary: am_dat.AmDatEntry, name, recipe):
+        self.binary = binary
+        self.name = name
+        self.recipe = recipe
+
+    @property
+    def order(self):
+        return self.binary.order
+
+    @property
+    def part(self):
+        "Returns the armor part that this armor is part of"
+        return [
+            'head', 'chest', 'arms', 'waist', 'legs', 'charm'
+        ][self.binary.equip_slot]
+
+class ArmorSetData:
+    def __init__(self, name, armors: Iterable[ArmorData]):
+        self.name = name
+        self.armors = armors
+        self.order = min(self.armors, key=lambda a:a.order).order
+
+        self._armor_by_part = { a.part:a for a in self.armors }
+    
+    def get_part(self, partname):
+        return self._armor_by_part.get(partname, None)
         
+def load_armor_series():
+    # Loaded armor text and armor series information
+    armor_text = load_text("common/text/steam/armor")
+    armorset_text = load_text("common/text/steam/armor_series")
+
+    # Parses craft data, mapped by the binary armor id
+    armor_craft_data = {}
+    for craft_entry in load_schema(eq_crt.EqCrt, "common/equip/armor.eq_crt").entries:
+        armor_craft_data[craft_entry.equip_id] = craft_entry
+
+    # Parses binary armor data.
+    armor_by_setid = {}
+    for armor_binary in load_schema(am_dat.AmDat, "common/equip/armor.am_dat").entries:
+        name_dict = armor_text[armor_binary.gmd_name_index]
+        
+        if not name_dict or not name_dict['en']: continue
+        if armor_binary.set_id == 0: continue # skip charms (for now)
+        if armor_binary.type != 0: continue # type 0 is regular armor
+        if armor_binary.gender == 0: continue
+        if armor_binary.order == 0: continue
+        
+        craft_recipe = armor_craft_data.get(armor_binary.id, None)
+        if not craft_recipe:
+            continue
+
+        armor_data = ArmorData(
+            binary=armor_binary,
+            name=name_dict,
+            recipe=craft_recipe
+        )
+
+        set_id = armor_binary.set_id
+        armor_by_setid.setdefault(set_id, [])
+        armor_by_setid[set_id].append(armor_data)
+
+    # Assemble armor series
+    armor_sets = []
+    for set_id, armors in armor_by_setid.items():
+        series_name_dict = armorset_text[set_id]
+        
+        set_data = ArmorSetData(
+            name=series_name_dict,
+            armors=armors
+        )
+
+        armor_sets.append(set_data)
+
+    armor_sets.sort(key=lambda a: a.order)
+
+    return { aset.name['en']:aset for aset in armor_sets }
+    

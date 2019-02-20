@@ -15,7 +15,6 @@ Jyura,ジュラ,Jyuratodus,Jyura,Jyuratodus-Set,Jyura,Jyura,Jyura,Юратод,�
 Kadachi,カガチ,Tobi-Kadachi,Kadachi,Kadachi-Set,Kadachi,Kadachi,Kadachi,Кадачи,카가치,飛雷龍,كاداتشي
 High Metal,ハイメタ,Haut-métal,Ipermetallo,Hochmetall-Set,Megametal,Metal Denso,Metalu,Высший металл,하이메탈,礦石,معدن قوي
 King Beetle,オウビート,Scarabée,Scarabeo,Königskäfer-Set,Rey escarabajo,Besouro-rei,Żuka królewskiego,Королевский жук,킹비트,獨角仙,الخنفساء الملك
-Butterfly,パピメル,Papillon,Farfalla,Schmetterling-Set,Mariposa,Borboleta,Motyla,Бабочка,파피메르,燕尾蝶,فراشة
 Shamos,シャム,Shamos,Shamos,Shamos-Set,Shamos,Shamos,Shamosa,Шамос,샤무,貓蜥龍,شاموس
 Hornetaur,タロス,Hornetaur,Hornetaur,Hornetaur-Set,Hornetaur,Chifrotauro,Hornetaura,Роготавр,타로스,巨甲蟲,هورنتور
 Anja,ジャナフ,Anjanath,Anja,Anjanath-Set,Anja,Anja,Anja,Анджи,쟈나프,蠻顎龍,أنجا
@@ -32,7 +31,11 @@ Odogaron,ガロン,Odogaron,Odogaron,Odogaron-Set,Odogaron,Odogaron,Odogarona,О
 Rathalos,レウス,Rathalos,Rathalos,Rathalos-Set,Rathalos,Rathalos,Rathalosa,Раталос,레우스,火龍,راذالوس
 Diablos,ディアブロ,Diablos,Diablos,Diablos-Set,Diablos,Diablos,Diablosa,Диаблос,디아블로,角龍,ديابلوس
 Kirin,キリン,Kirin,Kirin,Kirin-Set,Kirin,Kirin,Kirina,Кирин,키린,麒麟,كيرين
-Blossom,【ブロッサム】衣装,Printemps,Floreale,Blüten,Flores,Florescer,Kwiecia,Цветок,【블로섬】 의상,【巴魯特】服裝,الربيع
+Harvest,ハーベスト,Récolte,Raccolto,Ernte-Set,Cosecha,Safra,Zbiorów,Урожай,하베스트,收穫,الحصاد
+Orion,オリオン,Orion,Orione,Orion-Set,Orión,Órion,Oriona,Орион,오리온,獵戶星,أوريون
+Gala Suit,フルドレス,Gala,Gran galà,Galaanzug-Set,Traje de gala,Traje de Gala,Strój galowy,Костюм гала-концерта,풀드레스,盛裝,بذلة المهرجان
+Butterfly,パピオム,Papillon,Farfalla,Schmetterling-Set,Mariposa,Borboleta,Motyla,Бабочка,파피옴,燕尾蝶男,فراشة
+Blossom,ブロッサム,Printemps,Floreale,Blüten-Set,Flores,Florescer,Kwiecia,Цветок,블로섬,巴魯特,الربيع
 Leather α,レザーα,Cuir α,Cuoio α,Leder-Set α,Cuero α,Couro α,Skórzany α,Кожаный α,레더α,皮製α,جلدي α
 Leather β,レザーβ,Cuir β,Cuoio β,Leder-Set β,Cuero β,Couro β,Skórzany β,Кожаный β,레더β,皮製β,جلدي β
 Chainmail α,チェーンα,Mailles α,Maglia α,Ketten-Set α,Malla α,Cota de Malha α,Kolczy α,Кольчужный α,체인α,鎖甲α,فولاذي α
@@ -45,8 +48,8 @@ Alloy α,アロイα,Alliage α,Lega α,Legierungs-Set α,Aleación α,Liga Leve
 Alloy β,アロイβ,Alliage β,Lega β,Legierungs-Set β,Aleación β,Liga Leve β,Stopu β,Литой β,얼로이β,合金β,خليط معدني β
 King Beetle α,オウビートα,Scarabée α,Scarabeo α,Königskäfer-Set α,Rey escarabajo α,Besouro-rei α,Żuka królewskiego α,Королевский жук α,킹비트α,獨角仙α,الخنفساء الملك α
 King Beetle β,オウビートβ,Scarabée β,Scarabeo β,Königskäfer-Set β,Rey escarabajo β,Besouro-rei β,Żuka królewskiego β,Королевский жук β,킹비트β,獨角仙β,الخنفساء الملك β
-Butterfly α,パピメルα,Papillon α,Farfalla α,Schmetterling-Set α,Mariposa α,Borboleta α,Motyla α,Бабочка α,파피메르α,燕尾蝶α,فراشة α
-Butterfly β,パピメルβ,Papillon β,Farfalla β,Schmetterling-Set β,Mariposa β,Borboleta β,Motyla β,Бабочка β,파피메르β,燕尾蝶β,فراشة β
+Butterfly α,パピオムα,Papillon α,Farfalla α,Schmetterling-Set α,Mariposa α,Borboleta α,Motyla α,Бабочка α,파피옴α,燕尾蝶男α,الفراشة α
+Butterfly β,パピオムβ,Papillon β,Farfalla β,Schmetterling-Set β,Mariposa β,Borboleta β,Motyla β,Бабочка β,파피옴β,燕尾蝶男β,الفراشة β
 Vespoid α,ランゴα,Vespoid α,Vespoid α,Vespoid-Set α,Vespoid α,Vespoidea α,Vespoida α,Осоид α,랑고α,巨蜂α,فيسبويد α
 Vespoid β,ランゴβ,Vespoid β,Vespoid β,Vespoid-Set β,Vespoid β,Vespoidea β,Vespoida β,Осоид β,랑고β,巨蜂β,فيسبويد β
 Hornetaur α,タロスα,Hornetaur α,Hornetaur α,Hornetaur-Set α,Hornetaur α,Chifrotauro α,Hornetaura α,Роготавр α,타로스α,巨甲蟲α,هورنتور α
@@ -127,16 +130,16 @@ Death Stench β,デスギアβ,Putride β,Putrefatto β,Todesgestank-Set β,Pest
 Skull α,スカルα,Crâne α,Scheletrico α,Schädel-Set α,Calavera α,Caveira α,Czaszki α,Череп α,스컬α,骷髏α,الجمجمة α
 Nergigante α,オーグα,Nergigante α,Nergigante α,Nergigante-Set α,Nergigante α,Nergigante α,Nergiganta α,Нергигант α,오그α,戰紋α,نيرغي α
 Nergigante β,オーグβ,Nergigante β,Nergigante β,Nergigante-Set β,Nergigante β,Nergigante β,Nergiganta β,Нергигант β,오그β,戰紋β,نيرغي β
-Teostra α,カイザーα,Kaiser α,Kaiser α,Kaiser-Set α,Káiser α,Teostra α,Teostra α,Теостра α,카이저α,帝王α,تيوسترا α
-Teostra β,カイザーβ,Kaiser β,Kaiser β,Kaiser-Set β,Káiser β,Teostra β,Teostra β,Теостра β,카이저β,帝王β,تيوسترا β
+Teostra α,カイザーα,Kaiser α,Kaiser α,Kaiser-Set α,Káiser α,Teostra α,Teostry α,Теостра α,카이저α,帝王α,تيوسترا α
+Teostra β,カイザーβ,Kaiser β,Kaiser β,Kaiser-Set β,Káiser β,Teostra β,Teostry β,Теостра β,카이저β,帝王β,تيوسترا β
 Kushala α,クシャナα,Kushala Daora α,Kushala α,Kushala-Set α,Kushala α,Kushala α,Kushali α,Кушала α,크샤나α,鋼龍α,كوشالا α
 Kushala β,クシャナβ,Kushala Daora β,Kushala β,Kushala-Set β,Kushala β,Kushala β,Kushali β,Кушала β,크샤나β,鋼龍β,كوشالا β
 Vaal Hazak α,ウルズα,Vaal Hazak α,Vaal Hazak α,Vaal-Hazak-Set α,Vaal Hazak α,Vaal Hazak α,Vaal Hazaka α,Ваал-хазак α,우르즈α,烏爾德α,فال هازاك α
 Vaal Hazak β,ウルズβ,Vaal Hazak β,Vaal Hazak β,Vaal-Hazak-Set β,Vaal Hazak β,Vaal Hazak β,Vaal Hazaka β,Ваал-хазак β,우르즈β,烏爾德β,فال هازاك β
 Kirin α,キリンα,Kirin α,Kirin α,Kirin-Set α,Kirin α,Kirin α,Kirina α,Кирин α,키린α,麒麟α,كيرين α
 Kirin β,キリンβ,Kirin β,Kirin β,Kirin-Set β,Kirin β,Kirin β,Kirina β,Кирин β,키린β,麒麟β,كيرين β
-Xeno'jiiva α,ゼノラージα,Xeno'jiiva α,Xeno'jiiva α,Xeno'jiiva-Set α,Xeno'jiiva α,Xeno'jiiva α,Xeno'jiiva α,Ксено'джиива α,제노라지α,異種大型α,زينوجيفا α
-Xeno'jiiva β,ゼノラージβ,Xeno'jiiva β,Xeno'jiiva β,Xeno'jiiva-Set β,Xeno'jiiva β,Xeno'jiiva β,Xeno'jiiva β,Ксено'джиива β,제노라지β,異種大型β,زينوجيفا β
+Xeno'jiiva α,ゼノラージα,Xeno'jiiva α,Xeno'jiiva α,Xeno'jiiva-Set α,Xeno'jiiva α,Xeno'jiiva α,Xeno'jiiva α,Ксено'джиива α,제노라지α,冥燈幽火α,زينوجيفا α
+Xeno'jiiva β,ゼノラージβ,Xeno'jiiva β,Xeno'jiiva β,Xeno'jiiva-Set β,Xeno'jiiva β,Xeno'jiiva β,Xeno'jiiva β,Ксено'джиива β,제노라지β,冥燈幽火β,زينوجيفا β
 Guild Cross α,ギルドクロスα,Croix de Guilde α,Gilda α,Gildenkreuz-Set α,Cruz gremial α,Cruz de Guilda α,Krzyża Gildii α,Крест гильдии α,길드크로스α,公會十字α,شكل للنقابة α
 Guild Cross β,ギルドクロスβ,Croix de Guilde β,Gilda β,Gildenkreuz-Set β,Cruz gremial β,Cruz de Guilda β,Krzyża Gildii β,Крест гильдии β,길드크로스β,公會十字β,شكل للنقابة β
 Dragonking α,竜王の隻眼α,Roi-Dragon α,Re drago α,Drachenkönig-Set α,Rey dragón α,Dragão-rei α,Smoczego króla α,Драконий король α,용왕의 척안α,龍王的獨眼α,الملك التنين α
@@ -147,10 +150,15 @@ Deviljho β,バンギスβ,Deviljho β,Deviljho β,Dämonjho-Set β,Deviljho β,
 Kulve Taroth α,マムガイラα,Kulve Taroth α,Kulve Taroth α,Kulve-Taroth-Set α,Kulve Taroth α,Kulve Taroth α,Kulve Taroth α,Кулве тарот α,맘가이라α,絢輝龍鎧羅α,كولف تاروث α
 Kulve Taroth β,マムガイラβ,Kulve Taroth β,Kulve Taroth β,Kulve-Taroth-Set β,Kulve Taroth β,Kulve Taroth β,Kulve Taroth β,Кулве тарот β,맘가이라β,絢輝龍鎧羅β,كولف تاروث β
 Blossom α,ブロッサムα,Printemps α,Floreale α,Blüten-Set α,Flores α,Florescer α,Kwiecia α,Цветок α,블로섬α,巴魯特α,الربيع α
-Kirin γ,キリンγ,,,,,,,,,,
-Dante α,ダンテα,Dante α,Dante α,Dante-Set α,Dante α,Dante α,Dante α,Данте α,단테α,但丁α,دانتي α
-Lunastra α,エンプレスα,Imperatrix α,Imperatrice α,Kaiserin-Set α,Lunastra α,Lunastra α,Lunastra α,Лунастра α,엠프리스α,皇后α,لوناسترا α
-Lunastra β,エンプレスβ,Imperatrix β,Imperatrice β,Kaiserin-Set β,Lunastra β,Lunastra β,Lunastra β,Лунастра β,엠프리스β,皇后β,لوناسترا β
+Kirin γ,キリンγ,Kirin γ,Kirin γ,Kirin-Set γ,Kirin γ,Kirin γ,Kirina γ,Кирин γ,키린γ,麒麟γ,كيرين γ
+Dante α,ダンテα,Dante α,Dante α,Dante-Set α,Dante α,Dante α,Dantego α,Данте α,단테α,但丁α,دانتي α
+Lunastra α,エンプレスα,Imperatrix α,Imperatrice α,Kaiserin-Set α,Lunastra α,Lunastra α,Lunastry α,Лунастра α,엠프리스α,皇后α,لوناسترا α
+Lunastra β,エンプレスβ,Imperatrix β,Imperatrice β,Kaiserin-Set β,Lunastra β,Lunastra β,Lunastry β,Лунастра β,엠프리스β,皇后β,لوناسترا β
+Harvest α,ハーベストα,Récolte α,Raccolto α,Ernte-Set α,Cosecha α,Safra α,Zbiorów α,Урожай α,하베스트α,收穫α,الحصاد α
+Orion α,オリオンα,Orion α,Orione α,Orion-Set α,Orión α,Órion α,Oriona α,Орион α,오리온α,獵戶星α,أوريون α
+Gala Suit α,フルドレスα,Gala α,Gran galà α,Galaanzug-Set α,Traje de gala α,Traje de Gala α,Strój galowy α,Костюм гала-концерта α,풀드레스α,盛裝α,بذلة المهرجان α
+Vaal Hazak γ,ウルズγ,Vaal Hazak γ,Vaal Hazak γ,Vaal-Hazak-Set γ,Vaal Hazak γ,Vaal Hazak γ,Vaal Hazaka γ,Ваал-хазак γ,우르즈γ,烏爾德γ,فال هازاك γ
+Drachen α,ドラケンα,Drachen α,Drachen α,Drachenreiter-Set α,Drachen α,Drachen α,Dragoński α,Дракен α,용기사α,騰龍α,دراكين α
 Sealed Eyepatch α,封印の眼帯α,Cache-œil interdit α,Benda nera α,Dichte Augenklappe α,Parche de ojo α,Tapa-olho Selado α,Zapieczętowana opaska α,Повязка с печатью α,봉인의 안대α,封印的眼罩α,رقعة عين مذهلة α
 Shadow Shades α,シャドウアイα,Lunettes teintées α,Occhiali del buio α,Schatten-Sonnenbrille α,Gafas oscuras α,Ócul. Esc. Sombrios α,Okulary cienia α,Теневые очки α,섀도우아이α,墨鏡α,ألوان ظلال α
 Kulu-Ya-Ku Head α,クルルフェイクα,Tête Kulu-Ya-Ku α,Testa di Kulu-Ya-Ku α,Kulu-Ya-Ku-Kopf α,Cabeza Kulu-Ya-Ku α,Elmo Kulu-Ya-Ku α,Głowa Kulu-Ya-Ku α,Голова кулу-йа-ку α,쿠루루페이크α,扒手龍頭套α,رأس كولو-يا-كو α
