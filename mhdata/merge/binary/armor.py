@@ -8,6 +8,8 @@ from .items import add_missing_items
 
 from mhdata import cfg
 
+from . import artifacts
+
 # Index based gender restriction
 gender_list = [None, 'male', 'female', 'both']
 
@@ -28,6 +30,9 @@ def update_armor():
     mhdata = load_data()
     print("Existing Data loaded. Using existing armorset data to drive new armor data.")
     
+    print("Writing list of armorset names (in order) to artifacts")
+    artifacts.write_names_artifact('setnames.txt', [s.name['en'] for s in armor_series.values()])
+
     # Will store results. Language lookup and validation will be in english
     new_armorset_map = DataMap(languages="en", start_id=mhdata.armorset_map.max_id+1)
     new_armor_map = DataMap(languages="en", start_id=mhdata.armor_map.max_id+1)

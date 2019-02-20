@@ -336,6 +336,12 @@ class ArmorData:
             'head', 'chest', 'arms', 'waist', 'legs', 'charm'
         ][self.binary.equip_slot]
 
+    @property
+    def rank(self):
+        # TODO: Once Iceborne releases, handle master rank
+        # current variants are lowrank/alpha/beta+gamma
+        return 'LR' if self.binary.variant == 0 else 'HR'
+
 class ArmorSetData:
     def __init__(self, name, armors: Iterable[ArmorData]):
         self.name = name
@@ -346,6 +352,17 @@ class ArmorSetData:
     
     def get_part(self, partname):
         return self._armor_by_part.get(partname, None)
+
+    @property
+    def rank(self):
+        return self.armors[0].rank
+
+    @property
+    def rank_order(self):
+        if self.rank == 'LR':
+            return 0
+        else:
+            return 1
         
 def load_armor_series():
     # Loaded armor text and armor series information
@@ -394,7 +411,7 @@ def load_armor_series():
 
         armor_sets.append(set_data)
 
-    armor_sets.sort(key=lambda a: a.order)
+    armor_sets.sort(key=lambda a: (a.rank_order, a.order))
 
     return { aset.name['en']:aset for aset in armor_sets }
     
