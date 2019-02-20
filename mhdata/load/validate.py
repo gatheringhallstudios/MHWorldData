@@ -169,7 +169,6 @@ def validate_armor(mhdata):
     # Validate armorsets
     for setentry in mhdata.armorset_map.values():
         setname = setentry.name('en')
-        armor_lang = setentry['armor_lang']
 
         monster_name = setentry['monster']
         if monster_name and not monster_name in mhdata.monster_map.names('en'):
@@ -183,7 +182,7 @@ def validate_armor(mhdata):
             print(f"Warning: {setname} has no armor entries")
 
         for armor_name in armor_names:
-            armor_id = mhdata.armor_map.id_of(armor_lang, armor_name)
+            armor_id = mhdata.armor_map.id_of('en', armor_name)
             
             if not armor_id:
                 errors.append(f"Armorset {setname} has invalid armor {armor_name}")

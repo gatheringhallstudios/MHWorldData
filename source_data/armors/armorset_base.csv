@@ -1,169 +1,169 @@
-name_en,armor_lang,rank,monster,head,chest,arms,waist,legs,bonus
-Leather,en,LR,,Leather Headgear,Leather Mail,Leather Gloves,Leather Belt,Leather Trousers,
-Chainmail,en,LR,,Chainmail Headgear,Chainmail Vest,Chainmail Gloves,Chainmail Belt,Chainmail Trousers,
-Hunter's,en,LR,,Hunter's Headgear,Hunter's Mail,Hunter's Vambraces,Hunter's Coil,Hunter's Greaves,
-Bone,en,LR,,Bone Helm,Bone Mail,Bone Vambraces,Bone Coil,Bone Greaves,
-Vespoid,en,LR,Vespoid,Vespoid Helm,Vespoid Mail,Vespoid Vambraces,Vespoid Coil,Vespoid Greaves,
-Kestodon,en,LR,Kestodon,,,Kestodon Guards,,,
-Gajau,en,LR,,,,,,Gajau Boots,
-Jagras,en,LR,Great Jagras,Jagras Helm,Jagras Mail,Jagras Vambraces,Jagras Coil,Jagras Greaves,
-Kulu,en,LR,Kulu-Ya-Ku,Kulu Headpiece,Kulu Mail,Kulu Vambraces,Kulu Coil,Kulu Greaves,
-Alloy,en,LR,,Alloy Helm,Alloy Mail,Alloy Vambraces,Alloy Coil,Alloy Greaves,
-Pukei,en,LR,Pukei-Pukei,Pukei Hood,Pukei Mail,Pukei Vambraces,Pukei Coil,Pukei Greaves,
-Barroth,en,LR,Barroth,Barroth Helm,Barroth Mail,Barroth Vambraces,Barroth Coil,Barroth Greaves,
-Jyura,en,LR,Jyuratodus,Jyura Helm,Jyura Mail,Jyura Vambraces,Jyura Coil,Jyura Greaves,
-Kadachi,en,LR,Tobi-Kadachi,Kadachi Helm,Kadachi Mail,Kadachi Vambraces,Kadachi Coil,Kadachi Greaves,
-High Metal,en,LR,,High Metal Helm,High Metal Mail,High Metal Braces,High Metal Coil,High Metal Greaves,
-King Beetle,en,LR,,King Beetle Vertex,King Beetle Thorax,King Beetle Brachia,King Beetle Elytra,King Beetle Crura,
-Shamos,en,LR,Shamos,Shamos Goggles,,,,,
-Hornetaur,en,LR,Hornetaur,Hornetaur Helm,Hornetaur Mail,Hornetaur Vambraces,Hornetaur Coil,Hornetaur Greaves,
-Anja,en,LR,Anjanath,Anja Helm,Anja Mail,Anja Vambraces,Anja Coil,Anja Greaves,Anjanath Power
-Rathian,en,LR,Rathian,Rathian Helm,Rathian Mail,Rathian Vambraces,Rathian Coil,Rathian Greaves,
-Tzitzi,en,LR,Tzitzi-Ya-Ku,Tzitzi Headgear,Tzitzi Mail,Tzitzi Vambraces,Tzitzi Coil,Tzitzi Greaves,
-Lumu,en,LR,Paolumu,Lumu Hat,Lumu Mail,Lumu Vambraces,Lumu Coil,Lumu Greaves,
-Girros,en,LR,Great Girros,Girros Mask,Girros Mail,Girros Vambraces,Girros Coil,Girros Greaves,
-Baan,en,LR,Radobaan,Baan Helm,Baan Mail,Baan Vambraces,Baan Coil,Baan Greaves,
-Ingot,en,LR,,Ingot Helm,Ingot Mail,Ingot Vambraces,Ingot Coil,Ingot Greaves,
-Death Stench,en,LR,,Death Stench Brain,Death Stench Muscle,Death Stench Grip,Death Stench Bowels,Death Stench Heel,
-Brigade,en,LR,,Brigade Lobos,Brigade Suit,Brigade Vambraces,Brigade Coil,Brigade Boots,
-Legiana,en,LR,Legiana,Legiana Helm,Legiana Mail,Legiana Vambraces,Legiana Coil,Legiana Greaves,Legiana Blessing
-Odogaron,en,LR,Odogaron,Odogaron Helm,Odogaron Mail,Odogaron Vambraces,Odogaron Coil,Odogaron Greaves,Odogaron Power
-Rathalos,en,LR,Rathalos,Rathalos Helm,Rathalos Mail,Rathalos Vambraces,Rathalos Coil,Rathalos Greaves,Rathalos Power
-Diablos,en,LR,Diablos,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,Diablos Greaves,Diablos Power
-Kirin,en,LR,Kirin,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,Kirin Blessing
-Blossom,en,LR,,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
-Diver,en,LR,,Diver's Mask,Diver's Suit,Diver's Braces,Diver's Belt,Diver's Boots,
-Harvest,en,LR,,Harvest Flor,Harvest Tronco,Harvest Trama,Harvest Hoja,Harvest Raiz,
-Orion,en,LR,,Orion Cap,Orion Vest,Orion Vambraces,Orion Coat,Orion Boots,
-Gala Suit,en,LR,,Gala Suit Top Hat,Gala Suit Jacket,Gala Suit Cuffs,Gala Suit Tail,Gala Suit Slacks,Astera Blessing
-Butterfly,en,LR,,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
-Leather α,en,HR,,Leather Headgear α,Leather Mail α,Leather Gloves α,Leather Belt α,Leather Trousers α,
-Leather β,en,HR,,Leather Headgear β,Leather Mail β,Leather Gloves β,Leather Belt β,Leather Trousers β,
-Chainmail α,en,HR,,Chainmail Headgear α,Chainmail Armor α,Chainmail Gloves α,Chainmail Belt α,Chainmail Trousers α,
-Chainmail β,en,HR,,Chainmail Headgear β,Chainmail Armor β,Chainmail Gloves β,Chainmail Belt β,Chainmail Trousers β,
-Hunter's α,en,HR,,Hunter's Headgear α,Hunter's Mail α,Hunter's Vambraces α,Hunter's Coil α,Hunter's Greaves α,
-Hunter's β,en,HR,,Hunter's Headgear β,Hunter's Mail β,Hunter's Vambraces β,Hunter's Coil β,Hunter's Greaves β,
-Bone α,en,HR,,Bone Helm α,Bone Mail α,Bone Vambraces α,Bone Coil α,Bone Greaves α,
-Bone β,en,HR,,Bone Helm β,Bone Mail β,Bone Vambraces β,Bone Coil β,Bone Greaves β,
-Alloy α,en,HR,,Alloy Helm α,Alloy Mail α,Alloy Vambraces α,Alloy Coil α,Alloy Greaves α,
-Alloy β,en,HR,,Alloy Helm β,Alloy Mail β,Alloy Vambraces β,Alloy Coil β,Alloy Greaves β,
-King Beetle α,en,HR,,King Beetle Vertex α,King Beetle Thorax α,King Beetle Brachia α,King Beetle Elytra α,King Beetle Crura α,
-King Beetle β,en,HR,,King Beetle Vertex β,King Beetle Thorax β,King Beetle Brachia β,King Beetle Elytra β,King Beetle Crura β,
-Vespoid α,en,HR,Vespoid,Vespoid Helm α,Vespoid Mail α,Vespoid Vambraces α,Vespoid Coil α,Vespoid Greaves α,
-Vespoid β,en,HR,Vespoid,Vespoid Helm β,Vespoid Mail β,Vespoid Vambraces β,Vespoid Coil β,Vespoid Greaves β,
-Hornetaur α,en,HR,Hornetaur,Hornetaur Helm α,Hornetaur Mail α,Hornetaur Vambraces α,Hornetaur Coil α,Hornetaur Greaves α,
-Hornetaur β,en,HR,Hornetaur,Hornetaur Helm β,Hornetaur Mail β,Hornetaur Vambraces β,Hornetaur Coil β,Hornetaur Greaves β,
-Mosswine Mask α,en,HR,,Mosswine Mask α,,,,,
-Kestodon α,en,HR,Kestodon,,,Kestodon Guards α,,,
-Kestodon β,en,HR,Kestodon,,,Kestodon Guards β,,,
-Gajau α,en,HR,Gajau,,,,,Gajau Boots α,
-Gajau β,en,HR,Gajau,,,,,Gajau Boots β,
-Shamos α,en,HR,Shamos,Shamos Goggles α,,,,,
-Shamos β,en,HR,Shamos,Shamos Goggles β,,,,,
-Jagras α,en,HR,Great Jagras,Jagras Helm α,Jagras Mail α,Jagras Vambraces α,Jagras Coil α,Jagras Greaves α,
-Jagras β,en,HR,Great Jagras,Jagras Helm β,Jagras Mail β,Jagras Vambraces β,Jagras Coil β,Jagras Greaves β,
-Kulu α,en,HR,Kulu-Ya-Ku,Kulu Headpiece α,Kulu Mail α,Kulu Vambraces α,Kulu Coil α,Kulu Greaves α,
-Kulu β,en,HR,Kulu-Ya-Ku,Kulu Headpiece β,Kulu Mail β,Kulu Vambraces β,Kulu Coil β,Kulu Greaves β,
-Tzitzi α,en,HR,Tzitzi-Ya-Ku,Tzitzi Headgear α,Tzitzi Mail α,Tzitzi Vambraces α,Tzitzi Coil α,Tzitzi Greaves α,
-Tzitzi β,en,HR,Tzitzi-Ya-Ku,Tzitzi Headgear β,Tzitzi Mail β,Tzitzi Vambraces β,Tzitzi Coil β,Tzitzi Greaves β,
-Girros α,en,HR,Great Girros,Girros Mask α,Girros Mail α,Girros Vambraces α,Girros Coil α,Girros Greaves α,
-Girros β,en,HR,Great Girros,Girros Mask β,Girros Mail β,Girros Vambraces β,Girros Coil β,Girros Greaves β,
-Pukei α,en,HR,Pukei-Pukei,Pukei Hood α,Pukei Mail α,Pukei Vambraces α,Pukei Coil α,Pukei Greaves α,
-Pukei β,en,HR,Pukei-Pukei,Pukei Hood β,Pukei Mail β,Pukei Vambraces β,Pukei Coil β,Pukei Greaves β,
-Barroth α,en,HR,Barroth,Barroth Helm α,Barroth Mail α,Barroth Vambraces α,Barroth Coil α,Barroth Greaves α,
-Barroth β,en,HR,Barroth,Barroth Helm β,Barroth Mail β,Barroth Vambraces β,Barroth Coil β,Barroth Greaves β,
-Anja α,en,HR,Anjanath,Anja Helm α,Anja Mail α,Anja Vambraces α,Anja Coil α,Anja Greaves α,Anjanath Will
-Anja β,en,HR,Anjanath,Anja Helm β,Anja Mail β,Anja Vambraces β,Anja Coil β,Anja Greaves β,Anjanath Will
-Jyura α,en,HR,Jyuratodus,Jyura Helm α,Jyura Mail α,Jyura Vambraces α,Jyura Coil α,Jyura Greaves α,
-Jyura β,en,HR,Jyuratodus,Jyura Helm β,Jyura Mail β,Jyura Vambraces β,Jyura Coil β,Jyura Greaves β,
-Kadachi α,en,HR,Tobi-Kadachi,Kadachi Helm α,Kadachi Mail α,Kadachi Vambraces α,Kadachi Coil α,Kadachi Greaves α,
-Kadachi β,en,HR,Tobi-Kadachi,Kadachi Helm β,Kadachi Mail β,Kadachi Vambraces β,Kadachi Coil β,Kadachi Greaves β,
-Lumu α,en,HR,Paolumu,Lumu Hat α,Lumu Mail α,Lumu Vambraces α,Lumu Coil α,Lumu Greaves α,
-Lumu β,en,HR,Paolumu,Lumu Hat β,Lumu Mail β,Lumu Vambraces β,Lumu Coil β,Lumu Greaves β,
-Rathian α,en,HR,Rathian,Rathian Helm α,Rathian Mail α,Rathian Vambraces α,Rathian Coil α,Rathian Greaves α,
-Rathian β,en,HR,Rathian,Rathian Helm β,Rathian Mail β,Rathian Vambraces β,Rathian Coil β,Rathian Greaves β,
-Rath Heart α,en,HR,Pink Rathian,Rath Heart Helm α,Rath Heart Mail α,Rath Heart Braces α,Rath Heart Coil α,Rath Heart Greaves α,Pink Rathian Mastery
-Rath Heart β,en,HR,Pink Rathian,Rath Heart Helm β,Rath Heart Mail β,Rath Heart Braces β,Rath Heart Coil β,Rath Heart Greaves β,Pink Rathian Mastery
-Baan α,en,HR,Radobaan,Baan Helm α,Baan Mail α,Baan Vambraces α,Baan Coil α,Baan Greaves α,
-Baan β,en,HR,Radobaan,Baan Helm β,Baan Mail β,Baan Vambraces β,Baan Coil β,Baan Greaves β,
-Gastodon α,en,HR,Gastodon,Gastodon Horn α,,,,,
-Gastodon β,en,HR,Gastodon,Gastodon Horn β,,,,,
-Barnos α,en,HR,Barnos,,Barnos Jacket α,,,,
-Barnos β,en,HR,Barnos,,Barnos Jacket β,,,,
-Dodogama α,en,HR,Dodogama,Dodogama Helm α,Dodogama Mail α,Dodogama Vambraces α,Dodogama Coil α,Dodogama Greaves α,
-Dodogama β,en,HR,Dodogama,Dodogama Helm β,Dodogama Mail β,Dodogama Vambraces β,Dodogama Coil β,Dodogama Greaves β,
-Zorah α,en,HR,Zorah Magdaros,Zorah Headgear α,Zorah Hide α,Zorah Claws α,Zorah Spine α,Zorah Spurs α,Zorah Magdaros Mastery
-Zorah β,en,HR,Zorah Magdaros,Zorah Headgear β,Zorah Hide β,Zorah Claws β,Zorah Spine β,Zorah Spurs β,Zorah Magdaros Mastery
-High Metal α,en,HR,,High Metal Helm α,High Metal Mail α,High Metal Braces α,High Metal Coil α,High Metal Greaves α,
-High Metal β,en,HR,,High Metal Helm β,High Metal Mail β,High Metal Braces β,High Metal Coil β,High Metal Greaves β,
-Ingot α,en,HR,,Ingot Helm α,Ingot Mail α,Ingot Vambraces α,Ingot Coil α,Ingot Greaves α,
-Ingot β,en,HR,,Ingot Helm β,Ingot Mail β,Ingot Vambraces β,Ingot Coil β,Ingot Greaves β,
-Brigade α,en,HR,,Brigade Lobos α,Brigade Suit α,Brigade Vambraces α,Brigade Coil α,Brigade Boots α,
-Brigade β,en,HR,,Brigade Lobos β,Brigade Suit β,Brigade Vambraces β,Brigade Coil β,Brigade Boots β,
-Faux Felyne α,en,HR,,Faux Felyne α,,,,,
-Strategist α,en,HR,,Strategist Spectacles α,,,,,
-Lavasioth α,en,HR,Lavasioth,Lavasioth Helm α,Lavasioth Mail α,Lavasioth Vambraces α,Lavasioth Coil α,Lavasioth Greaves α,
-Lavasioth β,en,HR,Lavasioth,Lavasioth Helm β,Lavasioth Mail β,Lavasioth Vambraces β,Lavasioth Coil β,Lavasioth Greaves β,
-Legiana α,en,HR,Legiana,Legiana Helm α,Legiana Mail α,Legiana Vambraces α,Legiana Coil α,Legiana Greaves α,Legiana Favor
-Legiana β,en,HR,Legiana,Legiana Helm β,Legiana Mail β,Legiana Vambraces β,Legiana Coil β,Legiana Greaves β,Legiana Favor
-Odogaron α,en,HR,Odogaron,Odogaron Helm α,Odogaron Mail α,Odogaron Vambraces α,Odogaron Coil α,Odogaron Greaves α,Odogaron Mastery
-Odogaron β,en,HR,Odogaron,Odogaron Helm β,Odogaron Mail β,Odogaron Vambraces β,Odogaron Coil β,Odogaron Greaves β,Odogaron Mastery
-Rathalos α,en,HR,Rathalos,Rathalos Helm α,Rathalos Mail α,Rathalos Vambraces α,Rathalos Coil α,Rathalos Greaves α,Rathalos Mastery
-Rathalos β,en,HR,Rathalos,Rathalos Helm β,Rathalos Mail β,Rathalos Vambraces β,Rathalos Coil β,Rathalos Greaves β,Rathalos Mastery
-Rath Soul α,en,HR,Azure Rathalos,Rath Soul Helm α,Rath Soul Mail α,Rath Soul Braces α,Rath Soul Coil α,Rath Soul Greaves α,Rathalos Mastery
-Rath Soul β,en,HR,Azure Rathalos,Rath Soul Helm β,Rath Soul Mail β,Rath Soul Braces β,Rath Soul Coil β,Rath Soul Greaves β,Rathalos Mastery
-Diablos α,en,HR,Diablos,Diablos Helm α,Diablos Mail α,Diablos Vambraces α,Diablos Coil α,Diablos Greaves α,Diablos Mastery
-Diablos β,en,HR,Diablos,Diablos Helm β,Diablos Mail β,Diablos Vambraces β,Diablos Coil β,Diablos Greaves β,Diablos Mastery
-Diablos Nero α,en,HR,Black Diablos,Diablos Nero Helm α,Diablos Nero Mail α,Diablos Nero Braces α,Diablos Nero Coil α,Diablos Nero Greaves α,Diablos Mastery
-Diablos Nero β,en,HR,Black Diablos,Diablos Nero Helm β,Diablos Nero Mail β,Diablos Nero Braces β,Diablos Nero Coil β,Diablos Nero Greaves β,Diablos Mastery
-Uragaan α,en,HR,Uragaan,Uragaan Helm α,Uragaan Mail α,Uragaan Vambraces α,Uragaan Coil α,Uragaan Greaves α,Uragaan Protection
-Uragaan β,en,HR,Uragaan,Uragaan Helm β,Uragaan Mail β,Uragaan Vambraces β,Uragaan Coil β,Uragaan Greaves β,Uragaan Protection
-Bazel α,en,HR,Bazelgeuse,Bazel Helm α,Bazel Mail α,Bazel Vambraces α,Bazel Coil α,Bazel Greaves α,Bazelgeuse Protection
-Bazel β,en,HR,Bazelgeuse,Bazel Helm β,Bazel Mail β,Bazel Vambraces β,Bazel Coil β,Bazel Greaves β,Bazelgeuse Protection
-Damascus α,en,HR,,Damascus Helm α,Damascus Mail α,Damascus Vambraces α,Damascus Coil α,Damascus Greaves α,
-Damascus β,en,HR,,Damascus Helm β,Damascus Mail β,Damascus Vambraces β,Damascus Coil β,Damascus Greaves β,
-Dober α,en,HR,,Dober Helm α,Dober Mail α,Dober Vambraces α,Dober Coil α,Dober Greaves α,
-Dober β,en,HR,,Dober Helm β,Dober Mail β,Dober Vambraces β,Dober Coil β,Dober Greaves β,
-Death Stench α,en,HR,,Death Stench Brain α,Death Stench Muscle α,Death Stench Grip α,Death Stench Bowels α,Death Stench Heel α,
-Death Stench β,en,HR,,Death Stench Brain β,Death Stench Muscle β,Death Stench Grip β,Death Stench Bowels β,Death Stench Heel β,
-Skull α,en,HR,,Skull Mask α,,,,,
-Nergigante α,en,HR,Nergigante,Nergigante Helm α,Nergigante Mail α,Nergigante Vambraces α,Nergigante Coil α,Nergigante Greaves α,Nergigante Hunger
-Nergigante β,en,HR,Nergigante,Nergigante Helm β,Nergigante Mail β,Nergigante Vambraces β,Nergigante Coil β,Nergigante Greaves β,Nergigante Hunger
-Teostra α,en,HR,Teostra,Kaiser Crown α,Kaiser Mail α,Kaiser Vambraces α,Kaiser Coil α,Kaiser Greaves α,Teostra Technique
-Teostra β,en,HR,Teostra,Kaiser Crown β,Kaiser Mail β,Kaiser Vambraces β,Kaiser Coil β,Kaiser Greaves β,Teostra Technique
-Kushala α,en,HR,Kushala Daora,Kushala Glare α,Kushala Cista α,Kushala Grip α,Kushala Cocoon α,Kushala Crus α,Kushala Daora Flight
-Kushala β,en,HR,Kushala Daora,Kushala Glare β,Kushala Cista β,Kushala Grip β,Kushala Cocoon β,Kushala Crus β,Kushala Daora Flight
-Vaal Hazak α,en,HR,Vaal Hazak,Vaal Hazak Helm α,Vaal Hazak Mail α,Vaal Hazak Braces α,Vaal Hazak Coil α,Vaal Hazak Greaves α,Vaal Hazak Vitality
-Vaal Hazak β,en,HR,Vaal Hazak,Vaal Hazak Helm β,Vaal Hazak Mail β,Vaal Hazak Braces β,Vaal Hazak Coil β,Vaal Hazak Greaves β,Vaal Hazak Vitality
-Kirin α,en,HR,Kirin,Kirin Horn α,Kirin Jacket α,Kirin Longarms α,Kirin Hoop α,Kirin Leg Guards α,Kirin Favor
-Kirin β,en,HR,Kirin,Kirin Horn β,Kirin Jacket β,Kirin Longarms β,Kirin Hoop β,Kirin Leg Guards β,Kirin Favor
-Xeno'jiiva α,en,HR,Xeno'jiiva,Xeno'jiiva Headgear α,Xeno'jiiva Hide α,Xeno'jiiva Claws α,Xeno'jiiva Spine α,Xeno'jiiva Spurs α,Xeno'jiiva Divinity
-Xeno'jiiva β,en,HR,Xeno'jiiva,Xeno'jiiva Headgear β,Xeno'jiiva Hide β,Xeno'jiiva Claws β,Xeno'jiiva Spine β,Xeno'jiiva Spurs β,Xeno'jiiva Divinity
-Guild Cross α,en,HR,,Guild Cross Circlet α,Guild Cross Suit α,Guild Cross Vambraces α,Guild Cross Coil α,Guild Cross Boots α,Guild Guidance
-Guild Cross β,en,HR,,Guild Cross Circlet β,Guild Cross Suit β,Guild Cross Vambraces β,Guild Cross Coil β,Guild Cross Boots β,Guild Guidance
-Dragonking α,en,HR,,Dragonking Eyepatch α,,,,,
-Commission α,en,HR,,Commission Gorget α,Commission Jacket α,Commission Vambraces α,Commission Belt α,Commission Pants α,Commission Guidance
-Commission β,en,HR,,Commission Gorget β,Commission Jacket β,Commission Vambraces β,Commission Belt β,Commission Pants β,Commission Guidance
-Deviljho α,en,HR,Deviljho,Vangis Helm α,Vangis Mail α,Vangis Vambraces α,Vangis Coil α,Vangis Greaves α,
-Deviljho β,en,HR,Deviljho,Vangis Helm β,Vangis Mail β,Vangis Vambraces β,Vangis Coil β,Vangis Greaves β,
-Kulve Taroth α,en,HR,Kulve Taroth,Kulve Taroth's Fury α,Kulve Taroth's Ire α,Kulve Taroth's Rage α,Kulve Taroth's Malice α,Kulve Taroth's Wrath α,
-Kulve Taroth β,en,HR,Kulve Taroth,Kulve Taroth's Fury β,Kulve Taroth's Ire β,Kulve Taroth's Rage β,Kulve Taroth's Malice β,Kulve Taroth's Wrath β,
-Lunastra α,en,HR,Lunastra,Empress Crown α,Empress Mail α,Empress Vambraces α,Empress Coil α,Empress Greaves α,Lunastra Favor
-Lunastra β,en,HR,Lunastra,Empress Crown β,Empress Mail β,Empress Vambraces β,Empress Coil β,Empress Greaves β,Lunastra Favor
-Blossom α,en,HR,,Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α,
-Diver α,en,HR,,Diver's Mask α,Diver's Suit α,Diver's Braces α,Diver's Belt α,Diver's Boots α,
-Harvest α,en,HR,,Harvest Flor α,Harvest Tronco α,Harvest Trama α,Harvest Hoja α,Harvest Raiz α,
-Orion α,en,HR,,Orion Cap α,Orion Vest α,Orion Vambraces α,Orion Coat α,Orion Boots α,
-Gala Suit α,en,HR,,Gala Suit Top Hat α,Gala Suit Jacket α,Gala Suit Cuffs α,Gala Suit Tail α,Gala Suit Slacks α,Astera Blessing
-Butterfly α,en,HR,,Butterfly Vertex α,Butterfly Thorax α,Butterfly Brachia α,Butterfly Elytra α,Butterfly Crura α,
-Butterfly β,en,HR,,Butterfly Vertex β,Butterfly Thorax β,Butterfly Brachia β,Butterfly Elytra β,Butterfly Crura β,
-Vaal Hazak γ,en,HR,Vaal Hazak,Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ,Vaal Hazak Vitality
-Kirin γ,en,HR,Kirin,Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ,Kirin Favor
-Teostra γ,en,HR,Teostra,Kaiser Crown γ,Kaiser Mail γ,Kaiser Vambraces γ,Kaiser Coil γ,Kaiser Greaves γ,Teostra Technique
-Azure Starlord α,en,HR,Azure Rathalos,Azure Starlord Crown α,Azure Starlord Armor α,Azure Starlord Gauntlets α,Azure Starlord Tassets α,Azure Starlord Guards α,Rathalos Mastery
-Dante α,en,HR,,Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α,
-Drachen α,en,HR,Behemoth,Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α,Soul of the Dragoon
-Sealed Eyepatch α,en,HR,,Sealed Eyepatch α,,,,,
-Shadow Shades α,en,HR,,Shadow Shades α,,,,,
-Kulu-Ya-Ku Head α,en,HR,Kulu-Ya-Ku,Kulu-Ya-Ku Head α,,,,,
-Wiggler Head α,en,HR,,Wiggler Head α,,,,,
+name_en,rank,monster,head,chest,arms,waist,legs,bonus
+Leather,LR,,Leather Headgear,Leather Mail,Leather Gloves,Leather Belt,Leather Trousers,
+Chainmail,LR,,Chainmail Headgear,Chainmail Vest,Chainmail Gloves,Chainmail Belt,Chainmail Trousers,
+Hunter's,LR,,Hunter's Headgear,Hunter's Mail,Hunter's Vambraces,Hunter's Coil,Hunter's Greaves,
+Bone,LR,,Bone Helm,Bone Mail,Bone Vambraces,Bone Coil,Bone Greaves,
+Vespoid,LR,Vespoid,Vespoid Helm,Vespoid Mail,Vespoid Vambraces,Vespoid Coil,Vespoid Greaves,
+Kestodon,LR,Kestodon,,,Kestodon Guards,,,
+Gajau,LR,,,,,,Gajau Boots,
+Jagras,LR,Great Jagras,Jagras Helm,Jagras Mail,Jagras Vambraces,Jagras Coil,Jagras Greaves,
+Kulu,LR,Kulu-Ya-Ku,Kulu Headpiece,Kulu Mail,Kulu Vambraces,Kulu Coil,Kulu Greaves,
+Alloy,LR,,Alloy Helm,Alloy Mail,Alloy Vambraces,Alloy Coil,Alloy Greaves,
+Pukei,LR,Pukei-Pukei,Pukei Hood,Pukei Mail,Pukei Vambraces,Pukei Coil,Pukei Greaves,
+Barroth,LR,Barroth,Barroth Helm,Barroth Mail,Barroth Vambraces,Barroth Coil,Barroth Greaves,
+Jyura,LR,Jyuratodus,Jyura Helm,Jyura Mail,Jyura Vambraces,Jyura Coil,Jyura Greaves,
+Kadachi,LR,Tobi-Kadachi,Kadachi Helm,Kadachi Mail,Kadachi Vambraces,Kadachi Coil,Kadachi Greaves,
+High Metal,LR,,High Metal Helm,High Metal Mail,High Metal Braces,High Metal Coil,High Metal Greaves,
+King Beetle,LR,,King Beetle Vertex,King Beetle Thorax,King Beetle Brachia,King Beetle Elytra,King Beetle Crura,
+Shamos,LR,Shamos,Shamos Goggles,,,,,
+Hornetaur,LR,Hornetaur,Hornetaur Helm,Hornetaur Mail,Hornetaur Vambraces,Hornetaur Coil,Hornetaur Greaves,
+Anja,LR,Anjanath,Anja Helm,Anja Mail,Anja Vambraces,Anja Coil,Anja Greaves,Anjanath Power
+Rathian,LR,Rathian,Rathian Helm,Rathian Mail,Rathian Vambraces,Rathian Coil,Rathian Greaves,
+Tzitzi,LR,Tzitzi-Ya-Ku,Tzitzi Headgear,Tzitzi Mail,Tzitzi Vambraces,Tzitzi Coil,Tzitzi Greaves,
+Lumu,LR,Paolumu,Lumu Hat,Lumu Mail,Lumu Vambraces,Lumu Coil,Lumu Greaves,
+Girros,LR,Great Girros,Girros Mask,Girros Mail,Girros Vambraces,Girros Coil,Girros Greaves,
+Baan,LR,Radobaan,Baan Helm,Baan Mail,Baan Vambraces,Baan Coil,Baan Greaves,
+Ingot,LR,,Ingot Helm,Ingot Mail,Ingot Vambraces,Ingot Coil,Ingot Greaves,
+Death Stench,LR,,Death Stench Brain,Death Stench Muscle,Death Stench Grip,Death Stench Bowels,Death Stench Heel,
+Brigade,LR,,Brigade Lobos,Brigade Suit,Brigade Vambraces,Brigade Coil,Brigade Boots,
+Legiana,LR,Legiana,Legiana Helm,Legiana Mail,Legiana Vambraces,Legiana Coil,Legiana Greaves,Legiana Blessing
+Odogaron,LR,Odogaron,Odogaron Helm,Odogaron Mail,Odogaron Vambraces,Odogaron Coil,Odogaron Greaves,Odogaron Power
+Rathalos,LR,Rathalos,Rathalos Helm,Rathalos Mail,Rathalos Vambraces,Rathalos Coil,Rathalos Greaves,Rathalos Power
+Diablos,LR,Diablos,Diablos Helm,Diablos Mail,Diablos Vambraces,Diablos Coil,Diablos Greaves,Diablos Power
+Kirin,LR,Kirin,Kirin Horn,Kirin Jacket,Kirin Longarms,Kirin Hoop,Kirin Leg Guards,Kirin Blessing
+Blossom,LR,,Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots,
+Diver,LR,,Diver's Mask,Diver's Suit,Diver's Braces,Diver's Belt,Diver's Boots,
+Harvest,LR,,Harvest Flor,Harvest Tronco,Harvest Trama,Harvest Hoja,Harvest Raiz,
+Orion,LR,,Orion Cap,Orion Vest,Orion Vambraces,Orion Coat,Orion Boots,
+Gala Suit,LR,,Gala Suit Top Hat,Gala Suit Jacket,Gala Suit Cuffs,Gala Suit Tail,Gala Suit Slacks,Astera Blessing
+Butterfly,LR,,Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura,
+Leather α,HR,,Leather Headgear α,Leather Mail α,Leather Gloves α,Leather Belt α,Leather Trousers α,
+Leather β,HR,,Leather Headgear β,Leather Mail β,Leather Gloves β,Leather Belt β,Leather Trousers β,
+Chainmail α,HR,,Chainmail Headgear α,Chainmail Armor α,Chainmail Gloves α,Chainmail Belt α,Chainmail Trousers α,
+Chainmail β,HR,,Chainmail Headgear β,Chainmail Armor β,Chainmail Gloves β,Chainmail Belt β,Chainmail Trousers β,
+Hunter's α,HR,,Hunter's Headgear α,Hunter's Mail α,Hunter's Vambraces α,Hunter's Coil α,Hunter's Greaves α,
+Hunter's β,HR,,Hunter's Headgear β,Hunter's Mail β,Hunter's Vambraces β,Hunter's Coil β,Hunter's Greaves β,
+Bone α,HR,,Bone Helm α,Bone Mail α,Bone Vambraces α,Bone Coil α,Bone Greaves α,
+Bone β,HR,,Bone Helm β,Bone Mail β,Bone Vambraces β,Bone Coil β,Bone Greaves β,
+Alloy α,HR,,Alloy Helm α,Alloy Mail α,Alloy Vambraces α,Alloy Coil α,Alloy Greaves α,
+Alloy β,HR,,Alloy Helm β,Alloy Mail β,Alloy Vambraces β,Alloy Coil β,Alloy Greaves β,
+King Beetle α,HR,,King Beetle Vertex α,King Beetle Thorax α,King Beetle Brachia α,King Beetle Elytra α,King Beetle Crura α,
+King Beetle β,HR,,King Beetle Vertex β,King Beetle Thorax β,King Beetle Brachia β,King Beetle Elytra β,King Beetle Crura β,
+Vespoid α,HR,Vespoid,Vespoid Helm α,Vespoid Mail α,Vespoid Vambraces α,Vespoid Coil α,Vespoid Greaves α,
+Vespoid β,HR,Vespoid,Vespoid Helm β,Vespoid Mail β,Vespoid Vambraces β,Vespoid Coil β,Vespoid Greaves β,
+Hornetaur α,HR,Hornetaur,Hornetaur Helm α,Hornetaur Mail α,Hornetaur Vambraces α,Hornetaur Coil α,Hornetaur Greaves α,
+Hornetaur β,HR,Hornetaur,Hornetaur Helm β,Hornetaur Mail β,Hornetaur Vambraces β,Hornetaur Coil β,Hornetaur Greaves β,
+Mosswine Mask α,HR,,Mosswine Mask α,,,,,
+Kestodon α,HR,Kestodon,,,Kestodon Guards α,,,
+Kestodon β,HR,Kestodon,,,Kestodon Guards β,,,
+Gajau α,HR,Gajau,,,,,Gajau Boots α,
+Gajau β,HR,Gajau,,,,,Gajau Boots β,
+Shamos α,HR,Shamos,Shamos Goggles α,,,,,
+Shamos β,HR,Shamos,Shamos Goggles β,,,,,
+Jagras α,HR,Great Jagras,Jagras Helm α,Jagras Mail α,Jagras Vambraces α,Jagras Coil α,Jagras Greaves α,
+Jagras β,HR,Great Jagras,Jagras Helm β,Jagras Mail β,Jagras Vambraces β,Jagras Coil β,Jagras Greaves β,
+Kulu α,HR,Kulu-Ya-Ku,Kulu Headpiece α,Kulu Mail α,Kulu Vambraces α,Kulu Coil α,Kulu Greaves α,
+Kulu β,HR,Kulu-Ya-Ku,Kulu Headpiece β,Kulu Mail β,Kulu Vambraces β,Kulu Coil β,Kulu Greaves β,
+Tzitzi α,HR,Tzitzi-Ya-Ku,Tzitzi Headgear α,Tzitzi Mail α,Tzitzi Vambraces α,Tzitzi Coil α,Tzitzi Greaves α,
+Tzitzi β,HR,Tzitzi-Ya-Ku,Tzitzi Headgear β,Tzitzi Mail β,Tzitzi Vambraces β,Tzitzi Coil β,Tzitzi Greaves β,
+Girros α,HR,Great Girros,Girros Mask α,Girros Mail α,Girros Vambraces α,Girros Coil α,Girros Greaves α,
+Girros β,HR,Great Girros,Girros Mask β,Girros Mail β,Girros Vambraces β,Girros Coil β,Girros Greaves β,
+Pukei α,HR,Pukei-Pukei,Pukei Hood α,Pukei Mail α,Pukei Vambraces α,Pukei Coil α,Pukei Greaves α,
+Pukei β,HR,Pukei-Pukei,Pukei Hood β,Pukei Mail β,Pukei Vambraces β,Pukei Coil β,Pukei Greaves β,
+Barroth α,HR,Barroth,Barroth Helm α,Barroth Mail α,Barroth Vambraces α,Barroth Coil α,Barroth Greaves α,
+Barroth β,HR,Barroth,Barroth Helm β,Barroth Mail β,Barroth Vambraces β,Barroth Coil β,Barroth Greaves β,
+Anja α,HR,Anjanath,Anja Helm α,Anja Mail α,Anja Vambraces α,Anja Coil α,Anja Greaves α,Anjanath Will
+Anja β,HR,Anjanath,Anja Helm β,Anja Mail β,Anja Vambraces β,Anja Coil β,Anja Greaves β,Anjanath Will
+Jyura α,HR,Jyuratodus,Jyura Helm α,Jyura Mail α,Jyura Vambraces α,Jyura Coil α,Jyura Greaves α,
+Jyura β,HR,Jyuratodus,Jyura Helm β,Jyura Mail β,Jyura Vambraces β,Jyura Coil β,Jyura Greaves β,
+Kadachi α,HR,Tobi-Kadachi,Kadachi Helm α,Kadachi Mail α,Kadachi Vambraces α,Kadachi Coil α,Kadachi Greaves α,
+Kadachi β,HR,Tobi-Kadachi,Kadachi Helm β,Kadachi Mail β,Kadachi Vambraces β,Kadachi Coil β,Kadachi Greaves β,
+Lumu α,HR,Paolumu,Lumu Hat α,Lumu Mail α,Lumu Vambraces α,Lumu Coil α,Lumu Greaves α,
+Lumu β,HR,Paolumu,Lumu Hat β,Lumu Mail β,Lumu Vambraces β,Lumu Coil β,Lumu Greaves β,
+Rathian α,HR,Rathian,Rathian Helm α,Rathian Mail α,Rathian Vambraces α,Rathian Coil α,Rathian Greaves α,
+Rathian β,HR,Rathian,Rathian Helm β,Rathian Mail β,Rathian Vambraces β,Rathian Coil β,Rathian Greaves β,
+Rath Heart α,HR,Pink Rathian,Rath Heart Helm α,Rath Heart Mail α,Rath Heart Braces α,Rath Heart Coil α,Rath Heart Greaves α,Pink Rathian Mastery
+Rath Heart β,HR,Pink Rathian,Rath Heart Helm β,Rath Heart Mail β,Rath Heart Braces β,Rath Heart Coil β,Rath Heart Greaves β,Pink Rathian Mastery
+Baan α,HR,Radobaan,Baan Helm α,Baan Mail α,Baan Vambraces α,Baan Coil α,Baan Greaves α,
+Baan β,HR,Radobaan,Baan Helm β,Baan Mail β,Baan Vambraces β,Baan Coil β,Baan Greaves β,
+Gastodon α,HR,Gastodon,Gastodon Horn α,,,,,
+Gastodon β,HR,Gastodon,Gastodon Horn β,,,,,
+Barnos α,HR,Barnos,,Barnos Jacket α,,,,
+Barnos β,HR,Barnos,,Barnos Jacket β,,,,
+Dodogama α,HR,Dodogama,Dodogama Helm α,Dodogama Mail α,Dodogama Vambraces α,Dodogama Coil α,Dodogama Greaves α,
+Dodogama β,HR,Dodogama,Dodogama Helm β,Dodogama Mail β,Dodogama Vambraces β,Dodogama Coil β,Dodogama Greaves β,
+Zorah α,HR,Zorah Magdaros,Zorah Headgear α,Zorah Hide α,Zorah Claws α,Zorah Spine α,Zorah Spurs α,Zorah Magdaros Mastery
+Zorah β,HR,Zorah Magdaros,Zorah Headgear β,Zorah Hide β,Zorah Claws β,Zorah Spine β,Zorah Spurs β,Zorah Magdaros Mastery
+High Metal α,HR,,High Metal Helm α,High Metal Mail α,High Metal Braces α,High Metal Coil α,High Metal Greaves α,
+High Metal β,HR,,High Metal Helm β,High Metal Mail β,High Metal Braces β,High Metal Coil β,High Metal Greaves β,
+Ingot α,HR,,Ingot Helm α,Ingot Mail α,Ingot Vambraces α,Ingot Coil α,Ingot Greaves α,
+Ingot β,HR,,Ingot Helm β,Ingot Mail β,Ingot Vambraces β,Ingot Coil β,Ingot Greaves β,
+Brigade α,HR,,Brigade Lobos α,Brigade Suit α,Brigade Vambraces α,Brigade Coil α,Brigade Boots α,
+Brigade β,HR,,Brigade Lobos β,Brigade Suit β,Brigade Vambraces β,Brigade Coil β,Brigade Boots β,
+Faux Felyne α,HR,,Faux Felyne α,,,,,
+Strategist α,HR,,Strategist Spectacles α,,,,,
+Lavasioth α,HR,Lavasioth,Lavasioth Helm α,Lavasioth Mail α,Lavasioth Vambraces α,Lavasioth Coil α,Lavasioth Greaves α,
+Lavasioth β,HR,Lavasioth,Lavasioth Helm β,Lavasioth Mail β,Lavasioth Vambraces β,Lavasioth Coil β,Lavasioth Greaves β,
+Legiana α,HR,Legiana,Legiana Helm α,Legiana Mail α,Legiana Vambraces α,Legiana Coil α,Legiana Greaves α,Legiana Favor
+Legiana β,HR,Legiana,Legiana Helm β,Legiana Mail β,Legiana Vambraces β,Legiana Coil β,Legiana Greaves β,Legiana Favor
+Odogaron α,HR,Odogaron,Odogaron Helm α,Odogaron Mail α,Odogaron Vambraces α,Odogaron Coil α,Odogaron Greaves α,Odogaron Mastery
+Odogaron β,HR,Odogaron,Odogaron Helm β,Odogaron Mail β,Odogaron Vambraces β,Odogaron Coil β,Odogaron Greaves β,Odogaron Mastery
+Rathalos α,HR,Rathalos,Rathalos Helm α,Rathalos Mail α,Rathalos Vambraces α,Rathalos Coil α,Rathalos Greaves α,Rathalos Mastery
+Rathalos β,HR,Rathalos,Rathalos Helm β,Rathalos Mail β,Rathalos Vambraces β,Rathalos Coil β,Rathalos Greaves β,Rathalos Mastery
+Rath Soul α,HR,Azure Rathalos,Rath Soul Helm α,Rath Soul Mail α,Rath Soul Braces α,Rath Soul Coil α,Rath Soul Greaves α,Rathalos Mastery
+Rath Soul β,HR,Azure Rathalos,Rath Soul Helm β,Rath Soul Mail β,Rath Soul Braces β,Rath Soul Coil β,Rath Soul Greaves β,Rathalos Mastery
+Diablos α,HR,Diablos,Diablos Helm α,Diablos Mail α,Diablos Vambraces α,Diablos Coil α,Diablos Greaves α,Diablos Mastery
+Diablos β,HR,Diablos,Diablos Helm β,Diablos Mail β,Diablos Vambraces β,Diablos Coil β,Diablos Greaves β,Diablos Mastery
+Diablos Nero α,HR,Black Diablos,Diablos Nero Helm α,Diablos Nero Mail α,Diablos Nero Braces α,Diablos Nero Coil α,Diablos Nero Greaves α,Diablos Mastery
+Diablos Nero β,HR,Black Diablos,Diablos Nero Helm β,Diablos Nero Mail β,Diablos Nero Braces β,Diablos Nero Coil β,Diablos Nero Greaves β,Diablos Mastery
+Uragaan α,HR,Uragaan,Uragaan Helm α,Uragaan Mail α,Uragaan Vambraces α,Uragaan Coil α,Uragaan Greaves α,Uragaan Protection
+Uragaan β,HR,Uragaan,Uragaan Helm β,Uragaan Mail β,Uragaan Vambraces β,Uragaan Coil β,Uragaan Greaves β,Uragaan Protection
+Bazel α,HR,Bazelgeuse,Bazel Helm α,Bazel Mail α,Bazel Vambraces α,Bazel Coil α,Bazel Greaves α,Bazelgeuse Protection
+Bazel β,HR,Bazelgeuse,Bazel Helm β,Bazel Mail β,Bazel Vambraces β,Bazel Coil β,Bazel Greaves β,Bazelgeuse Protection
+Damascus α,HR,,Damascus Helm α,Damascus Mail α,Damascus Vambraces α,Damascus Coil α,Damascus Greaves α,
+Damascus β,HR,,Damascus Helm β,Damascus Mail β,Damascus Vambraces β,Damascus Coil β,Damascus Greaves β,
+Dober α,HR,,Dober Helm α,Dober Mail α,Dober Vambraces α,Dober Coil α,Dober Greaves α,
+Dober β,HR,,Dober Helm β,Dober Mail β,Dober Vambraces β,Dober Coil β,Dober Greaves β,
+Death Stench α,HR,,Death Stench Brain α,Death Stench Muscle α,Death Stench Grip α,Death Stench Bowels α,Death Stench Heel α,
+Death Stench β,HR,,Death Stench Brain β,Death Stench Muscle β,Death Stench Grip β,Death Stench Bowels β,Death Stench Heel β,
+Skull α,HR,,Skull Mask α,,,,,
+Nergigante α,HR,Nergigante,Nergigante Helm α,Nergigante Mail α,Nergigante Vambraces α,Nergigante Coil α,Nergigante Greaves α,Nergigante Hunger
+Nergigante β,HR,Nergigante,Nergigante Helm β,Nergigante Mail β,Nergigante Vambraces β,Nergigante Coil β,Nergigante Greaves β,Nergigante Hunger
+Teostra α,HR,Teostra,Kaiser Crown α,Kaiser Mail α,Kaiser Vambraces α,Kaiser Coil α,Kaiser Greaves α,Teostra Technique
+Teostra β,HR,Teostra,Kaiser Crown β,Kaiser Mail β,Kaiser Vambraces β,Kaiser Coil β,Kaiser Greaves β,Teostra Technique
+Kushala α,HR,Kushala Daora,Kushala Glare α,Kushala Cista α,Kushala Grip α,Kushala Cocoon α,Kushala Crus α,Kushala Daora Flight
+Kushala β,HR,Kushala Daora,Kushala Glare β,Kushala Cista β,Kushala Grip β,Kushala Cocoon β,Kushala Crus β,Kushala Daora Flight
+Vaal Hazak α,HR,Vaal Hazak,Vaal Hazak Helm α,Vaal Hazak Mail α,Vaal Hazak Braces α,Vaal Hazak Coil α,Vaal Hazak Greaves α,Vaal Hazak Vitality
+Vaal Hazak β,HR,Vaal Hazak,Vaal Hazak Helm β,Vaal Hazak Mail β,Vaal Hazak Braces β,Vaal Hazak Coil β,Vaal Hazak Greaves β,Vaal Hazak Vitality
+Kirin α,HR,Kirin,Kirin Horn α,Kirin Jacket α,Kirin Longarms α,Kirin Hoop α,Kirin Leg Guards α,Kirin Favor
+Kirin β,HR,Kirin,Kirin Horn β,Kirin Jacket β,Kirin Longarms β,Kirin Hoop β,Kirin Leg Guards β,Kirin Favor
+Xeno'jiiva α,HR,Xeno'jiiva,Xeno'jiiva Headgear α,Xeno'jiiva Hide α,Xeno'jiiva Claws α,Xeno'jiiva Spine α,Xeno'jiiva Spurs α,Xeno'jiiva Divinity
+Xeno'jiiva β,HR,Xeno'jiiva,Xeno'jiiva Headgear β,Xeno'jiiva Hide β,Xeno'jiiva Claws β,Xeno'jiiva Spine β,Xeno'jiiva Spurs β,Xeno'jiiva Divinity
+Guild Cross α,HR,,Guild Cross Circlet α,Guild Cross Suit α,Guild Cross Vambraces α,Guild Cross Coil α,Guild Cross Boots α,Guild Guidance
+Guild Cross β,HR,,Guild Cross Circlet β,Guild Cross Suit β,Guild Cross Vambraces β,Guild Cross Coil β,Guild Cross Boots β,Guild Guidance
+Dragonking α,HR,,Dragonking Eyepatch α,,,,,
+Commission α,HR,,Commission Gorget α,Commission Jacket α,Commission Vambraces α,Commission Belt α,Commission Pants α,Commission Guidance
+Commission β,HR,,Commission Gorget β,Commission Jacket β,Commission Vambraces β,Commission Belt β,Commission Pants β,Commission Guidance
+Deviljho α,HR,Deviljho,Vangis Helm α,Vangis Mail α,Vangis Vambraces α,Vangis Coil α,Vangis Greaves α,
+Deviljho β,HR,Deviljho,Vangis Helm β,Vangis Mail β,Vangis Vambraces β,Vangis Coil β,Vangis Greaves β,
+Kulve Taroth α,HR,Kulve Taroth,Kulve Taroth's Fury α,Kulve Taroth's Ire α,Kulve Taroth's Rage α,Kulve Taroth's Malice α,Kulve Taroth's Wrath α,
+Kulve Taroth β,HR,Kulve Taroth,Kulve Taroth's Fury β,Kulve Taroth's Ire β,Kulve Taroth's Rage β,Kulve Taroth's Malice β,Kulve Taroth's Wrath β,
+Lunastra α,HR,Lunastra,Empress Crown α,Empress Mail α,Empress Vambraces α,Empress Coil α,Empress Greaves α,Lunastra Favor
+Lunastra β,HR,Lunastra,Empress Crown β,Empress Mail β,Empress Vambraces β,Empress Coil β,Empress Greaves β,Lunastra Favor
+Blossom α,HR,,Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α,
+Diver α,HR,,Diver's Mask α,Diver's Suit α,Diver's Braces α,Diver's Belt α,Diver's Boots α,
+Harvest α,HR,,Harvest Flor α,Harvest Tronco α,Harvest Trama α,Harvest Hoja α,Harvest Raiz α,
+Orion α,HR,,Orion Cap α,Orion Vest α,Orion Vambraces α,Orion Coat α,Orion Boots α,
+Gala Suit α,HR,,Gala Suit Top Hat α,Gala Suit Jacket α,Gala Suit Cuffs α,Gala Suit Tail α,Gala Suit Slacks α,Astera Blessing
+Butterfly α,HR,,Butterfly Vertex α,Butterfly Thorax α,Butterfly Brachia α,Butterfly Elytra α,Butterfly Crura α,
+Butterfly β,HR,,Butterfly Vertex β,Butterfly Thorax β,Butterfly Brachia β,Butterfly Elytra β,Butterfly Crura β,
+Vaal Hazak γ,HR,Vaal Hazak,Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ,Vaal Hazak Vitality
+Kirin γ,HR,Kirin,Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ,Kirin Favor
+Teostra γ,HR,Teostra,Kaiser Crown γ,Kaiser Mail γ,Kaiser Vambraces γ,Kaiser Coil γ,Kaiser Greaves γ,Teostra Technique
+Azure Starlord α,HR,Azure Rathalos,Azure Starlord Crown α,Azure Starlord Armor α,Azure Starlord Gauntlets α,Azure Starlord Tassets α,Azure Starlord Guards α,Rathalos Mastery
+Dante α,HR,,Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α,
+Drachen α,HR,Behemoth,Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α,Soul of the Dragoon
+Sealed Eyepatch α,HR,,Sealed Eyepatch α,,,,,
+Shadow Shades α,HR,,Shadow Shades α,,,,,
+Kulu-Ya-Ku Head α,HR,Kulu-Ya-Ku,Kulu-Ya-Ku Head α,,,,,
+Wiggler Head α,HR,,Wiggler Head α,,,,,

@@ -118,7 +118,6 @@ class RecipeSchema(BaseSchema):
 class ArmorSetSchema(BaseSchema):
     __groups__ = ('name',)
     name = fields.Dict()
-    armor_lang = fields.Str()
     rank = ValidatedStr(*cfg.supported_ranks)
     monster = fields.Str(allow_none=True)
     head = fields.Str(allow_none=True)

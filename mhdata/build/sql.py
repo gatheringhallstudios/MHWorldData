@@ -320,11 +320,10 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
 
     # Write entries for armor sets
     for set_id, entry in armorset_map.items():
-        armor_lang = entry['armor_lang']
         armorset_bonus_id = None
 
         if entry['bonus']:
-            armorset_bonus_id = armorset_bonus_map.id_of(armor_lang, entry['bonus'])
+            armorset_bonus_id = armorset_bonus_map.id_of('en', entry['bonus'])
             ensure(armorset_bonus_id, f"Armorset bonus {entry['bonus']} in armorsets doesn't exist")
             armorset_to_bonus[set_id] = armorset_bonus_id
 
@@ -350,7 +349,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             if not entry[part]:
                 continue
             
-            armor_reverse_id = mhdata.armor_map.id_of(armor_lang, entry[part])
+            armor_reverse_id = mhdata.armor_map.id_of('en', entry[part])
             armor_to_armorset[armor_reverse_id] = set_id
 
     # Write entries for armor
