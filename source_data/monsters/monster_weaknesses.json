@@ -424,7 +424,7 @@
             "sleep": 1,
             "paralysis": 1,
             "blast": 2,
-            "stun": 2     
+            "stun": 2
         }
     },
     "Kushala Daora": {
@@ -506,6 +506,34 @@
             "paralysis": 2,
             "blast": 2,
             "stun": 2
+        }
+    },
+    "Leshen": {
+        "normal": {
+            "fire": 3,
+            "water": 0,
+            "thunder": 2,
+            "ice": 1,
+            "dragon": 2,
+            "poison": 3,
+            "sleep": 0,
+            "paralysis": 2,
+            "blast": 2,
+            "stun": 1
+        }
+    },
+    "Ancient Leshen": {
+        "normal": {
+            "fire": 3,
+            "water": 0,
+            "thunder": 2,
+            "ice": 1,
+            "dragon": 2,
+            "poison": 3,
+            "sleep": 0,
+            "paralysis": 2,
+            "blast": 2,
+            "stun": 1
         }
     }
 }
