@@ -504,7 +504,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         weapon = db.Weapon(
             id=weapon_id,
             order_id=idx,
-            weapon_type=weapon_type
+            weapon_type=weapon_type,
         )
         
         # Add language translations
@@ -514,6 +514,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
                 name=get_translated(entry, 'name', language)
             ))
 
+        weapon.category = entry['category']
         weapon.rarity = entry['rarity']
         weapon.attack = entry['attack']
         weapon.attack_true = int(entry['attack'] / cfg.weapon_multiplier[weapon_type])

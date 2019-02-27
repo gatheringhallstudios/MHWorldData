@@ -336,6 +336,7 @@ class Weapon(Base):
     order_id = Column(Integer)
     weapon_type = Column(Text)
     rarity = Column(Integer)
+    category = Column(Text)
     
     attack = Column(Integer)
     attack_true = Column(Integer)

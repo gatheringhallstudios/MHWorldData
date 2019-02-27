@@ -242,6 +242,7 @@ def update_weapons():
             new_weapon_map.insert(existing_entry)
             continue
             
+        is_kulve = (existing_entry['category'] == 'Kulve')
         binary = weapon_node.binary
         name = weapon_node.name
 
@@ -288,9 +289,12 @@ def update_weapons():
             bind_weapon_blade_ext(weapon_type, new_entry, binary)
             new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
         elif weapon_type in cfg.weapon_types_gun:
+            tree = weapon_node.tree
+            if is_kulve:
+                tree = 'Kulve'
             (ammo_name, ammo_data) = ammo_reader.create_data_for(
                 wtype=weapon_type, 
-                tree=weapon_node.tree,
+                tree=tree,
                 binary=weapon_node.binary)
             new_entry['ammo_config'] = ammo_name
         else:

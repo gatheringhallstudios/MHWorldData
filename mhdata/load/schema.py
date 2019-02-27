@@ -193,6 +193,7 @@ class WeaponBaseSchema(BaseSchema):
     name = fields.Dict()
     weapon_type = ValidatedStr(*cfg.weapon_types)
     previous_en = fields.Str(allow_none=True)
+    category = fields.Str(allow_none=True)
     rarity = fields.Int(allow_none=True)
     attack = fields.Int()
     affinity = fields.Int()
