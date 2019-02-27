@@ -193,7 +193,7 @@ class WeaponDataNode():
         child.parent = self
         self.children.append(child)
 
-class WeaponTree(Iterable[WeaponDataNode]):
+class WeaponTree():
     def __init__(self, weapon_map: Mapping[int, WeaponDataNode]):
         self.weapon_map = weapon_map
 
@@ -205,17 +205,23 @@ class WeaponTree(Iterable[WeaponDataNode]):
         # Figure out which are the roots.
         # Note that insertion order is the correct order.
         self.roots = []
+        self._isolated = []
         for weapon in self.weapon_map.values():
-            if weapon.parent == None:
+            if weapon.parent != None:
+                continue
+            
+            if weapon.tree == None:
+                self._isolated.append(weapon)
+            else:
                 self.roots.append(weapon)
 
     def by_id(self, entry_id):
         return self.weapon_map[entry_id]
 
     def by_name(self, name_en):
-        return self.weapon_map_by_name[name_en]
+        return self.weapon_map_by_name.get(name_en)
 
-    def __iter__(self):
+    def crafted(self) -> Iterable[WeaponDataNode]:
         "Depth-first search iteration of the weapon tree"
         stack = []
         stack.extend(reversed(self.roots))
@@ -225,6 +231,11 @@ class WeaponTree(Iterable[WeaponDataNode]):
             yield current_item
             if current_item.children:
                 stack.extend(reversed(current_item.children))
+
+    def isolated(self) -> Iterable[WeaponDataNode]:
+        "Iteration of the isolated weapons"
+        for weapon in self._isolated:
+            yield weapon
 
 class WeaponDataLoader():
     def __init__(self):
@@ -280,17 +291,19 @@ class WeaponDataLoader():
                 if upgrade_recipe.item1_qty == 0:
                     upgrade_recipe = None
             
-            # Skip if invalid (has no name/recipe)
-            if not name['en']:
+            # Skip if invalid (has no name. Kulve weapons have no recipe)
+            if not name['en'] or name['en'] == 'Invalid Message':
                 continue
-            if not craft_recipe and not upgrade_recipe:
-                continue
+
+            treename = None
+            if binary.tree_id != 0:
+                treename = self.weapon_trees[binary.tree_id]['en']
 
             weapon_map[binary.id] = WeaponDataNode(
                 binary,
                 wtype=weapon_type,
                 name=name,
-                tree=self.weapon_trees[binary.tree_id]['en'],
+                tree=treename,
                 craft=craft_recipe, 
                 upgrade=upgrade_recipe)
 

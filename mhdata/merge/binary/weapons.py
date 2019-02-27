@@ -9,6 +9,8 @@ from .items import add_missing_items
 
 from mhdata import cfg
 
+from . import artifacts
+
 elements = [
     "",
     "Fire",
@@ -204,103 +206,120 @@ def update_weapons():
             notes = [str(note_colors[n]) for n in notes]
             existing_entry['notes'] = "".join(notes)   
 
+    # Load weapon tree binary data
+    weapon_trees = {}
+    for weapon_type in cfg.weapon_types:
+        weapon_tree = weapon_loader.load_tree(weapon_type)
+        print(f"Loaded {weapon_type} weapon tree binary data")
+        weapon_trees[weapon_type] = weapon_tree
+
+    # Write artifact lines
+    crafted_lines = []
+    isolated_lines = []
+    for weapon_type, weapon_tree in weapon_trees.items():
+        for weapon in weapon_tree.crafted():
+            crafted_lines.append(f'{weapon.name["en"]},{weapon_type}')
+        for weapon in weapon_tree.isolated():
+            isolated_lines.append(f'{weapon.name["en"]},{weapon_type}')
+    artifacts.write_artifact('weapons_crafted.txt', *crafted_lines)
+    artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
+
     # Store new weapon entries
     new_weapon_map = DataMap(languages="en", start_id=mhdata.weapon_map.max_id+1)
 
     # Iterate over weapon types
-    for weapon_type in cfg.weapon_types:
-        print(f"Processing {weapon_type}")
+    for existing_entry in mhdata.weapon_map.values():
+        weapon_type = existing_entry['weapon_type']
+        weapon_tree = weapon_trees[weapon_type]
 
         # Note: weapon data ordering is unknown. order field and tree_id asc are sometimes wrong
-        # Therefore its unsorted, we have to work off the spreadsheet order 
-        weapon_tree = weapon_loader.load_tree(weapon_type)
-        print(f"Loaded {weapon_type} weapon tree binary data")
-
+        # Therefore its unsorted, we have to work off the spreadsheet order
         multiplier = cfg.weapon_multiplier[weapon_type]
 
-        # Iterate over nodes in the weapon tree (does depth first search)
-        for weapon_node in weapon_tree:
-            binary = weapon_node.binary
-            name = weapon_node.name
-            existing_entry = mhdata.weapon_map.entry_of('en', name['en'])
+        weapon_node = weapon_tree.by_name(existing_entry.name('en'))
+        if not weapon_node:
+            print(f"Could not find binary entry for {existing_entry.name('en')}")
+            new_weapon_map.insert(existing_entry)
+            continue
             
-            new_entry = { }
-            if existing_entry:
-                new_entry = { **existing_entry }
-            
-            # Bind name and parent
-            new_entry['name'] = name
-            new_entry['weapon_type'] = weapon_type
-            new_entry['previous_en'] = None
-            if weapon_node.parent != None:
-                new_entry['previous_en'] = weapon_node.parent.name['en']
+        binary = weapon_node.binary
+        name = weapon_node.name
 
-            # Bind info
-            new_entry['weapon_type'] = weapon_type
-            new_entry['rarity'] = binary.rarity + 1
-            new_entry['attack'] = binary.raw_damage * multiplier
-            new_entry['affinity'] = binary.affinity
-            new_entry['defense'] = binary.defense or None
-            new_entry['slot_1'] = binary.gem_slot1_lvl
-            new_entry['slot_2'] = binary.gem_slot2_lvl
-            new_entry['slot_3'] = binary.gem_slot3_lvl
-            new_entry['elderseal'] = elderseal[binary.elderseal]
+        new_entry = { **existing_entry }
+        
+        # Bind name and parent
+        new_entry['name'] = name
+        new_entry['weapon_type'] = weapon_type
+        new_entry['previous_en'] = None
+        if weapon_node.parent != None:
+            new_entry['previous_en'] = weapon_node.parent.name['en']
 
-            # Bind Elements
-            if name['en'] in ["Twin Nails", "Fire and Ice"]:
-                print(f"Skipping {name['en']} element data")
-            else:
-                hidden = binary.hidden_element_id != 0
-                element_id = binary.hidden_element_id if hidden else binary.element_id
-                element_atk = binary.hidden_element_damage if hidden else binary.element_damage
+        # Bind info
+        new_entry['weapon_type'] = weapon_type
+        new_entry['rarity'] = binary.rarity + 1
+        new_entry['attack'] = binary.raw_damage * multiplier
+        new_entry['affinity'] = binary.affinity
+        new_entry['defense'] = binary.defense or None
+        new_entry['slot_1'] = binary.gem_slot1_lvl
+        new_entry['slot_2'] = binary.gem_slot2_lvl
+        new_entry['slot_3'] = binary.gem_slot3_lvl
+        new_entry['elderseal'] = elderseal[binary.elderseal]
 
-                new_entry['element_hidden'] = hidden
-                new_entry['element1'] = elements[element_id]
-                new_entry['element1_attack'] = element_atk * 10 if element_atk else None
-                new_entry['element2'] = None
-                new_entry['element2_attack'] = None
+        # Bind Elements
+        if name['en'] in ["Twin Nails", "Fire and Ice"]:
+            print(f"Skipping {name['en']} element data")
+        else:
+            hidden = binary.hidden_element_id != 0
+            element_id = binary.hidden_element_id if hidden else binary.element_id
+            element_atk = binary.hidden_element_damage if hidden else binary.element_damage
 
-            # Bind skill
-            skill = skill_text_handler.get_skilltree_name(binary.skill_id)
-            new_entry['skill'] = skill['en'] if binary.skill_id != 0 else None
-            
-            # Bind Extras (Blade/Gun/Bow data)
-            if weapon_type in cfg.weapon_types_melee:
-                bind_weapon_blade_ext(weapon_type, new_entry, binary)
-                new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
-            elif weapon_type in cfg.weapon_types_gun:
-                (ammo_name, ammo_data) = ammo_reader.create_data_for(
-                    wtype=weapon_type, 
-                    tree=weapon_node.tree,
-                    binary=weapon_node.binary)
-                new_entry['ammo_config'] = ammo_name
-            else:
-                # TODO: Bows have an Enabled+ flag. Find out what it means
-                # 1 = enabled, 2 = enabled+
-                coating_binary = coating_data[binary.special_ammo_type]
-                new_entry['bow'] = {
-                    'close': coating_binary.close_range > 0,
-                    'power': coating_binary.power > 0,
-                    'paralysis': coating_binary.paralysis > 0,
-                    'poison': coating_binary.poison > 0,
-                    'sleep': coating_binary.sleep > 0,
-                    'blast': coating_binary.blast > 0
-                }
+            new_entry['element_hidden'] = hidden
+            new_entry['element1'] = elements[element_id]
+            new_entry['element1_attack'] = element_atk * 10 if element_atk else None
+            new_entry['element2'] = None
+            new_entry['element2_attack'] = None
 
-            # crafting data
-            new_entry['craft'] = []
-            if weapon_node.craft:
-                new_entry['craft'].append({
-                    'type': 'Create',
-                    **convert_recipe(item_text_handler, weapon_node.craft)
-                })
-            if weapon_node.upgrade:
-                new_entry['craft'].append({
-                    'type': 'Upgrade',
-                    **convert_recipe(item_text_handler, weapon_node.upgrade)
-                })
+        # Bind skill
+        skill = skill_text_handler.get_skilltree_name(binary.skill_id)
+        new_entry['skill'] = skill['en'] if binary.skill_id != 0 else None
+        
+        # Bind Extras (Blade/Gun/Bow data)
+        if weapon_type in cfg.weapon_types_melee:
+            bind_weapon_blade_ext(weapon_type, new_entry, binary)
+            new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
+        elif weapon_type in cfg.weapon_types_gun:
+            (ammo_name, ammo_data) = ammo_reader.create_data_for(
+                wtype=weapon_type, 
+                tree=weapon_node.tree,
+                binary=weapon_node.binary)
+            new_entry['ammo_config'] = ammo_name
+        else:
+            # TODO: Bows have an Enabled+ flag. Find out what it means
+            # 1 = enabled, 2 = enabled+
+            coating_binary = coating_data[binary.special_ammo_type]
+            new_entry['bow'] = {
+                'close': coating_binary.close_range > 0,
+                'power': coating_binary.power > 0,
+                'paralysis': coating_binary.paralysis > 0,
+                'poison': coating_binary.poison > 0,
+                'sleep': coating_binary.sleep > 0,
+                'blast': coating_binary.blast > 0
+            }
 
-            new_weapon_map.insert(new_entry)
+        # crafting data
+        new_entry['craft'] = []
+        if weapon_node.craft:
+            new_entry['craft'].append({
+                'type': 'Create',
+                **convert_recipe(item_text_handler, weapon_node.craft)
+            })
+        if weapon_node.upgrade:
+            new_entry['craft'].append({
+                'type': 'Upgrade',
+                **convert_recipe(item_text_handler, weapon_node.upgrade)
+            })
+
+        new_weapon_map.insert(new_entry)
 
     # Write new data
     writer = create_writer()
