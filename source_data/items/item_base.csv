@@ -608,39 +608,39 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 602,Warped Feystone,misc,appraisal,7,,,,,Feystone,Red
 603,Sullied Streamstone,misc,appraisal,6,,,,,Streamstone,Gray
 604,Shining Streamstone,misc,appraisal,8,,,,,Streamstone,Gold
-605,White Liver,misc,account,2,,40,,40,Meat,White
-606,Wyvern Tear,misc,account,3,,200,,200,Body,Blue
-607,Large Wyvern Tear,misc,account,5,,500,,,,
-608,Dragon Treasure,misc,account,3,,800,,800,Ore,Violet
-609,Sunbloom,misc,account,2,,12,,12,Herb,Pink
-610,Shinebloom,misc,account,3,,27,,27,Herb,Pink
-611,Goldbloom,misc,account,4,,140,,,Herb,Pink
-612,Gourmet Shroomcap,misc,account,2,,10,,10,Mushroom,White
-613,Exquisite Shroomcap,misc,account,3,,25,,25,Mushroom,White
-614,Spirit Shroomcap,misc,account,4,,150,,50,Mushroom,White
-615,Bauble Cactus,misc,account,2,,14,,14,Herb,Green
-616,Jewel Cactus,misc,account,3,,28,,28,Herb,Green
-617,Kingly Cactus,misc,account,4,,160,,,Herb,Green
-618,Hardfruit,misc,account,2,,12,,12,Seed,Orange
-619,Super Abalone,misc,account,2,,16,,16,Sac,LightBeige
-620,Choice Abalone,misc,account,3,,36,,36,Sac,LightBeige
-621,Precious Abalone,misc,account,4,,210,,210,Sac,LightBeige
-622,Light Pearl,misc,account,2,,18,,18,Charm,Gray
-623,Deep Pearl,misc,account,3,,38,,38,Charm,Gray
-624,Innocent Pearl,misc,account,4,,180,,180,Charm,Gray
-625,Forgotten Fossil,misc,account,2,,15,,15,Bone,DarkBeige
-626,Legendary Fossil,misc,account,3,,35,,35,Bone,DarkBeige
-627,Mystical Fossil,misc,account,4,,200,,200,Bone,DarkBeige
-628,Underground Fruit,misc,account,2,,14,,14,Seed,DarkRed
-629,Tainted Fruit,misc,account,3,,34,,34,Seed,DarkRed
-630,Elysian Fruit,misc,account,4,,190,,190,Seed,DarkRed
-631,Gaia Amber,misc,account,2,,30,,30,Ore,Beige
-632,Dragonvein Amber,misc,account,3,,50,,50,Ore,Beige
-633,Ancient Amber,misc,account,4,,250,,250,Ore,Beige
-634,Blue Beryl,misc,account,2,,32,,32,Ore,Blue
-635,True Beryl,misc,account,3,,54,,54,Ore,Blue
-636,Abyssal Beryl,misc,account,4,,260,,260,Ore,Blue
-637,Moonlit Mushroom,misc,account,4,,88,,,,
+605,White Liver,misc,account,2,,,,40,Meat,White
+606,Wyvern Tear,misc,account,3,,,,200,Body,Blue
+607,Large Wyvern Tear,misc,account,5,,,,500,,
+608,Dragon Treasure,misc,account,3,,,,800,Ore,Violet
+609,Sunbloom,misc,account,2,,,,12,Herb,Pink
+610,Shinebloom,misc,account,3,,,,27,Herb,Pink
+611,Goldbloom,misc,account,4,,,,140,Herb,Pink
+612,Gourmet Shroomcap,misc,account,2,,,,10,Mushroom,White
+613,Exquisite Shroomcap,misc,account,3,,,,25,Mushroom,White
+614,Spirit Shroomcap,misc,account,4,,,,150,Mushroom,White
+615,Bauble Cactus,misc,account,2,,,,14,Herb,Green
+616,Jewel Cactus,misc,account,3,,,,28,Herb,Green
+617,Kingly Cactus,misc,account,4,,,,160,Herb,Green
+618,Hardfruit,misc,account,2,,,,12,Seed,Orange
+619,Super Abalone,misc,account,2,,,,16,Sac,LightBeige
+620,Choice Abalone,misc,account,3,,,,36,Sac,LightBeige
+621,Precious Abalone,misc,account,4,,,,210,Sac,LightBeige
+622,Light Pearl,misc,account,2,,,,18,Charm,Gray
+623,Deep Pearl,misc,account,3,,,,38,Charm,Gray
+624,Innocent Pearl,misc,account,4,,,,180,Charm,Gray
+625,Forgotten Fossil,misc,account,2,,,,15,Bone,DarkBeige
+626,Legendary Fossil,misc,account,3,,,,35,Bone,DarkBeige
+627,Mystical Fossil,misc,account,4,,,,200,Bone,DarkBeige
+628,Underground Fruit,misc,account,2,,,,14,Seed,DarkRed
+629,Tainted Fruit,misc,account,3,,,,34,Seed,DarkRed
+630,Elysian Fruit,misc,account,4,,,,190,Seed,DarkRed
+631,Gaia Amber,misc,account,2,,,,30,Ore,Beige
+632,Dragonvein Amber,misc,account,3,,,,50,Ore,Beige
+633,Ancient Amber,misc,account,4,,,,250,Ore,Beige
+634,Blue Beryl,misc,account,2,,,,32,Ore,Blue
+635,True Beryl,misc,account,3,,,,54,Ore,Blue
+636,Abyssal Beryl,misc,account,4,,,,260,Ore,Blue
+637,Moonlit Mushroom,misc,account,4,,,,88,,
 638,First-aid Med,misc,supply,1,,,10,,Liquid,Green
 639,First-aid Med+,misc,supply,2,,,10,,Liquid,Green
 640,EZ Ration,misc,supply,1,,,10,,Meat,DarkBeige

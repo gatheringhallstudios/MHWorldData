@@ -43,13 +43,20 @@ def add_missing_items(encountered_item_ids: Iterable[int], *, mhdata=None):
             'name': name_dict,
             'description': description_dict,
             'rarity': entry.rarity + 1,
-            'sell_price': entry.sell_price if entry.sell_price != 0 else None
+            'sell_price': None,
+            'points': None
         }
 
         is_ez = (entry.flags & itm.ItmFlag.IsQuestOnly.value) != 0
         is_account = item_type_list[entry.type] == 'endemic'
         is_tradein = "(Trade-in Item)" in description_dict['en']
         is_appraisal = (entry.flags & itm.ItmFlag.IsAppraisal.value) != 0
+
+        sell_value = entry.sell_price if entry.sell_price != 0 else None
+        if is_account:
+            new_data['points'] = sell_value
+        else:
+            new_data['sell_price'] = sell_value
         
         if name_dict['en'] == 'Normal Ammo 1':
             new_data['category'] = 'hidden'
