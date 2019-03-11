@@ -71,6 +71,7 @@ The `mhw_armor_edit/` folder and its contents are public domain. Instead of our 
 You are free to use this database for any purpose.
 
 ## Special Credits
+- [Hexhexhex](https://twitter.com/MHhexhexhex) - For releasing monster hitzone data.
 - [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from
 - [Vocalonation](https://github.com/ahctang) - For helping with translating and crossvalidating data.
 - [TanukiSharp](https://github.com/TanukiSharp/) - For creating a computer usable collection of sharpness data and allowing others to use it. His original project is [here](https://github.com/TanukiSharp/MHWSharpnessExtractor)

@@ -307,6 +307,14 @@ Teostra,Forelegs,,38,38,33,0,20,5,15,5,0
 Teostra,Hindlegs,,30,25,20,0,15,5,10,5,0
 Teostra,Wings,,40,35,30,0,25,10,20,10,0
 Teostra,Tail,,38,33,28,0,20,5,15,5,0
+Lunastra,Head,,40,60,45,0,7,7,30,25,100
+Lunastra,Neck,,33,38,33,0,3,3,20,15,0
+Lunastra,Chest,,20,20,20,0,0,0,15,10,0
+Lunastra,Back,,20,20,20,0,0,0,15,10,0
+Lunastra,Forelegs,,25,30,20,0,3,3,15,10,0
+Lunastra,Hindlegs,,30,25,20,0,3,3,15,10,0
+Lunastra,Wings,,55,35,40,0,7,7,25,20,0
+Lunastra,Tail,,45,38,55,0,3,3,20,15,0
 Kushala Daora,Head,,55,50,45,10,5,20,0,10,100
 Kushala Daora,Neck,,40,35,25,10,5,15,0,5,0
 Kushala Daora,Body,,35,50,25,10,5,15,0,10,0
@@ -328,6 +336,16 @@ Vaal Hazak,Forelegs,,45,40,35,20,5,5,10,5,0
 Vaal Hazak,Forelegs (Wounded),,55,50,45,20,5,5,10,20,0
 Vaal Hazak,Wings,,24,23,30,15,5,10,10,15,0
 Vaal Hazak,Tail Tip,,60,30,50,20,5,10,15,0,0
+Kulve Taroth,Head,,25,30,10,5,10,25,0,5,100
+Kulve Taroth,Chest,,50,45,45,0,20,0,40,25,0
+Kulve Taroth,Torso,,35,35,20,0,10,0,30,15,0
+Kulve Taroth,Body / Forelimb / Tail,,25,30,10,5,10,25,0,5,0
+Kulve Taroth,Hind Legs,,40,35,15,0,10,0,30,15,0
+Kulve Taroth,Head (Molten),,60,75,30,25,30,50,0,25,100
+Kulve Taroth,Body / Forelimb / Tail (Molten),,60,75,30,25,30,50,0,25,0
+Kulve Taroth,Head (Exposed),,80,85,25,0,30,0,50,35,100
+Kulve Taroth,Forelimbs (Exposed),,50,40,30,0,20,0,40,25,0
+Kulve Taroth,Tail (Exposed),,40,45,20,0,10,0,30,15,0
 Xeno'jiiva,Head,,70,70,55,20,10,10,10,20,100
 Xeno'jiiva,Head (Wounded),,80,80,60,20,10,10,10,20,100
 Xeno'jiiva,Head (Critical State),,80,100,60,15,30,30,30,15,100
