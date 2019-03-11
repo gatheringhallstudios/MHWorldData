@@ -192,9 +192,9 @@ Teostra,Hindlegs,,340,,,white
 Teostra,Wings,,280,280,,white
 Teostra,Tail,,330,,330,orange
 Lunastra,Head,,200,0,,red
-Lunastra,Body,,400,,,
-Lunastra,Forelegs,,300,,,
-Lunastra,Hindlegs,,280,,,
+Lunastra,Body,,400,,,white
+Lunastra,Forelegs,,300,,,white
+Lunastra,Hindlegs,,280,,,white
 Lunastra,Wings,,280,0,,white
 Lunastra,Tail,,250,,500,orange
 Kushala Daora,Head,,300,,,red
