@@ -25,6 +25,7 @@ This is data we'd love to receive help towards.
 - Quest list. Not really useful all on its own but leads into unlock conditions.
 - Unlock conditions for special items like mantles, and base camps, including deliveries.
 - Weapon motion value data
+- A refactor to schema validation to allow multi-stage validation. There are certain validations that we'd love to skip during merge routines but perform during database building. Right now we lack that degree of control and we need to add dummy data or not validate at all.
 
 ## Data Structure
 The data files in [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) are used to build the final SQL file. The project is in the middle of a conversion from JSON to CSV, so some files are still JSON.

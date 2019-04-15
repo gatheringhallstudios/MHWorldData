@@ -1608,3 +1608,98 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10360,"Taroth Arrow ""Thunder""",bow,,Kulve,8,228,10,20,TRUE,Thunder,360,,,,3,0,0,,,,,,,,
 10361,"Taroth Arrow ""Blast""",bow,,Kulve,8,240,0,30,TRUE,Blast,360,,,,3,0,0,,,,,,,,
 10362,"Taroth Arrow ""Fire""",bow,,Kulve,8,240,10,20,TRUE,Fire,360,,,,3,0,0,,,,,,,,
+10363,"Kjárr Fellsword ""Numb""",great-sword,,Kulve,8,840,20,,FALSE,Paralysis,480,,,,1,0,0,,,,,,,,Critical Status
+10364,"Kjárr Fellsword ""Decay""",great-sword,,Kulve,8,984,20,,FALSE,Dragon,360,,,average,1,0,0,,,,,,,,Critical Element
+10365,"Kjárr Fellsword ""King""",great-sword,,Kulve,8,936,20,,FALSE,Fire,300,,,,1,0,0,,,,,,,,Critical Element
+10366,"Kjárr Fellsword ""Magma""",great-sword,,Kulve,8,984,10,15,FALSE,Blast,480,,,,1,0,0,,,,,,,,Critical Status
+10367,"Kjárr Fellsword ""Water""",great-sword,,Kulve,8,912,20,,FALSE,Water,480,,,,0,0,0,,,,,,,,Critical Element
+10368,"Kjárr Fellsword ""Ice""",great-sword,,Kulve,8,912,20,,FALSE,Ice,450,,,,0,0,0,,,,,,,,Critical Element
+10369,"Kjárr Fellsword ""Thunder""",great-sword,,Kulve,8,1008,10,,FALSE,Thunder,480,,,,0,0,0,,,,,,,,Critical Element
+10370,"Kjárr Sword ""Spark""",long-sword,,Kulve,8,627,20,,FALSE,Thunder,330,,,,1,0,0,,,,,,,,Critical Element
+10371,"Kjárr Sword ""Stream""",long-sword,,Kulve,8,561,15,,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
+10372,"Kjárr Sword ""Decay""",long-sword,,Kulve,8,676,15,,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
+10373,"Kjárr Sword ""Magma""",long-sword,,Kulve,8,693,10,15,FALSE,Blast,420,,,,1,0,0,,,,,,,,Critical Status
+10374,"Kjárr Sword ""Water""",long-sword,,Kulve,8,610,15,,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
+10375,"Kjárr Sword ""Fire""",long-sword,,Kulve,8,627,20,,FALSE,Fire,390,,,,0,0,0,,,,,,,,Critical Element
+10376,"Kjárr Sword ""Paralysis""",long-sword,,Kulve,8,528,15,,FALSE,Paralysis,270,,,,0,0,0,,,,,,,,Critical Status
+10377,"Kjárr Slicer ""Numb""",sword-and-shield,,Kulve,8,252,10,,FALSE,Paralysis,210,,,,1,0,0,,,,,,,,Critical Status
+10378,"Kjárr Slicer ""Stream""",sword-and-shield,,Kulve,8,238,10,,FALSE,Ice,300,,,,1,0,0,,,,,,,,Critical Element
+10379,"Kjárr Slicer ""King""",sword-and-shield,,Kulve,8,266,15,,FALSE,Fire,240,,,,1,0,0,,,,,,,,Critical Element
+10380,"Kjárr Slicer ""Myth""",sword-and-shield,,Kulve,8,238,10,,FALSE,Thunder,330,,,,1,0,0,,,,,,,,Critical Element
+10381,"Kjárr Slicer ""Water""",sword-and-shield,,Kulve,8,252,15,,FALSE,Water,330,,,,1,0,0,,,,,,,,Critical Element
+10382,"Kjárr Slicer ""Dragon""",sword-and-shield,,Kulve,8,238,10,,FALSE,Dragon,360,,,low,1,0,0,,,,,,,,Critical Element
+10383,"Kjárr Slicer ""Blast""",sword-and-shield,,Kulve,8,224,10,,FALSE,Blast,330,,,,1,0,0,,,,,,,,Critical Status
+10384,"Kjárr Daggers ""Spark""",dual-blades,,Kulve,8,252,15,,FALSE,Thunder,180,,,,1,0,0,,,,,,,,Critical Element
+10385,"Kjárr Daggers ""Rage""",dual-blades,,Kulve,8,280,5,,FALSE,Fire,210,,,,0,0,0,,,,,,,,Critical Element
+10386,"Kjárr Daggers ""Magma""",dual-blades,,Kulve,8,266,5,15,FALSE,Blast,180,,,,1,0,0,,,,,,,,Critical Status
+10387,"Kjárr Daggers ""Lurk""",dual-blades,,Kulve,8,224,10,,FALSE,Paralysis,90,,,,1,0,0,,,,,,,,Critical Status
+10388,"Kjárr Daggers ""Water""",dual-blades,,Kulve,8,252,10,,FALSE,Water,210,,,,1,0,0,,,,,,,,Critical Element
+10389,"Kjárr Daggers ""Ice""",dual-blades,,Kulve,8,252,15,,FALSE,Ice,210,,,,1,0,0,,,,,,,,Critical Element
+10390,"Kjárr Daggers ""Dragon""",dual-blades,,Kulve,8,252,20,,FALSE,Dragon,210,,,average,1,0,0,,,,,,,,Critical Element
+10391,"Kjárr Hammer ""Numb""",hammer,,Kulve,8,936,20,,FALSE,Paralysis,300,,,,1,0,0,,,,,,,,Critical Status
+10392,"Kjárr Hammer ""Decay""",hammer,,Kulve,8,1040,10,,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
+10393,"Kjárr Hammer ""Gyre""",hammer,,Kulve,8,1040,10,15,FALSE,Fire,360,,,,1,0,0,,,,,,,,Critical Element
+10394,"Kjárr Hammer ""Water""",hammer,,Kulve,8,1040,10,,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
+10395,"Kjárr Hammer ""Ice""",hammer,,Kulve,8,988,10,,FALSE,Ice,480,,,,0,0,0,,,,,,,,Critical Element
+10396,"Kjárr Hammer ""Thunder""",hammer,,Kulve,8,988,15,,FALSE,Thunder,450,,,,0,0,0,,,,,,,,Critical Element
+10397,"Kjárr Hammer ""Blast""",hammer,,Kulve,8,1118,15,,FALSE,Blast,270,,,,0,0,0,,,,,,,,Critical Status
+10398,"Kjárr Pipe ""Paralysis""",hunting-horn,,Kulve,8,798,10,,FALSE,Paralysis,300,,,,1,0,0,,,,,,PBY,,Critical Status
+10399,"Kjárr Pipe ""Rage""",hunting-horn,,Kulve,8,798,5,,FALSE,Fire,390,,,,1,0,0,,,,,,PBG,,Critical Element
+10400,"Kjárr Pipe ""Myth""",hunting-horn,,Kulve,8,672,10,,FALSE,Thunder,510,,,,0,0,0,,,,,,PGY,,Critical Element
+10401,"Kjárr Pipe ""Crusher""",hunting-horn,,Kulve,8,798,15,,FALSE,Blast,300,,,,1,0,0,,,,,,PRB,,Critical Status
+10402,"Kjárr Pipe ""Stream""",hunting-horn,,Kulve,8,672,10,,FALSE,Ice,510,,,,0,0,0,,,,,,PBG,,Critical Element
+10403,"Kjárr Pipe ""Water""",hunting-horn,,Kulve,8,714,15,,FALSE,Water,450,,,,1,0,0,,,,,,PYO,,Critical Element
+10404,"Kjárr Pipe ""Dragon""",hunting-horn,,Kulve,8,756,10,,FALSE,Dragon,420,,,average,0,0,0,,,,,,PYO,,Critical Element
+10405,"Kjárr Crest ""Paralysis""",lance,,Kulve,8,414,10,,FALSE,Paralysis,210,,,,0,0,0,,,,,,,,Critical Status
+10406,"Kjárr Crest ""Stream""",lance,,Kulve,8,391,10,,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
+10407,"Kjárr Crest ""Decay""",lance,,Kulve,8,391,10,,FALSE,Dragon,330,,,average,0,0,0,,,,,,,,Critical Element
+10408,"Kjárr Crest ""King""",lance,,Kulve,8,391,10,,FALSE,Fire,390,,,,1,0,0,,,,,,,,Critical Element
+10409,"Kjárr Crest ""Crusher""",lance,,Kulve,8,414,15,,FALSE,Blast,270,,,,1,0,0,,,,,,,,Critical Status
+10410,"Kjárr Crest ""Water""",lance,,Kulve,8,437,10,,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
+10411,"Kjárr Crest ""Thunder""",lance,,Kulve,8,414,15,,FALSE,Thunder,420,,,,0,0,0,,,,,,,,Critical Element
+10412,"Kjárr Buster ""Stream""",gunlance,,Kulve,8,414,15,,FALSE,Ice,390,,,,0,0,0,,,,normal,4,,,Critical Element
+10413,"Kjárr Buster ""Decay""",gunlance,,Kulve,8,437,15,,FALSE,Dragon,300,,,average,0,0,0,,,,long,4,,,Critical Element
+10414,"Kjárr Buster ""King""",gunlance,,Kulve,8,414,15,,FALSE,Fire,390,,,,0,0,0,,,,long,4,,,Critical Element
+10415,"Kjárr Buster ""Bomber""",gunlance,,Kulve,8,414,20,,FALSE,Blast,330,,,,1,0,0,,,,wide,4,,,Critical Status
+10416,"Kjárr Buster ""Spark""",gunlance,,Kulve,8,414,15,,FALSE,Thunder,330,,,,0,0,0,,,,long,4,,,Critical Element
+10417,"Kjárr Buster ""Paralysis""",gunlance,,Kulve,8,414,15,,FALSE,Paralysis,360,,,,0,0,0,,,,normal,4,,,Critical Status
+10418,"Kjárr Buster ""Water""",gunlance,,Kulve,8,437,10,,FALSE,Water,420,,,,0,0,0,,,,wide,4,,,Critical Element
+10419,"Kjárr Axe ""Stream""",switch-axe,,Kulve,8,595,15,,FALSE,Ice,330,,,,0,0,0,,power element,,,,,,Critical Element
+10420,"Kjárr Axe ""Decay""",switch-axe,,Kulve,8,595,10,,FALSE,Dragon,270,,,average,1,0,0,,power element,,,,,,Critical Element
+10421,"Kjárr Axe ""King""",switch-axe,,Kulve,8,665,20,,FALSE,Fire,300,,,,1,0,0,,power element,,,,,,Critical Element
+10422,"Kjárr Axe ""Bomber""",switch-axe,,Kulve,8,665,10,,FALSE,Blast,270,,,,1,0,0,,power,,,,,,Critical Status
+10423,"Kjárr Axe ""Thunder""",switch-axe,,Kulve,8,595,15,,FALSE,Thunder,330,,,,0,0,0,,power element,,,,,,Critical Element
+10424,"Kjárr Axe ""Water""",switch-axe,,Kulve,8,665,15,,FALSE,Water,360,,,,0,0,0,,power element,,,,,,Critical Element
+10425,"Kjárr Axe ""Paralysis""",switch-axe,,Kulve,8,700,10,,FALSE,Paralysis,330,,,,0,0,0,,power,,,,,,Critical Status
+10426,"Kjárr Strongarm ""Spark""",charge-blade,,Kulve,8,720,15,,FALSE,Thunder,300,,,,0,0,0,,power element,,,,,,Critical Element
+10427,"Kjárr Strongarm ""Numb""",charge-blade,,Kulve,8,648,15,,FALSE,Paralysis,330,,,,1,0,0,,impact,,,,,,Critical Status
+10428,"Kjárr Strongarm ""Decay""",charge-blade,,Kulve,8,720,15,,FALSE,Dragon,300,,,average,0,0,0,,power element,,,,,,Critical Element
+10429,"Kjárr Strongarm ""King""",charge-blade,,Kulve,8,720,15,,FALSE,Fire,300,,,,0,0,0,,power element,,,,,,Critical Element
+10430,"Kjárr Strongarm ""Ice""",charge-blade,,Kulve,8,684,20,,FALSE,Ice,480,,,,1,0,0,,power element,,,,,,Critical Element
+10431,"Kjárr Strongarm ""Crusher""",charge-blade,,Kulve,8,720,20,,FALSE,Blast,300,,,,0,0,0,,impact,,,,,,Critical Status
+10432,"Kjárr Strongarm ""Water""",charge-blade,,Kulve,8,684,20,,FALSE,Water,330,,,,0,0,0,,power element,,,,,,Critical Element
+10433,"Kjárr Glaive ""Spark""",insect-glaive,,Kulve,8,589,15,,FALSE,Thunder,300,,,,0,0,0,speed,,,,,,,Critical Element
+10434,"Kjárr Glaive ""Decay""",insect-glaive,,Kulve,8,527,10,,FALSE,Dragon,360,,,average,0,0,0,blunt,,,,,,,Critical Element
+10435,"Kjárr Glaive ""King""",insect-glaive,,Kulve,8,589,20,20,FALSE,Fire,270,,,,0,0,0,sever,,,,,,,Critical Element
+10436,"Kjárr Glaive ""Crusher""",insect-glaive,,Kulve,8,558,10,,FALSE,Blast,270,,,,0,0,0,stamina,,,,,,,Critical Status
+10437,"Kjárr Glaive ""Water""",insect-glaive,,Kulve,8,620,10,,FALSE,Water,270,,,,0,0,0,element,,,,,,,Critical Element
+10438,"Kjárr Glaive ""Ice""",insect-glaive,,Kulve,8,558,10,,FALSE,Ice,240,,,,0,0,0,element,,,,,,,Critical Element
+10439,"Kjárr Glaive ""Paralysis""",insect-glaive,,Kulve,8,620,10,,FALSE,Paralysis,210,,,,0,0,0,blunt,,,,,,,Critical Status
+10440,"Kjárr Blitz ""Bomber""",light-bowgun,,Kulve,8,260,10,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 15,Critical Status
+10441,"Kjárr Blitz ""Claw""",light-bowgun,,Kulve,8,247,15,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 16,Critical Status
+10442,"Kjárr Blitz ""Decay""",light-bowgun,,Kulve,8,273,10,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 17,Critical Element
+10443,"Kjárr Blitz ""King""",light-bowgun,,Kulve,8,260,20,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 18,Critical Element
+10444,"Kjárr Blitz ""Thunder""",light-bowgun,,Kulve,8,260,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Kulve 19,Critical Element
+10445,"Kjárr Blitz ""Ice""",light-bowgun,,Kulve,8,260,10,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 20,Critical Element
+10446,"Kjárr Assault ""Rage""",heavy-bowgun,,Kulve,8,300,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 14,Critical Element
+10447,"Kjárr Assault ""Horn""",heavy-bowgun,,Kulve,8,330,10,,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 15,Critical Status
+10448,"Kjárr Assault ""Spark""",heavy-bowgun,,Kulve,8,285,15,,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 16,Critical Element
+10449,"Kjárr Assault ""Magma""",heavy-bowgun,,Kulve,8,315,10,10,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 17,Critical Status
+10450,"Kjárr Assault ""Water""",heavy-bowgun,,Kulve,8,285,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 18,Critical Element
+10451,"Kjárr Assault ""Ice""",heavy-bowgun,,Kulve,8,300,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 19,Critical Element
+10452,"Kjárr Bow ""Spark""",bow,,Kulve,8,216,15,,FALSE,Thunder,240,,,,1,0,0,,,,,,,,Critical Element
+10453,"Kjárr Bow ""Stream""",bow,,Kulve,8,204,10,,FALSE,Ice,330,,,,0,0,0,,,,,,,,Critical Element
+10454,"Kjárr Bow ""King""",bow,,Kulve,8,234,15,,FALSE,Fire,270,,,,1,0,0,,,,,,,,Critical Element
+10455,"Kjárr Bow ""Decay""",bow,,Kulve,8,240,10,,FALSE,Dragon,240,,,average,1,0,0,,,,,,,,Critical Element
+10456,"Kjárr Bow ""Water""",bow,,Kulve,8,240,10,,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
+10457,"Kjárr Bow ""Blast""",bow,,Kulve,8,252,10,,FALSE,Blast,240,,,,0,0,0,,,,,,,,Critical Status
