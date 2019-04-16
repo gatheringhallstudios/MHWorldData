@@ -5,7 +5,7 @@ from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
 from .load import load_schema, load_text, ItemTextHandler, \
                     SkillTextHandler, SharpnessDataReader, \
                     WeaponDataLoader, convert_recipe
-from .items import add_missing_items
+from .items import ItemUpdater
 
 from mhdata import cfg
 
@@ -168,7 +168,7 @@ class WeaponAmmoLoader():
         raise Exception("No suitable name found")
 
 
-def update_weapons():
+def update_weapons(item_updater: ItemUpdater):
     mhdata = load_data()
     print("Existing Data loaded. Using to update weapon info")
 
@@ -364,4 +364,4 @@ def update_weapons():
 
     print("Weapon files updated\n")
 
-    add_missing_items(item_text_handler.encountered, mhdata=mhdata)
+    item_updater.add_missing_items(item_text_handler.encountered)

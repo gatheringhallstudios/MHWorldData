@@ -4,7 +4,7 @@ from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
 from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe, load_armor_series
-from .items import add_missing_items
+from .items import ItemUpdater
 
 from mhdata import cfg
 
@@ -13,7 +13,7 @@ from . import artifacts
 # Index based gender restriction
 gender_list = [None, 'male', 'female', 'both']
 
-def update_armor():
+def update_armor(item_updater: ItemUpdater):
     "Populates and updates armor information using the armorset_base as a source of truth"
     
     armor_series = load_armor_series()
@@ -176,4 +176,4 @@ def update_armor():
 
     print("Armor files updated\n")
 
-    add_missing_items(item_text_handler.encountered, mhdata=mhdata)
+    item_updater.add_missing_items(item_text_handler.encountered)

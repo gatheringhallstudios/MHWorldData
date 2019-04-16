@@ -29,8 +29,7 @@ def weapons():
 @binary_cmd.command()
 def update():
     "Performs an update TODO: COMPLETE"
-    binary.update_armor()
-    binary.update_weapons()
+    binary.update_all()
 
 if __name__ == '__main__':
     merge()

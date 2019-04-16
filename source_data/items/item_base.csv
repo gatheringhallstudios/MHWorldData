@@ -608,6 +608,10 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 602,Warped Feystone,misc,appraisal,7,,,,,Feystone,Red
 603,Sullied Streamstone,misc,appraisal,6,,,,,Streamstone,Gray
 604,Shining Streamstone,misc,appraisal,8,,,,,Streamstone,Gold
+659,Dissolved Weapon,misc,appraisal,4,,,,,,
+660,Melded Weapon,misc,appraisal,5,,,,,,
+661,Sublimated Weapon,misc,appraisal,6,,,,,,
+662,Incandescent Weapon,misc,appraisal,7,,,,,,
 605,White Liver,misc,account,2,,,,40,Meat,White
 606,Wyvern Tear,misc,account,3,,,,200,Body,Blue
 607,Large Wyvern Tear,misc,account,5,,,,500,,
