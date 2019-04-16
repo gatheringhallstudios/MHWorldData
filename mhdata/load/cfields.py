@@ -6,6 +6,7 @@ import collections
 from marshmallow import fields, ValidationError, Schema, pre_load, post_dump
 
 from mhdata.util import group_fields, ungroup_fields
+from mhdata import cfg
 
 def choice_check(*items):
     def validate_fn(check):
@@ -54,6 +55,7 @@ class NestedPrefix(fields.Nested):
 class BaseSchema(Schema):
     "Base class for all schemas in this project"
     __groups__ = ()
+    __translation_groups__ = ()
     class Meta:
         ordered = True
 
@@ -70,10 +72,22 @@ class BaseSchema(Schema):
     def group_fields(self, data):
         if not isinstance(data, collections.Mapping):
             raise TypeError("Invalid data type, perhaps you forgot many=true?")
-        groups = list(self.__groups__ or []) + self.identify_prefixes()
+        groups = (list(self.__groups__ or [])
+                    + list(self.__translation_groups__ or [])
+                    + self.identify_prefixes())
         return group_fields(data, groups=groups)
 
     @post_dump
     def ungroup_fields(self, data):
         groups = list(self.__groups__ or []) + self.identify_prefixes()
-        return ungroup_fields(data, groups=groups)
+        result = ungroup_fields(data, groups=groups)
+
+        # Now weave the translation fields at the end
+        translation_groups = list(self.__translation_groups__ or [])
+        for lang in cfg.all_languages:
+            for field in translation_groups:
+                result[f"{field}_{lang}"] = result[field][lang]
+        for field in translation_groups:
+            del result[field]
+                
+        return result

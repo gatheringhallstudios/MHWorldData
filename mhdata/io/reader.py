@@ -155,6 +155,12 @@ class DataReader:
         The parent_map is updated to map id -> data row.
         Returns the parent_map to support chaining.
 
+        :param key: The dictionary key name in the base map to add the new data under. 
+                    If none, it'll extend the current list
+        :param groups: Additional fields in the data map to group together into one field based on suffix.
+        :param leaftype: Either list or dict, deciding on whether the result of the new data should be a list or just a dict.
+                         Use list if the data is one to many, or dict if its one to one
+
         Language is automatically determined by the name of the first column.
         """
         
@@ -170,14 +176,15 @@ class DataReader:
 
         # Auto detect language
         first_column = next(iter(rows[0].keys()))
-        match = re.match('(base_)?name_([a-zA-Z]+)', first_column)
+        match = re.match('(?:base_)?([a-zA-Z]+)(?:_([a-zA-Z]+))?', first_column)
         if not match:
-            raise Exception("First column needs to be a base_name_{lang} column")
+            raise Exception("First column needs to be a base_{field} or base_{field}_{lang} column")
         
+        fieldname = match.group(1)
         lang = match.group(2)
         data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
 
-        return parent_map.merge(data, lang=lang, key=key)
+        return parent_map.merge(data, field=fieldname, lang=lang, key=key)
 
     def load_split_data_map(self, parent_map : DataMap, data_directory, lang="en", validate=True):
         """Loads a data map by combining separate maps in a folder into one.

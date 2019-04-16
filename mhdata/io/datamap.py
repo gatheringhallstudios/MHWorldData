@@ -172,7 +172,7 @@ class DataMap(collections.abc.Mapping):
         clone_data = self.to_dict()
         return DataMap(clone_data)
 
-    def merge(self, data, *, lang="en", key=None):
+    def merge(self, data, *, field='name', lang='en', key=None):
         """Merges a dictionary keyed by the names in a language to this data map
         
         If a key is given, it will be added under key,
@@ -180,9 +180,15 @@ class DataMap(collections.abc.Mapping):
 
         Returns self to support chaining.
         """
+        def extract_field(entry):
+            value = entry[field]
+            if isinstance(value, collections.Mapping):
+                return value[lang]
+            return value
+
         # validation, make sure it links
-        data_names = self.names(lang)
-        unlinked = [key for key in data.keys() if key not in data_names]
+        entry_map = { extract_field(e):e for e in self.values() }
+        unlinked = [key for key in data.keys() if key not in entry_map.keys()]
         if unlinked:
             raise Exception(
                 "Several invalid names found in sub data map. Invalid entries are " +
@@ -190,7 +196,7 @@ class DataMap(collections.abc.Mapping):
 
         # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():
-            base_entry = self.entry_of(lang, data_key)
+            base_entry = entry_map[data_key]
             
             if key:
                 base_entry[key] = data_entry

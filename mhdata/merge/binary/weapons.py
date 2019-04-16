@@ -2,6 +2,8 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema, datafn
 
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
+from mhw_armor_edit.ftypes.ext import msk
+
 from .load import load_schema, load_text, ItemTextHandler, \
                     SkillTextHandler, SharpnessDataReader, \
                     WeaponDataLoader, convert_recipe
@@ -168,20 +170,17 @@ class WeaponAmmoLoader():
         raise Exception("No suitable name found")
 
 
-def update_weapons(item_updater: ItemUpdater):
-    mhdata = load_data()
-    print("Existing Data loaded. Using to update weapon info")
-
+def update_weapons(mhdata, item_updater: ItemUpdater):
     item_text_handler = ItemTextHandler()
     skill_text_handler = SkillTextHandler()
 
+    print("Beginning load of binary weapon data")
     weapon_loader = WeaponDataLoader()
     notes_data = load_schema(wep_wsl.WepWsl, "common/equip/wep_whistle.wep_wsl")
     sharpness_reader = SharpnessDataReader()
     ammo_reader = WeaponAmmoLoader()
     coating_data = load_schema(bbtbl.Bbtbl, "common/equip/bottle_table.bbtbl")
-
-    print("Loaded initial weapon binary data data")
+    print("Loaded weapon binary data")
 
     def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
@@ -214,6 +213,7 @@ def update_weapons(item_updater: ItemUpdater):
         weapon_trees[weapon_type] = weapon_tree
 
     # Write artifact lines
+    print("Writing artifact files for weapons")
     crafted_lines = []
     isolated_lines = []
     for weapon_type, weapon_tree in weapon_trees.items():
@@ -365,3 +365,73 @@ def update_weapons(item_updater: ItemUpdater):
     print("Weapon files updated\n")
 
     item_updater.add_missing_items(item_text_handler.encountered)
+
+def update_weapon_songs(mhdata):
+    # unfortunately, song data linking is unknown, but we have a few pieces
+    # We know where the text file is, and we know of the id -> notes linking.
+    
+    print("Beginning load of hunting horn melodies")
+    print("Warning: Hunting Horn format is unknown, but we do have a few pieces...")
+    print("We know where the text data, and we know the id -> notes file formats")
+    print("Everything else has to be manually connected.")
+    song_data = load_schema(msk.Msk, 'hm/wp/wp05/music_skill.msk')
+    song_text_data = load_text("common/text/vfont/music_skill")
+
+    # Mapping from english name -> a name dict
+    melody_names_map = {v['en']:v for v in song_text_data.values()}
+
+    print("Writing artifact files for english text entries")
+    artifacts.write_names_artifact("melody_strings_en.txt", melody_names_map.keys())
+
+    # adding NA to melody_names_map
+    melody_names_map['N/A'] = { lang:'N/A' for lang in cfg.all_languages }
+
+    # Create melody id -> all possible songs that apply that melody
+    melody_note_artifacts = []
+    melody_to_notes = {}
+    for song_entry in song_data:
+        notes = ''
+        for i in range(4):
+            note_idx = getattr(song_entry, f'note{i+1}')
+            if note_idx < len(note_colors): # technically int max means note does not exist
+                notes += note_colors[note_idx]
+
+        # write a note of id -> notes for the artifacts 
+        melody_note_artifacts.append(f'{song_entry.id},{notes}')
+        melody_to_notes.setdefault(song_entry.id, [])
+        melody_to_notes[song_entry.id].append(notes)
+
+    print("Writing artifact files for id -> notes")
+    artifacts.write_lines_artifact("melody_notes.txt", melody_note_artifacts)
+
+    print("Merging text values and notes into weapon melodies")
+    fields = ['name', 'effect1', 'effect2']
+    for melody in mhdata.weapon_melodies.values():
+        for field in fields:
+            val_en = melody[field]['en']
+            if val_en not in melody_names_map:
+                print(f"Could not find GMD text entry for {val_en}")
+                continue
+            melody[field] = melody_names_map[val_en]
+
+        if melody.id in melody_to_notes:
+            melody['notes'] = [{'notes': notes} for notes in melody_to_notes[melody.id]]
+        else:
+            print("Could not find binary music notes entries for " + melody['name']['en'])
+
+    # Write new data
+    writer = create_writer()
+
+    writer.save_base_map_csv(
+        "weapons/weapon_melody_base.csv",
+        mhdata.weapon_melodies,
+        schema=schema.WeaponMelodyBaseSchema()
+    )
+
+    writer.save_data_csv(
+        "weapons/weapon_melody_notes.csv",
+        mhdata.weapon_melodies,
+        key='notes'
+    )
+
+    print("Weapon Melody files updated\n")

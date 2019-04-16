@@ -103,7 +103,10 @@ def load_data():
                     .get(schema=schema.WeaponSchema()))
 
     # Load weapon hunting horn songs
-    result.weapon_melodies = reader.load_list_csv("weapons/weapon_melodies.csv", schema=schema.WeaponMelodySchema())
+    result.weapon_melodies = (DataStitcher(reader, dir="weapons")
+                    .base_csv("weapon_melody_base.csv")
+                    .add_csv("weapon_melody_notes.csv", key='notes')
+                    .get(schema=schema.WeaponMelodySchema()))
 
     # Load decoration data
     result.decoration_map = (DataStitcher(reader, dir="decorations/")

@@ -13,7 +13,7 @@ from . import artifacts
 # Index based gender restriction
 gender_list = [None, 'male', 'female', 'both']
 
-def update_armor(item_updater: ItemUpdater):
+def update_armor(mhdata, item_updater: ItemUpdater):
     "Populates and updates armor information using the armorset_base as a source of truth"
     
     armor_series = load_armor_series()
@@ -26,9 +26,6 @@ def update_armor(item_updater: ItemUpdater):
         rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk8 - 1)
     
     print("Binary armor data loaded")
-
-    mhdata = load_data()
-    print("Existing Data loaded. Using existing armorset data to drive new armor data.")
     
     print("Writing list of armorset names (in order) to artifacts")
     artifacts.write_names_artifact('setnames.txt', [s.name['en'] for s in armor_series.values()])

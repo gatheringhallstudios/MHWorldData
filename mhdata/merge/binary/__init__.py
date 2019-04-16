@@ -1,11 +1,16 @@
 def update_all():
     "Updates all supported entity types using merged chunk data from ingame binaries."
     from .armor import update_armor
-    from .weapons import update_weapons
+    from .weapons import update_weapons, update_weapon_songs
     from .items import ItemUpdater
+    from mhdata.load import load_data
+
+    mhdata = load_data()
+    print("Existing Data loaded. Using it as a base to merge new data")
 
     item_updater = ItemUpdater()
-    update_armor(item_updater)
-    update_weapons(item_updater)
+    update_armor(mhdata, item_updater)
+    update_weapons(mhdata, item_updater)
+    update_weapon_songs(mhdata)
     
     item_updater.update_items()

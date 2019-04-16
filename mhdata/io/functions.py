@@ -33,6 +33,10 @@ def flatten(obj, *, nest, prefix={}):
         items = obj
         if not typecheck.is_flat_iterable(obj):
             items = [obj]
+
+        # Error checking, items must be dictionaries
+        if any(not typecheck.is_dict(item) for item in items):
+            raise TypeError("Flattened entries must be a mapping type")
         
         # Extend all items with the prefix and return them
         return [{**prefix, **item} for item in items]
