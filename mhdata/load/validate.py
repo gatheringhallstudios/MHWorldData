@@ -256,10 +256,6 @@ def validate_weapons(mhdata):
         if is_dragon and not has_elderseal:
             errors.append(f"Weapon {name} has a dragon element but no elderseal")
 
-        true_attack = entry['attack'] / cfg.weapon_multiplier[weapon_type]
-        if int(true_attack) != true_attack:
-            print(f"WARNING: Weapon {name} has a suspicious true attack value {true_attack}")
-
     # Validate weapon ammo settings. Bullet types with clip size zero must have "null state" other attributes.
     for name, ammo_entry in mhdata.weapon_ammo_map.items():
         for key, data in ammo_entry.items():

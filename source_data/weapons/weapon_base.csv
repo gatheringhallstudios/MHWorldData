@@ -1617,9 +1617,9 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10369,"Kjárr Fellsword ""Thunder""",great-sword,,Kulve,8,1008,10,,FALSE,Thunder,480,,,,0,0,0,,,,,,,,Critical Element
 10370,"Kjárr Sword ""Spark""",long-sword,,Kulve,8,627,20,,FALSE,Thunder,330,,,,1,0,0,,,,,,,,Critical Element
 10371,"Kjárr Sword ""Stream""",long-sword,,Kulve,8,561,15,,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
-10372,"Kjárr Sword ""Decay""",long-sword,,Kulve,8,676,15,,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
+10372,"Kjárr Sword ""Decay""",long-sword,,Kulve,8,677,15,,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
 10373,"Kjárr Sword ""Magma""",long-sword,,Kulve,8,693,10,15,FALSE,Blast,420,,,,1,0,0,,,,,,,,Critical Status
-10374,"Kjárr Sword ""Water""",long-sword,,Kulve,8,610,15,,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
+10374,"Kjárr Sword ""Water""",long-sword,,Kulve,8,611,15,,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
 10375,"Kjárr Sword ""Fire""",long-sword,,Kulve,8,627,20,,FALSE,Fire,390,,,,0,0,0,,,,,,,,Critical Element
 10376,"Kjárr Sword ""Paralysis""",long-sword,,Kulve,8,528,15,,FALSE,Paralysis,270,,,,0,0,0,,,,,,,,Critical Status
 10377,"Kjárr Slicer ""Numb""",sword-and-shield,,Kulve,8,252,10,,FALSE,Paralysis,210,,,,1,0,0,,,,,,,,Critical Status

@@ -1,3 +1,5 @@
+from decimal import Decimal, ROUND_HALF_UP
+
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema, datafn
 
@@ -258,7 +260,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         # Bind info
         new_entry['weapon_type'] = weapon_type
         new_entry['rarity'] = binary.rarity + 1
-        new_entry['attack'] = binary.raw_damage * multiplier
+        new_entry['attack'] = (binary.raw_damage * multiplier).quantize(Decimal('1.'), rounding=ROUND_HALF_UP)
         new_entry['affinity'] = binary.affinity
         new_entry['defense'] = binary.defense or None
         new_entry['slot_1'] = binary.gem_slot1_lvl
