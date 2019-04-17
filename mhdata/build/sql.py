@@ -467,6 +467,10 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         session.add(ammo)
 
     # Save all weapon melodies
+    # The SQL format was for an older format where the same melody linked to multiple notes.
+    # A refactor will be required at some point to separate melody and the notes to play said melody.
+    # However, that is a breaking change, so we show a warning for now.
+    print("Warning: Weapon Melody SQL format will change in future updates")
     for melody_entry in mhdata.weapon_melodies.values():
         for note_entry in melody_entry['notes']:  
             melody = db.WeaponMelody(
@@ -482,7 +486,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
                     effect2=get_translated(melody_entry, 'effect2', language)
                 ))
 
-        session.add(melody)
+            session.add(melody)
 
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"
