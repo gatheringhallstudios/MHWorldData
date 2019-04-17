@@ -35,7 +35,7 @@ class ItemUpdater:
             key=lambda i: i.order)
         item_text_manager = ItemTextHandler()
 
-        new_item_map = DataMap(languages='en')
+        new_item_map = DataMap(languages='en', start_id=mhdata.item_map.max_id+1)
         unlinked_item_names = OrderedSet()
 
         # First pass. Iterate over existing ingame items and merge with existing data
