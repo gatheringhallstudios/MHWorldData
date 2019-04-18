@@ -238,14 +238,19 @@ Deviljho,Legs (Enraged),,35,32,25,10,10,15,5,15,0
 Deviljho,Tail (Enraged),,38,35,30,5,5,20,5,20,0
 Lavasioth,Head,,15,20,15,50,15,0,0,5,100
 Lavasioth,Head (Wounded),,35,40,35,5,35,15,15,5,100
+Lavasioth,Head (Molten),,55,60,55,0,45,10,10,5,100
 Lavasioth,Neck,,15,15,15,10,10,0,0,5,0
 Lavasioth,Body,,35,35,35,10,10,0,0,5,0
 Lavasioth,Back,,20,20,20,10,15,0,0,5,0
 Lavasioth,Back (Wounded),,35,35,35,5,30,20,20,5,0
+Lavasioth,Back (Molten),,50,45,50,0,35,15,15,5,0
 Lavasioth,Fins,,30,30,30,10,10,0,0,5,0
 Lavasioth,Legs,,15,15,15,10,5,0,0,5,0
 Lavasioth,Legs (Wounded),,30,30,30,5,25,5,5,5,0
+Lavasioth,Legs (Molten),,40,40,40,0,30,5,5,5,0
 Lavasioth,Tail,,20,15,20,10,10,0,0,5,0
+Lavasioth,Tail (Wounded),,35,30,35,5,30,15,15,5,0
+Lavasioth,Tail (Molten),,45,40,45,0,35,10,10,5,0
 Uragaan,Head,,70,80,50,0,20,15,15,20,100
 Uragaan,Jaw,,19,20,10,0,40,5,20,30,100
 Uragaan,Jaw (Wounded),,55,60,40,0,20,5,15,20,100
