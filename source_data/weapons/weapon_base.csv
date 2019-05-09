@@ -281,6 +281,8 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 1199,"Empress Edge ""Blaze""",sword-and-shield,Empress Edge,,8,266,20,,FALSE,Blast,150,,,,1,0,0,,,,,,,,Guts
 1200,"Empress Edge ""Ruin""",sword-and-shield,Empress Edge,,8,280,0,,FALSE,Blast,120,,,,2,0,0,,,,,,,,Hasten Recovery
 1201,"Empress Edge ""Styx""",sword-and-shield,Empress Edge,,8,266,10,,FALSE,Blast,210,,,,3,1,0,,,,,,,,Razor Sharp/Spare Shot
+1258,Witcher's Silver Sword,sword-and-shield,,,7,252,0,,FALSE,Dragon,300,,,high,1,0,0,,,,,,,,
+1259,Witcher's Silver Sword+,sword-and-shield,Witcher's Silver Sword,,8,266,0,,FALSE,Dragon,330,,,high,1,0,0,,,,,,,,
 262,Matched Slicers I,dual-blades,,,1,112,0,,FALSE,,,,,,0,0,0,,,,,,,,
 263,Matched Slicers II,dual-blades,Matched Slicers I,,1,126,0,,FALSE,,,,,,0,0,0,,,,,,,,
 264,Matched Slicers III,dual-blades,Matched Slicers II,,2,140,0,,FALSE,,,,,,0,0,0,,,,,,,,
@@ -372,6 +374,7 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 1205,"Empress Daggers ""Styx""",dual-blades,Empress Daggers,,8,252,10,,FALSE,Blast,120,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
 1206,Downy Crake Brooms,dual-blades,,,3,154,0,,FALSE,Sleep,90,,,,0,0,0,,,,,,,,
 1207,Downy Crake Love,dual-blades,Downy Crake Brooms,,7,252,0,,FALSE,Sleep,120,,,,0,0,0,,,,,,,,
+1260,Zireael,dual-blades,,,8,294,0,,TRUE,Dragon,240,,,high,3,0,0,,,,,,,,
 345,Iron Hammer I,hammer,,,1,416,0,,FALSE,,,,,,0,0,0,,,,,,,,
 346,Iron Hammer II,hammer,Iron Hammer I,,1,468,0,,FALSE,,,,,,0,0,0,,,,,,,,
 347,Iron Hammer III,hammer,Iron Hammer II,,2,520,0,,FALSE,,,,,,0,0,0,,,,,,,,

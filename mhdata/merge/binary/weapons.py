@@ -215,7 +215,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         weapon_trees[weapon_type] = weapon_tree
 
     # Write artifact lines
-    print("Writing artifact files for weapons")
+    print("Writing artifact files for weapons (use it to add new weapons)")
     crafted_lines = []
     isolated_lines = []
     for weapon_type, weapon_tree in weapon_trees.items():
@@ -229,7 +229,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     # Store new weapon entries
     new_weapon_map = DataMap(languages="en", start_id=mhdata.weapon_map.max_id+1)
 
-    # Iterate over weapon types
+    # Iterate over existing weapons, merge new data in
     for existing_entry in mhdata.weapon_map.values():
         weapon_type = existing_entry['weapon_type']
         weapon_tree = weapon_trees[weapon_type]
@@ -382,7 +382,7 @@ def update_weapon_songs(mhdata):
     # Mapping from english name -> a name dict
     melody_names_map = {v['en']:v for v in song_text_data.values()}
 
-    print("Writing artifact files for english text entries")
+    print("Writing artifact files for melody english text entries")
     artifacts.write_names_artifact("melody_strings_en.txt", melody_names_map.keys())
 
     # adding NA to melody_names_map

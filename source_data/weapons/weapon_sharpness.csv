@@ -281,6 +281,8 @@ Empress Edge,FALSE,90,30,60,80,40,100,0
 "Empress Edge ""Blaze""",FALSE,90,30,60,80,40,100,0
 "Empress Edge ""Ruin""",FALSE,90,30,60,80,40,100,0
 "Empress Edge ""Styx""",FALSE,90,30,60,80,40,100,0
+Witcher's Silver Sword,TRUE,250,20,20,20,30,60,0
+Witcher's Silver Sword+,TRUE,240,20,20,20,30,70,0
 Matched Slicers I,FALSE,90,50,80,30,0,0,0
 Matched Slicers II,FALSE,70,70,30,80,0,0,0
 Matched Slicers III,FALSE,50,70,30,100,0,0,0
@@ -372,6 +374,7 @@ Empress Daggers,FALSE,90,30,60,80,40,100,0
 "Empress Daggers ""Styx""",FALSE,90,30,60,80,40,100,0
 Downy Crake Brooms,FALSE,60,50,60,120,10,0,0
 Downy Crake Love,FALSE,90,50,50,80,130,0,0
+Zireael,FALSE,230,20,20,20,30,80,0
 Iron Hammer I,FALSE,100,50,80,20,0,0,0
 Iron Hammer II,FALSE,80,70,30,70,0,0,0
 Iron Hammer III,FALSE,60,70,30,90,0,0,0

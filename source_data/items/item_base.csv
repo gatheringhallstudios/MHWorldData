@@ -468,6 +468,14 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 467,Behemoth Shearclaw,material,,8,,10000,,,Fang,Violet
 468,Behemoth Tail,material,,8,,12000,,,Tail,Violet
 469,Aetheryte Shard,material,,7,,5000,,,Ore,White
+664,Ancient Leshen Claw,material,,7,,3600,,,,
+665,Leshen Skull,material,,7,,4000,,,,
+666,Ancient Leshen Skull,material,,8,,5000,,,,
+667,Cursed Bone,material,,6,,2800,,,,
+668,Ancient Cursed Bone,material,,7,,3400,,,,
+669,Leshen Antlers,material,,6,,3400,,,,
+670,Ancient Leshen Antlers,material,,7,,4000,,,,
+671,Leshen Resin,material,,6,,2600,,,,
 470,Streamstone Shard,material,,6,,1000,,,Streamstone,Violet
 471,Streamstone,material,,7,,2000,,,Streamstone,Violet
 472,Gleaming Streamstone,material,,8,,3000,,,Streamstone,Violet
