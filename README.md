@@ -65,13 +65,15 @@ The data collected by this project is an accumulation of various sources, includ
 We also use [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) for parsing ingame binaries.
 
 ## License
-The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). The data and images are from Monster Hunter World, which is owned by Capcom.
+The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). Data and images are from Monster Hunter World, which is owned by Capcom.
 
 The `mhw_armor_edit/` folder and its contents are public domain. Instead of our silly little extraction, feel free to access the real deal [here](https://github.com/fre-sch/mhw_armor_edit).
 
 You are free to use this database for any purpose.
 
 ## Special Credits
+- Kurohonyon - Leshen Hitzones (except for ice weakness, which was missing)
+- Asterisk - For work on the modding community and completing Leshen Hitzones
 - [Hexhexhex](https://twitter.com/MHhexhexhex) - For releasing certain monster hitzone data.
 - Material - For releasing AT Kulve drop rates.
 - [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from
