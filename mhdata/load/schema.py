@@ -105,7 +105,19 @@ class SkillLevelSchema(BaseSchema):
     description = fields.Dict()
 
 class RecipeSchema(BaseSchema):
-    name_en = fields.Str()
+    base_name_en = fields.Str()
+    item1_name = fields.Str(allow_none=True)
+    item1_qty = fields.Int(allow_none=True)
+    item2_name = fields.Str(allow_none=True)
+    item2_qty = fields.Int(allow_none=True)
+    item3_name = fields.Str(allow_none=True)
+    item3_qty = fields.Int(allow_none=True)
+    item4_name = fields.Str(allow_none=True)
+    item4_qty = fields.Int(allow_none=True)
+
+class RecipeUpgradeSchema(BaseSchema):
+    base_name_en = fields.Str()
+    type = ValidatedStr("Create", "Upgrade")
     item1_name = fields.Str(allow_none=True)
     item1_qty = fields.Int(allow_none=True)
     item2_name = fields.Str(allow_none=True)
@@ -159,10 +171,7 @@ class ArmorSchema(ArmorBaseSchema):
     "Schema for complete armor data"
     # the below are unvalidated, but exist so they're retained
     skills = fields.Dict()
-    craft = fields.Nested('ArmorCraftSchema', many=False, missing={})
-
-class ArmorCraftSchema(RecipeSchema):
-    pass
+    craft = fields.Nested('RecipeSchema', many=False, missing={})
 
 class DecorationBaseSchema(BaseSchema):
     __groups__ = ('name',)
@@ -231,7 +240,7 @@ class WeaponBaseSchema(BaseSchema):
             raise ValidationError(f"invalid notes {notes_str}, notes must be subset of {str(cfg.valid_notes)}")
 
 class WeaponSchema(WeaponBaseSchema):
-    craft = fields.Nested('WeaponCraftSchema', many=True, default={})
+    craft = fields.Nested('RecipeUpgradeSchema', many=True, default={})
     sharpness = fields.Nested('WeaponSharpnessSchema', many=False, missing=None)
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
     gun = fields.Nested('WeaponAmmoSchema', many=False, missing={})
@@ -246,18 +255,6 @@ class WeaponSharpnessSchema(BaseSchema):
     blue = fields.Int()
     white = fields.Int()
     purple = fields.Int()
-
-class WeaponCraftSchema(BaseSchema):
-    base_name_en = fields.Str()
-    type = ValidatedStr("Create", "Upgrade")
-    item1_name = fields.Str(allow_none=True)
-    item1_qty = fields.Int(allow_none=True)
-    item2_name = fields.Str(allow_none=True)
-    item2_qty = fields.Int(allow_none=True)
-    item3_name = fields.Str(allow_none=True)
-    item3_qty = fields.Int(allow_none=True)
-    item4_name = fields.Str(allow_none=True)
-    item4_qty = fields.Int(allow_none=True)
 
 class WeaponBowSchema(BaseSchema):
     base_name_en = fields.Str()
@@ -332,3 +329,18 @@ class WeaponMelodySchema(WeaponMelodyBaseSchema):
 class WeaponMelodyNotesSchema(BaseSchema):
     base_name_en = fields.String()
     notes = fields.String()
+
+class KinsectBaseSchema(BaseSchema):
+    __groups__ = ('name',)
+    id = fields.Int()
+    name = fields.Dict()
+    previous_en = fields.Str(allow_none=True)
+    rarity = fields.Int()
+    attack_type = fields.String()
+    dust_effect = fields.String()
+    power = fields.Int()
+    speed = fields.Int()
+    heal = fields.Int()
+
+class KinsectSchema(KinsectBaseSchema):
+    craft = fields.Nested('RecipeSchema', many=False, missing={})

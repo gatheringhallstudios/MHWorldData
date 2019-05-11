@@ -7,6 +7,7 @@ from mhdata.util import OrderedSet, Sharpness, bidict
 
 from mhw_armor_edit import ftypes
 from mhw_armor_edit.ftypes import gmd, am_dat, arm_up, kire, wp_dat, wp_dat_g, eq_crt, eq_cus, skl_pt_dat
+from mhw_armor_edit.ftypes.ext import rod_inse
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -172,7 +173,7 @@ class SharpnessDataReader():
         }
 
 
-class WeaponDataNode():
+class EquipmentNode():
     "A tree node that holds onto a weapon. Useful for weapon trees"
     def __init__(self, binary, wtype: str, name: dict, tree: str, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
         self.binary = binary
@@ -189,12 +190,12 @@ class WeaponDataNode():
     def id(self):
         return self.binary.id
     
-    def add_child(self, child: 'WeaponDataNode'):
+    def add_child(self, child: 'EquipmentNode'):
         child.parent = self
         self.children.append(child)
 
-class WeaponTree():
-    def __init__(self, weapon_map: Mapping[int, WeaponDataNode]):
+class EquipmentTree():
+    def __init__(self, weapon_map: Mapping[int, EquipmentNode]):
         self.weapon_map = weapon_map
 
         # mini-pass (map by name)
@@ -221,7 +222,7 @@ class WeaponTree():
     def by_name(self, name_en):
         return self.weapon_map_by_name.get(name_en)
 
-    def crafted(self) -> Iterable[WeaponDataNode]:
+    def crafted(self) -> Iterable[EquipmentNode]:
         "Depth-first search iteration of the weapon tree"
         stack = []
         stack.extend(reversed(self.roots))
@@ -232,7 +233,7 @@ class WeaponTree():
             if current_item.children:
                 stack.extend(reversed(current_item.children))
 
-    def isolated(self) -> Iterable[WeaponDataNode]:
+    def isolated(self) -> Iterable[EquipmentNode]:
         "Iteration of the isolated weapons"
         for weapon in self._isolated:
             yield weapon
@@ -255,7 +256,7 @@ class WeaponDataLoader():
             wtype = weapon_types[entry.equip_type]
             self.upgrade_data_map[(wtype, entry.equip_id)] = entry
 
-    def load_tree(self, weapon_type: str) -> WeaponTree:
+    def load_tree(self, weapon_type: str) -> EquipmentTree:
         "Loads the weapon tree of a type"
         binary_weapon_type = weapon_files[weapon_type]
 
@@ -299,7 +300,7 @@ class WeaponDataLoader():
             if binary.tree_id != 0:
                 treename = self.weapon_trees[binary.tree_id]['en']
 
-            weapon_map[binary.id] = WeaponDataNode(
+            weapon_map[binary.id] = EquipmentNode(
                 binary,
                 wtype=weapon_type,
                 name=name,
@@ -330,7 +331,74 @@ class WeaponDataLoader():
                 weapon.children[0].tree = weapon.tree
 
         # Return result - the construction does some processing as well
-        return WeaponTree(weapon_map)
+        return EquipmentTree(weapon_map)
+
+def load_kinsect_tree():
+    kinsect_trees = load_text("common/text/steam/insect_series")
+    kinsect_text = load_text(f"common/text/vfont/rod_insect")
+    kinsect_binaries = load_schema(rod_inse.RodInse, 'common/equip/rod_insect.rod_inse')
+
+    # Load upgrade data entries. These are referenced later when assembling the tree
+    upgrade_data_map = {}
+    upgrade_data = load_schema(eq_cus.EqCus, "common/equip/insect.eq_cus")
+    for entry in upgrade_data.entries:
+        wtype = weapon_types[entry.equip_type]
+        upgrade_data_map[entry.equip_id] = entry
+
+    kinsect_map = {}
+    kinsect_descendants = {}
+    for binary in kinsect_binaries.entries:
+        name = kinsect_text[binary.id]
+        upgrade_recipe = upgrade_data_map.get(binary.id)
+
+        # Pull descendants from upgrade recipe
+        # but clear if there are no ingredients
+        if upgrade_recipe:
+            kinsect_descendants[binary.id] = (
+                upgrade_recipe.descendant1_idx,
+                upgrade_recipe.descendant2_idx,
+                upgrade_recipe.descendant3_idx,
+                upgrade_recipe.descendant4_idx
+            )
+
+            if upgrade_recipe.item1_qty == 0:
+                upgrade_recipe = None
+        
+        if not name['en'] or name['en'] == 'Invalid Message':
+            continue
+
+        kinsect_map[binary.id] = EquipmentNode(
+            binary,
+            name=name,
+            wtype=None,
+            tree=kinsect_trees[binary.tree_id],
+            craft=None, # kinsects are not craftable, only purchaseable
+            upgrade=upgrade_recipe)
+
+    # Second pass - start connecting parents and descendants
+    # Iterate on upgrade recipe as that contains the descendant data
+    for kinsect in kinsect_map.values():
+        descendants = kinsect_descendants.get(kinsect.id, [])
+        if not any(descendants):
+            continue # all are 0, no descendants
+
+        # if the first entry is 0, that means that this is the last upgrade on the tree line.
+        is_last = descendants[0] == 0
+        for descendant_idx in descendants:
+            if descendant_idx == 0:
+                continue
+
+            descendant_id = upgrade_data[descendant_idx].equip_id
+            descendant = kinsect_map[descendant_id]
+            kinsect.add_child(descendant)
+
+        # override tree name for first descendants
+        # There are no splits before final upgrade in the game UI
+        if not is_last:
+            kinsect.children[0].tree = kinsect.tree
+
+    # Return result - the construction does some processing as well
+    return EquipmentTree(kinsect_map)
 
 class ArmorData:
     def __init__(self, binary: am_dat.AmDatEntry, name, recipe):
@@ -427,4 +495,4 @@ def load_armor_series():
     armor_sets.sort(key=lambda a: (a.rank_order, a.order))
 
     return { aset.name['en']:aset for aset in armor_sets }
-    
+

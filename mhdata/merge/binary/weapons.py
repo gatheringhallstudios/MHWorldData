@@ -8,7 +8,7 @@ from mhw_armor_edit.ftypes.ext import msk
 
 from .load import load_schema, load_text, ItemTextHandler, \
                     SkillTextHandler, SharpnessDataReader, \
-                    WeaponDataLoader, convert_recipe
+                    WeaponDataLoader, convert_recipe, load_kinsect_tree
 from .items import ItemUpdater
 
 from mhdata import cfg
@@ -75,6 +75,9 @@ not_rapid = [
     'sticky', 'cluster',
     'recover', 'poison', 'paralysis', 'sleep', 'slicing',
     'dragon', 'demon', 'armor', 'tranq', 'wyvern']
+
+kinsect_attack_types = ['Sever', 'Blunt']
+kinsect_dusts = ['Blast', 'Heal', 'Paralysis', 'Poison']
 
 def ammotype_has_rapid(ammo_type: str):
     for val in not_rapid:
@@ -227,7 +230,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
 
     # Store new weapon entries
-    new_weapon_map = DataMap(languages="en", start_id=mhdata.weapon_map.max_id+1)
+    new_weapon_map = DataMap(languages=["en"], start_id=mhdata.weapon_map.max_id+1)
 
     # Iterate over existing weapons, merge new data in
     for existing_entry in mhdata.weapon_map.values():
@@ -355,7 +358,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         "weapons/weapon_craft.csv",
         new_weapon_map, 
         key="craft",
-        schema=schema.WeaponCraftSchema()
+        schema=schema.RecipeUpgradeSchema()
     )
 
     writer.save_keymap_csv(
@@ -366,6 +369,61 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
 
     print("Weapon files updated\n")
 
+    item_updater.add_missing_items(item_text_handler.encountered)
+
+def update_kinsects(mhdata, item_updater):
+    item_text_handler = ItemTextHandler()
+    
+    print('Loading kinsect info')
+
+    kinsect_tree = load_kinsect_tree()
+
+    def resolve_parent_name(entry):
+        if entry.parent:
+            return entry.parent.name['en']
+        return ''
+
+    items = [f"{r.id},{r.name['en']},{resolve_parent_name(r)}" for r in kinsect_tree.crafted()]
+    artifacts.write_artifact('kinsect_all.txt', *items)
+    items = [f"{r.id},{r.name['en']}" for r in kinsect_tree.roots]
+    artifacts.write_artifact('kinsect_roots.txt', *items)
+
+    kinsect_map = DataMap(languages=['en'])
+    for kinsect_node in kinsect_tree.crafted():
+        binary = kinsect_node.binary
+        new_entry = kinsect_map.insert({
+            'id': binary.id + 1,
+            'name': kinsect_node.name,
+            'previous_en': resolve_parent_name(kinsect_node),
+            'rarity': binary.rarity + 1,
+            'attack_type': kinsect_attack_types[binary.attack_type],
+            'dust_effect': kinsect_dusts[binary.dust_type],
+            'power': binary.power,
+            'speed': binary.speed,
+            'heal': binary.heal
+        })
+
+        if kinsect_node.upgrade:
+            new_entry['craft'] = convert_recipe(item_text_handler, kinsect_node.upgrade)
+
+    # Write new data
+    writer = create_writer()
+
+    writer.save_base_map_csv(
+        "weapons/kinsect_base.csv",
+        kinsect_map,
+        schema=schema.KinsectBaseSchema(),
+        translation_filename="weapons/kinsect_base_translations.csv"
+    )
+
+    writer.save_data_csv(
+        "weapons/kinsect_craft_ext.csv",
+        kinsect_map, 
+        key="craft",
+        schema=schema.RecipeSchema()
+    )
+    
+    print("Kinsect files updated\n")
     item_updater.add_missing_items(item_text_handler.encountered)
 
 def update_weapon_songs(mhdata):

@@ -1,0 +1,63 @@
+id,name_en,previous_en,rarity,attack_type,dust_effect,power,speed,heal
+1,Culldrone I,,1,Sever,Poison,1,1,1
+2,Culldrone II,Culldrone I,2,Sever,Poison,2,2,2
+3,Culldrone III,Culldrone II,2,Sever,Poison,3,3,3
+4,Alucanid I,Culldrone III,3,Sever,Poison,6,3,4
+5,Alucanid II,Alucanid I,4,Sever,Poison,8,4,6
+6,Alucanid III,Alucanid II,4,Sever,Poison,10,5,8
+7,Monarch Alucanid I,Alucanid III,5,Sever,Poison,12,6,9
+8,Monarch Alucanid II,Monarch Alucanid I,6,Sever,Poison,13,6,10
+9,Monarch Alucanid III,Monarch Alucanid II,7,Sever,Poison,14,7,11
+10,Empresswing I,Alucanid III,5,Sever,Blast,13,5,8
+11,Empresswing II,Empresswing I,6,Sever,Blast,14,5,9
+12,Empresswing III,Empresswing II,7,Sever,Blast,15,5,10
+13,Rigiprayne I,Culldrone III,3,Sever,Paralysis,3,3,8
+14,Rigiprayne II,Rigiprayne I,4,Sever,Paralysis,3,4,9
+15,Rigiprayne III,Rigiprayne II,4,Sever,Paralysis,4,4,11
+16,Cancadaman I,Rigiprayne III,5,Sever,Paralysis,4,10,13
+17,Cancadaman II,Cancadaman I,6,Sever,Paralysis,4,11,14
+18,Cancadaman III,Cancadaman II,7,Sever,Paralysis,4,12,15
+19,Fiddlebrix I,Rigiprayne III,5,Sever,Blast,9,4,13
+20,Fiddlebrix II,Fiddlebrix I,6,Sever,Blast,10,4,14
+21,Fiddlebrix III,Fiddlebrix II,7,Sever,Blast,11,4,15
+22,Windchopper I,Culldrone III,3,Sever,Heal,4,6,3
+23,Windchopper II,Windchopper I,4,Sever,Heal,4,8,3
+24,Windchopper III,Windchopper II,4,Sever,Heal,4,10,3
+25,Grancathar I,Windchopper III,5,Sever,Heal,4,13,7
+26,Grancathar II,Grancathar I,6,Sever,Heal,4,14,9
+27,Grancathar III,Grancathar II,7,Sever,Heal,4,15,11
+28,Pseudocath I,Windchopper III,5,Sever,Blast,8,13,3
+29,Pseudocath II,Pseudocath I,6,Sever,Blast,10,14,3
+30,Pseudocath III,Pseudocath II,7,Sever,Blast,12,15,3
+31,Mauldrone I,,1,Blunt,Heal,1,1,1
+32,Mauldrone II,Mauldrone I,2,Blunt,Heal,2,2,2
+33,Mauldrone III,Mauldrone II,2,Blunt,Heal,3,3,3
+34,Foebeetle I,Mauldrone III,3,Blunt,Poison,6,4,4
+35,Foebeetle II,Foebeetle I,4,Blunt,Poison,8,5,4
+36,Foebeetle III,Foebeetle II,4,Blunt,Poison,10,6,4
+37,Carnage Beetle I,Foebeetle III,5,Blunt,Poison,11,8,4
+38,Carnage Beetle II,Carnage Beetle I,6,Blunt,Poison,12,9,4
+39,Carnage Beetle III,Carnage Beetle II,7,Blunt,Poison,13,11,4
+40,Bonnetfille I,Foebeetle III,5,Blunt,Blast,12,6,6
+41,Bonnetfille II,Bonnetfille I,6,Blunt,Blast,13,6,7
+42,Bonnetfille III,Bonnetfille II,7,Blunt,Blast,14,6,8
+43,Ladytarge I,Mauldrone III,3,Blunt,Paralysis,4,4,6
+44,Ladytarge II,Ladytarge I,4,Blunt,Paralysis,4,5,7
+45,Ladytarge III,Ladytarge II,4,Blunt,Paralysis,5,6,8
+46,Ladypavise I,Ladytarge III,5,Blunt,Paralysis,7,6,13
+47,Ladypavise II,Ladypavise I,6,Blunt,Paralysis,8,6,14
+48,Ladypavise III,Ladypavise II,7,Blunt,Paralysis,9,6,15
+49,Arkmaiden I,Ladytarge III,5,Blunt,Blast,5,6,13
+50,Arkmaiden II,Arkmaiden I,6,Blunt,Blast,6,6,14
+51,Arkmaiden III,Arkmaiden II,7,Blunt,Blast,7,6,15
+52,Gullshad I,Mauldrone III,3,Blunt,Heal,3,6,4
+53,Gullshad II,Gullshad I,4,Blunt,Heal,3,8,4
+54,Gullshad III,Gullshad II,4,Blunt,Heal,3,10,5
+55,Bullshroud I,Gullshad III,5,Blunt,Heal,5,13,5
+56,Bullshroud II,Bullshroud I,6,Blunt,Heal,5,14,6
+57,Bullshroud III,Bullshroud II,7,Blunt,Heal,5,15,7
+58,Whispervesp I,Gullshad III,5,Blunt,Blast,3,12,8
+59,Whispervesp II,Whispervesp I,6,Blunt,Blast,3,13,9
+60,Whispervesp III,Whispervesp II,7,Blunt,Blast,3,15,11
+61,Dragon Soul,,6,Blunt,Blast,12,11,1
+62,True Dragon Soul,Dragon Soul,7,Blunt,Blast,15,14,1

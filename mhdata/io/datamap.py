@@ -136,7 +136,7 @@ class DataMap(collections.abc.Mapping):
 
         return self._add_entry(entry_id, entry)
 
-    def insert(self, entry: dict):
+    def insert(self, entry: dict) -> DataRow:
         """Inserts a dictionary as a new entry
         
         If the entry has an id field, it is used (and changed to an int)
