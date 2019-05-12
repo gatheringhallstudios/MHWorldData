@@ -36,17 +36,10 @@ def iter_armorset_pieces(armorset):
 
 def iter_armor_recipe(armor):
     "Iterates over the items in an armor recipe, returning (name, qty) tuples"
-    for idx in range(1, cfg.max_recipe_item_count + 1):
-        item_name = armor['craft'][f'item{idx}_name']
-        quantity = armor['craft'][f'item{idx}_qty']
-        
-        if not item_name:
-            break
+    return iter_recipe(armor['craft'])
 
-        yield (item_name, quantity)
-
-def iter_weapon_recipe(recipe):
-    "Iterates over the items in a weapon recipe, returning (name, qty) tuples"
+def iter_recipe(recipe):
+    "Iterates over the items in a recipe, returning (name, qty) tuples"
     for idx in range(1, cfg.max_recipe_item_count + 1):
         item_name = recipe[f'item{idx}_name']
         quantity = recipe[f'item{idx}_qty']

@@ -647,3 +647,32 @@ class CharmText(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
     description = Column(Text)
+
+class Kinsect(Base):
+    __tablename__ = 'kinsect'
+    id = Column(Integer, primary_key=True)
+    rarity = Column(Integer)
+    
+    previous_kinsect_id = Column(ForeignKey("kinsect.id"), nullable=True)
+
+    attack_type = Column(Text)
+    dust_effect = Column(Text)
+    power = Column(Integer)
+    speed = Column(Integer)
+    heal = Column(Integer)
+
+    final = Column(Boolean, default=False)
+
+    translations = relationship("KinsectText")
+
+class KinsectText(Base):
+    __tablename__ = 'kinsect_text'
+    id = Column(Integer, ForeignKey('kinsect.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+
+class KinsectRecipe(Base):
+    __tablename__ = 'kinsect_recipe'
+    kinsect_id = Column(Integer, ForeignKey("weapon.id"), primary_key=True)
+    item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
+    quantity = Column(Integer)

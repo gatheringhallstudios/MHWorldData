@@ -108,6 +108,13 @@ def load_data():
                     .add_csv("weapon_melody_notes.csv", key='notes')
                     .get(schema=schema.WeaponMelodySchema()))
 
+    # Load Kinsects
+    result.kinsect_map = (DataStitcher(reader, dir='weapons/')
+                    .base_csv('kinsect_base.csv')
+                    .extend_base('kinsect_base_translations.csv')
+                    .add_csv_ext('kinsect_craft_ext.csv', key='craft')
+                    .get(schema=schema.KinsectSchema()))
+
     # Load decoration data
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
                     .base_csv("decoration_base.csv")

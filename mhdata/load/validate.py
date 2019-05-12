@@ -229,7 +229,7 @@ def validate_weapons(mhdata):
             else:
                 # Check if items in the recipe exist
                 for recipe in entry['craft']:
-                    for item, quantity in datafn.iter_weapon_recipe(recipe):
+                    for item, quantity in datafn.iter_recipe(recipe):
                         if item not in mhdata.item_map.names('en'):
                             errors.append(f"Weapon {name} has invalid item {item} in a recipe")
         

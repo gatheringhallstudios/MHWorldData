@@ -33,6 +33,7 @@ def build_sql_database(output_filename, mhdata):
         build_skills(session, mhdata)
         build_armor(session, mhdata)
         build_weapons(session, mhdata)
+        build_kinsects(session, mhdata)
         build_decorations(session, mhdata)
         build_charms(session, mhdata)
         
@@ -561,7 +562,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             if recipe_type == "Create":
                 weapon.craftable = True
                 
-            for item, quantity in datafn.iter_weapon_recipe(recipe):
+            for item, quantity in datafn.iter_recipe(recipe):
                 item_id = item_map.id_of("en", item)
                 session.add(db.WeaponRecipe(
                     weapon_id = weapon_id,
@@ -596,6 +597,54 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         session.add(weapon)
 
     print("Built Weapons")
+
+def build_kinsects(session: sqlalchemy.orm.Session, mhdata):
+    # Prepass to determine which entries are "final"
+    # Those that are a previous to another are "not final"
+    all_final = set(mhdata.kinsect_map.keys())
+    for entry in mhdata.kinsect_map.values():
+        if not entry.get('previous_en', None):
+            continue
+        try:
+            prev_id = mhdata.kinsect_map.id_of('en', entry['previous_en'])
+            all_final.remove(prev_id)
+        except KeyError:
+            pass
+
+    # Save kinsects
+    for entry in mhdata.kinsect_map.values():
+        kinsect = db.Kinsect(
+            id=entry.id,
+            rarity=entry['rarity'],
+            previous_kinsect_id=mhdata.kinsect_map.id_of('en', entry['previous_en']),
+            attack_type=entry['attack_type'],
+            dust_effect=entry['dust_effect'],
+            power=entry['power'],
+            speed=entry['speed'],
+            heal=entry['heal'],
+            final= entry.id in all_final
+        )
+        
+        # Add language translations
+        for language in cfg.supported_languages:
+            kinsect.translations.append(db.KinsectText(
+                lang_id=language,
+                name=get_translated(entry, 'name', language)
+            ))
+
+        recipe = entry.get('craft', None)
+        if recipe:
+            for item, quantity in datafn.iter_recipe(recipe):
+                item_id = mhdata.item_map.id_of("en", item)
+                session.add(db.KinsectRecipe(
+                    kinsect_id = entry.id,
+                    item_id = item_id,
+                    quantity = quantity
+                ))
+
+        session.add(kinsect)
+
+    print("Built Kinsects")
 
 def build_decorations(session : sqlalchemy.orm.Session, mhdata):
     "Performs the build process for decorations. Must be done after skills"
