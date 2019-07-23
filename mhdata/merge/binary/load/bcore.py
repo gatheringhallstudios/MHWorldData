@@ -27,6 +27,9 @@ lang_map = {
     'ara': 'ar',
 }
 
+def get_chunk_root():
+    return CHUNK_DIRECTORY
+
 def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.StructFile:
     "Uses an ftypes struct file class to load() a file relative to the chunk directory"
     with open(join(CHUNK_DIRECTORY, relative_dir), 'rb') as f:

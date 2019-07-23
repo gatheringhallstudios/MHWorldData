@@ -121,4 +121,9 @@ def load_data():
                     .extend_base('decoration_base_translations.csv')
                     .get(schema=schema.DecorationSchema()))
 
+    # Load Quest data
+    result.quest_map = (DataStitcher(reader, dir="quests/")
+                    .base_csv("quest_base.csv")
+                    .get(schema=schema.QuestBaseSchema()))
+
     return result

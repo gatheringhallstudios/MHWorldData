@@ -4,8 +4,9 @@ from mhdata.util import OrderedSet, bidict
 from mhw_armor_edit.ftypes import skl_pt_dat
 
 # What we're exporting
-from .bcore import load_schema, load_text
+from .bcore import load_schema, load_text, get_chunk_root
 from .equipment_bload import SharpnessDataReader, WeaponDataLoader, load_kinsect_tree, load_armor_series
+from .quest_bload import load_quests
 
 class ItemTextHandler():
     "A class that loads item text and tracks encountered items"
@@ -56,4 +57,3 @@ class SkillTextHandler():
 
     def get_skilltree(self, name_en: str) -> skl_pt_dat.SklPtDatEntry:
         return self.skill_map[name_en]
-
