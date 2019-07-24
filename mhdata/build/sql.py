@@ -7,6 +7,7 @@ from mhdata.util import ensure, ensure_warn, get_duplicates
 from mhdata.load import datafn
 
 from .objectindex import ObjectIndex
+from .itemtracker import ItemTracker
 
 def get_translated(obj, attr, lang):
     value = obj[attr].get(lang, None)
@@ -25,22 +26,27 @@ def build_sql_database(output_filename, mhdata):
                 is_complete=(language not in cfg.incomplete_languages)
             ))
 
+        # Create object used for detecting if an item is unmapped
+        item_tracker = ItemTracker(mhdata)
+
         # Build the individual components
         # These functions are defined lower down in the file
-        build_items(session, mhdata)
-        build_locations(session, mhdata)
-        build_monsters(session, mhdata)
+        build_items(session, mhdata, item_tracker)
+        build_locations(session, mhdata, item_tracker)
+        build_monsters(session, mhdata, item_tracker)
         build_skills(session, mhdata)
         build_armor(session, mhdata)
         build_weapons(session, mhdata)
         build_kinsects(session, mhdata)
         build_decorations(session, mhdata)
         build_charms(session, mhdata)
+
+        item_tracker.print_unmarked()
         
     print("Finished build")
 
 
-def build_items(session : sqlalchemy.orm.Session, mhdata):
+def build_items(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     # Save basic item data first
     for entry in mhdata.item_map.values():
         item = db.Item(id=entry.id)
@@ -65,10 +71,12 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
 
     # Now save item combination data
     for entry in mhdata.item_combinations:
-        # should have been validated already
+        result_id = mhdata.item_map.id_of('en', entry['result'])
+        item_tracker.mark_encountered_id(result_id)
+
         session.add(db.ItemCombination(
             id=entry['id'],
-            result_id=mhdata.item_map.id_of('en', entry['result']),
+            result_id=result_id,
             first_id=mhdata.item_map.id_of('en', entry['first']),
             second_id=mhdata.item_map.id_of('en', entry['second']),
             quantity=entry['quantity']
@@ -76,7 +84,7 @@ def build_items(session : sqlalchemy.orm.Session, mhdata):
     
     print("Built Items")
 
-def build_locations(session : sqlalchemy.orm.Session, mhdata):
+def build_locations(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     for order_id, entry in enumerate(mhdata.location_map.values()):
         location_name = entry['name']['en']
 
@@ -92,6 +100,8 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
             item_lang = item_entry['item_lang']
             item_name = item_entry['item']
             item_id = mhdata.item_map.id_of(item_lang, item_name)
+
+            item_tracker.mark_encountered_id(item_id)
 
             session.add(db.LocationItem(
                 location_id=entry.id,
@@ -114,7 +124,7 @@ def build_locations(session : sqlalchemy.orm.Session, mhdata):
             
     print("Built locations")
 
-def build_monsters(session : sqlalchemy.orm.Session, mhdata):
+def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     item_map = mhdata.item_map
     location_map = mhdata.location_map
     monster_map = mhdata.monster_map
@@ -236,6 +246,8 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata):
 
             condition_id = monster_reward_conditions_map.id_of('en', condition_en)
             item_id = item_map.id_of('en', item_name)
+
+            item_tracker.mark_encountered_id(item_id)
 
             monster.rewards.append(db.MonsterReward(
                 condition_id=condition_id,
