@@ -97,9 +97,6 @@ def validate_monster_rewards(mhdata):
 
         monster_name = entry.name('en') # used for error display
 
-        # accumulates percentages by rank
-        reward_percentages = { rank:[] for rank in cfg.supported_ranks }
-
         valid = True
         for reward in entry['rewards']:
             condition = reward['condition_en']
@@ -125,6 +122,17 @@ def validate_monster_rewards(mhdata):
         rank_reward_key_fn = lambda r: (r['rank'], r['condition_en'])
         sorted_rewards = sorted(entry['rewards'], key=rank_reward_key_fn)
         for (rank, condition), items in itertools.groupby(sorted_rewards, rank_reward_key_fn):
+            items = list(items)
+
+            # Check if any item is considered unknown. If any are, all must be unknown.
+            num_unknown_percent = len([i for i in items if i['percentage'] is None])
+            if num_unknown_percent == len(items):
+                continue
+            elif num_unknown_percent > 0:
+                errors.add(f"Error with {monster_name} rewards" +
+                    f" - entries for ({rank}, {condition}) must all be blank or must all have a percentage.")
+                continue
+
             percentage_sum = sum((int(r['percentage']) for r in items), 0)
 
             key_str = f"(rank {rank} condition {condition})"

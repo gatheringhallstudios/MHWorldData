@@ -254,7 +254,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
                 rank=rank,
                 item_id=item_id,
                 stack=reward['stack'],
-                percentage=reward['percentage']
+                percentage=reward['percentage'] or 0
             ))
 
         # Save Habitats

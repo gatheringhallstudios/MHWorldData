@@ -3,7 +3,7 @@ class ItemTracker:
         self.all_items = {}
         self.all_items_rev = {}
         for entry in mhdata.item_map.values():
-            if entry['buy_price']:
+            if entry['buy_price'] or entry['subcategory'] in ('trade', 'account', 'supply'):
                 continue
             self.all_items[entry.id] = entry['name']['en']
             self.all_items_rev[entry['name']['en']] = entry.id
