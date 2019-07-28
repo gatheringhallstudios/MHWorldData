@@ -1,3 +1,7 @@
+'''
+Module file detected to loading quest binary data, but not saving or converting it.
+'''
+
 from typing import Iterable
 from pathlib import Path
 from Crypto.Cipher import Blowfish
@@ -75,6 +79,14 @@ class RemFile(ft.Struct):
     item_ids: ext.blist(ft.uint(), count=16)
     item_qtys: ext.blist(ft.ubyte(), count=16)
     item_chances: ext.blist(ft.ubyte(), count=16)
+
+    def iter_items(self):
+        for i in range(16):
+            item_id = self.item_ids[i]
+            item_qty = self.item_qtys[i]
+            item_chance = self.item_chances[i]
+            if item_id and item_qty and item_chance:
+                yield (item_id, item_qty, item_chance)
 
 class QuestInfo:
     "An encapsulation of quest binary data and referenced cross data"

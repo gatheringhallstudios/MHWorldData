@@ -21,9 +21,13 @@ item_type_list = [
 class ItemUpdater:
     def __init__(self):
         self.encountered_item_ids = set()
+        self.item_text_manager = ItemTextHandler()
         
     def add_missing_items(self, encountered_item_ids: Iterable[int]):
         self.encountered_item_ids.update(encountered_item_ids)
+
+    def name_and_description_for(self, binary_item_id):
+        return self.item_text_manager.text_for(binary_item_id)
         
     def update_items(self, *, mhdata=None):
         if not mhdata:
@@ -33,14 +37,13 @@ class ItemUpdater:
         item_data = sorted(
             load_schema(itm.Itm, "common/item/itemData.itm").entries,
             key=lambda i: i.order)
-        item_text_manager = ItemTextHandler()
 
         new_item_map = DataMap(languages='en', start_id=mhdata.item_map.max_id+1)
         unlinked_item_names = OrderedSet()
 
         # First pass. Iterate over existing ingame items and merge with existing data
         for entry in item_data:
-            name_dict, description_dict = item_text_manager.text_for(entry.id)
+            name_dict, description_dict = self.name_and_description_for(entry.id)
             existing_item = mhdata.item_map.entry_of('en', name_dict['en'])
 
             is_encountered = entry.id in self.encountered_item_ids

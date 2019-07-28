@@ -14,7 +14,7 @@ def update_all():
     update_weapons(mhdata, item_updater)
     update_weapon_songs(mhdata)
     update_kinsects(mhdata, item_updater)
-    update_quests(mhdata)
+    update_quests(mhdata, item_updater)
     
     # Now finalize the item updates from parsing the rest of the data
     item_updater.update_items()
