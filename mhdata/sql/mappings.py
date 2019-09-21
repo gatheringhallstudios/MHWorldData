@@ -291,6 +291,8 @@ class Armor(Base):
     armor_type = Column(Text)
     armorset_id = Column(Integer, ForeignKey("armorset.id"))
     armorset_bonus_id = Column(Integer)
+    
+    recipe_id = Column(ForeignKey("recipe_item.recipe_id"), nullable=True)
 
     male = Column(Boolean)
     female = Column(Boolean)
@@ -308,7 +310,7 @@ class Armor(Base):
 
     translations = relationship("ArmorText")
     skills = relationship("ArmorSkill")
-    craft_items = relationship("ArmorRecipe")
+    craft_items = relationship("RecipeItem", uselist=True)
 
     armorset = relationship("ArmorSet", back_populates="armor")
 
@@ -324,12 +326,6 @@ class ArmorSkill(Base):
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     level = Column(Integer)
 
-class ArmorRecipe(Base):
-    __tablename__ = 'armor_recipe'
-    armor_id = Column(Integer, ForeignKey('armor.id'), primary_key=True)
-    item_id = Column(Integer, ForeignKey('item.id'), primary_key=True)
-    quantity = Column(Integer)
-
 class Weapon(Base):
     __tablename__ = "weapon"
     id = Column(Integer, primary_key=True)
@@ -337,6 +333,10 @@ class Weapon(Base):
     weapon_type = Column(Text)
     rarity = Column(Integer)
     category = Column(Text)
+
+    previous_weapon_id = Column(ForeignKey("weapon.id"), nullable=True)
+    create_recipe_id = Column(ForeignKey('recipe_item.recipe_id'), nullable=True)
+    upgrade_recipe_id = Column(ForeignKey('recipe_item.recipe_id'), nullable=True)
     
     attack = Column(Integer)
     attack_true = Column(Integer)
@@ -356,7 +356,6 @@ class Weapon(Base):
     sharpness = Column(Text)
     sharpness_maxed = Column(Boolean)
 
-    previous_weapon_id = Column(ForeignKey("weapon.id"), nullable=True)
     craftable = Column(Boolean, default=False)
     final = Column(Boolean, default=False)
 
@@ -565,13 +564,6 @@ class WeaponAmmo(Base):
     tranq_recoil = Column(Integer)
     tranq_reload = Column(Text)
 
-class WeaponRecipe(Base):
-    __tablename__ = 'weapon_recipe'
-    weapon_id = Column(Integer, ForeignKey("weapon.id"), primary_key=True)
-    item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
-    recipe_type = Column(Text, primary_key=True)
-    quantity = Column(Integer)
-
 class WeaponMelody(Base):
     __tablename__ = 'weapon_melody'
     id = Column(Integer, primary_key=True)
@@ -622,11 +614,13 @@ class Charm(Base):
 
     id = Column(Integer, primary_key=True)
     order_id = Column(Integer)
-    previous_id = Column(Integer, ForeignKey('charm.id'))
     rarity = Column(Integer)
+    
+    previous_id = Column(Integer, ForeignKey('charm.id'))
+    recipe_id = Column(Integer, ForeignKey('recipe_item.recipe_id'))
 
     skills = relationship('CharmSkill')
-    craft_items = relationship('CharmRecipe')
+    craft_items = relationship('RecipeItem', uselist=True)
     translations = relationship('CharmText')
 
 class CharmSkill(Base):
@@ -634,12 +628,6 @@ class CharmSkill(Base):
     charm_id = Column(Integer, ForeignKey('charm.id'), primary_key=True)
     skilltree_id = Column(Integer, ForeignKey('skilltree.id'), primary_key=True)
     level = Column(Integer)
-
-class CharmRecipe(Base):
-    __tablename__ = 'charm_recipe'
-    charm_id = Column(Integer, ForeignKey("charm.id"), primary_key=True)
-    item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
-    quantity = Column(Integer)
 
 class CharmText(Base):
     __tablename__ = 'charm_text'
@@ -654,6 +642,7 @@ class Kinsect(Base):
     rarity = Column(Integer)
     
     previous_kinsect_id = Column(ForeignKey("kinsect.id"), nullable=True)
+    recipe_id = Column(ForeignKey("recipe_item.recipe_id"), nullable=True)
 
     attack_type = Column(Text)
     dust_effect = Column(Text)
@@ -664,6 +653,7 @@ class Kinsect(Base):
     final = Column(Boolean, default=False)
 
     translations = relationship("KinsectText")
+    craft_items = relationship("RecipeItem", uselist=True)
 
 class KinsectText(Base):
     __tablename__ = 'kinsect_text'
@@ -671,8 +661,8 @@ class KinsectText(Base):
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
     name = Column(Text)
 
-class KinsectRecipe(Base):
-    __tablename__ = 'kinsect_recipe'
-    kinsect_id = Column(Integer, ForeignKey("weapon.id"), primary_key=True)
+class RecipeItem(Base):
+    __tablename__ = 'recipe_item'
+    recipe_id = Column(Integer, primary_key=True)
     item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
     quantity = Column(Integer)

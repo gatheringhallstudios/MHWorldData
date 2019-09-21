@@ -1,4 +1,5 @@
 import sqlalchemy.orm
+from sqlalchemy import func
 import mhdata.sql as db
 
 from mhdata import cfg
@@ -12,6 +13,12 @@ from .itemtracker import ItemTracker
 def get_translated(obj, attr, lang):
     value = obj[attr].get(lang, None)
     return value or obj[attr]['en']
+
+def calculate_next_recipe_id(session):
+    current_max = session.query(func.max(db.RecipeItem.recipe_id)).scalar() 
+    if not current_max:
+        return 1
+    return current_max + 1
 
 def build_sql_database(output_filename, mhdata):
     "Builds a SQLite database and outputs to output_filename"
@@ -365,6 +372,9 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             armor_reverse_id = mhdata.armor_map.id_of('en', entry[part])
             armor_to_armorset[armor_reverse_id] = set_id
 
+    # Store recipe id to start from for armor
+    next_recipe_id = calculate_next_recipe_id(session)
+
     # Write entries for armor
     for order_id, entry in enumerate(armor_map.values()):
         armor_name_en = entry.name('en')
@@ -410,10 +420,13 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
         # Armor Crafting
         for item_name, quantity in datafn.iter_armor_recipe(entry):
             item_id = item_map.id_of('en', item_name)
-            armor.craft_items.append(db.ArmorRecipe(
+            armor.craft_items.append(db.RecipeItem(
+                recipe_id=next_recipe_id,
                 item_id=item_id,
                 quantity=quantity
             ))
+
+        next_recipe_id += 1
 
         session.add(armor)
 
@@ -513,6 +526,9 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         except KeyError:
             pass
 
+    # Query next recipe id beforehand
+    next_recipe_id = calculate_next_recipe_id(session)
+
     # now iterate over actual weapons
     for idx, entry in enumerate(weapon_map.values()):
         weapon_id = entry.id
@@ -573,15 +589,19 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             recipe_type = recipe['type']
             if recipe_type == "Create":
                 weapon.craftable = True
+                weapon.create_recipe_id = next_recipe_id
+            else:
+                weapon.upgrade_recipe_id = next_recipe_id
                 
             for item, quantity in datafn.iter_recipe(recipe):
                 item_id = item_map.id_of("en", item)
-                session.add(db.WeaponRecipe(
-                    weapon_id = weapon_id,
-                    item_id = item_id,
-                    quantity = quantity,
-                    recipe_type = recipe_type
+                session.add(db.RecipeItem(
+                    recipe_id=next_recipe_id,
+                    item_id=item_id,
+                    quantity=quantity
                 ))
+
+            next_recipe_id += 1
 
         # Bow data (if any)
         if entry.get("bow", None):
@@ -623,6 +643,9 @@ def build_kinsects(session: sqlalchemy.orm.Session, mhdata):
         except KeyError:
             pass
 
+    # Store next recipe id ahead of time
+    next_recipe_id = calculate_next_recipe_id(session)
+
     # Save kinsects
     for entry in mhdata.kinsect_map.values():
         kinsect = db.Kinsect(
@@ -644,15 +667,17 @@ def build_kinsects(session: sqlalchemy.orm.Session, mhdata):
                 name=get_translated(entry, 'name', language)
             ))
 
+        # Save kinsect recipe
         recipe = entry.get('craft', None)
         if recipe:
             for item, quantity in datafn.iter_recipe(recipe):
                 item_id = mhdata.item_map.id_of("en", item)
-                session.add(db.KinsectRecipe(
-                    kinsect_id = entry.id,
-                    item_id = item_id,
-                    quantity = quantity
+                kinsect.craft_items.append(db.RecipeItem(
+                    recipe_id=next_recipe_id,
+                    item_id=item_id,
+                    quantity=quantity
                 ))
+            next_recipe_id += 1
 
         session.add(kinsect)
 
@@ -725,12 +750,14 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
                 level=level
             ))
 
+        charm.recipe_id = calculate_next_recipe_id(session)
         for item_en, quantity in entry['craft'].items():
             item_id = item_map.id_of('en', item_en)
             ensure(item_id, f"Charm {entry.name('en')} refers to " +
                 f"item {item_en}, which doesn't exist.")
 
-            charm.craft_items.append(db.CharmRecipe(
+            charm.craft_items.append(db.RecipeItem(
+                recipe_id=charm.recipe_id,
                 item_id=item_id,
                 quantity=quantity
             ))
