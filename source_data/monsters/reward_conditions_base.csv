@@ -6,6 +6,7 @@ Shiny Drop,落とし物
 Tail Carve,尻尾剥ぎ取り
 Head Shell Carve,
 Horn Carve,
+Gold Plating Carved,
 Red Crystal Mining / Shiny,
 Body Mining,
 Back Mining,
@@ -13,10 +14,12 @@ Quest Reward (Bronze),クエスト報酬／銅枠
 Investigation (Bronze),
 Investigation (Silver),調査特別報酬・銀
 Investigation (Gold),調査特別報酬・金
-Investigation (Blue),
+Quest Reward,
 Palico Bonus,落っことし
 Plunderblade,ぶんどり
 Siege Reward (Fury),
+Break Horn,
+Break Horns,
 Wound Head,
 Wound Horn,
 Wound Horns,
@@ -31,6 +34,11 @@ Wound Forearms,
 Wound Forelegs,
 Wound Belly,
 Wound Hindlegs,
+Wound Chest,
 Wound Chest Shell,
 Wound Legs,
 Wound Tail,
+Appraisal (Bronze),
+Appraisal (Silver),
+Appraisal (Gold),
+Appraisal (Blue),

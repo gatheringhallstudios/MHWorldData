@@ -1514,9 +1514,9 @@ Diablos,Plunderblade,HR,Diablos Carapace,1,42
 Diablos,Plunderblade,HR,Diablos Ridge+,1,31
 Diablos,Plunderblade,HR,Diablos Fang,1,25
 Diablos,Plunderblade,HR,Wyvern Gem,1,2
-Diablos,Wound Horns,LR,Twisted Horn,1,100
-Diablos,Wound Horns,HR,Majestic Horn,1,65
-Diablos,Wound Horns,HR,Twisted Horn,2,35
+Diablos,Break Horns,LR,Twisted Horn,1,100
+Diablos,Break Horns,HR,Majestic Horn,1,65
+Diablos,Break Horns,HR,Twisted Horn,2,35
 Diablos,Wound Back,LR,Diablos Ridge,1,70
 Diablos,Wound Back,LR,Diablos Marrow,1,30
 Diablos,Wound Back,HR,Diablos Ridge+,1,70
@@ -1585,9 +1585,9 @@ Kirin,Plunderblade,HR,Kirin Hide+,1,43
 Kirin,Plunderblade,HR,Kirin Tail,1,34
 Kirin,Plunderblade,HR,Kirin Mane,1,22
 Kirin,Plunderblade,HR,Novacrystal,1,1
-Kirin,Wound Horn,LR,Kirin Thunderhorn,1,100
-Kirin,Wound Horn,HR,Kirin Azure Horn,1,80
-Kirin,Wound Horn,HR,Kirin Thunderhorn,1,20
+Kirin,Break Horn,LR,Kirin Thunderhorn,1,100
+Kirin,Break Horn,HR,Kirin Azure Horn,1,80
+Kirin,Break Horn,HR,Kirin Thunderhorn,1,20
 Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Carapace,1,60
 Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Heat Scale,1,20
 Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Magma,1,15
@@ -1769,6 +1769,26 @@ Bazelgeuse,Wound Wings,HR,Bazelgeuse Talon,1,35
 Bazelgeuse,Wound Back,HR,Bazelgeuse Carapace,1,69
 Bazelgeuse,Wound Back,HR,Bazelgeuse Fuse,1,30
 Bazelgeuse,Wound Back,HR,Bazelgeuse Gem,1,1
+Deviljho,Carve / Capture,HR,Deviljho Scale,1,
+Deviljho,Carve / Capture,HR,Deviljho Hide,1,
+Deviljho,Carve / Capture,HR,Deviljho Tallfang,1,
+Deviljho,Carve / Capture,HR,Deviljho Talon,1,
+Deviljho,Carve / Capture,HR,Deviljho Scalp,1,
+Deviljho,Carve / Capture,HR,Deviljho Gem,1,
+Deviljho,Wound Head,HR,Deviljho Tallfang,1,
+Deviljho,Wound Head,HR,Deviljho Gem,1,
+Deviljho,Wound Chest,HR,Deviljho Scale,1,
+Deviljho,Wound Chest,HR,Deviljho Gem,1,
+Deviljho,Tail Carve,HR,Deviljho Tail,1,
+Deviljho,Tail Carve,HR,Deviljho Gem,1,
+Deviljho,Shiny Drop,HR,Deviljho Saliva,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Scale,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Hide,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Tallfang,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Talon,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Saliva,1,
+Deviljho,Quest Reward (Bronze),HR,Deviljho Gem,1,
+Deviljho,Quest Reward (Bronze),HR,Monster Hardbone,1,
 Lavasioth,Track,HR,Lavasioth Scale+,1,100
 Lavasioth,Carve / Capture,HR,Lavasioth Scale+,1,35
 Lavasioth,Carve / Capture,HR,Lavasioth Carapace,1,27
@@ -1950,8 +1970,8 @@ Black Diablos,Plunderblade,HR,Black Diablos Carapace,1,42
 Black Diablos,Plunderblade,HR,Black Diablos Ridge+,1,31
 Black Diablos,Plunderblade,HR,Diablos Fang,1,25
 Black Diablos,Plunderblade,HR,Wyvern Gem,1,2
-Black Diablos,Wound Horn,HR,Black Spiral Horn+,1,65
-Black Diablos,Wound Horn,HR,Twisted Horn,1,35
+Black Diablos,Break Horn,HR,Black Spiral Horn+,1,65
+Black Diablos,Break Horn,HR,Twisted Horn,1,35
 Black Diablos,Wound Back,HR,Black Diablos Ridge+,1,70
 Black Diablos,Wound Back,HR,Blos Medulla,1,30
 Nergigante,Track,HR,Immortal Dragonscale,1,100
@@ -1994,8 +2014,8 @@ Nergigante,Plunderblade,HR,Immortal Dragonscale,1,41
 Nergigante,Plunderblade,HR,Nergigante Carapace,1,33
 Nergigante,Plunderblade,HR,Nergigante Regrowth Plate,1,25
 Nergigante,Plunderblade,HR,Nergigante Gem,1,1
-Nergigante,Wound Horns,HR,Nergigante Horn+,1,97
-Nergigante,Wound Horns,HR,Nergigante Gem,1,3
+Nergigante,Break Horns,HR,Nergigante Horn+,1,97
+Nergigante,Break Horns,HR,Nergigante Gem,1,3
 Nergigante,Wound 1 Horn,HR,Nergigante Horn+,1,66
 Nergigante,Wound 1 Horn,HR,Nergigante Regrowth Plate,2,34
 Teostra,Track,HR,Fire Dragon Scale+,1,100
@@ -2043,11 +2063,31 @@ Teostra,Plunderblade,HR,Fire Dragon Scale+,1,45
 Teostra,Plunderblade,HR,Teostra Carapace,1,30
 Teostra,Plunderblade,HR,Teostra Mane,1,24
 Teostra,Plunderblade,HR,Teostra Gem,1,1
-Teostra,Wound Horns,HR,Teostra Horn+,1,66
-Teostra,Wound Horns,HR,Teostra Mane,1,32
-Teostra,Wound Horns,HR,Teostra Gem,1,2
+Teostra,Break Horns,HR,Teostra Horn+,1,66
+Teostra,Break Horns,HR,Teostra Mane,1,32
+Teostra,Break Horns,HR,Teostra Gem,1,2
 Teostra,Wound Wings,HR,Teostra Webbing,1,70
 Teostra,Wound Wings,HR,Teostra Claw+,2,30
+Lunastra,Body Carve,HR,Lunastra Scale+,1,
+Lunastra,Body Carve,HR,Lunastra Carapace,1,
+Lunastra,Body Carve,HR,Lunastra Mane,1,
+Lunastra,Body Carve,HR,Lunastra Wing,1,
+Lunastra,Body Carve,HR,Lunastra Tail,1,
+Lunastra,Body Carve,HR,Lunastra Gem,1,
+Lunastra,Shiny Drop,HR,Lunastra Scale+,1,
+Lunastra,Shiny Drop,HR,Lunastra Gem,1,
+Lunastra,Wound Head,HR,Lunastra Horn,1,
+Lunastra,Wound Head,HR,Lunastra Gem,1,
+Lunastra,Wound Wings,HR,Lunastra Wing,1,
+Lunastra,Tail Carve,HR,Lunastra Tail,1,
+Lunastra,Tail Carve,HR,Lunastra Gem,1,
+Lunastra,Quest Reward (Bronze),HR,Lunastra Scale+,1,
+Lunastra,Quest Reward (Bronze),HR,Lunastra Carapace,1,
+Lunastra,Quest Reward (Bronze),HR,Lunastra Mane,1,
+Lunastra,Quest Reward (Bronze),HR,Lunastra Wing,1,
+Lunastra,Quest Reward (Bronze),HR,Lunastra Horn,1,
+Lunastra,Quest Reward (Bronze),HR,Elder Dragon Bone,1,
+Lunastra,Quest Reward (Bronze),HR,Elder Dragon Blood,1,
 Kushala Daora,Track,HR,Daora Dragon Scale+,1,100
 Kushala Daora,Body Carve,HR,Daora Dragon Scale+,1,32
 Kushala Daora,Body Carve,HR,Daora Carapace,1,24
@@ -2088,9 +2128,9 @@ Kushala Daora,Plunderblade,HR,Daora Dragon Scale+,1,45
 Kushala Daora,Plunderblade,HR,Daora Carapace,1,30
 Kushala Daora,Plunderblade,HR,Daora Claw+,1,24
 Kushala Daora,Plunderblade,HR,Daora Gem,1,1
-Kushala Daora,Wound Horns,HR,Daora Horn+,1,66
-Kushala Daora,Wound Horns,HR,Daora Dragon Scale+,2,32
-Kushala Daora,Wound Horns,HR,Daora Gem,1,2
+Kushala Daora,Break Horns,HR,Daora Horn+,1,66
+Kushala Daora,Break Horns,HR,Daora Dragon Scale+,2,32
+Kushala Daora,Break Horns,HR,Daora Gem,1,2
 Kushala Daora,Wound Wings,HR,Daora Webbing,1,70
 Kushala Daora,Wound Wings,HR,Daora Claw+,2,30
 Vaal Hazak,Track,HR,Deceased Scale,1,100
@@ -2144,6 +2184,20 @@ Vaal Hazak,Wound Body,HR,Vaal Hazak Wing,1,70
 Vaal Hazak,Wound Body,HR,Vaal Hazak Membrane,2,30
 Vaal Hazak,Wound Forearms,HR,Vaal Hazak Talon,1,80
 Vaal Hazak,Wound Forearms,HR,Vaal Hazak Carapace,1,20
+Kulve Taroth,Shiny Drop,HR,Kulve Taroth Golden Scale,1,
+Kulve Taroth,Gold Plating Carved,HR,Kulve Taroth Golden Shell,1,
+Kulve Taroth,Gold Plating Carved,HR,Kulve Taroth Golden Glimstone,1,
+Kulve Taroth,Break Horns,HR,Kulve Taroth Golden Spiralhorn,1,
+Kulve Taroth,Break Horns,HR,Kulve Taroth Golden Glimstone,1,
+Kulve Taroth,Wound Tail,HR,Kulve Taroth Golden Tailshell,1,
+Kulve Taroth,Wound Tail,HR,Kulve Taroth Golden Glimstone,1,
+Kulve Taroth,Quest Reward,HR,Kulve Taroth Golden Scale,1,100
+Kulve Taroth,Quest Reward,HR,Kulve Taroth Golden Scale,1,21
+Kulve Taroth,Quest Reward,HR,Kulve Taroth Golden Shell,1,33
+Kulve Taroth,Quest Reward,HR,Kulve Taroth Golden Spiralhorn,1,14
+Kulve Taroth,Quest Reward,HR,Kulve Taroth Golden Tailshell,1,18
+Kulve Taroth,Quest Reward,HR,Elder Dragon Bone,3,7
+Kulve Taroth,Quest Reward,HR,Elder Dragon Blood,3,7
 Kulve Taroth,Siege Reward (Fury),HR,Kulve Taroth Emperor Nugget,1,3
 Kulve Taroth,Siege Reward (Fury),HR,Firecell Stone,2,14
 Kulve Taroth,Siege Reward (Fury),HR,Hard Armor Sphere,2,25
@@ -2152,17 +2206,17 @@ Kulve Taroth,Siege Reward (Fury),HR,Worn Feystone,1,21
 Kulve Taroth,Siege Reward (Fury),HR,Warped Feystone,1,7
 Kulve Taroth,Siege Reward (Fury),HR,Streamstone,1,9
 Kulve Taroth,Siege Reward (Fury),HR,Gleaming Streamstone,1,7
-Kulve Taroth,Investigation (Bronze),HR,Kulve Taroth Emperor Nugget,1,14
-Kulve Taroth,Investigation (Bronze),HR,Hard Armor Sphere,1,23
-Kulve Taroth,Investigation (Bronze),HR,Bushi Ticket,2,13
-Kulve Taroth,Investigation (Bronze),HR,Dissolved Weapon,1,33
-Kulve Taroth,Investigation (Bronze),HR,Kulve Taroth Golden Shell,2,17
-Kulve Taroth,Investigation (Silver),HR,Melded Weapon,1,44
-Kulve Taroth,Investigation (Silver),HR,Sublimated Weapon,1,25
-Kulve Taroth,Investigation (Silver),HR,Kulve Taroth Emperor Nugget,1,31
-Kulve Taroth,Investigation (Gold),HR,Sublimated Weapon,1,63
-Kulve Taroth,Investigation (Gold),HR,Incandescent Weapon,1,37
-Kulve Taroth,Investigation (Blue),HR,Incandescent Weapon,1,100
+Kulve Taroth,Appraisal (Bronze),HR,Kulve Taroth Emperor Nugget,1,14
+Kulve Taroth,Appraisal (Bronze),HR,Hard Armor Sphere,1,23
+Kulve Taroth,Appraisal (Bronze),HR,Bushi Ticket,2,13
+Kulve Taroth,Appraisal (Bronze),HR,Dissolved Weapon,1,33
+Kulve Taroth,Appraisal (Bronze),HR,Kulve Taroth Golden Shell,2,17
+Kulve Taroth,Appraisal (Silver),HR,Melded Weapon,1,44
+Kulve Taroth,Appraisal (Silver),HR,Sublimated Weapon,1,25
+Kulve Taroth,Appraisal (Silver),HR,Kulve Taroth Emperor Nugget,1,31
+Kulve Taroth,Appraisal (Gold),HR,Sublimated Weapon,1,63
+Kulve Taroth,Appraisal (Gold),HR,Incandescent Weapon,1,37
+Kulve Taroth,Appraisal (Blue),HR,Incandescent Weapon,1,100
 Xeno'jiiva,Body Carve,HR,Xeno'jiiva Shell,1,32
 Xeno'jiiva,Body Carve,HR,Xeno'jiiva Soulscale,1,22
 Xeno'jiiva,Body Carve,HR,Xeno'jiiva Claw,1,14
@@ -2198,3 +2252,18 @@ Xeno'jiiva,Wound Wings,HR,Xeno'jiiva Wing,1,70
 Xeno'jiiva,Wound Wings,HR,Xeno'jiiva Veil,2,30
 Xeno'jiiva,Wound Forearms,HR,Xeno'jiiva Claw,1,80
 Xeno'jiiva,Wound Forearms,HR,Xeno'jiiva Shell,1,20
+Behemoth,Body Carve,HR,Behemoth Mane,1,
+Behemoth,Body Carve,HR,Behemoth Bone,1,
+Behemoth,Body Carve,HR,Behemoth Great Horn,1,
+Behemoth,Body Carve,HR,Behemoth Shearclaw,1,
+Behemoth,Body Carve,HR,Behemoth Tail,1,
+Behemoth,Tail Carve,HR,Behemoth Tail,1,
+Behemoth,Shiny Drop,HR,Behemoth Mane,1,
+Behemoth,Break Horn,HR,Behemoth Great Horn,1,
+Behemoth,Wound Forelegs,HR,Behemoth Shearclaw,1,
+Behemoth,Quest Reward (Bronze),HR,Behemoth Mane,1,
+Behemoth,Quest Reward (Bronze),HR,Behemoth Bone,1,
+Behemoth,Quest Reward (Bronze),HR,Behemoth Great Horn,1,
+Behemoth,Quest Reward (Bronze),HR,Behemoth Shearclaw,1,
+Behemoth,Quest Reward (Bronze),HR,Behemoth Tail,1,
+Behemoth,Quest Reward (Bronze),HR,Aetheryte Shard,1,

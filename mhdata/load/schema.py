@@ -344,3 +344,11 @@ class KinsectBaseSchema(BaseSchema):
 
 class KinsectSchema(KinsectBaseSchema):
     craft = fields.Nested('RecipeSchema', many=False, missing={})
+
+class QuestBaseSchema(BaseSchema):
+    __groups__ = ('name',)
+    id = fields.Int()
+    name = fields.Dict()
+    stars = fields.Int()
+    category = fields.String(allow_none=True)
+    zenny = fields.Int(allow_none=True)

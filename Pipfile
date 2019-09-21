@@ -14,6 +14,7 @@ click = "*"
 pylint = "*"
 marshmallow = "*"
 requests = "*"
+pycryptodome = "*"
 
 
 [dev-packages]
