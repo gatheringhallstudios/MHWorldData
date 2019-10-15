@@ -500,8 +500,8 @@ Water Tamtam II,ウォータータムタムⅡ,Hydro-bongo II,Tamtam acquatico I
 Water Tamtam III,ウォータータムタムⅢ,Hydro-bongo III,Tamtam acquatico III,Wasser-Tamtam III,Tamtam Acuático III,Tamtam d'Água III,Wodny tam-tam III,Водяной тамтам 3,워터탐탐Ⅲ,激流銅鑼Ⅲ,طبلة طمطم المائية III
 Glacial Bagpipe I,グレイスバグパイプⅠ,Cornemuse polaire,Cornamusa glaciale I,Gletscher-Dudelsack I,Gaita Glacial I,Gaita de Fole Glacial I,Dudy lodowcowe I,Ледяная волынка 1,그레이스백파이프Ⅰ,優雅風笛Ⅰ,مزمار القربة الجليدي I
 Glacial Bagpipe II,グレイスバグパイプⅡ,Cornemuse polaire II,Cornamusa glaciale II,Gletscher-Dudelsack II,Gaita Glacial II,Gaita de Fole Glacial II,Dudy lodowcowe II,Ледяная волынка 2,그레이스백파이프Ⅱ,優雅風笛Ⅱ,مزمار القربة الجليدي II
-Sectored,セクタード,Luth de givre II,Spartitore Legia I,Sektoriert,Sectored,Compassado,Segregator,Сектор,세크타드,琴弦,قطاعي
-Legia Sectored,レイ＝セクタード,Luth de givre,Spartitore Legia II,Legia-Sektoriert,Sectored Legia,Compassado de Legia,Legia Segregator,Сектор легианы,레이세크타드,冰凌琴弦,ليغيا القطاعي
+Sectored,セクタード,Luth de givre,Spartitore Legia I,Sektoriert,Sectored,Compassado,Segregator,Сектор,세크타드,琴弦,قطاعي
+Legia Sectored,レイ＝セクタード,Luth de givre II,Spartitore Legia II,Legia-Sektoriert,Sectored Legia,Compassado de Legia,Legia Segregator,Сектор легианы,레이세크타드,冰凌琴弦,ليغيا القطاعي
 Bone Horn I,ボーンホルンⅠ,Corne en os,Corno d'osso I,Knochenhorn I,Cuerno Óseo I,Sonoro Ósseo I,Kościany róg I,Костяной рог 1,본호른Ⅰ,骨製號角Ⅰ,قرن العظام I
 Bone Horn II,ボーンホルンⅡ,Corne en os II,Corno d'osso II,Knochenhorn II,Cuerno Óseo II,Sonoro Ósseo II,Kościany róg II,Костяной рог 2,본호른Ⅱ,骨製號角Ⅱ,قرن العظام II
 Bone Horn III,ボーンホルンⅢ,Corne en os III,Corno d'osso III,Knochenhorn III,Cuerno Óseo III,Sonoro Ósseo III,Kościany róg III,Костяной рог 3,본호른Ⅲ,骨製號角Ⅲ,قرن العظام III
@@ -1200,8 +1200,8 @@ Water Shot II,ウォーターシュート Ⅱ,Hydro-arc II,Colpo acquatico II,Wa
 Water Shot III,ウォーターシュート Ⅲ,Hydro-arc III,Colpo acquatico III,Wasserschuss III,Tiro Acuático III,Disparo Hídrico III,Wodny łuk III,Водяной выстрел 3,워터슛Ⅲ,激流射手Ⅲ,طلقة الماء III
 Glacial Arrow I,グレイスアローⅠ,Flèche polaire,Freccia glaciale I,Gletscherpfeil I,Flecha Glacial I,Flecha Glacial I,Strzała lodowcowa I,Ледяная стрела 1,그레이스애로우Ⅰ,優雅長弓Ⅰ,السهم الجليدي I
 Glacial Arrow II,グレイスアローⅡ,Flèche polaire II,Freccia glaciale II,Gletscherpfeil II,Flecha Glacial II,Flecha Glacial II,Strzała lodowcowa II,Ледяная стрела 2,그레이스애로우Ⅱ,優雅長弓Ⅱ,السهم الجليدي II
-Snowfletcher,ファーンライク,Tempête de neige II,Arco delle nevi,Schneepfeilmacher,Sagita Nívea,Flechálgida,Łuk Zamieci,Ледяной лучник,펀라이크,銀蕨,صانع السهام الثلجية
-Legia Snowfletcher,レイ＝ファーンライク,Tempête de neige,Arco delle nevi Legia,Legia-Schneepfeilmacher,Sagita Nívea Legia,Flechálgida de Legia,Legia Łuk Zamieci,Ледяной лучник легиа,레이펀라이크,冰凌銀蕨,صانع سهام ثلجية ليغيا
+Snowfletcher,ファーンライク,Tempête de neige,Arco delle nevi,Schneepfeilmacher,Sagita Nívea,Flechálgida,Łuk Zamieci,Ледяной лучник,펀라이크,銀蕨,صانع السهام الثلجية
+Legia Snowfletcher,レイ＝ファーンライク,Tempête de neige II,Arco delle nevi Legia,Legia-Schneepfeilmacher,Sagita Nívea Legia,Flechálgida de Legia,Legia Łuk Zamieci,Ледяной лучник легиа,레이펀라이크,冰凌銀蕨,صانع سهام ثلجية ليغيا
 Hunter's Bow I,ハンターボウⅠ,Arc du chasseur,Arco da cacciatore I,Jägerbogen I,Arco de cazador I,Arco do Caçador I,Łuk łowcy I,Лук охотника 1,헌터보우Ⅰ,獵弓Ⅰ,قوس الصيّاد I
 Hunter's Bow II,ハンターボウⅡ,Arc du chasseur II,Arco da cacciatore II,Jägerbogen II,Arco de cazador II,Arco do Caçador II,Łuk łowcy II,Лук охотника 2,헌터보우Ⅱ,獵弓Ⅱ,قوس الصيّاد II
 Hunter's Bow III,ハンターボウⅢ,Arc du chasseur III,Arco da cacciatore III,Jägerbogen III,Arco de cazador III,Arco do Caçador III,Łuk łowcy III,Лук охотника 3,헌터보우Ⅲ,獵弓Ⅲ,قوس الصيّاد III
