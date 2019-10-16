@@ -1,7 +1,7 @@
 from decimal import Decimal, ROUND_HALF_UP
 
 from mhdata.io import create_writer, DataMap
-from mhdata.load import load_data, schema, datafn
+from mhdata.load import schema, datafn
 
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
 from mhw_armor_edit.ftypes.ext import msk
