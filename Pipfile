@@ -12,9 +12,10 @@ rope = "*"
 pytest = "*"
 click = "*"
 pylint = "*"
-marshmallow = "*"
+marshmallow = "==2.20.5"
 requests = "*"
 pycryptodome = "*"
+regex = "*"
 
 
 [dev-packages]
