@@ -57,6 +57,7 @@ def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
             if lang == 'de':
                 value = re.sub(r"(\p{Ll})-( )*\r?\n( )*(\p{Ll})", r"\1\4", value)
 
+            value = re.sub(r"-()*\r?\n( )*", "-", value)
             value = re.sub(r"( )*\r?\n( )*", " ", value)
             value = re.sub(r"( )?<ICON ALPHA>", " α", value)
             value = re.sub(r"( )?<ICON BETA>", " β", value)
