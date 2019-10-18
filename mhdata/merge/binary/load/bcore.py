@@ -1,5 +1,5 @@
 from typing import Type, Mapping
-import re
+import regex as re
 from os.path import dirname, abspath, join
 
 from mhw_armor_edit import ftypes
@@ -48,16 +48,29 @@ def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
         for idx, value_obj in enumerate(data.items):
             if idx not in results:
                 results[idx] = {}
+            if value_obj.key not in results:
+                results[value_obj.key] = {}
+
             value = value_obj.value
+
+            # For german, treat - as a linebreak join if between lowercase characters
+            if lang == 'de':
+                value = re.sub(r"(\p{Ll})-( )*\r?\n( )*(\p{Ll})", r"\1\4", value)
+
+            value = re.sub(r"-()*\r?\n( )*", "-", value)
             value = re.sub(r"( )*\r?\n( )*", " ", value)
             value = re.sub(r"( )?<ICON ALPHA>", " α", value)
             value = re.sub(r"( )?<ICON BETA>", " β", value)
             value = re.sub(r"( )?<ICON GAMMA>", " γ", value)
-            results[idx][lang] = (value
-                                    .replace("<STYL MOJI_YELLOW_DEFAULT>[1]</STYL>", "[1]")
-                                    .replace("<STYL MOJI_YELLOW_DEFAULT>[2]</STYL>", "[2]")
-                                    .replace("<STYL MOJI_YELLOW_DEFAULT>[3]</STYL>", "[3]")
-                                    .replace("<STYL MOJI_YELLOW_DEFAULT>", "")
-                                    .replace("<STYL MOJI_LIGHTBLUE_DEFAULT>", "")
-                                    .replace("</STYL>", "")).strip()
+            value = (value
+                .replace("<STYL MOJI_YELLOW_DEFAULT>[1]</STYL>", "[1]")
+                .replace("<STYL MOJI_YELLOW_DEFAULT>[2]</STYL>", "[2]")
+                .replace("<STYL MOJI_YELLOW_DEFAULT>[3]</STYL>", "[3]")
+                .replace("<STYL MOJI_YELLOW_DEFAULT>", "")
+                .replace("<STYL MOJI_LIGHTBLUE_DEFAULT>", "")
+                .replace("</STYL>", "")).strip()
+
+            results[idx][lang] = value
+            results[value_obj.key][lang] = value
+
     return results

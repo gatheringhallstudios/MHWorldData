@@ -56,13 +56,15 @@ class LocationCampSchema(BaseSchema):
     name = fields.Dict()
     area = fields.Int()
 
-class MonsterSchema(BaseSchema):
-    __groups__ = ('name', 'description', 'ecology')
+class MonsterBaseSchema(BaseSchema):
+    __groups__ = ('name', 'description')
+    id = fields.Int()
     name = fields.Dict()
     description = fields.Dict()
-    ecology = fields.Dict()
+    ecology_en = fields.Str(allow_none=True)
     size = ValidatedStr('small', 'large')
 
+class MonsterSchema(MonsterBaseSchema):
     # most sub-items are currently unvalidated
     # todo: create schema entries for the below
     weaknesses = fields.Dict()

@@ -175,7 +175,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
             monster.translations.append(db.MonsterText(
                 lang_id=language,
                 name=get_translated(entry, 'name', language),
-                ecology=get_translated(entry, 'ecology', language),
+                ecology=entry['ecology_en'],
                 description=get_translated(entry, 'description', language),
                 alt_state_description=alt_state_description
             ))

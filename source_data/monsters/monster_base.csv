@@ -1,54 +1,54 @@
-id,name_en,ecology_en,ecology_ja,size
-1,Aptonoth,,,small
-2,Jagras,,,small
-3,Mernos,,,small
-4,Vespoid,,,small
-5,Mosswine,,,small
-6,Apceros,,,small
-7,Kestodon,,,small
-8,Noios,,,small
-9,Gajau,,,small
-10,Kelbi,,,small
-11,Raphinos,,,small
-12,Shamos,,,small
-13,Girros,,,small
-14,Hornetaur,,,small
-15,Gastodon,,,small
-16,Barnos,,,small
-17,Great Jagras,Fanged Wyvern,,large
-18,Kulu-Ya-Ku,Bird Wyvern,,large
-19,Pukei-Pukei,Bird Wyvern,,large
-20,Barroth,Brute Wyvern,,large
-21,Jyuratodus,Piscine Wyvern,,large
-22,Tobi-Kadachi,Fanged Wyvern,,large
-23,Anjanath,Brute Wyvern,,large
-24,Rathian,Flying Wyvern,,large
-25,Tzitzi-Ya-Ku,Bird Wyvern,,large
-26,Paolumu,Flying Wyvern,,large
-27,Great Girros,Fanged Wyvern,,large
-28,Radobaan,Brute Wyvern,,large
-29,Legiana,Flying Wyvern,,large
-30,Odogaron,Fanged Wyvern,,large
-31,Rathalos,Flying Wyvern,,large
-32,Diablos,Flying Wyvern,,large
-33,Kirin,Elder Dragon,,large
-34,Zorah Magdaros,Elder Dragon,,large
-35,Dodogama,Fanged Wyvern,,large
-36,Pink Rathian,Flying Wyvern,,large
-37,Bazelgeuse,Flying Wyvern,,large
-38,Deviljho,Brute Wyvern,,large
-39,Lavasioth,Piscine Wyvern,,large
-40,Uragaan,Brute Wyvern,,large
-41,Azure Rathalos,Flying Wyvern,,large
-42,Black Diablos,Flying Wyvern,,large
-43,Nergigante,Elder Dragon,,large
-44,Teostra,Elder Dragon,,large
-49,Lunastra,Elder Dragon,,large
-45,Kushala Daora,Elder Dragon,,large
-46,Vaal Hazak,Elder Dragon,,large
-48,Kulve Taroth,Elder Dragon,,large
-47,Xeno'jiiva,Elder Dragon,,large
-50,Behemoth,Elder Dragon,,large
-51,Leshen,Relict,,large
-52,Ancient Leshen,Relict,,large
-100,Gajalaka,,,small
+id,name_en,ecology_en,size
+1,Aptonoth,,small
+2,Jagras,,small
+3,Mernos,,small
+4,Vespoid,,small
+5,Mosswine,,small
+6,Apceros,,small
+7,Kestodon,,small
+8,Noios,,small
+9,Gajau,,small
+10,Kelbi,,small
+11,Raphinos,,small
+12,Shamos,,small
+13,Girros,,small
+14,Hornetaur,,small
+15,Gastodon,,small
+16,Barnos,,small
+17,Great Jagras,Fanged Wyvern,large
+18,Kulu-Ya-Ku,Bird Wyvern,large
+19,Pukei-Pukei,Bird Wyvern,large
+20,Barroth,Brute Wyvern,large
+21,Jyuratodus,Piscine Wyvern,large
+22,Tobi-Kadachi,Fanged Wyvern,large
+23,Anjanath,Brute Wyvern,large
+24,Rathian,Flying Wyvern,large
+25,Tzitzi-Ya-Ku,Bird Wyvern,large
+26,Paolumu,Flying Wyvern,large
+27,Great Girros,Fanged Wyvern,large
+28,Radobaan,Brute Wyvern,large
+29,Legiana,Flying Wyvern,large
+30,Odogaron,Fanged Wyvern,large
+31,Rathalos,Flying Wyvern,large
+32,Diablos,Flying Wyvern,large
+33,Kirin,Elder Dragon,large
+34,Zorah Magdaros,Elder Dragon,large
+35,Dodogama,Fanged Wyvern,large
+36,Pink Rathian,Flying Wyvern,large
+37,Bazelgeuse,Flying Wyvern,large
+38,Deviljho,Brute Wyvern,large
+39,Lavasioth,Piscine Wyvern,large
+40,Uragaan,Brute Wyvern,large
+41,Azure Rathalos,Flying Wyvern,large
+42,Black Diablos,Flying Wyvern,large
+43,Nergigante,Elder Dragon,large
+44,Teostra,Elder Dragon,large
+49,Lunastra,Elder Dragon,large
+45,Kushala Daora,Elder Dragon,large
+46,Vaal Hazak,Elder Dragon,large
+48,Kulve Taroth,Elder Dragon,large
+47,Xeno'jiiva,Elder Dragon,large
+50,Behemoth,Elder Dragon,large
+51,Leshen,Relict,large
+52,Ancient Leshen,Relict,large
+100,Gajalaka,,small
