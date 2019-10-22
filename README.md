@@ -5,12 +5,14 @@ A project used to generate a SQLite database file from Monster Hunter World data
 
 There's currently no documentation for the db file. I recommend using a graphical tool like [SQliteBrowser](http://sqlitebrowser.org/) or figuring it out from the [mapping file](https://github.com/gatheringhallstudios/MHWorldData/blob/master/mhdata/sql/mappings.py). To see the data we build from, look at the [source_data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder.
 
+The core maintainers are on the PC version and unable to add Iceborne data, but we do still take contributions. Any contributions will be added to an Iceborne branch.
+
 ## Purpose and goals
 This project exists as a free and open collection of Monster Hunter World data for people to build cool things with. We use this data in the (also open source) [MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) Android app.
 
 There are very few open collections of Monster Hunter data out there, and assembling what we have added a significant amount of time to the app's development process. Hopefully this database can spare you some of that trouble.
 
-The data collected is limited to observable or computable data. Handwritten guides and editorial content are not collected in the repository
+The data collected is limited to observable or computable data. Handwritten guides and editorial content are not collected in the repository.
 
 ## How to contribute
 To contribute, create a pull request. All data is found in the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If you want to contribute a code change, inspect build.py in the root folder and follow the import trail.
