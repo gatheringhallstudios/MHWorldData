@@ -17,8 +17,9 @@ def update_quests(mhdata, item_updater):
     quest_reward_artifact_entries = []
     test = set()
     for quest in quests:
-        header_fields = prefix_unk_fields('header', quest.header.as_dict())
-        objective_fields = prefix_unk_fields('objective', quest.objective.as_dict())
+        binary = quest.binary
+        header_fields = prefix_unk_fields('header', binary.header.as_dict())
+        objective_fields = prefix_unk_fields('objective', binary.objective_section.as_dict())
 
         if quest.name['en'] in test:
             print(quest.name['en'] + " is a dupe")
