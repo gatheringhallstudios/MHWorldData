@@ -6,11 +6,11 @@ from typing import Iterable
 from pathlib import Path
 
 from .bcore import load_schema, load_text, get_chunk_root
-from mhdata.merge.binary.parsers import QuestBinary, load_quest, RemFile
+from mhdata.merge.binary.parsers import StructReader, Mib, load_quest, RemFile
 
 class QuestInfo:
     "An encapsulation of quest binary data and referenced cross data"
-    def __init__(self, name, binary: QuestBinary, reward_data_list):
+    def __init__(self, name, binary: Mib, reward_data_list):
         self.name = name
         self.binary = binary
         self.reward_data_list = reward_data_list
@@ -38,7 +38,7 @@ def load_quests() -> Iterable[QuestInfo]:
         rem_ids = binary.objective_section.rem_ids
         rem_files = [rem_base_path.joinpath(f'remData_{rem_id}.rem') for rem_id in rem_ids]
         rem_files = filter(lambda r: r.exists(), rem_files)
-        rem_files = [RemFile(None, 0, open(path,'rb').read(), offset=0) for path in rem_files]
+        rem_files = [StructReader(open(path,'rb').read()).read_struct(RemFile) for path in rem_files]
 
         quests.append(QuestInfo(name, binary, rem_files))
 

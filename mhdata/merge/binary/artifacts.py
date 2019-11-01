@@ -45,3 +45,9 @@ def write_dicts_artifact(filename, lines: typing.Iterable[dict], autoflatten=Tru
     basepath = path.join(path.dirname(__file__), '../../../artifacts/')
     os.makedirs(basepath, exist_ok=True)
     save_csv(lines, path.join(basepath, filename))
+
+def write_json_artifact(filename, obj):
+    import json
+
+    output = json.dumps(obj, indent=4, ensure_ascii=False)
+    write_artifact(filename, output)
