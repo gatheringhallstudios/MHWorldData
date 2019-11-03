@@ -15,19 +15,24 @@ There are very few open collections of Monster Hunter data out there, and assemb
 The data collected is limited to observable or computable data. Handwritten guides and editorial content are not collected in the repository.
 
 ## How to contribute
-To contribute, create a pull request. All data is found in the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If you want to contribute a code change, inspect build.py in the root folder and follow the import trail.
+This project sources most of its data from spreadsheets in the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If you want to contribute a code change, inspect build.py in the root folder and follow the import trail.
 
 If you are unable to work Git but have data corrections or translations to contribute, you can create a Github Issue with the new file or share a link to a google drive spreadsheet.
 
+### Iceborne
+As I don't own a PS4, I have to wait for the PC version to be released before I can do anything. If you want Iceborne data to exist in the database before then, please submit a pull request and it'll be merged in. The order of data that needs to be worked on to avoid the least amount of headaches is:
+- items or skills
+- monsters (depends on items)
+- decorations (depends on skills)
+- armor/weapons/charms (depends on skills and items)
+
 ### MISSING (Important Todo)
 This is data we'd love to receive help towards.
-- Gathering Data is incomplete (**Important**).
-  - Normal gather data: Requires us to throughly examine areas in game for different items and manually insert them into a spreadsheet.
-  - Ore/Bone data: We will need a copy of モンスターハンター:ワールド 公式データハンドブック フィールド＆アイテムの知識書, and anyone capable of reading it, to read data and insert into a spreadsheet. This includes rare vs non-rare nodes.
-- Quest list. Not really useful all on its own but leads into unlock conditions.
+- Gathering Data is incomplete. Requires a thorough examination of in game for different items.
+- Quest list. A possible source for certain items.
 - Unlock conditions for special items like mantles, and base camps, including deliveries.
 - Weapon motion value data
-- A refactor to schema validation to allow multi-stage validation. There are certain validations that we'd love to skip during merge routines but perform during database building. Right now we lack that degree of control and we need to add dummy data or not validate at all.
+- (Developer) A refactor to schema validation to allow multi-stage validation. There are certain validations that we'd love to skip during merge routines but perform during database building. Right now we lack that degree of control and we need to add dummy data or not validate at all.
 
 ## Data Structure
 The data files in [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) are used to build the final SQL file. The project is in the middle of a conversion from JSON to CSV, so some files are still JSON.
