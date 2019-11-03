@@ -90,6 +90,12 @@ class long(ReadablePrimitive):
     def __init__(self):
         super().__init__("<q")
 
+
+class float(ReadablePrimitive):
+    def __init__(self):
+        super().__init__("<f")
+
+
 class blist(Readable):
     def __init__(self, base, count):
         self.base = base
@@ -109,6 +115,14 @@ class blist(Readable):
             results.append(value)
 
         return results
+
+class DynamicList(Readable):
+    def __init__(self, base):
+        self.base = base
+    
+    def read(self, reader: StructReader):
+        count = reader.read_struct(uint())
+        return [reader.read_struct(self.base) for _ in range(count)]
 
 class AnnotatedStruct(Readable):
     def __init__(self):
@@ -137,3 +151,12 @@ class AnnotatedStruct(Readable):
             getattr(self, attr)
             for attr in self.fields
         )
+
+def read_struct(data, struct_type):
+    "Creates a new struct reader and reads that struct, and only that struct, from the binary data"
+    return StructReader(data).read_struct(struct_type)
+
+def read_struct_from_file(path, struct_type):
+    "Creates a new struct reader and reads that struct, and only that struct, from that file"
+    with open(path, 'rb') as f:
+        return read_struct(f.read(), struct_type)

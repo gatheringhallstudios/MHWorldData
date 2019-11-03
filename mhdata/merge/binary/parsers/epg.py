@@ -2,14 +2,6 @@ from pathlib import Path
 
 from . import structreader as sr
 
-class DynamicList(sr.Readable):
-    def __init__(self, base):
-        self.base = base
-    
-    def read(self, reader: sr.StructReader):
-        count = reader.read_struct(sr.uint())
-        return [reader.read_struct(self.base) for _ in range(count)]
-
 class MappedValue(sr.Readable):
     def __init__(self, base, map):
         self.base = base
@@ -33,7 +25,7 @@ class EpgPart(sr.AnnotatedStruct):
     unk3: MappedValue(sr.int(), {
         0: 'red', 1: 'white', 2: 'orange', 3: 'green', 4: '4', 5: '5'
     })
-    breaks: DynamicList(EpgBreak)
+    breaks: sr.DynamicList(EpgBreak)
     unk4: sr.int()
     unk5: sr.int()
     unk6: sr.int()
@@ -66,12 +58,12 @@ class EpgCleaveZone(sr.AnnotatedStruct):
 class DttEpg(sr.AnnotatedStruct):
     "Binary type for monster hitzone data"
     filetype: sr.int()
-    ingameID: sr.int()
+    monster_id: sr.uint()
     section: sr.int()
     baseHP: sr.int()
-    parts: DynamicList(EpgPart)
-    hitzones: DynamicList(EpgHitzone)
-    cleaves: DynamicList(EpgCleaveZone)
+    parts: sr.DynamicList(EpgPart)
+    hitzones: sr.DynamicList(EpgHitzone)
+    cleaves: sr.DynamicList(EpgCleaveZone)
 
 def load_epg(filepath):
     filepath = Path(filepath)

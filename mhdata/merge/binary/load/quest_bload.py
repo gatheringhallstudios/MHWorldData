@@ -6,7 +6,7 @@ from typing import Iterable
 from pathlib import Path
 
 from .bcore import load_schema, load_text, get_chunk_root
-from mhdata.merge.binary.parsers import StructReader, Mib, load_quest, RemFile
+from mhdata.merge.binary.parsers import read_struct_from_file, Mib, load_quest, RemFile
 
 class QuestInfo:
     "An encapsulation of quest binary data and referenced cross data"
@@ -38,7 +38,7 @@ def load_quests() -> Iterable[QuestInfo]:
         rem_ids = binary.objective_section.rem_ids
         rem_files = [rem_base_path.joinpath(f'remData_{rem_id}.rem') for rem_id in rem_ids]
         rem_files = filter(lambda r: r.exists(), rem_files)
-        rem_files = [StructReader(open(path,'rb').read()).read_struct(RemFile) for path in rem_files]
+        rem_files = [read_struct_from_file(path, RemFile) for path in rem_files]
 
         quests.append(QuestInfo(name, binary, rem_files))
 

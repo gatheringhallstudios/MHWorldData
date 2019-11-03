@@ -1,5 +1,7 @@
 from .mib import *
 from .epg import *
+from .itlot import *
+from .structreader import read_struct_from_file, StructReader
 
 def struct_to_json(obj):
     "Recursively serializes a binary to "

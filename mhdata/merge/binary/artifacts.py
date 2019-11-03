@@ -11,9 +11,10 @@ def write_artifact(filename, *raw_data):
     which is a temporary fakefile used to gauge game data
     """
     basepath = path.join(path.dirname(__file__), '../../../artifacts/')
+    filepath = path.join(basepath, filename)
 
-    os.makedirs(basepath, exist_ok=True)
-    with open(path.join(basepath, filename), 'w', encoding='utf8') as f:
+    os.makedirs(path.dirname(filepath), exist_ok=True)
+    with open(filepath, 'w', encoding='utf8') as f:
         f.write('\n'.join(raw_data))
 
 def write_names_artifact(filename, names: typing.Iterable[str]):
@@ -43,8 +44,9 @@ def write_dicts_artifact(filename, lines: typing.Iterable[dict], autoflatten=Tru
             lines.append(new_line)
 
     basepath = path.join(path.dirname(__file__), '../../../artifacts/')
-    os.makedirs(basepath, exist_ok=True)
-    save_csv(lines, path.join(basepath, filename))
+    filepath = path.join(basepath, filename)
+    os.makedirs(path.dirname(filepath), exist_ok=True)
+    save_csv(lines, filepath)
 
 def write_json_artifact(filename, obj):
     import json

@@ -28,6 +28,9 @@ class ItemUpdater:
 
     def name_and_description_for(self, binary_item_id):
         return self.item_text_manager.text_for(binary_item_id)
+
+    def name_for(self, binary_item_id):
+        return self.item_text_manager.name_for(binary_item_id)
         
     def update_items(self, *, mhdata=None):
         if not mhdata:

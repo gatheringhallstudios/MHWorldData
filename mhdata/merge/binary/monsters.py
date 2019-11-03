@@ -7,10 +7,11 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
 
 from .load.bcore import load_text, get_chunk_root
-from .parsers import load_epg, struct_to_json
+from .parsers import load_epg, struct_to_json, load_itlot
+from .items import ItemUpdater
 from . import artifacts
 
-def update_monsters(mhdata):
+def update_monsters(mhdata, item_updater: ItemUpdater):
     root = Path(get_chunk_root())
     this_dir = dirname(abspath(__file__))
 
@@ -24,10 +25,7 @@ def update_monsters(mhdata):
     monster_keys = read_csv(this_dir + '/monster_map.csv')
     monster_keys = dict((r['name_en'], r) for r in monster_keys)
     for key, value in monster_keys.items():
-        # itlots use the hunting notes one primarily
-        key_overwritten = (value['key_info_override'] or value['key'])
-        value['key_overwritten'] = key_overwritten
-        value['itlot_fname'] = key_overwritten + '.itlot'
+        key_overwritten = value['key_description'] or value['key_name']
 
         base, _, suffix = key_overwritten.partition('_')
         value['base_key'] = base
@@ -47,7 +45,7 @@ def update_monsters(mhdata):
         json_data = struct_to_json(epg_binary)
 
         # Monsters are all in the same folder, so store a record of the folder for this monster
-        name = monster_id_map.get(epg_binary.ingameID)
+        name = monster_id_map.get(epg_binary.monster_id)
         folder_for_monster[name] = filename.parent
 
         hitzone_json.append({
@@ -65,12 +63,12 @@ def update_monsters(mhdata):
             continue
 
         monster_key_entry = monster_keys[monster_entry.name('en')]
-        key = monster_key_entry['key']
-        info_key = monster_key_entry['key_overwritten']
+        key_name = monster_key_entry['key_name']
+        key_description = monster_key_entry['key_description']
 
-        monster_entry['name'] = monster_name_text[key]
-        if info_key != 'NONE':
-            monster_entry['description'] = monster_info_text[f'NOTE_{info_key}_DESC']
+        monster_entry['name'] = monster_name_text[key_name]
+        if key_description:
+            monster_entry['description'] = monster_info_text[f'NOTE_{key_description}_DESC']
 
         # Get the base folder for monster data
         base_key = monster_key_entry['base_key']
@@ -80,6 +78,26 @@ def update_monsters(mhdata):
         # Read hitzone data
         #epg_binary = load_epg(monster_folder.joinpath(f'{base_key}.dtt_epg'))
         #hitzone_json.append(struct_to_json(epg_binary))
+
+        # Read drops (use the hunting notes key name if available)
+        itlot_key = (key_description or key_name).lower()
+        if itlot_key:
+            itlot_path = root.joinpath(f"common/item/{itlot_key}.itlot")
+            drops = load_itlot(itlot_path)
+
+            monster_drops = []
+            for idx, entry in enumerate(drops.entries):
+                monster_drops.extend(
+                    [{
+                        'group': f'Group {idx+1}',
+                        'item_name': item_updater.name_for(iid)['en'],
+                        'quantity': qty,
+                        'percentage': rarity
+                    } for iid, qty, rarity, animation in entry.iter_items() if iid != 0]
+                )
+            artifacts.write_dicts_artifact(f'monster_drops/{name_en} drops.csv', monster_drops)
+        else:
+            print(f'Warning: no drops file found for monster {name_en}')
 
     # Write hitzone data to artifacts
     artifacts.write_json_artifact("monster_hitzones.json", hitzone_json)
