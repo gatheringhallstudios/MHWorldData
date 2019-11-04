@@ -6,6 +6,11 @@ from mhw_armor_edit import ftypes
 from mhw_armor_edit.ftypes import gmd
 
 # Location of MHW binary data.
+"""
+Miscellanious loading functions that form the backbone of binary loading.
+Consider whether this should be part of parsers, or if its fine to have here.
+"""
+
 # Looks for a folder called /mergedchunks neighboring the main project folder.
 # This folder should be created via WorldChunkTool, with each numbered chunk being
 # moved into the mergedchunks folder in ascending order (with overwrite).

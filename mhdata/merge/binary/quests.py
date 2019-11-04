@@ -1,7 +1,9 @@
 from .load import load_quests
 from .artifacts import write_dicts_artifact
+from .items import ItemUpdater
+from .load import MonsterMetadata
 
-def update_quests(mhdata, item_updater):
+def update_quests(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetadata):
     quests = load_quests()
 
     # Internal helper to add a prefix to "unk" fields

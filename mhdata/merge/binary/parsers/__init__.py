@@ -1,3 +1,11 @@
+"""
+Module used to parse binary data and read them into objects.
+Handles certain types not handled by the ftypes folder of the mhw_armor_edit project.
+
+This is only used to read data into objects.
+Actual data crossreferencing is handled by other modules.
+"""
+
 from .mib import *
 from .epg import *
 from .itlot import *
