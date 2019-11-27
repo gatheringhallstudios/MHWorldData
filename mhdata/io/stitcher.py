@@ -17,9 +17,9 @@ class DataStitcher:
                 Not necessary if a schema is provided to get() that handles it.
     """
 
-    def __init__(self, reader: DataReader, *, join_lang='en', dir=''):
+    def __init__(self, reader: DataReader, *, key_join='name_en', dir=''):
         self.reader = reader
-        self.join_lang = join_lang
+        self.key_join = key_join
         self.dir = dir
         self._data_map = None
 
@@ -30,6 +30,13 @@ class DataStitcher:
         return filename
 
     @property
+    def languages(self):
+        languages = []
+        if self.key_join.startswith('name_'):
+            languages.append(self.key_join[5:])
+        return languages
+
+    @property
     def data_map(self):
         if self._data_map is None:
             raise Exception("Data Map uninitialize, use a load datamap function first")
@@ -38,7 +45,7 @@ class DataStitcher:
     def base_csv(self, data_file, *, groups=[]):
         """Sets the base map from a CSV file, and return self"""
         data_file = self._get_filename(data_file)
-        self._data_map = self.reader.load_base_csv(data_file, groups=groups)
+        self._data_map = self.reader.load_base_csv(data_file, groups=groups, languages=self.languages)
         return self
 
     def base_json(self, data_file):
@@ -84,7 +91,7 @@ class DataStitcher:
         self.reader.load_data_json(
             parent_map=self.data_map, 
             data_file=self._get_filename(data_file), 
-            lang=self.join_lang, 
+            key_join=self.key_join, 
             key=key)
 
         return self
@@ -130,7 +137,7 @@ class DataStitcher:
         If schema is provided, returns the items run through the marshmallow schema
         """
         if schema:
-            results = DataMap(languages=self.reader.required_languages)
+            results = DataMap(languages=self.languages)
             for entry in self.data_map.values():
                 data = entry.to_dict()
                 (converted, errors) = schema.load(data, many=False) # converted

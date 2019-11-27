@@ -52,8 +52,14 @@ class DataRow(MutableMapping):
     def to_dict(self):
         return to_basic(self)
 
-    def __getitem__(self, key):
-        return self._data[key]
+    def __getitem__(self, key: str):
+        if key in self._data:
+            return self._data[key]
+        elif '_' in key:
+            parts = key.rsplit('_', 1)
+            return self._data[parts[0]][parts[1]]
+        else:
+            raise KeyError(f'No entry with {key} found in data row')
 
     def __setitem__(self, key, value):
         self._data[key] = value

@@ -44,14 +44,9 @@ class DataReader:
 
     def __init__(self, *,
             languages: typing.List,
-            required_languages=('en',),
             data_path: str):
         self.languages = languages
-        self.required_languages = required_languages
         self.data_path = data_path
-
-        if not self.languages:
-            self.languages = self.required_languages
 
     def get_data_path(self, *rel_path):
         """Returns a file path to a file stored in the data folder using one or more
@@ -60,11 +55,11 @@ class DataReader:
         data_dir = os.path.join(self.data_path, *rel_path)
         return os.path.normpath(data_dir)
 
-    def _validate_base_map(self, fname, basemap: DataMap, error=True):
+    def _validate_base_map(self, fname, basemap: DataMap, languages, error=True):
         languages_with_errors = set()
         for entry in basemap.values():
             # Validation prepass. Find missing languages in the new entry
-            for lang in self.required_languages:
+            for lang in languages:
                 if not entry['name'].get(lang, None):
                     languages_with_errors.add(lang)
 
@@ -90,18 +85,19 @@ class DataReader:
 
         return data
         
-    def load_base_json(self, data_file, validate=True):
-        "Loads a base data map object."
+    def load_base_json(self, data_file, languages, validate=True):
+        "Loads a base data map object. The data map must have unique name in the given languages"
         data_file = self.get_data_path(data_file)
 
         with open(data_file, encoding="utf-8") as f:
             data = json.load(f)
 
-        result = DataMap(languages=self.required_languages)
+        result = DataMap(languages=languages)
         for row in data:
             result.insert(row)
 
-        self._validate_base_map(data_file, result, error=validate)
+        if languages:
+            self._validate_base_map(data_file, result, langauges, error=validate)
 
         return result
 
@@ -120,7 +116,7 @@ class DataReader:
 
         return keymap
 
-    def load_base_csv(self, data_file, groups=[], validate=True):
+    def load_base_csv(self, data_file, languages, groups=[], validate=True):
         """Loads a base data map object from a csv
         groups is a list of additional fields (name is automatically include)
         that nest via groupname_subfield.
@@ -131,13 +127,15 @@ class DataReader:
         rows = read_csv(data_file)
         rows = [group_fields(row, groups=groups) for row in rows]
 
-        basemap = DataMap(languages=self.required_languages)
+        basemap = DataMap(languages=languages)
         basemap.extend(rows)
-        self._validate_base_map(data_file, basemap, error=validate)
+
+        if languages:
+            self._validate_base_map(data_file, basemap, languages, error=validate)
 
         return basemap
 
-    def load_data_json(self, parent_map : DataMap, data_file, *, lang="en", key=None):
+    def load_data_json(self, parent_map : DataMap, data_file, *, key_join="name_en", key=None):
         """Loads a data file, using a base map to anchor it to id
         The parent_map is updated to map id -> data row.
         Returns the parent_map to support chaining
@@ -147,7 +145,7 @@ class DataReader:
         with open(data_file, encoding="utf-8") as f:
             data = json.load(f)
 
-        parent_map.merge(data, lang=lang, key=key)
+        parent_map.merge(data, key_join=key_join, key=key)
         return parent_map
 
     def load_data_csv(self, parent_map : DataMap, data_file, *, key=None, groups=[], leaftype):
@@ -174,17 +172,16 @@ class DataReader:
         if not rows:
             return parent_map
 
-        # Auto detect language
+        # Auto detect language / field
         first_column = next(iter(rows[0].keys()))
-        match = re.match('(?:base_)?([a-zA-Z]+)(?:_([a-zA-Z]+))?', first_column)
+        match = re.match('(?:base_)?([a-zA-Z_]+)', first_column)
         if not match:
             raise Exception("First column needs to be a base_{field} or base_{field}_{lang} column")
         
         fieldname = match.group(1)
-        lang = match.group(2)
         data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
 
-        return parent_map.merge(data, field=fieldname, lang=lang, key=key)
+        return parent_map.merge(data, field=fieldname, key=key, key_join=fieldname)
 
     def load_split_data_map(self, parent_map : DataMap, data_directory, lang="en", validate=True):
         """Loads a data map by combining separate maps in a folder into one.

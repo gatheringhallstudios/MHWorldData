@@ -60,7 +60,7 @@ def load_data():
                     .add_json("charm_ext.json")
                     .get(schema=schema.CharmSchema()))
 
-    result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv")
+    result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv", ['en'])
 
     result.monster_map = (DataStitcher(reader, dir="monsters/")
                     .base_csv("monster_base.csv")
@@ -122,7 +122,7 @@ def load_data():
                     .get(schema=schema.DecorationSchema()))
 
     # Load Quest data
-    result.quest_map = (DataStitcher(reader, dir="quests/")
+    result.quest_map = (DataStitcher(reader, dir="quests/", key_join='id')
                     .base_csv("quest_base.csv")
                     .get(schema=schema.QuestBaseSchema()))
 

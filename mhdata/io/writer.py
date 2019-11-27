@@ -69,7 +69,7 @@ class DataReaderWriter(DataReader):
 
         self.save_csv(location, rows)
 
-    def save_data_json(self, location, data_map, *, key=None, fields=None, lang='en'):
+    def save_data_json(self, location, data_map, *, key=None, fields=None, key_join='name_en'):
         """Write a DataMap to a location in the data directory.
 
         If key is given, then the saving is restricted to what's inside that key.
@@ -78,12 +78,12 @@ class DataReaderWriter(DataReader):
         At least one of key or fields is required
         """
         location = self.get_data_path(location)
-        result = data_map.extract(key=key, fields=fields, lang=lang)
+        result = data_map.extract(key=key, fields=fields, key_join=key_join)
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
     def save_data_csv(self, location, data_map, *,
-            lang='en',
+            key_join='name_en',
             nest_additional=[],
             groups=[],
             key=None,
@@ -98,8 +98,8 @@ class DataReaderWriter(DataReader):
 
         TODO: Write about nest_additional and groups
         """
-        extracted = data_map.extract(key=key, fields=fields, lang=lang)
-        flattened_rows = flatten(extracted, nest=['base_name_'+lang] + nest_additional)
+        extracted = data_map.extract(key=key, fields=fields, key_join=key_join)
+        flattened_rows = flatten(extracted, nest=['base_'+key_join] + nest_additional)
         flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
         self.save_csv(location, flattened_rows, schema=schema)

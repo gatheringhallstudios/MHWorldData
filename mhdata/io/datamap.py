@@ -92,7 +92,6 @@ class DataMap(collections.abc.Mapping):
         "Internal function to remove the entry from the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
-            if self.languages and lang not in self.languages: continue
 
             key = (lang, name)
             del self._reverse_entries[key]
@@ -101,7 +100,7 @@ class DataMap(collections.abc.Mapping):
         "Internal function add the entry to the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
-            if self.languages and lang not in self.languages: continue
+            if self.languages is not None and lang not in self.languages: continue
 
             key = (lang, name)
             if key in self._reverse_entries:
@@ -172,7 +171,7 @@ class DataMap(collections.abc.Mapping):
         clone_data = self.to_dict()
         return DataMap(clone_data)
 
-    def merge(self, data, *, field='name', lang='en', key=None):
+    def merge(self, data, *, field='name', key_join='name_en', key=None):
         """Merges a dictionary keyed by the names in a language to this data map
         
         If a key is given, it will be added under key,
@@ -181,9 +180,9 @@ class DataMap(collections.abc.Mapping):
         Returns self to support chaining.
         """
         def extract_field(entry):
-            value = entry[field]
+            value = entry[key_join]
             if isinstance(value, collections.Mapping):
-                return value[lang]
+                return value[key_join]
             return value
 
         # validation, make sure it links
@@ -216,7 +215,7 @@ class DataMap(collections.abc.Mapping):
             
         return self
 
-    def extract(self, key=None, fields=None, lang='en'):
+    def extract(self, key=None, fields=None, key_join='name_en'):
         "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
         
         if not key and not fields:
@@ -227,7 +226,7 @@ class DataMap(collections.abc.Mapping):
         result = {}
 
         for entry in self.values():
-            name = entry.name(lang)
+            res_key = entry[key_join]
 
             # If root is supplied, nest. If doesn't exist, skip to next item
             if key:
@@ -239,14 +238,14 @@ class DataMap(collections.abc.Mapping):
             # Lists are extracted as-is
             # TODO: what if we get a list here and fields is supplied?
             if not isinstance(entry, collections.Mapping):
-                result[name] = entry
+                result[res_key] = entry
                 continue
 
             # If fields is given, extract them
             if fields:
-                result[name] = extract_fields(entry, *fields)
+                result[res_key] = extract_fields(entry, *fields)
             else:
-                result[name] = copy.deepcopy(entry)
+                result[res_key] = copy.deepcopy(entry)
 
         return result
         
