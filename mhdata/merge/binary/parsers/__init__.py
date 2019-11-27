@@ -12,7 +12,7 @@ from .itlot import *
 from .structreader import read_struct_from_file, StructReader
 
 def struct_to_json(obj):
-    "Recursively serializes a binary to "
+    "Recursively serializes a binary to a dictionary"
     from mhdata import typecheck
 
     if hasattr(obj, 'as_dict'):

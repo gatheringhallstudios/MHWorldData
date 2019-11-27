@@ -1,6 +1,7 @@
 from collections.abc import Sequence
 import struct
 import inspect
+import copy
 from typing import get_type_hints
 
 import mhw_armor_edit.ftypes as ft
@@ -103,15 +104,11 @@ class blist(Readable):
 
         if inspect.isclass(self.base):
             self.base = self.base()
-
-    @property
-    def size(self):
-        return self.base.size * self.count
     
     def read(self, reader):
         results = []
         for i in range(self.count):
-            value = self.base.read(reader)
+            value = reader.read_struct(copy.copy(self.base))
             results.append(value)
 
         return results
@@ -133,8 +130,13 @@ class AnnotatedStruct(Readable):
             self.fields.append(name)
 
     def read(self, reader: StructReader):
+        # Use the typehints to guide reading
         hints = get_type_hints(self.__class__)
         for name, readable in hints.items():
+            # As typehints are at the class level, we need to copy them if its a readable
+            if isinstance(readable, Readable):
+                readable = copy.copy(readable)
+
             value = reader.read_struct(readable)
             setattr(self, name, value)
 
