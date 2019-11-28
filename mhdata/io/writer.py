@@ -32,7 +32,7 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None, translation_filename=None, translation_extra=[]):
+    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None, translation_filename=None, translation_extra=[], key_join='name_en'):
         """
         Saves a base map as a csv file.
         If a marshmallow schema is provided, groups is ignored. 
@@ -44,6 +44,7 @@ class DataReaderWriter(DataReader):
 
         rows = base_map.to_list()
 
+        # Write translation file
         if translation_filename:
             translations = []
             translation_fields = ['name'] + translation_extra
@@ -56,6 +57,8 @@ class DataReaderWriter(DataReader):
                 
                 translations.append(translation_row)
 
+                # Remove separated entries from base map
+                # Removes all "extra group fields" and non-english name entries
                 row['name'] = { 'en': row['name']['en'] }
                 for field in translation_extra:
                     del row[field]
@@ -108,40 +111,3 @@ class DataReaderWriter(DataReader):
         "Saves a dict as a csv, where the key becomes a value called key"
         data = [ { 'key': key, **value } for key, value in data.items() ]
         self.save_csv(location, data, schema=schema)
-
-    def save_split_data_map(self, location, base_map, data_map, key_field, lang='en'):
-        """Writes a DataMap to a folder as separated json files.
-        The split occurs on the value of key_field.
-        Fields that exist in the base map are not copied to the data maps
-        """
-        location = self.get_data_path(location)
-
-        # Split items into buckets separated by the key field
-        split_data = collections.OrderedDict()
-        for entry in data_map.values():
-            base_entry = base_map[entry.id]
-
-            # Create the result entry. Fields are copied EXCEPT for base ones
-            result_entry = {}
-            for key, value in entry.items():
-                if key not in base_entry:
-                    result_entry[key] = value
-
-            # Add to result, key'd by the key field
-            split_key = entry[key_field]
-            split_data[split_key] = split_data.get(split_key, {})
-            split_data[split_key][entry.name(lang)] = result_entry
-
-        os.makedirs(location, exist_ok=True)
-        # todo: should we delete what's inside?
-
-        # Write out the buckets into separate json files
-        for key, items in split_data.items():
-            file_location = os.path.join(location, f"{key}.json")
-
-            # Validation to make sure there's no backpathing
-            if not os.path.commonprefix([location, file_location]):
-                raise Exception(f"Invalid Key Location {file_location}")
-
-            with open(file_location, 'w', encoding='utf-8') as f:
-                json.dump(items, f, indent=4, ensure_ascii=False)

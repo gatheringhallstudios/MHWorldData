@@ -355,3 +355,7 @@ class QuestBaseSchema(BaseSchema):
     stars = fields.Int()
     location_en = fields.String(allow_none=True)
     zenny = fields.Int(allow_none=True)
+
+class QuestSchema(QuestBaseSchema):
+    monsters = fields.List(fields.Dict())
+    rewards = fields.List(fields.Dict())

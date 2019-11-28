@@ -35,7 +35,7 @@ def load_data():
 
     result.item_map = (DataStitcher(reader, dir="items")
                     .base_csv("item_base.csv")
-                    .extend_base("item_base_translations.csv")
+                    .translate("item_base_translations.csv")
                     .get(schema=schema.ItemSchema()))
 
     result.item_combinations = reader.load_list_csv(
@@ -50,13 +50,13 @@ def load_data():
 
     result.skill_map = (DataStitcher(reader, dir="skills/")
                     .base_csv("skill_base.csv")
-                    .extend_base('skill_base_translations.csv')
+                    .translate('skill_base_translations.csv')
                     .add_csv("skill_levels.csv", key="levels")
                     .get(schema=schema.SkillSchema()))
 
     result.charm_map = (DataStitcher(reader, dir="charms/")
                     .base_csv("charm_base.csv")
-                    .extend_base('charm_base_translations.csv')
+                    .translate('charm_base_translations.csv')
                     .add_json("charm_ext.json")
                     .get(schema=schema.CharmSchema()))
 
@@ -64,7 +64,7 @@ def load_data():
 
     result.monster_map = (DataStitcher(reader, dir="monsters/")
                     .base_csv("monster_base.csv")
-                    .extend_base("monster_base_translations.csv")
+                    .translate("monster_base_translations.csv")
                     .add_json("monster_weaknesses.json", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
@@ -75,19 +75,19 @@ def load_data():
 
     result.armor_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armor_base.csv")
-                    .extend_base("armor_base_translations.csv")
+                    .translate("armor_base_translations.csv")
                     .add_csv_ext("armor_craft_ext.csv", key="craft")
                     .add_csv_ext("armor_skills_ext.csv", key="skills")
                     .get(schema=schema.ArmorSchema()))
 
     result.armorset_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armorset_base.csv")
-                    .extend_base("armorset_base_translations.csv")
+                    .translate("armorset_base_translations.csv")
                     .get(schema=schema.ArmorSetSchema()))
 
     result.armorset_bonus_map = (DataStitcher(reader, dir="armors/")
                     .base_csv("armorset_bonus_base.csv")
-                    .extend_base("armorset_bonus_base_translations.csv")
+                    .translate("armorset_bonus_base_translations.csv")
                     .get(schema=schema.ArmorSetBonus()))
 
     # Load Ammo config.
@@ -96,7 +96,7 @@ def load_data():
     # Load weapon data
     result.weapon_map = (DataStitcher(reader, dir="weapons/")
                     .base_csv("weapon_base.csv")
-                    .extend_base('weapon_base_translations.csv')
+                    .translate('weapon_base_translations.csv')
                     .add_csv_ext("weapon_sharpness.csv", key="sharpness")
                     .add_csv_ext("weapon_bow_ext.csv", key="bow")
                     .add_csv("weapon_craft.csv", key="craft")
@@ -111,19 +111,22 @@ def load_data():
     # Load Kinsects
     result.kinsect_map = (DataStitcher(reader, dir='weapons/')
                     .base_csv('kinsect_base.csv')
-                    .extend_base('kinsect_base_translations.csv')
+                    .translate('kinsect_base_translations.csv')
                     .add_csv_ext('kinsect_craft_ext.csv', key='craft')
                     .get(schema=schema.KinsectSchema()))
 
     # Load decoration data
     result.decoration_map = (DataStitcher(reader, dir="decorations/")
                     .base_csv("decoration_base.csv")
-                    .extend_base('decoration_base_translations.csv')
+                    .translate('decoration_base_translations.csv')
                     .get(schema=schema.DecorationSchema()))
 
     # Load Quest data
     result.quest_map = (DataStitcher(reader, dir="quests/", key_join='id')
                     .base_csv("quest_base.csv")
-                    .get(schema=schema.QuestBaseSchema()))
+                    .translate('quest_base_translations.csv', groups=['objective', 'description'])
+                    .add_csv('quest_monsters.csv', key='monsters')
+                    .add_csv('quest_rewards.csv', key='rewards')
+                    .get(schema=schema.QuestSchema()))
 
     return result

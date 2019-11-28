@@ -94,7 +94,8 @@ class DataMap(collections.abc.Mapping):
             if name is None: continue
 
             key = (lang, name)
-            del self._reverse_entries[key]
+            if key in self._reverse_entries:
+                del self._reverse_entries[key]
 
     def _register_entry(self, entry):
         "Internal function add the entry to the reverse mapping"
@@ -171,23 +172,35 @@ class DataMap(collections.abc.Mapping):
         clone_data = self.to_dict()
         return DataMap(clone_data)
 
-    def merge(self, data, *, field='name', key_join='name_en', key=None):
+    def merge(self, data, *, field='name', key_join='name_en', key=None, key_join_fn=None):
         """Merges a dictionary keyed by the names in a language to this data map
         
         If a key is given, it will be added under key,
         Otherwise it will be merged without overwrite.
 
+        Key join is the field to merge on. If the field is id, it will automatically convert to int.
+        If any other type conversion is required, supply a key join function.
+
         Returns self to support chaining.
         """
+
+        def convert_key(key_value):
+            if key_join_fn:
+                key_value = key_join_fn(key_value)
+            elif key_join == 'id':
+                key_value = int(key_value)
+            return key_value
+
         def extract_field(entry):
             value = entry[key_join]
             if isinstance(value, collections.Mapping):
-                return value[key_join]
-            return value
+                value = value[key_join]
+            return convert_key(value)
 
         # validation, make sure it links
         entry_map = { extract_field(e):e for e in self.values() }
-        unlinked = [key for key in data.keys() if key not in entry_map.keys()]
+        converted_keys = [convert_key(key) for key in data.keys()]
+        unlinked = [key for key in converted_keys if key not in entry_map.keys()]
         if unlinked:
             raise Exception(
                 "Several invalid names found in sub data map. Invalid entries are " +
@@ -195,7 +208,7 @@ class DataMap(collections.abc.Mapping):
 
         # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():
-            base_entry = entry_map[data_key]
+            base_entry = entry_map[convert_key(data_key)]
             
             if key:
                 base_entry[key] = data_entry

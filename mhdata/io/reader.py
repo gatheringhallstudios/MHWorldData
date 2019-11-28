@@ -97,7 +97,7 @@ class DataReader:
             result.insert(row)
 
         if languages:
-            self._validate_base_map(data_file, result, langauges, error=validate)
+            self._validate_base_map(data_file, result, languages, error=validate)
 
         return result
 
@@ -116,7 +116,7 @@ class DataReader:
 
         return keymap
 
-    def load_base_csv(self, data_file, languages, groups=[], validate=True):
+    def load_base_csv(self, data_file, languages, groups=[], translation_filename=None, translation_extra=[], validate=True):
         """Loads a base data map object from a csv
         groups is a list of additional fields (name is automatically include)
         that nest via groupname_subfield.
@@ -129,6 +129,24 @@ class DataReader:
 
         basemap = DataMap(languages=languages)
         basemap.extend(rows)
+
+        if translation_filename:
+            dataitems = self.load_list_csv(translation_filename)
+            groups = set(['name'] + translation_extra)
+            
+            # Get first column name, whose values will anchor the data to merge
+            first_column_name = next(iter(dataitems[0].keys()))
+
+            results = {}
+            for item in dataitems:
+                key = item[first_column_name]
+
+                # Remove the join from the subdata
+                item.pop(first_column_name) 
+                
+                results[key] = group_fields(item, groups=groups)
+
+            basemap.merge(results)
 
         if languages:
             self._validate_base_map(data_file, basemap, languages, error=validate)
@@ -182,48 +200,3 @@ class DataReader:
         data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
 
         return parent_map.merge(data, field=fieldname, key=key, key_join=fieldname)
-
-    def load_split_data_map(self, parent_map : DataMap, data_directory, lang="en", validate=True):
-        """Loads a data map by combining separate maps in a folder into one.
-        Just like a normal data map, it is anchored to the translation map.
-        """
-        #TODO: WILL BE REFACTORED TO USE THE NEW MERGE-FLOW
-        data_directory = self.get_data_path(data_directory)
-
-        all_subdata = []
-        for dir_entry in os.scandir(data_directory):
-            if not dir_entry.is_file():
-                continue
-            if not dir_entry.name.lower().endswith('.json'):
-                continue
-
-            with open(dir_entry, encoding="utf-8") as f:
-                subdata_json = json.load(f)
-
-                # Check if the data is of the correct type (is a dict)
-                if not hasattr(subdata_json, 'keys'):
-                    raise Exception(f"Invalid data in {dir_entry}, the data map must be a dictionary")
-
-                all_subdata.append(subdata_json)
-
-        # todo: validate key conflicts
-        # todo: store origins of keys somehow
-        data = joindicts({}, *all_subdata)
-
-        # Set validation function depending on validation setting
-        ensure_fn = ensure if validate else ensure_warn
-
-        # Hold all keys yet to be joined. If any exist, it didn't join
-        unlinked = validate_key_join(parent_map, data.keys(), join_lang=lang)
-        ensure_fn(not unlinked,
-            "Several invalid names found. Invalid entries are " +
-            ','.join(unlinked))
-
-        result = {}
-        for id, entry in parent_map.items():
-            name = entry.name(lang)
-            if name not in data:
-                continue
-            result[id] = joindicts({}, entry, data[name])
-
-        return DataMap(result, languages=self.required_languages)
