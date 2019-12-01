@@ -33,23 +33,24 @@ class MibHeader(sr.AnnotatedStruct):
 
 class MibObjective(sr.AnnotatedStruct):
     STRUCT_SIZE = 8
-    objectiveId: sr.ubyte()
+    objective_type: sr.ubyte()
     event: sr.ubyte()
     unk1: sr.ushort()
-    objectiveId1: sr.ushort()
-    objectiveAmount: sr.ushort()
-
-class MibObjectiveHeader(sr.AnnotatedStruct):
-    STRUCT_SIZE = 1
-    subobjectivesRequired: sr.ubyte()
+    objective_id: sr.ushort()
+    objective_amount: sr.ushort()
 
 class MibObjectiveSection(sr.AnnotatedStruct):
-    STRUCT_SIZE = (13 * 4) + 4
+    objectives: sr.blist(MibObjective(), 2)
+    objectives_req: sr.ubyte()
+    sub_objectives: sr.blist(MibObjective(), 2)
+        
     unk1: sr.uint()
     unk2: sr.uint()
     highlightedUnknown2: sr.uint()
-    questType: sr.ubyte()
-    questTypeIcon: sr.ubyte()
+
+    quest_type: sr.ubyte()
+
+    quest_type_icon: sr.ubyte()
     atFlag: sr.ubyte() # 02 enables AT global modifier
     unk3: sr.ubyte()
     rem_ids: sr.blist(sr.uint(), count=3)
@@ -60,6 +61,25 @@ class MibObjectiveSection(sr.AnnotatedStruct):
     hrPoints: sr.uint()
     unk7: sr.uint()
     unk8: sr.uint()
+
+class MibMonster(sr.AnnotatedStruct):
+    monster_id: sr.int()
+    spawn_id: sr.uint()
+    unk1: sr.int()
+    tempered: sr.byte()
+    health: sr.int()
+    damage: sr.int()
+    player_damage: sr.int()
+    health_damage_variance: sr.int()
+    size: sr.int()
+    size_variation: sr.int()
+    unk2: sr.int()
+    partHP: sr.int()
+    status_base: sr.int()
+    status_build_up: sr.int()
+    stun: sr.int()
+    exhaust: sr.int()
+    mount: sr.int()
 
 class RemFile(sr.AnnotatedStruct):
     STRUCT_SIZE = 110
@@ -81,10 +101,8 @@ class RemFile(sr.AnnotatedStruct):
 
 class Mib(sr.AnnotatedStruct):
     header: MibHeader()
-    objectives: sr.blist(MibObjective(), 2)
-    objective_header: MibObjectiveHeader()
-    sub_objectives: sr.blist(MibObjective(), 2)
-    objective_section: MibObjectiveSection()
+    objective: MibObjectiveSection()
+    monsters: sr.blist(MibMonster(), 7)
 
 QUEST_KEY = b"TZNgJfzyD2WKiuV4SglmI6oN5jP2hhRJcBwzUooyfIUTM4ptDYGjuRTP"
 

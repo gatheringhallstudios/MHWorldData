@@ -132,21 +132,22 @@ class DataReader:
 
         if translation_filename:
             dataitems = self.load_list_csv(translation_filename)
-            groups = set(['name'] + translation_extra)
-            
-            # Get first column name, whose values will anchor the data to merge
-            first_column_name = next(iter(dataitems[0].keys()))
-
-            results = {}
-            for item in dataitems:
-                key = item[first_column_name]
-
-                # Remove the join from the subdata
-                item.pop(first_column_name) 
+            if dataitems:
+                groups = set(['name'] + translation_extra)
                 
-                results[key] = group_fields(item, groups=groups)
+                # Get first column name, whose values will anchor the data to merge
+                first_column_name = next(iter(dataitems[0].keys()))
 
-            basemap.merge(results)
+                results = {}
+                for item in dataitems:
+                    key = item[first_column_name]
+
+                    # Remove the join from the subdata
+                    item.pop(first_column_name) 
+                    
+                    results[key] = group_fields(item, groups=groups)
+
+                basemap.merge(results)
 
         if languages:
             self._validate_base_map(data_file, basemap, languages, error=validate)

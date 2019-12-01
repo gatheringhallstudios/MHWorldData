@@ -1,0 +1,609 @@
+base_id,monster_en,objective
+101,Jagras,True
+102,Kestodon,True
+102,Kestodon,True
+102,Great Jagras,False
+103,Great Jagras,True
+201,Kulu-Ya-Ku,True
+201,Rathalos,False
+205,Pukei-Pukei,True
+205,Great Jagras,False
+205,Anjanath,False
+205,Rathalos,False
+301,Barroth,True
+301,Rathian,False
+301,Diablos,False
+302,Jyuratodus,True
+302,Rathian,False
+302,Barroth,False
+305,Tobi-Kadachi,True
+305,Great Jagras,False
+305,Anjanath,False
+306,Anjanath,True
+306,Great Jagras,False
+306,Rathalos,False
+401,Zorah Magdaros,False
+401,Nergigante,False
+405,Paolumu,True
+405,Tzitzi-Ya-Ku,False
+405,Legiana,False
+407,Radobaan,True
+407,Great Girros,False
+408,Legiana,True
+408,Tzitzi-Ya-Ku,False
+408,Paolumu,False
+501,Odogaron,True
+501,Great Girros,False
+501,Radobaan,False
+502,Rathalos,True
+502,Anjanath,False
+502,Tobi-Kadachi,False
+503,Diablos,True
+503,Rathian,False
+503,Barroth,False
+504,Zorah Magdaros,False
+504,Nergigante,False
+601,Pukei-Pukei,True
+601,Rathian,False
+601,Barroth,False
+601,Bazelgeuse,False
+605,Anjanath,True
+605,Barroth,False
+605,Diablos,False
+605,Bazelgeuse,False
+607,Pink Rathian,True
+607,Tzitzi-Ya-Ku,False
+607,Legiana,False
+607,Odogaron,False
+701,Nergigante,True
+801,Kushala Daora,True
+802,Teostra,True
+803,Vaal Hazak,True
+804,Xeno'jiiva,True
+805,Bazelgeuse,True
+806,Kirin,True
+151,Kestodon,True
+151,Kestodon,True
+152,Jagras,True
+153,Great Jagras,False
+153,Pukei-Pukei,False
+153,Anjanath,False
+153,Rathalos,False
+251,Great Jagras,True
+251,Pukei-Pukei,False
+252,Kulu-Ya-Ku,True
+252,Rathalos,False
+261,Kulu-Ya-Ku,True
+261,Rathian,False
+261,Barroth,False
+262,Gajau,True
+263,Vespoid,True
+351,Pukei-Pukei,True
+351,Great Jagras,False
+351,Anjanath,False
+351,Rathalos,False
+352,Tobi-Kadachi,True
+352,Great Jagras,False
+352,Anjanath,False
+352,Rathalos,False
+361,Barroth,True
+361,Rathian,False
+361,Jyuratodus,False
+361,Diablos,False
+362,Jyuratodus,True
+362,Rathian,False
+362,Barroth,False
+363,Kulu-Ya-Ku,False
+363,Rathian,False
+363,Barroth,False
+363,Diablos,False
+364,Kulu-Ya-Ku,False
+364,Rathian,False
+365,Barroth,True
+365,Rathian,False
+365,Jyuratodus,False
+365,Diablos,False
+331,Pukei-Pukei,True
+332,Barroth,True
+333,Tobi-Kadachi,True
+451,Anjanath,True
+451,Great Jagras,False
+451,Tobi-Kadachi,False
+451,Rathalos,False
+452,Rathian,False
+461,Rathian,True
+461,Barroth,False
+461,Jyuratodus,False
+461,Diablos,False
+471,Shamos,True
+472,Tzitzi-Ya-Ku,True
+472,Paolumu,False
+472,Legiana,False
+472,Odogaron,False
+473,Paolumu,True
+473,Tzitzi-Ya-Ku,False
+473,Legiana,False
+473,Odogaron,False
+474,Tzitzi-Ya-Ku,False
+475,Paolumu,True
+475,Tzitzi-Ya-Ku,False
+475,Legiana,False
+475,Odogaron,False
+481,Hornetaur,True
+482,Great Girros,True
+482,Radobaan,False
+482,Odogaron,False
+483,Radobaan,True
+483,Great Girros,False
+483,Odogaron,False
+484,Raphinos,True
+5003,Tzitzi-Ya-Ku,True
+431,Anjanath,True
+432,Rathian,True
+433,Paolumu,True
+434,Radobaan,True
+551,Rathalos,True
+551,Tobi-Kadachi,False
+551,Anjanath,False
+551,Rathian,False
+552,Rathalos,True
+552,Rathian,True
+552,Anjanath,False
+561,Diablos,True
+561,Rathian,False
+561,Barroth,False
+571,Legiana,True
+571,Tzitzi-Ya-Ku,False
+571,Paolumu,False
+571,Odogaron,False
+572,Kirin,True
+581,Odogaron,True
+581,Great Girros,False
+581,Radobaan,False
+582,Odogaron,True
+582,Great Girros,False
+582,Radobaan,False
+531,Legiana,True
+532,Odogaron,True
+533,Rathalos,True
+534,Diablos,True
+641,Zorah Magdaros,False
+641,Nergigante,False
+651,Great Jagras,True
+651,Pukei-Pukei,False
+651,Anjanath,False
+651,Rathalos,False
+651,Bazelgeuse,False
+651,Deviljho,False
+652,Pukei-Pukei,True
+652,Great Jagras,False
+652,Anjanath,False
+652,Rathalos,False
+652,Bazelgeuse,False
+652,Deviljho,False
+653,Tobi-Kadachi,True
+653,Anjanath,False
+653,Rathian,False
+653,Rathalos,False
+653,Bazelgeuse,False
+653,Deviljho,False
+654,Anjanath,True
+654,Great Jagras,False
+654,Tobi-Kadachi,False
+654,Rathalos,False
+654,Bazelgeuse,False
+654,Deviljho,False
+655,Rathian,True
+655,Tobi-Kadachi,False
+655,Anjanath,False
+655,Rathalos,False
+655,Bazelgeuse,False
+655,Deviljho,False
+656,Tobi-Kadachi,True
+656,Pukei-Pukei,False
+656,Rathian,False
+656,Bazelgeuse,False
+656,Bazelgeuse,False
+656,Deviljho,False
+661,Kulu-Ya-Ku,True
+661,Rathian,False
+661,Barroth,False
+661,Diablos,False
+661,Bazelgeuse,False
+661,Deviljho,False
+662,Barroth,True
+662,Rathian,False
+662,Jyuratodus,False
+662,Diablos,False
+662,Bazelgeuse,False
+662,Deviljho,False
+663,Pukei-Pukei,True
+663,Rathian,False
+663,Barroth,False
+663,Diablos,False
+663,Bazelgeuse,False
+663,Deviljho,False
+665,Jyuratodus,True
+665,Kulu-Ya-Ku,False
+665,Rathian,False
+665,Barroth,False
+665,Bazelgeuse,False
+665,Deviljho,False
+666,Rathian,True
+666,Kulu-Ya-Ku,False
+666,Barroth,False
+666,Diablos,False
+666,Bazelgeuse,False
+666,Deviljho,False
+667,Anjanath,True
+667,Rathian,False
+667,Barroth,False
+667,Diablos,False
+667,Bazelgeuse,False
+667,Deviljho,False
+671,Tzitzi-Ya-Ku,True
+671,Paolumu,False
+671,Legiana,False
+671,Odogaron,False
+671,Deviljho,False
+672,Paolumu,True
+672,Tzitzi-Ya-Ku,False
+672,Legiana,False
+672,Odogaron,False
+672,Deviljho,False
+681,Great Girros,True
+681,Radobaan,False
+681,Odogaron,False
+681,Bazelgeuse,False
+681,Deviljho,False
+682,Radobaan,True
+682,Great Girros,False
+682,Odogaron,False
+682,Bazelgeuse,False
+682,Deviljho,False
+683,Great Girros,False
+683,Radobaan,False
+683,Odogaron,False
+683,Bazelgeuse,False
+683,Deviljho,False
+684,Girros,True
+684,Great Girros,False
+684,Odogaron,False
+684,Bazelgeuse,False
+684,Deviljho,False
+691,Gastodon,True
+691,Bazelgeuse,False
+691,Deviljho,False
+692,Barnos,True
+692,Bazelgeuse,False
+692,Deviljho,False
+693,Dodogama,True
+693,Uragaan,False
+693,Lavasioth,False
+693,Bazelgeuse,False
+693,Deviljho,False
+694,Gajalaka,True
+694,Bazelgeuse,False
+694,Deviljho,False
+631,Pukei-Pukei,True
+632,Barroth,True
+633,Tobi-Kadachi,True
+634,Anjanath,True
+635,Rathian,True
+636,Paolumu,True
+637,Radobaan,True
+751,Rathalos,True
+751,Tobi-Kadachi,False
+751,Rathian,False
+751,Anjanath,False
+751,Bazelgeuse,False
+751,Deviljho,False
+752,Azure Rathalos,True
+752,Rathian,False
+752,Anjanath,False
+752,Rathalos,False
+752,Bazelgeuse,False
+752,Deviljho,False
+753,Rathalos,True
+753,Azure Rathalos,True
+753,Rathian,False
+753,Bazelgeuse,False
+753,Deviljho,False
+761,Pink Rathian,True
+761,Rathian,False
+761,Diablos,False
+761,Black Diablos,False
+761,Bazelgeuse,False
+761,Deviljho,False
+762,Diablos,True
+762,Rathian,False
+762,Barroth,False
+762,Bazelgeuse,False
+762,Deviljho,False
+763,Black Diablos,True
+763,Rathian,False
+763,Barroth,False
+763,Diablos,False
+763,Bazelgeuse,False
+763,Deviljho,False
+764,Diablos,True
+764,Black Diablos,True
+764,Rathian,False
+764,Barroth,False
+764,Bazelgeuse,False
+764,Deviljho,False
+771,Pink Rathian,True
+771,Tzitzi-Ya-Ku,False
+771,Paolumu,False
+771,Legiana,False
+771,Odogaron,False
+771,Deviljho,False
+772,Legiana,True
+772,Tzitzi-Ya-Ku,False
+772,Paolumu,False
+772,Bazelgeuse,False
+772,Deviljho,False
+773,Odogaron,True
+773,Tzitzi-Ya-Ku,False
+773,Pink Rathian,False
+773,Legiana,False
+773,Bazelgeuse,False
+773,Deviljho,False
+774,Legiana,True
+774,Odogaron,True
+774,Tzitzi-Ya-Ku,False
+774,Deviljho,False
+781,Odogaron,True
+781,Great Girros,False
+781,Radobaan,False
+781,Bazelgeuse,False
+781,Deviljho,False
+791,Lavasioth,True
+791,Dodogama,False
+791,Uragaan,False
+791,Azure Rathalos,False
+791,Bazelgeuse,False
+791,Deviljho,False
+792,Uragaan,True
+792,Dodogama,False
+792,Lavasioth,False
+792,Azure Rathalos,False
+792,Bazelgeuse,False
+792,Deviljho,False
+793,Azure Rathalos,True
+793,Dodogama,False
+793,Uragaan,False
+793,Lavasioth,False
+793,Bazelgeuse,False
+793,Deviljho,False
+794,Bazelgeuse,True
+794,Dodogama,False
+794,Uragaan,False
+794,Azure Rathalos,False
+794,Deviljho,False
+795,Lavasioth,True
+795,Uragaan,True
+795,Dodogama,False
+795,Bazelgeuse,False
+795,Deviljho,False
+738,Black Diablos,True
+731,Pink Rathian,True
+732,Legiana,True
+733,Odogaron,True
+734,Uragaan,True
+735,Rathalos,True
+736,Azure Rathalos,True
+737,Diablos,True
+50751,Deviljho,True
+50751,Great Jagras,False
+50751,Kulu-Ya-Ku,False
+50751,Tobi-Kadachi,False
+50751,Bazelgeuse,False
+851,Kushala Daora,True
+893,Teostra,True
+893,Kushala Daora,False
+895,Kushala Daora,True
+895,Nergigante,False
+861,Teostra,True
+871,Kirin,True
+881,Vaal Hazak,True
+881,Odogaron,False
+894,Nergigante,True
+894,Teostra,False
+891,Nergigante,True
+891,Kushala Daora,False
+892,Kushala Daora,True
+892,Teostra,False
+896,Teostra,True
+896,Nergigante,False
+50891,Lunastra,True
+50891,Kushala Daora,False
+50892,Lunastra,True
+50892,Nergigante,False
+50861,Teostra,True
+50861,Lunastra,True
+992,Legiana,True
+992,Odogaron,True
+992,Diablos,True
+992,Rathalos,True
+991,Xeno'jiiva,True
+995,Kushala Daora,True
+995,Teostra,True
+995,Nergigante,True
+996,Barroth,True
+996,Radobaan,True
+997,Pink Rathian,True
+997,Azure Rathalos,True
+998,Vaal Hazak,True
+998,Odogaron,True
+50991,Behemoth,True
+50701,Deviljho,True
+50701,Great Jagras,False
+50701,Tobi-Kadachi,False
+50801,Teostra,True
+50802,Lunastra,True
+50802,Teostra,False
+50803,Lunastra,True
+50803,Teostra,True
+50601,Kulu-Ya-Ku,True
+50601,Anjanath,False
+50601,Barroth,False
+50905,Behemoth,False
+50906,Behemoth,True
+50910,Leshen,True
+50910,Pukei-Pukei,False
+50902,Kulve Taroth,False
+61605,Mosswine,True
+63033,Gajalaka,True
+63033,Barroth,False
+63051,Bazelgeuse,True
+63051,Uragaan,True
+63052,Nergigante,True
+63104,Odogaron,True
+63104,Legiana,True
+63105,Odogaron,True
+63105,Legiana,True
+63106,Odogaron,True
+63106,Legiana,True
+63101,Nergigante,True
+63102,Nergigante,True
+63103,Nergigante,True
+63107,Nergigante,True
+63108,Deviljho,True
+63109,Teostra,True
+63109,Kushala Daora,True
+63109,Nergigante,True
+63110,Anjanath,True
+63110,Rathalos,True
+63110,Great Jagras,True
+63130,Bazelgeuse,True
+63131,Lunastra,True
+61101,Kestodon,True
+61101,Kestodon,True
+63003,Vespoid,True
+63003,Pukei-Pukei,False
+63001,Kulu-Ya-Ku,True
+63001,Pukei-Pukei,True
+63002,Paolumu,True
+63002,Tobi-Kadachi,True
+63031,Rathalos,True
+63031,Tzitzi-Ya-Ku,True
+63032,Odogaron,True
+61103,Pukei-Pukei,True
+61103,Tobi-Kadachi,True
+61104,Anjanath,True
+61104,Rathalos,False
+61105,Paolumu,True
+61105,Rathalos,True
+61601,Gastodon,True
+61603,Rathian,True
+61603,Pink Rathian,True
+61603,Diablos,False
+61604,Rathalos,True
+61604,Azure Rathalos,True
+61606,Great Jagras,True
+61606,Deviljho,False
+61607,Lavasioth,True
+67105,Great Jagras,True
+67103,Odogaron,True
+67103,Odogaron,True
+67603,Dodogama,True
+67603,Azure Rathalos,True
+67605,Anjanath,True
+67605,Odogaron,True
+67605,Rathalos,True
+67605,Teostra,True
+67608,Odogaron,True
+67608,Deviljho,True
+67608,Lunastra,True
+67606,Behemoth,True
+67610,Ancient Leshen,True
+66101,Great Jagras,True
+66101,Anjanath,False
+66102,Kulu-Ya-Ku,True
+66102,Tzitzi-Ya-Ku,True
+66106,Great Jagras,True
+66106,Pukei-Pukei,True
+66106,Paolumu,True
+64101,Diablos,True
+64101,Barroth,True
+64101,Barroth,True
+66103,Radobaan,True
+66103,Odogaron,True
+66104,Kirin,True
+66105,Pukei-Pukei,True
+66105,Rathian,True
+66105,Rathalos,True
+62608,Zorah Magdaros,False
+62608,Nergigante,False
+65601,Shamos,True
+65602,Tzitzi-Ya-Ku,True
+65603,Kulu-Ya-Ku,True
+65605,Great Jagras,True
+65605,Great Girros,True
+65605,Dodogama,True
+64601,Uragaan,True
+66601,Great Jagras,True
+66601,Pukei-Pukei,True
+66601,Tobi-Kadachi,True
+66601,Anjanath,True
+66601,Rathalos,True
+66602,Kulu-Ya-Ku,True
+66602,Barroth,True
+66602,Jyuratodus,True
+66602,Rathian,True
+66602,Diablos,True
+66603,Tzitzi-Ya-Ku,True
+66603,Paolumu,True
+66603,Pink Rathian,True
+66603,Legiana,True
+66604,Great Girros,True
+66604,Radobaan,True
+66604,Odogaron,True
+66604,Bazelgeuse,True
+66605,Dodogama,True
+66605,Uragaan,True
+66605,Lavasioth,True
+66605,Azure Rathalos,True
+66606,Diablos,True
+66606,Black Diablos,True
+66606,Bazelgeuse,False
+66606,Deviljho,False
+62502,Vaal Hazak,True
+62502,Odogaron,False
+62503,Kirin,True
+62504,Teostra,True
+62504,Kushala Daora,False
+62505,Kushala Daora,True
+62505,Teostra,False
+62506,Nergigante,True
+62506,Kushala Daora,False
+62506,Teostra,False
+62511,Lunastra,True
+62511,Teostra,False
+62515,Deviljho,True
+62515,Dodogama,False
+62515,Bazelgeuse,False
+62606,Zorah Magdaros,False
+62606,Nergigante,False
+62607,Xeno'jiiva,True
+62609,Xeno'jiiva,True
+66607,Pink Rathian,True
+66607,Legiana,True
+66608,Anjanath,True
+66608,Azure Rathalos,True
+66609,Bazelgeuse,True
+66610,Nergigante,True
+66610,Lunastra,True
+66610,Teostra,True
+3101,Pukei-Pukei,True
+3001,Kulu-Ya-Ku,True
+3002,Rathian,True
+3031,Tzitzi-Ya-Ku,True
+3032,Barroth,True
+3033,Dodogama,True
+3034,Azure Rathalos,True
+3051,Radobaan,True
+3051,Uragaan,True
+3052,Diablos,True
+3052,Black Diablos,True

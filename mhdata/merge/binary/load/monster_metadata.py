@@ -4,9 +4,10 @@ from mhdata.io.csv import read_csv
 
 
 class MonsterMetaEntry:
-    def __init__(self, name, id, key_name, key_description):
+    def __init__(self, name, id, id_alt, key_name, key_description):
         self.name = name
         self.id = id
+        self.id_alt = id_alt
         self.key_name = key_name
         self.key_description = key_description
 
@@ -22,18 +23,25 @@ class MonsterMetadata:
     """
 
     def __init__(self):
+        id_alt_keys = ['id_alt', 'id_alt2']
+
         this_dir = dirname(abspath(__file__))
         monster_keys_csv = read_csv(this_dir + '/monster_map.csv')
         monster_entries = [MonsterMetaEntry(
-            name=r['name_en'],
+            name=r['name_en'].strip(),
             id=int(r['id'], 16),
+            id_alt=[int(r[key], 16) for key in id_alt_keys if r[key]],
             key_name=r['key_name'],
             key_description=r['key_description']
         ) for r in monster_keys_csv]
 
-        # todo: handle alt keys
         self._map = dict((r.name, r) for r in monster_entries)
         self._map_by_id = dict((r.id, r) for r in monster_entries)
+
+        # Add alt keys. Note that they only go one way and cannot be reverse associated
+        for r in monster_entries:
+            for alt_id in r.id_alt:
+                self._map_by_id[alt_id] = r
 
     def has_monster(self, monster_name):
         return monster_name in self._map.keys()

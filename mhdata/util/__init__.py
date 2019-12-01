@@ -115,4 +115,32 @@ def ungroup_fields(obj, groups=[]):
 
     return result
 
+def flatten_dict(d, prefix='', result=None):
+    "Flattens a dictionary using path separators"
+    # recursive algorithm where each pass gives the result object to the next patch
+    # The key algorithm boils down to:
+    # - If its not a scalar (dict or list), build the prefix
+    # - If its a scalar (string or number), assign the value
 
+    result = {} if result is None else result
+
+    if typecheck.is_dict(d):
+        # dictionaries add a / behind them for non-root ones
+        if prefix:
+            prefix = prefix + '/'
+
+        for key, value in d.items():
+            if typecheck.is_scalar(value):
+                result[f"{prefix}{key}"] = value
+            else:
+                flatten_dict(value, prefix=prefix + key, result=result)
+    elif typecheck.is_list(d):
+        for idx, value in enumerate(d):
+            if typecheck.is_scalar(value):
+                result[f'{prefix}[{idx}]'] = value
+            else:
+                flatten_dict(value, prefix=f'{prefix}[{idx}]', result=result)
+    else:
+        raise Exception('Unsupported type ' + str(type(d)))
+
+    return result
