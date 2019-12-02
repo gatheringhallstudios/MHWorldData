@@ -122,6 +122,11 @@ class DynamicList(Readable):
         return [reader.read_struct(self.base) for _ in range(count)]
 
 class AnnotatedStruct(Readable):
+    """
+    Defines a structure of binary data, which is defined by type hints.
+
+    Reading the structure returns a copy of this object, rather than the object itself.
+    """
     def __init__(self):
         self.fields = []
 
@@ -130,6 +135,8 @@ class AnnotatedStruct(Readable):
             self.fields.append(name)
 
     def read(self, reader: StructReader):
+        result = copy.copy(self)
+
         # Use the typehints to guide reading
         hints = get_type_hints(self.__class__)
         for name, readable in hints.items():
@@ -138,9 +145,9 @@ class AnnotatedStruct(Readable):
                 readable = copy.copy(readable)
 
             value = reader.read_struct(readable)
-            setattr(self, name, value)
+            setattr(result, name, value)
 
-        return self
+        return result
 
     def as_dict(self):
         return {

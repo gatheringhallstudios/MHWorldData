@@ -1,4 +1,5 @@
 import collections
+from string import ascii_uppercase
 
 from .load import load_quests
 from .artifacts import write_dicts_artifact
@@ -78,6 +79,7 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
         'description': quest.description,
         'stars': binary.header.starRating,
         'location_en': area_map[binary.header.mapId],
+        'quest_type': None,
         'zenny': binary.header.zennyReward,
         'monsters': [],
         'rewards': []
@@ -86,7 +88,7 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     def add_monster(monster_id, objective=False):
         result['monsters'].append({
             'monster_en': monster_meta.by_id(monster_id).name,
-            'objective': objective
+            'is_objective': objective
         })
 
     # Note about quest type:
@@ -123,6 +125,18 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     for obj in objectives:
         if obj.objective_type == 0:
             continue
+
+        # Set the quest type.
+        # Because of the existance of type 32, we use the objective type to figure out the quest type
+        if result['quest_type'] is None:
+            if (obj.objective_type == 1 and obj.event == 4) or obj.objective_type in [33, 49]:
+                result['quest_type'] = 'hunt'
+            elif obj.objective_type == 17:
+                result['quest_type'] = 'capture'
+            elif obj.objective_type == 2:
+                result['quest_type'] = 'deliver'
+            else:
+                raise Exception(f"Unknown objective type {obj.objective_type} in quest {quest.name['en']}")
         
         if obj.objective_type in [17, 33, 49]:
             objective_monsters.append(obj.objective_id)
@@ -139,16 +153,28 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     # Now add the remaining monsters
     for monster in binary.monsters:
         monster_id = monster.monster_id
-        if monster_id != -1 and monster_id not in objective_monsters:
+        if monster_id == -1 or monster_id in objective_monsters:
+            continue
+        
+        # Kulve Taroth is a special exception
+        monster_name = monster_meta.by_id(monster_id).name
+        if monster_name in ['Kulve Taroth', 'Zorah Magdaros']:
+            result['quest_type'] = 'hunt'
+            add_monster(monster_id, True)
+        else:
             add_monster(monster_id)
 
     # quest rewards
     for idx, rem in enumerate(quest.reward_data_list):
+        group = ascii_uppercase[idx]
+
         first = True
         for (item_id, qty, chance) in rem.iter_items():
+
             item_name, _ = item_updater.name_and_description_for(item_id)
             if first and not rem.drop_mechanic:
                 result['rewards'].append({
+                    'group': group,
                     'item_en': item_name['en'],
                     'stack': qty,
                     'percentage': 100
@@ -157,6 +183,7 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
             first = False
 
             result['rewards'].append({
+                'group': group,
                 'item_en': item_name['en'],
                 'stack': qty,
                 'percentage': chance

@@ -1,4 +1,4 @@
-base_id,monster_en,objective
+base_id,monster_en,is_objective
 101,Jagras,True
 102,Kestodon,True
 102,Kestodon,True
@@ -22,7 +22,7 @@ base_id,monster_en,objective
 306,Anjanath,True
 306,Great Jagras,False
 306,Rathalos,False
-401,Zorah Magdaros,False
+401,Zorah Magdaros,True
 401,Nergigante,False
 405,Paolumu,True
 405,Tzitzi-Ya-Ku,False
@@ -41,7 +41,7 @@ base_id,monster_en,objective
 503,Diablos,True
 503,Rathian,False
 503,Barroth,False
-504,Zorah Magdaros,False
+504,Zorah Magdaros,True
 504,Nergigante,False
 601,Pukei-Pukei,True
 601,Rathian,False
@@ -167,7 +167,7 @@ base_id,monster_en,objective
 532,Odogaron,True
 533,Rathalos,True
 534,Diablos,True
-641,Zorah Magdaros,False
+641,Zorah Magdaros,True
 641,Nergigante,False
 651,Great Jagras,True
 651,Pukei-Pukei,False
@@ -452,7 +452,7 @@ base_id,monster_en,objective
 50906,Behemoth,True
 50910,Leshen,True
 50910,Pukei-Pukei,False
-50902,Kulve Taroth,False
+50902,Kulve Taroth,True
 61605,Mosswine,True
 63033,Gajalaka,True
 63033,Barroth,False
@@ -534,7 +534,7 @@ base_id,monster_en,objective
 66105,Pukei-Pukei,True
 66105,Rathian,True
 66105,Rathalos,True
-62608,Zorah Magdaros,False
+62608,Zorah Magdaros,True
 62608,Nergigante,False
 65601,Shamos,True
 65602,Tzitzi-Ya-Ku,True
@@ -584,7 +584,7 @@ base_id,monster_en,objective
 62515,Deviljho,True
 62515,Dodogama,False
 62515,Bazelgeuse,False
-62606,Zorah Magdaros,False
+62606,Zorah Magdaros,True
 62606,Nergigante,False
 62607,Xeno'jiiva,True
 62609,Xeno'jiiva,True

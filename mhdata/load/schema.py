@@ -353,9 +353,19 @@ class QuestBaseSchema(BaseSchema):
     name = fields.Dict()
     category = fields.String(allow_none=True)
     stars = fields.Int()
+    quest_type = fields.String(allow_none=True)
     location_en = fields.String(allow_none=True)
     zenny = fields.Int(allow_none=True)
 
 class QuestSchema(QuestBaseSchema):
-    monsters = fields.List(fields.Dict())
-    rewards = fields.List(fields.Dict())
+    monsters = fields.Nested('QuestMonster', many=True, missing=[])
+    rewards = fields.Nested('QuestReward', many=True, missing=[])
+
+class QuestMonster(BaseSchema):
+    monster_en = fields.String()
+    is_objective = ExcelBool()
+
+class QuestReward(BaseSchema):
+    group = fields.String()
+    item_en = fields.String()
+    percentage = fields.Integer()
