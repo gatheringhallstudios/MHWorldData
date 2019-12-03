@@ -42,18 +42,19 @@ class DataReaderWriter(DataReader):
         if 'name' not in groups:
             raise Exception("Name is a required group for base maps")
 
-        rows = base_map.to_list()
-
         # Write translation file
         if translation_filename:
             translations = []
             translation_fields = ['name'] + translation_extra
-            for row in rows:
-                translation_row = {}
+            for row in base_map.values():
+                translation_row = { key_join: row[key_join] }
                 for lang in self.languages:
                     for field in translation_fields:
+                        field_key = f'{field}_{lang}'
+                        if field_key in translation_row:
+                            continue
                         value = row[field].get(lang, '') or ''
-                        translation_row[f'{field}_{lang}'] = value.strip()
+                        translation_row[field_key] = value.strip()
                 
                 translations.append(translation_row)
 
@@ -64,6 +65,8 @@ class DataReaderWriter(DataReader):
                     del row[field]
 
             self.save_csv(translation_filename, translations)
+
+        rows = base_map.to_list()
 
         if not schema:
             rows = [ungroup_fields(v, groups=groups) for v in rows]

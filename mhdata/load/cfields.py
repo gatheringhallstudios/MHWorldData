@@ -86,7 +86,11 @@ class BaseSchema(Schema):
         translation_groups = list(self.__translation_groups__ or [])
         for lang in cfg.all_languages:
             for field in translation_groups:
-                field_value = result[field]
+                try:
+                    field_value = result[field]
+                except KeyError:
+                    raise KeyError(f'No schema entry for {field}. If the field is exported separately, use __groups__ instead')
+                
                 try:
                     result[f"{field}_{lang}"] = field_value[lang]
                 except KeyError:

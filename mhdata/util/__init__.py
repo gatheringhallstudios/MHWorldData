@@ -32,7 +32,7 @@ def get_duplicates(iterable):
     return duplicates
 
 
-def joindicts(dest, *dictlist):
+def joindicts(dest, *dictlist, prefix=''):
     """Merges one or more dictionaries into dest recursively.
     Dictionaries are merged, lists are merged. Scalars and strings are ignored.
     Returns the generated result.
@@ -50,12 +50,12 @@ def joindicts(dest, *dictlist):
             # Handle collision
             existing_value = dest[key]
             if typecheck.is_dict(existing_value) and typecheck.is_dict(value):
-                result[key] = joindicts(existing_value, value)
+                result[key] = joindicts(existing_value, value, prefix=prefix+key+'.')
             elif typecheck.is_list(existing_value) and typecheck.is_list(value):
                 result[key] = existing_value + value
-            else:
+            elif existing_value != value:
                 raise Exception("Failed to merge dictionaries: " +
-                    f"could not resolve collision on key '{key}'")
+                    f"unresolved collision and mismatch on key '{prefix + key}'")
 
     return result
 

@@ -172,10 +172,10 @@ class DataMap(collections.abc.Mapping):
         clone_data = self.to_dict()
         return DataMap(clone_data)
 
-    def merge(self, data, *, field='name', key_join='name_en', key=None, key_join_fn=None):
+    def merge(self, data, *, key_join='name_en', key=None, key_join_fn=None):
         """Merges a dictionary keyed by the names in a language to this data map
         
-        If a key is given, it will be added under key,
+        If a key is given, it will be added as a subfield under key,
         Otherwise it will be merged without overwrite.
 
         Key join is the field to merge on. If the field is id, it will automatically convert to int.

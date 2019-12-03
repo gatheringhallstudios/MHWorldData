@@ -147,7 +147,7 @@ class DataReader:
                     
                     results[key] = group_fields(item, groups=groups)
 
-                basemap.merge(results)
+                basemap.merge(results, key_join=first_column_name)
 
         if languages:
             self._validate_base_map(data_file, basemap, languages, error=validate)
@@ -200,4 +200,4 @@ class DataReader:
         fieldname = match.group(1)
         data = unflatten(rows, nest=[first_column], groups=groups, leaftype=leaftype)
 
-        return parent_map.merge(data, field=fieldname, key=key, key_join=fieldname)
+        return parent_map.merge(data, key=key, key_join=fieldname)

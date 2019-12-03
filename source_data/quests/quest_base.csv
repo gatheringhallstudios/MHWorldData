@@ -19,9 +19,9 @@ id,name_en,category,stars,quest_type,location_en,zenny
 601,Invader in the Waste,assigned,6,hunt,Wildspire Waste,7200
 605,Tickled Pink,assigned,6,hunt,Wildspire Waste,9000
 607,Old World Monster in the New World,assigned,7,hunt,Coral Highlands,12600
-701,A Wound and a Thirst,assigned,8,hunt,Elders' Recess,18000
-801,"Kushala Daora, Dragon of Steel",assigned,8,hunt,Elders' Recess,18000
-802,Teostra the Infernal,assigned,8,hunt,Elders' Recess,18000
+701,A Wound and a Thirst,assigned,8,hunt,Elder's Recess,18000
+801,"Kushala Daora, Dragon of Steel",assigned,8,hunt,Elder's Recess,18000
+802,Teostra the Infernal,assigned,8,hunt,Elder's Recess,18000
 803,Hellish Fiend Vaal Hazak,assigned,8,hunt,Rotten Vale,18000
 804,Land of Convergence,assigned,9,hunt,Confluence of Fates,19800
 805,Beyond the Blasting Scales,assigned,9,hunt,Wildspire Waste,27720
@@ -92,10 +92,10 @@ id,name_en,category,stars,quest_type,location_en,zenny
 682,Stuck in a Rut,optional,6,hunt,Rotten Vale,9000
 683,Chef Quest! Pumped to Deliver,optional,6,deliver,Rotten Vale,5400
 684,Chef Quest! A Rotten Request,optional,6,hunt,Rotten Vale,5400
-691,A Meow for Help,optional,6,hunt,Elders' Recess,5400
-692,A Scalding Scoop,optional,6,hunt,Elders' Recess,6480
-693,Dodogama Drama,optional,6,hunt,Elders' Recess,9000
-694,Chef Quest! Gajalaka Lockdown,optional,6,hunt,Elders' Recess,5400
+691,A Meow for Help,optional,6,hunt,Elder's Recess,5400
+692,A Scalding Scoop,optional,6,hunt,Elder's Recess,6480
+693,Dodogama Drama,optional,6,hunt,Elder's Recess,9000
+694,Chef Quest! Gajalaka Lockdown,optional,6,hunt,Elder's Recess,5400
 631,Special Arena: HR Pukei-Pukei,optional,6,hunt,Special Arena,7200
 632,Special Arena: HR Barroth,optional,6,hunt,Special Arena,7200
 633,Special Arena: HR Tobi-Kadachi,optional,6,hunt,Special Arena,7200
@@ -115,11 +115,11 @@ id,name_en,category,stars,quest_type,location_en,zenny
 773,A Sore Site,optional,7,hunt,Coral Highlands,12600
 774,Talons of Ire and Ice,optional,7,hunt,Coral Highlands,20160
 781,Odogaron Unleashed,optional,7,hunt,Rotten Vale,12600
-791,"Lavasioth, Monster of Magma",optional,7,hunt,Elders' Recess,12600
-792,Ore-eating Occupier,optional,7,hunt,Elders' Recess,14400
-793,Ruler of the Azure Skies,optional,7,hunt,Elders' Recess,14400
-794,Bazelgeuse in the Field of Fire,optional,7,hunt,Elders' Recess,14400
-795,A Fiery Convergence,optional,7,hunt,Elders' Recess,21600
+791,"Lavasioth, Monster of Magma",optional,7,hunt,Elder's Recess,12600
+792,Ore-eating Occupier,optional,7,hunt,Elder's Recess,14400
+793,Ruler of the Azure Skies,optional,7,hunt,Elder's Recess,14400
+794,Bazelgeuse in the Field of Fire,optional,7,hunt,Elder's Recess,14400
+795,A Fiery Convergence,optional,7,hunt,Elder's Recess,21600
 738,Special Arena: HR Black Diablos,optional,7,hunt,Special Arena,14400
 731,Special Arena: HR Pink Rathian,optional,7,hunt,Special Arena,12600
 732,Special Arena: HR Legiana,optional,7,hunt,Special Arena,12600
@@ -130,32 +130,32 @@ id,name_en,category,stars,quest_type,location_en,zenny
 737,Special Arena: HR Diablos,optional,7,hunt,Special Arena,12600
 50751,Today's Special: Hunter Flambé,optional,7,hunt,Ancient Forest,14400
 851,A Portent of Disaster,optional,8,hunt,Ancient Forest,18000
-893,Hellfire's Stronghold,optional,8,hunt,Elders' Recess,18000
-895,The Winds of Wrath Bite Deep,optional,8,hunt,Elders' Recess,18000
+893,Hellfire's Stronghold,optional,8,hunt,Elder's Recess,18000
+895,The Winds of Wrath Bite Deep,optional,8,hunt,Elder's Recess,18000
 861,A Blaze on the Sand,optional,8,hunt,Wildspire Waste,18000
 871,Lightning Strikes Twice,optional,8,hunt,Coral Highlands,18000
 881,Stirrings from the Grave,optional,8,hunt,Rotten Vale,18000
-894,The Eater of Elders,optional,8,hunt,Elders' Recess,18000
-891,The Eater of Elders,optional,8,hunt,Elders' Recess,18000
-892,Master of the Gale,optional,8,hunt,Elders' Recess,18000
-896,The Fires of Hell Bite Deep,optional,8,hunt,Elders' Recess,18000
-50891,Blue Prominence,optional,8,hunt,Elders' Recess,18000
-50892,Blue Prominence,optional,8,hunt,Elders' Recess,18000
+894,The Eater of Elders,optional,8,hunt,Elder's Recess,18000
+891,The Eater of Elders,optional,8,hunt,Elder's Recess,18000
+892,Master of the Gale,optional,8,hunt,Elder's Recess,18000
+896,The Fires of Hell Bite Deep,optional,8,hunt,Elder's Recess,18000
+50891,Blue Prominence,optional,8,hunt,Elder's Recess,18000
+50892,Blue Prominence,optional,8,hunt,Elder's Recess,18000
 50861,Infernal Monarchy,optional,8,hunt,Wildspire Waste,28800
 992,The White Winds of the New World,optional,9,hunt,Special Arena,27720
 991,A Light Upon the River's Gloom,optional,9,hunt,Confluence of Fates,19800
-995,The Sapphire Star's Guidance,optional,9,hunt,Elders' Recess,38880
+995,The Sapphire Star's Guidance,optional,9,hunt,Elder's Recess,38880
 996,Showdown: the Muck and the Maul,optional,9,hunt,Special Arena,15840
 997,"New World Sky, New World Flower",optional,9,hunt,Special Arena,25920
 998,A Summons from Below,optional,9,hunt,Rotten Vale,29520
-50991,A Visitor from Eorzea,optional,9,hunt,Elders' Recess,25200
+50991,A Visitor from Eorzea,optional,9,hunt,Elder's Recess,25200
 50701,The Food Chain Dominator,special,7,hunt,Ancient Forest,14400
 50801,The Blazing Sun,special,8,hunt,Wildspire Waste,18000
 50802,Pandora's Arena,special,8,hunt,Special Arena,12600
-50803,"No Remorse, No Surrender",special,8,hunt,Elders' Recess,28800
+50803,"No Remorse, No Surrender",special,8,hunt,Elder's Recess,28800
 50601,A Visitor from Another World,special,6,hunt,Wildspire Waste,10800
-50905,The Legendary Beast,special,9,,Elders' Recess,17640
-50906,He Taketh It with His Eyes,special,9,hunt,Elders' Recess,25200
+50905,The Legendary Beast,special,9,hunt,Elder's Recess,17640
+50906,He Taketh It with His Eyes,special,9,hunt,Elder's Recess,25200
 50910,Contract: Trouble in the Ancient Forest,special,9,hunt,Ancient Forest,19800
 50902,The Fury of El Dorado,event,9,hunt,Caverns of El Dorado,36000
 61605,Mosswinin' and Dinin',event,6,hunt,Arena,54000
@@ -185,15 +185,15 @@ id,name_en,category,stars,quest_type,location_en,zenny
 61105,Every Hunter's Dream,event,5,hunt,Arena,7200
 61601,Midnight Mayhem,event,6,hunt,Arena,8100
 61603,A Royal Pain,event,7,hunt,Wildspire Waste,9000
-61604,Kings Know No Fear,event,7,hunt,Elders' Recess,12960
+61604,Kings Know No Fear,event,7,hunt,Elder's Recess,12960
 61606,The Greatest Jagras,event,9,hunt,Ancient Forest,12600
-61607,The Name's Lavasioth!,event,9,hunt,Elders' Recess,25200
+61607,The Name's Lavasioth!,event,9,hunt,Elder's Recess,25200
 67105,USJ: Gold Star Treatment,event,3,hunt,Arena,3960
 67103,A Rush of Blood,event,7,hunt,Arena,21600
-67603,USJ Blazing Azure Stars!,event,7,hunt,Elders' Recess,18000
+67603,USJ Blazing Azure Stars!,event,7,hunt,Elder's Recess,18000
 67605,Code: Red,event,8,hunt,Arena,36000
 67608,"SDF: Silent, Deadly, and Fierce",event,8,hunt,Special Arena,36000
-67606,A Visitor from Eorzea (Extreme),event,9,hunt,Elders' Recess,30240
+67606,A Visitor from Eorzea (Extreme),event,9,hunt,Elder's Recess,30240
 67610,Contract: Woodland Spirit,event,9,hunt,Ancient Forest,36000
 66101,Chew The Fat,event,2,hunt,Ancient Forest,3240
 66102,Ya-Ku With That?,event,4,hunt,Special Arena,4320
@@ -208,29 +208,29 @@ id,name_en,category,stars,quest_type,location_en,zenny
 65603,Egg Lovers United,event,6,hunt,Arena,7200
 65604,Wiggle Me This,event,6,deliver,Coral Highlands,3600
 65605,Triple Threat Throwdown,event,6,hunt,Special Arena,14040
-64601,Rollin' With The Uragaan,event,7,hunt,Elders' Recess,23400
+64601,Rollin' With The Uragaan,event,7,hunt,Elder's Recess,23400
 66601,Deep Green Blues,event,7,hunt,Ancient Forest,28800
 66602,Wildspire Bolero,event,7,hunt,Wildspire Waste,30240
 66603,Coral Waltz,event,7,hunt,Coral Highlands,26640
 66604,Effluvial Opera,event,7,hunt,Rotten Vale,28800
-66605,Rock N' Roll Recess,event,7,hunt,Elders' Recess,35280
+66605,Rock N' Roll Recess,event,7,hunt,Elder's Recess,35280
 66606,This is How Revolts Start,event,7,hunt,Wildspire Waste,21600
 62502,The Deathly Quiet Curtain,event,9,hunt,Rotten Vale,36000
 62503,A Whisper of White Mane,event,9,hunt,Coral Highlands,36000
-62504,The Scorn of the Sun,event,9,hunt,Elders' Recess,36000
-62505,The Eye of the Storm,event,9,hunt,Elders' Recess,36000
-62506,The Heralds of Destruction Cry,event,9,hunt,Elders' Recess,36000
-62511,When Blue Dust Surpasses Red Lust,event,9,hunt,Elders' Recess,36000
-62515,Relish the Moment,event,9,hunt,Elders' Recess,21600
+62504,The Scorn of the Sun,event,9,hunt,Elder's Recess,36000
+62505,The Eye of the Storm,event,9,hunt,Elder's Recess,36000
+62506,The Heralds of Destruction Cry,event,9,hunt,Elder's Recess,36000
+62511,When Blue Dust Surpasses Red Lust,event,9,hunt,Elder's Recess,36000
+62515,Relish the Moment,event,9,hunt,Elder's Recess,21600
 62606,Undying Alpenglow,event,9,hunt,Everstream,36000
 62607,Like a Moth to the Flame,event,9,hunt,Confluence of Fates,43200
 62609,Keeper of the Otherworld,event,9,hunt,Confluence of Fates,23760
 65606,A Simple Task,event,9,deliver,Ancient Forest,3600
-65607,Tracking the Delivery,event,9,deliver,Elders' Recess,5400
+65607,Tracking the Delivery,event,9,deliver,Elder's Recess,5400
 66607,Snow & Cherry Blossoms,event,9,hunt,Coral Highlands,25200
 66608,A Nose for an Eye,event,9,hunt,Ancient Forest,23400
-66609,No Tomorrow for Usurpers,event,9,hunt,Elders' Recess,18000
-66610,The Thronetaker,event,9,hunt,Elders' Recess,37800
+66609,No Tomorrow for Usurpers,event,9,hunt,Elder's Recess,18000
+66610,The Thronetaker,event,9,hunt,Elder's Recess,37800
 3101,Arena Quest 01,arena,1,hunt,Arena,1080
 3001,Arena Quest 02,arena,2,hunt,Arena,1080
 3002,Arena Quest 03,arena,4,hunt,Arena,1080

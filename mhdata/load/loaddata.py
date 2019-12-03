@@ -124,7 +124,7 @@ def load_data():
     # Load Quest data
     result.quest_map = (DataStitcher(reader, dir="quests/", key_join='id')
                     .base_csv("quest_base.csv")
-                    .translate('quest_base_translations.csv', groups=['objective', 'description'])
+                    .translate('quest_base_translations.csv')
                     .add_csv('quest_monsters.csv', key='monsters')
                     .add_csv('quest_rewards.csv', key='rewards')
                     .get(schema=schema.QuestSchema()))

@@ -12,14 +12,27 @@ def update_all():
     from mhdata.io.csv import read_csv
     from os.path import dirname, abspath
 
-    this_dir = dirname(abspath(__file__))
-    area_map = {int(r['id']):r['name'] for r in read_csv(this_dir + '/area_map.csv')}
-
     mhdata = load_data()
     print("Existing Data loaded. Using it as a base to merge new data")
 
+    this_dir = dirname(abspath(__file__))
+    area_map = {int(r['id']):r['name'] for r in read_csv(this_dir + '/area_map.csv')}
+    print("Area Map Loaded")
+
+    # validate area map
+    error = False
+    for name in area_map.values():
+        if name not in mhdata.location_map.names('en'):
+            print(f"Error: Area map has invalid location name {name}.")
+            error = True
+    if error:
+        return
+    print("Area Map validated")
+
     item_updater = ItemUpdater()
     monster_meta = MonsterMetadata()
+
+    print() # newline
 
     update_armor(mhdata, item_updater)
     update_weapons(mhdata, item_updater)

@@ -189,6 +189,10 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
                 'percentage': chance
             })
 
+    # more special exceptions
+    if quest.name['en'] in ['The Legendary Beast']:
+        result['quest_type'] = 'hunt'
+
     return result
 
 def compare_quest_data(quest_data1, quest_data2):
