@@ -85,11 +85,25 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
         'rewards': []
     }
 
-    def add_monster(monster_id, objective=False):
-        result['monsters'].append({
-            'monster_en': monster_meta.by_id(monster_id).name,
-            'is_objective': objective
-        })
+    monster_entries = {}
+
+    def get_monster(monster_id):
+        monster_name = monster_meta.by_id(monster_id).name
+        return monster_entries.get(monster_name)
+
+    def add_monster(monster_id, quantity, objective=False):
+        monster_name = monster_meta.by_id(monster_id).name
+        existing_entry = get_monster(monster_id)
+        if existing_entry:
+            existing_entry['quantity'] += quantity
+        else:
+            entry = {
+                'monster_en': monster_name,
+                'quantity': quantity,
+                'is_objective': objective
+            }
+            result['monsters'].append(entry)
+            monster_entries[monster_name] = entry
 
     # Note about quest type:
     # The values are powers of 2, so it could be a bitwise flag system,
@@ -118,10 +132,8 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     # This only happens in Kestodon Kerfluffle. The logic may have to change for Iceborne.
     if binary.objective.sub_objectives[0].objective_id != 0:
         objectives = binary.objective.sub_objectives
-
-    # Store the ids of monsters that are part of the objective
-    objective_monsters = []
     
+    # Go through objectives, setting the quest type and adding monsters
     for obj in objectives:
         if obj.objective_type == 0:
             continue
@@ -139,30 +151,26 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
                 raise Exception(f"Unknown objective type {obj.objective_type} in quest {quest.name['en']}")
         
         if obj.objective_type in [17, 33, 49]:
-            objective_monsters.append(obj.objective_id)
+            add_monster(obj.objective_id, obj.objective_amount, True)
         elif obj.objective_type == 1 and obj.event == 4:
             for i in range(obj.objective_amount):
-                objective_monsters.append(binary.monsters[i].monster_id)
+                add_monster(binary.monsters[i].monster_id, 1, True)
         elif obj.objective_type == 2:
             pass # item turn in, not handled yet
-
-    # Now add the monsters that are part of the objective
-    for monster_id in objective_monsters:
-        add_monster(monster_id, True)
 
     # Now add the remaining monsters
     for monster in binary.monsters:
         monster_id = monster.monster_id
-        if monster_id == -1 or monster_id in objective_monsters:
+        if monster_id == -1 or get_monster(monster_id):
             continue
         
         # Kulve Taroth is a special exception
         monster_name = monster_meta.by_id(monster_id).name
         if monster_name in ['Kulve Taroth', 'Zorah Magdaros']:
             result['quest_type'] = 'hunt'
-            add_monster(monster_id, True)
+            add_monster(monster_id, 1, True)
         else:
-            add_monster(monster_id)
+            add_monster(monster_id, 1)
 
     # quest rewards
     for idx, rem in enumerate(quest.reward_data_list):

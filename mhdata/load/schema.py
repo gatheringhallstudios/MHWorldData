@@ -351,6 +351,8 @@ class QuestBaseSchema(BaseSchema):
     __groups__ = ('name','objective','description')
     id = fields.Int()
     name = fields.Dict()
+    objective = fields.Dict()
+    description = fields.Dict()
     category = fields.String(allow_none=True)
     stars = fields.Int()
     quest_type = ValidatedStr(None, 'hunt', 'capture', 'deliver')
@@ -363,9 +365,11 @@ class QuestSchema(QuestBaseSchema):
 
 class QuestMonster(BaseSchema):
     monster_en = fields.String()
+    quantity = fields.Int()
     is_objective = ExcelBool()
 
 class QuestReward(BaseSchema):
     group = fields.String()
     item_en = fields.String()
+    stack = fields.Integer()
     percentage = fields.Integer()
