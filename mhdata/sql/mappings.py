@@ -1,7 +1,7 @@
 # Defines SQL objects.
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, Float, Text, Boolean
+from sqlalchemy import Column, Integer, Float, Text, Boolean, String
 from sqlalchemy import ForeignKey, UniqueConstraint
 from sqlalchemy.orm import relationship
 
@@ -666,3 +666,44 @@ class RecipeItem(Base):
     recipe_id = Column(Integer, primary_key=True)
     item_id = Column(Integer, ForeignKey("item.id"), primary_key=True)
     quantity = Column(Integer)
+
+class Quest(Base):
+    __tablename__ = 'quest'
+    id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
+    category = Column(Text)
+    stars = Column(Integer)
+    quest_type = Column(String)
+    location_id = Column(Integer, ForeignKey("location_text.id"))
+    zenny = Column(Integer)
+
+    translations = relationship("QuestText")
+    monsters = relationship("QuestMonster")
+    rewards = relationship("QuestReward")
+
+class QuestText(Base):
+    __tablename__ = 'quest_text'
+    id = Column(Integer, ForeignKey('quest.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+    objective = Column(Text)
+    description = Column(Text)
+
+class QuestMonster(Base):
+    __tablename__ = 'quest_monster'
+    quest_id = Column(Integer, ForeignKey('quest.id'), primary_key=True)
+    monster_id = Column(Integer, ForeignKey('monster.id'), primary_key=True)
+    quantity = Column(Integer)
+    is_objective = Column(Boolean)
+
+class QuestReward(Base):
+    __tablename__ = 'quest_reward'
+    # note: it is possible for there to be multiple entries of the same thing.
+    # therefore, this join-table has no "real id" and uses a surrogate instead
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    
+    quest_id = Column(Integer, ForeignKey('quest.id'), index=True)
+    group = Column(String(1))
+    item_id = Column(Integer, ForeignKey('item.id'), index=True)
+    stack = Column(Integer)
+    percentage = Column(Integer)

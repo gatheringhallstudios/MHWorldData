@@ -47,6 +47,7 @@ def build_sql_database(output_filename, mhdata):
         build_kinsects(session, mhdata)
         build_decorations(session, mhdata)
         build_charms(session, mhdata)
+        build_quests(session, mhdata)
 
         item_tracker.print_unmarked()
         
@@ -765,3 +766,43 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
         session.add(charm)
 
     print("Built Charms")
+
+
+def build_quests(session : sqlalchemy.orm.Session, mhdata):
+    for order_id, entry in enumerate(mhdata.quest_map.values()):
+        quest = db.Quest(
+            id=entry.id,
+            order_id=order_id,
+            category=entry['category'],
+            stars=entry['stars'],
+            quest_type=entry['quest_type'],
+            location_id=mhdata.location_map.id_of('en', entry['location_en']),
+            zenny=entry['zenny']
+        )
+
+        for language in cfg.supported_languages:
+            quest.translations.append(db.QuestText(
+                lang_id=language,
+                name=entry.name(language),
+                objective=entry['objective'][language],
+                description=entry['description'][language]
+            ))
+
+        for monster_entry in entry['monsters']:
+            quest.monsters.append(db.QuestMonster(
+                monster_id=mhdata.monster_map.id_of('en', monster_entry['monster_en']),
+                quantity=monster_entry['quantity'],
+                is_objective=monster_entry['is_objective']
+            ))
+
+        for reward_entry in entry['rewards']:
+            quest.rewards.append(db.QuestReward(
+                group=reward_entry['group'],
+                item_id=mhdata.item_map.id_of('en', reward_entry['item_en']),
+                stack=reward_entry['stack'],
+                percentage=reward_entry['percentage']
+            ))
+
+        session.add(quest)
+
+    print('Build Quests')
