@@ -47,7 +47,7 @@ def build_sql_database(output_filename, mhdata):
         build_kinsects(session, mhdata)
         build_decorations(session, mhdata)
         build_charms(session, mhdata)
-        build_quests(session, mhdata)
+        build_quests(session, mhdata, item_tracker)
 
         item_tracker.print_unmarked()
         
@@ -768,7 +768,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     print("Built Charms")
 
 
-def build_quests(session : sqlalchemy.orm.Session, mhdata):
+def build_quests(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     for order_id, entry in enumerate(mhdata.quest_map.values()):
         quest = db.Quest(
             id=entry.id,
@@ -796,9 +796,11 @@ def build_quests(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         for reward_entry in entry['rewards']:
+            item_id = mhdata.item_map.id_of('en', reward_entry['item_en'])
+            item_tracker.mark_encountered_id(item_id)
             quest.rewards.append(db.QuestReward(
                 group=reward_entry['group'],
-                item_id=mhdata.item_map.id_of('en', reward_entry['item_en']),
+                item_id=item_id,
                 stack=reward_entry['stack'],
                 percentage=reward_entry['percentage']
             ))
