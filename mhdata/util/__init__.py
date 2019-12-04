@@ -32,7 +32,7 @@ def get_duplicates(iterable):
     return duplicates
 
 
-def joindicts(dest, *dictlist):
+def joindicts(dest, *dictlist, prefix=''):
     """Merges one or more dictionaries into dest recursively.
     Dictionaries are merged, lists are merged. Scalars and strings are ignored.
     Returns the generated result.
@@ -50,12 +50,12 @@ def joindicts(dest, *dictlist):
             # Handle collision
             existing_value = dest[key]
             if typecheck.is_dict(existing_value) and typecheck.is_dict(value):
-                result[key] = joindicts(existing_value, value)
+                result[key] = joindicts(existing_value, value, prefix=prefix+key+'.')
             elif typecheck.is_list(existing_value) and typecheck.is_list(value):
                 result[key] = existing_value + value
-            else:
+            elif existing_value != value:
                 raise Exception("Failed to merge dictionaries: " +
-                    f"could not resolve collision on key '{key}'")
+                    f"unresolved collision and mismatch on key '{prefix + key}'")
 
     return result
 
@@ -115,4 +115,32 @@ def ungroup_fields(obj, groups=[]):
 
     return result
 
+def flatten_dict(d, prefix='', result=None):
+    "Flattens a dictionary using path separators"
+    # recursive algorithm where each pass gives the result object to the next patch
+    # The key algorithm boils down to:
+    # - If its not a scalar (dict or list), build the prefix
+    # - If its a scalar (string or number), assign the value
 
+    result = {} if result is None else result
+
+    if typecheck.is_dict(d):
+        # dictionaries add a / behind them for non-root ones
+        if prefix:
+            prefix = prefix + '/'
+
+        for key, value in d.items():
+            if typecheck.is_scalar(value):
+                result[f"{prefix}{key}"] = value
+            else:
+                flatten_dict(value, prefix=prefix + key, result=result)
+    elif typecheck.is_list(d):
+        for idx, value in enumerate(d):
+            if typecheck.is_scalar(value):
+                result[f'{prefix}[{idx}]'] = value
+            else:
+                flatten_dict(value, prefix=f'{prefix}[{idx}]', result=result)
+    else:
+        raise Exception('Unsupported type ' + str(type(d)))
+
+    return result

@@ -54,10 +54,10 @@ def save_csv(obj_list, location):
         writer.writerows(obj_list)
 
 
-def read_csv(location):
+def read_csv(location, fieldnames=None):
     "Reads a csv file as an object list without additional processing"
     with open(location, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
+        reader = csv.DictReader(f, fieldnames=fieldnames)
         items = list(reader)
 
         # CSV does not distinguish between empty string and null

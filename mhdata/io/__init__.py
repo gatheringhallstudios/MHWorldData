@@ -24,7 +24,6 @@ def create_reader():
 
     current_dir = dirname(abspath(__file__))
     return DataReader(
-        required_languages=cfg.required_languages,
         languages=list(cfg.supported_languages), 
         data_path=join(current_dir, '../../source_data')
     )
@@ -37,7 +36,6 @@ def create_writer():
 
     current_dir = dirname(abspath(__file__))
     return DataReaderWriter(
-        required_languages=cfg.required_languages,
         languages=list(cfg.supported_languages), 
         data_path=join(current_dir, '../../source_data')
     )

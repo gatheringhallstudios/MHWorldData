@@ -1,3 +1,8 @@
+"""
+Miscellanious loading functions that form the backbone of binary loading.
+Consider whether this should be part of parsers, or if its fine to have here.
+"""
+
 from typing import Type, Mapping
 import regex as re
 from os.path import dirname, abspath, join

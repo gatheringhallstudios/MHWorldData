@@ -468,6 +468,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 467,Behemoth Shearclaw,material,,8,,10000,,,Fang,Violet
 468,Behemoth Tail,material,,8,,12000,,,Tail,Violet
 469,Aetheryte Shard,material,,7,,5000,,,Ore,White
+673,Leshen Claw,material,,6,,3000,,,,
 664,Ancient Leshen Claw,material,,7,,3600,,,,
 665,Leshen Skull,material,,7,,4000,,,,
 666,Ancient Leshen Skull,material,,8,,5000,,,,
@@ -476,6 +477,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 669,Leshen Antlers,material,,6,,3400,,,,
 670,Ancient Leshen Antlers,material,,7,,4000,,,,
 671,Leshen Resin,material,,6,,2600,,,,
+674,Mutagen,material,,8,,9600,,,,
 470,Streamstone Shard,material,,6,,1000,,,Streamstone,Violet
 471,Streamstone,material,,7,,2000,,,Streamstone,Violet
 472,Gleaming Streamstone,material,,8,,3000,,,Streamstone,Violet
@@ -542,9 +544,15 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 526,Red Orb,material,,8,,800,,,Gem,Red
 527,Master Craftsman's Blueprint,material,,6,,800,,,Voucher,Gray
 528,Bushi Ticket,material,,4,,400,,,Voucher,Red
+675,Faux Ticket,material,,4,,400,,,,
+676,Faux Ticket II,material,,4,,400,,,,
+677,Faux Ticket III,material,,4,,400,,,,
 529,Downy Crake Ticket,material,,4,,400,,,,
 530,Bristly Crake Ticket,material,,4,,400,,,,
 531,First Fleet Ticket,material,,4,,400,,,,
+678,Glamour Prism,material,,8,,800,,,,
+679,Senu's Feather,material,,4,,400,,,,
+680,Beetle Ticket,material,,4,,400,,,,
 532,Watcher Lens,material,,,,,,,Question,Gray
 533,Nora Brave Trophy,material,,,,,,,,
 534,SFV Ticket,material,,4,,200,,,Voucher,White
@@ -626,6 +634,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 606,Wyvern Tear,misc,account,3,,,,200,Body,Blue
 607,Large Wyvern Tear,misc,account,5,,,,500,,
 608,Dragon Treasure,misc,account,3,,,,800,Ore,Violet
+681,Transparent Stone,misc,account,5,,,,500,,
 609,Sunbloom,misc,account,2,,,,12,Herb,Pink
 610,Shinebloom,misc,account,3,,,,27,Herb,Pink
 611,Goldbloom,misc,account,4,,,,140,Herb,Pink

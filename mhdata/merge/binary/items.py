@@ -27,7 +27,12 @@ class ItemUpdater:
         self.encountered_item_ids.update(encountered_item_ids)
 
     def name_and_description_for(self, binary_item_id):
+        self.encountered_item_ids.add(binary_item_id)
         return self.item_text_manager.text_for(binary_item_id)
+
+    def name_for(self, binary_item_id):
+        self.encountered_item_ids.add(binary_item_id)
+        return self.item_text_manager.name_for(binary_item_id)
         
     def update_items(self, *, mhdata=None):
         if not mhdata:
@@ -43,7 +48,7 @@ class ItemUpdater:
 
         # First pass. Iterate over existing ingame items and merge with existing data
         for entry in item_data:
-            name_dict, description_dict = self.name_and_description_for(entry.id)
+            name_dict, description_dict = self.item_text_manager.text_for(entry.id)
             existing_item = mhdata.item_map.entry_of('en', name_dict['en'])
 
             is_encountered = entry.id in self.encountered_item_ids

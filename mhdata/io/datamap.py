@@ -92,16 +92,16 @@ class DataMap(collections.abc.Mapping):
         "Internal function to remove the entry from the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
-            if self.languages and lang not in self.languages: continue
 
             key = (lang, name)
-            del self._reverse_entries[key]
+            if key in self._reverse_entries:
+                del self._reverse_entries[key]
 
     def _register_entry(self, entry):
         "Internal function add the entry to the reverse mapping"
         for lang, name in entry.names():
             if name is None: continue
-            if self.languages and lang not in self.languages: continue
+            if self.languages is not None and lang not in self.languages: continue
 
             key = (lang, name)
             if key in self._reverse_entries:
@@ -172,23 +172,35 @@ class DataMap(collections.abc.Mapping):
         clone_data = self.to_dict()
         return DataMap(clone_data)
 
-    def merge(self, data, *, field='name', lang='en', key=None):
+    def merge(self, data, *, key_join='name_en', key=None, key_join_fn=None):
         """Merges a dictionary keyed by the names in a language to this data map
         
-        If a key is given, it will be added under key,
+        If a key is given, it will be added as a subfield under key,
         Otherwise it will be merged without overwrite.
+
+        Key join is the field to merge on. If the field is id, it will automatically convert to int.
+        If any other type conversion is required, supply a key join function.
 
         Returns self to support chaining.
         """
+
+        def convert_key(key_value):
+            if key_join_fn:
+                key_value = key_join_fn(key_value)
+            elif key_join == 'id':
+                key_value = int(key_value)
+            return key_value
+
         def extract_field(entry):
-            value = entry[field]
+            value = entry[key_join]
             if isinstance(value, collections.Mapping):
-                return value[lang]
-            return value
+                value = value[key_join]
+            return convert_key(value)
 
         # validation, make sure it links
         entry_map = { extract_field(e):e for e in self.values() }
-        unlinked = [key for key in data.keys() if key not in entry_map.keys()]
+        converted_keys = [convert_key(key) for key in data.keys()]
+        unlinked = [key for key in converted_keys if key not in entry_map.keys()]
         if unlinked:
             raise Exception(
                 "Several invalid names found in sub data map. Invalid entries are " +
@@ -196,7 +208,7 @@ class DataMap(collections.abc.Mapping):
 
         # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():
-            base_entry = entry_map[data_key]
+            base_entry = entry_map[convert_key(data_key)]
             
             if key:
                 base_entry[key] = data_entry
@@ -216,7 +228,7 @@ class DataMap(collections.abc.Mapping):
             
         return self
 
-    def extract(self, key=None, fields=None, lang='en'):
+    def extract(self, key=None, fields=None, key_join='name_en'):
         "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
         
         if not key and not fields:
@@ -227,7 +239,7 @@ class DataMap(collections.abc.Mapping):
         result = {}
 
         for entry in self.values():
-            name = entry.name(lang)
+            res_key = entry[key_join]
 
             # If root is supplied, nest. If doesn't exist, skip to next item
             if key:
@@ -239,14 +251,14 @@ class DataMap(collections.abc.Mapping):
             # Lists are extracted as-is
             # TODO: what if we get a list here and fields is supplied?
             if not isinstance(entry, collections.Mapping):
-                result[name] = entry
+                result[res_key] = entry
                 continue
 
             # If fields is given, extract them
             if fields:
-                result[name] = extract_fields(entry, *fields)
+                result[res_key] = extract_fields(entry, *fields)
             else:
-                result[name] = copy.deepcopy(entry)
+                result[res_key] = copy.deepcopy(entry)
 
         return result
         

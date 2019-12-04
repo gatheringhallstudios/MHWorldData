@@ -17,11 +17,16 @@ class DataStitcher:
                 Not necessary if a schema is provided to get() that handles it.
     """
 
-    def __init__(self, reader: DataReader, *, join_lang='en', dir=''):
+    def __init__(self, reader: DataReader, *, key_join='name_en', dir=''):
         self.reader = reader
-        self.join_lang = join_lang
+        self.key_join = key_join
         self.dir = dir
         self._data_map = None
+
+        self._base_fname = None
+        self._base_groups = None
+        self._base_translate_fname = None
+        self._base_translate_groups = []
 
     def _get_filename(self, filename):
         "Gets a filename relative to the internal dir, if any."
@@ -30,46 +35,38 @@ class DataStitcher:
         return filename
 
     @property
+    def languages(self):
+        languages = []
+        if self.key_join.startswith('name_'):
+            languages.append(self.key_join[5:])
+        return languages
+
+    @property
     def data_map(self):
-        if self._data_map is None:
-            raise Exception("Data Map uninitialize, use a load datamap function first")
+        if self._data_map:
+            return self._data_map
+
+        if not self._base_fname:
+            raise Exception("Data Map uninitialized, use base_csv function first")
+
+        self._data_map = self.reader.load_base_csv(
+            self._base_fname,
+            self.languages,
+            groups=self._base_groups,
+            translation_filename=self._base_translate_fname,
+            translation_extra=self._base_translate_groups)
+
         return self._data_map
 
     def base_csv(self, data_file, *, groups=[]):
         """Sets the base map from a CSV file, and return self"""
-        data_file = self._get_filename(data_file)
-        self._data_map = self.reader.load_base_csv(data_file, groups=groups)
+        self._base_fname = self._get_filename(data_file)
+        self._base_groups = groups
         return self
 
-    def base_json(self, data_file):
-        # NOTE: this will be removed in a later version
-        data_file = self._get_filename(data_file)
-        self._data_map = self.reader.load_base_json(data_file)
-        return self
-
-    def extend_base(self, filename, *, groups=[]):
-        filename = self._get_filename(filename)
-        dataitems = self.reader.load_list_csv(filename)
-        if not dataitems:
-            return self
-
-        groups = set(['name'] + groups)
-        
-        # todo: have it check the first column name and allow joins on other languages
-        
-        # Get first column name, whose values will anchor the data to merge
-        first_column_name = next(iter(dataitems[0].keys()))
-
-        results = {}
-        for item in dataitems:
-            key = item[first_column_name]
-
-            # Remove the join from the subdata
-            item.pop(first_column_name) 
-            
-            results[key] = group_fields(item, groups=groups)
-
-        self.data_map.merge(results)
+    def translate(self, filename, *, groups=[]):
+        self._base_translate_fname = self._get_filename(filename)
+        self._base_translate_groups = groups
 
         return self
 
@@ -84,7 +81,7 @@ class DataStitcher:
         self.reader.load_data_json(
             parent_map=self.data_map, 
             data_file=self._get_filename(data_file), 
-            lang=self.join_lang, 
+            key_join=self.key_join, 
             key=key)
 
         return self
@@ -97,6 +94,8 @@ class DataStitcher:
         If a key is given, it will be added under key, 
         Otherwise it will be merged without overwrite.
         """
+        if not key:
+            raise ValueError('Key must have a value')
 
         self.reader.load_data_csv(
             parent_map=self.data_map, 
@@ -130,7 +129,7 @@ class DataStitcher:
         If schema is provided, returns the items run through the marshmallow schema
         """
         if schema:
-            results = DataMap(languages=self.reader.required_languages)
+            results = DataMap(languages=self.languages)
             for entry in self.data_map.values():
                 data = entry.to_dict()
                 (converted, errors) = schema.load(data, many=False) # converted
