@@ -152,27 +152,35 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
         monster = db.Monster(
             id=entry.id,
             order_id=order_id,
-            size=entry['size']
+            size=entry['size'],
+            weakness_poison=entry['poison'],
+            weakness_sleep=entry['sleep'],
+            weakness_paralysis=entry['paralysis'],
+            weakness_blast=entry['blast'],
+            weakness_stun=entry['stun']
         )
+        
+        # todo: refactor to allow translations. Currently set when weaknesses are read
+        alt_state_description = None
 
         # Save basic weakness summary data
         if 'weaknesses' in entry and entry['weaknesses']:
-            monster.has_weakness = True
-            weaknesses = entry['weaknesses']
-            for key, value in weaknesses['normal'].items():
-                setattr(monster, 'weakness_'+key, value)
+            elements = ['fire', 'water', 'ice', 'thunder', 'dragon']
+            for weakness in entry['weaknesses']:
+                if weakness['form'] == 'normal':
+                    prefix = 'weakness_'
+                elif weakness['form'] == 'alt':
+                    prefix = 'alt_weakness_'
+                    monster.has_alt_weakness = True
+                    alt_state_description = weakness['alt_description']
+                else:
+                    raise Exception(f"Monster {entry.name('en')} has invalid form {weakness['form']}")
 
-            if 'alt' in weaknesses:
-                monster.has_alt_weakness = True
-                for key, value in weaknesses['alt'].items():
-                    setattr(monster, 'alt_weakness_'+key, value)
+                for element in elements:
+                    setattr(monster, prefix+element, weakness[element])
 
         # Save language data
         for language in cfg.supported_languages:
-            alt_state_description = None
-            if 'alt_description' in entry.get('weaknesses', {}):
-                alt_state_description = get_translated(entry['weaknesses'], 'alt_description', language)
-
             monster.translations.append(db.MonsterText(
                 lang_id=language,
                 name=get_translated(entry, 'name', language),

@@ -65,7 +65,7 @@ def load_data():
     result.monster_map = (DataStitcher(reader, dir="monsters/")
                     .base_csv("monster_base.csv")
                     .translate("monster_base_translations.csv")
-                    .add_json("monster_weaknesses.json", key="weaknesses")
+                    .add_csv("monster_weaknesses.csv", key="weaknesses")
                     .add_csv("monster_hitzones.csv", key="hitzones", groups=["hitzone"])
                     .add_csv("monster_breaks.csv", key="breaks", groups=["part"])
                     .add_csv_ext("monster_ailments.csv", key="ailments")

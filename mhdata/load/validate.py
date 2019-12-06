@@ -73,7 +73,7 @@ def validate_monsters(mhdata):
             print(f"Warning: Large monster {name} does not contain a weakness entry")
             continue
 
-        if 'normal' not in entry['weaknesses']:
+        if 'normal' not in map(lambda w: w['form'], entry['weaknesses']):
             errors.append(f"Invalid weaknesses in {name}, normal is a required state")
 
     return errors
