@@ -11,6 +11,8 @@ from .objectindex import ObjectIndex
 from .itemtracker import ItemTracker
 
 def get_translated(obj, attr, lang):
+    if attr not in obj:
+        return None
     value = obj[attr].get(lang, None)
     return value or obj[attr]['en']
 

@@ -15,6 +15,11 @@ id,name_en,ecology_en,size,poison,sleep,paralysis,blast,stun
 14,Hornetaur,,small,,,,,
 15,Gastodon,,small,,,,,
 16,Barnos,,small,,,,,
+101,Popo,,small,,,,,
+102,Anteka,,small,,,,,
+103,Wulg,,small,,,,,
+104,Cortos,,small,,,,,
+100,Gajalaka,,small,,,,,
 17,Great Jagras,Fanged Wyvern,large,3,3,3,3,3
 18,Kulu-Ya-Ku,Bird Wyvern,large,2,2,2,2,2
 19,Pukei-Pukei,Bird Wyvern,large,1,3,3,2,2
@@ -48,7 +53,32 @@ id,name_en,ecology_en,size,poison,sleep,paralysis,blast,stun
 46,Vaal Hazak,Elder Dragon,large,1,1,1,2,2
 48,Kulve Taroth,Elder Dragon,large,1,1,1,1,1
 47,Xeno'jiiva,Elder Dragon,large,3,0,1,2,1
+111,Beotodus,Piscine Wyvern,large,2,2,2,3,2
+112,Banbaro,Brute Wyvern,large,2,2,2,3,3
+113,Viper Tobi-Kadachi,Fanged Wyvern,large,1,2,1,2,2
+114,Nightshade Paolumu,Flying Wyvern,large,2,1,2,2,2
+115,Coral Pukei-Pukei,Bird Wyvern,large,3,2,2,2,2
+116,Barioth,Flying Wyvern,large,2,2,2,2,2
+117,Nargacuga,Flying Wyvern,large,2,2,2,2,2
+118,Glavenus,Brute Wyvern,large,2,2,2,2,2
+119,Tigrex,Flying Wyvern,large,2,2,2,2,2
+120,Brachydios,Brute Wyvern,large,2,2,2,1,2
+121,Shrieking Legiana,Flying Wyvern,large,3,2,2,2,2
+122,Fulgar Anjanath,Brute Wyvern,large,2,2,2,1,2
+123,Acidic Glavenus,Brute Wyvern,large,2,2,2,2,2
+124,Ebony Odogaron,Fanged Wyvern,large,3,2,3,2,2
+125,Velkhana,Elder Dragon,large,2,1,1,3,1
+126,Seething Bazelgeuse,Flying Wyvern,large,2,3,2,1,2
+127,Blackveil Vaal Hazaak,Elder Dragon,large,1,1,1,2,1
+128,Namielle,Elder Dragon,large,3,1,1,3,2
+129,Savage Deviljho,Brute Wyvern,large,3,3,3,2,2
+130,Ruiner Nergigante,Elder Dragon,large,2,2,2,3,1
+132,Zinogre,Fanged Wyvern,large,2,2,1,2,2
+133,Yian Garuga,Bird Wyvern,large,1,1,2,3,2
+134,Scarred Yian Garuga,Bird Wyvern,large,1,1,2,3,2
+135,Brute Tigrex,Flying Wyvern,large,2,2,2,2,2
+136,Gold Rathian,Flying Wyvern,large,1,2,2,1,2
+137,Silver Rathalos,Flying Wyvern,large,1,2,2,1,2
 50,Behemoth,Elder Dragon,large,2,2,2,2,2
 51,Leshen,Relict,large,3,0,2,2,1
 52,Ancient Leshen,Relict,large,3,0,2,2,1
-100,Gajalaka,,small,,,,,
