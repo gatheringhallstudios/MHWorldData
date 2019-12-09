@@ -1,68 +1,70 @@
-name_en,form,fire,water,thunder,ice,dragon,alt_description
-Great Jagras,normal,3,0,2,2,1,
-Kulu-Ya-Ku,normal,2,3,2,2,2,
-Pukei-Pukei,normal,2,0,3,2,1,
-Barroth,normal,3,0,0,2,1,
-Barroth,alt,0,3,0,2,1,when covered in mud
-Jyuratodus,normal,1,0,3,1,1,
-Jyuratodus,alt,0,3,0,1,1,when covered in mud
-Tobi-Kadachi,normal,2,3,0,2,1,
-Anjanath,normal,0,3,2,2,2,
-Rathian,normal,0,1,2,1,3,
-Tzitzi-Ya-Ku,normal,2,2,3,3,2,
-Paolumu,normal,3,0,2,1,1,
-Great Girros,normal,2,3,0,2,1,
-Radobaan,normal,1,1,1,2,3,
-Legiana,normal,2,1,3,0,1,
-Odogaron,normal,1,1,2,3,0,
-Rathalos,normal,0,1,2,1,3,
-Diablos,normal,0,2,1,3,2,
-Kirin,normal,3,2,0,2,1,
-Zorah Magdaros,normal,0,3,1,2,3,
-Dodogama,normal,0,2,3,2,1,
-Pink Rathian,normal,0,1,2,1,3,
-Bazelgeuse,normal,0,1,3,2,2,
-Deviljho,normal,2,2,3,1,3,
-Lavasioth,normal,0,3,2,2,1,
-Uragaan,normal,0,3,1,2,2,
-Azure Rathalos,normal,0,1,1,2,3,
-Black Diablos,normal,0,2,1,3,0,
-Nergigante,normal,1,1,3,1,2,
-Teostra,normal,0,3,1,3,1,
-Lunastra,normal,0,1,1,3,2,
-Kushala Daora,normal,1,0,3,0,2,
-Vaal Hazak,normal,3,0,1,2,3,
-Kulve Taroth,normal,0,2,0,3,2,
-Kulve Taroth,alt,1,2,3,0,1,when covered in gold
-Xeno'jiiva,normal,2,2,2,2,2,
-Beotodus,normal,3,1,2,0,0,
-Banbaro,normal,2,0,1,0,3,
-Viper Tobi-Kadachi,normal,1,0,3,2,1,
-Nightshade Paolumu,normal,2,3,1,1,0,
-Coral Pukei-Pukei,normal,1,0,2,3,1,
-Barioth,normal,3,0,2,0,1,
-Nargacuga,normal,2,0,3,1,1,
-Glavenus,normal,0,3,1,2,2,
-Tigrex,normal,1,0,3,1,2,
-Brachydios,normal,0,2,1,3,1,
-Shrieking Legiana,normal,3,1,2,0,1,
-Fulgar Anjanath,normal,2,2,0,3,1,
-Fulgar Anjanath,alt,2,3,0,2,1,when charged
-Acidic Glavenus,normal,3,1,2,1,2,
-Acidic Glavenus,alt,3,1,2,1,1,when crystallized
-Ebony Odogaron,normal,2,3,2,2,1,
-Velkhana,normal,3,1,2,0,2,
-Seething Bazelgeuse,normal,0,1,2,3,1,
-Blackveil Vaal Hazaak,normal,2,0,1,1,2,
-Namielle,normal,3,0,0,1,2,
-Savage Deviljho,normal,2,2,3,1,3,
-Ruiner Nergigante,normal,1,1,2,1,3,
-Zinogre,normal,1,2,0,3,1,
-Yian Garuga,normal,0,3,0,1,2,
-Scarred Yian Garuga,normal,0,3,0,1,2,
-Brute Tigrex,normal,0,3,2,1,1,
-Gold Rathian,normal,0,2,3,1,0,
-Silver Rathalos,normal,0,2,3,1,0,
-Behemoth,normal,1,2,1,2,3,
-Leshen,normal,3,0,2,1,2,
-Ancient Leshen,normal,3,0,2,1,2,
+name_en,form,alt_description,fire,water,thunder,ice,dragon,poison,sleep,paralysis,blast,stun
+Great Jagras,normal,,3,0,2,2,1,3,3,3,3,3
+Kulu-Ya-Ku,normal,,2,3,2,2,2,2,2,2,2,2
+Pukei-Pukei,normal,,2,0,3,2,1,1,3,3,2,2
+Barroth,normal,,3,0,0,2,1,3,2,3,3,1
+Barroth,alt,when covered in mud,0,3,0,2,1,,,,,
+Jyuratodus,normal,,1,0,3,1,1,2,1,2,1,3
+Jyuratodus,alt,when covered in mud,0,3,0,1,1,,,,,
+Tobi-Kadachi,normal,,2,3,0,2,1,3,2,2,2,2
+Anjanath,normal,,0,3,2,2,2,1,2,2,1,2
+Rathian,normal,,0,1,2,1,3,1,2,2,1,3
+Tzitzi-Ya-Ku,normal,,2,2,3,3,2,2,2,2,2,2
+Paolumu,normal,,3,0,2,1,1,2,2,2,3,3
+Great Girros,normal,,2,3,0,2,1,2,3,1,2,2
+Radobaan,normal,,1,1,1,2,3,2,1,2,3,2
+Legiana,normal,,2,1,3,0,1,3,2,2,2,2
+Odogaron,normal,,1,1,2,3,0,1,2,3,2,2
+Rathalos,normal,,0,1,2,1,3,1,2,2,1,2
+Diablos,normal,,0,2,1,3,2,2,2,3,2,1
+Kirin,normal,,3,2,0,2,1,1,2,0,2,1
+Zorah Magdaros,normal,,0,3,1,2,3,0,0,0,0,0
+Dodogama,normal,,0,2,3,2,1,3,2,2,1,2
+Pink Rathian,normal,,0,1,2,1,3,1,2,2,1,3
+Bazelgeuse,normal,,0,1,3,2,2,2,2,2,1,1
+Deviljho,normal,,2,2,3,1,3,2,2,2,2,2
+Lavasioth,normal,,0,3,2,2,1,3,1,2,1,2
+Uragaan,normal,,0,3,1,2,2,3,1,2,2,3
+Azure Rathalos,normal,,0,1,1,2,3,1,2,2,1,2
+Black Diablos,normal,,0,2,1,3,0,2,2,3,2,1
+Nergigante,normal,,1,1,3,1,2,2,2,2,2,2
+Teostra,normal,,0,3,1,3,1,2,1,1,1,2
+Lunastra,normal,,0,1,1,3,2,1,1,1,2,2
+Kushala Daora,normal,,1,0,3,0,2,3,1,1,3,2
+Vaal Hazak,normal,,3,0,1,2,3,1,1,1,2,2
+Kulve Taroth,normal,,0,2,0,3,2,1,1,1,1,1
+Kulve Taroth,alt,when covered in gold,1,2,3,0,1,,,,,
+Xeno'jiiva,normal,,2,2,2,2,2,3,0,1,2,1
+Beotodus,normal,,3,1,2,0,0,2,2,2,3,2
+Banbaro,normal,,2,0,1,0,3,2,2,2,3,3
+Viper Tobi-Kadachi,normal,,1,0,3,2,1,1,2,1,2,2
+Nightshade Paolumu,normal,,2,3,1,1,0,2,1,2,2,2
+Coral Pukei-Pukei,normal,,1,0,2,3,1,3,2,2,2,2
+Barioth,normal,,3,0,2,0,1,2,2,2,2,2
+Nargacuga,normal,,2,0,3,1,1,2,2,2,2,2
+Glavenus,normal,,0,3,1,2,2,2,2,2,2,2
+Tigrex,normal,,1,0,3,1,2,2,2,2,2,2
+Brachydios,normal,,0,2,1,3,1,2,2,2,1,2
+Shrieking Legiana,normal,,3,1,2,0,1,3,2,2,2,2
+Fulgar Anjanath,normal,,2,2,0,3,1,2,2,2,1,2
+Fulgar Anjanath,alt,when charged,2,3,0,2,1,,,,,
+Acidic Glavenus,normal,,3,1,2,1,2,2,2,2,2,2
+Acidic Glavenus,alt,when crystallized,3,1,2,1,1,,,,,
+Ebony Odogaron,normal,,2,3,2,2,1,3,2,3,2,2
+Velkhana,normal,,3,1,2,0,2,2,1,1,3,1
+Seething Bazelgeuse,normal,,0,1,2,3,1,2,3,2,1,2
+Blackveil Vaal Hazaak,normal,,2,0,1,1,2,1,1,1,2,1
+Namielle,normal,,3,0,0,1,2,3,1,1,3,2
+Savage Deviljho,normal,,2,2,3,1,3,3,3,3,2,2
+Ruiner Nergigante,normal,,1,1,2,1,3,2,2,2,3,1
+Shara Ishvalda,normal,,1,2,0,3,1,2,0,1,3,1
+Shara Ishvalda,alt,uncovered,1,2,0,3,1,2,0,1,2,1
+Zinogre,normal,,1,2,0,3,1,2,2,1,2,2
+Yian Garuga,normal,,0,3,0,1,2,1,1,2,3,2
+Scarred Yian Garuga,normal,,0,3,0,1,2,1,1,2,3,2
+Brute Tigrex,normal,,0,3,2,1,1,2,2,2,2,2
+Gold Rathian,normal,,0,2,3,1,0,1,2,2,1,2
+Silver Rathalos,normal,,0,2,3,1,0,1,2,2,1,2
+Behemoth,normal,,1,2,1,2,3,2,2,2,2,2
+Leshen,normal,,3,0,2,1,2,3,0,2,2,1
+Ancient Leshen,normal,,3,0,2,1,2,3,0,2,2,1

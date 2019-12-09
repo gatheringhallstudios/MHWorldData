@@ -154,12 +154,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
         monster = db.Monster(
             id=entry.id,
             order_id=order_id,
-            size=entry['size'],
-            weakness_poison=entry['poison'],
-            weakness_sleep=entry['sleep'],
-            weakness_paralysis=entry['paralysis'],
-            weakness_blast=entry['blast'],
-            weakness_stun=entry['stun']
+            size=entry['size']
         )
         
         # todo: refactor to allow translations. Currently set when weaknesses are read
@@ -167,19 +162,31 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
 
         # Save basic weakness summary data
         if 'weaknesses' in entry and entry['weaknesses']:
-            elements = ['fire', 'water', 'ice', 'thunder', 'dragon']
-            for weakness in entry['weaknesses']:
-                if weakness['form'] == 'normal':
-                    prefix = 'weakness_'
-                elif weakness['form'] == 'alt':
-                    prefix = 'alt_weakness_'
-                    monster.has_alt_weakness = True
-                    alt_state_description = weakness['alt_description']
-                else:
-                    raise Exception(f"Monster {entry.name('en')} has invalid form {weakness['form']}")
+            elements = [
+                'fire', 'water', 'ice', 'thunder', 'dragon', 
+                'poison', 'sleep', 'paralysis', 'blast', 'stun']
+
+            weaknesses = { e['form']:e for e in entry['weaknesses'] }
+            form_normal = weaknesses.get('normal')
+            form_alt = weaknesses.get('alt')
+
+            invalid_keys = [k for k in weaknesses.keys() if k not in ('normal', 'alt')]
+            if invalid_keys:
+                raise Exception(f"Monster {entry.name('en')} has invalid form(s) {', '.join(invalid_keys)}")
+
+            if form_normal:
+                for element in elements:
+                    setattr(monster, 'weakness_'+element, form_normal[element])
+
+            if form_alt:
+                monster.has_alt_weakness = True
+                alt_state_description = form_alt['alt_description']
 
                 for element in elements:
-                    setattr(monster, prefix+element, weakness[element])
+                    value = form_alt[element]
+                    if value is None:
+                        value = form_normal[element]
+                    setattr(monster, 'alt_weakness_'+element, value)
 
         # Save language data
         for language in cfg.supported_languages:

@@ -63,11 +63,6 @@ class MonsterBaseSchema(BaseSchema):
     description = fields.Dict()
     ecology_en = fields.Str(allow_none=True)
     size = ValidatedStr('small', 'large')
-    poison = fields.Int(allow_none=True)
-    sleep = fields.Int(allow_none=True)
-    paralysis = fields.Int(allow_none=True)
-    blast = fields.Int(allow_none=True)
-    stun = fields.Int(allow_none=True)
 
 class MonsterSchema(MonsterBaseSchema):
     # most sub-items are currently unvalidated
