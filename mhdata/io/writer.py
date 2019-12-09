@@ -53,7 +53,7 @@ class DataReaderWriter(DataReader):
                         field_key = f'{field}_{lang}'
                         if field_key in translation_row:
                             continue
-                        value = row[field].get(lang, '') or ''
+                        value = row.get(field, {}).get(lang, '') or ''
                         translation_row[field_key] = value.strip()
                 
                 translations.append(translation_row)
@@ -62,7 +62,7 @@ class DataReaderWriter(DataReader):
                 # Removes all "extra group fields" and non-english name entries
                 row['name'] = { 'en': row['name']['en'] }
                 for field in translation_extra:
-                    del row[field]
+                    if field in row: del row[field]
 
             self.save_csv(translation_filename, translations)
 
