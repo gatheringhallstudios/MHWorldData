@@ -22,7 +22,7 @@ class EpgPart(sr.AnnotatedStruct):
     flinchValue: sr.int()
     unk1: sr.int()
     unk2: sr.int()
-    unk3: MappedValue(sr.int(), {
+    extract: MappedValue(sr.int(), {
         0: 'red', 1: 'white', 2: 'orange', 3: 'green', 4: '4', 5: '5'
     })
     breaks: sr.DynamicList(EpgBreak)

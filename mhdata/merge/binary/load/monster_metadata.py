@@ -51,3 +51,7 @@ class MonsterMetadata:
 
     def by_name(self, name) -> MonsterMetaEntry:
         return self._map[name]
+
+    def entries(self):
+        for entry in self._map.values():
+            yield entry

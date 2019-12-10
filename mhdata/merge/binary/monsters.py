@@ -36,6 +36,10 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
 
     monster_name_text = load_text('common/text/em_names')
     monster_info_text = load_text('common/text/em_info')
+
+    monster_drops = read_drops(monster_meta, item_updater)
+    print('Loaded Monster drop rates')
+
     for monster_entry in mhdata.monster_map.values():
         name_en = monster_entry.name('en')
         if not monster_meta.has_monster(name_en):
@@ -51,22 +55,12 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
             monster_entry['description'] = monster_info_text[f'NOTE_{key_description}_DESC']
 
         # Read drops (use the hunting notes key name if available)
-        itlot_key = (key_description or key_name).lower()
-        if itlot_key:
-            itlot_path = root.joinpath(f"common/item/{itlot_key}.itlot")
-            drops = load_itlot(itlot_path)
-
-            monster_drops = []
-            for idx, entry in enumerate(drops.entries):
-                monster_drops.extend(
-                    [{
-                        'group': f'Group {idx+1}',
-                        'item_name': item_updater.name_for(iid)['en'],
-                        'quantity': qty,
-                        'percentage': rarity
-                    } for iid, qty, rarity, animation in entry.iter_items() if iid != 0]
-                )
-            artifacts.write_dicts_artifact(f'monster_drops/{name_en} drops.csv', monster_drops)
+        drop_tables = monster_drops.get(monster_key_entry.id, None)
+        if drop_tables:
+            joined_drops = []
+            for idx, drop_table in enumerate(drop_tables):
+                joined_drops.extend({'group': f'Group {idx+1}', **e} for e in drop_table)
+            artifacts.write_dicts_artifact(f'monster_drops/{name_en} drops.csv', joined_drops)
         else:
             print(f'Warning: no drops file found for monster {name_en}')
 
@@ -86,3 +80,33 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     )
 
     print("Monsters updated\n")
+
+def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
+    """Returns a list of all monster drop tables, each indexed by the binary idea. 
+    The result is a dict referring to a list of lists"""
+
+    root = Path(get_chunk_root())
+
+    results = {}
+    for monster_entry in monster_meta.entries():
+        key_name = monster_entry.key_name
+        key_description = monster_entry.key_description
+
+        itlot_key = (key_description or key_name).lower()
+        if itlot_key:
+            itlot_path = root.joinpath(f"common/item/{itlot_key}.itlot")
+            drops = load_itlot(itlot_path)
+
+            monster_drops = []
+            for entry in drops.entries:
+                monster_drops.append(
+                    [{
+                        'item_name': item_updater.name_for(iid)['en'],
+                        'quantity': qty,
+                        'percentage': rarity
+                    } for iid, qty, rarity, animation in entry.iter_items() if iid != 0]
+                )
+                
+            results[monster_entry.id] = monster_drops
+
+    return results
