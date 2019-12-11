@@ -154,7 +154,10 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
         monster = db.Monster(
             id=entry.id,
             order_id=order_id,
-            size=entry['size']
+            size=entry['size'],
+            pitfall_trap=entry['pitfall_trap'],
+            shock_trap=entry['shock_trap'],
+            vine_trap=entry['vine_trap']
         )
         
         # todo: refactor to allow translations. Currently set when weaknesses are read

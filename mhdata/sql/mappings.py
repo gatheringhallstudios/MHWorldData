@@ -88,6 +88,10 @@ class Monster(Base):
     size = Column(Text)
     icon = Column(Text)
 
+    pitfall_trap = Column(Boolean, default=False)
+    shock_trap = Column(Boolean, default=False)
+    vine_trap = Column(Boolean, default=False)
+
     has_weakness = Column(Boolean, default=False)
     has_alt_weakness = Column(Boolean, default=False)
     has_alt_weakness = Column(Boolean, default=False)

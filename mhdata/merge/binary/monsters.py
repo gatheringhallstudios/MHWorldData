@@ -5,7 +5,7 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
 
 from .load import load_text, get_chunk_root, MonsterMetadata
-from .parsers import load_epg, struct_to_json, load_itlot
+from .parsers import load_epg, struct_to_json, load_itlot, load_eda
 from .items import ItemUpdater
 from . import artifacts
 
@@ -33,6 +33,18 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
             })
         except KeyError:
             pass # warn?
+    print('Loaded Monster hitzone data')
+
+    # Load status entries
+    monster_statuses = read_status(monster_meta)
+    print('Loaded Monster status data')
+    
+    # Write hitzone data to artifacts
+    artifacts.write_json_artifact("monster_hitzones.json", hitzone_json)
+    print("Monster hitzones artifact written (Automerging not supported)")
+    artifacts.write_json_artifact("monster_status.json", list(monster_statuses.values()))
+    print("Monster status artifact written (Automerging not supported)")
+
 
     monster_name_text = load_text('common/text/em_names')
     monster_info_text = load_text('common/text/em_info')
@@ -64,9 +76,13 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
         else:
             print(f'Warning: no drops file found for monster {name_en}')
 
-    # Write hitzone data to artifacts
-    artifacts.write_json_artifact("monster_hitzones.json", hitzone_json)
-    print("Monster hitzones artifact written (Automerging not supported)")
+        # Status info
+        status = monster_statuses.get(monster_key_entry.id, None)
+        if status:
+            test = lambda v: v['base'] > 0 and v['decrease'] > 0
+            monster_entry['pitfall_trap'] = True if test(status['pitfall_trap_buildup']) else False
+            monster_entry['shock_trap'] = True if test(status['shock_trap_buildup']) else False
+            monster_entry['vine_trap'] = True if test(status['vine_trap_buildup']) else False
 
     # Write new data
     writer = create_writer()
@@ -80,6 +96,28 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     )
 
     print("Monsters updated\n")
+
+def read_status(monster_meta: MonsterMetadata):
+    "Reads status data for all monsters in the form of a nested didctionary, indexed by the binary monster id"
+    root = Path(get_chunk_root())
+
+    results = {}
+    for filename in root.joinpath('em/').rglob('*.dtt_eda'):
+        eda_binary = load_eda(filename)
+        json_data = struct_to_json(eda_binary)
+
+        try:
+            name = monster_meta.by_id(eda_binary.monster_id).name
+
+            results[eda_binary.monster_id] = {
+                'name': name,
+                'filename': str(filename.relative_to(root)),
+                **json_data
+            }
+        except KeyError:
+            pass # warn?
+
+    return results
 
 def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
     """Returns a list of all monster drop tables, each indexed by the binary idea. 

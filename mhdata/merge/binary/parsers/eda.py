@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from . import structreader as sr
 
 class EdaBuildup(sr.AnnotatedStruct):
@@ -52,3 +54,7 @@ class DttEda(sr.AnnotatedStruct):
     unk_status_buildup: EdaBuildup()
     elderseal_buildup: EdaBuildup()
     
+def load_eda(filepath):
+    filepath = Path(filepath)
+    data = open(filepath,'rb').read()
+    return sr.StructReader(data).read_struct(DttEda)

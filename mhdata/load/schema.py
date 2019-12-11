@@ -63,6 +63,9 @@ class MonsterBaseSchema(BaseSchema):
     description = fields.Dict()
     ecology_en = fields.Str(allow_none=True)
     size = ValidatedStr('small', 'large')
+    pitfall_trap = ExcelBool(null_is_false=True)
+    shock_trap = ExcelBool(null_is_false=True)
+    vine_trap = ExcelBool(null_is_false=True)
 
 class MonsterSchema(MonsterBaseSchema):
     # most sub-items are currently unvalidated
