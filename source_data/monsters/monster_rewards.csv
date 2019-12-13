@@ -5,7 +5,7 @@ Jagras,Body Carve,LR,Jagras Hide,1,50
 Jagras,Body Carve,LR,Jagras Scale,1,30
 Jagras,Body Carve,LR,Sharp Claw,1,20
 Jagras,Body Carve,HR,Jagras Hide+,1,50
-Jagras,Body Carve,HR,Jagras Scale,1,30
+Jagras,Body Carve,HR,Jagras Scale+,1,30
 Jagras,Body Carve,HR,Piercing Claw,1,20
 Jagras,Quest Reward (Bronze),LR,Jagras Hide,1,40
 Jagras,Quest Reward (Bronze),LR,Jagras Scale,1,20
@@ -110,8 +110,8 @@ Shamos,Body Carve,LR,Shamos Hide,1,50
 Shamos,Body Carve,LR,Shamos Scale,1,30
 Shamos,Body Carve,LR,Sharp Claw,1,20
 Shamos,Body Carve,HR,Shamos Hide+,1,50
-Shamos,Body Carve,HR,Piercing Claw,1,30
-Shamos,Body Carve,HR,Shamos Scale+,1,20
+Shamos,Body Carve,HR,Shamos Scale+,1,30
+Shamos,Body Carve,HR,Piercing Claw,1,20
 Shamos,Quest Reward (Bronze),LR,Coral Crystal,1,12
 Shamos,Quest Reward (Bronze),LR,Shamos Hide,1,30
 Shamos,Quest Reward (Bronze),LR,Sharp Claw,1,24
@@ -175,7 +175,7 @@ Great Jagras,Carve / Capture,HR,Great Jagras Hide+,1,28
 Great Jagras,Carve / Capture,HR,Great Jagras Claw+,1,21
 Great Jagras,Carve / Capture,HR,Great Jagras Mane,1,15
 Great Jagras,Shiny Drop,LR,Great Jagras Scale,1,50
-Great Jagras,Shiny Drop,LR,Great Jagras Hide,1,28
+Great Jagras,Shiny Drop,LR,Great Jagras Claw,1,28
 Great Jagras,Shiny Drop,LR,Wyvern Tear,1,22
 Great Jagras,Shiny Drop,HR,Great Jagras Scale+,1,50
 Great Jagras,Shiny Drop,HR,Great Jagras Claw+,1,28
@@ -287,7 +287,7 @@ Kulu-Ya-Ku,Plunderblade,LR,Kulu-Ya-Ku Hide,1,35
 Kulu-Ya-Ku,Plunderblade,LR,Kulu-Ya-Ku Plume,1,22
 Kulu-Ya-Ku,Plunderblade,HR,Kulu-Ya-Ku Scale+,1,43
 Kulu-Ya-Ku,Plunderblade,HR,Kulu-Ya-Ku Hide+,1,33
-Kulu-Ya-Ku,Plunderblade,HR,Kulu-Ya-Ku Plume+,1,22
+Kulu-Ya-Ku,Plunderblade,HR,Kulu-Ya-Ku Plume,1,22
 Kulu-Ya-Ku,Plunderblade,HR,Bird Wyvern Gem,1,2
 Kulu-Ya-Ku,Wound Head,LR,Kulu-Ya-Ku Beak,1,100
 Kulu-Ya-Ku,Wound Head,HR,Kulu-Ya-Ku Beak+,1,100
@@ -620,8 +620,8 @@ Tobi-Kadachi,Wound Tail,HR,Tobi-Kadachi Electrode+,1,80
 Tobi-Kadachi,Wound Tail,HR,Tobi-Kadachi Pelt+,1,20
 Anjanath,Track,LR,Anjanath Scale,1,100
 Anjanath,Track,HR,Anjanath Scale+,1,100
-Anjanath,Carve / Capture,LR,Anjanath Pelt,1,35
-Anjanath,Carve / Capture,LR,Anjanath Scale,1,25
+Anjanath,Carve / Capture,LR,Anjanath Scale,1,35
+Anjanath,Carve / Capture,LR,Anjanath Pelt,1,25
 Anjanath,Carve / Capture,LR,Anjanath Nosebone,1,20
 Anjanath,Carve / Capture,LR,Anjanath Fang,1,15
 Anjanath,Carve / Capture,LR,Anjanath Plate,1,5
@@ -955,7 +955,7 @@ Paolumu,Wound Back,LR,Paolumu Pelt,1,100
 Paolumu,Wound Back,HR,Paolumu Pelt+,1,100
 Paolumu,Wound Tail,LR,Paolumu Shell,1,100
 Paolumu,Wound Tail,HR,Paolumu Carapace+,1,100
-Great Girros,Track,LR,Great Girros Fang,1,100
+Great Girros,Track,LR,Great Girros Scale,1,100
 Great Girros,Track,HR,Great Girros Scale+,1,100
 Great Girros,Carve / Capture,LR,Great Girros Scale,1,31
 Great Girros,Carve / Capture,LR,Great Girros Hide,1,24
@@ -1582,26 +1582,26 @@ Kirin,Plunderblade,LR,Kirin Tail,1,34
 Kirin,Plunderblade,LR,Kirin Mane,1,22
 Kirin,Plunderblade,LR,Lightcrystal,1,1
 Kirin,Plunderblade,HR,Kirin Hide+,1,43
-Kirin,Plunderblade,HR,Kirin Tail,1,34
+Kirin,Plunderblade,HR,Kirin Thundertail,1,34
 Kirin,Plunderblade,HR,Kirin Mane,1,22
 Kirin,Plunderblade,HR,Novacrystal,1,1
 Kirin,Break Horn,LR,Kirin Thunderhorn,1,100
 Kirin,Break Horn,HR,Kirin Azure Horn,1,80
 Kirin,Break Horn,HR,Kirin Thunderhorn,1,20
-Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Carapace,1,60
-Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Heat Scale,1,20
+Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Carapace,1,55
+Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Heat Scale,1,27
 Zorah Magdaros,Shiny Drop,LR,Zorah Magdaros Magma,1,15
-Zorah Magdaros,Shiny Drop,LR,Lightcrystal,1,5
+Zorah Magdaros,Shiny Drop,LR,Lightcrystal,1,3
 Zorah Magdaros,Shiny Drop,HR,Zorah Magdaros Carapace,1,55
 Zorah Magdaros,Shiny Drop,HR,Zorah Magdaros Heat Scale,1,27
 Zorah Magdaros,Shiny Drop,HR,Zorah Magdaros Magma,1,15
 Zorah Magdaros,Shiny Drop,HR,Lightcrystal,1,3
-Zorah Magdaros,Red Crystal Mining / Shiny,LR,Dragonite Ore,1,60
+Zorah Magdaros,Red Crystal Mining / Shiny,LR,Dragonite Ore,1,67
 Zorah Magdaros,Red Crystal Mining / Shiny,LR,Zorah Magdaros Carapace,1,30
-Zorah Magdaros,Red Crystal Mining / Shiny,LR,Lightcrystal,1,10
-Zorah Magdaros,Red Crystal Mining / Shiny,HR,Dragonite Ore,1,60
+Zorah Magdaros,Red Crystal Mining / Shiny,LR,Lightcrystal,1,3
+Zorah Magdaros,Red Crystal Mining / Shiny,HR,Dragonite Ore,1,67
 Zorah Magdaros,Red Crystal Mining / Shiny,HR,Zorah Magdaros Carapace,1,30
-Zorah Magdaros,Red Crystal Mining / Shiny,HR,Lightcrystal,1,10
+Zorah Magdaros,Red Crystal Mining / Shiny,HR,Lightcrystal,1,3
 Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Heat Scale,1,100
 Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Ridge,1,24
 Zorah Magdaros,Quest Reward (Bronze),LR,Zorah Magdaros Heat Scale,1,21
@@ -1756,7 +1756,7 @@ Bazelgeuse,Investigation (Gold),HR,Bazelgeuse Tail,1,12
 Bazelgeuse,Investigation (Gold),HR,Bazelgeuse Scale+,3,10
 Bazelgeuse,Palico Bonus,HR,Bazelgeuse Scale+,1,50
 Bazelgeuse,Palico Bonus,HR,Bazelgeuse Talon,1,28
-Bazelgeuse,Palico Bonus,HR,Wyvern Tear,1,22
+Bazelgeuse,Palico Bonus,HR,Large Wyvern Tear,1,22
 Bazelgeuse,Plunderblade,HR,Bazelgeuse Scale+,1,41
 Bazelgeuse,Plunderblade,HR,Bazelgeuse Carapace,1,33
 Bazelgeuse,Plunderblade,HR,Bazelgeuse Talon,1,25
@@ -1769,19 +1769,27 @@ Bazelgeuse,Wound Wings,HR,Bazelgeuse Talon,1,35
 Bazelgeuse,Wound Back,HR,Bazelgeuse Carapace,1,69
 Bazelgeuse,Wound Back,HR,Bazelgeuse Fuse,1,30
 Bazelgeuse,Wound Back,HR,Bazelgeuse Gem,1,1
-Deviljho,Carve / Capture,HR,Deviljho Scale,1,
-Deviljho,Carve / Capture,HR,Deviljho Hide,1,
-Deviljho,Carve / Capture,HR,Deviljho Tallfang,1,
-Deviljho,Carve / Capture,HR,Deviljho Talon,1,
-Deviljho,Carve / Capture,HR,Deviljho Scalp,1,
-Deviljho,Carve / Capture,HR,Deviljho Gem,1,
+Deviljho,Track,HR,Deviljho Scale,1,100
+Deviljho,Carve / Capture,HR,Deviljho Scale,1,28
+Deviljho,Carve / Capture,HR,Deviljho Hide,1,24
+Deviljho,Carve / Capture,HR,Deviljho Talon,1,17
+Deviljho,Carve / Capture,HR,Deviljho Tallfang,1,13
+Deviljho,Carve / Capture,HR,Deviljho Tail,1,8
+Deviljho,Carve / Capture,HR,Deviljho Scalp,1,8
+Deviljho,Carve / Capture,HR,Deviljho Gem,1,2
 Deviljho,Wound Head,HR,Deviljho Tallfang,1,
 Deviljho,Wound Head,HR,Deviljho Gem,1,
 Deviljho,Wound Chest,HR,Deviljho Scale,1,
 Deviljho,Wound Chest,HR,Deviljho Gem,1,
-Deviljho,Tail Carve,HR,Deviljho Tail,1,
-Deviljho,Tail Carve,HR,Deviljho Gem,1,
-Deviljho,Shiny Drop,HR,Deviljho Saliva,1,
+Deviljho,Tail Carve,HR,Deviljho Tail,1,75
+Deviljho,Tail Carve,HR,Deviljho Scale,1,22
+Deviljho,Tail Carve,HR,Deviljho Gem,1,3
+Deviljho,Shiny Drop,HR,Deviljho Saliva,1,50
+Deviljho,Shiny Drop,HR,Deviljho Scale,1,28
+Deviljho,Shiny Drop,HR,Large Wyvern Tear,1,22
+Deviljho,Palico Bonus,HR,Deviljho Saliva,1,50
+Deviljho,Palico Bonus,HR,Deviljho Scale,1,28
+Deviljho,Palico Bonus,HR,Large Wyvern Tear,1,22
 Deviljho,Quest Reward (Bronze),HR,Deviljho Scale,1,
 Deviljho,Quest Reward (Bronze),HR,Deviljho Hide,1,
 Deviljho,Quest Reward (Bronze),HR,Deviljho Tallfang,1,
@@ -1940,7 +1948,7 @@ Black Diablos,Shiny Drop,HR,Black Diablos Ridge+,1,28
 Black Diablos,Shiny Drop,HR,Large Wyvern Tear,1,22
 Black Diablos,Tail Carve,HR,Diablos Tailcase,1,40
 Black Diablos,Tail Carve,HR,Black Diablos Carapace,1,34
-Black Diablos,Tail Carve,HR,Diablos Marrow,1,22
+Black Diablos,Tail Carve,HR,Blos Medulla,1,22
 Black Diablos,Tail Carve,HR,Wyvern Gem,1,4
 Black Diablos,Quest Reward (Bronze),HR,Black Diablos Ridge+,1,26
 Black Diablos,Quest Reward (Bronze),HR,Black Diablos Carapace,1,21
@@ -1985,7 +1993,7 @@ Nergigante,Shiny Drop,HR,Nergigante Regrowth Plate,1,50
 Nergigante,Shiny Drop,HR,Nergigante Talon,1,28
 Nergigante,Shiny Drop,HR,Dragon Treasure,1,22
 Nergigante,Tail Carve,HR,Nergigante Tail,1,70
-Nergigante,Tail Carve,HR,Nergigante Regrowth Plate,1,27
+Nergigante,Tail Carve,HR,Immortal Dragonscale,1,27
 Nergigante,Tail Carve,HR,Nergigante Gem,1,3
 Nergigante,Quest Reward (Bronze),HR,Nergigante Carapace,1,27
 Nergigante,Quest Reward (Bronze),HR,Immortal Dragonscale,1,22
@@ -2068,19 +2076,30 @@ Teostra,Break Horns,HR,Teostra Mane,1,32
 Teostra,Break Horns,HR,Teostra Gem,1,2
 Teostra,Wound Wings,HR,Teostra Webbing,1,70
 Teostra,Wound Wings,HR,Teostra Claw+,2,30
-Lunastra,Body Carve,HR,Lunastra Scale+,1,
-Lunastra,Body Carve,HR,Lunastra Carapace,1,
-Lunastra,Body Carve,HR,Lunastra Mane,1,
-Lunastra,Body Carve,HR,Lunastra Wing,1,
-Lunastra,Body Carve,HR,Lunastra Tail,1,
-Lunastra,Body Carve,HR,Lunastra Gem,1,
-Lunastra,Shiny Drop,HR,Lunastra Scale+,1,
-Lunastra,Shiny Drop,HR,Lunastra Gem,1,
+Lunastra,Track,HR,Lunastra Scale+,1,100
+Lunastra,Body Carve,HR,Lunastra Scale+,1,31
+Lunastra,Body Carve,HR,Lunastra Carapace,1,24
+Lunastra,Body Carve,HR,Lunastra Mane,1,19
+Lunastra,Body Carve,HR,Lunastra Tail,1,15
+Lunastra,Body Carve,HR,Lunastra Wing,1,8
+Lunastra,Body Carve,HR,Lunastra Gem,1,3
+Lunastra,Shiny Drop,HR,Lunastra Mane,1,50
+Lunastra,Shiny Drop,HR,Lunastra Scale+,1,28
+Lunastra,Shiny Drop,HR,Dragon Treasure,1,20
+Lunastra,Shiny Drop,HR,Lunastra Gem,1,2
+Lunastra,Palico Bonus,HR,Lunastra Mane,1,50
+Lunastra,Palico Bonus,HR,Lunastra Scale+,1,28
+Lunastra,Palico Bonus,HR,Dragon Treasure,1,22
+Lunastra,Plunderblade,HR,Lunastra Scale+,1,45
+Lunastra,Plunderblade,HR,Lunastra Carapace,1,30
+Lunastra,Plunderblade,HR,Lunastra Mane,1,24
+Lunastra,Plunderblade,HR,Lunastra Gem,1,1
+Lunastra,Tail Carve,HR,Lunastra Tail,1,75
+Lunastra,Tail Carve,HR,Lunastra Scale+,1,22
+Lunastra,Tail Carve,HR,Lunastra Gem,1,3
 Lunastra,Wound Head,HR,Lunastra Horn,1,
 Lunastra,Wound Head,HR,Lunastra Gem,1,
 Lunastra,Wound Wings,HR,Lunastra Wing,1,
-Lunastra,Tail Carve,HR,Lunastra Tail,1,
-Lunastra,Tail Carve,HR,Lunastra Gem,1,
 Lunastra,Quest Reward (Bronze),HR,Lunastra Scale+,1,
 Lunastra,Quest Reward (Bronze),HR,Lunastra Carapace,1,
 Lunastra,Quest Reward (Bronze),HR,Lunastra Mane,1,
@@ -2252,13 +2271,18 @@ Xeno'jiiva,Wound Wings,HR,Xeno'jiiva Wing,1,70
 Xeno'jiiva,Wound Wings,HR,Xeno'jiiva Veil,2,30
 Xeno'jiiva,Wound Forearms,HR,Xeno'jiiva Claw,1,80
 Xeno'jiiva,Wound Forearms,HR,Xeno'jiiva Shell,1,20
-Behemoth,Body Carve,HR,Behemoth Mane,1,
-Behemoth,Body Carve,HR,Behemoth Bone,1,
-Behemoth,Body Carve,HR,Behemoth Great Horn,1,
-Behemoth,Body Carve,HR,Behemoth Shearclaw,1,
-Behemoth,Body Carve,HR,Behemoth Tail,1,
-Behemoth,Tail Carve,HR,Behemoth Tail,1,
-Behemoth,Shiny Drop,HR,Behemoth Mane,1,
+Behemoth,Body Carve,HR,Behemoth Mane,1,35
+Behemoth,Body Carve,HR,Behemoth Bone,1,29
+Behemoth,Body Carve,HR,Behemoth Shearclaw,1,18
+Behemoth,Body Carve,HR,Behemoth Tail,1,13
+Behemoth,Body Carve,HR,Behemoth Great Horn,1,5
+Behemoth,Shiny Drop,HR,Behemoth Mane,1,50
+Behemoth,Shiny Drop,HR,Behemoth Bone,1,28
+Behemoth,Shiny Drop,HR,Dragon Treasure,1,22
+Behemoth,Tail Carve,HR,Behemoth Tail,1,100
+Behemoth,Plunderblade,HR,Behemoth Mane,1,50
+Behemoth,Plunderblade,HR,Behemoth Bone,1,28
+Behemoth,Plunderblade,HR,Aetheryte Shard,1,22
 Behemoth,Break Horn,HR,Behemoth Great Horn,1,
 Behemoth,Wound Forelegs,HR,Behemoth Shearclaw,1,
 Behemoth,Quest Reward (Bronze),HR,Behemoth Mane,1,

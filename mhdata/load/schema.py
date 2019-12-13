@@ -74,8 +74,15 @@ class MonsterSchema(MonsterBaseSchema):
     hitzones = fields.List(fields.Dict())
     breaks = fields.List(fields.Dict())
     habitats = fields.List(fields.Dict())
-    rewards = fields.List(fields.Dict())
+    rewards = fields.Nested('MonsterReward', many=True)
     ailments = fields.Nested('MonsterAilments', many=False)
+
+class MonsterReward(BaseSchema):
+    condition_en = fields.Str()
+    rank = ValidatedStr(*cfg.supported_ranks)
+    item_en = fields.Str()
+    stack = fields.Int()
+    percentage = fields.Int(allow_none=True)
 
 class MonsterAilments(BaseSchema):
     roar = ValidatedStr(None, 'small', 'large')

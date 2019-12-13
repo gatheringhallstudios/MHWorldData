@@ -1,5 +1,6 @@
 from operator import itemgetter
 from pathlib import Path
+import itertools
 
 from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
@@ -9,6 +10,33 @@ from .parsers import load_epg, struct_to_json, load_itlot, load_eda
 from .items import ItemUpdater
 from . import artifacts
 
+# todo: Handle Quest rewards and investigation droprates somewhere
+itlot_conditions  = [
+    'Track', 'Body Carve', 'Carve / Capture', 'Tail Carve', 
+    'Shiny Drop', 'Palico Bonus', 'Plunderblade']
+skipped_conditions = ['Investigation (Silver)', 'Investigation (Gold)', 'Quest Reward (Bronze)']
+
+# Note - general pattern for (small) monster drop itlos
+# Group 1 - LR Carves
+# Group 2 - HR Carves
+# Group 3 - LR Plunderblade
+# Group 4 - HR Plunderblade
+
+# Note - general pattern for (large) monster drop itlots are (sometimes broken like say, teo)
+# Work in progress, edit as analyzed
+# Tail carves vary. Shiny drops usually show earlier than plunderblade
+# Group 1 - Low rank Carves
+# Group 2 - Low rank tail carves
+# Group 5 - High Rank Carves
+# Group 6 - High rank tail carve (sometimes)
+# Group 7 - High rank Shiny
+# Group 10 - High rank tail carve (sometimes)
+# Group 12 - Low rank Plunderblade
+# Group 13 - High rank Plunderblade
+# Group 15 - Low rank Palico Bonus (or shiny, unsure)
+# Group 16 - High rank Palico Bonus (or shiny, unsure)
+# Group 21 - Low rank track
+# Group 22 - High rank track
 
 def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetadata):
     root = Path(get_chunk_root())
@@ -69,10 +97,22 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
         # Read drops (use the hunting notes key name if available)
         drop_tables = monster_drops.get(monster_key_entry.id, None)
         if drop_tables:
+            # Write drops to artifact files
             joined_drops = []
             for idx, drop_table in enumerate(drop_tables):
                 joined_drops.extend({'group': f'Group {idx+1}', **e} for e in drop_table)
             artifacts.write_dicts_artifact(f'monster_drops/{name_en} drops.csv', joined_drops)
+
+            # Check if any drop table in our current database is invalid
+            if 'rewards' in monster_entry:
+                rewards_sorted = sorted(monster_entry['rewards'], key=itemgetter('condition_en'))
+                rewards = itertools.groupby(rewards_sorted, key=lambda r: (r['condition_en'], r['rank']))
+
+                for (condition, rank), existing_table in rewards:
+                    if condition in itlot_conditions:
+                        existing_table = list(existing_table)
+                        if not any(compare_drop_tables(existing_table, table) for table in drop_tables):
+                            print(f"Validation Error: Monster {name_en} has invalid drop table {condition} in {rank}")
         else:
             print(f'Warning: no drops file found for monster {name_en}')
 
@@ -137,14 +177,32 @@ def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
 
             monster_drops = []
             for entry in drops.entries:
-                monster_drops.append(
-                    [{
-                        'item_name': item_updater.name_for(iid)['en'],
-                        'quantity': qty,
+                table_entries = [
+                    {
+                        'item_en': item_updater.name_for(iid)['en'],
+                        'stack': qty,
                         'percentage': rarity
                     } for iid, qty, rarity, animation in entry.iter_items() if iid != 0]
-                )
+                table_entries.sort(key=itemgetter('percentage'), reverse=True)
+                monster_drops.append(table_entries)
                 
             results[monster_entry.id] = monster_drops
 
     return results
+
+def compare_drop_tables(drop_table1, drop_table2):
+    if len(drop_table1) != len(drop_table2):
+        return False
+
+    create_tuple = lambda i: (i['item_en'], i['stack'], i['percentage'])
+
+    others = set(create_tuple(i) for i in drop_table2)
+
+    for item in drop_table1:
+        entry = create_tuple(item)
+        try:
+            others.remove(entry)
+        except KeyError:
+            return False
+
+    return True
