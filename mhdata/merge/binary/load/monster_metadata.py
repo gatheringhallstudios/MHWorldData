@@ -46,6 +46,9 @@ class MonsterMetadata:
     def has_monster(self, monster_name):
         return monster_name in self._map.keys()
 
+    def has_monster_id(self, monster_id):
+        return monster_id in self._map_by_id.keys()
+
     def by_id(self, id) -> MonsterMetaEntry:
         return self._map_by_id[id]
 

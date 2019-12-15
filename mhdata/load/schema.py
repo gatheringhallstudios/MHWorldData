@@ -71,11 +71,23 @@ class MonsterSchema(MonsterBaseSchema):
     # most sub-items are currently unvalidated
     # todo: create schema entries for the below
     weaknesses = fields.List(fields.Dict())
-    hitzones = fields.List(fields.Dict())
+    hitzones = fields.Nested('MonsterHitzone', many=True)
     breaks = fields.List(fields.Dict())
     habitats = fields.List(fields.Dict())
     rewards = fields.Nested('MonsterReward', many=True)
     ailments = fields.Nested('MonsterAilments', many=False)
+
+class MonsterHitzone(BaseSchema):
+    hitzone = fields.Dict()
+    cut = fields.Int()
+    impact = fields.Int()
+    shot = fields.Int()
+    fire = fields.Int()
+    water = fields.Int()
+    thunder = fields.Int()
+    ice = fields.Int()
+    dragon = fields.Int()
+    ko = fields.Int()
 
 class MonsterReward(BaseSchema):
     condition_en = fields.Str()

@@ -16,6 +16,8 @@ itlot_conditions  = [
     'Shiny Drop', 'Palico Bonus', 'Plunderblade']
 skipped_conditions = ['Investigation (Silver)', 'Investigation (Gold)', 'Quest Reward (Bronze)']
 
+hitzone_fields = ['cut','impact','shot','fire','water','thunder','ice','dragon','ko']
+
 # Note - general pattern for (small) monster drop itlos
 # Group 1 - LR Carves
 # Group 2 - HR Carves
@@ -45,20 +47,35 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     # Currently these names are not the name_en entries, but the MonsterList entry names
     folder_for_monster = {}
 
-    # Load hitzone entries
-    hitzone_json = []
+    # Load hitzone entries. EPG files contain hitzones, parts, and base hp
+    hitzone_raw_data = []
+    monster_hitzones = {}
     for filename in root.joinpath('em/').rglob('*.dtt_epg'):
         epg_binary = load_epg(filename)
-        json_data = struct_to_json(epg_binary)
 
         try:
             name = monster_meta.by_id(epg_binary.monster_id).name
 
-            hitzone_json.append({
+            hitzone_raw_data.append({
                 'name': name,
                 'filename': str(filename.relative_to(root)),
-                **json_data
+                **struct_to_json(epg_binary)
             })
+
+            monster_hitzones[name] = []
+            for hitzone in epg_binary.hitzones:
+                monster_hitzones[name].append({
+                    'name_en': name,
+                    'cut': hitzone.Sever,
+                    'impact': hitzone.Blunt,
+                    'shot': hitzone.Shot,
+                    'fire': hitzone.Fire,
+                    'water': hitzone.Water,
+                    'thunder': hitzone.Thunder,
+                    'ice': hitzone.Ice,
+                    'dragon': hitzone.Dragon,
+                    'ko': hitzone.Stun
+                })
         except KeyError:
             pass # warn?
     print('Loaded Monster hitzone data')
@@ -68,7 +85,9 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     print('Loaded Monster status data')
     
     # Write hitzone data to artifacts
-    artifacts.write_json_artifact("monster_hitzones.json", hitzone_json)
+    artifacts.write_json_artifact("monster_hitzones_and_breaks.json", hitzone_raw_data)
+    print("Monster hitzones+breaks raw data artifact written (Automerging not supported)")
+    artifacts.write_dicts_artifact('monster_hitzones_raw.csv', itertools.chain.from_iterable(monster_hitzones.values()))
     print("Monster hitzones artifact written (Automerging not supported)")
     artifacts.write_json_artifact("monster_status.json", list(monster_statuses.values()))
     print("Monster status artifact written (Automerging not supported)")
@@ -94,7 +113,7 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
         if key_description:
             monster_entry['description'] = monster_info_text[f'NOTE_{key_description}_DESC']
 
-        # Read drops (use the hunting notes key name if available)
+        # Compare drops (use the hunting notes key name if available)
         drop_tables = monster_drops.get(monster_key_entry.id, None)
         if drop_tables:
             # Write drops to artifact files
@@ -115,6 +134,26 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
                             print(f"Validation Error: Monster {name_en} has invalid drop table {condition} in {rank}")
         else:
             print(f'Warning: no drops file found for monster {name_en}')
+
+        # Compare hitzones
+        hitzone_data = monster_hitzones.get(name_en, None)
+        if hitzone_data and 'hitzones' in monster_entry:
+            # Create tuples of the values of the hitzone, to use as a comparator
+            hitzone_key = lambda h: tuple(h[v] for v in hitzone_fields)
+
+            stored_hitzones = [hitzone_key(h) for h in hitzone_data]
+            stored_hitzones_set = set(stored_hitzones)
+
+            # Check if any hitzone we have doesn't actually exist
+            for hitzone in monster_entry['hitzones']:
+                if hitzone_key(hitzone) not in stored_hitzones_set:
+                    print(f"Validation Error: Monster {name_en} has invalid hitzone {hitzone['hitzone']['en']}")
+
+        elif 'hitzones' not in monster_entry and hitzone_data:
+            print(f'Warning: no hitzones in monster entry {name_en}, but binary data exists')
+        else:
+            print(f"Warning: No hitzone data for monster {name_en}")
+
 
         # Status info
         status = monster_statuses.get(monster_key_entry.id, None)
@@ -190,15 +229,16 @@ def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
 
     return results
 
-def compare_drop_tables(drop_table1, drop_table2):
-    if len(drop_table1) != len(drop_table2):
+
+def compare_dict_lists(list1, list2, fields):
+    if len(list1) != len(list2):
         return False
 
-    create_tuple = lambda i: (i['item_en'], i['stack'], i['percentage'])
+    create_tuple = lambda i: tuple(i[k] for k in fields)
 
-    others = set(create_tuple(i) for i in drop_table2)
+    others = set(create_tuple(i) for i in list2)
 
-    for item in drop_table1:
+    for item in list1:
         entry = create_tuple(item)
         try:
             others.remove(entry)
@@ -206,3 +246,7 @@ def compare_drop_tables(drop_table1, drop_table2):
             return False
 
     return True
+
+
+def compare_drop_tables(list1, list2):
+    return compare_dict_lists(list1, list2, ('item_en', 'stack', 'percentage'))
