@@ -761,6 +761,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
                 name=entry.name(language)
             ))
 
+        # Add charm skills
         for skill_en, level in entry['skills'].items():
             skill_id = skill_map.id_of('en', skill_en)
             ensure(skill_id, f"Charm {entry.name('en')} refers to " +
@@ -771,17 +772,19 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
                 level=level
             ))
 
-        charm.recipe_id = calculate_next_recipe_id(session)
-        for item_en, quantity in entry['craft'].items():
-            item_id = item_map.id_of('en', item_en)
-            ensure(item_id, f"Charm {entry.name('en')} refers to " +
-                f"item {item_en}, which doesn't exist.")
+        # Add Charm Recipe
+        if entry['craft']:
+            charm.recipe_id = calculate_next_recipe_id(session)
+            for item_en, quantity in entry['craft'].items():
+                item_id = item_map.id_of('en', item_en)
+                ensure(item_id, f"Charm {entry.name('en')} refers to " +
+                    f"item {item_en}, which doesn't exist.")
 
-            charm.craft_items.append(db.RecipeItem(
-                recipe_id=charm.recipe_id,
-                item_id=item_id,
-                quantity=quantity
-            ))
+                charm.craft_items.append(db.RecipeItem(
+                    recipe_id=charm.recipe_id,
+                    item_id=item_id,
+                    quantity=quantity
+                ))
 
         session.add(charm)
 
