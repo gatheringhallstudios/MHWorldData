@@ -59,86 +59,86 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
         try:
             meta = monster_meta.by_id(epg_binary.monster_id)
             name = meta.name
+        except KeyError:
+            continue # warn?
 
-            path_key = filename.stem + "_" + str(filename.parents[1].stem)
+        path_key = filename.stem + "_" + str(filename.parents[1].stem)
 
-            hitzone_raw_data.append({
-                'name': name,
-                'filename': str(filename.relative_to(root)),
-                **struct_to_json(epg_binary)
+        hitzone_raw_data.append({
+            'name': name,
+            'filename': str(filename.relative_to(root)),
+            **struct_to_json(epg_binary)
+        })
+
+        monster_hitzones[name] = []
+        for hitzone in epg_binary.hitzones:
+            monster_hitzones[name].append({
+                'cut': hitzone.Sever,
+                'impact': hitzone.Blunt,
+                'shot': hitzone.Shot,
+                'fire': hitzone.Fire,
+                'water': hitzone.Water,
+                'thunder': hitzone.Thunder,
+                'ice': hitzone.Ice,
+                'dragon': hitzone.Dragon,
+                'ko': hitzone.Stun
             })
 
-            monster_hitzones[name] = []
-            for hitzone in epg_binary.hitzones:
-                monster_hitzones[name].append({
-                    'cut': hitzone.Sever,
-                    'impact': hitzone.Blunt,
-                    'shot': hitzone.Shot,
-                    'fire': hitzone.Fire,
-                    'water': hitzone.Water,
-                    'thunder': hitzone.Thunder,
-                    'ice': hitzone.Ice,
-                    'dragon': hitzone.Dragon,
-                    'ko': hitzone.Stun
-                })
-
-            unlinked = set(range(len(monster_hitzones[name])))
-            def get_hitzone(idx):
-                if idx == -1:
-                    return None
-                hitzone = monster_hitzones[name][idx]
+        unlinked = set(range(len(monster_hitzones[name])))
+        def get_hitzone(idx):
+            if idx == -1:
+                return None
+            hitzone = monster_hitzones[name][idx]
+            if idx in unlinked:
                 unlinked.remove(idx)
-                return hitzone
+            return hitzone
 
-            for part_id, part in enumerate(epg_binary.parts):
-                for subpart in part.subparts:
-                    base_params = {
-                        'name_en': name,
-                        'part_id': part_id,
-                        'part_name': monster_meta.get_part(path_key, part_id),
-                        'flinch': part.flinchValue,
-                        'extract': part.extract,
-                    }
-
-                    base_hzv = get_hitzone(subpart.hzv_base)
-                    if base_hzv:
-                        hitzone_raw_data_flat.append({
-                            **base_params,
-                            'type': 'base',
-                            **base_hzv
-                        })
-                    
-                    broken_hzv = get_hitzone(subpart.hzv_broken)
-                    if broken_hzv:
-                        hitzone_raw_data_flat.append({
-                            **base_params,
-                            'type': 'broken',
-                            **broken_hzv
-                        })
-
-                    if name not in ['Behemoth']:
-                        for special_idx in range(3):
-                            value = getattr(subpart, 'hzv_special' + str(special_idx+1))
-                            hzv_spec = get_hitzone(value)
-                            if hzv_spec:
-                                hitzone_raw_data_flat.append({
-                                    **base_params,
-                                    'type': 'special ' + str(special_idx + 1),
-                                    **hzv_spec
-                                })
-
-            for idx in unlinked:
-                hzv_unlinked = get_hitzone(idx)
-                hitzone_raw_data_flat.append({
+        for part_id, part in enumerate(epg_binary.parts):
+            for subpart in part.subparts:
+                base_params = {
                     'name_en': name,
-                    'part_id': 'unlinked',
-                    'part_name': 'unlinked',
-                    'type': 'unlinked',
-                    **hzv_unlinked
-                })
-            
-        except KeyError:
-            pass # warn?
+                    'part_id': part_id,
+                    'part_name': monster_meta.get_part(path_key, part_id),
+                    'flinch': part.flinchValue,
+                    'extract': part.extract,
+                }
+
+                base_hzv = get_hitzone(subpart.hzv_base)
+                if base_hzv:
+                    hitzone_raw_data_flat.append({
+                        **base_params,
+                        'type': 'base',
+                        **base_hzv
+                    })
+                
+                broken_hzv = get_hitzone(subpart.hzv_broken)
+                if broken_hzv:
+                    hitzone_raw_data_flat.append({
+                        **base_params,
+                        'type': 'broken',
+                        **broken_hzv
+                    })
+
+                if name not in ['Behemoth']:
+                    for special_idx in range(3):
+                        value = getattr(subpart, 'hzv_special' + str(special_idx+1))
+                        hzv_spec = get_hitzone(value)
+                        if hzv_spec:
+                            hitzone_raw_data_flat.append({
+                                **base_params,
+                                'type': 'special ' + str(special_idx + 1),
+                                **hzv_spec
+                            })
+
+        for idx in unlinked:
+            hitzone_raw_data_flat.append({
+                'name_en': name,
+                'part_id': 'unlinked',
+                'part_name': 'unlinked',
+                'type': 'unlinked',
+                **monster_hitzones[name][idx]
+            })
+
     print('Loaded Monster hitzone data')
 
     # Load status entries

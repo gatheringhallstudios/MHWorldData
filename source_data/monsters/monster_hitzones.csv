@@ -44,9 +44,9 @@ Kulu-Ya-Ku,Body,45,45,40,15,20,15,15,15,0
 Kulu-Ya-Ku,Tail,55,50,35,15,20,15,15,15,0
 Kulu-Ya-Ku,Rock,5,5,5,5,20,5,5,5,0
 Pukei-Pukei,Head,75,80,70,15,0,30,20,10,100
-Pukei-Pukei,Tongue,80,80,75,15,0,25,15,10,100
+Pukei-Pukei,Head (Red),95,90,85,15,0,30,20,10,100
 Pukei-Pukei,Neck,40,35,30,5,0,20,10,5,0
-Pukei-Pukei,Body,35,35,30,0,5,5,15,0,0
+Pukei-Pukei,Body,35,35,30,0,0,15,5,5,0
 Pukei-Pukei,Left Wing,50,45,40,10,0,25,15,5,0
 Pukei-Pukei,Right Wing,50,45,40,10,0,25,15,5,0
 Pukei-Pukei,Left Leg,45,45,40,0,0,15,5,0,0
@@ -107,8 +107,8 @@ Rathian,Right Leg,40,40,35,0,0,5,0,15,0
 Rathian,Tail,45,40,35,0,5,10,5,20,0
 Tzitzi-Ya-Ku,Antennae,75,65,70,15,15,20,20,15,100
 Tzitzi-Ya-Ku,Head,65,55,55,15,15,20,20,15,100
-Tzitzi-Ya-Ku,Forearms,45,60,35,15,15,20,20,15,0
-Tzitzi-Ya-Ku,Body,45,60,35,15,15,20,20,20,0
+Tzitzi-Ya-Ku,Arms,45,60,35,15,15,20,20,15,0
+Tzitzi-Ya-Ku,Legs,45,60,35,15,15,20,20,15,0
 Tzitzi-Ya-Ku,Tail,40,40,35,15,15,20,20,15,0
 Paolumu,Head,55,55,45,25,0,15,10,10,100
 Paolumu,Neck,40,40,30,20,0,15,10,10,100
@@ -224,18 +224,18 @@ Bazelgeuse,Back,30,30,25,0,5,15,10,10,0
 Bazelgeuse,Legs,36,34,30,0,5,15,10,10,0
 Bazelgeuse,Wings,25,25,65,0,5,15,10,10,0
 Bazelgeuse,Tail,75,70,55,0,10,20,15,15,0
-Deviljho,Head,65,65,60,10,10,15,5,15,100
+Deviljho,Head,60,70,60,10,10,15,5,15,100
 Deviljho,Chest,37,37,35,15,15,20,10,20,0
 Deviljho,Body,25,25,25,5,5,20,5,20,0
 Deviljho,Arms,30,30,30,10,10,15,5,15,0
-Deviljho,Legs,43,38,35,5,5,10,5,10,0
-Deviljho,Tail,35,32,30,5,5,20,5,20,0
-Deviljho,Head (Enraged),30,34,30,15,15,20,10,20,120
-Deviljho,Chest (Enraged),76,76,60,10,10,15,15,15,0
-Deviljho,Body (Enraged),22,22,20,5,5,25,5,25,0
-Deviljho,Arms (Enraged),27,27,30,15,15,20,10,20,0
-Deviljho,Legs (Enraged),35,32,25,10,10,15,5,15,0
-Deviljho,Tail (Enraged),38,35,30,5,5,20,5,20,0
+Deviljho,Legs,45,38,35,5,5,10,5,10,0
+Deviljho,Tail,40,35,25,5,5,20,5,20,0
+Deviljho,Head (Enraged),45,50,45,15,15,20,10,20,100
+Deviljho,Chest (Enraged),75,75,70,20,20,25,15,25,0
+Deviljho,Body (Enraged),22,22,20,10,10,25,10,25,0
+Deviljho,Arms (Enraged),25,25,25,15,15,20,10,20,0
+Deviljho,Legs (Enraged),24,25,25,10,10,15,10,15,0
+Deviljho,Tail (Enraged),25,24,20,10,10,25,10,25,0
 Lavasioth,Head,15,20,15,50,15,0,0,5,100
 Lavasioth,Head (Wounded),35,40,35,5,35,15,15,5,100
 Lavasioth,Head (Molten),55,60,55,0,45,10,10,5,100
@@ -272,7 +272,7 @@ Azure Rathalos,Right Leg,35,35,30,0,0,0,5,15,0
 Azure Rathalos,Tail,25,25,20,0,5,5,10,20,0
 Azure Rathalos,Tail Tip,55,50,45,0,10,10,15,25,0
 Black Diablos,Horn,19,37,15,0,20,10,25,0,100
-Black Diablos,Head,43,55,30,0,25,10,30,0,0
+Black Diablos,Head,43,55,30,0,25,10,30,0,100
 Black Diablos,Neck,40,40,25,0,15,5,20,0,0
 Black Diablos,Stomach,63,68,35,0,30,10,35,0,0
 Black Diablos,Back,24,42,30,0,20,10,25,0,0
