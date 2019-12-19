@@ -11,12 +11,18 @@ class MappedValue(sr.Readable):
         key = reader.read_struct(self.base)
         return self.map[key]
 
-class EpgBreak(sr.AnnotatedStruct):
-    unk1: sr.int()
-    unk2: sr.int()
-    unk3: sr.int()
-    unk4: sr.int()
-    unk5: sr.int()
+class EpgSubpart(sr.AnnotatedStruct):
+    hzv_base: sr.int()
+    hzv_broken: sr.int()
+
+    "White spike Nergi / Molten Kulve"
+    hzv_special1: sr.int() 
+
+    "Black spike Nergi"
+    hzv_special2: sr.int()
+
+    "Gloss black spike Nergi"
+    hzv_special3: sr.int()
 
 class EpgPart(sr.AnnotatedStruct):
     flinchValue: sr.int()
@@ -25,7 +31,7 @@ class EpgPart(sr.AnnotatedStruct):
     extract: MappedValue(sr.int(), {
         0: 'red', 1: 'white', 2: 'orange', 3: 'green', 4: '4', 5: '5'
     })
-    breaks: sr.DynamicList(EpgBreak)
+    subparts: sr.DynamicList(EpgSubpart)
     unk4: sr.int()
     unk5: sr.int()
     unk6: sr.int()

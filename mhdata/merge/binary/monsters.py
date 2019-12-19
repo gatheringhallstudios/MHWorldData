@@ -5,7 +5,8 @@ import itertools
 from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
 
-from .load import load_text, get_chunk_root, MonsterMetadata
+from .metadata import MonsterMetadata
+from .load import load_text, get_chunk_root
 from .parsers import load_epg, struct_to_json, load_itlot, load_eda
 from .items import ItemUpdater
 from . import artifacts
@@ -48,13 +49,18 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     folder_for_monster = {}
 
     # Load hitzone entries. EPG files contain hitzones, parts, and base hp
-    hitzone_raw_data = []
+    print('Loading monster hitzone data')
     monster_hitzones = {}
+    hitzone_raw_data = []
+    hitzone_raw_data_flat = []
     for filename in root.joinpath('em/').rglob('*.dtt_epg'):
         epg_binary = load_epg(filename)
 
         try:
-            name = monster_meta.by_id(epg_binary.monster_id).name
+            meta = monster_meta.by_id(epg_binary.monster_id)
+            name = meta.name
+
+            path_key = filename.stem + "_" + str(filename.parents[1].stem)
 
             hitzone_raw_data.append({
                 'name': name,
@@ -65,7 +71,6 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
             monster_hitzones[name] = []
             for hitzone in epg_binary.hitzones:
                 monster_hitzones[name].append({
-                    'name_en': name,
                     'cut': hitzone.Sever,
                     'impact': hitzone.Blunt,
                     'shot': hitzone.Shot,
@@ -76,6 +81,62 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
                     'dragon': hitzone.Dragon,
                     'ko': hitzone.Stun
                 })
+
+            unlinked = set(range(len(monster_hitzones[name])))
+            def get_hitzone(idx):
+                if idx == -1:
+                    return None
+                hitzone = monster_hitzones[name][idx]
+                unlinked.remove(idx)
+                return hitzone
+
+            for part_id, part in enumerate(epg_binary.parts):
+                for subpart in part.subparts:
+                    base_params = {
+                        'name_en': name,
+                        'part_id': part_id,
+                        'part_name': monster_meta.get_part(path_key, part_id),
+                        'flinch': part.flinchValue,
+                        'extract': part.extract,
+                    }
+
+                    base_hzv = get_hitzone(subpart.hzv_base)
+                    if base_hzv:
+                        hitzone_raw_data_flat.append({
+                            **base_params,
+                            'type': 'base',
+                            **base_hzv
+                        })
+                    
+                    broken_hzv = get_hitzone(subpart.hzv_broken)
+                    if broken_hzv:
+                        hitzone_raw_data_flat.append({
+                            **base_params,
+                            'type': 'broken',
+                            **broken_hzv
+                        })
+
+                    if name not in ['Behemoth']:
+                        for special_idx in range(3):
+                            value = getattr(subpart, 'hzv_special' + str(special_idx+1))
+                            hzv_spec = get_hitzone(value)
+                            if hzv_spec:
+                                hitzone_raw_data_flat.append({
+                                    **base_params,
+                                    'type': 'special ' + str(special_idx + 1),
+                                    **hzv_spec
+                                })
+
+            for idx in unlinked:
+                hzv_unlinked = get_hitzone(idx)
+                hitzone_raw_data_flat.append({
+                    'name_en': name,
+                    'part_id': 'unlinked',
+                    'part_name': 'unlinked',
+                    'type': 'unlinked',
+                    **hzv_unlinked
+                })
+            
         except KeyError:
             pass # warn?
     print('Loaded Monster hitzone data')
@@ -87,7 +148,7 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
     # Write hitzone data to artifacts
     artifacts.write_json_artifact("monster_hitzones_and_breaks.json", hitzone_raw_data)
     print("Monster hitzones+breaks raw data artifact written (Automerging not supported)")
-    artifacts.write_dicts_artifact('monster_hitzones_raw.csv', itertools.chain.from_iterable(monster_hitzones.values()))
+    artifacts.write_dicts_artifact('monster_hitzones_raw.csv', hitzone_raw_data_flat)
     print("Monster hitzones artifact written (Automerging not supported)")
     artifacts.write_json_artifact("monster_status.json", list(monster_statuses.values()))
     print("Monster status artifact written (Automerging not supported)")
