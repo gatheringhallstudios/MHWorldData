@@ -71,8 +71,9 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
         })
 
         monster_hitzones[name] = []
-        for hitzone in epg_binary.hitzones:
+        for hitzone_id, hitzone in enumerate(epg_binary.hitzones):
             monster_hitzones[name].append({
+                'hitzone_id': hitzone_id,
                 'cut': hitzone.Sever,
                 'impact': hitzone.Blunt,
                 'shot': hitzone.Shot,
@@ -94,12 +95,25 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
             return hitzone
 
         for part_id, part in enumerate(epg_binary.parts):
+            sever_type = None
+            sever_value = None
+
+            for cleave_idx in part.iter_cleaves():
+                if cleave_idx == -1: continue
+                cleave = epg_binary.cleaves[cleave_idx]
+                if cleave.damage_type == 'any': continue
+                
+                sever_type = cleave.damage_type
+                sever_value = cleave.special_hp
+
             for subpart in part.subparts:
                 base_params = {
                     'name_en': name,
                     'part_id': part_id,
                     'part_name': monster_meta.get_part(path_key, part_id),
                     'flinch': part.flinchValue,
+                    'sever_type': sever_type,
+                    'sever': sever_value,
                     'extract': part.extract,
                 }
 
