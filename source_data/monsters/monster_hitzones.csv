@@ -227,12 +227,14 @@ Bazelgeuse,Tail,75,70,55,0,10,20,15,15,0
 Deviljho,Head,60,70,60,10,10,15,5,15,100
 Deviljho,Chest,37,37,35,15,15,20,10,20,0
 Deviljho,Body,25,25,25,5,5,20,5,20,0
+Deviljho,Lower Body,30,30,30,5,5,20,5,20,0
 Deviljho,Arms,30,30,30,10,10,15,5,15,0
 Deviljho,Legs,45,38,35,5,5,10,5,10,0
 Deviljho,Tail,40,35,25,5,5,20,5,20,0
 Deviljho,Head (Enraged),45,50,45,15,15,20,10,20,100
 Deviljho,Chest (Enraged),75,75,70,20,20,25,15,25,0
 Deviljho,Body (Enraged),22,22,20,10,10,25,10,25,0
+Deviljho,Lower Body (Enraged),25,25,25,10,10,25,10,25,0
 Deviljho,Arms (Enraged),25,25,25,15,15,20,10,20,0
 Deviljho,Legs (Enraged),24,25,25,10,10,15,10,15,0
 Deviljho,Tail (Enraged),25,24,20,10,10,25,10,25,0
