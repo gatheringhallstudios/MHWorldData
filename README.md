@@ -1,11 +1,18 @@
 [![Build Status](https://travis-ci.org/gatheringhallstudios/MHWorldData.svg?branch=master)](https://travis-ci.org/gatheringhallstudios/MHWorldData)
 
 # MHWorldData
-A project used to generate a SQLite database file from Monster Hunter World data. Check the releases section for compiled db files.
+A project used to generate a database from Monster Hunter World data. This database file is used to power the MHWorld Database Android app, but can be used for other purposes as well.
 
-There's currently no documentation for the db file. I recommend using a graphical tool like [SQliteBrowser](http://sqlitebrowser.org/) or figuring it out from the [mapping file](https://github.com/gatheringhallstudios/MHWorldData/blob/master/mhdata/sql/mappings.py). To see the data we build from, look at the [source_data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder.
+Check the releases section for compiled SQLite db files. There is no documentation for the db file, instead use a graphical tool like [SQliteBrowser](http://sqlitebrowser.org/) or figure it out from the [mapping file](https://github.com/gatheringhallstudios/MHWorldData/blob/master/mhdata/sql/mappings.py). The data we build from is in the [source_data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder.
 
-The core maintainers are on the PC version and unable to add Iceborne data, but we do still take contributions. Any contributions will be added to an Iceborne branch.
+Now that the game has launched for PC, the core maintainer has started in earnest. If you want to help speed up the process, please check out the help wanted section.
+
+### Iceborne Update (Help Wanted)
+I've started playing through the Iceborne PC launch, and while I'll have all data eventually, some help would definitely go a long way. Any help would be appreciated, but additions or corrections to these are some great examples:
+- [Armorset list](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/armors/armorset_base.csv) - All armor data revolves around this list. 
+- [Any monster data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data/monsters) - Ailments, rewards, as well as corrections to weaknesses are all needed. Reward entries without a percentage value are ok at this stage.
+- [Items and icon mappings](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/items/item_base.csv) - If any items are missing on that list, feel free to add them. We're also missing item icon names and colors. Note that item icons are a limited selection, so try to reuse existing names if possible. 
+- Or really anything else you see.
 
 ## Purpose and goals
 This project exists as a free and open collection of Monster Hunter World data for people to build cool things with. We use this data in the (also open source) [MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) Android app.
@@ -18,13 +25,6 @@ The data collected is limited to observable or computable data. Handwritten guid
 This project sources most of its data from spreadsheets in the [source_data/](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data) folder. If you want to contribute a code change, inspect build.py in the root folder and follow the import trail.
 
 If you are unable to work Git but have data corrections or translations to contribute, you can create a Github Issue with the new file or share a link to a google drive spreadsheet.
-
-### Iceborne
-As I don't own a PS4, I have to wait for the PC version to be released before I can do anything. If you want Iceborne data to exist in the database before then, please submit a pull request and it'll be merged in. The order of data that needs to be worked on to avoid the least amount of headaches is:
-- items or skills
-- monsters (depends on items)
-- decorations (depends on skills)
-- armor/weapons/charms (depends on skills and items)
 
 ### MISSING (Important Todo)
 This is data we'd love to receive help towards.
