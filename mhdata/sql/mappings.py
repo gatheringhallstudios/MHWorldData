@@ -88,7 +88,12 @@ class Monster(Base):
     size = Column(Text)
     icon = Column(Text)
 
+    pitfall_trap = Column(Boolean, default=False)
+    shock_trap = Column(Boolean, default=False)
+    vine_trap = Column(Boolean, default=False)
+
     has_weakness = Column(Boolean, default=False)
+    has_alt_weakness = Column(Boolean, default=False)
     has_alt_weakness = Column(Boolean, default=False)
 
     weakness_fire = Column(Integer)
@@ -108,6 +113,12 @@ class Monster(Base):
     alt_weakness_ice = Column(Integer)
     alt_weakness_thunder = Column(Integer)
     alt_weakness_dragon = Column(Integer)
+
+    alt_weakness_poison = Column(Integer)
+    alt_weakness_sleep = Column(Integer)
+    alt_weakness_paralysis = Column(Integer)
+    alt_weakness_blast = Column(Integer)
+    alt_weakness_stun = Column(Integer)
 
     ailment_roar = Column(Text)
     ailment_wind = Column(Text)

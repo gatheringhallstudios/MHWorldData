@@ -79,8 +79,9 @@ The `mhw_armor_edit/` folder and its contents are public domain. Instead of our 
 You are free to use this database for any purpose.
 
 ## Special Credits
+- Asterisk - For work in the modding community and completing Leshen Hitzones
+- Deathcream - For figuring out many of the file formats
 - Kurohonyon - Leshen Hitzones (except for ice weakness, which was missing)
-- Asterisk - For work on the modding community and completing Leshen Hitzones
 - [Hexhexhex](https://twitter.com/MHhexhexhex) - For releasing certain monster hitzone data.
 - Material - For releasing AT Kulve drop rates.
 - [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from

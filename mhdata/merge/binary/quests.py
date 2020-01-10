@@ -1,10 +1,10 @@
 import collections
 from string import ascii_uppercase
 
+from .metadata import MonsterMetadata
 from .load import load_quests
 from .artifacts import write_dicts_artifact
 from .items import ItemUpdater
-from .load import MonsterMetadata
 from .parsers import struct_to_json
 
 from mhdata import cfg, typecheck

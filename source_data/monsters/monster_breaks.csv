@@ -144,10 +144,12 @@ Bazelgeuse,Left Wing,,180,180,,white
 Bazelgeuse,Right Wing,,180,180,,white
 Bazelgeuse,Tail,,280,,500,red
 Deviljho,Head,,350,350,,red
-Deviljho,Body,,300,300,,orange
-Deviljho,Arms,,150,,,green
-Deviljho,Legs,,220,,,white
-Deviljho,Tail,,180,,360,green
+Deviljho,Body,,400,,,red
+Deviljho,Chest,,100,100,,orange
+Deviljho,Lower Body,,400,,,orange
+Deviljho,Arms,,150,,,orange
+Deviljho,Legs,,200,,,white
+Deviljho,Tail,,180,,540,green
 Lavasioth,Head,,100,600,,red
 Lavasioth,Back,,300,600,,orange
 Lavasioth,Body,,100,,,orange

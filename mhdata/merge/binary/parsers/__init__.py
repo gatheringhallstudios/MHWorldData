@@ -8,6 +8,7 @@ Actual data crossreferencing is handled by other modules.
 
 from .mib import *
 from .epg import *
+from .eda import *
 from .itlot import *
 from .structreader import read_struct_from_file, StructReader
 

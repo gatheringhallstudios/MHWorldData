@@ -1,0 +1,764 @@
+{
+  "Monsters": {
+    "em100_00": {
+      "NameStringId": "LOC_MONSTER_ANJANATH",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1646.46,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em002_01": {
+      "NameStringId": "LOC_MONSTER_AZURE_RATHALOS",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1704.22,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em044_00": {
+      "NameStringId": "LOC_MONSTER_BARROTH",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_HEAD_MUD",
+        "LOC_PART_BODY",
+        "LOC_PART_BODY_MUD",
+        "LOC_PART_ARMS",
+        "LOC_PART_ARMS_MUD",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_LEFT_MUD",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_LEG_RIGHT_MUD",
+        "LOC_PART_TAIL",
+        "LOC_PART_TAIL_MUD"
+      ],
+      "BaseSize": 1383.07,
+      "ScaleModifier": 0.81,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em118_00": {
+      "NameStringId": "LOC_MONSTER_BAZELGEUSE",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_LEGS",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1928.38,
+      "ScaleModifier": 1.1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em121_00": {
+      "NameStringId": "LOC_MONSTER_BEHEMOTH",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HORNS",
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARM_LEFT",
+        "LOC_PART_ARM_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 3423.65,
+      "ScaleModifier": 1
+    },
+    "em007_01": {
+      "NameStringId": "LOC_MONSTER_BLACK_DIABLOS",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 2096.25,
+      "ScaleModifier": 1.2,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em043_00": {
+      "NameStringId": "LOC_MONSTER_DEVILJHO",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_CHEST",
+        "LOC_PART_REAR",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 2063.82,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em007_00": {
+      "NameStringId": "LOC_MONSTER_DIABLOS",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 2096.25,
+      "ScaleModifier": 1.2,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em116_00": {
+      "NameStringId": "LOC_MONSTER_DODOGAMA",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1111.11,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em112_00": {
+      "NameStringId": "LOC_MONSTER_GREAT_GIRROS",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1053.15,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em101_00": {
+      "NameStringId": "LOC_MONSTER_GREAT_JAGRAS",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL",
+        "LOC_PART_ABDOMEN"
+      ],
+      "BaseSize": 1109.66,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em108_00": {
+      "NameStringId": "LOC_MONSTER_JYURATODUS",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL",
+        "LOC_PART_HEAD_MUD",
+        "LOC_PART_BODY_MUD",
+        "LOC_PART_LEG_LEFT_MUD",
+        "LOC_PART_LEG_RIGHT_MUD",
+        "LOC_PART_TAIL_MUD"
+      ],
+      "BaseSize": 1508.71,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em011_00": {
+      "NameStringId": "LOC_MONSTER_KIRIN",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS"
+      ],
+      "BaseSize": 536.26,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em107_00": {
+      "NameStringId": "LOC_MONSTER_KULU_YA_KU",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL",
+        "LOC_PART_ROCK"
+      ],
+      "BaseSize": 901.24,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em117_00": {
+      "NameStringId": "LOC_MONSTER_KULVE_TAROTH",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_HORNS",
+        "LOC_REMOVABLE_PART_HORNS_2"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HORNS",
+        "LOC_PART_CHEST",
+        "LOC_PART_BODY",
+        "LOC_PART_LIMBS_LEFT",
+        "LOC_PART_LIMBS_RIGHT",
+        "LOC_PART_TAIL",
+        "LOC_PART_HORNS_GOLD",
+        "LOC_PART_MANE_GOLD",
+        "LOC_PART_CHEST_LEFT_GOLD",
+        "LOC_PART_CHEST_RIGHT_GOLD",
+        "LOC_PART_ARM_LEFT_GOLD",
+        "LOC_PART_ARM_RIGHT_GOLD",
+        "LOC_PART_LEG_LEFT_GOLD",
+        "LOC_PART_LEG_RIGHT_GOLD",
+        "LOC_PART_TAIL_LEFT_GOLD",
+        "LOC_PART_TAIL_RIGHT_GOLD"
+      ],
+      "BaseSize": 4573.25,
+      "ScaleModifier": 1
+    },
+    "em024_00": {
+      "NameStringId": "LOC_MONSTER_KUSHALA_DAORA",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_TAIL",
+        "LOC_PART_LIMBS_LEFT",
+        "LOC_PART_LIMBS_RIGHT",
+        "LOC_PART_WINGS"
+      ],
+      "BaseSize": 1913.13,
+      "ScaleModifier": 0.85,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em036_00": {
+      "NameStringId": "LOC_MONSTER_LAVASIOTH",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ABDOMEN",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1797.24,
+      "ScaleModifier": 1.2,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em111_00": {
+      "NameStringId": "LOC_MONSTER_LEGIANA",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1699.75,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em026_00": {
+      "NameStringId": "LOC_MONSTER_LUNASTRA",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_LIMBS",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1828.69,
+      "ScaleModifier": 0.85,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em103_00": {
+      "NameStringId": "LOC_MONSTER_NERGIGANTE",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HORNS",
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARM_LEFT",
+        "LOC_PART_ARM_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1848.12,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em113_00": {
+      "NameStringId": "LOC_MONSTER_ODOGARON",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1388.75,
+      "ScaleModifier": 1.15,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em110_00": {
+      "NameStringId": "LOC_MONSTER_PAOLUMU",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BALLOON",
+        "LOC_PART_BODY",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1143.36,
+      "ScaleModifier": 1.05,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em001_01": {
+      "NameStringId": "LOC_MONSTER_PINK_RATHIAN",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1754.37,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em102_00": {
+      "NameStringId": "LOC_MONSTER_PUKEI_PUKEI",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1102.45,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em114_00": {
+      "NameStringId": "LOC_MONSTER_RADOBAAN",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL",
+        "LOC_PART_JAW",
+        "LOC_PART_BACK",
+        "LOC_PART_BONE_LEFT",
+        "LOC_PART_BONE_RIGHT"
+      ],
+      "BaseSize": 1803.47,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em002_00": {
+      "NameStringId": "LOC_MONSTER_RATHALOS",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1704.22,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em001_00": {
+      "NameStringId": "LOC_MONSTER_RATHIAN",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_WING_LEFT",
+        "LOC_PART_WING_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1754.37,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em027_00": {
+      "NameStringId": "LOC_MONSTER_TEOSTRA",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_WINGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1790.15,
+      "ScaleModifier": 0.85,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em109_00": {
+      "NameStringId": "LOC_MONSTER_TOBI_KADACHI",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_MANE",
+        "LOC_PART_ABDOMEN",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 1300.52,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em120_00": {
+      "NameStringId": "LOC_MONSTER_TZITZI_YA_KU",
+      "PartStringIds": [
+        "LOC_PART_HEAD_LEFT",
+        "LOC_PART_HEAD_RIGHT",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 894.04,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em127_01": {
+      "NameStringId": "LOC_MONSTER_LESHEN",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_CROW?"
+      ],
+      "BaseSize": 894.04,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em127(FakeFix)_01": {
+      "NameStringId": "LOC_MONSTER_LESHEN",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEGS",
+        "LOC_PART_CROW?"
+      ],
+      "BaseSize": 894.04,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em045_00": {
+      "NameStringId": "LOC_MONSTER_URAGAAN",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_JAW",
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_ARMS",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 2058.63,
+      "ScaleModifier": 1,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.1,
+        "Gold": 1.2
+      }
+    },
+    "em115_00": {
+      "NameStringId": "LOC_MONSTER_VAAL_HAZAK",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BACK",
+        "LOC_PART_CHEST",
+        "LOC_PART_TAIL",
+        "LOC_PART_ARM_LEFT",
+        "LOC_PART_ARM_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_WINGS"
+      ],
+      "BaseSize": 2095.4,
+      "ScaleModifier": 0.9,
+      "Crowns": {
+        "Mini": 0.9,
+        "Silver": 1.15,
+        "Gold": 1.23
+      }
+    },
+    "em105_00": {
+      "NameStringId": "LOC_MONSTER_XENO_JIIVA",
+      "RemovablePartStringIds": [
+        "LOC_REMOVABLE_PART_TAIL"
+      ],
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_NECK",
+        "LOC_PART_BACK",
+        "LOC_PART_CHEST",
+        "LOC_PART_HAND_LEFT",
+        "LOC_PART_HAND_RIGHT",
+        "LOC_PART_FOOT_LEFT",
+        "LOC_PART_FOOT_RIGHT",
+        "LOC_PART_WINGS",
+        "LOC_PART_TAIL"
+      ],
+      "BaseSize": 4509.1,
+      "ScaleModifier": 1
+    },
+    "em106_00": {
+      "NameStringId": "LOC_MONSTER_ZORAH_MAGDAROS",
+      "PartStringIds": [
+        "LOC_PART_HEAD",
+        "LOC_PART_BODY",
+        "LOC_PART_CHEST",
+        "LOC_PART_ARM_LEFT",
+        "LOC_PART_ARM_RIGHT",
+        "LOC_PART_LEG_LEFT",
+        "LOC_PART_LEG_RIGHT",
+        "LOC_PART_TAIL",
+        "LOC_PART_SHELL",
+        "LOC_PART_EXHAUST_ORGAN_CENTRAL",
+        "LOC_PART_EXHAUST_ORGAN_HEAD",
+        "LOC_PART_EXHAUST_ORGAN_CRATER",
+        "LOC_PART_EXHAUST_ORGAN_REAR",
+        "LOC_PART_WEAK_SHELL_LEFT",
+        "LOC_PART_WEAK_SHELL_RIGHT"
+      ],
+      "BaseSize": 25764.59,
+      "ScaleModifier": 1
+    }
+  },
+  "StatusEffects": {
+    "1": "LOC_STATUS_EFFECT_POISON",
+    "2": "LOC_STATUS_EFFECT_PARALYSIS",
+    "3": "LOC_STATUS_EFFECT_SLEEP",
+    "4": "LOC_STATUS_EFFECT_BLAST",
+    "5": "LOC_STATUS_EFFECT_MOUNT",
+    "6": "LOC_STATUS_EFFECT_EXHAUST",
+    "7": "LOC_STATUS_EFFECT_STUN",
+    "8": "LOC_STATUS_EFFECT_TRANQUILIZE",
+    "10": "LOC_STATUS_EFFECT_FLASH",
+    "11": "LOC_STATUS_EFFECT_DUNG"
+  }
+}

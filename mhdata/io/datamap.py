@@ -204,7 +204,7 @@ class DataMap(collections.abc.Mapping):
         if unlinked:
             raise Exception(
                 "Several invalid names found in sub data map. Invalid entries are " +
-                ','.join(unlinked))
+                ','.join('None' if e is None else e for e in unlinked))
 
         # validation complete, it may not link to all base entries but thats ok
         for data_key, data_entry in data.items():

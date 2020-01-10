@@ -63,21 +63,38 @@ class MonsterBaseSchema(BaseSchema):
     description = fields.Dict()
     ecology_en = fields.Str(allow_none=True)
     size = ValidatedStr('small', 'large')
-    poison = fields.Int(allow_none=True)
-    sleep = fields.Int(allow_none=True)
-    paralysis = fields.Int(allow_none=True)
-    blast = fields.Int(allow_none=True)
-    stun = fields.Int(allow_none=True)
+    pitfall_trap = ExcelBool(null_is_false=True)
+    shock_trap = ExcelBool(null_is_false=True)
+    vine_trap = ExcelBool(null_is_false=True)
 
 class MonsterSchema(MonsterBaseSchema):
     # most sub-items are currently unvalidated
     # todo: create schema entries for the below
     weaknesses = fields.List(fields.Dict())
-    hitzones = fields.List(fields.Dict())
+    hitzones = fields.Nested('MonsterHitzone', many=True)
     breaks = fields.List(fields.Dict())
     habitats = fields.List(fields.Dict())
-    rewards = fields.List(fields.Dict())
+    rewards = fields.Nested('MonsterReward', many=True)
     ailments = fields.Nested('MonsterAilments', many=False)
+
+class MonsterHitzone(BaseSchema):
+    hitzone = fields.Dict()
+    cut = fields.Int()
+    impact = fields.Int()
+    shot = fields.Int()
+    fire = fields.Int()
+    water = fields.Int()
+    thunder = fields.Int()
+    ice = fields.Int()
+    dragon = fields.Int()
+    ko = fields.Int()
+
+class MonsterReward(BaseSchema):
+    condition_en = fields.Str()
+    rank = ValidatedStr(*cfg.supported_ranks)
+    item_en = fields.Str()
+    stack = fields.Int()
+    percentage = fields.Int(allow_none=True)
 
 class MonsterAilments(BaseSchema):
     roar = ValidatedStr(None, 'small', 'large')

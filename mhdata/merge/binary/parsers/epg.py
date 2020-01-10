@@ -11,25 +11,35 @@ class MappedValue(sr.Readable):
         key = reader.read_struct(self.base)
         return self.map[key]
 
-class EpgBreak(sr.AnnotatedStruct):
-    unk1: sr.int()
-    unk2: sr.int()
-    unk3: sr.int()
-    unk4: sr.int()
-    unk5: sr.int()
+class EpgSubpart(sr.AnnotatedStruct):
+    hzv_base: sr.int()
+    hzv_broken: sr.int()
+
+    "White spike Nergi / Molten Kulve"
+    hzv_special1: sr.int() 
+
+    "Black spike Nergi"
+    hzv_special2: sr.int()
+
+    "Gloss black spike Nergi"
+    hzv_special3: sr.int()
 
 class EpgPart(sr.AnnotatedStruct):
     flinchValue: sr.int()
-    unk1: sr.int()
-    unk2: sr.int()
-    unk3: MappedValue(sr.int(), {
+    cleave1: sr.int()
+    cleave2: sr.int()
+    extract: MappedValue(sr.int(), {
         0: 'red', 1: 'white', 2: 'orange', 3: 'green', 4: '4', 5: '5'
     })
-    breaks: sr.DynamicList(EpgBreak)
+    subparts: sr.DynamicList(EpgSubpart)
     unk4: sr.int()
     unk5: sr.int()
     unk6: sr.int()
     unk7: sr.int()
+
+    def iter_cleaves(self):
+        yield self.cleave1
+        yield self.cleave2
 
 class EpgHitzone(sr.AnnotatedStruct):
     unk0: sr.int()
@@ -46,12 +56,17 @@ class EpgHitzone(sr.AnnotatedStruct):
     unk10: sr.int()
 
 class EpgCleaveZone(sr.AnnotatedStruct):
-    damageType: sr.int()
+    damage_type: MappedValue(sr.int(), {
+        0: 'any', 1: 'sever', 2: 'blunt', 3: 'shot'
+    })
     unkn1: sr.int()
     unkn2: sr.int()
-    cleaveHP: sr.int()
-    unkn4: sr.int()
-    SeverMaybe: sr.byte()
+    special_hp: sr.int()
+    unkn4: sr.int() # all tails use 1 (but do all severables?)
+
+    # 0 makes kulve horns affected by part breaker. Nergi 1 requires spikes to be cut
+    special_unk: sr.byte()
+
     BluntMaybe: sr.byte()
     ShotMaybe: sr.byte()    
 
