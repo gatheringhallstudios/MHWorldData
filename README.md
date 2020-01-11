@@ -7,6 +7,8 @@ Check the releases section for compiled SQLite db files. There is no documentati
 
 Now that the game has launched for PC, the core maintainer has started in earnest. If you want to help speed up the process, please check out the help wanted section.
 
+If you wish to chat with us, we also have a [discord server](https://discord.gg/k5rmEWh).
+
 ### Iceborne Update (Help Wanted)
 I've started playing through the Iceborne PC launch, and while I'll have all data eventually, some help would definitely go a long way. Any help would be appreciated, but additions or corrections to these are some great examples:
 - [Armorset list](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/armors/armorset_base.csv) - All armor data revolves around this list. 
