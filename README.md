@@ -12,6 +12,8 @@ If you wish to chat with us, we also have a [discord server](https://discord.gg/
 ### Iceborne Update (Help Wanted)
 I've started playing through the Iceborne PC launch, and while I'll have all data eventually, some help would definitely go a long way. Any help would be appreciated, but additions or corrections to these are some great examples:
 - [Armorset list](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/armors/armorset_base.csv) - All armor data revolves around this list. 
+- [Skill list](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data/skills) - Any missing skills and new levels. Feel free to remove conflicting translations for skills that change.
+- [Decoration List](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/decorations/decoration_base.csv) - There's plenty of new decorations to add. If a decoration name changes, feel free to remove the translation entry.
 - [Any monster data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data/monsters) - Ailments, rewards, as well as corrections to weaknesses are all needed. Reward entries without a percentage value are ok at this stage.
 - [Items and icon mappings](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/items/item_base.csv) - If any items are missing on that list, feel free to add them. We're also missing item icon names and colors. Note that item icons are a limited selection, so try to reuse existing names if possible. 
 - Or really anything else you see.
