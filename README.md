@@ -85,6 +85,7 @@ You are free to use this database for any purpose.
 ## Special Credits
 - Asterisk - For work in the modding community and completing Leshen Hitzones
 - Deathcream - For figuring out many of the file formats
+- MechE - For assembling an [awesome spreadsheet](https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit#gid=730347439) of monster hitzones.
 - Kurohonyon - Leshen Hitzones (except for ice weakness, which was missing)
 - [Hexhexhex](https://twitter.com/MHhexhexhex) - For releasing certain monster hitzone data.
 - Material - For releasing AT Kulve drop rates.
