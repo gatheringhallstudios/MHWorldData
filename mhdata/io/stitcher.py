@@ -115,12 +115,16 @@ class DataStitcher:
         Otherwise it will be merged without overwrite.
         """
 
-        self.reader.load_data_csv(
-            parent_map=self.data_map, 
-            data_file=self._get_filename(data_file),
-            key=key,
-            groups=groups,
-            leaftype="dict")
+        try:
+            self.reader.load_data_csv(
+                parent_map=self.data_map, 
+                data_file=self._get_filename(data_file),
+                key=key,
+                groups=groups,
+                leaftype="dict")
+        except Exception as e:
+            print(f"Exception thrown while loading data map {data_file}")
+            raise e
 
         return self
     

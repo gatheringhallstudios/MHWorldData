@@ -8,7 +8,7 @@ For customized data loading, use mhwdata.io directly.
 
 from decimal import Decimal
 
-supported_ranks = ('LR', 'HR')
+supported_ranks = ('LR', 'HR', 'MR')
 
 "A mapping of all translations"
 all_languages = {
