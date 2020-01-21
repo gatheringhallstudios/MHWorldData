@@ -66,12 +66,12 @@ High Metal Mail,Dragonite Ore,2,Machalite Ore,2,Earth Crystal,2,Sharp Claw,2
 High Metal Braces,Dragonite Ore,2,Machalite Ore,2,Earth Crystal,2,Sharp Claw,2
 High Metal Coil,Dragonite Ore,2,Machalite Ore,1,Iron Ore,6,,
 High Metal Greaves,Dragonite Ore,2,Machalite Ore,1,Iron Ore,6,,
-King Beetle Vertex,Great Hornfly,1,Dragonite Ore,2,Coral Crystal,2,Flame Sac,1
-King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
-King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Aqua Sac,1
+King Beetle Vertex,Great Hornfly,1,Dragonite Ore,2,Coral Crystal (LR),2,Flame Sac,1
+King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal (LR),2,Poison Sac,1
+King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal (LR),2,Aqua Sac,1
 King Beetle Elytra,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
 King Beetle Crura,Great Hornfly,1,Dragonite Ore,2,Monster Fluid,3,Paralysis Sac,1
-Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal,1
+Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal (LR),1
 Hornetaur Helm,Hornetaur Head,1,Hornetaur Shell,1,Machalite Ore,1,Monster Fluid,1
 Hornetaur Mail,Hornetaur Wing,2,Hornetaur Shell,2,Dragonite Ore,2,Machalite Ore,2
 Hornetaur Vambraces,Hornetaur Wing,1,Hornetaur Shell,1,Iron Ore,3,Machalite Ore,1
@@ -87,10 +87,10 @@ Rathian Mail,Rathian Scale,2,Rathian Shell,1,Rathian Webbing,1,Ancient Bone,2
 Rathian Vambraces,Rathian Shell,2,Rathian Scale,2,Rathian Spike,1,Monster Bone L,2
 Rathian Coil,Rathian Scale,2,Rathian Shell,1,Rath Wingtalon,2,Boulder Bone,2
 Rathian Greaves,Rathian Shell,3,Rathian Spike,1,Rath Wingtalon,2,Rathian Plate,1
-Tzitzi Headgear,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Photophore,1,Coral Crystal,1
+Tzitzi Headgear,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Photophore,1,Coral Crystal (LR),1
 Tzitzi Mail,Tzitzi-Ya-Ku Hide,3,Tzitzi-Ya-Ku Claw,2,Tzitzi-Ya-Ku Photophore,2,Lightcrystal,1
-Tzitzi Vambraces,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Photophore,1,Tzitzi-Ya-Ku Scale,3,Coral Crystal,2
-Tzitzi Coil,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal,2,,
+Tzitzi Vambraces,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Photophore,1,Tzitzi-Ya-Ku Scale,3,Coral Crystal (LR),2
+Tzitzi Coil,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal (LR),2,,
 Tzitzi Greaves,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Claw,1,,
 Lumu Hat,Paolumu Scale,2,Paolumu Webbing,2,Paolumu Shell,2,Lightcrystal,1
 Lumu Mail,Paolumu Scale,2,Paolumu Shell,1,Paolumu Pelt,2,Coral Bone,1
@@ -109,8 +109,8 @@ Baan Coil,Radobaan Scale,2,Radobaan Oilshell,1,Sleep Sac,1,Monster Bone L,3
 Baan Greaves,Radobaan Shell,2,Radobaan Scale,2,Wyvern Bonemass,2,Warped Bone,2
 Ingot Helm,Dragonite Ore,2,Monster Bone+,1,Iron Ore,8,Machalite Ore,3
 Ingot Mail,Dragonite Ore,2,Monster Bone+,1,Iron Ore,8,Machalite Ore,3
-Ingot Vambraces,Dragonite Ore,3,Monster Bone+,1,Coral Crystal,3,Lightcrystal,1
-Ingot Coil,Dragonite Ore,3,Monster Bone+,1,Coral Crystal,3,Lightcrystal,1
+Ingot Vambraces,Dragonite Ore,3,Monster Bone+,1,Coral Crystal (LR),3,Lightcrystal,1
+Ingot Coil,Dragonite Ore,3,Monster Bone+,1,Coral Crystal (LR),3,Lightcrystal,1
 Ingot Greaves,Dragonite Ore,2,Monster Bone+,1,Earth Crystal,3,Machalite Ore,3
 Death Stench Brain,Sinister Cloth,1,Warped Bone,1,Monster Bone+,2,Sharp Claw,3
 Death Stench Muscle,Sinister Cloth,1,Coral Bone,2,Sturdy Bone,2,Monster Fluid,2
@@ -143,7 +143,7 @@ Diablos Vambraces,Diablos Ridge,2,Diablos Shell,2,Diablos Tailcase,1,Lightcrysta
 Diablos Coil,Diablos Shell,2,Diablos Ridge,1,Diablos Fang,1,Monster Bone L,2
 Diablos Greaves,Diablos Ridge,2,Diablos Shell,2,Twisted Horn,1,Monster Bone+,3
 Kirin Horn,Kirin Hide,2,Kirin Tail,2,Kirin Thunderhorn,3,Lightcrystal,1
-Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal,4,Coral Bone,2
+Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal (LR),4,Coral Bone,2
 Kirin Longarms,Kirin Hide,3,Kirin Mane,2,Paolumu Shell,2,Lightcrystal,1
 Kirin Hoop,Kirin Hide,2,Kirin Thunderhorn,1,Kirin Tail,1,Electro Sac,1
 Kirin Leg Guards,Kirin Hide,2,Kirin Thunderhorn,1,Paolumu Shell,2,,
@@ -152,11 +152,11 @@ Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
 Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Coat,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Boots,Spring Blossom Ticket,1,Earth Crystal,2,,,,
-Diver's Mask,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Suit,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Braces,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Belt,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Boots,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Mask,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Suit,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Braces,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Belt,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Boots,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
 Harvest Flor,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Tronco,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Trama,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
@@ -218,12 +218,12 @@ Bone Vambraces β,Quality Bone,3,Monster Bone+,2,Coral Bone,2,,
 Bone Coil β,Quality Bone,2,Monster Bone+,2,Ancient Bone,3,,
 Bone Greaves β,Quality Bone,2,Monster Bone+,2,Boulder Bone,3,,
 Alloy Helm α,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
-Alloy Mail α,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+Alloy Mail α,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal (LR),4,Machalite Ore,5
 Alloy Vambraces α,Carbalite Ore,2,Dragonite Ore,4,Earth Crystal,4,Machalite Ore,5
 Alloy Coil α,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
 Alloy Greaves α,Carbalite Ore,2,Dragonite Ore,4,Lightcrystal,1,Machalite Ore,5
 Alloy Helm β,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
-Alloy Mail β,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+Alloy Mail β,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal (LR),4,Machalite Ore,5
 Alloy Vambraces β,Carbalite Ore,2,Dragonite Ore,4,Earth Crystal,4,Machalite Ore,5
 Alloy Coil β,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
 Alloy Greaves β,Carbalite Ore,2,Dragonite Ore,4,Lightcrystal,1,Machalite Ore,5
@@ -284,12 +284,12 @@ Kulu Mail β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Plume+,3,Kulu-Ya-Ku Beak+,2,Bird Wyve
 Kulu Vambraces β,Kulu-Ya-Ku Scale+,4,Kulu-Ya-Ku Hide+,2,Carbalite Ore,3,,
 Kulu Coil β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Beak+,2,Wingdrake Hide+,3,Earth Crystal,2
 Kulu Greaves β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Scale+,6,Wingdrake Hide+,2,Earth Crystal,2
-Tzitzi Headgear α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal,5
+Tzitzi Headgear α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal (LR),5
 Tzitzi Mail α,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
 Tzitzi Vambraces α,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Photophore+,2,Tzitzi-Ya-Ku Scale+,4,Dragonvein Crystal,2
 Tzitzi Coil α,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
 Tzitzi Greaves α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,2,Carbalite Ore,6
-Tzitzi Headgear β,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal,5
+Tzitzi Headgear β,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal (LR),5
 Tzitzi Mail β,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
 Tzitzi Vambraces β,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Photophore+,2,Tzitzi-Ya-Ku Scale+,4,Dragonvein Crystal,2
 Tzitzi Coil β,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
@@ -781,3 +781,49 @@ Sealed Eyepatch α,Black Bandage,2,Shamos Scale+,7,Shamos Hide+,5,Piercing Claw,
 Shadow Shades α,Black Crystal Ticket,3,Lightcrystal,3,Novacrystal,1,Dragonvein Crystal,5
 Kulu-Ya-Ku Head α,Kulu-Ya-Ku Ticket,3,Kulu-Ya-Ku Beak+,1,Kulu-Ya-Ku Plume+,4,Kulu-Ya-Ku Hide+,5
 Wiggler Head α,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
+Bone Helm α+,Thick Bone,2,Monster Toughbone,1,Warped Bone,1,,
+Bone Mail α+,Thick Bone,2,Monster Toughbone,2,Brutal Bone,1,,
+Bone Vambraces α+,Thick Bone,2,Monster Toughbone,1,Coral Bone,1,,
+Bone Coil α+,Thick Bone,1,Monster Toughbone,1,Ancient Bone,1,,
+Bone Greaves α+,Thick Bone,1,Monster Toughbone,1,Boulder Bone,1,,
+Bone Helm β+,Thick Bone,2,Monster Toughbone,1,Warped Bone,1,,
+Bone Mail β+,Thick Bone,2,Monster Toughbone,2,Brutal Bone,1,,
+Bone Vambraces β+,Thick Bone,2,Monster Toughbone,1,Coral Bone,1,,
+Bone Coil β+,Thick Bone,1,Monster Toughbone,1,Ancient Bone,1,,
+Bone Greaves β+,Thick Bone,1,Monster Toughbone,1,Boulder Bone,1,,
+Alloy Helm α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,Meldspar Ore,1
+Alloy Mail α+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Vambraces α+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Coil α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Greaves α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Helm β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,Meldspar Ore,1
+Alloy Mail β+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Vambraces β+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Coil β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Greaves β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Vespoid Helm α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Mail α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Vambraces α+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Coil α+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Greaves α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Helm β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Mail β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Vambraces β+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Coil β+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Greaves β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Hornetaur Helm α+,Hornetaur Razorwing,2,Monster Essence,1,Meldspar Ore,1,,
+Hornetaur Mail α+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Vambraces α+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Coil α+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Greaves α+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Helm β+,Hornetaur Razorwing,2,Monster Essence,1,Meldspar Ore,1,,
+Hornetaur Mail β+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Vambraces β+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Coil β+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Greaves β+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Kestodon Guards α+,Kestodon Husk,3,Thick Bone,2,,,,
+Kestodon Guards β+,Kestodon Husk,3,Thick Bone,2,,,,
+Gajau Boots α+,Gajau Thickhide,2,Steel Gajau Whisker,1,Eltalite Ore,2,,
+Gajau Boots β+,Gajau Thickhide,2,Steel Gajau Whisker,1,Eltalite Ore,2,,
+Shamos Goggles α+,Shamos Shard,2,Tough Claw,1,Spiritvein Crystal,2,,
+Shamos Goggles β+,Shamos Shard,2,Tough Claw,1,Spiritvein Crystal,2,,

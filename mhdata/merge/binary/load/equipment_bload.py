@@ -1,6 +1,6 @@
 from typing import Type, Mapping, Iterable
 
-from mhw_armor_edit.ftypes import gmd, am_dat, arm_up, kire, wp_dat, wp_dat_g, eq_crt, eq_cus
+from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g, eq_crt, eq_cus
 from mhw_armor_edit.ftypes.ext import rod_inse
 
 from mhdata import cfg

@@ -10,9 +10,10 @@ from typing import Type, Mapping, Iterable
 from .bcore import get_chunk_root, load_schema, load_text
 from .equipment_bload import SharpnessDataReader, WeaponDataLoader, load_kinsect_tree, load_armor_series
 from .quest_bload import load_quests
-from .binarytext import ItemTextHandler, SkillTextHandler
+from .binarytext import SkillTextHandler
+from .items import ItemUpdater
 
-def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
+def convert_recipe(item_handler: ItemUpdater, recipe_binary) -> dict:
     "Converts a recipe binary (of type eq_cus/eq_crt) to a dictionary"
     new_data = {}
     
@@ -20,7 +21,7 @@ def convert_recipe(item_text_handler: ItemTextHandler, recipe_binary) -> dict:
         item_id = getattr(recipe_binary, f'item{i}_id')
         item_qty = getattr(recipe_binary, f'item{i}_qty')
 
-        item_name = None if item_qty == 0 else item_text_handler.name_for(item_id)['en']
+        item_name = None if item_qty == 0 else item_handler.name_for(item_id)['en']
         new_data[f'item{i}_name'] = item_name
         new_data[f'item{i}_qty'] = item_qty if item_qty else None
 

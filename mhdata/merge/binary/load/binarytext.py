@@ -2,25 +2,6 @@ from mhdata.util import OrderedSet, bidict
 from .bcore import load_schema, load_text
 from mhw_armor_edit.ftypes import skl_pt_dat
 
-class ItemTextHandler():
-    "A class that loads item text and tracks encountered items"
-
-    def __init__(self):
-        self._item_text = load_text("common/text/steam/item")
-        self.encountered = OrderedSet()
-
-    def name_for(self, item_id: int):
-        self.encountered.add(item_id)
-        return self._item_text[item_id * 2]
-
-    def description_for(self, item_id: int):
-        self.encountered.add(item_id)
-        return self._item_text[item_id * 2 + 1]
-
-    def text_for(self, item_id: int):
-        self.encountered.add(item_id)
-        return (self._item_text[item_id * 2], self._item_text[item_id * 2 + 1])
-
 class SkillTextHandler():
     def __init__(self):    
         self.skilltree_text = load_text("common/text/vfont/skill_pt")

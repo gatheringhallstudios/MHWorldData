@@ -25,7 +25,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 24,Armorskin,item,,4,,58,5,,Liquid,Beige
 25,Mega Armorskin,item,,5,,269,5,,Liquid,Beige
 26,Adamant Pill,item,,4,,260,5,,Pellets,Beige
-27,Lifepowder,item,,4,,315,3,,Sac,LightBeige
+27,Lifepowder,item,,4,,190,3,,Sac,LightBeige
 28,Herbal Powder,item,,4,,315,3,,Sac,Blue
 29,Demon Powder,item,,4,,315,3,,Sac,Red
 30,Hardshell Powder,item,,4,,315,3,,Sac,Beige
@@ -97,11 +97,12 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 96,Dragonstrike Nut,item,,2,,12,5,,Husk,DarkBeige
 97,Slashberry,item,,1,,4,30,,Husk,White
 98,Latchberry,item,,1,,4,99,,Husk,Blue
-99,Bomberry,item,,2,,12,10,,Husk,DarkRed
+99,Bomberry,item,,2,,12,5,,Husk,DarkRed
 100,Flamenut,item,,2,,12,80,,Seed,Gray
 101,Blazenut,item,,2,,12,60,,Seed,Gray
 102,Gunpowder Level 2,item,,2,16,1,80,,Sac,Gray
 103,Gunpowder Level 3,item,,2,30,3,80,,Sac,Gray
+114,Empty Phial,item,,1,5,1,99,,EmptyBottle,
 104,Whetfish Fin,item,,2,,45,10,,Scale,Gold
 105,Whetfish Fin+,item,,4,,45,5,,Scale,Gold
 106,Sushifish Scale,item,,2,,45,10,,Scale,Beige
@@ -112,15 +113,17 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 111,Great Burst Arowana Scale,item,,4,,45,5,,Scale,Green
 112,Bomb Arowana Scale,item,,2,,135,5,,Scale,Violet
 113,Great Bomb Arowana Scale,item,,4,,135,5,,Scale,Violet
-114,Empty Phial,item,,1,5,1,99,,EmptyBottle,
 115,Iron Ore,material,,4,,60,,,Ore,Gray
 116,Machalite Ore,material,,4,,160,,,Ore,Blue
 117,Dragonite Ore,material,,4,,480,,,Ore,Green
 118,Carbalite Ore,material,,6,,680,,,Ore,Violet
 119,Fucium Ore,material,,6,,1020,,,Ore,Pink
+682,Eltalite Ore,material,,9,,1280,,,,
+683,Meldspar Ore,material,,9,,1920,,,,
 120,Earth Crystal,material,,4,,80,,,Ore,White
-121,Coral Crystal,material,,4,,600,,,Ore,Blue
+121,Coral Crystal (LR),material,,4,,600,,,Ore,Blue
 122,Dragonvein Crystal,material,,6,,800,,,Ore,Red
+684,Spiritvein Crystal,material,,9,,1280,,,,
 123,Lightcrystal,material,,5,,1150,,,Ore,Gray
 124,Novacrystal,material,,7,,2440,,,Ore,White
 125,Firecell Stone,material,,7,,1720,,,Ore,Beige
@@ -128,20 +131,21 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 127,Spiritcore Ore,material,,6,,800,,,CharmOre,Gray
 128,Dreamcore Ore,material,,7,,1200,,,CharmOre,Violet
 129,Dragoncore Ore,material,,8,,2000,,,CharmOre,Gold
-130,Armor Sphere,material,,4,,80,,,Sphere,Blue
-131,Armor Sphere+,material,,5,,200,,,Sphere,Green
-132,Advanced Armor Sphere,material,,6,,300,,,Sphere,Beige
-133,Hard Armor Sphere,material,,7,,400,,,Sphere,Violet
-134,Heavy Armor Sphere,material,,8,,600,,,Sphere,Red
 135,Sturdy Bone,material,,4,,500,,,Bone,White
 136,Quality Bone,material,,6,,750,,,Bone,White
+685,Thick Bone,material,,9,,1200,,,,
 137,Ancient Bone,material,,4,,400,,,Bone,Green
 138,Boulder Bone,material,,4,,400,,,Bone,Gold
 139,Coral Bone,material,,4,,800,,,Bone,Pink
 140,Warped Bone,material,,4,,800,,,Bone,DarkBeige
 141,Brutal Bone,material,,6,,1200,,,Bone,Gray
-142,Dragonbone Relic,material,,7,,1600,,,Bone,White
 143,Unknown Skull,material,,7,,1800,,,Bone,Gold
+142,Dragonbone Relic,material,,7,,1600,,,Bone,White
+130,Armor Sphere,material,,4,,80,,,Sphere,Blue
+131,Armor Sphere+,material,,5,,200,,,Sphere,Green
+132,Advanced Armor Sphere,material,,6,,300,,,Sphere,Beige
+133,Hard Armor Sphere,material,,7,,400,,,Sphere,Violet
+134,Heavy Armor Sphere,material,,8,,600,,,Sphere,Red
 144,Great Hornfly,material,,5,,200,,,Bug,Gold
 145,Sinister Cloth,material,,5,,350,,,Question,Gray
 146,Monster Bone S,material,,4,,30,,,Bone,Gold
@@ -150,11 +154,14 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 149,Monster Bone+,material,,4,,500,,,Bone,Beige
 150,Monster Keenbone,material,,6,,800,,,Bone,Pink
 151,Monster Hardbone,material,,6,,1200,,,Bone,DarkRed
+686,Monster Toughbone,material,,9,,2000,,,,
 152,Elder Dragon Bone,material,,7,,1600,,,Bone,Violet
 153,Sharp Claw,material,,4,,200,,,Fang,Gray
 154,Piercing Claw,material,,6,,800,,,Fang,Gray
+687,Tough Claw,material,,9,,2000,,,,
 155,Monster Fluid,material,,4,,200,,,Liquid,Cyan
 156,Monster Broth,material,,6,,800,,,Liquid,Blue
+688,Monster Essence,material,,9,,2000,,,,
 157,Poison Sac,material,,4,,600,,,Sac,Violet
 158,Toxin Sac,material,,6,,1600,,,Sac,Violet
 159,Paralysis Sac,material,,4,,800,,,Sac,Yellow
@@ -176,209 +183,202 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 175,Warm Pelt,material,,4,,120,,,Hide,Green
 176,High-quality Pelt,material,,6,,320,,,Hide,Beige
 177,Vespoid Shell,material,,4,,160,,,Bug,Gold
-178,Vespoid Wing,material,,4,,210,,,Webbing,Gold
 179,Vespoid Carapace,material,,6,,460,,,Bug,Gold
+178,Vespoid Wing,material,,4,,210,,,Webbing,Gold
 180,Vespoid Innerwing,material,,6,,560,,,Webbing,Gold
+689,Vespoid Razorwing,material,,9,,1960,,,,
 181,Hornetaur Shell,material,,4,,260,,,Bug,Gray
-182,Hornetaur Wing,material,,4,,310,,,Webbing,Gray
-183,Hornetaur Head,material,,4,,360,,,Bug,Gray
 184,Hornetaur Carapace,material,,6,,560,,,Bug,Gray
+182,Hornetaur Wing,material,,4,,310,,,Webbing,Gray
 185,Hornetaur Innerwing,material,,6,,660,,,Webbing,Gray
+690,Hornetaur Razorwing,material,,9,,2120,,,,
+183,Hornetaur Head,material,,4,,360,,,Bug,Gray
 186,Gajau Skin,material,,4,,220,,,Hide,DarkBeige
-187,Gajau Whisker,material,,4,,270,,,Body,DarkBeige
 188,Gajau Scale,material,,6,,420,,,Hide,DarkBeige
+691,Gajau Thickhide,material,,9,,1680,,,,
+187,Gajau Whisker,material,,4,,270,,,Body,DarkBeige
 189,Grand Gajau Whisker,material,,6,,520,,,Body,DarkBeige
+692,Steel Gajau Whisker,material,,9,,1920,,,,
 190,Wingdrake Hide,material,,4,,180,,,Wing,DarkBeige
 191,Wingdrake Hide+,material,,6,,380,,,Wing,DarkBeige
 192,Barnos Hide+,material,,6,,720,,,Hide,DarkBeige
 193,Barnos Talon,material,,6,,820,,,Fang,DarkBeige
 194,Kestodon Shell,material,,4,,180,,,Carapace,Beige
-195,Kestodon Scalp,material,,4,,230,,,Jaw,Beige
 196,Kestodon Carapace,material,,6,,430,,,Carapace,Beige
+693,Kestodon Husk,material,,9,,1320,,,,
+195,Kestodon Scalp,material,,4,,230,,,Jaw,Beige
 197,Gastodon Carapace,material,,6,,760,,,Carapace,DarkRed
 198,Gastodon Horn,material,,6,,860,,,Fang,DarkRed
 199,Jagras Scale,material,,4,,140,,,Scale,Gold
-200,Jagras Hide,material,,4,,180,,,Hide,Gold
 201,Jagras Scale+,material,,6,,340,,,Scale,Gold
+200,Jagras Hide,material,,4,,180,,,Hide,Gold
 202,Jagras Hide+,material,,6,,480,,,Hide,Gold
 203,Shamos Scale,material,,4,,220,,,Scale,Red
-204,Shamos Hide,material,,4,,280,,,Hide,Red
 205,Shamos Scale+,material,,6,,420,,,Scale,Red
+694,Shamos Shard,material,,9,,1580,,,,
+204,Shamos Hide,material,,4,,280,,,Hide,Red
 206,Shamos Hide+,material,,6,,480,,,Hide,Red
 207,Girros Scale,material,,4,,240,,,Scale,Gray
-208,Girros Hide,material,,4,,300,,,Hide,Gray
-209,Girros Fang,material,,4,,260,,,Fang,Yellow
 210,Girros Scale+,material,,6,,460,,,Scale,Gray
+208,Girros Hide,material,,4,,300,,,Hide,Gray
 211,Girros Hide+,material,,6,,520,,,Hide,Gray
+209,Girros Fang,material,,4,,260,,,Fang,Yellow
 212,Great Jagras Scale,material,,4,,260,,,Scale,Gold
-213,Great Jagras Hide,material,,4,,360,,,Hide,Gold
-214,Great Jagras Mane,material,,4,,440,,,Body,Gold
-215,Great Jagras Claw,material,,4,,420,,,Fang,Gold
 216,Great Jagras Scale+,material,,6,,860,,,Scale,Gold
+213,Great Jagras Hide,material,,4,,360,,,Hide,Gold
 217,Great Jagras Hide+,material,,6,,1220,,,Hide,Gold
+215,Great Jagras Claw,material,,4,,420,,,Fang,Gold
 218,Great Jagras Claw+,material,,6,,1620,,,Fang,Gold
+214,Great Jagras Mane,material,,4,,440,,,Body,Gold
 219,Kulu-Ya-Ku Scale,material,,4,,290,,,Scale,Beige
-220,Kulu-Ya-Ku Hide,material,,4,,390,,,Hide,Beige
-221,Kulu-Ya-Ku Plume,material,,4,,460,,,Body,Orange
-222,Kulu-Ya-Ku Beak,material,,4,,490,,,Jaw,Beige
 223,Kulu-Ya-Ku Scale+,material,,6,,890,,,Scale,Beige
+220,Kulu-Ya-Ku Hide,material,,4,,390,,,Hide,Beige
 224,Kulu-Ya-Ku Hide+,material,,6,,1290,,,Hide,Beige
+221,Kulu-Ya-Ku Plume,material,,4,,460,,,Body,Orange
 225,Kulu-Ya-Ku Plume+,material,,6,,1660,,,Body,Orange
+222,Kulu-Ya-Ku Beak,material,,4,,490,,,Jaw,Beige
 226,Kulu-Ya-Ku Beak+,material,,6,,1660,,,Jaw,Beige
 227,Pukei-Pukei Scale,material,,4,,360,,,Scale,Lime
-228,Pukei-Pukei Shell,material,,4,,470,,,Carapace,Lime
-229,Pukei-Pukei Quill,material,,4,,640,,,Wing,Lime
-230,Pukei-Pukei Sac,material,,4,,660,,,Sac,Lime
-231,Pukei-Pukei Tail,material,,4,,620,,,Tail,Lime
 232,Pukei-Pukei Scale+,material,,6,,950,,,Scale,Lime
+228,Pukei-Pukei Shell,material,,4,,470,,,Carapace,Lime
 233,Pukei-Pukei Carapace,material,,6,,1350,,,Carapace,Lime
+229,Pukei-Pukei Quill,material,,4,,640,,,Wing,Lime
 234,Pukei-Pukei Wing,material,,6,,1700,,,Wing,Lime
+230,Pukei-Pukei Sac,material,,4,,660,,,Sac,Lime
 235,Pukei-Pukei Sac+,material,,6,,1750,,,Sac,Lime
+231,Pukei-Pukei Tail,material,,4,,620,,,Tail,Lime
 236,Barroth Shell,material,,4,,330,,,Carapace,Beige
+242,Barroth Carapace,material,,6,,870,,,Carapace,Beige
 237,Barroth Ridge,material,,4,,480,,,Body,Beige
+243,Barroth Ridge+,material,,6,,1270,,,Body,Beige
 238,Barroth Claw,material,,4,,630,,,Fang,Beige
+244,Barroth Claw+,material,,6,,1670,,,Fang,Beige
 239,Barroth Scalp,material,,4,,870,,,Jaw,Beige
 240,Barroth Tail,material,,4,,800,,,Tail,Beige
 241,Fertile Mud,material,,4,,390,,,Dung,Beige
-242,Barroth Carapace,material,,6,,870,,,Carapace,Beige
-243,Barroth Ridge+,material,,6,,1270,,,Body,Beige
-244,Barroth Claw+,material,,6,,1670,,,Fang,Beige
 245,Jyuratodus Scale,material,,4,,340,,,Scale,LightBeige
-246,Jyuratodus Shell,material,,4,,490,,,Carapace,LightBeige
-247,Jyuratodus Fang,material,,4,,640,,,Fang,LightBeige
-248,Jyuratodus Fin,material,,4,,720,,,Body,LightBeige
 249,Jyuratodus Scale+,material,,6,,1040,,,Scale,LightBeige
+246,Jyuratodus Shell,material,,4,,490,,,Carapace,LightBeige
 250,Jyuratodus Carapace,material,,6,,1540,,,Carapace,LightBeige
+247,Jyuratodus Fang,material,,4,,640,,,Fang,LightBeige
 251,Jyuratodus Fang+,material,,6,,2040,,,Fang,LightBeige
+248,Jyuratodus Fin,material,,4,,720,,,Body,LightBeige
 252,Jyuratodus Fin+,material,,6,,2120,,,Body,LightBeige
 253,Tobi-Kadachi Scale,material,,4,,360,,,Scale,Cyan
+258,Tobi-Kadachi Scale+,material,,6,,1050,,,Scale,Cyan
 254,Tobi-Kadachi Pelt,material,,4,,510,,,Hide,Cyan
+259,Tobi-Kadachi Pelt+,material,,6,,1550,,,Hide,Cyan
 255,Tobi-Kadachi Membrane,material,,4,,800,,,Wing,Cyan
 256,Tobi-Kadachi Claw,material,,4,,660,,,Fang,Cyan
-257,Tobi-Kadachi Electrode,material,,4,,720,,,Body,Cyan
-258,Tobi-Kadachi Scale+,material,,6,,1050,,,Scale,Cyan
-259,Tobi-Kadachi Pelt+,material,,6,,1550,,,Hide,Cyan
 260,Tobi-Kadachi Claw+,material,,6,,1650,,,Fang,Cyan
+257,Tobi-Kadachi Electrode,material,,4,,720,,,Body,Cyan
 261,Tobi-Kadachi Electrode+,material,,6,,1750,,,Body,Cyan
 262,Anjanath Scale,material,,4,,430,,,Scale,Pink
+268,Anjanath Scale+,material,,6,,1060,,,Scale,Pink
 263,Anjanath Pelt,material,,4,,630,,,Hide,Pink
+269,Anjanath Pelt+,material,,6,,1560,,,Hide,Pink
 264,Anjanath Fang,material,,4,,830,,,Fang,Pink
+270,Anjanath Fang+,material,,6,,2060,,,Fang,Pink
 265,Anjanath Nosebone,material,,4,,890,,,Bone,Pink
+271,Anjanath Nosebone+,material,,6,,2120,,,Bone,Pink
 266,Anjanath Tail,material,,4,,860,,,Tail,Pink
 267,Anjanath Plate,material,,5,,2400,,,Plate,Pink
-268,Anjanath Scale+,material,,6,,1060,,,Scale,Pink
-269,Anjanath Pelt+,material,,6,,1560,,,Hide,Pink
-270,Anjanath Fang+,material,,6,,2060,,,Fang,Pink
-271,Anjanath Nosebone+,material,,6,,2120,,,Bone,Pink
 272,Anjanath Gem,material,,7,,6000,,,Gem,Pink
 273,Rathian Scale,material,,4,,460,,,Scale,Green
+278,Rathian Scale+,material,,6,,1060,,,Scale,Green
 274,Rathian Shell,material,,4,,660,,,Carapace,Green
+279,Rathian Carapace,material,,6,,1560,,,Carapace,Green
 275,Rathian Webbing,material,,4,,860,,,Wing,Green
 276,Rathian Spike,material,,4,,980,,,Body,Green
-277,Rathian Plate,material,,5,,2400,,,Plate,Green
-278,Rathian Scale+,material,,6,,1060,,,Scale,Green
-279,Rathian Carapace,material,,6,,1560,,,Carapace,Green
 280,Rathian Spike+,material,,6,,2240,,,Body,Green
+277,Rathian Plate,material,,5,,2400,,,Plate,Green
 281,Rathian Ruby,material,,7,,6000,,,Gem,Green
 282,Pink Rathian Scale+,material,,6,,1260,,,Scale,Pink
 283,Pink Rathian Carapace,material,,6,,1860,,,Carapace,Pink
 284,Tzitzi-Ya-Ku Scale,material,,4,,440,,,Scale,Blue
-285,Tzitzi-Ya-Ku Hide,material,,4,,640,,,Hide,Blue
-286,Tzitzi-Ya-Ku Claw,material,,4,,840,,,Fang,Blue
-287,Tzitzi-Ya-Ku Photophore,material,,4,,920,,,Body,Blue
 288,Tzitzi-Ya-Ku Scale+,material,,6,,840,,,Scale,Blue
+285,Tzitzi-Ya-Ku Hide,material,,4,,640,,,Hide,Blue
 289,Tzitzi-Ya-Ku Hide+,material,,6,,1240,,,Hide,Blue
+286,Tzitzi-Ya-Ku Claw,material,,4,,840,,,Fang,Blue
 290,Tzitzi-Ya-Ku Claw+,material,,6,,1640,,,Fang,Blue
+287,Tzitzi-Ya-Ku Photophore,material,,4,,920,,,Body,Blue
 291,Tzitzi-Ya-Ku Photophore+,material,,6,,1680,,,Body,Blue
 292,Paolumu Pelt,material,,4,,650,,,Hide,White
-293,Paolumu Scale,material,,4,,450,,,Scale,White
-294,Paolumu Shell,material,,4,,950,,,Carapace,Pink
-295,Paolumu Webbing,material,,4,,850,,,Wing,White
 296,Paolumu Pelt+,material,,6,,1570,,,Hide,White
+293,Paolumu Scale,material,,4,,450,,,Scale,White
 297,Paolumu Scale+,material,,6,,1070,,,Scale,White
+294,Paolumu Shell,material,,4,,950,,,Carapace,Pink
 298,Paolumu Carapace+,material,,6,,2140,,,Carapace,Pink
+295,Paolumu Webbing,material,,4,,850,,,Wing,White
 299,Paolumu Wing,material,,6,,2070,,,Wing,White
 300,Great Girros Scale,material,,4,,450,,,Scale,Gray
-301,Great Girros Hide,material,,4,,650,,,Hide,Gray
-302,Great Girros Hood,material,,4,,950,,,Body,Gray
-303,Great Girros Fang,material,,4,,750,,,Fang,Gray
-304,Great Girros Tail,material,,4,,850,,,Tail,Gray
 305,Great Girros Scale+,material,,6,,1060,,,Scale,Gray
+301,Great Girros Hide,material,,4,,650,,,Hide,Gray
 306,Great Girros Hide+,material,,6,,1560,,,Hide,Gray
+302,Great Girros Hood,material,,4,,950,,,Body,Gray
 307,Great Girros Hood+,material,,6,,2180,,,Body,Gray
+303,Great Girros Fang,material,,4,,750,,,Fang,Gray
 308,Great Girros Fang+,material,,6,,2060,,,Fang,Gray
+304,Great Girros Tail,material,,4,,850,,,Tail,Gray
 309,Radobaan Scale,material,,4,,480,,,Scale,White
+314,Radobaan Scale+,material,,6,,1080,,,Scale,White
 310,Radobaan Shell,material,,4,,680,,,Carapace,White
+315,Radobaan Carapace,material,,6,,1580,,,Carapace,White
 311,Radobaan Oilshell,material,,4,,960,,,Body,White
 312,Wyvern Bonemass,material,,4,,880,,,Bone,White
 313,Radobaan Marrow,material,,4,,1120,,,Body,White
-314,Radobaan Scale+,material,,6,,1080,,,Scale,White
-315,Radobaan Carapace,material,,6,,1580,,,Carapace,White
 316,Radobaan Medulla,material,,6,,2240,,,Body,White
 317,Legiana Scale,material,,4,,540,,,Scale,Blue
+323,Legiana Scale+,material,,6,,1230,,,Scale,Blue
 318,Legiana Hide,material,,4,,790,,,Hide,Blue
+324,Legiana Hide+,material,,6,,1830,,,Hide,Blue
 319,Legiana Claw,material,,4,,1040,,,Fang,Blue
+325,Legiana Claw+,material,,6,,2430,,,Fang,Blue
 320,Legiana Webbing,material,,4,,1080,,,Wing,Blue
+326,Legiana Wing,material,,6,,2460,,,Wing,Blue
 321,Legiana Tail Webbing,material,,4,,1160,,,Tail,Blue
 322,Legiana Plate,material,,5,,3000,,,Plate,Blue
-323,Legiana Scale+,material,,6,,1230,,,Scale,Blue
-324,Legiana Hide+,material,,6,,1830,,,Hide,Blue
-325,Legiana Claw+,material,,6,,2430,,,Fang,Blue
-326,Legiana Wing,material,,6,,2460,,,Wing,Blue
 327,Legiana Gem,material,,7,,7200,,,Gem,Blue
 328,Odogaron Scale,material,,4,,560,,,Scale,DarkRed
+334,Odogaron Scale+,material,,6,,1240,,,Scale,DarkRed
 329,Odogaron Sinew,material,,4,,810,,,Body,DarkRed
+335,Odogaron Sinew+,material,,6,,1840,,,Body,DarkRed
 330,Odogaron Claw,material,,4,,1060,,,Fang,DarkRed
+336,Odogaron Claw+,material,,6,,2440,,,Fang,DarkRed
 331,Odogaron Fang,material,,4,,1120,,,Fang,DarkRed
+337,Odogaron Fang+,material,,6,,2480,,,Fang,DarkRed
 332,Odogaron Tail,material,,4,,1240,,,Tail,DarkRed
 333,Odogaron Plate,material,,5,,3000,,,Plate,DarkRed
-334,Odogaron Scale+,material,,6,,1240,,,Scale,DarkRed
-335,Odogaron Sinew+,material,,6,,1840,,,Body,DarkRed
-336,Odogaron Claw+,material,,6,,2440,,,Fang,DarkRed
-337,Odogaron Fang+,material,,6,,2480,,,Fang,DarkRed
 338,Odogaron Gem,material,,7,,7200,,,Gem,DarkRed
 339,Rathalos Scale,material,,4,,590,,,Scale,Red
+346,Rathalos Scale+,material,,6,,1250,,,Scale,Red
 340,Rathalos Shell,material,,4,,840,,,Carapace,Red
+347,Rathalos Carapace,material,,6,,1850,,,Carapace,Red
 341,Rathalos Webbing,material,,4,,1180,,,Wing,Red
+348,Rathalos Wing,material,,6,,2500,,,Wing,Red
 342,Rathalos Tail,material,,4,,1270,,,Tail,Red
 343,Rath Wingtalon,material,,4,,1090,,,Fang,Red
 344,Rathalos Marrow,material,,4,,1360,,,Body,Red
-345,Rathalos Plate,material,,5,,3000,,,Plate,Red
-346,Rathalos Scale+,material,,6,,1250,,,Scale,Red
-347,Rathalos Carapace,material,,6,,1850,,,Carapace,Red
-348,Rathalos Wing,material,,6,,2500,,,Wing,Red
 349,Rathalos Medulla,material,,6,,2600,,,Body,Red
+345,Rathalos Plate,material,,5,,3000,,,Plate,Red
 350,Rathalos Ruby,material,,7,,7200,,,Gem,Red
 351,Azure Rathalos Scale+,material,,6,,1450,,,Scale,Blue
 352,Azure Rathalos Carapace,material,,6,,2150,,,Carapace,Blue
 353,Azure Rathalos Tail,material,,6,,3000,,,Tail,Blue
 354,Azure Rathalos Wing,material,,6,,2850,,,Wing,Blue
 355,Diablos Shell,material,,4,,620,,,Carapace,DarkBeige
+361,Diablos Carapace,material,,6,,1260,,,Carapace,DarkBeige
 356,Diablos Ridge,material,,4,,870,,,Body,DarkBeige
+362,Diablos Ridge+,material,,6,,1860,,,Body,DarkBeige
 357,Diablos Tailcase,material,,4,,1240,,,Body,DarkBeige
 358,Diablos Fang,material,,4,,1120,,,Fang,DarkBeige
 359,Twisted Horn,material,,4,,1360,,,Fang,DarkBeige
-360,Diablos Marrow,material,,4,,1480,,,Body,DarkBeige
-361,Diablos Carapace,material,,6,,1260,,,Carapace,DarkBeige
-362,Diablos Ridge+,material,,6,,1860,,,Body,DarkBeige
 363,Majestic Horn,material,,6,,2980,,,Fang,DarkBeige
+360,Diablos Marrow,material,,4,,1480,,,Body,DarkBeige
 364,Blos Medulla,material,,6,,3040,,,Body,DarkBeige
 365,Black Diablos Carapace,material,,6,,1450,,,Carapace,Gray
 366,Black Diablos Ridge+,material,,6,,2150,,,Body,Gray
 367,Black Spiral Horn+,material,,6,,5700,,,Fang,Gray
-368,Kirin Hide,material,,4,,750,,,Hide,White
-369,Kirin Tail,material,,4,,1000,,,Body,White
-370,Kirin Mane,material,,4,,1250,,,Body,White
-371,Kirin Thunderhorn,material,,4,,1750,,,Fang,Blue
-372,Kirin Hide+,material,,7,,1630,,,Hide,White
-373,Kirin Thundertail,material,,7,,2430,,,Body,White
-374,Kirin Azure Horn,material,,7,,3200,,,Fang,Blue
-375,Zorah Magdaros Heat Scale,material,,6,,800,,,Scale,Gray
-376,Zorah Magdaros Carapace,material,,6,,1200,,,Carapace,Gray
-377,Zorah Magdaros Ridge,material,,6,,1400,,,Body,Gray
-378,Zorah Magdaros Pleura,material,,6,,1600,,,Body,Gray
-379,Zorah Magdaros Magma,material,,6,,3200,,,Ore,Red
-380,Zorah Magdaros Gem,material,,7,,6000,,,Gem,Gray
 381,Dodogama Scale+,material,,6,,1030,,,Scale,Blue
 382,Dodogama Hide+,material,,6,,1530,,,Hide,Blue
 383,Dodogama Jaw,material,,6,,2120,,,Jaw,Blue
@@ -410,6 +410,19 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 409,Deviljho Tail,material,,6,,3600,,,Tail,DarkGreen
 410,Deviljho Saliva,material,,6,,2200,,,Liquid,DarkGreen
 411,Deviljho Gem,material,,7,,9600,,,Gem,DarkGreen
+368,Kirin Hide,material,,4,,750,,,Hide,White
+372,Kirin Hide+,material,,7,,1630,,,Hide,White
+369,Kirin Tail,material,,4,,1000,,,Body,White
+373,Kirin Thundertail,material,,7,,2430,,,Body,White
+370,Kirin Mane,material,,4,,1250,,,Body,White
+371,Kirin Thunderhorn,material,,4,,1750,,,Fang,Blue
+374,Kirin Azure Horn,material,,7,,3200,,,Fang,Blue
+375,Zorah Magdaros Heat Scale,material,,6,,800,,,Scale,Gray
+376,Zorah Magdaros Carapace,material,,6,,1200,,,Carapace,Gray
+377,Zorah Magdaros Ridge,material,,6,,1400,,,Body,Gray
+378,Zorah Magdaros Pleura,material,,6,,1600,,,Body,Gray
+379,Zorah Magdaros Magma,material,,6,,3200,,,Ore,Red
+380,Zorah Magdaros Gem,material,,7,,6000,,,Gem,Gray
 412,Immortal Dragonscale,material,,7,,2100,,,Scale,Gray
 413,Nergigante Carapace,material,,7,,3200,,,Carapace,Gray
 414,Nergigante Tail,material,,7,,4300,,,Tail,Gray
@@ -417,6 +430,29 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 416,Nergigante Talon,material,,7,,4500,,,Fang,Gray
 417,Nergigante Regrowth Plate,material,,7,,3400,,,Body,White
 418,Nergigante Gem,material,,8,,12000,,,Gem,Gray
+428,Teostra Carapace,material,,7,,3400,,,Carapace,Red
+429,Teostra Mane,material,,7,,3400,,,Body,Red
+430,Teostra Tail,material,,7,,4900,,,Tail,Red
+431,Teostra Horn+,material,,7,,5500,,,Fang,Red
+427,Fire Dragon Scale+,material,,7,,2300,,,Scale,Red
+432,Teostra Claw+,material,,7,,4700,,,Fang,Red
+433,Teostra Webbing,material,,7,,4500,,,Wing,Red
+434,Teostra Powder,material,,7,,3600,,,Sac,Red
+435,Teostra Gem,material,,8,,12000,,,Gem,Red
+437,Lunastra Carapace,material,,7,,3400,,,Carapace,Blue
+438,Lunastra Mane,material,,7,,3400,,,Body,Blue
+440,Lunastra Tail,material,,7,,4900,,,Tail,Blue
+441,Lunastra Horn,material,,7,,5500,,,Fang,Blue
+436,Lunastra Scale+,material,,7,,2300,,,Scale,Blue
+439,Lunastra Wing,material,,7,,4500,,,Wing,Blue
+442,Lunastra Gem,material,,8,,12000,,,Gem,Blue
+444,Daora Carapace,material,,7,,3300,,,Carapace,Gray
+443,Daora Dragon Scale+,material,,7,,2200,,,Scale,Gray
+445,Daora Webbing,material,,7,,4300,,,Wing,Gray
+446,Daora Horn+,material,,7,,4500,,,Fang,Gray
+447,Daora Tail,material,,7,,4800,,,Tail,Gray
+448,Daora Claw+,material,,7,,4400,,,Fang,Gray
+449,Daora Gem,material,,8,,12000,,,Gem,Gray
 419,Deceased Scale,material,,7,,2250,,,Scale,White
 420,Vaal Hazak Carapace,material,,7,,3350,,,Carapace,White
 421,Vaal Hazak Membrane,material,,7,,3500,,,Body,DarkRed
@@ -425,29 +461,6 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 424,Vaal Hazak Talon,material,,7,,4750,,,Fang,White
 425,Vaal Hazak Wing,material,,7,,4450,,,Wing,White
 426,Vaal Hazak Gem,material,,8,,12000,,,Gem,White
-427,Fire Dragon Scale+,material,,7,,2300,,,Scale,Red
-428,Teostra Carapace,material,,7,,3400,,,Carapace,Red
-429,Teostra Mane,material,,7,,3400,,,Body,Red
-430,Teostra Tail,material,,7,,4900,,,Tail,Red
-431,Teostra Horn+,material,,7,,5500,,,Fang,Red
-432,Teostra Claw+,material,,7,,4700,,,Fang,Red
-433,Teostra Webbing,material,,7,,4500,,,Wing,Red
-434,Teostra Powder,material,,7,,3600,,,Sac,Red
-435,Teostra Gem,material,,8,,12000,,,Gem,Red
-436,Lunastra Scale+,material,,7,,2300,,,Scale,Blue
-437,Lunastra Carapace,material,,7,,3400,,,Carapace,Blue
-438,Lunastra Mane,material,,7,,3400,,,Body,Blue
-439,Lunastra Wing,material,,7,,4500,,,Wing,Blue
-440,Lunastra Tail,material,,7,,4900,,,Tail,Blue
-441,Lunastra Horn,material,,7,,5500,,,Fang,Blue
-442,Lunastra Gem,material,,8,,12000,,,Gem,Blue
-443,Daora Dragon Scale+,material,,7,,2200,,,Scale,Gray
-444,Daora Carapace,material,,7,,3300,,,Carapace,Gray
-445,Daora Webbing,material,,7,,4300,,,Wing,Gray
-446,Daora Horn+,material,,7,,4500,,,Fang,Gray
-447,Daora Tail,material,,7,,4800,,,Tail,Gray
-448,Daora Claw+,material,,7,,4400,,,Fang,Gray
-449,Daora Gem,material,,8,,12000,,,Gem,Gray
 450,Xeno'jiiva Soulscale,material,,7,,3000,,,Scale,White
 451,Xeno'jiiva Shell,material,,7,,4000,,,Carapace,White
 452,Xeno'jiiva Veil,material,,7,,4300,,,Body,Blue
@@ -462,6 +475,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 461,Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold
 462,Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold
 463,Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold
+663,Kulve Taroth Emperor Nugget,material,,8,,2000,,,,
 464,Behemoth Mane,material,,7,,8000,,,Body,Violet
 465,Behemoth Bone,material,,7,,7000,,,Bone,Violet
 466,Behemoth Great Horn,material,,8,,15000,,,Fang,Violet
@@ -501,23 +515,11 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 490,Steel Wyverian Print,material,,4,,,,,Voucher,DarkBeige
 491,Silver Wyverian Print,material,,4,,,,,Voucher,White
 492,Gold Wyverian Print,material,,4,,,,,Voucher,Gold
-493,Tailraider Voucher,material,,4,,200,,,Voucher,LightBeige
-494,Gajalaka Sketch,material,,4,,200,,,Voucher,LightBeige
 495,Commendation,material,,5,,,,,Voucher,Beige
 496,High Commendation,material,,7,,,,,Voucher,Beige
 497,Research Commission Ticket,material,,7,,,,,Voucher,Cyan
-498,Pukei Coin,material,,4,,500,,,Coin,Lime
-499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
-500,Rathian Coin,material,,4,,500,,,Coin,Green
-501,Tzitzi Coin,material,,4,,800,,,Coin,Blue
-502,Barroth Coin,material,,4,,800,,,Coin,Beige
-503,Gama Coin,material,,4,,800,,,Coin,Blue
-504,Rathalos Coin,material,,4,,800,,,Coin,Red
-505,Brute Coin,material,,4,,1500,,,Coin,White
-506,Flying Coin,material,,4,,1500,,,Coin,DarkBeige
-507,Pinnacle Coin,material,,4,,800,,,Coin,Red
-508,Hunter King Coin,material,,6,,1200,,,Coin,White
-509,Ace Hunter Coin,material,,8,,2000,,,Coin,Gold
+493,Tailraider Voucher,material,,4,,200,,,Voucher,LightBeige
+494,Gajalaka Sketch,material,,4,,200,,,Voucher,LightBeige
 510,Spring Blossom Ticket,material,,4,,200,,,Voucher,Pink
 511,Summer Twilight Ticket,material,,4,,200,,,Voucher,Blue
 512,Autumn Harvest Ticket,material,,4,,200,,,Voucher,Beige
@@ -533,26 +535,37 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 672,Nergigante Ticket,material,,8,,800,,,,
 657,Zorah Magdaros Ticket,material,,8,,800,,,,
 658,Xeno'jiiva Ticket,material,,8,,800,,,,
-663,Kulve Taroth Emperor Nugget,material,,8,,2000,,,,
 519,Black Bandage,material,,6,,400,,,Question,Gray
 520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
-521,Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige
-522,Wiggler Ticket,material,,6,,400,,,Voucher,Blue
+531,First Fleet Ticket,material,,4,,400,,,,
+680,Beetle Ticket,material,,4,,400,,,,
 523,Mega Man Ticket,material,,6,,400,,,Voucher,Blue
 524,Azure Star Shard,material,,4,,200,,,Ore,Blue
 525,Azure Stargem,material,,6,,400,,,Gem,Blue
 526,Red Orb,material,,8,,800,,,Gem,Red
 527,Master Craftsman's Blueprint,material,,6,,800,,,Voucher,Gray
 528,Bushi Ticket,material,,4,,400,,,Voucher,Red
+678,Glamour Prism,material,,8,,800,,,,
+679,Senu's Feather,material,,4,,400,,,,
+529,Downy Crake Ticket,material,,4,,400,,,,
+530,Bristly Crake Ticket,material,,4,,400,,,,
+521,Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige
+522,Wiggler Ticket,material,,6,,400,,,Voucher,Blue
 675,Faux Ticket,material,,4,,400,,,,
 676,Faux Ticket II,material,,4,,400,,,,
 677,Faux Ticket III,material,,4,,400,,,,
-529,Downy Crake Ticket,material,,4,,400,,,,
-530,Bristly Crake Ticket,material,,4,,400,,,,
-531,First Fleet Ticket,material,,4,,400,,,,
-678,Glamour Prism,material,,8,,800,,,,
-679,Senu's Feather,material,,4,,400,,,,
-680,Beetle Ticket,material,,4,,400,,,,
+498,Pukei Coin,material,,4,,500,,,Coin,Lime
+499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
+500,Rathian Coin,material,,4,,500,,,Coin,Green
+501,Tzitzi Coin,material,,4,,800,,,Coin,Blue
+502,Barroth Coin,material,,4,,800,,,Coin,Beige
+503,Gama Coin,material,,4,,800,,,Coin,Blue
+504,Rathalos Coin,material,,4,,800,,,Coin,Red
+505,Brute Coin,material,,4,,1500,,,Coin,White
+506,Flying Coin,material,,4,,1500,,,Coin,DarkBeige
+507,Pinnacle Coin,material,,4,,800,,,Coin,Red
+508,Hunter King Coin,material,,6,,1200,,,Coin,White
+509,Ace Hunter Coin,material,,8,,2000,,,Coin,Gold
 532,Watcher Lens,material,,,,,,,Question,Gray
 533,Nora Brave Trophy,material,,,,,,,,
 534,SFV Ticket,material,,4,,200,,,Voucher,White
@@ -577,9 +590,9 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 553,Platinum Scale+,material,trade,5,,20000,,,,
 554,Gilded Scale,material,trade,4,,500,,,,
 555,Gilded Scale+,material,trade,5,,5000,,,,
+558,Gold Chip Fragment,material,trade,4,,300,,,Ore,Gold
 556,Golden Fragment,material,trade,4,,750,,,Ore,Gold
 557,Golden Chunk,material,trade,4,,1500,,,Ore,Gold
-558,Gold Chip Fragment,material,trade,4,,300,,,Ore,Gold
 559,Normal Ammo 1,hidden,,4,,,,,Ammo,White
 560,Normal Ammo 2,ammo,,2,3,1,99,,Ammo,White
 561,Normal Ammo 3,ammo,,3,,2,99,,Ammo,White

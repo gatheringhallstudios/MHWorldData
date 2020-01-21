@@ -49,5 +49,5 @@ class AmDatEntry(Struct):
 
 
 class AmDat(StructFile):
-    MAGIC = 0x005d
+    MAGIC = 0x005f
     EntryFactory = AmDatEntry
