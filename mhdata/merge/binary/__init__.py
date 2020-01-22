@@ -33,6 +33,7 @@ def update_all():
     print() # newline
 
     simple_translate.translate_skills(mhdata)
+    simple_translate.translate_decorations(mhdata, item_updater.data)
 
     update_armor(mhdata, item_updater)
     #update_weapons(mhdata, item_updater)

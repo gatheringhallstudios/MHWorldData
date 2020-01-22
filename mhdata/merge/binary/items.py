@@ -5,15 +5,6 @@ from mhw_armor_edit.ftypes import itm
 
 from . import artifacts
 from .load import load_schema, load_text, ItemUpdater
-
-# Index based item type
-item_type_list = [
-    'item', # Consumable / Trade
-    'material', # Monster Material
-    'endemic', # Endemic Life
-    'ammo',
-    'jewel'
-]
         
 def update_items(item_updater: ItemUpdater, *, mhdata=None):
     if not mhdata:
@@ -44,7 +35,7 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
         }
 
         is_ez = (entry.flags & itm.ItmFlag.IsQuestOnly.value) != 0
-        is_account = item_type_list[entry.type] == 'endemic'
+        is_account = entry.type == 'endemic'
         is_tradein = "(Trade-in Item)" in description_dict['en']
         is_appraisal = (entry.flags & itm.ItmFlag.IsAppraisal.value) != 0
 
@@ -67,7 +58,7 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
             new_data['subcategory'] = 'appraisal'
             new_data['sell_price'] = None  # why does this have values?
         else:
-            new_data['category'] = item_type_list[entry.type]
+            new_data['category'] = entry.type
             new_data['subcategory'] = 'trade' if is_tradein else None
 
             # Whether we show carry limit at all is based on item type.

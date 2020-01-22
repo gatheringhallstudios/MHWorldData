@@ -11,7 +11,7 @@ from .bcore import get_chunk_root, load_schema, load_text
 from .equipment_bload import SharpnessDataReader, WeaponDataLoader, load_kinsect_tree, load_armor_series
 from .quest_bload import load_quests
 from .skill import SkillTextHandler
-from .items import ItemUpdater
+from .items import ItemUpdater, ItemCollection, Item
 
 def convert_recipe(item_handler: ItemUpdater, recipe_binary) -> dict:
     "Converts a recipe binary (of type eq_cus/eq_crt) to a dictionary"
