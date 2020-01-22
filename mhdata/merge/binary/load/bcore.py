@@ -40,7 +40,7 @@ def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.St
     with open(join(CHUNK_DIRECTORY, relative_dir), 'rb') as f:
         return schema.load(f)
 
-def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
+def load_text(basepath: str, exclude_indices=False, exclude_keys=False) -> Mapping[int, Mapping[str, str]]:
     """Parses a series of GMD files, returning a mapping from index -> language -> value
     
     The given base path is the relative directory from the chunk folder,
@@ -51,9 +51,9 @@ def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
     for ext_lang, lang in lang_map.items():
         data = load_schema(gmd.Gmd, f"{basepath}_{ext_lang}.gmd")
         for idx, value_obj in enumerate(data.items):
-            if idx not in results:
+            if idx not in results and not exclude_indices:
                 results[idx] = {}
-            if value_obj.key not in results:
+            if value_obj.key not in results and not exclude_keys:
                 results[value_obj.key] = {}
 
             value = value_obj.value
@@ -75,7 +75,7 @@ def load_text(basepath: str) -> Mapping[int, Mapping[str, str]]:
                 .replace("<STYL MOJI_LIGHTBLUE_DEFAULT>", "")
                 .replace("</STYL>", "")).strip()
 
-            results[idx][lang] = value
-            results[value_obj.key][lang] = value
+            if not exclude_indices: results[idx][lang] = value
+            if not exclude_keys: results[value_obj.key][lang] = value
 
     return results

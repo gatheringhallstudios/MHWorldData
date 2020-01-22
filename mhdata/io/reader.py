@@ -131,7 +131,12 @@ class DataReader:
         basemap.extend(rows)
 
         if translation_filename:
-            dataitems = self.load_list_csv(translation_filename)
+            dataitems = None
+            try:
+                dataitems = self.load_list_csv(translation_filename)
+            except FileNotFoundError:
+                print(f"Warning: Could not find translation file {translation_filename}")
+
             if dataitems:
                 groups = set(['name'] + translation_extra)
                 

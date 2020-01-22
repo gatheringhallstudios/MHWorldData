@@ -115,16 +115,19 @@ class MonsterAilments(BaseSchema):
     mud = ExcelBool(null_is_false=True)
     effluvia = ExcelBool(null_is_false=True)
 
-class SkillSchema(BaseSchema):
+class SkillBaseSchema(BaseSchema):
     __groups__ = ('name', 'description')
     name = fields.Dict()
     description = fields.Dict()
     icon_color = ValidatedStr(None, *cfg.icon_colors)
+    secret = fields.Int(allow_none=True)
 
+class SkillSchema(SkillBaseSchema):
     levels = fields.Nested('SkillLevelSchema', many=True, required=True)
 
 class SkillLevelSchema(BaseSchema):
     __groups__ = ('description',)
+    base_name_en = fields.Str()
     level = fields.Int()
     description = fields.Dict()
 

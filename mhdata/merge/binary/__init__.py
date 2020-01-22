@@ -9,6 +9,7 @@ def update_all():
     from .monsters import update_monsters
     from .quests import update_quests
     from .items import update_items
+    from . import simple_translate
 
     mhdata = load_data()
     print("Existing Data loaded. Using it as a base to merge new data")
@@ -30,6 +31,8 @@ def update_all():
     monster_meta = metadata.MonsterMetadata()
 
     print() # newline
+
+    simple_translate.translate_skills(mhdata)
 
     update_armor(mhdata, item_updater)
     #update_weapons(mhdata, item_updater)

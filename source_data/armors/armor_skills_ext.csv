@@ -25,7 +25,7 @@ Vespoid Vambraces,Paralysis Attack,1,,
 Vespoid Coil,Paralysis Resistance,1,,
 Vespoid Greaves,Honey Hunter,1,,
 Kestodon Guards,Affinity Sliding,1,,
-Gajau Boots,Aquatic Expert,1,,
+Gajau Boots,Aquatic/Polar Mobility,1,,
 Jagras Helm,Speed Eating,1,,
 Jagras Mail,Intimidator,1,,
 Jagras Vambraces,Palico Rally,1,,
@@ -41,7 +41,7 @@ Alloy Mail,Water Resistance,1,,
 Alloy Vambraces,Defense Boost,1,,
 Alloy Coil,Poison Resistance,1,,
 Alloy Greaves,Speed Sharpening,1,,
-Pukei Hood,Sporepuff Expert,1,,
+Pukei Hood,Survival Expert,1,,
 Pukei Mail,Item Prolonger,1,,
 Pukei Vambraces,Poison Resistance,1,,
 Pukei Coil,Poison Attack,1,,
@@ -51,7 +51,7 @@ Barroth Mail,Stamina Thief,1,,
 Barroth Vambraces,Marathon Runner,1,,
 Barroth Coil,Muck Resistance,1,,
 Barroth Greaves,Stun Resistance,1,,
-Jyura Helm,Aquatic Expert,1,,
+Jyura Helm,Aquatic/Polar Mobility,1,,
 Jyura Mail,Muck Resistance,1,,
 Jyura Vambraces,Water Attack,1,,
 Jyura Coil,Ice Resistance,1,,
@@ -155,7 +155,7 @@ Blossom Boots,Recovery Speed,1,,
 Diver's Mask,Marathon Runner,1,,
 Diver's Suit,Critical Eye,1,,
 Diver's Braces,Quick Sheath,1,,
-Diver's Belt,Aquatic Expert,1,,
+Diver's Belt,Aquatic/Polar Mobility,1,,
 Diver's Boots,Hunger Resistance,1,,
 Harvest Flor,Focus,1,,
 Harvest Tronco,Tremor Resistance,1,,
@@ -260,8 +260,8 @@ Hornetaur Greaves β,Handicraft,1,,
 Mosswine Mask α,Mushroomancer,2,,
 Kestodon Guards α,Affinity Sliding,1,Focus,1
 Kestodon Guards β,Affinity Sliding,1,,
-Gajau Boots α,Aquatic Expert,2,Water Attack,1
-Gajau Boots β,Aquatic Expert,1,Water Attack,1
+Gajau Boots α,Aquatic/Polar Mobility,2,Water Attack,1
+Gajau Boots β,Aquatic/Polar Mobility,1,Water Attack,1
 Shamos Goggles α,Detector,1,Geologist,1
 Shamos Goggles β,Detector,1,,
 Jagras Helm α,Speed Eating,2,,
@@ -304,12 +304,12 @@ Girros Mail β,Paralysis Resistance,1,,
 Girros Vambraces β,Palico Rally,1,,
 Girros Coil β,Effluvial Expert,1,,
 Girros Greaves β,Paralysis Attack,1,,
-Pukei Hood α,Sporepuff Expert,2,,
+Pukei Hood α,Survival Expert,2,,
 Pukei Mail α,Item Prolonger,1,Botanist,1
 Pukei Vambraces α,Poison Resistance,2,Poison Attack,1
 Pukei Coil α,Poison Attack,2,,
-Pukei Greaves α,Botanist,2,Sporepuff Expert,1
-Pukei Hood β,Sporepuff Expert,1,,
+Pukei Greaves α,Botanist,2,Survival Expert,1
+Pukei Hood β,Survival Expert,1,,
 Pukei Mail β,Item Prolonger,1,,
 Pukei Vambraces β,Poison Resistance,1,,
 Pukei Coil β,Poison Attack,1,,
@@ -334,12 +334,12 @@ Anja Mail β,Marathon Runner,1,,
 Anja Vambraces β,Special Ammo Boost,1,,
 Anja Coil β,Fire Resistance,2,,
 Anja Greaves β,Artillery,1,,
-Jyura Helm α,Aquatic Expert,2,,
+Jyura Helm α,Aquatic/Polar Mobility,2,,
 Jyura Mail α,Muck Resistance,1,Water Attack,1
-Jyura Vambraces α,Water Attack,2,Aquatic Expert,1
+Jyura Vambraces α,Water Attack,2,Aquatic/Polar Mobility,1
 Jyura Coil α,Ice Resistance,2,,
 Jyura Greaves α,Focus,2,,
-Jyura Helm β,Aquatic Expert,1,,
+Jyura Helm β,Aquatic/Polar Mobility,1,,
 Jyura Mail β,Muck Resistance,1,,
 Jyura Vambraces β,Water Attack,2,,
 Jyura Coil β,Ice Resistance,1,,
@@ -690,7 +690,7 @@ Blossom Boots α,Recovery Speed,1,,
 Diver's Mask α,Marathon Runner,1,,
 Diver's Suit α,Critical Eye,1,,
 Diver's Braces α,Quick Sheath,1,,
-Diver's Belt α,Aquatic Expert,1,,
+Diver's Belt α,Aquatic/Polar Mobility,1,,
 Diver's Boots α,Hunger Resistance,1,,
 Harvest Flor α,Focus,1,,
 Harvest Tronco α,Tremor Resistance,1,,
@@ -781,3 +781,49 @@ Sealed Eyepatch α,Fire Resistance,1,,
 Shadow Shades α,Stun Resistance,1,,
 Kulu-Ya-Ku Head α,Pro Transporter,1,,
 Wiggler Head α,Wide-Range,2,,
+Bone Helm α+,Health Boost,2,Partbreaker,1
+Bone Mail α+,Attack Boost,2,Health Boost,1
+Bone Vambraces α+,Slugger,2,Attack Boost,1
+Bone Coil α+,Horn Maestro,1,Partbreaker,1
+Bone Greaves α+,Slugger,1,Horn Maestro,1
+Bone Helm β+,Health Boost,1,Partbreaker,1
+Bone Mail β+,Attack Boost,1,,
+Bone Vambraces β+,Slugger,1,,
+Bone Coil β+,Horn Maestro,1,,
+Bone Greaves β+,Slugger,1,,
+Alloy Helm α+,Windproof,2,Defense Boost,1
+Alloy Mail α+,Water Resistance,2,Defense Boost,1
+Alloy Vambraces α+,Defense Boost,2,Speed Sharpening,1
+Alloy Coil α+,Poison Resistance,2,Windproof,1
+Alloy Greaves α+,Speed Sharpening,2,Windproof,1
+Alloy Helm β+,Windproof,1,,
+Alloy Mail β+,Water Resistance,1,,
+Alloy Vambraces β+,Defense Boost,1,,
+Alloy Coil β+,Poison Resistance,1,Windproof,1
+Alloy Greaves β+,Speed Sharpening,1,Windproof,1
+Vespoid Helm α+,Quick Sheath,1,Paralysis Attack,1
+Vespoid Mail α+,Windproof,2,,
+Vespoid Vambraces α+,Paralysis Attack,2,Quick Sheath,1
+Vespoid Coil α+,Paralysis Resistance,2,Quick Sheath,1
+Vespoid Greaves α+,Critical Draw,1,Paralysis Resistance,1
+Vespoid Helm β+,Quick Sheath,1,,
+Vespoid Mail β+,Windproof,1,,
+Vespoid Vambraces β+,Paralysis Attack,1,,
+Vespoid Coil β+,Paralysis Resistance,1,,
+Vespoid Greaves β+,Critical Draw,1,,
+Hornetaur Helm α+,Weakness Exploit,1,Dragon Attack,2
+Hornetaur Mail α+,Effluvial Expert,1,Hunger Resistance,2
+Hornetaur Vambraces α+,Free Meal,1,Handicraft,1
+Hornetaur Coil α+,Weakness Exploit,1,Hunger Resistance,1
+Hornetaur Greaves α+,Handicraft,1,Dragon Attack,1
+Hornetaur Helm β+,Weakness Exploit,1,Dragon Attack,1
+Hornetaur Mail β+,Effluvial Expert,1,,
+Hornetaur Vambraces β+,Free Meal,1,,
+Hornetaur Coil β+,Weakness Exploit,1,,
+Hornetaur Greaves β+,Handicraft,1,,
+Kestodon Guards α+,Affinity Sliding,1,Focus,2
+Kestodon Guards β+,Affinity Sliding,1,Focus,1
+Gajau Boots α+,Aquatic/Polar Mobility,2,Water Attack,2
+Gajau Boots β+,Aquatic/Polar Mobility,1,Water Attack,1
+Shamos Goggles α+,Detector,1,Geologist,2
+Shamos Goggles β+,Detector,1,Geologist,1

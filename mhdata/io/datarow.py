@@ -56,10 +56,11 @@ class DataRow(MutableMapping):
         if key in self._data:
             return self._data[key]
         elif '_' in key:
-            parts = key.rsplit('_', 1)
-            return self._data[parts[0]][parts[1]]
-        else:
-            raise KeyError(f'No entry with {key} found in data row')
+            key1, key2 = key.rsplit('_', 1)
+            if key1 in self._data and key2 in self._data[key1]:
+                return self._data[key1][key2]
+            
+        raise KeyError(f'No entry with {key} found in data row')
 
     def __setitem__(self, key, value):
         self._data[key] = value
