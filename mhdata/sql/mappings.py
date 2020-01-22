@@ -628,7 +628,7 @@ class Charm(Base):
     rarity = Column(Integer)
     
     previous_id = Column(Integer, ForeignKey('charm.id'))
-    recipe_id = Column(Integer, ForeignKey('recipe_item.recipe_id'))
+    recipe_id = Column(ForeignKey('recipe_item.recipe_id'), nullable=True)
 
     skills = relationship('CharmSkill')
     craft_items = relationship('RecipeItem', uselist=True)

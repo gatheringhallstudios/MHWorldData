@@ -693,6 +693,8 @@ def build_kinsects(session: sqlalchemy.orm.Session, mhdata):
         if recipe:
             for item, quantity in datafn.iter_recipe(recipe):
                 item_id = mhdata.item_map.id_of("en", item)
+                ensure(item_id, f"Kinsect {entry.name('en')} refers to " +
+                    f"item {item}, which doesn't exist.")
                 kinsect.craft_items.append(db.RecipeItem(
                     recipe_id=next_recipe_id,
                     item_id=item_id,
@@ -744,6 +746,9 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     skill_map = mhdata.skill_map
     charm_map = mhdata.charm_map
 
+    # Store next recipe id ahead of time
+    next_recipe_id = calculate_next_recipe_id(session)
+
     for order_id, entry in enumerate(charm_map.values()):
         # Note: previous is ok to be None
         previous = charm_map.id_of('en', entry['previous_en'])
@@ -765,7 +770,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
         for skill_en, level in entry['skills'].items():
             skill_id = skill_map.id_of('en', skill_en)
             ensure(skill_id, f"Charm {entry.name('en')} refers to " +
-                f"item {skill_en}, which doesn't exist.")
+                f"skill {skill_en}, which doesn't exist.")
 
             charm.skills.append(db.CharmSkill(
                 skilltree_id=skill_id,
@@ -774,17 +779,17 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
         # Add Charm Recipe
         if entry['craft']:
-            charm.recipe_id = calculate_next_recipe_id(session)
             for item_en, quantity in entry['craft'].items():
                 item_id = item_map.id_of('en', item_en)
                 ensure(item_id, f"Charm {entry.name('en')} refers to " +
                     f"item {item_en}, which doesn't exist.")
 
                 charm.craft_items.append(db.RecipeItem(
-                    recipe_id=charm.recipe_id,
+                    recipe_id=next_recipe_id,
                     item_id=item_id,
                     quantity=quantity
                 ))
+            next_recipe_id += 1
 
         session.add(charm)
 
