@@ -127,6 +127,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 123,Lightcrystal,material,,5,,1150,,,Ore,Gray
 124,Novacrystal,material,,7,,2440,,,Ore,White
 125,Firecell Stone,material,,7,,1720,,,Ore,Beige
+695,Bathycite Ore,material,,9,,1620,,,,
+696,Gracium,material,,9,,1540,,,,
 126,Aquacore Ore,material,,4,,400,,,CharmOre,Blue
 127,Spiritcore Ore,material,,6,,800,,,CharmOre,Gray
 128,Dreamcore Ore,material,,7,,1200,,,CharmOre,Violet
@@ -140,6 +142,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 140,Warped Bone,material,,4,,800,,,Bone,DarkBeige
 141,Brutal Bone,material,,6,,1200,,,Bone,Gray
 143,Unknown Skull,material,,7,,1800,,,Bone,Gold
+697,Frozen Bone,material,,9,,2400,,,,
 142,Dragonbone Relic,material,,7,,1600,,,Bone,White
 130,Armor Sphere,material,,4,,80,,,Sphere,Blue
 131,Armor Sphere+,material,,5,,200,,,Sphere,Green
@@ -164,24 +167,32 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 688,Monster Essence,material,,9,,2000,,,,
 157,Poison Sac,material,,4,,600,,,Sac,Violet
 158,Toxin Sac,material,,6,,1600,,,Sac,Violet
+698,Deadly Poison Sac,material,,9,,3400,,,,
 159,Paralysis Sac,material,,4,,800,,,Sac,Yellow
 160,Omniplegia Sac,material,,6,,1600,,,Sac,Yellow
+699,Ultraplegia Sac,material,,9,,3400,,,,
 161,Sleep Sac,material,,4,,800,,,Sac,Blue
 162,Coma Sac,material,,6,,1600,,,Sac,Blue
 163,Flame Sac,material,,4,,800,,,Sac,Red
 164,Inferno Sac,material,,6,,1600,,,Sac,Red
+700,Conflagrant Sac,material,,9,,3400,,,,
 165,Aqua Sac,material,,4,,600,,,Sac,Cyan
 166,Torrent Sac,material,,6,,1600,,,Sac,Cyan
+701,Flood Sac,material,,9,,3400,,,,
 167,Frost Sac,material,,4,,1000,,,Sac,White
 168,Freezer Sac,material,,6,,2400,,,Sac,White
+702,Cryo Sac,material,,9,,4200,,,,
 169,Electro Sac,material,,4,,1000,,,Sac,Gold
 170,Thunder Sac,material,,6,,1600,,,Sac,Gold
+703,Lightning Sac,material,,9,,3400,,,,
 171,Bird Wyvern Gem,material,,7,,4000,,,Gem,Blue
 172,Wyvern Gem,material,,7,,4000,,,Gem,Cyan
 173,Elder Dragon Blood,material,,7,,1600,,,Liquid,Red
 174,Mosswine Hide,material,,4,,200,,,Hide,DarkGreen
 175,Warm Pelt,material,,4,,120,,,Hide,Green
 176,High-quality Pelt,material,,6,,320,,,Hide,Beige
+704,Prized Pelt,material,,9,,1020,,,,
+705,Anteka Antler,material,,9,,460,,,,
 177,Vespoid Shell,material,,4,,160,,,Bug,Gold
 179,Vespoid Carapace,material,,6,,460,,,Bug,Gold
 178,Vespoid Wing,material,,4,,210,,,Webbing,Gold
@@ -201,16 +212,21 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 692,Steel Gajau Whisker,material,,9,,1920,,,,
 190,Wingdrake Hide,material,,4,,180,,,Wing,DarkBeige
 191,Wingdrake Hide+,material,,6,,380,,,Wing,DarkBeige
+706,Wingdrake Finehide,material,,9,,1240,,,,
 192,Barnos Hide+,material,,6,,720,,,Hide,DarkBeige
 193,Barnos Talon,material,,6,,820,,,Fang,DarkBeige
+707,Barnos Hardclaw,material,,9,,2280,,,,
+708,Cortos Hardclaw,material,,9,,1450,,,,
 194,Kestodon Shell,material,,4,,180,,,Carapace,Beige
 196,Kestodon Carapace,material,,6,,430,,,Carapace,Beige
 693,Kestodon Husk,material,,9,,1320,,,,
 195,Kestodon Scalp,material,,4,,230,,,Jaw,Beige
 197,Gastodon Carapace,material,,6,,760,,,Carapace,DarkRed
+709,Gastodon Husk,material,,9,,2140,,,,
 198,Gastodon Horn,material,,6,,860,,,Fang,DarkRed
 199,Jagras Scale,material,,4,,140,,,Scale,Gold
 201,Jagras Scale+,material,,6,,340,,,Scale,Gold
+710,Jagras Shard,material,,9,,960,,,,
 200,Jagras Hide,material,,4,,180,,,Hide,Gold
 202,Jagras Hide+,material,,6,,480,,,Hide,Gold
 203,Shamos Scale,material,,4,,220,,,Scale,Red
@@ -220,68 +236,121 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 206,Shamos Hide+,material,,6,,480,,,Hide,Red
 207,Girros Scale,material,,4,,240,,,Scale,Gray
 210,Girros Scale+,material,,6,,460,,,Scale,Gray
+711,Girros Shard,material,,9,,1760,,,,
 208,Girros Hide,material,,4,,300,,,Hide,Gray
 211,Girros Hide+,material,,6,,520,,,Hide,Gray
 209,Girros Fang,material,,4,,260,,,Fang,Yellow
+712,Wulg Thickfur,material,,9,,1240,,,,
 212,Great Jagras Scale,material,,4,,260,,,Scale,Gold
 216,Great Jagras Scale+,material,,6,,860,,,Scale,Gold
+713,Great Jagras Shard,material,,9,,1320,,,,
 213,Great Jagras Hide,material,,4,,360,,,Hide,Gold
 217,Great Jagras Hide+,material,,6,,1220,,,Hide,Gold
+714,Great Jagras Thickhide,material,,9,,1840,,,,
 215,Great Jagras Claw,material,,4,,420,,,Fang,Gold
 218,Great Jagras Claw+,material,,6,,1620,,,Fang,Gold
+715,Great Jagras Hardclaw,material,,9,,2440,,,,
 214,Great Jagras Mane,material,,4,,440,,,Body,Gold
+716,Great Jagras Mane+,material,,9,,2480,,,,
 219,Kulu-Ya-Ku Scale,material,,4,,290,,,Scale,Beige
 223,Kulu-Ya-Ku Scale+,material,,6,,890,,,Scale,Beige
+717,Kulu-Ya-Ku Shard,material,,9,,1350,,,,
 220,Kulu-Ya-Ku Hide,material,,4,,390,,,Hide,Beige
 224,Kulu-Ya-Ku Hide+,material,,6,,1290,,,Hide,Beige
+718,Kulu-Ya-Ku Thickhide,material,,9,,1950,,,,
 221,Kulu-Ya-Ku Plume,material,,4,,460,,,Body,Orange
 225,Kulu-Ya-Ku Plume+,material,,6,,1660,,,Body,Orange
+719,Large Kulu-Ya-Ku Plume,material,,9,,2500,,,,
 222,Kulu-Ya-Ku Beak,material,,4,,490,,,Jaw,Beige
 226,Kulu-Ya-Ku Beak+,material,,6,,1660,,,Jaw,Beige
+720,Large Kulu-Ya-Ku Beak,material,,9,,2550,,,,
 227,Pukei-Pukei Scale,material,,4,,360,,,Scale,Lime
 232,Pukei-Pukei Scale+,material,,6,,950,,,Scale,Lime
+721,Pukei-Pukei Shard,material,,9,,1580,,,,
 228,Pukei-Pukei Shell,material,,4,,470,,,Carapace,Lime
 233,Pukei-Pukei Carapace,material,,6,,1350,,,Carapace,Lime
+722,Pukei-Pukei Cortex,material,,9,,2220,,,,
 229,Pukei-Pukei Quill,material,,4,,640,,,Wing,Lime
 234,Pukei-Pukei Wing,material,,6,,1700,,,Wing,Lime
+723,Pukei-Pukei Fellwing,material,,9,,2920,,,,
 230,Pukei-Pukei Sac,material,,4,,660,,,Sac,Lime
 235,Pukei-Pukei Sac+,material,,6,,1750,,,Sac,Lime
+724,Large Pukei-Pukei Sac,material,,9,,2980,,,,
 231,Pukei-Pukei Tail,material,,4,,620,,,Tail,Lime
+725,Pukei-Pukei Lash,material,,9,,2860,,,,
+726,Coral Pukei-Pukei Shard,material,,9,,2340,,,,
+727,Coral Pukei-Pukei Cortex,material,,9,,3360,,,,
+728,Coral Pukei-Pukei Fellwing,material,,9,,4460,,,,
+729,Large Coral Pukei-Pukei Sac,material,,9,,4540,,,,
+730,Coral Pukei-Pukei Lash,material,,9,,4380,,,,
 236,Barroth Shell,material,,4,,330,,,Carapace,Beige
 242,Barroth Carapace,material,,6,,870,,,Carapace,Beige
+731,Barroth Cortex,material,,9,,1470,,,,
 237,Barroth Ridge,material,,4,,480,,,Body,Beige
 243,Barroth Ridge+,material,,6,,1270,,,Body,Beige
+732,Barroth Chine,material,,9,,2170,,,,
 238,Barroth Claw,material,,4,,630,,,Fang,Beige
 244,Barroth Claw+,material,,6,,1670,,,Fang,Beige
+733,Barroth Hardclaw,material,,9,,2870,,,,
 239,Barroth Scalp,material,,4,,870,,,Jaw,Beige
+734,Barroth Crown,material,,9,,3430,,,,
 240,Barroth Tail,material,,4,,800,,,Tail,Beige
+735,Barroth Lash,material,,9,,3280,,,,
 241,Fertile Mud,material,,4,,390,,,Dung,Beige
+736,Rich Mud,material,,9,,1610,,,,
 245,Jyuratodus Scale,material,,4,,340,,,Scale,LightBeige
 249,Jyuratodus Scale+,material,,6,,1040,,,Scale,LightBeige
+737,Jyuratodus Shard,material,,9,,1480,,,,
 246,Jyuratodus Shell,material,,4,,490,,,Carapace,LightBeige
 250,Jyuratodus Carapace,material,,6,,1540,,,Carapace,LightBeige
+738,Jyuratodus Cortex,material,,9,,2180,,,,
 247,Jyuratodus Fang,material,,4,,640,,,Fang,LightBeige
 251,Jyuratodus Fang+,material,,6,,2040,,,Fang,LightBeige
+739,Jyuratodus Hardfang,material,,9,,2880,,,,
 248,Jyuratodus Fin,material,,4,,720,,,Body,LightBeige
 252,Jyuratodus Fin+,material,,6,,2120,,,Body,LightBeige
+740,Jyuratodus Grandfin,material,,9,,3040,,,,
+741,Beotodus Shard,material,,9,,1530,,,,
+742,Beotodus Cortex,material,,9,,2230,,,,
+743,Beotodus Hardhorn,material,,9,,2930,,,,
+744,Beotodus Grandfin,material,,9,,3190,,,,
 253,Tobi-Kadachi Scale,material,,4,,360,,,Scale,Cyan
 258,Tobi-Kadachi Scale+,material,,6,,1050,,,Scale,Cyan
+745,Tobi-Kadachi Shard,material,,9,,1490,,,,
 254,Tobi-Kadachi Pelt,material,,4,,510,,,Hide,Cyan
 259,Tobi-Kadachi Pelt+,material,,6,,1550,,,Hide,Cyan
+746,Tobi-Kadachi Thickfur,material,,9,,2190,,,,
 255,Tobi-Kadachi Membrane,material,,4,,800,,,Wing,Cyan
+747,Tobi-Kadachi Membrane+,material,,9,,3200,,,,
 256,Tobi-Kadachi Claw,material,,4,,660,,,Fang,Cyan
 260,Tobi-Kadachi Claw+,material,,6,,1650,,,Fang,Cyan
+748,Tobi-Kadachi Hardclaw,material,,9,,2890,,,,
 257,Tobi-Kadachi Electrode,material,,4,,720,,,Body,Cyan
 261,Tobi-Kadachi Electrode+,material,,6,,1750,,,Body,Cyan
+749,Tobi-Kadachi Cathode,material,,9,,3070,,,,
+750,Viper Tobi-Kadachi Shard,material,,9,,2190,,,,
+751,Viper Tobi-Kadachi Thickfur,material,,9,,3290,,,,
+752,Viper Tobi-Kadachi Membrane+,material,,9,,4700,,,,
+753,Viper Tobi-Kadachi Hardclaw,material,,9,,4390,,,,
+754,Viper Tobi-Kadachi Thorn,material,,9,,4570,,,,
+755,Banbaro Cortex,material,,9,,1540,,,,
+756,Banbaro Chine,material,,9,,2240,,,,
+757,Banbaro Great Horn,material,,9,,2940,,,,
+758,Banbaro Lash,material,,9,,3220,,,,
 262,Anjanath Scale,material,,4,,430,,,Scale,Pink
 268,Anjanath Scale+,material,,6,,1060,,,Scale,Pink
+759,Anjanath Shard,material,,9,,2160,,,,
 263,Anjanath Pelt,material,,4,,630,,,Hide,Pink
 269,Anjanath Pelt+,material,,6,,1560,,,Hide,Pink
+760,Anjanath Fur,material,,9,,3260,,,,
 264,Anjanath Fang,material,,4,,830,,,Fang,Pink
 270,Anjanath Fang+,material,,6,,2060,,,Fang,Pink
+761,Anjanath Hardfang,material,,9,,4360,,,,
 265,Anjanath Nosebone,material,,4,,890,,,Bone,Pink
 271,Anjanath Nosebone+,material,,6,,2120,,,Bone,Pink
+762,Heavy Anjanath Nosebone,material,,9,,4480,,,,
 266,Anjanath Tail,material,,4,,860,,,Tail,Pink
+763,Anjanath Lash,material,,9,,4420,,,,
 267,Anjanath Plate,material,,5,,2400,,,Plate,Pink
 272,Anjanath Gem,material,,7,,6000,,,Gem,Pink
 273,Rathian Scale,material,,4,,460,,,Scale,Green
@@ -297,12 +366,16 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 283,Pink Rathian Carapace,material,,6,,1860,,,Carapace,Pink
 284,Tzitzi-Ya-Ku Scale,material,,4,,440,,,Scale,Blue
 288,Tzitzi-Ya-Ku Scale+,material,,6,,840,,,Scale,Blue
+764,Tzitzi-Ya-Ku Shard,material,,9,,1300,,,,
 285,Tzitzi-Ya-Ku Hide,material,,4,,640,,,Hide,Blue
 289,Tzitzi-Ya-Ku Hide+,material,,6,,1240,,,Hide,Blue
+765,Tzitzi-Ya-Ku Thickhide,material,,9,,1900,,,,
 286,Tzitzi-Ya-Ku Claw,material,,4,,840,,,Fang,Blue
 290,Tzitzi-Ya-Ku Claw+,material,,6,,1640,,,Fang,Blue
+766,Tzitzi-Ya-Ku Hardclaw,material,,9,,2500,,,,
 287,Tzitzi-Ya-Ku Photophore,material,,4,,920,,,Body,Blue
 291,Tzitzi-Ya-Ku Photophore+,material,,6,,1680,,,Body,Blue
+767,Tzitzi-Ya-Ku Photomembrane,material,,9,,2600,,,,
 292,Paolumu Pelt,material,,4,,650,,,Hide,White
 296,Paolumu Pelt+,material,,6,,1570,,,Hide,White
 293,Paolumu Scale,material,,4,,450,,,Scale,White
@@ -313,13 +386,18 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 299,Paolumu Wing,material,,6,,2070,,,Wing,White
 300,Great Girros Scale,material,,4,,450,,,Scale,Gray
 305,Great Girros Scale+,material,,6,,1060,,,Scale,Gray
+768,Great Girros Shard,material,,9,,1310,,,,
 301,Great Girros Hide,material,,4,,650,,,Hide,Gray
 306,Great Girros Hide+,material,,6,,1560,,,Hide,Gray
+769,Great Girros Thickhide,material,,9,,1910,,,,
 302,Great Girros Hood,material,,4,,950,,,Body,Gray
 307,Great Girros Hood+,material,,6,,2180,,,Body,Gray
+770,Great Girros Hardhood,material,,9,,2730,,,,
 303,Great Girros Fang,material,,4,,750,,,Fang,Gray
 308,Great Girros Fang+,material,,6,,2060,,,Fang,Gray
+771,Great Girros Hardfang,material,,9,,2130,,,,
 304,Great Girros Tail,material,,4,,850,,,Tail,Gray
+772,Great Girros Lash,material,,9,,2510,,,,
 309,Radobaan Scale,material,,4,,480,,,Scale,White
 314,Radobaan Scale+,material,,6,,1080,,,Scale,White
 310,Radobaan Shell,material,,4,,680,,,Carapace,White
@@ -380,10 +458,15 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 366,Black Diablos Ridge+,material,,6,,2150,,,Body,Gray
 367,Black Spiral Horn+,material,,6,,5700,,,Fang,Gray
 381,Dodogama Scale+,material,,6,,1030,,,Scale,Blue
+773,Dodogama Shard,material,,9,,1520,,,,
 382,Dodogama Hide+,material,,6,,1530,,,Hide,Blue
+774,Dodogama Thickhide,material,,9,,2220,,,,
 383,Dodogama Jaw,material,,6,,2120,,,Jaw,Blue
+775,Dodogama Mandible,material,,9,,3280,,,,
 384,Dodogama Talon,material,,6,,2060,,,Fang,Blue
+776,Dodogama Hardclaw,material,,9,,3040,,,,
 385,Dodogama Tail,material,,6,,2210,,,Tail,Blue
+777,Dodogama Lash,material,,9,,3520,,,,
 386,Lavasioth Scale+,material,,6,,1280,,,Scale,Gray
 387,Lavasioth Carapace,material,,6,,1880,,,Carapace,Gray
 388,Lavasioth Fang+,material,,6,,2480,,,Fang,Gray

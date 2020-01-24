@@ -313,10 +313,20 @@ class ArmorData:
         ][self.binary.equip_slot]
 
     @property
+    def rarity(self):
+        "Rarity of the armor (1 indexed)"
+        return self.binary.rarity + 1
+
+    @property
     def rank(self):
         # TODO: Once Iceborne releases, handle master rank
         # current variants are lowrank/alpha/beta+gamma
-        return 'LR' if self.binary.variant == 0 else 'HR'
+        if self.binary.variant == 0:
+            return 'LR'
+        elif self.rarity < 9:
+            return 'HR'
+        else:
+            return 'MR'
 
 class ArmorSetData:
     def __init__(self, name, armors: Iterable[ArmorData]):

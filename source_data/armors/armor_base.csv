@@ -827,3 +827,161 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 826,Gajau Boots β+,9,legs,both,4,1,0,116,120,154,0,5,0,0,0
 827,Shamos Goggles α+,9,head,both,2,1,0,116,120,154,2,2,0,-3,0
 828,Shamos Goggles β+,9,head,both,4,2,0,116,120,154,2,2,0,-3,0
+829,Gastodon Horn α+,9,head,both,1,0,0,116,120,154,3,0,0,0,0
+830,Gastodon Horn β+,9,head,both,4,1,0,116,120,154,3,0,0,0,0
+831,Barnos Jacket α+,9,chest,both,2,2,0,116,120,154,1,1,0,1,-2
+832,Barnos Jacket β+,9,chest,both,4,2,0,116,120,154,1,1,0,1,-2
+833,Wulg Scarf α+,9,head,both,2,1,0,116,120,154,-3,2,-2,3,2
+834,Wulg Scarf β+,9,head,both,4,1,0,116,120,154,-3,2,-2,3,2
+835,Cortos Cape α+,9,chest,both,1,1,0,116,120,154,-3,2,0,2,0
+836,Cortos Cape β+,9,chest,both,4,0,0,116,120,154,-3,2,0,2,0
+837,Jagras Helm α+,9,head,both,2,0,0,116,120,154,-2,2,-1,-1,1
+838,Jagras Mail α+,9,chest,both,3,0,0,116,120,154,-2,2,-1,-1,1
+839,Jagras Vambraces α+,9,arms,both,2,0,0,116,120,154,-2,2,-1,-1,1
+840,Jagras Coil α+,9,waist,both,2,1,0,116,120,154,-2,2,-1,-1,1
+841,Jagras Greaves α+,9,legs,both,2,1,0,116,120,154,-2,2,-1,-1,1
+842,Jagras Helm β+,9,head,both,4,1,0,116,120,154,-2,2,-1,-1,1
+843,Jagras Mail β+,9,chest,both,4,0,0,116,120,154,-2,2,-1,-1,1
+844,Jagras Vambraces β+,9,arms,both,4,0,0,116,120,154,-2,2,-1,-1,1
+845,Jagras Coil β+,9,waist,both,4,1,0,116,120,154,-2,2,-1,-1,1
+846,Jagras Greaves β+,9,legs,both,4,1,0,116,120,154,-2,2,-1,-1,1
+847,Tzitzi Headgear α+,9,head,both,2,1,0,116,120,154,0,0,-3,-2,0
+848,Tzitzi Mail α+,9,chest,both,1,1,0,116,120,154,0,0,-3,-2,0
+849,Tzitzi Vambraces α+,9,arms,both,2,0,0,116,120,154,0,0,-3,-2,0
+850,Tzitzi Coil α+,9,waist,both,2,0,0,116,120,154,0,0,-3,-2,0
+851,Tzitzi Greaves α+,9,legs,both,3,0,0,116,120,154,0,0,-3,-2,0
+852,Tzitzi Headgear β+,9,head,both,4,1,0,116,120,154,0,0,-3,-2,0
+853,Tzitzi Mail β+,9,chest,both,4,1,0,116,120,154,0,0,-3,-2,0
+854,Tzitzi Vambraces β+,9,arms,both,4,0,0,116,120,154,0,0,-3,-2,0
+855,Tzitzi Coil β+,9,waist,both,4,1,0,116,120,154,0,0,-3,-2,0
+856,Tzitzi Greaves β+,9,legs,both,4,0,0,116,120,154,0,0,-3,-2,0
+857,Girros Headgear α+,9,head,both,2,0,0,116,120,154,0,-3,2,0,1
+858,Girros Mail α+,9,chest,both,2,0,0,116,120,154,0,-3,2,0,1
+859,Girros Vambraces α+,9,arms,both,1,0,0,116,120,154,0,-3,2,0,1
+860,Girros Coil α+,9,waist,both,3,0,0,116,120,154,0,-3,2,0,1
+861,Girros Greaves α+,9,legs,both,1,0,0,116,120,154,0,-3,2,0,1
+862,Girros Headgear β+,9,head,both,4,0,0,116,120,154,0,-3,2,0,1
+863,Girros Mail β+,9,chest,both,4,2,0,116,120,154,0,-3,2,0,1
+864,Girros Vambraces β+,9,arms,both,4,0,0,116,120,154,0,-3,2,0,1
+865,Girros Coil β+,9,waist,both,4,2,0,116,120,154,0,-3,2,0,1
+866,Girros Greaves β+,9,legs,both,4,0,0,116,120,154,0,-3,2,0,1
+867,Dodogama Helm α+,9,head,both,3,0,0,120,124,158,2,0,-3,0,2
+868,Dodogama Mail α+,9,chest,both,2,0,0,120,124,158,2,0,-3,0,2
+869,Dodogama Vambraces α+,9,arms,both,2,0,0,120,124,158,2,0,-3,0,2
+870,Dodogama Coil α+,9,waist,both,2,1,0,120,124,158,2,0,-3,0,2
+871,Dodogama Greaves α+,9,legs,both,2,1,0,120,124,158,2,0,-3,0,2
+872,Dodogama Helm β+,9,head,both,4,0,0,120,124,158,2,0,-3,0,2
+873,Dodogama Mail β+,9,chest,both,4,0,0,120,124,158,2,0,-3,0,2
+874,Dodogama Vambraces β+,9,arms,both,4,0,0,120,124,158,2,0,-3,0,2
+875,Dodogama Coil β+,9,waist,both,4,1,0,120,124,158,2,0,-3,0,2
+876,Dodogama Greaves β+,9,legs,both,4,1,0,120,124,158,2,0,-3,0,2
+877,Kulu Headpiece α+,9,head,both,1,0,0,116,120,154,0,-3,0,1,0
+878,Kulu Mail α+,9,chest,both,2,0,0,116,120,154,0,-3,0,1,0
+879,Kulu Vambraces α+,9,arms,both,1,1,0,116,120,154,0,-3,0,1,0
+880,Kulu Coil α+,9,waist,both,3,0,0,116,120,154,0,-3,0,1,0
+881,Kulu Greaves α+,9,legs,both,2,0,0,116,120,154,0,-3,0,1,0
+882,Kulu Headpiece β+,9,head,both,4,0,0,116,120,154,0,-3,0,1,0
+883,Kulu Mail β+,9,chest,both,4,0,0,116,120,154,0,-3,0,1,0
+884,Kulu Vambraces β+,9,arms,both,4,0,0,116,120,154,0,-3,0,1,0
+885,Kulu Coil β+,9,waist,both,4,1,0,116,120,154,0,-3,0,1,0
+886,Kulu Greaves β+,9,legs,both,4,0,0,116,120,154,0,-3,0,1,0
+887,Pukei Hat α+,9,head,both,2,2,0,118,122,156,0,3,-3,0,1
+888,Pukei Mail α+,9,chest,both,2,0,0,118,122,156,0,3,-3,0,1
+889,Pukei Vambraces α+,9,arms,both,1,0,0,118,122,156,0,3,-3,0,1
+890,Pukei Coil α+,9,waist,both,3,0,0,118,122,156,0,3,-3,0,1
+891,Pukei Greaves α+,9,legs,both,3,0,0,118,122,156,0,3,-3,0,1
+892,Pukei Hat β+,9,head,both,4,1,1,118,122,156,0,3,-3,0,1
+893,Pukei Mail β+,9,chest,both,4,0,0,118,122,156,0,3,-3,0,1
+894,Pukei Vambraces β+,9,arms,both,4,0,0,118,122,156,0,3,-3,0,1
+895,Pukei Coil β+,9,waist,both,4,1,0,118,122,156,0,3,-3,0,1
+896,Pukei Greaves β+,9,legs,both,4,2,0,118,122,156,0,3,-3,0,1
+897,Pukei Lagoon Hat α+,9,head,both,1,0,0,132,136,170,0,3,-2,-3,0
+898,Pukei Lagoon Mail α+,9,chest,both,2,0,0,132,136,170,0,3,-2,-3,0
+899,Pukei Lagoon Braces α+,9,arms,both,1,0,0,132,136,170,0,3,-2,-3,0
+900,Pukei Lagoon Coil α+,9,waist,both,2,0,0,132,136,170,0,3,-2,-3,0
+901,Pukei Lagoon Greaves α+,9,legs,both,1,0,0,132,136,170,0,3,-2,-3,0
+902,Pukei Lagoon Hat β+,9,head,both,4,0,0,132,136,170,0,3,-2,-3,0
+903,Pukei Lagoon Mail β+,9,chest,both,4,1,0,132,136,170,0,3,-2,-3,0
+904,Pukei Lagoon Braces β+,9,arms,both,4,1,0,132,136,170,0,3,-2,-3,0
+905,Pukei Lagoon Coil β+,9,waist,both,4,0,0,132,136,170,0,3,-2,-3,0
+906,Pukei Lagoon Greaves β+,9,legs,both,4,1,0,132,136,170,0,3,-2,-3,0
+907,Barroth Helm α+,9,head,both,2,0,0,118,122,156,-3,-1,3,-1,0
+908,Barroth Mail α+,9,chest,both,1,1,0,118,122,156,-3,-1,3,-1,0
+909,Barroth Vambraces α+,9,arms,both,3,1,0,118,122,156,-3,-1,3,-1,0
+910,Barroth Coil α+,9,waist,both,1,0,0,118,122,156,-3,-1,3,-1,0
+911,Barroth Greaves α+,9,legs,both,3,1,0,118,122,156,-3,-1,3,-1,0
+912,Barroth Helm β+,9,head,both,4,1,0,118,122,156,-3,-1,3,-1,0
+913,Barroth Mail β+,9,chest,both,4,1,0,118,122,156,-3,-1,3,-1,0
+914,Barroth Vambraces β+,9,arms,both,4,2,0,118,122,156,-3,-1,3,-1,0
+915,Barroth Coil β+,9,waist,both,4,0,0,118,122,156,-3,-1,3,-1,0
+916,Barroth Greaves β+,9,legs,both,4,2,1,118,122,156,-3,-1,3,-1,0
+917,Jyura Helm α+,9,head,both,1,1,0,118,122,156,-1,2,-3,0,0
+918,Jyura Mail α+,9,chest,both,2,0,0,118,122,156,-1,2,-3,0,0
+919,Jyura Vambraces α+,9,arms,both,2,1,0,118,122,156,-1,2,-3,0,0
+920,Jyura Coil α+,9,waist,both,3,0,0,118,122,156,-1,2,-3,0,0
+921,Jyura Greaves α+,9,legs,both,2,0,0,118,122,156,-1,2,-3,0,0
+922,Jyura Helm β+,9,head,both,4,1,0,118,122,156,-1,2,-3,0,0
+923,Jyura Mail β+,9,chest,both,4,0,0,118,122,156,-1,2,-3,0,0
+924,Jyura Vambraces β+,9,arms,both,4,2,0,118,122,156,-1,2,-3,0,0
+925,Jyura Coil β+,9,waist,both,4,1,0,118,122,156,-1,2,-3,0,0
+926,Jyura Greaves β+,9,legs,both,4,1,0,118,122,156,-1,2,-3,0,0
+927,Beo Helm α+,9,head,both,2,0,0,118,122,156,-3,0,-2,3,2
+928,Beo Mail α+,9,chest,both,3,0,0,118,122,156,-3,0,-2,3,2
+929,Beo Vambraces α+,9,arms,both,3,0,0,118,122,156,-3,0,-2,3,2
+930,Beo Coil α+,9,waist,both,2,0,0,118,122,156,-3,0,-2,3,2
+931,Beo Greaves α+,9,legs,both,2,0,0,118,122,156,-3,0,-2,3,2
+932,Beo Helm β+,9,head,both,4,1,0,118,122,156,-3,0,-2,3,2
+933,Beo Mail β+,9,chest,both,4,2,0,118,122,156,-3,0,-2,3,2
+934,Beo Vambraces β+,9,arms,both,4,0,0,118,122,156,-3,0,-2,3,2
+935,Beo Coil β+,9,waist,both,4,1,0,118,122,156,-3,0,-2,3,2
+936,Beo Greaves β+,9,legs,both,4,0,0,118,122,156,-3,0,-2,3,2
+937,Kadachi Hat α+,9,head,both,2,0,0,120,124,158,0,-3,3,0,0
+938,Kadachi Mail α+,9,chest,both,2,1,0,120,124,158,0,-3,3,0,0
+939,Kadachi Vambraces α+,9,arms,both,2,0,0,120,124,158,0,-3,3,0,0
+940,Kadachi Coil α+,9,waist,both,3,1,0,120,124,158,0,-3,3,0,0
+941,Kadachi Greaves α+,9,legs,both,3,1,0,120,124,158,0,-3,3,0,0
+942,Kadachi Hat β+,9,head,both,4,1,0,120,124,158,0,-3,3,0,0
+943,Kadachi Mail β+,9,chest,both,4,2,0,120,124,158,0,-3,3,0,0
+944,Kadachi Vambraces β+,9,arms,both,4,2,0,120,124,158,0,-3,3,0,0
+945,Kadachi Coil β+,9,waist,both,4,1,0,120,124,158,0,-3,3,0,0
+946,Kadachi Greaves β+,9,legs,both,4,1,1,120,124,158,0,-3,3,0,0
+947,Viper Kadachi Hat α+,9,head,both,1,0,0,132,136,170,1,3,-3,-2,1
+948,Viper Kadachi Mail α+,9,chest,both,1,1,0,132,136,170,1,3,-3,-2,1
+949,Viper Kadachi Braces α+,9,arms,both,2,0,0,132,136,170,1,3,-3,-2,1
+950,Viper Kadachi Coil α+,9,waist,both,2,0,0,132,136,170,1,3,-3,-2,1
+951,Viper Kadachi Greaves α+,9,legs,both,2,0,0,132,136,170,1,3,-3,-2,1
+952,Viper Kadachi Hat β+,9,head,both,4,0,0,132,136,170,1,3,-3,-2,1
+953,Viper Kadachi Mail β+,9,chest,both,4,1,0,132,136,170,1,3,-3,-2,1
+954,Viper Kadachi Braces β+,9,arms,both,4,0,0,132,136,170,1,3,-3,-2,1
+955,Viper Kadachi Coil β+,9,waist,both,4,1,0,132,136,170,1,3,-3,-2,1
+956,Viper Kadachi Greaves β+,9,legs,both,4,1,0,132,136,170,1,3,-3,-2,1
+957,High Metal Helm α+,9,head,both,2,0,0,128,132,166,0,-1,-2,3,0
+958,High Metal Mail α+,9,chest,both,2,0,0,128,132,166,0,-1,-2,3,0
+959,High Metal Braces α+,9,arms,both,2,1,0,128,132,166,0,-1,-2,3,0
+960,High Metal Coil α+,9,waist,both,2,2,0,128,132,166,0,-1,-2,3,0
+961,High Metal Greaves α+,9,legs,both,2,2,1,128,132,166,0,-1,-2,3,0
+962,High Metal Helm β+,9,head,both,4,1,0,128,132,166,0,-1,-2,3,0
+963,High Metal Mail β+,9,chest,both,4,1,0,128,132,166,0,-1,-2,3,0
+964,High Metal Braces β+,9,arms,both,4,1,0,128,132,166,0,-1,-2,3,0
+965,High Metal Coil β+,9,waist,both,4,2,0,128,132,166,0,-1,-2,3,0
+966,High Metal Greaves β+,9,legs,both,4,3,0,128,132,166,0,-1,-2,3,0
+967,Banbaro Helm α+,9,head,both,2,0,0,130,134,168,-2,2,-1,3,-3
+968,Banbaro Mail α+,9,chest,both,3,0,0,130,134,168,-2,2,-1,3,-3
+969,Banbaro Vambraces α+,9,arms,both,2,0,0,130,134,168,-2,2,-1,3,-3
+970,Banbaro Coil α+,9,waist,both,3,0,0,130,134,168,-2,2,-1,3,-3
+971,Banbaro Greaves α+,9,legs,both,3,0,0,130,134,168,-2,2,-1,3,-3
+972,Banbaro Helm β+,9,head,both,4,1,0,130,134,168,-2,2,-1,3,-3
+973,Banbaro Mail β+,9,chest,both,4,1,0,130,134,168,-2,2,-1,3,-3
+974,Banbaro Vambraces β+,9,arms,both,4,0,0,130,134,168,-2,2,-1,3,-3
+975,Banbaro Coil β+,9,waist,both,4,1,0,130,134,168,-2,2,-1,3,-3
+976,Banbaro Greaves β+,9,legs,both,4,1,0,130,134,168,-2,2,-1,3,-3
+977,Anja Helm α+,9,head,both,3,0,0,132,136,170,3,-3,-1,-1,0
+978,Anja Mail α+,9,chest,both,1,1,0,132,136,170,3,-3,-1,-1,0
+979,Anja Vambraces α+,9,arms,both,2,0,0,132,136,170,3,-3,-1,-1,0
+980,Anja Coil α+,9,waist,both,3,1,0,132,136,170,3,-3,-1,-1,0
+981,Anja Greaves α+,9,legs,both,2,0,0,132,136,170,3,-3,-1,-1,0
+982,Anja Helm β+,9,head,both,4,0,0,132,136,170,3,-3,-1,-1,0
+983,Anja Mail β+,9,chest,both,4,1,0,132,136,170,3,-3,-1,-1,0
+984,Anja Vambraces β+,9,arms,both,4,0,0,132,136,170,3,-3,-1,-1,0
+985,Anja Coil β+,9,waist,both,4,2,0,132,136,170,3,-3,-1,-1,0
+986,Anja Greaves β+,9,legs,both,4,1,0,132,136,170,3,-3,-1,-1,0
