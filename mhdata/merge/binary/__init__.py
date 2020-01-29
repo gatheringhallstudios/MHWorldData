@@ -36,7 +36,7 @@ def update_all():
     simple_translate.translate_decorations(mhdata, item_updater.data)
 
     update_armor(mhdata, item_updater)
-    #update_weapons(mhdata, item_updater)
+    update_weapons(mhdata, item_updater)
     #update_weapon_songs(mhdata)
     #update_kinsects(mhdata, item_updater)
     #update_monsters(mhdata, item_updater, monster_meta)

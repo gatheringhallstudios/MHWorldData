@@ -144,6 +144,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 143,Unknown Skull,material,,7,,1800,,,Bone,Gold
 697,Frozen Bone,material,,9,,2400,,,,
 142,Dragonbone Relic,material,,7,,1600,,,Bone,White
+778,Dragonbone Artifact,material,,10,,2000,,,,
 130,Armor Sphere,material,,4,,80,,,Sphere,Blue
 131,Armor Sphere+,material,,5,,200,,,Sphere,Green
 132,Advanced Armor Sphere,material,,6,,300,,,Sphere,Beige
@@ -173,6 +174,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 699,Ultraplegia Sac,material,,9,,3400,,,,
 161,Sleep Sac,material,,4,,800,,,Sac,Blue
 162,Coma Sac,material,,6,,1600,,,Sac,Blue
+779,Torpor Sac,material,,9,,3400,,,,
 163,Flame Sac,material,,4,,800,,,Sac,Red
 164,Inferno Sac,material,,6,,1600,,,Sac,Red
 700,Conflagrant Sac,material,,9,,3400,,,,
@@ -400,6 +402,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 772,Great Girros Lash,material,,9,,2510,,,,
 309,Radobaan Scale,material,,4,,480,,,Scale,White
 314,Radobaan Scale+,material,,6,,1080,,,Scale,White
+780,Radobaan Shard,material,,9,,2150,,,,
 310,Radobaan Shell,material,,4,,680,,,Carapace,White
 315,Radobaan Carapace,material,,6,,1580,,,Carapace,White
 311,Radobaan Oilshell,material,,4,,960,,,Body,White
@@ -419,6 +422,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 327,Legiana Gem,material,,7,,7200,,,Gem,Blue
 328,Odogaron Scale,material,,4,,560,,,Scale,DarkRed
 334,Odogaron Scale+,material,,6,,1240,,,Scale,DarkRed
+781,Odogaron Shard,material,,10,,2850,,,,
 329,Odogaron Sinew,material,,4,,810,,,Body,DarkRed
 335,Odogaron Sinew+,material,,6,,1840,,,Body,DarkRed
 330,Odogaron Claw,material,,4,,1060,,,Fang,DarkRed
@@ -430,6 +434,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 338,Odogaron Gem,material,,7,,7200,,,Gem,DarkRed
 339,Rathalos Scale,material,,4,,590,,,Scale,Red
 346,Rathalos Scale+,material,,6,,1250,,,Scale,Red
+782,Rathalos Shard,material,,10,,2870,,,,
 340,Rathalos Shell,material,,4,,840,,,Carapace,Red
 347,Rathalos Carapace,material,,6,,1850,,,Carapace,Red
 341,Rathalos Webbing,material,,4,,1180,,,Wing,Red
@@ -446,6 +451,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 354,Azure Rathalos Wing,material,,6,,2850,,,Wing,Blue
 355,Diablos Shell,material,,4,,620,,,Carapace,DarkBeige
 361,Diablos Carapace,material,,6,,1260,,,Carapace,DarkBeige
+783,Diablos Cortex,material,,10,,2880,,,,
 356,Diablos Ridge,material,,4,,870,,,Body,DarkBeige
 362,Diablos Ridge+,material,,6,,1860,,,Body,DarkBeige
 357,Diablos Tailcase,material,,4,,1240,,,Body,DarkBeige

@@ -56,4 +56,4 @@ class ShlTblEntry(Struct):
 
 class ShlTbl(StructFile):
     EntryFactory = ShlTblEntry
-    MAGIC = 0x01A6
+    MAGIC = 0x021D

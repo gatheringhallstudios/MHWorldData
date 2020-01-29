@@ -30,4 +30,4 @@ class EqCusEntry(Struct):
 
 class EqCus(StructFile):
     EntryFactory = EqCusEntry
-    MAGIC = 0x0051
+    MAGIC = 0x0058

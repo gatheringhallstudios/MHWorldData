@@ -15,4 +15,4 @@ class BbtblEntry(Struct):
 
 class Bbtbl(StructFile):
     EntryFactory = BbtblEntry
-    MAGIC = 0x01A6
+    MAGIC = 0x021D

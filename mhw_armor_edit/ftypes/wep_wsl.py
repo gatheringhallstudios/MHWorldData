@@ -13,4 +13,4 @@ class WepWslEntry(Struct):
 
 class WepWsl(StructFile):
     EntryFactory = WepWslEntry
-    MAGIC = 0x0177
+    MAGIC = 0x01C1

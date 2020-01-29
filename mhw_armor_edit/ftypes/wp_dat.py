@@ -1,47 +1,49 @@
 # coding: utf-8
-
+from mhw_armor_edit import ftypes as ft
 from mhw_armor_edit.ftypes import StructFile, Struct
 
 
 class WpDatEntry(Struct):
-    STRUCT_SIZE = 65
-    id: "<I"
-    unk1: "<H"
-    base_model_id: "<H"
-    part1_id: "<H"
-    part2_id: "<H"
-    color: "<B"
-    tree_id: "<B"
-    is_fixed_upgrade: "<B"
-    crafting_cost: "<I"
-    rarity: "<B"
-    kire_id: "<B"
-    handicraft: "<B"
-    raw_damage: "<H"
-    defense: "<H"
-    affinity: "<b"
-    element_id: "<B"
-    element_damage: "<H"
-    hidden_element_id: "<B"
-    hidden_element_damage: "<H"
-    elderseal: "<B"
-    num_gem_slots: "<B"
-    gem_slot1_lvl: "<B"
-    gem_slot2_lvl: "<B"
-    gem_slot3_lvl: "<B"
-    wep1_id: "<H"
-    wep2_id: "<H"
-    unk2: "<I"
-    unk3: "<I"
-    unk4: "<I"
-    tree_position: "<B"
-    order: "<H"
-    gmd_name_index: "<H"
-    gmd_description_index: "<H"
-    skill_id: "<H"
-    unk5: "<H"
+    STRUCT_SIZE = 66
+    id: ft.uint()
+    unk1: ft.ubyte()
+    unk6: ft.ubyte()
+    base_model_id: ft.ushort()
+    part1_id: ft.ushort()
+    part2_id: ft.ushort()
+    unk7: ft.ubyte()
+    color: ft.ubyte()
+    tree_id: ft.ubyte()
+    is_fixed_upgrade: ft.ubyte()
+    crafting_cost: ft.uint()
+    rarity: ft.ubyte()
+    kire_id: ft.ubyte()
+    handicraft: ft.ubyte()
+    raw_damage: ft.ushort()
+    defense: ft.ushort()
+    affinity: ft.byte()
+    element_id: ft.ubyte()
+    element_damage: ft.ushort()
+    hidden_element_id: ft.ubyte()
+    hidden_element_damage: ft.ushort()
+    elderseal: ft.ubyte()
+    num_gem_slots: ft.ubyte()
+    gem_slot1_lvl: ft.ubyte()
+    gem_slot2_lvl: ft.ubyte()
+    gem_slot3_lvl: ft.ubyte()
+    wep1_id: ft.ushort()
+    wep2_id: ft.ushort()
+    unk2: ft.uint()
+    unk3: ft.uint()
+    unk4: ft.uint()
+    tree_position: ft.ubyte()
+    order: ft.ushort()
+    gmd_name_index: ft.ushort()
+    gmd_description_index: ft.ushort()
+    skill_id: ft.ushort()
+    unk5: ft.ushort()
 
 
 class WpDat(StructFile):
     EntryFactory = WpDatEntry
-    MAGIC = 0x0186
+    MAGIC = 0x01C1
