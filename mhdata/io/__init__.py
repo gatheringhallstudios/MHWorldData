@@ -13,29 +13,27 @@ which in this project is usually the source_data folder.
 from .reader import DataReader
 from .writer import DataReaderWriter
 from .stitcher import DataStitcher
-
 from .datamap import DataMap, DataRow
+
+import os.path
+data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../source_data')
 
 def create_reader():
     "Creates a DataReader with default settings"
     from mhdata import cfg
     import os
-    from os.path import dirname, abspath, join
 
-    current_dir = dirname(abspath(__file__))
     return DataReader(
         languages=list(cfg.supported_languages), 
-        data_path=join(current_dir, '../../source_data')
+        data_path=data_path
     )
 
 def create_writer():
     "Creates a DataReader with default settings"
     from mhdata import cfg
     import os
-    from os.path import dirname, abspath, join
 
-    current_dir = dirname(abspath(__file__))
     return DataReaderWriter(
         languages=list(cfg.supported_languages), 
-        data_path=join(current_dir, '../../source_data')
+        data_path=data_path
     )

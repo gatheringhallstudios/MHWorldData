@@ -713,9 +713,15 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
     decoration_map = mhdata.decoration_map
 
     for decoration_id, entry in decoration_map.items():
-        skill_id = skill_map.id_of('en', entry['skill_en'])
-        ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
-            f"skill {entry['skill_en']}, which doesn't exist.")
+        skills = [[None, None]] * 2
+        for i in [1, 2]:
+            skill_name = entry[f'skill{i}_name']
+            if skill_name:
+                skill_id = skill_map.id_of('en', skill_name)
+                ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
+                    f"skill {skill_name}, which doesn't exist.")
+                skill_level = entry[f"skill{i}_level"]
+                skills[i - 1] = [skill_id, skill_level]
 
         ensure("chances" in entry, "Missing chance data for " + entry.name('en'))
         
@@ -724,11 +730,17 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             rarity=entry['rarity'],
             slot=entry['slot'],
             icon_color=entry['icon_color'],
-            skilltree_id=skill_id,
+            skilltree_id=skills[0][0],
+            skilltree_level=skills[0][1],
+            skilltree2_id=skills[1][0],
+            skilltree2_level=skills[1][1],
             mysterious_feystone_percent=entry['chances']['mysterious'],
             glowing_feystone_percent=entry['chances']['glowing'],
             worn_feystone_percent=entry['chances']['worn'],
-            warped_feystone_percent=entry['chances']['warped']
+            warped_feystone_percent=entry['chances']['warped'],
+            ancient_feystone_percent=entry['chances']['ancient'],
+            carved_feystone_percent=entry['chances']['carved'],
+            sealed_feystone_percent=entry['chances']['sealed'],
         )
 
         for language in cfg.supported_languages:

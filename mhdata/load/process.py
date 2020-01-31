@@ -2,8 +2,11 @@
 Additional import step processes isolated to a separate file.
 """
 
-from mhdata.io import DataMap
+from mhdata.io import DataMap, data_path
+from mhdata.io.csv import read_csv
 from decimal import *
+
+from os.path import join
 
 from mhdata import cfg
 
@@ -41,39 +44,32 @@ def extend_decoration_chances(decoration_map: DataMap):
     https://docs.google.com/spreadsheets/d/1ysj6c2boC6GarFvMah34e6VviZeaoKB6QWovWLSGlsY/htmlview?usp=sharing&sle=true#
     """
 
-    rarity_to_table = {
-        5: 'C',
-        6: 'B',
-        7: 'A',
-        8: 'S'
-    }
-
-    jewel_to_table_odds = {
-        'mysterious': { 'C': 85, 'B': 15, 'A': 0,  'S': 0 },
-        'glowing':    { 'C': 65, 'B': 34, 'A': 1,  'S': 0 },
-        'worn':       { 'C': 10, 'B': 82, 'A': 6,  'S': 2 },
-        'warped':     { 'C': 0,  'B': 77, 'A': 18, 'S': 5 },
-    }
-
-    drop_tables = rarity_to_table.values()
+    jewel_to_table_odds = {}
+    droprates = read_csv(join(data_path, "decorations/decoration_droprates.csv"))
+    for row in droprates:
+        entries = {}
+        for i in range(5, 14):
+            entries[i] = int(row[str(i)] or '0')
+        jewel_to_table_odds[row['feystone']] = entries
     
     # Calculate how many entries there are per drop table type
-    table_counts = { table:0 for table in drop_tables }
+    table_counts = { table:0 for table in range(5, 14) }
     for entry in decoration_map.values():
-        table = rarity_to_table[entry['rarity']]
-        table_counts[table] += 1
+        table_counts[entry['rarity']] += 1
 
     # Create an odds map for each drop table level
     # This maps droptable -> feystone -> probability
     # This is necessary because all decorations are assigned to a droptable
     odds_map = { }
-    for table in drop_tables:
+    for table in range(5, 14):
         odds_map[table] = {}
         for feystone, feystone_odds in jewel_to_table_odds.items():
-            value = Decimal(feystone_odds[table]) / Decimal(table_counts[table])
+            count = table_counts[table]
+            if count == 0:
+                continue
+            value = Decimal(feystone_odds[table]) / Decimal(count)
             odds_map[table][feystone] = value.quantize(Decimal('1.00000'))
 
     # Assign the odds map for the drop table level to the decoration itself
     for entry in decoration_map.values():
-        table_name = rarity_to_table[entry['rarity']]
-        entry['chances'] = odds_map[table_name]
+        entry['chances'] = odds_map[entry['rarity']]
