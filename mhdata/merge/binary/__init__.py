@@ -1,14 +1,14 @@
 def update_all():
     "Updates all supported entity types using merged chunk data from ingame binaries."
     from mhdata.binary import metadata
-    from mhdata.binary.load import ItemUpdater
+    from mhdata.binary import ItemCollection
     from mhdata.load import load_data
     
     from .armor import update_armor
     from .weapons import update_weapons, update_weapon_songs, update_kinsects
     from .monsters import update_monsters
     from .quests import update_quests
-    from .items import update_items
+    from .items import update_items, ItemUpdater
     from . import simple_translate
 
     mhdata = load_data()
@@ -27,7 +27,7 @@ def update_all():
         return
     print("Area Map validated")
 
-    item_updater = ItemUpdater()
+    item_updater = ItemUpdater(ItemCollection())
     monster_meta = metadata.MonsterMetadata()
 
     print() # newline

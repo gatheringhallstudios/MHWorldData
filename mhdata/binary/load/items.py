@@ -54,24 +54,3 @@ class ItemCollection:
 
     def by_id(self, binary_item_id) -> Item:
         return self.item_data_map[binary_item_id]
-
-class ItemUpdater:
-    def __init__(self):
-        self.data = ItemCollection()
-        self.encountered_item_ids = set()
-        
-    def add_missing_items(self, encountered_item_ids: Iterable[int]):
-        self.encountered_item_ids.update(encountered_item_ids)
-
-    def name_and_description_for(self, binary_item_id, track=True):
-        if track: self.encountered_item_ids.add(binary_item_id)
-        item = self.data.by_id(binary_item_id)
-        return (item.name, item.description)
-
-    def name_for(self, binary_item_id):
-        self.encountered_item_ids.add(binary_item_id)
-        return self.data.by_id(binary_item_id).name
-
-    @property
-    def item_data(self) -> Iterable[Item]:
-        return self.data.items

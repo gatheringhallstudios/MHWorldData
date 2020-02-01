@@ -35,6 +35,15 @@ weapon_types = [
     cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
 ]
 
+def iter_recipe(recipe):
+    if recipe:
+        for i in range(1, 4+1):
+            item_id = getattr(recipe, f'item{i}_id')
+            item_qty = getattr(recipe, f'item{i}_qty')
+            if item_qty == 0:
+                continue
+            yield (item_id, item_qty)
+
 class SharpnessDataReader():
     "A class that loads sharpness data and processes it for binary weapon objects"
     def __init__(self):
@@ -75,8 +84,8 @@ class EquipmentNode():
         self.wtype = wtype
         self.name = name
         self.tree = tree
-        self.craft = craft
-        self.upgrade = upgrade
+        self.craft = list(iter_recipe(craft))
+        self.upgrade = list(iter_recipe(upgrade))
 
         self.parent = None
         self.children = []
@@ -299,7 +308,7 @@ class ArmorData:
     def __init__(self, binary: am_dat.AmDatEntry, name, recipe):
         self.binary = binary
         self.name = name
-        self.recipe = recipe
+        self.recipe = list(iter_recipe(recipe))
 
     @property
     def order(self):
@@ -319,8 +328,6 @@ class ArmorData:
 
     @property
     def rank(self):
-        # TODO: Once Iceborne releases, handle master rank
-        # current variants are lowrank/alpha/beta+gamma
         if self.binary.variant == 0:
             return 'LR'
         elif self.rarity < 9:

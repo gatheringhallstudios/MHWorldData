@@ -6,10 +6,11 @@ from mhdata.load import schema, datafn
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
 from mhw_armor_edit.ftypes.ext import msk
 
-from mhdata.binary.load import load_schema, load_text, ItemUpdater, \
+from mhdata.binary.load import load_schema, load_text, \
                     SkillTextHandler, SharpnessDataReader, \
-                    WeaponDataLoader, convert_recipe, load_kinsect_tree
+                    WeaponDataLoader, load_kinsect_tree
 from .items import ItemUpdater
+from .util import convert_recipe
 
 from mhdata import cfg
 

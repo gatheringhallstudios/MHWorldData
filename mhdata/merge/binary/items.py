@@ -1,10 +1,34 @@
+from typing import Iterable
+
 from mhdata.io import create_writer, DataMap
 from mhdata.load import load_data, schema
 from mhdata.util import OrderedSet
 from mhw_armor_edit.ftypes import itm
 
 from . import artifacts
-from mhdata.binary.load import load_schema, load_text, ItemUpdater
+from mhdata.binary import ItemCollection, Item
+from mhdata.binary.load import load_schema, load_text
+
+class ItemUpdater:
+    def __init__(self, collection: ItemCollection):
+        self.data = collection
+        self.encountered_item_ids = set()
+        
+    def add_missing_items(self, encountered_item_ids: Iterable[int]):
+        self.encountered_item_ids.update(encountered_item_ids)
+
+    def name_and_description_for(self, binary_item_id, track=True):
+        if track: self.encountered_item_ids.add(binary_item_id)
+        item = self.data.by_id(binary_item_id)
+        return (item.name, item.description)
+
+    def name_for(self, binary_item_id):
+        self.encountered_item_ids.add(binary_item_id)
+        return self.data.by_id(binary_item_id).name
+
+    @property
+    def item_data(self) -> Iterable[Item]:
+        return self.data.items
         
 def update_items(item_updater: ItemUpdater, *, mhdata=None):
     if not mhdata:

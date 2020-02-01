@@ -3,8 +3,9 @@ from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from mhdata.binary.load import load_schema, load_text, ItemUpdater, SkillTextHandler, convert_recipe, load_armor_series
+from mhdata.binary.load import load_schema, load_text, SkillTextHandler, load_armor_series
 from .items import ItemUpdater
+from .util import convert_recipe
 
 from mhdata import cfg
 
@@ -125,9 +126,8 @@ def update_armor(mhdata, item_updater: ItemUpdater):
                     new_data['skills'][f'skill{i}_name'] = None
                     new_data['skills'][f'skill{i}_pts'] = None
 
-            # Add recipe to new armor data. Also track the encounter.
-            recipe_binary = armor_data.recipe
-            new_data['craft'] = convert_recipe(item_updater, recipe_binary)
+            # Add recipe to new armor data. Also tracks the encounter.
+            new_data['craft'] = convert_recipe(item_updater, armor_data.recipe)
 
             # Add new data to new armor map
             new_armor_map.insert(new_data)
