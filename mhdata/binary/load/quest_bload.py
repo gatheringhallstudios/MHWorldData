@@ -7,7 +7,7 @@ from pathlib import Path
 import re
 
 from .bcore import load_schema, load_text, get_chunk_root
-from mhdata.merge.binary.parsers import read_struct_from_file, Mib, load_quest, RemFile
+from mhdata.binary.parsers import read_struct_from_file, Mib, load_quest, RemFile
 
 class QuestInfo:
     "An encapsulation of quest binary data and referenced cross data"

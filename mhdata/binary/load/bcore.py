@@ -14,7 +14,7 @@ from mhw_armor_edit.ftypes import gmd
 # Looks for a folder called /mergedchunks neighboring the main project folder.
 # This folder should be created via WorldChunkTool, with each numbered chunk being
 # moved into the mergedchunks folder in ascending order (with overwrite).
-CHUNK_DIRECTORY = join(dirname(abspath(__file__)), "../../../../../mergedchunks")
+CHUNK_DIRECTORY = join(dirname(abspath(__file__)), "../../../../mergedchunks")
 
 # Mapping from GMD filename suffix to actual language code
 lang_map = {

@@ -3,7 +3,7 @@ from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from .load import load_schema, load_text, ItemUpdater, SkillTextHandler, convert_recipe, load_armor_series
+from mhdata.binary.load import load_schema, load_text, ItemUpdater, SkillTextHandler, convert_recipe, load_armor_series
 from .items import ItemUpdater
 
 from mhdata import cfg

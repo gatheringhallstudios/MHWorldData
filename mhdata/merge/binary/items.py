@@ -4,7 +4,7 @@ from mhdata.util import OrderedSet
 from mhw_armor_edit.ftypes import itm
 
 from . import artifacts
-from .load import load_schema, load_text, ItemUpdater
+from mhdata.binary.load import load_schema, load_text, ItemUpdater
         
 def update_items(item_updater: ItemUpdater, *, mhdata=None):
     if not mhdata:

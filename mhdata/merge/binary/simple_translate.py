@@ -1,7 +1,6 @@
 from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
-
-from .load import SkillTextHandler, ItemCollection
+from mhdata.binary.load import SkillTextHandler, ItemCollection
 
 def translate_skills(mhdata):
     print("Translating skills")
