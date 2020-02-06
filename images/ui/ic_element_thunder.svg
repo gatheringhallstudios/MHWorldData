@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_element_thunder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_element_thunder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(76.000000, 56.000000)">
+            <path d="M155.201292,138.237424 L0.715475161,2.2848286 L149.948757,2.53669249 L333.776682,188.930122 L358.05817,173.263979 L357.207302,398.324433 L48.4316403,398.001459 L108.08602,327.694959 L220.185416,327.047948 L23.8032435,138.190421 L155.201292,138.237424 Z M218.12533,209.04215 L281.241432,274.097769 L281.241432,222.825277 L302.604369,209.04215 L218.12533,209.04215 Z" id="Path-6" fill="#000000" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#F4ED1F" points="58.810397 24.0339922 213.208344 158.913406 78.1625049 158.865453 274.200658 346.010398 118.445145 346.902793 95.7123674 373.498462 335.202693 373.747128 335.818264 212.117823 303.328436 232.926261 303.328436 326.001592 166.375708 185.874987 301.26899 185.874987 140.613251 24.1710406"></polygon>
+        </g>
+    </g>
+</svg>

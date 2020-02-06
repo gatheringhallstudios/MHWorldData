@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_ui_slots</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_ui_slots" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(56.000000, 56.000000)">
+            <g id="Group">
+                <g id="Group-6">
+                    <polygon id="Path-33" fill="#000000" fill-rule="nonzero" points="0.0220649665 0 119.818403 0 120 30.5686975 59.7257741 84 0 31.0548837"></polygon>
+                    <polygon id="Path" fill="#5CACC5" points="16.382487 18.7446851 60.3693017 57.6605199 104.356116 18.7446851"></polygon>
+                </g>
+                <g id="Group-7" transform="translate(140.000000, 0.000000)">
+                    <polygon id="Path-33" fill="#000000" fill-rule="nonzero" points="0.0220649665 0 119.818403 0 120 30.5686975 59.7257741 84 0 31.0548837"></polygon>
+                    <polygon id="Path" fill="#5CACC5" points="15.4722639 18.5882353 60.0215698 57.50407 104.570876 18.5882353"></polygon>
+                </g>
+                <g id="Group-8" transform="translate(280.000000, 0.000000)">
+                    <polygon id="Path-33" fill="#000000" fill-rule="nonzero" points="0.0220649665 0 119.818403 0 120 30.5686975 59.7257741 84 0 31.0548837"></polygon>
+                    <polygon id="Path" fill="#5CACC5" points="15.4722639 18.5882353 60.0215698 57.50407 104.570876 18.5882353"></polygon>
+                </g>
+                <g id="Group-9" transform="translate(12.000000, 96.000000)">
+                    <polygon id="Path-34" fill="#000000" fill-rule="nonzero" points="78.5080371 0.329079258 292.052574 0.329079258 373.28646 73.915075 373.28646 151.564806 226.136167 301.52209 147.203803 301.480923 1.88686979 151.254888 1.88686979 74.360952"></polygon>
+                    <polygon id="Path" fill="#63C7E9" points="90.7804076 23.6206215 24.9423166 84.3139712 24.9423166 141.763977 156.9148 278.194759 220.56037 278.225338 350.231013 141.763977 350.231013 84.3139712 283.229723 23.6206215"></polygon>
+                </g>
+            </g>
+            <polygon id="Path-2" fill="#000000" fill-rule="nonzero" points="30.1517043 218.543276 30.1517043 202.543276 369.372668 202.543276 369.372668 218.543276"></polygon>
+            <polygon id="Path-15" fill="#000000" fill-rule="nonzero" points="120 208.957377 190.406445 381.884439 175.587611 387.917858 104 212.089706 104 112 120 112"></polygon>
+            <polygon id="Path-15-Copy" fill="#000000" fill-rule="nonzero" points="278.406445 212.957377 278.406445 116 294.406445 116 294.406445 216.089706 222.818834 391.917858 208 385.884439"></polygon>
+            <polygon id="Path-16" fill="#000000" fill-rule="nonzero" points="192.667239 102.80729 204.838642 113.19271 118.085702 214.864575 105.914298 204.479155"></polygon>
+            <polygon id="Path-16-Copy" fill="#000000" fill-rule="nonzero" points="210.085702 106.80729 296.838642 208.479155 284.667239 218.864575 197.914298 117.19271"></polygon>
+            <polygon id="Path-35" fill-opacity="0.096346" fill="#000000" points="28.06768 212.476424 28.06768 243.356239 164.947844 384.724748 234.610552 384.724748 373.239376 243.356239 373.239376 212.476424"></polygon>
+            <polygon id="Path-36" fill-opacity="0.14563519" fill="#000000" points="27.1305135 214.199949 27.1305135 245.018722 166.581602 387.338761 235.921149 387.338761 372.73309 245.018722 372.73309 214.199949 288.032631 214.199949 219.25323 378.265122 179.640891 378.265122 113.353419 214.199949"></polygon>
+            <polygon id="Path-37" fill-opacity="0.298460145" fill="#000000" points="113.902793 112.005716 113.902793 203.966522 200 112.005716 285.016463 203.966522 285.016463 112.005716"></polygon>
+        </g>
+    </g>
+</svg>
