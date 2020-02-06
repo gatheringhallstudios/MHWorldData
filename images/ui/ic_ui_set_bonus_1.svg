@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_ui_set_bonus_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_ui_set_bonus_1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M40,0 L472,0 C494.09139,-4.33003142e-14 512,17.90861 512,40 L512,472 C512,494.09139 494.09139,512 472,512 L40,512 C17.90861,512 2.705415e-15,494.09139 0,472 L0,40 C-2.705415e-15,17.90861 17.90861,4.05812251e-15 40,0 Z" id="Rectangle" fill="#6F6F6F" fill-rule="nonzero"></path>
+        <path d="M40,15 C26.1928813,15 15,26.1928813 15,40 L15,472 C15,485.807119 26.1928813,497 40,497 L472,497 C485.807119,497 497,485.807119 497,472 L497,40 C497,26.1928813 485.807119,15 472,15 L40,15 Z" id="Path" fill="#3D3D3D" fill-rule="nonzero"></path>
+        <polygon id="1" fill="#000000" fill-rule="nonzero" points="211.029919 147.676508 138.276013 148.653071 138.276013 75.7780057 299.125622 58.2307755 299.125622 456 211.029919 456"></polygon>
+        <polygon id="Path" fill="#B2B2B2" fill-rule="nonzero" points="279.125622 436 279.125622 80.53125 158.276013 93.7148437 158.276013 128.382812 231.029919 127.40625 231.029919 436"></polygon>
+    </g>
+</svg>

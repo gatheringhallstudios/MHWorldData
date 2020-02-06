@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_element_ice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_element_ice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(121.000000, 56.000000)">
+            <polygon id="Path-7" fill="#000000" fill-rule="nonzero" points="90.1629642 0 177.777778 70.1309713 177.777778 202.684214 90.3523128 274.747475 0 202.800326 0 73.6523565"></polygon>
+            <polygon id="Path" fill="#AFCCEB" points="92.3209522 32.3232323 24.2424242 87.1894759 24.2424242 193.129496 92.1319233 246.464646 157.575758 193.243858 157.575758 83.8557566"></polygon>
+            <polygon id="Path-8" fill="#37609F" fill-rule="nonzero" points="88.5399661 80.8080808 129.292929 112.674846 129.292929 172.539334 88.7426355 206.060606 48.4848485 172.518432 48.4848485 114.795627"></polygon>
+            <polygon id="Path" fill="#AFCCEB" points="88.9773074 105.050505 68.6868687 123.860011 68.6868687 163.511508 88.7983461 181.818182 109.090909 163.491344 109.090909 122.23326"></polygon>
+            <polygon id="Path-9" fill="#000000" fill-rule="nonzero" points="214.924747 218.181818 270.707071 269.405499 270.707071 351.549723 214.837557 400 157.575758 351.627644 157.575758 269.318518"></polygon>
+            <polygon id="Path" fill="#AFCCEB" points="173.737374 280.122547 173.737374 343.922602 212.671408 375.757576 250.505051 344.000364 250.505051 280.035743 212.734918 246.464646"></polygon>
+            <polygon id="Path-8" fill="#37609F" fill-rule="nonzero" points="211.929305 278.787879 234.343434 296.263201 234.343434 329.092114 212.040773 347.474747 189.89899 329.080652 189.89899 297.42621"></polygon>
+        </g>
+    </g>
+</svg>
