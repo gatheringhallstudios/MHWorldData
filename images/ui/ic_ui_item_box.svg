@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_ui_item_box</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_ui_item_box" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="*/icons/svg/item_box" transform="translate(55.000000, 56.000000)">
+            <polygon id="Path-54" fill="#000000" fill-rule="nonzero" points="0 167.179487 400 167.179487 400 397.948718 0 397.948718"></polygon>
+            <path d="M246.153846,185.641026 L246.153846,379.487179 L149.74359,379.487179 L149.74359,185.641026 L246.153846,185.641026 Z M262.564103,185.641026 L381.538462,185.641026 L381.538462,379.487179 L262.564103,379.487179 L262.564103,185.641026 Z M133.333333,185.641026 L133.333333,379.487179 L18.4615385,379.487179 L18.4615385,185.641026 L133.333333,185.641026 Z M75.3846154,326.153846 L33.8461538,364.102564 L116.923077,364.102564 L75.3846154,326.153846 Z M323.589744,326.153846 L282.051282,364.102564 L365.128205,364.102564 L323.589744,326.153846 Z M199.487179,326.153846 L157.948718,364.102564 L241.025641,364.102564 L199.487179,326.153846 Z" id="Path" fill="#A15737"></path>
+            <polygon id="Path" fill="#000000" points="2.05128205 242.051282 397.948718 242.051282 397.948718 307.692308 2.05128205 307.692308"></polygon>
+            <polygon id="Path" fill="#E06F3C" points="18.4615385 258.461538 18.4615385 291.282051 381.538462 291.282051 381.538462 258.461538"></polygon>
+            <polygon id="Path-55" fill="#000000" fill-rule="nonzero" points="0 131.33161 0 0 400 0 400 131.33161"></polygon>
+            <polygon id="Path" fill="#A15737" points="18.4615385 18.4615385 18.4615385 112.870072 381.538462 112.870072 381.538462 18.4615385"></polygon>
+            <polygon id="Rectangle" fill="#000000" fill-rule="nonzero" points="53.7948718 0.461538462 125.692308 0.461538462 125.692308 154.410256 53.7948718 154.410256"></polygon>
+            <polygon id="Rectangle-Copy" fill="#000000" fill-rule="nonzero" points="274.307692 0.461538462 346.205128 0.461538462 346.205128 154.410256 274.307692 154.410256"></polygon>
+            <polygon id="Path" fill="#E06F3C" fill-rule="nonzero" points="71.7948718 18.4615385 71.7948718 136.410256 107.692308 136.410256 107.692308 18.4615385"></polygon>
+            <polygon id="Path" fill="#E06F3C" fill-rule="nonzero" points="292.307692 18.4615385 292.307692 136.410256 328.205128 136.410256 328.205128 18.4615385"></polygon>
+        </g>
+    </g>
+</svg>

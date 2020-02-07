@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_items_trap_tool_base</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_items_trap_tool_base" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="background" fill="#000000" fill-rule="nonzero" points="180.711544 257.644525 139.661947 112.726079 365.51983 112.726079 403.885775 253.999437 403.885775 414.562971 103.681906 414.562971 103.681906 257.644525"></polygon>
+        <path d="M328.288503,399.562971 L328.288503,272.8813 L388.885775,272.8813 L388.885775,399.562971 L328.288503,399.562971 Z M313.288503,399.562971 L118.681906,399.562971 L118.681906,272.644525 L192.325832,272.644525 L192.325832,272.8813 L313.288503,272.8813 L313.288503,399.562971 Z M388.885775,257.8813 L196.368774,257.8813 L159.501009,127.726079 L354.050118,127.726079 L388.885775,256 L388.885775,257.8813 L388.885775,257.8813 Z M155.5,351 L129,379 L182,379 L155.5,351 Z M217.5,351 L191,379 L244,379 L217.5,351 Z M278.5,351 L252,379 L305,379 L278.5,351 Z M155.5,325 L182,297 L129,297 L155.5,325 Z M217.5,325 L244,297 L191,297 L217.5,325 Z M278.5,325 L305,297 L252,297 L278.5,325 Z" id="foreground" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <polygon id="alpha" fill-opacity="0.15" fill="#000000" fill-rule="nonzero" points="151.06771 122.400879 189.63288 265.065728 398.641153 265.065728 357.948986 122.400879"></polygon>
+    </g>
+</svg>

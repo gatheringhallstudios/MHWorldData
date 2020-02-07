@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_status_paralysis</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_status_paralysis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13" transform="translate(56.000000, 70.000000)">
+            <polygon id="Path-44" fill="#000000" fill-rule="nonzero" points="245.955954 266.422567 73.8427844 350.119063 124.725716 262.320141 52.4678557 202.419099 129.615654 130.44351 0 1.79432654 125.065344 0 260 129.721379 188.708981 201.964901"></polygon>
+            <polygon id="Path" fill="#E8C530" points="36 16 158.237479 132.08618 81.6170305 203.752848 152.158464 262.380755 106.786657 320 223.357088 262.380755 165.764089 203.752848 240 132.08618 119.356653 16"></polygon>
+            <polygon id="Path-45" fill="#000000" fill-rule="nonzero" points="400 272.085323 185.168598 372 269.104699 276.096075 203.336262 208.390364 269.15638 135.834047 168 32 307.828857 32 398.314178 131.585761 325.294449 198.793539"></polygon>
+            <polygon id="Path" fill="#E8C530" points="208 48 294.96245 135.130251 224.060125 208.197824 294.96245 273.124215 239.145464 332 372 266.119718 299.131552 197.610553 372 130.256745 299.131552 48"></polygon>
+        </g>
+    </g>
+</svg>
