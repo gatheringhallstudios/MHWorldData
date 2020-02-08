@@ -21,4 +21,4 @@ class ArmUpEntry(Struct):
 
 class ArmUp(StructFile):
     EntryFactory = ArmUpEntry
-    MAGIC = 0x0097
+    MAGIC = 0x009B

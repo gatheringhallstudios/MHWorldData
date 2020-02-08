@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_status_poison</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_status_poison" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(60.000000, 56.000000)">
+            <path d="M122,240 C54.6212605,240 0,186.27417 0,120 C0,53.72583 54.6212605,0 122,0 C189.378739,0 244,53.72583 244,120 C244,186.27417 189.378739,240 122,240 Z" id="Oval-3" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M122,216 C173.914766,216 216,173.914766 216,122 C216,70.0852335 173.914766,28 122,28 C70.0852335,28 28,70.0852335 28,122 C28,173.914766 70.0852335,216 122,216 Z" id="Path" fill="#C875BF"></path>
+            <circle id="Oval-4" fill="#7F3598" cx="122" cy="122" r="38"></circle>
+            <path d="M270,400 C202.621261,400 148,346.27417 148,280 C148,213.72583 202.621261,160 270,160 C337.378739,160 392,213.72583 392,280 C392,346.27417 337.378739,400 270,400 Z" id="Oval-3" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M270,376 C321.914766,376 364,333.914766 364,282 C364,230.085234 321.914766,188 270,188 C218.085234,188 176,230.085234 176,282 C176,333.914766 218.085234,376 270,376 Z" id="Path" fill="#AE6AC9"></path>
+            <circle id="Oval-4" fill="#7F3598" cx="270" cy="278" r="38"></circle>
+        </g>
+    </g>
+</svg>

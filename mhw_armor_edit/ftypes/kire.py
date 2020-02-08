@@ -17,4 +17,4 @@ class KireEntry(Struct):
 
 class Kire(StructFile):
     EntryFactory = KireEntry
-    MAGIC = 0x0177
+    MAGIC = 0x01C1

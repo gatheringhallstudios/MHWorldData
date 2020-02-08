@@ -15,4 +15,4 @@ class SklDatEntry(Struct):
 
 class SklDat(StructFile):
     EntryFactory = SklDatEntry
-    MAGIC = 0x005E
+    MAGIC = 0x0087

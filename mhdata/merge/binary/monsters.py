@@ -5,9 +5,9 @@ import itertools
 from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
 
-from .metadata import MonsterMetadata
-from .load import load_text, get_chunk_root
-from .parsers import load_epg, struct_to_json, load_itlot, load_eda
+from mhdata.binary.metadata import MonsterMetadata
+from mhdata.binary.load import load_text, get_chunk_root
+from mhdata.binary.parsers import load_epg, struct_to_json, load_itlot, load_eda
 from .items import ItemUpdater
 from . import artifacts
 

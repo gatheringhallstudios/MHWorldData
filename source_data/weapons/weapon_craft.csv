@@ -3,18 +3,18 @@ Buster Sword I,Create,Iron Ore,1,,,,,,
 Buster Sword II,Upgrade,Iron Ore,2,,,,,,
 Buster Sword III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Buster Blade I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Buster Blade II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Buster Blade II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Buster Blade III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Razor I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Razor II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
 Nergal Judicator,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Purgation's Atrocity,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
 Thunder Blade I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Blade II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Blade II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Punisher I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Punisher II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
 Lightning Punisher III,Upgrade,Elder Dragon Blood,3,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
-Freeze Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal,3
+Freeze Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal (LR),3
 Freeze Blade II,Upgrade,Carbalite Ore,5,Legiana Tail Webbing,2,Legiana Webbing,3,Shamos Scale+,5
 Frost Blaze I,Upgrade,Fucium Ore,5,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,3
 Frost Blaze II,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana Hide+,3,Wyvern Gem,1
@@ -33,7 +33,7 @@ Malady's Kiss III,Upgrade,Vaal Hazak Fang+,2,Great Girros Fang+,5,Great Girros H
 Lava Blaze I,Upgrade,Lavasioth Fin+,2,Lavasioth Fang+,2,Lavasioth Scale+,4,,
 Lava Blaze II,Upgrade,Teostra Mane,2,Lavasioth Fin+,3,Lavasioth Fang+,3,Wyvern Gem,1
 Blooming Blade I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Blade II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Blade II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Blade III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura Blaze I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura Blaze II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
@@ -60,6 +60,7 @@ Gnashing Flammenzahn,Upgrade,Vaal Hazak Fang+,5,Anjanath Pelt+,4,Anjanath Nosebo
 Aqua Slasher I,Upgrade,Boulder Bone,2,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Slasher II,Upgrade,Sturdy Bone,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
 Aqua Slasher III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Bone,2,Gajau Whisker,3
+Water Golem I,Create,Monster Keenbone,5,Jyuratodus Fin+,3,Torrent Sac,2,Wyvern Gem,1
 Water Golem I,Upgrade,Quality Bone,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Golem II,Upgrade,Monster Hardbone,3,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Golem III,Upgrade,Elder Dragon Bone,4,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -71,6 +72,7 @@ Barroth Shredder II,Upgrade,Diablos Carapace,3,Barroth Claw+,4,Barroth Carapace,
 Barroth Shredder III,Upgrade,Nergigante Horn+,1,Barroth Claw+,5,Barroth Ridge+,5,Wyvern Gem,1
 Spiked Blade I,Upgrade,Wyvern Bonemass,2,Radobaan Scale,4,Sleep Sac,2,,
 Spiked Blade II,Upgrade,Monster Bone+,3,Wyvern Bonemass,3,Radobaan Oilshell,2,Radobaan Marrow,1
+Radobaan Slab I,Create,Radobaan Shard,3,Torpor Sac,2,Radobaan Carapace,4,Dragonbone Relic,1
 Radobaan Slab I,Upgrade,Radobaan Carapace,4,Radobaan Oilshell,3,Coma Sac,2,Monster Keenbone,3
 Radobaan Slab II,Upgrade,Monster Hardbone,5,Radobaan Scale+,8,Coma Sac,3,Radobaan Medulla,1
 Radobaan Slab III,Upgrade,Elder Dragon Bone,5,Radobaan Carapace,6,Coma Sac,4,Wyvern Gem,1
@@ -82,7 +84,7 @@ Kirin Thundersword,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonv
 King Thundersword,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
 Magda Potestas I,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Magda Potestas II,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Chopper I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Chopper I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Chopper II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Edge,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Decimator,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -101,7 +103,7 @@ Iron Katana I,Create,Iron Ore,1,,,,,,
 Iron Katana II,Upgrade,Iron Ore,2,,,,,,
 Iron Katana III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Iron Grace I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Iron Grace II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Iron Grace II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Iron Grace III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Iron Gospel I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Iron Gospel II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -115,6 +117,7 @@ Dazzling Flash III,Upgrade,Daora Webbing,2,Tzitzi-Ya-Ku Claw+,5,Tzitzi-Ya-Ku Pho
 First Dance I,Upgrade,Kulu-Ya-Ku Beak,1,Kulu-Ya-Ku Hide,2,Kulu-Ya-Ku Scale,3,,
 First Dance II,Upgrade,Radobaan Scale,3,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,2,Boulder Bone,3
 First Dance III,Upgrade,Odogaron Claw,2,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,4,Warped Bone,3
+Last Dance I,Create,Kulu-Ya-Ku Beak+,4,Kulu-Ya-Ku Plume+,2,Kulu-Ya-Ku Scale+,6,Bird Wyvern Gem,1
 Last Dance I,Upgrade,Kulu-Ya-Ku Beak+,3,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Scale+,6,,
 Last Dance II,Upgrade,Odogaron Claw+,2,Kulu-Ya-Ku Beak+,4,Kulu-Ya-Ku Plume+,3,Brutal Bone,3
 Last Dance III,Upgrade,Nergigante Talon,2,Kulu-Ya-Ku Beak+,5,Kulu-Ya-Ku Plume+,4,Bird Wyvern Gem,1
@@ -153,7 +156,7 @@ Dipterus III,Upgrade,Elder Dragon Bone,2,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wy
 Hazak Grosser I,Upgrade,Vaal Hazak Talon,4,Vaal Hazak Fang+,5,Deceased Scale,6,Vaal Hazak Membrane,4
 Hazak Grosser II,Upgrade,Xeno'jiiva Veil,3,Vaal Hazak Talon,6,Vaal Hazak Tail,2,Vaal Hazak Gem,1
 Pulsar Shotel I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Shotel II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Shotel II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Shotel III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Fang I,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Kadachi Fang II,Upgrade,Majestic Horn,2,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,4,Thunder Sac,3
@@ -164,6 +167,7 @@ Stealer,Upgrade,Legiana Claw+,3,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,2
 Legia Stealer,Upgrade,Daora Claw+,2,Legiana Claw+,5,Legiana Hide+,3,Legiana Gem,1
 Dark Shotel I,Upgrade,Hornetaur Shell,3,Hornetaur Wing,2,Monster Fluid,2,,
 Dark Shotel II,Upgrade,Odogaron Fang,2,Hornetaur Shell,5,Hornetaur Wing,4,Hornetaur Head,2
+Dark Scimitar I,Create,Hornetaur Razorwing,2,Girros Shard,4,Monster Broth,3,Novacrystal,1
 Dark Scimitar I,Upgrade,Hornetaur Carapace,5,Hornetaur Innerwing,4,Monster Broth,2,Dragonvein Crystal,3
 Dark Scimitar II,Upgrade,Azure Rathalos Wing,2,Hornetaur Carapace,5,Hornetaur Innerwing,4,Novacrystal,1
 Dark Scimitar III,Upgrade,Vaal Hazak Fang+,3,Hornetaur Carapace,8,Hornetaur Innerwing,6,Wyvern Gem,1
@@ -172,7 +176,7 @@ Dragonbone Stabber II,Upgrade,Monster Bone+,6,Monster Bone L,8,Sturdy Bone,8,,
 Dragonbone Stabber III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic,2,Wyvern Gem,1
 Magda Facultas I,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Magda Facultas II,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Long Sword I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Long Sword I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Long Sword II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Imperial Saber,Upgrade,Teostra Claw+,2,Teostra Mane,2,Teostra Carapace,5,Teostra Powder,4
 Imperial Shimmer,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,Teostra Gem,1
@@ -191,7 +195,7 @@ Hunter's Knife I,Create,Iron Ore,1,,,,,,
 Hunter's Knife II,Upgrade,Iron Ore,2,,,,,,
 Hunter's Knife III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Knife I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Knife II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Knife II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Knife III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Slicer I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Slicer II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -206,7 +210,7 @@ Heavy Bang+,Upgrade,Carbalite Ore,10,Odogaron Claw+,3,Odogaron Tail,2,Bird Wyver
 Master Bang,Upgrade,High Commendation,1,Daora Claw+,3,Bazelgeuse Talon,3,Wyvern Gem,1
 Aqua Messer I,Upgrade,Earth Crystal,3,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Messer II,Upgrade,Dragonite Ore,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
-Aqua Messer III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal,3,Gajau Whisker,3
+Aqua Messer III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal (LR),3,Gajau Whisker,3
 Rogue Wave I,Upgrade,Carbalite Ore,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Rogue Wave II,Upgrade,Fucium Ore,5,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Rogue Wave III,Upgrade,Elder Dragon Blood,3,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -221,17 +225,20 @@ Queen Rose,Upgrade,Rathian Spike+,4,Pink Rathian Scale+,5,Pink Rathian Carapace,
 Royal Rose,Upgrade,Elder Dragon Blood,3,Rathian Spike+,5,Pink Rathian Scale+,6,Rathian Ruby,1
 Lumu Knife I,Upgrade,Paolumu Shell,1,Paolumu Scale,3,Paolumu Pelt,2,,
 Lumu Knife II,Upgrade,Diablos Shell,3,Paolumu Shell,3,Paolumu Webbing,2,Shamos Scale,5
+Lumu Tabar I,Create,Paolumu Carapace+,5,Paolumu Wing,4,Paolumu Pelt+,6,Wyvern Gem,1
 Lumu Tabar I,Upgrade,Paolumu Carapace+,3,Paolumu Scale+,5,Paolumu Pelt+,4,Shamos Scale+,5
 Lumu Tabar II,Upgrade,Blos Medulla,2,Paolumu Carapace+,4,Paolumu Wing,3,Novacrystal,1
 Lumu Tabar III,Upgrade,Elder Dragon Bone,3,Paolumu Carapace+,5,Paolumu Scale+,7,Wyvern Gem,1
 Blooming Knife I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Knife II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Knife II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Knife III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
+Datura Blossom I,Create,Pukei-Pukei Shard,3,Deadly Poison Sac,2,Pukei-Pukei Scale+,3,Novacrystal,1
 Datura Blossom I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura Blossom II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
 Datura Blossom III,Upgrade,Vaal Hazak Wing,2,Pukei-Pukei Sac+,4,Pukei-Pukei Wing,6,Bird Wyvern Gem,1
 Girros Knife I,Upgrade,Great Girros Fang,1,Great Girros Scale,3,Girros Fang,3,,
 Girros Knife II,Upgrade,Diablos Fang,2,Great Girros Fang,3,Great Girros Hood,2,Paralysis Sac,2
+Malady's Tabar I,Create,Great Girros Shard,3,Ultraplegia Sac,2,Great Girros Scale+,5,Dragonbone Relic,1
 Malady's Tabar I,Upgrade,Great Girros Fang+,3,Great Girros Scale+,5,Great Girros Tail,2,Girros Scale+,6
 Malady's Tabar II,Upgrade,Blos Medulla,1,Great Girros Fang+,4,Great Girros Hood+,2,Omniplegia Sac,4
 Malady's Tabar III,Upgrade,Vaal Hazak Fang+,2,Great Girros Fang+,5,Great Girros Hood+,3,Bird Wyvern Gem,1
@@ -276,7 +283,7 @@ Dragonbone Sword III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic
 Fulminator,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Thunderbolt Sword I,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Thunderbolt Sword II,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Sword I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Sword I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Sword II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Teostra's Spada,Upgrade,Teostra Claw+,2,Teostra Mane,2,Teostra Carapace,5,Teostra Powder,4
 Teostra's Emblem,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,Teostra Gem,1
@@ -293,7 +300,7 @@ Matched Slicers I,Create,Iron Ore,1,,,,,,
 Matched Slicers II,Upgrade,Iron Ore,2,,,,,,
 Matched Slicers III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Dual Slicers I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Dual Slicers II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Dual Slicers II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Dual Slicers III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Slicers I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Slicers II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -307,7 +314,7 @@ Dual Destroyers II,Upgrade,Legiana Wing,2,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Phot
 Dual Destroyers III,Upgrade,Daora Webbing,2,Tzitzi-Ya-Ku Claw+,5,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
 Rookslayer Handaxes,Upgrade,Bazelgeuse Talon,3,Bazelgeuse Scale+,5,Bazelgeuse Fuse,4,Firecell Stone,1
 Bazelhawk Rookslayer,Upgrade,Xeno'jiiva Wing,3,Bazelgeuse Wing,4,Bazelgeuse Talon,4,Bazelgeuse Gem,1
-Freeze Daggers I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal,3
+Freeze Daggers I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal (LR),3
 Freeze Daggers II,Upgrade,Carbalite Ore,5,Legiana Tail Webbing,2,Legiana Webbing,3,Shamos Scale+,5
 Freeze Chain I,Upgrade,Fucium Ore,5,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,3
 Freeze Chain II,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana Hide+,3,Wyvern Gem,1
@@ -318,7 +325,7 @@ Arcanaria I,Upgrade,Kulu-Ya-Ku Beak+,3,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Scale+,6,,
 Arcanaria II,Upgrade,Odogaron Claw+,2,Kulu-Ya-Ku Beak+,4,Kulu-Ya-Ku Plume+,3,Brutal Bone,3
 Arcanaria III,Upgrade,Nergigante Talon,2,Kulu-Ya-Ku Beak+,5,Kulu-Ya-Ku Plume+,4,Bird Wyvern Gem,1
 Sworn Rapiers,Upgrade,Dragonite Ore,3,Machalite Ore,5,Earth Crystal,6,Lightcrystal,1
-Sworn Rapiers+,Upgrade,Carbalite Ore,5,Dragonvein Crystal,4,Coral Crystal,8,Commendation,2
+Sworn Rapiers+,Upgrade,Carbalite Ore,5,Dragonvein Crystal,4,Coral Crystal (LR),8,Commendation,2
 Holy Sabers,Upgrade,High Commendation,3,Dragonvein Crystal,6,Wyvern Gem,2,Novacrystal,2
 Bone Hatchets I,Create,Monster Bone S,1,,,,,,
 Bone Hatchets II,Upgrade,Monster Bone S,2,,,,,,
@@ -335,6 +342,7 @@ Anja Cyclone II,Upgrade,Rathalos Medulla,2,Anjanath Fang+,5,Anjanath Pelt+,4,Fir
 Anja Cyclone III,Upgrade,Teostra Mane,2,Anjanath Fang+,6,Anjanath Nosebone+,2,Anjanath Gem,1
 Diablos Hatchets I,Upgrade,Twisted Horn,1,Diablos Fang,2,Diablos Shell,4,Monster Bone+,3
 Diablos Hatchets II,Upgrade,Monster Keenbone,4,Diablos Ridge,4,Diablos Tailcase,2,Diablos Marrow,1
+Diablos Clubs I,Create,Majestic Horn,4,Diablos Carapace,8,Blos Medulla,1,Wyvern Gem,1
 Diablos Clubs I,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,Blos Medulla,1
 Diablos Clubs II,Upgrade,Nergigante Horn+,2,Black Spiral Horn+,3,Black Diablos Carapace,4,Wyvern Gem,1
 Madness Pangas I,Upgrade,Jyuratodus Fin,1,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
@@ -348,17 +356,19 @@ Lava Cyclone I,Upgrade,Lavasioth Fin+,2,Lavasioth Fang+,2,Lavasioth Scale+,4,,
 Lava Cyclone II,Upgrade,Teostra Mane,2,Lavasioth Fin+,3,Lavasioth Fang+,3,Wyvern Gem,1
 Taurus Pangas I,Upgrade,Hornetaur Shell,3,Hornetaur Wing,2,Monster Fluid,2,,
 Taurus Pangas II,Upgrade,Odogaron Fang,2,Hornetaur Shell,5,Hornetaur Wing,4,Hornetaur Head,2
+Dark Ripper I,Create,Hornetaur Razorwing,2,Girros Shard,4,Monster Broth,3,Novacrystal,1
 Dark Ripper I,Upgrade,Hornetaur Carapace,5,Hornetaur Innerwing,4,Monster Broth,2,Dragonvein Crystal,3
 Dark Ripper II,Upgrade,Azure Rathalos Wing,2,Hornetaur Carapace,5,Hornetaur Innerwing,4,Novacrystal,1
 Dark Ripper III,Upgrade,Vaal Hazak Fang+,3,Hornetaur Carapace,8,Hornetaur Innerwing,6,Wyvern Gem,1
 Pulsar Hatchets I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Hatchets II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Hatchets II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Hatchets III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Claws I,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Kadachi Claws II,Upgrade,Majestic Horn,2,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,4,Thunder Sac,3
 Kadachi Claws III,Upgrade,Nergigante Talon,2,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
 Garon Hatchets I,Upgrade,Odogaron Claw,2,Odogaron Scale,4,Odogaron Fang,2,,
 Garon Hatchets II,Upgrade,Quality Bone,5,Odogaron Claw,2,Odogaron Tail,2,Odogaron Plate,1
+Blood-drinker Chainblade,Create,Odogaron Shard,3,Dragonbone Artifact,1,Odogaron Scale+,8,Wyvern Gem,1
 Blood-drinker Chainblade,Upgrade,Odogaron Claw+,4,Odogaron Scale+,8,Odogaron Fang+,3,Dragonbone Relic,1
 Sin,Upgrade,Teostra Claw+,2,Odogaron Claw+,6,Odogaron Fang+,5,Odogaron Gem,1
 Dragonbone Twinblades I,Create,Warped Bone,5,Coral Bone,5,Boulder Bone,5,Ancient Bone,5
@@ -369,7 +379,7 @@ Kirin Bolts+,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Cr
 Monarch,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
 Magda Ungulae I,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Magda Ungulae II,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Twins I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Twins I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Twins II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Twin Nails,Upgrade,Daora Claw+,2,Teostra Claw+,2,Firecell Stone,2,Wyvern Gem,1
 Fire and Ice,Upgrade,Xeno'jiiva Claw,2,Teostra Horn+,3,Daora Horn+,3,Novacrystal,2
@@ -387,18 +397,18 @@ Iron Hammer I,Create,Iron Ore,1,,,,,,
 Iron Hammer II,Upgrade,Iron Ore,2,,,,,,
 Iron Hammer III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Iron Demon I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Iron Demon II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Iron Demon II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Iron Demon III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Iron Archdemon I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Iron Archdemon II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
 Nergal Crusher,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Obliteration's Footfall,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
-Frozen Core,Upgrade,Legiana Scale,3,Frost Sac,4,Coral Crystal,4,Lightcrystal,3
+Frozen Core,Upgrade,Legiana Scale,3,Frost Sac,4,Coral Crystal (LR),4,Lightcrystal,3
 Frozen Core+,Upgrade,Legiana Scale+,3,Freezer Sac,4,Dragonvein Crystal,4,Novacrystal,3
 Cocytus,Upgrade,Legiana Wing,3,Freezer Sac,4,Daora Claw+,3,Novacrystal,6
 Aqua Hammer I,Upgrade,Earth Crystal,3,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Hammer II,Upgrade,Dragonite Ore,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
-Aqua Hammer III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal,3,Gajau Whisker,3
+Aqua Hammer III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal (LR),3,Gajau Whisker,3
 Water Basher I,Upgrade,Carbalite Ore,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Basher II,Upgrade,Fucium Ore,5,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Basher III,Upgrade,Elder Dragon Blood,3,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -408,13 +418,13 @@ Malady's Fist I,Upgrade,Great Girros Fang+,3,Great Girros Scale+,5,Great Girros 
 Malady's Fist II,Upgrade,Blos Medulla,1,Great Girros Fang+,4,Great Girros Hood+,2,Omniplegia Sac,4
 Malady's Fist III,Upgrade,Vaal Hazak Fang+,2,Great Girros Fang+,5,Great Girros Hood+,3,Bird Wyvern Gem,1
 Blooming Hammer I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Hammer II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Hammer II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Hammer III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Buon Fiore,Create,Pukei-Pukei Wing,4,Pukei-Pukei Sac+,3,Toxin Sac,2,Carbalite Ore,8
 Buon Fiore,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Buona Flora,Upgrade,Vaal Hazak Wing,2,Pukei-Pukei Sac+,4,Pukei-Pukei Wing,6,Bird Wyvern Gem,1
 Thunder Hammer I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Hammer II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Hammer II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Bash I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Bash II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
 Lightning Bash III,Upgrade,Elder Dragon Blood,3,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
@@ -444,11 +454,13 @@ Crushing Beak II,Upgrade,Odogaron Claw+,2,Kulu-Ya-Ku Beak+,4,Kulu-Ya-Ku Plume+,3
 Crushing Beak III,Upgrade,Nergigante Talon,2,Kulu-Ya-Ku Beak+,5,Kulu-Ya-Ku Plume+,4,Bird Wyvern Gem,1
 Diablos Sledge I,Upgrade,Twisted Horn,1,Diablos Fang,2,Diablos Shell,4,Monster Bone+,3
 Diablos Sledge II,Upgrade,Monster Keenbone,4,Diablos Ridge,4,Diablos Tailcase,2,Diablos Marrow,1
+Diablos Shatterer I,Create,Diablos Cortex,3,Dragonbone Artifact,1,Majestic Horn,3,Wyvern Gem,1
 Diablos Shatterer I,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,Blos Medulla,1
 Diablos Shatterer II,Upgrade,Nergigante Horn+,2,Black Spiral Horn+,3,Black Diablos Carapace,4,Wyvern Gem,1
 Carapace Sledge I,Upgrade,Barroth Claw,1,Barroth Shell,3,Barroth Ridge,2,,
 Carapace Sledge II,Upgrade,Dragonite Ore,3,Barroth Claw,2,Barroth Tail,1,Kestodon Shell,3
 Carapace Sledge III,Upgrade,Diablos Shell,3,Barroth Claw,4,Barroth Scalp,2,Monster Bone+,3
+Barroth Breaker I,Create,Barroth Cortex,3,Barroth Crown,1,Barroth Carapace,3,Dragonbone Relic,1
 Barroth Breaker I,Upgrade,Barroth Claw+,2,Barroth Carapace,3,Barroth Ridge+,2,Kestodon Carapace,5
 Barroth Breaker II,Upgrade,Diablos Carapace,3,Barroth Claw+,4,Barroth Carapace,3,Gastodon Carapace,5
 Barroth Breaker III,Upgrade,Nergigante Horn+,1,Barroth Claw+,5,Barroth Ridge+,5,Wyvern Gem,1
@@ -462,7 +474,7 @@ Dragonbone Basher II,Upgrade,Monster Bone+,6,Monster Bone L,8,Sturdy Bone,8,,
 Dragonbone Basher III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic,2,Wyvern Gem,1
 Magda Floga,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Ragefire Magda Floga,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Hammer I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Hammer I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Hammer II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Hammer,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Colossus,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -481,14 +493,14 @@ Metal Bagpipe I,Create,Iron Ore,1,,,,,,
 Metal Bagpipe II,Upgrade,Iron Ore,2,,,,,,
 Metal Bagpipe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Great Bagpipe I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Great Bagpipe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Great Bagpipe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Great Bagpipe III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Fortissimo I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Fortissimo II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
 Nergal Groove,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Desolation's Overture,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
 Thunder Gaida I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Gaida II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Gaida II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Drum I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Drum II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
 Lightning Drum III,Upgrade,Elder Dragon Blood,3,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
@@ -505,7 +517,7 @@ Coral Chordmaker,Upgrade,Rathian Spike+,4,Pink Rathian Scale+,5,Pink Rathian Car
 Royal Chordmaker,Upgrade,Elder Dragon Blood,3,Rathian Spike+,5,Pink Rathian Scale+,6,Rathian Ruby,1
 Aqua Bagpipe I,Upgrade,Earth Crystal,3,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Bagpipe II,Upgrade,Dragonite Ore,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
-Aqua Bagpipe III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal,3,Gajau Whisker,3
+Aqua Bagpipe III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal (LR),3,Gajau Whisker,3
 Water Tamtam I,Upgrade,Carbalite Ore,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Tamtam II,Upgrade,Fucium Ore,5,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Tamtam III,Upgrade,Elder Dragon Blood,3,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -529,7 +541,7 @@ Anja Barone I,Upgrade,Anjanath Fang+,4,Anjanath Scale+,5,Inferno Sac,3,Anjanath 
 Anja Barone II,Upgrade,Rathalos Medulla,2,Anjanath Fang+,5,Anjanath Pelt+,4,Firecell Stone,1
 Anja Barone III,Upgrade,Teostra Mane,2,Anjanath Fang+,6,Anjanath Nosebone+,2,Anjanath Gem,1
 Blooming Horn I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Horn II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Horn II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Horn III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura Horn I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura Horn II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
@@ -559,7 +571,7 @@ Dragonbone Auldhorn III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Re
 Thundercry Horn,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Thunderbolt Horn I,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Thunderbolt Horn II,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Dragonhorn I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Dragonhorn I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Dragonhorn II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Teostra's Tiple,Upgrade,Teostra Claw+,2,Teostra Mane,2,Teostra Carapace,5,Teostra Powder,4
 Teostra's Orphée,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,Teostra Gem,1
@@ -574,7 +586,7 @@ Iron Lance I,Create,Iron Ore,1,,,,,,
 Iron Lance II,Upgrade,Iron Ore,2,,,,,,
 Iron Lance III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Lance I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Lance II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Lance II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Lance III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Lance I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Lance II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -594,18 +606,19 @@ Kulu Hasta III,Upgrade,Nergigante Talon,2,Kulu-Ya-Ku Beak+,5,Kulu-Ya-Ku Plume+,4
 Gama Pilebunker I,Upgrade,Dodogama Talon,4,Dodogama Scale+,6,Dodogama Hide+,4,,
 Gama Pilebunker II,Upgrade,Fire Dragon Scale+,4,Dodogama Jaw,4,Dodogama Tail,3,Wyvern Gem,1
 Thunder Lance I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Lance II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Lance II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Spire I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Spire II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
 Lightning Spire III,Upgrade,Elder Dragon Blood,3,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
 Blooming Lance I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Lance II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Lance II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Lance III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura Pike I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura Pike II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
 Datura Pike III,Upgrade,Vaal Hazak Wing,2,Pukei-Pukei Sac+,4,Pukei-Pukei Wing,6,Bird Wyvern Gem,1
 Flame Lance I,Upgrade,Rathalos Scale,1,Rathalos Webbing,2,Flame Sac,2,Rathalos Marrow,1
 Flame Lance II,Upgrade,Rathalos Scale,6,Rathalos Tail,2,Rathalos Plate,1,Inferno Sac,3
+Red Tail,Create,Rathalos Scale+,4,Rathalos Wing,4,Rathalos Tail,3,Rathalos Medulla,1
 Red Tail,Upgrade,Rathalos Scale+,6,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Medulla,1
 Blue Tail,Upgrade,Azure Rathalos Scale+,6,Azure Rathalos Carapace,4,Azure Rathalos Wing,3,Rathalos Ruby,1
 Blue Prominence,Upgrade,Teostra Horn+,2,Azure Rathalos Scale+,8,Azure Rathalos Tail,3,Rathalos Ruby,1
@@ -633,6 +646,7 @@ Barroth Stinger II,Upgrade,Diablos Carapace,3,Barroth Claw+,4,Barroth Carapace,3
 Barroth Stinger III,Upgrade,Nergigante Horn+,1,Barroth Claw+,5,Barroth Ridge+,5,Wyvern Gem,1
 Garon Lance I,Upgrade,Odogaron Claw,2,Odogaron Scale,4,Odogaron Fang,2,,
 Garon Lance II,Upgrade,Quality Bone,5,Odogaron Claw,2,Odogaron Tail,2,Odogaron Plate,1
+Garon Dhara I,Create,Odogaron Shard,3,Dragonbone Artifact,1,Odogaron Scale+,8,Wyvern Gem,1
 Garon Dhara I,Upgrade,Odogaron Claw+,4,Odogaron Scale+,8,Odogaron Fang+,3,Dragonbone Relic,1
 Garon Dhara II,Upgrade,Teostra Claw+,2,Odogaron Claw+,6,Odogaron Fang+,5,Odogaron Gem,1
 Aqua Horn I,Upgrade,Boulder Bone,2,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
@@ -649,7 +663,7 @@ Bazel Myniad Rookslayer,Upgrade,Xeno'jiiva Wing,3,Bazelgeuse Wing,4,Bazelgeuse T
 Thunderpike,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Thunderspear,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Thunderpiercer,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Lance I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Lance I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Lance II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Spear,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Fang,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -670,14 +684,14 @@ Iron Gunlance I,Create,Iron Ore,1,,,,,,
 Iron Gunlance II,Upgrade,Iron Ore,2,,,,,,
 Iron Gunlance III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Gunlance I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Gunlance II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Gunlance II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Gunlance III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Gunlance I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Gunlance II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
 Nergal Ram,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Eradication Flame,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
 Pulsar Gunlance I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Gunlance II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Gunlance II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Gunlance III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Striker,Create,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,6,Tobi-Kadachi Pelt+,7,Wyvern Gem,1
 Kadachi Striker,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
@@ -700,6 +714,7 @@ Jyura Buster II,Upgrade,Monster Hardbone,3,Jyuratodus Fin+,4,Torrent Sac,3,Grand
 Jyura Buster III,Upgrade,Elder Dragon Bone,2,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
 Glacial Gunlance I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,,
 Glacial Gunlance II,Upgrade,Paolumu Wing,4,Legiana Claw,4,Legiana Tail Webbing,3,Legiana Plate,1
+Legiana Cannon I,Create,Legiana Claw+,2,Legiana Wing,5,Freezer Sac,3,Legiana Plate,1
 Legiana Cannon I,Upgrade,Legiana Claw+,3,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,2
 Legiana Cannon II,Upgrade,Daora Claw+,2,Legiana Claw+,5,Legiana Hide+,3,Legiana Gem,1
 Bone Gunlance I,Create,Monster Bone S,1,,,,,,
@@ -734,6 +749,7 @@ Barroth Blaster II,Upgrade,Diablos Carapace,3,Barroth Claw+,4,Barroth Carapace,3
 Barroth Blaster III,Upgrade,Nergigante Horn+,1,Barroth Claw+,5,Barroth Ridge+,5,Wyvern Gem,1
 Blazing Gunlance I,Upgrade,Anjanath Fang,2,Anjanath Scale,3,Flame Sac,1,,
 Blazing Gunlance II,Upgrade,Rathalos Marrow,1,Anjanath Fang,4,Anjanath Nosebone,1,Anjanath Tail,1
+Anja Cannon I,Create,Anjanath Fang+,4,Anjanath Scale+,8,Anjanath Nosebone+,2,Wyvern Gem,1
 Anja Cannon I,Upgrade,Anjanath Fang+,4,Anjanath Scale+,5,Inferno Sac,3,Anjanath Plate,1
 Anja Cannon II,Upgrade,Rathalos Medulla,2,Anjanath Fang+,5,Anjanath Pelt+,4,Firecell Stone,1
 Anja Cannon III,Upgrade,Teostra Mane,2,Anjanath Fang+,6,Anjanath Nosebone+,2,Anjanath Gem,1
@@ -742,7 +758,7 @@ Dragonbone Gunlance II,Upgrade,Monster Bone+,6,Monster Bone L,8,Sturdy Bone,8,,
 Dragonbone Gunlance III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic,2,Wyvern Gem,1
 Magda Lahat,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Earthshaker Magda Lahat,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Gunlance I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Gunlance I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Gunlance II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Gunlance,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Brigia,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -757,7 +773,7 @@ Proto Iron Axe I,Create,Iron Ore,1,,,,,,
 Proto Iron Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Iron Axe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Improved Steel Axe I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Improved Steel Axe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Improved Steel Axe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Improved Steel Axe III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Perfected Alloy Axe I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Perfected Alloy Axe II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -768,7 +784,7 @@ Glacial Axe II,Upgrade,Paolumu Wing,4,Legiana Claw,4,Legiana Tail Webbing,3,Legi
 Frostreaver,Upgrade,Legiana Claw+,3,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,2
 Legia Frostreaver,Upgrade,Daora Claw+,2,Legiana Claw+,5,Legiana Hide+,3,Legiana Gem,1
 Thunder Axe I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Axe II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Axe II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Chopper I,Create,Thunder Sac,4,Carbalite Ore,7,Tobi-Kadachi Scale+,3,Lightcrystal,1
 Lightning Chopper I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Chopper II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
@@ -778,6 +794,7 @@ Motor Chopper II,Upgrade,Teostra Carapace,4,Uragaan Jaw,2,Uragaan Scute,4,Uragaa
 Jagras Axe I,Upgrade,Great Jagras Claw,1,Great Jagras Hide,1,Great Jagras Scale,3,Sharp Claw,1
 Jagras Axe II,Upgrade,Great Jagras Claw,2,Great Jagras Mane,2,Coral Bone,2,Tzitzi-Ya-Ku Claw,3
 Jagras Axe III,Upgrade,Monster Bone+,3,Great Jagras Scale,5,Great Jagras Claw,3,Great Jagras Mane,3
+Jagras Raider I,Create,Great Jagras Scale+,8,Great Jagras Claw+,6,Great Jagras Mane,8,Novacrystal,1
 Jagras Raider I,Upgrade,Great Jagras Scale+,6,Great Jagras Claw+,4,Great Jagras Mane,6,Piercing Claw,5
 Jagras Raider II,Upgrade,Monster Hardbone,4,Great Jagras Claw+,6,Jagras Hide+,6,Tzitzi-Ya-Ku Claw+,5
 Jagras Raider III,Upgrade,Vaal Hazak Talon,2,Great Jagras Claw+,8,Great Jagras Hide+,6,Novacrystal,1
@@ -785,6 +802,7 @@ Bazel Raider I,Upgrade,Bazelgeuse Talon,3,Bazelgeuse Scale+,5,Bazelgeuse Fuse,4,
 Bazel Raider II,Upgrade,Teostra Powder,3,Bazelgeuse Wing,4,Bazelgeuse Talon,4,Bazelgeuse Gem,1
 Rathalos Axe I,Upgrade,Rathalos Scale,1,Rathalos Webbing,2,Flame Sac,2,Rathalos Marrow,1
 Rathalos Axe II,Upgrade,Rathalos Scale,6,Rathalos Tail,2,Rathalos Plate,1,Inferno Sac,3
+Rathbringer Axe I,Create,Rathalos Shard,2,Conflagrant Sac,3,Rathalos Scale+,6,Wyvern Gem,1
 Rathbringer Axe I,Upgrade,Rathalos Scale+,6,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Medulla,1
 Rathbringer Axe II,Upgrade,Azure Rathalos Scale+,6,Azure Rathalos Carapace,4,Azure Rathalos Wing,3,Rathalos Ruby,1
 Bone Axe I,Create,Monster Bone S,1,,,,,,
@@ -829,7 +847,7 @@ Dragonbone Slicer III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Reli
 Peal,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Peal+,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Kirin Thunderpeal,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Switch Axe I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Switch Axe I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Switch Axe II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Teostra's Arx,Upgrade,Teostra Claw+,2,Teostra Mane,2,Teostra Carapace,5,Teostra Powder,4
 Teostra's Castle,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,Teostra Gem,1
@@ -844,7 +862,7 @@ Proto Commission Axe I,Create,Iron Ore,1,,,,,,
 Proto Commission Axe II,Upgrade,Iron Ore,2,,,,,,
 Proto Commission Axe III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Elite Commission Axe I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Elite Commission Axe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Elite Commission Axe II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Elite Commission Axe III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Guardian I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Guardian II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -857,10 +875,11 @@ Halberion Blade,Upgrade,Azure Rathalos Scale+,6,Azure Rathalos Carapace,4,Azure 
 Mudslide Blade I,Upgrade,Jyuratodus Fin,1,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Mudslide Blade II,Upgrade,Great Girros Hide,2,Jyuratodus Fin,3,Jyuratodus Shell,3,Gajau Skin,3
 Mudslide Blade III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Jyuratodus Shell,3,Gajau Whisker,3
+Jyura Depth I,Create,Jyuratodus Fang+,3,Jyuratodus Fin+,3,Torrent Sac,2,Wyvern Gem,1
 Jyura Depth I,Upgrade,Jyuratodus Fin+,2,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Jyura Depth II,Upgrade,Monster Hardbone,3,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Jyura Depth III,Upgrade,Elder Dragon Bone,2,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
-Everfrost Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal,3
+Everfrost Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal (LR),3
 Everfrost Blade II,Upgrade,Carbalite Ore,5,Legiana Tail Webbing,2,Legiana Webbing,3,Shamos Scale+,5
 Gigafrost I,Upgrade,Fucium Ore,5,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,3
 Gigafrost II,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana Hide+,3,Wyvern Gem,1
@@ -879,6 +898,7 @@ Mighty Strongarm I,Upgrade,Monster Hardbone,4,Monster Keenbone,6,Quality Bone,10
 Mighty Strongarm II,Upgrade,Elder Dragon Bone,4,Monster Hardbone,6,Quality Bone,20,Dragonbone Relic,1
 Diablos Wall I,Upgrade,Twisted Horn,1,Diablos Fang,2,Diablos Shell,4,Monster Bone+,3
 Diablos Wall II,Upgrade,Monster Keenbone,4,Diablos Ridge,4,Diablos Tailcase,2,Diablos Marrow,1
+Diablos Tyrannis I,Create,Diablos Cortex,3,Dragonbone Artifact,1,Majestic Horn,3,Wyvern Gem,1
 Diablos Tyrannis I,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,Blos Medulla,1
 Diablos Tyrannis II,Upgrade,Nergigante Horn+,2,Black Spiral Horn+,3,Black Diablos Carapace,4,Wyvern Gem,1
 Jagras Strongarm I,Upgrade,Great Jagras Claw,1,Great Jagras Hide,1,Great Jagras Scale,3,Sharp Claw,1
@@ -898,13 +918,14 @@ Girros Nadja III,Upgrade,Vaal Hazak Fang+,2,Great Girros Fang+,5,Great Girros Ho
 Hazak Aspida I,Upgrade,Vaal Hazak Talon,4,Vaal Hazak Fang+,5,Deceased Scale,6,Vaal Hazak Membrane,4
 Hazak Aspida II,Upgrade,Xeno'jiiva Veil,3,Vaal Hazak Talon,6,Vaal Hazak Tail,2,Vaal Hazak Gem,1
 Pulsar Strongarm I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Strongarm II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Strongarm II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Strongarm III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Kaina I,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Kadachi Kaina II,Upgrade,Majestic Horn,2,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,4,Thunder Sac,3
 Kadachi Kaina III,Upgrade,Nergigante Talon,2,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
 Garon Strongarm I,Upgrade,Odogaron Claw,2,Odogaron Scale,4,Odogaron Fang,2,,
 Garon Strongarm II,Upgrade,Quality Bone,5,Odogaron Claw,2,Odogaron Tail,2,Odogaron Plate,1
+Hate's Undying Flame,Create,Odogaron Shard,3,Dragonbone Artifact,1,Odogaron Scale+,8,Wyvern Gem,1
 Hate's Undying Flame,Upgrade,Odogaron Claw+,4,Odogaron Scale+,8,Odogaron Fang+,3,Dragonbone Relic,1
 Odium,Upgrade,Teostra Claw+,2,Odogaron Claw+,6,Odogaron Fang+,5,Odogaron Gem,1
 Dragonbone Cutter I,Create,Warped Bone,5,Coral Bone,5,Boulder Bone,5,Ancient Bone,5
@@ -912,7 +933,7 @@ Dragonbone Cutter II,Upgrade,Monster Bone+,6,Monster Bone L,8,Sturdy Bone,8,,
 Dragonbone Cutter III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic,2,Wyvern Gem,1
 Magda Manus,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Avenging Magda Manus,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Charger I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Charger I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Charger II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Daora's Casca,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Thwartoise,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -928,7 +949,7 @@ Iron Blade I,Create,Iron Ore,1,,,,,,
 Iron Blade II,Upgrade,Iron Ore,2,,,,,,
 Iron Blade III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Blade I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Blade II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Blade II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Blade III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Blade I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Blade II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -949,12 +970,12 @@ Luminous Blade II,Upgrade,Legiana Tail Webbing,2,Tzitzi-Ya-Ku Claw,3,Tzitzi-Ya-K
 Destroyer Bo I,Upgrade,Tzitzi-Ya-Ku Claw+,3,Tzitzi-Ya-Ku Photophore+,1,Tzitzi-Ya-Ku Scale+,5,Lightcrystal,1
 Destroyer Bo II,Upgrade,Legiana Wing,2,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,2,Piercing Claw,5
 Destroyer Bo III,Upgrade,Daora Webbing,2,Tzitzi-Ya-Ku Claw+,5,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
-Frost Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal,3
+Frost Blade I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal (LR),3
 Frost Blade II,Upgrade,Carbalite Ore,5,Legiana Tail Webbing,2,Legiana Webbing,3,Shamos Scale+,5
 Freeze Gale I,Upgrade,Fucium Ore,5,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,3
 Freeze Gale II,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana Hide+,3,Wyvern Gem,1
 Blooming Glaive I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Glaive II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Glaive II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Glaive III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura Blade I,Create,Pukei-Pukei Wing,4,Pukei-Pukei Sac+,3,Toxin Sac,2,Carbalite Ore,8
 Datura Blade I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
@@ -979,21 +1000,24 @@ Gnashing Flammenkaefer,Upgrade,Vaal Hazak Fang+,5,Anjanath Pelt+,4,Anjanath Nose
 Aqua Rod I,Upgrade,Boulder Bone,2,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Rod II,Upgrade,Sturdy Bone,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
 Aqua Rod III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Bone,2,Gajau Whisker,3
+Water Glaive I,Create,Monster Keenbone,5,Jyuratodus Fin+,3,Torrent Sac,2,Wyvern Gem,1
 Water Glaive I,Upgrade,Quality Bone,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Glaive II,Upgrade,Monster Hardbone,3,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Glaive III,Upgrade,Elder Dragon Bone,4,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
 Diablos Rod I,Upgrade,Twisted Horn,1,Diablos Fang,2,Diablos Shell,4,Monster Bone+,3
 Diablos Rod II,Upgrade,Monster Keenbone,4,Diablos Ridge,4,Diablos Tailcase,2,Diablos Marrow,1
+Tyrannis Glaive I,Create,Diablos Cortex,3,Dragonbone Artifact,1,Majestic Horn,3,Wyvern Gem,1
 Tyrannis Glaive I,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,Blos Medulla,1
 Tyrannis Glaive II,Upgrade,Nergigante Horn+,2,Black Spiral Horn+,3,Black Diablos Carapace,4,Wyvern Gem,1
 Pulsar Rod I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Rod II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Rod II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Rod III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Pillar I,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Kadachi Pillar II,Upgrade,Majestic Horn,2,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,4,Thunder Sac,3
 Kadachi Pillar III,Upgrade,Nergigante Talon,2,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
 Garon Rod I,Upgrade,Odogaron Claw,2,Odogaron Scale,4,Odogaron Fang,2,,
 Garon Rod II,Upgrade,Quality Bone,5,Odogaron Claw,2,Odogaron Tail,2,Odogaron Plate,1
+Temptation's Trident,Create,Odogaron Shard,3,Dragonbone Artifact,1,Odogaron Scale+,8,Wyvern Gem,1
 Temptation's Trident,Upgrade,Odogaron Claw+,4,Odogaron Scale+,8,Odogaron Fang+,3,Dragonbone Relic,1
 Vice,Upgrade,Teostra Claw+,2,Odogaron Claw+,6,Odogaron Fang+,5,Odogaron Gem,1
 Dragonbone Glaive I,Create,Warped Bone,5,Coral Bone,5,Boulder Bone,5,Ancient Bone,5
@@ -1002,7 +1026,7 @@ Dragonbone Glaive III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Reli
 Indigo Flash,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Azure Bolt,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Verdant Levin,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Glaive I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Glaive I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Glaive II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Daora's Entom,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Tethidine,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -1019,7 +1043,7 @@ Chain Blitz I,Create,Iron Ore,1,,,,,,
 Chain Blitz II,Upgrade,Iron Ore,2,,,,,,
 Chain Blitz III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 High Chain Blitz I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-High Chain Blitz II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+High Chain Blitz II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 High Chain Blitz III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Cross Blitz I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Cross Blitz II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -1044,11 +1068,11 @@ Flame Blitz II,Upgrade,Rathalos Scale,6,Rathalos Tail,2,Rathalos Plate,1,Inferno
 Rathbuster I,Upgrade,Rathalos Scale+,6,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Medulla,1
 Rathbuster II,Upgrade,Azure Rathalos Scale+,6,Azure Rathalos Carapace,4,Azure Rathalos Wing,3,Rathalos Ruby,1
 Thunder Blitz I,Upgrade,Dragonite Ore,5,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Electro Sac,1
-Thunder Blitz II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal,3
+Thunder Blitz II,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Coral Crystal (LR),3
 Lightning Blitz I,Upgrade,Carbalite Ore,5,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Vespoid Innerwing,3
 Lightning Blitz II,Upgrade,Fucium Ore,5,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,3
 Lightning Blitz III,Upgrade,Elder Dragon Blood,3,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
-Snow Blitz I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal,3
+Snow Blitz I,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,Coral Crystal (LR),3
 Snow Blitz II,Upgrade,Carbalite Ore,5,Legiana Tail Webbing,2,Legiana Webbing,3,Shamos Scale+,5
 Frost Blitz I,Upgrade,Fucium Ore,5,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,3
 Frost Blitz II,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana Hide+,3,Wyvern Gem,1
@@ -1071,6 +1095,7 @@ Anja Buster III,Upgrade,Teostra Mane,2,Anjanath Fang+,6,Anjanath Nosebone+,2,Anj
 Madness Rifle I,Upgrade,Jyuratodus Fin,1,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Madness Rifle II,Upgrade,Great Girros Hide,2,Jyuratodus Fin,3,Jyuratodus Shell,3,Gajau Skin,3
 Madness Rifle III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Jyuratodus Shell,3,Gajau Whisker,3
+Jyura Bullet I,Create,Jyuratodus Fang+,3,Jyuratodus Fin+,3,Torrent Sac,2,Wyvern Gem,1
 Jyura Bullet I,Upgrade,Jyuratodus Fin+,2,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Jyura Bullet II,Upgrade,Monster Hardbone,3,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Jyura Bullet III,Upgrade,Elder Dragon Bone,2,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -1094,7 +1119,7 @@ Dai-Onigashima,Upgrade,Xeno'jiiva Claw,4,Bazelgeuse Wing,4,Bazelgeuse Talon,4,Ba
 Mythical Horn,Upgrade,Kirin Thunderhorn,3,Kirin Hide,3,Kirin Tail,1,Lightcrystal,1
 Mythical Horn+,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Crystal,5
 Mythical Three-Horn,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
-Blacksteel Crossbow I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Crossbow I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Crossbow II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Wasp,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Hornet,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1
@@ -1111,7 +1136,7 @@ Iron Assault I,Create,Iron Ore,1,,,,,,
 Iron Assault II,Upgrade,Iron Ore,2,,,,,,
 Iron Assault III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Assault I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Assault II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Assault II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Assault III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Chrome Assault I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Chrome Assault II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -1119,7 +1144,8 @@ Nergal Roar,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Ta
 Destruction's Fusillade,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
 Aqua Assault I,Upgrade,Earth Crystal,3,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Assault II,Upgrade,Dragonite Ore,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
-Aqua Assault III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal,3,Gajau Whisker,3
+Aqua Assault III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal (LR),3,Gajau Whisker,3
+Water Cannon I,Create,Jyuratodus Shard,3,Flood Sac,2,Jyuratodus Scale+,3,Novacrystal,1
 Water Cannon I,Upgrade,Carbalite Ore,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Cannon II,Upgrade,Fucium Ore,5,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Cannon III,Upgrade,Elder Dragon Blood,3,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -1156,7 +1182,7 @@ Dual Threat,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,Blos Med
 Nero's Blazooka,Upgrade,Black Spiral Horn+,1,Black Diablos Ridge+,2,Black Diablos Carapace,4,Wyvern Gem,1
 Griffon Blazooka,Upgrade,Xeno'jiiva Tail,2,Black Spiral Horn+,3,Black Diablos Carapace,6,Dragonbone Relic,2
 Blooming Shooter I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Shooter II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Shooter II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Shooter III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura Blaster I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura Blaster II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
@@ -1170,7 +1196,7 @@ Baan Roar III,Upgrade,Elder Dragon Bone,5,Radobaan Carapace,6,Coma Sac,4,Wyvern 
 Gama Cannon I,Upgrade,Dodogama Talon,4,Dodogama Scale+,6,Dodogama Hide+,4,,
 Gama Cannon II,Upgrade,Fire Dragon Scale+,4,Dodogama Jaw,4,Dodogama Tail,3,Wyvern Gem,1
 Pulsar Shooter I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Shooter II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Shooter II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Shooter III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
 Kadachi Lion I,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Kadachi Lion II,Upgrade,Majestic Horn,2,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,4,Thunder Sac,3
@@ -1183,7 +1209,7 @@ Quickcaster+,Upgrade,Kirin Azure Horn,4,Kirin Hide+,5,Kirin Mane,4,Dragonvein Cr
 Quickquiver,Upgrade,Xeno'jiiva Shell,4,Kirin Azure Horn,6,Kirin Thundertail,3,Novacrystal,2
 Magda Gemitus I,Upgrade,Zorah Magdaros Heat Scale,4,Zorah Magdaros Carapace,8,Zorah Magdaros Magma,4,Zorah Magdaros Gem,1
 Magda Gemitus II,Upgrade,Xeno'jiiva Shell,4,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,2,Firecell Stone,3
-Blacksteel Cannon I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Cannon I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Cannon II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Teostra's Artillery,Upgrade,Teostra Claw+,2,Teostra Mane,2,Teostra Carapace,5,Teostra Powder,4
 Teostra's Flames,Upgrade,Xeno'jiiva Soulscale,5,Teostra Horn+,5,Teostra Claw+,2,Teostra Gem,1
@@ -1198,7 +1224,7 @@ Iron Bow I,Create,Iron Ore,1,,,,,,
 Iron Bow II,Upgrade,Iron Ore,2,,,,,,
 Iron Bow III,Upgrade,Earth Crystal,2,Machalite Ore,2,Iron Ore,5,,
 Steel Bow I,Upgrade,Dragonite Ore,2,Machalite Ore,5,Monster Bone M,2,,
-Steel Bow II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal,2,Machalite Ore,10
+Steel Bow II,Upgrade,Monster Bone+,2,Dragonite Ore,5,Coral Crystal (LR),2,Machalite Ore,10
 Steel Bow III,Upgrade,Carbalite Ore,8,Dragonite Ore,5,Dragonvein Crystal,2,,
 Alloy Bow I,Upgrade,Fucium Ore,8,Carbalite Ore,5,Dragonite Ore,10,Dragonvein Crystal,3
 Alloy Bow II,Upgrade,Elder Dragon Blood,2,Fucium Ore,13,Carbalite Ore,20,Firecell Stone,1
@@ -1221,7 +1247,7 @@ Rathslinger II,Upgrade,Rathalos Scale+,6,Rathalos Carapace,4,Rathalos Wing,2,Rat
 Rathslinger III,Upgrade,Azure Rathalos Scale+,6,Azure Rathalos Carapace,4,Azure Rathalos Wing,3,Rathalos Ruby,1
 Aqua Arrow I,Upgrade,Earth Crystal,3,Jyuratodus Shell,1,Jyuratodus Scale,3,Aqua Sac,1
 Aqua Arrow II,Upgrade,Dragonite Ore,5,Jyuratodus Fin,3,Jyuratodus Fang,2,Gajau Skin,3
-Aqua Arrow III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal,3,Gajau Whisker,3
+Aqua Arrow III,Upgrade,Monster Bone+,2,Jyuratodus Fang,4,Coral Crystal (LR),3,Gajau Whisker,3
 Water Shot I,Upgrade,Carbalite Ore,5,Jyuratodus Carapace,2,Jyuratodus Scale+,3,Gajau Scale,5
 Water Shot II,Upgrade,Fucium Ore,5,Jyuratodus Fin+,4,Torrent Sac,3,Grand Gajau Whisker,3
 Water Shot III,Upgrade,Elder Dragon Blood,3,Jyuratodus Fin+,6,Jyuratodus Fang+,5,Wyvern Gem,1
@@ -1246,7 +1272,7 @@ Diablos Coilbender,Upgrade,Majestic Horn,3,Diablos Carapace,6,Diablos Ridge+,5,B
 Galebender,Upgrade,Black Spiral Horn+,1,Black Diablos Ridge+,2,Black Diablos Carapace,4,Wyvern Gem,1
 Cera Coilbender,Upgrade,Xeno'jiiva Tail,2,Black Spiral Horn+,3,Black Diablos Carapace,6,Dragonbone Relic,2
 Blooming Arch I,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
-Blooming Arch II,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
+Blooming Arch II,Upgrade,Coral Crystal (LR),3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Arch III,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
 Datura String I,Upgrade,Pukei-Pukei Scale+,3,Pukei-Pukei Wing,2,Toxin Sac,2,Quality Bone,3
 Datura String II,Upgrade,Monster Hardbone,3,Pukei-Pukei Wing,3,Pukei-Pukei Carapace,5,Toxin Sac,2
@@ -1257,14 +1283,15 @@ Anja Arch I,Upgrade,Anjanath Fang+,4,Anjanath Scale+,5,Inferno Sac,3,Anjanath Pl
 Anja Arch II,Upgrade,Rathalos Medulla,2,Anjanath Fang+,5,Anjanath Pelt+,4,Firecell Stone,1
 Anja Arch III,Upgrade,Teostra Mane,2,Anjanath Fang+,6,Anjanath Nosebone+,2,Anjanath Gem,1
 Pulsar Bow I,Upgrade,Tobi-Kadachi Claw,1,Tobi-Kadachi Scale,3,Tobi-Kadachi Pelt,2,,
-Pulsar Bow II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal,3
+Pulsar Bow II,Upgrade,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,3,Electro Sac,2,Coral Crystal (LR),3
 Pulsar Bow III,Upgrade,Monster Bone+,2,Tobi-Kadachi Electrode,2,Tobi-Kadachi Membrane,2,Warped Bone,2
+Kadachi Strikebow,Create,Tobi-Kadachi Shard,3,Lightning Sac,2,Tobi-Kadachi Scale+,4,Novacrystal,1
 Kadachi Strikebow,Upgrade,Tobi-Kadachi Claw+,3,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Dragonvein Crystal,3
 Flying Kadachi Strikebow,Upgrade,Nergigante Talon,2,Tobi-Kadachi Electrode+,4,Tobi-Kadachi Claw+,6,Wyvern Gem,1
 Dragonbone Bow I,Create,Warped Bone,5,Coral Bone,5,Boulder Bone,5,Ancient Bone,5
 Dragonbone Bow II,Upgrade,Monster Bone+,6,Monster Bone L,8,Sturdy Bone,8,,
 Dragonbone Bow III,Upgrade,Elder Dragon Bone,10,Brutal Bone,4,Dragonbone Relic,2,Wyvern Gem,1
-Blacksteel Bow I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal,10,Lightcrystal,1
+Blacksteel Bow I,Create,Dragonvein Crystal,10,Earth Crystal,10,Coral Crystal (LR),10,Lightcrystal,1
 Blacksteel Bow II,Upgrade,Firecell Stone,1,Fucium Ore,5,Carbalite Ore,10,Wyvern Gem,1
 Icesteel Bow,Upgrade,Daora Claw+,3,Daora Webbing,4,Nergigante Carapace,5,Daora Tail,2
 Daora's Sagittarii,Upgrade,Xeno'jiiva Wing,2,Daora Horn+,5,Daora Claw+,4,Daora Gem,1

@@ -1,16 +1,17 @@
 import collections
 from string import ascii_uppercase
 
-from .metadata import MonsterMetadata
-from .load import load_quests
-from .artifacts import write_dicts_artifact
-from .items import ItemUpdater
-from .parsers import struct_to_json
-
 from mhdata import cfg, typecheck
 from mhdata.io import create_writer, DataMap
 from mhdata.util import flatten_dict
 from mhdata.load import schema
+
+from mhdata.binary.metadata import MonsterMetadata
+from mhdata.binary.load import load_quests
+from mhdata.binary.parsers import struct_to_json
+
+from .artifacts import write_dicts_artifact
+from .items import ItemUpdater
 
 def update_quests(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetadata, area_map):
     print('Beginning load of quest binary data')

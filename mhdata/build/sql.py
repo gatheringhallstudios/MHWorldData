@@ -693,6 +693,8 @@ def build_kinsects(session: sqlalchemy.orm.Session, mhdata):
         if recipe:
             for item, quantity in datafn.iter_recipe(recipe):
                 item_id = mhdata.item_map.id_of("en", item)
+                ensure(item_id, f"Kinsect {entry.name('en')} refers to " +
+                    f"item {item}, which doesn't exist.")
                 kinsect.craft_items.append(db.RecipeItem(
                     recipe_id=next_recipe_id,
                     item_id=item_id,
@@ -711,9 +713,15 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
     decoration_map = mhdata.decoration_map
 
     for decoration_id, entry in decoration_map.items():
-        skill_id = skill_map.id_of('en', entry['skill_en'])
-        ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
-            f"skill {entry['skill_en']}, which doesn't exist.")
+        skills = [[None, None]] * 2
+        for i in [1, 2]:
+            skill_name = entry[f'skill{i}_name']
+            if skill_name:
+                skill_id = skill_map.id_of('en', skill_name)
+                ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
+                    f"skill {skill_name}, which doesn't exist.")
+                skill_level = entry[f"skill{i}_level"]
+                skills[i - 1] = [skill_id, skill_level]
 
         ensure("chances" in entry, "Missing chance data for " + entry.name('en'))
         
@@ -722,11 +730,17 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             rarity=entry['rarity'],
             slot=entry['slot'],
             icon_color=entry['icon_color'],
-            skilltree_id=skill_id,
+            skilltree_id=skills[0][0],
+            skilltree_level=skills[0][1],
+            skilltree2_id=skills[1][0],
+            skilltree2_level=skills[1][1],
             mysterious_feystone_percent=entry['chances']['mysterious'],
             glowing_feystone_percent=entry['chances']['glowing'],
             worn_feystone_percent=entry['chances']['worn'],
-            warped_feystone_percent=entry['chances']['warped']
+            warped_feystone_percent=entry['chances']['warped'],
+            ancient_feystone_percent=entry['chances']['ancient'],
+            carved_feystone_percent=entry['chances']['carved'],
+            sealed_feystone_percent=entry['chances']['sealed'],
         )
 
         for language in cfg.supported_languages:
@@ -743,6 +757,9 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
     item_map = mhdata.item_map
     skill_map = mhdata.skill_map
     charm_map = mhdata.charm_map
+
+    # Store next recipe id ahead of time
+    next_recipe_id = calculate_next_recipe_id(session)
 
     for order_id, entry in enumerate(charm_map.values()):
         # Note: previous is ok to be None
@@ -765,7 +782,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
         for skill_en, level in entry['skills'].items():
             skill_id = skill_map.id_of('en', skill_en)
             ensure(skill_id, f"Charm {entry.name('en')} refers to " +
-                f"item {skill_en}, which doesn't exist.")
+                f"skill {skill_en}, which doesn't exist.")
 
             charm.skills.append(db.CharmSkill(
                 skilltree_id=skill_id,
@@ -774,17 +791,17 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
         # Add Charm Recipe
         if entry['craft']:
-            charm.recipe_id = calculate_next_recipe_id(session)
             for item_en, quantity in entry['craft'].items():
                 item_id = item_map.id_of('en', item_en)
                 ensure(item_id, f"Charm {entry.name('en')} refers to " +
                     f"item {item_en}, which doesn't exist.")
 
                 charm.craft_items.append(db.RecipeItem(
-                    recipe_id=charm.recipe_id,
+                    recipe_id=next_recipe_id,
                     item_id=item_id,
                     quantity=quantity
                 ))
+            next_recipe_id += 1
 
         session.add(charm)
 

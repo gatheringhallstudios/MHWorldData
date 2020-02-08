@@ -151,8 +151,9 @@ class StructMeta(type):
 class StructFile:
     EntryFactory = None
     MAGIC = None
-    NUM_ENTRY_OFFSET = 2
-    ENTRY_OFFSET = 6
+    MAGIC_OFFSET = 4
+    NUM_ENTRY_OFFSET = 6
+    ENTRY_OFFSET = 10
 
     def __init__(self, data):
         self.modified = False
@@ -191,17 +192,17 @@ class StructFile:
 
     @classmethod
     def check_header(cls, data):
-        result = struct.unpack_from("<H", data, 0)
+        result = struct.unpack_from('<H', data, cls.MAGIC_OFFSET)
         if result[0] != cls.MAGIC:
             raise InvalidDataError(
-                f"magic byte invalid: expected {cls.MAGIC:04X}, "
+                f"magic byte invalid on type {cls.__name__}: expected {cls.MAGIC:04X}, "
                 f"found {result[0]:04X}")
         result = struct.unpack_from("<I", data, cls.NUM_ENTRY_OFFSET)
         num_entries = result[0]
         entries_size = num_entries * cls.EntryFactory.STRUCT_SIZE
         data_entries_size = len(data) - cls.ENTRY_OFFSET
         if data_entries_size != entries_size:
-            raise InvalidDataError(f"total size invalid: "
+            raise InvalidDataError(f"total size invalid on type {cls.__name__}: "
                                    f"expected {entries_size} bytes, "
                                    f"found {data_entries_size}")
         return True
@@ -226,7 +227,7 @@ class StructFile:
         self.modified = self.modified or value
         if self.modified != modified:
             self.modified_cb(value)
-
+            
 
 class Struct(metaclass=StructMeta):
     def __init__(self, parent, index, data, offset):

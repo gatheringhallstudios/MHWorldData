@@ -601,16 +601,22 @@ class Decoration(Base):
     __tablename__ = 'decoration'
 
     id = Column(Integer, primary_key=True)
-    rarity = Column(Integer)
-
-    skilltree_id = Column(Integer, ForeignKey("skilltree.id"))
     slot = Column(Integer)
+    rarity = Column(Integer)
     icon_color = Column(Text)
+
+    skilltree_id = Column(Integer, ForeignKey("skilltree.id"), nullable=False)
+    skilltree_level = Column(Integer, nullable=False)
+    skilltree2_id = Column(Integer, ForeignKey("skilltree.id"), nullable=True)
+    skilltree2_level = Column(Integer, nullable=True)
 
     mysterious_feystone_percent = Column(Float)
     glowing_feystone_percent = Column(Float)
     worn_feystone_percent = Column(Float)
     warped_feystone_percent = Column(Float)
+    ancient_feystone_percent = Column(Float)
+    carved_feystone_percent = Column(Float)
+    sealed_feystone_percent = Column(Float)
 
     translations = relationship("DecorationText")
     
@@ -628,7 +634,7 @@ class Charm(Base):
     rarity = Column(Integer)
     
     previous_id = Column(Integer, ForeignKey('charm.id'))
-    recipe_id = Column(Integer, ForeignKey('recipe_item.recipe_id'))
+    recipe_id = Column(ForeignKey('recipe_item.recipe_id'), nullable=True)
 
     skills = relationship('CharmSkill')
     craft_items = relationship('RecipeItem', uselist=True)

@@ -173,17 +173,155 @@ Sealed Eyepatch α,HR,,Sealed Eyepatch α,,,,,
 Shadow Shades α,HR,,Shadow Shades α,,,,,
 Kulu-Ya-Ku Head α,HR,Kulu-Ya-Ku,Kulu-Ya-Ku Head α,,,,,
 Wiggler Head α,HR,,Wiggler Head α,,,,,
-Bone α +,MR,,Bone Helm α +,Bone Mail α +,Bone Vambraces α +,Bone Coil α +,Bone Greaves α +,
-Bone β +,MR,,Bone Helm β +,Bone Mail β +,Bone Vambraces β +,Bone Coil β +,Bone Greaves β +,
-Alloy α +,MR,,Alloy Helm α +,Alloy Mail α +,Alloy Vambraces α +,Alloy Coil α +,Alloy Greaves α +,
-Alloy β +,MR,,Alloy Helm β +,Alloy Mail β +,Alloy Vambraces β +,Alloy Coil β +,Alloy Greaves β +,
-Vespoid α +,MR,Vespoid,Vespoid Helm α +,Vespoid Mail α +,Vespoid Vambraces α +,Vespoid Coil α +,Hornetaur Greaves α +,
-Vespoid β +,MR,Vespoid,Vespoid Helm β +,Vespoid Mail β +,Vespoid Vambraces β +,Vespoid Coil β +,Hornetaur Greaves β +,
-Hornetaur α +,MR,Hornetaur,Hornetaur Helm α +,Hornetaur Mail α +,Hornetaur Vambraces α +,Hornetaur Coil α +,Hornetaur Greaves α +,
-Hornetaur β +,MR,Hornetaur,Hornetaur Helm β +,Hornetaur Mail β +,Hornetaur Vambraces β +,Hornetaur Coil β +,Hornetaur Greaves β +,
-Kestodon α +,MR,Kestodon,,,,Kestodon Guards α +,,
-Kestodon β +,MR,Kestodon,,,,Kestodon Guards β +,,
-Gajau α +,MR,Gajau,,,,,Gajau Boots α +,
-Gajau β +,MR,Gajau,,,,,Gajau Boots β +,
-Shamos α +,MR,Shamos,Shamos Goggles α +,,,,,
-Shamos β +,MR,Shamos,Shamos Googles β +,,,,,
+Bone α+,MR,,Bone Helm α+,Bone Mail α+,Bone Vambraces α+,Bone Coil α+,Bone Greaves α+,
+Bone β+,MR,,Bone Helm β+,Bone Mail β+,Bone Vambraces β+,Bone Coil β+,Bone Greaves β+,
+Alloy α+,MR,,Alloy Helm α+,Alloy Mail α+,Alloy Vambraces α+,Alloy Coil α+,Alloy Greaves α+,
+Alloy β+,MR,,Alloy Helm β+,Alloy Mail β+,Alloy Vambraces β+,Alloy Coil β+,Alloy Greaves β+,
+Vespoid α+,MR,Vespoid,Vespoid Helm α+,Vespoid Mail α+,Vespoid Vambraces α+,Vespoid Coil α+,Vespoid Greaves α+,
+Vespoid β+,MR,Vespoid,Vespoid Helm β+,Vespoid Mail β+,Vespoid Vambraces β+,Vespoid Coil β+,Vespoid Greaves β+,
+Hornetaur α+,MR,Hornetaur,Hornetaur Helm α+,Hornetaur Mail α+,Hornetaur Vambraces α+,Hornetaur Coil α+,Hornetaur Greaves α+,
+Hornetaur β+,MR,Hornetaur,Hornetaur Helm β+,Hornetaur Mail β+,Hornetaur Vambraces β+,Hornetaur Coil β+,Hornetaur Greaves β+,
+Kestodon α+,MR,Kestodon,,,Kestodon Guards α+,,,
+Kestodon β+,MR,Kestodon,,,Kestodon Guards β+,,,
+Gajau α+,MR,Gajau,,,,,Gajau Boots α+,
+Gajau β+,MR,Gajau,,,,,Gajau Boots β+,
+Shamos α+,MR,Shamos,Shamos Goggles α+,,,,,
+Shamos β+,MR,Shamos,Shamos Goggles β+,,,,,
+Gastodon α+,MR,Gastodon,Gastodon Horn α+,,,,,
+Gastodon β+,MR,Gastodon,Gastodon Horn β+,,,,,
+Barnos α+,MR,Barnos,,Barnos Jacket α+,,,,
+Barnos β+,MR,Barnos,,Barnos Jacket β+,,,,
+Wulg α+,MR,Wulg,Wulg Scarf α+,,,,,
+Wulg β+,MR,Wulg,Wulg Scarf β+,,,,,
+Cortos α+,MR,Cortos,,Cortos Cape α+,,,,
+Cortos β+,MR,Cortos,,Cortos Cape β+,,,,
+Jagras α+,MR,Great Jagras,Jagras Helm α+,Jagras Mail α+,Jagras Vambraces α+,Jagras Coil α+,Jagras Greaves α+,
+Jagras β+,MR,Great Jagras,Jagras Helm β+,Jagras Mail β+,Jagras Vambraces β+,Jagras Coil β+,Jagras Greaves β+,
+Tzitzi α+,MR,Tzitzi-Ya-Ku,Tzitzi Headgear α+,Tzitzi Mail α+,Tzitzi Vambraces α+,Tzitzi Coil α+,Tzitzi Greaves α+,
+Tzitzi β+,MR,Tzitzi-Ya-Ku,Tzitzi Headgear β+,Tzitzi Mail β+,Tzitzi Vambraces β+,Tzitzi Coil β+,Tzitzi Greaves β+,
+Girros α+,MR,Great Girros,Girros Headgear α+,Girros Mail α+,Girros Vambraces α+,Girros Coil α+,Girros Greaves α+,
+Girros β+,MR,Great Girros,Girros Headgear β+,Girros Mail β+,Girros Vambraces β+,Girros Coil β+,Girros Greaves β+,
+Dodogama α+,MR,Dodogama,Dodogama Helm α+,Dodogama Mail α+,Dodogama Vambraces α+,Dodogama Coil α+,Dodogama Greaves α+,
+Dodogama β+,MR,Dodogama,Dodogama Helm β+,Dodogama Mail β+,Dodogama Vambraces β+,Dodogama Coil β+,Dodogama Greaves β+,
+Kulu α+,MR,Kulu-Ya-Ku,Kulu Headpiece α+,Kulu Mail α+,Kulu Vambraces α+,Kulu Coil α+,Kulu Greaves α+,
+Kulu β+,MR,Kulu-Ya-Ku,Kulu Headpiece β+,Kulu Mail β+,Kulu Vambraces β+,Kulu Coil β+,Kulu Greaves β+,
+Pukei α+,MR,Pukei-Pukei,Pukei Hat α+,Pukei Mail α+,Pukei Vambraces α+,Pukei Coil α+,Pukei Greaves α+,
+Pukei β+,MR,Pukei-Pukei,Pukei Hat β+,Pukei Mail β+,Pukei Vambraces β+,Pukei Coil β+,Pukei Greaves β+,
+Coral Pukei α+,MR,Coral Pukei-Pukei,Pukei Lagoon Hat α+,Pukei Lagoon Mail α+,Pukei Lagoon Braces α+,Pukei Lagoon Coil α+,Pukei Lagoon Greaves α+,
+Coral Pukei β+,MR,Coral Pukei-Pukei,Pukei Lagoon Hat β+,Pukei Lagoon Mail β+,Pukei Lagoon Braces β+,Pukei Lagoon Coil β+,Pukei Lagoon Greaves β+,
+Barroth α+,MR,Barroth,Barroth Helm α+,Barroth Mail α+,Barroth Vambraces α+,Barroth Coil α+,Barroth Greaves α+,
+Barroth β+,MR,Barroth,Barroth Helm β+,Barroth Mail β+,Barroth Vambraces β+,Barroth Coil β+,Barroth Greaves β+,
+Jyura α+,MR,Jyuratodus,Jyura Helm α+,Jyura Mail α+,Jyura Vambraces α+,Jyura Coil α+,Jyura Greaves α+,
+Jyura β+,MR,Jyuratodus,Jyura Helm β+,Jyura Mail β+,Jyura Vambraces β+,Jyura Coil β+,Jyura Greaves β+,
+Beo α+,MR,Beotodus,Beo Helm α+,Beo Mail α+,Beo Vambraces α+,Beo Coil α+,Beo Greaves α+,
+Beo β+,MR,Beotodus,Beo Helm β+,Beo Mail β+,Beo Vambraces β+,Beo Coil β+,Beo Greaves β+,
+Kadachi α+,MR,Tobi-Kadachi,Kadachi Hat α+,Kadachi Mail α+,Kadachi Vambraces α+,Kadachi Coil α+,Kadachi Greaves α+,
+Kadachi β+,MR,Tobi-Kadachi,Kadachi Hat β+,Kadachi Mail β+,Kadachi Vambraces β+,Kadachi Coil β+,Kadachi Greaves β+,
+Viper Kadachi α+,MR,Viper Tobi-Kadachi,Viper Kadachi Hat α+,Viper Kadachi Mail α+,Viper Kadachi Braces α+,Viper Kadachi Coil α+,Viper Kadachi Greaves α+,
+Viper Kadachi β+,MR,Viper Tobi-Kadachi,Viper Kadachi Hat β+,Viper Kadachi Mail β+,Viper Kadachi Braces β+,Viper Kadachi Coil β+,Viper Kadachi Greaves β+,
+High Metal α+,MR,,High Metal Helm α+,High Metal Mail α+,High Metal Braces α+,High Metal Coil α+,High Metal Greaves α+,
+High Metal β+,MR,,High Metal Helm β+,High Metal Mail β+,High Metal Braces β+,High Metal Coil β+,High Metal Greaves β+,
+Banbaro α+,MR,Banbaro,Banbaro Helm α+,Banbaro Mail α+,Banbaro Vambraces α+,Banbaro Coil α+,Banbaro Greaves α+,
+Banbaro β+,MR,Banbaro,Banbaro Helm β+,Banbaro Mail β+,Banbaro Vambraces β+,Banbaro Coil β+,Banbaro Greaves β+,
+Anja α+,MR,Anjanath,Anja Helm α+,Anja Mail α+,Anja Vambraces α+,Anja Coil α+,Anja Greaves α+,Anjanath Dominance
+Anja β+,MR,Anjanath,Anja Helm β+,Anja Mail β+,Anja Vambraces β+,Anja Coil β+,Anja Greaves β+,Anjanath Dominance
+Fulgur Anja α+,MR,Fulgur Anjanath,Fulgur Helm α+,Fulgur Mail α+,Fulgur Vambraces α+,Fulgur Coil α+,Fulgur Greaves α+,Anjanath Dominance
+Fulgur Anja β+,MR,Fulgur Anjanath,Fulgur Helm β+,Fulgur Mail β+,Fulgur Vambraces β+,Fulgur Coil β+,Fulgur Greaves β+,Anjanath Dominance
+Rathian α+,MR,Rathian,Rathian Helm α+,Rathian Mail α+,Rathian Vambraces α+,Rathian Coil α+,Rathian Greaves α+,Rathian Essence
+Rathian β+,MR,Rathian,Rathian Helm β+,Rathian Mail β+,Rathian Vambraces β+,Rathian Coil β+,Rathian Greaves β+,Rathian Essence
+Rath Heart α+,MR,Pink Rathian,Rath Heart Helm α+,Rath Heart Mail α+,Rath Heart Braces α+,Rath Heart Coil α+,Rath Heart Greaves α+,Rathian Essence
+Rath Heart β+,MR,Pink Rathian,Rath Heart Helm β+,Rath Heart Mail β+,Rath Heart Braces β+,Rath Heart Coil β+,Rath Heart Greaves β+,Rathian Essence
+Lumu α+,MR,Paolumu,Lumu Hat α+,Lumu Mail α+,Lumu Vambraces α+,Lumu Coil α+,Lumu Greaves α+,
+Lumu β+,MR,Paolumu,Lumu Hat β+,Lumu Mail β+,Lumu Vambraces β+,Lumu Coil β+,Lumu Greaves β+,
+Lumu Phantasm α+,MR,Nightshade Paolumu,Lumu Phantasm Hood α+,Lumu Phantasm Mail α+,Lumu Phantasm Braces α+,Lumu Phantasm Coil α+,Lumu Phantasm Greaves α+,
+Lumu Phantasm β+,MR,Nightshade Paolumu,Lumu Phantasm Hood β+,Lumu Phantasm Mail β+,Lumu Phantasm Braces β+,Lumu Phantasm Coil β+,Lumu Phantasm Greaves β+,
+Baan α+,MR,Radobaan,Baan Helm α+,Baan Mail α+,Baan Vambraces α+,Baan Coil α+,Baan Greaves α+,
+Baan β+,MR,Radobaan,Baan Helm β+,Baan Mail β+,Baan Vambraces β+,Baan Coil β+,Baan Greaves β+,
+Artian α+,MR,,Artian Helm α+,Artian Mail α+,Artian Vambraces α+,Artian Coil α+,Artian Greaves α+,Ancient Divinity
+Artian β+,MR,,Artian Helm β+,Artian Mail β+,Artian Vambraces β+,Artian Coil β+,Artian Greaves β+,Ancient Divinity
+Clockwork α+,MR,,Clockwork Helm α+,Clockwork Mail α+,Clockwork Braces α+,Clockwork Coil α+,Clockwork Greaves α+,Commission Alchemy
+Clockwork β+,MR,,Clockwork Helm β+,Clockwork Mail β+,Clockwork Braces β+,Clockwork Coil β+,Clockwork Greaves β+,Commission Alchemy
+Ingot α+,MR,,Ingot Helm α+,Ingot Mail α+,Ingot Vambraces α+,Ingot Coil α+,Ingot Greaves α+,
+Ingot β+,MR,,Ingot Helm β+,Ingot Mail β+,Ingot Vambraces β+,Ingot Coil β+,Ingot Greaves β+,
+Barioth α+,MR,Barioth,Barioth Helm α+,Barioth Mail α+,Barioth Vambraces α+,Barioth Faulds α+,Barioth Greaves α+,Barioth Hidden Art
+Barioth β+,MR,Barioth,Barioth Helm β+,Barioth Mail β+,Barioth Vambraces β+,Barioth Faulds β+,Barioth Greaves β+,Barioth Hidden Art
+Rathalos α+,MR,Rathalos,Rathalos Helm α+,Rathalos Mail α+,Rathalos Vambraces α+,Rathalos Coil α+,Rathalos Greaves α+,Rathalos Essence
+Rathalos β+,MR,Rathalos,Rathalos Helm β+,Rathalos Mail β+,Rathalos Vambraces β+,Rathalos Coil β+,Rathalos Greaves β+,Rathalos Essence
+Rath Soul α+,MR,Azure Rathalos,Rath Soul Helm α+,Rath Soul Mail α+,Rath Soul Braces α+,Rath Soul Coil α+,Rath Soul Greaves α+,Rathalos Essence
+Rath Soul β+,MR,Azure Rathalos,Rath Soul Helm β+,Rath Soul Mail β+,Rath Soul Braces β+,Rath Soul Coil β+,Rath Soul Greaves β+,Rathalos Essence
+Diablos α+,MR,Diablos,Diablos Helm α+,Diablos Mail α+,Diablos Vambraces α+,Diablos Coil α+,Diablos Greaves α+,Diablos Ambition
+Diablos β+,MR,Diablos,Diablos Helm β+,Diablos Mail β+,Diablos Vambraces β+,Diablos Coil β+,Diablos Greaves β+,Diablos Ambition
+Diablos Nero α+,MR,Black Diablos,Diablos Nero Helm α+,Diablos Nero Mail α+,Diablos Nero Braces α+,Diablos Nero Coil α+,Diablos Nero Greaves α+,Diablos Ambition
+Diablos Nero β+,MR,Black Diablos,Diablos Nero Helm β+,Diablos Nero Mail β+,Diablos Nero Braces β+,Diablos Nero Coil β+,Diablos Nero Greaves β+,Diablos Ambition
+Legiana α+,MR,Legiana,Legiana Helm α+,Legiana Mail α+,Legiana Vambraces α+,Legiana Coil α+,Legiana Greaves α+,Legiana Ambition
+Legiana β+,MR,Legiana,Legiana Helm β+,Legiana Mail β+,Legiana Vambraces β+,Legiana Coil β+,Legiana Greaves β+,Legiana Ambition
+Shrieking Legia α+,MR,Shrieking Legiana,Hoarcry Helm α+,Hoarcry Mail α+,Hoarcry Vambraces α+,Hoarcry Coil α+,Hoarcry Greaves α+,Legiana Ambition
+Shrieking Legia β+,MR,Shrieking Legiana,Hoarcry Helm β+,Hoarcry Mail β+,Hoarcry Vambraces β+,Hoarcry Coil β+,Hoarcry Greaves β+,Legiana Ambition
+Odogaron α+,MR,Odogaron,Odogaron Helm α+,Odogaron Mail α+,Odogaron Vambraces α+,Odogaron Coil α+,Odogaron Greaves α+,Odogaron Essence
+Odogaron β+,MR,Odogaron,Odogaron Helm β+,Odogaron Mail β+,Odogaron Vambraces β+,Odogaron Coil β+,Odogaron Greaves β+,Odogaron Essence
+Death Garon α+,MR,Ebony Odogaron,Death Garon Helm α+,Death Garon Mail α+,Death Garon Braces α+,Death Garon Coil α+,Death Garon Greaves α+,Odogaron Essence
+Death Garon β+,MR,Ebony Odogaron,Death Garon Helm β+,Death Garon Mail β+,Death Garon Braces β+,Death Garon Coil β+,Death Garon Greaves β+,Odogaron Essence
+Lavasioth α+,MR,Lavasioth,Lavasioth Helm α+,Lavasioth Mail α+,Lavasioth Vambraces α+,Lavasioth Coil α+,Lavasioth Greaves α+,
+Lavasioth β+,MR,Lavasioth,Lavasioth Helm β+,Lavasioth Mail β+,Lavasioth Vambraces β+,Lavasioth Coil β+,Lavasioth Greaves β+,
+Uragaan α+,MR,Uragaan,Uragaan Helm α+,Uragaan Mail α+,Uragaan Vambraces α+,Uragaan Coil α+,Uragaan Greaves α+,Uragaan Ambition
+Uragaan β+,MR,Uragaan,Uragaan Helm β+,Uragaan Mail β+,Uragaan Vambraces β+,Uragaan Coil β+,Uragaan Greaves β+,Uragaan Ambition
+Nargacuga α+,MR,Nargacuga,Nargacuga Helm α+,Nargacuga Mail α+,Nargacuga Braces α+,Nargacuga Faulds α+,Nargacuga Greaves α+,Nargacuga Essence
+Nargacuga β+,MR,Nargacuga,Nargacuga Helm β+,Nargacuga Mail β+,Nargacuga Braces β+,Nargacuga Faulds β+,Nargacuga Greaves β+,Nargacuga Essence
+Glavenus α+,MR,Glavenus,Glavenus Helm α+,Glavenus Mail α+,Glavenus Braces α+,Glavenus Faulds α+,Glavenus Greaves α+,Glavenus Essence
+Glavenus β+,MR,Glavenus,Glavenus Helm β+,Glavenus Mail β+,Glavenus Braces β+,Glavenus Faulds β+,Glavenus Greaves β+,Glavenus Essence
+Acidic Glavenus α+,MR,Acidic Glavenus,Acidic Glavenus Helm α+,Acidic Glavenus Mail α+,Acidic Glavenus Braces α+,Acidic Glavenus Coil α+,Acidic Glavenus Greaves α+,Glavenus Essence
+Acidic Glavenus β+,MR,Acidic Glavenus,Acidic Glavenus Helm β+,Acidic Glavenus Mail β+,Acidic Glavenus Braces β+,Acidic Glavenus Coil β+,Acidic Glavenus Greaves β+,Glavenus Essence
+Brachydios α+,MR,Brachydios,Brachydios Helm α+,Brachydios Mail α+,Brachydios Braces α+,Brachydios Faulds α+,Brachydios Greaves α+,Brachydios Essence
+Brachydios β+,MR,Brachydios,Brachydios Helm β+,Brachydios Mail β+,Brachydios Braces β+,Brachydios Faulds β+,Brachydios Greaves β+,Brachydios Essence
+Tigrex α+,MR,Tigrex,Tigrex Helm α+,Tigrex Mail α+,Tigrex Braces α+,Tigrex Tassets α+,Tigrex Greaves α+,Tigrex Essence
+Tigrex β+,MR,Tigrex,Tigrex Helm β+,Tigrex Mail β+,Tigrex Braces β+,Tigrex Tassets β+,Tigrex Greaves β+,Tigrex Essence
+Brute Tigrex α+,MR,Brute Tigrex,Rex Roar Helm α+,Rex Roar Mail α+,Rex Roar Braces α+,Rex Roar Coil α+,Rex Roar Greaves α+,Tigrex Essence
+Brute Tigrex β+,MR,Brute Tigrex,Rex Roar Helm β+,Rex Roar Mail β+,Rex Roar Braces β+,Rex Roar Coil β+,Rex Roar Greaves β+,Tigrex Essence
+Black Belt α+,MR,,Black Belt Helm α+,Black Belt Mail α+,Black Belt Braces α+,Black Belt Tassets α+,Black Belt Greaves α+,Instructor's Guidance
+Black Belt β+,MR,,Black Belt Helm β+,Black Belt Mail β+,Black Belt Braces β+,Black Belt Tassets β+,Black Belt Greaves β+,Instructor's Guidance
+Dober α+,MR,,Dober Helm α+,Dober Mail α+,Dober Vambraces α+,Dober Coil α+,Dober Greaves α+,
+Dober β+,MR,,Dober Helm β+,Dober Mail β+,Dober Vambraces β+,Dober Coil β+,Dober Greaves β+,
+Damascus α+,MR,,Damascus Helm α+,Damascus Mail α+,Damascus Vambraces α+,Damascus Coil α+,Damascus Greaves α+,
+Damascus β+,MR,,Damascus Helm β+,Damascus Mail β+,Damascus Vambraces β+,Damascus Coil β+,Damascus Greaves β+,
+Seething Bazel α+,MR,Seething Bazelgeuse,Pride Helm α+,Pride Mail α+,Pride Vambraces α+,Pride Coil α+,Pride Greaves α+,Bazelgeuse Ambition
+Seething Bazel β+,MR,Seething Bazelgeuse,Pride Helm β+,Pride Mail β+,Pride Vambraces β+,Pride Coil β+,Pride Greaves β+,Bazelgeuse Ambition
+Savage Jho α+,MR,Savage Deviljho,Esurient Helm α+,Esurient Mail α+,Esurient Vambraces α+,Esurient Faulds α+,Esurient Greaves α+,Deviljho Essence
+Savage Jho β+,MR,Savage Deviljho,Esurient Helm β+,Esurient Mail β+,Esurient Vambraces β+,Esurient Faulds β+,Esurient Greaves β+,Deviljho Essence
+Velkhana α+,MR,Velkhana,Rimeguard Helm α+,Rimeguard Mail α+,Rimeguard Vambraces α+,Rimeguard Coil α+,Rimeguard Greaves α+,Velkhana Divinity
+Velkhana β+,MR,Velkhana,Rimeguard Helm β+,Rimeguard Mail β+,Rimeguard Vambraces β+,Rimeguard Coil β+,Rimeguard Greaves β+,Velkhana Divinity
+Blackveil Hazak α+,MR,Blackveil Vaal Hazak,Fellshroud Helm α+,Fellshroud Mail α+,Fellshroud Braces α+,Fellshroud Coil α+,Fellshroud Greaves α+,Vaal Soulvein
+Blackveil Hazak β+,MR,Blackveil Vaal Hazak,Fellshroud Helm β+,Fellshroud Mail β+,Fellshroud Braces β+,Fellshroud Coil β+,Fellshroud Greaves β+,Vaal Soulvein
+Teostra α+,MR,Teostra,Kaiser Crown α+,Kaiser Mail α+,Kaiser Vambraces α+,Kaiser Coil α+,Kaiser Greaves α+,Teostra Technique
+Teostra β+,MR,Teostra,Kaiser Crown β+,Kaiser Mail β+,Kaiser Vambraces β+,Kaiser Coil β+,Kaiser Greaves β+,Teostra Technique
+Kushala α+,MR,Kushala Daora,Kushala Glare α+,Kushala Cista α+,Kushala Grip α+,Kushala Cocoon α+,Kushala Crus α+,Kushala Daora Flight
+Kushala β+,MR,Kushala Daora,Kushala Glare β+,Kushala Cista β+,Kushala Grip β+,Kushala Cocoon β+,Kushala Crus β+,Kushala Daora Flight
+Kirin α+,MR,Kirin,Kirin Horn α+,Kirin Jacket α+,Kirin Longarms α+,Kirin Hoop α+,Kirin Leg Guards α+,Kirin Divinity
+Kirin β+,MR,Kirin,Kirin Horn β+,Kirin Jacket β+,Kirin Longarms β+,Kirin Hoop β+,Kirin Leg Guards β+,Kirin Divinity
+Namielle α+,MR,Namielle,Tentacle Cowl α+,Tentacle Cloak α+,Tentacle Gloves α+,Tentacle Coil α+,Tentacle Greaves α+,Namielle Divinity
+Namielle β+,MR,Namielle,Tentacle Cowl β+,Tentacle Cloak β+,Tentacle Gloves β+,Tentacle Coil β+,Tentacle Greaves β+,Namielle Divinity
+Guild Palace α+,MR,,Guild Palace Helm α+,Guild Palace Mail α+,Guild Palace Braces α+,Guild Palace Coil α+,Guild Palace Greaves α+,Guild Pride
+Guild Palace β+,MR,,Guild Palace Helm β+,Guild Palace Mail β+,Guild Palace Braces β+,Guild Palace Coil β+,Guild Palace Greaves β+,Guild Pride
+Shara Ishvalda α+,MR,Shara Ishvalda,Shara Ishvalda Helm α+,Shara Ishvalda Mail α+,Shara Ishvalda Braces α+,Shara Ishvalda Coil α+,Shara Ishvalda Greaves α+,Shara Ishvalda Divinity
+Shara Ishvalda β+,MR,Shara Ishvalda,Shara Ishvalda Helm β+,Shara Ishvalda Mail β+,Shara Ishvalda Braces β+,Shara Ishvalda Coil β+,Shara Ishvalda Greaves β+,Shara Ishvalda Divinity
+Zorah α+,MR,Zorah Magdaros,Zorah Headgear α+,Zorah Hide α+,Zorah Claws α+,Zorah Spine α+,Zorah Spurs α+,Zorah Magdaros Essence
+Zorah β+,MR,Zorah Magdaros,Zorah Headgear β+,Zorah Hide β+,Zorah Claws β+,Zorah Spine β+,Zorah Spurs β+,Zorah Magdaros Essence
+Yian Garuga α+,MR,Yian Garuga,Garuga Helm α+,Garuga Mail α+,Garuga Vambraces α+,Garuga Tassets α+,Garuga Greaves α+,
+Yian Garuga β+,MR,Yian Garuga,Garuga Helm β+,Garuga Mail β+,Garuga Vambraces β+,Garuga Tassets β+,Garuga Greaves β+,
+Zinogre α+,MR,Zinogre,Zinogre Helm α+,Zinogre Mail α+,Zinogre Braces α+,Zinogre Coil α+,Zinogre Greaves α+,Zinogre Essence
+Zinogre β+,MR,Zinogre,Zinogre Helm β+,Zinogre Mail β+,Zinogre Braces β+,Zinogre Coil β+,Zinogre Greaves β+,Zinogre Essence
+Golden Lune α+,MR,Golden Rathian,Golden Lunehelm α+,Golden Lunemail α+,Golden Lunebraces α+,Golden Lunecoil α+,Golden Lunegreaves α+,Gold Rathian Essence
+Golden Lune β+,MR,Golden Rathian,Golden Lunehelm β+,Golden Lunemail β+,Golden Lunebraces β+,Golden Lunecoil β+,Golden Lunegreaves β+,Gold Rathian Essence
+Silver Sol α+,MR,Silver Rathalos,Silver Solhelm α+,Silver Solmail α+,Silver Solbraces α+,Silver Solcoil α+,Silver Solgreaves α+,Silver Rathalos Essence
+Silver Sol β+,MR,Silver Rathalos,Silver Solhelm β+,Silver Solmail β+,Silver Solbraces β+,Silver Solcoil β+,Silver Solgreaves β+,Silver Rathalos Essence
+Lunastra α+,MR,Lunastra,Empress Crown α+,Empress Mail α+,Empress Vambraces α+,Empress Coil α+,Empress Greaves α+,Lunastra Essence
+Lunastra β+,MR,Lunastra,Empress Crown β+,Empress Mail β+,Empress Vambraces β+,Empress Coil β+,Empress Greaves β+,Lunastra Essence
+Ruiner Nergi α+,MR,Ruiner Nergigante,Ruinous Helm α+,Ruinous Mail α+,Ruinous Vambraces α+,Ruinous Coil α+,Ruinous Greaves α+,Nergigante Ambition
+Ruiner Nergi β+,MR,Ruiner Nergigante,Ruinous Helm β+,Ruinous Mail β+,Ruinous Vambraces β+,Ruinous Coil β+,Ruinous Greaves β+,Nergigante Ambition
+Guildwork α+,MR,,Guildwork Head α+,Guildwork Body α+,Guildwork Braces α+,Guildwork Waist α+,Guildwork Feet α+,Guild Pride
+Guildwork β+,MR,,Guildwork Head β+,Guildwork Body β+,Guildwork Braces β+,Guildwork Waist β+,Guildwork Feet β+,Guild Pride
+Oolong α+,MR,,Oolong Hair α+,Oolong Vest α+,Oolong Sleeves α+,Oolong Waist α+,Oolong Boots α+,Joyful Blessing
+Astral α+,MR,,Astral Veil α+,Astral Cloth α+,Astral Scarf α+,Astral Skirt α+,Astral Tights α+,Appreciation Blessing
+Pearlspring α+,MR,,Pearlspring α+,,,,,
+Duffel Penguin Mask α+,MR,,Duffel Penguin Mask α+,,,,,
+Sealed Dragon Cloth α+,MR,,Sealed Dragon Cloth α+,,,,,
+Wyverian Ears α+,MR,,Wyverian Ears α+,,,,,

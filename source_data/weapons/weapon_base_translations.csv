@@ -460,7 +460,7 @@ Xeno Maph'agarna,ゼノ＝マファガルナ,Xeno Maph'agarna,Maph'agarna Xeno,X
 Jail Hammer,ジェイルハンマー,Masse à protons,Nucleo paralizzante I,Kerkerhammer,Martillo Carcelario,Martelo Aprisionador,Więżący młot,Молот тюремщика,제일해머,牢獄錘,مطرقة السجن
 Binder Mace,バインドキューブ,Masse à protons II,Nucleo paralizzante II,Bindekeule,Mazo Ceñidor,Maça Prendedora,Buława oprawcy,Сковывающая булава,바인드큐브,電擊錘,صولجان الحاجز
 Devil's Due,混沌の鎚,Marteau du Chaos,Patto diabolico,Teufelsschuld,Diablo Sediento,Dívida do Diabo,Diabelna danina,Собственность дьявола,혼돈의 해머,混沌之鎚,حصة الشّيطان
-Devil's Crush,カオスラッシュ,Fracas du Chaos,Maglio diabolico,Teufelsbrecher,Diablo Aplastador,Esmagador do Diabo,Diabelny łamacz,Удар дьявола,카오스 러시,混沌之鎚,حطام الشّيطان
+Devil's Crush,カオスラッシュ,Fracas du Chaos,Maglio diabolico,Teufelsbrecher,Diablo Aplastador,Esmagador do Diabo,Diabelny łamacz,Удар дьявола,카오스 러시,混沌猛擊,حطام الشّيطان
 Empress Mace,エンプレスメイス,Masse Imperatrix,Mazza fiamma,Kaiserin-Keule,Maza Lunastra,Maça da Luna,Maczuga Luny,Палица императрицы,엠프리스메이스,皇后鏈錘,عصا الإمبراطورة
 "Empress Mace ""Blaze""",エンプレスメイス・炎妃,"Masse Imperatrix ""Lethe""","Mazza fiamma ""Vampa""","Kaiserin-Keule ""Lunastra""",Maza Lunastra (Luna),Maça da Luna Chama,Maczuga Luny „Żar”,"Палица ""Пламя""",엠프리스메이스-염비,皇后鏈錘‧炎妃,"عصا الإمبراطورة ""لهيب"""
 "Empress Mace ""Ruin""",エンプレスメイス・滅尽,"Masse Imperatrix ""Hadès""","Mazza fiamma ""Rovina""","Kaiserin-Keule ""Nergigante""",Maza Lunastra (Nerg),Maça da Luna Ruína,Maczuga Luny „Ruina”,"Палица ""Разруха""",엠프리스메이스-멸진,皇后鏈錘‧滅盡,"عصا الإمبراطورة ""تجدد"""
@@ -1300,7 +1300,7 @@ Magma Gold Katana,金色の太刀・熔山,Katana d'or - Zorah,Katana oro Zorah,
 "Taroth Sword ""Water""",ガイラソード・水,Sabre Taroth - Eau,"Spada Taroth ""Acqua""","Taroth-Schwert ""Wasser""",Sable Taroth (agua),Espada Taroth Água,Miecz Taroth „Woda”,Меч тарот: вода,가이라소드-물,鎧羅劍‧水,"سيف تاروث ""الماء"""
 "Taroth Sword ""Poison""",ガイラソード・毒,Sabre Taroth - Poison,"Spada Taroth ""Veleno""","Taroth-Schwert ""Gift""",Sable Taroth (veneno),Espada Taroth Veneno,Miecz Taroth „Trucizna”,Меч тарот: яд,가이라소드-독,鎧羅劍‧毒,"سيف تاروث ""السم"""
 "Taroth Sword ""Paralysis""",ガイラソード・麻痺,Sabre Taroth - Paralysie,"Spada Taroth ""Paralisi""","Taroth-Schwert ""Lähmung""",Sable Taroth (parálisis),Espada Taroth Paral.,Miecz Taroth „Paraliż”,Меч тарот: паралич,가이라소드-마비,鎧羅劍‧麻痺,"سيف تاروث ""الشلل"""
-"Taroth Sword ""Fire""",ガイラソード・火,Sabre Taroth - Feu,"Spada Taroth ""Fuoco""","Taroth-Schwert ""Feuer""",Espada Taroth (fuego),Espada Taroth Fogo,Miecz Taroth „Ogień”,Меч тарот: огонь,가이라소드-불,鎧羅劍‧火,"سيف تاروث ""نار"""
+"Taroth Sword ""Fire""",ガイラソード・火,Sabre Taroth - Feu,"Spada Taroth ""Fuoco""","Taroth-Schwert ""Feuer""",Sable Taroth (fuego),Espada Taroth Fogo,Miecz Taroth „Ogień”,Меч тарот: огонь,가이라소드-불,鎧羅劍‧火,"سيف تاروث ""نار"""
 Gold Water Scimitar,金色の剣・水,Cimeterre d'or - Eau,Scimitarra oro acqua,"Gold-Scimitar ""Wasser""",Alfanje Áureo (agua),Cimit. Água de Ouro,Bułat Złotej Wody,Золот. шамшир воды,금빛 검-물,金色的劍‧水,سيف ماء معقوف ذهبي
 Gold Dragon Scimitar,金色の剣・龍,Cimeterre d'or - Dragon,Scimitarra oro drago,"Gold-Scimitar ""Drache""",Alfanje Áureo (draco),Cimit. Dragão Ouro,Bułat Złotego Smoka,Зол. шамшир дракона,금빛 검-용,金色的劍‧龍,سيف التنين المعقوف
 Gold Blast Scimitar,金色の剣・爆破,Cimeterre d'or - Explosion,Scimitarra oro scoppio,"Gold-Scimitar ""Explosion""",Alfanje Áureo (nitro),Cimit. Explosão Ouro,Bułat Złotego Wybuchu,Золот. шамшир взрыва,금빛 검-폭파,金色的劍‧爆破,سيف الانفجار المعقوف

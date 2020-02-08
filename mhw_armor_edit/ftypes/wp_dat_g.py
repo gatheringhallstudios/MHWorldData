@@ -1,51 +1,53 @@
 # coding: utf-8
 
+from mhw_armor_edit import ftypes as ft
 from mhw_armor_edit.ftypes import StructFile, Struct
 
 
 class WpDatGEntry(Struct):
-    STRUCT_SIZE = 68
-    id: "<I"
-    unk1: "<H"
-    base_model_id: "<h"
-    part1_id: "<h"
-    part2_id: "<h"
-    color: "<B"
-    tree_id: "<B"
-    is_fixed_upgrade: "<B"
-    muzzle_type: "<B"
-    barrel_type: "<B"
-    magazine_type: "<B"
-    scope_type: "<B"
-    crafting_cost: "<I"
-    rarity: "<B"
-    raw_damage: "<H"
-    defense: "<H"
-    affinity: "<b"
-    element_id: "<B"
-    element_damage: "<H"
-    hidden_element_id: "<B"
-    hidden_element_damage: "<H"
-    elderseal: "<B"
-    shell_table_id: "<H"
-    deviation: "<B"
-    num_gem_slots: "<B"
-    gem_slot1_lvl: "<B"
-    gem_slot2_lvl: "<B"
-    gem_slot3_lvl: "<B"
-    unk2: "<I"
-    unk3: "<I"
-    unk4: "<I"
-    unk5: "<B"
-    special_ammo_type: "<B"
-    tree_position: "<B"
-    order: "<H"
-    gmd_name_index: "<H"
-    gmd_description_index: "<H"
-    skill_id: "<H"
-    unk6: "<H"
+    STRUCT_SIZE = 69
+    id: ft.uint()
+    unk1: ft.ushort()
+    base_model_id: ft.short()
+    part1_id: ft.short()
+    part2_id: ft.short()
+    unk7: ft.ubyte()
+    color: ft.ubyte()
+    tree_id: ft.ubyte()
+    is_fixed_upgrade: ft.ubyte()
+    muzzle_type: ft.ubyte()
+    barrel_type: ft.ubyte()
+    magazine_type: ft.ubyte()
+    scope_type: ft.ubyte()
+    crafting_cost: ft.uint()
+    rarity: ft.ubyte()
+    raw_damage: ft.ushort()
+    defense: ft.ushort()
+    affinity: ft.byte()
+    element_id: ft.ubyte()
+    element_damage: ft.ushort()
+    hidden_element_id: ft.ubyte()
+    hidden_element_damage: ft.ushort()
+    elderseal: ft.ubyte()
+    shell_table_id: ft.ushort()
+    deviation: ft.ubyte()
+    num_gem_slots: ft.ubyte()
+    gem_slot1_lvl: ft.ubyte()
+    gem_slot2_lvl: ft.ubyte()
+    gem_slot3_lvl: ft.ubyte()
+    unk2: ft.uint()
+    unk3: ft.uint()
+    unk4: ft.uint()
+    unk5: ft.ubyte()
+    special_ammo_type: ft.ubyte()
+    tree_position: ft.ubyte()
+    order: ft.ushort()
+    gmd_name_index: ft.ushort()
+    gmd_description_index: ft.ushort()
+    skill_id: ft.ushort()
+    unk6: ft.ushort()
 
 
 class WpDatG(StructFile):
     EntryFactory = WpDatGEntry
-    MAGIC = 0x01B1
+    MAGIC = 0x021D

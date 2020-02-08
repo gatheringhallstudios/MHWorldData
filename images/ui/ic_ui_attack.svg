@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_ui_attack</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_ui_attack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(116.000000, 56.000000)">
+            <path d="M214.277015,71.0233079 C223.833478,109.76602 230.36628,157.193497 227.18755,256.121322 L226.548812,276 L60.2861123,276 L62.1754564,253.693026 C76.9948328,141.126148 60.2696807,56.5618061 12,0 C135.017725,8.51600604 202.443397,32.190442 214.277015,71.0233079 Z" id="Path-51" fill="#000000" fill-rule="nonzero"></path>
+            <polygon id="Rectangle" fill="#000000" fill-rule="nonzero" points="0 252 280 252 280 324 0 324"></polygon>
+            <path d="M44,20 C80.6671522,45.6883935 93.3756984,124.35506 82.1256385,256 L206.764792,256 C209.629029,167.652685 208.089379,116.885423 195.955526,82.1981449 C182.304918,54.5849462 131.653076,33.8522313 44,20 Z" id="Path" fill="#D7D7D7"></path>
+            <polygon id="Rectangle-2" fill="#000000" fill-rule="nonzero" points="108 308 176 308 176 400 108 400"></polygon>
+            <polygon id="Path" fill="#C6A582" points="128 324 128 380 156 380 156 324"></polygon>
+            <polygon id="Path" fill="#C6A582" points="20 272 20 304 260 304 260 272"></polygon>
+        </g>
+    </g>
+</svg>

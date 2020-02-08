@@ -13,7 +13,7 @@ If you wish to chat with us, we also have a [discord server](https://discord.gg/
 I've started playing through the Iceborne PC launch, and while I'll have all data eventually, some help would definitely go a long way. Any help would be appreciated, but additions or corrections to these are some great examples:
 - [Armorset list](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/armors/armorset_base.csv) - All armor data revolves around this list. 
 - [Skill list](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data/skills) - Any missing skills and new levels. Feel free to remove conflicting translations for skills that change.
-- [Decoration List](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/decorations/decoration_base.csv) - There's plenty of new decorations to add. If a decoration name changes, feel free to remove the translation entry.
+- [Decoration List](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/decorations/decoration_base.csv) - There's plenty of new decorations to add.
 - [Any monster data](https://github.com/gatheringhallstudios/MHWorldData/tree/master/source_data/monsters) - Ailments, rewards, as well as corrections to weaknesses are all needed. Reward entries without a percentage value are ok at this stage.
 - [Items and icon mappings](https://github.com/gatheringhallstudios/MHWorldData/blob/master/source_data/items/item_base.csv) - If any items are missing on that list, feel free to add them. We're also missing item icon names and colors. Note that item icons are a limited selection, so try to reuse existing names if possible. 
 - Or really anything else you see.
@@ -71,9 +71,13 @@ The directory structure should approximately look like this:
 ```
 
 ## Data Sources
-The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections like [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki), Kiranico (raw data only), and Japanese wikis like [MHWG](http://mhwg.org/). .
+The data collected by this project is an accumulation of various sources, including manual entry from the game itself, official guidebooks, and other collections.
 
-We also use [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) for parsing ingame binaries.
+- [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit)
+- [Decoration Drop Rates (by Asterisk)](https://docs.google.com/spreadsheets/d/1u9coasn-zyrBHKjcYedawr1A_bzPgrhjqMx6cMeqk_c/edit#gid=0)
+- [MHWG](http://mhwg.org/)
+- [Kiranico](https://mhworld.kiranico.com/)
+- [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki)
 
 ## License
 The build code is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php). Data and images are from Monster Hunter World, which is owned by Capcom.

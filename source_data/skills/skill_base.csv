@@ -1,137 +1,142 @@
-name_en,icon_color
-Poison Resistance,Violet
-Paralysis Resistance,Yellow
-Sleep Resistance,Cyan
-Stun Resistance,Gold
-Muck Resistance,Gray
-Blast Resistance,Orange
-Bleeding Resistance,Beige
-Iron Skin,Beige
-Earplugs,White
-Windproof,White
-Tremor Resistance,Gray
-Dungmaster,DarkBeige
-Effluvial Expert,DarkBeige
-Heat Guard,Beige
-Attack Boost,Red
-Defense Boost,Beige
-Health Boost,Green
-Recovery Up,Green
-Recovery Speed,Green
-Fire Resistance,Red
-Water Resistance,Blue
-Ice Resistance,White
-Thunder Resistance,Gold
-Dragon Resistance,DarkRed
-Blight Resistance,DarkPurple
-Fire Attack,Red
-Water Attack,Blue
-Ice Attack,White
-Thunder Attack,Gold
-Dragon Attack,DarkRed
-Poison Attack,Violet
-Paralysis Attack,Yellow
-Sleep Attack,Cyan
-Blast Attack,Orange
-Normal Shots,White
-Piercing Shots,Blue
-Spread/Power Shots,DarkGreen
-Free Elem/Ammo Up,Cyan
-Critical Eye,DarkPurple
-Critical Boost,DarkPurple
-Weakness Exploit,DarkPurple
-Focus,LightBeige
-Power Prolonger,LightBeige
-Handicraft,White
-Critical Draw,DarkPurple
-Partbreaker,Gray
-Slugger,Gold
-Stamina Thief,Cyan
-Master Mounter,Blue
-Airborne,Blue
-Latent Power,Red
-Agitator,Red
-Peak Performance,Red
-Heroics,Red
-Fortify,DarkRed
-Resentment,DarkRed
-Resuscitate,Cyan
-Horn Maestro,White
-Capacity Boost,Gray
-Special Ammo Boost,Gray
-Artillery,Gray
-Heavy Artillery,Gray
-Marathon Runner,Beige
-Constitution,Beige
-Leap of Faith,Cyan
-Stamina Surge,Beige
-Hunger Resistance,Beige
-Evade Window,Cyan
-Evade Extender,Cyan
-Guard,Gray
-Quick Sheath,LightBeige
-Wide-Range,White
-Item Prolonger,LightBeige
-Free Meal,LightBeige
-Speed Eating,Beige
-Speed Sharpening,Gold
-Bombardier,Orange
-Mushroomancer,Violet
-Master Fisher,Blue
-Pro Transporter,LightBeige
-Master Gatherer,Lime
-Honey Hunter,Beige
-Carving Pro,Gray
-Divine Blessing,Blue
-Palico Rally,LightBeige
-Botanist,Lime
-Geologist,LightBeige
-Maximum Might,Red
-Slinger Capacity,Lime
-Stealth,Gray
-Flinch Free,Gray
-Scoutfly Range Up,Lime
-Speed Crawler,White
-Jump Master,Blue
-Sporepuff Expert,White
-Aquatic Expert,Blue
-Cliffhanger,Beige
-Blindsider,Gold
-Scholar,Lime
-Entomologist,Green
-Effluvia Resistance,DarkBeige
-Scenthound,Beige
-Forager's Luck,White
-Detector,White
-Tool Specialist,LightBeige
-Affinity Sliding,Red
-Intimidator,White
-Hasten Recovery,
-Super Recovery,
-Poison Duration Up,
-Adrenaline,
-Stamina Cap Up,
-Critical Element,
-Mind's Eye/Ballistics,Red
-Bludgeoner,
-Non-elemental Boost,DarkBeige
-Capture Master,
-Guard Up,
-Guts,
-Master's Touch,
-Nullify Wind Pressure,
-Razor Sharp/Spare Shot,
-Critical Status,
-Great Luck,
-Carving Master,
-Good Luck,
-Bow Charge Plus,Blue
-Punishing Draw,
-Protective Polish,DarkRed
-BBQ Master,
-Blast Functionality,Orange
-Elderseal Boost,DarkRed
-Para Functionality,Yellow
-Poison Functionality,Violet
-Sleep Functionality,Cyan
-Elemental Airborne,
+name_en,icon_color,secret
+Poison Resistance,Violet,
+Paralysis Resistance,Yellow,
+Sleep Resistance,Cyan,
+Stun Resistance,Gold,
+Muck Resistance,Gray,
+Blast Resistance,Orange,
+Bleeding Resistance,Beige,
+Iron Skin,Beige,
+Earplugs,White,
+Windproof,White,
+Tremor Resistance,Gray,
+Dungmaster,DarkBeige,
+Effluvial Expert,DarkBeige,
+Heat Guard,Beige,
+Attack Boost,Red,
+Defense Boost,Beige,
+Health Boost,Green,
+Recovery Up,Green,
+Recovery Speed,Green,
+Fire Resistance,Red,
+Water Resistance,Blue,
+Ice Resistance,White,
+Thunder Resistance,Gold,
+Dragon Resistance,DarkRed,
+Blight Resistance,DarkPurple,
+Fire Attack,Red,
+Water Attack,Blue,
+Ice Attack,White,
+Thunder Attack,Gold,
+Dragon Attack,DarkRed,
+Poison Attack,Violet,
+Paralysis Attack,Yellow,
+Sleep Attack,Cyan,
+Blast Attack,Orange,
+Normal Shots,White,
+Piercing Shots,Blue,
+Spread/Power Shots,DarkGreen,
+Free Elem/Ammo Up,Cyan,
+Critical Eye,DarkPurple,
+Critical Boost,DarkPurple,
+Weakness Exploit,DarkPurple,
+Focus,LightBeige,
+Power Prolonger,LightBeige,
+Handicraft,White,
+Critical Draw,DarkPurple,
+Partbreaker,Gray,
+Slugger,Gold,
+Stamina Thief,Cyan,
+Master Mounter,Blue,
+Airborne,Blue,
+Latent Power,Red,
+Agitator,Red,2
+Peak Performance,Red,
+Heroics,Red,
+Fortify,DarkRed,
+Resentment,DarkRed,
+Resuscitate,Cyan,
+Horn Maestro,White,
+Capacity Boost,Gray,
+Special Ammo Boost,Gray,
+Artillery,Gray,
+Heavy Artillery,Gray,
+Marathon Runner,Beige,
+Constitution,Beige,
+Leap of Faith,Cyan,
+Stamina Surge,Beige,
+Hunger Resistance,Beige,
+Evade Window,Cyan,
+Evade Extender,Cyan,
+Guard,Gray,
+Quick Sheath,LightBeige,
+Wide-Range,White,
+Item Prolonger,LightBeige,
+Free Meal,LightBeige,2
+Speed Eating,Beige,
+Speed Sharpening,Gold,
+Bombardier,Orange,2
+Mushroomancer,Violet,
+Master Fisher,Blue,
+Pro Transporter,LightBeige,
+Master Gatherer,Lime,
+Honey Hunter,Beige,
+Carving Pro,Gray,
+Divine Blessing,Blue,
+Palico Rally,LightBeige,
+Botanist,Lime,
+Geologist,LightBeige,
+Maximum Might,Red,2
+Slinger Capacity,Lime,
+Stealth,Gray,
+Flinch Free,Gray,
+Scoutfly Range Up,Lime,
+Speed Crawler,White,
+Jump Master,Blue,
+Survival Expert,White,
+Aquatic/Polar Mobility,Blue,
+Cliffhanger,Beige,
+Blindsider,Gold,
+Scholar,Lime,
+Entomologist,Green,
+Effluvia Resistance,DarkBeige,
+Scenthound,Beige,
+Forager's Luck,White,
+Detector,White,
+Tool Specialist,LightBeige,
+Affinity Sliding,Red,
+Intimidator,White,
+Hasten Recovery,,
+Super Recovery,,
+Poison Duration Up,,
+Adrenaline,,
+Stamina Cap Up,,
+Critical Element,,
+Mind's Eye/Ballistics,Red,
+Bludgeoner,,
+Non-elemental Boost,DarkBeige,
+Capture Master,,
+Guard Up,,
+Guts,,
+Master's Touch,,
+Nullify Wind Pressure,,
+Razor Sharp/Spare Shot,,
+Critical Status,,
+Great Luck,,
+Carving Master,,
+Good Luck,,
+Bow Charge Plus,Blue,
+Punishing Draw,,
+Protective Polish,DarkRed,
+BBQ Master,,
+Blast Functionality,Orange,
+Elderseal Boost,DarkRed,
+Para Functionality,Yellow,
+Poison Functionality,Violet,
+Sleep Functionality,Cyan,
+Elemental Airborne,,
+Free Meal Secret,,
+True Razor Sharp/Spare Shot,,
+Maximum Might Secret,,
+Bombardier Secret,,
+Offensive Guard,White,

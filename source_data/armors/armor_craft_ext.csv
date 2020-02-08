@@ -66,12 +66,12 @@ High Metal Mail,Dragonite Ore,2,Machalite Ore,2,Earth Crystal,2,Sharp Claw,2
 High Metal Braces,Dragonite Ore,2,Machalite Ore,2,Earth Crystal,2,Sharp Claw,2
 High Metal Coil,Dragonite Ore,2,Machalite Ore,1,Iron Ore,6,,
 High Metal Greaves,Dragonite Ore,2,Machalite Ore,1,Iron Ore,6,,
-King Beetle Vertex,Great Hornfly,1,Dragonite Ore,2,Coral Crystal,2,Flame Sac,1
-King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
-King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Aqua Sac,1
+King Beetle Vertex,Great Hornfly,1,Dragonite Ore,2,Coral Crystal (LR),2,Flame Sac,1
+King Beetle Thorax,Great Hornfly,1,Earth Crystal,2,Coral Crystal (LR),2,Poison Sac,1
+King Beetle Brachia,Great Hornfly,1,Earth Crystal,2,Coral Crystal (LR),2,Aqua Sac,1
 King Beetle Elytra,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
 King Beetle Crura,Great Hornfly,1,Dragonite Ore,2,Monster Fluid,3,Paralysis Sac,1
-Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal,1
+Shamos Goggles,Shamos Hide,2,Shamos Scale,3,Coral Bone,1,Coral Crystal (LR),1
 Hornetaur Helm,Hornetaur Head,1,Hornetaur Shell,1,Machalite Ore,1,Monster Fluid,1
 Hornetaur Mail,Hornetaur Wing,2,Hornetaur Shell,2,Dragonite Ore,2,Machalite Ore,2
 Hornetaur Vambraces,Hornetaur Wing,1,Hornetaur Shell,1,Iron Ore,3,Machalite Ore,1
@@ -87,10 +87,10 @@ Rathian Mail,Rathian Scale,2,Rathian Shell,1,Rathian Webbing,1,Ancient Bone,2
 Rathian Vambraces,Rathian Shell,2,Rathian Scale,2,Rathian Spike,1,Monster Bone L,2
 Rathian Coil,Rathian Scale,2,Rathian Shell,1,Rath Wingtalon,2,Boulder Bone,2
 Rathian Greaves,Rathian Shell,3,Rathian Spike,1,Rath Wingtalon,2,Rathian Plate,1
-Tzitzi Headgear,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Photophore,1,Coral Crystal,1
+Tzitzi Headgear,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Photophore,1,Coral Crystal (LR),1
 Tzitzi Mail,Tzitzi-Ya-Ku Hide,3,Tzitzi-Ya-Ku Claw,2,Tzitzi-Ya-Ku Photophore,2,Lightcrystal,1
-Tzitzi Vambraces,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Photophore,1,Tzitzi-Ya-Ku Scale,3,Coral Crystal,2
-Tzitzi Coil,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal,2,,
+Tzitzi Vambraces,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Photophore,1,Tzitzi-Ya-Ku Scale,3,Coral Crystal (LR),2
+Tzitzi Coil,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal (LR),2,,
 Tzitzi Greaves,Tzitzi-Ya-Ku Scale,2,Tzitzi-Ya-Ku Hide,1,Tzitzi-Ya-Ku Claw,1,,
 Lumu Hat,Paolumu Scale,2,Paolumu Webbing,2,Paolumu Shell,2,Lightcrystal,1
 Lumu Mail,Paolumu Scale,2,Paolumu Shell,1,Paolumu Pelt,2,Coral Bone,1
@@ -109,8 +109,8 @@ Baan Coil,Radobaan Scale,2,Radobaan Oilshell,1,Sleep Sac,1,Monster Bone L,3
 Baan Greaves,Radobaan Shell,2,Radobaan Scale,2,Wyvern Bonemass,2,Warped Bone,2
 Ingot Helm,Dragonite Ore,2,Monster Bone+,1,Iron Ore,8,Machalite Ore,3
 Ingot Mail,Dragonite Ore,2,Monster Bone+,1,Iron Ore,8,Machalite Ore,3
-Ingot Vambraces,Dragonite Ore,3,Monster Bone+,1,Coral Crystal,3,Lightcrystal,1
-Ingot Coil,Dragonite Ore,3,Monster Bone+,1,Coral Crystal,3,Lightcrystal,1
+Ingot Vambraces,Dragonite Ore,3,Monster Bone+,1,Coral Crystal (LR),3,Lightcrystal,1
+Ingot Coil,Dragonite Ore,3,Monster Bone+,1,Coral Crystal (LR),3,Lightcrystal,1
 Ingot Greaves,Dragonite Ore,2,Monster Bone+,1,Earth Crystal,3,Machalite Ore,3
 Death Stench Brain,Sinister Cloth,1,Warped Bone,1,Monster Bone+,2,Sharp Claw,3
 Death Stench Muscle,Sinister Cloth,1,Coral Bone,2,Sturdy Bone,2,Monster Fluid,2
@@ -143,7 +143,7 @@ Diablos Vambraces,Diablos Ridge,2,Diablos Shell,2,Diablos Tailcase,1,Lightcrysta
 Diablos Coil,Diablos Shell,2,Diablos Ridge,1,Diablos Fang,1,Monster Bone L,2
 Diablos Greaves,Diablos Ridge,2,Diablos Shell,2,Twisted Horn,1,Monster Bone+,3
 Kirin Horn,Kirin Hide,2,Kirin Tail,2,Kirin Thunderhorn,3,Lightcrystal,1
-Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal,4,Coral Bone,2
+Kirin Jacket,Kirin Hide,2,Kirin Mane,2,Coral Crystal (LR),4,Coral Bone,2
 Kirin Longarms,Kirin Hide,3,Kirin Mane,2,Paolumu Shell,2,Lightcrystal,1
 Kirin Hoop,Kirin Hide,2,Kirin Thunderhorn,1,Kirin Tail,1,Electro Sac,1
 Kirin Leg Guards,Kirin Hide,2,Kirin Thunderhorn,1,Paolumu Shell,2,,
@@ -152,11 +152,11 @@ Blossom Vest,Spring Blossom Ticket,1,Earth Crystal,3,,,,
 Blossom Cuffs,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Coat,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Boots,Spring Blossom Ticket,1,Earth Crystal,2,,,,
-Diver's Mask,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Suit,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Braces,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Belt,Summer Twilight Ticket,1,Coral Crystal,1,,,,
-Diver's Boots,Summer Twilight Ticket,1,Coral Crystal,1,,,,
+Diver's Mask,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Suit,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Braces,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Belt,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
+Diver's Boots,Summer Twilight Ticket,1,Coral Crystal (LR),1,,,,
 Harvest Flor,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Tronco,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Trama,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
@@ -218,12 +218,12 @@ Bone Vambraces β,Quality Bone,3,Monster Bone+,2,Coral Bone,2,,
 Bone Coil β,Quality Bone,2,Monster Bone+,2,Ancient Bone,3,,
 Bone Greaves β,Quality Bone,2,Monster Bone+,2,Boulder Bone,3,,
 Alloy Helm α,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
-Alloy Mail α,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+Alloy Mail α,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal (LR),4,Machalite Ore,5
 Alloy Vambraces α,Carbalite Ore,2,Dragonite Ore,4,Earth Crystal,4,Machalite Ore,5
 Alloy Coil α,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
 Alloy Greaves α,Carbalite Ore,2,Dragonite Ore,4,Lightcrystal,1,Machalite Ore,5
 Alloy Helm β,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
-Alloy Mail β,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+Alloy Mail β,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal (LR),4,Machalite Ore,5
 Alloy Vambraces β,Carbalite Ore,2,Dragonite Ore,4,Earth Crystal,4,Machalite Ore,5
 Alloy Coil β,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
 Alloy Greaves β,Carbalite Ore,2,Dragonite Ore,4,Lightcrystal,1,Machalite Ore,5
@@ -284,12 +284,12 @@ Kulu Mail β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Plume+,3,Kulu-Ya-Ku Beak+,2,Bird Wyve
 Kulu Vambraces β,Kulu-Ya-Ku Scale+,4,Kulu-Ya-Ku Hide+,2,Carbalite Ore,3,,
 Kulu Coil β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Beak+,2,Wingdrake Hide+,3,Earth Crystal,2
 Kulu Greaves β,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Scale+,6,Wingdrake Hide+,2,Earth Crystal,2
-Tzitzi Headgear α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal,5
+Tzitzi Headgear α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal (LR),5
 Tzitzi Mail α,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
 Tzitzi Vambraces α,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Photophore+,2,Tzitzi-Ya-Ku Scale+,4,Dragonvein Crystal,2
 Tzitzi Coil α,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
 Tzitzi Greaves α,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,2,Carbalite Ore,6
-Tzitzi Headgear β,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal,5
+Tzitzi Headgear β,Tzitzi-Ya-Ku Scale+,4,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Photophore+,2,Coral Crystal (LR),5
 Tzitzi Mail β,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
 Tzitzi Vambraces β,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Photophore+,2,Tzitzi-Ya-Ku Scale+,4,Dragonvein Crystal,2
 Tzitzi Coil β,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
@@ -781,3 +781,691 @@ Sealed Eyepatch α,Black Bandage,2,Shamos Scale+,7,Shamos Hide+,5,Piercing Claw,
 Shadow Shades α,Black Crystal Ticket,3,Lightcrystal,3,Novacrystal,1,Dragonvein Crystal,5
 Kulu-Ya-Ku Head α,Kulu-Ya-Ku Ticket,3,Kulu-Ya-Ku Beak+,1,Kulu-Ya-Ku Plume+,4,Kulu-Ya-Ku Hide+,5
 Wiggler Head α,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
+Bone Helm α+,Thick Bone,2,Monster Toughbone,1,Warped Bone,1,,
+Bone Mail α+,Thick Bone,2,Monster Toughbone,2,Brutal Bone,1,,
+Bone Vambraces α+,Thick Bone,2,Monster Toughbone,1,Coral Bone,1,,
+Bone Coil α+,Thick Bone,1,Monster Toughbone,1,Ancient Bone,1,,
+Bone Greaves α+,Thick Bone,1,Monster Toughbone,1,Boulder Bone,1,,
+Bone Helm β+,Thick Bone,2,Monster Toughbone,1,Warped Bone,1,,
+Bone Mail β+,Thick Bone,2,Monster Toughbone,2,Brutal Bone,1,,
+Bone Vambraces β+,Thick Bone,2,Monster Toughbone,1,Coral Bone,1,,
+Bone Coil β+,Thick Bone,1,Monster Toughbone,1,Ancient Bone,1,,
+Bone Greaves β+,Thick Bone,1,Monster Toughbone,1,Boulder Bone,1,,
+Alloy Helm α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,Meldspar Ore,1
+Alloy Mail α+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Vambraces α+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Coil α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Greaves α+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Helm β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,Meldspar Ore,1
+Alloy Mail β+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Vambraces β+,Eltalite Ore,1,Carbalite Ore,2,Dragonvein Crystal,2,,
+Alloy Coil β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Alloy Greaves β+,Eltalite Ore,1,Carbalite Ore,2,Spiritvein Crystal,1,,
+Vespoid Helm α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Mail α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Vambraces α+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Coil α+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Greaves α+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Helm β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Mail β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Vespoid Vambraces β+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Coil β+,Vespoid Razorwing,1,Monster Essence,2,Thick Bone,2,,
+Vespoid Greaves β+,Vespoid Razorwing,1,Monster Essence,1,Thick Bone,1,,
+Hornetaur Helm α+,Hornetaur Razorwing,2,Monster Essence,1,Meldspar Ore,1,,
+Hornetaur Mail α+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Vambraces α+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Coil α+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Greaves α+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Helm β+,Hornetaur Razorwing,2,Monster Essence,1,Meldspar Ore,1,,
+Hornetaur Mail β+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Vambraces β+,Hornetaur Razorwing,1,Monster Essence,1,Eltalite Ore,1,,
+Hornetaur Coil β+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Hornetaur Greaves β+,Hornetaur Razorwing,1,Monster Essence,2,Eltalite Ore,2,,
+Kestodon Guards α+,Kestodon Husk,3,Thick Bone,2,,,,
+Kestodon Guards β+,Kestodon Husk,3,Thick Bone,2,,,,
+Gajau Boots α+,Gajau Thickhide,2,Steel Gajau Whisker,1,Eltalite Ore,2,,
+Gajau Boots β+,Gajau Thickhide,2,Steel Gajau Whisker,1,Eltalite Ore,2,,
+Shamos Goggles α+,Shamos Shard,2,Tough Claw,1,Spiritvein Crystal,2,,
+Shamos Goggles β+,Shamos Shard,2,Tough Claw,1,Spiritvein Crystal,2,,
+Gastodon Horn α+,Gastodon Husk,3,Prized Pelt,1,Thick Bone,3,,
+Gastodon Horn β+,Gastodon Husk,3,Prized Pelt,1,Thick Bone,3,,
+Barnos Jacket α+,Barnos Hardclaw,2,Wingdrake Finehide,2,Meldspar Ore,1,,
+Barnos Jacket β+,Barnos Hardclaw,2,Wingdrake Finehide,2,Meldspar Ore,1,,
+Wulg Scarf α+,Wulg Thickfur,3,Wingdrake Finehide,1,Eltalite Ore,2,,
+Wulg Scarf β+,Wulg Thickfur,3,Wingdrake Finehide,1,Eltalite Ore,2,,
+Cortos Cape α+,Cortos Hardclaw,2,Wingdrake Finehide,2,Frozen Bone,1,,
+Cortos Cape β+,Cortos Hardclaw,2,Wingdrake Finehide,2,Frozen Bone,1,,
+Jagras Helm α+,Great Jagras Thickhide,1,Great Jagras Shard,3,Monster Toughbone,2,Jagras Shard,1
+Jagras Mail α+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Hardclaw,1,Jagras Shard,1
+Jagras Vambraces α+,Great Jagras Thickhide,1,Great Jagras Mane+,2,Great Jagras Hardclaw,1,Tough Claw,2
+Jagras Coil α+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Mane+,1,Jagras Shard,1
+Jagras Greaves α+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Mane+,1,Jagras Shard,1
+Jagras Helm β+,Great Jagras Thickhide,1,Great Jagras Shard,3,Monster Toughbone,2,Jagras Shard,1
+Jagras Mail β+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Hardclaw,1,Jagras Shard,1
+Jagras Vambraces β+,Great Jagras Thickhide,1,Great Jagras Mane+,2,Great Jagras Hardclaw,1,Tough Claw,2
+Jagras Coil β+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Mane+,1,Jagras Shard,1
+Jagras Greaves β+,Great Jagras Thickhide,1,Great Jagras Shard,1,Great Jagras Mane+,1,Jagras Shard,1
+Tzitzi Headgear α+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Hardclaw,1,Tzitzi-Ya-Ku Photomembrane,1,Shamos Shard,2
+Tzitzi Mail α+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Photomembrane,1,Shamos Shard,1
+Tzitzi Vambraces α+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Photomembrane,1,Bathycite Ore,2
+Tzitzi Coil α+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Hardclaw,1,Shamos Shard,1
+Tzitzi Greaves α+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Hardclaw,1,Bathycite Ore,2
+Tzitzi Headgear β+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Hardclaw,1,Tzitzi-Ya-Ku Photomembrane,1,Shamos Shard,2
+Tzitzi Mail β+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Photomembrane,1,Shamos Shard,1
+Tzitzi Vambraces β+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Photomembrane,1,Bathycite Ore,2
+Tzitzi Coil β+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Hardclaw,1,Shamos Shard,1
+Tzitzi Greaves β+,Tzitzi-Ya-Ku Thickhide,2,Tzitzi-Ya-Ku Shard,1,Tzitzi-Ya-Ku Hardclaw,1,Bathycite Ore,2
+Girros Headgear α+,Great Girros Thickhide,2,Great Girros Hardfang,1,Ultraplegia Sac,1,Warped Bone,2
+Girros Mail α+,Great Girros Thickhide,2,Great Girros Shard,2,Great Girros Hardhood,1,Girros Shard,2
+Girros Vambraces α+,Great Girros Thickhide,2,Great Girros Shard,2,Great Girros Hardhood,1,Warped Bone,2
+Girros Coil α+,Great Girros Thickhide,2,Great Girros Lash,1,Ultraplegia Sac,1,Girros Shard,1
+Girros Greaves α+,Great Girros Thickhide,2,Great Girros Hardfang,2,Great Girros Shard,2,Girros Shard,1
+Girros Headgear β+,Great Girros Thickhide,2,Great Girros Hardfang,1,Ultraplegia Sac,1,Warped Bone,2
+Girros Mail β+,Great Girros Thickhide,2,Great Girros Shard,2,Great Girros Hardhood,1,Girros Shard,2
+Girros Vambraces β+,Great Girros Thickhide,2,Great Girros Shard,2,Great Girros Hardhood,1,Warped Bone,2
+Girros Coil β+,Great Girros Thickhide,2,Great Girros Lash,1,Ultraplegia Sac,1,Girros Shard,1
+Girros Greaves β+,Great Girros Thickhide,2,Great Girros Hardfang,2,Great Girros Shard,2,Girros Shard,1
+Dodogama Helm α+,Dodogama Thickhide,2,Dodogama Shard,1,Dodogama Mandible,1,Meldspar Ore,1
+Dodogama Mail α+,Dodogama Thickhide,2,Dodogama Lash,1,Dodogama Mandible,1,Gastodon Husk,2
+Dodogama Vambraces α+,Dodogama Thickhide,2,Dodogama Shard,2,Dodogama Hardclaw,1,Gastodon Husk,1
+Dodogama Coil α+,Dodogama Thickhide,2,Dodogama Shard,2,Dodogama Mandible,1,Eltalite Ore,2
+Dodogama Greaves α+,Dodogama Thickhide,2,Dodogama Lash,1,Dodogama Hardclaw,2,Meldspar Ore,1
+Dodogama Helm β+,Dodogama Thickhide,2,Dodogama Shard,1,Dodogama Mandible,1,Meldspar Ore,1
+Dodogama Mail β+,Dodogama Thickhide,2,Dodogama Lash,1,Dodogama Mandible,1,Gastodon Husk,2
+Dodogama Vambraces β+,Dodogama Thickhide,2,Dodogama Shard,2,Dodogama Hardclaw,1,Gastodon Husk,1
+Dodogama Coil β+,Dodogama Thickhide,2,Dodogama Shard,2,Dodogama Mandible,1,Eltalite Ore,2
+Dodogama Greaves β+,Dodogama Thickhide,2,Dodogama Lash,1,Dodogama Hardclaw,2,Meldspar Ore,1
+Kulu Headpiece α+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Large Kulu-Ya-Ku Plume,1,Jagras Shard,2
+Kulu Mail α+,Kulu-Ya-Ku Thickhide,2,Large Kulu-Ya-Ku Plume,1,Large Kulu-Ya-Ku Beak,1,Jagras Shard,1
+Kulu Vambraces α+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Eltalite Ore,3,,
+Kulu Coil α+,Kulu-Ya-Ku Thickhide,2,Large Kulu-Ya-Ku Beak,1,Jagras Shard,1,,
+Kulu Greaves α+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Jagras Shard,2,,
+Kulu Headpiece β+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Large Kulu-Ya-Ku Plume,1,Jagras Shard,2
+Kulu Mail β+,Kulu-Ya-Ku Thickhide,2,Large Kulu-Ya-Ku Plume,1,Large Kulu-Ya-Ku Beak,1,Jagras Shard,1
+Kulu Vambraces β+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Eltalite Ore,3,,
+Kulu Coil β+,Kulu-Ya-Ku Thickhide,2,Large Kulu-Ya-Ku Beak,1,Jagras Shard,1,,
+Kulu Greaves β+,Kulu-Ya-Ku Thickhide,2,Kulu-Ya-Ku Shard,1,Jagras Shard,2,,
+Pukei Hat α+,Pukei-Pukei Cortex,2,Pukei-Pukei Fellwing,1,Large Pukei-Pukei Sac,1,,
+Pukei Mail α+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Large Pukei-Pukei Sac,1,,
+Pukei Vambraces α+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Monster Toughbone,2,Meldspar Ore,2
+Pukei Coil α+,Pukei-Pukei Cortex,2,Pukei-Pukei Lash,1,Pukei-Pukei Fellwing,1,Deadly Poison Sac,2
+Pukei Greaves α+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Large Pukei-Pukei Sac,1,,
+Pukei Hat β+,Pukei-Pukei Cortex,2,Pukei-Pukei Fellwing,1,Large Pukei-Pukei Sac,1,,
+Pukei Mail β+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Large Pukei-Pukei Sac,1,,
+Pukei Vambraces β+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Monster Toughbone,2,Meldspar Ore,2
+Pukei Coil β+,Pukei-Pukei Cortex,2,Pukei-Pukei Lash,1,Pukei-Pukei Fellwing,1,Deadly Poison Sac,2
+Pukei Greaves β+,Pukei-Pukei Cortex,2,Pukei-Pukei Shard,2,Large Pukei-Pukei Sac,1,,
+Pukei Lagoon Hat α+,Coral Pukei-Pukei Cortex,3,Coral Pukei-Pukei Fellwing,2,Large Coral Pukei-Pukei Sac,2,Flood Sac,2
+Pukei Lagoon Mail α+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Monster Toughbone,3,,
+Pukei Lagoon Braces α+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Bathycite Ore,2,,
+Pukei Lagoon Coil α+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Large Coral Pukei-Pukei Sac,1,,
+Pukei Lagoon Greaves α+,Coral Pukei-Pukei Cortex,3,Coral Pukei-Pukei Lash,1,Coral Pukei-Pukei Fellwing,1,Flood Sac,2
+Pukei Lagoon Hat β+,Coral Pukei-Pukei Cortex,3,Coral Pukei-Pukei Fellwing,2,Large Coral Pukei-Pukei Sac,2,Flood Sac,2
+Pukei Lagoon Mail β+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Monster Toughbone,3,,
+Pukei Lagoon Braces β+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Bathycite Ore,2,,
+Pukei Lagoon Coil β+,Coral Pukei-Pukei Cortex,2,Coral Pukei-Pukei Shard,2,Large Coral Pukei-Pukei Sac,1,,
+Pukei Lagoon Greaves β+,Coral Pukei-Pukei Cortex,3,Coral Pukei-Pukei Lash,1,Coral Pukei-Pukei Fellwing,1,Flood Sac,2
+Barroth Helm α+,Barroth Chine,2,Barroth Cortex,2,Monster Toughbone,3,Rich Mud,1
+Barroth Mail α+,Barroth Chine,2,Barroth Cortex,2,Rich Mud,2,,
+Barroth Vambraces α+,Barroth Chine,2,Barroth Lash,1,Kestodon Husk,2,,
+Barroth Coil α+,Barroth Chine,2,Barroth Crown,1,Barroth Hardclaw,1,Rich Mud,1
+Barroth Greaves α+,Barroth Chine,2,Barroth Cortex,2,Barroth Hardclaw,1,,
+Barroth Helm β+,Barroth Chine,2,Barroth Cortex,2,Monster Toughbone,3,Rich Mud,1
+Barroth Mail β+,Barroth Chine,2,Barroth Cortex,2,Rich Mud,2,,
+Barroth Vambraces β+,Barroth Chine,2,Barroth Lash,1,Kestodon Husk,2,,
+Barroth Coil β+,Barroth Chine,2,Barroth Crown,1,Barroth Hardclaw,1,Rich Mud,1
+Barroth Greaves β+,Barroth Chine,2,Barroth Cortex,2,Barroth Hardclaw,1,,
+Jyura Helm α+,Jyuratodus Cortex,1,Jyuratodus Hardfang,2,Jyuratodus Grandfin,1,Steel Gajau Whisker,1
+Jyura Mail α+,Jyuratodus Cortex,1,Jyuratodus Shard,2,Gajau Thickhide,2,,
+Jyura Vambraces α+,Jyuratodus Cortex,1,Jyuratodus Shard,1,Monster Toughbone,2,,
+Jyura Coil α+,Jyuratodus Cortex,1,Jyuratodus Shard,1,Flood Sac,2,,
+Jyura Greaves α+,Jyuratodus Cortex,1,Jyuratodus Hardfang,1,Jyuratodus Grandfin,2,,
+Jyura Helm β+,Jyuratodus Cortex,1,Jyuratodus Hardfang,2,Jyuratodus Grandfin,1,Steel Gajau Whisker,1
+Jyura Mail β+,Jyuratodus Cortex,1,Jyuratodus Shard,2,Gajau Thickhide,2,,
+Jyura Vambraces β+,Jyuratodus Cortex,1,Jyuratodus Shard,1,Monster Toughbone,2,,
+Jyura Coil β+,Jyuratodus Cortex,1,Jyuratodus Shard,1,Flood Sac,2,,
+Jyura Greaves β+,Jyuratodus Cortex,1,Jyuratodus Hardfang,1,Jyuratodus Grandfin,2,,
+Beo Helm α+,Beotodus Cortex,2,Beotodus Shard,2,Beotodus Grandfin,1,,
+Beo Mail α+,Beotodus Cortex,2,Beotodus Shard,2,Beotodus Hardhorn,1,,
+Beo Vambraces α+,Beotodus Cortex,2,Beotodus Hardhorn,2,Cryo Sac,1,,
+Beo Coil α+,Beotodus Cortex,2,Beotodus Shard,1,Cryo Sac,2,,
+Beo Greaves α+,Beotodus Cortex,2,Beotodus Hardhorn,1,Beotodus Grandfin,2,Gracium,3
+Beo Helm β+,Beotodus Cortex,2,Beotodus Shard,2,Beotodus Grandfin,1,,
+Beo Mail β+,Beotodus Cortex,2,Beotodus Shard,2,Beotodus Hardhorn,1,,
+Beo Vambraces β+,Beotodus Cortex,2,Beotodus Hardhorn,2,Cryo Sac,1,,
+Beo Coil β+,Beotodus Cortex,2,Beotodus Shard,1,Cryo Sac,2,,
+Beo Greaves β+,Beotodus Cortex,2,Beotodus Hardhorn,1,Beotodus Grandfin,2,Gracium,3
+Kadachi Hat α+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Cathode,2,Tobi-Kadachi Hardclaw,1,Monster Essence,3
+Kadachi Mail α+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,2,Tobi-Kadachi Membrane+,1,,
+Kadachi Vambraces α+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,1,Tobi-Kadachi Hardclaw,2,Lightning Sac,2
+Kadachi Coil α+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,2,Lightning Sac,1,,
+Kadachi Greaves α+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Membrane+,2,Tobi-Kadachi Cathode,1,,
+Kadachi Hat β+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Cathode,2,Tobi-Kadachi Hardclaw,1,Monster Essence,3
+Kadachi Mail β+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,2,Tobi-Kadachi Membrane+,1,,
+Kadachi Vambraces β+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,1,Tobi-Kadachi Hardclaw,2,Lightning Sac,2
+Kadachi Coil β+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Shard,2,Lightning Sac,1,,
+Kadachi Greaves β+,Tobi-Kadachi Thickfur,2,Tobi-Kadachi Membrane+,2,Tobi-Kadachi Cathode,1,,
+Viper Kadachi Hat α+,Viper Tobi-Kadachi Thickfur,3,Viper Tobi-Kadachi Thorn,2,Viper Tobi-Kadachi Hardclaw,1,Wulg Thickfur,2
+Viper Kadachi Mail α+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,2,Viper Tobi-Kadachi Membrane+,1,,
+Viper Kadachi Braces α+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,1,Viper Tobi-Kadachi Hardclaw,2,Deadly Poison Sac,1
+Viper Kadachi Coil α+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,1,Viper Tobi-Kadachi Membrane+,2,Deadly Poison Sac,2
+Viper Kadachi Greaves α+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Membrane+,1,Viper Tobi-Kadachi Thorn,1,Wulg Thickfur,3
+Viper Kadachi Hat β+,Viper Tobi-Kadachi Thickfur,3,Viper Tobi-Kadachi Thorn,2,Viper Tobi-Kadachi Hardclaw,1,Wulg Thickfur,2
+Viper Kadachi Mail β+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,2,Viper Tobi-Kadachi Membrane+,1,,
+Viper Kadachi Braces β+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,1,Viper Tobi-Kadachi Hardclaw,2,Deadly Poison Sac,1
+Viper Kadachi Coil β+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Shard,1,Viper Tobi-Kadachi Membrane+,2,Deadly Poison Sac,2
+Viper Kadachi Greaves β+,Viper Tobi-Kadachi Thickfur,2,Viper Tobi-Kadachi Membrane+,1,Viper Tobi-Kadachi Thorn,1,Wulg Thickfur,3
+High Metal Helm α+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Tough Claw,1
+High Metal Mail α+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Tough Claw,1
+High Metal Braces α+,Bathycite Ore,1,Meldspar Ore,1,Eltalite Ore,2,,
+High Metal Coil α+,Bathycite Ore,1,Meldspar Ore,1,Eltalite Ore,2,,
+High Metal Greaves α+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Gajau Thickhide,1
+High Metal Helm β+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Tough Claw,1
+High Metal Mail β+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Tough Claw,1
+High Metal Braces β+,Bathycite Ore,1,Meldspar Ore,1,Eltalite Ore,2,,
+High Metal Coil β+,Bathycite Ore,1,Meldspar Ore,1,Eltalite Ore,2,,
+High Metal Greaves β+,Bathycite Ore,1,Meldspar Ore,2,Eltalite Ore,2,Gajau Thickhide,1
+Banbaro Helm α+,Banbaro Chine,2,Banbaro Great Horn,1,Anteka Antler,2,,
+Banbaro Mail α+,Banbaro Chine,2,Banbaro Cortex,2,Banbaro Great Horn,1,Prized Pelt,2
+Banbaro Vambraces α+,Banbaro Chine,2,Banbaro Cortex,2,Banbaro Lash,1,,
+Banbaro Coil α+,Banbaro Chine,2,Banbaro Cortex,1,Frozen Bone,2,,
+Banbaro Greaves α+,Banbaro Chine,2,Banbaro Cortex,1,Banbaro Great Horn,1,,
+Banbaro Helm β+,Banbaro Chine,2,Banbaro Great Horn,1,Anteka Antler,2,,
+Banbaro Mail β+,Banbaro Chine,2,Banbaro Cortex,2,Banbaro Great Horn,1,Prized Pelt,2
+Banbaro Vambraces β+,Banbaro Chine,2,Banbaro Cortex,2,Banbaro Lash,1,,
+Banbaro Coil β+,Banbaro Chine,2,Banbaro Cortex,1,Frozen Bone,2,,
+Banbaro Greaves β+,Banbaro Chine,2,Banbaro Cortex,1,Banbaro Great Horn,1,,
+Anja Helm α+,Anjanath Fur,2,Anjanath Shard,2,Anjanath Lash,1,Conflagrant Sac,3
+Anja Mail α+,Anjanath Fur,2,Anjanath Hardfang,1,Heavy Anjanath Nosebone,2,Monster Toughbone,3
+Anja Vambraces α+,Anjanath Fur,2,Anjanath Shard,2,Conflagrant Sac,2,Eltalite Ore,5
+Anja Coil α+,Anjanath Fur,2,Anjanath Shard,1,Anjanath Hardfang,2,Tough Claw,2
+Anja Greaves α+,Anjanath Fur,2,Anjanath Shard,1,Heavy Anjanath Nosebone,1,Monster Toughbone,2
+Anja Helm β+,Anjanath Fur,2,Anjanath Shard,2,Anjanath Lash,1,Conflagrant Sac,3
+Anja Mail β+,Anjanath Fur,2,Anjanath Hardfang,1,Heavy Anjanath Nosebone,2,Monster Toughbone,3
+Anja Vambraces β+,Anjanath Fur,2,Anjanath Shard,2,Conflagrant Sac,2,Eltalite Ore,5
+Anja Coil β+,Anjanath Fur,2,Anjanath Shard,1,Anjanath Hardfang,2,Tough Claw,2
+Anja Greaves β+,Anjanath Fur,2,Anjanath Shard,1,Heavy Anjanath Nosebone,1,Monster Toughbone,2
+Fulgur Helm α+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Lash,1,Lightning Sac,3
+Fulgur Mail α+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Heavy Fulgur Anjanath Nosebone,1,Lightning Sac,2
+Fulgur Vambraces α+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Hardfang,1,Monster Solidbone,2
+Fulgur Coil α+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Hardfang,1,Heavy Fulgur Anjanath Nosebone,2,Fulgur Anjanath Mantle,1
+Fulgur Greaves α+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Hardfang,2,Monster Solidbone,3
+Fulgur Helm β+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Lash,1,Lightning Sac,3
+Fulgur Mail β+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Heavy Fulgur Anjanath Nosebone,1,Lightning Sac,2
+Fulgur Vambraces β+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Hardfang,1,Monster Solidbone,2
+Fulgur Coil β+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Hardfang,1,Heavy Fulgur Anjanath Nosebone,2,Fulgur Anjanath Mantle,1
+Fulgur Greaves β+,Fulgur Anjanath Thickfur,3,Fulgur Anjanath Shard,2,Fulgur Anjanath Hardfang,2,Monster Solidbone,3
+Rathian Helm α+,Rathian Cortex,2,Rathian Shard,2,Rathian Weave,2,,
+Rathian Mail α+,Rathian Cortex,2,Rathian Weave,1,Eltalite Ore,5,,
+Rathian Vambraces α+,Rathian Cortex,2,Rathian Shard,2,Rathian Surspike,1,,
+Rathian Coil α+,Rathian Cortex,2,Rathian Shard,1,Monster Toughbone,4,,
+Rathian Greaves α+,Rathian Cortex,2,Rathian Weave,1,Conflagrant Sac,3,,
+Rathian Helm β+,Rathian Cortex,2,Rathian Shard,2,Rathian Weave,2,,
+Rathian Mail β+,Rathian Cortex,2,Rathian Weave,1,Eltalite Ore,5,,
+Rathian Vambraces β+,Rathian Cortex,2,Rathian Shard,2,Rathian Surspike,1,,
+Rathian Coil β+,Rathian Cortex,2,Rathian Shard,1,Monster Toughbone,4,,
+Rathian Greaves β+,Rathian Cortex,2,Rathian Weave,1,Conflagrant Sac,3,,
+Rath Heart Helm α+,Pink Rathian Cortex,3,Pink Rathian Shard,1,Rathian Weave,2,Monster Essence,2
+Rath Heart Mail α+,Pink Rathian Cortex,3,Pink Rathian Shard,1,Rathian Weave,1,Shamos Shard,3
+Rath Heart Braces α+,Pink Rathian Cortex,2,Pink Rathian Shard,2,Rathian Surspike,1,Purecrystal,1
+Rath Heart Coil α+,Pink Rathian Cortex,2,Pink Rathian Shard,1,Monster Toughbone,4,Meldspar Ore,3
+Rath Heart Greaves α+,Pink Rathian Cortex,2,Pink Rathian Shard,2,Rathian Weave,1,Conflagrant Sac,3
+Rath Heart Helm β+,Pink Rathian Cortex,3,Pink Rathian Shard,1,Rathian Weave,2,Monster Essence,2
+Rath Heart Mail β+,Pink Rathian Cortex,3,Pink Rathian Shard,1,Rathian Weave,1,Shamos Shard,3
+Rath Heart Braces β+,Pink Rathian Cortex,2,Pink Rathian Shard,2,Rathian Surspike,1,Purecrystal,1
+Rath Heart Coil β+,Pink Rathian Cortex,2,Pink Rathian Shard,1,Monster Toughbone,4,Meldspar Ore,3
+Rath Heart Greaves β+,Pink Rathian Cortex,2,Pink Rathian Shard,2,Rathian Weave,1,Conflagrant Sac,3
+Lumu Hat α+,Paolumu Thickfur,2,Paolumu Shard,2,Paolumu Cortex,2,,
+Lumu Mail α+,Paolumu Thickfur,2,Paolumu Shard,2,Monster Toughbone,3,,
+Lumu Vambraces α+,Paolumu Thickfur,2,Paolumu Fellwing,1,Bathycite Ore,3,,
+Lumu Coil α+,Paolumu Thickfur,2,Paolumu Shard,2,Paolumu Fellwing,1,,
+Lumu Greaves α+,Paolumu Thickfur,2,Paolumu Fellwing,2,Paolumu Cortex,3,,
+Lumu Hat β+,Paolumu Thickfur,2,Paolumu Shard,2,Paolumu Cortex,2,,
+Lumu Mail β+,Paolumu Thickfur,2,Paolumu Shard,2,Monster Toughbone,3,,
+Lumu Vambraces β+,Paolumu Thickfur,2,Paolumu Fellwing,1,Bathycite Ore,3,,
+Lumu Coil β+,Paolumu Thickfur,2,Paolumu Shard,2,Paolumu Fellwing,1,,
+Lumu Greaves β+,Paolumu Thickfur,2,Paolumu Fellwing,2,Paolumu Cortex,3,,
+Lumu Phantasm Hood α+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,1,Paolumu Cortex,3,,
+Lumu Phantasm Mail α+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,2,Torpor Sac,3,,
+Lumu Phantasm Braces α+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Fellwing,1,Monster Toughbone,3,,
+Lumu Phantasm Coil α+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,2,Nightshade Paolumu Fellwing,2,,
+Lumu Phantasm Greaves α+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Fellwing,1,Paolumu Cortex,1,,
+Lumu Phantasm Hood β+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,1,Paolumu Cortex,3,,
+Lumu Phantasm Mail β+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,2,Torpor Sac,3,,
+Lumu Phantasm Braces β+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Fellwing,1,Monster Toughbone,3,,
+Lumu Phantasm Coil β+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Shard,2,Nightshade Paolumu Fellwing,2,,
+Lumu Phantasm Greaves β+,Nightshade Paolumu Thickfur,2,Nightshade Paolumu Fellwing,1,Paolumu Cortex,1,,
+Baan Helm α+,Radobaan Cortex,2,Radobaan Shard,1,Large Wyvern Bonemass,2,Monster Essence,3
+Baan Mail α+,Radobaan Cortex,2,Radobaan Oilshell+,1,Torpor Sac,2,,
+Baan Vambraces α+,Radobaan Cortex,2,Radobaan Shard,2,Radobaan Oilshell+,1,Torpor Sac,1
+Baan Coil α+,Radobaan Cortex,2,Radobaan Oilshell+,1,Large Wyvern Bonemass,1,Thick Bone,3
+Baan Greaves α+,Radobaan Cortex,2,Radobaan Shard,1,Large Wyvern Bonemass,2,Monster Toughbone,4
+Baan Helm β+,Radobaan Cortex,2,Radobaan Shard,1,Large Wyvern Bonemass,2,Monster Essence,3
+Baan Mail β+,Radobaan Cortex,2,Radobaan Oilshell+,1,Torpor Sac,2,,
+Baan Vambraces β+,Radobaan Cortex,2,Radobaan Shard,2,Radobaan Oilshell+,1,Torpor Sac,1
+Baan Coil β+,Radobaan Cortex,2,Radobaan Oilshell+,1,Large Wyvern Bonemass,1,Thick Bone,3
+Baan Greaves β+,Radobaan Cortex,2,Radobaan Shard,1,Large Wyvern Bonemass,2,Monster Toughbone,4
+Artian Helm α+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Deadly Poison Sac,4
+Artian Mail α+,Ancient Fragment,2,Monster Slogbone,3,Meldspar Ore,3,Lightning Sac,4
+Artian Vambraces α+,Ancient Fragment,2,Monster Slogbone,3,Meldspar Ore,3,Conflagrant Sac,4
+Artian Coil α+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Flood Sac,4
+Artian Greaves α+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Cryo Sac,4
+Artian Helm β+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Deadly Poison Sac,4
+Artian Mail β+,Ancient Fragment,2,Monster Slogbone,3,Meldspar Ore,3,Lightning Sac,4
+Artian Vambraces β+,Ancient Fragment,2,Monster Slogbone,3,Meldspar Ore,3,Conflagrant Sac,4
+Artian Coil β+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Flood Sac,4
+Artian Greaves β+,Ancient Fragment,2,Monster Toughbone,2,Meldspar Ore,3,Cryo Sac,4
+Clockwork Helm α+,Steam Ticket,2,Monster Slogbone,3,Eltalite Ore,5,Dragonbone Artifact,1
+Clockwork Mail α+,Steam Ticket,2,Monster Slogbone,3,Spiritvein Crystal,4,Torpor Sac,3
+Clockwork Braces α+,Steam Ticket,2,Monster Toughbone,2,Eltalite Ore,5,Purecrystal,1
+Clockwork Coil α+,Steam Ticket,2,Monster Toughbone,2,Spiritvein Crystal,4,Ultraplegia Sac,3
+Clockwork Greaves α+,Steam Ticket,2,Monster Toughbone,2,Eltalite Ore,5,Dragonbone Artifact,1
+Clockwork Helm β+,Steam Ticket,2,Monster Slogbone,3,Eltalite Ore,5,Dragonbone Artifact,1
+Clockwork Mail β+,Steam Ticket,2,Monster Slogbone,3,Spiritvein Crystal,4,Torpor Sac,3
+Clockwork Braces β+,Steam Ticket,2,Monster Toughbone,2,Eltalite Ore,5,Purecrystal,1
+Clockwork Coil β+,Steam Ticket,2,Monster Toughbone,2,Spiritvein Crystal,4,Ultraplegia Sac,3
+Clockwork Greaves β+,Steam Ticket,2,Monster Toughbone,2,Eltalite Ore,5,Dragonbone Artifact,1
+Ingot Helm α+,Meldspar Ore,2,Monster Slogbone,1,Eltalite Ore,5,,
+Ingot Mail α+,Meldspar Ore,2,Monster Slogbone,1,Spiritvein Crystal,5,,
+Ingot Vambraces α+,Meldspar Ore,2,Monster Slogbone,1,Bathycite Ore,3,,
+Ingot Coil α+,Meldspar Ore,2,Monster Slogbone,1,Purecrystal,1,,
+Ingot Greaves α+,Meldspar Ore,2,Monster Slogbone,1,Gracium,3,,
+Ingot Helm β+,Meldspar Ore,2,Monster Slogbone,1,Eltalite Ore,5,,
+Ingot Mail β+,Meldspar Ore,2,Monster Slogbone,1,Spiritvein Crystal,5,,
+Ingot Vambraces β+,Meldspar Ore,2,Monster Slogbone,1,Bathycite Ore,3,,
+Ingot Coil β+,Meldspar Ore,2,Monster Slogbone,1,Purecrystal,1,,
+Ingot Greaves β+,Meldspar Ore,2,Monster Slogbone,1,Gracium,3,,
+Barioth Helm α+,Barioth Thickfur,2,Amber Hardfang,1,Barioth Greatspike,3,Wulg Thickfur,2
+Barioth Mail α+,Barioth Thickfur,2,Barioth Cortex,2,Barioth Hardclaw,1,Frozen Bone,2
+Barioth Vambraces α+,Barioth Thickfur,2,Barioth Cortex,1,Barioth Lash,1,Tough Claw,3
+Barioth Faulds α+,Barioth Thickfur,2,Barioth Cortex,2,Barioth Greatspike,2,Wulg Thickfur,2
+Barioth Greaves α+,Barioth Thickfur,2,Amber Hardfang,2,Barioth Hardclaw,1,Large Wyvern Gem,1
+Barioth Helm β+,Barioth Thickfur,2,Amber Hardfang,1,Barioth Greatspike,3,Wulg Thickfur,2
+Barioth Mail β+,Barioth Thickfur,2,Barioth Cortex,2,Barioth Hardclaw,1,Frozen Bone,2
+Barioth Vambraces β+,Barioth Thickfur,2,Barioth Cortex,1,Barioth Lash,1,Tough Claw,3
+Barioth Faulds β+,Barioth Thickfur,2,Barioth Cortex,2,Barioth Greatspike,2,Wulg Thickfur,2
+Barioth Greaves β+,Barioth Thickfur,2,Amber Hardfang,2,Barioth Hardclaw,1,Large Wyvern Gem,1
+Rathalos Helm α+,Rathalos Cortex,2,Rathalos Shard,4,Rath Wingtalon+,2,Rathalos Medulla,2
+Rathalos Mail α+,Rathalos Cortex,2,Rathalos Fellwing,2,Rathalos Lash,1,Rathalos Mantle,1
+Rathalos Vambraces α+,Rathalos Cortex,2,Rathalos Shard,1,Rathalos Lash,1,Monster Slogbone,4
+Rathalos Coil α+,Rathalos Cortex,2,Rathalos Shard,2,Rathalos Fellwing,2,Conflagrant Sac,3
+Rathalos Greaves α+,Rathalos Cortex,2,Rathalos Fellwing,1,Rath Wingtalon+,2,Conflagrant Sac,3
+Rathalos Helm β+,Rathalos Cortex,2,Rathalos Shard,4,Rath Wingtalon+,2,Rathalos Medulla,2
+Rathalos Mail β+,Rathalos Cortex,2,Rathalos Fellwing,2,Rathalos Lash,1,Rathalos Mantle,1
+Rathalos Vambraces β+,Rathalos Cortex,2,Rathalos Shard,1,Rathalos Lash,1,Monster Slogbone,4
+Rathalos Coil β+,Rathalos Cortex,2,Rathalos Shard,2,Rathalos Fellwing,2,Conflagrant Sac,3
+Rathalos Greaves β+,Rathalos Cortex,2,Rathalos Fellwing,1,Rath Wingtalon+,2,Conflagrant Sac,3
+Rath Soul Helm α+,Azure Rathalos Cortex,3,Azure Rathalos Shard,2,Rath Wingtalon+,2,Monster Slogbone,5
+Rath Soul Mail α+,Azure Rathalos Cortex,3,Azure Rathalos Shard,1,Azure Rathalos Lash,1,Meldspar Ore,4
+Rath Soul Braces α+,Azure Rathalos Cortex,3,Azure Rathalos Fellwing,2,Rath Wingtalon+,1,Barnos Hardclaw,2
+Rath Soul Coil α+,Azure Rathalos Cortex,3,Azure Rathalos Shard,2,Azure Rathalos Fellwing,1,Wingdrake Finehide,3
+Rath Soul Greaves α+,Azure Rathalos Cortex,3,Azure Rathalos Fellwing,1,Azure Rathalos Lash,1,Rathalos Mantle,1
+Rath Soul Helm β+,Azure Rathalos Cortex,3,Azure Rathalos Shard,2,Rath Wingtalon+,2,Monster Slogbone,5
+Rath Soul Mail β+,Azure Rathalos Cortex,3,Azure Rathalos Shard,1,Azure Rathalos Lash,1,Meldspar Ore,4
+Rath Soul Braces β+,Azure Rathalos Cortex,3,Azure Rathalos Fellwing,2,Rath Wingtalon+,1,Barnos Hardclaw,2
+Rath Soul Coil β+,Azure Rathalos Cortex,3,Azure Rathalos Shard,2,Azure Rathalos Fellwing,1,Wingdrake Finehide,3
+Rath Soul Greaves β+,Azure Rathalos Cortex,3,Azure Rathalos Fellwing,1,Azure Rathalos Lash,1,Rathalos Mantle,1
+Diablos Helm α+,Diablos Chine,2,Diablos Cortex,1,Twisted Stouthorn,1,Large Wyvern Gem,1
+Diablos Mail α+,Diablos Chine,2,Diablos Cortex,2,Blos Medulla,2,Monster Slogbone,2
+Diablos Vambraces α+,Diablos Chine,2,Diablos Cortex,2,Diablos Tailcase+,1,Kestodon Husk,2
+Diablos Coil α+,Diablos Chine,2,Diablos Cortex,1,Twisted Stouthorn,1,Kestodon Husk,3
+Diablos Greaves α+,Diablos Chine,2,Diablos Cortex,1,Diablos Tailcase+,1,Monster Slogbone,5
+Diablos Helm β+,Diablos Chine,2,Diablos Cortex,1,Twisted Stouthorn,1,Large Wyvern Gem,1
+Diablos Mail β+,Diablos Chine,2,Diablos Cortex,2,Blos Medulla,2,Monster Slogbone,2
+Diablos Vambraces β+,Diablos Chine,2,Diablos Cortex,2,Diablos Tailcase+,1,Kestodon Husk,2
+Diablos Coil β+,Diablos Chine,2,Diablos Cortex,1,Twisted Stouthorn,1,Kestodon Husk,3
+Diablos Greaves β+,Diablos Chine,2,Diablos Cortex,1,Diablos Tailcase+,1,Monster Slogbone,5
+Diablos Nero Helm α+,Black Diablos Chine,3,Black Diablos Cortex,2,Blackcurl Stouthorn,1,Monster Solidbone,2
+Diablos Nero Mail α+,Black Diablos Chine,3,Black Diablos Cortex,1,Blackcurl Stouthorn,1,Monster Solidbone,4
+Diablos Nero Braces α+,Black Diablos Chine,3,Black Diablos Cortex,2,Diablos Tailcase+,2,Tough Claw,3
+Diablos Nero Coil α+,Black Diablos Chine,3,Black Diablos Cortex,1,Blackcurl Stouthorn,1,Diablos Hardhorn,1
+Diablos Nero Greaves α+,Black Diablos Chine,3,Black Diablos Cortex,2,Diablos Tailcase+,1,Large Wyvern Gem,1
+Diablos Nero Helm β+,Black Diablos Chine,3,Black Diablos Cortex,2,Blackcurl Stouthorn,1,Monster Solidbone,2
+Diablos Nero Mail β+,Black Diablos Chine,3,Black Diablos Cortex,1,Blackcurl Stouthorn,1,Monster Solidbone,4
+Diablos Nero Braces β+,Black Diablos Chine,3,Black Diablos Cortex,2,Diablos Tailcase+,2,Tough Claw,3
+Diablos Nero Coil β+,Black Diablos Chine,3,Black Diablos Cortex,1,Blackcurl Stouthorn,1,Diablos Hardhorn,1
+Diablos Nero Greaves β+,Black Diablos Chine,3,Black Diablos Cortex,2,Diablos Tailcase+,1,Large Wyvern Gem,1
+Legiana Helm α+,Legiana Thickhide,2,Legiana Shard,2,Legiana Fellwing,1,Shamos Shard,3
+Legiana Mail α+,Legiana Thickhide,2,Legiana Fellwing,2,Legiana Hardclaw,1,Purecrystal,1
+Legiana Vambraces α+,Legiana Thickhide,2,Legiana Shard,1,Legiana Hardclaw,2,Tough Claw,3
+Legiana Coil α+,Legiana Thickhide,2,Legiana Shard,1,Legiana Tail Webbing+,2,Cryo Sac,3
+Legiana Greaves α+,Legiana Thickhide,2,Legiana Fellwing,1,Legiana Tail Webbing+,1,Wingdrake Finehide,3
+Legiana Helm β+,Legiana Thickhide,2,Legiana Shard,2,Legiana Fellwing,1,Shamos Shard,3
+Legiana Mail β+,Legiana Thickhide,2,Legiana Fellwing,2,Legiana Hardclaw,1,Purecrystal,1
+Legiana Vambraces β+,Legiana Thickhide,2,Legiana Shard,1,Legiana Hardclaw,2,Tough Claw,3
+Legiana Coil β+,Legiana Thickhide,2,Legiana Shard,1,Legiana Tail Webbing+,2,Cryo Sac,3
+Legiana Greaves β+,Legiana Thickhide,2,Legiana Fellwing,1,Legiana Tail Webbing+,1,Wingdrake Finehide,3
+Hoarcry Helm α+,Rimed Hide,3,Legiana Shard,2,Obsidian Icetalon,1,Gracium,5
+Hoarcry Mail α+,Rimed Hide,3,Legiana Shard,2,Stark Wing,2,Legiana Mantle,1
+Hoarcry Vambraces α+,Rimed Hide,3,Legiana Shard,2,Stark Wing,1,Purecrystal,1
+Hoarcry Coil α+,Rimed Hide,3,Legiana Shard,2,Stark Wing,1,Cryo Sac,4
+Hoarcry Greaves α+,Rimed Hide,3,Legiana Shard,2,Obsidian Icetalon,2,Frozen Bone,3
+Hoarcry Helm β+,Rimed Hide,3,Legiana Shard,2,Obsidian Icetalon,1,Gracium,5
+Hoarcry Mail β+,Rimed Hide,3,Legiana Shard,2,Stark Wing,2,Legiana Mantle,1
+Hoarcry Vambraces β+,Rimed Hide,3,Legiana Shard,2,Stark Wing,1,Purecrystal,1
+Hoarcry Coil β+,Rimed Hide,3,Legiana Shard,2,Stark Wing,1,Cryo Sac,4
+Hoarcry Greaves β+,Rimed Hide,3,Legiana Shard,2,Obsidian Icetalon,2,Frozen Bone,3
+Odogaron Helm α+,Hard Odogaron Sinew,2,Odogaron Shard,1,Odogaron Hardfang,1,Warped Bone,3
+Odogaron Mail α+,Hard Odogaron Sinew,2,Odogaron Shard,2,Odogaron Lash,1,Hornetaur Razorwing,2
+Odogaron Vambraces α+,Hard Odogaron Sinew,2,Odogaron Hardclaw,1,Odogaron Hardfang,2,Monster Essence,4
+Odogaron Coil α+,Hard Odogaron Sinew,2,Odogaron Shard,2,Odogaron Hardfang,1,Monster Slogbone,4
+Odogaron Greaves α+,Hard Odogaron Sinew,2,Odogaron Hardclaw,2,Odogaron Lash,1,Dragonbone Artifact,1
+Odogaron Helm β+,Hard Odogaron Sinew,2,Odogaron Shard,1,Odogaron Hardfang,1,Warped Bone,3
+Odogaron Mail β+,Hard Odogaron Sinew,2,Odogaron Shard,2,Odogaron Lash,1,Hornetaur Razorwing,2
+Odogaron Vambraces β+,Hard Odogaron Sinew,2,Odogaron Hardclaw,1,Odogaron Hardfang,2,Monster Essence,4
+Odogaron Coil β+,Hard Odogaron Sinew,2,Odogaron Shard,2,Odogaron Hardfang,1,Monster Slogbone,4
+Odogaron Greaves β+,Hard Odogaron Sinew,2,Odogaron Hardclaw,2,Odogaron Lash,1,Dragonbone Artifact,1
+Death Garon Helm α+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Hardclaw,3,Ebony Odogaron Lash,1,Ebony Odogaron Mantle,1
+Death Garon Mail α+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Hardclaw,2,Ebony Odogaron Hardfang,2,Hornetaur Razorwing,4
+Death Garon Braces α+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,3,Ebony Odogaron Hardfang,2,Girros Shard,4
+Death Garon Coil α+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,2,Ebony Odogaron Hardfang,3,Monster Solidbone,4
+Death Garon Greaves α+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,2,Ebony Odogaron Lash,1,Tough Claw,3
+Death Garon Helm β+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Hardclaw,3,Ebony Odogaron Lash,1,Ebony Odogaron Mantle,1
+Death Garon Mail β+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Hardclaw,2,Ebony Odogaron Hardfang,2,Hornetaur Razorwing,4
+Death Garon Braces β+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,3,Ebony Odogaron Hardfang,2,Girros Shard,4
+Death Garon Coil β+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,2,Ebony Odogaron Hardfang,3,Monster Solidbone,4
+Death Garon Greaves β+,Hard Ebony Odogaron Sinew,3,Ebony Odogaron Shard,2,Ebony Odogaron Lash,1,Tough Claw,3
+Lavasioth Helm α+,Lavasioth Cortex,2,Lavasioth Shard,2,Lavasioth Hardfang,1,Gastodon Husk,3
+Lavasioth Mail α+,Lavasioth Cortex,2,Lavasioth Shard,1,Conflagrant Sac,6,Monster Slogbone,4
+Lavasioth Vambraces α+,Lavasioth Cortex,2,Lavasioth Hardfang,2,Lavasioth Grandfin,1,Large Wyvern Gem,1
+Lavasioth Coil α+,Lavasioth Cortex,2,Lavasioth Shard,1,Lavasioth Grandfin,2,Meldspar Ore,4
+Lavasioth Greaves α+,Lavasioth Cortex,2,Lavasioth Shard,2,Lavasioth Grandfin,1,Eltalite Ore,8
+Lavasioth Helm β+,Lavasioth Cortex,2,Lavasioth Shard,2,Lavasioth Hardfang,1,Gastodon Husk,3
+Lavasioth Mail β+,Lavasioth Cortex,2,Lavasioth Shard,1,Conflagrant Sac,6,Monster Slogbone,4
+Lavasioth Vambraces β+,Lavasioth Cortex,2,Lavasioth Hardfang,2,Lavasioth Grandfin,1,Large Wyvern Gem,1
+Lavasioth Coil β+,Lavasioth Cortex,2,Lavasioth Shard,1,Lavasioth Grandfin,2,Meldspar Ore,4
+Lavasioth Greaves β+,Lavasioth Cortex,2,Lavasioth Shard,2,Lavasioth Grandfin,1,Eltalite Ore,8
+Uragaan Helm α+,Uragaan Cortex,2,Uragaan Shard,2,Uragaan Scute+,1,Firecell Stone,2
+Uragaan Mail α+,Uragaan Cortex,2,Uragaan Jaw+,1,Uragaan Scute+,1,Large Wyvern Gem,1
+Uragaan Vambraces α+,Uragaan Cortex,2,Uragaan Shard,1,Uragaan Scute+,2,Lava Nugget,4
+Uragaan Coil α+,Uragaan Cortex,2,Uragaan Shard,2,Uragaan Jaw+,1,Monster Slogbone,4
+Uragaan Greaves α+,Uragaan Cortex,2,Uragaan Shard,1,Uragaan Marrow,2,Thick Bone,5
+Uragaan Helm β+,Uragaan Cortex,2,Uragaan Shard,2,Uragaan Scute+,1,Firecell Stone,2
+Uragaan Mail β+,Uragaan Cortex,2,Uragaan Jaw+,1,Uragaan Scute+,1,Large Wyvern Gem,1
+Uragaan Vambraces β+,Uragaan Cortex,2,Uragaan Shard,1,Uragaan Scute+,2,Lava Nugget,4
+Uragaan Coil β+,Uragaan Cortex,2,Uragaan Shard,2,Uragaan Jaw+,1,Monster Slogbone,4
+Uragaan Greaves β+,Uragaan Cortex,2,Uragaan Shard,1,Uragaan Marrow,2,Thick Bone,5
+Nargacuga Helm α+,Nargacuga Blackfur+,2,Nargacuga Hardfang,1,Nargacuga Tailspear,2,Steel Gajau Whisker,2
+Nargacuga Mail α+,Nargacuga Blackfur+,2,Nargacuga Shard,1,Nargacuga Lash,1,Gajau Thickhide,3
+Nargacuga Braces α+,Nargacuga Blackfur+,2,Nargacuga Shard,1,Nargacuga Hardfang,2,Prized Pelt,4
+Nargacuga Faulds α+,Nargacuga Blackfur+,2,Nargacuga Cutwing+,2,Nargacuga Lash,1,Nargacuga Mantle,1
+Nargacuga Greaves α+,Nargacuga Blackfur+,2,Nargacuga Shard,2,Nargacuga Cutwing+,1,Vespoid Razorwing,3
+Nargacuga Helm β+,Nargacuga Blackfur+,2,Nargacuga Hardfang,1,Nargacuga Tailspear,2,Steel Gajau Whisker,2
+Nargacuga Mail β+,Nargacuga Blackfur+,2,Nargacuga Shard,1,Nargacuga Lash,1,Gajau Thickhide,3
+Nargacuga Braces β+,Nargacuga Blackfur+,2,Nargacuga Shard,1,Nargacuga Hardfang,2,Prized Pelt,4
+Nargacuga Faulds β+,Nargacuga Blackfur+,2,Nargacuga Cutwing+,2,Nargacuga Lash,1,Nargacuga Mantle,1
+Nargacuga Greaves β+,Nargacuga Blackfur+,2,Nargacuga Shard,2,Nargacuga Cutwing+,1,Vespoid Razorwing,3
+Glavenus Helm α+,Glavenus Cortex,2,Glavenus Hardfang,2,Glavenus Hellshell,1,Glavenus Mantle,1
+Glavenus Mail α+,Glavenus Cortex,2,Glavenus Hardfang,1,Molten Bursa,2,Firecell Stone,2
+Glavenus Braces α+,Glavenus Cortex,2,Glavenus Hellshell,2,Glavenus Tailedge,1,Purecrystal,1
+Glavenus Faulds α+,Glavenus Cortex,2,Glavenus Shard,2,Glavenus Hardfang,1,Molten Bursa,2
+Glavenus Greaves α+,Glavenus Cortex,2,Glavenus Shard,1,Glavenus Hellshell,2,Molten Bursa,2
+Glavenus Helm β+,Glavenus Cortex,2,Glavenus Hardfang,2,Glavenus Hellshell,1,Glavenus Mantle,1
+Glavenus Mail β+,Glavenus Cortex,2,Glavenus Hardfang,1,Molten Bursa,2,Firecell Stone,2
+Glavenus Braces β+,Glavenus Cortex,2,Glavenus Hellshell,2,Glavenus Tailedge,1,Purecrystal,1
+Glavenus Faulds β+,Glavenus Cortex,2,Glavenus Shard,2,Glavenus Hardfang,1,Molten Bursa,2
+Glavenus Greaves β+,Glavenus Cortex,2,Glavenus Shard,1,Glavenus Hellshell,2,Molten Bursa,2
+Acidic Glavenus Helm α+,Acidic Glavenus Cortex,3,Acidic Glavenus Shard,2,Acidic Glavenus Spineshell,3,Honed Acidcryst,3
+Acidic Glavenus Mail α+,Acidic Glavenus Cortex,3,Acidic Glavenus Hardfang,3,Acidic Glavenus Spineshell,2,Glavenus Mantle,1
+Acidic Glavenus Braces α+,Acidic Glavenus Cortex,3,Acidic Glavenus Hardfang,2,Honed Acidcryst,2,Monster Solidbone,4
+Acidic Glavenus Coil α+,Acidic Glavenus Cortex,3,Acidic Glavenus Shard,3,Acidic Glavenus Hardfang,2,Honed Acidcryst,3
+Acidic Glavenus Greaves α+,Acidic Glavenus Cortex,3,Acidic Glavenus Spineshell,3,Acidic Glavenus Tailedge,1,Large Wyvern Gem,1
+Acidic Glavenus Helm β+,Acidic Glavenus Cortex,3,Acidic Glavenus Shard,2,Acidic Glavenus Spineshell,3,Honed Acidcryst,3
+Acidic Glavenus Mail β+,Acidic Glavenus Cortex,3,Acidic Glavenus Hardfang,3,Acidic Glavenus Spineshell,2,Glavenus Mantle,1
+Acidic Glavenus Braces β+,Acidic Glavenus Cortex,3,Acidic Glavenus Hardfang,2,Honed Acidcryst,2,Monster Solidbone,4
+Acidic Glavenus Coil β+,Acidic Glavenus Cortex,3,Acidic Glavenus Shard,3,Acidic Glavenus Hardfang,2,Honed Acidcryst,3
+Acidic Glavenus Greaves β+,Acidic Glavenus Cortex,3,Acidic Glavenus Spineshell,3,Acidic Glavenus Tailedge,1,Large Wyvern Gem,1
+Brachydios Helm α+,Fine Brachydios Ebonshell,2,Brachydios Cortex,1,Brachydios Crown,2,Brachydios Pallium,1
+Brachydios Mail α+,Fine Brachydios Ebonshell,2,Brachydios Pounder+,1,Brachydios Crown,1,Monster Slogbone,5
+Brachydios Braces α+,Fine Brachydios Ebonshell,2,Brachydios Cortex,2,Brachydios Pounder+,1,Glowing Slime,3
+Brachydios Faulds α+,Fine Brachydios Ebonshell,2,Brachydios Crown,1,Brachydios Lash,1,Glowing Slime,3
+Brachydios Greaves α+,Fine Brachydios Ebonshell,2,Brachydios Cortex,1,Brachydios Pounder+,2,Barnos Hardclaw,4
+Brachydios Helm β+,Fine Brachydios Ebonshell,2,Brachydios Cortex,1,Brachydios Crown,2,Brachydios Pallium,1
+Brachydios Mail β+,Fine Brachydios Ebonshell,2,Brachydios Pounder+,1,Brachydios Crown,1,Monster Slogbone,5
+Brachydios Braces β+,Fine Brachydios Ebonshell,2,Brachydios Cortex,2,Brachydios Pounder+,1,Glowing Slime,3
+Brachydios Faulds β+,Fine Brachydios Ebonshell,2,Brachydios Crown,1,Brachydios Lash,1,Glowing Slime,3
+Brachydios Greaves β+,Fine Brachydios Ebonshell,2,Brachydios Cortex,1,Brachydios Pounder+,2,Barnos Hardclaw,4
+Tigrex Helm α+,Tigrex Cortex,2,Tigrex Hardfang,1,Tigrex Hardclaw,1,Large Wyvern Gem,1
+Tigrex Mail α+,Tigrex Cortex,2,Tigrex Hardclaw,2,Tigrex Lash,1,Vespoid Razorwing,3
+Tigrex Braces α+,Tigrex Cortex,2,Tigrex Shard,1,Tigrex Hardfang,2,Tough Claw,3
+Tigrex Tassets α+,Tigrex Cortex,2,Tigrex Shard,2,Tigrex Hardfang,1,Thick Bone,5
+Tigrex Greaves α+,Tigrex Cortex,2,Tigrex Shard,2,Tigrex Hardclaw,1,Monster Slogbone,3
+Tigrex Helm β+,Tigrex Cortex,2,Tigrex Hardfang,1,Tigrex Hardclaw,1,Large Wyvern Gem,1
+Tigrex Mail β+,Tigrex Cortex,2,Tigrex Hardclaw,2,Tigrex Lash,1,Vespoid Razorwing,3
+Tigrex Braces β+,Tigrex Cortex,2,Tigrex Shard,1,Tigrex Hardfang,2,Tough Claw,3
+Tigrex Tassets β+,Tigrex Cortex,2,Tigrex Shard,2,Tigrex Hardfang,1,Thick Bone,5
+Tigrex Greaves β+,Tigrex Cortex,2,Tigrex Shard,2,Tigrex Hardclaw,1,Monster Slogbone,3
+Rex Roar Helm α+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardfang,2,Distorted Crystal,5
+Rex Roar Mail α+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardfang,3,Afflicted Frenzybone,3
+Rex Roar Braces α+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardclaw,2,Malformed Frenzybone,3
+Rex Roar Coil α+,Brute Tigrex Cortex,3,Brute Tigrex Hardclaw,3,Tigrex Lash,1,Twilight Crystal,3
+Rex Roar Greaves α+,Brute Tigrex Cortex,3,Brute Tigrex Hardfang,2,Brute Tigrex Hardclaw,2,Tigrex Mantle,1
+Rex Roar Helm β+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardfang,2,Distorted Crystal,5
+Rex Roar Mail β+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardfang,3,Afflicted Frenzybone,3
+Rex Roar Braces β+,Brute Tigrex Cortex,3,Brute Tigrex Shard,2,Brute Tigrex Hardclaw,2,Malformed Frenzybone,3
+Rex Roar Coil β+,Brute Tigrex Cortex,3,Brute Tigrex Hardclaw,3,Tigrex Lash,1,Twilight Crystal,3
+Rex Roar Greaves β+,Brute Tigrex Cortex,3,Brute Tigrex Hardfang,2,Brute Tigrex Hardclaw,2,Tigrex Mantle,1
+Black Belt Helm α+,Black Belt Coin,2,Odogaron Coin,3,Cortos Hardclaw,3,,
+Black Belt Mail α+,Black Belt Coin,2,Nargacuga Coin,3,Vespoid Razorwing,3,,
+Black Belt Braces α+,Black Belt Coin,2,Banbaro Coin,3,Anteka Antler,2,,
+Black Belt Tassets α+,Black Belt Coin,2,Paolumu Coin,3,Steel Gajau Whisker,2,,
+Black Belt Greaves α+,Black Belt Coin,2,Glavenus Coin,3,Hornetaur Razorwing,3,,
+Black Belt Helm β+,Black Belt Coin,2,Odogaron Coin,3,Cortos Hardclaw,3,,
+Black Belt Mail β+,Black Belt Coin,2,Nargacuga Coin,3,Vespoid Razorwing,3,,
+Black Belt Braces β+,Black Belt Coin,2,Banbaro Coin,3,Anteka Antler,2,,
+Black Belt Tassets β+,Black Belt Coin,2,Paolumu Coin,3,Steel Gajau Whisker,2,,
+Black Belt Greaves β+,Black Belt Coin,2,Glavenus Coin,3,Hornetaur Razorwing,3,,
+Dober Helm α+,Large Elder Dragon Bone,2,Thick Bone,3,Uragaan Scute+,1,Large Wyvern Gem,1
+Dober Mail α+,Large Elder Dragon Bone,2,Thick Bone,3,Jyuratodus Grandfin,1,Monster Solidbone,3
+Dober Vambraces α+,Large Elder Dragon Bone,2,Thick Bone,3,Lavasioth Grandfin,1,Dragonbone Artifact,3
+Dober Coil α+,Large Elder Dragon Bone,2,Thick Bone,3,Diablos Tailcase+,1,Monster Toughbone,5
+Dober Greaves α+,Large Elder Dragon Bone,2,Thick Bone,3,Radobaan Oilshell+,1,Monster Slogbone,4
+Dober Helm β+,Large Elder Dragon Bone,2,Thick Bone,3,Uragaan Scute+,1,Large Wyvern Gem,1
+Dober Mail β+,Large Elder Dragon Bone,2,Thick Bone,3,Jyuratodus Grandfin,1,Monster Solidbone,3
+Dober Vambraces β+,Large Elder Dragon Bone,2,Thick Bone,3,Lavasioth Grandfin,1,Dragonbone Artifact,3
+Dober Coil β+,Large Elder Dragon Bone,2,Thick Bone,3,Diablos Tailcase+,1,Monster Toughbone,5
+Dober Greaves β+,Large Elder Dragon Bone,2,Thick Bone,3,Radobaan Oilshell+,1,Monster Slogbone,4
+Damascus Helm α+,Pure Dragon Blood,2,Meldspar Ore,3,Paolumu Fellwing,1,Gracium,1
+Damascus Mail α+,Pure Dragon Blood,2,Meldspar Ore,3,Legiana Fellwing,1,Purecrystal,1
+Damascus Vambraces α+,Pure Dragon Blood,2,Meldspar Ore,3,Rathalos Fellwing,1,Large Wyvern Gem,1
+Damascus Coil α+,Pure Dragon Blood,2,Meldspar Ore,3,Rathian Weave,1,Bathycite Ore,1
+Damascus Greaves α+,Pure Dragon Blood,2,Meldspar Ore,3,Pukei-Pukei Fellwing,1,Spiritvein Crystal,1
+Damascus Helm β+,Pure Dragon Blood,2,Meldspar Ore,3,Paolumu Fellwing,1,Gracium,1
+Damascus Mail β+,Pure Dragon Blood,2,Meldspar Ore,3,Legiana Fellwing,1,Purecrystal,1
+Damascus Vambraces β+,Pure Dragon Blood,2,Meldspar Ore,3,Rathalos Fellwing,1,Large Wyvern Gem,1
+Damascus Coil β+,Pure Dragon Blood,2,Meldspar Ore,3,Rathian Weave,1,Bathycite Ore,1
+Damascus Greaves β+,Pure Dragon Blood,2,Meldspar Ore,3,Pukei-Pukei Fellwing,1,Spiritvein Crystal,1
+Pride Helm α+,Flickering Silvershell,3,Distilled Blast Fluid,2,Scorching Silverwing,3,Bazelgeuse Mantle,1
+Pride Mail α+,Flickering Silvershell,3,Bazelgeuse Shard,3,Distilled Blast Fluid,2,Monster Solidbone,5
+Pride Vambraces α+,Flickering Silvershell,3,Scorching Silverwing,1,Bazelgeuse Flail,1,Diablos Hardhorn,1
+Pride Coil α+,Flickering Silvershell,3,Bazelgeuse Shard,2,Bazelgeuse Hardclaw,3,Twisted Stouthorn,2
+Pride Greaves α+,Flickering Silvershell,3,Bazelgeuse Shard,2,Scorching Silverwing,2,Tigrex Mantle,1
+Pride Helm β+,Flickering Silvershell,3,Distilled Blast Fluid,2,Scorching Silverwing,3,Bazelgeuse Mantle,1
+Pride Mail β+,Flickering Silvershell,3,Bazelgeuse Shard,3,Distilled Blast Fluid,2,Monster Solidbone,5
+Pride Vambraces β+,Flickering Silvershell,3,Scorching Silverwing,1,Bazelgeuse Flail,1,Diablos Hardhorn,1
+Pride Coil β+,Flickering Silvershell,3,Bazelgeuse Shard,2,Bazelgeuse Hardclaw,3,Twisted Stouthorn,2
+Pride Greaves β+,Flickering Silvershell,3,Bazelgeuse Shard,2,Scorching Silverwing,2,Tigrex Mantle,1
+Esurient Helm α+,Deviljho Blackpiel,3,Deviljho Shard,2,Vile Fang,2,Ebony Odogaron Mantle,1
+Esurient Mail α+,Deviljho Blackpiel,3,Vile Fang,4,Deviljho Flail,1,Deviljho Crook,1
+Esurient Vambraces α+,Deviljho Blackpiel,3,Deviljho Shard,2,Black Blood,3,Monster Solidbone,5
+Esurient Faulds α+,Deviljho Blackpiel,3,Black Blood,3,Deviljho Ripper,1,Rathalos Mantle,1
+Esurient Greaves α+,Deviljho Blackpiel,3,Deviljho Shard,2,Deviljho Ripper,1,Dragonbone Artifact,1
+Esurient Helm β+,Deviljho Blackpiel,3,Deviljho Shard,2,Vile Fang,2,Ebony Odogaron Mantle,1
+Esurient Mail β+,Deviljho Blackpiel,3,Vile Fang,4,Deviljho Flail,1,Deviljho Crook,1
+Esurient Vambraces β+,Deviljho Blackpiel,3,Deviljho Shard,2,Black Blood,3,Monster Solidbone,5
+Esurient Faulds β+,Deviljho Blackpiel,3,Black Blood,3,Deviljho Ripper,1,Rathalos Mantle,1
+Esurient Greaves β+,Deviljho Blackpiel,3,Deviljho Shard,2,Deviljho Ripper,1,Dragonbone Artifact,1
+Rimeguard Helm α+,Velkhana Cortex,3,Crystal Shard,2,Velkhana Crownhorn,1,Large Elder Dragon Bone,3
+Rimeguard Mail α+,Velkhana Cortex,3,Velkhana Fellwing,3,Velkhana Hardclaw,2,Legiana Mantle,1
+Rimeguard Vambraces α+,Velkhana Cortex,3,Velkhana Fellwing,2,Velkhana Crownhorn,2,Velkhana Crystal,1
+Rimeguard Coil α+,Velkhana Cortex,3,Crystal Shard,2,Velkhana Hardclaw,2,Pure Dragon Blood,2
+Rimeguard Greaves α+,Velkhana Cortex,3,Crystal Shard,3,Velkhana Lash,1,Odogaron Mantle,1
+Rimeguard Helm β+,Velkhana Cortex,3,Crystal Shard,2,Velkhana Crownhorn,1,Large Elder Dragon Bone,3
+Rimeguard Mail β+,Velkhana Cortex,3,Velkhana Fellwing,3,Velkhana Hardclaw,2,Legiana Mantle,1
+Rimeguard Vambraces β+,Velkhana Cortex,3,Velkhana Fellwing,2,Velkhana Crownhorn,2,Velkhana Crystal,1
+Rimeguard Coil β+,Velkhana Cortex,3,Crystal Shard,2,Velkhana Hardclaw,2,Pure Dragon Blood,2
+Rimeguard Greaves β+,Velkhana Cortex,3,Crystal Shard,3,Velkhana Lash,1,Odogaron Mantle,1
+Fellshroud Helm α+,Vaal Hazak Cortex,3,Shadowpierce Fang,1,Vaal Hazak Hardclaw,3,Large Elder Dragon Gem,1
+Fellshroud Mail α+,Vaal Hazak Cortex,3,Deceased Shard,2,Deathweaver Membrane,3,Pure Dragon Blood,2
+Fellshroud Braces α+,Vaal Hazak Cortex,3,Vaal Hazak Fellwing,2,Shadowpierce Fang,2,Large Elder Dragon Bone,5
+Fellshroud Coil α+,Vaal Hazak Cortex,3,Deceased Shard,2,Vaal Hazak Fellwing,4,Deathweaver Membrane,2
+Fellshroud Greaves α+,Vaal Hazak Cortex,3,Deceased Shard,3,Vaal Hazak Flail,1,Deathweaver Membrane,2
+Fellshroud Helm β+,Vaal Hazak Cortex,3,Shadowpierce Fang,1,Vaal Hazak Hardclaw,3,Large Elder Dragon Gem,1
+Fellshroud Mail β+,Vaal Hazak Cortex,3,Deceased Shard,2,Deathweaver Membrane,3,Pure Dragon Blood,2
+Fellshroud Braces β+,Vaal Hazak Cortex,3,Vaal Hazak Fellwing,2,Shadowpierce Fang,2,Large Elder Dragon Bone,5
+Fellshroud Coil β+,Vaal Hazak Cortex,3,Deceased Shard,2,Vaal Hazak Fellwing,4,Deathweaver Membrane,2
+Fellshroud Greaves β+,Vaal Hazak Cortex,3,Deceased Shard,3,Vaal Hazak Flail,1,Deathweaver Membrane,2
+Kaiser Crown α+,Teostra Cortex,3,Teostra Mane+,2,Teostra Hardhorn,2,Large Elder Dragon Gem,1
+Kaiser Mail α+,Teostra Cortex,3,Teostra Mane+,4,Teostra Lash,1,Large Elder Dragon Bone,5
+Kaiser Vambraces α+,Teostra Cortex,3,Hellfire Shard,3,Teostra Hardhorn,1,Fulgur Anjanath Mantle,1
+Kaiser Coil α+,Teostra Cortex,3,Hellfire Shard,3,Teostra Fellwing,1,Pure Dragon Blood,3
+Kaiser Greaves α+,Teostra Cortex,3,Fire Dragon Hardclaw,2,Teostra Fellwing,2,Anjanath Mantle,1
+Kaiser Crown β+,Teostra Cortex,3,Teostra Mane+,2,Teostra Hardhorn,2,Large Elder Dragon Gem,1
+Kaiser Mail β+,Teostra Cortex,3,Teostra Mane+,4,Teostra Lash,1,Large Elder Dragon Bone,5
+Kaiser Vambraces β+,Teostra Cortex,3,Hellfire Shard,3,Teostra Hardhorn,1,Fulgur Anjanath Mantle,1
+Kaiser Coil β+,Teostra Cortex,3,Hellfire Shard,3,Teostra Fellwing,1,Pure Dragon Blood,3
+Kaiser Greaves β+,Teostra Cortex,3,Fire Dragon Hardclaw,2,Teostra Fellwing,2,Anjanath Mantle,1
+Kushala Glare α+,Daora Cortex,4,Daora Shard,3,Daora Hardclaw,1,Large Wyvern Gem,1
+Kushala Cista α+,Daora Cortex,4,Daora Fellwing,3,Daora Lash,2,Pure Dragon Blood,6
+Kushala Grip α+,Daora Cortex,4,Daora Fellwing,3,Daora Hardhorn,2,Large Elder Dragon Gem,1
+Kushala Cocoon α+,Daora Cortex,4,Daora Shard,3,Daora Hardhorn,1,Amber Hardfang,3
+Kushala Crus α+,Daora Cortex,4,Daora Hardclaw,2,Daora Lash,1,Nargacuga Mantle,1
+Kushala Glare β+,Daora Cortex,4,Daora Shard,3,Daora Hardclaw,1,Large Wyvern Gem,1
+Kushala Cista β+,Daora Cortex,4,Daora Fellwing,3,Daora Lash,2,Pure Dragon Blood,6
+Kushala Grip β+,Daora Cortex,4,Daora Fellwing,3,Daora Hardhorn,2,Large Elder Dragon Gem,1
+Kushala Cocoon β+,Daora Cortex,4,Daora Shard,3,Daora Hardhorn,1,Amber Hardfang,3
+Kushala Crus β+,Daora Cortex,4,Daora Hardclaw,2,Daora Lash,1,Nargacuga Mantle,1
+Kirin Horn α+,Kirin Silvermane,3,Kirin Finehide,1,Kirin Azure Horn+,2,Glavenus Mantle,1
+Kirin Jacket α+,Kirin Silvermane,3,Kirin Finehide,1,Kirin Thundertail+,3,Brachydios Pallium,1
+Kirin Longarms α+,Kirin Silvermane,3,Kirin Finehide,2,Kirin Thundertail+,2,Dragonbone Artifact,1
+Kirin Hoop α+,Kirin Silvermane,3,Kirin Finehide,2,Pure Dragon Blood,1,Purecrystal,1
+Kirin Leg Guards α+,Kirin Silvermane,3,Kirin Azure Horn+,2,Kirin Thundertail+,2,Large Elder Dragon Gem,1
+Kirin Horn β+,Kirin Silvermane,3,Kirin Finehide,1,Kirin Azure Horn+,2,Glavenus Mantle,1
+Kirin Jacket β+,Kirin Silvermane,3,Kirin Finehide,1,Kirin Thundertail+,3,Brachydios Pallium,1
+Kirin Longarms β+,Kirin Silvermane,3,Kirin Finehide,2,Kirin Thundertail+,2,Dragonbone Artifact,1
+Kirin Hoop β+,Kirin Silvermane,3,Kirin Finehide,2,Pure Dragon Blood,1,Purecrystal,1
+Kirin Leg Guards β+,Kirin Silvermane,3,Kirin Azure Horn+,2,Kirin Thundertail+,2,Large Elder Dragon Gem,1
+Tentacle Cowl α+,Namielle Finehide,2,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Uragaan Pallium,1
+Tentacle Cloak α+,Namielle Finehide,2,Namielle Hardclaw,2,Namielle Whisker,1,Rimed Hide,3
+Tentacle Gloves α+,Namielle Finehide,2,Namielle Fellwing,2,Namielle Whisker,1,Fey Wyvern Gem,1
+Tentacle Coil α+,Namielle Finehide,2,Namielle Whisker,2,Namielle Lash,1,Large Elder Dragon Gem,1
+Tentacle Greaves α+,Namielle Finehide,2,Namielle Fellwing,2,Pure Dragon Blood,3,Rathian Mantle,1
+Tentacle Cowl β+,Namielle Finehide,2,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Uragaan Pallium,1
+Tentacle Cloak β+,Namielle Finehide,2,Namielle Hardclaw,2,Namielle Whisker,1,Rimed Hide,3
+Tentacle Gloves β+,Namielle Finehide,2,Namielle Fellwing,2,Namielle Whisker,1,Fey Wyvern Gem,1
+Tentacle Coil β+,Namielle Finehide,2,Namielle Whisker,2,Namielle Lash,1,Large Elder Dragon Gem,1
+Tentacle Greaves β+,Namielle Finehide,2,Namielle Fellwing,2,Pure Dragon Blood,3,Rathian Mantle,1
+Guild Palace Helm α+,Hero King Coin,1,Tigrex Coin,2,Black Belt Coin,2,Velkhana Crownhorn,2
+Guild Palace Mail α+,Hero King Coin,1,Zinogre Coin,3,Black Belt Coin,2,Teostra Mane+,3
+Guild Palace Braces α+,Hero King Coin,1,Zinogre Coin,2,Black Belt Coin,2,Daora Hardclaw,3
+Guild Palace Coil α+,Hero King Coin,1,Tigrex Coin,3,Black Belt Coin,2,Namielle Fellwing,3
+Guild Palace Greaves α+,Hero King Coin,1,Tigrex Coin,3,Black Belt Coin,2,Deceased Shard,4
+Guild Palace Helm β+,Hero King Coin,1,Tigrex Coin,2,Black Belt Coin,2,Velkhana Crownhorn,2
+Guild Palace Mail β+,Hero King Coin,1,Zinogre Coin,3,Black Belt Coin,2,Teostra Mane+,3
+Guild Palace Braces β+,Hero King Coin,1,Zinogre Coin,2,Black Belt Coin,2,Daora Hardclaw,3
+Guild Palace Coil β+,Hero King Coin,1,Tigrex Coin,3,Black Belt Coin,2,Namielle Fellwing,3
+Guild Palace Greaves β+,Hero King Coin,1,Tigrex Coin,3,Black Belt Coin,2,Deceased Shard,4
+Shara Ishvalda Helm α+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,3,Shara Ishvalda Tenderplate,1,Rathian Mantle,1
+Shara Ishvalda Mail α+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,3,Shara Ishvalda Tenderclaw,3,Ebony Odogaron Mantle,1
+Shara Ishvalda Braces α+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderclaw,2,Shara Ishvalda Tenderplate,2,Shara Ishvalda Gem,1
+Shara Ishvalda Coil α+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,2,Shara Ishvalda Petalstone,3,Large Wyvern Gem,1
+Shara Ishvalda Greaves α+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,2,Shara Ishvalda Petalstone,3,Fey Wyvern Gem,1
+Shara Ishvalda Helm β+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,3,Shara Ishvalda Tenderplate,1,Rathian Mantle,1
+Shara Ishvalda Mail β+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,3,Shara Ishvalda Tenderclaw,3,Ebony Odogaron Mantle,1
+Shara Ishvalda Braces β+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderclaw,2,Shara Ishvalda Tenderplate,2,Shara Ishvalda Gem,1
+Shara Ishvalda Coil β+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,2,Shara Ishvalda Petalstone,3,Large Wyvern Gem,1
+Shara Ishvalda Greaves β+,Shara Ishvalda Boulderplate,4,Shara Ishvalda Tenderscale,2,Shara Ishvalda Petalstone,3,Fey Wyvern Gem,1
+Zorah Headgear α+,Fierce Dragonvein Bone,2,Cracked Crystal,3,Weathered Cragbone,3,Conqueror's Seal,1
+Zorah Hide α+,Heavy Dragonvein Bone,3,Pale Crystal,3,Vivid Crimsonbone,3,Conqueror's Seal,1
+Zorah Claws α+,Dragonvein Solidbone,4,Decayed Crystal,3,Mossy Greatbone,3,Conqueror's Seal,1
+Zorah Spine α+,Fierce Dragonvein Bone,2,Large Elder Dragon Bone,2,Pure Dragon Blood,3,Conqueror's Seal,1
+Zorah Spurs α+,Fierce Dragonvein Bone,2,Distorted Crystal,3,Malformed Frenzybone,3,Conqueror's Seal,1
+Zorah Headgear β+,Fierce Dragonvein Bone,2,Cracked Crystal,3,Weathered Cragbone,3,Conqueror's Seal,1
+Zorah Hide β+,Heavy Dragonvein Bone,3,Pale Crystal,3,Vivid Crimsonbone,3,Conqueror's Seal,1
+Zorah Claws β+,Dragonvein Solidbone,4,Decayed Crystal,3,Mossy Greatbone,3,Conqueror's Seal,1
+Zorah Spine β+,Fierce Dragonvein Bone,2,Large Elder Dragon Bone,2,Pure Dragon Blood,3,Conqueror's Seal,1
+Zorah Spurs β+,Fierce Dragonvein Bone,2,Distorted Crystal,3,Malformed Frenzybone,3,Conqueror's Seal,1
+Garuga Helm α+,Garuga Cortex,2,Garuga Silverpelt,2,Fancy Beak,1,Decayed Crystal,3
+Garuga Mail α+,Garuga Cortex,2,Garuga Shard,2,Garuga Fellwing,3,Mossy Greatbone,3
+Garuga Vambraces α+,Garuga Cortex,2,Garuga Silverpelt,2,Garuga Auricle,2,Scratched Shell,3
+Garuga Tassets α+,Garuga Cortex,2,Garuga Fellwing,2,Garuga Lash,1,Bird Wyvern Gem,1
+Garuga Greaves α+,Garuga Cortex,2,Garuga Shard,2,Garuga Silverpelt,3,Fierce Dragonvein Bone,5
+Garuga Helm β+,Garuga Cortex,2,Garuga Silverpelt,2,Fancy Beak,1,Decayed Crystal,3
+Garuga Mail β+,Garuga Cortex,2,Garuga Shard,2,Garuga Fellwing,3,Mossy Greatbone,3
+Garuga Vambraces β+,Garuga Cortex,2,Garuga Silverpelt,2,Garuga Auricle,2,Scratched Shell,3
+Garuga Tassets β+,Garuga Cortex,2,Garuga Fellwing,2,Garuga Lash,1,Bird Wyvern Gem,1
+Garuga Greaves β+,Garuga Cortex,2,Garuga Shard,2,Garuga Silverpelt,3,Fierce Dragonvein Bone,5
+Zinogre Helm α+,Zinogre Electrofur+,3,Zinogre Deathly Shocker,2,Zinogre Hardhorn,2,Zinogre Skymerald,1
+Zinogre Mail α+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Hardclaw,2,Woodland Greatbone,3
+Zinogre Braces α+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Lash,1,Fulgurbug,3
+Zinogre Coil α+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Hardhorn,1,Forest Crystal,3
+Zinogre Greaves α+,Zinogre Electrofur+,3,Zinogre Hardclaw,2,Zinogre Deathly Shocker,3,Fulgurbug,3
+Zinogre Helm β+,Zinogre Electrofur+,3,Zinogre Deathly Shocker,2,Zinogre Hardhorn,2,Zinogre Skymerald,1
+Zinogre Mail β+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Hardclaw,2,Woodland Greatbone,3
+Zinogre Braces β+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Lash,1,Fulgurbug,3
+Zinogre Coil β+,Zinogre Electrofur+,3,Zinogre Cortex,2,Zinogre Hardhorn,1,Forest Crystal,3
+Zinogre Greaves β+,Zinogre Electrofur+,3,Zinogre Hardclaw,2,Zinogre Deathly Shocker,3,Fulgurbug,3
+Golden Lunehelm α+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,1,Large Wyvern Gem,1
+Golden Lunemail α+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Gold Rathian Surspike,1,Dragonvein Solidbone,8
+Golden Lunebraces α+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,2,Rathian Mantle,1
+Golden Lunecoil α+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Gold Rathian Surspike,2,Guiding Wasteland Crystal,3
+Golden Lunegreaves α+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,3,Guiding Wasteland Dragonbone,3
+Golden Lunehelm β+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,1,Large Wyvern Gem,1
+Golden Lunemail β+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Gold Rathian Surspike,1,Dragonvein Solidbone,8
+Golden Lunebraces β+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,2,Rathian Mantle,1
+Golden Lunecoil β+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Gold Rathian Surspike,2,Guiding Wasteland Crystal,3
+Golden Lunegreaves β+,Gold Rathian Cortex,4,Gold Rathian Shard,2,Rath Gleam,3,Guiding Wasteland Dragonbone,3
+Silver Solhelm α+,Silver Rathalos Cortex,4,Silver Rathalos Shard,3,Silver Rathalos Fellwing,2,Rathalos Mantle,1
+Silver Solmail α+,Silver Rathalos Cortex,4,Silver Rathalos Fellwing,4,Rath Gleam,3,Guiding Coral Dragonbone,3
+Silver Solbraces α+,Silver Rathalos Cortex,6,Silver Rathalos Fellwing,3,Silver Rathalos Lash,1,Dragonvein Solidbone,8
+Silver Solcoil α+,Silver Rathalos Cortex,4,Silver Rathalos Shard,3,Rath Gleam,2,Guiding Coral Crystal,3
+Silver Solgreaves α+,Silver Rathalos Cortex,6,Silver Rathalos Shard,3,Silver Rathalos Lash,1,Large Wyvern Gem,1
+Silver Solhelm β+,Silver Rathalos Cortex,4,Silver Rathalos Shard,3,Silver Rathalos Fellwing,2,Rathalos Mantle,1
+Silver Solmail β+,Silver Rathalos Cortex,4,Silver Rathalos Fellwing,4,Rath Gleam,3,Guiding Coral Dragonbone,3
+Silver Solbraces β+,Silver Rathalos Cortex,6,Silver Rathalos Fellwing,3,Silver Rathalos Lash,1,Dragonvein Solidbone,8
+Silver Solcoil β+,Silver Rathalos Cortex,4,Silver Rathalos Shard,3,Rath Gleam,2,Guiding Coral Crystal,3
+Silver Solgreaves β+,Silver Rathalos Cortex,6,Silver Rathalos Shard,3,Silver Rathalos Lash,1,Large Wyvern Gem,1
+Empress Crown α+,Lunastra Cortex,3,Lunastra Mane+,3,Lunastra Hardhorn,2,Large Elder Dragon Gem,1
+Empress Mail α+,Lunastra Cortex,3,Lunastra Fellwing,3,Lunastra Mane+,2,Serene Crystal,3
+Empress Vambraces α+,Lunastra Cortex,3,Lunastra Shard,3,Lunastra Lash,1,Elder Dragonvein Bone,6
+Empress Coil α+,Lunastra Cortex,3,Lunastra Shard,3,Lunastra Hardhorn,1,Teostra Powder,4
+Empress Greaves α+,Lunastra Cortex,3,Lunastra Shard,2,Lunastra Fellwing,2,Tempered Cragbone,3
+Empress Crown β+,Lunastra Cortex,3,Lunastra Mane+,3,Lunastra Hardhorn,2,Large Elder Dragon Gem,1
+Empress Mail β+,Lunastra Cortex,3,Lunastra Fellwing,3,Lunastra Mane+,2,Serene Crystal,3
+Empress Vambraces β+,Lunastra Cortex,3,Lunastra Shard,3,Lunastra Lash,1,Elder Dragonvein Bone,6
+Empress Coil β+,Lunastra Cortex,3,Lunastra Shard,3,Lunastra Hardhorn,1,Teostra Powder,4
+Empress Greaves β+,Lunastra Cortex,3,Lunastra Shard,2,Lunastra Fellwing,2,Tempered Cragbone,3
+Ruinous Helm α+,Nergigante Cortex,3,Annihilating Greathorn,3,Eternal Regrowth Plate,4,Glavenus Mantle,1
+Ruinous Mail α+,Nergigante Cortex,3,Nergigante Hardclaw,3,Eternal Regrowth Plate,2,Nargacuga Mantle,1
+Ruinous Vambraces α+,Nergigante Cortex,3,Immortal Shard,2,Nergigante Flail,1,Brachydios Pallium,1
+Ruinous Coil α+,Nergigante Cortex,3,Immortal Shard,1,Annihilating Greathorn,2,Rathalos Mantle,1
+Ruinous Greaves α+,Nergigante Cortex,3,Immortal Shard,2,Eternal Regrowth Plate,2,Bazelgeuse Mantle,1
+Ruinous Helm β+,Nergigante Cortex,3,Annihilating Greathorn,3,Eternal Regrowth Plate,4,Glavenus Mantle,1
+Ruinous Mail β+,Nergigante Cortex,3,Nergigante Hardclaw,3,Eternal Regrowth Plate,2,Nargacuga Mantle,1
+Ruinous Vambraces β+,Nergigante Cortex,3,Immortal Shard,2,Nergigante Flail,1,Brachydios Pallium,1
+Ruinous Coil β+,Nergigante Cortex,3,Immortal Shard,1,Annihilating Greathorn,2,Rathalos Mantle,1
+Ruinous Greaves β+,Nergigante Cortex,3,Immortal Shard,2,Eternal Regrowth Plate,2,Bazelgeuse Mantle,1
+Guildwork Head α+,Research Commission Ticket+,1,Forest Crystal,2,Woodland Greatbone,2,Steam Ticket,1
+Guildwork Body α+,Research Commission Ticket+,1,Wasteland Crystal,2,Wasteland Cragbone,2,Boaboa Ticket,1
+Guildwork Braces α+,Research Commission Ticket+,1,Coral Crystal (MR),2,Coral Crimsonbone,2,Ancient Fragment,1
+Guildwork Waist α+,Research Commission Ticket+,1,Effluvial Crystal,2,Effluvial Frenzybone,2,Thermae Ticket,1
+Guildwork Feet α+,Research Commission Ticket+,1,Frozen Bone,3,Fierce Dragonvein Bone,5,Conqueror's Seal,1
+Guildwork Head β+,Research Commission Ticket+,1,Forest Crystal,2,Woodland Greatbone,2,Steam Ticket,1
+Guildwork Body β+,Research Commission Ticket+,1,Wasteland Crystal,2,Wasteland Cragbone,2,Boaboa Ticket,1
+Guildwork Braces β+,Research Commission Ticket+,1,Coral Crystal (MR),2,Coral Crimsonbone,2,Ancient Fragment,1
+Guildwork Waist β+,Research Commission Ticket+,1,Effluvial Crystal,2,Effluvial Frenzybone,2,Thermae Ticket,1
+Guildwork Feet β+,Research Commission Ticket+,1,Frozen Bone,3,Fierce Dragonvein Bone,5,Conqueror's Seal,1
+Oolong Hair α+,Joyful Ticket,1,Spiritvein Crystal,2,,,,
+Oolong Vest α+,Joyful Ticket,1,Eltalite Ore,3,,,,
+Oolong Sleeves α+,Joyful Ticket,1,Eltalite Ore,3,,,,
+Oolong Waist α+,Joyful Ticket,1,Spiritvein Crystal,2,,,,
+Oolong Boots α+,Joyful Ticket,1,Spiritvein Crystal,2,,,,
+Astral Veil α+,Gratitude Ticket,1,Gracium,1,Monster Toughbone,1,,
+Astral Cloth α+,Gratitude Ticket,1,Purecrystal,1,Monster Toughbone,1,,
+Astral Scarf α+,Gratitude Ticket,1,Gracium,1,Monster Toughbone,1,,
+Astral Skirt α+,Gratitude Ticket,1,Gracium,1,Monster Toughbone,1,,
+Astral Tights α+,Gratitude Ticket,1,Purecrystal,1,Monster Toughbone,1,,
+Pearlspring α+,Pearlspring Ticket,3,Prized Pelt,2,Thick Bone,2,,
+Duffel Penguin Mask α+,Penguin Ticket,1,Large Kulu-Ya-Ku Beak,1,,,,
+Sealed Dragon Cloth α+,Sealed Dragon Cloth,1,Deathweaver Membrane,2,Pure Dragon Blood,2,,
+Wyverian Ears α+,Wyverian Ticket,1,Thick Bone,3,,,,

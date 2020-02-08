@@ -6,7 +6,7 @@ Those in the __groups__ dict are grouped together by prefix, and are usually use
 
 from mhdata import cfg
 
-from marshmallow import fields, ValidationError, validates
+from marshmallow import fields, ValidationError, validates, validates_schema
 from .cfields import ValidatedStr, ExcelBool, BaseSchema, NestedPrefix
 
 # schemas were added later down the line, so no schemas exist for certain objects yet
@@ -115,16 +115,19 @@ class MonsterAilments(BaseSchema):
     mud = ExcelBool(null_is_false=True)
     effluvia = ExcelBool(null_is_false=True)
 
-class SkillSchema(BaseSchema):
+class SkillBaseSchema(BaseSchema):
     __groups__ = ('name', 'description')
     name = fields.Dict()
     description = fields.Dict()
     icon_color = ValidatedStr(None, *cfg.icon_colors)
+    secret = fields.Int(allow_none=True)
 
+class SkillSchema(SkillBaseSchema):
     levels = fields.Nested('SkillLevelSchema', many=True, required=True)
 
 class SkillLevelSchema(BaseSchema):
     __groups__ = ('description',)
+    base_name_en = fields.Str()
     level = fields.Int()
     description = fields.Dict()
 
@@ -200,10 +203,18 @@ class ArmorSchema(ArmorBaseSchema):
 class DecorationBaseSchema(BaseSchema):
     __groups__ = ('name',)
     name = fields.Dict()
-    rarity = fields.Int()
-    skill_en = fields.Str()
     slot = fields.Int()
+    rarity = fields.Int()
+    skill1_name = fields.Str()
+    skill1_level = fields.Int()
+    skill2_name = fields.Str(allow_none=True)
+    skill2_level = fields.Int(allow_none=True)
     icon_color = ValidatedStr(None, *cfg.icon_colors)
+
+    @validates_schema
+    def validate_skill2(self, data):
+        if bool(data['skill2_level']) != bool(data['skill2_name']):
+            raise ValidationError(f"Skill2 points and name must both be null or not null")
 
 class DecorationSchema(DecorationBaseSchema):
     chances = fields.Dict()

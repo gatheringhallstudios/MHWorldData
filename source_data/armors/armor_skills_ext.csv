@@ -25,7 +25,7 @@ Vespoid Vambraces,Paralysis Attack,1,,
 Vespoid Coil,Paralysis Resistance,1,,
 Vespoid Greaves,Honey Hunter,1,,
 Kestodon Guards,Affinity Sliding,1,,
-Gajau Boots,Aquatic Expert,1,,
+Gajau Boots,Aquatic/Polar Mobility,1,,
 Jagras Helm,Speed Eating,1,,
 Jagras Mail,Intimidator,1,,
 Jagras Vambraces,Palico Rally,1,,
@@ -41,7 +41,7 @@ Alloy Mail,Water Resistance,1,,
 Alloy Vambraces,Defense Boost,1,,
 Alloy Coil,Poison Resistance,1,,
 Alloy Greaves,Speed Sharpening,1,,
-Pukei Hood,Sporepuff Expert,1,,
+Pukei Hood,Survival Expert,1,,
 Pukei Mail,Item Prolonger,1,,
 Pukei Vambraces,Poison Resistance,1,,
 Pukei Coil,Poison Attack,1,,
@@ -51,7 +51,7 @@ Barroth Mail,Stamina Thief,1,,
 Barroth Vambraces,Marathon Runner,1,,
 Barroth Coil,Muck Resistance,1,,
 Barroth Greaves,Stun Resistance,1,,
-Jyura Helm,Aquatic Expert,1,,
+Jyura Helm,Aquatic/Polar Mobility,1,,
 Jyura Mail,Muck Resistance,1,,
 Jyura Vambraces,Water Attack,1,,
 Jyura Coil,Ice Resistance,1,,
@@ -155,7 +155,7 @@ Blossom Boots,Recovery Speed,1,,
 Diver's Mask,Marathon Runner,1,,
 Diver's Suit,Critical Eye,1,,
 Diver's Braces,Quick Sheath,1,,
-Diver's Belt,Aquatic Expert,1,,
+Diver's Belt,Aquatic/Polar Mobility,1,,
 Diver's Boots,Hunger Resistance,1,,
 Harvest Flor,Focus,1,,
 Harvest Tronco,Tremor Resistance,1,,
@@ -260,8 +260,8 @@ Hornetaur Greaves β,Handicraft,1,,
 Mosswine Mask α,Mushroomancer,2,,
 Kestodon Guards α,Affinity Sliding,1,Focus,1
 Kestodon Guards β,Affinity Sliding,1,,
-Gajau Boots α,Aquatic Expert,2,Water Attack,1
-Gajau Boots β,Aquatic Expert,1,Water Attack,1
+Gajau Boots α,Aquatic/Polar Mobility,2,Water Attack,1
+Gajau Boots β,Aquatic/Polar Mobility,1,Water Attack,1
 Shamos Goggles α,Detector,1,Geologist,1
 Shamos Goggles β,Detector,1,,
 Jagras Helm α,Speed Eating,2,,
@@ -304,12 +304,12 @@ Girros Mail β,Paralysis Resistance,1,,
 Girros Vambraces β,Palico Rally,1,,
 Girros Coil β,Effluvial Expert,1,,
 Girros Greaves β,Paralysis Attack,1,,
-Pukei Hood α,Sporepuff Expert,2,,
+Pukei Hood α,Survival Expert,2,,
 Pukei Mail α,Item Prolonger,1,Botanist,1
 Pukei Vambraces α,Poison Resistance,2,Poison Attack,1
 Pukei Coil α,Poison Attack,2,,
-Pukei Greaves α,Botanist,2,Sporepuff Expert,1
-Pukei Hood β,Sporepuff Expert,1,,
+Pukei Greaves α,Botanist,2,Survival Expert,1
+Pukei Hood β,Survival Expert,1,,
 Pukei Mail β,Item Prolonger,1,,
 Pukei Vambraces β,Poison Resistance,1,,
 Pukei Coil β,Poison Attack,1,,
@@ -334,12 +334,12 @@ Anja Mail β,Marathon Runner,1,,
 Anja Vambraces β,Special Ammo Boost,1,,
 Anja Coil β,Fire Resistance,2,,
 Anja Greaves β,Artillery,1,,
-Jyura Helm α,Aquatic Expert,2,,
+Jyura Helm α,Aquatic/Polar Mobility,2,,
 Jyura Mail α,Muck Resistance,1,Water Attack,1
-Jyura Vambraces α,Water Attack,2,Aquatic Expert,1
+Jyura Vambraces α,Water Attack,2,Aquatic/Polar Mobility,1
 Jyura Coil α,Ice Resistance,2,,
 Jyura Greaves α,Focus,2,,
-Jyura Helm β,Aquatic Expert,1,,
+Jyura Helm β,Aquatic/Polar Mobility,1,,
 Jyura Mail β,Muck Resistance,1,,
 Jyura Vambraces β,Water Attack,2,,
 Jyura Coil β,Ice Resistance,1,,
@@ -690,7 +690,7 @@ Blossom Boots α,Recovery Speed,1,,
 Diver's Mask α,Marathon Runner,1,,
 Diver's Suit α,Critical Eye,1,,
 Diver's Braces α,Quick Sheath,1,,
-Diver's Belt α,Aquatic Expert,1,,
+Diver's Belt α,Aquatic/Polar Mobility,1,,
 Diver's Boots α,Hunger Resistance,1,,
 Harvest Flor α,Focus,1,,
 Harvest Tronco α,Tremor Resistance,1,,
@@ -781,3 +781,691 @@ Sealed Eyepatch α,Fire Resistance,1,,
 Shadow Shades α,Stun Resistance,1,,
 Kulu-Ya-Ku Head α,Pro Transporter,1,,
 Wiggler Head α,Wide-Range,2,,
+Bone Helm α+,Health Boost,2,Partbreaker,1
+Bone Mail α+,Attack Boost,2,Health Boost,1
+Bone Vambraces α+,Slugger,2,Attack Boost,1
+Bone Coil α+,Horn Maestro,1,Partbreaker,1
+Bone Greaves α+,Slugger,1,Horn Maestro,1
+Bone Helm β+,Health Boost,1,Partbreaker,1
+Bone Mail β+,Attack Boost,1,,
+Bone Vambraces β+,Slugger,1,,
+Bone Coil β+,Horn Maestro,1,,
+Bone Greaves β+,Slugger,1,,
+Alloy Helm α+,Windproof,2,Defense Boost,1
+Alloy Mail α+,Water Resistance,2,Defense Boost,1
+Alloy Vambraces α+,Defense Boost,2,Speed Sharpening,1
+Alloy Coil α+,Poison Resistance,2,Windproof,1
+Alloy Greaves α+,Speed Sharpening,2,Windproof,1
+Alloy Helm β+,Windproof,1,,
+Alloy Mail β+,Water Resistance,1,,
+Alloy Vambraces β+,Defense Boost,1,,
+Alloy Coil β+,Poison Resistance,1,Windproof,1
+Alloy Greaves β+,Speed Sharpening,1,Windproof,1
+Vespoid Helm α+,Quick Sheath,1,Paralysis Attack,1
+Vespoid Mail α+,Windproof,2,,
+Vespoid Vambraces α+,Paralysis Attack,2,Quick Sheath,1
+Vespoid Coil α+,Paralysis Resistance,2,Quick Sheath,1
+Vespoid Greaves α+,Critical Draw,1,Paralysis Resistance,1
+Vespoid Helm β+,Quick Sheath,1,,
+Vespoid Mail β+,Windproof,1,,
+Vespoid Vambraces β+,Paralysis Attack,1,,
+Vespoid Coil β+,Paralysis Resistance,1,,
+Vespoid Greaves β+,Critical Draw,1,,
+Hornetaur Helm α+,Weakness Exploit,1,Dragon Attack,2
+Hornetaur Mail α+,Effluvial Expert,1,Hunger Resistance,2
+Hornetaur Vambraces α+,Free Meal,1,Handicraft,1
+Hornetaur Coil α+,Weakness Exploit,1,Hunger Resistance,1
+Hornetaur Greaves α+,Handicraft,1,Dragon Attack,1
+Hornetaur Helm β+,Weakness Exploit,1,Dragon Attack,1
+Hornetaur Mail β+,Effluvial Expert,1,,
+Hornetaur Vambraces β+,Free Meal,1,,
+Hornetaur Coil β+,Weakness Exploit,1,,
+Hornetaur Greaves β+,Handicraft,1,,
+Kestodon Guards α+,Affinity Sliding,1,Focus,2
+Kestodon Guards β+,Affinity Sliding,1,Focus,1
+Gajau Boots α+,Aquatic/Polar Mobility,2,Water Attack,2
+Gajau Boots β+,Aquatic/Polar Mobility,1,Water Attack,1
+Shamos Goggles α+,Detector,1,Geologist,2
+Shamos Goggles β+,Detector,1,Geologist,1
+Gastodon Horn α+,Flinch Free,2,Blast Resistance,1
+Gastodon Horn β+,Flinch Free,1,Blast Resistance,1
+Barnos Jacket α+,Heat Guard,1,Iron Skin,2
+Barnos Jacket β+,Heat Guard,1,Iron Skin,1
+Wulg Scarf α+,Ice Resistance,2,Master Mounter,1
+Wulg Scarf β+,Ice Resistance,1,Master Mounter,1
+Cortos Cape α+,Hunger Resistance,2,Jump Master,1
+Cortos Cape β+,Hunger Resistance,1,Jump Master,1
+Jagras Helm α+,Speed Eating,2,Attack Boost,2
+Jagras Mail α+,Evade Extender,1,Attack Boost,2
+Jagras Vambraces α+,Evade Extender,2,Recovery Up,1
+Jagras Coil α+,Recovery Up,1,Speed Eating,1
+Jagras Greaves α+,Free Meal,1,Recovery Up,1
+Jagras Helm β+,Speed Eating,1,Attack Boost,1
+Jagras Mail β+,Evade Extender,1,Attack Boost,1
+Jagras Vambraces β+,Evade Extender,1,Recovery Up,1
+Jagras Coil β+,Recovery Up,1,,
+Jagras Greaves β+,Free Meal,1,,
+Tzitzi Headgear α+,Free Elem/Ammo Up,1,Stun Resistance,1
+Tzitzi Mail α+,Constitution,2,Water Attack,2
+Tzitzi Vambraces α+,Stun Resistance,2,Wide-Range,2
+Tzitzi Coil α+,Wide-Range,2,Water Attack,2
+Tzitzi Greaves α+,Sleep Resistance,2,Wide-Range,1
+Tzitzi Headgear β+,Free Elem/Ammo Up,1,,
+Tzitzi Mail β+,Constitution,1,Water Attack,1
+Tzitzi Vambraces β+,Stun Resistance,2,Wide-Range,1
+Tzitzi Coil β+,Wide-Range,2,,
+Tzitzi Greaves β+,Sleep Resistance,1,Wide-Range,1
+Girros Headgear α+,Horn Maestro,2,Paralysis Resistance,1
+Girros Mail α+,Paralysis Resistance,2,Free Elem/Ammo Up,1
+Girros Vambraces α+,Free Elem/Ammo Up,1,Effluvia Resistance,2
+Girros Coil α+,Effluvial Expert,1,Paralysis Attack,2
+Girros Greaves α+,Paralysis Attack,2,Free Elem/Ammo Up,1
+Girros Headgear β+,Horn Maestro,2,,
+Girros Mail β+,Paralysis Resistance,2,,
+Girros Vambraces β+,Free Elem/Ammo Up,1,Effluvia Resistance,1
+Girros Coil β+,Effluvial Expert,1,,
+Girros Greaves β+,Paralysis Attack,2,,
+Dodogama Helm α+,Blast Resistance,2,Bombardier,1
+Dodogama Mail α+,Blast Attack,2,Artillery,1
+Dodogama Vambraces α+,Bombardier,2,Blast Attack,1
+Dodogama Coil α+,Artillery,2,Blast Resistance,1
+Dodogama Greaves α+,Capacity Boost,1,Blast Attack,1
+Dodogama Helm β+,Blast Resistance,2,,
+Dodogama Mail β+,Blast Attack,2,,
+Dodogama Vambraces β+,Bombardier,1,Blast Attack,1
+Dodogama Coil β+,Artillery,2,,
+Dodogama Greaves β+,Capacity Boost,1,,
+Kulu Headpiece α+,Slinger Capacity,2,Critical Boost,1
+Kulu Mail α+,Stamina Surge,1,Critical Eye,2
+Kulu Vambraces α+,Critical Boost,1,Pro Transporter,1
+Kulu Coil α+,Item Prolonger,2,Critical Eye,1
+Kulu Greaves α+,Critical Eye,2,Item Prolonger,1
+Kulu Headpiece β+,Slinger Capacity,2,,
+Kulu Mail β+,Stamina Surge,1,Critical Eye,1
+Kulu Vambraces β+,Critical Boost,1,,
+Kulu Coil β+,Item Prolonger,2,,
+Kulu Greaves β+,Critical Eye,1,Item Prolonger,1
+Pukei Hat α+,Survival Expert,2,Poison Resistance,1
+Pukei Mail α+,Item Prolonger,2,Peak Performance,1
+Pukei Vambraces α+,Peak Performance,2,Survival Expert,1
+Pukei Coil α+,Poison Attack,2,Item Prolonger,1
+Pukei Greaves α+,Poison Resistance,2,Poison Attack,2
+Pukei Hat β+,Survival Expert,2,,
+Pukei Mail β+,Item Prolonger,1,Peak Performance,1
+Pukei Vambraces β+,Peak Performance,1,Survival Expert,1
+Pukei Coil β+,Poison Attack,1,Item Prolonger,1
+Pukei Greaves β+,Poison Resistance,2,,
+Pukei Lagoon Hat α+,Critical Draw,2,Item Prolonger,1
+Pukei Lagoon Mail α+,Power Prolonger,1,Critical Draw,1
+Pukei Lagoon Braces α+,Partbreaker,1,Power Prolonger,1
+Pukei Lagoon Coil α+,Water Attack,2,Partbreaker,1
+Pukei Lagoon Greaves α+,Item Prolonger,2,Water Attack,2
+Pukei Lagoon Hat β+,Critical Draw,1,Item Prolonger,1
+Pukei Lagoon Mail β+,Power Prolonger,1,,
+Pukei Lagoon Braces β+,Partbreaker,1,,
+Pukei Lagoon Coil β+,Water Attack,1,Partbreaker,1
+Pukei Lagoon Greaves β+,Item Prolonger,2,,
+Barroth Helm α+,Guard,2,Marathon Runner,1
+Barroth Mail α+,Stamina Thief,2,Agitator,1
+Barroth Vambraces α+,Marathon Runner,1,Guard,1
+Barroth Coil α+,Agitator,2,Guard,1
+Barroth Greaves α+,Stun Resistance,2,Marathon Runner,1
+Barroth Helm β+,Guard,2,,
+Barroth Mail β+,Stamina Thief,2,,
+Barroth Vambraces β+,Marathon Runner,1,,
+Barroth Coil β+,Agitator,2,,
+Barroth Greaves β+,Stun Resistance,2,,
+Jyura Helm α+,Latent Power,2,Focus,1
+Jyura Mail α+,Latent Power,1,Water Attack,2
+Jyura Vambraces α+,Water Attack,2,Ice Resistance,1
+Jyura Coil α+,Ice Resistance,2,Latent Power,1
+Jyura Greaves α+,Focus,2,Water Attack,1
+Jyura Helm β+,Latent Power,1,Focus,1
+Jyura Mail β+,Latent Power,1,Water Attack,1
+Jyura Vambraces β+,Water Attack,2,,
+Jyura Coil β+,Ice Resistance,2,,
+Jyura Greaves β+,Focus,1,Water Attack,1
+Beo Helm α+,Aquatic/Polar Mobility,2,Earplugs,1
+Beo Mail α+,Stamina Surge,1,Ice Attack,2
+Beo Vambraces α+,Ice Attack,2,Health Boost,1
+Beo Coil α+,Health Boost,2,Earplugs,2
+Beo Greaves α+,Earplugs,2,Ice Attack,1
+Beo Helm β+,Aquatic/Polar Mobility,2,,
+Beo Mail β+,Stamina Surge,1,,
+Beo Vambraces β+,Ice Attack,2,,
+Beo Coil β+,Health Boost,2,Earplugs,1
+Beo Greaves β+,Earplugs,2,,
+Kadachi Hat α+,Constitution,2,Evade Extender,1
+Kadachi Mail α+,Jump Master,1,Constitution,1
+Kadachi Vambraces α+,Evade Extender,2,Thunder Attack,2
+Kadachi Coil α+,Thunder Attack,2,Thunder Resistance,1
+Kadachi Greaves α+,Thunder Resistance,2,Constitution,1
+Kadachi Hat β+,Constitution,1,Evade Extender,1
+Kadachi Mail β+,Jump Master,1,,
+Kadachi Vambraces β+,Evade Extender,1,Thunder Attack,2
+Kadachi Coil β+,Thunder Attack,2,,
+Kadachi Greaves β+,Thunder Resistance,2,,
+Viper Kadachi Hat α+,Evade Extender,2,Paralysis Attack,1
+Viper Kadachi Mail α+,Quick Sheath,1,Evade Extender,1
+Viper Kadachi Braces α+,Poison Attack,2,Evade Window,1
+Viper Kadachi Coil α+,Constitution,1,Quick Sheath,1
+Viper Kadachi Greaves α+,Evade Window,1,Constitution,1
+Viper Kadachi Hat β+,Evade Extender,1,Paralysis Attack,1
+Viper Kadachi Mail β+,Quick Sheath,1,,
+Viper Kadachi Braces β+,Poison Attack,1,Evade Window,1
+Viper Kadachi Coil β+,Constitution,1,,
+Viper Kadachi Greaves β+,Evade Window,1,,
+High Metal Helm α+,Ice Resistance,2,Earplugs,2
+High Metal Mail α+,Earplugs,2,Ice Attack,1
+High Metal Braces α+,Defense Boost,2,Ice Attack,2
+High Metal Coil α+,Capacity Boost,1,Defense Boost,2
+High Metal Greaves α+,Heavy Artillery,2,Ice Resistance,1
+High Metal Helm β+,Ice Resistance,2,Earplugs,1
+High Metal Mail β+,Earplugs,1,Ice Attack,1
+High Metal Braces β+,Defense Boost,2,Ice Attack,1
+High Metal Coil β+,Capacity Boost,1,Defense Boost,1
+High Metal Greaves β+,Heavy Artillery,1,Ice Resistance,1
+Banbaro Helm α+,Resentment,2,Mushroomancer,1
+Banbaro Mail α+,Speed Eating,1,Offensive Guard,1
+Banbaro Vambraces α+,Offensive Guard,1,Health Boost,2
+Banbaro Coil α+,Mushroomancer,1,Offensive Guard,1
+Banbaro Greaves α+,Mushroomancer,1,Speed Eating,1
+Banbaro Helm β+,Resentment,2,,
+Banbaro Mail β+,Speed Eating,1,,
+Banbaro Vambraces β+,Offensive Guard,1,Health Boost,1
+Banbaro Coil β+,Mushroomancer,1,,
+Banbaro Greaves β+,Mushroomancer,1,,
+Anja Helm α+,Fire Attack,2,Fire Resistance,1
+Anja Mail α+,Marathon Runner,2,Special Ammo Boost,1
+Anja Vambraces α+,Special Ammo Boost,1,Fire Attack,2
+Anja Coil α+,Fire Resistance,2,Artillery,1
+Anja Greaves α+,Artillery,2,Marathon Runner,1
+Anja Helm β+,Fire Attack,2,,
+Anja Mail β+,Marathon Runner,1,Special Ammo Boost,1
+Anja Vambraces β+,Special Ammo Boost,1,Fire Attack,1
+Anja Coil β+,Fire Resistance,2,,
+Anja Greaves β+,Artillery,2,,
+Fulgur Helm α+,Weakness Exploit,1,Resuscitate,1
+Fulgur Mail α+,Flinch Free,1,Stun Resistance,2
+Fulgur Vambraces α+,Item Prolonger,2,Thunder Attack,2
+Fulgur Coil α+,Weakness Exploit,2,Item Prolonger,1
+Fulgur Greaves α+,Thunder Attack,2,Special Ammo Boost,1
+Fulgur Helm β+,Weakness Exploit,1,,
+Fulgur Mail β+,Flinch Free,1,Stun Resistance,1
+Fulgur Vambraces β+,Item Prolonger,2,,
+Fulgur Coil β+,Weakness Exploit,1,Item Prolonger,1
+Fulgur Greaves β+,Thunder Attack,2,,
+Rathian Helm α+,Health Boost,2,Poison Attack,1
+Rathian Mail α+,Botanist,2,Recovery Up,1
+Rathian Vambraces α+,Poison Attack,2,Botanist,1
+Rathian Coil α+,Poison Resistance,2,Health Boost,1
+Rathian Greaves α+,Recovery Up,2,Poison Resistance,1
+Rathian Helm β+,Health Boost,1,Poison Attack,1
+Rathian Mail β+,Botanist,1,Recovery Up,1
+Rathian Vambraces β+,Poison Attack,2,,
+Rathian Coil β+,Poison Resistance,1,Health Boost,1
+Rathian Greaves β+,Recovery Up,2,,
+Rath Heart Helm α+,Evade Extender,2,Cliffhanger,1
+Rath Heart Mail α+,Tool Specialist,2,Handicraft,1
+Rath Heart Braces α+,Windproof,2,Handicraft,1
+Rath Heart Coil α+,Handicraft,1,Poison Resistance,2
+Rath Heart Greaves α+,Tool Specialist,1,Windproof,1
+Rath Heart Helm β+,Evade Extender,2,,
+Rath Heart Mail β+,Tool Specialist,2,,
+Rath Heart Braces β+,Windproof,2,,
+Rath Heart Coil β+,Handicraft,1,Poison Resistance,1
+Rath Heart Greaves β+,Tool Specialist,1,,
+Lumu Hat α+,Stamina Surge,2,Windproof,1
+Lumu Mail α+,Master Mounter,1,Artillery,1
+Lumu Vambraces α+,Artillery,2,Windproof,1
+Lumu Coil α+,Divine Blessing,2,Windproof,1
+Lumu Greaves α+,Windproof,2,Stamina Surge,1
+Lumu Hat β+,Stamina Surge,2,,
+Lumu Mail β+,Master Mounter,1,,
+Lumu Vambraces β+,Artillery,1,Windproof,1
+Lumu Coil β+,Divine Blessing,1,Windproof,1
+Lumu Greaves β+,Windproof,2,,
+Lumu Phantasm Hood α+,Weakness Exploit,1,Wide-Range,1
+Lumu Phantasm Mail α+,Wide-Range,2,Maximum Might,1
+Lumu Phantasm Braces α+,Maximum Might,1,Sleep Attack,1
+Lumu Phantasm Coil α+,Sleep Attack,2,Wide-Range,1
+Lumu Phantasm Greaves α+,Sleep Resistance,2,Wide-Range,1
+Lumu Phantasm Hood β+,Weakness Exploit,1,,
+Lumu Phantasm Mail β+,Wide-Range,2,,
+Lumu Phantasm Braces β+,Maximum Might,1,,
+Lumu Phantasm Coil β+,Sleep Attack,2,,
+Lumu Phantasm Greaves β+,Sleep Resistance,2,,
+Baan Helm α+,Tremor Resistance,2,Slugger,1
+Baan Mail α+,Sleep Attack,1,Bleeding Resistance,1
+Baan Vambraces α+,Sleep Attack,2,Guard,1
+Baan Coil α+,Guard,2,Sleep Resistance,2
+Baan Greaves α+,Bleeding Resistance,2,Guard,1
+Baan Helm β+,Tremor Resistance,2,,
+Baan Mail β+,Sleep Attack,1,,
+Baan Vambraces β+,Sleep Attack,1,Guard,1
+Baan Coil β+,Guard,2,,
+Baan Greaves β+,Bleeding Resistance,2,,
+Artian Helm α+,Slinger Capacity,2,Free Elem/Ammo Up,1
+Artian Mail α+,Critical Eye,3,Peak Performance,1
+Artian Vambraces α+,Free Elem/Ammo Up,2,Tool Specialist,1
+Artian Coil α+,Tool Specialist,2,Critical Eye,1
+Artian Greaves α+,Peak Performance,2,Slinger Capacity,1
+Artian Helm β+,Slinger Capacity,1,Free Elem/Ammo Up,1
+Artian Mail β+,Critical Eye,2,Peak Performance,1
+Artian Vambraces β+,Free Elem/Ammo Up,2,,
+Artian Coil β+,Tool Specialist,1,Critical Eye,1
+Artian Greaves β+,Peak Performance,2,,
+Clockwork Helm α+,Agitator,2,Partbreaker,1
+Clockwork Mail α+,Agitator,2,Special Ammo Boost,1
+Clockwork Braces α+,Bombardier,3,Tremor Resistance,1
+Clockwork Coil α+,Partbreaker,2,Sleep Functionality,1
+Clockwork Greaves α+,Critical Boost,1,Bombardier,2
+Clockwork Helm β+,Agitator,1,Partbreaker,1
+Clockwork Mail β+,Agitator,2,,
+Clockwork Braces β+,Bombardier,3,,
+Clockwork Coil β+,Partbreaker,2,,
+Clockwork Greaves β+,Critical Boost,1,Bombardier,1
+Ingot Helm α+,Thunder Attack,2,Windproof,1
+Ingot Mail α+,Thunder Resistance,2,Free Elem/Ammo Up,1
+Ingot Vambraces α+,Health Boost,2,Thunder Attack,2
+Ingot Coil α+,Windproof,2,Free Elem/Ammo Up,1
+Ingot Greaves α+,Defense Boost,2,Free Elem/Ammo Up,1
+Ingot Helm β+,Thunder Attack,2,,
+Ingot Mail β+,Thunder Resistance,1,Free Elem/Ammo Up,1
+Ingot Vambraces β+,Health Boost,2,Thunder Attack,1
+Ingot Coil β+,Windproof,1,Free Elem/Ammo Up,1
+Ingot Greaves β+,Defense Boost,1,Free Elem/Ammo Up,1
+Barioth Helm α+,Evade Extender,2,Power Prolonger,1
+Barioth Mail α+,Power Prolonger,1,Constitution,1
+Barioth Vambraces α+,Recovery Up,2,Constitution,2
+Barioth Faulds α+,Quick Sheath,1,Recovery Up,1
+Barioth Greaves α+,Constitution,2,Quick Sheath,1
+Barioth Helm β+,Evade Extender,1,Power Prolonger,1
+Barioth Mail β+,Power Prolonger,1,,
+Barioth Vambraces β+,Recovery Up,2,Constitution,1
+Barioth Faulds β+,Quick Sheath,1,,
+Barioth Greaves β+,Constitution,1,Quick Sheath,1
+Rathalos Helm α+,Attack Boost,2,Fire Attack,2
+Rathalos Mail α+,Weakness Exploit,2,Fire Attack,1
+Rathalos Vambraces α+,Jump Master,1,Weakness Exploit,1
+Rathalos Coil α+,Fire Attack,2,Focus,2
+Rathalos Greaves α+,Slinger Capacity,2,Attack Boost,2
+Rathalos Helm β+,Attack Boost,2,,
+Rathalos Mail β+,Weakness Exploit,2,,
+Rathalos Vambraces β+,Jump Master,1,,
+Rathalos Coil β+,Fire Attack,2,,
+Rathalos Greaves β+,Slinger Capacity,2,Attack Boost,1
+Rath Soul Helm α+,Critical Boost,1,Cliffhanger,1
+Rath Soul Mail α+,Free Elem/Ammo Up,1,Partbreaker,1
+Rath Soul Braces α+,Partbreaker,2,Windproof,1
+Rath Soul Coil α+,Windproof,2,Piercing Shots,1
+Rath Soul Greaves α+,Critical Boost,1,Windproof,2
+Rath Soul Helm β+,Critical Boost,1,,
+Rath Soul Mail β+,Free Elem/Ammo Up,1,,
+Rath Soul Braces β+,Partbreaker,1,Windproof,1
+Rath Soul Coil β+,Windproof,2,,
+Rath Soul Greaves β+,Critical Boost,1,Windproof,1
+Diablos Helm α+,Critical Draw,2,Slugger,1
+Diablos Mail α+,Slugger,2,Heroics,2
+Diablos Vambraces α+,Heroics,3,Tremor Resistance,1
+Diablos Coil α+,Marathon Runner,2,Critical Draw,1
+Diablos Greaves α+,Tremor Resistance,2,Slugger,2
+Diablos Helm β+,Critical Draw,2,,
+Diablos Mail β+,Slugger,2,Heroics,1
+Diablos Vambraces β+,Heroics,2,Tremor Resistance,1
+Diablos Coil β+,Marathon Runner,2,,
+Diablos Greaves β+,Tremor Resistance,2,Slugger,1
+Diablos Nero Helm α+,Partbreaker,2,Resentment,1
+Diablos Nero Mail α+,Resentment,2,Marathon Runner,1
+Diablos Nero Braces α+,Slugger,2,Marathon Runner,1
+Diablos Nero Coil α+,Slugger,2,Partbreaker,1
+Diablos Nero Greaves α+,Resentment,2,Slugger,1
+Diablos Nero Helm β+,Partbreaker,2,,
+Diablos Nero Mail β+,Resentment,1,Marathon Runner,1
+Diablos Nero Braces β+,Slugger,1,Marathon Runner,1
+Diablos Nero Coil β+,Slugger,2,,
+Diablos Nero Greaves β+,Resentment,2,,
+Legiana Helm α+,Divine Blessing,2,Ice Attack,2
+Legiana Mail α+,Evade Window,2,Divine Blessing,2
+Legiana Vambraces α+,Airborne,1,Evade Window,2
+Legiana Coil α+,Ice Attack,2,Windproof,2
+Legiana Greaves α+,Ice Resistance,2,Critical Draw,1
+Legiana Helm β+,Divine Blessing,2,,
+Legiana Mail β+,Evade Window,2,Divine Blessing,1
+Legiana Vambraces β+,Airborne,1,Evade Window,1
+Legiana Coil β+,Ice Attack,2,Windproof,1
+Legiana Greaves β+,Ice Resistance,2,,
+Hoarcry Helm α+,Hunger Resistance,2,Evade Extender,1
+Hoarcry Mail α+,Focus,2,Marathon Runner,1
+Hoarcry Vambraces α+,Critical Draw,2,Hunger Resistance,1
+Hoarcry Coil α+,Evade Extender,2,Focus,1
+Hoarcry Greaves α+,Marathon Runner,2,Spread/Power Shots,1
+Hoarcry Helm β+,Hunger Resistance,2,,
+Hoarcry Mail β+,Focus,2,,
+Hoarcry Vambraces β+,Critical Draw,2,,
+Hoarcry Coil β+,Evade Extender,2,,
+Hoarcry Greaves β+,Marathon Runner,2,,
+Odogaron Helm α+,Bleeding Resistance,2,Critical Eye,2
+Odogaron Mail α+,Speed Sharpening,2,Bleeding Resistance,1
+Odogaron Vambraces α+,Constitution,2,Critical Eye,1
+Odogaron Coil α+,Critical Eye,3,Speed Sharpening,1
+Odogaron Greaves α+,Quick Sheath,2,Critical Eye,1
+Odogaron Helm β+,Bleeding Resistance,2,Critical Eye,1
+Odogaron Mail β+,Speed Sharpening,2,,
+Odogaron Vambraces β+,Constitution,1,Critical Eye,1
+Odogaron Coil β+,Critical Eye,2,,
+Odogaron Greaves β+,Quick Sheath,1,Critical Eye,1
+Death Garon Helm α+,Latent Power,2,Tool Specialist,1
+Death Garon Mail α+,Critical Eye,3,Dragon Resistance,2
+Death Garon Braces α+,Power Prolonger,1,Dragon Attack,2
+Death Garon Coil α+,Dragon Attack,2,Latent Power,1
+Death Garon Greaves α+,Tool Specialist,2,Power Prolonger,1
+Death Garon Helm β+,Latent Power,2,,
+Death Garon Mail β+,Critical Eye,2,Dragon Resistance,1
+Death Garon Braces β+,Power Prolonger,1,Dragon Attack,1
+Death Garon Coil β+,Dragon Attack,2,,
+Death Garon Greaves β+,Tool Specialist,2,,
+Lavasioth Helm α+,Fire Attack,2,Quick Sheath,1
+Lavasioth Mail α+,Fire Attack,3,Heat Guard,1
+Lavasioth Vambraces α+,Peak Performance,2,Recovery Up,1
+Lavasioth Coil α+,Quick Sheath,2,Recovery Up,2
+Lavasioth Greaves α+,Spread/Power Shots,1,Fire Attack,2
+Lavasioth Helm β+,Fire Attack,1,Quick Sheath,1
+Lavasioth Mail β+,Fire Attack,2,Heat Guard,1
+Lavasioth Vambraces β+,Peak Performance,1,Recovery Up,1
+Lavasioth Coil β+,Quick Sheath,2,Recovery Up,1
+Lavasioth Greaves β+,Spread/Power Shots,1,Fire Attack,1
+Uragaan Helm α+,Blast Resistance,2,Flinch Free,1
+Uragaan Mail α+,Partbreaker,2,Blast Resistance,1
+Uragaan Vambraces α+,Guard,2,Iron Skin,2
+Uragaan Coil α+,Partbreaker,1,Guard,1
+Uragaan Greaves α+,Guard,2,Offensive Guard,1
+Uragaan Helm β+,Blast Resistance,2,,
+Uragaan Mail β+,Partbreaker,2,,
+Uragaan Vambraces β+,Guard,2,Iron Skin,1
+Uragaan Coil β+,Partbreaker,1,,
+Uragaan Greaves β+,Guard,2,,
+Nargacuga Helm α+,Peak Performance,2,Piercing Shots,1
+Nargacuga Mail α+,Evade Window,2,Speed Crawler,1
+Nargacuga Braces α+,Stamina Surge,2,Stealth,2
+Nargacuga Faulds α+,Evade Window,2,Stamina Surge,1
+Nargacuga Greaves α+,Evade Window,1,Peak Performance,1
+Nargacuga Helm β+,Peak Performance,1,Piercing Shots,1
+Nargacuga Mail β+,Evade Window,2,,
+Nargacuga Braces β+,Stamina Surge,2,,
+Nargacuga Faulds β+,Evade Window,1,Stamina Surge,1
+Nargacuga Greaves β+,Evade Window,1,,
+Glavenus Helm α+,Focus,2,Handicraft,1
+Glavenus Mail α+,Power Prolonger,2,Maximum Might,1
+Glavenus Braces α+,Maximum Might,2,Focus,1
+Glavenus Faulds α+,Maximum Might,2,Normal Shots,1
+Glavenus Greaves α+,Handicraft,2,Heat Guard,1
+Glavenus Helm β+,Focus,1,Handicraft,1
+Glavenus Mail β+,Power Prolonger,1,Maximum Might,1
+Glavenus Braces β+,Maximum Might,1,Focus,1
+Glavenus Faulds β+,Maximum Might,2,,
+Glavenus Greaves β+,Handicraft,2,,
+Acidic Glavenus Helm α+,Maximum Might,2,Effluvia Resistance,2
+Acidic Glavenus Mail α+,Handicraft,2,Stamina Surge,1
+Acidic Glavenus Braces α+,Stun Resistance,2,Handicraft,1
+Acidic Glavenus Coil α+,Handicraft,2,Iron Skin,2
+Acidic Glavenus Greaves α+,Maximum Might,2,Stamina Surge,1
+Acidic Glavenus Helm β+,Maximum Might,1,Effluvia Resistance,2
+Acidic Glavenus Mail β+,Handicraft,1,Stamina Surge,1
+Acidic Glavenus Braces β+,Stun Resistance,2,,
+Acidic Glavenus Coil β+,Handicraft,2,,
+Acidic Glavenus Greaves β+,Maximum Might,1,,
+Brachydios Helm α+,Agitator,2,Capacity Boost,1
+Brachydios Mail α+,Stamina Thief,2,Agitator,1
+Brachydios Braces α+,Agitator,2,Blast Resistance,2
+Brachydios Faulds α+,Blast Attack,2,Stamina Thief,1
+Brachydios Greaves α+,Agitator,2,Artillery,2
+Brachydios Helm β+,Agitator,2,,
+Brachydios Mail β+,Stamina Thief,1,Agitator,1
+Brachydios Braces β+,Agitator,2,Blast Resistance,1
+Brachydios Faulds β+,Blast Attack,2,,
+Brachydios Greaves β+,Agitator,2,Artillery,1
+Tigrex Helm α+,Attack Boost,2,Earplugs,2
+Tigrex Mail α+,Earplugs,2,Free Meal,1
+Tigrex Braces α+,Speed Eating,2,Attack Boost,2
+Tigrex Tassets α+,Earplugs,1,Free Meal,1
+Tigrex Greaves α+,Speed Eating,1,Free Meal,1
+Tigrex Helm β+,Attack Boost,2,Earplugs,1
+Tigrex Mail β+,Earplugs,2,,
+Tigrex Braces β+,Speed Eating,2,Attack Boost,1
+Tigrex Tassets β+,Earplugs,1,,
+Tigrex Greaves β+,Speed Eating,1,,
+Rex Roar Helm α+,Attack Boost,3,Free Meal,1
+Rex Roar Mail α+,Attack Boost,3,Weakness Exploit,1
+Rex Roar Braces α+,Health Boost,3,Attack Boost,2
+Rex Roar Coil α+,Recovery Up,3,Weakness Exploit,1
+Rex Roar Greaves α+,Agitator,3,Weakness Exploit,1
+Rex Roar Helm β+,Attack Boost,2,Free Meal,1
+Rex Roar Mail β+,Attack Boost,2,Weakness Exploit,1
+Rex Roar Braces β+,Health Boost,2,Attack Boost,2
+Rex Roar Coil β+,Recovery Up,2,Weakness Exploit,1
+Rex Roar Greaves β+,Agitator,2,Weakness Exploit,1
+Black Belt Helm α+,Marathon Runner,2,Mushroomancer,1
+Black Belt Mail α+,Mushroomancer,2,Wide-Range,1
+Black Belt Braces α+,Wide-Range,2,Horn Maestro,2
+Black Belt Tassets α+,Recovery Up,2,Marathon Runner,1
+Black Belt Greaves α+,Wide-Range,2,Recovery Up,1
+Black Belt Helm β+,Marathon Runner,2,,
+Black Belt Mail β+,Mushroomancer,2,,
+Black Belt Braces β+,Wide-Range,2,,
+Black Belt Tassets β+,Recovery Up,2,,
+Black Belt Greaves β+,Wide-Range,2,,
+Dober Helm α+,Free Elem/Ammo Up,2,Stamina Surge,1
+Dober Mail α+,Attack Boost,2,Effluvia Resistance,1
+Dober Vambraces α+,Stamina Surge,2,Mushroomancer,1
+Dober Coil α+,Attack Boost,2,Stun Resistance,2
+Dober Greaves α+,Attack Boost,2,Mushroomancer,2
+Dober Helm β+,Free Elem/Ammo Up,2,,
+Dober Mail β+,Attack Boost,1,Effluvia Resistance,1
+Dober Vambraces β+,Stamina Surge,1,Mushroomancer,1
+Dober Coil β+,Attack Boost,1,Stun Resistance,1
+Dober Greaves β+,Attack Boost,1,Mushroomancer,1
+Damascus Helm α+,Defense Boost,3,Speed Sharpening,2
+Damascus Mail α+,Focus,2,Defense Boost,2
+Damascus Vambraces α+,Handicraft,2,Speed Sharpening,1
+Damascus Coil α+,Focus,1,Guard,1
+Damascus Greaves α+,Defense Boost,2,Guard,2
+Damascus Helm β+,Defense Boost,3,,
+Damascus Mail β+,Focus,2,,
+Damascus Vambraces β+,Handicraft,2,,
+Damascus Coil β+,Focus,1,,
+Damascus Greaves β+,Defense Boost,2,Guard,1
+Pride Helm α+,Earplugs,2,Blast Attack,2
+Pride Mail α+,Guard,2,Blast Resistance,2
+Pride Vambraces α+,Critical Draw,2,Earplugs,1
+Pride Coil α+,Bombardier,2,Critical Draw,1
+Pride Greaves α+,Earplugs,2,Jump Master,1
+Pride Helm β+,Earplugs,2,Blast Attack,1
+Pride Mail β+,Guard,2,,
+Pride Vambraces β+,Critical Draw,2,,
+Pride Coil β+,Bombardier,2,,
+Pride Greaves β+,Earplugs,1,Jump Master,1
+Esurient Helm α+,Partbreaker,1,Handicraft,2
+Esurient Mail α+,Speed Eating,1,Handicraft,2
+Esurient Vambraces α+,Stamina Thief,2,Partbreaker,1
+Esurient Faulds α+,Stamina Thief,2,Handicraft,1
+Esurient Greaves α+,Speed Eating,2,Stamina Thief,1
+Esurient Helm β+,Partbreaker,1,,
+Esurient Mail β+,Speed Eating,1,,
+Esurient Vambraces β+,Stamina Thief,2,,
+Esurient Faulds β+,Stamina Thief,2,,
+Esurient Greaves β+,Speed Eating,1,Stamina Thief,1
+Rimeguard Helm α+,Divine Blessing,2,Coalescence,1
+Rimeguard Mail α+,Quick Sheath,2,Critical Draw,1
+Rimeguard Vambraces α+,Quick Sheath,1,Flinch Free,2
+Rimeguard Coil α+,Flinch Free,1,Coalescence,1
+Rimeguard Greaves α+,Critical Draw,2,Coalescence,1
+Rimeguard Helm β+,Divine Blessing,2,,
+Rimeguard Mail β+,Quick Sheath,2,,
+Rimeguard Vambraces β+,Quick Sheath,1,Flinch Free,1
+Rimeguard Coil β+,Flinch Free,1,,
+Rimeguard Greaves β+,Critical Draw,2,,
+Fellshroud Helm α+,Peak Performance,2,Dragon Attack,2
+Fellshroud Mail α+,Recovery Speed,2,Dragon Attack,2
+Fellshroud Braces α+,Recovery Up,2,Speed Eating,1
+Fellshroud Coil α+,Speed Eating,2,Peak Performance,1
+Fellshroud Greaves α+,Effluvia Resistance,2,Dragon Attack,2
+Fellshroud Helm β+,Peak Performance,2,,
+Fellshroud Mail β+,Recovery Speed,2,Dragon Attack,1
+Fellshroud Braces β+,Recovery Up,2,,
+Fellshroud Coil β+,Speed Eating,2,,
+Fellshroud Greaves β+,Effluvia Resistance,2,,
+Kaiser Crown α+,Latent Power,2,Critical Eye,2
+Kaiser Mail α+,Latent Power,1,Special Ammo Boost,2
+Kaiser Vambraces α+,Weakness Exploit,2,Heat Guard,1
+Kaiser Coil α+,Blast Attack,2,Weakness Exploit,1
+Kaiser Greaves α+,Latent Power,2,Blast Attack,2
+Kaiser Crown β+,Latent Power,1,Critical Eye,2
+Kaiser Mail β+,Latent Power,1,,
+Kaiser Vambraces β+,Weakness Exploit,1,Heat Guard,1
+Kaiser Coil β+,Blast Attack,2,,
+Kaiser Greaves β+,Latent Power,2,Blast Attack,1
+Kushala Glare α+,Ice Attack,2,Evade Window,2
+Kushala Cista α+,Handicraft,3,,
+Kushala Grip α+,Evade Window,3,,
+Kushala Cocoon α+,Ice Attack,3,Evade Extender,1
+Kushala Crus α+,Evade Extender,2,Handicraft,2
+Kushala Glare β+,Ice Attack,2,Evade Window,1
+Kushala Cista β+,Handicraft,2,,
+Kushala Grip β+,Evade Window,2,,
+Kushala Cocoon β+,Ice Attack,3,,
+Kushala Crus β+,Evade Extender,2,,
+Kirin Horn α+,Marathon Runner,2,Divine Blessing,2
+Kirin Jacket α+,Critical Eye,3,Divine Blessing,1
+Kirin Longarms α+,Thunder Attack,3,Marathon Runner,1
+Kirin Hoop α+,Blight Resistance,2,Free Elem/Ammo Up,1
+Kirin Leg Guards α+,Free Elem/Ammo Up,2,Critical Eye,2
+Kirin Horn β+,Marathon Runner,2,,
+Kirin Jacket β+,Critical Eye,2,Divine Blessing,1
+Kirin Longarms β+,Thunder Attack,3,,
+Kirin Hoop β+,Blight Resistance,2,,
+Kirin Leg Guards β+,Free Elem/Ammo Up,2,,
+Tentacle Cowl α+,Constitution,3,Maximum Might,1
+Tentacle Cloak α+,Blight Resistance,2,Tool Specialist,1
+Tentacle Gloves α+,Tool Specialist,2,Maximum Might,1
+Tentacle Coil α+,Constitution,2,Stamina Surge,1
+Tentacle Greaves α+,Stamina Surge,2,Blight Resistance,1
+Tentacle Cowl β+,Constitution,2,Maximum Might,1
+Tentacle Cloak β+,Blight Resistance,1,Tool Specialist,1
+Tentacle Gloves β+,Tool Specialist,2,,
+Tentacle Coil β+,Constitution,1,Stamina Surge,1
+Tentacle Greaves β+,Stamina Surge,2,,
+Guild Palace Helm α+,Health Boost,2,Offensive Guard,1
+Guild Palace Mail α+,Agitator,2,Heroics,1
+Guild Palace Braces α+,Offensive Guard,2,Heroics,1
+Guild Palace Coil α+,Agitator,3,Resuscitate,1
+Guild Palace Greaves α+,Heroics,3,Health Boost,1
+Guild Palace Helm β+,Health Boost,2,,
+Guild Palace Mail β+,Agitator,1,Heroics,1
+Guild Palace Braces β+,Offensive Guard,2,,
+Guild Palace Coil β+,Agitator,2,Resuscitate,1
+Guild Palace Greaves β+,Heroics,2,Health Boost,1
+Shara Ishvalda Helm α+,Recovery Up,2,Partbreaker,1
+Shara Ishvalda Mail α+,Coalescence,2,Health Boost,1
+Shara Ishvalda Braces α+,Critical Boost,2,Coalescence,1
+Shara Ishvalda Coil α+,Health Boost,2,Recovery Up,1
+Shara Ishvalda Greaves α+,Partbreaker,2,Defense Boost,2
+Shara Ishvalda Helm β+,Recovery Up,2,,
+Shara Ishvalda Mail β+,Coalescence,2,,
+Shara Ishvalda Braces β+,Critical Boost,2,,
+Shara Ishvalda Coil β+,Health Boost,2,,
+Shara Ishvalda Greaves β+,Partbreaker,1,Defense Boost,1
+Zorah Headgear α+,Flinch Free,1,Artillery,2
+Zorah Hide α+,Tremor Resistance,2,Artillery,2
+Zorah Claws α+,Flinch Free,2,Free Meal,1
+Zorah Spine α+,Tremor Resistance,1,Artillery,1
+Zorah Spurs α+,Earplugs,1,Handicraft,1
+Zorah Headgear β+,Flinch Free,1,,
+Zorah Hide β+,Tremor Resistance,2,,
+Zorah Claws β+,Flinch Free,2,,
+Zorah Spine β+,Tremor Resistance,1,,
+Zorah Spurs β+,Earplugs,1,,
+Garuga Helm α+,Critical Eye,2,Resentment,1
+Garuga Mail α+,Earplugs,2,Critical Eye,2
+Garuga Vambraces α+,Earplugs,3,,
+Garuga Tassets α+,Resentment,2,Poison Attack,2
+Garuga Greaves α+,Critical Eye,2,Piercing Shots,1
+Garuga Helm β+,Critical Eye,1,Resentment,1
+Garuga Mail β+,Earplugs,1,Critical Eye,2
+Garuga Vambraces β+,Earplugs,2,,
+Garuga Tassets β+,Resentment,2,,
+Garuga Greaves β+,Critical Eye,2,,
+Zinogre Helm α+,Power Prolonger,2,Critical Boost,1
+Zinogre Mail α+,Latent Power,3,Normal Shots,1
+Zinogre Braces α+,Recovery Speed,2,Latent Power,2
+Zinogre Coil α+,Power Prolonger,1,Thunder Attack,2
+Zinogre Greaves α+,Thunder Attack,3,Latent Power,2
+Zinogre Helm β+,Power Prolonger,1,Critical Boost,1
+Zinogre Mail β+,Latent Power,3,,
+Zinogre Braces β+,Recovery Speed,1,Latent Power,2
+Zinogre Coil β+,Power Prolonger,1,,
+Zinogre Greaves β+,Thunder Attack,1,Latent Power,2
+Golden Lunehelm α+,Health Boost,2,Poison Attack,2
+Golden Lunemail α+,Divine Blessing,2,Resentment,1
+Golden Lunebraces α+,Resentment,2,Poison Attack,2
+Golden Lunecoil α+,Divine Blessing,3,Health Boost,1
+Golden Lunegreaves α+,Weakness Exploit,2,Spread/Power Shots,1
+Golden Lunehelm β+,Health Boost,2,,
+Golden Lunemail β+,Divine Blessing,2,,
+Golden Lunebraces β+,Resentment,2,,
+Golden Lunecoil β+,Divine Blessing,3,,
+Golden Lunegreaves β+,Weakness Exploit,2,,
+Silver Solhelm α+,Windproof,2,Fire Attack,2
+Silver Solmail α+,Critical Boost,2,Fire Attack,2
+Silver Solbraces α+,Slinger Capacity,3,Windproof,1
+Silver Solcoil α+,Windproof,2,Critical Boost,1
+Silver Solgreaves α+,Slinger Capacity,2,Fire Attack,2
+Silver Solhelm β+,Windproof,2,,
+Silver Solmail β+,Critical Boost,2,,
+Silver Solbraces β+,Slinger Capacity,3,,
+Silver Solcoil β+,Windproof,1,Critical Boost,1
+Silver Solgreaves β+,Slinger Capacity,2,,
+Empress Crown α+,Tool Specialist,2,Offensive Guard,2
+Empress Mail α+,Peak Performance,2,Wide-Range,2
+Empress Vambraces α+,Tool Specialist,2,Blast Attack,2
+Empress Coil α+,Health Boost,2,Blast Attack,2
+Empress Greaves α+,Wide-Range,3,Tool Specialist,1
+Empress Crown β+,Tool Specialist,2,,
+Empress Mail β+,Peak Performance,1,Wide-Range,2
+Empress Vambraces β+,Tool Specialist,2,Blast Attack,1
+Empress Coil β+,Health Boost,2,,
+Empress Greaves β+,Wide-Range,2,Tool Specialist,1
+Ruinous Helm α+,Maximum Might,2,Stamina Surge,1
+Ruinous Mail α+,Stamina Surge,2,Maximum Might,1
+Ruinous Vambraces α+,Agitator,2,Attack Boost,2
+Ruinous Coil α+,Attack Boost,3,Earplugs,1
+Ruinous Greaves α+,Earplugs,2,Agitator,1
+Ruinous Helm β+,Maximum Might,2,,
+Ruinous Mail β+,Stamina Surge,2,,
+Ruinous Vambraces β+,Agitator,2,Attack Boost,1
+Ruinous Coil β+,Attack Boost,2,Earplugs,1
+Ruinous Greaves β+,Earplugs,2,,
+Guildwork Head α+,Botanist,3,Honey Hunter,1
+Guildwork Body α+,Cliffhanger,1,Flinch Free,1
+Guildwork Braces α+,Geologist,2,Botanist,1
+Guildwork Waist α+,Forager's Luck,1,Detector,1
+Guildwork Feet α+,Flinch Free,2,Geologist,1
+Guildwork Head β+,Botanist,2,Honey Hunter,1
+Guildwork Body β+,Cliffhanger,1,,
+Guildwork Braces β+,Geologist,1,Botanist,1
+Guildwork Waist β+,Forager's Luck,1,,
+Guildwork Feet β+,Flinch Free,2,,
+Oolong Hair α+,Critical Eye,3,,
+Oolong Vest α+,Stamina Surge,2,,
+Oolong Sleeves α+,Coalescence,2,,
+Oolong Waist α+,Constitution,3,,
+Oolong Boots α+,Health Boost,2,,
+Astral Veil α+,Wide-Range,3,,
+Astral Cloth α+,Critical Boost,2,,
+Astral Scarf α+,Divine Blessing,2,,
+Astral Skirt α+,Flinch Free,2,,
+Astral Tights α+,Weakness Exploit,2,,
+Pearlspring α+,Recovery Up,2,,
+Duffel Penguin Mask α+,Evade Window,2,,
+Sealed Dragon Cloth α+,Resentment,1,,
+Wyverian Ears α+,Mushroomancer,2,Survival Expert,1

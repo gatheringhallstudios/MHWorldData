@@ -3,8 +3,9 @@ from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from .load import load_schema, load_text, ItemTextHandler, SkillTextHandler, convert_recipe, load_armor_series
+from mhdata.binary.load import load_schema, load_text, SkillTextHandler, load_armor_series
 from .items import ItemUpdater
+from .util import convert_recipe
 
 from mhdata import cfg
 
@@ -23,7 +24,7 @@ def update_armor(mhdata, item_updater: ItemUpdater):
     # Thanks to the MHWorld Modders for the above info
     rarity_upgrades = {}
     for entry in load_schema(arm_up.ArmUp, "common/equip/arm_upgrade.arm_up").entries:
-        rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk8 - 1)
+        rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk11 - 1)
     
     print("Binary armor data loaded")
     
@@ -37,7 +38,6 @@ def update_armor(mhdata, item_updater: ItemUpdater):
     
     # Temporary storage for later processes
     all_set_skill_ids = OrderedSet()
-    item_text_handler = ItemTextHandler()
     skill_text_handler = SkillTextHandler()
     armor_data_by_name = {}
 
@@ -80,6 +80,9 @@ def update_armor(mhdata, item_updater: ItemUpdater):
             armor_data = armor_data_by_name.get(armor_name, None)
 
             if not armor_data:
+                if not existing_armor:
+                    print(f"Error: Invalid entry {armor_name}, does not exist in current DB nor is it in armor data")
+                    continue
                 print(f"Failed to find binary armor data for {armor_name}, maintaining existing data")
                 new_armor_map.insert(existing_armor)
                 continue
@@ -123,9 +126,8 @@ def update_armor(mhdata, item_updater: ItemUpdater):
                     new_data['skills'][f'skill{i}_name'] = None
                     new_data['skills'][f'skill{i}_pts'] = None
 
-            # Add recipe to new armor data. Also track the encounter.
-            recipe_binary = armor_data.recipe
-            new_data['craft'] = convert_recipe(item_text_handler, recipe_binary)
+            # Add recipe to new armor data. Also tracks the encounter.
+            new_data['craft'] = convert_recipe(item_updater, armor_data.recipe)
 
             # Add new data to new armor map
             new_armor_map.insert(new_data)
@@ -172,5 +174,3 @@ def update_armor(mhdata, item_updater: ItemUpdater):
     )
 
     print("Armor files updated\n")
-
-    item_updater.add_missing_items(item_text_handler.encountered)

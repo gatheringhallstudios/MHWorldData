@@ -1,99 +1,100 @@
-name_en,rarity,skill_en,slot,icon_color
-Antidote Jewel 1,5,Poison Resistance,1,Violet
-Geology Jewel 1,5,Geologist,1,LightBeige
-Heavy Artillery Jewel 1,5,Heavy Artillery,1,Gray
-Hungerless Jewel 1,5,Hunger Resistance,1,Beige
-Satiated Jewel 1,5,Free Meal,1,LightBeige
-Protection Jewel 1,5,Divine Blessing,1,Blue
-Meowster Jewel 1,5,Palico Rally,1,LightBeige
-Botany Jewel 1,5,Botanist,1,Lime
-Tip Toe Jewel 1,5,Stealth,1,Gray
-Flight Jewel 2,5,Airborne,2,Blue
-Smoke Jewel 1,5,Sporepuff Expert,1,White
-Mirewalker Jewel 1,5,Aquatic Expert,1,Blue
-Specimen Jewel 1,5,Entomologist,1,Green
-Miasma Jewel 1,5,Effluvia Resistance,1,DarkBeige
-Scent Jewel 1,5,Scenthound,1,Beige
-Intimidator Jewel 1,5,Intimidator,1,White
-Crisis Jewel 1,5,Resuscitate,1,Cyan
-Antipara Jewel 1,5,Paralysis Resistance,1,Yellow
-Fortitude Jewel 1,5,Fortify,1,DarkRed
-Water Res Jewel 1,5,Water Resistance,1,Blue
-Suture Jewel 1,5,Bleeding Resistance,1,Beige
-Dragon Res Jewel 1,5,Dragon Resistance,1,DarkRed
-Fire Res Jewel 1,5,Fire Resistance,1,Red
-Ice Res Jewel 1,5,Ice Resistance,1,White
-Def Lock Jewel 1,5,Iron Skin,1,Beige
-Thunder Res Jewel 1,5,Thunder Resistance,1,Gold
-Pep Jewel 1,5,Sleep Resistance,1,Cyan
-Antiblast Jewel 1,5,Blast Resistance,1,Orange
-Maintenance Jewel 1,5,Tool Specialist,1,LightBeige
-Gobbler Jewel 1,6,Speed Eating,1,Beige
-Physique Jewel 2,6,Constitution,2,Beige
-Blaze Jewel 1,6,Fire Attack,1,Red
-Evasion Jewel 2,6,Evade Window,2,Cyan
-Jumping Jewel 2,6,Evade Extender,2,Cyan
-Sheath Jewel 1,6,Quick Sheath,1,LightBeige
-Friendship Jewel 1,6,Wide-Range,1,White
-Enduring Jewel 1,6,Item Prolonger,1,LightBeige
-Medicine Jewel 1,6,Recovery Up,1,Green
-Grinder Jewel 1,6,Speed Sharpening,1,Gold
-Steadfast Jewel 1,6,Stun Resistance,1,Gold
-Bomber Jewel 1,6,Bombardier,1,Orange
-Recovery Jewel 1,6,Recovery Speed,1,Green
-Slider Jewel 2,6,Affinity Sliding,2,Red
-Defense Jewel 1,6,Defense Boost,1,Beige
-Stonethrower Jewel 1,6,Slinger Capacity,1,Lime
-Footing Jewel 2,6,Tremor Resistance,2,Gray
-Brace Jewel 3,6,Flinch Free,3,Gray
-Wind Resist Jewel 2,6,Windproof,2,White
-Earplug Jewel 3,6,Earplugs,3,White
-Vitality Jewel 1,6,Health Boost,1,Green
-Resistor Jewel 1,6,Blight Resistance,1,DarkPurple
-Sonorous Jewel 1,6,Horn Maestro,1,White
-KO Jewel 2,6,Slugger,2,Gold
-Stream Jewel 1,6,Water Attack,1,Blue
-Frost Jewel 1,6,Ice Attack,1,White
-Bolt Jewel 1,6,Thunder Attack,1,Gold
-Dragon Jewel 1,6,Dragon Attack,1,DarkRed
-Venom Jewel 1,6,Poison Attack,1,Violet
-Poisoncoat Jewel 3,6,Poison Functionality,3,Violet
-Expert Jewel 1,6,Critical Eye,1,DarkPurple
-Tenderizer Jewel 2,6,Weakness Exploit,2,DarkPurple
-Destroyer Jewel 2,6,Partbreaker,2,Gray
-Elementless Jewel 2,6,Non-elemental Boost,2,DarkBeige
-Drain Jewel 1,6,Stamina Thief,1,Cyan
-Paracoat Jewel 3,7,Para Functionality,3,Yellow
-Sharp Jewel 2,7,Protective Polish,2,DarkRed
-Shield Jewel 2,7,Guard Up,2,
-Dragonseal Jewel 3,7,Elderseal Boost,3,DarkRed
-Trueshot Jewel 1,7,Special Ammo Boost,1,Gray
-Enhancer Jewel 2,7,Power Prolonger,2,LightBeige
-Forceshot Jewel 3,7,Normal Shots,3,White
-Furor Jewel 2,7,Resentment,2,DarkRed
-Potential Jewel 2,7,Heroics,2,Red
-Paralyzer Jewel 1,7,Paralysis Attack,1,Yellow
-Sleep Jewel 1,7,Sleep Attack,1,Cyan
-Ironwall Jewel 1,7,Guard,1,Gray
-Refresh Jewel 2,7,Stamina Surge,2,Beige
-Blast Jewel 1,7,Blast Attack,1,Orange
-Sleepcoat Jewel 3,7,Sleep Functionality,3,Cyan
-Blastcoat Jewel 3,7,Blast Functionality,3,Orange
-Throttle Jewel 2,7,Latent Power,2,Red
-Challenger Jewel 2,7,Agitator,2,Red
-Attack Jewel 1,7,Attack Boost,1,Red
-Flawless Jewel 2,7,Peak Performance,2,Red
-Magazine Jewel 2,7,Capacity Boost,2,Gray
-Mighty Jewel 2,7,Maximum Might,2,Red
-Sprinter Jewel 2,8,Marathon Runner,2,Beige
-Critical Jewel 2,8,Critical Boost,2,DarkPurple
-Artillery Jewel 1,8,Artillery,1,Gray
-Fungiform Jewel 1,8,Mushroomancer,1,Violet
-Release Jewel 3,8,Free Elem/Ammo Up,3,Cyan
-Spread Jewel 3,8,Spread/Power Shots,3,DarkGreen
-Charger Jewel 2,8,Focus,2,LightBeige
-Handicraft Jewel 3,8,Handicraft,3,White
-Mighty Bow Jewel 2,8,Bow Charge Plus,2,Blue
-Mind's Eye Jewel 2,8,Mind's Eye/Ballistics,2,Red
-Draw Jewel 2,8,Critical Draw,2,DarkPurple
-Pierce Jewel 3,8,Piercing Shots,3,Blue
+name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_color
+Antidote Jewel 1,1,5,Poison Resistance,1,,,Violet
+Geology Jewel 1,1,5,Geologist,1,,,LightBeige
+Heavy Artillery Jewel 1,1,5,Heavy Artillery,1,,,Gray
+Hungerless Jewel 1,1,5,Hunger Resistance,1,,,Beige
+Satiated Jewel 1,1,5,Free Meal,1,,,LightBeige
+Protection Jewel 1,1,5,Divine Blessing,1,,,Blue
+Meowster Jewel 1,1,5,Palico Rally,1,,,LightBeige
+Botany Jewel 1,1,5,Botanist,1,,,Lime
+Tip Toe Jewel 1,1,5,Stealth,1,,,Gray
+Flight Jewel 2,2,5,Airborne,1,,,Blue
+Survival Jewel 1,1,5,Survival Expert,1,,,White
+Mirewalker Jewel 1,1,5,Aquatic/Polar Mobility,1,,,Blue
+Specimen Jewel 1,1,5,Entomologist,1,,,Green
+Miasma Jewel 1,1,5,Effluvia Resistance,1,,,DarkBeige
+Scent Jewel 1,1,5,Scenthound,1,,,Beige
+Intimidator Jewel 1,1,5,Intimidator,1,,,White
+Crisis Jewel 1,1,5,Resuscitate,1,,,Cyan
+Antipara Jewel 1,1,5,Paralysis Resistance,1,,,Yellow
+Fortitude Jewel 1,1,5,Fortify,1,,,DarkRed
+Water Res Jewel 1,1,5,Water Resistance,1,,,Blue
+Suture Jewel 1,1,5,Bleeding Resistance,1,,,Beige
+Dragon Res Jewel 1,1,5,Dragon Resistance,1,,,DarkRed
+Fire Res Jewel 1,1,5,Fire Resistance,1,,,Red
+Ice Res Jewel 1,1,5,Ice Resistance,1,,,White
+Def Lock Jewel 1,1,5,Iron Skin,1,,,Beige
+Thunder Res Jewel 1,1,5,Thunder Resistance,1,,,Gold
+Pep Jewel 1,1,5,Sleep Resistance,1,,,Cyan
+Antiblast Jewel 1,1,5,Blast Resistance,1,,,Orange
+Maintenance Jewel 1,1,5,Tool Specialist,1,,,LightBeige
+Gobbler Jewel 1,1,6,Speed Eating,1,,,Beige
+Physique Jewel 2,2,6,Constitution,1,,,Beige
+Blaze Jewel 1,1,6,Fire Attack,1,,,Red
+Evasion Jewel 2,2,6,Evade Window,1,,,Cyan
+Jumping Jewel 2,2,6,Evade Extender,1,,,Cyan
+Sheath Jewel 1,1,6,Quick Sheath,1,,,LightBeige
+Friendship Jewel 1,1,6,Wide-Range,1,,,White
+Enduring Jewel 1,1,6,Item Prolonger,1,,,LightBeige
+Medicine Jewel 1,1,6,Recovery Up,1,,,Green
+Grinder Jewel 1,1,6,Speed Sharpening,1,,,Gold
+Steadfast Jewel 1,1,6,Stun Resistance,1,,,Gold
+Bomber Jewel 1,1,6,Bombardier,1,,,Orange
+Recovery Jewel 1,1,6,Recovery Speed,1,,,Green
+Slider Jewel 2,2,6,Affinity Sliding,1,,,Red
+Defense Jewel 1,1,6,Defense Boost,1,,,Beige
+Stonethrower Jewel 1,1,6,Slinger Capacity,1,,,Lime
+Footing Jewel 2,2,6,Tremor Resistance,1,,,Gray
+Brace Jewel 3,3,6,Flinch Free,1,,,Gray
+Wind Resist Jewel 2,2,6,Windproof,1,,,White
+Earplug Jewel 3,3,6,Earplugs,1,,,White
+Vitality Jewel 1,1,6,Health Boost,1,,,Green
+Resistor Jewel 1,1,6,Blight Resistance,1,,,DarkPurple
+Sonorous Jewel 1,1,6,Horn Maestro,1,,,White
+KO Jewel 2,2,6,Slugger,1,,,Gold
+Stream Jewel 1,1,6,Water Attack,1,,,Blue
+Frost Jewel 1,1,6,Ice Attack,1,,,White
+Bolt Jewel 1,1,6,Thunder Attack,1,,,Gold
+Dragon Jewel 1,1,6,Dragon Attack,1,,,DarkRed
+Venom Jewel 1,1,6,Poison Attack,1,,,Violet
+Poisoncoat Jewel 3,3,6,Poison Functionality,1,,,Violet
+Expert Jewel 1,1,6,Critical Eye,1,,,DarkPurple
+Tenderizer Jewel 2,2,6,Weakness Exploit,1,,,DarkPurple
+Destroyer Jewel 2,2,6,Partbreaker,1,,,Gray
+Elementless Jewel 2,2,6,Non-elemental Boost,1,,,DarkBeige
+Drain Jewel 1,1,6,Stamina Thief,1,,,Cyan
+Paracoat Jewel 3,3,7,Para Functionality,1,,,Yellow
+Sharp Jewel 2,2,7,Protective Polish,1,,,DarkRed
+Shield Jewel 2,2,7,Guard Up,1,,,
+Dragonseal Jewel 3,3,7,Elderseal Boost,1,,,DarkRed
+Trueshot Jewel 1,1,7,Special Ammo Boost,1,,,Gray
+Enhancer Jewel 2,2,7,Power Prolonger,1,,,LightBeige
+Forceshot Jewel 3,3,7,Normal Shots,1,,,White
+Furor Jewel 2,2,7,Resentment,1,,,DarkRed
+Potential Jewel 2,2,7,Heroics,1,,,Red
+Paralyzer Jewel 1,1,7,Paralysis Attack,1,,,Yellow
+Sleep Jewel 1,1,7,Sleep Attack,1,,,Cyan
+Ironwall Jewel 1,1,7,Guard,1,,,Gray
+Refresh Jewel 2,2,7,Stamina Surge,1,,,Beige
+Blast Jewel 1,1,7,Blast Attack,1,,,Orange
+Sleepcoat Jewel 3,3,7,Sleep Functionality,1,,,Cyan
+Blastcoat Jewel 3,3,7,Blast Functionality,1,,,Orange
+Throttle Jewel 2,2,7,Latent Power,1,,,Red
+Challenger Jewel 2,2,7,Agitator,1,,,Red
+Attack Jewel 1,1,7,Attack Boost,1,,,Red
+Flawless Jewel 2,2,7,Peak Performance,1,,,Red
+Magazine Jewel 2,2,7,Capacity Boost,1,,,Gray
+Mighty Jewel 2,2,7,Maximum Might,1,,,Red
+Sprinter Jewel 2,2,8,Marathon Runner,1,,,Beige
+Critical Jewel 2,2,8,Critical Boost,1,,,DarkPurple
+Artillery Jewel 1,1,8,Artillery,1,,,Gray
+Fungiform Jewel 1,1,8,Mushroomancer,1,,,Violet
+Release Jewel 3,3,8,Free Elem/Ammo Up,1,,,Cyan
+Spread Jewel 3,3,8,Spread/Power Shots,1,,,DarkGreen
+Charger Jewel 2,2,8,Focus,1,,,LightBeige
+Handicraft Jewel 3,3,8,Handicraft,1,,,White
+Mighty Bow Jewel 2,2,8,Bow Charge Plus,1,,,Blue
+Mind's Eye Jewel 2,2,8,Mind's Eye/Ballistics,1,,,Red
+Draw Jewel 2,2,8,Critical Draw,1,,,DarkPurple
+Pierce Jewel 3,3,8,Piercing Shots,1,,,Blue
+Ice Res Jewel+ 4,4,9,Ice Resistance,2,,,White

@@ -138,7 +138,7 @@
         "craft": {
             "Radobaan Marrow": 1,
             "Radobaan Oilshell": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -171,7 +171,7 @@
         "craft": {
             "Tzitzi-Ya-Ku Photophore": 1,
             "Tzitzi-Ya-Ku Claw": 2,
-            "Coral Crystal": 4,
+            "Coral Crystal (LR)": 4,
             "Aquacore Ore": 1
         }
     },
@@ -204,7 +204,7 @@
         "craft": {
             "Paolumu Webbing": 3,
             "Paolumu Shell": 5,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -347,7 +347,7 @@
         "craft": {
             "Jyuratodus Fin+": 3,
             "Jyuratodus Fang+": 2,
-            "Coral Crystal": 4,
+            "Coral Crystal (LR)": 4,
             "Spiritcore Ore": 1
         }
     },
@@ -446,7 +446,7 @@
         "craft": {
             "Jyuratodus Fin+": 3,
             "Jyuratodus Fang+": 2,
-            "Coral Crystal": 6,
+            "Coral Crystal (LR)": 6,
             "Spiritcore Ore": 1
         }
     },
@@ -567,7 +567,7 @@
         "craft": {
             "Radobaan Marrow": 1,
             "Radobaan Oilshell": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -600,7 +600,7 @@
         "craft": {
             "Radobaan Marrow": 1,
             "Radobaan Oilshell": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -699,7 +699,7 @@
         "craft": {
             "Girros Fang": 2,
             "Girros Hide": 4,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -732,7 +732,7 @@
         "craft": {
             "Radobaan Marrow": 1,
             "Radobaan Oilshell": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -765,7 +765,7 @@
         "craft": {
             "Tzitzi-Ya-Ku Photophore": 2,
             "Tzitzi-Ya-Ku Claw": 2,
-            "Coral Crystal": 4,
+            "Coral Crystal (LR)": 4,
             "Aquacore Ore": 1
         }
     },
@@ -996,7 +996,7 @@
         "craft": {
             "Radobaan Marrow": 1,
             "Radobaan Oilshell": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -1057,7 +1057,7 @@
     },
     "Smoke Charm I": {
         "skills": {
-            "Sporepuff Expert": 1
+            "Survival Expert": 1
         },
         "craft": {
             "Pukei-Pukei Sac": 2,
@@ -1068,7 +1068,7 @@
     },
     "Smoke Charm II": {
         "skills": {
-            "Sporepuff Expert": 2
+            "Survival Expert": 2
         },
         "craft": {
             "Wyvern Gem": 1,
@@ -1079,7 +1079,7 @@
     },
     "Smoke Charm III": {
         "skills": {
-            "Sporepuff Expert": 3
+            "Survival Expert": 3
         },
         "craft": {
             "High Commendation": 1,
@@ -1090,7 +1090,7 @@
     },
     "Mirewalker Charm I": {
         "skills": {
-            "Aquatic Expert": 1
+            "Aquatic/Polar Mobility": 1
         },
         "craft": {
             "Jyuratodus Fin": 2,
@@ -1101,18 +1101,18 @@
     },
     "Mirewalker Charm II": {
         "skills": {
-            "Aquatic Expert": 2
+            "Aquatic/Polar Mobility": 2
         },
         "craft": {
             "Jyuratodus Fin+": 3,
             "Jyuratodus Fang+": 2,
-            "Coral Crystal": 6,
+            "Coral Crystal (LR)": 6,
             "Spiritcore Ore": 1
         }
     },
     "Mirewalker Charm III": {
         "skills": {
-            "Aquatic Expert": 3
+            "Aquatic/Polar Mobility": 3
         },
         "craft": {
             "Wyvern Gem": 1,
@@ -1337,7 +1337,7 @@
         "craft": {
             "Legiana Plate": 1,
             "Legiana Claw": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -1348,7 +1348,7 @@
         "craft": {
             "Wyvern Gem": 1,
             "Legiana Claw+": 2,
-            "Coral Crystal": 4,
+            "Coral Crystal (LR)": 4,
             "Spiritcore Ore": 1
         }
     },
@@ -1403,7 +1403,7 @@
         "craft": {
             "Legiana Plate": 1,
             "Legiana Claw": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -1414,7 +1414,7 @@
         "craft": {
             "Legiana Gem": 1,
             "Legiana Claw+": 2,
-            "Coral Crystal": 6,
+            "Coral Crystal (LR)": 6,
             "Spiritcore Ore": 1
         }
     },
@@ -1469,7 +1469,7 @@
         "craft": {
             "Legiana Tail Webbing": 2,
             "Legiana Claw": 2,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Aquacore Ore": 1
         }
     },
@@ -1788,7 +1788,7 @@
         "craft": {
             "Daora Gem": 1,
             "Daora Claw+": 1,
-            "Coral Crystal": 3,
+            "Coral Crystal (LR)": 3,
             "Dreamcore Ore": 1
         }
     },
