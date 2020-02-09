@@ -61,39 +61,46 @@ id,name_en,previous_en,rarity,attack_type,dust_effect,power,speed,heal
 60,Whispervesp III,Whispervesp II,7,Blunt,Blast,3,15,11
 61,Dragon Soul,,6,Blunt,Blast,12,11,1
 62,True Dragon Soul,Dragon Soul,7,Blunt,Blast,15,14,1
-63,Vezirstag I Velox,Monarch Alucanid III,9,Sever,Poison,14,9,11
-64,Vezirstag II Velox,Vezirstag I Velox,10,Sever,Poison,15,10,11
-65,Vezirstag III Velox,Vezirstag II Velox,11,Sever,Poison,16,11,12
-66,Vezirstag I Forz,Empresswing III,9,Sever,Blast,16,5,11
-67,Vezirstag II Forz,Vezirstag I Forz,10,Sever,Blast,18,6,12
-68,Vezirstag III Forz,Vezirstag II Forz,11,Sever,Blast,20,7,13
-69,Bilbobrix I Velox,Cancadaman III,9,Sever,Paralysis,4,13,16
-70,Bilbobrix II Velox,Bilbobrix I Velox,10,Sever,Paralysis,5,14,18
-71,Bilbobrix III Velox,Bilbobrix II Velox,11,Sever,Paralysis,6,15,20
-72,Bilbobrix I Forz,Fiddlebrix III,9,Sever,Blast,12,4,16
-73,Bilbobrix II Forz,Bilbobrix I Forz,10,Sever,Blast,13,5,18
-74,Bilbobrix III Forz,Bilbobrix II Forz,11,Sever,Blast,14,6,20
-75,Foliacath I Medis,Grancathar III,9,Sever,Heal,4,16,12
-76,Foliacath II Medis,Foliacath I Medis,10,Sever,Heal,5,18,13
-77,Foliacath III Medis,Foliacath II Medis,11,Sever,Heal,6,20,14
-78,Foliacath I Forz,Pseudocath III,9,Sever,Blast,13,16,3
-79,Foliacath II Forz,Foliacath I Forz,10,Sever,Blast,14,18,4
-80,Foliacath III Forz,Foliacath II Forz,11,Sever,Blast,15,20,5
-84,Gleambeetle I Velox,Carnage Beetle III,9,Blunt,Poison,14,12,5
-85,Gleambeetle II Velox,Gleambeetle I Velox,10,Blunt,Poison,15,13,6
-86,Gleambeetle III Velox,Gleambeetle II Velox,11,Blunt,Poison,17,14,7
-87,Gleambeetle I Medis,Bonnetfille III,9,Blunt,Blast,15,6,9
-88,Gleambeetle II Medis,Gleambeetle I Medis,10,Blunt,Blast,17,7,10
-89,Gleambeetle III Medis,Gleambeetle II Medis,11,Blunt,Blast,19,8,11
-90,Ladytower I Forz,Ladypavise III,9,Blunt,Paralysis,10,6,16
-91,Ladytower II Forz,Ladytower I Forz,10,Blunt,Paralysis,11,7,18
-92,Ladytower III Forz,Ladytower II Forz,11,Blunt,Paralysis,12,8,20
-93,Ladytower I Velox,Arkmaiden III,9,Blunt,Blast,7,8,16
-94,Ladytower II Velox,Ladytower I Velox,10,Blunt,Blast,8,9,18
-95,Ladytower III Velox,Ladytower II Velox,11,Blunt,Blast,9,11,20
-96,Valorwing I Forz,Bullshroud III,9,Blunt,Heal,7,16,7
-97,Valorwing II Forz,Valorwing I Forz,10,Blunt,Heal,8,18,8
-98,Valorwing III Forz,Valorwing II Forz,11,Blunt,Heal,10,20,9
-99,Valorwing I Medis,Whispervesp III,9,Blunt,Blast,3,16,12
-100,Valorwing II Medis,Valorwing I Medis,10,Blunt,Blast,4,18,13
-101,Valorwing III Medis,Valorwing II Medis,11,Blunt,Blast,5,20,14
+63,Nexus Dragon Soul,True Dragon Soul,12,Blunt,Blast,17,16,1
+64,Vezirstag I Velox,Monarch Alucanid III,9,Sever,Poison,14,9,11
+65,Vezirstag II Velox,Vezirstag I Velox,10,Sever,Poison,15,10,11
+66,Vezirstag III Velox,Vezirstag II Velox,11,Sever,Poison,16,11,12
+67,Vezirstag I Forz,Empresswing III,9,Sever,Blast,16,5,11
+68,Vezirstag II Forz,Vezirstag I Forz,10,Sever,Blast,18,6,12
+69,Vezirstag III Forz,Vezirstag II Forz,11,Sever,Blast,20,7,13
+70,Bilbobrix I Velox,Cancadaman III,9,Sever,Paralysis,4,13,16
+71,Bilbobrix II Velox,Bilbobrix I Velox,10,Sever,Paralysis,5,14,18
+72,Bilbobrix III Velox,Bilbobrix II Velox,11,Sever,Paralysis,6,15,20
+73,Bilbobrix I Forz,Fiddlebrix III,9,Sever,Blast,12,4,16
+74,Bilbobrix II Forz,Bilbobrix I Forz,10,Sever,Blast,13,5,18
+75,Bilbobrix III Forz,Bilbobrix II Forz,11,Sever,Blast,14,6,20
+76,Foliacath I Medis,Grancathar III,9,Sever,Heal,4,16,12
+77,Foliacath II Medis,Foliacath I Medis,10,Sever,Heal,5,18,13
+78,Foliacath III Medis,Foliacath II Medis,11,Sever,Heal,6,20,14
+79,Foliacath I Forz,Pseudocath III,9,Sever,Blast,13,16,3
+80,Foliacath II Forz,Foliacath I Forz,10,Sever,Blast,14,18,4
+81,Foliacath III Forz,Foliacath II Forz,11,Sever,Blast,15,20,5
+82,Elscarad I,Culldrone III,10,Sever,Blast,6,6,10
+83,Elscarad II,Elscarad I,11,Sever,Blast,9,9,15
+84,Elscarad III,Elscarad II,12,Sever,Blast,12,12,20
+85,Gleambeetle I Velox,Carnage Beetle III,9,Blunt,Poison,14,12,5
+86,Gleambeetle II Velox,Gleambeetle I Velox,10,Blunt,Poison,15,13,6
+87,Gleambeetle III Velox,Gleambeetle II Velox,11,Blunt,Poison,17,14,7
+88,Gleambeetle I Medis,Bonnetfille III,9,Blunt,Blast,15,6,9
+89,Gleambeetle II Medis,Gleambeetle I Medis,10,Blunt,Blast,17,7,10
+90,Gleambeetle III Medis,Gleambeetle II Medis,11,Blunt,Blast,19,8,11
+91,Ladytower I Forz,Ladypavise III,9,Blunt,Paralysis,10,6,16
+92,Ladytower II Forz,Ladytower I Forz,10,Blunt,Paralysis,11,7,18
+93,Ladytower III Forz,Ladytower II Forz,11,Blunt,Paralysis,12,8,20
+94,Ladytower I Velox,Arkmaiden III,9,Blunt,Blast,7,8,16
+95,Ladytower II Velox,Ladytower I Velox,10,Blunt,Blast,8,9,18
+96,Ladytower III Velox,Ladytower II Velox,11,Blunt,Blast,9,11,20
+97,Valorwing I Forz,Bullshroud III,9,Blunt,Heal,7,16,7
+98,Valorwing II Forz,Valorwing I Forz,10,Blunt,Heal,8,18,8
+99,Valorwing III Forz,Valorwing II Forz,11,Blunt,Heal,10,20,9
+100,Valorwing I Medis,Whispervesp III,9,Blunt,Blast,3,16,12
+101,Valorwing II Medis,Valorwing I Medis,10,Blunt,Blast,4,18,13
+102,Valorwing III Medis,Valorwing II Medis,11,Blunt,Blast,5,20,14
+103,Arginesse I,Mauldrone III,10,Blunt,Blast,6,6,10
+104,Arginesse II,Arginesse I,11,Blunt,Blast,9,9,15
+105,Arginesse III,Arginesse II,12,Blunt,Blast,11,12,20
