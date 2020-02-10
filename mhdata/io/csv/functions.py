@@ -40,14 +40,15 @@ def validate_csv(obj_list, filename):
             + filename + " cells: " + ", ".join(cell_strings))
 
 
-def save_csv(obj_list, location):
+def save_csv(obj_list, location, fields=None):
     """Saves a dict list as a  CSV, doing some last minute validations. 
     Fields are auto-determined"""
 
     if not typecheck.is_flat_dict_list(obj_list):
         raise Exception("Cannot save CSV, the data is not completely flat")
 
-    fields = determine_fields(obj_list)
+    if not fields:
+        fields = determine_fields(obj_list)
     with open(location, 'w', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fields, lineterminator='\n')
         writer.writeheader()

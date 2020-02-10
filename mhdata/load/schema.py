@@ -142,8 +142,9 @@ class RecipeSchema(BaseSchema):
     item4_name = fields.Str(allow_none=True)
     item4_qty = fields.Int(allow_none=True)
 
-class RecipeUpgradeSchema(BaseSchema):
+class WeaponRecipeSchema(BaseSchema):
     base_name_en = fields.Str()
+    weapon_type = ValidatedStr(*cfg.weapon_types)
     type = ValidatedStr("Create", "Upgrade")
     item1_name = fields.Str(allow_none=True)
     item1_qty = fields.Int(allow_none=True)
@@ -275,13 +276,14 @@ class WeaponBaseSchema(BaseSchema):
             raise ValidationError(f"invalid notes {notes_str}, notes must be subset of {str(cfg.valid_notes)}")
 
 class WeaponSchema(WeaponBaseSchema):
-    craft = fields.Nested('RecipeUpgradeSchema', many=True, default={})
+    craft = fields.Nested('WeaponRecipeSchema', many=True, default={})
     sharpness = fields.Nested('WeaponSharpnessSchema', many=False, missing=None)
     bow = fields.Nested('WeaponBowSchema', many=False, missing={})
     gun = fields.Nested('WeaponAmmoSchema', many=False, missing={})
 
 class WeaponSharpnessSchema(BaseSchema):
     base_name_en = fields.Str()
+    weapon_type = ValidatedStr(*cfg.weapon_types)
     maxed = ExcelBool()
     red = fields.Int()
     orange = fields.Int()
@@ -293,6 +295,7 @@ class WeaponSharpnessSchema(BaseSchema):
 
 class WeaponBowSchema(BaseSchema):
     base_name_en = fields.Str()
+    weapon_type = ValidatedStr(*cfg.weapon_types)
     close = ExcelBool()
     power = ExcelBool()
     paralysis = ExcelBool()
@@ -311,6 +314,7 @@ def AmmoGroup():
 
 class WeaponAmmoSchema(BaseSchema):
     key = fields.Str()
+    weapon_type = ValidatedStr(*cfg.weapon_types)
     deviation = fields.Str()
     special = fields.Str()
     normal1 = AmmoGroup()

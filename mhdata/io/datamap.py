@@ -4,7 +4,7 @@ import itertools
 import copy
 
 from collections.abc import Mapping, KeysView
-from mhdata.util import joindicts, extract_fields
+from mhdata.util import joindicts, extract_fields, typecheck
 
 from .datarow import DataRow
 from .functions import to_basic
@@ -37,7 +37,7 @@ class DataMap(collections.abc.Mapping):
     TODO: Allow existance check to work on non-key languages. Right now non-keys are "ignored".
     """
 
-    def __init__(self, data: typing.Mapping[int, dict] = None, languages=None, start_id=1):
+    def __init__(self, data: typing.Mapping[int, dict] = None, languages=None, keys_ex=[], start_id=1):
         self._data = collections.OrderedDict()
         self._reverse_entries = {}
 
@@ -46,6 +46,7 @@ class DataMap(collections.abc.Mapping):
         self.languages = languages
 
         # todo: replace id gen with the object index custom object...maybe...
+        self.keys_ex = keys_ex
         self.start_id = start_id
         self._id_gen = itertools.count(start_id)
         self._last_id = 0
@@ -54,14 +55,17 @@ class DataMap(collections.abc.Mapping):
             for id, entry in data.items():
                 self.add_entry(id, entry)
 
-    def id_of(self, language_code, name):
+    def id_of(self, language_code, name, *keys):
         "Returns the id of the map entry that contains the code+value. Otherwise returns None"
-        key = (language_code, name)
+        if len(self.keys_ex) != len(keys):
+            raise ValueError(f"Expecting {len(self.keys_ex)} keys, received {len(keys)}")
+        
+        key = (language_code, name, *keys)
         return self._reverse_entries.get(key, None)
 
-    def entry_of(self, language_code, name):
+    def entry_of(self, language_code, name, *keys):
         "Returns the entry that contains the code+value, which can be used to get other languages. Otherwise none"
-        id_value = self.id_of(language_code, name)
+        id_value = self.id_of(language_code, name, *keys)
         return self._data.get(id_value, None)
 
     @property
@@ -93,7 +97,8 @@ class DataMap(collections.abc.Mapping):
         for lang, name in entry.names():
             if name is None: continue
 
-            key = (lang, name)
+            keys_ex = [entry[k] for k in (self.keys_ex or [])]
+            key = (lang, name, *keys_ex)
             if key in self._reverse_entries:
                 del self._reverse_entries[key]
 
@@ -103,7 +108,8 @@ class DataMap(collections.abc.Mapping):
             if name is None: continue
             if self.languages is not None and lang not in self.languages: continue
 
-            key = (lang, name)
+            keys_ex = [entry[k] for k in (self.keys_ex or [])]
+            key = (lang, name, *keys_ex)
             if key in self._reverse_entries:
                 raise ValueError(f"Duplicate name ({lang}, {name}) in DataMap")
            
@@ -117,7 +123,7 @@ class DataMap(collections.abc.Mapping):
         if entry_id in self._data:
             raise KeyError(f"An entry with the given key already exists: {entry_id}")
 
-        new_entry = DataRow(entry_id, entry)
+        new_entry = DataRow(self, entry_id, entry)
         self._register_entry(new_entry)
         
         self._data[entry_id] = new_entry
@@ -171,62 +177,6 @@ class DataMap(collections.abc.Mapping):
         "Returns a new DataMap object with all fields cloned"
         clone_data = self.to_dict()
         return DataMap(clone_data)
-
-    def merge(self, data, *, key_join='name_en', key=None, key_join_fn=None):
-        """Merges a dictionary keyed by the names in a language to this data map
-        
-        If a key is given, it will be added as a subfield under key,
-        Otherwise it will be merged without overwrite.
-
-        Key join is the field to merge on. If the field is id, it will automatically convert to int.
-        If any other type conversion is required, supply a key join function.
-
-        Returns self to support chaining.
-        """
-
-        def convert_key(key_value):
-            if key_join_fn:
-                key_value = key_join_fn(key_value)
-            elif key_join == 'id':
-                key_value = int(key_value)
-            return key_value
-
-        def extract_field(entry):
-            value = entry[key_join]
-            if isinstance(value, collections.Mapping):
-                value = value[key_join]
-            return convert_key(value)
-
-        # validation, make sure it links
-        entry_map = { extract_field(e):e for e in self.values() }
-        converted_keys = [convert_key(key) for key in data.keys()]
-        unlinked = [key for key in converted_keys if key not in entry_map.keys()]
-        if unlinked:
-            raise Exception(
-                "Several invalid names found in sub data map. Invalid entries are " +
-                ','.join('None' if e is None else e for e in unlinked))
-
-        # validation complete, it may not link to all base entries but thats ok
-        for data_key, data_entry in data.items():
-            base_entry = entry_map[convert_key(data_key)]
-            
-            if key:
-                base_entry[key] = data_entry
-                
-            elif isinstance(data_entry, collections.Mapping):
-                if 'name' in data_entry:
-                    self._unregister_entry(base_entry)
-                    joindicts(base_entry, data_entry)
-                    self._register_entry(base_entry)
-                else:
-                    joindicts(base_entry, data_entry)
-                    
-            else:
-                # If we get here, its a key-less merge with a non-dict
-                # We cannot merge a dictionary with a non-dictionary
-                raise Exception("Invalid data, the data map must be a dictionary for a keyless merge")
-            
-        return self
 
     def extract(self, key=None, fields=None, key_join='name_en'):
         "Returns sub-data anchored by name. Similar to reversing DataMap.merge()"
@@ -288,6 +238,7 @@ class DataMap(collections.abc.Mapping):
         entry = self._data[id]
         del self._data[id]
         for lang, val in entry.names():
-            key = (lang, val)
+            keys_ex = [entry[k] for k in (self.keys_ex or [])]
+            key = (lang, val, *keys_ex)
             if key in self._reverse_entries:
                 del self._reverse_entries[key]

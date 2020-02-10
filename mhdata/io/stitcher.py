@@ -1,9 +1,11 @@
 import json
 import os.path
+import collections.abc
 
 from mhdata.util import joindicts, extract_fields, group_fields
 from .datamap import DataMap
 from .reader import DataReader
+from .functions import merge_list, fix_id
 
 class DataStitcher:
     """Dynamically creates an object by attaching data to a base object
@@ -17,11 +19,12 @@ class DataStitcher:
                 Not necessary if a schema is provided to get() that handles it.
     """
 
-    def __init__(self, reader: DataReader, *, key_join='name_en', dir=''):
+    def __init__(self, reader: DataReader, *, use_id=False, dir='', keys=[]):
         self.reader = reader
-        self.key_join = key_join
         self.dir = dir
+        self.keys = keys
         self._data_map = None
+        self.languages = [] if use_id else ['en']
 
         self._base_fname = None
         self._base_groups = None
@@ -33,13 +36,6 @@ class DataStitcher:
         if self.dir:
             return os.path.join(self.dir, filename)
         return filename
-
-    @property
-    def languages(self):
-        languages = []
-        if self.key_join.startswith('name_'):
-            languages.append(self.key_join[5:])
-        return languages
 
     @property
     def data_map(self):
@@ -54,9 +50,14 @@ class DataStitcher:
             self.languages,
             groups=self._base_groups,
             translation_filename=self._base_translate_fname,
-            translation_extra=self._base_translate_groups)
+            translation_extra=self._base_translate_groups,
+            keys_ex=self.keys)
 
         return self._data_map
+
+    def use_base(self, data_map: DataMap):
+        self._data_map = data_map
+        return self
 
     def base_csv(self, data_file, *, groups=[]):
         """Sets the base map from a CSV file, and return self"""
@@ -70,7 +71,7 @@ class DataStitcher:
 
         return self
 
-    def add_json(self, data_file, *, key=None):
+    def add_json(self, data_file, *, key=None, join=None):
         """
         Loads a data map from a json file, adds it to the base map, and returns self.
         
@@ -78,31 +79,55 @@ class DataStitcher:
         Otherwise it will be merged without overwrite.
         """
 
-        self.reader.load_data_json(
-            parent_map=self.data_map, 
-            data_file=self._get_filename(data_file), 
-            key_join=self.key_join, 
-            key=key)
+        if not join:
+            raise ValueError('Join must have a value')
+
+        data = self.reader.load_json(self._get_filename(data_file))
+
+        def derive_key(d):
+            return d[join]
+
+        # validation, make sure it links
+        entry_map = { str(e[join]):e for e in self.data_map.values() }
+        converted_keys = [str(k) for k in data.keys()]
+        unlinked = [k for k in converted_keys if k not in entry_map.keys()]
+        if unlinked:
+            raise Exception(
+                "Several invalid names found in sub data map. Invalid entries are " +
+                ','.join('None' if e is None else str(e) for e in unlinked))
+
+        # validation complete, it may not link to all base entries but thats ok
+        for data_key, data_entry in data.items():
+            base_entry = entry_map[str(data_key)]
+            
+            if key:
+                base_entry[key] = data_entry
+                
+            elif isinstance(data_entry, collections.Mapping):
+                joindicts(base_entry, data_entry)
+                    
+            else:
+                # If we get here, its a key-less merge with a non-dict
+                # We cannot merge a dictionary with a non-dictionary
+                raise Exception("Invalid data, the data map must be a dictionary for a keyless merge")
 
         return self
 
     def add_csv(self, data_file, *, key=None, groups=[]):
         """Loads a data map from a csv file, adds to the base map, and returns self.
         
+        :param key: The dictionary key name in the base map to add the new data under. 
+                    This field is required
+        :param groups: Additional fields in the data map to group together into one field based on suffix.
+        
         Data loaded through this method are joined and available as a list.
-
-        If a key is given, it will be added under key, 
-        Otherwise it will be merged without overwrite.
         """
         if not key:
             raise ValueError('Key must have a value')
 
-        self.reader.load_data_csv(
-            parent_map=self.data_map, 
-            data_file=self._get_filename(data_file),
-            key=key,
-            groups=groups,
-            leaftype="list")
+        data_file = self._get_filename(data_file)
+        rows = fix_id(self.reader.load_list_csv(data_file))
+        merge_list(self.data_map, rows, key=key, groups=groups, many=True)
 
         return self
 
@@ -115,16 +140,9 @@ class DataStitcher:
         Otherwise it will be merged without overwrite.
         """
 
-        try:
-            self.reader.load_data_csv(
-                parent_map=self.data_map, 
-                data_file=self._get_filename(data_file),
-                key=key,
-                groups=groups,
-                leaftype="dict")
-        except Exception as e:
-            print(f"Exception thrown while loading data map {data_file}")
-            raise e
+        data_file = self._get_filename(data_file)
+        rows = fix_id(self.reader.load_list_csv(data_file))
+        merge_list(self.data_map, rows, key=key, many=False)
 
         return self
     

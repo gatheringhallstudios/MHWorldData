@@ -2,7 +2,7 @@ import pytest
 import os
 import shutil
 
-from mhdata.io import DataMap, DataReaderWriter
+from mhdata.io import DataMap, DataReaderWriter, DataStitcher
 
 languages = ['en', 'ja']
 
@@ -43,23 +43,6 @@ def test_save_base_csv_symmetric(writer : DataReaderWriter):
 
     assert data.to_list() == new_data.to_list(), "saved data didn't match"
 
-
-def test_save_data_json_symmetric(writer):
-    basedata = DataMap()
-    basedata.add_entry(1, create_entry_en('test1'))
-    basedata.add_entry(2, create_entry_en('test2'))
-
-    extdata = DataMap()
-    extdata.add_entry(1, { **basedata[1], 'data': 'test1'})
-    extdata.add_entry(2, { **basedata[2], 'data': 'test2'})
-
-    writer.save_data_json('testdatasym.json', extdata, fields=['data'])
-
-    testdata = writer.load_data_json(basedata.copy(), 'testdatasym.json')
-
-    assert extdata.to_dict() == testdata.to_dict(), "expected data to match"
-
-
 def test_save_data_csv_symmetric_listmode(writer: DataReaderWriter):
     basedata = DataMap()
     basedata.add_entry(1, create_entry_en('test1'))
@@ -69,18 +52,24 @@ def test_save_data_csv_symmetric_listmode(writer: DataReaderWriter):
     extdata.add_entry(1, {
         **basedata[1],
         'data': [
-            {'data': 'test1'}
+            {'a': 'test1'}
         ]
     })
     extdata.add_entry(2, {
         **basedata[2],
         'data': [
-            {'data': 'test2'},
-            {'data': 'test2ext'}
+            {'a': 'test2'},
+            {'a': 'test2ext'}
         ]
     })
 
     writer.save_data_csv('testdatasym.csv', extdata, key='data')
-    new_data = writer.load_data_csv(basedata.copy(), 'testdatasym.csv', key='data', leaftype="list")
+    new_data = (DataStitcher(writer)
+        .use_base(basedata.copy())
+        .add_csv('testdatasym.csv', key='data')
+        .get())
+
+    old_data = extdata.to_dict()
+    abc = new_data.to_dict()
 
     assert extdata.to_dict() == new_data.to_dict(), "expected data to match"

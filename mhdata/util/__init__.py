@@ -55,7 +55,7 @@ def joindicts(dest, *dictlist, prefix=''):
                 result[key] = existing_value + value
             elif existing_value != value:
                 raise Exception("Failed to merge dictionaries: " +
-                    f"unresolved collision and mismatch on key '{prefix + key}'")
+                    f"unresolved collision and mismatch on key '{prefix + key}', {value} into {existing_value}")
 
     return result
 
