@@ -93,6 +93,8 @@ class DecorationCollection:
                 skill_incr = getattr(entry, f"skill{i}_incr")
                 if skill_incr > 0:
                     skills.append([skill_id, skill_incr])
+            if len(skills) == 0:
+                raise Exception("Unexpected no-skill entry")
             return Decoration(item, entry.size, skills)
 
         self.decorations = list(map(deco_from_entry, entries))

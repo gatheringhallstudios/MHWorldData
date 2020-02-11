@@ -203,6 +203,7 @@ class ArmorSchema(ArmorBaseSchema):
 
 class DecorationBaseSchema(BaseSchema):
     __groups__ = ('name',)
+    id = fields.Int()
     name = fields.Dict()
     slot = fields.Int()
     rarity = fields.Int()
