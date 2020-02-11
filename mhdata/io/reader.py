@@ -9,7 +9,7 @@ from mhdata.util import ensure, ensure_warn
 
 from .datamap import DataMap
 from mhdata.util import group_fields
-from .functions import unflatten, merge_list, fix_id
+from .functions import merge_list, fix_id
 
 from mhdata.io.csv import read_csv
 

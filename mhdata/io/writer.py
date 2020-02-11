@@ -11,7 +11,6 @@ import mhdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
-from .functions import flatten
 from mhdata.util import ungroup_fields, typecheck, extract_fields
 from mhdata.io.csv import save_csv
 

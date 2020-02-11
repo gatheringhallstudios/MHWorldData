@@ -843,6 +843,10 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1024,Elder Dragonvein Bone,material,,11,,3500,,,,
 1047,Spiritvein Solidbone,material,,10,,4500,,,,
 1048,Elder Spiritvein Bone,material,,11,,5000,,,,
+1055,Tempered Green Scale,material,,9,,4500,,,,
+1056,Tempered Pink Scale,material,,9,,4500,,,,
+1057,Tempered Red Scale,material,,10,,5000,,,,
+1058,Tempered Azure Scale,material,,10,,5500,,,,
 1049,Tempered Ebonjaw,material,,10,,6500,,,,
 487,Voucher,material,,4,,500,,,Voucher,Gray
 488,First Wyverian Print,material,,4,,,,,Voucher,Green
