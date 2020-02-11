@@ -68,7 +68,7 @@ class Decoration:
 
     @property
     def rarity(self):
-        return self.item.rarity
+        return self.item.rarity + 1
 
     @property
     def skill1(self):
@@ -98,5 +98,5 @@ class DecorationCollection:
         self.decorations = list(map(deco_from_entry, entries))
         self._decos_by_name = { d.name['en']:d for d in self.decorations }
 
-    def by_name(self, name_en: str) -> Item:
+    def by_name(self, name_en: str) -> Decoration:
         return self._decos_by_name[name_en]

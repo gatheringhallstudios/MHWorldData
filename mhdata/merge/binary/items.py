@@ -7,7 +7,7 @@ from mhw_armor_edit.ftypes import itm
 
 from . import artifacts
 from mhdata.binary import ItemCollection, Item, DecorationCollection
-from mhdata.binary.load import load_schema, load_text
+from mhdata.binary.load import load_schema, load_text, SkillTextHandler
 
 class ItemUpdater:
     def __init__(self, collection: ItemCollection):
@@ -149,6 +149,7 @@ def update_decorations(mhdata, item_data: ItemCollection):
     print("Updating decorations")
 
     data = DecorationCollection(item_data)
+    skill_text_handler = SkillTextHandler()
     
     # write artifact file (used to debug)
     def create_deco_artifact(d):
@@ -163,7 +164,17 @@ def update_decorations(mhdata, item_data: ItemCollection):
         except KeyError:
             print(f"Could not find decoration {deco_name} in the game files")
             continue
+
         entry['name'] = deco.name
+        entry['rarity'] = deco.rarity
+        for i in range(2):
+            skill_name = None
+            skill_pts = None
+            if i < len(deco.skills):
+                (skill_id, skill_pts) = deco.skills[i]
+                skill_name = skill_text_handler.get_skilltree_name(skill_id)['en']
+            entry[f'skill{i+1}_name'] = skill_name
+            entry[f'skill{i+1}_level'] = skill_pts
 
     writer = create_writer()
 
