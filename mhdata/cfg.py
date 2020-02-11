@@ -74,7 +74,7 @@ weapon_types_ranged = (*weapon_types_gun, BOW)
 weapon_types = (*weapon_types_melee, *weapon_types_ranged)
 
 "Valid possible kinsect boosts"
-valid_kinsects = ('sever', 'blunt', 'speed', 'element', 'health', 'stamina')
+valid_kinsects = ('sever', 'blunt', 'speed', 'element', 'health', 'stamina', 'spirit_strength', 'stamina_health')
 
 "Valid possible phial types (switchaxe and chargeblade)"
 valid_phials = ('power', 'power element', 'dragon', 'poison', 'paralysis', 'exhaust', 'impact')

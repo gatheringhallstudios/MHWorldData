@@ -825,6 +825,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1008,Twilight Crystal,material,,10,,1600,,,,
 1009,Mossy Greatbone,material,,9,,800,,,,
 1010,Woodland Greatbone,material,,9,,1200,,,,
+1045,Slumbering Greatbone,material,,10,,1600,,,,
+1046,Guiding Forest Dragonbone,material,,11,,2000,,,,
 1011,Weathered Cragbone,material,,9,,800,,,,
 1012,Wasteland Cragbone,material,,9,,1200,,,,
 1013,Tempered Cragbone,material,,10,,1600,,,,
@@ -839,6 +841,9 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1022,Heavy Dragonvein Bone,material,,9,,2500,,,,
 1023,Dragonvein Solidbone,material,,10,,3000,,,,
 1024,Elder Dragonvein Bone,material,,11,,3500,,,,
+1047,Spiritvein Solidbone,material,,10,,4500,,,,
+1048,Elder Spiritvein Bone,material,,11,,5000,,,,
+1049,Tempered Ebonjaw,material,,10,,6500,,,,
 487,Voucher,material,,4,,500,,,Voucher,Gray
 488,First Wyverian Print,material,,4,,,,,Voucher,Green
 489,Deluxe First Wyverian Print,material,,4,,,,,Voucher,Green
@@ -891,10 +896,15 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1029,Steam Ticket,material,,11,,,,,,
 1030,Joyful Ticket,material,,9,,400,,,,
 1031,Gratitude Ticket,material,,9,,400,,,,
+1050,Freezer Ticket,material,,9,,500,,,,
 1032,Pearlspring Ticket,material,,9,,500,,,,
 1033,Penguin Ticket,material,,10,,800,,,,
 1034,Sealed Dragon Cloth,material,,10,,800,,,,
+1051,Pickaxe Ticket,material,,10,,800,,,,
 1035,Wyverian Ticket,material,,10,,800,,,,
+1052,Fest Ticket,material,,10,,800,,,,
+1053,Unity Symbol,material,,10,,800,,,,
+1054,Meaty Canteen Ticket,material,,10,,800,,,,
 498,Pukei Coin,material,,4,,500,,,Coin,Lime
 499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
 500,Rathian Coin,material,,4,,500,,,Coin,Green

@@ -6,7 +6,7 @@ from mhdata.util import OrderedSet
 from mhw_armor_edit.ftypes import itm
 
 from . import artifacts
-from mhdata.binary import ItemCollection, Item
+from mhdata.binary import ItemCollection, Item, DecorationCollection
 from mhdata.binary.load import load_schema, load_text
 
 class ItemUpdater:
@@ -144,3 +144,34 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
     artifacts.write_names_artifact('items_unlinked.txt', unlinked_item_names)
 
     print("Item files updated")
+
+def update_decorations(mhdata, item_data: ItemCollection):
+    print("Updating decorations")
+
+    data = DecorationCollection(item_data)
+    
+    # write artifact file (used to debug)
+    def create_deco_artifact(d):
+        return { 'name': d.name['en'], 'slot': d.size, 'rarity': d.rarity }
+    artifacts.write_dicts_artifact("decorations_all.csv",
+        list(map(create_deco_artifact, data.decorations)))
+
+    for entry in mhdata.decoration_map.values():
+        deco_name = entry['name_en']
+        try:
+            deco = data.by_name(entry['name_en'])
+        except KeyError:
+            print(f"Could not find decoration {deco_name} in the game files")
+            continue
+        entry['name'] = deco.name
+
+    writer = create_writer()
+
+    writer.save_base_map_csv(
+        "decorations/decoration_base.csv",
+        mhdata.decoration_map,
+        schema=schema.DecorationBaseSchema(),
+        translation_filename="decorations/decoration_base_translations.csv"
+    )
+
+    print("Decoration files updated\n")

@@ -168,7 +168,7 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
         # Kulve Taroth is a special exception
         monster_name = monster_meta.by_id(monster_id).name
         if monster_name in ['Kulve Taroth', 'Zorah Magdaros']:
-            result['quest_type'] = 'hunt'
+            result['quest_type'] = 'assignment'
             add_monster(monster_id, 1, True)
         else:
             add_monster(monster_id, 1)

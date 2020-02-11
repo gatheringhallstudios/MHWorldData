@@ -1,6 +1,6 @@
 import pytest
 
-from mhdata.io import DataMap
+from mhdata.io import DataMap, merge_list
 
 def create_test_entry(name_map, extradata={}):
     return { 'name': name_map, **extradata }
@@ -115,3 +115,20 @@ def test_clone_returns_equal_map():
 
     assert datamap.to_dict() == cloned_datamap.to_dict(), "expected clone to match"
     assert id(datamap) != id(cloned_datamap), "expecting clone to be a different object"
+
+def test_merge_on_multikey_single():
+    data = {
+        1: create_test_entry_en("test", { 'type': 'great-sword' }),
+        2: create_test_entry_en("test", { 'type': 'bow' })
+    }
+
+    datamap = DataMap(data, keys_ex=["type"])
+
+    merge_data = [
+        { 'name_en': 'test', 'type': 'great-sword', 'attack': 25 },
+        { 'name_en': 'test',  'type': 'bow', 'attack': 10 }
+    ]
+    merge_list(datamap, merge_data, many=False)
+
+    assert datamap.entry_of("en", "test", "great-sword")['attack'] == 25
+    assert datamap.entry_of("en", "test", "bow")['attack'] == 10

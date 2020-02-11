@@ -42,30 +42,3 @@ def translate_skills(mhdata):
     )
 
     print("Skill files updated\n")
-
-def translate_decorations(mhdata, item_data: ItemCollection):
-    print("Translating decorations")
-
-    jewels = filter(lambda i: i.type == "jewel", item_data.items)
-    jewel_map = { j.name['en']:j for j in jewels}
-
-    for entry in mhdata.decoration_map.values():
-        deco_name = entry['name_en']
-        try:
-            item = jewel_map[deco_name]
-        except KeyError:
-            print(f"Could not find decoration {deco_name} in the game files")
-            continue
-        entry['name'] = item.name
-
-    writer = create_writer()
-
-    writer.save_base_map_csv(
-        "decorations/decoration_base.csv",
-        mhdata.decoration_map,
-        schema=schema.DecorationBaseSchema(),
-        translation_filename="decorations/decoration_base_translations.csv"
-    )
-    
-
-    print("Decoration files updated\n")

@@ -94,7 +94,7 @@ def load_data():
     result.weapon_ammo_map = reader.load_keymap_csv("weapons/weapon_ammo.csv", schema.WeaponAmmoSchema())
 
     # Load weapon data
-    result.weapon_map = (DataStitcher(reader, dir="weapons/")
+    result.weapon_map = (DataStitcher(reader, dir="weapons/", keys_ex=['weapon_type'])
                     .base_csv("weapon_base.csv")
                     .translate('weapon_base_translations.csv')
                     .add_csv_ext("weapon_sharpness.csv", key="sharpness")

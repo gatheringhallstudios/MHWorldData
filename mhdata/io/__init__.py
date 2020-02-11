@@ -14,6 +14,7 @@ from .reader import DataReader
 from .writer import DataReaderWriter
 from .stitcher import DataStitcher
 from .datamap import DataMap, DataRow
+from .functions import merge_list
 
 import os.path
 data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../source_data')

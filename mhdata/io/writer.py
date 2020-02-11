@@ -5,13 +5,14 @@ import json
 import collections
 import os
 import os.path
+import copy
 
 import mhdata.util as util
 from .datamap import DataMap
 from .reader import DataReader
 
 from .functions import flatten
-from mhdata.util import ungroup_fields
+from mhdata.util import ungroup_fields, typecheck, extract_fields
 from mhdata.io.csv import save_csv
 
 class DataReaderWriter(DataReader):
@@ -32,7 +33,7 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_base_map_csv(self, location, base_map, *, groups=['name'], schema=None, translation_filename=None, translation_extra=[], key_join='name_en'):
+    def save_base_map_csv(self, location, base_map: DataMap, *, groups=['name'], schema=None, translation_filename=None, translation_extra=[], key_join='name_en'):
         """
         Saves a base map as a csv file.
         If a marshmallow schema is provided, groups is ignored. 
@@ -47,7 +48,8 @@ class DataReaderWriter(DataReader):
             translations = []
             translation_fields = ['name'] + translation_extra
             for row in base_map.values():
-                translation_row = { key_join: row[key_join] }
+                ex_values = { k:row[k] for k in base_map.keys_ex }
+                translation_row = { key_join: row[key_join], **ex_values }
                 for lang in self.languages:
                     for field in translation_fields:
                         field_key = f'{field}_{lang}'
@@ -88,7 +90,7 @@ class DataReaderWriter(DataReader):
         with open(location, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=4, ensure_ascii=False)
 
-    def save_data_csv(self, location, data_map, *,
+    def save_data_csv(self, location, data_map: DataMap, *,
             key_join='name_en',
             nest_additional=[],
             groups=[],
@@ -104,10 +106,38 @@ class DataReaderWriter(DataReader):
 
         TODO: Write about nest_additional and groups
         """
-        extracted = data_map.extract(key=key, fields=fields, key_join=key_join)
-        flattened_rows = flatten(extracted, nest=['base_'+key_join] + nest_additional)
-        flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
 
+        if not key and not fields:
+            raise ValueError(
+                "Either a key or a list of fields " +
+                "must be given when persisting a data map")
+
+        flattened_rows = []
+        for entry in data_map.values():
+            ex_values = { k:entry[k] for k in data_map.keys_ex }
+            row_base = { 'base_' + key_join: entry[key_join], **ex_values }
+
+            items = None
+            if key and key in entry and entry[key]:
+                items = entry[key]
+                if not typecheck.is_flat_iterable(items):
+                    items = [items]
+            elif not key and fields:
+                items = [entry.to_dict()]
+
+            if not items:
+                continue
+
+            for item in items:
+                # If fields is given, extract them
+                if fields:
+                    values = extract_fields(item, *fields)
+                else:
+                    values = copy.deepcopy(item)
+                new_row = { **row_base, **values }
+                flattened_rows.append(new_row)
+
+        flattened_rows = [ungroup_fields(v, groups=groups) for v in flattened_rows]
         self.save_csv(location, flattened_rows, schema=schema)
 
     def save_keymap_csv(self, location, data: dict, schema=None):

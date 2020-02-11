@@ -8,7 +8,7 @@ def update_all():
     from .weapons import update_weapons, update_weapon_songs, update_kinsects
     from .monsters import update_monsters
     from .quests import update_quests
-    from .items import update_items, ItemUpdater
+    from .items import update_items, update_decorations, ItemUpdater
     from . import simple_translate
 
     mhdata = load_data()
@@ -27,16 +27,17 @@ def update_all():
         return
     print("Area Map validated")
 
-    item_updater = ItemUpdater(ItemCollection())
+    item_data = ItemCollection()
+    item_updater = ItemUpdater(item_data)
     monster_meta = metadata.MonsterMetadata()
 
     print() # newline
 
     simple_translate.translate_skills(mhdata)
-    #simple_translate.translate_decorations(mhdata, item_updater.data)
 
-    #update_armor(mhdata, item_updater)
-    #update_weapons(mhdata, item_updater)
+    update_armor(mhdata, item_updater)
+    update_weapons(mhdata, item_updater)
+    update_decorations(mhdata, item_data)
     #update_weapon_songs(mhdata)
     #update_kinsects(mhdata, item_updater)
     #update_monsters(mhdata, item_updater, monster_meta)

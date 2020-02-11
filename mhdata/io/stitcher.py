@@ -19,10 +19,10 @@ class DataStitcher:
                 Not necessary if a schema is provided to get() that handles it.
     """
 
-    def __init__(self, reader: DataReader, *, use_id=False, dir='', keys=[]):
+    def __init__(self, reader: DataReader, *, use_id=False, dir='', keys_ex=[]):
         self.reader = reader
         self.dir = dir
-        self.keys = keys
+        self.keys_ex = keys_ex or []
         self._data_map = None
         self.languages = [] if use_id else ['en']
 
@@ -51,7 +51,7 @@ class DataStitcher:
             groups=self._base_groups,
             translation_filename=self._base_translate_fname,
             translation_extra=self._base_translate_groups,
-            keys_ex=self.keys)
+            keys_ex=self.keys_ex)
 
         return self._data_map
 
@@ -151,7 +151,7 @@ class DataStitcher:
         If schema is provided, returns the items run through the marshmallow schema
         """
         if schema:
-            results = DataMap(languages=self.languages)
+            results = DataMap(languages=self.languages, keys_ex=self.keys_ex)
             for entry in self.data_map.values():
                 data = entry.to_dict()
                 (converted, errors) = schema.load(data, many=False) # converted

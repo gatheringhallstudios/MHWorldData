@@ -40,25 +40,35 @@ s_axe_phials = {
     1: ('power element', None),
     6: ('dragon', 300),
     8: ('dragon', 420),
+    9: ('dragon', 480),
+    10: ('dragon', 510),
     13: ('exhaust', 120),
     14: ('exhaust', 150),
     15: ('exhaust', 180),
     16: ('exhaust', 210),
+    17: ('exhaust', 240),
+    18: ('exhaust', 270),
+    19: ('exhaust', 300),
     23: ('paralysis', 180),
     24: ('paralysis', 210),
     25: ('paralysis', 240),
     26: ('paralysis', 270),
+    27: ('paralysis', 300),
+    28: ('paralysis', 330),
     36: ('poison', 300),
-    38: ('poison', 420)
+    38: ('poison', 420),
+    39: ('poison', 480),
+    40: ('poison', 540)
 }
 
 # wep1_id to glaive boost type mapping
-glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health']
+glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health', 'spirit_strength', 'stamina_health']
 
 # Note index to color mapping
 note_colors = ['P', 'R', 'O', 'Y', 'G', 'B', 'C', 'W']
 
-deviation = ["None", "Low", "Average", "High"]
+#deviation = ["None", "Low", "Average", "High"]
+deviation = ["0", "1", "2", "3", "4", "5", "6"]
 special_ammo_types = ["Wyvernblast", "Wyvernheart", "Wyvernsnipe"]
 
 bullet_types = [
@@ -101,7 +111,7 @@ class WeaponAmmoLoader():
             return (False, 1) # Mortar
         if val == 10:
             return (False, -1) # auto-reload/singleshot
-        if val in (1, 2, 3):
+        if val in (1, 2, 3, 34, 36):
             return (False, 2)
         if val in (14, 27):
             return (False, 2) # Mortar
@@ -109,7 +119,7 @@ class WeaponAmmoLoader():
             return (False, 3)
         if val in (15, 16, 22, 23, 26):
             return (False, 3) # Mortar
-        if val in (6, 8, 9, 12, 13, 19, 21, 25):
+        if val in (6, 8, 9, 12, 13, 19, 21, 25, 35):
             return (False, 4)
         if val in (28, 29, 30):
             return (True, 2)
@@ -117,7 +127,7 @@ class WeaponAmmoLoader():
             return (True, 3)
         if val == 17:
             return (False, 0) # probably 17 (wyvern)
-        raise Exception("Unexpected value " + str(val))
+        raise ValueError("Unexpected value " + str(val))
 
     def _reload_from_binary_reload(self, val: int):
         if val == 17:
@@ -143,8 +153,9 @@ class WeaponAmmoLoader():
             
             if clip_size:
                 recoil_b = getattr(shell, f'{btype}_recoil')
-                reload_b = getattr(shell, f'{btype}_reload')
                 (rapid, recoil) = self._rapid_and_recoil_from_binary_recoil(recoil_b)
+                
+                reload_b = getattr(shell, f'{btype}_reload')
                 reload = self._reload_from_binary_reload(reload_b)
             else:
                 rapid = False
@@ -187,23 +198,34 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     coating_data = load_schema(bbtbl.Bbtbl, "common/equip/bottle_table.bbtbl")
     print("Loaded weapon binary data")
 
-    def bind_weapon_blade_ext(weapon_type: str, existing_entry, binary: wp_dat.WpDatEntry):
+    def bind_weapon_blade_ext(weapon_type: str, existing_entry, weapon_node):
+        binary: wp_dat.WpDatEntry = weapon_node.binary
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
         if weapon_type == cfg.CHARGE_BLADE:
             existing_entry['phial'] = cb_phials[binary.wep1_id]
         if weapon_type == cfg.SWITCH_AXE:
-            (phial, power) = s_axe_phials[binary.wep1_id]
-            existing_entry['phial'] = phial
-            existing_entry['phial_power'] = power
+            try:
+                (phial, power) = s_axe_phials[binary.wep1_id]
+                existing_entry['phial'] = phial
+                existing_entry['phial_power'] = power
+            except:
+                raise KeyError(f"Failed to load saxe phials for {weapon_node.name['en']} (SAXE ID: {binary.wep1_id})")
         if weapon_type == cfg.GUNLANCE:
             # first 5 are normals, second 5 are wide, third 5 are long
-            shelling = ['normal', 'wide', 'long'][binary.wep1_id // 5]
-            level = (binary.wep1_id % 5) + 1
+            if binary.wep1_id >= 15:
+                shelling = ['normal', 'wide', 'long'][binary.wep1_id - 15]
+                level = 6
+            else:
+                shelling = ['normal', 'wide', 'long'][binary.wep1_id // 5]
+                level = (binary.wep1_id % 5) + 1
             existing_entry['shelling'] = shelling
             existing_entry['shelling_level'] = level
         if weapon_type == cfg.INSECT_GLAIVE:
-            existing_entry['kinsect_bonus'] = glaive_boosts[binary.wep1_id]
+            try:
+                existing_entry['kinsect_bonus'] = glaive_boosts[binary.wep1_id]
+            except:
+                raise KeyError(f"Failed to load kinsect bonus for {weapon_node.name['en']} (BOOST ID: {binary.wep1_id})")
         if weapon_type == cfg.HUNTING_HORN:
             note_entry = notes_data[binary.wep1_id]
             notes = [note_entry.note1, note_entry.note2, note_entry.note3]
@@ -229,8 +251,22 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     artifacts.write_artifact('weapons_crafted.txt', *crafted_lines)
     artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
 
+    # Write artifact lines (for shelling)
+    weapon_shelling = []
+    for weapon_type in cfg.weapon_types_gun:
+        for weapon in weapon_trees[weapon_type].all():
+            shell_table_id = weapon.binary.shell_table_id
+            shell = ammo_reader.shell_data[shell_table_id]
+            entry = { 'name_en': weapon.name["en"], 'weapon_type': weapon_type, 'shell_table_id': shell_table_id }
+            for btype in bullet_types:
+                entry[f'{btype}_capacity'] = getattr(shell, f'{btype}_capacity')
+                entry[f'{btype}_recoil'] = getattr(shell, f'{btype}_recoil')
+                entry[f'{btype}_reload'] = getattr(shell, f'{btype}_reload')
+            weapon_shelling.append(entry)
+    artifacts.write_dicts_artifact("weapons_shelling.csv", weapon_shelling)
+
     # Store new weapon entries
-    new_weapon_map = DataMap(languages=["en"], start_id=mhdata.weapon_map.max_id+1)
+    new_weapon_map = DataMap(languages=["en"], start_id=mhdata.weapon_map.max_id+1, keys_ex=["weapon_type"])
 
     # Iterate over existing weapons, merge new data in
     for existing_entry in mhdata.weapon_map.values():
@@ -291,7 +327,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         
         # Bind Extras (Blade/Gun/Bow data)
         if weapon_type in cfg.weapon_types_melee:
-            bind_weapon_blade_ext(weapon_type, new_entry, binary)
+            bind_weapon_blade_ext(weapon_type, new_entry, weapon_node)
             new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
         elif weapon_type in cfg.weapon_types_gun:
             tree = weapon_node.tree
@@ -358,7 +394,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         "weapons/weapon_craft.csv",
         new_weapon_map, 
         key="craft",
-        schema=schema.RecipeUpgradeSchema()
+        schema=schema.WeaponRecipeSchema()
     )
 
     writer.save_keymap_csv(
@@ -369,11 +405,8 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
 
     print("Weapon files updated\n")
 
-def update_kinsects(mhdata, item_updater):
-    item_text_handler = ItemTextHandler()
-    
+def update_kinsects(mhdata, item_updater: ItemUpdater):
     print('Loading kinsect info')
-
     kinsect_tree = load_kinsect_tree()
 
     def resolve_parent_name(entry):
@@ -402,7 +435,7 @@ def update_kinsects(mhdata, item_updater):
         })
 
         if kinsect_node.upgrade:
-            new_entry['craft'] = convert_recipe(item_text_handler, kinsect_node.upgrade)
+            new_entry['craft'] = convert_recipe(item_updater, kinsect_node.upgrade)
 
     # Write new data
     writer = create_writer()
@@ -422,7 +455,6 @@ def update_kinsects(mhdata, item_updater):
     )
     
     print("Kinsect files updated\n")
-    item_updater.add_missing_items(item_text_handler.encountered)
 
 def update_weapon_songs(mhdata):
     # unfortunately, song data linking is unknown, but we have a few pieces

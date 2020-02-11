@@ -1,1 +1,1 @@
-from .load import ItemCollection, Item
+from .load import ItemCollection, DecorationCollection, Item, Decoration

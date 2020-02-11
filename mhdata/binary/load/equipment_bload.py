@@ -142,6 +142,12 @@ class EquipmentTree():
         for weapon in self._isolated:
             yield weapon
 
+    def all(self) -> Iterable[EquipmentNode]:
+        for entry in self.crafted():
+            yield entry
+        for entry in self.isolated():
+            yield entry
+
 class WeaponDataLoader():
     def __init__(self):
         self.weapon_trees = load_text("common/text/steam/wep_series")
