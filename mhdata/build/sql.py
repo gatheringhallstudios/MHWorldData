@@ -542,7 +542,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         if not entry.get('previous_en', None):
             continue
         try:
-            prev_id = weapon_map.id_of('en', entry['previous_en'])
+            prev_id = weapon_map.id_of('en', entry['previous_en'], entry['weapon_type'])
             all_final.remove(prev_id)
         except KeyError:
             pass
@@ -601,7 +601,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
 
         previous_weapon_name = entry.get('previous_en', None)
         if previous_weapon_name:
-            previous_weapon_id = weapon_map.id_of("en", previous_weapon_name)
+            previous_weapon_id = weapon_map.id_of("en", previous_weapon_name, weapon_type)
             ensure(previous_weapon_id, f"Weapon {previous_weapon_name} does not exist")
             weapon.previous_weapon_id = previous_weapon_id
 

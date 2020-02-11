@@ -136,9 +136,9 @@ class WeaponAmmoLoader():
             return 'normal'
         if val in (2, 3, 4, 5, 11, 15, 16):
             return 'slow'
-        if val in (6, 7, 8, 9, 10, 12, 13):
+        if val in (6, 7, 8, 9, 10, 12, 13, 19, 20):
             return 'very slow'
-        return None
+        raise ValueError("Unexpected value " + str(val))
 
     def create_data_for(self, wtype: str, tree: str, binary: wp_dat_g.WpDatGEntry):
         shell = self.shell_data[binary.shell_table_id]
