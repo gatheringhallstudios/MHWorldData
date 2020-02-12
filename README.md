@@ -97,3 +97,5 @@ You are free to use this database for any purpose.
 - [Vocalonation](https://github.com/ahctang) - For helping with translating and crossvalidating data.
 - [TanukiSharp](https://github.com/TanukiSharp/) - For creating a computer usable collection of sharpness data and allowing others to use it. His original project is [here](https://github.com/TanukiSharp/MHWSharpnessExtractor)
 - DiscreetMath - For streaming the game to me as I copied data down, while I waited for the PC release.
+
+Additional help with verifying data was done by nikibobi and Jayson.
