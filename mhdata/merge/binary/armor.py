@@ -20,11 +20,11 @@ def update_armor(mhdata, item_updater: ItemUpdater):
     armor_series = load_armor_series()
 
     # Get number of times armor can be upgraded by rarity level.
-    # Unk7 is max level pre-augment, Unk8 is max post-augment
+    # The first is max level pre-augment, the second is max post-augment
     # Thanks to the MHWorld Modders for the above info
     rarity_upgrades = {}
     for entry in load_schema(arm_up.ArmUp, "common/equip/arm_upgrade.arm_up").entries:
-        rarity_upgrades[entry.index + 1] = (entry.unk7 - 1, entry.unk11 - 1)
+        rarity_upgrades[entry.index + 1] = (entry.unk10 - 1, entry.unk11 - 1)
     
     print("Binary armor data loaded")
     
