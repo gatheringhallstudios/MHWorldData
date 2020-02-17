@@ -178,6 +178,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
                 raise Exception(f"Monster {entry.name('en')} has invalid form(s) {', '.join(invalid_keys)}")
 
             if form_normal:
+                monster.has_weakness = True
                 for element in elements:
                     setattr(monster, 'weakness_'+element, form_normal[element])
 
