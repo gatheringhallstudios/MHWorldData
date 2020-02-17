@@ -308,7 +308,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         new_entry['elderseal'] = elderseal[binary.elderseal]
 
         # Bind Elements
-        if name['en'] in ["Twin Nails", "Fire and Ice"]:
+        if name['en'] in ["Twin Nails", "Fire and Ice", "Blizzard and Blaze"]:
             print(f"Skipping {name['en']} element data")
         else:
             hidden = binary.hidden_element_id != 0

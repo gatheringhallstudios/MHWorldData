@@ -685,7 +685,7 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 341,Blacksteel Twins II,dual-blades,Blacksteel Twins I,,6,154,0,,FALSE,Dragon,120,,,low,0,0,0,,,,,,,,
 342,Twin Nails,dual-blades,Blacksteel Twins II,,7,238,10,,FALSE,Ice,210,Blast,210,,2,0,0,,,,,,,,
 343,Fire and Ice,dual-blades,Twin Nails,,8,252,10,,FALSE,Ice,240,Blast,240,,2,0,0,,,,,,,,
-2321,Blizzard and Blaze,dual-blades,Fire and Ice,,11,364,10,,FALSE,,,,,,2,0,0,,,,,,,,
+2321,Blizzard and Blaze,dual-blades,Fire and Ice,,11,364,10,,FALSE,Ice,330,Blast,330,,2,0,0,,,,,,,,
 344,Xeno Raqs,dual-blades,Blacksteel Twins II,,8,238,15,,FALSE,Dragon,150,,,low,3,3,0,,,,,,,,
 1156,Wrath & Rancor,dual-blades,,,6,280,-20,,FALSE,Dragon,120,,,high,0,0,0,,,,,,,,
 1157,Wrathful Predation,dual-blades,Wrath & Rancor,,7,308,-20,,FALSE,Dragon,180,,,high,0,0,0,,,,,,,,
