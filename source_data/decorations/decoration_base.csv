@@ -48,7 +48,7 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 48,Wind Resist Jewel 2,2,6,Windproof,1,,,White
 49,Earplug Jewel 3,3,6,Earplugs,1,,,White
 50,Vitality Jewel 1,1,6,Health Boost,1,,,Green
-51,Resistor Jewel 1,1,6,Blight Resistance,1,,,DarkPurple
+51,Resistor Jewel 1,1,6,Blight Resistance,1,,,DarkBlue
 52,Sonorous Jewel 1,1,6,Horn Maestro,1,,,White
 53,KO Jewel 2,2,6,Slugger,1,,,Gold
 54,Stream Jewel 1,1,6,Water Attack,1,,,Blue
@@ -57,8 +57,8 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 57,Dragon Jewel 1,1,6,Dragon Attack,1,,,DarkRed
 58,Venom Jewel 1,1,6,Poison Attack,1,,,Violet
 59,Poisoncoat Jewel 3,3,6,Poison Functionality,1,,,Violet
-60,Expert Jewel 1,1,6,Critical Eye,1,,,DarkPurple
-61,Tenderizer Jewel 2,2,6,Weakness Exploit,1,,,DarkPurple
+60,Expert Jewel 1,1,6,Critical Eye,1,,,DarkBlue
+61,Tenderizer Jewel 2,2,6,Weakness Exploit,1,,,DarkBlue
 62,Destroyer Jewel 2,2,6,Partbreaker,1,,,Gray
 63,Elementless Jewel 2,2,6,Non-elemental Boost,1,,,DarkBeige
 64,Drain Jewel 1,1,6,Stamina Thief,1,,,Cyan
@@ -85,7 +85,7 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 85,Magazine Jewel 2,2,7,Capacity Boost,1,,,Gray
 86,Mighty Jewel 2,2,7,Maximum Might,1,,,Red
 87,Sprinter Jewel 2,2,8,Marathon Runner,1,,,Beige
-88,Critical Jewel 2,2,8,Critical Boost,1,,,DarkPurple
+88,Critical Jewel 2,2,8,Critical Boost,1,,,DarkBlue
 89,Artillery Jewel 1,1,8,Artillery,1,,,Gray
 90,Fungiform Jewel 1,1,8,Mushroomancer,1,,,Violet
 91,Release Jewel 3,3,8,Free Elem/Ammo Up,1,,,Cyan
@@ -94,7 +94,7 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 94,Handicraft Jewel 3,3,8,Handicraft,1,,,White
 95,Mighty Bow Jewel 2,2,8,Bow Charge Plus,1,,,Blue
 96,Mind's Eye Jewel 2,2,8,Mind's Eye/Ballistics,1,,,Red
-97,Draw Jewel 2,2,8,Critical Draw,1,,,DarkPurple
+97,Draw Jewel 2,2,8,Critical Draw,1,,,DarkBlue
 98,Pierce Jewel 3,3,8,Piercing Shots,1,,,Blue
 99,Phoenix Jewel 3,3,11,Coalescence,1,,,
 100,Fire Res Jewel+ 4,4,9,Fire Resistance,2,,,

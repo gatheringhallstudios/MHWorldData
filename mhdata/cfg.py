@@ -89,7 +89,7 @@ valid_notes = ('W', 'P', 'R', 'C', 'B', 'G', 'O', 'Y')
 icon_colors = [
     "Gray", "White", "Lime", "Green", "Cyan", "Blue", "Violet", "Orange",
     "Pink", "Red", "DarkRed", "LightBeige", "Beige", "DarkBeige", "Yellow",
-    "Gold", "DarkGreen", "DarkPurple"
+    "Gold", "DarkGreen", "DarkPurple", "DarkBlue"
 ]
 
 """A mapping of weapon type -> weapon multiplier to calculate true attack
