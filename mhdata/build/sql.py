@@ -311,7 +311,8 @@ def build_skills(session : sqlalchemy.orm.Session, mhdata):
         skilltree = db.SkillTree(
             id=skill_entry.id,
             max_level=len(skill_entry['levels']),
-            icon_color=skill_entry['icon_color'])
+            icon_color=skill_entry['icon_color'],
+            secret=skill_entry['secret'] or 0)
 
         for language in cfg.supported_languages:
             skilltree.translations.append(db.SkillTreeText(

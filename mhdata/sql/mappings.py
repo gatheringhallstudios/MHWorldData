@@ -244,6 +244,7 @@ class SkillTree(Base):
     id = Column(Integer, primary_key=True)
     max_level = Column(Integer)
     icon_color = Column(Text)
+    secret = Column(Integer)
 
     translations = relationship("SkillTreeText")
     skills = relationship("Skill")
