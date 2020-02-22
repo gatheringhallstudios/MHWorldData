@@ -1061,3 +1061,6 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 651,Tranq Knife,misc,supply,3,,,8,,Knife,Pink
 652,EZ Farcaster,misc,supply,3,,,1,,Smoke,Green
 653,EZ Tranq Bomb,misc,supply,3,,,8,,Smoke,Red
+1063,Green Herb,misc,supply,2,,,,,Herb,Green
+1064,Red Herb,misc,supply,2,,,,,Herb,Red
+1065,Mixed Herb (G+R),misc,supply,3,,,,,Pellets,Beige
