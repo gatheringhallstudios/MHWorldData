@@ -26,9 +26,22 @@ class ItemUpdater:
         self.encountered_item_ids.add(binary_item_id)
         return self.data.by_id(binary_item_id).name
 
+    def add_encountered_names(self, names: set):
+        for entry in filter(lambda d: d.name['en'] in names, self.data.items):
+            self.encountered_item_ids.add(entry.id)
+
     @property
     def item_data(self) -> Iterable[Item]:
         return self.data.items
+
+def register_combinations(mhdata, item_updater: ItemUpdater):
+    names = set()
+    for combo in mhdata.item_combinations:
+        names.add(combo['result'])
+        names.add(combo['first'])
+        if combo['second']:
+            names.add(combo['second'])
+    item_updater.add_encountered_names(names)
         
 def update_items(item_updater: ItemUpdater, *, mhdata=None):
     if not mhdata:

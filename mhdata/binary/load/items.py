@@ -27,6 +27,7 @@ def rarity_to_rank(rarity):
 
 class Item:
     def __init__(self, data: itm.ItmEntry, name, description):
+        self.id = data.id
         self.data = data
         self.name = name
         self.description = description
@@ -39,6 +40,8 @@ class Item:
 class ItemCollection:
     def __init__(self):
         self.item_text = load_text("common/text/steam/item")
+
+        # Iterable list of all items in the game files
         self.items = [
             Item(i, self._resolve_name(i), self.item_text[i.id * 2 + 1])
             for i in sorted(

@@ -8,7 +8,7 @@ def update_all():
     from .weapons import update_weapons, update_weapon_songs, update_kinsects
     from .monsters import update_monsters
     from .quests import update_quests
-    from .items import update_items, update_decorations, ItemUpdater
+    from .items import update_items, update_decorations, register_combinations, ItemUpdater
     from . import simple_translate
 
     mhdata = load_data()
@@ -44,4 +44,5 @@ def update_all():
     #update_quests(mhdata, item_updater, monster_meta, area_map)
     
     # Now finalize the item updates from parsing the rest of the data
+    register_combinations(mhdata, item_updater)
     update_items(item_updater)

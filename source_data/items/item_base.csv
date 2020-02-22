@@ -12,6 +12,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 11,Well-done Steak,item,,2,,48,10,,Meat,Beige
 12,Burnt Meat,item,,1,,1,10,,Meat,Gray
 13,Cool Drink,item,,1,300,30,5,,Liquid,White
+1059,Hot Drink,item,,1,,25,5,,Liquid,DarkRed
 14,Nutrients,item,,2,,25,5,,Liquid,Cyan
 15,Mega Nutrients,item,,3,,92,5,,Liquid,Cyan
 16,Immunizer,item,,3,,92,10,,Liquid,Beige
@@ -26,6 +27,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 25,Mega Armorskin,item,,5,,269,5,,Liquid,Beige
 26,Adamant Pill,item,,4,,260,5,,Pellets,Beige
 27,Lifepowder,item,,4,,190,3,,Sac,LightBeige
+1060,Dust of Life,item,,6,,690,2,,Sac,LightBeige
 28,Herbal Powder,item,,4,,315,3,,Sac,Blue
 29,Demon Powder,item,,4,,315,3,,Sac,Red
 30,Hardshell Powder,item,,4,,315,3,,Sac,Beige
@@ -37,6 +39,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 36,Snow Herb,item,,2,,6,20,,Herb,White
 37,Sleep Herb,item,,1,,5,10,,Herb,Cyan
 38,Ivy,item,,1,,8,10,,Herb,DarkGreen
+1061,Hot Pepper,item,,1,,14,10,,Herb,DarkRed
+1062,Gloamgrass Bud,item,,4,,40,4,,Herb,LightBeige
 39,Smokenut,item,,1,,4,10,,Seed,White
 40,Dragonfell Berry,item,,4,,78,10,,Seed,DarkRed
 41,Blue Mushroom,item,,2,,2,10,,Mushroom,Blue
