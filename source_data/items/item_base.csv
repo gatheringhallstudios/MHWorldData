@@ -1005,6 +1005,9 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 600,Glowing Feystone,misc,appraisal,5,,,,,Feystone,Blue
 601,Worn Feystone,misc,appraisal,6,,,,,Feystone,Beige
 602,Warped Feystone,misc,appraisal,7,,,,,Feystone,Red
+1066,Ancient Feystone,misc,appraisal,9,,,,,Feystone,Violet
+1067,Carved Feystone,misc,appraisal,10,,,,,Feystone,Green
+1068,Sealed Feystone,misc,appraisal,11,,,,,Feystone,Gold
 603,Sullied Streamstone,misc,appraisal,6,,,,,Streamstone,Gray
 604,Shining Streamstone,misc,appraisal,8,,,,,Streamstone,Gold
 659,Dissolved Weapon,misc,appraisal,4,,,,,,
