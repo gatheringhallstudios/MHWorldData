@@ -80,9 +80,9 @@ id,name_en,previous_en,rarity,attack_type,dust_effect,power,speed,heal
 79,Foliacath I Forz,Pseudocath III,9,Sever,Blast,13,16,3
 80,Foliacath II Forz,Foliacath I Forz,10,Sever,Blast,14,18,4
 81,Foliacath III Forz,Foliacath II Forz,11,Sever,Blast,15,20,5
-82,Elscarad I,Culldrone III,10,Sever,Blast,6,6,10
-83,Elscarad II,Elscarad I,11,Sever,Blast,9,9,15
-84,Elscarad III,Elscarad II,12,Sever,Blast,12,12,20
+82,Elscarad I,Culldrone III,10,Sever,Heal,6,6,10
+83,Elscarad II,Elscarad I,11,Sever,Heal,9,9,15
+84,Elscarad III,Elscarad II,12,Sever,Heal,12,12,20
 85,Gleambeetle I Velox,Carnage Beetle III,9,Blunt,Poison,14,12,5
 86,Gleambeetle II Velox,Gleambeetle I Velox,10,Blunt,Poison,15,13,6
 87,Gleambeetle III Velox,Gleambeetle II Velox,11,Blunt,Poison,17,14,7
@@ -101,6 +101,6 @@ id,name_en,previous_en,rarity,attack_type,dust_effect,power,speed,heal
 100,Valorwing I Medis,Whispervesp III,9,Blunt,Blast,3,16,12
 101,Valorwing II Medis,Valorwing I Medis,10,Blunt,Blast,4,18,13
 102,Valorwing III Medis,Valorwing II Medis,11,Blunt,Blast,5,20,14
-103,Arginesse I,Mauldrone III,10,Blunt,Blast,6,6,10
-104,Arginesse II,Arginesse I,11,Blunt,Blast,9,9,15
-105,Arginesse III,Arginesse II,12,Blunt,Blast,11,12,20
+103,Arginesse I,Mauldrone III,10,Blunt,Heal,6,6,10
+104,Arginesse II,Arginesse I,11,Blunt,Heal,9,9,15
+105,Arginesse III,Arginesse II,12,Blunt,Heal,11,12,20
