@@ -50,11 +50,13 @@ Each subsystem (Monster/Armor/Weapons/etc) is stored in its own subdirectory. Th
 - ***type*_ext.csv**: Extension data that adds additional data to the type. This is used when each type can be optionally extended, such as a weapon that may be a bowgun and has bowgun ammo.
 
 ## How to build
-Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`). Afterwards, you can install all dependencies by running `pipenv install`.
+Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`).
+- Open a console window in the main directory
+- `pipenv install` to install all dependencies. Make sure its using python 3.6 or greater.
+- `pipenv shell` to activate the environment
 
-Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.sql` file. Alternatively, run `pipenv shell` and then run `python build.py`.
-
-You can run the tests by executing `pipenv run pytest tests`.
+Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.sql` file. You can run the tests by executing `pipenv run pytest tests`. 
+You will need to use `pipenv shell` everytime you open a new console window.
 
 ### Merging ingame binaries
 This project uses [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) to parse ingame binary data. To use it, follow the directions in fresch's repository to create a merged chunk data folder (make sure you own a copy of Monster Hunter World...), rename it to `mergedchunks`, and move it outside the project (to the same directory this project is contained in). Afterwards, run `pipenv run python merge.py binary update`.
