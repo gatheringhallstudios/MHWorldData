@@ -51,7 +51,7 @@ Each subsystem (Monster/Armor/Weapons/etc) is stored in its own subdirectory. Th
 
 ## How to build
 Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`).
-- Open a console window in the main directory
+- Open a console window in the root project directory (shift+rightclick or `cd` to navigate to it)
 - `pipenv install` to install all dependencies. Make sure its using python 3.6 or greater.
 - `pipenv shell` to activate the environment
 
