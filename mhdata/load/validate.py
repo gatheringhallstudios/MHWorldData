@@ -153,6 +153,7 @@ def validate_monster_rewards(mhdata):
 def validate_skills(mhdata):
     errors = []
 
+    all_unlocked = set()
     for skill in mhdata.skill_map.values():
         skill_name = skill['name']['en']
         expected_max = len(skill['levels'])
@@ -165,6 +166,22 @@ def validate_skills(mhdata):
             encountered_levels.add(level_value)
         if len(encountered_levels) != expected_max:
             errors.append(f"Skill {skill_name} is missing effect levels")
+        
+        unlocked = skill['unlocks']
+        if unlocked:
+            unlocked_skill = mhdata.skill_map.entry_of('en', unlocked)
+            if not unlocked_skill:
+                errors.append(f"Skill {skill_name} unlocks invalid skill {unlocked}")
+            elif not unlocked_skill['secret']:
+                errors.append(f"Skill {skill_name} unlocks skill {unlocked}, but that skill is not a secret skill")
+            else:
+                all_unlocked.add(unlocked)
+
+    # second pass, make sure that all secret skills are unlocked by something
+    for skill in mhdata.skill_map.values():
+        skill_name = skill['name']['en']
+        if skill['secret'] and skill_name not in all_unlocked:
+            errors.append(f"Skill {skill_name} has locked slots, but has no associated secret skill")
 
     return errors
 

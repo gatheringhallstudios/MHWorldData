@@ -5,7 +5,7 @@ from mhw_armor_edit.ftypes import skl_pt_dat
 
 # Sometimes capcom makes mistakes, so we override them
 skill_overrides = {
-    102: 'Slinger Capacity'
+    # currently no mistakes
 }
 
 def normalize_desc(val: str):

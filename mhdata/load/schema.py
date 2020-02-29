@@ -121,6 +121,7 @@ class SkillBaseSchema(BaseSchema):
     description = fields.Dict()
     icon_color = ValidatedStr(None, *cfg.icon_colors)
     secret = fields.Int(allow_none=True)
+    unlocks = fields.String(allow_none=True)
 
 class SkillSchema(SkillBaseSchema):
     levels = fields.Nested('SkillLevelSchema', many=True, required=True)
