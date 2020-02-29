@@ -125,7 +125,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 682,Eltalite Ore,material,,9,,1280,,,Ore,Red
 683,Meldspar Ore,material,,9,,1920,,,Ore,White
 120,Earth Crystal,material,,4,,80,,,Ore,White
-121,Coral Crystal (LR),material,,4,,600,,,Ore,Blue
+121,Coral Crystal,material,,4,,600,,,Ore,Blue
 122,Dragonvein Crystal,material,,6,,800,,,Ore,Red
 684,Spiritvein Crystal,material,,9,,1280,,,Ore,Violet
 123,Lightcrystal,material,,5,,1150,,,Ore,Gray
@@ -822,8 +822,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1001,Serene Crystal,material,,10,,1600,,,Ore,
 1002,Guiding Wasteland Crystal,material,,11,,2000,,,Ore,
 1003,Pale Crystal,material,,9,,800,,,Ore,
-1004,Coral Crystal (MR),material,,9,,1200,,,Ore,
-1005,Guiding Coral Crystal,material,,11,,2000,,,Ore,
+1004,Reef Crystal,material,,9,,1200,,,Ore,
+1005,Guiding Reef Crystal,material,,11,,2000,,,Ore,
 1006,Distorted Crystal,material,,9,,800,,,Ore,
 1007,Effluvial Crystal,material,,9,,1200,,,Ore,
 1008,Twilight Crystal,material,,10,,1600,,,Ore,
@@ -837,7 +837,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1014,Guiding Wasteland Dragonbone,material,,11,,2000,,,Bone,
 1015,Vivid Crimsonbone,material,,9,,800,,,Bone,
 1016,Coral Crimsonbone,material,,9,,1200,,,Bone,
-1017,Guiding Coral Dragonbone,material,,11,,2000,,,Bone,
+1069,Guiding Reef Dragonbone,material,,11,,2000,,,,
 1018,Malformed Frenzybone,material,,9,,800,,,Bone,
 1019,Effluvial Frenzybone,material,,9,,1200,,,Bone,
 1020,Afflicted Frenzybone,material,,10,,1600,,,Bone,
@@ -934,6 +934,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1042,Black Belt Coin,material,,9,,1500,,,Coin,
 1043,Hero King Coin,material,,10,,2000,,,Coin,
 1044,Tigrex Coin,material,,11,,5000,,,Coin,
+1017,Guiding Coral Dragonbone,material,,11,,2000,,,Bone,
 532,Watcher Lens,material,,,,,,,Question,Gray
 533,Nora Brave Trophy,material,,,,,,,,
 534,SFV Ticket,material,,4,,200,,,Voucher,White
@@ -1064,6 +1065,6 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 651,Tranq Knife,misc,supply,3,,,8,,Knife,Pink
 652,EZ Farcaster,misc,supply,3,,,1,,Smoke,Green
 653,EZ Tranq Bomb,misc,supply,3,,,8,,Smoke,Red
-1063,Green Herb,misc,supply,2,,,,,Herb,Green
-1064,Red Herb,misc,supply,2,,,,,Herb,Red
-1065,Mixed Herb (G+R),misc,supply,3,,,,,Pellets,Beige
+1063,Green Herb,misc,supply,2,,30,,,Herb,Green
+1064,Red Herb,misc,supply,2,,20,,,Herb,Red
+1065,Mixed Herb (G+R),misc,supply,3,,100,,,Pellets,Beige

@@ -5,7 +5,13 @@ from .bcore import load_schema, load_text
 from mhw_armor_edit.ftypes import sgpa
 
 item_dupes = [
-    "Coral Crystal"
+    # "Coral Crystal" - later updates split into Coral Crystal and Reef Crystal
+]
+
+# items that are dummies that don't look like dummies
+item_dummies = [
+    2568, # green herb non-consumable
+    2569, # red herb non-consumable
 ]
 
 # Index based item type
@@ -46,7 +52,8 @@ class ItemCollection:
             Item(i, self._resolve_name(i), self.item_text[i.id * 2 + 1])
             for i in sorted(
                 load_schema(itm.Itm, "common/item/itemData.itm").entries,
-                key=lambda i: i.order)]
+                key=lambda i: i.order)
+            if i.id not in item_dummies]
 
         self.item_data_map = {i.id : i for i in self.items}
 

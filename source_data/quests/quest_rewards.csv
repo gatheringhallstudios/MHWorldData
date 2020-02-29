@@ -104,7 +104,7 @@ base_id,group,item_en,stack,percentage
 405,A,Monster Bone L,1,24
 405,A,Sturdy Bone,1,18
 405,A,Coral Bone,1,13
-405,A,Coral Crystal (LR),1,12
+405,A,Coral Crystal,1,12
 405,A,Dragonite Ore,1,8
 405,A,Nulberry,2,12
 405,A,Flashbug,2,12
@@ -122,7 +122,7 @@ base_id,group,item_en,stack,percentage
 408,A,Monster Bone+,1,24
 408,A,Sturdy Bone,1,23
 408,A,Coral Bone,1,16
-408,A,Coral Crystal (LR),1,12
+408,A,Coral Crystal,1,12
 408,A,Nulberry,2,12
 408,A,Flashbug,2,12
 501,A,Armor Sphere+,1,100
@@ -437,7 +437,7 @@ base_id,group,item_en,stack,percentage
 471,A,Nulberry,2,18
 471,A,Snow Herb,3,16
 471,A,Flashbug,2,15
-471,A,Coral Crystal (LR),2,7
+471,A,Coral Crystal,2,7
 471,A,Dragonite Ore,1,12
 471,A,Sturdy Bone,2,7
 471,A,Coral Bone,1,12
@@ -446,7 +446,7 @@ base_id,group,item_en,stack,percentage
 472,A,Monster Bone L,1,24
 472,A,Sturdy Bone,1,18
 472,A,Coral Bone,1,13
-472,A,Coral Crystal (LR),1,12
+472,A,Coral Crystal,1,12
 472,A,Dragonite Ore,1,8
 472,A,Nulberry,2,12
 472,A,Flashbug,2,12
@@ -455,7 +455,7 @@ base_id,group,item_en,stack,percentage
 473,A,Monster Bone L,1,24
 473,A,Sturdy Bone,1,18
 473,A,Coral Bone,1,13
-473,A,Coral Crystal (LR),1,12
+473,A,Coral Crystal,1,12
 473,A,Dragonite Ore,1,8
 473,A,Nulberry,2,12
 473,A,Flashbug,2,12
@@ -465,7 +465,7 @@ base_id,group,item_en,stack,percentage
 474,A,Nulberry,2,18
 474,A,Snow Herb,3,16
 474,A,Flashbug,2,15
-474,A,Coral Crystal (LR),2,7
+474,A,Coral Crystal,2,7
 474,A,Dragonite Ore,1,12
 474,A,Sturdy Bone,2,7
 474,A,Coral Bone,1,12
@@ -474,7 +474,7 @@ base_id,group,item_en,stack,percentage
 475,A,Monster Bone L,1,24
 475,A,Sturdy Bone,1,18
 475,A,Coral Bone,1,13
-475,A,Coral Crystal (LR),1,12
+475,A,Coral Crystal,1,12
 475,A,Dragonite Ore,1,8
 475,A,Nulberry,2,12
 475,A,Flashbug,2,12
@@ -522,7 +522,7 @@ base_id,group,item_en,stack,percentage
 5003,A,Nulberry,2,18
 5003,A,Snow Herb,3,16
 5003,A,Flashbug,2,15
-5003,A,Coral Crystal (LR),2,7
+5003,A,Coral Crystal,2,7
 5003,A,Dragonite Ore,1,12
 5003,A,Sturdy Bone,2,7
 5003,A,Coral Bone,1,12
@@ -590,12 +590,12 @@ base_id,group,item_en,stack,percentage
 571,A,Monster Bone+,1,24
 571,A,Sturdy Bone,1,23
 571,A,Coral Bone,1,16
-571,A,Coral Crystal (LR),1,12
+571,A,Coral Crystal,1,12
 571,A,Nulberry,2,12
 571,A,Flashbug,2,12
 572,A,Commendation,1,100
 572,A,Commendation,1,1
-572,A,Coral Crystal (LR),1,22
+572,A,Coral Crystal,1,22
 572,A,Dragonite Ore,1,22
 572,A,Coral Bone,1,13
 572,A,Aquacore Ore,1,16
@@ -1543,7 +1543,7 @@ base_id,group,item_en,stack,percentage
 61601,A,First Fleet Ticket,1,1
 61601,A,Carbalite Ore,2,21
 61601,A,Dragonvein Crystal,1,15
-61601,A,Coral Crystal (LR),2,9
+61601,A,Coral Crystal,2,9
 61601,A,Earth Crystal,2,9
 61601,A,Quality Bone,2,22
 61601,A,Dragonite Ore,2,8
@@ -1760,7 +1760,7 @@ base_id,group,item_en,stack,percentage
 65604,A,Armor Sphere+,1,11
 65604,A,Quality Bone,1,24
 65604,A,Aquacore Ore,1,16
-65604,A,Coral Crystal (LR),1,24
+65604,A,Coral Crystal,1,24
 65604,A,Lightcrystal,1,8
 65604,A,Novacrystal,1,5
 65605,A,Glowing Feystone,1,100

@@ -125,7 +125,7 @@ Barroth Shredder I,great-sword,FALSE,110,100,40,40,60,0,0
 Barroth Shredder II,great-sword,FALSE,100,100,40,40,70,0,0
 Barroth Shredder III,great-sword,FALSE,110,120,40,50,80,0,0
 Barroth Greatedge I,great-sword,FALSE,130,100,30,30,80,30,0
-Barroth Greatedge II,great-sword,FALSE,70,60,60,100,80,30,0
+Barroth Greatedge II,great-sword,FALSE,130,100,30,30,80,30,0
 Acid Shredder I,great-sword,FALSE,160,100,30,30,50,30,0
 Acid Shredder II,great-sword,FALSE,60,50,110,90,60,20,10
 Spiked Blade I,great-sword,FALSE,120,70,30,80,0,0,0
@@ -141,7 +141,7 @@ Dragonbone Cleaver I,great-sword,FALSE,110,70,30,90,0,0,0
 Dragonbone Cleaver II,great-sword,FALSE,100,70,30,100,0,0,0
 Dragonbone Cleaver III,great-sword,FALSE,120,110,40,40,70,20,0
 Dragonseal Sword I,great-sword,FALSE,130,100,30,30,80,30,0
-Dragonseal Sword II,great-sword,FALSE,70,60,60,100,80,30,0
+Dragonseal Sword II,great-sword,FALSE,130,100,30,30,80,30,0
 Immovable Dharma,great-sword,FALSE,170,30,30,60,50,30,30
 Thundersword,great-sword,FALSE,60,50,80,110,0,0,0
 Kirin Thundersword,great-sword,FALSE,110,20,20,160,90,0,0
@@ -315,7 +315,7 @@ Dragonbone Stabber I,long-sword,FALSE,110,70,30,90,0,0,0
 Dragonbone Stabber II,long-sword,FALSE,100,70,30,100,0,0,0
 Dragonbone Stabber III,long-sword,FALSE,150,100,30,30,60,30,0
 Dragonseal Aldblade I,long-sword,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldblade II,long-sword,FALSE,70,60,60,100,80,30,0
+Dragonseal Aldblade II,long-sword,FALSE,130,100,30,30,80,30,0
 Radiant Flow,long-sword,FALSE,170,30,30,60,50,30,30
 Magda Facultas I,long-sword,FALSE,110,50,80,100,10,0,0
 Magda Facultas II,long-sword,FALSE,210,30,40,90,30,0,0
@@ -832,7 +832,7 @@ Barroth Breaker I,hammer,FALSE,130,70,30,100,20,0,0
 Barroth Breaker II,hammer,FALSE,110,70,30,100,40,0,0
 Barroth Breaker III,hammer,FALSE,110,120,40,50,80,0,0
 Barroth Crusher I,hammer,FALSE,130,100,30,30,80,30,0
-Barroth Crusher II,hammer,FALSE,70,60,60,100,80,30,0
+Barroth Crusher II,hammer,FALSE,130,100,30,30,80,30,0
 Dios Tailhammer,hammer,FALSE,100,100,40,50,60,50,0
 Brachy Tailhammer,hammer,FALSE,90,30,30,110,40,100,0
 Blazing Hammer I,hammer,FALSE,120,70,30,80,0,0,0
@@ -848,7 +848,7 @@ Dragonbone Basher I,hammer,FALSE,110,70,30,90,0,0,0
 Dragonbone Basher II,hammer,FALSE,70,70,30,130,0,0,0
 Dragonbone Basher III,hammer,FALSE,120,110,40,40,70,20,0
 Dragonseal Basher I,hammer,FALSE,130,100,30,30,80,30,0
-Dragonseal Hammer II,hammer,FALSE,70,60,60,100,80,30,0
+Dragonseal Hammer II,hammer,FALSE,130,100,30,30,80,30,0
 Dawning Tranquility,hammer,FALSE,170,30,30,60,50,30,30
 Magda Floga,hammer,FALSE,110,50,80,100,10,0,0
 Ragefire Magda Floga,hammer,FALSE,190,30,60,80,40,0,0
@@ -1024,7 +1024,7 @@ Dragonbone Auldhorn I,hunting-horn,FALSE,110,70,30,90,0,0,0
 Dragonbone Auldhorn II,hunting-horn,FALSE,70,70,30,130,0,0,0
 Dragonbone Auldhorn III,hunting-horn,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldhorn I,hunting-horn,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldhorn II,hunting-horn,FALSE,70,60,60,100,80,30,0
+Dragonseal Aldhorn II,hunting-horn,FALSE,130,100,30,30,80,30,0
 Austere Paradise,hunting-horn,FALSE,170,30,30,60,50,30,30
 Thundercry Horn,hunting-horn,FALSE,60,50,80,110,0,0,0
 Thunderbolt Horn I,hunting-horn,FALSE,110,20,20,150,100,0,0
@@ -1156,7 +1156,7 @@ Barroth Stinger I,lance,FALSE,130,70,30,100,20,0,0
 Barroth Stinger II,lance,FALSE,110,70,30,100,40,0,0
 Barroth Stinger III,lance,FALSE,100,120,40,50,90,0,0
 Barroth Halberd I,lance,FALSE,130,100,30,30,80,30,0
-Barroth Halberd II,lance,FALSE,70,60,60,100,80,30,0
+Barroth Halberd II,lance,FALSE,130,100,30,30,80,30,0
 Dios Halberd I,lance,FALSE,100,100,40,50,60,50,0
 Dios Halberd II,lance,FALSE,100,30,30,110,40,90,0
 Garon Lance I,lance,FALSE,90,70,30,110,0,0,0
@@ -1185,7 +1185,7 @@ Dragonbone Lance I,lance,FALSE,110,70,30,90,0,0,0
 Dragonbone Lance II,lance,FALSE,70,70,30,130,0,0,0
 Dragonbone Lance III,lance,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldspear I,lance,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldspear II,lance,FALSE,70,60,60,100,80,30,0
+Dragonseal Aldspear II,lance,FALSE,130,100,30,30,80,30,0
 Unblinking Gatekeeper,lance,FALSE,170,30,30,60,50,30,30
 Rookslayer Lance,lance,FALSE,110,100,40,40,60,0,0
 Bazel Myniad Rookslayer,lance,FALSE,70,120,80,60,20,50,0
@@ -1338,7 +1338,7 @@ Barroth Blaster I,gunlance,FALSE,120,70,30,100,30,0,0
 Barroth Blaster II,gunlance,FALSE,100,50,50,80,70,0,0
 Barroth Blaster III,gunlance,FALSE,120,70,30,100,80,0,0
 Barroth Bluff I,gunlance,FALSE,60,60,60,100,90,30,0
-Barroth Bluff II,gunlance,FALSE,50,60,20,150,90,30,0
+Barroth Bluff II,gunlance,FALSE,60,60,60,100,90,30,0
 Brachydios Buster I,gunlance,FALSE,90,100,40,50,70,50,0
 Brachydios Buster II,gunlance,FALSE,90,30,30,110,40,100,0
 Mammoth Gunlance I,gunlance,FALSE,80,50,50,80,140,0,0
@@ -1359,7 +1359,7 @@ Dragonbone Gunlance I,gunlance,FALSE,110,70,30,90,0,0,0
 Dragonbone Gunlance II,gunlance,FALSE,70,70,30,130,0,0,0
 Dragonbone Gunlance III,gunlance,FALSE,120,110,40,40,70,20,0
 Dragonseal Gunlance I,gunlance,FALSE,60,60,60,100,90,30,0
-Dragonseal Gunlance II,gunlance,FALSE,50,60,20,150,90,30,0
+Dragonseal Gunlance II,gunlance,FALSE,60,60,60,100,90,30,0
 Broken Silence,gunlance,FALSE,160,30,30,60,50,40,30
 Magda Lahat,gunlance,FALSE,110,50,80,100,10,0,0
 Earthshaker Magda Lahat,gunlance,FALSE,210,30,40,90,30,0,0
@@ -1506,7 +1506,7 @@ Barroth Grinder I,switch-axe,FALSE,130,70,30,100,20,0,0
 Barroth Grinder II,switch-axe,FALSE,120,70,30,100,30,0,0
 Barroth Grinder III,switch-axe,FALSE,120,70,30,100,80,0,0
 Barroth Dozer I,switch-axe,FALSE,130,100,30,30,80,30,0
-Barroth Dozer II,switch-axe,FALSE,70,60,60,100,80,30,0
+Barroth Dozer II,switch-axe,FALSE,130,100,30,30,80,30,0
 Dios Smasher I,switch-axe,FALSE,90,100,40,50,70,50,0
 Dios Smasher II,switch-axe,FALSE,100,30,30,110,40,90,0
 Diablos Axe I,switch-axe,FALSE,100,70,30,100,0,0,0
@@ -1528,7 +1528,7 @@ Dragonbone Slicer I,switch-axe,FALSE,110,70,30,90,0,0,0
 Dragonbone Slicer II,switch-axe,FALSE,70,70,30,130,0,0,0
 Dragonbone Slicer III,switch-axe,FALSE,120,110,40,40,70,20,0
 Dragonseal Axe I,switch-axe,FALSE,130,100,30,30,80,30,0
-Dragonseal Axe II,switch-axe,FALSE,70,60,60,100,80,30,0
+Dragonseal Axe II,switch-axe,FALSE,130,100,30,30,80,30,0
 Evanescent Glow,switch-axe,FALSE,170,30,30,60,50,30,30
 Peal,switch-axe,FALSE,60,50,80,110,0,0,0
 Peal+,switch-axe,FALSE,110,20,20,150,100,0,0
@@ -1655,7 +1655,7 @@ Girros Nadja I,charge-blade,FALSE,110,100,40,40,60,0,0
 Girros Nadja II,charge-blade,FALSE,100,100,40,40,70,0,0
 Girros Nadja III,charge-blade,FALSE,110,110,40,40,80,20,0
 Naaga Ghadab I,charge-blade,FALSE,60,60,60,100,90,30,0
-Naaga Ghadab II,charge-blade,FALSE,50,60,20,150,90,30,0
+Naaga Ghadab II,charge-blade,FALSE,60,60,60,100,90,30,0
 Dios Strongarm,charge-blade,FALSE,90,30,30,110,40,100,0
 Volatile Blade,charge-blade,FALSE,80,30,30,110,40,110,0
 Hazak Aspida I,charge-blade,FALSE,130,110,40,40,60,20,0
@@ -1851,7 +1851,7 @@ Dragonbone Glaive I,insect-glaive,FALSE,110,70,30,90,0,0,0
 Dragonbone Glaive II,insect-glaive,FALSE,70,70,30,130,0,0,0
 Dragonbone Glaive III,insect-glaive,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldstaff I,insect-glaive,FALSE,60,60,60,100,90,30,0
-Dragonseal Aldstaff II,insect-glaive,FALSE,50,60,20,150,90,30,0
+Dragonseal Aldstaff II,insect-glaive,FALSE,60,60,60,100,90,30,0
 Infinite Wisdom,insect-glaive,FALSE,160,30,30,60,50,40,30
 Indigo Flash,insect-glaive,FALSE,40,50,80,130,0,0,0
 Azure Bolt,insect-glaive,FALSE,110,20,20,140,110,0,0

@@ -51,6 +51,9 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
     new_item_map = DataMap(languages='en', start_id=mhdata.item_map.max_id+1)
     unlinked_item_names = OrderedSet()
 
+    # used to track dupes to throw proper errors
+    updated_names = set()
+
     # First pass. Iterate over existing ingame items and merge with existing data
     for entry in item_updater.item_data:
         name_dict, description_dict = item_updater.name_and_description_for(entry.id, track=False)
@@ -60,6 +63,10 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
         if not is_encountered and not existing_item:
             unlinked_item_names.add(name_dict['en'])
             continue
+
+        if name_dict['en'] in updated_names:
+            raise Exception(f"Duplicate item {name_dict['en']}")
+        updated_names.add(name_dict['en'])
 
         # note: we omit buy price as items may have a buy price even if not sold.
         # We only care about the buy price of BUYABLE items

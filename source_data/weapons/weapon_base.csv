@@ -2043,8 +2043,8 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2959,"Soulfire Rasp ""Ruin""",light-bowgun,"Empress Shell ""Ruin""",,12,351,0,,FALSE,,,,,,2,2,0,,,,,,,LBG Lunastra/Nergigante 2,Hasten Recovery
 1246,"Empress Shell ""Styx""",light-bowgun,Empress Shell,,8,247,10,,FALSE,,,,,,3,1,0,,,,,,,LBG Lunastra/Xeno'jiiva,Razor Sharp/Spare Shot
 2960,"Soulfire Rasp ""Styx""",light-bowgun,"Empress Shell ""Styx""",,12,338,10,,FALSE,,,,,,3,3,0,,,,,,,LBG Lunastra/Xeno'jiiva 2,Razor Sharp/Spare Shot
-2961,Guild Palace Bowgun,light-bowgun,,,10,325,15,30,FALSE,,,,,,3,0,0,,,,,,,LBG Guild Palace,
-2962,Royal Surefire Shot,light-bowgun,Guild Palace Bowgun,,12,351,20,30,FALSE,,,,,,3,0,0,,,,,,,LBG Guild Palace,
+2961,Guild Palace Bowgun,light-bowgun,,,10,325,15,30,FALSE,,,,,,3,0,0,,,,,,,LBG Arena,
+2962,Royal Surefire Shot,light-bowgun,Guild Palace Bowgun,,12,351,20,30,FALSE,,,,,,3,0,0,,,,,,,LBG Arena,
 2963,Defender Heavy Bowgun I,heavy-bowgun,,,1,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Defender,
 2964,Defender Heavy Bowgun II,heavy-bowgun,Defender Heavy Bowgun I,,3,255,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Defender,
 2965,Defender Heavy Bowgun III,heavy-bowgun,Defender Heavy Bowgun II,,5,285,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Defender,
@@ -2197,8 +2197,8 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 3028,"Soulfire Roar ""Ruin""",heavy-bowgun,"Empress Cannon ""Ruin""",,12,435,0,,FALSE,,,,,,2,2,0,,,,,,,HBG Lunastra/Nergigante 2,Hasten Recovery
 1251,"Empress Cannon ""Styx""",heavy-bowgun,Empress Cannon,,8,285,10,,FALSE,,,,,,3,1,0,,,,,,,HBG Lunastra/Xeno'jiiva,Razor Sharp/Spare Shot
 3029,"Soulfire Roar ""Styx""",heavy-bowgun,"Empress Cannon ""Styx""",,12,420,10,,FALSE,,,,,,3,3,0,,,,,,,HBG Lunastra/Xeno'jiiva 2,Razor Sharp/Spare Shot
-3030,Guild Palace Rifle,heavy-bowgun,,,10,390,10,30,FALSE,,,,,,3,0,0,,,,,,,HBG Guild Palace,
-3031,Royal Light Cortege,heavy-bowgun,Guild Palace Rifle,,12,435,15,30,FALSE,,,,,,3,0,0,,,,,,,HBG Guild Palace,
+3030,Guild Palace Rifle,heavy-bowgun,,,10,390,10,30,FALSE,,,,,,3,0,0,,,,,,,HBG Arena,
+3031,Royal Light Cortege,heavy-bowgun,Guild Palace Rifle,,12,435,15,30,FALSE,,,,,,3,0,0,,,,,,,HBG Arena,
 3032,Defender Powerbow I,bow,,,1,156,0,,FALSE,Blast,120,,,,0,0,0,,,,,,,,
 3033,Defender Powerbow II,bow,Defender Powerbow I,,3,204,0,,FALSE,Blast,150,,,,0,0,0,,,,,,,,
 3034,Defender Powerbow III,bow,Defender Powerbow II,,5,228,0,,FALSE,Blast,180,,,,0,0,0,,,,,,,,

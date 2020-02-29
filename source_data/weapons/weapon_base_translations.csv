@@ -346,7 +346,7 @@ Empress Sword,long-sword,エンプレスソード,Lame Imperatrix,Spada fiamma,K
 Mad Scavenger Pickaxe,long-sword,鋼鉄ピッケル【採掘狂】,Pioche du pillard fou,Piccone rovistatore folle,Verrückte Plündererhacke,Pico Carroñero Loco,Picareta Catador Louco,Kilof szalonego górnika,Кирка безумного сборщика,강철 피켈【채굴광】,鋼鐵十字鎬【採掘狂】,بلطة النبّاش المجنون
 Demon Scavenger Pickaxe,long-sword,超鋼鉄ピッケル【採掘鬼】,Pioche du pillard démoniaque,Piccone rovistatore demoniaco,Dämonen-Plündererhacke,Pico Carroñero Demoníaco,Picareta Catador Demoníaco,Kilof demon. górnika,Кирка сборщика-демона,초강철 피켈【채굴귀】,超鋼鐵十字鎬【採掘鬼】,بلطة النبّاش العفريت
 Guild Palace Rapier,long-sword,ギルドパレスサーベル,Rapière palazzo,Stocco Palatium,Palast-Säbel,Estoque palacio gremial,Florete Palácio da Guilda,Rapier pałacu Gildii,Рапира дворца гильдии,길드팰리스사벨,公會宮殿配刀,سيف قصر النقابة ذو الحدين
-Royal Captain Rapier,long-sword,宮廷礼刀【将星】,"Sabre royal ""Capitaine""",Sciabola regale,Königlicher Kapitänsdegen,Estoque Capitán Real,Florete Capitão Real,Rapier kapitana,Рапира королевского капитана,궁정예도【장성】,宮廷禮刀【將星】,سيف مبارزة القائد الملكي
+Royal Captain Rapier,long-sword,宮廷礼刀【将星】,"Sabre royal ""Capitaine""",Sciabola regale,Königlicher Kapitänsdegen,Estoque Capitán Real,Sabre Capitão Real,Pałasz królew. kapitana,Сабля королевского капитана,궁정예도【장성】,宮廷禮刀【將星】,سيف القائد الملكي المنحي
 Defender Warhatchet I,sword-and-shield,防衛隊戦斧型撃剣Ⅰ,Hachette du Défenseur,Accetta del difensore I,Verteidiger-Kriegsbeil I,Destral de defensor I,Machadinha Defensora I,Woj. toporek Obrońcy I,Боевой топорик защитника 1,수비대 전부형 격검Ⅰ,防衛隊戰斧型擊劍Ⅰ,معول حرب المدافع I
 Defender Warhatchet II,sword-and-shield,防衛隊戦斧型撃剣Ⅱ,Hachette du Défenseur II,Accetta del difensore II,Verteidiger-Kriegsbeil II,Destral de defensor II,Machadinha Defensora II,Woj. toporek Obrońcy II,Боевой топорик защитника 2,수비대 전부형 격검Ⅱ,防衛隊戰斧型擊劍Ⅱ,معول حرب المدافع II
 Defender Warhatchet III,sword-and-shield,防衛隊戦斧型撃剣Ⅲ,Hachette du Défenseur III,Accetta del difensore III,Verteidiger-Kriegsbeil III,Destral de defensor III,Machadinha Defensora III,Woj. toporek Obrońcy III,Боевой топорик защитника 3,수비대 전부형 격검Ⅲ,防衛隊戰斧型擊劍Ⅲ,معول حرب المدافع III
@@ -372,7 +372,7 @@ Heat Edge,sword-and-shield,ヒートエッジ,Feu éternel,Taglio bollente,Hitze
 Corona,sword-and-shield,コロナ,Corona,Corona del re,Strahlenkranz,Corona,Cetro,Korona,Корона,코로나,日冕短劍,كورونا
 Corona+,sword-and-shield,コロナ改,Corona+,Corona+,Strahlenkranz+,Corona+,Cetro+,Korona+,Корона+,코로나+,日冕短劍．改,كورونا+
 Blue Corona,sword-and-shield,ブルーコロナ,Corona bleue,Corona blu,Blauer Strahlenkranz,Corona azul,Cetro Azul,Niebieska korona,Синяя корона,블루 코로나,蒼色日冕短劍,كورونا الأزرق
-Platinum Dawn,sword-and-shield,プラチナムドーン,Lame wyverne astrale,Lama wyvern scintillante,Platin-Dämmerung,Amanecer de platino,Alvorada Platinada,Platynowy Świt,Платиновый рассвет,플래티넘돈,白金黎明,الفجر البلاتيني
+Platinum Dawn,sword-and-shield,プラチナムドーン,Aube platine,Alba di platino,Platin-Dämmerung,Amanecer de platino,Alvorada Platinada,Platynowy Świt,Платиновый рассвет,플래티넘돈,白金黎明,الفجر البلاتيني
 Heavy Bang,sword-and-shield,ヘビィバング,Sabre lourd,Scoppio devastante I,Heftiger Schlag,Gran Explosión,Pancada Pesada,Ciężkie łup,Тяжелый удар,헤비뱅,重鐵劍,الضربة الشديدة
 Heavy Bang+,sword-and-shield,ヘビィバング改,Sabre lourd II,Scoppio devastante II,Heftiger Schlag+,Gran Explosión+,Pancada Pesada+,Ciężkie łup+,Тяжелый удар+,헤비뱅+,重鐵劍改,الضربة الشديدة +
 Master Bang,sword-and-shield,マスターバング,Sabre de maître,Scoppio supremo,Meisterknall,Explosión maestra,Pancada Mestre,Mistrzowskie łup,Мастерский удар,마스터뱅,至尊劍,الضربة المتفوقة
@@ -528,11 +528,11 @@ Witcher's Silver Sword+,sword-and-shield,ウィッチャーの銀の剣＋,Épé
 Witcher's Silver Sword++,sword-and-shield,ウィッチャーの銀の剣＋＋,Épée en argent de sorceleur ++,Spada d'argento da witcher++,Hexers Silberschwert++,Espada de plata de brujo++,Espada Prata de Bruxo++,Srebrny miecz wiedźmina++,Серебряный меч ведьмака++,위쳐의 은검++,狩魔獵人的銀劍＋＋,‮سيف ويتشر الفضي++
 Guild Palace Sword,sword-and-shield,ギルドパレスソード,Épée palazzo,Spada Palatium,Palast-Schwert,Espada palacio gremial,Espada Palácio da Guilda,Miecz pałacu Gildii,Меч дворца гильдии,길드팰리스소드,公會宮殿利劍,سيف قصر النقابة
 Royal Nova Sword,sword-and-shield,宮廷継剣【新星】,"Épée royale ""Nova""",Spada regale,Königliches Nova-Schwert,Espada Nova Real,Espada Nova Real,Królewski miecz Novy,Меч королевской новы,궁정계검【신성】,宮廷繼劍【新星】,سيف نوفا الملكي
-Defender Chainsaws I,dual-blades,防衛隊機械式双鋸Ⅰ,Tronçonneuses du Défenseur,Motoseghe del difensore I,Verteidiger-Sägen I,Sierras defensivas I,Serras Defensoras I,Pilarka Obrońcy I,Цепная пила защитника 1,수비대 기계식 쌍톱Ⅰ,防衛隊機械式雙鋸Ⅰ,مناشير المدافع I
-Defender Chainsaws II,dual-blades,防衛隊機械式双鋸Ⅱ,Tronçonneuses du Défenseur II,Motoseghe del difensore II,Verteidiger-Sägen II,Sierras defensivas II,Serras Defensoras II,Pilarka Obrońcy II,Цепная пила защитника 2,수비대 기계식 쌍톱Ⅱ,防衛隊機械式雙鋸Ⅱ,مناشير المدافع II
-Defender Chainsaws III,dual-blades,防衛隊機械式双鋸Ⅲ,Tronçonneuses du Défenseur III,Motoseghe del difensore III,Verteidiger-Sägen III,Sierras defensivas III,Serras Defensoras III,Pilarka Obrońcy III,Цепная пила защитника 3,수비대 기계식 쌍톱Ⅲ,防衛隊機械式雙鋸Ⅲ,مناشير المدافع III
-Defender Chainsaws IV,dual-blades,防衛隊機械式双鋸Ⅳ,Tronçonneuses du Défenseur IV,Motoseghe del difensore IV,Verteidiger-Sägen IV,Sierras defensivas IV,Serras Defensoras IV,Pilarka Obrońcy IV,Цепная пила защитника 4,수비대 기계식 쌍톱Ⅳ,防衛隊機械式雙鋸Ⅳ,مناشير المدافع IV
-Defender Chainsaws V,dual-blades,防衛隊機械式双鋸Ⅴ,Tronçonneuses du Défenseur V,Motoseghe del difensore V,Verteidiger-Sägen V,Sierras defensivas V,Serras Defensoras V,Pilarka Obrońcy V,Цепная пила защитника 5,수비대 기계식 쌍톱Ⅴ,防衛隊機械式雙鋸Ⅴ,مناشير المدافع V
+Defender Chainsaws I,dual-blades,防衛隊機械式双鋸Ⅰ,Tronçonneuses du Défenseur,Motoseghe del difensore I,Verteidiger-Sägen I,Sierras defensivas I,Adagas Defensoras I,Sztylety Obrońcy I,Кинжалы защитника 1,수비대 기계식 쌍톱Ⅰ,防衛隊機械式雙鋸Ⅰ,خناجر المدافع I
+Defender Chainsaws II,dual-blades,防衛隊機械式双鋸Ⅱ,Tronçonneuses du Défenseur II,Motoseghe del difensore II,Verteidiger-Sägen II,Sierras defensivas II,Adagas Defensoras II,Sztylety Obrońcy II,Кинжалы защитника 2,수비대 기계식 쌍톱Ⅱ,防衛隊機械式雙鋸Ⅱ,خناجر المدافع II
+Defender Chainsaws III,dual-blades,防衛隊機械式双鋸Ⅲ,Tronçonneuses du Défenseur III,Motoseghe del difensore III,Verteidiger-Sägen III,Sierras defensivas III,Adagas Defensoras III,Sztylety Obrońcy III,Кинжалы защитника 3,수비대 기계식 쌍톱Ⅲ,防衛隊機械式雙鋸Ⅲ,خناجر المدافع III
+Defender Chainsaws IV,dual-blades,防衛隊機械式双鋸Ⅳ,Tronçonneuses du Défenseur IV,Motoseghe del difensore IV,Verteidiger-Sägen IV,Sierras defensivas IV,Adagas Defensoras IV,Sztylety Obrońcy IV,Кинжалы защитника 4,수비대 기계식 쌍톱Ⅳ,防衛隊機械式雙鋸Ⅳ,خناجر المدافع IV
+Defender Chainsaws V,dual-blades,防衛隊機械式双鋸Ⅴ,Tronçonneuses du Défenseur V,Motoseghe del difensore V,Verteidiger-Sägen V,Sierras defensivas V,Adagas Defensoras V,Sztylety Obrońcy V,Кинжалы защитника 5,수비대 기계식 쌍톱Ⅴ,防衛隊機械式雙鋸Ⅴ,خناجر المدافع V
 Matched Slicers I,dual-blades,ツインダガーⅠ,Dagues jumelles,Forbici combinate I,Zwillingsdolche I,Rebanadoras Gemelas I,Fatiadores Pareados I,Dopasowane majchry I,Парные тесаки 1,트윈대거Ⅰ,雙刀Ⅰ,الشاطر الثنائي I
 Matched Slicers II,dual-blades,ツインダガーⅡ,Dagues jumelles II,Forbici combinate II,Zwillingsdolche II,Rebanadoras Gemelas II,Fatiadores Pareados II,Dopasowane majchry II,Парные тесаки 2,트윈대거Ⅱ,雙刀Ⅱ,الشاطر الثنائي II
 Matched Slicers III,dual-blades,ツインダガーⅢ,Dagues jumelles III,Forbici combinate III,Zwillingsdolche III,Rebanadoras Gemelas III,Fatiadores Pareados III,Dopasowane majchry III,Парные тесаки 3,트윈대거Ⅲ,雙刀Ⅲ,الشاطر الثنائي III
@@ -702,7 +702,7 @@ Downy Crake Love,dual-blades,フワフワの慈愛,Coup de foudre,Amore del moll
 Downy Paradise,dual-blades,フワフワ天国,Paradis blanc,Morbidezza celeste,Flausch-Paradies,Suave Paraíso,Paraíso Plumoso,Puchaty raj,Нежный рай,폭신폭신 천국,鬆軟天國,نعيم ناعم
 Zireael,dual-blades,ジルエアエル,Zireael,Zireael,Zireael,Zireael,Zireael,Zireael,Зираэль,지라엘,吉薇艾兒,زيرائيل
 Zireael+,dual-blades,ジルエアエル＋,Zireael +,Zireael+,Zireael+,Zireael+,Zireael+,Zireael+,Зираэль+,지라엘+,吉薇艾兒＋,زيرائيل+
-Guild Palace Sabers,dual-blades,ギルドパレスセ－バー,Sabres palazzo,Sciabole Palatium,Palast-Degen,Sables palacio gremial,Sabres Palácio da Guilda,Szable pałacu Gildii,Сабли дворца гильдии,길드팰리스세이버,公會宮殿軍刀,سيوف قصر النقابة
+Guild Palace Sabers,dual-blades,ギルドパレスセ－バー,Sabres palazzo,Sciabole Palatium,Palast-Degen,Sables palacio gremial,Sabre Palácio da Guilda,Szable pałacu Gildii,Сабли дворца гильдии,길드팰리스세이버,公會宮殿軍刀,سيف قصر النقابة المنحني
 Royal Savior Daggers,dual-blades,宮廷双騎【救星】,"Dagues royales ""Messiah""",Pugnali regali,Königliche Retterdolche,Sables Salvación Reales,Adagas Salvador Real,Sztylety król. zbawcy,Кинжалы спасителя короля,궁정쌍기【구성】,宮廷雙騎【救星】,خناجر المنقذ الملكي
 Defender Warhammer I,hammer,防衛隊鋼鉄製戦鎚Ⅰ,Marteau du Défenseur,Martello del difensore I,Verteidiger-Kriegshammer I,Martillo de defensor I,Martelo Guerra Defensor I,Wojenny młot Obrońcy I,Боевой молот защитника 1,수비대 강철제 전퇴Ⅰ,防衛隊鋼鐵製戰鎚Ⅰ,مطرقة حرب المدافع I
 Defender Warhammer II,hammer,防衛隊鋼鉄製戦鎚Ⅱ,Marteau du Défenseur II,Martello del difensore II,Verteidiger-Kriegshammer II,Martillo de defensor II,Martelo Guerra Defensor II,Wojenny młot Obrońcy II,Боевой молот защитника 2,수비대 강철제 전퇴Ⅱ,防衛隊鋼鐵製戰鎚Ⅱ,مطرقة حرب المدافع II
@@ -1102,8 +1102,8 @@ Lightning Spire II,lance,ライトニングパイルⅡ,Électro-tambour II,Gugl
 Lightning Spire III,lance,ライトニングパイルⅢ,Électro-tambour III,Guglia lampante III,Blitz-Nadel III,Aguja Relámpago III,Agulha Fulgural III,Iglica błyskawic III,Блеск молнии 3,라이트닝파일Ⅲ,雷光長槍Ⅲ,قمة الصاعق المدببة III
 Lightning Bolt I,lance,ライトニングボルトⅠ,Lance de foudre,Implacabile saetta I,Blitzstrahl I,Relámpago I,Corisco I,Błyskawica I,Разряд молнии 1,라이트닝볼트Ⅰ,轟雷長槍Ⅰ,صاعقة البرق I
 Lightning Bolt II,lance,ライトニングボルトⅡ,Lance de foudre II,Saetta lampante II,Blitzstrahl II,Relámpago II,Corisco II,Błyskawica II,Разряд молнии 2,라이트닝볼트Ⅱ,轟雷長槍Ⅱ,صاعقة البرق II
-Thunderpierce I,lance,迅雷の疾槍Ⅰ,Perce-tonnerre I,Perforatuoni I,Donnerstachel I,Rayo perforador I,Penetrovão I,Gromosztych I,Касание грома 1,우렛소리의 질창Ⅰ,迅雷疾槍Ⅰ,رمح رعدي I
-Thunderpierce II,lance,迅雷の疾槍Ⅱ,Perce-tonnerre II,Perforatuoni II,Donnerstachel II,Rayo perforador II,Penetrovão II,Gromosztych II,Касание грома 2,우렛소리의 질창Ⅱ,迅雷疾槍Ⅱ,رمح رعدي II
+Thunderpierce I,lance,迅雷の疾槍Ⅰ,Orage fulgurant,Tuono rombante I,Donnerstachel I,Rayo perforador I,Penetrovão I,Gromosztych I,Касание грома 1,우렛소리의 질창Ⅰ,迅雷疾槍Ⅰ,رمح رعدي I
+Thunderpierce II,lance,迅雷の疾槍Ⅱ,Orage fulgurant II,Tuono rombante II,Donnerstachel II,Rayo perforador II,Penetrovão II,Gromosztych II,Касание грома 2,우렛소리의 질창Ⅱ,迅雷疾槍Ⅱ,رمح رعدي II
 Blooming Lance I,lance,ブルームランスⅠ,Lance du tourment,Lancia piumata I,Blühende Lanze I,Lanza Floral I,Lança Pujante I,Kwitnąca lanca I,Пестрое копье 1,블룸랜스Ⅰ,花朵長槍Ⅰ,رمح المزدهر I
 Blooming Lance II,lance,ブルームランスⅡ,Lance du tourment II,Lancia piumata II,Blühende Lanze II,Lanza Floral II,Lança Pujante II,Kwitnąca lanca II,Пестрое копье 2,블룸랜스Ⅱ,花朵長槍Ⅱ,رمح المزدهر II
 Blooming Lance III,lance,ブルームランスⅢ,Lance du tourment III,Lancia piumata III,Blühende Lanze III,Lanza Floral III,Lança Pujante III,Kwitnąca lanca III,Пестрое копье 3,블룸랜스Ⅲ,花朵長槍Ⅲ,رمح المزدهر III
@@ -1455,7 +1455,7 @@ Rathalos Axe II,switch-axe,火竜の剣斧Ⅱ,Hache Rathalos II,Ascia Rathalos I
 Rathbringer Axe I,switch-axe,火竜斧レウスギアⅠ,Incarnation du Rathalos,Ascia furiosa I,Rathbringer-Axt I,Rathbringer I,Machado Rathaliano I,Topór Pi'Ratha I,Топор бури 1,화룡부레우스기어Ⅰ,火龍斧飛龍牙Ⅰ,فأس راثبرينغر I
 Rathbringer Axe II,switch-axe,火竜斧レウスギアⅡ,Incarnation du Rathalos II,Ascia furiosa II,Rathbringer-Axt II,Rathbringer II,Machado Rathaliano II,Topór Pi'Ratha II,Топор бури 2,화룡부레우스기어Ⅱ,火龍斧飛龍牙Ⅱ,فأس راثبرينغر II
 Rathbringer Axe III,switch-axe,火竜斧レウスギアⅢ,Incarnation du Rathalos III,Ascia furiosa III,Rathbringer-Axt III,Rathbringer III,Machado Rathaliano III,Topór Pi'Ratha III,Топор бури 3,화룡부 레우스기어Ⅲ,火龍斧飛龍牙Ⅲ,فأس راثبرينغر III
-Azure Rathbringer,switch-axe,蒼炎斧ブルーギア,Porte-rage azur,Rathaclisma azzurro,Azur-Rathbringer,Portador Rath Celeste,Rathaliano Lazúli,Lazurowy zwiastun Ratha,Лазурная буря,창염부 블루기어,青牙蒼炎斧,راثبرينغر اللازوردي
+Azure Rathbringer,switch-axe,蒼炎斧ブルーギア,Porte-rage azur,Rathaclisma azzurro,Azur-Rathbringer,Portador Rath Celeste,Rathaliano Lazúli,Lazurowy zwiastun Ratha,Лазурная буря,창염부 블루기어,藍牙蒼炎斧,راثبرينغر اللازوردي
 Silver Rathbringer,switch-axe,煌竜斧シルバーギア,Porte-rage d'argent,Rathaclisma argentato,Silber-Rathbringer,Portador Rath Plateado,Rathaliano Prateado,Srebrny zwiastun Ratha,Серебряная буря,폭룡부 실버기어,銀牙煌龍斧,راثبرينغر الفضي
 Dragonmaiden Axe,switch-axe,竜姫の剣斧,Princesse dragon,Ascia di ladydrago,Drachenmagdaxt,Hacha dracodoncella,Machado Draguerreira,Topór smoczej panny,Топор воительницы,용희의 검부,龍姬的劍斧,فأس عذراء التنين
 Dragonmaiden Axe+,switch-axe,竜姫の剣斧改,Princesse dragon +,Ascia di ladydrago+,Drachenmagdaxt+,Hacha dracodoncella+,Machado Draguerreira+,Topór smoczej panny+,Топор воительницы+,용희의 검부+,龍姬的劍斧‧改,فأس عذراء التنين+

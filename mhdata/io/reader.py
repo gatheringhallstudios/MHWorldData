@@ -132,6 +132,8 @@ class DataReader:
                 merge_list(basemap, translations, groups=groups, many=False)
             except FileNotFoundError:
                 print(f"Warning: Could not find translation file {translation_filename}")
+            except Exception as ex:
+                raise Exception(f"Unknown error while reading file {data_file}") from ex
 
         if languages:
             self._validate_base_map(data_file, basemap, languages, error=validate)
