@@ -45,11 +45,11 @@ Power Prolonger,LightBeige,
 Handicraft,White,
 Critical Draw,DarkBlue,
 Partbreaker,Gray,
-Slugger,Gold,
-Stamina Thief,Cyan,
+Slugger,Gold,2
+Stamina Thief,Cyan,2
 Master Mounter,Blue,
 Airborne,Blue,
-Latent Power,Red,
+Latent Power,Red,2
 Agitator,Red,2
 Peak Performance,Red,
 Heroics,Red,
@@ -59,7 +59,7 @@ Resuscitate,Cyan,
 Horn Maestro,White,
 Capacity Boost,Gray,
 Special Ammo Boost,Gray,
-Artillery,Gray,
+Artillery,Gray,2
 Heavy Artillery,Gray,
 Marathon Runner,Beige,
 Constitution,Beige,
@@ -82,12 +82,12 @@ Pro Transporter,LightBeige,
 Master Gatherer,Lime,
 Honey Hunter,Beige,
 Carving Pro,Gray,
-Divine Blessing,Blue,
+Divine Blessing,Blue,2
 Palico Rally,LightBeige,
 Botanist,Lime,
 Geologist,LightBeige,
 Maximum Might,Red,2
-Slinger Capacity,Lime,
+Slinger Capacity,Lime,2
 Stealth,Gray,
 Flinch Free,Gray,
 Scoutfly Range Up,Lime,
@@ -103,7 +103,7 @@ Effluvia Resistance,DarkBeige,
 Scenthound,Beige,
 Forager's Luck,White,
 Detector,White,
-Tool Specialist,LightBeige,
+Tool Specialist,LightBeige,2
 Affinity Sliding,Red,
 Intimidator,White,
 Hasten Recovery,,
