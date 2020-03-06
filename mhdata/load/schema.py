@@ -156,6 +156,19 @@ class WeaponRecipeSchema(BaseSchema):
     item4_name = fields.Str(allow_none=True)
     item4_qty = fields.Int(allow_none=True)
 
+
+class CharmRecipeSchema(BaseSchema):
+    base_name_en = fields.Str()
+    type = ValidatedStr("Create", "Upgrade")
+    item1_name = fields.Str(allow_none=True)
+    item1_qty = fields.Int(allow_none=True)
+    item2_name = fields.Str(allow_none=True)
+    item2_qty = fields.Int(allow_none=True)
+    item3_name = fields.Str(allow_none=True)
+    item3_qty = fields.Int(allow_none=True)
+    item4_name = fields.Str(allow_none=True)
+    item4_qty = fields.Int(allow_none=True)
+
 class ArmorSetSchema(BaseSchema):
     __groups__ = ('name',)
     name = fields.Dict()
@@ -228,10 +241,18 @@ class CharmBaseSchema(BaseSchema):
     name = fields.Dict()
     previous_en = fields.Str(allow_none=True)
     rarity = fields.Int(allow_none=True)
+    skill1_name = fields.Str()
+    skill1_level = fields.Int()
+    skill2_name = fields.Str(allow_none=True)
+    skill2_level = fields.Int(allow_none=True)
+    
+    @validates_schema
+    def validate_skill2(self, data):
+        if bool(data.get('skill2_level')) != bool(data.get('skill2_name')):
+            raise ValidationError(f"Skill2 points and name must both be null or not null")
 
 class CharmSchema(CharmBaseSchema):
-    skills = fields.Dict()
-    craft = fields.Dict()
+    craft = fields.Nested('WeaponRecipeSchema', many=True, default={})
 
 class WeaponBaseSchema(BaseSchema):
     # note: combination fields are validated in validate.py

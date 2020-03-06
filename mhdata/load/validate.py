@@ -17,6 +17,7 @@ def validate(mhdata):
     errors.extend(validate_skills(mhdata))
     errors.extend(validate_armor(mhdata))
     errors.extend(validate_weapons(mhdata))
+    errors.extend(validate_decorations(mhdata))
     errors.extend(validate_charms(mhdata))
     errors.extend(validate_quests(mhdata))
 
@@ -231,7 +232,7 @@ def validate_armor(mhdata):
                 errors.append(f"Item {item_name} in armors does not exist")
 
         # Ensure skills exist
-        for skill_name, _ in datafn.iter_skill_points(armor_entry):
+        for skill_name, _ in datafn.iter_skill_levels(armor_entry['skills']):
             if skill_name not in mhdata.skill_map.names('en'):
                 errors.append(f"Skill {skill_name} in armors does not exist")
 
@@ -304,6 +305,17 @@ def validate_weapons(mhdata):
 
     return errors
 
+def validate_decorations(mhdata):
+    errors = []
+
+    for entry in mhdata.decoration_map.values():
+        # Ensure skills exist
+        for skill_name, _ in datafn.iter_skill_levels(entry, amount=2):
+            if skill_name not in mhdata.skill_map.names('en'):
+                errors.append(f"Skill {skill_name} in decorations does not exist")
+
+    return errors
+
 def validate_charms(mhdata):
     errors = []
 
@@ -312,6 +324,16 @@ def validate_charms(mhdata):
         previous_entry = entry['previous_en']
         if previous_entry is not None and previous_entry not in names:
             errors.append(f"Charm {previous_entry} for previous_en does not exist")
+
+        # Ensure skills exist
+        for skill_name, _ in datafn.iter_skill_levels(entry, amount=2):
+            if skill_name not in mhdata.skill_map.names('en'):
+                errors.append(f"Skill {skill_name} in charms does not exist")
+
+        # Currently charms only link to a single recipe, but the schema supports more than one
+        if len(entry['craft']) > 1:
+            errors.append(f"Charm {entry['name_en']} has more than one recipe, which is not supported")
+
 
     return errors
 

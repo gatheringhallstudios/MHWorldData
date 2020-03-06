@@ -16,16 +16,21 @@ def iter_setbonus_skills(setbonus):
         yield (name, required)
 
 
-def iter_skill_points(obj):
-    "Iterates over armor/weapon skill points, returning (name, lvl) tuples"
-    for idx in range(1, cfg.max_skill_count + 1):
-        name = obj['skills'][f'skill{idx}_name']
-        points = obj['skills'][f'skill{idx}_pts']
+def iter_skill_levels(obj, *, amount=cfg.max_skill_count, pad=False):
+    "Iterates overskill levels, returning (name, lvl) tuples"
+    complete = False
+    for idx in range(1, amount + 1):
+        name = obj[f'skill{idx}_name']
+        points = obj[f'skill{idx}_level']
 
         if not name:
-            break
+            complete = True
+            if not pad: break
 
-        yield (name, points)
+        if complete:
+            yield (None, None)
+        else:
+            yield (name, points)
 
 def iter_armorset_pieces(armorset):
     "Iterates over the armor pieces of a set, returning (part, name) tuples"

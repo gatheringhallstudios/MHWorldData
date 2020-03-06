@@ -1,0 +1,235 @@
+base_name_en,type,item1_name,item1_qty,item2_name,item2_qty,item3_name,item3_qty,item4_name,item4_qty
+Poison Charm I,Create,Pukei-Pukei Sac,1,Pukei-Pukei Tail,2,Earth Crystal,4,Aquacore Ore,1
+Poison Charm II,Upgrade,Pukei-Pukei Sac+,2,Pukei-Pukei Wing,2,Dragonvein Crystal,3,Spiritcore Ore,1
+Poison Charm III,Upgrade,Rathalos Ruby,1,Rathalos Wing,2,Firecell Stone,1,Dreamcore Ore,1
+Attack Charm I,Create,Sturdy Bone,4,Boulder Bone,4,Lightcrystal,1,Aquacore Ore,1
+Attack Charm II,Upgrade,Quality Bone,3,Dragonbone Relic,1,Novacrystal,1,Spiritcore Ore,1
+Attack Charm III,Upgrade,Elder Dragon Bone,2,High Commendation,1,Brutal Bone,2,Dreamcore Ore,1
+Defense Charm I,Create,Dragonite Ore,4,Machalite Ore,4,Lightcrystal,1,Aquacore Ore,1
+Defense Charm II,Upgrade,Carbalite Ore,6,Dragonite Ore,8,Novacrystal,1,Spiritcore Ore,1
+Defense Charm III,Upgrade,Fucium Ore,6,Carbalite Ore,8,Firecell Stone,1,Dreamcore Ore,1
+Paralysis Charm I,Create,Great Girros Hood,1,Great Girros Fang,2,Warped Bone,6,Aquacore Ore,1
+Paralysis Charm II,Upgrade,Great Girros Hood+,2,Omniplegia Sac,4,Dragonvein Crystal,3,Spiritcore Ore,1
+Paralysis Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore Ore,1
+Sleep Charm I,Create,Radobaan Marrow,1,Radobaan Oilshell,2,Coral Crystal,3,Aquacore Ore,1
+Sleep Charm II,Upgrade,Radobaan Medulla,1,Radobaan Oilshell,3,Dragonvein Crystal,3,Spiritcore Ore,1
+Sleep Charm III,Upgrade,Uragaan Ruby,1,Uragaan Jaw,2,Firecell Stone,1,Dreamcore Ore,1
+Stun Charm I,Create,Tzitzi-Ya-Ku Photophore,1,Tzitzi-Ya-Ku Claw,2,Coral Crystal,4,Aquacore Ore,1
+Stun Charm II,Upgrade,Tzitzi-Ya-Ku Photophore+,2,Tzitzi-Ya-Ku Claw+,2,Novacrystal,1,Spiritcore Ore,1
+Stun Charm III,Upgrade,Black Spiral Horn+,3,Black Diablos Ridge+,2,Brutal Bone,2,Dreamcore Ore,1
+Windproof Charm I,Create,Paolumu Webbing,3,Paolumu Shell,5,Coral Crystal,3,Aquacore Ore,1
+Windproof Charm II,Upgrade,Paolumu Wing,3,Wyvern Gem,2,Dragonvein Crystal,1,Spiritcore Ore,1
+Windproof Charm III,Upgrade,Azure Rathalos Wing,3,Rathalos Ruby,1,Novacrystal,1,Dreamcore Ore,1
+Health Charm I,Create,Rathian Plate,1,Rathian Webbing,3,Earth Crystal,3,Aquacore Ore,1
+Health Charm II,Upgrade,Rathian Ruby,1,Rathian Spike,2,Dragonvein Crystal,3,Spiritcore Ore,1
+Health Charm III,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Brutal Bone,2,Dreamcore Ore,1
+Recovery Charm I,Create,Rathian Plate,1,Rathian Spike,2,Earth Crystal,3,Aquacore Ore,1
+Recovery Charm II,Upgrade,Pink Rathian Carapace,2,Rathian Spike+,1,Novacrystal,1,Spiritcore Ore,1
+Recovery Charm III,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Brutal Bone,2,Dreamcore Ore,1
+Fire Charm I,Create,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Aquacore Ore,1
+Fire Charm II,Upgrade,Anjanath Gem,1,Anjanath Fang+,2,Earth Crystal,4,Spiritcore Ore,1
+Fire Charm III,Upgrade,High Commendation,1,Rathalos Ruby,1,Inferno Sac,3,Dreamcore Ore,1
+Water Charm I,Create,Jyuratodus Fin,3,Jyuratodus Fang,3,Earth Crystal,6,Aquacore Ore,1
+Water Charm II,Upgrade,Jyuratodus Fin+,3,Jyuratodus Fang+,2,Coral Crystal,4,Spiritcore Ore,1
+Water Charm III,Upgrade,High Commendation,1,Wyvern Gem,1,Torrent Sac,3,Dreamcore Ore,1
+Thunder Charm I,Create,Tobi-Kadachi Electrode,1,Tobi-Kadachi Claw,2,Ancient Bone,6,Aquacore Ore,1
+Thunder Charm II,Upgrade,Tobi-Kadachi Electrode+,1,Tobi-Kadachi Claw+,2,Earth Crystal,4,Spiritcore Ore,1
+Thunder Charm III,Upgrade,High Commendation,1,Wyvern Gem,1,Thunder Sac,3,Dreamcore Ore,1
+Blaze Charm I,Create,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Aquacore Ore,1
+Blaze Charm II,Upgrade,Lavasioth Fin+,3,Lavasioth Fang+,2,Earth Crystal,6,Spiritcore Ore,1
+Blaze Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Inferno Sac,3,Dreamcore Ore,1
+Flood Charm I,Create,Jyuratodus Fin,2,Jyuratodus Fang,2,Earth Crystal,3,Aquacore Ore,1
+Flood Charm II,Upgrade,Jyuratodus Fin+,3,Jyuratodus Fang+,2,Coral Crystal,6,Spiritcore Ore,1
+Flood Charm III,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Torrent Sac,3,Dreamcore Ore,1
+Shock Charm I,Create,Tobi-Kadachi Electrode,2,Tobi-Kadachi Claw,2,Ancient Bone,4,Aquacore Ore,1
+Shock Charm II,Upgrade,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,2,Earth Crystal,6,Spiritcore Ore,1
+Shock Charm III,Upgrade,Kirin Azure Horn,1,Kirin Thundertail,2,Thunder Sac,3,Dreamcore Ore,1
+Venom Charm I,Create,Rathian Plate,1,Rathian Spike,1,Earth Crystal,3,Aquacore Ore,1
+Venom Charm II,Upgrade,Pink Rathian Carapace,2,Rathian Spike+,1,Carbalite Ore,4,Spiritcore Ore,1
+Venom Charm III,Upgrade,High Commendation,1,Rathian Ruby,1,Toxin Sac,3,Dreamcore Ore,1
+Immobilize Charm I,Create,Great Girros Hood,2,Great Girros Fang,2,Warped Bone,4,Aquacore Ore,1
+Immobilize Charm II,Upgrade,Great Girros Hood+,1,Great Girros Fang+,2,Carbalite Ore,4,Spiritcore Ore,1
+Immobilize Charm III,Upgrade,High Commendation,1,Wyvern Gem,1,Omniplegia Sac,3,Dreamcore Ore,1
+Tranq Charm I,Create,Radobaan Marrow,1,Radobaan Oilshell,2,Coral Crystal,3,Aquacore Ore,1
+Tranq Charm II,Upgrade,Radobaan Medulla,1,Radobaan Oilshell,3,Carbalite Ore,4,Spiritcore Ore,1
+Tranq Charm III,Upgrade,High Commendation,1,Vaal Hazak Gem,1,Coma Sac,3,Dreamcore Ore,1
+KO Charm I,Create,Radobaan Marrow,1,Radobaan Oilshell,2,Coral Crystal,3,Aquacore Ore,1
+KO Charm II,Upgrade,Radobaan Medulla,1,Radobaan Oilshell,3,Warped Bone,6,Spiritcore Ore,1
+KO Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore Ore,1
+Enervate Charm I,Create,Barroth Scalp,2,Barroth Claw,2,Earth Crystal,3,Aquacore Ore,1
+Enervate Charm II,Upgrade,Barroth Scalp,3,Barroth Claw+,2,Warped Bone,6,Spiritcore Ore,1
+Enervate Charm III,Upgrade,Blos Medulla,1,Diablos Fang,3,Brutal Bone,2,Dreamcore Ore,1
+Artillery Charm I,Create,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Aquacore Ore,1
+Artillery Charm II,Upgrade,Anjanath Gem,1,Anjanath Fang+,2,Novacrystal,1,Spiritcore Ore,1
+Artillery Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore Ore,1
+Hungerless Charm I,Create,Girros Fang,2,Girros Hide,4,Coral Crystal,3,Aquacore Ore,1
+Hungerless Charm II,Upgrade,Jagras Hide+,6,Jagras Scale+,8,Lightcrystal,1,Spiritcore Ore,1
+Hungerless Charm III,Upgrade,Wyvern Gem,1,Fucium Ore,5,Dragonbone Relic,1,Dreamcore Ore,1
+Ironside Charm I,Create,Radobaan Marrow,1,Radobaan Oilshell,2,Coral Crystal,3,Aquacore Ore,1
+Ironside Charm II,Upgrade,Radobaan Medulla,1,Radobaan Oilshell,3,Novacrystal,1,Spiritcore Ore,1
+Ironside Charm III,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Firecell Stone,1,Dreamcore Ore,1
+Friendship Charm I,Create,Tzitzi-Ya-Ku Photophore,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal,4,Aquacore Ore,1
+Friendship Charm II,Upgrade,Tzitzi-Ya-Ku Photophore+,1,Tzitzi-Ya-Ku Claw+,2,Novacrystal,1,Spiritcore Ore,1
+Friendship Charm III,Upgrade,Elder Dragon Blood,1,High Commendation,1,Brutal Bone,2,Dreamcore Ore,1
+Extension Charm I,Create,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,2,Ancient Bone,4,Aquacore Ore,1
+Extension Charm II,Upgrade,Pink Rathian Carapace,2,Rathian Spike+,1,Novacrystal,1,Spiritcore Ore,1
+Extension Charm III,Upgrade,High Commendation,1,Daora Tail,1,Firecell Stone,1,Dreamcore Ore,1
+Glutton's Charm I,Create,Great Jagras Mane,2,Great Jagras Claw,2,Ancient Bone,4,Aquacore Ore,1
+Glutton's Charm II,Upgrade,Anjanath Gem,1,Anjanath Fang+,2,Novacrystal,1,Spiritcore Ore,1
+Glutton's Charm III,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Quality Bone,2,Dreamcore Ore,1
+Blessing Charm I,Create,Paolumu Webbing,2,Paolumu Pelt,3,Coral Bone,4,Aquacore Ore,1
+Blessing Charm II,Upgrade,Paolumu Wing,2,Paolumu Pelt+,4,Sturdy Bone,6,Spiritcore Ore,1
+Blessing Charm III,Upgrade,High Commendation,1,Dragonbone Relic,1,Brutal Bone,2,Dreamcore Ore,1
+Rally Charm I,Create,Tailraider Voucher,1,Sinister Cloth,1,Lightcrystal,1,Aquacore Ore,1
+Rally Charm II,Upgrade,Tailraider Voucher,2,Lightcrystal,2,Sturdy Bone,6,Spiritcore Ore,1
+Rally Charm III,Upgrade,Tailraider Voucher,3,High Commendation,2,Quality Bone,2,Dreamcore Ore,1
+Botany Charm I,Create,Ancient Bone,3,Boulder Bone,3,Lightcrystal,1,Aquacore Ore,1
+Botany Charm II,Upgrade,Quality Bone,3,Dragonbone Relic,1,Earth Crystal,6,Spiritcore Ore,1
+Botany Charm III,Upgrade,High Commendation,1,Novacrystal,1,Quality Bone,2,Dreamcore Ore,1
+Geology Charm I,Create,Dragonite Ore,4,Machalite Ore,4,Lightcrystal,1,Aquacore Ore,1
+Geology Charm II,Upgrade,Carbalite Ore,6,Dragonite Ore,8,Lightcrystal,2,Spiritcore Ore,1
+Geology Charm III,Upgrade,High Commendation,1,Novacrystal,1,Firecell Stone,1,Dreamcore Ore,1
+Slinger Charm I,Create,Radobaan Marrow,1,Radobaan Oilshell,2,Coral Crystal,3,Aquacore Ore,1
+Slinger Charm II,Upgrade,Radobaan Medulla,1,Radobaan Oilshell,3,Dragonbone Relic,1,Spiritcore Ore,1
+Slinger Charm III,Upgrade,High Commendation,1,Bird Wyvern Gem,1,Firecell Stone,1,Dreamcore Ore,1
+Stealth Charm I,Create,Great Jagras Mane,2,Great Jagras Claw,2,Lightcrystal,1,Aquacore Ore,1
+Stealth Charm II,Upgrade,Lavasioth Fin+,3,Lavasioth Fang+,2,Dragonbone Relic,3,Spiritcore Ore,1
+Stealth Charm III,Upgrade,High Commendation,1,Bird Wyvern Gem,1,Quality Bone,2,Dreamcore Ore,1
+Smoke Charm I,Create,Pukei-Pukei Sac,2,Pukei-Pukei Tail,2,Earth Crystal,2,Aquacore Ore,1
+Smoke Charm II,Upgrade,Wyvern Gem,1,Commendation,5,Earth Crystal,6,Spiritcore Ore,1
+Smoke Charm III,Upgrade,High Commendation,1,Bird Wyvern Gem,1,Firecell Stone,1,Dreamcore Ore,1
+Mirewalker Charm I,Create,Jyuratodus Fin,2,Jyuratodus Fang,2,Earth Crystal,4,Aquacore Ore,1
+Mirewalker Charm II,Upgrade,Jyuratodus Fin+,3,Jyuratodus Fang+,2,Coral Crystal,6,Spiritcore Ore,1
+Mirewalker Charm III,Upgrade,Wyvern Gem,1,Commendation,5,Coral Bone,6,Dreamcore Ore,1
+Insect Charm I,Create,Vespoid Wing,2,Vespoid Shell,2,Ancient Bone,4,Aquacore Ore,1
+Insect Charm II,Upgrade,Vespoid Innerwing,4,Vespoid Carapace,6,Lightcrystal,2,Spiritcore Ore,1
+Insect Charm III,Upgrade,Wyvern Gem,1,Commendation,5,Quality Bone,2,Dreamcore Ore,1
+Intimidator Charm I,Create,Great Girros Hood,2,Great Girros Fang,2,Warped Bone,4,Aquacore Ore,1
+Intimidator Charm II,Upgrade,Great Jagras Mane,3,Great Jagras Claw+,2,Boulder Bone,6,Spiritcore Ore,1
+Intimidator Charm III,Upgrade,Rathalos Ruby,1,Rathalos Wing,2,Warped Bone,4,Dreamcore Ore,1
+Heavy Artillery Charm I,Create,Dragonite Ore,4,Tzitzi-Ya-Ku Claw,3,Lightcrystal,1,Aquacore Ore,1
+Heavy Artillery Charm II,Upgrade,Zorah Magdaros Magma,3,Zorah Magdaros Pleura,1,Dragonvein Crystal,3,Aquacore Ore,1
+Light Eater's Charm,Create,Hornetaur Head,4,Hornetaur Wing,6,Great Girros Fang,3,Aquacore Ore,1
+Tracker Charm,Create,Anjanath Nosebone,1,Anjanath Pelt,5,Barroth Scalp,2,Aquacore Ore,1
+Fortification Charm,Create,Sinister Cloth,3,Anjanath Fang,3,Warped Bone,5,Aquacore Ore,1
+Performer's Charm,Create,Great Girros Hood,3,Pukei-Pukei Sac,5,Sturdy Bone,5,Aquacore Ore,1
+Capacity Charm,Create,Dragonite Ore,8,Rath Wingtalon,3,Lightcrystal,2,Aquacore Ore,1
+Bleed Charm I,Create,Odogaron Plate,1,Odogaron Fang,2,Warped Bone,4,Aquacore Ore,1
+Bleed Charm II,Upgrade,Odogaron Gem,1,Odogaron Claw+,2,Novacrystal,1,Spiritcore Ore,1
+Bleed Charm III,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Brutal Bone,2,Dreamcore Ore,1
+Speed Heal Charm I,Create,Commendation,1,Sturdy Bone,3,Lightcrystal,1,Aquacore Ore,1
+Speed Heal Charm II,Upgrade,Lavasioth Fin+,3,Lavasioth Fang+,2,Novacrystal,1,Spiritcore Ore,1
+Speed Heal Charm III,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Wing,2,Brutal Bone,2,Dreamcore Ore,1
+Ice Charm I,Create,Legiana Plate,1,Legiana Claw,2,Coral Crystal,3,Aquacore Ore,1
+Ice Charm II,Upgrade,Wyvern Gem,1,Legiana Claw+,2,Coral Crystal,4,Spiritcore Ore,1
+Ice Charm III,Upgrade,High Commendation,1,Legiana Gem,1,Freezer Sac,3,Dreamcore Ore,1
+Blight Charm I,Create,Kirin Thunderhorn,1,Kirin Mane,2,Coral Bone,3,Aquacore Ore,1
+Blight Charm II,Upgrade,Kirin Azure Horn,1,Kirin Thundertail,2,Novacrystal,1,Dreamcore Ore,1
+Blight Charm III,Upgrade,Daora Gem,1,Xeno'jiiva Tail,2,Brutal Bone,2,Dragoncore Ore,1
+Frost Charm I,Create,Legiana Plate,1,Legiana Claw,2,Coral Crystal,3,Aquacore Ore,1
+Frost Charm II,Upgrade,Legiana Gem,1,Legiana Claw+,2,Coral Crystal,6,Spiritcore Ore,1
+Frost Charm III,Upgrade,Daora Gem,1,Daora Tail,1,Freezer Sac,3,Dreamcore Ore,1
+Master's Charm I,Create,Odogaron Plate,1,Odogaron Fang,2,Warped Bone,3,Aquacore Ore,1
+Master's Charm II,Upgrade,Odogaron Gem,1,Odogaron Claw+,2,Quality Bone,3,Spiritcore Ore,1
+Master's Charm III,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Brutal Bone,2,Dreamcore Ore,1
+Evasion Charm I,Create,Legiana Tail Webbing,2,Legiana Claw,2,Coral Crystal,3,Aquacore Ore,1
+Evasion Charm II,Upgrade,Legiana Gem,1,Legiana Claw+,2,Fucium Ore,1,Spiritcore Ore,1
+Evasion Charm III,Upgrade,Daora Gem,1,Daora Tail,1,Brutal Bone,2,Dreamcore Ore,1
+Sheath Charm I,Create,Diablos Marrow,1,Diablos Fang,2,Earth Crystal,3,Aquacore Ore,1
+Sheath Charm II,Upgrade,Lavasioth Fin+,1,Lavasioth Fang+,2,Novacrystal,1,Spiritcore Ore,1
+Sheath Charm III,Upgrade,Bazelgeuse Gem,1,Xeno'jiiva Horn,1,Firecell Stone,1,Dreamcore Ore,1
+Whetstone Charm I,Create,Odogaron Plate,1,Odogaron Fang,2,Warped Bone,3,Aquacore Ore,1
+Whetstone Charm II,Upgrade,Odogaron Gem,1,Odogaron Claw+,2,Novacrystal,1,Spiritcore Ore,1
+Whetstone Charm III,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Firecell Stone,1,Dreamcore Ore,1
+Blast Charm I,Create,Dodogama Jaw,1,Dodogama Talon,2,Firecell Stone,1,Spiritcore Ore,1
+Blast Charm II,Upgrade,Bazelgeuse Gem,1,Bazelgeuse Talon,2,Novacrystal,1,Spiritcore Ore,1
+Blast Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore Ore,1
+Dragon Charm I,Create,Dragonbone Relic,1,Quality Bone,3,Dragonvein Crystal,3,Spiritcore Ore,1
+Dragon Charm II,Upgrade,Uragaan Ruby,1,Uragaan Jaw,1,Dragonvein Crystal,1,Spiritcore Ore,1
+Dragon Charm III,Upgrade,Elder Dragon Blood,1,Vaal Hazak Gem,1,Dragonbone Relic,3,Dreamcore Ore,1
+Wyrmsbane Charm I,Create,Dragonbone Relic,1,Quality Bone,3,Dragonvein Crystal,2,Spiritcore Ore,1
+Wyrmsbane Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Dragonvein Crystal,4,Dreamcore Ore,1
+Wyrmsbane Charm III,Upgrade,Xeno'jiiva Gem,1,Xeno'jiiva Claw,2,Dragonbone Relic,3,Dreamcore Ore,1
+Demolition Charm I,Create,Dodogama Jaw,2,Dodogama Talon,2,Firecell Stone,1,Spiritcore Ore,1
+Demolition Charm II,Upgrade,Bazelgeuse Gem,1,Bazelgeuse Talon,2,Carbalite Ore,4,Dreamcore Ore,1
+Demolition Charm III,Upgrade,Teostra Gem,1,Xeno'jiiva Shell,3,Firecell Stone,1,Dreamcore Ore,1
+Draw Charm I,Create,Diablos Marrow,1,Diablos Fang,3,Earth Crystal,3,Spiritcore Ore,1
+Draw Charm II,Upgrade,Teostra Gem,1,Teostra Horn+,2,Fucium Ore,1,Dreamcore Ore,1
+Special Shot Charm I,Create,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Spiritcore Ore,1
+Special Shot Charm II,Upgrade,Bazelgeuse Gem,1,Xeno'jiiva Wing,2,Novacrystal,1,Dreamcore Ore,1
+Marathon Charm I,Create,Barroth Scalp,2,Barroth Claw+,2,Dragonvein Crystal,3,Spiritcore Ore,1
+Marathon Charm II,Upgrade,Xeno'jiiva Gem,1,Xeno'jiiva Veil,2,Fucium Ore,1,Dreamcore Ore,1
+Fitness Charm I,Create,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,2,Dragonvein Crystal,3,Spiritcore Ore,1
+Fitness Charm II,Upgrade,Odogaron Gem,1,Odogaron Claw+,2,Fucium Ore,1,Dreamcore Ore,1
+Fitness Charm III,Upgrade,Daora Gem,1,Daora Claw+,1,Coral Crystal,3,Dreamcore Ore,1
+Surge Charm I,Create,Paolumu Wing,2,Paolumu Pelt+,3,Dragonbone Relic,3,Spiritcore Ore,1
+Surge Charm II,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Fucium Ore,1,Dreamcore Ore,1
+Leaping Charm I,Create,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,2,Dragonvein Crystal,3,Spiritcore Ore,1
+Leaping Charm II,Upgrade,Daora Gem,1,Daora Tail,1,Firecell Stone,1,Dreamcore Ore,1
+Bombardier Charm I,Create,Dodogama Jaw,2,Dodogama Talon,2,Firecell Stone,1,Spiritcore Ore,1
+Bombardier Charm II,Upgrade,Bazelgeuse Gem,1,Bazelgeuse Talon,2,Novacrystal,1,Spiritcore Ore,1
+Bombardier Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore Ore,1
+Mushroom Charm I,Create,Commendation,1,Mosswine Hide,5,Novacrystal,1,Dreamcore Ore,1
+Mushroom Charm II,Upgrade,Research Commission Ticket,1,High Commendation,1,Novacrystal,1,Dragoncore Ore,1
+Awakening Charm I,Create,Zorah Magdaros Gem,1,Zorah Magdaros Magma,5,Dragonvein Crystal,4,Aquacore Ore,1
+Awakening Charm II,Upgrade,Kirin Azure Horn,1,Kirin Thundertail,1,Novacrystal,1,Dreamcore Ore,1
+Handicraft Charm I,Create,Zorah Magdaros Gem,1,Zorah Magdaros Pleura,3,Dragonvein Crystal,4,Spiritcore Ore,1
+Handicraft Charm II,Upgrade,Daora Gem,1,Daora Tail,1,Wyvern Gem,1,Dreamcore Ore,1
+Handicraft Charm III,Upgrade,Research Commission Ticket,1,Xeno'jiiva Gem,1,Xeno'jiiva Claw,2,Dragoncore Ore,1
+Mud Puppy Charm,Create,Jyuratodus Fang+,2,Tobi-Kadachi Electrode+,3,Dragonvein Crystal,5,Spiritcore Ore,2
+Trickshot Charm,Create,Barroth Claw+,2,Tzitzi-Ya-Ku Photophore+,3,Lightcrystal,2,Spiritcore Ore,2
+Hunter's Life Charm,Create,High-quality Pelt,3,Warm Pelt,5,Piercing Claw,5,Spiritcore Ore,1
+Procurer's Charm,Create,Kestodon Carapace,5,Kestodon Scalp,5,Vespoid Carapace,5,Spiritcore Ore,1
+Gatherer's Charm,Create,Mosswine Hide,5,Jagras Scale+,5,Jagras Hide+,5,Spiritcore Ore,1
+Guard Charm I,Create,Barnos Talon,3,Barnos Hide+,3,Brutal Bone,6,Spiritcore Ore,1
+Guard Charm II,Upgrade,Wyvern Gem,1,Firecell Stone,1,Dragonite Ore,6,Spiritcore Ore,1
+Guard Charm III,Upgrade,Elder Dragon Blood,1,High Commendation,1,Dragonvein Crystal,2,Dreamcore Ore,1
+Earplugs Charm I,Create,Blos Medulla,1,Majestic Horn,2,Firecell Stone,2,Dreamcore Ore,1
+Earplugs Charm II,Upgrade,Bazelgeuse Gem,1,Bazelgeuse Talon,2,Novacrystal,1,Dreamcore Ore,1
+Earplugs Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Wyvern Gem,1,Dragoncore Ore,1
+Tremor Charm I,Create,Blos Medulla,1,Diablos Ridge+,2,Firecell Stone,1,Dreamcore Ore,1
+Tremor Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Novacrystal,1,Dreamcore Ore,1
+Exploiter Charm I,Create,Rathalos Plate,1,Rathalos Medulla,1,Novacrystal,1,Dreamcore Ore,1
+Exploiter Charm II,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dragoncore Ore,1
+Focus Charm I,Create,Blos Medulla,1,Diablos Ridge+,2,Firecell Stone,1,Spiritcore Ore,1
+Focus Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Fucium Ore,1,Dreamcore Ore,1
+Breaker Charm I,Create,Uragaan Marrow,1,Uragaan Jaw,2,Firecell Stone,1,Spiritcore Ore,1
+Breaker Charm II,Upgrade,Teostra Gem,1,Xeno'jiiva Soulscale,6,Firecell Stone,1,Dreamcore Ore,1
+Fury Charm I,Create,Black Spiral Horn+,1,Diablos Ridge+,2,Firecell Stone,1,Spiritcore Ore,1
+Fury Charm II,Upgrade,Nergigante Gem,1,Xeno'jiiva Soulscale,6,Firecell Stone,1,Dreamcore Ore,1
+Grit Charm I,Create,Blos Medulla,1,Diablos Ridge+,2,Firecell Stone,1,Spiritcore Ore,1
+Grit Charm II,Upgrade,Daora Gem,1,Daora Tail,2,Dragonvein Crystal,3,Dreamcore Ore,1
+Maintenance Charm I,Create,Pink Rathian Carapace,2,Rathian Spike,2,Brutal Bone,3,Spiritcore Ore,1
+Maintenance Charm II,Upgrade,Teostra Gem,1,Teostra Horn+,2,Quality Bone,2,Dreamcore Ore,1
+Maintenance Charm III,Upgrade,Vaal Hazak Gem,1,Xeno'jiiva Veil,2,Dragonvein Crystal,2,Dreamcore Ore,1
+Power Charm I,Create,Teostra Horn+,3,Teostra Mane,2,Novacrystal,1,Dreamcore Ore,1
+Power Charm II,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dragoncore Ore,1
+Challenger Charm I,Create,Nergigante Gem,1,Nergigante Horn+,2,Novacrystal,1,Dreamcore Ore,1
+Challenger Charm II,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Fucium Ore,1,Dragoncore Ore,1
+Unscathed Charm I,Create,Vaal Hazak Gem,1,Vaal Hazak Fang+,2,Novacrystal,1,Dreamcore Ore,1
+Unscathed Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Fucium Ore,1,Dragoncore Ore,1
+Mighty Charm I,Create,Nergigante Gem,1,Nergigante Horn+,2,Novacrystal,1,Dreamcore Ore,1
+Mighty Charm II,Upgrade,Xeno'jiiva Gem,1,Xeno'jiiva Tail,2,Novacrystal,1,Dragoncore Ore,1
+Impact Charm I,Create,Xeno'jiiva Gem,1,Xeno'jiiva Horn,2,Firecell Stone,1,Dreamcore Ore,1
+Impact Charm II,Upgrade,Daora Gem,1,Xeno'jiiva Shell,5,Elder Dragon Bone,2,Dragoncore Ore,1
+Miasma Charm I,Create,Vaal Hazak Gem,1,Vaal Hazak Fang+,2,Novacrystal,1,Dreamcore Ore,1
+Miasma Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Lightcrystal,2,Dreamcore Ore,1
+Miasma Charm III,Upgrade,High Commendation,3,Xeno'jiiva Wing,2,Dragonbone Relic,3,Dreamcore Ore,1
+Normal Shots Charm,Create,High Commendation,2,Wyvern Gem,1,Bird Wyvern Gem,2,Dreamcore Ore,1
+Clearmind Charm,Create,Teostra Gem,1,Vaal Hazak Gem,1,Vaal Hazak Carapace,5,Dreamcore Ore,2
+Rider's Charm,Create,Daora Gem,1,Legiana Gem,1,Legiana Scale+,5,Dreamcore Ore,2
+Surveyor's Charm,Create,Nergigante Gem,1,Zorah Magdaros Heat Scale,5,Zorah Magdaros Magma,3,Dreamcore Ore,2
+Critical Charm I,Create,Rathalos Ruby,1,Rathian Ruby,1,Xeno'jiiva Gem,1,Dragoncore Ore,1
+Invigorate Charm I,Create,Xeno'jiiva Gem,1,Xeno'jiiva Horn,1,Novacrystal,1,Dreamcore Ore,1
+Invigorate Charm II,Upgrade,Nergigante Gem,1,Xeno'jiiva Claw,2,Firecell Stone,3,Dragoncore Ore,1
+Penetration Charm,Create,Research Commission Ticket,1,Xeno'jiiva Gem,1,Xeno'jiiva Tail,3,Dragoncore Ore,1
+Dispersal Charm,Create,Research Commission Ticket,1,Nergigante Gem,1,Nergigante Tail,3,Dragoncore Ore,1
+Poison Coating Charm,Create,Rathian Ruby,1,Rathian Spike+,3,Toxin Sac,3,Dragoncore Ore,1
+Para Coating Charm,Create,Great Girros Hood+,5,Great Girros Tail,5,Omniplegia Sac,3,Dragoncore Ore,1
+Sleep Coating Charm,Create,Radobaan Medulla,1,Wyvern Gem,2,Coma Sac,3,Dragoncore Ore,1
+Blast Coating Charm,Create,Bazelgeuse Gem,1,Bazelgeuse Tail,3,Bazelgeuse Fuse,3,Dragoncore Ore,1
+Geomancy Charm,Create,Xeno'jiiva Gem,1,Xeno'jiiva Veil,3,Teostra Mane,2,Dreamcore Ore,2
+Gale Charm,Create,Research Commission Ticket,1,Odogaron Gem,1,Legiana Gem,1,Dragoncore Ore,2
+Wyrmslayer Charm,Create,Research Commission Ticket,1,Xeno'jiiva Gem,1,Vaal Hazak Talon,1,Dragoncore Ore,2
+Bulwark Charm,Create,Research Commission Ticket,1,Majestic Horn,2,Black Spiral Horn+,2,Dragoncore Ore,2
+Fair Wind Charm,Create,,,,,,,,

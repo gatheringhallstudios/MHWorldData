@@ -434,7 +434,7 @@ def build_armor(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Armor Skills
-        for skill, level in datafn.iter_skill_points(entry):
+        for skill, level in datafn.iter_skill_levels(entry['skills']):
             skill_id = skill_map.id_of('en', skill)
             armor.skills.append(db.ArmorSkill(
                 skilltree_id=skill_id,
@@ -716,16 +716,7 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
     decoration_map = mhdata.decoration_map
 
     for decoration_id, entry in decoration_map.items():
-        skills = [[None, None]] * 2
-        for i in [1, 2]:
-            skill_name = entry[f'skill{i}_name']
-            if skill_name:
-                skill_id = skill_map.id_of('en', skill_name)
-                ensure(skill_id, f"Decoration {entry.name('en')} refers to " +
-                    f"skill {skill_name}, which doesn't exist.")
-                skill_level = entry[f"skill{i}_level"]
-                skills[i - 1] = [skill_id, skill_level]
-
+        skills = list(datafn.iter_skill_levels(entry, amount=2, pad=True))
         ensure("chances" in entry, "Missing chance data for " + entry.name('en'))
         
         decoration = db.Decoration(
@@ -733,9 +724,9 @@ def build_decorations(session : sqlalchemy.orm.Session, mhdata):
             rarity=entry['rarity'],
             slot=entry['slot'],
             icon_color=entry['icon_color'],
-            skilltree_id=skills[0][0],
+            skilltree_id=skill_map.id_of('en', skills[0][0]),
             skilltree_level=skills[0][1],
-            skilltree2_id=skills[1][0],
+            skilltree2_id=skill_map.id_of('en', skills[1][0]),
             skilltree2_level=skills[1][1],
             mysterious_feystone_percent=entry['chances']['mysterious'],
             glowing_feystone_percent=entry['chances']['glowing'],
@@ -782,7 +773,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Add charm skills
-        for skill_en, level in entry['skills'].items():
+        for skill_en, level in datafn.iter_skill_levels(entry, amount=2):
             skill_id = skill_map.id_of('en', skill_en)
             ensure(skill_id, f"Charm {entry.name('en')} refers to " +
                 f"skill {skill_en}, which doesn't exist.")
@@ -794,7 +785,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
         # Add Charm Recipe
         if entry['craft']:
-            for item_en, quantity in entry['craft'].items():
+            for item_en, quantity in datafn.iter_recipe(entry['craft'][0]):
                 item_id = item_map.id_of('en', item_en)
                 ensure(item_id, f"Charm {entry.name('en')} refers to " +
                     f"item {item_en}, which doesn't exist.")

@@ -57,7 +57,7 @@ def load_data():
     result.charm_map = (DataStitcher(reader, dir="charms/")
                     .base_csv("charm_base.csv")
                     .translate('charm_base_translations.csv')
-                    .add_json("charm_ext.json", join="name_en")
+                    .add_csv("charm_craft.csv", key="craft")
                     .get(schema=schema.CharmSchema()))
 
     result.monster_reward_conditions_map = reader.load_base_csv("monsters/reward_conditions_base.csv", ['en'])
