@@ -1,12 +1,12 @@
-from typing import Type, Mapping, Iterable
-
-from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g, eq_crt, eq_cus
+from typing import Type, Mapping, Iterable, Tuple
+from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g
 from mhw_armor_edit.ftypes.ext import rod_inse
 
 from mhdata import cfg
 from mhdata.util import Sharpness
 
 from .bcore import load_schema, load_text
+from .recipes import load_craft_data, load_upgrade_data, CraftEntry, UpgradeEntry
 
 # wp_dat files (mapping from filename -> mhwdb weapon type)
 # ranged ones map to wp_dat_g instead
@@ -34,15 +34,6 @@ weapon_types = [
     cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
     cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
 ]
-
-def iter_recipe(recipe):
-    if recipe:
-        for i in range(1, 4+1):
-            item_id = getattr(recipe, f'item{i}_id')
-            item_qty = getattr(recipe, f'item{i}_qty')
-            if item_qty == 0:
-                continue
-            yield (item_id, item_qty)
 
 class SharpnessDataReader():
     "A class that loads sharpness data and processes it for binary weapon objects"
@@ -79,13 +70,15 @@ class SharpnessDataReader():
 
 class EquipmentNode():
     "A tree node that holds onto a weapon. Useful for weapon trees"
-    def __init__(self, binary, wtype: str, name: dict, tree: str, craft: eq_crt.EqCrtEntry, upgrade: eq_cus.EqCusEntry):
+    parent: 'EquipmentNode'
+    children: Iterable['EquipmentNode']
+    def __init__(self, binary, wtype: str, name: dict, tree: str, craft, upgrade):
         self.binary = binary
         self.wtype = wtype
         self.name = name
         self.tree = tree
-        self.craft = list(iter_recipe(craft))
-        self.upgrade = list(iter_recipe(upgrade))
+        self.craft = craft or []
+        self.upgrade = upgrade or []
 
         self.parent = None
         self.children = []
@@ -153,18 +146,14 @@ class WeaponDataLoader():
         self.weapon_trees = load_text("common/text/steam/wep_series")
         
         # Retrieve all creation data
-        self.crafting_data_map = {}
-        for entry in load_schema(eq_crt.EqCrt, "common/equip/weapon.eq_crt").entries:
-            wtype = weapon_types[entry.equip_type]
-            self.crafting_data_map[(wtype, entry.equip_id)] = entry
+        self.crafting_data_map = load_craft_data("common/equip/weapon.eq_crt")
 
         # Retrieve all upgrade data. Include "invalid ones" as they contain descendant data
         # Also prioritizes later ones over earlier ones.
-        self.upgrade_data = load_schema(eq_cus.EqCus, "common/equip/weapon.eq_cus")
-        self.upgrade_data_map = {}
-        for entry in self.upgrade_data.entries:
-            wtype = weapon_types[entry.equip_type]
-            self.upgrade_data_map[(wtype, entry.equip_id)] = entry
+        self.upgrade_data = load_upgrade_data("common/equip/weapon.eq_cus")
+
+        # Used to reverse associate weapon type > equip type
+        self._equip_types = {wtype:idx for idx, wtype in enumerate(weapon_types)}
 
     def load_tree(self, weapon_type: str) -> EquipmentTree:
         "Loads the weapon tree of a type"
@@ -176,34 +165,19 @@ class WeaponDataLoader():
         else:
             weapon_binaries = load_schema(wp_dat_g.WpDatG, f"common/equip/{binary_weapon_type}.wp_dat_g")
         
+        equip_type = self._equip_types[weapon_type]
+
         # First pass - create weapon map (id -> WeaponDataNode objects)
         weapon_map = {}
-        weapon_descendants = {}
         for binary in weapon_binaries.entries:
             name = weapon_text[binary.gmd_name_index]
-            recipe_key = (weapon_type, binary.id)
-            craft_recipe = self.crafting_data_map.get(recipe_key)
-            upgrade_recipe = self.upgrade_data_map.get(recipe_key)
+            recipe_key = (equip_type, binary.id)
 
-            # Remove craft recipe if invalid
-            if craft_recipe and craft_recipe.item1_qty == 0:
-                craft_recipe = None
-
-            # Pull descendants from upgrade recipe
-            # and then clear if there are no ingredients
-            if upgrade_recipe:
-                weapon_descendants[binary.id] = (
-                    upgrade_recipe.descendant1_idx,
-                    upgrade_recipe.descendant2_idx,
-                    upgrade_recipe.descendant3_idx,
-                    upgrade_recipe.descendant4_idx
-                )
-
-                if upgrade_recipe.item1_qty == 0:
-                    upgrade_recipe = None
+            craft_entry = self.crafting_data_map.get(binary.id, type=equip_type)
+            upgrade_entry = self.upgrade_data.get(binary.id, type=equip_type)
             
             # Skip if invalid (has no name. Kulve weapons have no recipe)
-            if not name['en'] or name['en'] == 'Invalid Message':
+            if not name['en'] or name['en'] in ['Invalid Message', 'Unavailable']:
                 continue
 
             treename = None
@@ -215,51 +189,53 @@ class WeaponDataLoader():
                 wtype=weapon_type,
                 name=name,
                 tree=treename,
-                craft=craft_recipe, 
-                upgrade=upgrade_recipe)
+                craft=craft_entry and craft_entry.items, 
+                upgrade=upgrade_entry and upgrade_entry.items)
+
+            if name['en'] in ['Buster Sword II', 'Defender Great Sword I']:
+                pass
 
         # Second pass - start connecting parents and descendants
         # Iterate on upgrade recipe as that contains the descendant data
         for weapon in weapon_map.values():
-            descendants = weapon_descendants.get(weapon.id, [])
-            if not any(descendants):
-                continue # all are 0, no descendants
+            recipe_key = (equip_type, weapon.id)
+            upgrade_entry = self.upgrade_data.get(weapon.id, type=equip_type)
 
-            # if the first entry is 0, that means that this is the last upgrade on the tree line.
-            is_last = descendants[0] == 0
-            for descendant_idx in descendants:
-                if descendant_idx == 0:
-                    continue
+            if not upgrade_entry or not upgrade_entry.descendants:
+                continue
 
-                descendant_id = self.upgrade_data[descendant_idx].equip_id
-                descendant = weapon_map[descendant_id]
-                weapon.add_child(descendant)
+            for descendant in upgrade_entry.descendants:
+                descendant_id = descendant.equip_id
+                descendant = weapon_map.get(descendant_id)
+                if descendant: weapon.add_child(descendant)
 
-            # override tree name for first descendants
-            # There are no splits before final upgrade in the game UI
-            if not is_last:
+            # if there are no descendants, this is the last upgrade on the tree line.
+            is_last = not upgrade_entry.has_direct_descendant
+
+            # override tree name for direct descendants
+            # In the game UI, direct descendants are part of the same tree,
+            # even though they are different trees in the game files.
+            if upgrade_entry.has_direct_descendant and any(weapon.children):
                 weapon.children[0].tree = weapon.tree
 
         # Return result - the construction does some processing as well
         return EquipmentTree(weapon_map)
 
 def load_kinsect_tree():
+    "Doesn't work, try again once we decrypt rod_insect.rod_inse"
+
     kinsect_trees = load_text("common/text/steam/insect_series")
     kinsect_text = load_text(f"common/text/vfont/rod_insect")
     kinsect_binaries = load_schema(rod_inse.RodInse, 'common/equip/rod_insect.rod_inse')
 
     # Load upgrade data entries. These are referenced later when assembling the tree
-    upgrade_data_map = {}
-    upgrade_data = load_schema(eq_cus.EqCus, "common/equip/insect.eq_cus")
-    for entry in upgrade_data.entries:
-        wtype = weapon_types[entry.equip_type]
-        upgrade_data_map[entry.equip_id] = entry
+    upgrade_data = load_upgrade_data("common/equip/insect.eq_cus")
 
     kinsect_map = {}
     kinsect_descendants = {}
     for binary in kinsect_binaries.entries:
         name = kinsect_text[binary.id]
-        upgrade_recipe = upgrade_data_map.get(binary.id)
+        upgrade_recipe = upgrade_data.get(0, binary.id)
 
         # Pull descendants from upgrade recipe
         # but clear if there are no ingredients
@@ -310,22 +286,28 @@ def load_kinsect_tree():
     # Return result - the construction does some processing as well
     return EquipmentTree(kinsect_map)
 
+def get_armor_part(equip_slot):
+    return [
+        'head', 'chest', 'arms', 'waist', 'legs', 'charm'
+    ][equip_slot]
+
 class ArmorData:
-    def __init__(self, binary: am_dat.AmDatEntry, name, recipe):
+    craft: Iterable[Tuple[int, int]]
+    def __init__(self, binary: am_dat.AmDatEntry, name, part: str, craft: CraftEntry):
         self.binary = binary
         self.name = name
-        self.recipe = list(iter_recipe(recipe))
+        self.part = part
+        self.craft = craft.items if craft else []
+
+        self._skills = None
+
+    @property
+    def id(self):
+        return self.binary.id
 
     @property
     def order(self):
         return self.binary.order
-
-    @property
-    def part(self):
-        "Returns the armor part that this armor is part of"
-        return [
-            'head', 'chest', 'arms', 'waist', 'legs', 'charm'
-        ][self.binary.equip_slot]
 
     @property
     def rarity(self):
@@ -340,6 +322,28 @@ class ArmorData:
             return 'HR'
         else:
             return 'MR'
+
+    @property
+    def skills(self):
+        if self._skills is not None:
+            return self._skills
+
+        skills = []
+        for i in range(1, 2+1):
+            skill_lvl = getattr(self.binary, f"skill{i}_lvl")
+            if skill_lvl != 0:
+                skill_id = getattr(self.binary, f"skill{i}")
+                skills.append((skill_id, skill_lvl))
+        self._skills = skills
+        return skills
+
+class CharmData(ArmorData):
+    upgrade: Iterable[Tuple[int, int]]
+    parent: 'CharmData'
+    def __init__(self, *args, upgrade: UpgradeEntry, **kwargs):
+        super().__init__(*args, **kwargs, part="charm")
+        self.parent = None
+        self.upgrade = upgrade.items if upgrade else []
 
 class ArmorSetData:
     def __init__(self, name, armors: Iterable[ArmorData]):
@@ -363,54 +367,78 @@ class ArmorSetData:
         else:
             return 1
         
-def load_armor_series():
-    # Loaded armor text and armor series information
-    armor_text = load_text("common/text/steam/armor")
-    armorset_text = load_text("common/text/steam/armor_series")
+class ArmorCollection():
+    charms: Iterable[CharmData]
 
-    # Parses craft data, mapped by the binary armor id
-    armor_craft_data = {}
-    for craft_entry in load_schema(eq_crt.EqCrt, "common/equip/armor.eq_crt").entries:
-        armor_craft_data[craft_entry.equip_id] = craft_entry
+    def __init__(self):
+        # Loaded armor text and armor series information
+        armor_text = load_text("common/text/steam/armor")
+        armorset_text = load_text("common/text/steam/armor_series")
 
-    # Parses binary armor data.
-    armor_by_setid = {}
-    for armor_binary in load_schema(am_dat.AmDat, "common/equip/armor.am_dat").entries:
-        name_dict = armor_text[armor_binary.gmd_name_index]
-        
-        if not name_dict or not name_dict['en']: continue
-        if armor_binary.set_id == 0: continue # skip charms (for now)
-        if armor_binary.type != 0: continue # type 0 is regular armor
-        if armor_binary.gender == 0: continue
-        if armor_binary.order == 0: continue
-        
-        craft_recipe = armor_craft_data.get(armor_binary.id, None)
-        if not craft_recipe:
-            continue
+        # Parses craft data, mapped by the binary armor id
+        armor_craft_data = load_craft_data("common/equip/armor.eq_crt")
+        charm_upgrade_data = load_upgrade_data("common/equip/equip_custom.eq_cus")
 
-        armor_data = ArmorData(
-            binary=armor_binary,
-            name=name_dict,
-            recipe=craft_recipe
-        )
+        # Parses binary armor data.
+        armor_by_setid = {}
+        charm_map = {}
+        for armor_binary in load_schema(am_dat.AmDat, "common/equip/armor.am_dat").entries:
+            name_dict = armor_text[armor_binary.gmd_name_index]
+            
+            if not name_dict or not name_dict['en']: continue
+            if armor_binary.type != 0: continue # type 0 is regular armor
+            if armor_binary.gender == 0: continue
+            if armor_binary.order == 0: continue
+    
+            craft_recipe = armor_craft_data.get(armor_binary.id)
 
-        set_id = armor_binary.set_id
-        armor_by_setid.setdefault(set_id, [])
-        armor_by_setid[set_id].append(armor_data)
+            part = get_armor_part(armor_binary.equip_slot)
+            if part == 'charm':
+                upgrade_recipe = charm_upgrade_data.get(armor_binary.id)
+                charm_data = CharmData(
+                    binary=armor_binary,
+                    name=name_dict,
+                    craft=craft_recipe,
+                    upgrade=upgrade_recipe
+                )
+                charm_map[charm_data.id] = charm_data
+            else:
+                set_id = armor_binary.set_id
+                if set_id == 0: continue
+                if not craft_recipe: continue
+                if not craft_recipe.items: continue
 
-    # Assemble armor series
-    armor_sets = []
-    for set_id, armors in armor_by_setid.items():
-        series_name_dict = armorset_text[set_id]
-        
-        set_data = ArmorSetData(
-            name=series_name_dict,
-            armors=armors
-        )
+                armor_data = ArmorData(
+                    binary=armor_binary,
+                    name=name_dict,
+                    part=part,
+                    craft=craft_recipe
+                )
 
-        armor_sets.append(set_data)
+                armor_by_setid.setdefault(set_id, [])
+                armor_by_setid[set_id].append(armor_data)
+            
+        # Second pass, link up parents
+        for charm in charm_map.values():
+            upgrade_entry = charm_upgrade_data.get(charm.id)
+            if not upgrade_entry: continue
+            for descendant in upgrade_entry.descendants:
+                descendant = charm_map.get(descendant.equip_id)
+                if descendant: descendant.parent = charm
 
-    armor_sets.sort(key=lambda a: (a.rank_order, a.order))
+        # Assemble armor series
+        armor_sets = []
+        for set_id, armors in armor_by_setid.items():
+            series_name_dict = armorset_text[set_id]
+            
+            set_data = ArmorSetData(
+                name=series_name_dict,
+                armors=armors
+            )
 
-    return { aset.name['en']:aset for aset in armor_sets }
+            armor_sets.append(set_data)
 
+        armor_sets.sort(key=lambda a: (a.rank_order, a.order))
+
+        self.charms = list(charm_map.values())
+        self.armor = { aset.name['en']:aset for aset in armor_sets }

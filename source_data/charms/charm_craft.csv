@@ -147,7 +147,7 @@ Blast Charm III,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dreamcore
 Dragon Charm I,Create,Dragonbone Relic,1,Quality Bone,3,Dragonvein Crystal,3,Spiritcore Ore,1
 Dragon Charm II,Upgrade,Uragaan Ruby,1,Uragaan Jaw,1,Dragonvein Crystal,1,Spiritcore Ore,1
 Dragon Charm III,Upgrade,Elder Dragon Blood,1,Vaal Hazak Gem,1,Dragonbone Relic,3,Dreamcore Ore,1
-Wyrmsbane Charm I,Create,Dragonbone Relic,1,Quality Bone,3,Dragonvein Crystal,2,Spiritcore Ore,1
+Wyrmsbane Charm I,Create,Dragonbone Relic,1,Quality Bone,3,Dragonvein Crystal,3,Spiritcore Ore,1
 Wyrmsbane Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Dragonvein Crystal,4,Dreamcore Ore,1
 Wyrmsbane Charm III,Upgrade,Xeno'jiiva Gem,1,Xeno'jiiva Claw,2,Dragonbone Relic,3,Dreamcore Ore,1
 Demolition Charm I,Create,Dodogama Jaw,2,Dodogama Talon,2,Firecell Stone,1,Spiritcore Ore,1
@@ -178,9 +178,9 @@ Handicraft Charm II,Upgrade,Daora Gem,1,Daora Tail,1,Wyvern Gem,1,Dreamcore Ore,
 Handicraft Charm III,Upgrade,Research Commission Ticket,1,Xeno'jiiva Gem,1,Xeno'jiiva Claw,2,Dragoncore Ore,1
 Mud Puppy Charm,Create,Jyuratodus Fang+,2,Tobi-Kadachi Electrode+,3,Dragonvein Crystal,5,Spiritcore Ore,2
 Trickshot Charm,Create,Barroth Claw+,2,Tzitzi-Ya-Ku Photophore+,3,Lightcrystal,2,Spiritcore Ore,2
-Hunter's Life Charm,Create,High-quality Pelt,3,Warm Pelt,5,Piercing Claw,5,Spiritcore Ore,1
-Procurer's Charm,Create,Kestodon Carapace,5,Kestodon Scalp,5,Vespoid Carapace,5,Spiritcore Ore,1
-Gatherer's Charm,Create,Mosswine Hide,5,Jagras Scale+,5,Jagras Hide+,5,Spiritcore Ore,1
+Hunter's Life Charm,Create,High-quality Pelt,3,Warm Pelt,5,Piercing Claw,5,Spiritcore Ore,2
+Procurer's Charm,Create,Kestodon Carapace,5,Kestodon Scalp,5,Vespoid Carapace,5,Spiritcore Ore,2
+Gatherer's Charm,Create,Mosswine Hide,5,Jagras Scale+,5,Jagras Hide+,5,Spiritcore Ore,2
 Guard Charm I,Create,Barnos Talon,3,Barnos Hide+,3,Brutal Bone,6,Spiritcore Ore,1
 Guard Charm II,Upgrade,Wyvern Gem,1,Firecell Stone,1,Dragonite Ore,6,Spiritcore Ore,1
 Guard Charm III,Upgrade,Elder Dragon Blood,1,High Commendation,1,Dragonvein Crystal,2,Dreamcore Ore,1
@@ -232,4 +232,3 @@ Geomancy Charm,Create,Xeno'jiiva Gem,1,Xeno'jiiva Veil,3,Teostra Mane,2,Dreamcor
 Gale Charm,Create,Research Commission Ticket,1,Odogaron Gem,1,Legiana Gem,1,Dragoncore Ore,2
 Wyrmslayer Charm,Create,Research Commission Ticket,1,Xeno'jiiva Gem,1,Vaal Hazak Talon,1,Dragoncore Ore,2
 Bulwark Charm,Create,Research Commission Ticket,1,Majestic Horn,2,Black Spiral Horn+,2,Dragoncore Ore,2
-Fair Wind Charm,Create,,,,,,,,

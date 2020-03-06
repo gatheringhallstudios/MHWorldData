@@ -3,7 +3,8 @@ from mhdata.load import load_data, schema, datafn
 from mhdata.util import OrderedSet, bidict
 
 from mhw_armor_edit.ftypes import am_dat, eq_crt, arm_up, skl_pt_dat
-from mhdata.binary.load import load_schema, load_text, SkillTextHandler, load_armor_series
+from mhdata.binary import ArmorCollection
+from mhdata.binary.load import load_schema, load_text, SkillTextHandler
 from .items import ItemUpdater
 from .util import convert_recipe
 
@@ -14,10 +15,10 @@ from . import artifacts
 # Index based gender restriction
 gender_list = [None, 'male', 'female', 'both']
 
-def update_armor(mhdata, item_updater: ItemUpdater):
+def update_armor(mhdata, item_updater: ItemUpdater, armor_collection: ArmorCollection):
     "Populates and updates armor information using the armorset_base as a source of truth"
     
-    armor_series = load_armor_series()
+    armor_series = armor_collection.armor
 
     # Get number of times armor can be upgraded by rarity level.
     # The first is max level pre-augment, the second is max post-augment
@@ -115,19 +116,18 @@ def update_armor(mhdata, item_updater: ItemUpdater):
                 new_data['id'] = existing_armor.id
 
             # Add skills to new armor data
-            for i in range(1, 2+1):
-                skill_lvl = getattr(armor_binary, f"skill{i}_lvl")
-                if skill_lvl != 0:
-                    skill_id = getattr(armor_binary, f"skill{i}")
-                    name_en = skill_text_handler.get_skilltree_name(skill_id)['en']
-                    new_data['skills'][f'skill{i}_name'] = name_en
-                    new_data['skills'][f'skill{i}_pts'] = skill_lvl
+            skills = armor_data.skills + ([(None, None)] * (2 - len(armor_data.skills)))
+            for i, (skill_id, skill_lvl) in enumerate(skills):
+                if skill_id is None:
+                    new_data['skills'][f'skill{i+1}_name'] = None
+                    new_data['skills'][f'skill{i+1}_level'] = None
                 else:
-                    new_data['skills'][f'skill{i}_name'] = None
-                    new_data['skills'][f'skill{i}_pts'] = None
+                    name_en = skill_text_handler.get_skilltree_name(skill_id)['en']
+                    new_data['skills'][f'skill{i+1}_name'] = name_en
+                    new_data['skills'][f'skill{i+1}_level'] = skill_lvl
 
             # Add recipe to new armor data. Also tracks the encounter.
-            new_data['craft'] = convert_recipe(item_updater, armor_data.recipe)
+            new_data['craft'] = convert_recipe(item_updater, armor_data.craft)
 
             # Add new data to new armor map
             new_armor_map.insert(new_data)
@@ -174,3 +174,71 @@ def update_armor(mhdata, item_updater: ItemUpdater):
     )
 
     print("Armor files updated\n")
+
+
+def update_charms(mhdata, item_updater: ItemUpdater, armor_collection: ArmorCollection):
+    "Populates and updates charm information using the charm_base as a source of truth"
+
+    print("Writing list of charm names (in order) to artifacts")
+    def get_charm_raw(c):
+        return {
+            'name_en': c.name['en'],
+            'parent': c.parent and c.parent.name['en']
+        }
+    artifacts.write_dicts_artifact('charms_raw.txt', [get_charm_raw(c) for c in armor_collection.charms])
+
+    skill_text_handler = SkillTextHandler()
+    charm_by_name = { c.name['en']:c for c in armor_collection.charms }
+    
+    new_charm_map = DataMap(languages=["en"])
+    for charm_entry in mhdata.charm_map.values():
+        new_charm_entry = { **charm_entry }
+
+        data = charm_by_name.get(charm_entry['name_en'])
+        if not data:
+            print(f"Warning: Charm {charm_entry['name_en']} has no associated binary data")
+            new_charm_map.insert(new_charm_entry)
+            continue
+
+        new_charm_entry['previous_en'] = data.parent and data.parent.name['en']
+        new_charm_entry['rarity'] = data.rarity
+
+        # Add skills to new armor data
+        skills = data.skills + ([(None, None)] * (2 - len(data.skills)))
+        for i, (skill_id, skill_lvl) in enumerate(skills):
+            if skill_id is None:
+                new_charm_entry[f'skill{i+1}_name'] = None
+                new_charm_entry[f'skill{i+1}_level'] = None
+            else:
+                name_en = skill_text_handler.get_skilltree_name(skill_id)['en']
+                new_charm_entry[f'skill{i+1}_name'] = name_en
+                new_charm_entry[f'skill{i+1}_level'] = skill_lvl
+
+        new_charm_entry['craft'] = []
+        recipes = [('Create', data.craft), ('Upgrade', data.upgrade)]
+        for rtype, recipe in recipes:
+            if recipe:
+                new_charm_entry['craft'].append({
+                    'type': rtype,
+                    **convert_recipe(item_updater, recipe)
+                })
+
+        new_charm_map.insert(new_charm_entry)
+
+    # Write new data
+    writer = create_writer()
+
+    writer.save_base_map_csv(
+        'charms/charm_base.csv', 
+        new_charm_map, 
+        translation_filename="charms/charm_base_translations.csv", 
+        schema=schema.CharmBaseSchema()
+    )
+
+    writer.save_data_csv(
+        "charms/charm_craft.csv",
+        new_charm_map,
+        key="craft"
+    )
+
+    print("Charm files updated\n")
