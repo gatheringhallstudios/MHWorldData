@@ -441,4 +441,5 @@ class ArmorCollection():
         armor_sets.sort(key=lambda a: (a.rank_order, a.order))
 
         self.charms = list(charm_map.values())
+        self.charms.sort(key=lambda c: c.parent.order if c.parent else c.order)
         self.armor = { aset.name['en']:aset for aset in armor_sets }

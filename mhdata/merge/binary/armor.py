@@ -185,7 +185,7 @@ def update_charms(mhdata, item_updater: ItemUpdater, armor_collection: ArmorColl
             'name_en': c.name['en'],
             'parent': c.parent and c.parent.name['en']
         }
-    artifacts.write_dicts_artifact('charms_raw.txt', [get_charm_raw(c) for c in armor_collection.charms])
+    artifacts.write_dicts_artifact('charms_raw.csv', [get_charm_raw(c) for c in armor_collection.charms])
 
     skill_text_handler = SkillTextHandler()
     charm_by_name = { c.name['en']:c for c in armor_collection.charms }
@@ -200,6 +200,7 @@ def update_charms(mhdata, item_updater: ItemUpdater, armor_collection: ArmorColl
             new_charm_map.insert(new_charm_entry)
             continue
 
+        new_charm_entry['name'] = data.name
         new_charm_entry['previous_en'] = data.parent and data.parent.name['en']
         new_charm_entry['rarity'] = data.rarity
 
