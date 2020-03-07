@@ -784,7 +784,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
             ))
 
         # Add Charm Recipe
-        if entry['craft']:
+        if entry.get('craft'):
             for item_en, quantity in datafn.iter_recipe(entry['craft'][0]):
                 item_id = item_map.id_of('en', item_en)
                 ensure(item_id, f"Charm {entry.name('en')} refers to " +

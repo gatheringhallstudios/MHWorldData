@@ -331,7 +331,7 @@ def validate_charms(mhdata):
                 errors.append(f"Skill {skill_name} in charms does not exist")
 
         # Currently charms only link to a single recipe, but the schema supports more than one
-        if len(entry['craft']) > 1:
+        if len(entry.get('craft', [])) > 1:
             errors.append(f"Charm {entry['name_en']} has more than one recipe, which is not supported")
 
 
