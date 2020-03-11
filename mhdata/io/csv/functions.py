@@ -1,5 +1,6 @@
 import csv
 
+import contextlib
 import mhdata.typecheck as typecheck
 import mhdata.util as util
 
@@ -39,6 +40,19 @@ def validate_csv(obj_list, filename):
         print("Warning: Some values in CSV are not trimmed: "
             + filename + " cells: " + ", ".join(cell_strings))
 
+@contextlib.contextmanager
+def open_resolved(path_or_file, mode, encoding):
+    is_path = isinstance(path_or_file, str)
+    if is_path:
+        f = open(path_or_file, mode, encoding=encoding)
+    else:
+        f = path_or_file
+
+    try:
+        yield f
+    except:
+        if not is_path:
+            f.close()
 
 def save_csv(obj_list, location, fields=None):
     """Saves a dict list as a  CSV, doing some last minute validations. 
@@ -49,7 +63,7 @@ def save_csv(obj_list, location, fields=None):
 
     if not fields:
         fields = determine_fields(obj_list)
-    with open(location, 'w', encoding='utf-8') as f:
+    with open_resolved(location, 'w', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fields, lineterminator='\n')
         writer.writeheader()
         writer.writerows(obj_list)

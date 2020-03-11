@@ -59,7 +59,7 @@ Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.s
 You will need to use `pipenv shell` everytime you open a new console window.
 
 ### Merging ingame binaries
-This project uses [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) to parse ingame binary data. To use it, follow the directions in fresch's repository to create a merged chunk data folder (make sure you own a copy of Monster Hunter World...), rename it to `mergedchunks`, and move it outside the project (to the same directory this project is contained in). Afterwards, run `pipenv run python merge.py binary update`.
+This project uses [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit) to parse ingame binary data. To use it, follow the directions in fresch's repository to create a merged chunk data folder (make sure you own a copy of Monster Hunter World...), rename it to `mergedchunks`, and move it outside the project (to the same directory this project is contained in). Afterwards, run `pipenv run python binary.py update`.
 
 The directory structure should approximately look like this:
 

@@ -3,7 +3,7 @@ Miscellanious loading functions that form the backbone of binary loading.
 Consider whether this should be part of parsers, or if its fine to have here.
 """
 
-from typing import Type, Mapping
+from typing import Type, Mapping, MutableMapping, Union
 import regex as re
 from os.path import dirname, abspath, join
 
@@ -40,21 +40,40 @@ def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.St
     with open(join(CHUNK_DIRECTORY, relative_dir), 'rb') as f:
         return schema.load(f)
 
-def load_text(basepath: str, exclude_indices=False, exclude_keys=False) -> Mapping[int, Mapping[str, str]]:
+class GmdGroup(Mapping[Union[int, str], Mapping[str,str]]):
+    def __init__(self, indexed_entries, keyed_entries):
+        self.indexed_entries = indexed_entries
+        self.keyed_entries = keyed_entries
+
+    def __getitem__(self, key):
+        if isinstance(key, int):
+            return self.indexed_entries[key]
+        else:
+            return self.keyed_entries[str(key)]
+
+    def __len__(self):
+        return len(self.indexed_entries) + len(self.keyed_entries)
+
+    def __iter__(self):
+        yield from self.indexed_entries
+        yield from self.keyed_entries
+
+def load_text(basepath: str, exclude_indices=False, exclude_keys=False) -> GmdGroup:
     """Parses a series of GMD files, returning a mapping from index -> language -> value
     
     The given base path is the relative directory from the chunk folder,
     excluding the _eng.gmd ending. All GMD files starting with the given basepath
     and ending with the language are combined together into a single result.
     """
-    results = {}
+    indexed_entries = {}
+    keyed_entries = {}
     for ext_lang, lang in lang_map.items():
         data = load_schema(gmd.Gmd, f"{basepath}_{ext_lang}.gmd")
         for idx, value_obj in enumerate(data.items):
-            if idx not in results and not exclude_indices:
-                results[idx] = {}
-            if value_obj.key not in results and not exclude_keys:
-                results[value_obj.key] = {}
+            if idx not in indexed_entries and not exclude_indices:
+                indexed_entries[idx] = {}
+            if value_obj.key not in keyed_entries and not exclude_keys:
+                keyed_entries[value_obj.key] = {}
 
             value = value_obj.value
 
@@ -75,7 +94,7 @@ def load_text(basepath: str, exclude_indices=False, exclude_keys=False) -> Mappi
                 .replace("<STYL MOJI_LIGHTBLUE_DEFAULT>", "")
                 .replace("</STYL>", "")).strip()
 
-            if not exclude_indices: results[idx][lang] = value
-            if not exclude_keys: results[value_obj.key][lang] = value
+            if not exclude_indices: indexed_entries[idx][lang] = value
+            if not exclude_keys: keyed_entries[value_obj.key][lang] = value
 
-    return results
+    return GmdGroup(indexed_entries, keyed_entries)

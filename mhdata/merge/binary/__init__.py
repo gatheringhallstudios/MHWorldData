@@ -48,3 +48,20 @@ def update_all():
     # Now finalize the item updates from parsing the rest of the data
     register_combinations(mhdata, item_updater)
     update_items(item_updater)
+
+
+def dump_file(filename):
+    from . import dump as d
+    import os
+    
+    filetypes = {
+        '.gmd': d.dump_gmd
+    }
+
+    _, extension = os.path.splitext(filename)
+    extension = extension.lower()
+    if extension not in filetypes:
+        supported = ", ".join(filetypes.keys())
+        raise Exception(f"Invalid extension {extension}, supported extensions are {supported}")
+
+    return filetypes[extension](filename)
