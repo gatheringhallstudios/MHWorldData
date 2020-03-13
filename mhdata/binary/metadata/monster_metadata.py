@@ -1,4 +1,5 @@
 import json
+from typing import Iterable
 
 from os.path import dirname, abspath, join
 
@@ -61,7 +62,7 @@ class MonsterMetadata:
     def by_name(self, name) -> MonsterMetaEntry:
         return self._map[name]
 
-    def entries(self):
+    def entries(self) -> Iterable[MonsterMetaEntry]:
         for entry in self._map.values():
             yield entry
 

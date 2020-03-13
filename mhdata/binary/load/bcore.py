@@ -51,6 +51,12 @@ class GmdGroup(Mapping[Union[int, str], Mapping[str,str]]):
         else:
             return self.keyed_entries[str(key)]
 
+    def __contains__(self, key):
+        if isinstance(key, int):
+            return key in self.indexed_entries
+        else:
+            return str(key) in self.keyed_entries
+
     def __len__(self):
         return len(self.indexed_entries) + len(self.keyed_entries)
 

@@ -21,6 +21,7 @@ class ItlotEntry(sr.AnnotatedStruct):
 
 
 class Itlot(sr.AnnotatedStruct):
+    iceborneBytes: sr.int()
     magic: sr.short()
     entries: sr.DynamicList(ItlotEntry)
 

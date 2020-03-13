@@ -144,8 +144,12 @@ class AnnotatedStruct(Readable):
             if isinstance(readable, Readable):
                 readable = copy.copy(readable)
 
-            value = reader.read_struct(readable)
-            setattr(result, name, value)
+            try:
+                value = reader.read_struct(readable)
+                setattr(result, name, value)
+            except Exception as ex:
+                classname = type(self).__name__
+                raise Exception(f"Failed to read prop {name} in {classname}") from ex
 
         return result
 

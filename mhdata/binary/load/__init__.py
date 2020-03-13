@@ -10,3 +10,4 @@ from .equipment_bload import SharpnessDataReader, WeaponDataLoader, load_kinsect
 from .quest_bload import load_quests
 from .skill import SkillTextHandler
 from .items import ItemCollection, Item, DecorationCollection, Decoration
+from .monsters import MonsterCollection, MonsterData, MonsterPart

@@ -5,9 +5,9 @@ import itertools
 from mhdata.io import create_writer, DataMap
 from mhdata.load import schema
 
-from mhdata.binary.metadata import MonsterMetadata
-from mhdata.binary.load import load_text, get_chunk_root
-from mhdata.binary.parsers import load_epg, struct_to_json, load_itlot, load_eda
+from mhdata.binary import MonsterCollection, MonsterData, ItemCollection
+from mhdata.binary.load import get_chunk_root
+from mhdata.binary.parsers import struct_to_json, load_itlot, load_eda
 from .items import ItemUpdater
 from . import artifacts
 
@@ -41,155 +41,47 @@ hitzone_fields = ['cut','impact','shot','fire','water','thunder','ice','dragon',
 # Group 21 - Low rank track
 # Group 22 - High rank track
 
-def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetadata):
-    root = Path(get_chunk_root())
 
-    # Mapping of the home folder of each monster by name
-    # Currently these names are not the name_en entries, but the MonsterList entry names
-    folder_for_monster = {}
+def update_monsters(mhdata, item_data: ItemCollection, monster_data: MonsterCollection):
+    root = Path(get_chunk_root())
 
     # Load hitzone entries. EPG files contain hitzones, parts, and base hp
     print('Loading monster hitzone data')
-    monster_hitzones = {}
-    hitzone_raw_data = []
-    hitzone_raw_data_flat = []
-    for filename in root.joinpath('em/').rglob('*.dtt_epg'):
-        epg_binary = load_epg(filename)
-
-        try:
-            meta = monster_meta.by_id(epg_binary.monster_id)
-            name = meta.name
-        except KeyError:
-            continue # warn?
-
-        path_key = filename.stem + "_" + str(filename.parents[1].stem)
-
-        hitzone_raw_data.append({
-            'name': name,
-            'filename': str(filename.relative_to(root)),
-            **struct_to_json(epg_binary)
-        })
-
-        monster_hitzones[name] = []
-        for hitzone_id, hitzone in enumerate(epg_binary.hitzones):
-            monster_hitzones[name].append({
-                'hitzone_id': hitzone_id,
-                'cut': hitzone.Sever,
-                'impact': hitzone.Blunt,
-                'shot': hitzone.Shot,
-                'fire': hitzone.Fire,
-                'water': hitzone.Water,
-                'thunder': hitzone.Thunder,
-                'ice': hitzone.Ice,
-                'dragon': hitzone.Dragon,
-                'ko': hitzone.Stun
-            })
-
-        unlinked = set(range(len(monster_hitzones[name])))
-        def get_hitzone(idx):
-            if idx == -1:
-                return None
-            hitzone = monster_hitzones[name][idx]
-            if idx in unlinked:
-                unlinked.remove(idx)
-            return hitzone
-
-        for part_id, part in enumerate(epg_binary.parts):
-            sever_type = None
-            sever_value = None
-
-            for cleave_idx in part.iter_cleaves():
-                if cleave_idx == -1: continue
-                cleave = epg_binary.cleaves[cleave_idx]
-                if cleave.damage_type == 'any': continue
-                
-                sever_type = cleave.damage_type
-                sever_value = cleave.special_hp
-
-            for subpart in part.subparts:
-                base_params = {
-                    'name_en': name,
-                    'part_id': part_id,
-                    'part_name': monster_meta.get_part(path_key, part_id),
-                    'flinch': part.flinchValue,
-                    'sever_type': sever_type,
-                    'sever': sever_value,
-                    'extract': part.extract,
-                }
-
-                base_hzv = get_hitzone(subpart.hzv_base)
-                if base_hzv:
-                    hitzone_raw_data_flat.append({
-                        **base_params,
-                        'type': 'base',
-                        **base_hzv
-                    })
-                
-                broken_hzv = get_hitzone(subpart.hzv_broken)
-                if broken_hzv:
-                    hitzone_raw_data_flat.append({
-                        **base_params,
-                        'type': 'broken',
-                        **broken_hzv
-                    })
-
-                if name not in ['Behemoth']:
-                    for special_idx in range(3):
-                        value = getattr(subpart, 'hzv_special' + str(special_idx+1))
-                        hzv_spec = get_hitzone(value)
-                        if hzv_spec:
-                            hitzone_raw_data_flat.append({
-                                **base_params,
-                                'type': 'special ' + str(special_idx + 1),
-                                **hzv_spec
-                            })
-
-        for idx in unlinked:
-            hitzone_raw_data_flat.append({
-                'name_en': name,
-                'part_id': 'unlinked',
-                'part_name': 'unlinked',
-                'type': 'unlinked',
-                **monster_hitzones[name][idx]
-            })
-
-    print('Loaded Monster hitzone data')
+    if monster_data.load_epg_eda():
+        print('Loaded Monster epg data (hitzones and breaks)')
 
     # Load status entries
-    monster_statuses = read_status(monster_meta)
+    monster_statuses = read_status(monster_data)
     print('Loaded Monster status data')
     
     # Write hitzone data to artifacts
+    hitzone_raw_data = [{'name': m.name['en'], **struct_to_json(m.epg)} for m in monster_data.monsters if m.epg is not None]
     artifacts.write_json_artifact("monster_hitzones_and_breaks.json", hitzone_raw_data)
     print("Monster hitzones+breaks raw data artifact written (Automerging not supported)")
-    artifacts.write_dicts_artifact('monster_hitzones_raw.csv', hitzone_raw_data_flat)
+
+    write_hitzone_artifacts(monster_data)
     print("Monster hitzones artifact written (Automerging not supported)")
+    
     artifacts.write_json_artifact("monster_status.json", list(monster_statuses.values()))
     print("Monster status artifact written (Automerging not supported)")
 
-
-    monster_name_text = load_text('common/text/em_names')
-    monster_info_text = load_text('common/text/em_info')
-
-    monster_drops = read_drops(monster_meta, item_updater)
+    monster_drops = read_drops(monster_data, item_data)
     print('Loaded Monster drop rates')
 
     for monster_entry in mhdata.monster_map.values():
         name_en = monster_entry.name('en')
-        if not monster_meta.has_monster(name_en):
+        try:
+            monster = monster_data.by_name(name_en)
+        except KeyError:
             print(f'Warning: Monster {name_en} not in metadata, skipping')
             continue
 
-        monster_key_entry = monster_meta.by_name(name_en)
-        key_name = monster_key_entry.key_name
-        key_description = monster_key_entry.key_description
-
-        monster_entry['name'] = monster_name_text[key_name]
-        if key_description:
-            monster_entry['description'] = monster_info_text[f'NOTE_{key_description}_DESC']
+        monster_entry['name'] = monster.name
+        if monster.description:
+            monster_entry['description'] = monster.description
 
         # Compare drops (use the hunting notes key name if available)
-        drop_tables = monster_drops.get(monster_key_entry.id, None)
+        drop_tables = monster_drops.get(monster.id, None)
         if drop_tables:
             # Write drops to artifact files
             joined_drops = []
@@ -211,7 +103,7 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
             print(f'Warning: no drops file found for monster {name_en}')
 
         # Compare hitzones
-        hitzone_data = monster_hitzones.get(name_en, None)
+        hitzone_data = monster.hitzones
         if hitzone_data and 'hitzones' in monster_entry:
             # Create tuples of the values of the hitzone, to use as a comparator
             hitzone_key = lambda h: tuple(h[v] for v in hitzone_fields)
@@ -226,12 +118,14 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
 
         elif 'hitzones' not in monster_entry and hitzone_data:
             print(f'Warning: no hitzones in monster entry {name_en}, but binary data exists')
+        elif 'hitzones' in monster_entry:
+            print(f'Warning: hitzones exist in monster {name_en}, but no binary data exists to compare')
         else:
             print(f"Warning: No hitzone data for monster {name_en}")
 
 
         # Status info
-        status = monster_statuses.get(monster_key_entry.id, None)
+        status = monster_statuses.get(monster.id, None)
         if status:
             test = lambda v: v['base'] > 0 and v['decrease'] > 0
             monster_entry['pitfall_trap'] = True if test(status['pitfall_trap_buildup']) else False
@@ -251,7 +145,7 @@ def update_monsters(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMeta
 
     print("Monsters updated\n")
 
-def read_status(monster_meta: MonsterMetadata):
+def read_status(monsters: MonsterCollection):
     "Reads status data for all monsters in the form of a nested didctionary, indexed by the binary monster id"
     root = Path(get_chunk_root())
 
@@ -261,7 +155,7 @@ def read_status(monster_meta: MonsterMetadata):
         json_data = struct_to_json(eda_binary)
 
         try:
-            name = monster_meta.by_id(eda_binary.monster_id).name
+            name = monsters.by_id(eda_binary.monster_id).name['en']
 
             results[eda_binary.monster_id] = {
                 'name': name,
@@ -273,16 +167,16 @@ def read_status(monster_meta: MonsterMetadata):
 
     return results
 
-def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
+def read_drops(monsters: MonsterCollection, items: ItemCollection):
     """Returns a list of all monster drop tables, each indexed by the binary idea. 
     The result is a dict referring to a list of lists"""
 
     root = Path(get_chunk_root())
 
     results = {}
-    for monster_entry in monster_meta.entries():
-        key_name = monster_entry.key_name
-        key_description = monster_entry.key_description
+    for monster_entry in monsters.monsters:
+        key_name = monster_entry.meta.key_name
+        key_description = monster_entry.meta.key_description
 
         itlot_key = (key_description or key_name).lower()
         if itlot_key:
@@ -293,7 +187,7 @@ def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
             for entry in drops.entries:
                 table_entries = [
                     {
-                        'item_en': item_updater.name_for(iid)['en'],
+                        'item_en': items.by_id(iid).name['en'],
                         'stack': qty,
                         'percentage': rarity
                     } for iid, qty, rarity, animation in entry.iter_items() if iid != 0]
@@ -304,6 +198,45 @@ def read_drops(monster_meta: MonsterMetadata, item_updater: ItemUpdater):
 
     return results
 
+def write_hitzone_artifacts(monsters: MonsterCollection):
+    hitzone_raw_data_flat = []
+    for monster in monsters.monsters:
+        for part in monster.parts:
+            for subpart in part.subparts:
+                base_params = {
+                    'name_en': monster.name['en'],
+                    'part_id': part.id,
+                    'part_name': part.name,
+                    'flinch': part.flinch,
+                    'cleave_type': "/".join(c[0] for c in part.cleaves),
+                    'cleave_val': "/".join(str(c[1]) for c in part.cleaves),
+                    'extract': part.extract,
+                }
+
+                def add_hzv(type, hzv):
+                    hitzone_raw_data_flat.append({
+                        **base_params,
+                        'type': type,
+                        **hzv
+                    })
+
+                if subpart.hzv_base: add_hzv('base', subpart.hzv_base)
+                if subpart.hzv_broken: add_hzv('broken', subpart.hzv_broken)
+
+                if monster.name['en'] not in ['Behemoth']:
+                    for idx, hzv in enumerate(subpart.hzv_special):
+                        add_hzv(f'special {idx}', hzv)
+
+        for idx in monster.unlinked_hitzones:
+            hitzone_raw_data_flat.append({
+                'name_en': monster.name['en'],
+                'part_id': 'unlinked',
+                'part_name': 'unlinked',
+                'type': 'unlinked',
+                **monster.hitzones[idx]
+            })
+
+    artifacts.write_dicts_artifact('monster_hitzones_raw.csv', hitzone_raw_data_flat)
 
 def compare_dict_lists(list1, list2, fields):
     if len(list1) != len(list2):
