@@ -211,6 +211,7 @@ def write_hitzone_artifacts(monsters: MonsterCollection):
                     'cleave_type': "/".join(c[0] for c in part.cleaves),
                     'cleave_val': "/".join(str(c[1]) for c in part.cleaves),
                     'extract': part.extract,
+                    'subpart': subpart.id
                 }
 
                 def add_hzv(type, hzv):

@@ -38,7 +38,8 @@ class MonsterPart:
         self.subparts = subparts
 
 class MonsterSubPart:
-    def __init__(self, hzv_base: dict, hzv_broken: dict, hzv_special: Iterable[dict]):
+    def __init__(self, id: int, hzv_base: dict, hzv_broken: dict, hzv_special: Iterable[dict]):
+        self.id = id
         self.hzv_base = hzv_base
         self.hzv_broken = hzv_broken
         self.hzv_special = hzv_special
@@ -130,7 +131,7 @@ class MonsterCollection(Iterable[MonsterData]):
                     cleaves.append((cleave.damage_type, cleave.special_hp))
 
                 subparts = []
-                for s in part.subparts:
+                for sidx, s in enumerate(part.subparts):
                     for subpart in [s.sub_base, s.sub_unknown]:
                         special_hzvs = []
                         if monster.name['en'] not in ['Behemoth']:
@@ -140,6 +141,7 @@ class MonsterCollection(Iterable[MonsterData]):
                                 if hzv_spec: special_hzvs.append(hzv_spec)
                         
                         subparts.append(MonsterSubPart(
+                            id=sidx,
                             hzv_base=get_hitzone(subpart.hzv_base),
                             hzv_broken=get_hitzone(subpart.hzv_broken),
                             hzv_special=special_hzvs
