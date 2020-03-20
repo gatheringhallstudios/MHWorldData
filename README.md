@@ -77,8 +77,8 @@ The data collected by this project is an accumulation of various sources, includ
 
 - [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit)
 - [Decoration Drop Rates (by Asterisk)](https://docs.google.com/spreadsheets/d/1u9coasn-zyrBHKjcYedawr1A_bzPgrhjqMx6cMeqk_c/edit#gid=0)
-- [MHWG](http://mhwg.org/)
 - [Kiranico](https://mhworld.kiranico.com/)
+- [MHWG](http://mhwg.org/)
 - [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki)
 
 ## License
@@ -97,6 +97,7 @@ You are free to use this database for any purpose.
 - Material - For releasing AT Kulve drop rates.
 - [LartTyler](https://github.com/LartTyler/MHWDB-Docs/wiki) - For creating a collection of data that allows others to pull from
 - [Vocalonation](https://github.com/ahctang) - For helping with translating and crossvalidating data.
+- Fuzzle/David - Additional data from spreadsheets (items/monster breaks/etc)
 - [TanukiSharp](https://github.com/TanukiSharp/) - For creating a computer usable collection of sharpness data and allowing others to use it. His original project is [here](https://github.com/TanukiSharp/MHWSharpnessExtractor)
 - DiscreetMath - For streaming the game to me as I copied data down, while I waited for the PC release.
 

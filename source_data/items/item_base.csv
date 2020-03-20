@@ -1067,6 +1067,11 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1042,Black Belt Coin,material,,9,,1500,,,Coin,Gray
 1043,Hero King Coin,material,,10,,2000,,,Coin,Gold
 1044,Tigrex Coin,material,,11,,5000,,,Coin,DarkBeige
+1275,Dracolite Shard,material,,8,,,,,Question,DarkRed
+1276,Dracolite,material,,9,,,,,Question,DarkRed
+1277,Large Dracolite,material,,10,,,,,Question,DarkRed
+1278,Rigid Dracolite,material,,11,,,,,Question,DarkRed
+1279,Pure Dracolite,material,,12,,,,,Question,DarkRed
 1241,Stygian Zinogre Cortex,material,,9,,6630,,,Carapace,Gray
 1242,Stygian Zinogre Dragonlocks,material,,9,,4330,,,Body,Gray
 1243,Stygian Zinogre Hardhorn,material,,9,,9190,,,Fang,Gray
