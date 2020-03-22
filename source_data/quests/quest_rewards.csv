@@ -1,1009 +1,1008 @@
 base_id,group,item_en,stack,percentage
 101,A,Armor Sphere,1,100
-101,A,Armor Sphere,1,1
-101,A,Mandragora,1,12
 101,A,Blue Mushroom,2,18
 101,A,Bitterbug,3,16
 101,A,Toadstool,2,15
-101,A,Iron Ore,2,7
+101,A,Mandragora,1,12
 101,A,Machalite Ore,1,12
-101,A,Monster Bone S,2,7
 101,A,Ancient Bone,1,12
+101,A,Iron Ore,2,7
+101,A,Monster Bone S,2,7
+101,A,Armor Sphere,1,1
 102,A,Armor Sphere,1,100
-102,A,Armor Sphere,1,1
 102,A,Monster Bone S,1,28
-102,A,Ancient Bone,1,16
 102,A,Iron Ore,1,18
-102,A,Machalite Ore,1,10
+102,A,Ancient Bone,1,16
 102,A,Honey,3,15
 102,A,Bitterbug,3,12
+102,A,Machalite Ore,1,10
+102,A,Armor Sphere,1,1
 102,B,Kestodon Scalp,1,100
-102,B,Kestodon Scalp,1,30
 102,B,Kestodon Shell,1,44
+102,B,Kestodon Scalp,1,30
 102,B,Monster Bone S,2,26
 102,C,Kestodon Scalp,1,100
-102,C,Kestodon Scalp,1,30
 102,C,Kestodon Shell,1,44
+102,C,Kestodon Scalp,1,30
 102,C,Monster Bone S,2,26
 103,A,Armor Sphere,1,100
-103,A,Armor Sphere,1,1
 103,A,Monster Bone S,1,28
-103,A,Ancient Bone,1,16
 103,A,Iron Ore,1,18
-103,A,Machalite Ore,1,10
+103,A,Ancient Bone,1,16
 103,A,Honey,3,15
 103,A,Bitterbug,3,12
+103,A,Machalite Ore,1,10
+103,A,Armor Sphere,1,1
 201,A,Armor Sphere,1,100
-201,A,Armor Sphere,1,1
 201,A,Monster Bone S,1,28
-201,A,Ancient Bone,1,16
 201,A,Iron Ore,1,18
-201,A,Machalite Ore,1,10
+201,A,Ancient Bone,1,16
 201,A,Honey,3,15
 201,A,Bitterbug,3,12
+201,A,Machalite Ore,1,10
+201,A,Armor Sphere,1,1
 205,A,Armor Sphere,1,100
-205,A,Armor Sphere,1,1
 205,A,Monster Bone M,1,24
-205,A,Monster Bone S,2,15
 205,A,Ancient Bone,1,16
-205,A,Iron Ore,2,10
-205,A,Machalite Ore,1,10
+205,A,Monster Bone S,2,15
 205,A,Honey,3,12
 205,A,Bitterbug,3,12
+205,A,Iron Ore,2,10
+205,A,Machalite Ore,1,10
+205,A,Armor Sphere,1,1
 301,A,Armor Sphere,1,100
-301,A,Armor Sphere,1,1
 301,A,Monster Bone M,1,24
-301,A,Monster Bone S,2,15
-301,A,Boulder Bone,1,16
 301,A,Earth Crystal,1,20
+301,A,Boulder Bone,1,16
+301,A,Monster Bone S,2,15
 301,A,Nitroshroom,3,12
 301,A,Thunderbug,3,12
+301,A,Armor Sphere,1,1
 302,A,Armor Sphere,1,100
-302,A,Armor Sphere,1,1
 302,A,Monster Bone M,1,24
-302,A,Monster Bone S,2,15
-302,A,Boulder Bone,1,16
 302,A,Earth Crystal,1,20
+302,A,Boulder Bone,1,16
+302,A,Monster Bone S,2,15
 302,A,Nitroshroom,3,12
 302,A,Thunderbug,3,12
+302,A,Armor Sphere,1,1
 305,A,Armor Sphere,1,100
-305,A,Armor Sphere,1,1
 305,A,Monster Bone M,1,24
-305,A,Monster Bone S,2,15
 305,A,Ancient Bone,1,16
-305,A,Iron Ore,2,10
-305,A,Machalite Ore,1,10
+305,A,Monster Bone S,2,15
 305,A,Honey,3,12
 305,A,Bitterbug,3,12
+305,A,Iron Ore,2,10
+305,A,Machalite Ore,1,10
+305,A,Armor Sphere,1,1
 306,A,Armor Sphere+,1,100
-306,A,Armor Sphere+,1,1
 306,A,Monster Bone L,1,28
 306,A,Monster Bone M,2,17
 306,A,Ancient Bone,1,16
-306,A,Machalite Ore,1,11
 306,A,Honey,3,15
 306,A,Bitterbug,3,12
+306,A,Machalite Ore,1,11
+306,A,Armor Sphere+,1,1
 401,A,Zorah Magdaros Carapace,1,100
 401,A,Zorah Magdaros Carapace,1,31
 401,A,Zorah Magdaros Heat Scale,1,18
 401,A,Zorah Magdaros Magma,1,13
-401,A,Zorah Magdaros Pleura,1,8
 401,A,Dragonite Ore,1,10
 401,A,Machalite Ore,2,10
 401,A,Iron Ore,3,10
+401,A,Zorah Magdaros Pleura,1,8
 401,B,Armor Sphere+,1,100
-401,B,Armor Sphere+,1,1
 401,B,Monster Bone L,1,24
-401,B,Monster Bone M,2,13
+401,B,Ration,2,17
 401,B,Large Barrel Bomb,1,15
 401,B,Large Barrel,2,15
-401,B,Ration,2,17
 401,B,Trap Tool,3,15
+401,B,Monster Bone M,2,13
+401,B,Armor Sphere+,1,1
 405,A,Armor Sphere+,1,100
-405,A,Armor Sphere+,1,1
 405,A,Monster Bone L,1,24
 405,A,Sturdy Bone,1,18
 405,A,Coral Bone,1,13
 405,A,Coral Crystal,1,12
-405,A,Dragonite Ore,1,8
 405,A,Nulberry,2,12
 405,A,Flashbug,2,12
+405,A,Dragonite Ore,1,8
+405,A,Armor Sphere+,1,1
 407,A,Armor Sphere+,1,100
-407,A,Armor Sphere+,1,1
 407,A,Monster Bone L,1,24
 407,A,Sturdy Bone,1,18
+407,A,Dragonfell Berry,2,14
 407,A,Warped Bone,1,13
+407,A,Godbug,2,12
 407,A,Machalite Ore,1,10
 407,A,Dragonite Ore,1,8
-407,A,Dragonfell Berry,2,14
-407,A,Godbug,2,12
+407,A,Armor Sphere+,1,1
 408,A,Armor Sphere+,1,100
-408,A,Armor Sphere+,1,1
 408,A,Monster Bone+,1,24
 408,A,Sturdy Bone,1,23
 408,A,Coral Bone,1,16
 408,A,Coral Crystal,1,12
 408,A,Nulberry,2,12
 408,A,Flashbug,2,12
+408,A,Armor Sphere+,1,1
 501,A,Armor Sphere+,1,100
-501,A,Armor Sphere+,1,1
 501,A,Monster Bone+,1,24
 501,A,Sturdy Bone,1,23
 501,A,Warped Bone,1,16
 501,A,Dragonite Ore,1,12
 501,A,Dragonfell Berry,2,12
 501,A,Godbug,2,12
+501,A,Armor Sphere+,1,1
 502,A,Armor Sphere+,1,100
-502,A,Armor Sphere+,1,1
 502,A,Monster Bone+,1,24
 502,A,Monster Bone L,1,23
 502,A,Ancient Bone,1,16
 502,A,Machalite Ore,2,12
 502,A,Honey,3,12
 502,A,Bitterbug,3,12
+502,A,Armor Sphere+,1,1
 503,A,Armor Sphere+,1,100
-503,A,Armor Sphere+,1,1
 503,A,Monster Bone+,1,24
 503,A,Monster Bone L,1,23
 503,A,Boulder Bone,1,16
 503,A,Earth Crystal,2,12
 503,A,Nitroshroom,3,12
 503,A,Thunderbug,3,12
-504,A,Zorah Magdaros Heat Scale,1,20
+503,A,Armor Sphere+,1,1
 504,A,Zorah Magdaros Ridge,1,23
+504,A,Zorah Magdaros Heat Scale,1,20
 504,A,Zorah Magdaros Pleura,1,18
 504,A,Zorah Magdaros Magma,1,16
 504,A,Zorah Magdaros Carapace,2,15
 504,A,Zorah Magdaros Gem,1,8
 504,B,Commendation,1,100
-504,B,Commendation,1,1
 504,B,Dragonite Ore,1,21
-504,B,Zorah Magdaros Heat Scale,1,10
+504,B,Monster Bone L,2,18
 504,B,Zorah Magdaros Carapace,1,16
+504,B,Zorah Magdaros Heat Scale,1,10
 504,B,Zorah Magdaros Ridge,1,10
+504,B,Lightcrystal,1,10
 504,B,Zorah Magdaros Pleura,1,7
 504,B,Zorah Magdaros Magma,1,7
-504,B,Monster Bone L,2,18
-504,B,Lightcrystal,1,10
+504,B,Commendation,1,1
 601,A,Armor Sphere+,2,100
-601,A,Armor Sphere+,2,1
 601,A,Monster Bone+,1,30
 601,A,Monster Bone L,2,18
 601,A,Quality Bone,1,16
+601,A,Mysterious Feystone,1,15
 601,A,Carbalite Ore,1,10
 601,A,Thunderbug,3,10
-601,A,Mysterious Feystone,1,15
+601,A,Armor Sphere+,2,1
 605,A,Armor Sphere+,2,100
-605,A,Armor Sphere+,2,1
 605,A,Monster Keenbone,1,30
 605,A,Monster Bone+,2,18
 605,A,Quality Bone,1,16
+605,A,Mysterious Feystone,1,15
 605,A,Carbalite Ore,1,10
 605,A,Thunderbug,3,10
-605,A,Mysterious Feystone,1,15
+605,A,Armor Sphere+,2,1
 607,A,Advanced Armor Sphere,1,100
-607,A,Advanced Armor Sphere,1,1
 607,A,Monster Hardbone,1,24
 607,A,Monster Keenbone,1,20
 607,A,Carbalite Ore,1,20
 607,A,Mysterious Feystone,1,18
 607,A,Spiritcore Ore,1,12
 607,A,Novacrystal,1,5
+607,A,Advanced Armor Sphere,1,1
 701,A,High Commendation,1,100
-701,A,High Commendation,1,1
 701,A,Elder Dragon Bone,1,24
 701,A,Elder Dragon Blood,1,18
-701,A,Dreamcore Ore,1,8
-701,A,Dragonvein Crystal,2,15
 701,A,Mysterious Feystone,1,18
 701,A,Advanced Armor Sphere,2,16
+701,A,Dragonvein Crystal,2,15
+701,A,Dreamcore Ore,1,8
+701,A,High Commendation,1,1
 801,A,High Commendation,1,100
-801,A,High Commendation,1,1
 801,A,Elder Dragon Bone,1,24
 801,A,Elder Dragon Blood,1,18
-801,A,Dreamcore Ore,1,8
-801,A,Dragonvein Crystal,2,15
 801,A,Mysterious Feystone,1,18
 801,A,Advanced Armor Sphere,2,16
+801,A,Dragonvein Crystal,2,15
+801,A,Dreamcore Ore,1,8
+801,A,High Commendation,1,1
 802,A,High Commendation,1,100
-802,A,High Commendation,1,1
 802,A,Elder Dragon Bone,1,24
 802,A,Elder Dragon Blood,1,18
-802,A,Dreamcore Ore,1,8
-802,A,Dragonvein Crystal,2,15
 802,A,Mysterious Feystone,1,18
 802,A,Advanced Armor Sphere,2,16
+802,A,Dragonvein Crystal,2,15
+802,A,Dreamcore Ore,1,8
+802,A,High Commendation,1,1
 803,A,High Commendation,1,100
-803,A,High Commendation,1,1
 803,A,Elder Dragon Bone,1,24
 803,A,Elder Dragon Blood,1,18
-803,A,Dreamcore Ore,1,8
-803,A,Dragonvein Crystal,2,15
 803,A,Mysterious Feystone,1,18
 803,A,Advanced Armor Sphere,2,16
+803,A,Dragonvein Crystal,2,15
+803,A,Dreamcore Ore,1,8
+803,A,High Commendation,1,1
 804,A,High Commendation,1,100
-804,A,High Commendation,1,1
 804,A,Elder Dragon Bone,1,24
 804,A,Elder Dragon Blood,1,18
-804,A,Dreamcore Ore,1,13
 804,A,Dragonvein Crystal,2,16
-804,A,Dragonbone Relic,1,12
 804,A,Hard Armor Sphere,1,16
+804,A,Dreamcore Ore,1,13
+804,A,Dragonbone Relic,1,12
+804,A,High Commendation,1,1
 805,A,Streamstone,1,100
-805,A,Streamstone,1,7
 805,A,Monster Hardbone,2,20
 805,A,Bazelgeuse Talon,1,18
 805,A,Bazelgeuse Wing,1,18
-805,A,Bazelgeuse Fuse,1,14
-805,A,Bazelgeuse Gem,1,5
 805,A,Hard Armor Sphere,1,18
+805,A,Bazelgeuse Fuse,1,14
+805,A,Streamstone,1,7
+805,A,Bazelgeuse Gem,1,5
 806,A,Gleaming Streamstone,1,100
-806,A,Gleaming Streamstone,1,7
 806,A,Elder Dragon Bone,1,21
 806,A,Elder Dragon Blood,1,18
-806,A,Streamstone,1,13
-806,A,Dragoncore Ore,1,11
 806,A,Hard Armor Sphere,1,18
+806,A,Streamstone,1,13
 806,A,Novacrystal,1,12
+806,A,Dragoncore Ore,1,11
+806,A,Gleaming Streamstone,1,7
 151,A,Armor Sphere,1,100
-151,A,Armor Sphere,1,1
-151,A,Mandragora,1,12
 151,A,Blue Mushroom,2,18
 151,A,Bitterbug,3,16
 151,A,Toadstool,2,15
-151,A,Iron Ore,2,7
+151,A,Mandragora,1,12
 151,A,Machalite Ore,1,12
-151,A,Monster Bone S,2,7
 151,A,Ancient Bone,1,12
+151,A,Iron Ore,2,7
+151,A,Monster Bone S,2,7
+151,A,Armor Sphere,1,1
 152,A,Armor Sphere,1,100
-152,A,Armor Sphere,1,1
-152,A,Mandragora,1,12
 152,A,Blue Mushroom,2,18
 152,A,Bitterbug,3,16
 152,A,Toadstool,2,15
-152,A,Iron Ore,2,7
+152,A,Mandragora,1,12
 152,A,Machalite Ore,1,12
-152,A,Monster Bone S,2,7
 152,A,Ancient Bone,1,12
+152,A,Iron Ore,2,7
+152,A,Monster Bone S,2,7
+152,A,Armor Sphere,1,1
 153,A,Armor Sphere,1,100
-153,A,Armor Sphere,1,1
-153,A,Mandragora,1,12
 153,A,Blue Mushroom,2,18
 153,A,Bitterbug,3,16
 153,A,Toadstool,2,15
-153,A,Iron Ore,2,7
+153,A,Mandragora,1,12
 153,A,Machalite Ore,1,12
-153,A,Monster Bone S,2,7
 153,A,Ancient Bone,1,12
+153,A,Iron Ore,2,7
+153,A,Monster Bone S,2,7
+153,A,Armor Sphere,1,1
 251,A,Armor Sphere,1,100
-251,A,Armor Sphere,1,1
 251,A,Monster Bone S,1,28
-251,A,Ancient Bone,1,16
 251,A,Iron Ore,1,18
-251,A,Machalite Ore,1,10
+251,A,Ancient Bone,1,16
 251,A,Honey,3,15
 251,A,Bitterbug,3,12
+251,A,Machalite Ore,1,10
+251,A,Armor Sphere,1,1
 252,A,Armor Sphere,1,100
-252,A,Armor Sphere,1,1
 252,A,Monster Bone S,1,28
-252,A,Ancient Bone,1,16
 252,A,Iron Ore,1,18
-252,A,Machalite Ore,1,10
+252,A,Ancient Bone,1,16
 252,A,Honey,3,15
 252,A,Bitterbug,3,12
+252,A,Machalite Ore,1,10
+252,A,Armor Sphere,1,1
 261,A,Armor Sphere,1,100
-261,A,Armor Sphere,1,1
 261,A,Monster Bone S,1,28
-261,A,Boulder Bone,1,16
 261,A,Earth Crystal,1,18
-261,A,Machalite Ore,1,10
+261,A,Boulder Bone,1,16
 261,A,Nitroshroom,3,15
 261,A,Thunderbug,3,12
+261,A,Machalite Ore,1,10
+261,A,Armor Sphere,1,1
 262,A,Armor Sphere,1,100
-262,A,Armor Sphere,1,1
-262,A,Might Seed,1,12
 262,A,Nitroshroom,2,18
 262,A,Fire Herb,3,16
 262,A,Thunderbug,2,15
-262,A,Earth Crystal,2,7
+262,A,Might Seed,1,12
 262,A,Machalite Ore,1,12
-262,A,Monster Bone S,2,7
 262,A,Boulder Bone,1,12
+262,A,Earth Crystal,2,7
+262,A,Monster Bone S,2,7
+262,A,Armor Sphere,1,1
 263,A,Armor Sphere,1,100
-263,A,Armor Sphere,1,1
-263,A,Might Seed,1,12
 263,A,Nitroshroom,2,18
 263,A,Fire Herb,3,16
 263,A,Thunderbug,2,15
-263,A,Earth Crystal,2,7
+263,A,Might Seed,1,12
 263,A,Machalite Ore,1,12
-263,A,Monster Bone S,2,7
 263,A,Boulder Bone,1,12
+263,A,Earth Crystal,2,7
+263,A,Monster Bone S,2,7
+263,A,Armor Sphere,1,1
 351,A,Armor Sphere,1,100
-351,A,Armor Sphere,1,1
 351,A,Monster Bone M,1,24
-351,A,Monster Bone S,2,15
 351,A,Ancient Bone,1,16
-351,A,Iron Ore,2,10
-351,A,Machalite Ore,1,10
+351,A,Monster Bone S,2,15
 351,A,Honey,3,12
 351,A,Bitterbug,3,12
+351,A,Iron Ore,2,10
+351,A,Machalite Ore,1,10
+351,A,Armor Sphere,1,1
 352,A,Armor Sphere,1,100
-352,A,Armor Sphere,1,1
 352,A,Monster Bone M,1,24
-352,A,Monster Bone S,2,15
 352,A,Ancient Bone,1,16
-352,A,Iron Ore,2,10
-352,A,Machalite Ore,1,10
+352,A,Monster Bone S,2,15
 352,A,Honey,3,12
 352,A,Bitterbug,3,12
+352,A,Iron Ore,2,10
+352,A,Machalite Ore,1,10
+352,A,Armor Sphere,1,1
 361,A,Armor Sphere,1,100
-361,A,Armor Sphere,1,1
 361,A,Monster Bone M,1,24
-361,A,Monster Bone S,2,15
-361,A,Boulder Bone,1,16
 361,A,Earth Crystal,1,20
+361,A,Boulder Bone,1,16
+361,A,Monster Bone S,2,15
 361,A,Nitroshroom,3,12
 361,A,Thunderbug,3,12
+361,A,Armor Sphere,1,1
 362,A,Armor Sphere,1,100
-362,A,Armor Sphere,1,1
 362,A,Monster Bone M,1,24
-362,A,Monster Bone S,2,15
-362,A,Boulder Bone,1,16
 362,A,Earth Crystal,1,20
+362,A,Boulder Bone,1,16
+362,A,Monster Bone S,2,15
 362,A,Nitroshroom,3,12
 362,A,Thunderbug,3,12
+362,A,Armor Sphere,1,1
 363,A,Armor Sphere,1,100
-363,A,Armor Sphere,1,1
-363,A,Might Seed,1,12
 363,A,Nitroshroom,2,18
 363,A,Fire Herb,3,16
 363,A,Thunderbug,2,15
-363,A,Earth Crystal,2,7
+363,A,Might Seed,1,12
 363,A,Machalite Ore,1,12
-363,A,Monster Bone S,2,7
 363,A,Boulder Bone,1,12
+363,A,Earth Crystal,2,7
+363,A,Monster Bone S,2,7
+363,A,Armor Sphere,1,1
 364,A,Steel Egg,1,100
-364,A,Steel Egg,1,1
-364,A,Might Seed,1,12
 364,A,Nitroshroom,2,18
 364,A,Fire Herb,3,16
 364,A,Thunderbug,2,15
-364,A,Earth Crystal,2,7
+364,A,Might Seed,1,12
 364,A,Machalite Ore,1,12
-364,A,Monster Bone S,2,7
 364,A,Boulder Bone,1,12
+364,A,Earth Crystal,2,7
+364,A,Monster Bone S,2,7
+364,A,Steel Egg,1,1
 365,A,Armor Sphere,1,100
-365,A,Armor Sphere,1,1
 365,A,Monster Bone M,1,24
-365,A,Monster Bone S,2,15
-365,A,Boulder Bone,1,16
 365,A,Earth Crystal,1,20
+365,A,Boulder Bone,1,16
+365,A,Monster Bone S,2,15
 365,A,Nitroshroom,3,12
 365,A,Thunderbug,3,12
+365,A,Armor Sphere,1,1
 331,A,Armor Sphere,1,100
-331,A,Armor Sphere,1,1
 331,A,Monster Bone M,1,25
+331,A,Ration,2,17
 331,A,Large Barrel Bomb,1,15
 331,A,Large Barrel,2,15
-331,A,Small Barrel,3,12
-331,A,Ration,2,17
 331,A,Trap Tool,2,15
+331,A,Small Barrel,3,12
+331,A,Armor Sphere,1,1
 332,A,Armor Sphere,1,100
-332,A,Armor Sphere,1,1
 332,A,Monster Bone M,1,25
+332,A,Ration,2,17
 332,A,Large Barrel Bomb,1,15
 332,A,Large Barrel,2,15
-332,A,Small Barrel,3,12
-332,A,Ration,2,17
 332,A,Trap Tool,2,15
+332,A,Small Barrel,3,12
+332,A,Armor Sphere,1,1
 333,A,Armor Sphere,1,100
-333,A,Armor Sphere,1,1
 333,A,Monster Bone M,1,25
+333,A,Ration,2,17
 333,A,Large Barrel Bomb,1,15
 333,A,Large Barrel,2,15
-333,A,Small Barrel,3,12
-333,A,Ration,2,17
 333,A,Trap Tool,2,15
+333,A,Small Barrel,3,12
+333,A,Armor Sphere,1,1
 451,A,Armor Sphere+,1,100
-451,A,Armor Sphere+,1,1
 451,A,Monster Bone L,1,28
 451,A,Monster Bone M,2,17
 451,A,Ancient Bone,1,16
-451,A,Machalite Ore,1,11
 451,A,Honey,3,15
 451,A,Bitterbug,3,12
+451,A,Machalite Ore,1,11
+451,A,Armor Sphere+,1,1
 452,A,Steel Egg,2,100
-452,A,Steel Egg,2,1
-452,A,Mandragora,1,12
 452,A,Blue Mushroom,2,18
 452,A,Bitterbug,3,16
 452,A,Toadstool,2,15
-452,A,Iron Ore,2,7
+452,A,Mandragora,1,12
 452,A,Machalite Ore,1,12
-452,A,Monster Bone S,2,7
 452,A,Ancient Bone,1,12
+452,A,Iron Ore,2,7
+452,A,Monster Bone S,2,7
+452,A,Steel Egg,2,1
 461,A,Armor Sphere+,1,100
-461,A,Armor Sphere+,1,1
 461,A,Monster Bone L,1,28
 461,A,Monster Bone M,2,17
 461,A,Boulder Bone,1,16
-461,A,Earth Crystal,1,11
 461,A,Nitroshroom,3,15
 461,A,Thunderbug,3,12
+461,A,Earth Crystal,1,11
+461,A,Armor Sphere+,1,1
 471,A,Armor Sphere+,1,100
-471,A,Armor Sphere+,1,1
-471,A,Adamant Seed,1,12
 471,A,Nulberry,2,18
 471,A,Snow Herb,3,16
 471,A,Flashbug,2,15
-471,A,Coral Crystal,2,7
+471,A,Adamant Seed,1,12
 471,A,Dragonite Ore,1,12
-471,A,Sturdy Bone,2,7
 471,A,Coral Bone,1,12
+471,A,Coral Crystal,2,7
+471,A,Sturdy Bone,2,7
+471,A,Armor Sphere+,1,1
 472,A,Armor Sphere+,1,100
-472,A,Armor Sphere+,1,1
 472,A,Monster Bone L,1,24
 472,A,Sturdy Bone,1,18
 472,A,Coral Bone,1,13
 472,A,Coral Crystal,1,12
-472,A,Dragonite Ore,1,8
 472,A,Nulberry,2,12
 472,A,Flashbug,2,12
+472,A,Dragonite Ore,1,8
+472,A,Armor Sphere+,1,1
 473,A,Armor Sphere+,1,100
-473,A,Armor Sphere+,1,1
 473,A,Monster Bone L,1,24
 473,A,Sturdy Bone,1,18
 473,A,Coral Bone,1,13
 473,A,Coral Crystal,1,12
-473,A,Dragonite Ore,1,8
 473,A,Nulberry,2,12
 473,A,Flashbug,2,12
+473,A,Dragonite Ore,1,8
+473,A,Armor Sphere+,1,1
 474,A,Armor Sphere+,1,100
-474,A,Armor Sphere+,1,1
-474,A,Adamant Seed,1,12
 474,A,Nulberry,2,18
 474,A,Snow Herb,3,16
 474,A,Flashbug,2,15
-474,A,Coral Crystal,2,7
+474,A,Adamant Seed,1,12
 474,A,Dragonite Ore,1,12
-474,A,Sturdy Bone,2,7
 474,A,Coral Bone,1,12
+474,A,Coral Crystal,2,7
+474,A,Sturdy Bone,2,7
+474,A,Armor Sphere+,1,1
 475,A,Armor Sphere+,1,100
-475,A,Armor Sphere+,1,1
 475,A,Monster Bone L,1,24
 475,A,Sturdy Bone,1,18
 475,A,Coral Bone,1,13
 475,A,Coral Crystal,1,12
-475,A,Dragonite Ore,1,8
 475,A,Nulberry,2,12
 475,A,Flashbug,2,12
+475,A,Dragonite Ore,1,8
+475,A,Armor Sphere+,1,1
 481,A,Armor Sphere+,1,100
-481,A,Armor Sphere+,1,1
-481,A,Devil's Blight,1,12
 481,A,Dragonfell Berry,2,18
 481,A,Parashroom,3,16
 481,A,Godbug,2,15
-481,A,Machalite Ore,2,7
+481,A,Devil's Blight,1,12
 481,A,Dragonite Ore,1,12
-481,A,Sturdy Bone,2,7
 481,A,Warped Bone,1,12
+481,A,Machalite Ore,2,7
+481,A,Sturdy Bone,2,7
+481,A,Armor Sphere+,1,1
 482,A,Armor Sphere+,1,100
-482,A,Armor Sphere+,1,1
 482,A,Monster Bone L,1,24
 482,A,Sturdy Bone,1,18
+482,A,Dragonfell Berry,2,14
 482,A,Warped Bone,1,13
+482,A,Godbug,2,12
 482,A,Machalite Ore,1,10
 482,A,Dragonite Ore,1,8
-482,A,Dragonfell Berry,2,14
-482,A,Godbug,2,12
+482,A,Armor Sphere+,1,1
 483,A,Armor Sphere+,1,100
-483,A,Armor Sphere+,1,1
 483,A,Monster Bone L,1,24
 483,A,Sturdy Bone,1,18
+483,A,Dragonfell Berry,2,14
 483,A,Warped Bone,1,13
+483,A,Godbug,2,12
 483,A,Machalite Ore,1,10
 483,A,Dragonite Ore,1,8
-483,A,Dragonfell Berry,2,14
-483,A,Godbug,2,12
+483,A,Armor Sphere+,1,1
 484,A,Armor Sphere+,1,100
-484,A,Armor Sphere+,1,1
-484,A,Devil's Blight,1,12
 484,A,Dragonfell Berry,2,18
 484,A,Parashroom,3,16
 484,A,Godbug,2,15
-484,A,Machalite Ore,2,7
+484,A,Devil's Blight,1,12
 484,A,Dragonite Ore,1,12
-484,A,Sturdy Bone,2,7
 484,A,Warped Bone,1,12
+484,A,Machalite Ore,2,7
+484,A,Sturdy Bone,2,7
+484,A,Armor Sphere+,1,1
 5003,A,Tailraider Voucher,1,100
-5003,A,Tailraider Voucher,1,1
-5003,A,Adamant Seed,1,12
 5003,A,Nulberry,2,18
 5003,A,Snow Herb,3,16
 5003,A,Flashbug,2,15
-5003,A,Coral Crystal,2,7
+5003,A,Adamant Seed,1,12
 5003,A,Dragonite Ore,1,12
-5003,A,Sturdy Bone,2,7
 5003,A,Coral Bone,1,12
+5003,A,Coral Crystal,2,7
+5003,A,Sturdy Bone,2,7
+5003,A,Tailraider Voucher,1,1
 431,A,Armor Sphere+,1,100
-431,A,Armor Sphere+,1,1
 431,A,Monster Bone L,1,24
-431,A,Monster Bone M,2,13
+431,A,Ration,2,17
 431,A,Large Barrel Bomb,1,15
 431,A,Large Barrel,2,15
-431,A,Ration,2,17
 431,A,Trap Tool,3,15
+431,A,Monster Bone M,2,13
+431,A,Armor Sphere+,1,1
 432,A,Armor Sphere+,1,100
-432,A,Armor Sphere+,1,1
 432,A,Monster Bone L,1,24
-432,A,Monster Bone M,2,13
+432,A,Ration,2,17
 432,A,Large Barrel Bomb,1,15
 432,A,Large Barrel,2,15
-432,A,Ration,2,17
 432,A,Trap Tool,3,15
+432,A,Monster Bone M,2,13
+432,A,Armor Sphere+,1,1
 433,A,Armor Sphere+,1,100
-433,A,Armor Sphere+,1,1
 433,A,Monster Bone L,1,24
-433,A,Monster Bone M,2,13
+433,A,Ration,2,17
 433,A,Large Barrel Bomb,1,15
 433,A,Large Barrel,2,15
-433,A,Ration,2,17
 433,A,Trap Tool,3,15
+433,A,Monster Bone M,2,13
+433,A,Armor Sphere+,1,1
 434,A,Armor Sphere+,1,100
-434,A,Armor Sphere+,1,1
 434,A,Monster Bone L,1,24
-434,A,Monster Bone M,2,13
+434,A,Ration,2,17
 434,A,Large Barrel Bomb,1,15
 434,A,Large Barrel,2,15
-434,A,Ration,2,17
 434,A,Trap Tool,3,15
+434,A,Monster Bone M,2,13
+434,A,Armor Sphere+,1,1
 551,A,Armor Sphere+,1,100
-551,A,Armor Sphere+,1,1
 551,A,Monster Bone+,1,24
 551,A,Monster Bone L,1,23
 551,A,Ancient Bone,1,16
 551,A,Machalite Ore,2,12
 551,A,Honey,3,12
 551,A,Bitterbug,3,12
+551,A,Armor Sphere+,1,1
 552,A,Commendation,1,100
-552,A,Commendation,1,1
 552,A,Monster Bone+,2,19
-552,A,Monster Bone L,2,11
 552,A,Sturdy Bone,1,16
 552,A,Flame Sac,1,16
+552,A,Armor Sphere+,1,15
+552,A,Monster Bone L,2,11
 552,A,Rathalos Marrow,1,8
 552,A,Rathian Spike,1,8
-552,A,Armor Sphere+,1,15
 552,A,Rathalos Plate,1,3
 552,A,Rathian Plate,1,3
+552,A,Commendation,1,1
 561,A,Armor Sphere+,1,100
-561,A,Armor Sphere+,1,1
 561,A,Monster Bone+,1,24
 561,A,Monster Bone L,1,23
 561,A,Boulder Bone,1,16
 561,A,Earth Crystal,2,12
 561,A,Nitroshroom,3,12
 561,A,Thunderbug,3,12
+561,A,Armor Sphere+,1,1
 571,A,Armor Sphere+,1,100
-571,A,Armor Sphere+,1,1
 571,A,Monster Bone+,1,24
 571,A,Sturdy Bone,1,23
 571,A,Coral Bone,1,16
 571,A,Coral Crystal,1,12
 571,A,Nulberry,2,12
 571,A,Flashbug,2,12
+571,A,Armor Sphere+,1,1
 572,A,Commendation,1,100
-572,A,Commendation,1,1
 572,A,Coral Crystal,1,22
 572,A,Dragonite Ore,1,22
-572,A,Coral Bone,1,13
 572,A,Aquacore Ore,1,16
-572,A,Lightcrystal,1,12
 572,A,Armor Sphere+,1,14
+572,A,Coral Bone,1,13
+572,A,Lightcrystal,1,12
+572,A,Commendation,1,1
 581,A,Armor Sphere+,1,100
-581,A,Armor Sphere+,1,1
 581,A,Monster Bone+,1,24
 581,A,Sturdy Bone,1,23
 581,A,Warped Bone,1,16
 581,A,Dragonite Ore,1,12
 581,A,Dragonfell Berry,2,12
 581,A,Godbug,2,12
+581,A,Armor Sphere+,1,1
 582,A,Armor Sphere+,1,100
-582,A,Armor Sphere+,1,1
 582,A,Monster Bone+,1,24
 582,A,Sturdy Bone,1,23
 582,A,Warped Bone,1,16
 582,A,Dragonite Ore,1,12
 582,A,Dragonfell Berry,2,12
 582,A,Godbug,2,12
+582,A,Armor Sphere+,1,1
 583,A,Steel Egg,3,100
-583,A,Steel Egg,3,1
-583,A,Devil's Blight,1,12
 583,A,Dragonfell Berry,2,18
 583,A,Parashroom,3,16
 583,A,Godbug,2,15
-583,A,Machalite Ore,2,7
+583,A,Devil's Blight,1,12
 583,A,Dragonite Ore,1,12
-583,A,Sturdy Bone,2,7
 583,A,Warped Bone,1,12
+583,A,Machalite Ore,2,7
+583,A,Sturdy Bone,2,7
+583,A,Steel Egg,3,1
 531,A,Armor Sphere+,1,100
-531,A,Armor Sphere+,1,1
 531,A,Monster Bone+,1,24
-531,A,Sturdy Bone,2,13
+531,A,Ration,2,17
 531,A,Large Barrel Bomb,1,15
 531,A,Large Barrel,2,15
-531,A,Ration,2,17
 531,A,Trap Tool,3,15
+531,A,Sturdy Bone,2,13
+531,A,Armor Sphere+,1,1
 532,A,Armor Sphere+,1,100
-532,A,Armor Sphere+,1,1
 532,A,Monster Bone+,1,24
-532,A,Sturdy Bone,2,13
+532,A,Ration,2,17
 532,A,Large Barrel Bomb,1,15
 532,A,Large Barrel,2,15
-532,A,Ration,2,17
 532,A,Trap Tool,3,15
+532,A,Sturdy Bone,2,13
+532,A,Armor Sphere+,1,1
 533,A,Armor Sphere+,1,100
-533,A,Armor Sphere+,1,1
 533,A,Monster Bone+,1,24
-533,A,Sturdy Bone,2,13
+533,A,Ration,2,17
 533,A,Large Barrel Bomb,1,15
 533,A,Large Barrel,2,15
-533,A,Ration,2,17
 533,A,Trap Tool,3,15
+533,A,Sturdy Bone,2,13
+533,A,Armor Sphere+,1,1
 534,A,Armor Sphere+,1,100
-534,A,Armor Sphere+,1,1
 534,A,Monster Bone+,1,24
-534,A,Sturdy Bone,2,13
+534,A,Ration,2,17
 534,A,Large Barrel Bomb,1,15
 534,A,Large Barrel,2,15
-534,A,Ration,2,17
 534,A,Trap Tool,3,15
+534,A,Sturdy Bone,2,13
+534,A,Armor Sphere+,1,1
 641,A,Zorah Magdaros Heat Scale,1,100
-641,A,Zorah Magdaros Heat Scale,1,20
 641,A,Zorah Magdaros Ridge,1,23
+641,A,Zorah Magdaros Heat Scale,1,20
 641,A,Zorah Magdaros Pleura,1,18
 641,A,Zorah Magdaros Magma,1,16
 641,A,Zorah Magdaros Carapace,2,15
 641,A,Zorah Magdaros Gem,1,8
 641,B,Commendation,1,100
-641,B,Commendation,1,1
 641,B,Dragonite Ore,1,21
-641,B,Zorah Magdaros Heat Scale,1,10
+641,B,Monster Bone L,2,18
 641,B,Zorah Magdaros Carapace,1,16
+641,B,Zorah Magdaros Heat Scale,1,10
 641,B,Zorah Magdaros Ridge,1,10
+641,B,Lightcrystal,1,10
 641,B,Zorah Magdaros Pleura,1,7
 641,B,Zorah Magdaros Magma,1,7
-641,B,Monster Bone L,2,18
-641,B,Lightcrystal,1,10
+641,B,Commendation,1,1
 651,A,Armor Sphere+,2,100
-651,A,Armor Sphere+,2,1
 651,A,Monster Bone+,1,30
 651,A,Monster Bone L,2,18
 651,A,Quality Bone,1,16
+651,A,Mysterious Feystone,1,15
 651,A,Carbalite Ore,1,10
 651,A,Honey,5,10
-651,A,Mysterious Feystone,1,15
+651,A,Armor Sphere+,2,1
 652,A,Armor Sphere+,2,100
-652,A,Armor Sphere+,2,1
 652,A,Monster Bone+,1,30
 652,A,Monster Bone L,2,18
 652,A,Quality Bone,1,16
+652,A,Mysterious Feystone,1,15
 652,A,Carbalite Ore,1,10
 652,A,Honey,5,10
-652,A,Mysterious Feystone,1,15
+652,A,Armor Sphere+,2,1
 653,A,Armor Sphere+,2,100
-653,A,Armor Sphere+,2,1
 653,A,Monster Keenbone,1,30
 653,A,Monster Bone+,2,18
 653,A,Quality Bone,1,16
+653,A,Mysterious Feystone,1,15
 653,A,Carbalite Ore,1,10
 653,A,Honey,5,10
-653,A,Mysterious Feystone,1,15
+653,A,Armor Sphere+,2,1
 654,A,Armor Sphere+,2,100
-654,A,Armor Sphere+,2,1
 654,A,Monster Keenbone,1,30
 654,A,Monster Bone+,2,18
 654,A,Quality Bone,1,16
+654,A,Mysterious Feystone,1,15
 654,A,Carbalite Ore,1,10
 654,A,Honey,5,10
-654,A,Mysterious Feystone,1,15
+654,A,Armor Sphere+,2,1
 655,A,Armor Sphere+,2,100
-655,A,Armor Sphere+,2,1
 655,A,Monster Keenbone,1,30
 655,A,Monster Bone+,2,18
 655,A,Quality Bone,1,16
+655,A,Mysterious Feystone,1,15
 655,A,Carbalite Ore,1,10
 655,A,Honey,5,10
-655,A,Mysterious Feystone,1,15
+655,A,Armor Sphere+,2,1
 656,A,Armor Sphere+,2,100
-656,A,Armor Sphere+,2,1
 656,A,Monster Keenbone,1,30
 656,A,Monster Bone+,2,18
 656,A,Quality Bone,1,16
+656,A,Mysterious Feystone,1,15
 656,A,Carbalite Ore,1,10
 656,A,Honey,5,10
-656,A,Mysterious Feystone,1,15
+656,A,Armor Sphere+,2,1
 661,A,Armor Sphere+,2,100
-661,A,Armor Sphere+,2,1
 661,A,Monster Bone+,1,30
 661,A,Monster Bone L,2,18
 661,A,Quality Bone,1,16
+661,A,Mysterious Feystone,1,15
 661,A,Carbalite Ore,1,10
 661,A,Thunderbug,3,10
-661,A,Mysterious Feystone,1,15
+661,A,Armor Sphere+,2,1
 662,A,Armor Sphere+,2,100
-662,A,Armor Sphere+,2,1
 662,A,Monster Bone+,1,30
 662,A,Monster Bone L,2,18
 662,A,Quality Bone,1,16
+662,A,Mysterious Feystone,1,15
 662,A,Carbalite Ore,1,10
 662,A,Thunderbug,3,10
-662,A,Mysterious Feystone,1,15
+662,A,Armor Sphere+,2,1
 663,A,Armor Sphere+,2,100
-663,A,Armor Sphere+,2,1
 663,A,Monster Bone+,1,30
 663,A,Monster Bone L,2,18
 663,A,Quality Bone,1,16
+663,A,Mysterious Feystone,1,15
 663,A,Carbalite Ore,1,10
 663,A,Thunderbug,3,10
-663,A,Mysterious Feystone,1,15
+663,A,Armor Sphere+,2,1
 665,A,Armor Sphere+,2,100
-665,A,Armor Sphere+,2,1
 665,A,Monster Keenbone,1,30
 665,A,Monster Bone+,2,18
 665,A,Quality Bone,1,16
+665,A,Mysterious Feystone,1,15
 665,A,Carbalite Ore,1,10
 665,A,Thunderbug,3,10
-665,A,Mysterious Feystone,1,15
+665,A,Armor Sphere+,2,1
 666,A,Armor Sphere+,2,100
-666,A,Armor Sphere+,2,1
 666,A,Monster Keenbone,1,30
 666,A,Monster Bone+,2,18
 666,A,Quality Bone,1,16
+666,A,Mysterious Feystone,1,15
 666,A,Carbalite Ore,1,10
 666,A,Thunderbug,3,10
-666,A,Mysterious Feystone,1,15
+666,A,Armor Sphere+,2,1
 667,A,Armor Sphere+,2,100
-667,A,Armor Sphere+,2,1
 667,A,Monster Keenbone,1,30
 667,A,Monster Bone+,2,18
 667,A,Quality Bone,1,16
+667,A,Mysterious Feystone,1,15
 667,A,Carbalite Ore,1,10
 667,A,Thunderbug,3,10
-667,A,Mysterious Feystone,1,15
+667,A,Armor Sphere+,2,1
 671,A,Armor Sphere+,2,100
-671,A,Armor Sphere+,2,1
 671,A,Monster Bone+,1,30
 671,A,Monster Bone L,2,18
 671,A,Quality Bone,1,16
+671,A,Mysterious Feystone,1,15
 671,A,Aquacore Ore,1,10
 671,A,Flashbug,2,10
-671,A,Mysterious Feystone,1,15
+671,A,Armor Sphere+,2,1
 672,A,Armor Sphere+,2,100
-672,A,Armor Sphere+,2,1
 672,A,Monster Keenbone,1,30
 672,A,Monster Bone+,2,18
 672,A,Quality Bone,1,16
+672,A,Mysterious Feystone,1,15
 672,A,Aquacore Ore,1,10
 672,A,Flashbug,2,10
-672,A,Mysterious Feystone,1,15
+672,A,Armor Sphere+,2,1
 681,A,Armor Sphere+,2,100
-681,A,Armor Sphere+,2,1
 681,A,Monster Bone+,1,30
 681,A,Monster Bone L,2,18
 681,A,Quality Bone,2,16
+681,A,Mysterious Feystone,1,15
 681,A,Carbalite Ore,1,10
 681,A,Godbug,2,10
-681,A,Mysterious Feystone,1,15
+681,A,Armor Sphere+,2,1
 682,A,Armor Sphere+,2,100
-682,A,Armor Sphere+,2,1
 682,A,Monster Keenbone,1,30
 682,A,Monster Bone+,2,18
 682,A,Quality Bone,1,16
+682,A,Mysterious Feystone,1,15
 682,A,Carbalite Ore,1,10
 682,A,Godbug,2,10
-682,A,Mysterious Feystone,1,15
+682,A,Armor Sphere+,2,1
 683,A,Armor Sphere+,1,100
-683,A,Armor Sphere+,1,1
-683,A,Devil's Blight,2,12
 683,A,Dragonfell Berry,4,18
 683,A,Parashroom,6,16
 683,A,Godbug,4,15
+683,A,Devil's Blight,2,12
 683,A,Carbalite Ore,1,12
-683,A,Quality Bone,2,7
 683,A,Warped Bone,1,12
+683,A,Quality Bone,2,7
 683,A,Dragonbone Relic,1,7
+683,A,Armor Sphere+,1,1
 684,A,Armor Sphere+,1,100
-684,A,Armor Sphere+,1,1
-684,A,Devil's Blight,2,12
 684,A,Dragonfell Berry,4,18
 684,A,Parashroom,6,16
 684,A,Godbug,4,15
+684,A,Devil's Blight,2,12
 684,A,Carbalite Ore,1,12
-684,A,Quality Bone,2,7
 684,A,Warped Bone,1,12
+684,A,Quality Bone,2,7
 684,A,Dragonbone Relic,1,7
+684,A,Armor Sphere+,1,1
 691,A,Advanced Armor Sphere,1,100
-691,A,Advanced Armor Sphere,1,1
-691,A,Devil's Blight,2,12
 691,A,Baitbug,4,18
 691,A,Chillshroom,6,16
 691,A,Fucium Ore,1,15
+691,A,Devil's Blight,2,12
 691,A,Carbalite Ore,2,12
-691,A,Quality Bone,2,7
 691,A,Brutal Bone,1,12
+691,A,Quality Bone,2,7
 691,A,Firecell Stone,1,7
+691,A,Advanced Armor Sphere,1,1
 692,A,Advanced Armor Sphere,1,100
-692,A,Advanced Armor Sphere,1,1
-692,A,Devil's Blight,2,12
 692,A,Baitbug,4,18
 692,A,Chillshroom,6,16
 692,A,Fucium Ore,1,15
+692,A,Devil's Blight,2,12
 692,A,Carbalite Ore,2,12
-692,A,Quality Bone,2,7
 692,A,Brutal Bone,1,12
+692,A,Quality Bone,2,7
 692,A,Firecell Stone,1,7
+692,A,Advanced Armor Sphere,1,1
 693,A,Advanced Armor Sphere,1,100
-693,A,Advanced Armor Sphere,1,1
 693,A,Monster Keenbone,1,24
 693,A,Monster Bone+,1,18
-693,A,Quality Bone,1,12
-693,A,Carbalite Ore,2,8
-693,A,Brutal Bone,1,10
 693,A,Mysterious Feystone,1,15
+693,A,Quality Bone,1,12
 693,A,Fucium Ore,1,12
+693,A,Brutal Bone,1,10
+693,A,Carbalite Ore,2,8
+693,A,Advanced Armor Sphere,1,1
 694,A,Gajalaka Sketch,1,100
-694,A,Gajalaka Sketch,1,1
-694,A,Devil's Blight,2,12
 694,A,Baitbug,4,18
 694,A,Chillshroom,6,16
 694,A,Fucium Ore,1,15
+694,A,Devil's Blight,2,12
 694,A,Carbalite Ore,2,12
-694,A,Quality Bone,2,7
 694,A,Brutal Bone,1,12
+694,A,Quality Bone,2,7
 694,A,Firecell Stone,1,7
+694,A,Gajalaka Sketch,1,1
 631,A,Armor Sphere+,2,100
-631,A,Armor Sphere+,2,1
 631,A,Monster Bone+,1,24
 631,A,Monster Bone L,2,18
-631,A,Quality Bone,1,14
-631,A,Large Barrel Bomb,2,13
 631,A,Well-done Steak,2,15
 631,A,Mysterious Feystone,1,15
+631,A,Quality Bone,1,14
+631,A,Large Barrel Bomb,2,13
+631,A,Armor Sphere+,2,1
 632,A,Armor Sphere+,2,100
-632,A,Armor Sphere+,2,1
 632,A,Monster Bone+,1,24
 632,A,Monster Bone L,2,18
-632,A,Quality Bone,1,14
-632,A,Large Barrel Bomb,2,13
 632,A,Well-done Steak,2,15
 632,A,Mysterious Feystone,1,15
+632,A,Quality Bone,1,14
+632,A,Large Barrel Bomb,2,13
+632,A,Armor Sphere+,2,1
 633,A,Armor Sphere+,2,100
-633,A,Armor Sphere+,2,1
 633,A,Monster Keenbone,1,24
 633,A,Monster Bone+,1,18
-633,A,Quality Bone,1,14
-633,A,Large Barrel Bomb,2,13
 633,A,Well-done Steak,2,15
 633,A,Mysterious Feystone,1,15
+633,A,Quality Bone,1,14
+633,A,Large Barrel Bomb,2,13
+633,A,Armor Sphere+,2,1
 634,A,Armor Sphere+,2,100
-634,A,Armor Sphere+,2,1
 634,A,Monster Keenbone,1,24
 634,A,Monster Bone+,1,18
-634,A,Quality Bone,1,14
-634,A,Large Barrel Bomb,2,13
 634,A,Well-done Steak,2,15
 634,A,Mysterious Feystone,1,15
+634,A,Quality Bone,1,14
+634,A,Large Barrel Bomb,2,13
+634,A,Armor Sphere+,2,1
 635,A,Armor Sphere+,2,100
-635,A,Armor Sphere+,2,1
 635,A,Monster Keenbone,1,24
 635,A,Monster Bone+,1,18
-635,A,Quality Bone,1,14
-635,A,Large Barrel Bomb,2,13
 635,A,Well-done Steak,2,15
 635,A,Mysterious Feystone,1,15
+635,A,Quality Bone,1,14
+635,A,Large Barrel Bomb,2,13
+635,A,Armor Sphere+,2,1
 636,A,Armor Sphere+,2,100
-636,A,Armor Sphere+,2,1
 636,A,Monster Keenbone,1,24
 636,A,Monster Bone+,1,18
-636,A,Quality Bone,1,14
-636,A,Large Barrel Bomb,2,13
 636,A,Well-done Steak,2,15
 636,A,Mysterious Feystone,1,15
+636,A,Quality Bone,1,14
+636,A,Large Barrel Bomb,2,13
+636,A,Armor Sphere+,2,1
 637,A,Armor Sphere+,2,100
-637,A,Armor Sphere+,2,1
 637,A,Monster Keenbone,1,24
 637,A,Monster Bone+,1,18
-637,A,Quality Bone,1,14
-637,A,Large Barrel Bomb,2,13
 637,A,Well-done Steak,2,15
 637,A,Mysterious Feystone,1,15
+637,A,Quality Bone,1,14
+637,A,Large Barrel Bomb,2,13
+637,A,Armor Sphere+,2,1
 751,A,Advanced Armor Sphere,1,100
-751,A,Advanced Armor Sphere,1,1
 751,A,Monster Hardbone,1,24
 751,A,Monster Keenbone,1,20
 751,A,Quality Bone,1,20
 751,A,Mysterious Feystone,1,18
 751,A,Spiritcore Ore,1,12
 751,A,Dragonbone Relic,1,5
+751,A,Advanced Armor Sphere,1,1
 752,A,Advanced Armor Sphere,1,100
-752,A,Advanced Armor Sphere,1,1
 752,A,Monster Hardbone,1,24
 752,A,Monster Keenbone,1,20
 752,A,Quality Bone,1,20
 752,A,Mysterious Feystone,1,18
 752,A,Spiritcore Ore,1,12
 752,A,Dragonbone Relic,1,5
+752,A,Advanced Armor Sphere,1,1
 753,A,Advanced Armor Sphere,2,100
-753,A,Advanced Armor Sphere,2,1
 753,A,Monster Hardbone,2,22
+753,A,Inferno Sac,2,22
 753,A,Rathalos Carapace,1,19
 753,A,Azure Rathalos Carapace,1,19
-753,A,Inferno Sac,2,22
+753,A,Mysterious Feystone,2,8
 753,A,Rathalos Plate,1,6
 753,A,Rathalos Ruby,1,3
-753,A,Mysterious Feystone,2,8
+753,A,Advanced Armor Sphere,2,1
 761,A,Advanced Armor Sphere,1,100
-761,A,Advanced Armor Sphere,1,1
 761,A,Monster Hardbone,1,24
-761,A,Monster Keenbone,1,20
 761,A,Dragonvein Crystal,1,22
-761,A,Lightcrystal,1,10
+761,A,Monster Keenbone,1,20
 761,A,Mysterious Feystone,1,18
+761,A,Lightcrystal,1,10
 761,A,Novacrystal,1,5
+761,A,Advanced Armor Sphere,1,1
 762,A,Advanced Armor Sphere,1,100
-762,A,Advanced Armor Sphere,1,1
 762,A,Monster Hardbone,1,24
-762,A,Monster Keenbone,1,20
 762,A,Dragonvein Crystal,1,22
-762,A,Lightcrystal,1,10
+762,A,Monster Keenbone,1,20
 762,A,Mysterious Feystone,1,18
+762,A,Lightcrystal,1,10
 762,A,Novacrystal,1,5
+762,A,Advanced Armor Sphere,1,1
 763,A,Advanced Armor Sphere,1,100
-763,A,Advanced Armor Sphere,1,1
 763,A,Monster Hardbone,1,24
-763,A,Monster Keenbone,1,20
 763,A,Dragonvein Crystal,1,22
-763,A,Lightcrystal,1,10
+763,A,Monster Keenbone,1,20
 763,A,Mysterious Feystone,1,18
+763,A,Lightcrystal,1,10
 763,A,Novacrystal,1,5
+763,A,Advanced Armor Sphere,1,1
 764,A,Advanced Armor Sphere,2,100
-764,A,Advanced Armor Sphere,2,1
 764,A,Monster Hardbone,2,22
 764,A,Diablos Ridge+,1,19
 764,A,Black Diablos Ridge+,1,19
 764,A,Dash Extract,3,14
-764,A,Twisted Horn,1,5
+764,A,Mysterious Feystone,2,8
 764,A,Majestic Horn,1,6
 764,A,Black Spiral Horn+,1,6
-764,A,Mysterious Feystone,2,8
+764,A,Twisted Horn,1,5
+764,A,Advanced Armor Sphere,2,1
 771,A,Advanced Armor Sphere,1,100
-771,A,Advanced Armor Sphere,1,1
 771,A,Monster Hardbone,1,24
 771,A,Monster Keenbone,1,20
 771,A,Carbalite Ore,1,20
 771,A,Mysterious Feystone,1,18
 771,A,Spiritcore Ore,1,12
 771,A,Novacrystal,1,5
+771,A,Advanced Armor Sphere,1,1
 772,A,Advanced Armor Sphere,1,100
-772,A,Advanced Armor Sphere,1,1
 772,A,Monster Hardbone,1,24
 772,A,Monster Keenbone,1,20
 772,A,Carbalite Ore,1,20
 772,A,Mysterious Feystone,1,18
 772,A,Spiritcore Ore,1,12
 772,A,Novacrystal,1,5
+772,A,Advanced Armor Sphere,1,1
 773,A,Advanced Armor Sphere,1,100
-773,A,Advanced Armor Sphere,1,1
 773,A,Monster Hardbone,1,24
 773,A,Monster Keenbone,1,20
 773,A,Carbalite Ore,1,20
 773,A,Mysterious Feystone,1,18
 773,A,Spiritcore Ore,1,12
 773,A,Novacrystal,1,5
+773,A,Advanced Armor Sphere,1,1
 774,A,Advanced Armor Sphere,2,100
-774,A,Advanced Armor Sphere,2,1
 774,A,Monster Hardbone,2,18
 774,A,Freezer Sac,1,16
 774,A,Nourishing Extract,2,13
@@ -1011,301 +1010,302 @@ base_id,group,item_en,stack,percentage
 774,A,Odogaron Claw+,1,10
 774,A,Legiana Tail Webbing,1,8
 774,A,Odogaron Tail,1,8
+774,A,Mysterious Feystone,2,8
 774,A,Legiana Plate,1,3
 774,A,Odogaron Plate,1,3
+774,A,Advanced Armor Sphere,2,1
 774,A,Legiana Gem,1,1
 774,A,Odogaron Gem,1,1
-774,A,Mysterious Feystone,2,8
 781,A,Advanced Armor Sphere,1,100
-781,A,Advanced Armor Sphere,1,1
 781,A,Monster Hardbone,1,24
 781,A,Monster Keenbone,1,20
 781,A,Quality Bone,1,20
 781,A,Mysterious Feystone,1,18
 781,A,Dragonbone Relic,1,9
 781,A,Carbalite Ore,2,8
+781,A,Advanced Armor Sphere,1,1
 791,A,Advanced Armor Sphere,1,100
-791,A,Advanced Armor Sphere,1,1
 791,A,Monster Hardbone,1,26
 791,A,Monster Keenbone,1,20
+791,A,Mysterious Feystone,1,18
 791,A,Fucium Ore,1,15
 791,A,Brutal Bone,1,15
-791,A,Mysterious Feystone,1,18
 791,A,Firecell Stone,1,5
+791,A,Advanced Armor Sphere,1,1
 792,A,Advanced Armor Sphere,1,100
-792,A,Advanced Armor Sphere,1,1
 792,A,Monster Hardbone,1,26
 792,A,Monster Keenbone,1,20
+792,A,Mysterious Feystone,1,18
 792,A,Fucium Ore,1,15
 792,A,Brutal Bone,1,15
-792,A,Mysterious Feystone,1,18
 792,A,Firecell Stone,1,5
+792,A,Advanced Armor Sphere,1,1
 793,A,Advanced Armor Sphere,1,100
-793,A,Advanced Armor Sphere,1,1
 793,A,Monster Hardbone,1,26
 793,A,Monster Keenbone,1,20
+793,A,Mysterious Feystone,1,18
 793,A,Fucium Ore,1,15
 793,A,Brutal Bone,1,15
-793,A,Mysterious Feystone,1,18
 793,A,Firecell Stone,1,5
+793,A,Advanced Armor Sphere,1,1
 794,A,Advanced Armor Sphere,1,100
-794,A,Advanced Armor Sphere,1,1
 794,A,Monster Hardbone,1,26
 794,A,Monster Keenbone,1,20
+794,A,Mysterious Feystone,1,18
 794,A,Fucium Ore,1,15
 794,A,Brutal Bone,1,15
-794,A,Mysterious Feystone,1,18
 794,A,Firecell Stone,1,5
+794,A,Advanced Armor Sphere,1,1
 795,A,Advanced Armor Sphere,2,100
-795,A,Advanced Armor Sphere,2,1
 795,A,Monster Hardbone,2,21
 795,A,Lavasioth Fin+,1,18
 795,A,Uragaan Scute,1,18
 795,A,Lava Nugget,2,14
 795,A,Inferno Sac,2,14
+795,A,Mysterious Feystone,2,8
 795,A,Wyvern Gem,1,3
 795,A,Uragaan Ruby,1,3
-795,A,Mysterious Feystone,2,8
+795,A,Advanced Armor Sphere,2,1
 738,A,Advanced Armor Sphere,2,100
-738,A,Advanced Armor Sphere,2,1
 738,A,Monster Hardbone,1,28
 738,A,Monster Keenbone,1,20
-738,A,Large Barrel Bomb,2,13
-738,A,Mega Barrel Bomb,1,16
 738,A,Ration,3,17
+738,A,Mega Barrel Bomb,1,16
+738,A,Large Barrel Bomb,2,13
 738,A,Mysterious Feystone,1,5
+738,A,Advanced Armor Sphere,2,1
 731,A,Advanced Armor Sphere,2,100
-731,A,Advanced Armor Sphere,2,1
 731,A,Monster Hardbone,1,28
 731,A,Monster Keenbone,1,20
-731,A,Large Barrel Bomb,2,13
-731,A,Mega Barrel Bomb,1,16
 731,A,Ration,3,17
+731,A,Mega Barrel Bomb,1,16
+731,A,Large Barrel Bomb,2,13
 731,A,Mysterious Feystone,1,5
+731,A,Advanced Armor Sphere,2,1
 732,A,Advanced Armor Sphere,2,100
-732,A,Advanced Armor Sphere,2,1
 732,A,Monster Hardbone,1,28
 732,A,Monster Keenbone,1,20
-732,A,Large Barrel Bomb,2,13
-732,A,Mega Barrel Bomb,1,16
 732,A,Ration,3,17
+732,A,Mega Barrel Bomb,1,16
+732,A,Large Barrel Bomb,2,13
 732,A,Mysterious Feystone,1,5
+732,A,Advanced Armor Sphere,2,1
 733,A,Advanced Armor Sphere,2,100
-733,A,Advanced Armor Sphere,2,1
 733,A,Monster Hardbone,1,28
 733,A,Monster Keenbone,1,20
-733,A,Large Barrel Bomb,2,13
-733,A,Mega Barrel Bomb,1,16
 733,A,Ration,3,17
+733,A,Mega Barrel Bomb,1,16
+733,A,Large Barrel Bomb,2,13
 733,A,Mysterious Feystone,1,5
+733,A,Advanced Armor Sphere,2,1
 734,A,Advanced Armor Sphere,2,100
-734,A,Advanced Armor Sphere,2,1
 734,A,Monster Hardbone,1,28
 734,A,Monster Keenbone,1,20
-734,A,Large Barrel Bomb,2,13
-734,A,Mega Barrel Bomb,1,16
 734,A,Ration,3,17
+734,A,Mega Barrel Bomb,1,16
+734,A,Large Barrel Bomb,2,13
 734,A,Mysterious Feystone,1,5
+734,A,Advanced Armor Sphere,2,1
 735,A,Advanced Armor Sphere,2,100
-735,A,Advanced Armor Sphere,2,1
 735,A,Monster Hardbone,1,28
 735,A,Monster Keenbone,1,20
-735,A,Large Barrel Bomb,2,13
-735,A,Mega Barrel Bomb,1,16
 735,A,Ration,3,17
+735,A,Mega Barrel Bomb,1,16
+735,A,Large Barrel Bomb,2,13
 735,A,Mysterious Feystone,1,5
+735,A,Advanced Armor Sphere,2,1
 736,A,Advanced Armor Sphere,2,100
-736,A,Advanced Armor Sphere,2,1
 736,A,Monster Hardbone,1,28
 736,A,Monster Keenbone,1,20
-736,A,Large Barrel Bomb,2,13
-736,A,Mega Barrel Bomb,1,16
 736,A,Ration,3,17
+736,A,Mega Barrel Bomb,1,16
+736,A,Large Barrel Bomb,2,13
 736,A,Mysterious Feystone,1,5
+736,A,Advanced Armor Sphere,2,1
 737,A,Advanced Armor Sphere,2,100
-737,A,Advanced Armor Sphere,2,1
 737,A,Monster Hardbone,1,28
 737,A,Monster Keenbone,1,20
-737,A,Large Barrel Bomb,2,13
-737,A,Mega Barrel Bomb,1,16
 737,A,Ration,3,17
+737,A,Mega Barrel Bomb,1,16
+737,A,Large Barrel Bomb,2,13
 737,A,Mysterious Feystone,1,5
+737,A,Advanced Armor Sphere,2,1
 50751,A,Advanced Armor Sphere,1,100
-50751,A,Advanced Armor Sphere,1,1
 50751,A,Monster Hardbone,1,24
 50751,A,Monster Keenbone,1,20
 50751,A,Quality Bone,1,20
 50751,A,Mysterious Feystone,1,18
 50751,A,Spiritcore Ore,1,12
 50751,A,Dragonbone Relic,1,5
+50751,A,Advanced Armor Sphere,1,1
 851,A,High Commendation,1,100
-851,A,High Commendation,1,1
 851,A,Elder Dragon Bone,1,24
 851,A,Elder Dragon Blood,1,18
-851,A,Dreamcore Ore,1,8
-851,A,Dragonvein Crystal,2,15
 851,A,Mysterious Feystone,1,18
 851,A,Advanced Armor Sphere,2,16
+851,A,Dragonvein Crystal,2,15
+851,A,Dreamcore Ore,1,8
+851,A,High Commendation,1,1
 893,A,High Commendation,1,100
-893,A,High Commendation,1,1
 893,A,Elder Dragon Bone,1,24
 893,A,Elder Dragon Blood,1,18
-893,A,Dreamcore Ore,1,8
-893,A,Dragonvein Crystal,2,15
 893,A,Mysterious Feystone,1,18
 893,A,Advanced Armor Sphere,2,16
+893,A,Dragonvein Crystal,2,15
+893,A,Dreamcore Ore,1,8
+893,A,High Commendation,1,1
 895,A,High Commendation,1,100
-895,A,High Commendation,1,1
 895,A,Elder Dragon Bone,1,24
 895,A,Elder Dragon Blood,1,18
-895,A,Dreamcore Ore,1,8
-895,A,Dragonvein Crystal,2,15
 895,A,Mysterious Feystone,1,18
 895,A,Advanced Armor Sphere,2,16
+895,A,Dragonvein Crystal,2,15
+895,A,Dreamcore Ore,1,8
+895,A,High Commendation,1,1
 861,A,High Commendation,1,100
-861,A,High Commendation,1,1
 861,A,Elder Dragon Bone,1,24
 861,A,Elder Dragon Blood,1,18
-861,A,Dreamcore Ore,1,8
-861,A,Dragonvein Crystal,2,15
 861,A,Mysterious Feystone,1,18
 861,A,Advanced Armor Sphere,2,16
+861,A,Dragonvein Crystal,2,15
+861,A,Dreamcore Ore,1,8
+861,A,High Commendation,1,1
 871,A,High Commendation,1,100
-871,A,High Commendation,1,1
 871,A,Elder Dragon Bone,1,24
 871,A,Elder Dragon Blood,1,18
-871,A,Dreamcore Ore,1,8
-871,A,Dragonvein Crystal,2,15
 871,A,Mysterious Feystone,1,18
 871,A,Advanced Armor Sphere,2,16
+871,A,Dragonvein Crystal,2,15
+871,A,Dreamcore Ore,1,8
+871,A,High Commendation,1,1
 881,A,High Commendation,1,100
-881,A,High Commendation,1,1
 881,A,Elder Dragon Bone,1,24
 881,A,Elder Dragon Blood,1,18
-881,A,Dreamcore Ore,1,8
-881,A,Dragonvein Crystal,2,15
 881,A,Mysterious Feystone,1,18
 881,A,Advanced Armor Sphere,2,16
+881,A,Dragonvein Crystal,2,15
+881,A,Dreamcore Ore,1,8
+881,A,High Commendation,1,1
 894,A,High Commendation,1,100
-894,A,High Commendation,1,1
 894,A,Elder Dragon Bone,1,24
 894,A,Elder Dragon Blood,1,18
-894,A,Dreamcore Ore,1,8
-894,A,Dragonvein Crystal,2,15
 894,A,Mysterious Feystone,1,18
 894,A,Advanced Armor Sphere,2,16
+894,A,Dragonvein Crystal,2,15
+894,A,Dreamcore Ore,1,8
+894,A,High Commendation,1,1
 891,A,High Commendation,1,100
-891,A,High Commendation,1,1
 891,A,Elder Dragon Bone,1,24
 891,A,Elder Dragon Blood,1,18
-891,A,Dreamcore Ore,1,8
-891,A,Dragonvein Crystal,2,15
 891,A,Mysterious Feystone,1,18
 891,A,Advanced Armor Sphere,2,16
+891,A,Dragonvein Crystal,2,15
+891,A,Dreamcore Ore,1,8
+891,A,High Commendation,1,1
 892,A,High Commendation,1,100
-892,A,High Commendation,1,1
 892,A,Elder Dragon Bone,1,24
 892,A,Elder Dragon Blood,1,18
-892,A,Dreamcore Ore,1,8
-892,A,Dragonvein Crystal,2,15
 892,A,Mysterious Feystone,1,18
 892,A,Advanced Armor Sphere,2,16
+892,A,Dragonvein Crystal,2,15
+892,A,Dreamcore Ore,1,8
+892,A,High Commendation,1,1
 896,A,High Commendation,1,100
-896,A,High Commendation,1,1
 896,A,Elder Dragon Bone,1,24
 896,A,Elder Dragon Blood,1,18
-896,A,Dreamcore Ore,1,8
-896,A,Dragonvein Crystal,2,15
 896,A,Mysterious Feystone,1,18
 896,A,Advanced Armor Sphere,2,16
+896,A,Dragonvein Crystal,2,15
+896,A,Dreamcore Ore,1,8
+896,A,High Commendation,1,1
 50891,A,High Commendation,1,100
-50891,A,High Commendation,1,1
 50891,A,Elder Dragon Bone,1,24
 50891,A,Elder Dragon Blood,1,18
-50891,A,Dreamcore Ore,1,13
 50891,A,Dragonvein Crystal,2,16
-50891,A,Dragonbone Relic,1,12
 50891,A,Hard Armor Sphere,1,16
+50891,A,Dreamcore Ore,1,13
+50891,A,Dragonbone Relic,1,12
+50891,A,High Commendation,1,1
 50892,A,High Commendation,1,100
-50892,A,High Commendation,1,1
 50892,A,Elder Dragon Bone,1,24
 50892,A,Elder Dragon Blood,1,18
-50892,A,Dreamcore Ore,1,13
 50892,A,Dragonvein Crystal,2,16
-50892,A,Dragonbone Relic,1,12
 50892,A,Hard Armor Sphere,1,16
+50892,A,Dreamcore Ore,1,13
+50892,A,Dragonbone Relic,1,12
+50892,A,High Commendation,1,1
 50861,A,High Commendation,1,100
-50861,A,High Commendation,1,1
+50861,A,Hard Armor Sphere,1,22
 50861,A,Elder Dragon Bone,2,16
 50861,A,Elder Dragon Blood,2,16
+50861,A,Teostra Powder,2,16
 50861,A,Dreamcore Ore,1,13
 50861,A,Dragonbone Relic,1,12
-50861,A,Hard Armor Sphere,1,22
 50861,A,Lunastra Gem,1,2
 50861,A,Teostra Gem,1,2
-50861,A,Teostra Powder,2,16
+50861,A,High Commendation,1,1
 992,A,Research Commission Ticket,1,100
-992,A,Research Commission Ticket,1,1
+992,A,Hard Armor Sphere,1,23
+992,A,Mysterious Feystone,2,18
 992,A,Legiana Wing,1,11
 992,A,Odogaron Claw+,1,11
 992,A,Diablos Ridge+,1,11
 992,A,Rathalos Wing,1,11
+992,A,Majestic Horn,1,5
 992,A,Legiana Gem,1,3
 992,A,Odogaron Gem,1,3
-992,A,Majestic Horn,1,5
 992,A,Rathalos Ruby,1,3
-992,A,Hard Armor Sphere,1,23
-992,A,Mysterious Feystone,2,18
+992,A,Research Commission Ticket,1,1
 991,A,High Commendation,1,100
-991,A,High Commendation,1,1
 991,A,Elder Dragon Bone,1,24
 991,A,Elder Dragon Blood,1,18
-991,A,Dreamcore Ore,1,13
 991,A,Dragonvein Crystal,2,16
-991,A,Dragonbone Relic,1,12
 991,A,Hard Armor Sphere,1,16
+991,A,Dreamcore Ore,1,13
+991,A,Dragonbone Relic,1,12
+991,A,High Commendation,1,1
 995,A,Research Commission Ticket,2,100
-995,A,Research Commission Ticket,2,1
+995,A,Dragoncore Ore,1,18
+995,A,Hard Armor Sphere,2,13
+995,A,Mysterious Feystone,2,13
+995,A,Gleaming Streamstone,2,13
 995,A,Daora Claw+,1,11
 995,A,Teostra Claw+,1,11
 995,A,Nergigante Talon,1,11
 995,A,Daora Gem,1,3
 995,A,Teostra Gem,1,3
 995,A,Nergigante Gem,1,3
-995,A,Dragoncore Ore,1,18
-995,A,Hard Armor Sphere,2,13
-995,A,Mysterious Feystone,2,13
-995,A,Gleaming Streamstone,2,13
+995,A,Research Commission Ticket,2,1
 996,A,Streamstone Shard,1,100
-996,A,Streamstone Shard,1,7
 996,A,Monster Keenbone,4,21
 996,A,Barroth Claw+,1,18
+996,A,Hard Armor Sphere,1,18
 996,A,Radobaan Carapace,1,14
 996,A,Radobaan Medulla,1,8
 996,A,Coma Sac,2,8
+996,A,Streamstone Shard,1,7
 996,A,Wyvern Gem,1,6
-996,A,Hard Armor Sphere,1,18
 997,A,Streamstone,1,100
-997,A,Streamstone,1,7
 997,A,Monster Hardbone,2,21
-997,A,Rathalos Medulla,1,11
-997,A,Rathian Spike+,1,12
+997,A,Hard Armor Sphere,1,18
 997,A,Inferno Sac,2,13
+997,A,Rathian Spike+,1,12
+997,A,Rathalos Medulla,1,11
+997,A,Streamstone,1,7
 997,A,Rathalos Plate,1,6
 997,A,Rathian Plate,1,6
 997,A,Rathalos Ruby,1,3
 997,A,Rathian Ruby,1,3
-997,A,Hard Armor Sphere,1,18
 998,A,Gleaming Streamstone,1,100
-998,A,Gleaming Streamstone,1,7
-998,A,Vaal Hazak Carapace,2,10
-998,A,Odogaron Sinew,2,10
+998,A,Hard Armor Sphere,1,21
+998,A,Elder Dragon Blood,1,16
 998,A,Vaal Hazak Talon,1,15
 998,A,Odogaron Claw+,1,15
-998,A,Elder Dragon Blood,1,16
+998,A,Vaal Hazak Carapace,2,10
+998,A,Odogaron Sinew,2,10
+998,A,Gleaming Streamstone,1,7
 998,A,Vaal Hazak Gem,1,3
 998,A,Odogaron Gem,1,3
-998,A,Hard Armor Sphere,1,21
 50991,A,Warped Feystone,1,100
 50991,A,Warped Feystone,1,22
 50991,A,Worn Feystone,1,18
@@ -1315,54 +1315,54 @@ base_id,group,item_en,stack,percentage
 50991,A,Firecell Stone,2,8
 50991,A,Dragonbone Relic,2,8
 50701,A,Advanced Armor Sphere,1,100
-50701,A,Advanced Armor Sphere,1,1
 50701,A,Monster Hardbone,1,24
 50701,A,Monster Keenbone,1,20
 50701,A,Quality Bone,1,20
 50701,A,Mysterious Feystone,1,18
 50701,A,Spiritcore Ore,1,12
 50701,A,Dragonbone Relic,1,5
+50701,A,Advanced Armor Sphere,1,1
 50801,A,High Commendation,1,100
-50801,A,High Commendation,1,1
 50801,A,Elder Dragon Bone,1,24
 50801,A,Elder Dragon Blood,1,18
-50801,A,Dreamcore Ore,1,8
-50801,A,Dragonvein Crystal,2,15
 50801,A,Mysterious Feystone,1,18
 50801,A,Advanced Armor Sphere,2,16
+50801,A,Dragonvein Crystal,2,15
+50801,A,Dreamcore Ore,1,8
+50801,A,High Commendation,1,1
 50802,A,High Commendation,1,100
-50802,A,High Commendation,1,1
 50802,A,Elder Dragon Bone,1,24
 50802,A,Elder Dragon Blood,1,18
-50802,A,Dreamcore Ore,1,13
 50802,A,Dragonvein Crystal,2,16
-50802,A,Dragonbone Relic,1,12
 50802,A,Hard Armor Sphere,1,16
+50802,A,Dreamcore Ore,1,13
+50802,A,Dragonbone Relic,1,12
+50802,A,High Commendation,1,1
 50803,A,High Commendation,1,100
-50803,A,High Commendation,1,1
+50803,A,Hard Armor Sphere,1,22
 50803,A,Elder Dragon Bone,2,16
 50803,A,Elder Dragon Blood,2,16
+50803,A,Teostra Powder,2,16
 50803,A,Dreamcore Ore,1,13
 50803,A,Dragonbone Relic,1,12
-50803,A,Hard Armor Sphere,1,22
 50803,A,Lunastra Gem,1,2
 50803,A,Teostra Gem,1,2
-50803,A,Teostra Powder,2,16
+50803,A,High Commendation,1,1
 50601,A,Aetheryte Shard,1,100
-50601,A,Aetheryte Shard,1,8
 50601,A,Advanced Armor Sphere,1,24
 50601,A,Dragonvein Crystal,1,22
 50601,A,Lightcrystal,1,18
 50601,A,Mysterious Feystone,1,18
 50601,A,Novacrystal,1,10
+50601,A,Aetheryte Shard,1,8
 50905,A,Behemoth Bone,1,100
+50905,A,Hard Armor Sphere,1,21
+50905,A,Aetheryte Shard,1,20
 50905,A,Behemoth Bone,1,17
 50905,A,Behemoth Mane,1,14
-50905,A,Aetheryte Shard,1,20
 50905,A,Glowing Feystone,1,12
 50905,A,Firecell Stone,1,8
 50905,A,Dragonbone Relic,1,8
-50905,A,Hard Armor Sphere,1,21
 50906,A,Warped Feystone,1,100
 50906,A,Warped Feystone,1,22
 50906,A,Worn Feystone,1,18
@@ -1372,53 +1372,53 @@ base_id,group,item_en,stack,percentage
 50906,A,Firecell Stone,2,8
 50906,A,Dragonbone Relic,2,8
 50910,A,Leshen Claw,1,100
-50910,A,Leshen Claw,1,20
 50910,A,Cursed Bone,1,35
-50910,A,Leshen Resin,1,15
 50910,A,Advanced Armor Sphere,1,30
+50910,A,Leshen Claw,1,20
+50910,A,Leshen Resin,1,15
 50902,A,Kulve Taroth Golden Scale,1,100
-50902,A,Kulve Taroth Golden Scale,1,21
 50902,A,Kulve Taroth Golden Shell,1,33
-50902,A,Kulve Taroth Golden Spiralhorn,1,14
+50902,A,Kulve Taroth Golden Scale,1,21
 50902,A,Kulve Taroth Golden Tailshell,1,18
+50902,A,Kulve Taroth Golden Spiralhorn,1,14
 50902,A,Elder Dragon Bone,3,7
 50902,A,Elder Dragon Blood,3,7
 50902,B,Kulve Taroth Emperor Nugget,1,100
-50902,B,Kulve Taroth Emperor Nugget,1,3
-50902,B,Firecell Stone,2,14
 50902,B,Hard Armor Sphere,2,25
-50902,B,Glowing Feystone,2,14
 50902,B,Worn Feystone,1,21
-50902,B,Warped Feystone,1,7
+50902,B,Firecell Stone,2,14
+50902,B,Glowing Feystone,2,14
 50902,B,Streamstone,1,9
+50902,B,Warped Feystone,1,7
 50902,B,Gleaming Streamstone,1,7
+50902,B,Kulve Taroth Emperor Nugget,1,3
 61605,A,Faux Ticket,1,100
-61605,A,Faux Ticket,1,1
-61605,A,Golden Egg,1,13
 61605,A,Armor Sphere,1,21
 61605,A,Armor Sphere+,1,21
 61605,A,Advanced Armor Sphere,1,21
 61605,A,Hard Armor Sphere,1,16
+61605,A,Golden Egg,1,13
 61605,A,Heavy Armor Sphere,1,7
-63033,A,Summer Insect Field Guide,1,1
-63033,A,Gajalaka Sketch,1,5
+61605,A,Faux Ticket,1,1
 63033,A,Great Hornfly,1,21
-63033,A,Tailraider Voucher,1,5
 63033,A,Quality Bone,1,21
 63033,A,Carbalite Ore,1,21
 63033,A,Novacrystal,1,15
 63033,A,Lifepowder,3,11
-63051,A,Ace Hunter Coin,1,5
+63033,A,Gajalaka Sketch,1,5
+63033,A,Tailraider Voucher,1,5
+63033,A,Summer Insect Field Guide,1,1
 63051,A,Brute Coin,1,23
 63051,A,Flying Coin,1,23
+63051,A,Voucher,2,20
 63051,A,Ancient Potion,2,16
 63051,A,Golden Egg,1,13
-63051,A,Voucher,2,20
+63051,A,Ace Hunter Coin,1,5
 63052,A,Ace Hunter Coin,1,28
 63052,A,Max Potion,2,23
+63052,A,Voucher,2,20
 63052,A,Ancient Potion,2,16
 63052,A,Golden Egg,1,13
-63052,A,Voucher,2,20
 63104,A,Hunter King Coin,1,28
 63104,A,Well-done Steak,2,23
 63104,A,Lifepowder,3,22
@@ -1461,9 +1461,9 @@ base_id,group,item_en,stack,percentage
 63108,A,Voucher,1,13
 63109,A,Ace Hunter Coin,1,28
 63109,A,Max Potion,2,23
+63109,A,Voucher,2,20
 63109,A,Ancient Potion,2,16
 63109,A,Golden Egg,1,13
-63109,A,Voucher,2,20
 63110,A,Hunter King Coin,1,28
 63110,A,Well-done Steak,2,23
 63110,A,Lifepowder,3,22
@@ -1481,183 +1481,182 @@ base_id,group,item_en,stack,percentage
 63131,A,Voucher,1,13
 61101,A,Machalite Ore,1,100
 61101,A,Machalite Ore,1,30
-61101,A,Iron Ore,2,18
 61101,A,Earth Crystal,1,22
 61101,A,Ancient Bone,1,19
+61101,A,Iron Ore,2,18
 61101,A,Lifepowder,1,11
-63003,A,Spring Insect Field Guide,1,1
 63003,A,Great Hornfly,1,21
-63003,A,Vespoid Shell,1,16
-63003,A,Vespoid Wing,1,14
 63003,A,Monster Fluid,1,18
-63003,A,Large Barrel,2,14
+63003,A,Vespoid Shell,1,16
 63003,A,Trap Tool,3,16
-63001,A,Pinnacle Coin,1,5
+63003,A,Vespoid Wing,1,14
+63003,A,Large Barrel,2,14
+63003,A,Spring Insect Field Guide,1,1
 63001,A,Kulu Coin,1,23
 63001,A,Pukei Coin,1,23
 63001,A,Well-done Steak,2,18
 63001,A,Lifepowder,3,18
 63001,A,Voucher,1,13
+63001,A,Pinnacle Coin,1,5
 63002,A,Pinnacle Coin,1,28
 63002,A,Well-done Steak,2,23
 63002,A,Lifepowder,3,22
 63002,A,Steel Egg,2,14
 63002,A,Voucher,1,13
-63031,A,Hunter King Coin,1,5
 63031,A,Tzitzi Coin,1,23
 63031,A,Rathalos Coin,1,23
 63031,A,Well-done Steak,2,18
 63031,A,Lifepowder,3,18
 63031,A,Voucher,1,13
+63031,A,Hunter King Coin,1,5
 63032,A,Hunter King Coin,1,28
 63032,A,Well-done Steak,2,23
 63032,A,Lifepowder,3,22
 63032,A,Steel Egg,2,14
 63032,A,Voucher,1,13
 61103,A,Downy Crake Ticket,1,100
-61103,A,Downy Crake Ticket,1,1
 61103,A,Pukei-Pukei Quill,1,23
+61103,A,Steel Egg,2,20
 61103,A,Pukei-Pukei Sac,1,17
 61103,A,Tobi-Kadachi Membrane,1,15
 61103,A,Tobi-Kadachi Claw,1,12
 61103,A,Tobi-Kadachi Electrode,1,12
-61103,A,Steel Egg,2,20
+61103,A,Downy Crake Ticket,1,1
 61104,A,Bristly Crake Ticket,1,100
-61104,A,Bristly Crake Ticket,1,1
+61104,A,Anjanath Tail,1,21
+61104,A,Anjanath Fang,1,18
+61104,A,Anjanath Nosebone,1,15
 61104,A,Anjanath Pelt,2,14
 61104,A,Anjanath Scale,2,13
-61104,A,Anjanath Fang,1,18
-61104,A,Anjanath Tail,1,21
-61104,A,Anjanath Plate,1,6
-61104,A,Anjanath Nosebone,1,15
 61104,A,Silver Egg,1,12
+61104,A,Anjanath Plate,1,6
+61104,A,Bristly Crake Ticket,1,1
 61105,A,Master Craftsman's Blueprint,1,100
-61105,A,Master Craftsman's Blueprint,1,13
-61105,A,Armor Sphere+,1,11
 61105,A,Dragonite Ore,1,24
 61105,A,Paolumu Webbing,1,18
 61105,A,Rathalos Webbing,1,16
+61105,A,Master Craftsman's Blueprint,1,13
 61105,A,Rathalos Marrow,1,13
+61105,A,Armor Sphere+,1,11
 61105,A,Rathalos Plate,1,5
 61601,A,First Fleet Ticket,1,100
-61601,A,First Fleet Ticket,1,1
+61601,A,Quality Bone,2,22
 61601,A,Carbalite Ore,2,21
 61601,A,Dragonvein Crystal,1,15
 61601,A,Coral Crystal,2,9
 61601,A,Earth Crystal,2,9
-61601,A,Quality Bone,2,22
 61601,A,Dragonite Ore,2,8
 61601,A,Machalite Ore,2,8
 61601,A,Lightcrystal,1,7
+61601,A,First Fleet Ticket,1,1
 61603,A,Faux Ticket,1,100
-61603,A,Faux Ticket,1,1
+61603,A,Rathian Spike+,1,18
 61603,A,Rathian Carapace,1,13
-61603,A,Rathian Scale+,2,10
 61603,A,Pink Rathian Carapace,1,13
+61603,A,Golden Egg,1,12
+61603,A,Rathian Scale+,2,10
 61603,A,Pink Rathian Scale+,2,10
 61603,A,Rathian Plate,1,9
-61603,A,Rathian Spike+,1,18
-61603,A,Rathian Ruby,1,6
-61603,A,Golden Egg,1,12
 61603,A,Mysterious Feystone,2,8
+61603,A,Rathian Ruby,1,6
+61603,A,Faux Ticket,1,1
 61604,A,Faux Ticket II,1,100
-61604,A,Faux Ticket II,1,1
-61604,A,Rathalos Carapace,2,8
-61604,A,Rathalos Scale+,2,6
-61604,A,Rathalos Wing,1,10
-61604,A,Azure Rathalos Carapace,2,8
-61604,A,Azure Rathalos Scale+,2,6
-61604,A,Azure Rathalos Wing,1,10
-61604,A,Azure Rathalos Tail,1,8
-61604,A,Rathalos Medulla,1,12
-61604,A,Rathalos Plate,1,8
-61604,A,Rathalos Ruby,1,6
 61604,A,Golden Egg,1,17
+61604,A,Rathalos Medulla,1,12
+61604,A,Rathalos Wing,1,10
+61604,A,Azure Rathalos Wing,1,10
+61604,A,Rathalos Carapace,2,8
+61604,A,Azure Rathalos Carapace,2,8
+61604,A,Azure Rathalos Tail,1,8
+61604,A,Rathalos Plate,1,8
+61604,A,Rathalos Scale+,2,6
+61604,A,Azure Rathalos Scale+,2,6
+61604,A,Rathalos Ruby,1,6
+61604,A,Faux Ticket II,1,1
 61606,A,Worn Feystone,2,100
-61606,A,Worn Feystone,2,1
-61606,A,Faux Ticket III,1,21
-61606,A,Hard Armor Sphere,2,15
 61606,A,Worn Feystone,1,33
+61606,A,Faux Ticket III,1,21
 61606,A,Warped Feystone,1,21
+61606,A,Hard Armor Sphere,2,15
 61606,A,Voucher,1,9
+61606,A,Worn Feystone,2,1
 61607,A,Warped Feystone,2,100
-61607,A,Warped Feystone,2,1
-61607,A,Beetle Ticket,1,22
-61607,A,Hard Armor Sphere,2,15
 61607,A,Worn Feystone,1,33
+61607,A,Beetle Ticket,1,22
 61607,A,Warped Feystone,1,21
+61607,A,Hard Armor Sphere,2,15
 61607,A,Firecell Stone,2,8
+61607,A,Warped Feystone,2,1
 67105,A,Azure Star Shard,1,100
-67105,A,Azure Star Shard,1,5
-67105,A,Armor Sphere,1,12
 67105,A,Monster Bone M,1,21
+67105,A,Ration,2,17
 67105,A,Large Barrel Bomb,1,15
 67105,A,Large Barrel,2,15
-67105,A,Ration,2,17
 67105,A,Trap Tool,2,15
+67105,A,Armor Sphere,1,12
+67105,A,Azure Star Shard,1,5
 67103,A,Mega Man Ticket,1,100
-67103,A,Mega Man Ticket,1,5
-67103,A,Advanced Armor Sphere,1,12
 67103,A,Monster Keenbone,1,20
+67103,A,Odogaron Scale+,1,18
 67103,A,Mega Barrel Bomb,1,15
 67103,A,Large Barrel Bomb,2,15
-67103,A,Odogaron Scale+,1,18
+67103,A,Advanced Armor Sphere,1,12
 67103,A,Odogaron Fang+,1,12
+67103,A,Mega Man Ticket,1,5
 67103,A,Odogaron Gem,1,3
 67603,A,Azure Stargem,1,100
-67603,A,Azure Stargem,1,5
-67603,A,Advanced Armor Sphere,1,15
 67603,A,Monster Hardbone,2,18
+67603,A,Advanced Armor Sphere,1,15
 67603,A,Brutal Bone,1,15
+67603,A,Dodogama Jaw,1,15
 67603,A,Mysterious Feystone,2,12
-67603,A,Firecell Stone,1,5
 67603,A,Rathalos Medulla,1,7
+67603,A,Azure Stargem,1,5
+67603,A,Firecell Stone,1,5
 67603,A,Rathalos Plate,1,5
 67603,A,Rathalos Ruby,1,3
-67603,A,Dodogama Jaw,1,15
 67605,A,Red Orb,1,100
 67605,A,Red Orb,1,12
 67605,A,Anjanath Fang+,1,12
-67605,A,Anjanath Nosebone+,1,7
 67605,A,Odogaron Claw+,1,12
-67605,A,Odogaron Fang+,1,7
 67605,A,Rathalos Wing,1,12
-67605,A,Rathalos Medulla,1,7
 67605,A,Teostra Mane,1,12
+67605,A,Anjanath Nosebone+,1,7
+67605,A,Odogaron Fang+,1,7
+67605,A,Rathalos Medulla,1,7
 67605,A,Teostra Webbing,1,7
 67605,A,Anjanath Gem,1,3
 67605,A,Odogaron Gem,1,3
 67605,A,Rathalos Ruby,1,3
 67605,A,Teostra Gem,1,3
 67608,A,Senu's Feather,1,100
-67608,A,Senu's Feather,1,1
+67608,A,Glowing Feystone,2,27
 67608,A,Odogaron Claw+,1,15
 67608,A,Deviljho Tallfang,1,15
 67608,A,Lunastra Horn,1,15
+67608,A,Hard Armor Sphere,3,15
 67608,A,Odogaron Gem,1,4
 67608,A,Deviljho Gem,1,4
 67608,A,Lunastra Gem,1,4
-67608,A,Hard Armor Sphere,3,15
-67608,A,Glowing Feystone,2,27
+67608,A,Senu's Feather,1,1
 67606,A,Glamour Prism,1,100
-67606,A,Glamour Prism,1,1
+67606,A,Warped Feystone,1,31
+67606,A,Worn Feystone,1,20
 67606,A,Sullied Streamstone,1,15
+67606,A,Worn Feystone,2,12
 67606,A,Shining Streamstone,1,11
 67606,A,Warped Feystone,2,10
-67606,A,Warped Feystone,1,31
-67606,A,Worn Feystone,2,12
-67606,A,Worn Feystone,1,20
+67606,A,Glamour Prism,1,1
 67610,A,Ancient Leshen Skull,1,100
-67610,A,Ancient Leshen Skull,1,1
-67610,A,Sullied Streamstone,1,16
-67610,A,Shining Streamstone,1,10
-67610,A,Warped Feystone,1,20
 67610,A,Hard Armor Sphere,1,25
+67610,A,Warped Feystone,1,20
+67610,A,Sullied Streamstone,1,16
 67610,A,Streamstone,1,13
+67610,A,Shining Streamstone,1,10
 67610,A,Gleaming Streamstone,1,10
 67610,A,Mutagen,1,5
+67610,A,Ancient Leshen Skull,1,1
 66101,A,Armor Sphere,2,100
-66101,A,Armor Sphere,2,1
 66101,A,Ancient Bone,1,19
 66101,A,Great Jagras Scale,1,14
 66101,A,Great Jagras Hide,1,14
@@ -1666,116 +1665,116 @@ base_id,group,item_en,stack,percentage
 66101,A,Sharp Claw,2,8
 66101,A,Jagras Scale,2,8
 66101,A,Jagras Hide,2,8
+66101,A,Armor Sphere,2,1
 66102,A,Armor Sphere+,2,100
-66102,A,Armor Sphere+,2,2
+66102,A,Kulu-Ya-Ku Hide,1,21
+66102,A,Tzitzi-Ya-Ku Hide,1,21
 66102,A,Kulu-Ya-Ku Plume,1,14
 66102,A,Kulu-Ya-Ku Beak,1,14
 66102,A,Tzitzi-Ya-Ku Claw,1,14
 66102,A,Tzitzi-Ya-Ku Photophore,1,14
-66102,A,Kulu-Ya-Ku Hide,1,21
-66102,A,Tzitzi-Ya-Ku Hide,1,21
+66102,A,Armor Sphere+,2,2
 66106,A,Voucher,2,100
-66106,A,Voucher,2,1
-66106,A,Sturdy Bone,3,26
 66106,A,Voucher,1,55
+66106,A,Sturdy Bone,3,26
 66106,A,Armor Sphere+,3,18
+66106,A,Voucher,2,1
 64101,A,Armor Sphere+,3,100
-64101,A,Armor Sphere+,3,3
-64101,A,Armor Sphere+,2,19
-64101,A,Armor Sphere+,1,33
 64101,A,Armor Sphere,2,45
+64101,A,Armor Sphere+,1,33
+64101,A,Armor Sphere+,2,19
+64101,A,Armor Sphere+,3,3
 66103,A,Armor Sphere+,2,100
-66103,A,Armor Sphere+,2,2
+66103,A,Radobaan Shell,1,18
+66103,A,Odogaron Sinew,1,18
 66103,A,Radobaan Oilshell,1,10
 66103,A,Wyvern Bonemass,1,10
-66103,A,Radobaan Marrow,1,7
 66103,A,Odogaron Claw,1,10
 66103,A,Odogaron Fang,1,10
 66103,A,Odogaron Tail,1,10
+66103,A,Radobaan Marrow,1,7
 66103,A,Odogaron Plate,1,5
-66103,A,Radobaan Shell,1,18
-66103,A,Odogaron Sinew,1,18
+66103,A,Armor Sphere+,2,2
 66104,A,Commendation,1,100
-66104,A,Commendation,1,1
-66104,A,Kirin Hide,2,8
-66104,A,Kirin Thunderhorn,1,14
-66104,A,Kirin Mane,2,8
-66104,A,Kirin Tail,1,14
 66104,A,Aquacore Ore,1,22
 66104,A,Lightcrystal,1,18
 66104,A,Armor Sphere+,2,15
+66104,A,Kirin Thunderhorn,1,14
+66104,A,Kirin Tail,1,14
+66104,A,Kirin Hide,2,8
+66104,A,Kirin Mane,2,8
+66104,A,Commendation,1,1
 66105,A,Commendation,1,100
-66105,A,Commendation,1,1
 66105,A,Monster Bone+,2,22
 66105,A,Aquacore Ore,1,16
+66105,A,Armor Sphere+,1,15
 66105,A,Rathalos Marrow,1,8
 66105,A,Rathian Spike,1,8
 66105,A,Pukei-Pukei Quill,1,8
 66105,A,Pukei-Pukei Sac,1,8
 66105,A,Pukei-Pukei Tail,1,8
-66105,A,Armor Sphere+,1,15
 66105,A,Rathalos Plate,1,3
 66105,A,Rathian Plate,1,3
+66105,A,Commendation,1,1
 62608,A,Zorah Magdaros Heat Scale,1,100
-62608,A,Zorah Magdaros Heat Scale,1,20
 62608,A,Zorah Magdaros Ridge,1,23
+62608,A,Zorah Magdaros Heat Scale,1,20
 62608,A,Zorah Magdaros Pleura,1,18
 62608,A,Zorah Magdaros Magma,1,16
 62608,A,Zorah Magdaros Carapace,2,15
 62608,A,Zorah Magdaros Gem,1,8
 62608,B,Commendation,1,100
-62608,B,Commendation,1,1
 62608,B,Dragonite Ore,1,24
-62608,B,Zorah Magdaros Heat Scale,1,12
 62608,B,Zorah Magdaros Carapace,1,18
+62608,B,Lightcrystal,1,15
+62608,B,Zorah Magdaros Heat Scale,1,12
 62608,B,Zorah Magdaros Ridge,1,12
 62608,B,Zorah Magdaros Pleura,1,9
 62608,B,Zorah Magdaros Magma,1,9
-62608,B,Lightcrystal,1,15
+62608,B,Commendation,1,1
 65601,A,Black Bandage,1,100
+65601,A,Coral Bone,1,24
+65601,A,Shamos Scale+,1,15
+65601,A,Mysterious Feystone,1,15
+65601,A,Shamos Hide+,1,13
 65601,A,Black Bandage,1,12
 65601,A,Armor Sphere+,1,11
-65601,A,Shamos Scale+,1,15
-65601,A,Shamos Hide+,1,13
-65601,A,Coral Bone,1,24
 65601,A,Aquacore Ore,1,10
-65601,A,Mysterious Feystone,1,15
 65602,A,Black Crystal Ticket,1,100
-65602,A,Black Crystal Ticket,1,12
-65602,A,Armor Sphere+,1,11
-65602,A,Monster Bone+,1,20
 65602,A,Flash Pod,2,27
+65602,A,Monster Bone+,1,20
 65602,A,Well-done Steak,2,15
 65602,A,Mysterious Feystone,1,15
+65602,A,Black Crystal Ticket,1,12
+65602,A,Armor Sphere+,1,11
 65603,A,Kulu-Ya-Ku Ticket,1,100
-65603,A,Kulu-Ya-Ku Ticket,1,12
-65603,A,Armor Sphere+,1,11
-65603,A,Monster Bone+,1,20
 65603,A,Steel Egg,1,25
-65603,A,Silver Egg,1,12
-65603,A,Golden Egg,1,5
+65603,A,Monster Bone+,1,20
 65603,A,Mysterious Feystone,1,15
+65603,A,Kulu-Ya-Ku Ticket,1,12
+65603,A,Silver Egg,1,12
+65603,A,Armor Sphere+,1,11
+65603,A,Golden Egg,1,5
 65604,A,Wiggler Ticket,1,100
+65604,A,Quality Bone,1,24
+65604,A,Coral Crystal,1,24
+65604,A,Aquacore Ore,1,16
 65604,A,Wiggler Ticket,1,12
 65604,A,Armor Sphere+,1,11
-65604,A,Quality Bone,1,24
-65604,A,Aquacore Ore,1,16
-65604,A,Coral Crystal,1,24
 65604,A,Lightcrystal,1,8
 65604,A,Novacrystal,1,5
 65605,A,Glowing Feystone,1,100
-65605,A,Glowing Feystone,1,7
 65605,A,Mysterious Feystone,1,44
-65605,A,Mysterious Feystone,2,11
-65605,A,Monster Keenbone,3,14
 65605,A,Nourishing Extract,1,24
+65605,A,Monster Keenbone,3,14
+65605,A,Mysterious Feystone,2,11
+65605,A,Glowing Feystone,1,7
 64601,A,Advanced Armor Sphere,2,100
-64601,A,Advanced Armor Sphere,2,3
-64601,A,Advanced Armor Sphere,1,19
-64601,A,Armor Sphere+,2,33
 64601,A,Armor Sphere+,1,45
+64601,A,Armor Sphere+,2,33
+64601,A,Advanced Armor Sphere,1,19
+64601,A,Advanced Armor Sphere,2,3
 66601,A,Advanced Armor Sphere,3,100
-66601,A,Advanced Armor Sphere,3,1
 66601,A,Mysterious Feystone,3,15
 66601,A,Great Jagras Scale+,2,10
 66601,A,Pukei-Pukei Scale+,2,10
@@ -1783,15 +1782,15 @@ base_id,group,item_en,stack,percentage
 66601,A,Anjanath Scale+,2,10
 66601,A,Rathalos Scale+,2,10
 66601,A,Anjanath Plate,1,5
-66601,A,Anjanath Gem,1,3
 66601,A,Rathalos Plate,1,5
 66601,A,Rathalos Medulla,1,5
-66601,A,Rathalos Ruby,1,3
 66601,A,Bird Wyvern Gem,1,5
-66601,A,Wyvern Gem,1,3
 66601,A,Dragonbone Relic,1,5
+66601,A,Anjanath Gem,1,3
+66601,A,Rathalos Ruby,1,3
+66601,A,Wyvern Gem,1,3
+66601,A,Advanced Armor Sphere,3,1
 66602,A,Advanced Armor Sphere,3,100
-66602,A,Advanced Armor Sphere,3,1
 66602,A,Mysterious Feystone,3,16
 66602,A,Kulu-Ya-Ku Scale+,2,10
 66602,A,Barroth Carapace,2,10
@@ -1799,295 +1798,1747 @@ base_id,group,item_en,stack,percentage
 66602,A,Rathian Scale+,2,10
 66602,A,Diablos Carapace,2,10
 66602,A,Rathian Plate,1,5
-66602,A,Rathian Ruby,1,3
 66602,A,Majestic Horn,1,5
 66602,A,Blos Medulla,1,5
 66602,A,Bird Wyvern Gem,1,5
 66602,A,Wyvern Gem,1,5
 66602,A,Novacrystal,1,5
+66602,A,Rathian Ruby,1,3
+66602,A,Advanced Armor Sphere,3,1
 66603,A,Advanced Armor Sphere,3,100
-66603,A,Advanced Armor Sphere,3,1
 66603,A,Mysterious Feystone,3,18
 66603,A,Tzitzi-Ya-Ku Scale+,2,12
 66603,A,Paolumu Pelt+,2,12
 66603,A,Pink Rathian Scale+,2,12
 66603,A,Legiana Scale+,2,12
+66603,A,Novacrystal,1,7
 66603,A,Rathian Plate,1,5
-66603,A,Rathian Ruby,1,3
 66603,A,Legiana Plate,1,5
-66603,A,Legiana Gem,1,3
 66603,A,Bird Wyvern Gem,1,5
 66603,A,Wyvern Gem,1,5
-66603,A,Novacrystal,1,7
+66603,A,Rathian Ruby,1,3
+66603,A,Legiana Gem,1,3
+66603,A,Advanced Armor Sphere,3,1
 66604,A,Advanced Armor Sphere,3,100
-66604,A,Advanced Armor Sphere,3,1
 66604,A,Mysterious Feystone,3,15
 66604,A,Great Girros Scale+,2,13
 66604,A,Radobaan Scale+,2,13
 66604,A,Odogaron Scale+,2,13
 66604,A,Bazelgeuse Scale+,2,13
 66604,A,Radobaan Medulla,1,7
+66604,A,Wyvern Gem,1,7
+66604,A,Dragonbone Relic,1,7
 66604,A,Odogaron Plate,1,5
 66604,A,Odogaron Gem,1,3
 66604,A,Bazelgeuse Gem,1,3
-66604,A,Wyvern Gem,1,7
-66604,A,Dragonbone Relic,1,7
+66604,A,Advanced Armor Sphere,3,1
 66605,A,Advanced Armor Sphere,3,100
-66605,A,Advanced Armor Sphere,3,1
 66605,A,Mysterious Feystone,3,15
 66605,A,Dodogama Scale+,2,13
 66605,A,Uragaan Scale+,2,13
 66605,A,Lavasioth Scale+,2,13
 66605,A,Azure Rathalos Scale+,2,13
 66605,A,Uragaan Marrow,1,7
-66605,A,Uragaan Ruby,1,3
-66605,A,Rathalos Plate,1,5
-66605,A,Rathalos Ruby,1,3
 66605,A,Wyvern Gem,1,7
 66605,A,Firecell Stone,1,7
+66605,A,Rathalos Plate,1,5
+66605,A,Uragaan Ruby,1,3
+66605,A,Rathalos Ruby,1,3
+66605,A,Advanced Armor Sphere,3,1
 66606,A,Advanced Armor Sphere,2,100
-66606,A,Advanced Armor Sphere,2,1
 66606,A,Diablos Carapace,1,16
 66606,A,Black Diablos Carapace,1,16
 66606,A,Diablos Ridge+,1,16
 66606,A,Black Diablos Ridge+,1,16
+66606,A,Mysterious Feystone,2,11
 66606,A,Majestic Horn,1,8
 66606,A,Black Spiral Horn+,1,8
-66606,A,Mysterious Feystone,2,11
 66606,A,Wyvern Gem,1,8
+66606,A,Advanced Armor Sphere,2,1
 62502,A,Vaal Hazak Ticket,1,100
-62502,A,Vaal Hazak Ticket,1,3
-62502,A,Sullied Streamstone,1,11
-62502,A,Shining Streamstone,1,7
-62502,A,Warped Feystone,1,18
 62502,A,Hard Armor Sphere,1,22
+62502,A,Warped Feystone,1,18
+62502,A,Sullied Streamstone,1,11
 62502,A,Streamstone,1,9
-62502,A,Gleaming Streamstone,1,7
 62502,A,Elder Dragon Bone,2,9
 62502,A,Elder Dragon Blood,2,9
+62502,A,Shining Streamstone,1,7
+62502,A,Gleaming Streamstone,1,7
 62502,A,Vaal Hazak Gem,1,5
+62502,A,Vaal Hazak Ticket,1,3
 62503,A,Kirin Ticket,1,100
-62503,A,Kirin Ticket,1,3
-62503,A,Sullied Streamstone,1,11
-62503,A,Shining Streamstone,1,7
-62503,A,Warped Feystone,1,18
 62503,A,Hard Armor Sphere,1,19
+62503,A,Warped Feystone,1,18
+62503,A,Sullied Streamstone,1,11
 62503,A,Streamstone,1,9
-62503,A,Gleaming Streamstone,1,7
 62503,A,Elder Dragon Bone,2,9
 62503,A,Elder Dragon Blood,2,9
+62503,A,Shining Streamstone,1,7
+62503,A,Gleaming Streamstone,1,7
 62503,A,Kirin Azure Horn,2,4
 62503,A,Kirin Thundertail,2,4
+62503,A,Kirin Ticket,1,3
 62504,A,Teostra Ticket,1,100
-62504,A,Teostra Ticket,1,3
-62504,A,Sullied Streamstone,1,11
-62504,A,Shining Streamstone,1,7
-62504,A,Warped Feystone,1,18
 62504,A,Hard Armor Sphere,1,22
+62504,A,Warped Feystone,1,18
+62504,A,Sullied Streamstone,1,11
 62504,A,Streamstone,1,9
-62504,A,Gleaming Streamstone,1,7
 62504,A,Elder Dragon Bone,2,9
 62504,A,Elder Dragon Blood,2,9
+62504,A,Shining Streamstone,1,7
+62504,A,Gleaming Streamstone,1,7
 62504,A,Teostra Gem,1,5
+62504,A,Teostra Ticket,1,3
 62505,A,Kushala Daora Ticket,1,100
-62505,A,Kushala Daora Ticket,1,3
-62505,A,Sullied Streamstone,1,11
-62505,A,Shining Streamstone,1,7
-62505,A,Warped Feystone,1,18
 62505,A,Hard Armor Sphere,1,22
+62505,A,Warped Feystone,1,18
+62505,A,Sullied Streamstone,1,11
 62505,A,Streamstone,1,9
-62505,A,Gleaming Streamstone,1,7
 62505,A,Elder Dragon Bone,2,9
 62505,A,Elder Dragon Blood,2,9
+62505,A,Shining Streamstone,1,7
+62505,A,Gleaming Streamstone,1,7
 62505,A,Daora Gem,1,5
+62505,A,Kushala Daora Ticket,1,3
 62506,A,Nergigante Ticket,1,100
-62506,A,Nergigante Ticket,1,3
-62506,A,Sullied Streamstone,1,11
-62506,A,Shining Streamstone,1,7
-62506,A,Warped Feystone,1,18
 62506,A,Hard Armor Sphere,1,22
+62506,A,Warped Feystone,1,18
+62506,A,Sullied Streamstone,1,11
 62506,A,Streamstone,1,9
-62506,A,Gleaming Streamstone,1,7
 62506,A,Elder Dragon Bone,3,9
 62506,A,Elder Dragon Blood,3,9
+62506,A,Shining Streamstone,1,7
+62506,A,Gleaming Streamstone,1,7
 62506,A,Nergigante Gem,1,5
+62506,A,Nergigante Ticket,1,3
 62511,A,Lunastra Ticket,1,100
-62511,A,Lunastra Ticket,1,3
-62511,A,Sullied Streamstone,1,11
-62511,A,Shining Streamstone,1,7
-62511,A,Warped Feystone,1,18
 62511,A,Hard Armor Sphere,1,22
+62511,A,Warped Feystone,1,18
+62511,A,Sullied Streamstone,1,11
 62511,A,Streamstone,1,9
-62511,A,Gleaming Streamstone,1,7
 62511,A,Elder Dragon Bone,3,9
 62511,A,Elder Dragon Blood,3,9
+62511,A,Shining Streamstone,1,7
+62511,A,Gleaming Streamstone,1,7
 62511,A,Lunastra Gem,1,5
+62511,A,Lunastra Ticket,1,3
 62515,A,Streamstone,1,100
-62515,A,Streamstone,1,1
 62515,A,Advanced Armor Sphere,2,24
-62515,A,Sullied Streamstone,1,11
-62515,A,Shining Streamstone,1,7
-62515,A,Wyvern Gem,1,7
 62515,A,Warped Feystone,1,18
 62515,A,Dragoncore Ore,1,14
+62515,A,Sullied Streamstone,1,11
 62515,A,Dragonbone Relic,1,9
 62515,A,Novacrystal,1,9
+62515,A,Shining Streamstone,1,7
+62515,A,Wyvern Gem,1,7
+62515,A,Streamstone,1,1
 62606,A,Zorah Magdaros Heat Scale,1,100
-62606,A,Zorah Magdaros Heat Scale,1,20
 62606,A,Zorah Magdaros Ridge,1,23
+62606,A,Zorah Magdaros Heat Scale,1,20
 62606,A,Zorah Magdaros Pleura,1,18
 62606,A,Zorah Magdaros Magma,1,16
 62606,A,Zorah Magdaros Carapace,2,15
 62606,A,Zorah Magdaros Gem,1,8
 62606,B,Zorah Magdaros Ticket,2,100
-62606,B,Zorah Magdaros Ticket,2,1
-62606,B,Zorah Magdaros Ticket,1,3
-62606,B,Sullied Streamstone,1,11
-62606,B,Shining Streamstone,1,7
-62606,B,Warped Feystone,1,18
 62606,B,Hard Armor Sphere,2,27
+62606,B,Warped Feystone,1,18
 62606,B,Streamstone,1,14
+62606,B,Sullied Streamstone,1,11
 62606,B,Gleaming Streamstone,1,11
 62606,B,Zorah Magdaros Gem,1,8
+62606,B,Shining Streamstone,1,7
+62606,B,Zorah Magdaros Ticket,1,3
+62606,B,Zorah Magdaros Ticket,2,1
 62607,A,Xeno'jiiva Ticket,1,100
-62607,A,Xeno'jiiva Ticket,1,3
-62607,A,Sullied Streamstone,1,11
-62607,A,Shining Streamstone,1,7
-62607,A,Warped Feystone,1,18
 62607,A,Hard Armor Sphere,1,19
+62607,A,Warped Feystone,1,18
+62607,A,Sullied Streamstone,1,11
 62607,A,Streamstone,1,9
-62607,A,Gleaming Streamstone,1,7
 62607,A,Elder Dragon Bone,3,9
 62607,A,Elder Dragon Blood,3,9
 62607,A,Xeno'jiiva Gem,1,8
+62607,A,Shining Streamstone,1,7
+62607,A,Gleaming Streamstone,1,7
+62607,A,Xeno'jiiva Ticket,1,3
 62609,A,High Commendation,1,100
-62609,A,High Commendation,1,1
 62609,A,Elder Dragon Bone,2,22
+62609,A,Hard Armor Sphere,1,16
 62609,A,Elder Dragon Blood,2,15
+62609,A,Dreamcore Ore,1,13
 62609,A,Xeno'jiiva Veil,1,6
 62609,A,Xeno'jiiva Tail,1,6
 62609,A,Xeno'jiiva Horn,1,6
 62609,A,Xeno'jiiva Claw,1,6
 62609,A,Xeno'jiiva Wing,1,6
 62609,A,Xeno'jiiva Gem,1,3
-62609,A,Dreamcore Ore,1,13
-62609,A,Hard Armor Sphere,1,16
+62609,A,High Commendation,1,1
 65606,A,Quality Bone,1,100
 65606,A,Quality Bone,1,16
-65606,A,Mandragora,2,12
 65606,A,Blue Mushroom,4,16
 65606,A,Bitterbug,6,16
 65606,A,Toadstool,5,15
-65606,A,Carbalite Ore,1,12
 65606,A,Ancient Bone,1,13
+65606,A,Mandragora,2,12
+65606,A,Carbalite Ore,1,12
 65607,A,Fucium Ore,1,100
-65607,A,Fucium Ore,1,16
-65607,A,Devil's Blight,2,12
 65607,A,Baitbug,4,18
+65607,A,Fucium Ore,1,16
 65607,A,Chillshroom,6,16
+65607,A,Devil's Blight,2,12
 65607,A,Carbalite Ore,2,12
-65607,A,Quality Bone,2,7
 65607,A,Brutal Bone,1,12
+65607,A,Quality Bone,2,7
 65607,A,Firecell Stone,1,7
 66607,A,Advanced Armor Sphere,2,100
-66607,A,Advanced Armor Sphere,2,1
 66607,A,Pink Rathian Scale+,1,15
-66607,A,Pink Rathian Carapace,1,14
 66607,A,Legiana Scale+,1,15
+66607,A,Pink Rathian Carapace,1,14
 66607,A,Legiana Hide+,1,14
-66607,A,Rathian Plate,1,8
-66607,A,Rathian Ruby,1,5
-66607,A,Legiana Plate,1,8
-66607,A,Legiana Gem,1,5
 66607,A,Mysterious Feystone,2,10
+66607,A,Rathian Plate,1,8
+66607,A,Legiana Plate,1,8
+66607,A,Rathian Ruby,1,5
+66607,A,Legiana Gem,1,5
 66607,A,Wyvern Gem,1,5
+66607,A,Advanced Armor Sphere,2,1
 66608,A,Glowing Feystone,1,100
-66608,A,Glowing Feystone,1,1
-66608,A,Mysterious Feystone,2,14
 66608,A,Hard Armor Sphere,1,18
-66608,A,Anjanath Pelt+,1,14
 66608,A,Anjanath Nosebone+,1,15
+66608,A,Mysterious Feystone,2,14
+66608,A,Anjanath Pelt+,1,14
 66608,A,Azure Rathalos Scale+,1,14
 66608,A,Azure Rathalos Wing,1,8
 66608,A,Anjanath Plate,1,5
-66608,A,Anjanath Gem,1,3
 66608,A,Rathalos Plate,1,5
+66608,A,Anjanath Gem,1,3
 66608,A,Rathalos Ruby,1,3
+66608,A,Glowing Feystone,1,1
 66609,A,Glowing Feystone,1,100
-66609,A,Glowing Feystone,1,1
-66609,A,Mysterious Feystone,2,14
 66609,A,Hard Armor Sphere,1,18
-66609,A,Bazelgeuse Carapace,2,7
-66609,A,Bazelgeuse Scale+,2,6
+66609,A,Mysterious Feystone,2,14
 66609,A,Bazelgeuse Fuse,1,14
 66609,A,Bazelgeuse Talon,1,14
 66609,A,Bazelgeuse Wing,1,11
 66609,A,Bazelgeuse Tail,1,10
+66609,A,Bazelgeuse Carapace,2,7
+66609,A,Bazelgeuse Scale+,2,6
 66609,A,Bazelgeuse Gem,1,5
+66609,A,Glowing Feystone,1,1
 66610,A,Gleaming Streamstone,1,100
-66610,A,Gleaming Streamstone,1,8
-66610,A,Worn Feystone,1,16
-66610,A,Sullied Streamstone,1,5
-66610,A,Shining Streamstone,1,3
-66610,A,Dragoncore Ore,1,12
 66610,A,Hard Armor Sphere,2,22
-66610,A,Lunastra Gem,1,4
-66610,A,Teostra Gem,1,3
-66610,A,Nergigante Gem,1,3
+66610,A,Worn Feystone,1,16
+66610,A,Dragoncore Ore,1,12
+66610,A,Gleaming Streamstone,1,8
 66610,A,Lunastra Horn,1,8
 66610,A,Teostra Horn+,1,8
 66610,A,Nergigante Horn+,1,8
-3101,A,Pukei Coin,1,1
-3101,A,Pinnacle Coin,1,20
-3101,A,Well-done Steak,1,28
+66610,A,Sullied Streamstone,1,5
+66610,A,Lunastra Gem,1,4
+66610,A,Shining Streamstone,1,3
+66610,A,Teostra Gem,1,3
+66610,A,Nergigante Gem,1,3
 3101,A,Lifepowder,2,30
-3101,A,Steel Egg,1,8
+3101,A,Well-done Steak,1,28
+3101,A,Pinnacle Coin,1,20
 3101,A,Voucher,1,13
-3001,A,Kulu Coin,1,1
+3101,A,Steel Egg,1,8
+3101,A,Pukei Coin,1,1
+3001,A,Lifepowder,2,30
 3001,A,Pinnacle Coin,1,25
 3001,A,Well-done Steak,1,23
-3001,A,Lifepowder,2,30
-3001,A,Steel Egg,1,8
 3001,A,Voucher,1,13
-3002,A,Rathian Coin,1,1
+3001,A,Steel Egg,1,8
+3001,A,Kulu Coin,1,1
 3002,A,Pinnacle Coin,1,30
-3002,A,Well-done Steak,1,13
 3002,A,Lifepowder,2,30
-3002,A,Steel Egg,1,8
 3002,A,Voucher,1,18
-3031,A,Tzitzi Coin,1,1
-3031,A,Hunter King Coin,1,20
-3031,A,Well-done Steak,1,21
+3002,A,Well-done Steak,1,13
+3002,A,Steel Egg,1,8
+3002,A,Rathian Coin,1,1
 3031,A,Lifepowder,3,30
-3031,A,Steel Egg,1,10
+3031,A,Well-done Steak,1,21
+3031,A,Hunter King Coin,1,20
 3031,A,Voucher,1,18
-3032,A,Barroth Coin,1,1
+3031,A,Steel Egg,1,10
+3031,A,Tzitzi Coin,1,1
 3032,A,Hunter King Coin,1,25
-3032,A,Well-done Steak,1,21
 3032,A,Lifepowder,3,25
-3032,A,Steel Egg,1,10
+3032,A,Well-done Steak,1,21
 3032,A,Voucher,1,18
-3033,A,Gama Coin,1,1
+3032,A,Steel Egg,1,10
+3032,A,Barroth Coin,1,1
 3033,A,Hunter King Coin,1,25
-3033,A,Well-done Steak,1,21
 3033,A,Lifepowder,3,25
-3033,A,Steel Egg,2,10
+3033,A,Well-done Steak,1,21
 3033,A,Voucher,1,18
-3034,A,Rathalos Coin,1,1
+3033,A,Steel Egg,2,10
+3033,A,Gama Coin,1,1
 3034,A,Hunter King Coin,1,30
-3034,A,Max Potion,1,15
 3034,A,Lifepowder,3,23
-3034,A,Steel Egg,2,10
 3034,A,Voucher,1,21
-3051,A,Brute Coin,1,1
-3051,A,Ace Hunter Coin,1,20
-3051,A,Ancient Potion,1,21
+3034,A,Max Potion,1,15
+3034,A,Steel Egg,2,10
+3034,A,Rathalos Coin,1,1
 3051,A,Lifepowder,3,27
-3051,A,Steel Egg,3,10
+3051,A,Ancient Potion,1,21
 3051,A,Voucher,1,21
-3052,A,Flying Coin,1,1
-3052,A,Ace Hunter Coin,1,20
-3052,A,Ancient Potion,1,21
+3051,A,Ace Hunter Coin,1,20
+3051,A,Steel Egg,3,10
+3051,A,Brute Coin,1,1
 3052,A,Lifepowder,3,27
-3052,A,Steel Egg,3,10
+3052,A,Ancient Potion,1,21
 3052,A,Voucher,1,21
+3052,A,Ace Hunter Coin,1,20
+3052,A,Steel Egg,3,10
+3052,A,Flying Coin,1,1
+241,A,Armor Sphere,1,100
+241,A,Monster Bone S,1,28
+241,A,Iron Ore,1,18
+241,A,Ancient Bone,1,16
+241,A,Honey,3,15
+241,A,Bitterbug,3,12
+241,A,Machalite Ore,1,10
+241,A,Armor Sphere,1,1
+1101,A,Ancient Feystone,1,100
+1101,A,Monster Toughbone,1,43
+1101,A,Hard Armor Sphere,1,20
+1101,A,Wulg Thickfur,1,13
+1101,A,Gloamgrass Bud,1,13
+1101,A,Gracium,1,10
+1101,A,Ancient Feystone,1,1
+1102,A,Ancient Feystone,1,100
+1102,A,Monster Toughbone,1,43
+1102,A,Hard Armor Sphere,1,20
+1102,A,Wulg Thickfur,1,13
+1102,A,Gloamgrass Bud,1,13
+1102,A,Gracium,1,10
+1102,A,Ancient Feystone,1,1
+1201,A,Ancient Feystone,1,100
+1201,A,Monster Toughbone,1,43
+1201,A,Hard Armor Sphere,1,20
+1201,A,Wulg Thickfur,1,13
+1201,A,Gloamgrass Bud,1,13
+1201,A,Gracium,1,10
+1201,A,Ancient Feystone,1,1
+1202,A,Ancient Feystone,1,100
+1202,A,Monster Toughbone,1,43
+1202,A,Hard Armor Sphere,1,20
+1202,A,Screamer Sac,2,13
+1202,A,Might Seed,2,13
+1202,A,Thick Bone,1,10
+1202,A,Ancient Feystone,1,1
+1203,A,Ancient Feystone,1,100
+1203,A,Monster Toughbone,1,43
+1203,A,Hard Armor Sphere,1,20
+1203,A,Tough Claw,1,13
+1203,A,Nulberry,3,13
+1203,A,Bathycite Ore,1,10
+1203,A,Ancient Feystone,1,1
+1301,A,Ancient Feystone,1,100
+1301,A,Monster Slogbone,1,43
+1301,A,Hard Armor Sphere,1,27
+1301,A,Wulg Thickfur,1,16
+1301,A,Gracium,1,13
+1301,A,Ancient Feystone,1,1
+1302,A,Ancient Feystone,1,100
+1302,A,Monster Slogbone,1,43
+1302,A,Hard Armor Sphere,1,27
+1302,A,Prized Pelt,1,16
+1302,A,Eltalite Ore,1,13
+1302,A,Ancient Feystone,1,1
+1303,A,Ancient Feystone,1,100
+1303,A,Monster Slogbone,1,43
+1303,A,Hard Armor Sphere,1,27
+1303,A,Thick Bone,1,16
+1303,A,Screamer Sac,2,13
+1303,A,Ancient Feystone,1,1
+1304,A,Ancient Feystone,1,100
+1304,A,Monster Slogbone,1,43
+1304,A,Hard Armor Sphere,1,27
+1304,A,Monster Essence,1,16
+1304,A,Meldspar Ore,1,13
+1304,A,Ancient Feystone,1,1
+1305,A,Ancient Feystone,1,100
+1305,A,Monster Slogbone,1,43
+1305,A,Hard Armor Sphere,1,27
+1305,A,Wingdrake Finehide,1,16
+1305,A,Spiritvein Crystal,1,13
+1305,A,Ancient Feystone,1,1
+1306,A,Ancient Feystone,1,100
+1306,A,Monster Slogbone,1,43
+1306,A,Hard Armor Sphere,1,27
+1306,A,Wingdrake Finehide,1,16
+1306,A,Spiritvein Crystal,1,13
+1306,A,Ancient Feystone,1,1
+1401,A,Ancient Feystone,1,100
+1401,A,Monster Solidbone,1,38
+1401,A,Hard Armor Sphere,2,25
+1401,A,Wulg Thickfur,1,13
+1401,A,Gloamgrass Bud,1,13
+1401,A,Gracium,1,10
+1401,A,Ancient Feystone,1,1
+1402,A,Ancient Feystone,1,100
+1402,A,Monster Solidbone,1,38
+1402,A,Hard Armor Sphere,2,25
+1402,A,Monster Essence,1,13
+1402,A,Dragonfell Berry,2,13
+1402,A,Meldspar Ore,1,10
+1402,A,Ancient Feystone,1,1
+1403,A,Ancient Feystone,1,100
+1403,A,Monster Solidbone,1,38
+1403,A,Hard Armor Sphere,2,25
+1403,A,Tough Claw,1,13
+1403,A,Nulberry,3,13
+1403,A,Bathycite Ore,1,10
+1403,A,Ancient Feystone,1,1
+1404,A,Hard Armor Sphere,2,100
+1404,A,Dust of Life,1,33
+1404,A,Hard Armor Sphere,2,21
+1404,A,Mega Barrel Bomb,1,20
+1404,A,Max Potion,1,13
+1404,A,Ration,4,13
+1405,A,Ancient Feystone,1,100
+1405,A,Monster Solidbone,1,38
+1405,A,Hard Armor Sphere,2,25
+1405,A,Wulg Thickfur,1,13
+1405,A,Gloamgrass Bud,1,13
+1405,A,Gracium,1,10
+1405,A,Ancient Feystone,1,1
+1501,A,Conqueror's Seal,1,100
+1501,A,Large Elder Dragon Bone,1,24
+1501,A,Heavy Armor Sphere,1,24
+1501,A,Ancient Feystone,1,20
+1501,A,Pure Dragon Blood,1,18
+1501,A,Phantomcore Ore,1,8
+1501,A,Dragonbone Artifact,1,5
+1501,A,Conqueror's Seal,1,1
+1502,A,Ancient Feystone,1,100
+1502,A,Monster Solidbone,1,38
+1502,A,Hard Armor Sphere,2,25
+1502,A,Wingdrake Finehide,1,13
+1502,A,Devil's Blight,1,13
+1502,A,Spiritvein Crystal,1,10
+1502,A,Ancient Feystone,1,1
+1503,A,Conqueror's Seal,1,100
+1503,A,Large Elder Dragon Bone,1,24
+1503,A,Heavy Armor Sphere,1,24
+1503,A,Ancient Feystone,1,20
+1503,A,Pure Dragon Blood,1,18
+1503,A,Phantomcore Ore,1,8
+1503,A,Dragonbone Artifact,1,5
+1503,A,Conqueror's Seal,1,1
+1504,A,Conqueror's Seal,1,100
+1504,A,Large Elder Dragon Bone,1,24
+1504,A,Heavy Armor Sphere,1,24
+1504,A,Ancient Feystone,1,20
+1504,A,Pure Dragon Blood,1,18
+1504,A,Phantomcore Ore,1,8
+1504,A,Dragonbone Artifact,1,5
+1504,A,Conqueror's Seal,1,1
+1602,A,Conqueror's Seal,1,100
+1602,A,Large Elder Dragon Bone,1,24
+1602,A,Heavy Armor Sphere,1,24
+1602,A,Ancient Feystone,1,20
+1602,A,Pure Dragon Blood,1,18
+1602,A,Phantomcore Ore,1,8
+1602,A,Dragonbone Artifact,1,5
+1602,A,Conqueror's Seal,1,1
+1603,A,King Armor Sphere,1,100
+1603,A,Hard Armor Sphere,2,22
+1603,A,Ancient Feystone,1,18
+1603,A,Dreamcore Ore,1,13
+1603,A,Rathian Surspike,1,13
+1603,A,Nightshade Paolumu Fellwing,1,13
+1603,A,Carved Feystone,1,11
+1603,A,Large Wyvern Gem,1,5
+1603,A,Rathian Mantle,1,4
+1603,A,King Armor Sphere,1,1
+1604,A,King Armor Sphere,1,100
+1604,A,Hard Armor Sphere,2,20
+1604,A,Carved Feystone,1,18
+1604,A,Ancient Feystone,2,14
+1604,A,Phantomcore Ore,1,13
+1604,A,Brachydios Pounder+,1,13
+1604,A,Glavenus Hardfang,1,13
+1604,A,Brachydios Pallium,1,4
+1604,A,Glavenus Mantle,1,4
+1604,A,King Armor Sphere,1,1
+1606,A,Ancient Feystone,1,100
+1606,A,Monster Solidbone,1,38
+1606,A,Hard Armor Sphere,2,25
+1606,A,Monster Slogbone,2,15
+1606,A,Dragoncore Ore,1,13
+1606,A,Purecrystal,1,4
+1606,A,Dragonbone Artifact,1,4
+1606,A,Ancient Feystone,1,1
+1121,A,Ancient Feystone,1,100
+1121,A,Monster Toughbone,1,43
+1121,A,Hard Armor Sphere,1,20
+1121,A,Wulg Thickfur,1,13
+1121,A,Gloamgrass Bud,1,13
+1121,A,Gracium,1,10
+1121,A,Ancient Feystone,1,1
+1122,A,Ancient Feystone,1,100
+1122,A,Monster Toughbone,1,43
+1122,A,Hard Armor Sphere,1,20
+1122,A,Wulg Thickfur,1,13
+1122,A,Gloamgrass Bud,1,13
+1122,A,Gracium,1,10
+1122,A,Ancient Feystone,1,1
+1123,A,Ancient Feystone,1,100
+1123,A,Monster Toughbone,1,43
+1123,A,Hard Armor Sphere,1,20
+1123,A,Wulg Thickfur,1,13
+1123,A,Gloamgrass Bud,1,13
+1123,A,Gracium,1,10
+1123,A,Ancient Feystone,1,1
+1124,A,Ancient Feystone,1,100
+1124,A,Thick Bone,1,30
+1124,A,Hard Armor Sphere,1,20
+1124,A,Wulg Thickfur,1,13
+1124,A,Gloamgrass Bud,1,13
+1124,A,Hot Pepper,2,13
+1124,A,Gracium,1,10
+1124,A,Ancient Feystone,1,1
+1125,A,Ancient Feystone,1,100
+1125,A,Gracium,1,21
+1125,A,Frozen Bone,1,21
+1125,A,Cortos Hardclaw,1,17
+1125,A,Thick Bone,2,14
+1125,A,Wulg Thickfur,1,13
+1125,A,Gloamgrass Bud,2,13
+1125,A,Ancient Feystone,1,1
+1131,A,Ancient Feystone,1,100
+1131,A,Monster Toughbone,1,43
+1131,A,Hard Armor Sphere,1,20
+1131,A,Eltalite Ore,1,15
+1131,A,Dreamcore Ore,1,13
+1131,A,Meldspar Ore,1,8
+1131,A,Ancient Feystone,1,1
+1132,A,Ancient Feystone,1,100
+1132,A,Monster Toughbone,1,43
+1132,A,Hard Armor Sphere,1,20
+1132,A,Eltalite Ore,1,15
+1132,A,Dreamcore Ore,1,13
+1132,A,Meldspar Ore,1,8
+1132,A,Ancient Feystone,1,1
+1133,A,Ancient Feystone,1,100
+1133,A,Monster Toughbone,1,43
+1133,A,Hard Armor Sphere,1,20
+1133,A,Eltalite Ore,1,15
+1133,A,Dreamcore Ore,1,13
+1133,A,Meldspar Ore,1,8
+1133,A,Ancient Feystone,1,1
+1134,A,Ancient Feystone,1,100
+1134,A,Monster Toughbone,1,43
+1134,A,Hard Armor Sphere,1,20
+1134,A,Eltalite Ore,1,15
+1134,A,Dreamcore Ore,1,13
+1134,A,Meldspar Ore,1,8
+1134,A,Ancient Feystone,1,1
+1151,A,Ancient Feystone,1,100
+1151,A,Monster Toughbone,1,43
+1151,A,Hard Armor Sphere,1,20
+1151,A,Prized Pelt,1,13
+1151,A,Mandragora,1,13
+1151,A,Eltalite Ore,1,10
+1151,A,Ancient Feystone,1,1
+1152,A,Ancient Feystone,1,100
+1152,A,Monster Toughbone,1,43
+1152,A,Hard Armor Sphere,1,20
+1152,A,Prized Pelt,1,13
+1152,A,Mandragora,1,13
+1152,A,Eltalite Ore,1,10
+1152,A,Ancient Feystone,1,1
+1153,A,Ancient Feystone,1,100
+1153,A,Monster Toughbone,1,43
+1153,A,Hard Armor Sphere,1,20
+1153,A,Prized Pelt,1,13
+1153,A,Mandragora,1,13
+1153,A,Eltalite Ore,1,10
+1153,A,Ancient Feystone,1,1
+1154,A,Ancient Feystone,1,100
+1154,A,Monster Toughbone,1,43
+1154,A,Hard Armor Sphere,1,20
+1154,A,Prized Pelt,1,13
+1154,A,Mandragora,1,13
+1154,A,Eltalite Ore,1,10
+1154,A,Ancient Feystone,1,1
+1155,A,Ancient Feystone,1,100
+1155,A,Monster Toughbone,1,43
+1155,A,Hard Armor Sphere,1,20
+1155,A,Prized Pelt,1,13
+1155,A,Mandragora,1,13
+1155,A,Eltalite Ore,1,10
+1155,A,Ancient Feystone,1,1
+1161,A,Ancient Feystone,1,100
+1161,A,Monster Toughbone,1,43
+1161,A,Hard Armor Sphere,1,20
+1161,A,Screamer Sac,2,13
+1161,A,Might Seed,2,13
+1161,A,Thick Bone,1,10
+1161,A,Ancient Feystone,1,1
+1162,A,Ancient Feystone,1,100
+1162,A,Monster Toughbone,1,43
+1162,A,Hard Armor Sphere,1,20
+1162,A,Screamer Sac,2,13
+1162,A,Might Seed,2,13
+1162,A,Thick Bone,1,10
+1162,A,Ancient Feystone,1,1
+1163,A,Ancient Feystone,1,100
+1163,A,Monster Toughbone,1,43
+1163,A,Hard Armor Sphere,1,20
+1163,A,Screamer Sac,2,13
+1163,A,Might Seed,2,13
+1163,A,Thick Bone,1,10
+1163,A,Ancient Feystone,1,1
+1164,A,Ancient Feystone,1,100
+1164,A,Monster Toughbone,1,43
+1164,A,Hard Armor Sphere,1,20
+1164,A,Screamer Sac,2,13
+1164,A,Might Seed,2,13
+1164,A,Thick Bone,1,10
+1164,A,Ancient Feystone,1,1
+1171,A,Ancient Feystone,1,100
+1171,A,Monster Toughbone,1,43
+1171,A,Hard Armor Sphere,1,20
+1171,A,Tough Claw,1,13
+1171,A,Nulberry,3,13
+1171,A,Bathycite Ore,1,10
+1171,A,Ancient Feystone,1,1
+1181,A,Ancient Feystone,1,100
+1181,A,Monster Toughbone,1,43
+1181,A,Hard Armor Sphere,1,20
+1181,A,Monster Essence,1,13
+1181,A,Dragonfell Berry,2,13
+1181,A,Meldspar Ore,1,10
+1181,A,Ancient Feystone,1,1
+1191,A,Ancient Feystone,1,100
+1191,A,Monster Toughbone,1,43
+1191,A,Hard Armor Sphere,1,20
+1191,A,Wingdrake Finehide,1,13
+1191,A,Devil's Blight,1,13
+1191,A,Spiritvein Crystal,1,10
+1191,A,Ancient Feystone,1,1
+1192,A,Heavy Armor Sphere,1,100
+1192,A,Monster Toughbone,2,23
+1192,A,Ancient Feystone,1,22
+1192,A,Eltalite Ore,2,15
+1192,A,Dreamcore Ore,1,13
+1192,A,Gloamgrass Bud,2,13
+1192,A,Large Wyvern Gem,1,8
+1192,A,Carved Feystone,1,5
+1192,A,Heavy Armor Sphere,1,1
+1221,A,Ancient Feystone,1,100
+1221,A,Monster Toughbone,1,43
+1221,A,Hard Armor Sphere,1,20
+1221,A,Wulg Thickfur,1,13
+1221,A,Gloamgrass Bud,1,13
+1221,A,Gracium,1,10
+1221,A,Ancient Feystone,1,1
+1222,A,Ancient Feystone,1,100
+1222,A,Monster Toughbone,1,43
+1222,A,Hard Armor Sphere,1,20
+1222,A,Wulg Thickfur,1,13
+1222,A,Gloamgrass Bud,1,13
+1222,A,Gracium,1,10
+1222,A,Ancient Feystone,1,1
+1223,A,Boaboa Ticket,1,100
+1223,A,Thick Bone,1,25
+1223,A,Wulg Thickfur,1,21
+1223,A,Prized Pelt,1,21
+1223,A,Anteka Antler,1,13
+1223,A,Tough Claw,1,13
+1223,A,Boaboa Ticket,1,7
+1224,A,Boaboa Ticket,1,100
+1224,A,Thick Bone,1,25
+1224,A,Wulg Thickfur,1,21
+1224,A,Prized Pelt,1,21
+1224,A,Anteka Antler,1,13
+1224,A,Tough Claw,1,13
+1224,A,Boaboa Ticket,1,7
+1225,A,Boaboa Ticket,1,100
+1225,A,Thick Bone,1,25
+1225,A,Wulg Thickfur,1,21
+1225,A,Prized Pelt,1,21
+1225,A,Anteka Antler,1,13
+1225,A,Tough Claw,1,13
+1225,A,Boaboa Ticket,1,7
+1231,A,Ancient Feystone,1,100
+1231,A,Monster Toughbone,1,43
+1231,A,Hard Armor Sphere,1,20
+1231,A,Eltalite Ore,1,15
+1231,A,Dreamcore Ore,1,13
+1231,A,Meldspar Ore,1,8
+1231,A,Ancient Feystone,1,1
+1232,A,Ancient Feystone,1,100
+1232,A,Monster Toughbone,1,43
+1232,A,Hard Armor Sphere,1,20
+1232,A,Eltalite Ore,1,15
+1232,A,Dreamcore Ore,1,13
+1232,A,Meldspar Ore,1,8
+1232,A,Ancient Feystone,1,1
+1233,A,Ancient Feystone,1,100
+1233,A,Monster Toughbone,1,43
+1233,A,Hard Armor Sphere,1,20
+1233,A,Eltalite Ore,1,15
+1233,A,Dreamcore Ore,1,13
+1233,A,Meldspar Ore,1,8
+1233,A,Ancient Feystone,1,1
+1234,A,Ancient Feystone,1,100
+1234,A,Monster Toughbone,1,43
+1234,A,Hard Armor Sphere,1,20
+1234,A,Eltalite Ore,1,15
+1234,A,Dreamcore Ore,1,13
+1234,A,Meldspar Ore,1,8
+1234,A,Ancient Feystone,1,1
+1235,A,Ancient Feystone,1,100
+1235,A,Monster Toughbone,1,43
+1235,A,Hard Armor Sphere,1,20
+1235,A,Eltalite Ore,1,15
+1235,A,Dreamcore Ore,1,13
+1235,A,Meldspar Ore,1,8
+1235,A,Ancient Feystone,1,1
+1236,A,Ancient Feystone,1,100
+1236,A,Monster Toughbone,1,43
+1236,A,Hard Armor Sphere,1,20
+1236,A,Eltalite Ore,1,15
+1236,A,Dreamcore Ore,1,13
+1236,A,Meldspar Ore,1,8
+1236,A,Ancient Feystone,1,1
+1237,A,Ancient Feystone,1,100
+1237,A,Monster Toughbone,1,43
+1237,A,Hard Armor Sphere,1,20
+1237,A,Eltalite Ore,1,15
+1237,A,Dreamcore Ore,1,13
+1237,A,Meldspar Ore,1,8
+1237,A,Ancient Feystone,1,1
+1238,A,Ancient Feystone,1,100
+1238,A,Monster Toughbone,1,43
+1238,A,Hard Armor Sphere,1,20
+1238,A,Eltalite Ore,1,15
+1238,A,Dreamcore Ore,1,13
+1238,A,Meldspar Ore,1,8
+1238,A,Ancient Feystone,1,1
+1251,A,Ancient Feystone,1,100
+1251,A,Monster Toughbone,1,43
+1251,A,Hard Armor Sphere,1,20
+1251,A,Prized Pelt,1,13
+1251,A,Mandragora,1,13
+1251,A,Eltalite Ore,1,10
+1251,A,Ancient Feystone,1,1
+1252,A,Ancient Feystone,1,100
+1252,A,Monster Toughbone,1,43
+1252,A,Hard Armor Sphere,1,20
+1252,A,Prized Pelt,1,13
+1252,A,Mandragora,1,13
+1252,A,Eltalite Ore,1,10
+1252,A,Ancient Feystone,1,1
+1253,A,Ancient Feystone,1,100
+1253,A,Monster Toughbone,1,43
+1253,A,Hard Armor Sphere,1,20
+1253,A,Prized Pelt,1,13
+1253,A,Mandragora,1,13
+1253,A,Eltalite Ore,1,10
+1253,A,Ancient Feystone,1,1
+1261,A,Ancient Feystone,1,100
+1261,A,Monster Toughbone,1,43
+1261,A,Hard Armor Sphere,1,20
+1261,A,Screamer Sac,2,13
+1261,A,Might Seed,2,13
+1261,A,Thick Bone,1,10
+1261,A,Ancient Feystone,1,1
+1262,A,Ancient Feystone,1,100
+1262,A,Monster Toughbone,1,43
+1262,A,Hard Armor Sphere,1,20
+1262,A,Screamer Sac,2,13
+1262,A,Might Seed,2,13
+1262,A,Thick Bone,1,10
+1262,A,Ancient Feystone,1,1
+1263,A,Ancient Feystone,1,100
+1263,A,Monster Toughbone,1,43
+1263,A,Hard Armor Sphere,1,20
+1263,A,Screamer Sac,2,13
+1263,A,Might Seed,2,13
+1263,A,Thick Bone,1,10
+1263,A,Ancient Feystone,1,1
+1264,A,Heavy Armor Sphere,1,100
+1264,A,Monster Toughbone,2,22
+1264,A,Ancient Feystone,1,18
+1264,A,Rathian Cortex,1,15
+1264,A,Pink Rathian Cortex,1,15
+1264,A,Rathian Surspike,1,13
+1264,A,Hard Armor Sphere,2,11
+1264,A,Rathian Mantle,1,5
+1264,A,Heavy Armor Sphere,1,1
+1271,A,Ancient Feystone,1,100
+1271,A,Monster Toughbone,1,43
+1271,A,Hard Armor Sphere,1,20
+1271,A,Tough Claw,1,13
+1271,A,Nulberry,3,13
+1271,A,Bathycite Ore,1,10
+1271,A,Ancient Feystone,1,1
+1272,A,Ancient Feystone,1,100
+1272,A,Monster Toughbone,1,43
+1272,A,Hard Armor Sphere,1,20
+1272,A,Tough Claw,1,13
+1272,A,Nulberry,3,13
+1272,A,Bathycite Ore,1,10
+1272,A,Ancient Feystone,1,1
+1273,A,Ancient Feystone,1,100
+1273,A,Monster Toughbone,1,43
+1273,A,Hard Armor Sphere,1,20
+1273,A,Tough Claw,1,13
+1273,A,Nulberry,3,13
+1273,A,Bathycite Ore,1,10
+1273,A,Ancient Feystone,1,1
+1274,A,Heavy Armor Sphere,1,100
+1274,A,Monster Toughbone,2,23
+1274,A,Ancient Feystone,1,22
+1274,A,Eltalite Ore,2,15
+1274,A,Dreamcore Ore,1,13
+1274,A,Gloamgrass Bud,2,13
+1274,A,Large Wyvern Gem,1,8
+1274,A,Carved Feystone,1,5
+1274,A,Heavy Armor Sphere,1,1
+1281,A,Ancient Feystone,1,100
+1281,A,Monster Toughbone,1,43
+1281,A,Hard Armor Sphere,1,20
+1281,A,Monster Essence,1,13
+1281,A,Dragonfell Berry,2,13
+1281,A,Meldspar Ore,1,10
+1281,A,Ancient Feystone,1,1
+1282,A,Ancient Feystone,1,100
+1282,A,Thick Bone,1,33
+1282,A,Hard Armor Sphere,1,20
+1282,A,Monster Essence,1,13
+1282,A,Dragonfell Berry,2,13
+1282,A,Parashroom,3,13
+1282,A,Dragonbone Relic,1,7
+1282,A,Ancient Feystone,1,1
+1291,A,Firecell Stone,1,100
+1291,A,Meldspar Ore,1,24
+1291,A,Dragonvein Shard,1,21
+1291,A,Dragonvein Coal,1,16
+1291,A,Firecell Stone,1,13
+1291,A,Spiritvein Crystal,2,13
+1291,A,Eltalite Ore,2,13
+1321,A,Ancient Feystone,1,100
+1321,A,Monster Slogbone,1,43
+1321,A,Hard Armor Sphere,1,27
+1321,A,Wulg Thickfur,1,16
+1321,A,Gracium,1,13
+1321,A,Ancient Feystone,1,1
+1322,A,Ancient Feystone,1,100
+1322,A,Monster Slogbone,1,43
+1322,A,Hard Armor Sphere,1,27
+1322,A,Wulg Thickfur,1,16
+1322,A,Gracium,1,13
+1322,A,Ancient Feystone,1,1
+1323,A,Heavy Armor Sphere,2,100
+1323,A,Monster Slogbone,2,24
+1323,A,Ancient Feystone,2,15
+1323,A,Phantomcore Ore,1,15
+1323,A,Meldspar Ore,2,15
+1323,A,Gloamgrass Bud,2,13
+1323,A,Carved Feystone,1,9
+1323,A,Large Wyvern Gem,1,8
+1323,A,Heavy Armor Sphere,2,1
+1331,A,Ancient Feystone,1,100
+1331,A,Monster Slogbone,1,36
+1331,A,Hard Armor Sphere,1,27
+1331,A,Monster Toughbone,2,15
+1331,A,Dragoncore Ore,1,13
+1331,A,Purecrystal,1,4
+1331,A,Dragonbone Artifact,1,4
+1331,A,Ancient Feystone,1,1
+1332,A,Ancient Feystone,1,100
+1332,A,Monster Slogbone,1,36
+1332,A,Hard Armor Sphere,1,27
+1332,A,Monster Toughbone,2,15
+1332,A,Dragoncore Ore,1,13
+1332,A,Purecrystal,1,4
+1332,A,Dragonbone Artifact,1,4
+1332,A,Ancient Feystone,1,1
+1333,A,Ancient Feystone,1,100
+1333,A,Monster Slogbone,1,36
+1333,A,Hard Armor Sphere,1,27
+1333,A,Monster Toughbone,2,15
+1333,A,Dragoncore Ore,1,13
+1333,A,Purecrystal,1,4
+1333,A,Dragonbone Artifact,1,4
+1333,A,Ancient Feystone,1,1
+1334,A,Ancient Feystone,1,100
+1334,A,Monster Slogbone,1,36
+1334,A,Hard Armor Sphere,1,27
+1334,A,Monster Toughbone,2,15
+1334,A,Dragoncore Ore,1,13
+1334,A,Purecrystal,1,4
+1334,A,Dragonbone Artifact,1,4
+1334,A,Ancient Feystone,1,1
+1335,A,Ancient Feystone,1,100
+1335,A,Monster Slogbone,1,36
+1335,A,Hard Armor Sphere,1,27
+1335,A,Monster Toughbone,2,15
+1335,A,Dragoncore Ore,1,13
+1335,A,Purecrystal,1,4
+1335,A,Dragonbone Artifact,1,4
+1335,A,Ancient Feystone,1,1
+1336,A,Ancient Feystone,1,100
+1336,A,Monster Slogbone,1,36
+1336,A,Hard Armor Sphere,1,27
+1336,A,Monster Toughbone,2,15
+1336,A,Dragoncore Ore,1,13
+1336,A,Purecrystal,1,4
+1336,A,Dragonbone Artifact,1,4
+1336,A,Ancient Feystone,1,1
+1337,A,Ancient Feystone,1,100
+1337,A,Monster Slogbone,1,36
+1337,A,Hard Armor Sphere,1,27
+1337,A,Monster Toughbone,2,15
+1337,A,Dragoncore Ore,1,13
+1337,A,Purecrystal,1,4
+1337,A,Dragonbone Artifact,1,4
+1337,A,Ancient Feystone,1,1
+1338,A,Ancient Feystone,1,100
+1338,A,Monster Slogbone,1,36
+1338,A,Hard Armor Sphere,1,27
+1338,A,Monster Toughbone,2,15
+1338,A,Dragoncore Ore,1,13
+1338,A,Purecrystal,1,4
+1338,A,Dragonbone Artifact,1,4
+1338,A,Ancient Feystone,1,1
+1339,A,Ancient Feystone,1,100
+1339,A,Monster Slogbone,1,36
+1339,A,Hard Armor Sphere,1,27
+1339,A,Monster Toughbone,2,15
+1339,A,Dragoncore Ore,1,13
+1339,A,Purecrystal,1,4
+1339,A,Dragonbone Artifact,1,4
+1339,A,Ancient Feystone,1,1
+1340,A,Ancient Feystone,1,100
+1340,A,Monster Slogbone,1,36
+1340,A,Hard Armor Sphere,1,27
+1340,A,Monster Toughbone,2,15
+1340,A,Dragoncore Ore,1,13
+1340,A,Purecrystal,1,4
+1340,A,Dragonbone Artifact,1,4
+1340,A,Ancient Feystone,1,1
+1351,A,Ancient Feystone,1,100
+1351,A,Monster Slogbone,1,43
+1351,A,Hard Armor Sphere,1,27
+1351,A,Prized Pelt,1,16
+1351,A,Eltalite Ore,1,13
+1351,A,Ancient Feystone,1,1
+1352,A,Ancient Feystone,1,100
+1352,A,Monster Slogbone,1,43
+1352,A,Hard Armor Sphere,1,27
+1352,A,Prized Pelt,1,16
+1352,A,Eltalite Ore,1,13
+1352,A,Ancient Feystone,1,1
+1353,A,Ancient Feystone,1,100
+1353,A,Monster Slogbone,1,43
+1353,A,Hard Armor Sphere,1,27
+1353,A,Prized Pelt,1,16
+1353,A,Eltalite Ore,1,13
+1353,A,Ancient Feystone,1,1
+1354,A,Heavy Armor Sphere,1,100
+1354,A,Monster Slogbone,2,22
+1354,A,Ancient Feystone,1,18
+1354,A,Rathalos Shard,1,15
+1354,A,Nargacuga Shard,1,15
+1354,A,Hard Armor Sphere,2,11
+1354,A,Rathalos Fellwing,1,6
+1354,A,Nargacuga Cutwing+,1,6
+1354,A,Rathalos Mantle,1,3
+1354,A,Nargacuga Mantle,1,3
+1354,A,Heavy Armor Sphere,1,1
+1361,A,Ancient Feystone,1,100
+1361,A,Monster Slogbone,1,43
+1361,A,Hard Armor Sphere,1,27
+1361,A,Thick Bone,1,16
+1361,A,Screamer Sac,2,13
+1361,A,Ancient Feystone,1,1
+1362,A,Ancient Feystone,1,100
+1362,A,Monster Slogbone,1,43
+1362,A,Hard Armor Sphere,1,27
+1362,A,Thick Bone,1,16
+1362,A,Screamer Sac,2,13
+1362,A,Ancient Feystone,1,1
+1363,A,Heavy Armor Sphere,1,100
+1363,A,Monster Slogbone,2,22
+1363,A,Ancient Feystone,1,18
+1363,A,Rathian Shard,1,15
+1363,A,Glavenus Shard,1,15
+1363,A,Hard Armor Sphere,2,11
+1363,A,Rathian Surspike,1,6
+1363,A,Glavenus Hellshell,1,6
+1363,A,Rathian Mantle,1,3
+1363,A,Glavenus Mantle,1,3
+1363,A,Heavy Armor Sphere,1,1
+1371,A,Ancient Feystone,1,100
+1371,A,Monster Slogbone,1,43
+1371,A,Hard Armor Sphere,1,27
+1371,A,Tough Claw,1,16
+1371,A,Bathycite Ore,1,13
+1371,A,Ancient Feystone,1,1
+1372,A,Ancient Feystone,1,100
+1372,A,Monster Slogbone,1,43
+1372,A,Hard Armor Sphere,1,27
+1372,A,Tough Claw,1,16
+1372,A,Bathycite Ore,1,13
+1372,A,Ancient Feystone,1,1
+1373,A,Heavy Armor Sphere,2,100
+1373,A,Monster Slogbone,2,24
+1373,A,Ancient Feystone,2,15
+1373,A,Phantomcore Ore,1,15
+1373,A,Meldspar Ore,2,15
+1373,A,Gloamgrass Bud,2,13
+1373,A,Carved Feystone,1,9
+1373,A,Large Wyvern Gem,1,8
+1373,A,Heavy Armor Sphere,2,1
+1381,A,Ancient Feystone,1,100
+1381,A,Monster Slogbone,1,43
+1381,A,Hard Armor Sphere,1,27
+1381,A,Monster Essence,1,16
+1381,A,Meldspar Ore,1,13
+1381,A,Ancient Feystone,1,1
+1382,A,Ancient Feystone,1,100
+1382,A,Monster Slogbone,1,43
+1382,A,Hard Armor Sphere,1,27
+1382,A,Monster Essence,1,16
+1382,A,Meldspar Ore,1,13
+1382,A,Ancient Feystone,1,1
+1383,A,Heavy Armor Sphere,1,100
+1383,A,Monster Slogbone,2,22
+1383,A,Ancient Feystone,1,18
+1383,A,Tigrex Shard,1,15
+1383,A,Radobaan Shard,1,15
+1383,A,Hard Armor Sphere,2,11
+1383,A,Tigrex Hardclaw,1,6
+1383,A,Radobaan Oilshell+,1,6
+1383,A,Large Wyvern Gem,1,3
+1383,A,Tigrex Mantle,1,3
+1383,A,Heavy Armor Sphere,1,1
+1391,A,Ancient Feystone,1,100
+1391,A,Monster Slogbone,1,43
+1391,A,Hard Armor Sphere,1,27
+1391,A,Wingdrake Finehide,1,16
+1391,A,Spiritvein Crystal,1,13
+1391,A,Ancient Feystone,1,1
+1392,A,Ancient Feystone,1,100
+1392,A,Monster Slogbone,1,43
+1392,A,Hard Armor Sphere,1,27
+1392,A,Wingdrake Finehide,1,16
+1392,A,Spiritvein Crystal,1,13
+1392,A,Ancient Feystone,1,1
+1393,A,Ancient Feystone,1,100
+1393,A,Monster Slogbone,1,43
+1393,A,Hard Armor Sphere,1,27
+1393,A,Wingdrake Finehide,1,16
+1393,A,Spiritvein Crystal,1,13
+1393,A,Ancient Feystone,1,1
+1394,A,Ancient Feystone,1,100
+1394,A,Monster Slogbone,1,43
+1394,A,Hard Armor Sphere,1,27
+1394,A,Wingdrake Finehide,1,16
+1394,A,Spiritvein Crystal,1,13
+1394,A,Ancient Feystone,1,1
+1395,A,Heavy Armor Sphere,1,100
+1395,A,Monster Slogbone,2,22
+1395,A,Ancient Feystone,1,18
+1395,A,Brachydios Cortex,1,15
+1395,A,Uragaan Shard,1,15
+1395,A,Hard Armor Sphere,2,11
+1395,A,Brachydios Pounder+,1,6
+1395,A,Uragaan Scute+,1,6
+1395,A,Brachydios Pallium,1,3
+1395,A,Uragaan Pallium,1,3
+1395,A,Heavy Armor Sphere,1,1
+1421,A,Ancient Feystone,1,100
+1421,A,Monster Solidbone,1,38
+1421,A,Hard Armor Sphere,2,25
+1421,A,Wulg Thickfur,1,13
+1421,A,Gloamgrass Bud,1,13
+1421,A,Gracium,1,10
+1421,A,Ancient Feystone,1,1
+1422,A,Ancient Feystone,1,100
+1422,A,Monster Solidbone,1,38
+1422,A,Hard Armor Sphere,2,25
+1422,A,Wulg Thickfur,1,13
+1422,A,Gloamgrass Bud,1,13
+1422,A,Gracium,1,10
+1422,A,Ancient Feystone,1,1
+1423,A,Heavy Armor Sphere,2,100
+1423,A,Monster Slogbone,2,22
+1423,A,Ancient Feystone,1,18
+1423,A,Rimed Hide,1,16
+1423,A,Legiana Shard,1,15
+1423,A,Hard Armor Sphere,2,11
+1423,A,Stark Wing,1,6
+1423,A,Legiana Tail Webbing+,1,6
+1423,A,Legiana Mantle,1,5
+1423,A,Heavy Armor Sphere,2,1
+1424,A,Thermae Ticket,1,100
+1424,A,Gracium,1,21
+1424,A,Frozen Bone,1,21
+1424,A,Meldspar Ore,1,17
+1424,A,Thick Bone,2,14
+1424,A,Thermae Ticket,1,13
+1424,A,Purecrystal,1,7
+1424,A,Dragonbone Artifact,1,7
+1431,A,Ancient Feystone,1,100
+1431,A,Monster Solidbone,1,38
+1431,A,Hard Armor Sphere,2,25
+1431,A,Monster Slogbone,2,15
+1431,A,Dragoncore Ore,1,13
+1431,A,Purecrystal,1,4
+1431,A,Dragonbone Artifact,1,4
+1431,A,Ancient Feystone,1,1
+1432,A,Ancient Feystone,1,100
+1432,A,Monster Solidbone,1,38
+1432,A,Hard Armor Sphere,2,25
+1432,A,Monster Slogbone,2,15
+1432,A,Dragoncore Ore,1,13
+1432,A,Purecrystal,1,4
+1432,A,Dragonbone Artifact,1,4
+1432,A,Ancient Feystone,1,1
+1433,A,Ancient Feystone,1,100
+1433,A,Monster Solidbone,1,38
+1433,A,Hard Armor Sphere,2,25
+1433,A,Monster Slogbone,2,15
+1433,A,Dragoncore Ore,1,13
+1433,A,Purecrystal,1,4
+1433,A,Dragonbone Artifact,1,4
+1433,A,Ancient Feystone,1,1
+1434,A,Ancient Feystone,1,100
+1434,A,Monster Solidbone,1,38
+1434,A,Hard Armor Sphere,2,25
+1434,A,Monster Slogbone,2,15
+1434,A,Dragoncore Ore,1,13
+1434,A,Purecrystal,1,4
+1434,A,Dragonbone Artifact,1,4
+1434,A,Ancient Feystone,1,1
+1435,A,Ancient Feystone,1,100
+1435,A,Monster Solidbone,1,38
+1435,A,Hard Armor Sphere,2,25
+1435,A,Monster Slogbone,2,15
+1435,A,Dragoncore Ore,1,13
+1435,A,Purecrystal,1,4
+1435,A,Dragonbone Artifact,1,4
+1435,A,Ancient Feystone,1,1
+1451,A,Ancient Feystone,1,100
+1451,A,Monster Solidbone,1,38
+1451,A,Hard Armor Sphere,2,25
+1451,A,Prized Pelt,1,13
+1451,A,Mandragora,1,13
+1451,A,Eltalite Ore,1,10
+1451,A,Ancient Feystone,1,1
+1452,A,Ancient Feystone,1,100
+1452,A,Monster Solidbone,1,38
+1452,A,Hard Armor Sphere,2,25
+1452,A,Prized Pelt,1,13
+1452,A,Mandragora,1,13
+1452,A,Eltalite Ore,1,10
+1452,A,Ancient Feystone,1,1
+1461,A,Ancient Feystone,1,100
+1461,A,Monster Solidbone,1,38
+1461,A,Hard Armor Sphere,2,25
+1461,A,Screamer Sac,2,13
+1461,A,Might Seed,2,13
+1461,A,Thick Bone,1,10
+1461,A,Ancient Feystone,1,1
+1462,A,Heavy Armor Sphere,2,100
+1462,A,Monster Solidbone,2,23
+1462,A,Meldspar Ore,2,19
+1462,A,Ancient Feystone,2,16
+1462,A,Phantomcore Ore,1,16
+1462,A,Carved Feystone,1,9
+1462,A,Gourmet Voucher,1,8
+1462,A,Large Wyvern Gem,1,8
+1462,A,Heavy Armor Sphere,2,1
+1471,A,Ancient Feystone,1,100
+1471,A,Monster Solidbone,1,38
+1471,A,Hard Armor Sphere,2,25
+1471,A,Tough Claw,1,13
+1471,A,Nulberry,3,13
+1471,A,Bathycite Ore,1,10
+1471,A,Ancient Feystone,1,1
+1481,A,Ancient Feystone,1,100
+1481,A,Monster Solidbone,1,38
+1481,A,Hard Armor Sphere,2,25
+1481,A,Monster Essence,1,13
+1481,A,Dragonfell Berry,2,13
+1481,A,Meldspar Ore,1,10
+1481,A,Ancient Feystone,1,1
+1482,A,Ancient Feystone,1,100
+1482,A,Monster Solidbone,1,38
+1482,A,Hard Armor Sphere,2,25
+1482,A,Monster Essence,1,13
+1482,A,Dragonfell Berry,2,13
+1482,A,Meldspar Ore,1,10
+1482,A,Ancient Feystone,1,1
+1483,A,Heavy Armor Sphere,2,100
+1483,A,Monster Slogbone,2,22
+1483,A,Ancient Feystone,1,18
+1483,A,Odogaron Shard,1,15
+1483,A,Ebony Odogaron Shard,1,15
+1483,A,Hard Armor Sphere,2,11
+1483,A,Odogaron Hardfang,1,6
+1483,A,Ebony Odogaron Hardfang,1,6
+1483,A,Odogaron Mantle,1,3
+1483,A,Ebony Odogaron Mantle,1,3
+1483,A,Heavy Armor Sphere,2,1
+1491,A,Ancient Feystone,1,100
+1491,A,Monster Solidbone,1,38
+1491,A,Hard Armor Sphere,2,25
+1491,A,Wingdrake Finehide,1,13
+1491,A,Devil's Blight,1,13
+1491,A,Spiritvein Crystal,1,10
+1491,A,Ancient Feystone,1,1
+1492,A,Ancient Feystone,1,100
+1492,A,Monster Solidbone,1,38
+1492,A,Hard Armor Sphere,2,25
+1492,A,Wingdrake Finehide,1,13
+1492,A,Devil's Blight,1,13
+1492,A,Spiritvein Crystal,1,10
+1492,A,Ancient Feystone,1,1
+1521,A,Conqueror's Seal,1,100
+1521,A,Large Elder Dragon Bone,1,24
+1521,A,Heavy Armor Sphere,1,24
+1521,A,Ancient Feystone,1,20
+1521,A,Pure Dragon Blood,1,18
+1521,A,Phantomcore Ore,1,8
+1521,A,Dragonbone Artifact,1,5
+1521,A,Conqueror's Seal,1,1
+1551,A,Conqueror's Seal,1,100
+1551,A,Large Elder Dragon Bone,1,24
+1551,A,Heavy Armor Sphere,1,24
+1551,A,Ancient Feystone,1,20
+1551,A,Pure Dragon Blood,1,18
+1551,A,Phantomcore Ore,1,8
+1551,A,Dragonbone Artifact,1,5
+1551,A,Conqueror's Seal,1,1
+1552,A,Conqueror's Seal,1,100
+1552,A,Large Elder Dragon Bone,1,24
+1552,A,Heavy Armor Sphere,1,24
+1552,A,Ancient Feystone,1,20
+1552,A,Pure Dragon Blood,1,18
+1552,A,Phantomcore Ore,1,8
+1552,A,Dragonbone Artifact,1,5
+1552,A,Conqueror's Seal,1,1
+1561,A,Conqueror's Seal,1,100
+1561,A,Large Elder Dragon Bone,1,24
+1561,A,Heavy Armor Sphere,1,24
+1561,A,Ancient Feystone,1,20
+1561,A,Pure Dragon Blood,1,18
+1561,A,Phantomcore Ore,1,8
+1561,A,Dragonbone Artifact,1,5
+1561,A,Conqueror's Seal,1,1
+1562,A,Ancient Feystone,1,100
+1562,A,Monster Solidbone,1,38
+1562,A,Hard Armor Sphere,2,25
+1562,A,Screamer Sac,2,13
+1562,A,Might Seed,2,13
+1562,A,Thick Bone,1,10
+1562,A,Ancient Feystone,1,1
+1571,A,Conqueror's Seal,1,100
+1571,A,Large Elder Dragon Bone,1,24
+1571,A,Heavy Armor Sphere,1,24
+1571,A,Ancient Feystone,1,20
+1571,A,Pure Dragon Blood,1,18
+1571,A,Phantomcore Ore,1,8
+1571,A,Dragonbone Artifact,1,5
+1571,A,Conqueror's Seal,1,1
+1572,A,Conqueror's Seal,1,100
+1572,A,Large Elder Dragon Bone,1,24
+1572,A,Heavy Armor Sphere,1,24
+1572,A,Ancient Feystone,1,20
+1572,A,Pure Dragon Blood,1,18
+1572,A,Phantomcore Ore,1,8
+1572,A,Dragonbone Artifact,1,5
+1572,A,Conqueror's Seal,1,1
+1581,A,Conqueror's Seal,1,100
+1581,A,Large Elder Dragon Bone,1,24
+1581,A,Heavy Armor Sphere,1,24
+1581,A,Ancient Feystone,1,20
+1581,A,Pure Dragon Blood,1,18
+1581,A,Phantomcore Ore,1,8
+1581,A,Dragonbone Artifact,1,5
+1581,A,Conqueror's Seal,1,1
+1591,A,Conqueror's Seal,1,100
+1591,A,Large Elder Dragon Bone,1,24
+1591,A,Heavy Armor Sphere,1,24
+1591,A,Ancient Feystone,1,20
+1591,A,Pure Dragon Blood,1,18
+1591,A,Phantomcore Ore,1,8
+1591,A,Dragonbone Artifact,1,5
+1591,A,Conqueror's Seal,1,1
+1592,A,Conqueror's Seal,1,100
+1592,A,Large Elder Dragon Bone,1,24
+1592,A,Heavy Armor Sphere,1,24
+1592,A,Ancient Feystone,1,20
+1592,A,Pure Dragon Blood,1,18
+1592,A,Phantomcore Ore,1,8
+1592,A,Dragonbone Artifact,1,5
+1592,A,Conqueror's Seal,1,1
+1593,A,Ancient Feystone,1,100
+1593,A,Monster Solidbone,1,38
+1593,A,Hard Armor Sphere,2,25
+1593,A,Wingdrake Finehide,1,13
+1593,A,Devil's Blight,1,13
+1593,A,Spiritvein Crystal,1,10
+1593,A,Ancient Feystone,1,1
+1594,A,Ancient Feystone,1,100
+1594,A,Monster Solidbone,1,38
+1594,A,Hard Armor Sphere,2,25
+1594,A,Wingdrake Finehide,1,13
+1594,A,Devil's Blight,1,13
+1594,A,Spiritvein Crystal,1,10
+1594,A,Ancient Feystone,1,1
+1605,A,Conqueror's Seal,1,100
+1605,A,Large Elder Dragon Bone,1,24
+1605,A,Heavy Armor Sphere,1,24
+1605,A,Ancient Feystone,1,20
+1605,A,Pure Dragon Blood,1,18
+1605,A,Phantomcore Ore,1,8
+1605,A,Dragonbone Artifact,1,5
+1605,A,Conqueror's Seal,1,1
+1631,A,Research Commission Ticket+,1,100
+1631,A,Monster Slogbone,5,30
+1631,A,King Armor Sphere,1,23
+1631,A,Ancient Feystone,2,20
+1631,A,Research Commission Ticket+,1,7
+1631,A,Tigrex Mantle,1,4
+1631,A,Nargacuga Mantle,1,4
+1631,A,Zinogre Skymerald,1,4
+1631,A,Brachydios Pallium,1,4
+1631,A,Glavenus Mantle,1,4
+1632,A,Ancient Feystone,1,100
+1632,A,Monster Solidbone,1,38
+1632,A,Hard Armor Sphere,2,25
+1632,A,Monster Slogbone,2,15
+1632,A,Dragoncore Ore,1,13
+1632,A,Purecrystal,1,4
+1632,A,Dragonbone Artifact,1,4
+1632,A,Ancient Feystone,1,1
+1633,A,Ancient Feystone,1,100
+1633,A,Monster Slogbone,1,36
+1633,A,Hard Armor Sphere,1,27
+1633,A,Monster Toughbone,2,15
+1633,A,Dragoncore Ore,1,13
+1633,A,Purecrystal,1,4
+1633,A,Dragonbone Artifact,1,4
+1633,A,Ancient Feystone,1,1
+1634,A,Ancient Feystone,1,100
+1634,A,Monster Solidbone,1,38
+1634,A,Hard Armor Sphere,2,25
+1634,A,Monster Slogbone,2,15
+1634,A,Dragoncore Ore,1,13
+1634,A,Purecrystal,1,4
+1634,A,Dragonbone Artifact,1,4
+1634,A,Ancient Feystone,1,1
+1635,A,Ancient Feystone,1,100
+1635,A,Monster Solidbone,1,38
+1635,A,Hard Armor Sphere,2,25
+1635,A,Monster Slogbone,2,15
+1635,A,Dragoncore Ore,1,13
+1635,A,Purecrystal,1,4
+1635,A,Dragonbone Artifact,1,4
+1635,A,Ancient Feystone,1,1
+1636,A,Ancient Feystone,1,100
+1636,A,Monster Solidbone,1,38
+1636,A,Hard Armor Sphere,2,25
+1636,A,Monster Slogbone,2,15
+1636,A,Dragoncore Ore,1,13
+1636,A,Purecrystal,1,4
+1636,A,Dragonbone Artifact,1,4
+1636,A,Ancient Feystone,1,1
+1641,A,Conqueror's Seal,1,100
+1641,A,Large Elder Dragon Bone,1,24
+1641,A,Heavy Armor Sphere,1,24
+1641,A,Ancient Feystone,1,20
+1641,A,Pure Dragon Blood,1,18
+1641,A,Phantomcore Ore,1,8
+1641,A,Dragonbone Artifact,1,5
+1641,A,Conqueror's Seal,1,1
+1642,A,Research Commission Ticket+,1,100
+1642,A,Monster Solidbone,2,20
+1642,A,King Armor Sphere,1,16
+1642,A,Ancient Feystone,2,16
+1642,A,Gold Rathian Shard,1,13
+1642,A,Silver Rathalos Shard,1,13
+1642,A,Research Commission Ticket+,1,7
+1642,A,Rath Gleam,1,7
+1642,A,Rathian Mantle,1,4
+1642,A,Rathalos Mantle,1,4
+1651,A,Carved Feystone,1,100
+1651,A,Pure Dragon Blood,2,20
+1651,A,Carved Feystone,1,18
+1651,A,Large Elder Dragon Bone,2,18
+1651,A,King Armor Sphere,1,17
+1651,A,Vaal Hazak Fellwing,1,11
+1651,A,Daora Fellwing,1,11
+1651,A,Large Elder Dragon Gem,1,5
+1661,A,Conqueror's Seal,1,100
+1661,A,Large Elder Dragon Bone,1,24
+1661,A,Heavy Armor Sphere,1,24
+1661,A,Ancient Feystone,1,20
+1661,A,Pure Dragon Blood,1,18
+1661,A,Phantomcore Ore,1,8
+1661,A,Dragonbone Artifact,1,5
+1661,A,Conqueror's Seal,1,1
+1671,A,Research Commission Ticket+,1,100
+1671,A,King Armor Sphere,1,16
+1671,A,Carved Feystone,1,13
+1671,A,Large Elder Dragon Bone,2,13
+1671,A,Pure Dragon Blood,2,13
+1671,A,Kirin Finehide,1,10
+1671,A,Namielle Finehide,1,10
+1671,A,Research Commission Ticket+,1,7
+1671,A,Kirin Silvermane,1,7
+1671,A,Namielle Hardclaw,1,7
+1671,A,Large Elder Dragon Gem,1,4
+1691,A,Conqueror's Seal,1,100
+1691,A,Large Elder Dragon Bone,1,24
+1691,A,Heavy Armor Sphere,1,24
+1691,A,Ancient Feystone,1,20
+1691,A,Pure Dragon Blood,1,18
+1691,A,Phantomcore Ore,1,8
+1691,A,Dragonbone Artifact,1,5
+1691,A,Conqueror's Seal,1,1
+1692,A,Sealed Feystone,1,100
+1692,A,King Armor Sphere,1,21
+1692,A,Carved Feystone,1,18
+1692,A,Teostra Mane+,1,12
+1692,A,Lunastra Fellwing,1,12
+1692,A,Velkhana Fellwing,1,12
+1692,A,Eternal Regrowth Plate,1,12
+1692,A,Large Elder Dragon Gem,1,7
+1692,A,Velkhana Crystal,1,5
+1692,A,Sealed Feystone,1,1
+50901,A,Kulve Taroth Golden Scale,1,100
+50901,A,Kulve Taroth Golden Shell,1,33
+50901,A,Kulve Taroth Golden Scale,1,21
+50901,A,Kulve Taroth Golden Tailshell,1,18
+50901,A,Kulve Taroth Golden Spiralhorn,1,14
+50901,A,Elder Dragon Bone,3,7
+50901,A,Elder Dragon Blood,3,7
+50901,B,High Commendation,1,100
+50901,B,Hard Armor Sphere,1,25
+50901,B,Fucium Ore,2,23
+50901,B,Mysterious Feystone,2,18
+50901,B,Firecell Stone,1,14
+50901,B,Novacrystal,1,12
+50901,B,Glowing Feystone,1,7
+50901,B,High Commendation,1,1
+51601,A,Ancient Feystone,1,100
+51601,A,Monster Solidbone,1,38
+51601,A,Hard Armor Sphere,2,25
+51601,A,Monster Slogbone,2,15
+51601,A,Dragoncore Ore,1,13
+51601,A,Purecrystal,1,4
+51601,A,Dragonbone Artifact,1,4
+51601,A,Ancient Feystone,1,1
+51602,A,Conqueror's Seal,1,100
+51602,A,Large Elder Dragon Bone,1,24
+51602,A,Heavy Armor Sphere,1,24
+51602,A,Ancient Feystone,1,20
+51602,A,Pure Dragon Blood,1,18
+51602,A,Phantomcore Ore,1,8
+51602,A,Dragonbone Artifact,1,5
+51602,A,Conqueror's Seal,1,1
+61801,A,Pearlspring Ticket,1,100
+61801,A,Mega Potion,5,26
+61801,A,Well-done Steak,2,26
+61801,A,Mega Nutrients,2,13
+61801,A,Tranq Bomb,3,13
+61801,A,Pearlspring Ticket,1,12
+61801,A,Silver Egg,1,5
+61801,A,Gourmet Voucher,1,5
+61801,B,Ancient Feystone,1,100
+61801,B,Thick Bone,1,30
+61801,B,Hard Armor Sphere,1,20
+61801,B,Wulg Thickfur,1,13
+61801,B,Gloamgrass Bud,1,13
+61801,B,Hot Pepper,2,13
+61801,B,Gracium,1,10
+61801,B,Ancient Feystone,1,1
+61811,A,Wyverian Ticket,1,100
+61811,A,Ancient Feystone,1,24
+61811,A,Hard Armor Sphere,1,20
+61811,A,Thick Bone,1,18
+61811,A,Gracium,1,13
+61811,A,Wyverian Ticket,1,12
+61811,A,Gloamgrass Bud,1,8
+61811,A,Purecrystal,1,5
+61811,B,Ancient Feystone,1,100
+61811,B,Thick Bone,1,30
+61811,B,Hard Armor Sphere,1,20
+61811,B,Wulg Thickfur,1,13
+61811,B,Gloamgrass Bud,1,13
+61811,B,Hot Pepper,2,13
+61811,B,Gracium,1,10
+61811,B,Ancient Feystone,1,1
+61812,A,Meaty Canteen Ticket,1,100
+61812,A,Ancient Feystone,1,24
+61812,A,Hard Armor Sphere,1,20
+61812,A,Monster Solidbone,1,18
+61812,A,Thick Bone,1,13
+61812,A,Well-done Steak,3,13
+61812,A,Meaty Canteen Ticket,1,12
+61813,A,Fest Ticket,1,100
+61813,A,Ancient Feystone,1,23
+61813,A,Hard Armor Sphere,1,21
+61813,A,Barioth Thickfur,1,18
+61813,A,Gracium,1,13
+61813,A,Fest Ticket,1,12
+61813,A,Amber Hardfang,1,8
+61813,A,Purecrystal,1,5
+61814,A,Unity Symbol,2,100
+61814,A,Ancient Feystone,1,21
+61814,A,Unity Symbol,1,20
+61814,A,Heavy Armor Sphere,1,18
+61814,A,Large Elder Dragon Bone,1,17
+61814,A,Pure Dragon Blood,1,15
+61814,A,Phantomcore Ore,1,8
+61814,A,Unity Symbol,2,1
+63071,A,Dust of Life,1,30
+63071,A,Max Potion,1,28
+63071,A,Hunter King Coin,1,20
+63071,A,Silver Egg,1,13
+63071,A,Gourmet Voucher,1,8
+63071,A,Black Belt Coin,1,1
+63073,A,Dust of Life,1,28
+63073,A,Ancient Potion,1,26
+63073,A,Ace Hunter Coin,1,20
+63073,A,Golden Egg,1,13
+63073,A,Gourmet Voucher,1,12
+63073,A,Hero King Coin,1,1
+63142,A,Dust of Life,1,28
+63142,A,Ancient Potion,1,26
+63142,A,Ace Hunter Coin,1,20
+63142,A,Golden Egg,1,13
+63142,A,Gourmet Voucher,1,12
+63142,A,Hero King Coin,1,1
+64801,A,Hard Armor Sphere,1,100
+64801,A,Hard Armor Sphere,1,82
+64801,A,Heavy Armor Sphere,1,18
+64802,A,Heavy Armor Sphere,1,100
+64802,A,Hard Armor Sphere,1,67
+64802,A,Heavy Armor Sphere,1,25
+64802,A,King Armor Sphere,1,8
+66801,A,Freezer Ticket,1,100
+66801,A,Beotodus Hardhorn,2,18
+66801,A,Beotodus Grandfin,2,18
+66801,A,Cryo Sac,2,14
+66801,A,Freezer Ticket,1,12
+66801,A,Gracium,2,11
+66801,A,Frozen Bone,2,11
+66801,A,Beotodus Cortex,3,8
+66801,A,Beotodus Shard,3,8
+66802,A,Thick Bone,3,100
+66802,A,Frozen Bone,1,20
+66802,A,Thick Bone,2,12
+66802,A,Ancient Bone,3,12
+66802,A,Boulder Bone,3,12
+66802,A,Coral Bone,3,12
+66802,A,Warped Bone,3,12
+66802,A,Brutal Bone,3,12
+66802,A,Dragonbone Artifact,1,7
+66802,A,Thick Bone,3,1
+66802,B,Ancient Feystone,1,100
+66802,B,Thick Bone,1,33
+66802,B,Hard Armor Sphere,1,20
+66802,B,Monster Essence,1,13
+66802,B,Dragonfell Berry,2,13
+66802,B,Parashroom,3,13
+66802,B,Dragonbone Relic,1,7
+66802,B,Ancient Feystone,1,1
+66803,A,Banbaro Cortex,3,100
+66803,A,Prized Pelt,2,18
+66803,A,Banbaro Chine,2,16
+66803,A,Anteka Antler,2,15
+66803,A,Frozen Bone,1,15
+66803,A,Monster Toughbone,2,13
+66803,A,Banbaro Great Horn,1,12
+66803,A,Banbaro Lash,1,10
+66803,A,Banbaro Cortex,3,1
+66804,A,Eltalite Ore,3,100
+66804,A,Meldspar Ore,1,13
+66804,A,Spiritvein Crystal,1,13
+66804,A,Dragonvein Crystal,3,11
+66804,A,Carbalite Ore,3,11
+66804,A,Novacrystal,1,11
+66804,A,Firecell Stone,1,11
+66804,A,Fucium Ore,1,11
+66804,A,Bathycite Ore,2,10
+66804,A,Purecrystal,1,8
+66804,A,Eltalite Ore,3,1
+66804,B,Ancient Feystone,1,100
+66804,B,Thick Bone,1,33
+66804,B,Hard Armor Sphere,1,20
+66804,B,Screamer Sac,2,13
+66804,B,Might Seed,2,13
+66804,B,Nitroshroom,3,13
+66804,B,Purecrystal,1,7
+66804,B,Ancient Feystone,1,1
+66805,A,Ancient Feystone,1,100
+66805,A,Anjanath Hardfang,1,19
+66805,A,Banbaro Great Horn,1,18
+66805,A,Anjanath Lash,1,16
+66805,A,Banbaro Lash,1,16
+66805,A,Conflagrant Sac,2,13
+66805,A,Heavy Anjanath Nosebone,1,12
+66805,A,Anjanath Mantle,1,5
+66805,A,Ancient Feystone,1,1
+66806,A,Fey Wyvern Gem,1,100
+66806,A,Tzitzi-Ya-Ku Photomembrane,1,20
+66806,A,Large Pukei-Pukei Sac,1,20
+66806,A,Large Coral Pukei-Pukei Sac,1,20
+66806,A,Large Kulu-Ya-Ku Beak,1,19
+66806,A,Deadly Poison Sac,2,10
+66806,A,Flood Sac,2,10
+66806,A,Fey Wyvern Gem,1,1
+66807,A,Monster Toughbone,3,100
+66807,A,Thick Bone,2,21
+66807,A,Radobaan Oilshell+,1,20
+66807,A,Viper Tobi-Kadachi Thorn,1,19
+66807,A,Viper Tobi-Kadachi Hardclaw,1,15
+66807,A,Dragonbone Artifact,1,13
+66807,A,Large Wyvern Bonemass,2,11
+66807,A,Monster Toughbone,3,1
+66808,A,Ancient Feystone,1,100
+66808,A,Rathalos Lash,1,19
+66808,A,Lavasioth Grandfin,1,19
+66808,A,Rathalos Shard,2,13
+66808,A,Lavasioth Cortex,2,13
+66808,A,Rathalos Cortex,2,11
+66808,A,Lavasioth Shard,2,11
+66808,A,Conflagrant Sac,4,7
+66808,A,Rathalos Mantle,1,3
+66808,A,Large Wyvern Gem,1,3
+66808,A,Ancient Feystone,1,1
+66809,A,Ancient Feystone,1,100
+66809,A,Diablos Tailcase+,1,18
+66809,A,Blos Medulla,1,18
+66809,A,Nightshade Paolumu Fellwing,1,18
+66809,A,Twisted Stouthorn,1,16
+66809,A,Paolumu Cortex,1,16
+66809,A,Large Wyvern Gem,1,7
+66809,A,Diablos Hardhorn,1,6
+66809,A,Ancient Feystone,1,1
+66810,A,Ancient Feystone,1,100
+66810,A,Coral Pukei-Pukei Fellwing,1,18
+66810,A,Legiana Hardclaw,1,18
+66810,A,Coral Pukei-Pukei Lash,1,13
+66810,A,Legiana Fellwing,1,13
+66810,A,Large Coral Pukei-Pukei Sac,1,11
+66810,A,Legiana Tail Webbing+,1,10
+66810,A,Flood Sac,2,8
+66810,A,Cryo Sac,2,8
+66810,A,Ancient Feystone,1,1
+66811,A,Monster Slogbone,3,100
+66811,A,Monster Slogbone,1,23
+66811,A,Uragaan Marrow,1,20
+66811,A,Monster Toughbone,2,18
+66811,A,Dragonbone Artifact,1,15
+66811,A,Glavenus Tailedge,1,13
+66811,A,Glavenus Mantle,1,5
+66811,A,Uragaan Pallium,1,5
+66811,A,Monster Slogbone,3,1
+66812,A,Ancient Feystone,1,100
+66812,A,Diablos Tailcase+,1,23
+66812,A,Tigrex Hardclaw,1,18
+66812,A,Blackcurl Stouthorn,1,16
+66812,A,Tigrex Lash,1,13
+66812,A,Tigrex Hardfang,1,13
+66812,A,Diablos Hardhorn,1,11
+66812,A,Tigrex Mantle,1,5
+66812,A,Ancient Feystone,1,1
+66813,A,Monster Solidbone,3,100
+66813,A,Monster Slogbone,2,24
+66813,A,Monster Solidbone,1,18
+66813,A,Dragonbone Artifact,1,18
+66813,A,Fulgur Anjanath Lash,1,13
+66813,A,Rathalos Medulla,1,11
+66813,A,Large Wyvern Gem,1,5
+66813,A,Rathalos Mantle,1,5
+66813,A,Fulgur Anjanath Mantle,1,5
+66813,A,Monster Solidbone,3,1
+66814,A,Ancient Feystone,1,100
+66814,A,Ebony Odogaron Hardclaw,1,18
+66814,A,Acidic Glavenus Hardfang,1,18
+66814,A,Ebony Odogaron Hardfang,1,15
+66814,A,Acidic Glavenus Spineshell,1,15
+66814,A,Acidic Glavenus Tailedge,1,12
+66814,A,Ebony Odogaron Lash,1,11
+66814,A,Ebony Odogaron Mantle,1,5
+66814,A,Glavenus Mantle,1,5
+66814,A,Ancient Feystone,1,1
+66815,A,Ancient Feystone,1,100
+66815,A,Kirin Thundertail+,1,17
+66815,A,Daora Fellwing,1,17
+66815,A,Teostra Mane+,1,17
+66815,A,Large Elder Dragon Gem,1,13
+66815,A,Kirin Azure Horn+,1,12
+66815,A,Daora Hardhorn,1,12
+66815,A,Teostra Hardhorn,1,11
+66815,A,Ancient Feystone,1,1
+66816,A,Pure Dragon Blood,2,100
+66816,A,Large Elder Dragon Bone,1,30
+66816,A,Velkhana Fellwing,1,19
+66816,A,Namielle Fellwing,1,18
+66816,A,Namielle Whisker,1,15
+66816,A,Velkhana Crownhorn,1,11
+66816,A,Velkhana Crystal,1,3
+66816,A,Large Elder Dragon Gem,1,3
+66816,A,Pure Dragon Blood,2,1
+66817,A,Ancient Feystone,1,100
+66817,A,Monster Solidbone,1,38
+66817,A,Hard Armor Sphere,1,21
+66817,A,Dragonbone Artifact,1,18
+66817,A,Heavy Armor Sphere,1,13
+66817,A,Ancient Feystone,1,10
+3171,A,Dust of Life,1,30
+3171,A,Max Potion,1,28
+3171,A,Black Belt Coin,1,20
+3171,A,Silver Egg,1,13
+3171,A,Gourmet Voucher,1,8
+3171,A,Banbaro Coin,1,1
+3071,A,Dust of Life,1,30
+3071,A,Max Potion,1,28
+3071,A,Black Belt Coin,1,20
+3071,A,Silver Egg,1,13
+3071,A,Gourmet Voucher,1,8
+3071,A,Paolumu Coin,1,1
+3072,A,Dust of Life,1,30
+3072,A,Max Potion,1,28
+3072,A,Black Belt Coin,1,20
+3072,A,Silver Egg,1,13
+3072,A,Gourmet Voucher,1,8
+3072,A,Nargacuga Coin,1,1
+3073,A,Dust of Life,1,30
+3073,A,Ancient Potion,1,28
+3073,A,Black Belt Coin,1,20
+3073,A,Gourmet Voucher,1,13
+3073,A,Golden Egg,1,8
+3073,A,Glavenus Coin,1,1
+3074,A,Black Belt Coin,1,30
+3074,A,Ancient Potion,1,25
+3074,A,Dust of Life,2,23
+3074,A,Gourmet Voucher,1,13
+3074,A,Golden Egg,1,8
+3074,A,Odogaron Coin,1,1
+3091,A,Ancient Potion,1,28
+3091,A,Dust of Life,1,23
+3091,A,Hero King Coin,1,20
+3091,A,Gourmet Voucher,1,15
+3091,A,Golden Egg,1,13
+3091,A,Zinogre Coin,1,1
+3092,A,Hero King Coin,1,30
+3092,A,Ancient Potion,1,25
+3092,A,Dust of Life,2,16
+3092,A,Gourmet Voucher,1,15
+3092,A,Golden Egg,1,13
+3092,A,Tigrex Coin,1,1

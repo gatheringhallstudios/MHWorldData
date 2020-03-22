@@ -4,6 +4,7 @@ from os import path
 import typing
 
 from mhdata import typecheck
+from mhdata.io import DataReaderWriter
 from mhdata.io.csv import save_csv
 
 def write_artifact(filename, *raw_data):
@@ -51,5 +52,12 @@ def write_dicts_artifact(filename, lines: typing.Iterable[dict], autoflatten=Tru
 def write_json_artifact(filename, obj):
     import json
 
-    output = json.dumps(obj, indent=4, ensure_ascii=False)
+    output = json.dumps(obj, indent=4, ensure_ascii=False )
     write_artifact(filename, output)
+
+def create_artifact_writer():
+    import mhdata.cfg as cfg
+    return DataReaderWriter(
+        languages=list(cfg.supported_languages), 
+        data_path=path.join(path.dirname(__file__), '../../../artifacts/')
+    )

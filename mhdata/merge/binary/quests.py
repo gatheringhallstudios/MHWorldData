@@ -6,19 +6,19 @@ from mhdata.io import create_writer, DataMap
 from mhdata.util import flatten_dict
 from mhdata.load import schema
 
-from mhdata.binary.metadata import MonsterMetadata
+from mhdata.binary import MonsterCollection
 from mhdata.binary.load import load_quests
 from mhdata.binary.parsers import struct_to_json
 
-from .artifacts import write_dicts_artifact
+from .artifacts import write_dicts_artifact, create_artifact_writer
 from .items import ItemUpdater
 
-def update_quests(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetadata, area_map):
+def update_quests(mhdata, item_updater: ItemUpdater, monster_data: MonsterCollection, area_map):
     print('Beginning load of quest binary data')
     quests = load_quests()
     print('Loaded quest binary data')
     
-    quest_data = [get_quest_data(q, item_updater, monster_meta, area_map) for q in quests]
+    quest_data = [get_quest_data(q, item_updater, monster_data, area_map) for q in quests]
 
     quest_by_id = { q.id:q for q in quests }
     quest_data_by_id = { q['id']:q for q in quest_data }
@@ -31,15 +31,28 @@ def update_quests(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetada
             quest_name = q1.name['en']
             print(f'Warning: Quest {quest_name} has exact duplicates.')
 
-    write_quest_raw_data(quests, item_updater, monster_meta)
+    write_quest_raw_data(quests, item_updater, monster_data)
     print('Quest artifacts written. Copy ids and names to quest_base.csv to add to build')
 
     # Merge the quest data
+    quest_new = DataMap(languages=[])
     for raw in quest_data:
         existing_entry = mhdata.quest_map.get(raw['id'])
         if existing_entry:
             existing_entry.update(raw)
+        else:
+            quest_new.insert(raw)
     print('Quests merged')
+
+    artifact_writer = create_artifact_writer()
+    
+    artifact_writer.save_base_map_csv(
+        "quests_new.csv", 
+        quest_new, 
+        translation_filename="quest_new_translations.csv",
+        translation_extra=['objective', 'description'],
+        schema=schema.QuestBaseSchema())
+    print('Quest artifact quest_new.csv added. Add any new entries to quest_base.csv')
 
     writer = create_writer()
 
@@ -68,17 +81,21 @@ def update_quests(mhdata, item_updater: ItemUpdater, monster_meta: MonsterMetada
 
     print('Quest files updated\n')
 
-def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetadata, area_map):
+def get_quest_data(quest, item_updater: ItemUpdater, monster_data: MonsterCollection, area_map):
     "Returns a dictionary of resolved quest data, marking items used in the item updater"
 
     binary = quest.binary
+
+    if binary.header.mapId == 0:
+        print(quest.name)
 
     result = {
         'id': quest.id,
         'name': quest.name,
         'objective': quest.objective,
         'description': quest.description,
-        'stars': binary.header.starRating,
+        'rank': quest.rank,
+        'stars': quest.stars,
         'location_en': area_map[binary.header.mapId],
         'quest_type': None,
         'zenny': binary.header.zennyReward,
@@ -88,13 +105,13 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
 
     monster_entries = {}
 
-    def get_monster(monster_id):
-        monster_name = monster_meta.by_id(monster_id).name
+    def has_monster(monster_id):
+        monster_name = monster_data.by_id(monster_id).name['en']
         return monster_entries.get(monster_name)
 
     def add_monster(monster_id, quantity, objective=False):
-        monster_name = monster_meta.by_id(monster_id).name
-        existing_entry = get_monster(monster_id)
+        monster_name = monster_data.by_id(monster_id).name['en']
+        existing_entry = monster_entries.get(monster_name)
         if existing_entry:
             existing_entry['quantity'] += quantity
         else:
@@ -162,11 +179,11 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     # Now add the remaining monsters
     for monster in binary.monsters:
         monster_id = monster.monster_id
-        if monster_id == -1 or get_monster(monster_id):
+        if monster_id == -1 or has_monster(monster_id):
             continue
         
         # Kulve Taroth is a special exception
-        monster_name = monster_meta.by_id(monster_id).name
+        monster_name = monster_data.by_id(monster_id).name['en']
         if monster_name in ['Kulve Taroth', 'Zorah Magdaros']:
             result['quest_type'] = 'assignment'
             add_monster(monster_id, 1, True)
@@ -176,6 +193,7 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
     # quest rewards
     for idx, rem in enumerate(quest.reward_data_list):
         group = ascii_uppercase[idx]
+        group_items = []
 
         first = True
         for (item_id, qty, chance) in rem.iter_items():
@@ -191,12 +209,19 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_meta: MonsterMetada
 
             first = False
 
-            result['rewards'].append({
-                'group': group,
+            group_items.append({
                 'item_en': item_name['en'],
                 'stack': qty,
                 'percentage': chance
             })
+
+        def rank_drop(drop):
+            percentage = drop['percentage']
+            if percentage == 100:
+                return 0
+            return 100 - percentage
+        group_items.sort(key=rank_drop)
+        result['rewards'].extend({ 'group': group, **i } for i in group_items)
 
     # more special exceptions
     if quest.name['en'] in ['The Legendary Beast']:
@@ -271,7 +296,7 @@ def get_quests_with_duplicate_names(quest_by_id):
         
     return results
 
-def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_meta: MonsterMetadata):
+def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_data: MonsterCollection):
     "Writes the artifact file for the quest"
     quest_artifact_entries = []
     quest_monsters_artifact_entries = []
@@ -306,7 +331,7 @@ def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_meta: Monste
 
             monster_name = None
             try:
-                monster_name = monster_meta.by_id(monster_mib.monster_id).name
+                monster_name = monster_data.by_id(monster_mib.monster_id).name['en']
             except KeyError:
                 pass
 
@@ -336,6 +361,7 @@ def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_meta: Monste
                     })
 
                 quest_reward_artifact_entries.append({
+                    'id': quest.id,
                     'name_en': quest.name['en'],
                     'reward_idx': idx,
                     'signature?': rem.signature,

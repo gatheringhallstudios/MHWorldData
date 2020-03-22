@@ -3,19 +3,6 @@ from pathlib import Path
 from . import structreader as sr
 from .decrypt import CapcomBlowfish
 
-class MappedValue(sr.Readable):
-    def __init__(self, base, map):
-        self.base = base
-        self.map = map
-
-    def read(self, reader: sr.StructReader):
-        key = reader.read_struct(self.base)
-        try:
-            return self.map[key]
-        except KeyError:
-            valid = ", ".join(str(k) for k in self.map.keys())
-            raise KeyError(f"Key {key} is not in MappedValue, valid keys are {valid}")
-
 class EpgSubpart(sr.AnnotatedStruct):
     hzv_base: sr.int()
     hzv_broken: sr.int()
@@ -38,7 +25,7 @@ class EpgPart(sr.AnnotatedStruct):
     cleave1: sr.int()
     cleave2: sr.int()
     cleave3: sr.int()
-    extract: MappedValue(sr.int(), {
+    extract: sr.MappedValue(sr.int(), {
         0: 'red', 1: 'white', 2: 'orange', 3: 'green', 4: '4', 5: '5'
     })
     subparts: sr.DynamicList(EpgSubpartCombined)
@@ -66,7 +53,7 @@ class EpgHitzone(sr.AnnotatedStruct):
     mount: sr.int()
 
 class EpgCleaveZone(sr.AnnotatedStruct):
-    damage_type: MappedValue(sr.int(), {
+    damage_type: sr.MappedValue(sr.int(), {
         0: 'any', 1: 'sever', 2: 'blunt', 3: 'shot'
     })
     unkn1: sr.int()

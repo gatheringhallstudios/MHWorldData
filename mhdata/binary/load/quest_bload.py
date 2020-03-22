@@ -19,6 +19,22 @@ class QuestInfo:
         self.binary = binary
         self.reward_data_list = reward_data_list
 
+    @property
+    def rank(self):
+        rank = self.binary.header.rank
+        if rank == 0:
+            return 'LR'
+        if rank == 1:
+            return 'HR'
+        if rank == 2:
+            return 'MR'
+
+    @property
+    def stars(self):
+        "Returns the star ranking, adjusted for rank."
+        star = self.binary.header.starRating
+        return star - 10 if star > 10 else star
+
 def load_quests() -> Iterable[QuestInfo]:
     quests = []
     quest_base_path = Path(get_chunk_root()).joinpath('quest')
@@ -40,6 +56,9 @@ def load_quests() -> Iterable[QuestInfo]:
 
         quest_id = int(re.search(r'([0-9]+).mib$', path.name)[1])
         binary = load_quest(path)
+
+        if binary.header.starRating == 0:
+            continue
 
         # Load REMS (reward files)
         rem_ids = binary.objective.rem_ids

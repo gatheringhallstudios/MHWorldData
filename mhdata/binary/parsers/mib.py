@@ -7,24 +7,43 @@ from .decrypt import CapcomBlowfish
 # note: some code here is from QuestDataDump
 
 class MibHeader(sr.AnnotatedStruct):
-    STRUCT_SIZE =  (17 * 4) + (6 * 2) + 3
-    mibSignature: sr.ushort()
-    padding: sr.uint()
+    mibSignature: sr.ulong()
+    padding: sr.ushort()
     mibId: sr.uint()
-    starRating: sr.ubyte()
+    starRating: sr.ubyte() # 0 is invisible
     unk1: sr.uint() # Looks to be HR vs LR, in terms of damage modifiers (zorah quests are 6star and LR damage)
     unk2: sr.uint()
-    rankRewards: sr.uint() # LR or HR?
+    rank: sr.uint() # LR or HR?
     mapId: sr.uint()
-    unk4: sr.uint()
-    playerSpawn: sr.uint()
-    binaryMapToggle: sr.uint()
-    dayNightControl: sr.uint()
-    weatherControl: sr.uint()
+    playerSpawn: sr.MappedValue(sr.uint(), {
+        0: 'camp1', 1: 'chooseRNG', 2: 'choose'
+    })
+    fixedSpawn: sr.uint()
+    binaryMapToggle: sr.uint() # 0 off 2 on
+    dayNightControl: sr.MappedValue(sr.uint(), {
+        0: 'gametime',
+        1: 'latenight',
+        2: 'dawn',
+        3: 'earlyday',
+        4: 'noon',
+        5: 'lateday',
+        6: 'dusk',
+        7: 'earlynight',
+        8: 'midnight',
+        9: 'pause'
+    }, warn=True)
+    weatherControl: sr.MappedValue(sr.uint(), {
+        0: 'random',
+        1: 'disable',
+        2: 'alt1',
+        3: 'alt2',
+        4: 'alt3',
+        5: 'alt4',
+    }, warn=True)
     unk5: sr.uint()
     zennyReward: sr.uint()
     faintPenalty: sr.uint()
-    unk6: sr.uint()
+    zennySubReward: sr.uint()
     questTimer: sr.uint()
     unk7: sr.ubyte()
     monsterIconId: sr.blist(sr.ushort(), 5)
@@ -83,6 +102,7 @@ class MibMonster(sr.AnnotatedStruct):
 
 class RemFile(sr.AnnotatedStruct):
     STRUCT_SIZE = 110
+    ibBytes: sr.uint()
     signature: sr.uint()
     signatureExt: sr.short()
     id: sr.uint()

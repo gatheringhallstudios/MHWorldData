@@ -1,14 +1,20 @@
 id,name
-201,Special Arena
-202,Arena
-403,Everstream
-405,Confluence of Fates
-406,Ancient Forest
-409,Caverns of El Dorado
-101,Ancient Forest
-102,Wildspire Waste
-103,Coral Highlands
-104,Rotten Vale
-105,Elder's Recess
-106,Great Ravine
-112,Hoarfrost Reach
+0x65,Ancient Forest
+0x66,Wildspire Waste
+0xC9,Special Arena
+0x6A,Great Ravine
+0x67,Coral Highlands
+0x68,Rotten Vale
+0x69,Elder's Recess
+0x6b,Hoarfrost Reach
+0x6c,Hoarfrost Reach
+0x6d,Guiding Lands
+0x19b,Seliana Supply Cache
+0x19c,Origin Isle
+0x19d,Origin Isle
+0x0193,Everstream
+0x0195,Confluence of Fates
+0x0199,Caverns of El Dorado
+0x0196,Ancient Forest
+0x019f,Secluded Valley
+0xCA,Arena

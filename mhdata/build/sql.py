@@ -804,11 +804,14 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
 def build_quests(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     for order_id, entry in enumerate(mhdata.quest_map.values()):
+        stars = entry['stars']
         quest = db.Quest(
             id=entry.id,
             order_id=order_id,
             category=entry['category'],
-            stars=entry['stars'],
+            rank=entry['rank'],
+            stars=stars,
+            stars_raw=stars + 10 if entry['rank'] == 'MR' else stars,
             quest_type=entry['quest_type'],
             location_id=mhdata.location_map.id_of('en', entry['location_en']),
             zenny=entry['zenny']

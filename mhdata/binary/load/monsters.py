@@ -21,6 +21,12 @@ class MonsterData:
         self.parts = []
         self.unlinked_hitzones = []
 
+    @property
+    def alt_id(self):
+        if len(self.meta.id_alt) > 0:
+            return self.meta.id_alt[0]
+        return None
+
     def __repr__(self):
         return f"MonsterData <{self.name.get('en')}>"
 
@@ -78,7 +84,11 @@ class MonsterCollection(Iterable[MonsterData]):
 
             self.monsters.append(monster)
 
-        self._monsters_by_id = { m.id:m for m in self.monsters }
+        self._monsters_by_id = {}
+        for m in self.monsters:
+            self._monsters_by_id[m.id] = m
+            if m.alt_id:
+                self._monsters_by_id[m.alt_id] = m
         self._monsters_by_name = { m.name['en']:m for m in self.monsters }
 
     def load_epg_eda(self) -> bool:

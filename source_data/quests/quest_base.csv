@@ -1,242 +1,445 @@
-id,name_en,category,stars,quest_type,location_en,zenny
-101,Jagras of the Ancient Forest,assigned,1,hunt,Ancient Forest,720
-102,A Kestodon Kerfuffle,assigned,2,hunt,Ancient Forest,1200
-103,The Great Jagras Hunt,assigned,2,hunt,Ancient Forest,1200
-201,Bird-Brained Bandit,assigned,2,hunt,Ancient Forest,1800
-205,Urgent: Pukei-Pukei Hunt,assigned,3,hunt,Ancient Forest,2520
-301,The Best Kind of Quest,assigned,3,hunt,Wildspire Waste,2520
-302,Sinister Shadows in the Swamp,assigned,3,hunt,Wildspire Waste,3240
-305,Flying Sparks: Tobi-Kadachi,assigned,3,hunt,Ancient Forest,3240
-306,The Encroaching Anjanath,assigned,4,hunt,Ancient Forest,4320
-401,One for the History Books,assigned,4,hunt,Great Ravine,4320
-405,Ballooning Problems,assigned,4,hunt,Coral Highlands,4320
-407,Radobaan Roadblock,assigned,4,hunt,Rotten Vale,4320
-408,Legiana: Embodiment of Elegance,assigned,5,hunt,Coral Highlands,5400
-501,Into the Bowels of the Vale,assigned,5,hunt,Rotten Vale,5400
-502,A Fiery Throne Atop the Forest,assigned,5,hunt,Ancient Forest,5400
-503,Horned Tyrant Below the Sands,assigned,5,hunt,Wildspire Waste,5400
-504,A Colossal Task,assigned,6,hunt,Everstream,8280
-601,Invader in the Waste,assigned,6,hunt,Wildspire Waste,7200
-605,Tickled Pink,assigned,6,hunt,Wildspire Waste,9000
-607,Old World Monster in the New World,assigned,7,hunt,Coral Highlands,12600
-701,A Wound and a Thirst,assigned,8,hunt,Elder's Recess,18000
-801,"Kushala Daora, Dragon of Steel",assigned,8,hunt,Elder's Recess,18000
-802,Teostra the Infernal,assigned,8,hunt,Elder's Recess,18000
-803,Hellish Fiend Vaal Hazak,assigned,8,hunt,Rotten Vale,18000
-804,Land of Convergence,assigned,9,hunt,Confluence of Fates,19800
-805,Beyond the Blasting Scales,assigned,9,hunt,Wildspire Waste,27720
-806,Thunderous Rumble in the Highlands,assigned,9,hunt,Coral Highlands,21600
-151,Butting Heads with Nature,optional,1,hunt,Ancient Forest,720
-152,A Thicket of Thugs,optional,1,hunt,Ancient Forest,720
-153,Fungal Flexin' in the Ancient Forest,optional,1,deliver,Ancient Forest,720
-251,The Great Glutton,optional,2,hunt,Ancient Forest,1800
-252,Camp Crasher,optional,2,hunt,Ancient Forest,1800
-261,Snatch the Snatcher,optional,2,capture,Wildspire Waste,2520
-262,The Pain from Gains,optional,2,hunt,Wildspire Waste,1080
-263,Exterminator of the Waste,optional,2,hunt,Wildspire Waste,1080
-351,Scatternut Shortage,optional,3,hunt,Ancient Forest,2520
-352,The Current Situation,optional,3,hunt,Ancient Forest,3240
-361,Mired in the Spire,optional,3,hunt,Wildspire Waste,2520
-362,The Piscine Problem,optional,3,hunt,Wildspire Waste,3240
-363,Prickly Predicament,optional,3,deliver,Wildspire Waste,1080
-364,Gettin' Yolked in the Waste,optional,3,deliver,Wildspire Waste,1080
-365,Landing the Landslide Wyvern,optional,3,capture,Wildspire Waste,3600
-331,Special Arena: Pukei-Pukei,optional,3,hunt,Special Arena,2520
-332,Special Arena: Barroth,optional,3,hunt,Special Arena,2520
-333,Special Arena: Tobi-Kadachi,optional,3,hunt,Special Arena,3240
-451,One Helluva Sinus Infection,optional,4,hunt,Ancient Forest,4320
-452,Gettin' Yolked in the Forest,optional,4,deliver,Ancient Forest,3600
-461,Royal Relocation,optional,4,hunt,Wildspire Waste,4320
-471,It's a Crying Shamos,optional,4,hunt,Coral Highlands,2520
-472,A Tzitzi for Science,optional,4,hunt,Coral Highlands,3240
-473,Sorry You're Not Invited,optional,4,hunt,Coral Highlands,4320
-474,What a Bunch of Abalone,optional,4,deliver,Coral Highlands,3600
-475,White Monster for a White Coat,optional,4,capture,Coral Highlands,5760
-481,Persistent Pests,optional,4,hunt,Rotten Vale,2520
-482,A Rotten Thing To Do,optional,4,hunt,Rotten Vale,3240
-483,A Bone to Pick,optional,4,hunt,Rotten Vale,4320
-484,On Nightmare's Wings,optional,4,hunt,Rotten Vale,2520
-5003,Troubled Troupers,optional,4,hunt,Coral Highlands,9000
-431,Special Arena: Anjanath,optional,4,hunt,Special Arena,4320
-432,Special Arena: Rathian,optional,4,hunt,Special Arena,4320
-433,Special Arena: Paolumu,optional,4,hunt,Special Arena,4320
-434,Special Arena: Radobaan,optional,4,hunt,Special Arena,4320
-551,When Desire Becomes an Obsession,optional,5,hunt,Ancient Forest,5400
-552,"Redefining the ""Power Couple""",optional,5,hunt,Ancient Forest,7920
-561,Twin Spires Upon the Sands,optional,5,hunt,Wildspire Waste,5400
-571,A Humid Headache,optional,5,hunt,Coral Highlands,5400
-572,Gone in a Flash,optional,5,hunt,Coral Highlands,9000
-581,Scratching the Itch,optional,5,hunt,Rotten Vale,5400
-582,Man's Best Fiend,optional,5,capture,Rotten Vale,7200
-583,The Meat of the Matter,optional,5,deliver,Rotten Vale,3600
-531,Special Arena: Legiana,optional,5,hunt,Special Arena,5400
-532,Special Arena: Odogaron,optional,5,hunt,Special Arena,5400
-533,Special Arena: Rathalos,optional,5,hunt,Special Arena,5400
-534,Special Arena: Diablos,optional,5,hunt,Special Arena,5400
-641,Left Quite the Impression,optional,6,hunt,Everstream,8280
-651,Hard to Swallow,optional,6,hunt,Ancient Forest,5400
-652,Googly-eyed Green Monster,optional,6,hunt,Ancient Forest,7200
-653,A Hair-Raising Experience,optional,6,hunt,Ancient Forest,7200
-654,It Can't See You if You Don't Move,optional,6,hunt,Ancient Forest,9000
-655,The Sleeping Sylvan Queen,optional,6,hunt,Ancient Forest,9000
-656,Stuck in Their Ways,optional,6,capture,Ancient Forest,9360
-661,Keep Your Hands to Yourself!,optional,6,hunt,Wildspire Waste,5400
-662,A Crown of Mud and Anger,optional,6,hunt,Wildspire Waste,7200
-663,Pukei-Pukei Ambush,optional,6,hunt,Wildspire Waste,7200
-665,Up to Your Waist in the Waste,optional,6,hunt,Wildspire Waste,9000
-666,"Brown Desert, Green Queen",optional,6,hunt,Wildspire Waste,9000
-667,Trespassing Troublemaker,optional,6,hunt,Wildspire Waste,9000
-671,Say Cheese!,optional,6,hunt,Coral Highlands,5400
-672,Loop the Paolumu,optional,6,hunt,Coral Highlands,7200
-681,A Tingling Taste,optional,6,hunt,Rotten Vale,5400
-682,Stuck in a Rut,optional,6,hunt,Rotten Vale,9000
-683,Chef Quest! Pumped to Deliver,optional,6,deliver,Rotten Vale,5400
-684,Chef Quest! A Rotten Request,optional,6,hunt,Rotten Vale,5400
-691,A Meow for Help,optional,6,hunt,Elder's Recess,5400
-692,A Scalding Scoop,optional,6,hunt,Elder's Recess,6480
-693,Dodogama Drama,optional,6,hunt,Elder's Recess,9000
-694,Chef Quest! Gajalaka Lockdown,optional,6,hunt,Elder's Recess,5400
-631,Special Arena: HR Pukei-Pukei,optional,6,hunt,Special Arena,7200
-632,Special Arena: HR Barroth,optional,6,hunt,Special Arena,7200
-633,Special Arena: HR Tobi-Kadachi,optional,6,hunt,Special Arena,7200
-634,Special Arena: HR Anjanath,optional,6,hunt,Special Arena,9000
-635,Special Arena: HR Rathian,optional,6,hunt,Special Arena,9000
-636,Special Arena: HR Paolumu,optional,6,hunt,Special Arena,7200
-637,Special Arena: HR Radobaan,optional,6,hunt,Special Arena,9000
-751,Rathalos Rematch,optional,7,hunt,Ancient Forest,12600
-752,Rathalos in Blue,optional,7,hunt,Ancient Forest,14400
-753,The Red and Blue Crew,optional,7,hunt,Ancient Forest,21600
-761,Pretty In Pink,optional,7,hunt,Wildspire Waste,12600
-762,"Well, That Diablos!",optional,7,hunt,Wildspire Waste,12600
-763,Two-horned Hostility,optional,7,hunt,Wildspire Waste,14400
-764,RRRRRumble in the Waste!,optional,7,hunt,Wildspire Waste,21600
-771,A Cherry Wind upon the Reefs,optional,7,hunt,Coral Highlands,12600
-772,Legiana: Highlands Royalty,optional,7,hunt,Coral Highlands,12600
-773,A Sore Site,optional,7,hunt,Coral Highlands,12600
-774,Talons of Ire and Ice,optional,7,hunt,Coral Highlands,20160
-781,Odogaron Unleashed,optional,7,hunt,Rotten Vale,12600
-791,"Lavasioth, Monster of Magma",optional,7,hunt,Elder's Recess,12600
-792,Ore-eating Occupier,optional,7,hunt,Elder's Recess,14400
-793,Ruler of the Azure Skies,optional,7,hunt,Elder's Recess,14400
-794,Bazelgeuse in the Field of Fire,optional,7,hunt,Elder's Recess,14400
-795,A Fiery Convergence,optional,7,hunt,Elder's Recess,21600
-738,Special Arena: HR Black Diablos,optional,7,hunt,Special Arena,14400
-731,Special Arena: HR Pink Rathian,optional,7,hunt,Special Arena,12600
-732,Special Arena: HR Legiana,optional,7,hunt,Special Arena,12600
-733,Special Arena: HR Odogaron,optional,7,hunt,Special Arena,12600
-734,Special Arena: HR Uragaan,optional,7,hunt,Special Arena,14400
-735,Special Arena: HR Rathalos,optional,7,hunt,Special Arena,12600
-736,Special Arena: HR Azure Rathalos,optional,7,hunt,Special Arena,14400
-737,Special Arena: HR Diablos,optional,7,hunt,Special Arena,12600
-50751,Today's Special: Hunter Flambé,optional,7,hunt,Ancient Forest,14400
-851,A Portent of Disaster,optional,8,hunt,Ancient Forest,18000
-893,Hellfire's Stronghold,optional,8,hunt,Elder's Recess,18000
-895,The Winds of Wrath Bite Deep,optional,8,hunt,Elder's Recess,18000
-861,A Blaze on the Sand,optional,8,hunt,Wildspire Waste,18000
-871,Lightning Strikes Twice,optional,8,hunt,Coral Highlands,18000
-881,Stirrings from the Grave,optional,8,hunt,Rotten Vale,18000
-894,The Eater of Elders,optional,8,hunt,Elder's Recess,18000
-891,The Eater of Elders,optional,8,hunt,Elder's Recess,18000
-892,Master of the Gale,optional,8,hunt,Elder's Recess,18000
-896,The Fires of Hell Bite Deep,optional,8,hunt,Elder's Recess,18000
-50891,Blue Prominence,optional,8,hunt,Elder's Recess,18000
-50892,Blue Prominence,optional,8,hunt,Elder's Recess,18000
-50861,Infernal Monarchy,optional,8,hunt,Wildspire Waste,28800
-992,The White Winds of the New World,optional,9,hunt,Special Arena,27720
-991,A Light Upon the River's Gloom,optional,9,hunt,Confluence of Fates,19800
-995,The Sapphire Star's Guidance,optional,9,hunt,Elder's Recess,38880
-996,Showdown: the Muck and the Maul,optional,9,hunt,Special Arena,15840
-997,"New World Sky, New World Flower",optional,9,hunt,Special Arena,25920
-998,A Summons from Below,optional,9,hunt,Rotten Vale,29520
-50991,A Visitor from Eorzea,optional,9,hunt,Elder's Recess,25200
-50701,The Food Chain Dominator,special,7,hunt,Ancient Forest,14400
-50801,The Blazing Sun,special,8,hunt,Wildspire Waste,18000
-50802,Pandora's Arena,special,8,hunt,Special Arena,12600
-50803,"No Remorse, No Surrender",special,8,hunt,Elder's Recess,28800
-50601,A Visitor from Another World,special,6,hunt,Wildspire Waste,10800
-50905,The Legendary Beast,special,9,hunt,Elder's Recess,17640
-50906,He Taketh It with His Eyes,special,9,hunt,Elder's Recess,25200
-50910,Contract: Trouble in the Ancient Forest,special,9,hunt,Ancient Forest,19800
-50902,The Fury of El Dorado,event,9,hunt,Caverns of El Dorado,36000
-61605,Mosswinin' and Dinin',event,6,hunt,Arena,54000
-63033,Gajalaka Outbreak!,event,6,hunt,Arena,4320
-63051,Challenge Quest 1: Expert,event,9,hunt,Arena,4320
-63052,Challenge Quest 2: Expert,event,9,hunt,Special Arena,4320
-63104,Gale & Fangs Slay Event 1,event,7,hunt,Arena,3240
-63105,Gale & Fangs Slay Event 2,event,7,hunt,Arena,3240
-63106,Gale & Fangs Slay Event 3,event,7,hunt,Arena,3240
-63101,Nergigante Slay Event 1,event,8,hunt,Arena,3240
-63102,Nergigante Slay Event 2,event,8,hunt,Arena,3240
-63103,Nergigante Slay Event 3,event,8,hunt,Special Arena,3240
-63107,Nergigante Slay Event 4,event,8,hunt,Arena,3240
-63108,Deviljho Slay Event,event,7,hunt,Arena,3240
-63109,The Best of the Best,event,8,hunt,Arena,6480
-63110,What Lurks In The Forest,event,7,hunt,Ancient Forest,3240
-63130,When Law Meets War,event,7,hunt,Arena,3240
-63131,The Hunter and The Blue Empress,event,8,hunt,Arena,3240
-61101,Up at the Crack of Dawn,event,1,hunt,Arena,1080
-63003,Vespoid Infestation!,event,2,hunt,Special Arena,2160
-63001,Challenge Quest 1: Beginner,event,2,hunt,Special Arena,1080
-63002,Challenge Quest 2: Beginner,event,4,hunt,Arena,1080
-63031,Challenge Quest 1: Intermediate,event,7,hunt,Arena,2160
-63032,Challenge Quest 2: Intermediate,event,7,hunt,Special Arena,2160
-61103,Where Sun Meets Moon,event,3,hunt,Ancient Forest,5400
-61104,Timberland Troublemakers,event,4,hunt,Ancient Forest,8640
-61105,Every Hunter's Dream,event,5,hunt,Arena,7200
-61601,Midnight Mayhem,event,6,hunt,Arena,8100
-61603,A Royal Pain,event,7,hunt,Wildspire Waste,9000
-61604,Kings Know No Fear,event,7,hunt,Elder's Recess,12960
-61606,The Greatest Jagras,event,9,hunt,Ancient Forest,12600
-61607,The Name's Lavasioth!,event,9,hunt,Elder's Recess,25200
-67105,USJ: Gold Star Treatment,event,3,hunt,Arena,3960
-67103,A Rush of Blood,event,7,hunt,Arena,21600
-67603,USJ Blazing Azure Stars!,event,7,hunt,Elder's Recess,18000
-67605,Code: Red,event,8,hunt,Arena,36000
-67608,"SDF: Silent, Deadly, and Fierce",event,8,hunt,Special Arena,36000
-67606,A Visitor from Eorzea (Extreme),event,9,hunt,Elder's Recess,30240
-67610,Contract: Woodland Spirit,event,9,hunt,Ancient Forest,36000
-66101,Chew The Fat,event,2,hunt,Ancient Forest,3240
-66102,Ya-Ku With That?,event,4,hunt,Special Arena,4320
-66106,Greeting the Gluttons,event,4,hunt,Special Arena,7920
-64101,Wicked Wildspire Warfare,event,5,hunt,Special Arena,9360
-66103,Flesh Cleaved to Bone,event,5,hunt,Special Arena,7920
-66104,Kirin The Myth,event,5,hunt,Coral Highlands,14400
-66105,The Poison Posse,event,5,hunt,Ancient Forest,8280
-62608,Gaze Upon the Dawn,event,6,hunt,Everstream,15120
-65601,Scrapping with the Shamos,event,6,hunt,Coral Highlands,5400
-65602,A Flash in the Pan,event,6,hunt,Arena,16200
-65603,Egg Lovers United,event,6,hunt,Arena,7200
-65604,Wiggle Me This,event,6,deliver,Coral Highlands,3600
-65605,Triple Threat Throwdown,event,6,hunt,Special Arena,14040
-64601,Rollin' With The Uragaan,event,7,hunt,Elder's Recess,23400
-66601,Deep Green Blues,event,7,hunt,Ancient Forest,28800
-66602,Wildspire Bolero,event,7,hunt,Wildspire Waste,30240
-66603,Coral Waltz,event,7,hunt,Coral Highlands,26640
-66604,Effluvial Opera,event,7,hunt,Rotten Vale,28800
-66605,Rock N' Roll Recess,event,7,hunt,Elder's Recess,35280
-66606,This is How Revolts Start,event,7,hunt,Wildspire Waste,21600
-62502,The Deathly Quiet Curtain,event,9,hunt,Rotten Vale,36000
-62503,A Whisper of White Mane,event,9,hunt,Coral Highlands,36000
-62504,The Scorn of the Sun,event,9,hunt,Elder's Recess,36000
-62505,The Eye of the Storm,event,9,hunt,Elder's Recess,36000
-62506,The Heralds of Destruction Cry,event,9,hunt,Elder's Recess,36000
-62511,When Blue Dust Surpasses Red Lust,event,9,hunt,Elder's Recess,36000
-62515,Relish the Moment,event,9,hunt,Elder's Recess,21600
-62606,Undying Alpenglow,event,9,hunt,Everstream,36000
-62607,Like a Moth to the Flame,event,9,hunt,Confluence of Fates,43200
-62609,Keeper of the Otherworld,event,9,hunt,Confluence of Fates,23760
-65606,A Simple Task,event,9,deliver,Ancient Forest,3600
-65607,Tracking the Delivery,event,9,deliver,Elder's Recess,5400
-66607,Snow & Cherry Blossoms,event,9,hunt,Coral Highlands,25200
-66608,A Nose for an Eye,event,9,hunt,Ancient Forest,23400
-66609,No Tomorrow for Usurpers,event,9,hunt,Elder's Recess,18000
-66610,The Thronetaker,event,9,hunt,Elder's Recess,37800
-3101,Arena Quest 01,arena,1,hunt,Arena,1080
-3001,Arena Quest 02,arena,2,hunt,Arena,1080
-3002,Arena Quest 03,arena,4,hunt,Arena,1080
-3031,Arena Quest 04,arena,6,hunt,Arena,2160
-3032,Arena Quest 05,arena,6,hunt,Arena,2160
-3033,Arena Quest 06,arena,6,hunt,Arena,2160
-3034,Arena Quest 07,arena,7,hunt,Arena,2160
-3051,Arena Quest 08,arena,8,hunt,Special Arena,3240
-3052,Arena Quest 09,arena,8,hunt,Special Arena,3240
+id,name_en,category,rank,stars,quest_type,location_en,zenny
+101,Jagras of the Ancient Forest,assigned,LR,1,hunt,Ancient Forest,720
+102,A Kestodon Kerfuffle,assigned,LR,2,hunt,Ancient Forest,1200
+103,The Great Jagras Hunt,assigned,LR,2,hunt,Ancient Forest,1200
+201,Bird-Brained Bandit,assigned,LR,2,hunt,Ancient Forest,1800
+205,Urgent: Pukei-Pukei Hunt,assigned,LR,3,hunt,Ancient Forest,2520
+301,The Best Kind of Quest,assigned,LR,3,hunt,Wildspire Waste,2520
+302,Sinister Shadows in the Swamp,assigned,LR,3,hunt,Wildspire Waste,3240
+305,Flying Sparks: Tobi-Kadachi,assigned,LR,3,hunt,Ancient Forest,3240
+306,The Encroaching Anjanath,assigned,LR,4,hunt,Ancient Forest,4320
+401,One for the History Books,assigned,LR,4,assignment,Great Ravine,4320
+405,Ballooning Problems,assigned,LR,4,hunt,Coral Highlands,4320
+407,Radobaan Roadblock,assigned,LR,4,hunt,Rotten Vale,4320
+408,Legiana: Embodiment of Elegance,assigned,LR,5,hunt,Coral Highlands,5400
+501,Into the Bowels of the Vale,assigned,LR,5,hunt,Rotten Vale,5400
+502,A Fiery Throne Atop the Forest,assigned,LR,5,hunt,Ancient Forest,5400
+503,Horned Tyrant Below the Sands,assigned,LR,5,hunt,Wildspire Waste,5400
+504,A Colossal Task,assigned,LR,6,assignment,Everstream,8280
+601,Invader in the Waste,assigned,HR,6,hunt,Wildspire Waste,7200
+605,Tickled Pink,assigned,HR,6,hunt,Wildspire Waste,9000
+607,Old World Monster in the New World,assigned,HR,7,hunt,Coral Highlands,12600
+701,A Wound and a Thirst,assigned,HR,8,hunt,Elder's Recess,18000
+801,"Kushala Daora, Dragon of Steel",assigned,HR,8,hunt,Elder's Recess,18000
+802,Teostra the Infernal,assigned,HR,8,hunt,Elder's Recess,18000
+803,Hellish Fiend Vaal Hazak,assigned,HR,8,hunt,Rotten Vale,18000
+804,Land of Convergence,assigned,HR,9,hunt,Confluence of Fates,19800
+805,Beyond the Blasting Scales,assigned,HR,9,hunt,Wildspire Waste,27720
+806,Thunderous Rumble in the Highlands,assigned,HR,9,hunt,Coral Highlands,21600
+151,Butting Heads with Nature,optional,LR,1,hunt,Ancient Forest,720
+152,A Thicket of Thugs,optional,LR,1,hunt,Ancient Forest,720
+153,Fungal Flexin' in the Ancient Forest,optional,LR,1,deliver,Ancient Forest,720
+251,The Great Glutton,optional,LR,2,hunt,Ancient Forest,1800
+252,Camp Crasher,optional,LR,2,hunt,Ancient Forest,1800
+261,Snatch the Snatcher,optional,LR,2,capture,Wildspire Waste,2520
+262,The Pain from Gains,optional,LR,2,hunt,Wildspire Waste,1080
+263,Exterminator of the Waste,optional,LR,2,hunt,Wildspire Waste,1080
+351,Scatternut Shortage,optional,LR,3,hunt,Ancient Forest,2520
+352,The Current Situation,optional,LR,3,hunt,Ancient Forest,3240
+361,Mired in the Spire,optional,LR,3,hunt,Wildspire Waste,2520
+362,The Piscine Problem,optional,LR,3,hunt,Wildspire Waste,3240
+363,Prickly Predicament,optional,LR,3,deliver,Wildspire Waste,1080
+364,Gettin' Yolked in the Waste,optional,LR,3,deliver,Wildspire Waste,1080
+365,Landing the Landslide Wyvern,optional,LR,3,capture,Wildspire Waste,3600
+331,Special Arena: Pukei-Pukei,optional,LR,3,hunt,Special Arena,2520
+332,Special Arena: Barroth,optional,LR,3,hunt,Special Arena,2520
+333,Special Arena: Tobi-Kadachi,optional,LR,3,hunt,Special Arena,3240
+451,One Helluva Sinus Infection,optional,LR,4,hunt,Ancient Forest,4320
+452,Gettin' Yolked in the Forest,optional,LR,4,deliver,Ancient Forest,3600
+461,Royal Relocation,optional,LR,4,hunt,Wildspire Waste,4320
+471,It's a Crying Shamos,optional,LR,4,hunt,Coral Highlands,2520
+472,A Tzitzi for Science,optional,LR,4,hunt,Coral Highlands,3240
+473,Sorry You're Not Invited,optional,LR,4,hunt,Coral Highlands,4320
+474,What a Bunch of Abalone,optional,LR,4,deliver,Coral Highlands,3600
+475,White Monster for a White Coat,optional,LR,4,capture,Coral Highlands,5760
+481,Persistent Pests,optional,LR,4,hunt,Rotten Vale,2520
+482,A Rotten Thing To Do,optional,LR,4,hunt,Rotten Vale,3240
+483,A Bone to Pick,optional,LR,4,hunt,Rotten Vale,4320
+484,On Nightmare's Wings,optional,LR,4,hunt,Rotten Vale,2520
+5003,Troubled Troupers,optional,LR,4,hunt,Coral Highlands,9000
+431,Special Arena: Anjanath,optional,LR,4,hunt,Special Arena,4320
+432,Special Arena: Rathian,optional,LR,4,hunt,Special Arena,4320
+433,Special Arena: Paolumu,optional,LR,4,hunt,Special Arena,4320
+434,Special Arena: Radobaan,optional,LR,4,hunt,Special Arena,4320
+551,When Desire Becomes an Obsession,optional,LR,5,hunt,Ancient Forest,5400
+552,"Redefining the ""Power Couple""",optional,LR,5,hunt,Ancient Forest,7920
+561,Twin Spires Upon the Sands,optional,LR,5,hunt,Wildspire Waste,5400
+571,A Humid Headache,optional,LR,5,hunt,Coral Highlands,5400
+572,Gone in a Flash,optional,LR,5,hunt,Coral Highlands,9000
+581,Scratching the Itch,optional,LR,5,hunt,Rotten Vale,5400
+582,Man's Best Fiend,optional,LR,5,capture,Rotten Vale,7200
+583,The Meat of the Matter,optional,LR,5,deliver,Rotten Vale,3600
+531,Special Arena: Legiana,optional,LR,5,hunt,Special Arena,5400
+532,Special Arena: Odogaron,optional,LR,5,hunt,Special Arena,5400
+533,Special Arena: Rathalos,optional,LR,5,hunt,Special Arena,5400
+534,Special Arena: Diablos,optional,LR,5,hunt,Special Arena,5400
+641,Left Quite the Impression,optional,LR,6,assignment,Everstream,8280
+651,Hard to Swallow,optional,HR,6,hunt,Ancient Forest,5400
+652,Googly-eyed Green Monster,optional,HR,6,hunt,Ancient Forest,7200
+653,A Hair-Raising Experience,optional,HR,6,hunt,Ancient Forest,7200
+654,It Can't See You if You Don't Move,optional,HR,6,hunt,Ancient Forest,9000
+655,The Sleeping Sylvan Queen,optional,HR,6,hunt,Ancient Forest,9000
+656,Stuck in Their Ways,optional,HR,6,capture,Ancient Forest,9360
+661,Keep Your Hands to Yourself!,optional,HR,6,hunt,Wildspire Waste,5400
+662,A Crown of Mud and Anger,optional,HR,6,hunt,Wildspire Waste,7200
+663,Pukei-Pukei Ambush,optional,HR,6,hunt,Wildspire Waste,7200
+665,Up to Your Waist in the Waste,optional,HR,6,hunt,Wildspire Waste,9000
+666,"Brown Desert, Green Queen",optional,HR,6,hunt,Wildspire Waste,9000
+667,Trespassing Troublemaker,optional,HR,6,hunt,Wildspire Waste,9000
+671,Say Cheese!,optional,HR,6,hunt,Coral Highlands,5400
+672,Loop the Paolumu,optional,HR,6,hunt,Coral Highlands,7200
+681,A Tingling Taste,optional,HR,6,hunt,Rotten Vale,5400
+682,Stuck in a Rut,optional,HR,6,hunt,Rotten Vale,9000
+683,Chef Quest! Pumped to Deliver,optional,HR,6,deliver,Rotten Vale,5400
+684,Chef Quest! A Rotten Request,optional,HR,6,hunt,Rotten Vale,5400
+691,A Meow for Help,optional,HR,6,hunt,Elder's Recess,5400
+692,A Scalding Scoop,optional,HR,6,hunt,Elder's Recess,6480
+693,Dodogama Drama,optional,HR,6,hunt,Elder's Recess,9000
+694,Chef Quest! Gajalaka Lockdown,optional,HR,6,hunt,Elder's Recess,5400
+631,Special Arena: HR Pukei-Pukei,optional,HR,6,hunt,Special Arena,7200
+632,Special Arena: HR Barroth,optional,HR,6,hunt,Special Arena,7200
+633,Special Arena: HR Tobi-Kadachi,optional,HR,6,hunt,Special Arena,7200
+634,Special Arena: HR Anjanath,optional,HR,6,hunt,Special Arena,9000
+635,Special Arena: HR Rathian,optional,HR,6,hunt,Special Arena,9000
+636,Special Arena: HR Paolumu,optional,HR,6,hunt,Special Arena,7200
+637,Special Arena: HR Radobaan,optional,HR,6,hunt,Special Arena,9000
+751,Rathalos Rematch,optional,HR,7,hunt,Ancient Forest,12600
+752,Rathalos in Blue,optional,HR,7,hunt,Ancient Forest,14400
+753,The Red and Blue Crew,optional,HR,7,hunt,Ancient Forest,21600
+761,Pretty In Pink,optional,HR,7,hunt,Wildspire Waste,12600
+762,"Well, That Diablos!",optional,HR,7,hunt,Wildspire Waste,12600
+763,Two-horned Hostility,optional,HR,7,hunt,Wildspire Waste,14400
+764,RRRRRumble in the Waste!,optional,HR,7,hunt,Wildspire Waste,21600
+771,A Cherry Wind upon the Reefs,optional,HR,7,hunt,Coral Highlands,12600
+772,Legiana: Highlands Royalty,optional,HR,7,hunt,Coral Highlands,12600
+773,A Sore Site,optional,HR,7,hunt,Coral Highlands,12600
+774,Talons of Ire and Ice,optional,HR,7,hunt,Coral Highlands,20160
+781,Odogaron Unleashed,optional,HR,7,hunt,Rotten Vale,12600
+791,"Lavasioth, Monster of Magma",optional,HR,7,hunt,Elder's Recess,12600
+792,Ore-eating Occupier,optional,HR,7,hunt,Elder's Recess,14400
+793,Ruler of the Azure Skies,optional,HR,7,hunt,Elder's Recess,14400
+794,Bazelgeuse in the Field of Fire,optional,HR,7,hunt,Elder's Recess,14400
+795,A Fiery Convergence,optional,HR,7,hunt,Elder's Recess,21600
+738,Special Arena: HR Black Diablos,optional,HR,7,hunt,Special Arena,14400
+731,Special Arena: HR Pink Rathian,optional,HR,7,hunt,Special Arena,12600
+732,Special Arena: HR Legiana,optional,HR,7,hunt,Special Arena,12600
+733,Special Arena: HR Odogaron,optional,HR,7,hunt,Special Arena,12600
+734,Special Arena: HR Uragaan,optional,HR,7,hunt,Special Arena,14400
+735,Special Arena: HR Rathalos,optional,HR,7,hunt,Special Arena,12600
+736,Special Arena: HR Azure Rathalos,optional,HR,7,hunt,Special Arena,14400
+737,Special Arena: HR Diablos,optional,HR,7,hunt,Special Arena,12600
+50751,Today's Special: Hunter Flambé,optional,HR,7,hunt,Ancient Forest,14400
+851,A Portent of Disaster,optional,HR,8,hunt,Ancient Forest,18000
+893,Hellfire's Stronghold,optional,HR,8,hunt,Elder's Recess,18000
+895,The Winds of Wrath Bite Deep,optional,HR,8,hunt,Elder's Recess,18000
+861,A Blaze on the Sand,optional,HR,8,hunt,Wildspire Waste,18000
+871,Lightning Strikes Twice,optional,HR,8,hunt,Coral Highlands,18000
+881,Stirrings from the Grave,optional,HR,8,hunt,Rotten Vale,18000
+894,The Eater of Elders,optional,HR,8,hunt,Elder's Recess,18000
+891,The Eater of Elders,optional,HR,8,hunt,Elder's Recess,18000
+892,Master of the Gale,optional,HR,8,hunt,Elder's Recess,18000
+896,The Fires of Hell Bite Deep,optional,HR,8,hunt,Elder's Recess,18000
+50891,Blue Prominence,optional,HR,8,hunt,Elder's Recess,18000
+50892,Blue Prominence,optional,HR,8,hunt,Elder's Recess,18000
+50861,Infernal Monarchy,optional,HR,8,hunt,Wildspire Waste,28800
+992,The White Winds of the New World,optional,HR,9,hunt,Special Arena,27720
+991,A Light Upon the River's Gloom,optional,HR,9,hunt,Confluence of Fates,19800
+995,The Sapphire Star's Guidance,optional,HR,9,hunt,Elder's Recess,38880
+996,Showdown: the Muck and the Maul,optional,HR,9,hunt,Special Arena,15840
+997,"New World Sky, New World Flower",optional,HR,9,hunt,Special Arena,25920
+998,A Summons from Below,optional,HR,9,hunt,Rotten Vale,29520
+50991,A Visitor from Eorzea,optional,HR,9,hunt,Elder's Recess,25200
+50701,The Food Chain Dominator,special,HR,7,hunt,Ancient Forest,14400
+50801,The Blazing Sun,special,HR,8,hunt,Wildspire Waste,18000
+50802,Pandora's Arena,special,HR,8,hunt,Special Arena,12600
+50803,"No Remorse, No Surrender",special,HR,8,hunt,Elder's Recess,28800
+50601,A Visitor from Another World,special,HR,6,hunt,Wildspire Waste,10800
+50905,The Legendary Beast,special,HR,9,hunt,Elder's Recess,17640
+50906,He Taketh It with His Eyes,special,HR,9,hunt,Elder's Recess,25200
+50910,Contract: Trouble in the Ancient Forest,special,HR,9,hunt,Ancient Forest,19800
+50902,The Fury of El Dorado,event,HR,9,assignment,Caverns of El Dorado,36000
+61605,Mosswinin' and Dinin',event,HR,6,hunt,Arena,54000
+63033,Gajalaka Outbreak!,event,HR,6,hunt,Arena,4320
+63051,Challenge Quest 1: Expert,event,HR,9,hunt,Arena,4320
+63052,Challenge Quest 2: Expert,event,HR,9,hunt,Special Arena,4320
+63104,Gale & Fangs Slay Event 1,event,HR,7,hunt,Arena,3240
+63105,Gale & Fangs Slay Event 2,event,HR,7,hunt,Arena,3240
+63106,Gale & Fangs Slay Event 3,event,HR,7,hunt,Arena,3240
+63101,Nergigante Slay Event 1,event,HR,8,hunt,Arena,3240
+63102,Nergigante Slay Event 2,event,HR,8,hunt,Arena,3240
+63103,Nergigante Slay Event 3,event,HR,8,hunt,Special Arena,3240
+63107,Nergigante Slay Event 4,event,HR,8,hunt,Arena,3240
+63108,Deviljho Slay Event,event,HR,7,hunt,Arena,3240
+63109,The Best of the Best,event,HR,8,hunt,Arena,6480
+63110,What Lurks In The Forest,event,HR,7,hunt,Ancient Forest,3240
+63130,When Law Meets War,event,HR,7,hunt,Arena,3240
+63131,The Hunter and The Blue Empress,event,HR,8,hunt,Arena,3240
+61101,Up at the Crack of Dawn,event,LR,1,hunt,Arena,1080
+63003,Vespoid Infestation!,event,LR,2,hunt,Special Arena,2160
+63001,Challenge Quest 1: Beginner,event,LR,2,hunt,Special Arena,1080
+63002,Challenge Quest 2: Beginner,event,LR,4,hunt,Arena,1080
+63031,Challenge Quest 1: Intermediate,event,HR,7,hunt,Arena,2160
+63032,Challenge Quest 2: Intermediate,event,HR,7,hunt,Special Arena,2160
+61103,Where Sun Meets Moon,event,LR,3,hunt,Ancient Forest,5400
+61104,Timberland Troublemakers,event,LR,4,hunt,Ancient Forest,8640
+61105,Every Hunter's Dream,event,LR,5,hunt,Arena,7200
+61601,Midnight Mayhem,event,HR,6,hunt,Arena,8100
+61603,A Royal Pain,event,HR,7,hunt,Wildspire Waste,9000
+61604,Kings Know No Fear,event,HR,7,hunt,Elder's Recess,12960
+61606,The Greatest Jagras,event,HR,9,hunt,Ancient Forest,12600
+61607,The Name's Lavasioth!,event,HR,9,hunt,Elder's Recess,25200
+67105,USJ: Gold Star Treatment,event,LR,3,hunt,Arena,3960
+67103,A Rush of Blood,event,HR,7,hunt,Arena,21600
+67603,USJ Blazing Azure Stars!,event,HR,7,hunt,Elder's Recess,18000
+67605,Code: Red,event,HR,8,hunt,Arena,36000
+67608,"SDF: Silent, Deadly, and Fierce",event,HR,8,hunt,Special Arena,36000
+67606,A Visitor from Eorzea (Extreme),event,HR,9,hunt,Elder's Recess,30240
+67610,Contract: Woodland Spirit,event,HR,9,hunt,Ancient Forest,36000
+66101,Chew The Fat,event,LR,2,hunt,Ancient Forest,3240
+66102,Ya-Ku With That?,event,LR,4,hunt,Special Arena,4320
+66106,Greeting the Gluttons,event,LR,4,hunt,Special Arena,7920
+64101,Wicked Wildspire Warfare,event,LR,5,hunt,Special Arena,9360
+66103,Flesh Cleaved to Bone,event,LR,5,hunt,Special Arena,7920
+66104,Kirin The Myth,event,LR,5,hunt,Coral Highlands,14400
+66105,The Poison Posse,event,LR,5,hunt,Ancient Forest,8280
+62608,Gaze Upon the Dawn,event,LR,6,assignment,Everstream,15120
+65601,Scrapping with the Shamos,event,HR,6,hunt,Coral Highlands,5400
+65602,A Flash in the Pan,event,HR,6,hunt,Arena,16200
+65603,Egg Lovers United,event,HR,6,hunt,Arena,7200
+65604,Wiggle Me This,event,HR,6,deliver,Coral Highlands,3600
+65605,Triple Threat Throwdown,event,HR,6,hunt,Special Arena,14040
+64601,Rollin' With The Uragaan,event,HR,7,hunt,Elder's Recess,23400
+66601,Deep Green Blues,event,HR,7,hunt,Ancient Forest,28800
+66602,Wildspire Bolero,event,HR,7,hunt,Wildspire Waste,30240
+66603,Coral Waltz,event,HR,7,hunt,Coral Highlands,26640
+66604,Effluvial Opera,event,HR,7,hunt,Rotten Vale,28800
+66605,Rock N' Roll Recess,event,HR,7,hunt,Elder's Recess,35280
+66606,This is How Revolts Start,event,HR,7,hunt,Wildspire Waste,21600
+62502,The Deathly Quiet Curtain,event,HR,9,hunt,Rotten Vale,36000
+62503,A Whisper of White Mane,event,HR,9,hunt,Coral Highlands,36000
+62504,The Scorn of the Sun,event,HR,9,hunt,Elder's Recess,36000
+62505,The Eye of the Storm,event,HR,9,hunt,Elder's Recess,36000
+62506,The Heralds of Destruction Cry,event,HR,9,hunt,Elder's Recess,36000
+62511,When Blue Dust Surpasses Red Lust,event,HR,9,hunt,Elder's Recess,36000
+62515,Relish the Moment,event,HR,9,hunt,Elder's Recess,21600
+62606,Undying Alpenglow,event,HR,9,assignment,Everstream,36000
+62607,Like a Moth to the Flame,event,HR,9,hunt,Confluence of Fates,43200
+62609,Keeper of the Otherworld,event,HR,9,hunt,Confluence of Fates,23760
+65606,A Simple Task,event,HR,9,deliver,Ancient Forest,3600
+65607,Tracking the Delivery,event,HR,9,deliver,Elder's Recess,5400
+66607,Snow & Cherry Blossoms,event,HR,9,hunt,Coral Highlands,25200
+66608,A Nose for an Eye,event,HR,9,hunt,Ancient Forest,23400
+66609,No Tomorrow for Usurpers,event,HR,9,hunt,Elder's Recess,18000
+66610,The Thronetaker,event,HR,9,hunt,Elder's Recess,37800
+3101,Arena Quest 01,arena,LR,1,hunt,Arena,1080
+3001,Arena Quest 02,arena,LR,2,hunt,Arena,1080
+3002,Arena Quest 03,arena,LR,4,hunt,Arena,1080
+3031,Arena Quest 04,arena,HR,6,hunt,Arena,2160
+3032,Arena Quest 05,arena,HR,6,hunt,Arena,2160
+3033,Arena Quest 06,arena,HR,6,hunt,Arena,2160
+3034,Arena Quest 07,arena,HR,7,hunt,Arena,2160
+3051,Arena Quest 08,arena,HR,8,hunt,Special Arena,3240
+3052,Arena Quest 09,arena,HR,8,hunt,Special Arena,3240
+241,Learning the Clutch,optional,LR,1,hunt,Arena,300
+1101,Baptism by Ice,assigned,MR,1,hunt,Hoarfrost Reach,14400
+1102,Banbaro Blockade,assigned,MR,1,hunt,Hoarfrost Reach,14400
+1201,Ready to Strike,assigned,MR,2,hunt,Hoarfrost Reach,18000
+1202,No Time for Naps,assigned,MR,2,hunt,Wildspire Waste,18000
+1203,Play Both Ends,assigned,MR,2,hunt,Coral Highlands,18000
+1301,Blizzard Blitz,assigned,MR,3,hunt,Hoarfrost Reach,25200
+1302,Ever-present Shadow,assigned,MR,3,hunt,Ancient Forest,25200
+1303,The Scorching Blade,assigned,MR,3,hunt,Wildspire Waste,25200
+1304,Absolute Power,assigned,MR,3,hunt,Rotten Vale,25200
+1305,A Smashing Cross Counter,assigned,MR,3,hunt,Elder's Recess,25200
+1306,A Tale of Ice and Fire,assigned,MR,3,hunt,Elder's Recess,28800
+1401,When the Mist Taketh You,assigned,MR,4,hunt,Hoarfrost Reach,28800
+1402,The Disintegrating Blade,assigned,MR,4,hunt,Rotten Vale,28800
+1403,"Bad Friends, Great Enemies",assigned,MR,4,hunt,Coral Highlands,28800
+1404,The Defense of Seliana,assigned,MR,4,hunt,Seliana Supply Cache,28800
+1405,The Thunderous Troublemaker!,assigned,MR,4,hunt,Hoarfrost Reach,28800
+1501,The Iceborne Wyvern,assigned,MR,5,hunt,Hoarfrost Reach,28800
+1502,The Second Coming,assigned,MR,5,hunt,Elder's Recess,36000
+1503,Under the Veil of Death,assigned,MR,5,hunt,Ancient Forest,36000
+1504,A Light From The Abyss,assigned,MR,5,hunt,Coral Highlands,36000
+1601,"To The Guided, A Paean",assigned,MR,6,hunt,Origin Isle,14400
+1602,Paean of Guidance,assigned,MR,6,hunt,Origin Isle,43200
+1603,Sleep Now in the Fire,assigned,MR,6,hunt,Ancient Forest,34560
+1604,Big Burly Bash,assigned,MR,6,hunt,Elder's Recess,48600
+1606,Return of the Crazy One,assigned,MR,6,hunt,Guiding Lands,28800
+1121,Deep Snow Diver,optional,MR,1,hunt,Hoarfrost Reach,14400
+1122,Taking Charge,optional,MR,1,hunt,Hoarfrost Reach,14400
+1123,Ice Catch!,optional,MR,1,capture,Hoarfrost Reach,18720
+1124,Call of the Wild,optional,MR,1,hunt,Hoarfrost Reach,9000
+1125,Greetings from the Tundra,optional,MR,1,deliver,Hoarfrost Reach,9000
+1131,Special Arena: MR Pukei-Pukei,optional,MR,1,hunt,Special Arena,14400
+1132,Special Arena: MR Barroth,optional,MR,1,hunt,Special Arena,14400
+1133,Special Arena: MR Tobi-Kadachi,optional,MR,1,hunt,Special Arena,14400
+1134,Special Arena: MR Banbaro,optional,MR,1,hunt,Special Arena,14400
+1151,The Great Jagras Returns!,optional,MR,1,hunt,Ancient Forest,12600
+1152,New World Problems,optional,MR,1,hunt,Ancient Forest,14400
+1153,Beating Around the Bush,optional,MR,1,hunt,Ancient Forest,14400
+1154,Literary Thief,optional,MR,1,hunt,Ancient Forest,12600
+1155,Trapping The Tree Trasher,optional,MR,1,capture,Ancient Forest,18720
+1161,Wildspire Treasure Hunt,optional,MR,1,hunt,Wildspire Waste,12600
+1162,Dragged Through the Mud,optional,MR,1,hunt,Wildspire Waste,14400
+1163,Jyura In My Way,optional,MR,1,hunt,Wildspire Waste,14400
+1164,Taster's Tour,optional,MR,1,hunt,Wildspire Waste,14400
+1171,All the Wrong Signals,optional,MR,1,hunt,Coral Highlands,12600
+1181,Grinding my Girros,optional,MR,1,hunt,Rotten Vale,12600
+1191,Can't Bring Yourself To It,optional,MR,1,hunt,Elder's Recess,14400
+1192,This Here's Big Horn Country!,optional,MR,1,hunt,Elder's Recess,17280
+1221,Analysis Creates Paralysis,optional,MR,2,hunt,Hoarfrost Reach,18000
+1222,Poison and Paralysis Pinch,optional,MR,2,capture,Hoarfrost Reach,23400
+1223,Boaboa Constrictor,optional,MR,2,hunt,Hoarfrost Reach,9000
+1224,By Our Powers Combined,optional,MR,2,hunt,Hoarfrost Reach,17280
+1225,You Scratch Our Backs...,optional,MR,2,hunt,Hoarfrost Reach,17280
+1231,Special Arena: MR Anjanath,optional,MR,2,hunt,Special Arena,18000
+1232,Special Arena: MR Radobaan,optional,MR,2,hunt,Special Arena,18000
+1233,Special Arena: MR Coral Pukei-Pukei,optional,MR,2,hunt,Special Arena,18000
+1234,Special Arena: MR Viper Tobi-Kadachi,optional,MR,2,hunt,Special Arena,18000
+1235,Special Arena: MR Rathian,optional,MR,2,hunt,Special Arena,18000
+1236,Special Arena: MR Pink Rathian,optional,MR,2,hunt,Special Arena,21600
+1237,Special Arena: MR Paolumu,optional,MR,2,hunt,Special Arena,18000
+1238,Special Arena: MR Nightshade Paolumu,optional,MR,2,hunt,Special Arena,18000
+1251,Anjanath Antics,optional,MR,2,hunt,Ancient Forest,18000
+1252,Fool's Mate,optional,MR,2,hunt,Ancient Forest,18000
+1253,Nighty Night Nightshade,optional,MR,2,capture,Ancient Forest,23400
+1261,A Queen At Heart,optional,MR,2,hunt,Wildspire Waste,18000
+1262,A Face Nightmares Are Made Of,optional,MR,2,hunt,Wildspire Waste,18000
+1263,Stick Your Nose Somewhere Else,optional,MR,2,hunt,Wildspire Waste,18000
+1264,Feisty Girl Talk,optional,MR,2,hunt,Wildspire Waste,31680
+1271,The Plight of Paolumu,optional,MR,2,hunt,Coral Highlands,18000
+1272,Pink Power Grab,optional,MR,2,hunt,Coral Highlands,21600
+1273,Protip: Stay Hydrated,optional,MR,2,hunt,Coral Highlands,18000
+1274,Put That Red Cup Away,optional,MR,2,hunt,Coral Highlands,21600
+1281,No Laughing Matter,optional,MR,2,hunt,Rotten Vale,18000
+1282,Bugger Off Bugs!,optional,MR,2,hunt,Rotten Vale,9000
+1291,Looking For That Glimmer,optional,MR,2,deliver,Elder's Recess,9000
+1321,Remember That One Time?,optional,MR,3,hunt,Hoarfrost Reach,25200
+1322,The Purr-fect Room: Stone,optional,MR,3,capture,Hoarfrost Reach,32760
+1323,Proud White Knight,optional,MR,3,hunt,Hoarfrost Reach,30240
+1331,Special Arena: MR Legiana,optional,MR,3,hunt,Special Arena,25200
+1332,Special Arena: MR Odogaron,optional,MR,3,hunt,Special Arena,25200
+1333,Special Arena: MR Uragaan,optional,MR,3,hunt,Special Arena,25200
+1334,Special Arena: MR Rathalos,optional,MR,3,hunt,Special Arena,25200
+1335,Special Arena: MR Diablos,optional,MR,3,hunt,Special Arena,25200
+1336,Special Arena: MR Barioth,optional,MR,3,hunt,Special Arena,25200
+1337,Special Arena: MR Nargacuga,optional,MR,3,hunt,Special Arena,25200
+1338,Special Arena: MR Glavenus,optional,MR,3,hunt,Special Arena,25200
+1339,Special Arena: MR Brachydios,optional,MR,3,hunt,Special Arena,25200
+1340,Special Arena: MR Tigrex,optional,MR,3,hunt,Special Arena,25200
+1351,Swoop to a New Low,optional,MR,3,hunt,Ancient Forest,25200
+1352,"Nargacoulda, Shoulda, Woulda",optional,MR,3,hunt,Ancient Forest,25200
+1353,The Secret to a Good Slice,optional,MR,3,hunt,Ancient Forest,25200
+1354,Red and Black Aces,optional,MR,3,hunt,Ancient Forest,40320
+1361,A Line in the Sand,optional,MR,3,hunt,Wildspire Waste,25200
+1362,A Flash of the Blade,optional,MR,3,hunt,Wildspire Waste,25200
+1363,Simmer and Slice!,optional,MR,3,hunt,Wildspire Waste,34560
+1371,Legiana Left Behind,optional,MR,3,hunt,Coral Highlands,25200
+1372,The Black Wind,optional,MR,3,hunt,Coral Highlands,25200
+1373,A Nasty Flesh Wound,optional,MR,3,hunt,Coral Highlands,30240
+1381,Don't be a Jerk with the Jerky,optional,MR,3,hunt,Rotten Vale,25200
+1382,A Roar that Shook the Vale,optional,MR,3,hunt,Rotten Vale,25200
+1383,"Runnin', Rollin', and Weepin'",optional,MR,3,hunt,Rotten Vale,34560
+1391,Blast Warning In Effect!,optional,MR,3,hunt,Elder's Recess,25200
+1392,Everyone's a Critic,optional,MR,3,hunt,Elder's Recess,25200
+1393,Begone Uragaan,optional,MR,3,hunt,Elder's Recess,25200
+1394,Secret of the Ooze,optional,MR,3,capture,Elder's Recess,32760
+1395,Festival of Explosions!,optional,MR,3,hunt,Elder's Recess,40320
+1421,Noblefrost Hunter,optional,MR,4,hunt,Hoarfrost Reach,28800
+1422,Tundra Troublemaker,optional,MR,4,hunt,Hoarfrost Reach,28800
+1423,Duet of Rime,optional,MR,4,hunt,Hoarfrost Reach,43200
+1424,Treasure in the Steam,optional,MR,4,deliver,Hoarfrost Reach,9000
+1431,Special Arena: MR Azure Rathalos,optional,MR,4,hunt,Special Arena,28800
+1432,Special Arena: MR Black Diablos,optional,MR,4,hunt,Special Arena,28800
+1433,Special Arena: MR Acidic Glavenus,optional,MR,4,hunt,Special Arena,28800
+1434,Special Arena: MR Ebony Odogaron,optional,MR,4,hunt,Special Arena,28800
+1435,Special Arena: MR Fulgur Anjanath,optional,MR,4,hunt,Special Arena,28800
+1451,These Azure Eyes See All,optional,MR,4,hunt,Ancient Forest,28800
+1452,Misfortune in the Forest,optional,MR,4,hunt,Ancient Forest,28800
+1461,In the Heat of the Moment,optional,MR,4,hunt,Wildspire Waste,28800
+1462,Piercing Black,optional,MR,4,hunt,Wildspire Waste,34560
+1471,A Shadowy Offender,optional,MR,4,hunt,Coral Highlands,28800
+1481,This Corroded Blade,optional,MR,4,hunt,Rotten Vale,28800
+1482,The Purr-fect Room: Light Iron,optional,MR,4,capture,Rotten Vale,37440
+1483,The Purr-fect Room: Dark Iron,optional,MR,4,hunt,Rotten Vale,43200
+1491,Blue Rathalos Blues,optional,MR,4,hunt,Elder's Recess,28800
+1492,Trap the Thunder Jaw,optional,MR,4,capture,Elder's Recess,37440
+1521,Clashing Swords Upon The Rime,optional,MR,5,hunt,Hoarfrost Reach,28800
+1551,The Harbinger of Clear Skies,optional,MR,5,hunt,Ancient Forest,36000
+1552,Here Comes the Deathmaker,optional,MR,5,hunt,Ancient Forest,36000
+1561,Royal Audience on the Sand,optional,MR,5,hunt,Wildspire Waste,36000
+1562,The Tyrant's Banquet,optional,MR,5,hunt,Wildspire Waste,36000
+1571,Lightning Crashes,optional,MR,5,hunt,Coral Highlands,36000
+1572,Memories of the Sea God,optional,MR,5,hunt,Coral Highlands,36000
+1581,It's the Afterlife for Me,optional,MR,5,hunt,Rotten Vale,36000
+1591,Wings of the Wind,optional,MR,5,hunt,Elder's Recess,36000
+1592,Mark of the Sun,optional,MR,5,hunt,Elder's Recess,36000
+1593,Seething with Anger,optional,MR,5,hunt,Elder's Recess,36000
+1594,The Purr-fect Room: Silver,optional,MR,5,capture,Elder's Recess,46800
+1605,To the Very Ends with You,optional,MR,6,hunt,Guiding Lands,36000
+1631,We Run This Town,optional,MR,6,hunt,Special Arena,71280
+1632,Special Arena: MR Zinogre,optional,MR,6,hunt,Special Arena,28800
+1633,Special Arena: MR Yian Garuga,optional,MR,6,hunt,Special Arena,28800
+1634,Special Arena: MR Brute Tigrex,optional,MR,6,hunt,Special Arena,36000
+1635,Special Arena: MR Gold Rathian,optional,MR,6,hunt,Special Arena,36000
+1636,Special Arena: MR Silver Rathalos,optional,MR,6,hunt,Special Arena,36000
+1641,Faraway Lorelei,optional,MR,6,hunt,Origin Isle,43200
+1642,Hymn of Moon and Sun,optional,MR,6,hunt,Elder's Recess,57600
+1651,The Storm Brings the Unexpected,optional,MR,6,hunt,Ancient Forest,60480
+1661,One Hot Night in the Spire,optional,MR,6,hunt,Wildspire Waste,36000
+1671,Divine Surge,optional,MR,6,hunt,Coral Highlands,60480
+1691,Into the Palace of Flame,optional,MR,6,hunt,Elder's Recess,36000
+1692,Master Hunter of the New World,optional,MR,6,hunt,Elder's Recess,98640
+50901,Banquet in the Earthen Hall,event,HR,9,assignment,Caverns of El Dorado,25200
+51601,"Reveal Thyself, Destroyer",event,MR,6,hunt,Guiding Lands,36000
+51602,Sterling Pride,event,MR,6,hunt,Hoarfrost Reach,36000
+61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
+61811,Flora Frostbite,event,MR,1,deliver,Hoarfrost Reach,9000
+61812,Beef is Never a Mi-steak,event,MR,4,hunt,Wildspire Waste,43200
+61813,50 Shades of White,event,MR,3,hunt,Arena,25200
+61814,A Shocking Climax,event,MR,6,hunt,Coral Highlands,45360
+63004,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
+63005,USJ Beginners Challenge!,event,LR,2,hunt,Arena,1080
+63006,USJ Expert Challenge!,event,LR,4,hunt,Special Arena,1080
+63007,USJ Beginners Challenge!,event,LR,4,hunt,Arena,2160
+63008,USJ Expert Challenge!,event,LR,5,hunt,Special Arena,2160
+63009,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
+63034,The Awakened Satsui No Hado I,event,HR,8,hunt,Arena,4320
+63035,The Awakened Satsui No Hado II,event,HR,8,hunt,Arena,4320
+63036,The Awakened Satsui No Hado III,event,HR,8,hunt,Arena,4320
+63037,Empress in Full Bloom I,event,HR,7,hunt,Arena,4320
+63038,Empress in Full Bloom II,event,HR,7,hunt,Arena,4320
+63039,Empress in Full Bloom III,event,HR,7,hunt,Arena,4320
+63071,Challenge Quest 1: MR Intermediate,event,MR,2,hunt,Special Arena,25920
+63073,Challenge Quest 1: MR Expert,event,MR,6,hunt,Special Arena,28800
+63142,Farewell to the Frozen,event,MR,5,hunt,Arena,28800
+64801,Balloon Fight,event,MR,2,hunt,Special Arena,28800
+64802,Talk About a Party Foul...,event,MR,5,hunt,Special Arena,36000
+66801,Trophy Fishin',event,MR,1,hunt,Hoarfrost Reach,23040
+66802,The Lord of the Underworld Beckons,event,MR,1,deliver,Rotten Vale,9000
+66803,A Bunch of Sticks in the Mud,event,MR,1,hunt,Wildspire Waste,23040
+66804,Desert Desserts,event,MR,1,deliver,Wildspire Waste,9000
+66805,A New Troublemaker in Town,event,MR,2,hunt,Ancient Forest,25920
+66806,Colorful Carnival,event,MR,2,hunt,Special Arena,40320
+66807,Hunter-Blunderer,event,MR,2,hunt,Special Arena,28800
+66808,A Sky & Sea of Fire,event,MR,3,hunt,Elder's Recess,40320
+66809,A Curious Experiment,event,MR,3,hunt,Wildspire Waste,34560
+66810,Soaked and Shivering,event,MR,3,hunt,Coral Highlands,34560
+66811,Fired-Up Bruisers,event,MR,3,hunt,Elder's Recess,40320
+66812,The Desert Dash,event,MR,4,hunt,Wildspire Waste,43200
+66813,In the Depths of the Forest,event,MR,4,hunt,Ancient Forest,46080
+66814,Servants of the Vale,event,MR,4,hunt,Rotten Vale,46080
+66815,We Three Kings,event,MR,5,hunt,Special Arena,75600
+66816,The Winter Blues,event,MR,5,hunt,Coral Highlands,51840
+66817,A Reason Behind The Hunger,event,MR,5,hunt,Elder's Recess,36000
+67101,The Proving,event,HR,6,hunt,Ancient Forest,9000
+67102,Lessons of the Wild,event,LR,5,hunt,Arena,2520
+67607,The Heart of the Nora,event,HR,9,hunt,Ancient Forest,36000
+3171,Arena Master Quest 01,arena,MR,1,hunt,Arena,14400
+3071,Arena Master Quest 02,arena,MR,2,hunt,Arena,18000
+3072,Arena Master Quest 03,arena,MR,3,hunt,Arena,25200
+3073,Arena Master Quest 04,arena,MR,4,hunt,Arena,28800
+3074,Arena Master Quest 05,arena,MR,4,hunt,Special Arena,43200
+3091,Arena Master Quest 06,arena,MR,6,hunt,Arena,28800
+3092,Arena Master Quest 07,arena,MR,6,hunt,Special Arena,48960

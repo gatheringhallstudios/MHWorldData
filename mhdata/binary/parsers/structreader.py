@@ -91,6 +91,11 @@ class long(ReadablePrimitive):
     def __init__(self):
         super().__init__("<q")
 
+        
+class ulong(ReadablePrimitive):
+    def __init__(self):
+        super().__init__("<Q")
+
 
 class float(ReadablePrimitive):
     def __init__(self):
@@ -173,3 +178,22 @@ def read_struct_from_file(path, struct_type):
     "Creates a new struct reader and reads that struct, and only that struct, from that file"
     with open(path, 'rb') as f:
         return read_struct(f.read(), struct_type)
+
+class MappedValue(Readable):
+    def __init__(self, base, map, warn=False):
+        self.base = base
+        self.map = map
+        self.warn = warn
+
+    def read(self, reader: StructReader):
+        key = reader.read_struct(self.base)
+        try:
+            return self.map[key]
+        except KeyError:
+            valid = ", ".join(str(k) for k in self.map.keys())
+            message = f"Key {key} is not in MappedValue, valid keys are {valid}"
+            if self.warn:
+                print("Warning: " + message)
+                return key
+            else:
+                raise KeyError(message)

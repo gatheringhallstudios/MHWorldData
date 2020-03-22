@@ -414,8 +414,9 @@ class QuestBaseSchema(BaseSchema):
     objective = fields.Dict()
     description = fields.Dict()
     category = fields.String(allow_none=True)
+    rank = fields.Str()
     stars = fields.Int()
-    quest_type = ValidatedStr(None, 'hunt', 'capture', 'deliver')
+    quest_type = ValidatedStr(None, 'hunt', 'capture', 'deliver', 'assignment')
     location_en = fields.String(allow_none=True)
     zenny = fields.Int(allow_none=True)
 

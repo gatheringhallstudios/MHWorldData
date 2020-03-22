@@ -21,10 +21,7 @@ def update_all():
     error = False
     for name in area_map.values():
         if name not in mhdata.location_map.names('en'):
-            print(f"Error: Area map has invalid location name {name}.")
-            error = True
-    if error:
-        return
+            print(f"Warning: Area map has invalid location name {name}.")
     print("Area Map validated")
 
     item_data = ItemCollection()
@@ -43,7 +40,7 @@ def update_all():
     update_decorations(mhdata, item_data)
     #update_weapon_songs(mhdata)
     #update_kinsects(mhdata, item_updater)
-    #update_quests(mhdata, item_updater, monster_meta, area_map)
+    update_quests(mhdata, item_updater, monster_data, area_map)
     
     # Now finalize the item updates from parsing the rest of the data
     register_combinations(mhdata, item_updater)
