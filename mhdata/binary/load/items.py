@@ -1,7 +1,7 @@
-from typing import Iterable, Tuple
-from mhw_armor_edit.ftypes import itm
+from typing import Iterable, Tuple, NamedTuple
 
 from .bcore import load_schema, load_text
+from mhw_armor_edit.ftypes import itm
 from mhw_armor_edit.ftypes import sgpa
 
 item_dupes = [
@@ -31,6 +31,21 @@ def rarity_to_rank(rarity):
         return 'HR'
     return 'LR'
 
+class ItemFlags(NamedTuple):
+    default: bool
+    ez: bool
+    unk1: bool
+    consumable: bool
+    appraisal: bool
+    permanent: bool
+    mega: bool
+    lvl1: bool
+    lvl2: bool
+    lvl3: bool
+    glitter: bool
+    deliverable: bool
+    hidden: bool
+
 class Item:
     def __init__(self, data: itm.ItmEntry, name, description):
         self.id = data.id
@@ -39,9 +54,24 @@ class Item:
         self.description = description
         self.type = item_type_list[data.type]
 
+        self._flags = None
+
     def __getattr__(self, name):
         # fallback to binary data
         return self.data.__getattribute__(name)
+
+    @property
+    def flags(self) -> ItemFlags:
+        if not self._flags:
+            num_fields = len(ItemFlags._fields)
+            f = self.data.flags
+            values = (f & (2 ** i) > 0 for i in range(num_fields))
+            self._flags = ItemFlags(*values)
+        
+        return self._flags
+
+    def __repr__(self):
+        return f"Item({self.name['en']})"
 
 class ItemCollection:
     def __init__(self):
@@ -57,6 +87,10 @@ class ItemCollection:
 
         self.item_data_map = {i.id : i for i in self.items}
 
+        self.items_by_name = {}
+        for item in self.items:
+            self.items_by_name.setdefault(item.name['en'], []).append(item)
+
     def _resolve_name(self, item: itm.Itm):
         name = self.item_text[item.id * 2]
         if name['en'] in item_dupes:
@@ -65,6 +99,12 @@ class ItemCollection:
 
     def by_id(self, binary_item_id) -> Item:
         return self.item_data_map[binary_item_id]
+
+    def by_name(self, name) -> Iterable[Item]:
+        return self.items_by_name[name]
+
+    def __iter__(self):
+        yield from self.items
 
 class Decoration:
     def __init__(self, item: itm.ItmEntry, size: int, skills: Iterable[Tuple[int, int]]):

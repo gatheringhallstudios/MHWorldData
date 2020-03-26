@@ -78,10 +78,10 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
             'points': None
         }
 
-        is_ez = (entry.flags & itm.ItmFlag.IsQuestOnly.value) != 0
+        is_ez = entry.flags.ez
         is_account = entry.type == 'endemic'
         is_tradein = "(Trade-in Item)" in description_dict['en']
-        is_appraisal = (entry.flags & itm.ItmFlag.IsAppraisal.value) != 0
+        is_appraisal = entry.flags.appraisal
 
         sell_value = entry.sell_price if entry.sell_price != 0 else None
         if is_account:
