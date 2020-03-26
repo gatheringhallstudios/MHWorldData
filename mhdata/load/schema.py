@@ -107,6 +107,7 @@ class MonsterAilments(BaseSchema):
     iceblight = ExcelBool(null_is_false=True)
     dragonblight = ExcelBool(null_is_false=True)
     blastblight = ExcelBool(null_is_false=True)
+    regional = ExcelBool(null_is_false=True)
     poison = ExcelBool(null_is_false=True)
     sleep = ExcelBool(null_is_false=True)
     paralysis = ExcelBool(null_is_false=True)

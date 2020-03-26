@@ -254,6 +254,7 @@ def build_monsters(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemT
             monster.ailment_iceblight = ailments['iceblight']
             monster.ailment_dragonblight = ailments['dragonblight']
             monster.ailment_blastblight = ailments['blastblight']
+            monster.ailment_regional = ailments['regional']
             monster.ailment_poison = ailments['poison']
             monster.ailment_sleep = ailments['sleep']
             monster.ailment_paralysis = ailments['paralysis']

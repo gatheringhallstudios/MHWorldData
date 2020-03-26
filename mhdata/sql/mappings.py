@@ -130,6 +130,7 @@ class Monster(Base):
     ailment_iceblight = Column(Boolean)
     ailment_dragonblight = Column(Boolean)
     ailment_blastblight = Column(Boolean)
+    ailment_regional = Column(Boolean)
     ailment_poison = Column(Boolean)
     ailment_sleep = Column(Boolean)
     ailment_paralysis = Column(Boolean)
