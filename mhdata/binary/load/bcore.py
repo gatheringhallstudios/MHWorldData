@@ -9,6 +9,7 @@ from os.path import dirname, abspath, join
 
 from mhw_armor_edit import ftypes
 from mhw_armor_edit.ftypes import gmd
+from ..parsers import structreader as sr
 
 # Location of MHW binary data.
 # Looks for a folder called /mergedchunks neighboring the main project folder.
@@ -35,9 +36,11 @@ lang_map = {
 def get_chunk_root():
     return CHUNK_DIRECTORY
 
-def load_schema(schema: Type[ftypes.StructFile], relative_dir: str) -> ftypes.StructFile:
+def load_schema(schema: Union[Type[ftypes.StructFile],Type[sr.Readable]], relative_dir: str) -> ftypes.StructFile:
     "Uses an ftypes struct file class to load() a file relative to the chunk directory"
     with open(join(CHUNK_DIRECTORY, relative_dir), 'rb') as f:
+        if isinstance(schema, sr.Readable) or issubclass(schema, sr.Readable):
+            return sr.read_struct(bytearray(f.read()), schema)
         return schema.load(f)
 
 class GmdGroup(Mapping[Union[int, str], Mapping[str,str]]):

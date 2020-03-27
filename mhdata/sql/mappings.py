@@ -729,3 +729,29 @@ class QuestReward(Base):
     item_id = Column(Integer, ForeignKey('item.id'), index=True)
     stack = Column(Integer)
     percentage = Column(Integer)
+
+class Tool(Base):
+    __tablename__ = "tool"
+
+    id = Column(Integer, primary_key=True)
+    order_id = Column(Integer)
+    tool_type = Column(Text)
+
+    duration = Column(Integer)
+    duration_upgraded = Column(Integer)
+    recharge = Column(Integer)
+    
+    slot_1 = Column(Integer)
+    slot_2 = Column(Integer)
+    slot_3 = Column(Integer)
+
+    icon_color = Column(Text)
+    translations = relationship("ToolText")
+
+class ToolText(Base):
+    __tablename__ = "tool_text"
+    id = Column(Integer, ForeignKey('tool.id'), primary_key=True)
+    lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
+    name_base = Column(Text)
+    description = Column(Text)

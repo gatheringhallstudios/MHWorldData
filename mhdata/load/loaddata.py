@@ -129,4 +129,9 @@ def load_data():
                     .add_csv('quest_rewards.csv', key='rewards')
                     .get(schema=schema.QuestSchema()))
 
+    result.tool_map = (DataStitcher(reader, dir="tools/")
+                .base_csv("tool_base.csv")
+                .translate('tool_base_translations.csv')
+                .get(schema=schema.ToolSchema()))
+
     return result

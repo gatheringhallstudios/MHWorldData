@@ -1,4 +1,4 @@
-from collections.abc import MutableMapping
+from collections.abc import MutableMapping, Iterable
 from .functions import to_basic
 
 class DataRow(MutableMapping):
@@ -58,8 +58,10 @@ class DataRow(MutableMapping):
             return self._data[key]
         elif '_' in key:
             key1, key2 = key.rsplit('_', 1)
-            if key1 in self._data and key2 in self._data[key1]:
-                return self._data[key1][key2]
+            if key1 in self._data:
+                nested = self._data[key1]
+                if isinstance(nested, Iterable) and key2 in nested:
+                    return nested[key2]
             
         raise KeyError(f'No entry with {key} found in data row')
 

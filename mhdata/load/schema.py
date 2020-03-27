@@ -435,3 +435,18 @@ class QuestReward(BaseSchema):
     item_en = fields.String()
     stack = fields.Integer()
     percentage = fields.Integer()
+
+class ToolSchema(BaseSchema):
+    __groups__ = ('name','name_base','description')
+    id = fields.Int()
+    name = fields.Dict()
+    name_base = fields.Dict()
+    description = fields.Dict()
+    tool_type = ValidatedStr('mantle', 'booster')
+    duration = fields.Int()
+    duration_upgraded = fields.Int(allow_none=True)
+    recharge = fields.Int()
+    slot_1 = fields.Int()
+    slot_2 = fields.Int()
+    slot_3 = fields.Int()
+    icon_color = ValidatedStr(None, *cfg.icon_colors)

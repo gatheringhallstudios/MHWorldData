@@ -49,6 +49,7 @@ def build_sql_database(output_filename, mhdata):
         build_kinsects(session, mhdata)
         build_decorations(session, mhdata)
         build_charms(session, mhdata)
+        build_tools(session, mhdata)
         build_quests(session, mhdata, item_tracker)
 
         item_tracker.print_unmarked()
@@ -802,6 +803,31 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
 
     print("Built Charms")
 
+def build_tools(session : sqlalchemy.orm.Session, mhdata):
+    for order_id, tool_entry in enumerate(mhdata.tool_map.values()):
+        tool = db.Tool(
+            id=tool_entry.id,
+            order_id=order_id,
+            tool_type=tool_entry['tool_type'],
+            duration=tool_entry['duration'],
+            duration_upgraded=tool_entry['duration_upgraded'],
+            recharge=tool_entry['recharge'],
+            slot_1=tool_entry['slot_1'],
+            slot_2=tool_entry['slot_2'],
+            slot_3=tool_entry['slot_3'],
+            icon_color=tool_entry['icon_color'])
+
+        for language in cfg.supported_languages:
+            tool.translations.append(db.ToolText(
+                lang_id=language,
+                name=get_translated(tool_entry, 'name', language),
+                name_base=get_translated(tool_entry, 'name_base', language),
+                description=get_translated(tool_entry, 'description', language)
+            ))
+
+        session.add(tool)
+    
+    print("Built Tools")
 
 def build_quests(session : sqlalchemy.orm.Session, mhdata, item_tracker: ItemTracker):
     for order_id, entry in enumerate(mhdata.quest_map.values()):

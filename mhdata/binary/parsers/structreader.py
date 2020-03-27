@@ -2,7 +2,7 @@ from collections.abc import Sequence
 import struct
 import inspect
 import copy
-from typing import get_type_hints
+from typing import get_type_hints, Type
 
 import mhw_armor_edit.ftypes as ft
 
@@ -170,11 +170,11 @@ class AnnotatedStruct(Readable):
             for attr in self.fields
         )
 
-def read_struct(data, struct_type):
+def read_struct(data, struct_type: Type[Readable]):
     "Creates a new struct reader and reads that struct, and only that struct, from the binary data"
     return StructReader(data).read_struct(struct_type)
 
-def read_struct_from_file(path, struct_type):
+def read_struct_from_file(path, struct_type: Type[Readable]):
     "Creates a new struct reader and reads that struct, and only that struct, from that file"
     with open(path, 'rb') as f:
         return read_struct(f.read(), struct_type)

@@ -1,6 +1,7 @@
 from typing import Type, Mapping, Iterable, Tuple
 from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g
 from mhw_armor_edit.ftypes.ext import rod_inse
+from ..parsers import ask
 
 from mhdata import cfg
 from mhdata.util import Sharpness
@@ -443,3 +444,31 @@ class ArmorCollection():
         self.charms = list(charm_map.values())
         self.charms.sort(key=lambda c: c.parent.order if c.parent else c.order)
         self.armor = { aset.name['en']:aset for aset in armor_sets }
+
+class Tool:
+    def __init__(self, id, name, name_upgraded, description, slots: Iterable[int]):
+        self.name = name
+        self.name_upgraded = name_upgraded
+        self.description = description
+
+        self.slots = [0] * 3
+        for i, v in enumerate(slots):
+            self.slots[i] = v
+
+class ToolCollection:
+    tools: Iterable[Tool]
+    def __init__(self):
+        tool_text = load_text("common/text/vfont/a_skill")
+        
+        self.tools = []
+        for idx, entry in enumerate(load_schema(ask.Ask, 'common/equip/a_skill.ask').entries):
+            self.tools.append(Tool(
+                id=idx,
+                name=tool_text.indexed_entries[idx * 4],
+                name_upgraded=tool_text.indexed_entries[idx * 4 + 3],
+                description=tool_text.indexed_entries[idx * 4 + 1],
+                slots=entry.slots
+            ))
+
+    def __iter__(self):
+        yield from self.tools
