@@ -105,6 +105,7 @@ def load_data():
     # Load weapon hunting horn songs
     result.weapon_melodies = (DataStitcher(reader, dir="weapons")
                     .base_csv("weapon_melody_base.csv")
+                    .translate('weapon_melody_base_translations.csv')
                     .add_csv("weapon_melody_notes.csv", key='notes')
                     .get(schema=schema.WeaponMelodySchema()))
 

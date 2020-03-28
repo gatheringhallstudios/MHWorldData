@@ -498,6 +498,8 @@ def update_weapon_songs(mhdata):
     writer.save_base_map_csv(
         "weapons/weapon_melody_base.csv",
         mhdata.weapon_melodies,
+        translation_filename="weapons/weapon_melody_base_translations.csv",
+        translation_extra=['effect1', 'effect2'],
         schema=schema.WeaponMelodyBaseSchema()
     )
 

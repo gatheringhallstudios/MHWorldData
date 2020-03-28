@@ -591,6 +591,7 @@ class WeaponMelodyText(Base):
     __tablename__ = 'weapon_melody_text'
     id = Column(Integer, ForeignKey('weapon_melody.id'), primary_key=True)
     lang_id = Column(Text, ForeignKey('language.id'), primary_key=True)
+    name = Column(Text)
     effect1 = Column(Text)
     effect2 = Column(Text)
 

@@ -534,6 +534,7 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             for language in cfg.supported_languages:
                 melody.translations.append(db.WeaponMelodyText(
                     lang_id=language,
+                    name=get_translated(melody_entry, 'name', language),
                     effect1=get_translated(melody_entry, 'effect1', language),
                     effect2=get_translated(melody_entry, 'effect2', language)
                 ))

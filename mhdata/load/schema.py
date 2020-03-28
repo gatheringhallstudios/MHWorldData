@@ -378,13 +378,13 @@ class WeaponAmmoSchema(BaseSchema):
     tranq = AmmoGroup()
 
 class WeaponMelodyBaseSchema(BaseSchema):
-    __translation_groups__ = ('name', 'effect1', 'effect2')
+    __groups__ = ('name', 'effect1', 'effect2')
     id = fields.Int()
-    duration = fields.String()
-    extension = fields.String()
     name = fields.Dict()
     effect1 = fields.Dict()
     effect2 = fields.Dict()
+    duration = fields.String()
+    extension = fields.String()
 
 class WeaponMelodySchema(WeaponMelodyBaseSchema):
     notes = fields.Nested("WeaponMelodyNotesSchema", many=True)
