@@ -581,11 +581,20 @@ class WeaponAmmo(Base):
 class WeaponMelody(Base):
     __tablename__ = 'weapon_melody'
     id = Column(Integer, primary_key=True)
-    notes = Column(Text)
-    duration = Column(Text)
-    extension = Column(Text)
+    base_duration = Column(Integer)
+    base_extension = Column(Integer)
+    m1_duration = Column(Integer)
+    m1_extension = Column(Integer)
+    m2_duration = Column(Integer)
+    m2_extension = Column(Integer)
     
+    notes = relationship('WeaponMelodyNotes')
     translations = relationship('WeaponMelodyText')
+
+class WeaponMelodyNotes(Base):
+    __tablename__ = 'weapon_melody_notes'
+    id = Column(Integer, ForeignKey('weapon_melody.id'), primary_key=True)
+    notes = Column(Text, primary_key=True)
 
 class WeaponMelodyText(Base):
     __tablename__ = 'weapon_melody_text'

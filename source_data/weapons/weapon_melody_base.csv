@@ -1,51 +1,51 @@
-id,name_en,duration,extension
-0,Self-improvement,180(240),+90(+120)
-1,Attack Up (S),120(150),+60(+90)
-2,Attack Up (L),90(120),+30(+60)
-3,Health Boost (S),180(240),+120(+180)
-4,Health Boost (L),180(240),+120(+180)
-5,Stamina Use Reduced (S),90(120),+30(+60)
-6,Stamina Use Reduced (L),120(150),+60(+90)
-7,Wind Pressure Negated,180(240),+90(+120)
-8,All Wind Pressure Negated,180(240),+90(+120)
-9,Defense Up (S),120(150),+60(+90)
-10,Defense Up (L),90(120),+60(+90)
-11,Tool Use Drain Reduced (S),30(60),+30(+60)
-12,Tool Use Drain Reduced (L),60(90),+60(+90)
-13,Health Rec. (S),N/A,N/A
-14,Health Rec. (L),N/A,N/A
-15,Health Rec. (S) + Antidote,N/A,N/A
-16,Health Rec. (M) + Antidote,N/A,N/A
-18,Recovery Speed (S),120(180),+120(+150)
-19,Recovery Speed (L),120(180),+120(+150)
-20,Earplugs (S),180(210),+120(+150)
-21,Earplugs (L),180(210),+120(+150)
-22,Divine Protection,120(150),+90(+120)
-23,Scoutfly Power Up,180(240),+180(+240)
-24,Envir. Damage Negated,120(180),+120(+180)
-25,Stun Negated,180(210),+120(+180)
-26,Paralysis Negated,180(210),+120(+180)
-27,Tremors Negated,180(210),+180(+210)
-28,Muck Res,180(240),+180(+240)
-29,Fire Res Boost (S),120(180),+120(+180)
-30,Fire Res Boost (L),120(180),+120(+180)
-31,Water Res Boost (S),120(180),+120(+180)
-32,Water Res Boost (L),120(180),+120(+180)
-33,Thunder Res Boost (S),120(180),+120(+180)
-34,Thunder Res Boost (L),120(180),+120(+180)
-35,Ice Res Boost (S),120(180),+120(+180)
-36,Ice Res Boost (L),120(180),+120(+180)
-37,Dragon Res Boost (S),120(180),+120(+180)
-38,Dragon Res Boost (L),120(180),+120(+180)
-39,Elemental Attack Boost,120(150),+90(+120)
-40,Blight Negated,120(150),+120(+150)
-41,Sonic Waves,N/A,N/A
-42,All Melody Effects Extended,N/A,N/A
-43,Knockbacks Negated,45(60),+25(+40)
-44,Attack and Defense Up (S),120(150),+60(+90)
-45,Blight Res Up,90(120),+120(+150)
-46,Affinity Up and Health Rec. (S),120(150),+60(+90)
-47,All Ailments Negated,120(150),+60(+90)
-48,Earplugs (S) / Wind Pressure Negated,180(210),+90(+150)
-49,Abnormal Status Atk. Increased,90(120),+60(+90)
-50,Health Recovery (M),N/A,N/A
+id,name_en,base_duration,base_extension,m1_duration,m1_extension,m2_duration,m2_extension
+0,Self-improvement,180,90,240,120,300,150
+1,Attack Up (S),120,60,150,90,180,120
+2,Attack Up (L),90,30,120,60,150,90
+3,Health Boost (S),180,120,240,180,300,240
+4,Health Boost (L),180,120,240,180,300,240
+5,Stamina Use Reduced (S),90,30,120,60,150,90
+6,Stamina Use Reduced (L),120,60,150,90,180,120
+7,Wind Pressure Negated,180,90,240,120,300,150
+8,All Wind Pressure Negated,180,90,240,120,300,150
+9,Defense Up (S),120,60,150,90,180,120
+10,Defense Up (L),90,60,120,90,150,120
+11,Tool Use Drain Reduced (S),30,30,60,60,90,90
+12,Tool Use Drain Reduced (L),60,60,90,90,120,120
+13,Health Rec. (S),,,,,,
+14,Health Rec. (L),,,,,,
+15,Health Rec. (S) + Antidote,,,,,,
+16,Health Rec. (M) + Antidote,,,,,,
+18,Recovery Speed (S),120,120,180,150,240,180
+19,Recovery Speed (L),120,120,180,150,240,180
+20,Earplugs (S),180,120,210,150,240,180
+21,Earplugs (L),180,120,210,150,240,180
+22,Divine Protection,120,90,150,120,180,150
+23,Scoutfly Power Up,180,180,240,240,300,300
+24,Envir. Damage Negated,120,120,180,180,240,240
+25,Stun Negated,180,120,210,180,240,240
+26,Paralysis Negated,180,120,210,180,240,240
+27,Tremors Negated,180,180,210,210,240,240
+28,Muck Res,,,,,,
+29,Fire Res Boost (S),120,120,180,180,240,240
+30,Fire Res Boost (L),120,120,180,180,240,240
+31,Water Res Boost (S),120,120,180,180,240,240
+32,Water Res Boost (L),120,120,180,180,240,240
+33,Thunder Res Boost (S),120,120,180,180,240,240
+34,Thunder Res Boost (L),120,120,180,180,240,240
+35,Ice Res Boost (S),120,120,180,180,240,240
+36,Ice Res Boost (L),120,120,180,180,240,240
+37,Dragon Res Boost (S),120,120,180,180,240,240
+38,Dragon Res Boost (L),120,120,180,180,240,240
+39,Elemental Attack Boost,120,90,150,120,180,150
+40,Blight Negated,120,120,150,150,180,180
+41,Sonic Waves,,,,,,
+42,All Melody Effects Extended,,,,,,
+43,Knockbacks Negated,45,30,60,45,75,60
+44,Attack and Defense Up (S),,,,,,
+45,Blight Res Up,90,120,120,150,150,180
+46,Affinity Up and Health Rec. (S),120,60,150,90,180,120
+47,All Ailments Negated,120,60,150,90,180,120
+48,Earplugs (S) / Wind Pressure Negated,,,,,,
+49,Abnormal Status Atk. Increased,90,60,120,90,150,120
+50,Health Recovery (M),,,,,,

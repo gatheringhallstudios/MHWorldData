@@ -519,27 +519,30 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
         session.add(ammo)
 
     # Save all weapon melodies
-    # The SQL format was for an older format where the same melody linked to multiple notes.
-    # A refactor will be required at some point to separate melody and the notes to play said melody.
-    # However, that is a breaking change, so we show a warning for now.
-    print("Warning: Weapon Melody SQL format will change in future updates")
     for melody_entry in mhdata.weapon_melodies.values():
-        for note_entry in melody_entry['notes']:  
-            melody = db.WeaponMelody(
-                notes=note_entry['notes'],
-                duration=melody_entry['duration'],
-                extension=melody_entry['extension']
-            )
+        melody = db.WeaponMelody(
+            base_duration=melody_entry['base_duration'],
+            base_extension=melody_entry['base_extension'],
+            m1_duration=melody_entry['m1_duration'],
+            m1_extension=melody_entry['m1_extension'],
+            m2_duration=melody_entry['m2_duration'],
+            m2_extension=melody_entry['m2_extension']
+        )
 
-            for language in cfg.supported_languages:
-                melody.translations.append(db.WeaponMelodyText(
-                    lang_id=language,
-                    name=get_translated(melody_entry, 'name', language),
-                    effect1=get_translated(melody_entry, 'effect1', language),
-                    effect2=get_translated(melody_entry, 'effect2', language)
-                ))
+        for language in cfg.supported_languages:
+            melody.translations.append(db.WeaponMelodyText(
+                lang_id=language,
+                name=get_translated(melody_entry, 'name', language),
+                effect1=get_translated(melody_entry, 'effect1', language),
+                effect2=get_translated(melody_entry, 'effect2', language)
+            ))
 
-            session.add(melody)
+        for note_entry in melody_entry['notes']:
+            melody.notes.append(db.WeaponMelodyNotes(
+                notes=note_entry['notes']
+            ))
+
+        session.add(melody)
 
     # Prepass to determine which weapons are "final"
     # All items that are a previous to another are "not final"

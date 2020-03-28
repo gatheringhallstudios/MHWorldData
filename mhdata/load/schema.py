@@ -377,14 +377,20 @@ class WeaponAmmoSchema(BaseSchema):
     armor = AmmoGroup()
     tranq = AmmoGroup()
 
+class MelodyLength(BaseSchema):
+    duration = fields.Int(allow_none=True)
+    extension = fields.Int(allow_none=True)
+
 class WeaponMelodyBaseSchema(BaseSchema):
     __groups__ = ('name', 'effect1', 'effect2')
     id = fields.Int()
     name = fields.Dict()
     effect1 = fields.Dict()
     effect2 = fields.Dict()
-    duration = fields.String()
-    extension = fields.String()
+    
+    base = NestedPrefix('MelodyLength')
+    m1 = NestedPrefix('MelodyLength')
+    m2 = NestedPrefix('MelodyLength')
 
 class WeaponMelodySchema(WeaponMelodyBaseSchema):
     notes = fields.Nested("WeaponMelodyNotesSchema", many=True)

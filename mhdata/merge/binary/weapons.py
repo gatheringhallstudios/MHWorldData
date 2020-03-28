@@ -492,6 +492,11 @@ def update_weapon_songs(mhdata):
         melody['effect2'] = data.effect2 or effect_none
         melody['notes'] = [{'notes': notes} for notes in data.notes]
         
+        melody_length_convert = lambda mlength: { 'duration': mlength.duration or None, 'extension': mlength.extension  or None }
+        melody['base'] = melody_length_convert(data.base)
+        melody['m1'] = melody_length_convert(data.maestro1)
+        melody['m2'] = melody_length_convert(data.maestro2)
+        
     # Write new data
     writer = create_writer()
 

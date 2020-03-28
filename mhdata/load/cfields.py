@@ -3,7 +3,7 @@ Custom fields used by the marshmallow schema
 """
 
 import collections
-from marshmallow import fields, ValidationError, Schema, pre_load, post_dump
+from marshmallow import fields, ValidationError, Schema, pre_load, post_dump, pre_dump
 
 from mhdata.util import group_fields, ungroup_fields
 from mhdata import cfg
@@ -55,25 +55,30 @@ class NestedPrefix(fields.Nested):
 class BaseSchema(Schema):
     "Base class for all schemas in this project"
     __groups__ = ()
-    __translation_groups__ = ()
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._saved_prefixes = None
+
     class Meta:
         ordered = True
 
     def identify_prefixes(self):
         "Identifies all potential prefixes by examining the fields"
-        # note: could be made more efficient via caching? See if there is a way to dirty check fields
-        prefixes = []
-        for name, field in self.fields.items():
-            if isinstance(field, NestedPrefix):
-                prefixes.append(field.prefix or name)
-        return prefixes
+        if not self._saved_prefixes:
+            # note: could be made more efficient via caching? See if there is a way to dirty check fields
+            prefixes = []
+            for name, field in self.fields.items():
+                if isinstance(field, NestedPrefix):
+                    prefixes.append(field.prefix or name)
+            self._saved_prefixes = prefixes
+        return self._saved_prefixes
 
     @pre_load
     def group_fields(self, data):
         if not isinstance(data, collections.Mapping):
             raise TypeError("Invalid data type, perhaps you forgot many=true?")
         groups = (list(self.__groups__ or [])
-                    + list(self.__translation_groups__ or [])
                     + self.identify_prefixes())
         return group_fields(data, groups=groups)
 
@@ -81,21 +86,4 @@ class BaseSchema(Schema):
     def ungroup_fields(self, data):
         groups = list(self.__groups__ or []) + self.identify_prefixes()
         result = ungroup_fields(data, groups=groups)
-
-        # Now weave the translation fields at the end
-        translation_groups = list(self.__translation_groups__ or [])
-        for lang in cfg.all_languages:
-            for field in translation_groups:
-                try:
-                    field_value = result[field]
-                except KeyError:
-                    raise KeyError(f'No schema entry for {field}. If the field is exported separately, use __groups__ instead')
-                
-                try:
-                    result[f"{field}_{lang}"] = field_value[lang]
-                except KeyError:
-                    raise KeyError(f'No language entry {lang} for field {field}')
-        for field in translation_groups:
-            del result[field]
-                
         return result
