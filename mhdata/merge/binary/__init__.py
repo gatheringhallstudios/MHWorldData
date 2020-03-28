@@ -40,7 +40,7 @@ def update_all():
     update_weapons(mhdata, item_updater)
     update_decorations(mhdata, item_data)
     update_tools(mhdata)
-    #update_weapon_songs(mhdata)
+    update_weapon_songs(mhdata)
     #update_kinsects(mhdata, item_updater)
     update_quests(mhdata, item_updater, monster_data, area_map)
     

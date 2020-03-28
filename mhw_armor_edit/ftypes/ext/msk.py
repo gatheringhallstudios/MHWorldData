@@ -11,5 +11,5 @@ class MskEntry(Struct):
 
 class Msk(StructFile):
     "Hunting Horn melody file"
-    MAGIC = 0x0146
+    MAGIC = 0x7001
     EntryFactory = MskEntry

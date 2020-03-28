@@ -4,11 +4,12 @@ from mhdata.io import create_writer, DataMap
 from mhdata.load import schema, datafn
 
 from mhw_armor_edit.ftypes import wp_dat, wp_dat_g, wep_wsl, sh_tbl, bbtbl
-from mhw_armor_edit.ftypes.ext import msk
+from mhdata.binary.parsers.msk import note_colors
 
-from mhdata.binary.load import load_schema, load_text, \
-                    SkillTextHandler, SharpnessDataReader, \
-                    WeaponDataLoader, load_kinsect_tree
+from mhdata.binary import load_schema, load_text, get_chunk_root
+from mhdata.binary import WeaponMelody, WeaponMelodyCollection
+from mhdata.binary.load import SkillTextHandler, SharpnessDataReader, \
+                                WeaponDataLoader, load_kinsect_tree
 from .items import ItemUpdater
 from .util import convert_recipe
 
@@ -63,9 +64,6 @@ s_axe_phials = {
 
 # wep1_id to glaive boost type mapping
 glaive_boosts = ['sever', 'blunt', 'element', 'speed', 'stamina', 'health', 'spirit_strength', 'stamina_health']
-
-# Note index to color mapping
-note_colors = ['P', 'R', 'O', 'Y', 'G', 'B', 'C', 'W']
 
 #deviation = ["None", "Low", "Average", "High"]
 deviation = ["0", "1", "2", "3", "4", "5", "6"]
@@ -461,54 +459,39 @@ def update_weapon_songs(mhdata):
     # We know where the text file is, and we know of the id -> notes linking.
     
     print("Beginning load of hunting horn melodies")
-    print("Warning: Hunting Horn format is unknown, but we do have a few pieces...")
-    print("We know where the text data, and we know the id -> notes file formats")
-    print("Everything else has to be manually connected.")
-    song_data = load_schema(msk.Msk, 'hm/wp/wp05/music_skill.msk')
-    song_text_data = load_text("common/text/vfont/music_skill")
-
-    # Mapping from english name -> a name dict
-    melody_names_map = {v['en']:v for v in song_text_data.values()}
+    song_data = WeaponMelodyCollection()
 
     print("Writing artifact files for melody english text entries")
-    artifacts.write_names_artifact("melody_strings_en.txt", melody_names_map.keys())
+    artifacts.write_names_artifact("melody_strings_en.txt", [v.name['en'] for v in song_data])
 
     # adding NA to melody_names_map
-    melody_names_map['N/A'] = { lang:'N/A' for lang in cfg.all_languages }
+    effect_none = { lang:'N/A' for lang in cfg.all_languages }
 
-    # Create melody id -> all possible songs that apply that melody
+    # Create artifact of song data melody id -> all possible songs that apply that melody
     melody_note_artifacts = []
-    melody_to_notes = {}
-    for song_entry in song_data:
-        notes = ''
-        for i in range(4):
-            note_idx = getattr(song_entry, f'note{i+1}')
-            if note_idx < len(note_colors): # technically int max means note does not exist
-                notes += note_colors[note_idx]
+    for song in song_data:
+        if not song.notes:
+            melody_note_artifacts.append(f'{song.id},{song.name["en"]},NONE')
+        for notes in song.notes:
+            melody_note_artifacts.append(f'{song.id},{song.name["en"]},{notes}')
 
-        # write a note of id -> notes for the artifacts 
-        melody_note_artifacts.append(f'{song_entry.id},{notes}')
-        melody_to_notes.setdefault(song_entry.id, [])
-        melody_to_notes[song_entry.id].append(notes)
-
-    print("Writing artifact files for id -> notes")
+    print("Writing artifact files HH melodies")
     artifacts.write_lines_artifact("melody_notes.txt", melody_note_artifacts)
 
     print("Merging text values and notes into weapon melodies")
     fields = ['name', 'effect1', 'effect2']
     for melody in mhdata.weapon_melodies.values():
-        for field in fields:
-            val_en = melody[field]['en']
-            if val_en not in melody_names_map:
-                print(f"Could not find GMD text entry for {val_en}")
-                continue
-            melody[field] = melody_names_map[val_en]
-
-        if melody.id in melody_to_notes:
-            melody['notes'] = [{'notes': notes} for notes in melody_to_notes[melody.id]]
-        else:
+        try:
+            data = song_data.by_name(melody['name_en'])
+        except KeyError:
             print("Could not find binary music notes entries for " + melody['name']['en'])
+            continue
 
+        melody['name'] = data.name
+        melody['effect1'] = data.effect1
+        melody['effect2'] = data.effect2 or effect_none
+        melody['notes'] = [{'notes': notes} for notes in data.notes]
+        
     # Write new data
     writer = create_writer()
 

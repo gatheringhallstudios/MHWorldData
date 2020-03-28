@@ -7,10 +7,6 @@ from typing import get_type_hints, Type
 import mhw_armor_edit.ftypes as ft
 
 class Readable:
-    def __init__(self):
-        self._initialized = False
-        self._value = None
-
     def read(self, reader: 'StructReader'):
         raise Exception("Read not implemented")
 
@@ -119,12 +115,16 @@ class blist(Readable):
         return results
 
 class DynamicList(Readable):
-    def __init__(self, base):
+    def __init__(self, base, *, count_type=uint):
         self.base = base
+        self.count_type = count_type
     
     def read(self, reader: StructReader):
-        count = reader.read_struct(uint())
-        return [reader.read_struct(self.base) for _ in range(count)]
+        try:
+            count = reader.read_struct(self.count_type())
+            return [reader.read_struct(self.base) for _ in range(count)]
+        except Exception as ex:
+            raise Exception(f"Failed to read list with {count} entries") from ex
 
 class AnnotatedStruct(Readable):
     """
