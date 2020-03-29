@@ -48,7 +48,7 @@ Stun Negated,CBP
 Paralysis Negated,CYW
 Paralysis Negated,CYP
 Tremors Negated,CCY
-Muck Res,CRC
+Muck/Water/Deep Snow Res,CRC
 Fire Res Boost (S),YRW
 Fire Res Boost (L),YRP
 Water Res Boost (S),YCW
@@ -74,3 +74,9 @@ All Ailments Negated,CPOO
 Earplugs (S) / Wind Pressure Negated,PYOY
 Abnormal Status Atk. Increased,COOP
 Health Recovery (M),GWCG
+Impact Echo Wave,ER
+"Echo Wave ""Dragon""",EO
+Max Stamina Up + Recovery,EB
+Extended Health Recovery,EG
+Speed Boost + Evade Window Up,EC
+Elemental Effectiveness Up,EY

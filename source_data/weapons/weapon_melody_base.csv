@@ -26,7 +26,7 @@ id,name_en,base_duration,base_extension,m1_duration,m1_extension,m2_duration,m2_
 25,Stun Negated,180,120,210,180,240,240
 26,Paralysis Negated,180,120,210,180,240,240
 27,Tremors Negated,180,180,210,210,240,240
-28,Muck Res,,,,,,
+28,Muck/Water/Deep Snow Res,180,180,240,240,300,300
 29,Fire Res Boost (S),120,120,180,180,240,240
 30,Fire Res Boost (L),120,120,180,180,240,240
 31,Water Res Boost (S),120,120,180,180,240,240
@@ -49,3 +49,9 @@ id,name_en,base_duration,base_extension,m1_duration,m1_extension,m2_duration,m2_
 48,Earplugs (S) / Wind Pressure Negated,,,,,,
 49,Abnormal Status Atk. Increased,90,60,120,90,150,120
 50,Health Recovery (M),,,,,,
+51,Impact Echo Wave,,,,,,
+52,"Echo Wave ""Dragon""",,,,,,
+53,Max Stamina Up + Recovery,180,,240,,300,
+54,Extended Health Recovery,60,,90,,120,
+55,Speed Boost + Evade Window Up,90,,180,,270,
+56,Elemental Effectiveness Up,180,,240,,300,
