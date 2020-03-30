@@ -20,6 +20,11 @@ def repair():
     pass
 
 @repair.command()
+def rewards():
+    "Reorders monster rewards to match a new data ordering"
+    repair_functions.repair_rewards()
+
+@repair.command()
 def skills():
     "Reorders skill level details to match the base's data ordering"
     repair_functions.repair_skill_data()

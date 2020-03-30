@@ -2,22 +2,6 @@ name_en,name_ja
 Track,痕跡採取
 Body Carve,本体剥ぎ取り
 Carve / Capture,
-Shiny Drop,落とし物
-Tail Carve,尻尾剥ぎ取り
-Head Shell Carve,
-Horn Carve,
-Gold Plating Carved,
-Red Crystal Mining / Shiny,
-Body Mining,
-Back Mining,
-Quest Reward (Bronze),クエスト報酬／銅枠
-Investigation (Bronze),
-Investigation (Silver),調査特別報酬・銀
-Investigation (Gold),調査特別報酬・金
-Quest Reward,
-Palico Bonus,落っことし
-Plunderblade,ぶんどり
-Siege Reward (Fury),
 Break Horn,
 Break Horns,
 Wound Head,
@@ -38,6 +22,20 @@ Wound Chest,
 Wound Chest Shell,
 Wound Legs,
 Wound Tail,
+Shiny Drop,落とし物
+Tail Carve,尻尾剥ぎ取り
+Head Shell Carve,
+Horn Carve,
+Gold Plating Carved,
+Red Crystal Mining / Shiny,
+Back Mining,
+Siege Reward (Fury),
+Palico Bonus,落っことし
+Plunderblade,ぶんどり
+Bandit Mantle,
+Hunt (Bronze),クエスト報酬／銅枠
+Investigation (Silver),調査特別報酬・銀
+Investigation (Gold),調査特別報酬・金
 Appraisal (Bronze),
 Appraisal (Silver),
 Appraisal (Gold),

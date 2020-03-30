@@ -1,51 +1,62 @@
 from os.path import abspath, join, dirname
+from operator import itemgetter
+from itertools import groupby
 
-from mhdata.io import DataMap, DataReaderWriter
+from mhdata import cfg
+from mhdata.io import DataMap, DataReaderWriter, create_writer
 from mhdata.io.csv import save_csv
-from mhdata.load import load_data, cfg, schema
+from mhdata.load import load_data, schema
 
-writer = DataReaderWriter(
-    required_languages=cfg.required_languages,
-    languages=cfg.supported_languages, 
-    data_path=join(dirname(abspath(__file__)), '../../source_data/')
-)
+writer = create_writer()
 
-# Implementation commented out due to new structure
-# uncomment it and remake it once we want to resort rewards.
-# def repair_rewards():
-#     data = load_data()
-    
-#     for monster_id, monster_entry in data.monster_map.items():
-#         # If there are no rewards, skip
-#         if 'rewards' not in monster_entry:
-#             continue
+def repair_rewards():
+    data = load_data()
 
-#         old_rewards = monster_entry['rewards']
+    for monster_id, monster_entry in data.monster_map.items():
+        # If there are no rewards, skip
+        if 'rewards' not in monster_entry:
+            continue
 
-#         # Store all conditions for the monster here. 
-#         # Any still here at the end print a warning
-#         all_conditions = set(old_rewards.keys())
+        rewards_per_rank = [[] for x in range(len(cfg.supported_ranks))]
 
-#         # add all results to this phase here
-#         new_rewards = {}
+        # split into ranks first
+        for idx, rank in enumerate(cfg.supported_ranks):
+            for reward in monster_entry['rewards']:
+                if reward['rank'].lower() == rank.lower():
+                    rewards_per_rank[idx].append(reward)
+        
+        if sum(len(r) for r in rewards_per_rank) != len(monster_entry['rewards']):
+            raise Exception("Not all rewards successfully split, some may not belong to the right rank")
 
-#         # now iterate on the conditions map. We're trying to match the order
-#         for condition_en in data.monster_reward_conditions_map.names('en'):
-#             if condition_en not in old_rewards.keys():
-#                 continue
-#             new_rewards[condition_en] = old_rewards[condition_en]
-#             all_conditions.remove(condition_en)
+        for idx, rewards in enumerate(rewards_per_rank):
+            grouped_conditions = {}
+            for r in rewards:
+                grouped_conditions.setdefault(r['condition_en'], []).append(r)
+            
+            new_rewards = []
+            for condition_entry in data.monster_reward_conditions_map.values():
+                condition = condition_entry['name_en']
+                if condition not in grouped_conditions:
+                    continue
+                grouped_conditions[condition].sort(key=lambda r: r['percentage'] or 0, reverse=True)
+                new_rewards.extend(grouped_conditions[condition])
+                del grouped_conditions[condition]
 
-#         # Now add up all missing entries and show warnings
-#         for condition_en in all_conditions:
-#             new_rewards[condition_en] = old_rewards[condition_en]
-#             print(f"WARNING: {condition_en} in monster {monster_entry.name('en')} is an invalid entry")
+            for condition, entries in grouped_conditions.items():
+                print(f"ERROR: condition {condition} should not exist")
+                new_rewards.extend(entries)
 
-#         monster_entry['rewards'] = new_rewards
+            rewards_per_rank[idx] = new_rewards
 
-#     # Now save the output. The actual monsters will be reordered by this operation
-#     writer.save_data_map('monsters/monster_rewards.json', data.monster_map, fields=['rewards'])
-#     print("Repair complete")
+        monster_entry['rewards'] = sum(rewards_per_rank, [])
+
+    # Now save the output. The actual monsters will be reordered by this operation
+    writer.save_data_csv(
+        "monsters/monster_rewards.csv",
+        data.monster_map,
+        key="rewards",
+        schema=schema.MonsterReward())
+    print("Repair complete")
 
 def repair_skill_data():
     "Reorganizes skill data ordering to match base map"

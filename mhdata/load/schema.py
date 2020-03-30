@@ -90,8 +90,9 @@ class MonsterHitzone(BaseSchema):
     ko = fields.Int()
 
 class MonsterReward(BaseSchema):
-    condition_en = fields.Str()
+    base_name_en = fields.Str()
     rank = ValidatedStr(*cfg.supported_ranks)
+    condition_en = fields.Str()
     item_en = fields.Str()
     stack = fields.Int()
     percentage = fields.Int(allow_none=True)

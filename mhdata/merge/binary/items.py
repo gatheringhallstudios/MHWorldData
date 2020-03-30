@@ -162,6 +162,9 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
     # Write out artifact data
     print("Writing unlinked item names to artifacts")
     artifacts.write_names_artifact('items_unlinked.txt', unlinked_item_names)
+    print("Writing all items and ids")
+    artifact_data = [{'id': i.id, 'name': i.name['en']} for i in item_updater.data]
+    artifacts.write_dicts_artifact('items_ids.csv', artifact_data)
 
     print("Item files updated")
 
