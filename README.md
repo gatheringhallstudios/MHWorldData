@@ -74,6 +74,7 @@ The data collected by this project is an accumulation of various sources, includ
 - [fresch's mhw_armor_edit](https://github.com/fre-sch/mhw_armor_edit)
 - [Decoration Drop Rates (by Asterisk)](https://docs.google.com/spreadsheets/d/1u9coasn-zyrBHKjcYedawr1A_bzPgrhjqMx6cMeqk_c/edit#gid=0)
 - [Kiranico](https://mhworld.kiranico.com/)
+- [Poedb](https://mhw.poedb.tw/eng/)
 - [MHWG](http://mhwg.org/)
 - [LartTyler's API](https://github.com/LartTyler/MHWDB-Docs/wiki)
 

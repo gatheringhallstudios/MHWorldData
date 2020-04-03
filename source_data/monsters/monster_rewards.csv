@@ -181,7 +181,8 @@ Great Jagras,LR,Palico Bonus,Wyvern Tear,1,22
 Great Jagras,LR,Plunderblade,Great Jagras Scale,1,43
 Great Jagras,LR,Plunderblade,Great Jagras Hide,1,35
 Great Jagras,LR,Plunderblade,Great Jagras Mane,1,22
-Great Jagras,LR,Hunt (Bronze),Great Jagras Hide,1,100
+Great Jagras,LR,Bandit Mantle,Chipped Scale,1,70
+Great Jagras,LR,Bandit Mantle,Large Scale,1,30
 Great Jagras,LR,Hunt (Bronze),Great Jagras Hide,1,32
 Great Jagras,LR,Hunt (Bronze),Great Jagras Scale,1,23
 Great Jagras,LR,Hunt (Bronze),Great Jagras Mane,1,16
@@ -214,7 +215,8 @@ Great Jagras,HR,Palico Bonus,Wyvern Tear,1,22
 Great Jagras,HR,Plunderblade,Great Jagras Scale+,1,43
 Great Jagras,HR,Plunderblade,Great Jagras Hide+,1,35
 Great Jagras,HR,Plunderblade,Great Jagras Mane,1,22
-Great Jagras,HR,Hunt (Bronze),Great Jagras Scale+,1,100
+Great Jagras,HR,Bandit Mantle,Large Scale,1,70
+Great Jagras,HR,Bandit Mantle,Beautiful Scale,1,30
 Great Jagras,HR,Hunt (Bronze),Great Jagras Hide+,1,32
 Great Jagras,HR,Hunt (Bronze),Great Jagras Scale+,1,23
 Great Jagras,HR,Hunt (Bronze),Monster Bone+,1,20
@@ -228,6 +230,44 @@ Great Jagras,HR,Investigation (Gold),Great Jagras Claw+,1,64
 Great Jagras,HR,Investigation (Gold),Great Jagras Hide+,3,14
 Great Jagras,HR,Investigation (Gold),Great Jagras Mane,3,12
 Great Jagras,HR,Investigation (Gold),Great Jagras Scale+,3,10
+Great Jagras,MR,Track,Great Jagras Shard,1,100
+Great Jagras,MR,Carve / Capture,Great Jagras Shard,1,36
+Great Jagras,MR,Carve / Capture,Great Jagras Thickhide,1,28
+Great Jagras,MR,Carve / Capture,Great Jagras Hardclaw,1,21
+Great Jagras,MR,Carve / Capture,Great Jagras Mane+,1,15
+Great Jagras,MR,Wound Head,Great Jagras Mane+,1,100
+Great Jagras,MR,Wound Forelegs,Great Jagras Hardclaw,1,100
+Great Jagras,MR,Wound Belly,Great Jagras Thickhide,2,100
+Great Jagras,MR,Shiny Drop,Great Jagras Shard,1,50
+Great Jagras,MR,Shiny Drop,Great Jagras Hardclaw,1,28
+Great Jagras,MR,Shiny Drop,Large Wyvern Tear,1,22
+Great Jagras,MR,Palico Bonus,Great Jagras Shard,1,50
+Great Jagras,MR,Palico Bonus,Great Jagras Hardclaw,1,28
+Great Jagras,MR,Palico Bonus,Large Wyvern Tear,1,22
+Great Jagras,MR,Plunderblade,Great Jagras Shard,1,43
+Great Jagras,MR,Plunderblade,Great Jagras Thickhide,1,35
+Great Jagras,MR,Plunderblade,Great Jagras Mane+,1,22
+Great Jagras,MR,Bandit Mantle,Beautiful Scale,1,70
+Great Jagras,MR,Bandit Mantle,Lustrous Scale,1,30
+Great Jagras,MR,Hunt (Bronze),Great Jagras Thickhide,1,32
+Great Jagras,MR,Hunt (Bronze),Great Jagras Shard,1,23
+Great Jagras,MR,Hunt (Bronze),Monster Toughbone,1,20
+Great Jagras,MR,Hunt (Bronze),Great Jagras Mane+,1,16
+Great Jagras,MR,Hunt (Bronze),Great Jagras Hardclaw,1,9
+Great Jagras,MR,Investigation (Silver),Great Jagras Mane+,1,30
+Great Jagras,MR,Investigation (Silver),Great Jagras Thickhide,2,25
+Great Jagras,MR,Investigation (Silver),Great Jagras Hardclaw,1,25
+Great Jagras,MR,Investigation (Silver),Great Jagras Shard,2,20
+Great Jagras,MR,Investigation (Gold),Great Jagras Mane+,1,40
+Great Jagras,MR,Investigation (Gold),Great Jagras Hardclaw,1,30
+Great Jagras,MR,Investigation (Gold),Great Jagras Thickhide,3,16
+Great Jagras,MR,Investigation (Gold),Great Jagras Shard,3,14
+Great Jagras,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Great Jagras,MR,Guiding Lands (Low),Rugged Mane,1,37
+Great Jagras,MR,Guiding Lands (Mid),Rugged Mane,1,63
+Great Jagras,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Great Jagras,MR,Guiding Lands (High),Rugged Mane,1,100
+Great Jagras,MR,Guiding Lands (Tempered),Rugged Mane,1,100
 Kulu-Ya-Ku,LR,Track,Kulu-Ya-Ku Scale,1,100
 Kulu-Ya-Ku,LR,Carve / Capture,Kulu-Ya-Ku Scale,1,36
 Kulu-Ya-Ku,LR,Carve / Capture,Kulu-Ya-Ku Hide,1,28
@@ -244,7 +284,8 @@ Kulu-Ya-Ku,LR,Palico Bonus,Wyvern Tear,1,22
 Kulu-Ya-Ku,LR,Plunderblade,Kulu-Ya-Ku Scale,1,43
 Kulu-Ya-Ku,LR,Plunderblade,Kulu-Ya-Ku Hide,1,35
 Kulu-Ya-Ku,LR,Plunderblade,Kulu-Ya-Ku Plume,1,22
-Kulu-Ya-Ku,LR,Hunt (Bronze),Kulu-Ya-Ku Scale,1,100
+Kulu-Ya-Ku,LR,Bandit Mantle,Chipped Scale,1,70
+Kulu-Ya-Ku,LR,Bandit Mantle,Large Scale,1,30
 Kulu-Ya-Ku,LR,Hunt (Bronze),Kulu-Ya-Ku Hide,1,32
 Kulu-Ya-Ku,LR,Hunt (Bronze),Kulu-Ya-Ku Scale,1,23
 Kulu-Ya-Ku,LR,Hunt (Bronze),Monster Bone S,1,20
@@ -276,23 +317,66 @@ Kulu-Ya-Ku,HR,Plunderblade,Kulu-Ya-Ku Scale+,1,43
 Kulu-Ya-Ku,HR,Plunderblade,Kulu-Ya-Ku Hide+,1,33
 Kulu-Ya-Ku,HR,Plunderblade,Kulu-Ya-Ku Plume,1,22
 Kulu-Ya-Ku,HR,Plunderblade,Bird Wyvern Gem,1,2
-Kulu-Ya-Ku,HR,Hunt (Bronze),Kulu-Ya-Ku Scale+,1,100
+Kulu-Ya-Ku,HR,Bandit Mantle,Large Scale,1,70
+Kulu-Ya-Ku,HR,Bandit Mantle,Beautiful Scale,1,30
 Kulu-Ya-Ku,HR,Hunt (Bronze),Kulu-Ya-Ku Hide+,1,32
 Kulu-Ya-Ku,HR,Hunt (Bronze),Kulu-Ya-Ku Scale+,1,21
 Kulu-Ya-Ku,HR,Hunt (Bronze),Monster Bone+,1,18
 Kulu-Ya-Ku,HR,Hunt (Bronze),Kulu-Ya-Ku Plume+,1,15
 Kulu-Ya-Ku,HR,Hunt (Bronze),Kulu-Ya-Ku Beak+,1,11
 Kulu-Ya-Ku,HR,Hunt (Bronze),Bird Wyvern Gem,1,3
-Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Scale+,2,28
+Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Plume+,1,28
 Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Beak+,1,23
 Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Hide+,2,20
-Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Plume+,1,18
+Kulu-Ya-Ku,HR,Investigation (Silver),Kulu-Ya-Ku Scale+,2,18
 Kulu-Ya-Ku,HR,Investigation (Silver),Bird Wyvern Gem,1,11
 Kulu-Ya-Ku,HR,Investigation (Gold),Kulu-Ya-Ku Plume+,1,30
 Kulu-Ya-Ku,HR,Investigation (Gold),Kulu-Ya-Ku Beak+,1,24
 Kulu-Ya-Ku,HR,Investigation (Gold),Bird Wyvern Gem,1,17
 Kulu-Ya-Ku,HR,Investigation (Gold),Kulu-Ya-Ku Hide+,3,16
 Kulu-Ya-Ku,HR,Investigation (Gold),Kulu-Ya-Ku Scale+,3,13
+Kulu-Ya-Ku,MR,Track,Kulu-Ya-Ku Shard,1,100
+Kulu-Ya-Ku,MR,Carve / Capture,Kulu-Ya-Ku Shard,1,34
+Kulu-Ya-Ku,MR,Carve / Capture,Kulu-Ya-Ku Thickhide,1,27
+Kulu-Ya-Ku,MR,Carve / Capture,Large Kulu-Ya-Ku Beak,1,20
+Kulu-Ya-Ku,MR,Carve / Capture,Large Kulu-Ya-Ku Plume,1,14
+Kulu-Ya-Ku,MR,Carve / Capture,Fey Wyvern Gem,1,5
+Kulu-Ya-Ku,MR,Wound Head,Large Kulu-Ya-Ku Beak,1,100
+Kulu-Ya-Ku,MR,Wound Forearms,Large Kulu-Ya-Ku Plume,1,100
+Kulu-Ya-Ku,MR,Shiny Drop,Kulu-Ya-Ku Shard,1,50
+Kulu-Ya-Ku,MR,Shiny Drop,Large Kulu-Ya-Ku Plume,1,28
+Kulu-Ya-Ku,MR,Shiny Drop,Large Wyvern Tear,1,22
+Kulu-Ya-Ku,MR,Palico Bonus,Kulu-Ya-Ku Shard,1,50
+Kulu-Ya-Ku,MR,Palico Bonus,Large Kulu-Ya-Ku Plume,1,28
+Kulu-Ya-Ku,MR,Palico Bonus,Large Wyvern Tear,1,22
+Kulu-Ya-Ku,MR,Plunderblade,Kulu-Ya-Ku Shard,1,43
+Kulu-Ya-Ku,MR,Plunderblade,Kulu-Ya-Ku Thickhide,1,33
+Kulu-Ya-Ku,MR,Plunderblade,Large Kulu-Ya-Ku Plume,1,22
+Kulu-Ya-Ku,MR,Plunderblade,Fey Wyvern Gem,1,2
+Kulu-Ya-Ku,MR,Bandit Mantle,Beautiful Scale,1,70
+Kulu-Ya-Ku,MR,Bandit Mantle,Lustrous Scale,1,30
+Kulu-Ya-Ku,MR,Hunt (Bronze),Kulu-Ya-Ku Thickhide,1,32
+Kulu-Ya-Ku,MR,Hunt (Bronze),Kulu-Ya-Ku Shard,1,21
+Kulu-Ya-Ku,MR,Hunt (Bronze),Monster Toughbone,1,18
+Kulu-Ya-Ku,MR,Hunt (Bronze),Large Kulu-Ya-Ku Plume,1,15
+Kulu-Ya-Ku,MR,Hunt (Bronze),Large Kulu-Ya-Ku Beak,1,11
+Kulu-Ya-Ku,MR,Hunt (Bronze),Fey Wyvern Gem,1,3
+Kulu-Ya-Ku,MR,Investigation (Silver),Large Kulu-Ya-Ku Plume,1,28
+Kulu-Ya-Ku,MR,Investigation (Silver),Large Kulu-Ya-Ku Beak,1,23
+Kulu-Ya-Ku,MR,Investigation (Silver),Kulu-Ya-Ku Thickhide,2,20
+Kulu-Ya-Ku,MR,Investigation (Silver),Kulu-Ya-Ku Shard,2,18
+Kulu-Ya-Ku,MR,Investigation (Silver),Fey Wyvern Gem,1,11
+Kulu-Ya-Ku,MR,Investigation (Gold),Large Kulu-Ya-Ku Plume,1,30
+Kulu-Ya-Ku,MR,Investigation (Gold),Large Kulu-Ya-Ku Beak,1,24
+Kulu-Ya-Ku,MR,Investigation (Gold),Fey Wyvern Gem,1,17
+Kulu-Ya-Ku,MR,Investigation (Gold),Kulu-Ya-Ku Thickhide,3,16
+Kulu-Ya-Ku,MR,Investigation (Gold),Kulu-Ya-Ku Shard,3,13
+Kulu-Ya-Ku,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Kulu-Ya-Ku,MR,Guiding Lands (Low),Colorful Plume,1,37
+Kulu-Ya-Ku,MR,Guiding Lands (Mid),Colorful Plume,1,63
+Kulu-Ya-Ku,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Kulu-Ya-Ku,MR,Guiding Lands (High),Colorful Plume,1,100
+Kulu-Ya-Ku,MR,Guiding Lands (Tempered),Colorful Plume,1,100
 Pukei-Pukei,LR,Track,Pukei-Pukei Scale,1,100
 Pukei-Pukei,LR,Carve / Capture,Pukei-Pukei Scale,1,31
 Pukei-Pukei,LR,Carve / Capture,Pukei-Pukei Shell,1,24
@@ -316,15 +400,15 @@ Pukei-Pukei,LR,Palico Bonus,Wyvern Tear,1,22
 Pukei-Pukei,LR,Plunderblade,Pukei-Pukei Scale,1,44
 Pukei-Pukei,LR,Plunderblade,Pukei-Pukei Shell,1,32
 Pukei-Pukei,LR,Plunderblade,Pukei-Pukei Quill,1,24
-Pukei-Pukei,LR,Hunt (Bronze),Pukei-Pukei Scale,1,100
+Pukei-Pukei,LR,Bandit Mantle,Large Scale,1,100
 Pukei-Pukei,LR,Hunt (Bronze),Pukei-Pukei Shell,1,24
 Pukei-Pukei,LR,Hunt (Bronze),Pukei-Pukei Scale,1,22
 Pukei-Pukei,LR,Hunt (Bronze),Poison Sac,1,19
 Pukei-Pukei,LR,Hunt (Bronze),Pukei-Pukei Quill,1,16
 Pukei-Pukei,LR,Hunt (Bronze),Monster Bone M,2,10
 Pukei-Pukei,LR,Hunt (Bronze),Pukei-Pukei Sac,1,9
-Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Quill,1,31
-Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Sac,1,24
+Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Quill,1,30
+Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Sac,1,25
 Pukei-Pukei,LR,Investigation (Silver),Poison Sac,2,16
 Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Scale,2,15
 Pukei-Pukei,LR,Investigation (Silver),Pukei-Pukei Shell,2,14
@@ -358,12 +442,13 @@ Pukei-Pukei,HR,Plunderblade,Pukei-Pukei Scale+,1,43
 Pukei-Pukei,HR,Plunderblade,Pukei-Pukei Carapace,1,32
 Pukei-Pukei,HR,Plunderblade,Pukei-Pukei Wing,1,23
 Pukei-Pukei,HR,Plunderblade,Bird Wyvern Gem,1,2
-Pukei-Pukei,HR,Hunt (Bronze),Pukei-Pukei Scale+,1,100
+Pukei-Pukei,HR,Bandit Mantle,Large Scale,1,70
+Pukei-Pukei,HR,Bandit Mantle,Beautiful Scale,1,30
 Pukei-Pukei,HR,Hunt (Bronze),Pukei-Pukei Carapace,1,24
 Pukei-Pukei,HR,Hunt (Bronze),Pukei-Pukei Scale+,1,19
 Pukei-Pukei,HR,Hunt (Bronze),Toxin Sac,1,19
 Pukei-Pukei,HR,Hunt (Bronze),Pukei-Pukei Wing,1,16
-Pukei-Pukei,HR,Hunt (Bronze),Monster Keenbone,1,10
+Pukei-Pukei,HR,Hunt (Bronze),Monster Keenbone,2,10
 Pukei-Pukei,HR,Hunt (Bronze),Pukei-Pukei Sac+,1,9
 Pukei-Pukei,HR,Hunt (Bronze),Bird Wyvern Gem,1,3
 Pukei-Pukei,HR,Investigation (Silver),Pukei-Pukei Sac+,1,25
@@ -378,6 +463,65 @@ Pukei-Pukei,HR,Investigation (Gold),Bird Wyvern Gem,1,17
 Pukei-Pukei,HR,Investigation (Gold),Pukei-Pukei Carapace,3,14
 Pukei-Pukei,HR,Investigation (Gold),Toxin Sac,3,12
 Pukei-Pukei,HR,Investigation (Gold),Pukei-Pukei Scale+,3,10
+Pukei-Pukei,HR,Investigation (Purple),Mysterious Feystone,1,55
+Pukei-Pukei,HR,Investigation (Purple),Glowing Feystone,1,25
+Pukei-Pukei,HR,Investigation (Purple),Worn Feystone,1,15
+Pukei-Pukei,HR,Investigation (Purple),Warped Feystone,1,5
+Pukei-Pukei,MR,Track,Pukei-Pukei Shard,1,100
+Pukei-Pukei,MR,Carve / Capture,Pukei-Pukei Shard,1,29
+Pukei-Pukei,MR,Carve / Capture,Pukei-Pukei Cortex,1,22
+Pukei-Pukei,MR,Carve / Capture,Pukei-Pukei Fellwing,1,18
+Pukei-Pukei,MR,Carve / Capture,Large Pukei-Pukei Sac,1,14
+Pukei-Pukei,MR,Carve / Capture,Pukei-Pukei Lash,1,12
+Pukei-Pukei,MR,Carve / Capture,Fey Wyvern Gem,1,5
+Pukei-Pukei,MR,Wound Head,Large Pukei-Pukei Sac,1,75
+Pukei-Pukei,MR,Wound Head,Pukei-Pukei Shard,2,25
+Pukei-Pukei,MR,Wound Wings,Pukei-Pukei Fellwing,1,80
+Pukei-Pukei,MR,Wound Wings,Pukei-Pukei Shard,1,20
+Pukei-Pukei,MR,Wound Back,Pukei-Pukei Cortex,1,80
+Pukei-Pukei,MR,Wound Back,Pukei-Pukei Shard,1,20
+Pukei-Pukei,MR,Shiny Drop,Deadly Poison Sac,1,50
+Pukei-Pukei,MR,Shiny Drop,Pukei-Pukei Fellwing,1,28
+Pukei-Pukei,MR,Shiny Drop,Large Wyvern Tear,1,22
+Pukei-Pukei,MR,Tail Carve,Pukei-Pukei Lash,1,80
+Pukei-Pukei,MR,Tail Carve,Pukei-Pukei Shard,1,20
+Pukei-Pukei,MR,Palico Bonus,Pukei-Pukei Shard,1,50
+Pukei-Pukei,MR,Palico Bonus,Pukei-Pukei Fellwing,1,28
+Pukei-Pukei,MR,Palico Bonus,Large Wyvern Tear,1,22
+Pukei-Pukei,MR,Plunderblade,Pukei-Pukei Shard,1,43
+Pukei-Pukei,MR,Plunderblade,Pukei-Pukei Cortex,1,32
+Pukei-Pukei,MR,Plunderblade,Pukei-Pukei Fellwing,1,23
+Pukei-Pukei,MR,Plunderblade,Fey Wyvern Gem,1,2
+Pukei-Pukei,MR,Bandit Mantle,Beautiful Scale,1,70
+Pukei-Pukei,MR,Bandit Mantle,Lustrous Scale,1,30
+Pukei-Pukei,MR,Hunt (Bronze),Pukei-Pukei Cortex,1,29
+Pukei-Pukei,MR,Hunt (Bronze),Pukei-Pukei Shard,1,21
+Pukei-Pukei,MR,Hunt (Bronze),Deadly Poison Sac,1,21
+Pukei-Pukei,MR,Hunt (Bronze),Pukei-Pukei Fellwing,1,15
+Pukei-Pukei,MR,Hunt (Bronze),Large Pukei-Pukei Sac,1,11
+Pukei-Pukei,MR,Hunt (Bronze),Fey Wyvern Gem,1,3
+Pukei-Pukei,MR,Investigation (Silver),Large Pukei-Pukei Sac,1,25
+Pukei-Pukei,MR,Investigation (Silver),Pukei-Pukei Fellwing,1,22
+Pukei-Pukei,MR,Investigation (Silver),Pukei-Pukei Cortex,2,14
+Pukei-Pukei,MR,Investigation (Silver),Pukei-Pukei Shard,2,14
+Pukei-Pukei,MR,Investigation (Silver),Deadly Poison Sac,2,14
+Pukei-Pukei,MR,Investigation (Silver),Fey Wyvern Gem,1,11
+Pukei-Pukei,MR,Investigation (Gold),Large Pukei-Pukei Sac,1,25
+Pukei-Pukei,MR,Investigation (Gold),Pukei-Pukei Fellwing,1,22
+Pukei-Pukei,MR,Investigation (Gold),Fey Wyvern Gem,1,17
+Pukei-Pukei,MR,Investigation (Gold),Pukei-Pukei Cortex,3,14
+Pukei-Pukei,MR,Investigation (Gold),Deadly Poison Sac,3,12
+Pukei-Pukei,MR,Investigation (Gold),Pukei-Pukei Shard,3,10
+Pukei-Pukei,MR,Investigation (Purple),Ancient Feystone,1,70
+Pukei-Pukei,MR,Investigation (Purple),Carved Feystone,1,30
+Pukei-Pukei,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Pukei-Pukei,MR,Guiding Lands (Low),Fragrant Poison Sac,1,37
+Pukei-Pukei,MR,Guiding Lands (Mid),Fragrant Poison Sac,1,63
+Pukei-Pukei,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Pukei-Pukei,MR,Guiding Lands (High),Fragrant Poison Sac,1,100
+Pukei-Pukei,MR,Guiding Lands (Tempered),Tempered Poison Sac,1,56
+Pukei-Pukei,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,27
+Pukei-Pukei,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,17
 Barroth,LR,Track,Barroth Shell,1,100
 Barroth,LR,Carve / Capture,Barroth Shell,1,31
 Barroth,LR,Carve / Capture,Barroth Ridge,1,24
@@ -400,7 +544,7 @@ Barroth,LR,Plunderblade,Barroth Shell,1,37
 Barroth,LR,Plunderblade,Barroth Ridge,1,30
 Barroth,LR,Plunderblade,Barroth Claw,1,18
 Barroth,LR,Plunderblade,Fertile Mud,1,15
-Barroth,LR,Hunt (Bronze),Barroth Shell,1,100
+Barroth,LR,Bandit Mantle,Large Scale,1,100
 Barroth,LR,Hunt (Bronze),Barroth Ridge,1,26
 Barroth,LR,Hunt (Bronze),Barroth Shell,1,20
 Barroth,LR,Hunt (Bronze),Barroth Claw,1,16
@@ -412,9 +556,9 @@ Barroth,LR,Investigation (Silver),Barroth Ridge,2,18
 Barroth,LR,Investigation (Silver),Barroth Scalp,1,18
 Barroth,LR,Investigation (Silver),Barroth Tail,1,16
 Barroth,LR,Investigation (Silver),Barroth Shell,2,14
-Barroth,LR,Investigation (Silver),Fertile Mud,1,12
-Barroth,LR,Investigation (Gold),Barroth Claw,1,25
-Barroth,LR,Investigation (Gold),Barroth Scalp,1,21
+Barroth,LR,Investigation (Silver),Fertile Mud,2,12
+Barroth,LR,Investigation (Gold),Barroth Claw,1,24
+Barroth,LR,Investigation (Gold),Barroth Scalp,1,22
 Barroth,LR,Investigation (Gold),Barroth Tail,1,20
 Barroth,LR,Investigation (Gold),Barroth Ridge,3,14
 Barroth,LR,Investigation (Gold),Barroth Shell,3,10
@@ -442,7 +586,8 @@ Barroth,HR,Plunderblade,Barroth Carapace,1,43
 Barroth,HR,Plunderblade,Barroth Ridge+,1,32
 Barroth,HR,Plunderblade,Barroth Claw+,1,23
 Barroth,HR,Plunderblade,Wyvern Gem,1,2
-Barroth,HR,Hunt (Bronze),Barroth Carapace,1,100
+Barroth,HR,Bandit Mantle,Large Scale,1,70
+Barroth,HR,Bandit Mantle,Beautiful Scale,1,30
 Barroth,HR,Hunt (Bronze),Barroth Ridge+,1,25
 Barroth,HR,Hunt (Bronze),Barroth Carapace,1,20
 Barroth,HR,Hunt (Bronze),Barroth Claw+,1,16
@@ -462,6 +607,62 @@ Barroth,HR,Investigation (Gold),Barroth Tail,1,16
 Barroth,HR,Investigation (Gold),Wyvern Gem,1,16
 Barroth,HR,Investigation (Gold),Barroth Ridge+,3,14
 Barroth,HR,Investigation (Gold),Barroth Carapace,3,10
+Barroth,HR,Investigation (Purple),Mysterious Feystone,1,55
+Barroth,HR,Investigation (Purple),Glowing Feystone,1,25
+Barroth,HR,Investigation (Purple),Worn Feystone,1,15
+Barroth,HR,Investigation (Purple),Warped Feystone,1,5
+Barroth,MR,Track,Barroth Cortex,1,100
+Barroth,MR,Carve / Capture,Barroth Cortex,1,29
+Barroth,MR,Carve / Capture,Barroth Chine,1,23
+Barroth,MR,Carve / Capture,Barroth Hardclaw,1,17
+Barroth,MR,Carve / Capture,Barroth Crown,1,14
+Barroth,MR,Carve / Capture,Barroth Lash,1,10
+Barroth,MR,Carve / Capture,Wyvern Gem,1,5
+Barroth,MR,Carve / Capture,Large Wyvern Gem,1,2
+Barroth,MR,Wound Forearms,Barroth Hardclaw,1,100
+Barroth,MR,Wound Hindlegs,Barroth Cortex,2,100
+Barroth,MR,Shiny Drop,Rich Mud,1,50
+Barroth,MR,Shiny Drop,Barroth Cortex,1,28
+Barroth,MR,Shiny Drop,Large Wyvern Tear,1,22
+Barroth,MR,Tail Carve,Barroth Lash,1,80
+Barroth,MR,Tail Carve,Barroth Cortex,1,20
+Barroth,MR,Palico Bonus,Rich Mud,1,50
+Barroth,MR,Palico Bonus,Barroth Cortex,1,28
+Barroth,MR,Palico Bonus,Large Wyvern Tear,1,22
+Barroth,MR,Plunderblade,Barroth Cortex,1,43
+Barroth,MR,Plunderblade,Barroth Chine,1,32
+Barroth,MR,Plunderblade,Barroth Hardclaw,1,23
+Barroth,MR,Plunderblade,Large Wyvern Gem,1,2
+Barroth,MR,Bandit Mantle,Beautiful Scale,1,70
+Barroth,MR,Bandit Mantle,Lustrous Scale,1,30
+Barroth,MR,Hunt (Bronze),Barroth Chine,1,30
+Barroth,MR,Hunt (Bronze),Barroth Cortex,1,21
+Barroth,MR,Hunt (Bronze),Rich Mud,1,20
+Barroth,MR,Hunt (Bronze),Barroth Hardclaw,1,16
+Barroth,MR,Hunt (Bronze),Barroth Crown,1,11
+Barroth,MR,Hunt (Bronze),Large Wyvern Gem,1,2
+Barroth,MR,Investigation (Silver),Barroth Hardclaw,1,26
+Barroth,MR,Investigation (Silver),Barroth Chine,2,18
+Barroth,MR,Investigation (Silver),Barroth Crown,2,18
+Barroth,MR,Investigation (Silver),Barroth Lash,1,16
+Barroth,MR,Investigation (Silver),Barroth Cortex,2,14
+Barroth,MR,Investigation (Silver),Large Wyvern Gem,1,8
+Barroth,MR,Investigation (Gold),Barroth Hardclaw,1,26
+Barroth,MR,Investigation (Gold),Barroth Crown,2,18
+Barroth,MR,Investigation (Gold),Barroth Lash,1,16
+Barroth,MR,Investigation (Gold),Large Wyvern Gem,1,16
+Barroth,MR,Investigation (Gold),Barroth Chine,3,14
+Barroth,MR,Investigation (Gold),Barroth Cortex,3,10
+Barroth,MR,Investigation (Purple),Ancient Feystone,1,70
+Barroth,MR,Investigation (Purple),Carved Feystone,1,30
+Barroth,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Barroth,MR,Guiding Lands (Low),Muddy Crown,1,37
+Barroth,MR,Guiding Lands (Mid),Muddy Crown,1,63
+Barroth,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Barroth,MR,Guiding Lands (High),Muddy Crown,1,100
+Barroth,MR,Guiding Lands (Tempered),Tempered Crown,1,56
+Barroth,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,27
+Barroth,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,17
 Jyuratodus,LR,Track,Jyuratodus Scale,1,100
 Jyuratodus,LR,Carve / Capture,Jyuratodus Scale,1,36
 Jyuratodus,LR,Carve / Capture,Jyuratodus Shell,1,28
@@ -478,7 +679,7 @@ Jyuratodus,LR,Palico Bonus,Wyvern Tear,1,22
 Jyuratodus,LR,Plunderblade,Jyuratodus Scale,1,43
 Jyuratodus,LR,Plunderblade,Jyuratodus Shell,1,35
 Jyuratodus,LR,Plunderblade,Jyuratodus Fang,1,22
-Jyuratodus,LR,Hunt (Bronze),Jyuratodus Scale,1,100
+Jyuratodus,LR,Bandit Mantle,Large Scale,1,100
 Jyuratodus,LR,Hunt (Bronze),Jyuratodus Shell,1,27
 Jyuratodus,LR,Hunt (Bronze),Jyuratodus Scale,1,21
 Jyuratodus,LR,Hunt (Bronze),Aqua Sac,1,18
@@ -513,7 +714,8 @@ Jyuratodus,HR,Plunderblade,Jyuratodus Scale+,1,41
 Jyuratodus,HR,Plunderblade,Jyuratodus Carapace,1,35
 Jyuratodus,HR,Plunderblade,Jyuratodus Fang+,1,22
 Jyuratodus,HR,Plunderblade,Wyvern Gem,1,2
-Jyuratodus,HR,Hunt (Bronze),Jyuratodus Scale+,1,100
+Jyuratodus,HR,Bandit Mantle,Large Scale,1,70
+Jyuratodus,HR,Bandit Mantle,Beautiful Scale,1,30
 Jyuratodus,HR,Hunt (Bronze),Jyuratodus Carapace,1,26
 Jyuratodus,HR,Hunt (Bronze),Jyuratodus Scale+,1,21
 Jyuratodus,HR,Hunt (Bronze),Torrent Sac,1,18
@@ -533,6 +735,58 @@ Jyuratodus,HR,Investigation (Gold),Wyvern Gem,1,16
 Jyuratodus,HR,Investigation (Gold),Jyuratodus Carapace,3,12
 Jyuratodus,HR,Investigation (Gold),Torrent Sac,3,10
 Jyuratodus,HR,Investigation (Gold),Jyuratodus Scale+,3,8
+Jyuratodus,HR,Investigation (Purple),Mysterious Feystone,1,55
+Jyuratodus,HR,Investigation (Purple),Glowing Feystone,1,25
+Jyuratodus,HR,Investigation (Purple),Worn Feystone,1,15
+Jyuratodus,HR,Investigation (Purple),Warped Feystone,1,5
+Jyuratodus,MR,Track,Jyuratodus Shard,1,100
+Jyuratodus,MR,Carve / Capture,Jyuratodus Shard,1,34
+Jyuratodus,MR,Carve / Capture,Jyuratodus Cortex,1,25
+Jyuratodus,MR,Carve / Capture,Jyuratodus Grandfin,1,20
+Jyuratodus,MR,Carve / Capture,Jyuratodus Hardfang,1,14
+Jyuratodus,MR,Carve / Capture,Wyvern Gem,1,5
+Jyuratodus,MR,Carve / Capture,Large Wyvern Gem,1,2
+Jyuratodus,MR,Wound Head,Jyuratodus Hardfang,1,100
+Jyuratodus,MR,Wound Back,Jyuratodus Grandfin,1,100
+Jyuratodus,MR,Shiny Drop,Flood Sac,1,50
+Jyuratodus,MR,Shiny Drop,Jyuratodus Grandfin,1,28
+Jyuratodus,MR,Shiny Drop,Large Wyvern Tear,1,22
+Jyuratodus,MR,Palico Bonus,Jyuratodus Shard,1,50
+Jyuratodus,MR,Palico Bonus,Jyuratodus Grandfin,1,28
+Jyuratodus,MR,Palico Bonus,Large Wyvern Tear,1,22
+Jyuratodus,MR,Plunderblade,Jyuratodus Shard,1,41
+Jyuratodus,MR,Plunderblade,Jyuratodus Cortex,1,35
+Jyuratodus,MR,Plunderblade,Jyuratodus Hardfang,1,22
+Jyuratodus,MR,Plunderblade,Large Wyvern Gem,1,2
+Jyuratodus,MR,Bandit Mantle,Beautiful Scale,1,70
+Jyuratodus,MR,Bandit Mantle,Lustrous Scale,1,30
+Jyuratodus,MR,Hunt (Bronze),Jyuratodus Cortex,1,28
+Jyuratodus,MR,Hunt (Bronze),Jyuratodus Shard,1,22
+Jyuratodus,MR,Hunt (Bronze),Flood Sac,1,22
+Jyuratodus,MR,Hunt (Bronze),Jyuratodus Hardfang,1,16
+Jyuratodus,MR,Hunt (Bronze),Jyuratodus Grandfin,1,10
+Jyuratodus,MR,Hunt (Bronze),Large Wyvern Gem,1,2
+Jyuratodus,MR,Investigation (Silver),Jyuratodus Hardfang,1,32
+Jyuratodus,MR,Investigation (Silver),Jyuratodus Grandfin,1,23
+Jyuratodus,MR,Investigation (Silver),Jyuratodus Cortex,2,14
+Jyuratodus,MR,Investigation (Silver),Flood Sac,2,12
+Jyuratodus,MR,Investigation (Silver),Jyuratodus Shard,2,11
+Jyuratodus,MR,Investigation (Silver),Large Wyvern Gem,1,8
+Jyuratodus,MR,Investigation (Gold),Jyuratodus Hardfang,1,30
+Jyuratodus,MR,Investigation (Gold),Jyuratodus Grandfin,1,24
+Jyuratodus,MR,Investigation (Gold),Large Wyvern Gem,1,16
+Jyuratodus,MR,Investigation (Gold),Jyuratodus Cortex,3,12
+Jyuratodus,MR,Investigation (Gold),Flood Sac,3,10
+Jyuratodus,MR,Investigation (Gold),Jyuratodus Shard,3,8
+Jyuratodus,MR,Investigation (Purple),Ancient Feystone,1,70
+Jyuratodus,MR,Investigation (Purple),Carved Feystone,1,30
+Jyuratodus,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Jyuratodus,MR,Guiding Lands (Low),Monster Bone S,1,37
+Jyuratodus,MR,Guiding Lands (Mid),Monster Bone S,1,63
+Jyuratodus,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Jyuratodus,MR,Guiding Lands (Tempered),Monster Bone S,1,56
+Jyuratodus,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,27
+Jyuratodus,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,17
 Tobi-Kadachi,LR,Track,Tobi-Kadachi Scale,1,100
 Tobi-Kadachi,LR,Carve / Capture,Tobi-Kadachi Scale,1,31
 Tobi-Kadachi,LR,Carve / Capture,Tobi-Kadachi Pelt,1,24
@@ -554,7 +808,7 @@ Tobi-Kadachi,LR,Palico Bonus,Wyvern Tear,1,22
 Tobi-Kadachi,LR,Plunderblade,Tobi-Kadachi Scale,1,43
 Tobi-Kadachi,LR,Plunderblade,Tobi-Kadachi Pelt,1,35
 Tobi-Kadachi,LR,Plunderblade,Tobi-Kadachi Membrane,1,22
-Tobi-Kadachi,LR,Hunt (Bronze),Tobi-Kadachi Scale,1,100
+Tobi-Kadachi,LR,Bandit Mantle,Large Scale,1,100
 Tobi-Kadachi,LR,Hunt (Bronze),Tobi-Kadachi Pelt,1,26
 Tobi-Kadachi,LR,Hunt (Bronze),Tobi-Kadachi Scale,1,20
 Tobi-Kadachi,LR,Hunt (Bronze),Electro Sac,1,18
@@ -596,11 +850,12 @@ Tobi-Kadachi,HR,Plunderblade,Tobi-Kadachi Scale+,1,41
 Tobi-Kadachi,HR,Plunderblade,Tobi-Kadachi Pelt+,1,35
 Tobi-Kadachi,HR,Plunderblade,Tobi-Kadachi Membrane,1,22
 Tobi-Kadachi,HR,Plunderblade,Wyvern Gem,1,2
-Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Scale+,1,100
+Tobi-Kadachi,HR,Bandit Mantle,Large Scale,1,70
+Tobi-Kadachi,HR,Bandit Mantle,Beautiful Scale,1,30
 Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Pelt+,1,24
 Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Scale+,1,20
 Tobi-Kadachi,HR,Hunt (Bronze),Thunder Sac,1,18
-Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Membrane,1,15
+Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Membrane,2,15
 Tobi-Kadachi,HR,Hunt (Bronze),Monster Keenbone,1,13
 Tobi-Kadachi,HR,Hunt (Bronze),Tobi-Kadachi Claw+,1,9
 Tobi-Kadachi,HR,Hunt (Bronze),Wyvern Gem,1,1
@@ -618,6 +873,66 @@ Tobi-Kadachi,HR,Investigation (Gold),Thunder Sac,3,12
 Tobi-Kadachi,HR,Investigation (Gold),Tobi-Kadachi Membrane,3,11
 Tobi-Kadachi,HR,Investigation (Gold),Tobi-Kadachi Pelt+,3,10
 Tobi-Kadachi,HR,Investigation (Gold),Tobi-Kadachi Scale+,3,8
+Tobi-Kadachi,HR,Investigation (Purple),Mysterious Feystone,1,55
+Tobi-Kadachi,HR,Investigation (Purple),Glowing Feystone,1,25
+Tobi-Kadachi,HR,Investigation (Purple),Worn Feystone,1,15
+Tobi-Kadachi,HR,Investigation (Purple),Warped Feystone,1,5
+Tobi-Kadachi,MR,Track,Tobi-Kadachi Shard,1,100
+Tobi-Kadachi,MR,Carve / Capture,Tobi-Kadachi Shard,1,29
+Tobi-Kadachi,MR,Carve / Capture,Tobi-Kadachi Thickfur,1,23
+Tobi-Kadachi,MR,Carve / Capture,Tobi-Kadachi Membrane+,1,19
+Tobi-Kadachi,MR,Carve / Capture,Tobi-Kadachi Cathode,1,12
+Tobi-Kadachi,MR,Carve / Capture,Tobi-Kadachi Hardclaw,1,10
+Tobi-Kadachi,MR,Carve / Capture,Wyvern Gem,1,5
+Tobi-Kadachi,MR,Carve / Capture,Large Wyvern Gem,1,2
+Tobi-Kadachi,MR,Wound Head,Tobi-Kadachi Cathode,1,100
+Tobi-Kadachi,MR,Wound Back,Tobi-Kadachi Thickfur,1,80
+Tobi-Kadachi,MR,Wound Back,Tobi-Kadachi Shard,1,20
+Tobi-Kadachi,MR,Wound Forelegs,Tobi-Kadachi Hardclaw,1,100
+Tobi-Kadachi,MR,Wound Tail,Tobi-Kadachi Cathode,1,80
+Tobi-Kadachi,MR,Wound Tail,Tobi-Kadachi Thickfur,1,20
+Tobi-Kadachi,MR,Shiny Drop,Lightning Sac,1,50
+Tobi-Kadachi,MR,Shiny Drop,Tobi-Kadachi Hardclaw,1,28
+Tobi-Kadachi,MR,Shiny Drop,Large Wyvern Tear,1,22
+Tobi-Kadachi,MR,Palico Bonus,Tobi-Kadachi Shard,1,50
+Tobi-Kadachi,MR,Palico Bonus,Tobi-Kadachi Hardclaw,1,28
+Tobi-Kadachi,MR,Palico Bonus,Large Wyvern Tear,1,22
+Tobi-Kadachi,MR,Plunderblade,Tobi-Kadachi Shard,1,41
+Tobi-Kadachi,MR,Plunderblade,Tobi-Kadachi Thickfur,1,35
+Tobi-Kadachi,MR,Plunderblade,Tobi-Kadachi Membrane+,1,22
+Tobi-Kadachi,MR,Plunderblade,Large Wyvern Gem,1,2
+Tobi-Kadachi,MR,Bandit Mantle,Beautiful Scale,1,70
+Tobi-Kadachi,MR,Bandit Mantle,Lustrous Scale,1,30
+Tobi-Kadachi,MR,Hunt (Bronze),Tobi-Kadachi Thickfur,1,28
+Tobi-Kadachi,MR,Hunt (Bronze),Tobi-Kadachi Shard,1,21
+Tobi-Kadachi,MR,Hunt (Bronze),Lightning Sac,1,21
+Tobi-Kadachi,MR,Hunt (Bronze),Tobi-Kadachi Membrane+,1,17
+Tobi-Kadachi,MR,Hunt (Bronze),Tobi-Kadachi Hardclaw,1,11
+Tobi-Kadachi,MR,Hunt (Bronze),Large Wyvern Gem,1,2
+Tobi-Kadachi,MR,Investigation (Silver),Tobi-Kadachi Membrane+,1,22
+Tobi-Kadachi,MR,Investigation (Silver),Tobi-Kadachi Hardclaw,1,18
+Tobi-Kadachi,MR,Investigation (Silver),Tobi-Kadachi Cathode,1,16
+Tobi-Kadachi,MR,Investigation (Silver),Lightning Sac,2,14
+Tobi-Kadachi,MR,Investigation (Silver),Tobi-Kadachi Thickfur,2,12
+Tobi-Kadachi,MR,Investigation (Silver),Tobi-Kadachi Shard,2,10
+Tobi-Kadachi,MR,Investigation (Silver),Large Wyvern Gem,1,8
+Tobi-Kadachi,MR,Investigation (Gold),Tobi-Kadachi Membrane+,1,18
+Tobi-Kadachi,MR,Investigation (Gold),Tobi-Kadachi Hardclaw,1,18
+Tobi-Kadachi,MR,Investigation (Gold),Tobi-Kadachi Cathode,1,18
+Tobi-Kadachi,MR,Investigation (Gold),Large Wyvern Gem,1,16
+Tobi-Kadachi,MR,Investigation (Gold),Lightning Sac,3,12
+Tobi-Kadachi,MR,Investigation (Gold),Tobi-Kadachi Thickfur,3,10
+Tobi-Kadachi,MR,Investigation (Gold),Tobi-Kadachi Shard,3,8
+Tobi-Kadachi,MR,Investigation (Purple),Ancient Feystone,1,70
+Tobi-Kadachi,MR,Investigation (Purple),Carved Feystone,1,30
+Tobi-Kadachi,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Tobi-Kadachi,MR,Guiding Lands (Low),Blinding Cathode,1,37
+Tobi-Kadachi,MR,Guiding Lands (Mid),Blinding Cathode,1,63
+Tobi-Kadachi,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Tobi-Kadachi,MR,Guiding Lands (High),Blinding Cathode,1,100
+Tobi-Kadachi,MR,Guiding Lands (Tempered),Tempered Cathode,1,56
+Tobi-Kadachi,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,27
+Tobi-Kadachi,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,17
 Anjanath,LR,Track,Anjanath Scale,1,100
 Anjanath,LR,Carve / Capture,Anjanath Scale,1,35
 Anjanath,LR,Carve / Capture,Anjanath Pelt,1,25
@@ -641,7 +956,8 @@ Anjanath,LR,Plunderblade,Anjanath Scale,1,40
 Anjanath,LR,Plunderblade,Anjanath Pelt,1,32
 Anjanath,LR,Plunderblade,Anjanath Fang,1,26
 Anjanath,LR,Plunderblade,Anjanath Plate,1,2
-Anjanath,LR,Hunt (Bronze),Anjanath Scale,1,100
+Anjanath,LR,Bandit Mantle,Large Scale,1,70
+Anjanath,LR,Bandit Mantle,Beautiful Scale,1,30
 Anjanath,LR,Hunt (Bronze),Anjanath Pelt,1,27
 Anjanath,LR,Hunt (Bronze),Anjanath Scale,1,21
 Anjanath,LR,Hunt (Bronze),Flame Sac,1,18
@@ -660,9 +976,9 @@ Anjanath,LR,Investigation (Gold),Anjanath Tail,1,21
 Anjanath,LR,Investigation (Gold),Anjanath Fang,1,18
 Anjanath,LR,Investigation (Gold),Anjanath Plate,1,16
 Anjanath,LR,Investigation (Gold),Anjanath Nosebone,1,15
-Anjanath,LR,Investigation (Gold),Flame Sac,3,11
-Anjanath,LR,Investigation (Gold),Anjanath Pelt,2,10
-Anjanath,LR,Investigation (Gold),Anjanath Scale,3,9
+Anjanath,LR,Investigation (Gold),Flame Sac,3,12
+Anjanath,LR,Investigation (Gold),Anjanath Pelt,3,10
+Anjanath,LR,Investigation (Gold),Anjanath Scale,3,8
 Anjanath,HR,Track,Anjanath Scale+,1,100
 Anjanath,HR,Carve / Capture,Anjanath Scale+,1,34
 Anjanath,HR,Carve / Capture,Anjanath Pelt+,1,24
@@ -688,7 +1004,8 @@ Anjanath,HR,Plunderblade,Anjanath Scale+,1,40
 Anjanath,HR,Plunderblade,Anjanath Pelt+,1,33
 Anjanath,HR,Plunderblade,Anjanath Fang+,1,26
 Anjanath,HR,Plunderblade,Anjanath Gem,1,1
-Anjanath,HR,Hunt (Bronze),Anjanath Scale+,1,100
+Anjanath,HR,Bandit Mantle,Beautiful Scale,1,70
+Anjanath,HR,Bandit Mantle,Lustrous Scale,1,30
 Anjanath,HR,Hunt (Bronze),Anjanath Pelt+,1,27
 Anjanath,HR,Hunt (Bronze),Anjanath Scale+,1,21
 Anjanath,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -710,6 +1027,64 @@ Anjanath,HR,Investigation (Gold),Anjanath Pelt+,3,12
 Anjanath,HR,Investigation (Gold),Inferno Sac,3,12
 Anjanath,HR,Investigation (Gold),Anjanath Scale+,3,11
 Anjanath,HR,Investigation (Gold),Anjanath Plate,1,10
+Anjanath,HR,Investigation (Purple),Mysterious Feystone,1,55
+Anjanath,HR,Investigation (Purple),Glowing Feystone,1,25
+Anjanath,HR,Investigation (Purple),Worn Feystone,1,15
+Anjanath,HR,Investigation (Purple),Warped Feystone,1,5
+Anjanath,MR,Track,Anjanath Shard,1,100
+Anjanath,MR,Carve / Capture,Anjanath Shard,1,34
+Anjanath,MR,Carve / Capture,Anjanath Fur,1,24
+Anjanath,MR,Carve / Capture,Heavy Anjanath Nosebone,1,20
+Anjanath,MR,Carve / Capture,Anjanath Hardfang,1,15
+Anjanath,MR,Carve / Capture,Anjanath Gem,1,5
+Anjanath,MR,Carve / Capture,Anjanath Mantle,1,2
+Anjanath,MR,Wound Head,Anjanath Hardfang,1,62
+Anjanath,MR,Wound Head,Heavy Anjanath Nosebone,1,35
+Anjanath,MR,Wound Head,Anjanath Mantle,1,3
+Anjanath,MR,Wound Hindlegs,Anjanath Shard,2,100
+Anjanath,MR,Shiny Drop,Conflagrant Sac,1,50
+Anjanath,MR,Shiny Drop,Anjanath Hardfang,1,28
+Anjanath,MR,Shiny Drop,Large Wyvern Tear,1,22
+Anjanath,MR,Tail Carve,Anjanath Lash,1,70
+Anjanath,MR,Tail Carve,Anjanath Shard,1,20
+Anjanath,MR,Tail Carve,Anjanath Gem,1,7
+Anjanath,MR,Tail Carve,Anjanath Mantle,1,3
+Anjanath,MR,Palico Bonus,Anjanath Shard,1,50
+Anjanath,MR,Palico Bonus,Anjanath Hardfang,1,28
+Anjanath,MR,Palico Bonus,Large Wyvern Tear,1,22
+Anjanath,MR,Plunderblade,Anjanath Shard,1,40
+Anjanath,MR,Plunderblade,Anjanath Fur,1,33
+Anjanath,MR,Plunderblade,Anjanath Hardfang,1,26
+Anjanath,MR,Plunderblade,Anjanath Mantle,1,1
+Anjanath,MR,Bandit Mantle,Lustrous Scale,1,100
+Anjanath,MR,Hunt (Bronze),Anjanath Fur,1,29
+Anjanath,MR,Hunt (Bronze),Anjanath Shard,1,23
+Anjanath,MR,Hunt (Bronze),Conflagrant Sac,1,21
+Anjanath,MR,Hunt (Bronze),Heavy Anjanath Nosebone,1,14
+Anjanath,MR,Hunt (Bronze),Anjanath Lash,1,10
+Anjanath,MR,Hunt (Bronze),Anjanath Gem,1,3
+Anjanath,MR,Investigation (Silver),Anjanath Lash,1,23
+Anjanath,MR,Investigation (Silver),Anjanath Hardfang,1,19
+Anjanath,MR,Investigation (Silver),Heavy Anjanath Nosebone,1,19
+Anjanath,MR,Investigation (Silver),Anjanath Fur,2,16
+Anjanath,MR,Investigation (Silver),Anjanath Shard,2,13
+Anjanath,MR,Investigation (Silver),Anjanath Mantle,1,10
+Anjanath,MR,Investigation (Gold),Anjanath Hardfang,1,21
+Anjanath,MR,Investigation (Gold),Heavy Anjanath Nosebone,1,21
+Anjanath,MR,Investigation (Gold),Anjanath Lash,1,19
+Anjanath,MR,Investigation (Gold),Anjanath Mantle,1,18
+Anjanath,MR,Investigation (Gold),Anjanath Fur,3,12
+Anjanath,MR,Investigation (Gold),Anjanath Shard,3,9
+Anjanath,MR,Investigation (Purple),Ancient Feystone,1,70
+Anjanath,MR,Investigation (Purple),Carved Feystone,1,30
+Anjanath,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Anjanath,MR,Guiding Lands (Low),Flickering Flamepelt,1,37
+Anjanath,MR,Guiding Lands (Mid),Flickering Flamepelt,1,63
+Anjanath,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Anjanath,MR,Guiding Lands (High),Flickering Flamepelt,1,100
+Anjanath,MR,Guiding Lands (Tempered),Tempered Flamepelt,1,54
+Anjanath,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,25
+Anjanath,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,21
 Rathian,LR,Track,Rathian Scale,1,100
 Rathian,LR,Carve / Capture,Rathian Scale,1,35
 Rathian,LR,Carve / Capture,Rathian Shell,1,25
@@ -738,19 +1113,20 @@ Rathian,LR,Plunderblade,Rathian Scale,1,44
 Rathian,LR,Plunderblade,Rathian Shell,1,34
 Rathian,LR,Plunderblade,Rath Wingtalon,1,20
 Rathian,LR,Plunderblade,Rathian Plate,1,2
-Rathian,LR,Hunt (Bronze),Rathian Scale,1,100
+Rathian,LR,Bandit Mantle,Large Scale,1,70
+Rathian,LR,Bandit Mantle,Beautiful Scale,1,30
 Rathian,LR,Hunt (Bronze),Rathian Shell,1,27
 Rathian,LR,Hunt (Bronze),Rathian Scale,1,21
 Rathian,LR,Hunt (Bronze),Flame Sac,1,18
 Rathian,LR,Hunt (Bronze),Rath Wingtalon,1,12
-Rathian,LR,Hunt (Bronze),Monster Bone L,1,10
+Rathian,LR,Hunt (Bronze),Monster Bone L,2,10
 Rathian,LR,Hunt (Bronze),Rathian Webbing,1,9
 Rathian,LR,Hunt (Bronze),Rathian Plate,1,3
 Rathian,LR,Investigation (Silver),Rathian Spike,1,22
 Rathian,LR,Investigation (Silver),Rath Wingtalon,1,17
-Rathian,LR,Investigation (Silver),Rathian Webbing,1,15
+Rathian,LR,Investigation (Silver),Rathian Webbing,1,16
 Rathian,LR,Investigation (Silver),Rathian Shell,2,14
-Rathian,LR,Investigation (Silver),Flame Sac,2,13
+Rathian,LR,Investigation (Silver),Flame Sac,2,12
 Rathian,LR,Investigation (Silver),Rathian Scale,2,11
 Rathian,LR,Investigation (Silver),Rathian Plate,1,8
 Rathian,LR,Investigation (Gold),Rathian Spike,1,20
@@ -789,7 +1165,8 @@ Rathian,HR,Plunderblade,Rathian Scale+,1,44
 Rathian,HR,Plunderblade,Rathian Carapace,1,34
 Rathian,HR,Plunderblade,Rath Wingtalon,1,21
 Rathian,HR,Plunderblade,Rathian Ruby,1,1
-Rathian,HR,Hunt (Bronze),Rathian Scale+,1,100
+Rathian,HR,Bandit Mantle,Beautiful Scale,1,70
+Rathian,HR,Bandit Mantle,Lustrous Scale,1,30
 Rathian,HR,Hunt (Bronze),Rathian Carapace,1,27
 Rathian,HR,Hunt (Bronze),Rathian Scale+,1,21
 Rathian,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -798,10 +1175,10 @@ Rathian,HR,Hunt (Bronze),Monster Keenbone,2,10
 Rathian,HR,Hunt (Bronze),Rathian Webbing,2,9
 Rathian,HR,Hunt (Bronze),Rathian Plate,1,3
 Rathian,HR,Investigation (Silver),Rathian Spike+,1,22
-Rathian,HR,Investigation (Silver),Rathian Carapace,1,18
-Rathian,HR,Investigation (Silver),Rathian Scale+,1,16
-Rathian,HR,Investigation (Silver),Rathian Webbing,1,14
-Rathian,HR,Investigation (Silver),Inferno Sac,1,14
+Rathian,HR,Investigation (Silver),Rathian Carapace,2,18
+Rathian,HR,Investigation (Silver),Rathian Scale+,2,16
+Rathian,HR,Investigation (Silver),Rathian Webbing,2,14
+Rathian,HR,Investigation (Silver),Inferno Sac,2,14
 Rathian,HR,Investigation (Silver),Rathian Plate,1,10
 Rathian,HR,Investigation (Silver),Rathian Ruby,1,6
 Rathian,HR,Investigation (Gold),Rathian Spike+,1,22
@@ -811,12 +1188,77 @@ Rathian,HR,Investigation (Gold),Rathian Ruby,1,13
 Rathian,HR,Investigation (Gold),Rathian Webbing,3,12
 Rathian,HR,Investigation (Gold),Inferno Sac,2,12
 Rathian,HR,Investigation (Gold),Rathian Plate,1,10
+Rathian,HR,Investigation (Purple),Mysterious Feystone,1,55
+Rathian,HR,Investigation (Purple),Glowing Feystone,1,25
+Rathian,HR,Investigation (Purple),Worn Feystone,1,15
+Rathian,HR,Investigation (Purple),Warped Feystone,1,5
+Rathian,MR,Track,Rathian Shard,1,100
+Rathian,MR,Carve / Capture,Rathian Shard,1,34
+Rathian,MR,Carve / Capture,Rathian Cortex,1,24
+Rathian,MR,Carve / Capture,Rathian Weave,1,20
+Rathian,MR,Carve / Capture,Rathian Surspike,1,16
+Rathian,MR,Carve / Capture,Rathian Ruby,1,5
+Rathian,MR,Carve / Capture,Rathian Mantle,1,1
+Rathian,MR,Wound Head,Rathian Cortex,1,67
+Rathian,MR,Wound Head,Rathian Shard,1,27
+Rathian,MR,Wound Head,Rathian Ruby,1,5
+Rathian,MR,Wound Head,Rathian Mantle,1,1
+Rathian,MR,Wound Wings,Rath Wingtalon+,1,65
+Rathian,MR,Wound Wings,Rathian Weave,1,35
+Rathian,MR,Wound Back,Rathian Cortex,1,69
+Rathian,MR,Wound Back,Rathian Surspike,1,30
+Rathian,MR,Wound Back,Rathian Mantle,1,1
+Rathian,MR,Shiny Drop,Rathian Shard,1,50
+Rathian,MR,Shiny Drop,Rathian Cortex,1,28
+Rathian,MR,Shiny Drop,Large Wyvern Tear,1,22
+Rathian,MR,Tail Carve,Rathian Surspike,1,70
+Rathian,MR,Tail Carve,Rathian Shard,1,21
+Rathian,MR,Tail Carve,Rathian Ruby,1,7
+Rathian,MR,Tail Carve,Rathian Mantle,1,2
+Rathian,MR,Palico Bonus,Rathian Shard,1,50
+Rathian,MR,Palico Bonus,Rathian Cortex,1,28
+Rathian,MR,Palico Bonus,Large Wyvern Tear,1,22
+Rathian,MR,Plunderblade,Rathian Shard,1,44
+Rathian,MR,Plunderblade,Rathian Cortex,1,34
+Rathian,MR,Plunderblade,Rath Wingtalon+,1,21
+Rathian,MR,Plunderblade,Rathian Mantle,1,1
+Rathian,MR,Bandit Mantle,Lustrous Scale,1,100
+Rathian,MR,Hunt (Bronze),Rathian Cortex,1,29
+Rathian,MR,Hunt (Bronze),Rathian Shard,1,23
+Rathian,MR,Hunt (Bronze),Conflagrant Sac,1,21
+Rathian,MR,Hunt (Bronze),Rath Wingtalon+,1,14
+Rathian,MR,Hunt (Bronze),Rathian Weave,1,10
+Rathian,MR,Hunt (Bronze),Rathian Ruby,1,3
+Rathian,MR,Investigation (Silver),Rathian Surspike,1,22
+Rathian,MR,Investigation (Silver),Rathian Cortex,2,18
+Rathian,MR,Investigation (Silver),Rathian Shard,2,16
+Rathian,MR,Investigation (Silver),Rathian Weave,1,14
+Rathian,MR,Investigation (Silver),Conflagrant Sac,2,14
+Rathian,MR,Investigation (Silver),Rathian Ruby,1,10
+Rathian,MR,Investigation (Silver),Rathian Mantle,1,6
+Rathian,MR,Investigation (Gold),Rathian Surspike,1,22
+Rathian,MR,Investigation (Gold),Rathian Cortex,3,17
+Rathian,MR,Investigation (Gold),Rathian Shard,3,14
+Rathian,MR,Investigation (Gold),Rathian Mantle,1,13
+Rathian,MR,Investigation (Gold),Rathian Weave,2,12
+Rathian,MR,Investigation (Gold),Conflagrant Sac,2,12
+Rathian,MR,Investigation (Gold),Rathian Ruby,1,10
+Rathian,MR,Investigation (Purple),Ancient Feystone,1,70
+Rathian,MR,Investigation (Purple),Carved Feystone,1,30
+Rathian,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Rathian,MR,Guiding Lands (Low),Queen's Scale,1,37
+Rathian,MR,Guiding Lands (Mid),Queen's Scale,1,63
+Rathian,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Rathian,MR,Guiding Lands (High),Queen's Scale,1,100
+Rathian,MR,Guiding Lands (Tempered),Tempered Green Scale,1,54
+Rathian,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,25
+Rathian,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,21
 Tzitzi-Ya-Ku,LR,Track,Tzitzi-Ya-Ku Scale,1,100
 Tzitzi-Ya-Ku,LR,Carve / Capture,Tzitzi-Ya-Ku Scale,1,36
 Tzitzi-Ya-Ku,LR,Carve / Capture,Tzitzi-Ya-Ku Hide,1,28
 Tzitzi-Ya-Ku,LR,Carve / Capture,Tzitzi-Ya-Ku Photophore,1,21
 Tzitzi-Ya-Ku,LR,Carve / Capture,Tzitzi-Ya-Ku Claw,1,15
-Tzitzi-Ya-Ku,LR,Wound Antennae,Tzitzi-Ya-Ku Photophore,1,100
+Tzitzi-Ya-Ku,LR,Wound Head,Tzitzi-Ya-Ku Photophore,1,100
 Tzitzi-Ya-Ku,LR,Shiny Drop,Tzitzi-Ya-Ku Scale,1,50
 Tzitzi-Ya-Ku,LR,Shiny Drop,Tzitzi-Ya-Ku Claw,1,28
 Tzitzi-Ya-Ku,LR,Shiny Drop,Wyvern Tear,1,22
@@ -826,7 +1268,7 @@ Tzitzi-Ya-Ku,LR,Palico Bonus,Wyvern Tear,1,22
 Tzitzi-Ya-Ku,LR,Plunderblade,Tzitzi-Ya-Ku Scale,1,43
 Tzitzi-Ya-Ku,LR,Plunderblade,Tzitzi-Ya-Ku Hide,1,35
 Tzitzi-Ya-Ku,LR,Plunderblade,Tzitzi-Ya-Ku Claw,1,22
-Tzitzi-Ya-Ku,LR,Hunt (Bronze),Tzitzi-Ya-Ku Scale,1,100
+Tzitzi-Ya-Ku,LR,Bandit Mantle,Large Scale,1,100
 Tzitzi-Ya-Ku,LR,Hunt (Bronze),Tzitzi-Ya-Ku Hide,1,27
 Tzitzi-Ya-Ku,LR,Hunt (Bronze),Tzitzi-Ya-Ku Scale,1,21
 Tzitzi-Ya-Ku,LR,Hunt (Bronze),Monster Bone L,1,16
@@ -849,9 +1291,9 @@ Tzitzi-Ya-Ku,HR,Carve / Capture,Tzitzi-Ya-Ku Hide+,1,27
 Tzitzi-Ya-Ku,HR,Carve / Capture,Tzitzi-Ya-Ku Photophore+,1,20
 Tzitzi-Ya-Ku,HR,Carve / Capture,Tzitzi-Ya-Ku Claw+,1,14
 Tzitzi-Ya-Ku,HR,Carve / Capture,Bird Wyvern Gem,1,4
-Tzitzi-Ya-Ku,HR,Wound Antennae,Tzitzi-Ya-Ku Photophore+,1,100
-Tzitzi-Ya-Ku,HR,Shiny Drop,Tzitzi-Ya-Ku Scale,1,50
-Tzitzi-Ya-Ku,HR,Shiny Drop,Tzitzi-Ya-Ku Claw,1,28
+Tzitzi-Ya-Ku,HR,Wound Head,Tzitzi-Ya-Ku Photophore+,1,100
+Tzitzi-Ya-Ku,HR,Shiny Drop,Tzitzi-Ya-Ku Scale+,1,50
+Tzitzi-Ya-Ku,HR,Shiny Drop,Tzitzi-Ya-Ku Claw+,1,28
 Tzitzi-Ya-Ku,HR,Shiny Drop,Wyvern Tear,1,22
 Tzitzi-Ya-Ku,HR,Palico Bonus,Tzitzi-Ya-Ku Scale+,1,50
 Tzitzi-Ya-Ku,HR,Palico Bonus,Tzitzi-Ya-Ku Claw+,1,28
@@ -860,7 +1302,8 @@ Tzitzi-Ya-Ku,HR,Plunderblade,Tzitzi-Ya-Ku Scale+,1,43
 Tzitzi-Ya-Ku,HR,Plunderblade,Tzitzi-Ya-Ku Hide+,1,35
 Tzitzi-Ya-Ku,HR,Plunderblade,Tzitzi-Ya-Ku Claw+,1,20
 Tzitzi-Ya-Ku,HR,Plunderblade,Bird Wyvern Gem,1,2
-Tzitzi-Ya-Ku,HR,Hunt (Bronze),Tzitzi-Ya-Ku Scale+,1,100
+Tzitzi-Ya-Ku,HR,Bandit Mantle,Large Scale,1,70
+Tzitzi-Ya-Ku,HR,Bandit Mantle,Beautiful Scale,1,30
 Tzitzi-Ya-Ku,HR,Hunt (Bronze),Tzitzi-Ya-Ku Hide+,1,26
 Tzitzi-Ya-Ku,HR,Hunt (Bronze),Tzitzi-Ya-Ku Scale+,1,20
 Tzitzi-Ya-Ku,HR,Hunt (Bronze),Monster Bone+,1,16
@@ -880,6 +1323,49 @@ Tzitzi-Ya-Ku,HR,Investigation (Gold),Bird Wyvern Gem,1,16
 Tzitzi-Ya-Ku,HR,Investigation (Gold),Tzitzi-Ya-Ku Hide+,3,12
 Tzitzi-Ya-Ku,HR,Investigation (Gold),Dash Extract,3,10
 Tzitzi-Ya-Ku,HR,Investigation (Gold),Tzitzi-Ya-Ku Scale+,3,8
+Tzitzi-Ya-Ku,MR,Track,Tzitzi-Ya-Ku Shard,1,100
+Tzitzi-Ya-Ku,MR,Carve / Capture,Tzitzi-Ya-Ku Shard,1,35
+Tzitzi-Ya-Ku,MR,Carve / Capture,Tzitzi-Ya-Ku Thickhide,1,27
+Tzitzi-Ya-Ku,MR,Carve / Capture,Tzitzi-Ya-Ku Photomembrane,1,20
+Tzitzi-Ya-Ku,MR,Carve / Capture,Tzitzi-Ya-Ku Hardclaw,1,14
+Tzitzi-Ya-Ku,MR,Carve / Capture,Fey Wyvern Gem,1,4
+Tzitzi-Ya-Ku,MR,Wound Head,Tzitzi-Ya-Ku Photomembrane,1,100
+Tzitzi-Ya-Ku,MR,Shiny Drop,Tzitzi-Ya-Ku Shard,1,50
+Tzitzi-Ya-Ku,MR,Shiny Drop,Tzitzi-Ya-Ku Hardclaw,1,28
+Tzitzi-Ya-Ku,MR,Shiny Drop,Large Wyvern Tear,1,22
+Tzitzi-Ya-Ku,MR,Palico Bonus,Tzitzi-Ya-Ku Shard,1,50
+Tzitzi-Ya-Ku,MR,Palico Bonus,Tzitzi-Ya-Ku Hardclaw,1,28
+Tzitzi-Ya-Ku,MR,Palico Bonus,Large Wyvern Tear,1,22
+Tzitzi-Ya-Ku,MR,Plunderblade,Tzitzi-Ya-Ku Shard,1,43
+Tzitzi-Ya-Ku,MR,Plunderblade,Tzitzi-Ya-Ku Thickhide,1,35
+Tzitzi-Ya-Ku,MR,Plunderblade,Tzitzi-Ya-Ku Hardclaw,1,20
+Tzitzi-Ya-Ku,MR,Plunderblade,Fey Wyvern Gem,1,2
+Tzitzi-Ya-Ku,MR,Bandit Mantle,Beautiful Scale,1,70
+Tzitzi-Ya-Ku,MR,Bandit Mantle,Lustrous Scale,1,30
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Tzitzi-Ya-Ku Thickhide,1,30
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Tzitzi-Ya-Ku Shard,1,23
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Dash Extract,2,18
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Tzitzi-Ya-Ku Hardclaw,1,16
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Tzitzi-Ya-Ku Photomembrane,1,10
+Tzitzi-Ya-Ku,MR,Hunt (Bronze),Fey Wyvern Gem,1,3
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Tzitzi-Ya-Ku Hardclaw,1,32
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Tzitzi-Ya-Ku Photomembrane,1,23
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Tzitzi-Ya-Ku Thickhide,2,14
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Dash Extract,3,12
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Tzitzi-Ya-Ku Shard,2,11
+Tzitzi-Ya-Ku,MR,Investigation (Silver),Fey Wyvern Gem,1,8
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Tzitzi-Ya-Ku Hardclaw,1,30
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Tzitzi-Ya-Ku Photomembrane,1,24
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Fey Wyvern Gem,1,16
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Tzitzi-Ya-Ku Thickhide,3,12
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Dash Extract,5,10
+Tzitzi-Ya-Ku,MR,Investigation (Gold),Tzitzi-Ya-Ku Shard,3,8
+Tzitzi-Ya-Ku,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Tzitzi-Ya-Ku,MR,Guiding Lands (Low),Dazzling Photophore+,1,37
+Tzitzi-Ya-Ku,MR,Guiding Lands (Mid),Dazzling Photophore+,1,63
+Tzitzi-Ya-Ku,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Tzitzi-Ya-Ku,MR,Guiding Lands (High),Dazzling Photophore+,1,100
+Tzitzi-Ya-Ku,MR,Guiding Lands (Tempered),Dazzling Photophore+,1,100
 Paolumu,LR,Track,Paolumu Scale,1,100
 Paolumu,LR,Carve / Capture,Paolumu Scale,1,36
 Paolumu,LR,Carve / Capture,Paolumu Pelt,1,28
@@ -898,7 +1384,7 @@ Paolumu,LR,Palico Bonus,Wyvern Tear,1,22
 Paolumu,LR,Plunderblade,Paolumu Scale,1,43
 Paolumu,LR,Plunderblade,Paolumu Pelt,1,35
 Paolumu,LR,Plunderblade,Paolumu Shell,1,22
-Paolumu,LR,Hunt (Bronze),Paolumu Scale,1,100
+Paolumu,LR,Bandit Mantle,Large Scale,1,100
 Paolumu,LR,Hunt (Bronze),Paolumu Pelt,1,27
 Paolumu,LR,Hunt (Bronze),Paolumu Scale,1,21
 Paolumu,LR,Hunt (Bronze),Monster Bone L,1,16
@@ -906,8 +1392,8 @@ Paolumu,LR,Hunt (Bronze),Paolumu Shell,1,15
 Paolumu,LR,Hunt (Bronze),Nourishing Extract,1,12
 Paolumu,LR,Hunt (Bronze),Paolumu Webbing,1,9
 Paolumu,LR,Investigation (Silver),Paolumu Shell,1,32
-Paolumu,LR,Investigation (Silver),Paolumu Webbing,2,25
-Paolumu,LR,Investigation (Silver),Paolumu Pelt,1,18
+Paolumu,LR,Investigation (Silver),Paolumu Webbing,1,25
+Paolumu,LR,Investigation (Silver),Paolumu Pelt,2,18
 Paolumu,LR,Investigation (Silver),Nourishing Extract,2,14
 Paolumu,LR,Investigation (Silver),Paolumu Scale,2,11
 Paolumu,LR,Investigation (Gold),Paolumu Shell,1,36
@@ -935,7 +1421,8 @@ Paolumu,HR,Plunderblade,Paolumu Pelt+,1,43
 Paolumu,HR,Plunderblade,Paolumu Scale+,1,35
 Paolumu,HR,Plunderblade,Paolumu Carapace+,1,20
 Paolumu,HR,Plunderblade,Wyvern Gem,1,2
-Paolumu,HR,Hunt (Bronze),Paolumu Scale+,1,100
+Paolumu,HR,Bandit Mantle,Large Scale,1,70
+Paolumu,HR,Bandit Mantle,Beautiful Scale,1,30
 Paolumu,HR,Hunt (Bronze),Paolumu Pelt+,1,26
 Paolumu,HR,Hunt (Bronze),Paolumu Scale+,1,20
 Paolumu,HR,Hunt (Bronze),Monster Keenbone,1,16
@@ -955,6 +1442,60 @@ Paolumu,HR,Investigation (Gold),Wyvern Gem,1,16
 Paolumu,HR,Investigation (Gold),Paolumu Pelt+,3,12
 Paolumu,HR,Investigation (Gold),Nourishing Extract,3,10
 Paolumu,HR,Investigation (Gold),Paolumu Scale+,3,8
+Paolumu,HR,Investigation (Purple),Mysterious Feystone,1,55
+Paolumu,HR,Investigation (Purple),Glowing Feystone,1,25
+Paolumu,HR,Investigation (Purple),Worn Feystone,1,15
+Paolumu,HR,Investigation (Purple),Warped Feystone,1,5
+Paolumu,MR,Track,Paolumu Shard,1,100
+Paolumu,MR,Carve / Capture,Paolumu Shard,1,32
+Paolumu,MR,Carve / Capture,Paolumu Thickfur,1,26
+Paolumu,MR,Carve / Capture,Paolumu Fellwing,1,20
+Paolumu,MR,Carve / Capture,Paolumu Cortex,1,15
+Paolumu,MR,Carve / Capture,Wyvern Gem,1,5
+Paolumu,MR,Carve / Capture,Large Wyvern Gem,1,2
+Paolumu,MR,Wound Neck Pouch,Paolumu Thickfur,1,100
+Paolumu,MR,Wound Wings,Paolumu Fellwing,1,100
+Paolumu,MR,Wound Back,Paolumu Thickfur,1,100
+Paolumu,MR,Wound Tail,Paolumu Cortex,1,100
+Paolumu,MR,Shiny Drop,Paolumu Shard,1,50
+Paolumu,MR,Shiny Drop,Paolumu Cortex,1,28
+Paolumu,MR,Shiny Drop,Large Wyvern Tear,1,22
+Paolumu,MR,Palico Bonus,Paolumu Shard,1,50
+Paolumu,MR,Palico Bonus,Paolumu Cortex,1,28
+Paolumu,MR,Palico Bonus,Large Wyvern Tear,1,22
+Paolumu,MR,Plunderblade,Paolumu Thickfur,1,43
+Paolumu,MR,Plunderblade,Paolumu Shard,1,35
+Paolumu,MR,Plunderblade,Paolumu Cortex,1,20
+Paolumu,MR,Plunderblade,Large Wyvern Gem,1,2
+Paolumu,MR,Bandit Mantle,Lustrous Scale,1,100
+Paolumu,MR,Hunt (Bronze),Paolumu Thickfur,1,32
+Paolumu,MR,Hunt (Bronze),Paolumu Shard,1,21
+Paolumu,MR,Hunt (Bronze),Nourishing Extract,3,18
+Paolumu,MR,Hunt (Bronze),Paolumu Cortex,1,16
+Paolumu,MR,Hunt (Bronze),Paolumu Fellwing,2,11
+Paolumu,MR,Hunt (Bronze),Large Wyvern Gem,1,2
+Paolumu,MR,Investigation (Silver),Paolumu Cortex,1,32
+Paolumu,MR,Investigation (Silver),Paolumu Fellwing,1,23
+Paolumu,MR,Investigation (Silver),Paolumu Thickfur,2,14
+Paolumu,MR,Investigation (Silver),Nourishing Extract,3,12
+Paolumu,MR,Investigation (Silver),Paolumu Shard,2,11
+Paolumu,MR,Investigation (Silver),Large Wyvern Gem,1,8
+Paolumu,MR,Investigation (Gold),Paolumu Cortex,1,30
+Paolumu,MR,Investigation (Gold),Paolumu Fellwing,1,24
+Paolumu,MR,Investigation (Gold),Large Wyvern Gem,1,16
+Paolumu,MR,Investigation (Gold),Paolumu Thickfur,3,12
+Paolumu,MR,Investigation (Gold),Nourishing Extract,5,10
+Paolumu,MR,Investigation (Gold),Paolumu Shard,3,8
+Paolumu,MR,Investigation (Purple),Ancient Feystone,1,70
+Paolumu,MR,Investigation (Purple),Carved Feystone,1,30
+Paolumu,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Paolumu,MR,Guiding Lands (Low),Rubbery Shell,1,37
+Paolumu,MR,Guiding Lands (Mid),Rubbery Shell,1,63
+Paolumu,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Paolumu,MR,Guiding Lands (High),Rubbery Shell,1,100
+Paolumu,MR,Guiding Lands (Tempered),Tempered Rubbery Shell,1,54
+Paolumu,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,25
+Paolumu,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,21
 Great Girros,LR,Track,Great Girros Scale,1,100
 Great Girros,LR,Carve / Capture,Great Girros Scale,1,31
 Great Girros,LR,Carve / Capture,Great Girros Hide,1,24
@@ -976,7 +1517,7 @@ Great Girros,LR,Palico Bonus,Wyvern Tear,1,22
 Great Girros,LR,Plunderblade,Great Girros Scale,1,42
 Great Girros,LR,Plunderblade,Great Girros Hide,1,32
 Great Girros,LR,Plunderblade,Great Girros Fang,1,26
-Great Girros,LR,Hunt (Bronze),Great Girros Scale,1,100
+Great Girros,LR,Bandit Mantle,Large Scale,1,100
 Great Girros,LR,Hunt (Bronze),Great Girros Hide,1,26
 Great Girros,LR,Hunt (Bronze),Great Girros Scale,1,21
 Great Girros,LR,Hunt (Bronze),Paralysis Sac,1,18
@@ -984,7 +1525,7 @@ Great Girros,LR,Hunt (Bronze),Great Girros Fang,1,16
 Great Girros,LR,Hunt (Bronze),Monster Bone L,2,10
 Great Girros,LR,Hunt (Bronze),Great Girros Hood,1,9
 Great Girros,LR,Investigation (Silver),Great Girros Fang,1,22
-Great Girros,LR,Investigation (Silver),Great Jagras Hide,2,18
+Great Girros,LR,Investigation (Silver),Great Girros Hide,2,18
 Great Girros,LR,Investigation (Silver),Great Girros Hood,1,18
 Great Girros,LR,Investigation (Silver),Great Girros Tail,1,16
 Great Girros,LR,Investigation (Silver),Great Girros Scale,2,14
@@ -1016,7 +1557,8 @@ Great Girros,HR,Palico Bonus,Wyvern Tear,1,22
 Great Girros,HR,Plunderblade,Great Girros Scale+,1,42
 Great Girros,HR,Plunderblade,Great Girros Hide+,1,32
 Great Girros,HR,Plunderblade,Great Girros Fang+,1,26
-Great Girros,HR,Hunt (Bronze),Great Girros Scale+,1,100
+Great Girros,HR,Bandit Mantle,Large Scale,1,70
+Great Girros,HR,Bandit Mantle,Beautiful Scale,1,30
 Great Girros,HR,Hunt (Bronze),Great Girros Hide+,1,26
 Great Girros,HR,Hunt (Bronze),Great Girros Scale+,1,21
 Great Girros,HR,Hunt (Bronze),Omniplegia Sac,1,18
@@ -1028,13 +1570,59 @@ Great Girros,HR,Investigation (Silver),Great Girros Hide+,2,18
 Great Girros,HR,Investigation (Silver),Great Girros Hood+,1,18
 Great Girros,HR,Investigation (Silver),Great Girros Tail,1,16
 Great Girros,HR,Investigation (Silver),Great Girros Scale+,2,14
-Great Girros,HR,Investigation (Silver),Omniplegia Sac,1,12
+Great Girros,HR,Investigation (Silver),Omniplegia Sac,2,12
 Great Girros,HR,Investigation (Gold),Great Girros Fang+,1,24
 Great Girros,HR,Investigation (Gold),Great Girros Hood+,1,22
 Great Girros,HR,Investigation (Gold),Great Girros Hide+,3,16
 Great Girros,HR,Investigation (Gold),Great Girros Tail,2,14
 Great Girros,HR,Investigation (Gold),Great Girros Scale+,3,12
 Great Girros,HR,Investigation (Gold),Omniplegia Sac,3,12
+Great Girros,MR,Track,Great Girros Shard,1,100
+Great Girros,MR,Carve / Capture,Great Girros Shard,1,31
+Great Girros,MR,Carve / Capture,Great Girros Thickhide,1,24
+Great Girros,MR,Carve / Capture,Great Girros Hardfang,1,18
+Great Girros,MR,Carve / Capture,Great Girros Hardhood,1,15
+Great Girros,MR,Carve / Capture,Great Girros Lash,1,12
+Great Girros,MR,Wound Head,Great Girros Hardhood,1,75
+Great Girros,MR,Wound Head,Great Girros Hardfang,2,25
+Great Girros,MR,Wound Forelegs,Great Girros Thickhide,1,75
+Great Girros,MR,Wound Forelegs,Great Girros Shard,2,25
+Great Girros,MR,Shiny Drop,Great Girros Shard,1,50
+Great Girros,MR,Shiny Drop,Great Girros Hardfang,1,28
+Great Girros,MR,Shiny Drop,Large Wyvern Tear,1,22
+Great Girros,MR,Tail Carve,Great Girros Lash,1,80
+Great Girros,MR,Tail Carve,Great Girros Shard,1,20
+Great Girros,MR,Palico Bonus,Great Girros Shard,1,50
+Great Girros,MR,Palico Bonus,Great Girros Hardfang,1,28
+Great Girros,MR,Palico Bonus,Large Wyvern Tear,1,22
+Great Girros,MR,Plunderblade,Great Girros Shard,1,42
+Great Girros,MR,Plunderblade,Great Girros Thickhide,1,32
+Great Girros,MR,Plunderblade,Great Girros Hardfang,1,26
+Great Girros,MR,Bandit Mantle,Beautiful Scale,1,70
+Great Girros,MR,Bandit Mantle,Lustrous Scale,1,30
+Great Girros,MR,Hunt (Bronze),Great Girros Thickhide,1,28
+Great Girros,MR,Hunt (Bronze),Ultraplegia Sac,1,23
+Great Girros,MR,Hunt (Bronze),Great Girros Shard,1,22
+Great Girros,MR,Hunt (Bronze),Great Girros Hardfang,1,16
+Great Girros,MR,Hunt (Bronze),Great Girros Hardhood,1,11
+Great Girros,MR,Investigation (Silver),Great Girros Hardfang,1,22
+Great Girros,MR,Investigation (Silver),Great Girros Thickhide,2,18
+Great Girros,MR,Investigation (Silver),Great Girros Hardhood,1,18
+Great Girros,MR,Investigation (Silver),Great Girros Lash,1,16
+Great Girros,MR,Investigation (Silver),Great Girros Shard,2,14
+Great Girros,MR,Investigation (Silver),Ultraplegia Sac,2,12
+Great Girros,MR,Investigation (Gold),Great Girros Hardfang,1,24
+Great Girros,MR,Investigation (Gold),Great Girros Hardhood,1,22
+Great Girros,MR,Investigation (Gold),Great Girros Thickhide,3,16
+Great Girros,MR,Investigation (Gold),Great Girros Lash,2,14
+Great Girros,MR,Investigation (Gold),Great Girros Shard,3,12
+Great Girros,MR,Investigation (Gold),Ultraplegia Sac,3,12
+Great Girros,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Great Girros,MR,Guiding Lands (Low),Night Hood,1,37
+Great Girros,MR,Guiding Lands (Mid),Night Hood,1,63
+Great Girros,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Great Girros,MR,Guiding Lands (High),Night Hood,1,100
+Great Girros,MR,Guiding Lands (Tempered),Night Hood,1,100
 Radobaan,LR,Track,Radobaan Scale,1,100
 Radobaan,LR,Carve / Capture,Radobaan Scale,1,38
 Radobaan,LR,Carve / Capture,Radobaan Shell,1,28
@@ -1061,7 +1649,8 @@ Radobaan,LR,Palico Bonus,Wyvern Tear,1,22
 Radobaan,LR,Plunderblade,Radobaan Scale,1,42
 Radobaan,LR,Plunderblade,Radobaan Shell,1,31
 Radobaan,LR,Plunderblade,Wyvern Bonemass,1,27
-Radobaan,LR,Hunt (Bronze),Radobaan Scale,1,100
+Radobaan,LR,Bandit Mantle,Large Scale,1,70
+Radobaan,LR,Bandit Mantle,Beautiful Scale,1,30
 Radobaan,LR,Hunt (Bronze),Radobaan Shell,1,27
 Radobaan,LR,Hunt (Bronze),Radobaan Scale,1,21
 Radobaan,LR,Hunt (Bronze),Sleep Sac,1,18
@@ -1079,7 +1668,7 @@ Radobaan,LR,Investigation (Gold),Wyvern Bonemass,1,22
 Radobaan,LR,Investigation (Gold),Radobaan Marrow,1,20
 Radobaan,LR,Investigation (Gold),Radobaan Shell,3,14
 Radobaan,LR,Investigation (Gold),Radobaan Scale,3,10
-Radobaan,LR,Investigation (Gold),Sleep Sac,1,10
+Radobaan,LR,Investigation (Gold),Sleep Sac,3,10
 Radobaan,HR,Track,Radobaan Scale+,1,100
 Radobaan,HR,Carve / Capture,Radobaan Scale+,1,36
 Radobaan,HR,Carve / Capture,Radobaan Carapace,1,28
@@ -1111,7 +1700,8 @@ Radobaan,HR,Plunderblade,Radobaan Scale+,1,42
 Radobaan,HR,Plunderblade,Radobaan Carapace,1,31
 Radobaan,HR,Plunderblade,Wyvern Bonemass,1,25
 Radobaan,HR,Plunderblade,Wyvern Gem,1,2
-Radobaan,HR,Hunt (Bronze),Radobaan Scale+,1,100
+Radobaan,HR,Bandit Mantle,Beautiful Scale,1,70
+Radobaan,HR,Bandit Mantle,Lustrous Scale,1,30
 Radobaan,HR,Hunt (Bronze),Radobaan Carapace,1,26
 Radobaan,HR,Hunt (Bronze),Radobaan Scale+,1,21
 Radobaan,HR,Hunt (Bronze),Coma Sac,1,18
@@ -1119,10 +1709,10 @@ Radobaan,HR,Hunt (Bronze),Radobaan Oilshell,2,12
 Radobaan,HR,Hunt (Bronze),Radobaan Medulla,1,12
 Radobaan,HR,Hunt (Bronze),Monster Keenbone,2,10
 Radobaan,HR,Hunt (Bronze),Wyvern Gem,1,1
-Radobaan,HR,Investigation (Silver),Radobaan Medulla,2,26
+Radobaan,HR,Investigation (Silver),Radobaan Medulla,1,26
 Radobaan,HR,Investigation (Silver),Radobaan Carapace,2,16
 Radobaan,HR,Investigation (Silver),Coma Sac,2,14
-Radobaan,HR,Investigation (Silver),Radobaan Scale+,1,12
+Radobaan,HR,Investigation (Silver),Radobaan Scale+,2,12
 Radobaan,HR,Investigation (Silver),Radobaan Oilshell,2,12
 Radobaan,HR,Investigation (Silver),Wyvern Bonemass,2,12
 Radobaan,HR,Investigation (Silver),Wyvern Gem,1,8
@@ -1133,6 +1723,69 @@ Radobaan,HR,Investigation (Gold),Wyvern Bonemass,2,12
 Radobaan,HR,Investigation (Gold),Coma Sac,3,12
 Radobaan,HR,Investigation (Gold),Radobaan Oilshell,3,11
 Radobaan,HR,Investigation (Gold),Radobaan Scale+,3,10
+Radobaan,HR,Investigation (Purple),Mysterious Feystone,1,55
+Radobaan,HR,Investigation (Purple),Glowing Feystone,1,25
+Radobaan,HR,Investigation (Purple),Worn Feystone,1,15
+Radobaan,HR,Investigation (Purple),Warped Feystone,1,5
+Radobaan,MR,Track,Radobaan Shard,1,100
+Radobaan,MR,Carve / Capture,Radobaan Shard,1,34
+Radobaan,MR,Carve / Capture,Radobaan Cortex,1,26
+Radobaan,MR,Carve / Capture,Radobaan Oilshell+,1,19
+Radobaan,MR,Carve / Capture,Radobaan Medulla,1,14
+Radobaan,MR,Carve / Capture,Wyvern Gem,1,5
+Radobaan,MR,Carve / Capture,Large Wyvern Gem,1,2
+Radobaan,MR,Wound Head,Radobaan Oilshell+,1,68
+Radobaan,MR,Wound Head,Radobaan Medulla,1,30
+Radobaan,MR,Wound Head,Large Wyvern Gem,1,2
+Radobaan,MR,Wound Back,Large Wyvern Bonemass,2,50
+Radobaan,MR,Wound Back,Radobaan Oilshell+,1,35
+Radobaan,MR,Wound Back,Radobaan Medulla,1,15
+Radobaan,MR,Wound Hindlegs,Large Wyvern Bonemass,1,70
+Radobaan,MR,Wound Hindlegs,Radobaan Shard,1,30
+Radobaan,MR,Shiny Drop,Large Wyvern Bonemass,1,50
+Radobaan,MR,Shiny Drop,Radobaan Shard,1,28
+Radobaan,MR,Shiny Drop,Large Wyvern Tear,1,22
+Radobaan,MR,Tail Carve,Radobaan Oilshell+,1,72
+Radobaan,MR,Tail Carve,Radobaan Medulla,1,25
+Radobaan,MR,Tail Carve,Large Wyvern Gem,1,3
+Radobaan,MR,Palico Bonus,Large Wyvern Bonemass,1,50
+Radobaan,MR,Palico Bonus,Radobaan Shard,1,28
+Radobaan,MR,Palico Bonus,Large Wyvern Tear,1,22
+Radobaan,MR,Plunderblade,Radobaan Shard,1,42
+Radobaan,MR,Plunderblade,Radobaan Cortex,1,31
+Radobaan,MR,Plunderblade,Large Wyvern Bonemass,1,25
+Radobaan,MR,Plunderblade,Large Wyvern Gem,1,2
+Radobaan,MR,Bandit Mantle,Lustrous Scale,1,100
+Radobaan,MR,Hunt (Bronze),Radobaan Cortex,1,28
+Radobaan,MR,Hunt (Bronze),Radobaan Shard,1,23
+Radobaan,MR,Hunt (Bronze),Torpor Sac,1,21
+Radobaan,MR,Hunt (Bronze),Radobaan Oilshell+,1,15
+Radobaan,MR,Hunt (Bronze),Radobaan Medulla,1,12
+Radobaan,MR,Hunt (Bronze),Large Wyvern Gem,1,1
+Radobaan,MR,Investigation (Silver),Radobaan Medulla,1,26
+Radobaan,MR,Investigation (Silver),Radobaan Cortex,2,16
+Radobaan,MR,Investigation (Silver),Torpor Sac,2,14
+Radobaan,MR,Investigation (Silver),Radobaan Shard,2,12
+Radobaan,MR,Investigation (Silver),Radobaan Oilshell+,1,12
+Radobaan,MR,Investigation (Silver),Large Wyvern Bonemass,1,12
+Radobaan,MR,Investigation (Silver),Large Wyvern Gem,1,8
+Radobaan,MR,Investigation (Gold),Radobaan Medulla,1,26
+Radobaan,MR,Investigation (Gold),Large Wyvern Gem,1,16
+Radobaan,MR,Investigation (Gold),Radobaan Cortex,3,13
+Radobaan,MR,Investigation (Gold),Large Wyvern Bonemass,2,12
+Radobaan,MR,Investigation (Gold),Torpor Sac,3,12
+Radobaan,MR,Investigation (Gold),Radobaan Oilshell+,1,11
+Radobaan,MR,Investigation (Gold),Radobaan Shard,3,10
+Radobaan,MR,Investigation (Purple),Ancient Feystone,1,70
+Radobaan,MR,Investigation (Purple),Carved Feystone,1,30
+Radobaan,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Radobaan,MR,Guiding Lands (Low),Inkstained Oilshell+,1,37
+Radobaan,MR,Guiding Lands (Mid),Inkstained Oilshell+,1,63
+Radobaan,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Radobaan,MR,Guiding Lands (High),Inkstained Oilshell+,1,100
+Radobaan,MR,Guiding Lands (Tempered),Tempered Oilshell+,1,54
+Radobaan,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,25
+Radobaan,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,21
 Legiana,LR,Track,Legiana Scale,1,100
 Legiana,LR,Carve / Capture,Legiana Scale,1,35
 Legiana,LR,Carve / Capture,Legiana Hide,1,25
@@ -1159,12 +1812,13 @@ Legiana,LR,Plunderblade,Legiana Scale,1,42
 Legiana,LR,Plunderblade,Legiana Hide,1,31
 Legiana,LR,Plunderblade,Legiana Claw,1,25
 Legiana,LR,Plunderblade,Legiana Plate,1,2
-Legiana,LR,Hunt (Bronze),Legiana Scale,1,100
+Legiana,LR,Bandit Mantle,Large Scale,1,70
+Legiana,LR,Bandit Mantle,Beautiful Scale,1,30
 Legiana,LR,Hunt (Bronze),Legiana Hide,1,27
 Legiana,LR,Hunt (Bronze),Legiana Scale,1,21
 Legiana,LR,Hunt (Bronze),Frost Sac,1,18
 Legiana,LR,Hunt (Bronze),Legiana Claw,1,12
-Legiana,LR,Hunt (Bronze),Monster Bone+,1,10
+Legiana,LR,Hunt (Bronze),Monster Bone+,2,10
 Legiana,LR,Hunt (Bronze),Legiana Webbing,1,9
 Legiana,LR,Hunt (Bronze),Legiana Plate,1,3
 Legiana,LR,Investigation (Silver),Legiana Tail Webbing,1,22
@@ -1211,11 +1865,13 @@ Legiana,HR,Plunderblade,Legiana Scale+,1,42
 Legiana,HR,Plunderblade,Legiana Hide+,1,31
 Legiana,HR,Plunderblade,Legiana Claw+,1,26
 Legiana,HR,Plunderblade,Legiana Gem,1,1
+Legiana,HR,Bandit Mantle,Beautiful Scale,1,70
+Legiana,HR,Bandit Mantle,Lustrous Scale,1,30
 Legiana,HR,Hunt (Bronze),Legiana Hide+,1,27
 Legiana,HR,Hunt (Bronze),Legiana Scale+,1,21
 Legiana,HR,Hunt (Bronze),Freezer Sac,1,18
 Legiana,HR,Hunt (Bronze),Legiana Claw+,1,12
-Legiana,HR,Hunt (Bronze),Monster Hardbone,1,10
+Legiana,HR,Hunt (Bronze),Monster Hardbone,2,10
 Legiana,HR,Hunt (Bronze),Legiana Wing,1,9
 Legiana,HR,Hunt (Bronze),Legiana Plate,1,3
 Legiana,HR,Investigation (Silver),Legiana Claw+,1,24
@@ -1232,6 +1888,74 @@ Legiana,HR,Investigation (Gold),Legiana Hide+,3,12
 Legiana,HR,Investigation (Gold),Freezer Sac,3,12
 Legiana,HR,Investigation (Gold),Legiana Scale+,3,10
 Legiana,HR,Investigation (Gold),Legiana Plate,1,10
+Legiana,HR,Investigation (Purple),Worn Feystone,1,35
+Legiana,HR,Investigation (Purple),Glowing Feystone,1,34
+Legiana,HR,Investigation (Purple),Warped Feystone,1,26
+Legiana,HR,Investigation (Purple),Sullied Streamstone,1,3
+Legiana,HR,Investigation (Purple),Shining Streamstone,1,2
+Legiana,MR,Track,Legiana Shard,1,100
+Legiana,MR,Carve / Capture,Legiana Shard,1,34
+Legiana,MR,Carve / Capture,Legiana Thickhide,1,24
+Legiana,MR,Carve / Capture,Legiana Hardclaw,1,20
+Legiana,MR,Carve / Capture,Legiana Fellwing,1,15
+Legiana,MR,Carve / Capture,Legiana Gem,1,5
+Legiana,MR,Carve / Capture,Legiana Mantle,1,2
+Legiana,MR,Wound Head,Legiana Thickhide,1,62
+Legiana,MR,Wound Head,Legiana Shard,1,34
+Legiana,MR,Wound Head,Legiana Gem,1,3
+Legiana,MR,Wound Head,Legiana Mantle,1,1
+Legiana,MR,Wound Wings,Legiana Fellwing,1,70
+Legiana,MR,Wound Wings,Legiana Thickhide,1,30
+Legiana,MR,Wound Back,Legiana Thickhide,1,96
+Legiana,MR,Wound Back,Legiana Gem,1,3
+Legiana,MR,Wound Back,Legiana Mantle,1,1
+Legiana,MR,Wound Tail,Legiana Tail Webbing+,1,70
+Legiana,MR,Wound Tail,Legiana Thickhide,1,24
+Legiana,MR,Wound Tail,Legiana Gem,1,5
+Legiana,MR,Wound Tail,Legiana Mantle,1,1
+Legiana,MR,Shiny Drop,Legiana Hardclaw,1,50
+Legiana,MR,Shiny Drop,Legiana Shard,1,28
+Legiana,MR,Shiny Drop,Large Wyvern Tear,1,22
+Legiana,MR,Palico Bonus,Legiana Hardclaw,1,50
+Legiana,MR,Palico Bonus,Legiana Shard,1,28
+Legiana,MR,Palico Bonus,Large Wyvern Tear,1,22
+Legiana,MR,Plunderblade,Legiana Shard,1,42
+Legiana,MR,Plunderblade,Legiana Thickhide,1,31
+Legiana,MR,Plunderblade,Legiana Hardclaw,1,26
+Legiana,MR,Plunderblade,Legiana Mantle,1,1
+Legiana,MR,Bandit Mantle,Lustrous Scale,1,70
+Legiana,MR,Bandit Mantle,Glimmering Scale,1,30
+Legiana,MR,Hunt (Bronze),Legiana Thickhide,1,29
+Legiana,MR,Hunt (Bronze),Legiana Shard,1,23
+Legiana,MR,Hunt (Bronze),Cryo Sac,1,23
+Legiana,MR,Hunt (Bronze),Legiana Hardclaw,1,13
+Legiana,MR,Hunt (Bronze),Legiana Fellwing,1,9
+Legiana,MR,Hunt (Bronze),Legiana Gem,1,3
+Legiana,MR,Investigation (Silver),Legiana Tail Webbing+,1,22
+Legiana,MR,Investigation (Silver),Legiana Fellwing,1,18
+Legiana,MR,Investigation (Silver),Legiana Hardclaw,1,16
+Legiana,MR,Investigation (Silver),Legiana Thickhide,2,14
+Legiana,MR,Investigation (Silver),Cryo Sac,2,12
+Legiana,MR,Investigation (Silver),Legiana Shard,2,11
+Legiana,MR,Investigation (Silver),Legiana Mantle,1,7
+Legiana,MR,Investigation (Gold),Legiana Hardclaw,1,18
+Legiana,MR,Investigation (Gold),Legiana Fellwing,1,18
+Legiana,MR,Investigation (Gold),Legiana Tail Webbing+,1,18
+Legiana,MR,Investigation (Gold),Legiana Mantle,1,14
+Legiana,MR,Investigation (Gold),Legiana Thickhide,3,12
+Legiana,MR,Investigation (Gold),Legiana Shard,3,10
+Legiana,MR,Investigation (Gold),Cryo Sac,3,10
+Legiana,MR,Investigation (Purple),Carved Feystone,1,60
+Legiana,MR,Investigation (Purple),Ancient Feystone,1,30
+Legiana,MR,Investigation (Purple),Sealed Feystone,1,10
+Legiana,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Legiana,MR,Guiding Lands (Low),Smooth Icehide,1,37
+Legiana,MR,Guiding Lands (Mid),Smooth Icehide,1,63
+Legiana,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Legiana,MR,Guiding Lands (High),Smooth Icehide,1,100
+Legiana,MR,Guiding Lands (Tempered),Tempered Icehide,1,61
+Legiana,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Legiana,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Odogaron,LR,Track,Odogaron Scale,1,100
 Odogaron,LR,Carve / Capture,Odogaron Scale,1,35
 Odogaron,LR,Carve / Capture,Odogaron Sinew,1,25
@@ -1258,7 +1982,8 @@ Odogaron,LR,Plunderblade,Odogaron Scale,1,42
 Odogaron,LR,Plunderblade,Odogaron Sinew,1,31
 Odogaron,LR,Plunderblade,Odogaron Claw,1,25
 Odogaron,LR,Plunderblade,Odogaron Plate,1,2
-Odogaron,LR,Hunt (Bronze),Odogaron Sinew,1,100
+Odogaron,LR,Bandit Mantle,Large Scale,1,70
+Odogaron,LR,Bandit Mantle,Beautiful Scale,1,30
 Odogaron,LR,Hunt (Bronze),Odogaron Sinew,1,27
 Odogaron,LR,Hunt (Bronze),Odogaron Scale,1,20
 Odogaron,LR,Hunt (Bronze),Nourishing Extract,1,16
@@ -1309,10 +2034,12 @@ Odogaron,HR,Plunderblade,Odogaron Scale+,1,42
 Odogaron,HR,Plunderblade,Odogaron Sinew+,1,31
 Odogaron,HR,Plunderblade,Odogaron Claw+,1,26
 Odogaron,HR,Plunderblade,Odogaron Gem,1,1
+Odogaron,HR,Bandit Mantle,Beautiful Scale,1,70
+Odogaron,HR,Bandit Mantle,Lustrous Scale,1,30
 Odogaron,HR,Hunt (Bronze),Odogaron Sinew+,1,26
 Odogaron,HR,Hunt (Bronze),Odogaron Scale+,1,21
 Odogaron,HR,Hunt (Bronze),Nourishing Extract,2,16
-Odogaron,HR,Hunt (Bronze),Monster Hardbone,2,13
+Odogaron,HR,Hunt (Bronze),Monster Hardbone,1,13
 Odogaron,HR,Hunt (Bronze),Odogaron Claw+,1,12
 Odogaron,HR,Hunt (Bronze),Odogaron Tail,1,9
 Odogaron,HR,Hunt (Bronze),Odogaron Plate,1,3
@@ -1330,6 +2057,73 @@ Odogaron,HR,Investigation (Gold),Odogaron Sinew+,3,12
 Odogaron,HR,Investigation (Gold),Nourishing Extract,3,12
 Odogaron,HR,Investigation (Gold),Odogaron Scale+,3,11
 Odogaron,HR,Investigation (Gold),Odogaron Plate,1,10
+Odogaron,HR,Investigation (Purple),Worn Feystone,1,35
+Odogaron,HR,Investigation (Purple),Glowing Feystone,1,34
+Odogaron,HR,Investigation (Purple),Warped Feystone,1,26
+Odogaron,HR,Investigation (Purple),Sullied Streamstone,1,3
+Odogaron,HR,Investigation (Purple),Shining Streamstone,1,2
+Odogaron,MR,Track,Odogaron Shard,1,100
+Odogaron,MR,Carve / Capture,Odogaron Shard,1,34
+Odogaron,MR,Carve / Capture,Hard Odogaron Sinew,1,24
+Odogaron,MR,Carve / Capture,Odogaron Hardclaw,1,20
+Odogaron,MR,Carve / Capture,Odogaron Hardfang,1,15
+Odogaron,MR,Carve / Capture,Odogaron Gem,1,5
+Odogaron,MR,Carve / Capture,Odogaron Mantle,1,2
+Odogaron,MR,Wound Head,Odogaron Hardfang,1,62
+Odogaron,MR,Wound Head,Odogaron Shard,1,34
+Odogaron,MR,Wound Head,Odogaron Gem,1,3
+Odogaron,MR,Wound Head,Odogaron Mantle,1,1
+Odogaron,MR,Wound Forelegs,Odogaron Hardclaw,1,75
+Odogaron,MR,Wound Forelegs,Odogaron Shard,2,25
+Odogaron,MR,Wound Hindlegs,Hard Odogaron Sinew,1,75
+Odogaron,MR,Wound Hindlegs,Odogaron Shard,2,25
+Odogaron,MR,Shiny Drop,Odogaron Shard,1,50
+Odogaron,MR,Shiny Drop,Odogaron Hardfang,1,28
+Odogaron,MR,Shiny Drop,Large Wyvern Tear,1,22
+Odogaron,MR,Tail Carve,Odogaron Lash,1,70
+Odogaron,MR,Tail Carve,Odogaron Shard,1,20
+Odogaron,MR,Tail Carve,Odogaron Gem,1,7
+Odogaron,MR,Tail Carve,Odogaron Mantle,1,3
+Odogaron,MR,Palico Bonus,Odogaron Shard,1,50
+Odogaron,MR,Palico Bonus,Odogaron Hardfang,1,28
+Odogaron,MR,Palico Bonus,Large Wyvern Tear,1,22
+Odogaron,MR,Plunderblade,Odogaron Shard,1,42
+Odogaron,MR,Plunderblade,Hard Odogaron Sinew,1,31
+Odogaron,MR,Plunderblade,Odogaron Hardclaw,1,26
+Odogaron,MR,Plunderblade,Odogaron Mantle,1,1
+Odogaron,MR,Bandit Mantle,Lustrous Scale,1,70
+Odogaron,MR,Bandit Mantle,Glimmering Scale,1,30
+Odogaron,MR,Hunt (Bronze),Hard Odogaron Sinew,1,30
+Odogaron,MR,Hunt (Bronze),Odogaron Shard,1,23
+Odogaron,MR,Hunt (Bronze),Nourishing Extract,2,18
+Odogaron,MR,Hunt (Bronze),Odogaron Hardclaw,1,15
+Odogaron,MR,Hunt (Bronze),Odogaron Lash,1,11
+Odogaron,MR,Hunt (Bronze),Odogaron Gem,1,3
+Odogaron,MR,Investigation (Silver),Odogaron Lash,1,20
+Odogaron,MR,Investigation (Silver),Odogaron Hardclaw,1,17
+Odogaron,MR,Investigation (Silver),Odogaron Hardfang,1,17
+Odogaron,MR,Investigation (Silver),Hard Odogaron Sinew,2,14
+Odogaron,MR,Investigation (Silver),Odogaron Shard,2,12
+Odogaron,MR,Investigation (Silver),Odogaron Gem,1,10
+Odogaron,MR,Investigation (Silver),Odogaron Mantle,1,10
+Odogaron,MR,Investigation (Gold),Odogaron Hardclaw,1,18
+Odogaron,MR,Investigation (Gold),Odogaron Hardfang,1,18
+Odogaron,MR,Investigation (Gold),Odogaron Mantle,1,18
+Odogaron,MR,Investigation (Gold),Odogaron Lash,1,13
+Odogaron,MR,Investigation (Gold),Hard Odogaron Sinew,3,12
+Odogaron,MR,Investigation (Gold),Odogaron Shard,3,11
+Odogaron,MR,Investigation (Gold),Odogaron Gem,1,10
+Odogaron,MR,Investigation (Purple),Carved Feystone,1,60
+Odogaron,MR,Investigation (Purple),Ancient Feystone,1,30
+Odogaron,MR,Investigation (Purple),Sealed Feystone,1,10
+Odogaron,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Odogaron,MR,Guiding Lands (Low),Fatal Rendclaw,1,37
+Odogaron,MR,Guiding Lands (Mid),Fatal Rendclaw,1,63
+Odogaron,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Odogaron,MR,Guiding Lands (High),Fatal Rendclaw,1,100
+Odogaron,MR,Guiding Lands (Tempered),Tempered Rendclaw,1,61
+Odogaron,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Odogaron,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Rathalos,LR,Track,Rathalos Scale,1,100
 Rathalos,LR,Carve / Capture,Rathalos Scale,1,35
 Rathalos,LR,Carve / Capture,Rathalos Shell,1,26
@@ -1358,7 +2152,8 @@ Rathalos,LR,Plunderblade,Rathalos Scale,1,42
 Rathalos,LR,Plunderblade,Rathalos Shell,1,31
 Rathalos,LR,Plunderblade,Rathalos Webbing,1,25
 Rathalos,LR,Plunderblade,Rathalos Plate,1,2
-Rathalos,LR,Hunt (Bronze),Rathalos Scale,1,100
+Rathalos,LR,Bandit Mantle,Large Scale,1,70
+Rathalos,LR,Bandit Mantle,Beautiful Scale,1,30
 Rathalos,LR,Hunt (Bronze),Rathalos Shell,1,24
 Rathalos,LR,Hunt (Bronze),Rathalos Scale,1,19
 Rathalos,LR,Hunt (Bronze),Flame Sac,1,17
@@ -1367,11 +2162,11 @@ Rathalos,LR,Hunt (Bronze),Monster Bone+,2,10
 Rathalos,LR,Hunt (Bronze),Rathalos Webbing,1,9
 Rathalos,LR,Hunt (Bronze),Rathalos Tail,1,8
 Rathalos,LR,Hunt (Bronze),Rathalos Plate,1,3
-Rathalos,LR,Investigation (Silver),Rathalos Webbing,2,16
+Rathalos,LR,Investigation (Silver),Rathalos Webbing,1,16
 Rathalos,LR,Investigation (Silver),Rathalos Tail,1,16
 Rathalos,LR,Investigation (Silver),Rath Wingtalon,2,15
 Rathalos,LR,Investigation (Silver),Rathalos Marrow,1,13
-Rathalos,LR,Investigation (Silver),Rathalos Shell,1,12
+Rathalos,LR,Investigation (Silver),Rathalos Shell,2,12
 Rathalos,LR,Investigation (Silver),Rathalos Scale,2,10
 Rathalos,LR,Investigation (Silver),Flame Sac,2,10
 Rathalos,LR,Investigation (Silver),Rathalos Plate,1,8
@@ -1414,6 +2209,8 @@ Rathalos,HR,Plunderblade,Rathalos Carapace,1,42
 Rathalos,HR,Plunderblade,Rathalos Scale+,1,31
 Rathalos,HR,Plunderblade,Rathalos Wing,1,26
 Rathalos,HR,Plunderblade,Rathalos Ruby,1,1
+Rathalos,HR,Bandit Mantle,Beautiful Scale,1,70
+Rathalos,HR,Bandit Mantle,Lustrous Scale,1,30
 Rathalos,HR,Hunt (Bronze),Rathalos Carapace,1,27
 Rathalos,HR,Hunt (Bronze),Rathalos Scale+,1,21
 Rathalos,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -1435,6 +2232,78 @@ Rathalos,HR,Investigation (Gold),Rathalos Carapace,3,12
 Rathalos,HR,Investigation (Gold),Inferno Sac,3,12
 Rathalos,HR,Investigation (Gold),Rathalos Scale+,3,10
 Rathalos,HR,Investigation (Gold),Rathalos Plate,1,10
+Rathalos,HR,Investigation (Purple),Worn Feystone,1,35
+Rathalos,HR,Investigation (Purple),Glowing Feystone,1,34
+Rathalos,HR,Investigation (Purple),Warped Feystone,1,26
+Rathalos,HR,Investigation (Purple),Sullied Streamstone,1,3
+Rathalos,HR,Investigation (Purple),Shining Streamstone,1,2
+Rathalos,MR,Track,Rathalos Shard,1,100
+Rathalos,MR,Carve / Capture,Rathalos Shard,1,34
+Rathalos,MR,Carve / Capture,Rathalos Cortex,1,24
+Rathalos,MR,Carve / Capture,Rathalos Fellwing,1,20
+Rathalos,MR,Carve / Capture,Rathalos Medulla,1,14
+Rathalos,MR,Carve / Capture,Rathalos Ruby,1,7
+Rathalos,MR,Carve / Capture,Rathalos Mantle,1,1
+Rathalos,MR,Wound Head,Rathalos Cortex,1,67
+Rathalos,MR,Wound Head,Rathalos Shard,1,27
+Rathalos,MR,Wound Head,Rathalos Ruby,1,5
+Rathalos,MR,Wound Head,Rathalos Mantle,1,1
+Rathalos,MR,Wound Wings,Rathalos Fellwing,1,65
+Rathalos,MR,Wound Wings,Rath Wingtalon+,1,35
+Rathalos,MR,Wound Back,Rathalos Cortex,1,69
+Rathalos,MR,Wound Back,Rathalos Medulla,2,30
+Rathalos,MR,Wound Back,Rathalos Mantle,1,1
+Rathalos,MR,Shiny Drop,Rathalos Shard,1,50
+Rathalos,MR,Shiny Drop,Rathalos Cortex,1,28
+Rathalos,MR,Shiny Drop,Large Wyvern Tear,1,22
+Rathalos,MR,Tail Carve,Rathalos Lash,1,66
+Rathalos,MR,Tail Carve,Rathalos Shard,1,20
+Rathalos,MR,Tail Carve,Rathalos Medulla,1,7
+Rathalos,MR,Tail Carve,Rathalos Ruby,1,5
+Rathalos,MR,Tail Carve,Rathalos Mantle,1,2
+Rathalos,MR,Palico Bonus,Rathalos Shard,1,50
+Rathalos,MR,Palico Bonus,Rathalos Cortex,1,28
+Rathalos,MR,Palico Bonus,Large Wyvern Tear,1,22
+Rathalos,MR,Plunderblade,Rathalos Cortex,1,42
+Rathalos,MR,Plunderblade,Rathalos Shard,1,31
+Rathalos,MR,Plunderblade,Rathalos Fellwing,1,26
+Rathalos,MR,Plunderblade,Rathalos Mantle,1,1
+Rathalos,MR,Bandit Mantle,Lustrous Scale,1,70
+Rathalos,MR,Bandit Mantle,Glimmering Scale,1,30
+Rathalos,MR,Hunt (Bronze),Rathalos Cortex,1,27
+Rathalos,MR,Hunt (Bronze),Rathalos Shard,1,21
+Rathalos,MR,Hunt (Bronze),Conflagrant Sac,1,18
+Rathalos,MR,Hunt (Bronze),Rathalos Fellwing,1,12
+Rathalos,MR,Hunt (Bronze),Rath Wingtalon+,2,10
+Rathalos,MR,Hunt (Bronze),Rathalos Lash,1,9
+Rathalos,MR,Hunt (Bronze),Rathalos Ruby,1,3
+Rathalos,MR,Investigation (Silver),Rathalos Cortex,2,17
+Rathalos,MR,Investigation (Silver),Rathalos Shard,2,15
+Rathalos,MR,Investigation (Silver),Rathalos Fellwing,1,15
+Rathalos,MR,Investigation (Silver),Conflagrant Sac,2,14
+Rathalos,MR,Investigation (Silver),Rathalos Lash,1,13
+Rathalos,MR,Investigation (Silver),Rath Wingtalon+,2,10
+Rathalos,MR,Investigation (Silver),Rathalos Ruby,1,10
+Rathalos,MR,Investigation (Silver),Rathalos Mantle,1,6
+Rathalos,MR,Investigation (Gold),Rathalos Fellwing,1,17
+Rathalos,MR,Investigation (Gold),Rathalos Lash,1,16
+Rathalos,MR,Investigation (Gold),Rathalos Mantle,1,13
+Rathalos,MR,Investigation (Gold),Rathalos Cortex,3,12
+Rathalos,MR,Investigation (Gold),Conflagrant Sac,3,12
+Rathalos,MR,Investigation (Gold),Rathalos Shard,3,10
+Rathalos,MR,Investigation (Gold),Rath Wingtalon+,2,10
+Rathalos,MR,Investigation (Gold),Rathalos Ruby,1,10
+Rathalos,MR,Investigation (Purple),Carved Feystone,1,60
+Rathalos,MR,Investigation (Purple),Ancient Feystone,1,30
+Rathalos,MR,Investigation (Purple),Sealed Feystone,1,10
+Rathalos,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Rathalos,MR,Guiding Lands (Low),King's Scale,1,37
+Rathalos,MR,Guiding Lands (Mid),King's Scale,1,63
+Rathalos,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Rathalos,MR,Guiding Lands (High),King's Scale,1,100
+Rathalos,MR,Guiding Lands (Tempered),Tempered Red Scale,1,61
+Rathalos,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Rathalos,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Diablos,LR,Track,Diablos Shell,1,100
 Diablos,LR,Carve / Capture,Diablos Shell,1,31
 Diablos,LR,Carve / Capture,Diablos Ridge,1,24
@@ -1455,6 +2324,8 @@ Diablos,LR,Palico Bonus,Wyvern Tear,1,22
 Diablos,LR,Plunderblade,Diablos Shell,1,42
 Diablos,LR,Plunderblade,Diablos Ridge,1,31
 Diablos,LR,Plunderblade,Diablos Fang,1,27
+Diablos,LR,Bandit Mantle,Large Scale,1,70
+Diablos,LR,Bandit Mantle,Beautiful Scale,1,30
 Diablos,LR,Hunt (Bronze),Diablos Ridge,1,26
 Diablos,LR,Hunt (Bronze),Diablos Shell,1,21
 Diablos,LR,Hunt (Bronze),Dash Extract,1,16
@@ -1500,10 +2371,12 @@ Diablos,HR,Plunderblade,Diablos Carapace,1,42
 Diablos,HR,Plunderblade,Diablos Ridge+,1,31
 Diablos,HR,Plunderblade,Diablos Fang,1,25
 Diablos,HR,Plunderblade,Wyvern Gem,1,2
+Diablos,HR,Bandit Mantle,Beautiful Scale,1,70
+Diablos,HR,Bandit Mantle,Lustrous Scale,1,30
 Diablos,HR,Hunt (Bronze),Diablos Ridge+,1,26
 Diablos,HR,Hunt (Bronze),Diablos Carapace,1,21
 Diablos,HR,Hunt (Bronze),Dash Extract,2,16
-Diablos,HR,Hunt (Bronze),Diablos Fang,1,14
+Diablos,HR,Hunt (Bronze),Diablos Fang,2,14
 Diablos,HR,Hunt (Bronze),Monster Hardbone,1,13
 Diablos,HR,Hunt (Bronze),Blos Medulla,1,9
 Diablos,HR,Hunt (Bronze),Wyvern Gem,1,1
@@ -1521,6 +2394,67 @@ Diablos,HR,Investigation (Gold),Diablos Ridge+,3,12
 Diablos,HR,Investigation (Gold),Dash Extract,3,12
 Diablos,HR,Investigation (Gold),Diablos Carapace,3,10
 Diablos,HR,Investigation (Gold),Diablos Fang,3,8
+Diablos,HR,Investigation (Purple),Worn Feystone,1,35
+Diablos,HR,Investigation (Purple),Glowing Feystone,1,34
+Diablos,HR,Investigation (Purple),Warped Feystone,1,26
+Diablos,HR,Investigation (Purple),Sullied Streamstone,1,3
+Diablos,HR,Investigation (Purple),Shining Streamstone,1,2
+Diablos,MR,Track,Diablos Cortex,1,100
+Diablos,MR,Carve / Capture,Diablos Cortex,1,34
+Diablos,MR,Carve / Capture,Diablos Chine,1,26
+Diablos,MR,Carve / Capture,Blos Medulla,1,17
+Diablos,MR,Carve / Capture,Diablos Tailcase+,1,15
+Diablos,MR,Carve / Capture,Wyvern Gem,1,5
+Diablos,MR,Carve / Capture,Large Wyvern Gem,1,3
+Diablos,MR,Break Horns,Twisted Stouthorn,1,89
+Diablos,MR,Break Horns,Diablos Hardhorn,1,11
+Diablos,MR,Wound Back,Diablos Chine,1,70
+Diablos,MR,Wound Back,Blos Medulla,2,30
+Diablos,MR,Shiny Drop,Diablos Cortex,1,50
+Diablos,MR,Shiny Drop,Diablos Chine,1,28
+Diablos,MR,Shiny Drop,Large Wyvern Tear,1,22
+Diablos,MR,Tail Carve,Diablos Tailcase+,1,70
+Diablos,MR,Tail Carve,Diablos Cortex,1,25
+Diablos,MR,Tail Carve,Large Wyvern Gem,1,5
+Diablos,MR,Palico Bonus,Diablos Cortex,1,50
+Diablos,MR,Palico Bonus,Diablos Chine,1,28
+Diablos,MR,Palico Bonus,Large Wyvern Tear,1,22
+Diablos,MR,Plunderblade,Diablos Cortex,1,42
+Diablos,MR,Plunderblade,Diablos Chine,1,31
+Diablos,MR,Plunderblade,Diablos Tailcase+,1,25
+Diablos,MR,Plunderblade,Large Wyvern Gem,1,2
+Diablos,MR,Bandit Mantle,Lustrous Scale,1,70
+Diablos,MR,Bandit Mantle,Glimmering Scale,1,30
+Diablos,MR,Hunt (Bronze),Diablos Chine,1,33
+Diablos,MR,Hunt (Bronze),Diablos Cortex,1,25
+Diablos,MR,Hunt (Bronze),Dash Extract,3,16
+Diablos,MR,Hunt (Bronze),Twisted Stouthorn,1,13
+Diablos,MR,Hunt (Bronze),Blos Medulla,2,9
+Diablos,MR,Hunt (Bronze),Wyvern Gem,1,3
+Diablos,MR,Hunt (Bronze),Large Wyvern Gem,1,1
+Diablos,MR,Investigation (Silver),Diablos Chine,2,25
+Diablos,MR,Investigation (Silver),Diablos Cortex,2,21
+Diablos,MR,Investigation (Silver),Diablos Tailcase+,1,20
+Diablos,MR,Investigation (Silver),Twisted Stouthorn,1,16
+Diablos,MR,Investigation (Silver),Large Wyvern Gem,1,12
+Diablos,MR,Investigation (Silver),Diablos Hardhorn,1,6
+Diablos,MR,Investigation (Gold),Diablos Tailcase+,1,22
+Diablos,MR,Investigation (Gold),Twisted Stouthorn,1,18
+Diablos,MR,Investigation (Gold),Large Wyvern Gem,1,18
+Diablos,MR,Investigation (Gold),Diablos Chine,3,16
+Diablos,MR,Investigation (Gold),Diablos Cortex,3,13
+Diablos,MR,Investigation (Gold),Diablos Hardhorn,1,13
+Diablos,MR,Investigation (Purple),Carved Feystone,1,60
+Diablos,MR,Investigation (Purple),Ancient Feystone,1,30
+Diablos,MR,Investigation (Purple),Sealed Feystone,1,10
+Diablos,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Diablos,MR,Guiding Lands (Low),Twisted Bravehorn,1,37
+Diablos,MR,Guiding Lands (Mid),Twisted Bravehorn,1,63
+Diablos,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Diablos,MR,Guiding Lands (High),Twisted Bravehorn,1,100
+Diablos,MR,Guiding Lands (Tempered),Twisted Temperhorn,1,61
+Diablos,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Diablos,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Kirin,LR,Track,Kirin Hide,1,100
 Kirin,LR,Body Carve,Kirin Hide,1,36
 Kirin,LR,Body Carve,Kirin Tail,1,28
@@ -1537,7 +2471,8 @@ Kirin,LR,Plunderblade,Kirin Hide,1,43
 Kirin,LR,Plunderblade,Kirin Tail,1,34
 Kirin,LR,Plunderblade,Kirin Mane,1,22
 Kirin,LR,Plunderblade,Lightcrystal,1,1
-Kirin,LR,Hunt (Bronze),Kirin Hide,1,100
+Kirin,LR,Bandit Mantle,Large Scale,1,70
+Kirin,LR,Bandit Mantle,Beautiful Scale,1,30
 Kirin,LR,Hunt (Bronze),Kirin Mane,1,35
 Kirin,LR,Hunt (Bronze),Kirin Hide,1,20
 Kirin,LR,Hunt (Bronze),Kirin Tail,1,20
@@ -1570,13 +2505,14 @@ Kirin,HR,Plunderblade,Kirin Hide+,1,43
 Kirin,HR,Plunderblade,Kirin Thundertail,1,34
 Kirin,HR,Plunderblade,Kirin Mane,1,22
 Kirin,HR,Plunderblade,Novacrystal,1,1
+Kirin,HR,Bandit Mantle,Lustrous Scale,1,100
 Kirin,HR,Hunt (Bronze),Kirin Mane,1,28
 Kirin,HR,Hunt (Bronze),Kirin Hide+,1,21
 Kirin,HR,Hunt (Bronze),Elder Dragon Blood,1,16
 Kirin,HR,Hunt (Bronze),Kirin Thundertail,1,13
 Kirin,HR,Hunt (Bronze),Elder Dragon Bone,1,13
 Kirin,HR,Hunt (Bronze),Novacrystal,1,9
-Kirin,HR,Investigation (Silver),Kirin Tail,1,28
+Kirin,HR,Investigation (Silver),Kirin Thundertail,1,28
 Kirin,HR,Investigation (Silver),Kirin Azure Horn,1,22
 Kirin,HR,Investigation (Silver),Novacrystal,1,18
 Kirin,HR,Investigation (Silver),Kirin Hide+,2,12
@@ -1584,10 +2520,61 @@ Kirin,HR,Investigation (Silver),Elder Dragon Blood,2,12
 Kirin,HR,Investigation (Silver),Elder Dragon Bone,2,8
 Kirin,HR,Investigation (Gold),Kirin Azure Horn,1,26
 Kirin,HR,Investigation (Gold),Novacrystal,2,22
-Kirin,HR,Investigation (Gold),Kirin Tail,1,20
+Kirin,HR,Investigation (Gold),Kirin Thundertail,1,20
 Kirin,HR,Investigation (Gold),Kirin Hide+,3,12
 Kirin,HR,Investigation (Gold),Elder Dragon Blood,3,12
 Kirin,HR,Investigation (Gold),Elder Dragon Bone,3,8
+Kirin,HR,Investigation (Purple),Worn Feystone,1,70
+Kirin,HR,Investigation (Purple),Warped Feystone,1,13
+Kirin,HR,Investigation (Purple),Sullied Streamstone,1,12
+Kirin,HR,Investigation (Purple),Shining Streamstone,1,5
+Kirin,MR,Track,Kirin Finehide,1,100
+Kirin,MR,Body Carve,Kirin Finehide,1,36
+Kirin,MR,Body Carve,Kirin Thundertail+,1,28
+Kirin,MR,Body Carve,Kirin Silvermane,1,21
+Kirin,MR,Body Carve,Kirin Azure Horn+,1,15
+Kirin,MR,Break Horn,Kirin Azure Horn+,1,80
+Kirin,MR,Break Horn,Kirin Azure Horn,1,20
+Kirin,MR,Shiny Drop,Kirin Finehide,1,50
+Kirin,MR,Shiny Drop,Kirin Silvermane,1,28
+Kirin,MR,Shiny Drop,Old Dragon Treasure,1,22
+Kirin,MR,Palico Bonus,Kirin Finehide,1,50
+Kirin,MR,Palico Bonus,Kirin Silvermane,1,28
+Kirin,MR,Palico Bonus,Old Dragon Treasure,1,22
+Kirin,MR,Plunderblade,Kirin Finehide,1,43
+Kirin,MR,Plunderblade,Kirin Thundertail+,1,34
+Kirin,MR,Plunderblade,Kirin Silvermane,1,22
+Kirin,MR,Plunderblade,Purecrystal,1,1
+Kirin,MR,Bandit Mantle,Giant Scale,1,70
+Kirin,MR,Bandit Mantle,Magnificent Scale,1,30
+Kirin,MR,Hunt (Bronze),Kirin Silvermane,1,28
+Kirin,MR,Hunt (Bronze),Kirin Finehide,1,21
+Kirin,MR,Hunt (Bronze),Pure Dragon Blood,1,16
+Kirin,MR,Hunt (Bronze),Kirin Thundertail+,1,13
+Kirin,MR,Hunt (Bronze),Large Elder Dragon Bone,1,13
+Kirin,MR,Hunt (Bronze),Purecrystal,1,9
+Kirin,MR,Investigation (Silver),Kirin Thundertail+,1,28
+Kirin,MR,Investigation (Silver),Kirin Azure Horn+,1,22
+Kirin,MR,Investigation (Silver),Purecrystal,1,18
+Kirin,MR,Investigation (Silver),Kirin Finehide,2,12
+Kirin,MR,Investigation (Silver),Pure Dragon Blood,2,12
+Kirin,MR,Investigation (Silver),Large Elder Dragon Bone,2,8
+Kirin,MR,Investigation (Gold),Kirin Azure Horn+,1,26
+Kirin,MR,Investigation (Gold),Purecrystal,2,22
+Kirin,MR,Investigation (Gold),Kirin Thundertail+,1,20
+Kirin,MR,Investigation (Gold),Kirin Finehide,3,12
+Kirin,MR,Investigation (Gold),Pure Dragon Blood,3,12
+Kirin,MR,Investigation (Gold),Large Elder Dragon Bone,3,8
+Kirin,MR,Investigation (Purple),Carved Feystone,1,60
+Kirin,MR,Investigation (Purple),Sealed Feystone,1,40
+Kirin,MR,Guiding Lands (Low),Elder Dragonvein Bone,1,63
+Kirin,MR,Guiding Lands (Low),Solemn Azure Horn,1,37
+Kirin,MR,Guiding Lands (Mid),Solemn Azure Horn,1,63
+Kirin,MR,Guiding Lands (Mid),Elder Dragonvein Bone,1,37
+Kirin,MR,Guiding Lands (High),Solemn Azure Horn,1,100
+Kirin,MR,Guiding Lands (Tempered),Tempered Azure Horn,1,64
+Kirin,MR,Guiding Lands (Tempered),Elder Spiritvein Bone,1,35
+Kirin,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,1
 Zorah Magdaros,LR,Wound Head,Zorah Magdaros Magma,1,67
 Zorah Magdaros,LR,Wound Head,Zorah Magdaros Magma,2,33
 Zorah Magdaros,LR,Wound Chest Shell,Zorah Magdaros Pleura,1,100
@@ -1641,7 +2628,7 @@ Dodogama,HR,Carve / Capture,Dodogama Jaw,1,18
 Dodogama,HR,Carve / Capture,Dodogama Talon,1,15
 Dodogama,HR,Carve / Capture,Dodogama Tail,1,12
 Dodogama,HR,Wound Head,Dodogama Jaw,1,100
-Dodogama,HR,Wound Forearms,Dodogama Talon,1,100
+Dodogama,HR,Wound Forelegs,Dodogama Talon,1,100
 Dodogama,HR,Shiny Drop,Dodogama Scale+,1,50
 Dodogama,HR,Shiny Drop,Dodogama Talon,1,28
 Dodogama,HR,Shiny Drop,Wyvern Tear,1,22
@@ -1653,10 +2640,12 @@ Dodogama,HR,Palico Bonus,Wyvern Tear,1,22
 Dodogama,HR,Plunderblade,Dodogama Scale+,1,43
 Dodogama,HR,Plunderblade,Dodogama Hide+,1,35
 Dodogama,HR,Plunderblade,Dodogama Jaw,1,22
+Dodogama,HR,Bandit Mantle,Large Scale,1,70
+Dodogama,HR,Bandit Mantle,Beautiful Scale,1,30
 Dodogama,HR,Hunt (Bronze),Dodogama Hide+,1,26
 Dodogama,HR,Hunt (Bronze),Dodogama Scale+,1,20
 Dodogama,HR,Hunt (Bronze),Dodogama Talon,1,16
-Dodogama,HR,Hunt (Bronze),Nourishing Extract,1,16
+Dodogama,HR,Hunt (Bronze),Nourishing Extract,2,16
 Dodogama,HR,Hunt (Bronze),Monster Keenbone,1,13
 Dodogama,HR,Hunt (Bronze),Dodogama Jaw,1,9
 Dodogama,HR,Investigation (Silver),Dodogama Talon,1,30
@@ -1664,11 +2653,54 @@ Dodogama,HR,Investigation (Silver),Dodogama Jaw,1,25
 Dodogama,HR,Investigation (Silver),Dodogama Hide+,2,17
 Dodogama,HR,Investigation (Silver),Nourishing Extract,2,16
 Dodogama,HR,Investigation (Silver),Dodogama Scale+,2,12
-Dodogama,HR,Investigation (Gold),Dodogama Jaw,1,36
-Dodogama,HR,Investigation (Gold),Dodogama Talon,1,30
+Dodogama,HR,Investigation (Gold),Dodogama Talon,1,36
+Dodogama,HR,Investigation (Gold),Dodogama Jaw,1,30
 Dodogama,HR,Investigation (Gold),Nourishing Extract,2,14
 Dodogama,HR,Investigation (Gold),Dodogama Hide+,3,12
 Dodogama,HR,Investigation (Gold),Dodogama Scale+,3,8
+Dodogama,MR,Track,Dodogama Shard,1,100
+Dodogama,MR,Carve / Capture,Dodogama Shard,1,31
+Dodogama,MR,Carve / Capture,Dodogama Thickhide,1,24
+Dodogama,MR,Carve / Capture,Dodogama Mandible,1,18
+Dodogama,MR,Carve / Capture,Dodogama Hardclaw,1,15
+Dodogama,MR,Carve / Capture,Dodogama Lash,1,12
+Dodogama,MR,Wound Head,Dodogama Mandible,1,100
+Dodogama,MR,Wound Forelegs,Dodogama Hardclaw,1,100
+Dodogama,MR,Shiny Drop,Dodogama Shard,1,50
+Dodogama,MR,Shiny Drop,Dodogama Hardclaw,1,28
+Dodogama,MR,Shiny Drop,Large Wyvern Tear,1,22
+Dodogama,MR,Tail Carve,Dodogama Lash,1,80
+Dodogama,MR,Tail Carve,Dodogama Thickhide,1,20
+Dodogama,MR,Palico Bonus,Dodogama Shard,1,50
+Dodogama,MR,Palico Bonus,Dodogama Hardclaw,1,28
+Dodogama,MR,Palico Bonus,Large Wyvern Tear,1,22
+Dodogama,MR,Plunderblade,Dodogama Shard,1,43
+Dodogama,MR,Plunderblade,Dodogama Thickhide,1,35
+Dodogama,MR,Plunderblade,Dodogama Mandible,1,22
+Dodogama,MR,Bandit Mantle,Beautiful Scale,1,70
+Dodogama,MR,Bandit Mantle,Lustrous Scale,1,30
+Dodogama,MR,Hunt (Bronze),Dodogama Thickhide,1,26
+Dodogama,MR,Hunt (Bronze),Dodogama Shard,1,20
+Dodogama,MR,Hunt (Bronze),Dodogama Hardclaw,1,16
+Dodogama,MR,Hunt (Bronze),Hard Armor Sphere,1,16
+Dodogama,MR,Hunt (Bronze),Nourishing Extract,3,13
+Dodogama,MR,Hunt (Bronze),Dodogama Mandible,1,9
+Dodogama,MR,Investigation (Silver),Dodogama Hardclaw,1,30
+Dodogama,MR,Investigation (Silver),Dodogama Mandible,1,25
+Dodogama,MR,Investigation (Silver),Dodogama Thickhide,2,17
+Dodogama,MR,Investigation (Silver),Hard Armor Sphere,2,16
+Dodogama,MR,Investigation (Silver),Dodogama Shard,2,12
+Dodogama,MR,Investigation (Gold),Dodogama Hardclaw,1,34
+Dodogama,MR,Investigation (Gold),Dodogama Mandible,1,28
+Dodogama,MR,Investigation (Gold),Hard Armor Sphere,2,18
+Dodogama,MR,Investigation (Gold),Dodogama Thickhide,3,12
+Dodogama,MR,Investigation (Gold),Dodogama Shard,3,8
+Dodogama,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Dodogama,MR,Guiding Lands (Low),Heavy Jaw,1,37
+Dodogama,MR,Guiding Lands (Mid),Heavy Jaw,1,63
+Dodogama,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Dodogama,MR,Guiding Lands (High),Heavy Jaw,1,100
+Dodogama,MR,Guiding Lands (Tempered),Heavy Jaw,1,100
 Pink Rathian,HR,Track,Pink Rathian Scale+,1,100
 Pink Rathian,HR,Carve / Capture,Pink Rathian Scale+,1,34
 Pink Rathian,HR,Carve / Capture,Pink Rathian Carapace,1,24
@@ -1698,7 +2730,8 @@ Pink Rathian,HR,Plunderblade,Pink Rathian Scale+,1,44
 Pink Rathian,HR,Plunderblade,Pink Rathian Carapace,1,34
 Pink Rathian,HR,Plunderblade,Rath Wingtalon,1,21
 Pink Rathian,HR,Plunderblade,Rathian Ruby,1,1
-Pink Rathian,HR,Hunt (Bronze),Pink Rathian Scale+,1,100
+Pink Rathian,HR,Bandit Mantle,Beautiful Scale,1,70
+Pink Rathian,HR,Bandit Mantle,Lustrous Scale,1,30
 Pink Rathian,HR,Hunt (Bronze),Pink Rathian Carapace,1,27
 Pink Rathian,HR,Hunt (Bronze),Pink Rathian Scale+,1,21
 Pink Rathian,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -1710,7 +2743,7 @@ Pink Rathian,HR,Investigation (Silver),Rathian Spike+,1,21
 Pink Rathian,HR,Investigation (Silver),Pink Rathian Carapace,2,18
 Pink Rathian,HR,Investigation (Silver),Pink Rathian Scale+,2,16
 Pink Rathian,HR,Investigation (Silver),Rathian Webbing,2,14
-Pink Rathian,HR,Investigation (Silver),Inferno Sac,1,14
+Pink Rathian,HR,Investigation (Silver),Inferno Sac,2,14
 Pink Rathian,HR,Investigation (Silver),Rathian Plate,1,10
 Pink Rathian,HR,Investigation (Silver),Rathian Ruby,1,7
 Pink Rathian,HR,Investigation (Gold),Rathian Spike+,1,21
@@ -1720,6 +2753,72 @@ Pink Rathian,HR,Investigation (Gold),Rathian Ruby,1,14
 Pink Rathian,HR,Investigation (Gold),Rathian Webbing,3,12
 Pink Rathian,HR,Investigation (Gold),Inferno Sac,2,12
 Pink Rathian,HR,Investigation (Gold),Rathian Plate,1,10
+Pink Rathian,HR,Investigation (Purple),Worn Feystone,1,35
+Pink Rathian,HR,Investigation (Purple),Glowing Feystone,1,34
+Pink Rathian,HR,Investigation (Purple),Warped Feystone,1,26
+Pink Rathian,HR,Investigation (Purple),Sullied Streamstone,1,3
+Pink Rathian,HR,Investigation (Purple),Shining Streamstone,1,2
+Pink Rathian,MR,Track,Pink Rathian Shard,1,100
+Pink Rathian,MR,Carve / Capture,Pink Rathian Shard,1,34
+Pink Rathian,MR,Carve / Capture,Pink Rathian Cortex,1,24
+Pink Rathian,MR,Carve / Capture,Rathian Weave,1,20
+Pink Rathian,MR,Carve / Capture,Rathian Surspike,1,15
+Pink Rathian,MR,Carve / Capture,Rathian Ruby,1,5
+Pink Rathian,MR,Carve / Capture,Rathian Mantle,1,2
+Pink Rathian,MR,Wound Head,Pink Rathian Cortex,1,67
+Pink Rathian,MR,Wound Head,Pink Rathian Shard,1,25
+Pink Rathian,MR,Wound Head,Rathian Ruby,1,5
+Pink Rathian,MR,Wound Head,Rathian Mantle,1,3
+Pink Rathian,MR,Wound Wings,Rath Wingtalon+,1,65
+Pink Rathian,MR,Wound Wings,Rathian Weave,1,35
+Pink Rathian,MR,Wound Back,Pink Rathian Cortex,1,69
+Pink Rathian,MR,Wound Back,Rathian Surspike,1,30
+Pink Rathian,MR,Wound Back,Rathian Mantle,1,1
+Pink Rathian,MR,Shiny Drop,Pink Rathian Shard,1,50
+Pink Rathian,MR,Shiny Drop,Pink Rathian Cortex,1,28
+Pink Rathian,MR,Shiny Drop,Large Wyvern Tear,1,22
+Pink Rathian,MR,Tail Carve,Rathian Surspike,1,65
+Pink Rathian,MR,Tail Carve,Pink Rathian Shard,1,25
+Pink Rathian,MR,Tail Carve,Rathian Ruby,1,7
+Pink Rathian,MR,Tail Carve,Rathian Mantle,1,3
+Pink Rathian,MR,Palico Bonus,Pink Rathian Shard,1,50
+Pink Rathian,MR,Palico Bonus,Pink Rathian Cortex,1,28
+Pink Rathian,MR,Palico Bonus,Large Wyvern Tear,1,22
+Pink Rathian,MR,Plunderblade,Pink Rathian Shard,1,44
+Pink Rathian,MR,Plunderblade,Pink Rathian Cortex,1,34
+Pink Rathian,MR,Plunderblade,Rath Wingtalon+,1,21
+Pink Rathian,MR,Plunderblade,Rathian Mantle,1,1
+Pink Rathian,MR,Bandit Mantle,Lustrous Scale,1,100
+Pink Rathian,MR,Hunt (Bronze),Pink Rathian Cortex,1,29
+Pink Rathian,MR,Hunt (Bronze),Pink Rathian Shard,1,23
+Pink Rathian,MR,Hunt (Bronze),Conflagrant Sac,1,21
+Pink Rathian,MR,Hunt (Bronze),Rath Wingtalon+,1,12
+Pink Rathian,MR,Hunt (Bronze),Rathian Weave,1,10
+Pink Rathian,MR,Hunt (Bronze),Rathian Ruby,1,3
+Pink Rathian,MR,Hunt (Bronze),Rathian Mantle,1,2
+Pink Rathian,MR,Investigation (Silver),Pink Rathian Cortex,2,22
+Pink Rathian,MR,Investigation (Silver),Rathian Surspike,1,21
+Pink Rathian,MR,Investigation (Silver),Pink Rathian Shard,2,20
+Pink Rathian,MR,Investigation (Silver),Rathian Weave,1,17
+Pink Rathian,MR,Investigation (Silver),Rathian Ruby,1,10
+Pink Rathian,MR,Investigation (Silver),Rathian Mantle,1,10
+Pink Rathian,MR,Investigation (Gold),Rathian Surspike,1,24
+Pink Rathian,MR,Investigation (Gold),Rathian Weave,1,19
+Pink Rathian,MR,Investigation (Gold),Rathian Mantle,1,18
+Pink Rathian,MR,Investigation (Gold),Pink Rathian Cortex,3,16
+Pink Rathian,MR,Investigation (Gold),Pink Rathian Shard,3,13
+Pink Rathian,MR,Investigation (Gold),Rathian Ruby,1,10
+Pink Rathian,MR,Investigation (Purple),Carved Feystone,1,60
+Pink Rathian,MR,Investigation (Purple),Ancient Feystone,1,30
+Pink Rathian,MR,Investigation (Purple),Sealed Feystone,1,10
+Pink Rathian,MR,Guiding Lands (Low),Fierce Dragonvein Bone,1,63
+Pink Rathian,MR,Guiding Lands (Low),Pink Scale,1,37
+Pink Rathian,MR,Guiding Lands (Mid),Pink Scale,1,63
+Pink Rathian,MR,Guiding Lands (Mid),Fierce Dragonvein Bone,1,37
+Pink Rathian,MR,Guiding Lands (High),Pink Scale,1,100
+Pink Rathian,MR,Guiding Lands (Tempered),Tempered Pink Scale,1,54
+Pink Rathian,MR,Guiding Lands (Tempered),Spiritvein Slogbone,1,25
+Pink Rathian,MR,Guiding Lands (Tempered),Spiritvein Gem Shard,1,21
 Bazelgeuse,HR,Track,Bazelgeuse Scale+,1,100
 Bazelgeuse,HR,Carve / Capture,Bazelgeuse Scale+,1,32
 Bazelgeuse,HR,Carve / Capture,Bazelgeuse Carapace,1,24
@@ -1748,6 +2847,7 @@ Bazelgeuse,HR,Plunderblade,Bazelgeuse Scale+,1,41
 Bazelgeuse,HR,Plunderblade,Bazelgeuse Carapace,1,33
 Bazelgeuse,HR,Plunderblade,Bazelgeuse Talon,1,25
 Bazelgeuse,HR,Plunderblade,Bazelgeuse Gem,1,1
+Bazelgeuse,HR,Bandit Mantle,Lustrous Scale,1,100
 Bazelgeuse,HR,Hunt (Bronze),Bazelgeuse Carapace,1,26
 Bazelgeuse,HR,Hunt (Bronze),Bazelgeuse Scale+,1,20
 Bazelgeuse,HR,Hunt (Bronze),Bazelgeuse Talon,1,14
@@ -1777,10 +2877,12 @@ Deviljho,HR,Carve / Capture,Deviljho Tallfang,1,13
 Deviljho,HR,Carve / Capture,Deviljho Tail,1,8
 Deviljho,HR,Carve / Capture,Deviljho Scalp,1,8
 Deviljho,HR,Carve / Capture,Deviljho Gem,1,2
-Deviljho,HR,Wound Head,Deviljho Tallfang,1,
-Deviljho,HR,Wound Head,Deviljho Gem,1,
-Deviljho,HR,Wound Chest,Deviljho Scale,1,
-Deviljho,HR,Wound Chest,Deviljho Gem,1,
+Deviljho,HR,Wound Head,Deviljho Tallfang,1,65
+Deviljho,HR,Wound Head,Deviljho Scalp,1,32
+Deviljho,HR,Wound Head,Deviljho Gem,1,3
+Deviljho,HR,Wound Chest,Deviljho Scale,1,66
+Deviljho,HR,Wound Chest,Deviljho Hide,1,32
+Deviljho,HR,Wound Chest,Deviljho Gem,1,2
 Deviljho,HR,Shiny Drop,Deviljho Saliva,1,50
 Deviljho,HR,Shiny Drop,Deviljho Scale,1,28
 Deviljho,HR,Shiny Drop,Large Wyvern Tear,1,22
@@ -1790,13 +2892,35 @@ Deviljho,HR,Tail Carve,Deviljho Gem,1,3
 Deviljho,HR,Palico Bonus,Deviljho Saliva,1,50
 Deviljho,HR,Palico Bonus,Deviljho Scale,1,28
 Deviljho,HR,Palico Bonus,Large Wyvern Tear,1,22
-Deviljho,HR,Hunt (Bronze),Deviljho Scale,1,
-Deviljho,HR,Hunt (Bronze),Deviljho Hide,1,
-Deviljho,HR,Hunt (Bronze),Deviljho Tallfang,1,
-Deviljho,HR,Hunt (Bronze),Deviljho Talon,1,
-Deviljho,HR,Hunt (Bronze),Deviljho Saliva,1,
-Deviljho,HR,Hunt (Bronze),Deviljho Gem,1,
-Deviljho,HR,Hunt (Bronze),Monster Hardbone,1,
+Deviljho,HR,Plunderblade,Deviljho Scale,1,45
+Deviljho,HR,Plunderblade,Deviljho Hide,1,30
+Deviljho,HR,Plunderblade,Deviljho Talon,1,24
+Deviljho,HR,Plunderblade,Deviljho Gem,1,1
+Deviljho,HR,Bandit Mantle,Large Scale,1,100
+Deviljho,HR,Bandit Mantle,Lustrous Scale,1,100
+Deviljho,HR,Hunt (Bronze),Deviljho Hide,1,26
+Deviljho,HR,Hunt (Bronze),Deviljho Scale,1,20
+Deviljho,HR,Hunt (Bronze),Deviljho Talon,1,14
+Deviljho,HR,Hunt (Bronze),Deviljho Tallfang,1,12
+Deviljho,HR,Hunt (Bronze),Deviljho Saliva,2,10
+Deviljho,HR,Hunt (Bronze),Monster Hardbone,2,10
+Deviljho,HR,Hunt (Bronze),Deviljho Tail,1,8
+Deviljho,HR,Investigation (Silver),Deviljho Talon,1,16
+Deviljho,HR,Investigation (Silver),Deviljho Tallfang,1,16
+Deviljho,HR,Investigation (Silver),Deviljho Tail,1,13
+Deviljho,HR,Investigation (Silver),Deviljho Scalp,1,13
+Deviljho,HR,Investigation (Silver),Deviljho Hide,2,12
+Deviljho,HR,Investigation (Silver),Deviljho Scale,2,10
+Deviljho,HR,Investigation (Silver),Deviljho Saliva,3,10
+Deviljho,HR,Investigation (Silver),Deviljho Gem,1,10
+Deviljho,HR,Investigation (Gold),Deviljho Gem,1,18
+Deviljho,HR,Investigation (Gold),Deviljho Tail,1,16
+Deviljho,HR,Investigation (Gold),Deviljho Scalp,1,16
+Deviljho,HR,Investigation (Gold),Deviljho Talon,1,12
+Deviljho,HR,Investigation (Gold),Deviljho Hide,3,10
+Deviljho,HR,Investigation (Gold),Deviljho Tallfang,1,10
+Deviljho,HR,Investigation (Gold),Deviljho Saliva,3,10
+Deviljho,HR,Investigation (Gold),Deviljho Scale,3,8
 Lavasioth,HR,Track,Lavasioth Scale+,1,100
 Lavasioth,HR,Carve / Capture,Lavasioth Scale+,1,35
 Lavasioth,HR,Carve / Capture,Lavasioth Carapace,1,27
@@ -1804,7 +2928,7 @@ Lavasioth,HR,Carve / Capture,Lavasioth Fin+,1,20
 Lavasioth,HR,Carve / Capture,Lavasioth Fang+,1,15
 Lavasioth,HR,Carve / Capture,Wyvern Gem,1,3
 Lavasioth,HR,Wound Head,Lavasioth Fang+,1,100
-Lavasioth,HR,Wound Back,Lavasioth Fin+,1,100
+Lavasioth,HR,Wound Fin,Lavasioth Fin+,1,100
 Lavasioth,HR,Shiny Drop,Lavasioth Scale+,1,50
 Lavasioth,HR,Shiny Drop,Lavasioth Fin+,1,28
 Lavasioth,HR,Shiny Drop,Wyvern Tear,1,22
@@ -1815,6 +2939,7 @@ Lavasioth,HR,Plunderblade,Lavasioth Scale+,1,42
 Lavasioth,HR,Plunderblade,Lavasioth Carapace,1,34
 Lavasioth,HR,Plunderblade,Lavasioth Fang+,1,22
 Lavasioth,HR,Plunderblade,Wyvern Gem,1,2
+Lavasioth,HR,Bandit Mantle,Lustrous Scale,1,100
 Lavasioth,HR,Hunt (Bronze),Lavasioth Carapace,1,27
 Lavasioth,HR,Hunt (Bronze),Lavasioth Scale+,1,24
 Lavasioth,HR,Hunt (Bronze),Lavasioth Fang+,1,15
@@ -1834,6 +2959,60 @@ Lavasioth,HR,Investigation (Gold),Wyvern Gem,1,16
 Lavasioth,HR,Investigation (Gold),Lavasioth Carapace,3,12
 Lavasioth,HR,Investigation (Gold),Inferno Sac,3,10
 Lavasioth,HR,Investigation (Gold),Lavasioth Scale+,3,8
+Lavasioth,HR,Investigation (Purple),Worn Feystone,1,35
+Lavasioth,HR,Investigation (Purple),Glowing Feystone,1,34
+Lavasioth,HR,Investigation (Purple),Warped Feystone,1,26
+Lavasioth,HR,Investigation (Purple),Sullied Streamstone,1,3
+Lavasioth,HR,Investigation (Purple),Shining Streamstone,1,2
+Lavasioth,MR,Track,Lavasioth Shard,1,100
+Lavasioth,MR,Carve / Capture,Lavasioth Shard,1,34
+Lavasioth,MR,Carve / Capture,Lavasioth Cortex,1,26
+Lavasioth,MR,Carve / Capture,Lavasioth Grandfin,1,20
+Lavasioth,MR,Carve / Capture,Lavasioth Hardfang,1,15
+Lavasioth,MR,Carve / Capture,Large Wyvern Gem,1,5
+Lavasioth,MR,Wound Head,Lavasioth Hardfang,1,100
+Lavasioth,MR,Wound Fin,Lavasioth Grandfin,1,100
+Lavasioth,MR,Shiny Drop,Lavasioth Shard,1,50
+Lavasioth,MR,Shiny Drop,Lavasioth Grandfin,1,28
+Lavasioth,MR,Shiny Drop,Large Wyvern Tear,1,22
+Lavasioth,MR,Palico Bonus,Lavasioth Shard,1,50
+Lavasioth,MR,Palico Bonus,Lavasioth Grandfin,1,28
+Lavasioth,MR,Palico Bonus,Large Wyvern Tear,1,22
+Lavasioth,MR,Plunderblade,Lavasioth Shard,1,42
+Lavasioth,MR,Plunderblade,Lavasioth Cortex,1,34
+Lavasioth,MR,Plunderblade,Lavasioth Hardfang,1,22
+Lavasioth,MR,Plunderblade,Large Wyvern Gem,1,2
+Lavasioth,MR,Bandit Mantle,Lustrous Scale,1,70
+Lavasioth,MR,Bandit Mantle,Glimmering Scale,1,30
+Lavasioth,MR,Hunt (Bronze),Lavasioth Cortex,1,27
+Lavasioth,MR,Hunt (Bronze),Lavasioth Shard,1,24
+Lavasioth,MR,Hunt (Bronze),Conflagrant Sac,1,22
+Lavasioth,MR,Hunt (Bronze),Lavasioth Hardfang,1,15
+Lavasioth,MR,Hunt (Bronze),Lavasioth Grandfin,1,9
+Lavasioth,MR,Hunt (Bronze),Large Wyvern Gem,1,3
+Lavasioth,MR,Investigation (Silver),Lavasioth Hardfang,1,30
+Lavasioth,MR,Investigation (Silver),Lavasioth Grandfin,1,21
+Lavasioth,MR,Investigation (Silver),Lavasioth Cortex,2,14
+Lavasioth,MR,Investigation (Silver),Conflagrant Sac,2,12
+Lavasioth,MR,Investigation (Silver),Large Wyvern Gem,1,12
+Lavasioth,MR,Investigation (Silver),Lavasioth Shard,2,11
+Lavasioth,MR,Investigation (Gold),Lavasioth Hardfang,1,25
+Lavasioth,MR,Investigation (Gold),Lavasioth Grandfin,1,25
+Lavasioth,MR,Investigation (Gold),Large Wyvern Gem,1,20
+Lavasioth,MR,Investigation (Gold),Lavasioth Cortex,3,12
+Lavasioth,MR,Investigation (Gold),Conflagrant Sac,3,10
+Lavasioth,MR,Investigation (Gold),Lavasioth Shard,3,8
+Lavasioth,MR,Investigation (Purple),Carved Feystone,1,60
+Lavasioth,MR,Investigation (Purple),Ancient Feystone,1,30
+Lavasioth,MR,Investigation (Purple),Sealed Feystone,1,10
+Lavasioth,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Lavasioth,MR,Guiding Lands (Low),Incandescent Magmafin,1,37
+Lavasioth,MR,Guiding Lands (Mid),Incandescent Magmafin,1,63
+Lavasioth,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Lavasioth,MR,Guiding Lands (High),Incandescent Magmafin,1,100
+Lavasioth,MR,Guiding Lands (Tempered),Tempered Magmafin,1,61
+Lavasioth,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Lavasioth,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Uragaan,HR,Track,Uragaan Scale+,1,100
 Uragaan,HR,Carve / Capture,Uragaan Scale+,1,37
 Uragaan,HR,Carve / Capture,Uragaan Carapace,1,25
@@ -1863,6 +3042,7 @@ Uragaan,HR,Plunderblade,Uragaan Scale+,1,42
 Uragaan,HR,Plunderblade,Uragaan Carapace,1,34
 Uragaan,HR,Plunderblade,Lava Nugget,1,23
 Uragaan,HR,Plunderblade,Uragaan Ruby,1,1
+Uragaan,HR,Bandit Mantle,Lustrous Scale,1,100
 Uragaan,HR,Hunt (Bronze),Uragaan Carapace,1,26
 Uragaan,HR,Hunt (Bronze),Uragaan Scale+,1,21
 Uragaan,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -1884,6 +3064,72 @@ Uragaan,HR,Investigation (Gold),Uragaan Ruby,1,13
 Uragaan,HR,Investigation (Gold),Uragaan Carapace,3,10
 Uragaan,HR,Investigation (Gold),Uragaan Scale+,3,8
 Uragaan,HR,Investigation (Gold),Lava Nugget,3,8
+Uragaan,HR,Investigation (Purple),Worn Feystone,1,35
+Uragaan,HR,Investigation (Purple),Glowing Feystone,1,34
+Uragaan,HR,Investigation (Purple),Warped Feystone,1,26
+Uragaan,HR,Investigation (Purple),Sullied Streamstone,1,3
+Uragaan,HR,Investigation (Purple),Shining Streamstone,1,2
+Uragaan,MR,Track,Uragaan Shard,1,100
+Uragaan,MR,Carve / Capture,Uragaan Shard,1,36
+Uragaan,MR,Carve / Capture,Uragaan Cortex,1,24
+Uragaan,MR,Carve / Capture,Uragaan Scute+,1,20
+Uragaan,MR,Carve / Capture,Uragaan Marrow,1,13
+Uragaan,MR,Carve / Capture,Uragaan Ruby,1,5
+Uragaan,MR,Carve / Capture,Uragaan Pallium,1,2
+Uragaan,MR,Wound Jaw,Uragaan Jaw+,1,72
+Uragaan,MR,Wound Jaw,Uragaan Cortex,1,27
+Uragaan,MR,Wound Jaw,Uragaan Pallium,1,1
+Uragaan,MR,Wound Back,Uragaan Scute+,1,70
+Uragaan,MR,Wound Back,Uragaan Marrow,2,30
+Uragaan,MR,Wound Tail,Uragaan Shard,2,70
+Uragaan,MR,Wound Tail,Uragaan Scute+,1,30
+Uragaan,MR,Shiny Drop,Lava Nugget,2,50
+Uragaan,MR,Shiny Drop,Uragaan Shard,1,28
+Uragaan,MR,Shiny Drop,Large Wyvern Tear,1,22
+Uragaan,MR,Tail Carve,Uragaan Scute+,1,60
+Uragaan,MR,Tail Carve,Uragaan Cortex,1,30
+Uragaan,MR,Tail Carve,Uragaan Ruby,1,7
+Uragaan,MR,Tail Carve,Uragaan Pallium,1,3
+Uragaan,MR,Palico Bonus,Lava Nugget,1,50
+Uragaan,MR,Palico Bonus,Uragaan Shard,1,28
+Uragaan,MR,Palico Bonus,Large Wyvern Tear,1,22
+Uragaan,MR,Plunderblade,Uragaan Shard,1,42
+Uragaan,MR,Plunderblade,Uragaan Cortex,1,34
+Uragaan,MR,Plunderblade,Lava Nugget,1,23
+Uragaan,MR,Plunderblade,Uragaan Pallium,1,1
+Uragaan,MR,Bandit Mantle,Lustrous Scale,1,70
+Uragaan,MR,Bandit Mantle,Glimmering Scale,1,30
+Uragaan,MR,Hunt (Bronze),Uragaan Cortex,1,30
+Uragaan,MR,Hunt (Bronze),Uragaan Shard,1,23
+Uragaan,MR,Hunt (Bronze),Conflagrant Sac,1,21
+Uragaan,MR,Hunt (Bronze),Uragaan Scute+,1,15
+Uragaan,MR,Hunt (Bronze),Uragaan Marrow,2,8
+Uragaan,MR,Hunt (Bronze),Uragaan Ruby,1,3
+Uragaan,MR,Investigation (Silver),Uragaan Scute+,1,26
+Uragaan,MR,Investigation (Silver),Uragaan Cortex,2,15
+Uragaan,MR,Investigation (Silver),Lava Nugget,3,14
+Uragaan,MR,Investigation (Silver),Conflagrant Sac,2,13
+Uragaan,MR,Investigation (Silver),Uragaan Shard,2,12
+Uragaan,MR,Investigation (Silver),Uragaan Pallium,1,10
+Uragaan,MR,Investigation (Silver),Uragaan Ruby,1,10
+Uragaan,MR,Investigation (Gold),Uragaan Scute+,1,24
+Uragaan,MR,Investigation (Gold),Uragaan Pallium,1,18
+Uragaan,MR,Investigation (Gold),Conflagrant Sac,3,16
+Uragaan,MR,Investigation (Gold),Uragaan Cortex,3,13
+Uragaan,MR,Investigation (Gold),Uragaan Shard,3,11
+Uragaan,MR,Investigation (Gold),Uragaan Ruby,1,10
+Uragaan,MR,Investigation (Gold),Lava Nugget,4,8
+Uragaan,MR,Investigation (Purple),Carved Feystone,1,60
+Uragaan,MR,Investigation (Purple),Ancient Feystone,1,30
+Uragaan,MR,Investigation (Purple),Sealed Feystone,1,10
+Uragaan,MR,Guiding Lands (Low),Heavy Dragonvein Bone,1,63
+Uragaan,MR,Guiding Lands (Low),Metallic Scute,1,37
+Uragaan,MR,Guiding Lands (Mid),Metallic Scute,1,63
+Uragaan,MR,Guiding Lands (Mid),Heavy Dragonvein Bone,1,37
+Uragaan,MR,Guiding Lands (High),Metallic Scute,1,100
+Uragaan,MR,Guiding Lands (Tempered),Tempered Scute,1,61
+Uragaan,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,30
+Uragaan,MR,Guiding Lands (Tempered),Spiritvein Gem,1,9
 Azure Rathalos,HR,Track,Azure Rathalos Scale+,1,100
 Azure Rathalos,HR,Carve / Capture,Azure Rathalos Scale+,1,33
 Azure Rathalos,HR,Carve / Capture,Azure Rathalos Carapace,1,24
@@ -1915,6 +3161,7 @@ Azure Rathalos,HR,Plunderblade,Azure Rathalos Carapace,1,42
 Azure Rathalos,HR,Plunderblade,Azure Rathalos Scale+,1,31
 Azure Rathalos,HR,Plunderblade,Azure Rathalos Wing,1,26
 Azure Rathalos,HR,Plunderblade,Rathalos Ruby,1,1
+Azure Rathalos,HR,Bandit Mantle,Lustrous Scale,1,100
 Azure Rathalos,HR,Hunt (Bronze),Azure Rathalos Carapace,1,27
 Azure Rathalos,HR,Hunt (Bronze),Azure Rathalos Scale+,1,21
 Azure Rathalos,HR,Hunt (Bronze),Inferno Sac,1,18
@@ -1936,6 +3183,74 @@ Azure Rathalos,HR,Investigation (Gold),Rathalos Ruby,1,14
 Azure Rathalos,HR,Investigation (Gold),Inferno Sac,3,12
 Azure Rathalos,HR,Investigation (Gold),Azure Rathalos Carapace,3,10
 Azure Rathalos,HR,Investigation (Gold),Azure Rathalos Scale+,3,10
+Azure Rathalos,HR,Investigation (Purple),Worn Feystone,1,35
+Azure Rathalos,HR,Investigation (Purple),Glowing Feystone,1,34
+Azure Rathalos,HR,Investigation (Purple),Warped Feystone,1,26
+Azure Rathalos,HR,Investigation (Purple),Sullied Streamstone,1,3
+Azure Rathalos,HR,Investigation (Purple),Shining Streamstone,1,2
+Azure Rathalos,MR,Track,Azure Rathalos Shard,1,100
+Azure Rathalos,MR,Carve / Capture,Azure Rathalos Shard,1,33
+Azure Rathalos,MR,Carve / Capture,Azure Rathalos Cortex,1,24
+Azure Rathalos,MR,Carve / Capture,Azure Rathalos Fellwing,1,20
+Azure Rathalos,MR,Carve / Capture,Rathalos Medulla,1,14
+Azure Rathalos,MR,Carve / Capture,Rathalos Ruby,1,7
+Azure Rathalos,MR,Carve / Capture,Rathalos Mantle,1,2
+Azure Rathalos,MR,Wound Head,Azure Rathalos Cortex,1,65
+Azure Rathalos,MR,Wound Head,Azure Rathalos Shard,1,27
+Azure Rathalos,MR,Wound Head,Rathalos Ruby,1,5
+Azure Rathalos,MR,Wound Head,Rathalos Mantle,1,3
+Azure Rathalos,MR,Wound Wings,Azure Rathalos Fellwing,1,65
+Azure Rathalos,MR,Wound Wings,Rath Wingtalon+,2,35
+Azure Rathalos,MR,Wound Back,Azure Rathalos Cortex,1,68
+Azure Rathalos,MR,Wound Back,Rathalos Medulla,2,30
+Azure Rathalos,MR,Wound Back,Rathalos Mantle,1,2
+Azure Rathalos,MR,Shiny Drop,Azure Rathalos Shard,1,50
+Azure Rathalos,MR,Shiny Drop,Azure Rathalos Cortex,1,28
+Azure Rathalos,MR,Shiny Drop,Large Wyvern Tear,1,22
+Azure Rathalos,MR,Tail Carve,Azure Rathalos Lash,1,65
+Azure Rathalos,MR,Tail Carve,Azure Rathalos Shard,1,20
+Azure Rathalos,MR,Tail Carve,Rathalos Medulla,1,7
+Azure Rathalos,MR,Tail Carve,Rathalos Ruby,1,5
+Azure Rathalos,MR,Tail Carve,Rathalos Mantle,1,3
+Azure Rathalos,MR,Palico Bonus,Azure Rathalos Shard,1,50
+Azure Rathalos,MR,Palico Bonus,Azure Rathalos Cortex,1,28
+Azure Rathalos,MR,Palico Bonus,Large Wyvern Tear,1,22
+Azure Rathalos,MR,Plunderblade,Azure Rathalos Cortex,1,42
+Azure Rathalos,MR,Plunderblade,Azure Rathalos Shard,1,31
+Azure Rathalos,MR,Plunderblade,Azure Rathalos Fellwing,1,26
+Azure Rathalos,MR,Plunderblade,Rathalos Mantle,1,1
+Azure Rathalos,MR,Bandit Mantle,Glimmering Scale,1,70
+Azure Rathalos,MR,Bandit Mantle,Giant Scale,1,30
+Azure Rathalos,MR,Hunt (Bronze),Azure Rathalos Cortex,1,27
+Azure Rathalos,MR,Hunt (Bronze),Azure Rathalos Shard,1,21
+Azure Rathalos,MR,Hunt (Bronze),Conflagrant Sac,1,18
+Azure Rathalos,MR,Hunt (Bronze),Azure Rathalos Fellwing,1,12
+Azure Rathalos,MR,Hunt (Bronze),Rath Wingtalon+,2,10
+Azure Rathalos,MR,Hunt (Bronze),Azure Rathalos Lash,1,9
+Azure Rathalos,MR,Hunt (Bronze),Rathalos Ruby,1,3
+Azure Rathalos,MR,Investigation (Silver),Azure Rathalos Cortex,2,22
+Azure Rathalos,MR,Investigation (Silver),Azure Rathalos Lash,1,21
+Azure Rathalos,MR,Investigation (Silver),Azure Rathalos Shard,2,20
+Azure Rathalos,MR,Investigation (Silver),Azure Rathalos Fellwing,1,17
+Azure Rathalos,MR,Investigation (Silver),Rathalos Ruby,1,10
+Azure Rathalos,MR,Investigation (Silver),Rathalos Mantle,1,10
+Azure Rathalos,MR,Investigation (Gold),Azure Rathalos Lash,1,24
+Azure Rathalos,MR,Investigation (Gold),Azure Rathalos Fellwing,1,19
+Azure Rathalos,MR,Investigation (Gold),Rathalos Mantle,1,18
+Azure Rathalos,MR,Investigation (Gold),Azure Rathalos Cortex,3,16
+Azure Rathalos,MR,Investigation (Gold),Azure Rathalos Shard,3,13
+Azure Rathalos,MR,Investigation (Gold),Rathalos Ruby,1,10
+Azure Rathalos,MR,Investigation (Purple),Carved Feystone,1,60
+Azure Rathalos,MR,Investigation (Purple),Ancient Feystone,1,30
+Azure Rathalos,MR,Investigation (Purple),Sealed Feystone,1,10
+Azure Rathalos,MR,Guiding Lands (Low),Dragonvein Solidbone,1,63
+Azure Rathalos,MR,Guiding Lands (Low),Azure Scale,1,37
+Azure Rathalos,MR,Guiding Lands (Mid),Azure Scale,1,63
+Azure Rathalos,MR,Guiding Lands (Mid),Dragonvein Solidbone,1,37
+Azure Rathalos,MR,Guiding Lands (High),Azure Scale,1,100
+Azure Rathalos,MR,Guiding Lands (Tempered),Tempered Azure Scale,1,59
+Azure Rathalos,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,28
+Azure Rathalos,MR,Guiding Lands (Tempered),Spiritvein Gem,1,13
 Black Diablos,HR,Track,Black Diablos Carapace,1,100
 Black Diablos,HR,Carve / Capture,Black Diablos Carapace,1,31
 Black Diablos,HR,Carve / Capture,Black Diablos Ridge+,1,24
@@ -1943,8 +3258,8 @@ Black Diablos,HR,Carve / Capture,Blos Medulla,1,16
 Black Diablos,HR,Carve / Capture,Diablos Fang,1,13
 Black Diablos,HR,Carve / Capture,Diablos Tailcase,1,12
 Black Diablos,HR,Carve / Capture,Wyvern Gem,1,4
-Black Diablos,HR,Break Horn,Black Spiral Horn+,1,65
-Black Diablos,HR,Break Horn,Twisted Horn,1,35
+Black Diablos,HR,Break Horns,Black Spiral Horn+,1,65
+Black Diablos,HR,Break Horns,Twisted Horn,2,35
 Black Diablos,HR,Wound Back,Black Diablos Ridge+,1,70
 Black Diablos,HR,Wound Back,Blos Medulla,1,30
 Black Diablos,HR,Shiny Drop,Black Diablos Carapace,1,50
@@ -1961,10 +3276,11 @@ Black Diablos,HR,Plunderblade,Black Diablos Carapace,1,42
 Black Diablos,HR,Plunderblade,Black Diablos Ridge+,1,31
 Black Diablos,HR,Plunderblade,Diablos Fang,1,25
 Black Diablos,HR,Plunderblade,Wyvern Gem,1,2
+Black Diablos,HR,Bandit Mantle,Lustrous Scale,1,100
 Black Diablos,HR,Hunt (Bronze),Black Diablos Ridge+,1,26
 Black Diablos,HR,Hunt (Bronze),Black Diablos Carapace,1,21
-Black Diablos,HR,Hunt (Bronze),Dash Extract,1,16
-Black Diablos,HR,Hunt (Bronze),Diablos Fang,1,14
+Black Diablos,HR,Hunt (Bronze),Dash Extract,2,16
+Black Diablos,HR,Hunt (Bronze),Diablos Fang,2,14
 Black Diablos,HR,Hunt (Bronze),Monster Hardbone,1,13
 Black Diablos,HR,Hunt (Bronze),Blos Medulla,1,9
 Black Diablos,HR,Hunt (Bronze),Wyvern Gem,1,1
@@ -1982,6 +3298,67 @@ Black Diablos,HR,Investigation (Gold),Black Diablos Ridge+,3,12
 Black Diablos,HR,Investigation (Gold),Dash Extract,3,12
 Black Diablos,HR,Investigation (Gold),Black Diablos Carapace,3,10
 Black Diablos,HR,Investigation (Gold),Diablos Fang,3,8
+Black Diablos,HR,Investigation (Purple),Worn Feystone,1,35
+Black Diablos,HR,Investigation (Purple),Glowing Feystone,1,34
+Black Diablos,HR,Investigation (Purple),Warped Feystone,1,26
+Black Diablos,HR,Investigation (Purple),Sullied Streamstone,1,3
+Black Diablos,HR,Investigation (Purple),Shining Streamstone,1,2
+Black Diablos,MR,Track,Black Diablos Cortex,1,100
+Black Diablos,MR,Carve / Capture,Black Diablos Cortex,1,34
+Black Diablos,MR,Carve / Capture,Black Diablos Chine,1,26
+Black Diablos,MR,Carve / Capture,Diablos Tailcase+,1,15
+Black Diablos,MR,Carve / Capture,Blos Medulla,1,12
+Black Diablos,MR,Carve / Capture,Wyvern Gem,1,8
+Black Diablos,MR,Carve / Capture,Large Wyvern Gem,1,5
+Black Diablos,MR,Break Horns,Blackcurl Stouthorn,1,83
+Black Diablos,MR,Break Horns,Diablos Hardhorn,1,17
+Black Diablos,MR,Wound Back,Black Diablos Chine,1,70
+Black Diablos,MR,Wound Back,Blos Medulla,2,30
+Black Diablos,MR,Shiny Drop,Black Diablos Cortex,1,50
+Black Diablos,MR,Shiny Drop,Black Diablos Chine,1,28
+Black Diablos,MR,Shiny Drop,Large Wyvern Tear,1,22
+Black Diablos,MR,Tail Carve,Diablos Tailcase+,1,60
+Black Diablos,MR,Tail Carve,Black Diablos Cortex,1,35
+Black Diablos,MR,Tail Carve,Large Wyvern Gem,1,5
+Black Diablos,MR,Palico Bonus,Black Diablos Cortex,1,50
+Black Diablos,MR,Palico Bonus,Black Diablos Chine,1,28
+Black Diablos,MR,Palico Bonus,Large Wyvern Tear,1,22
+Black Diablos,MR,Plunderblade,Black Diablos Cortex,1,42
+Black Diablos,MR,Plunderblade,Black Diablos Chine,1,31
+Black Diablos,MR,Plunderblade,Diablos Tailcase+,1,25
+Black Diablos,MR,Plunderblade,Large Wyvern Gem,1,2
+Black Diablos,MR,Bandit Mantle,Glimmering Scale,1,70
+Black Diablos,MR,Bandit Mantle,Giant Scale,1,30
+Black Diablos,MR,Hunt (Bronze),Black Diablos Chine,1,33
+Black Diablos,MR,Hunt (Bronze),Black Diablos Cortex,1,25
+Black Diablos,MR,Hunt (Bronze),Dash Extract,3,15
+Black Diablos,MR,Hunt (Bronze),Blackcurl Stouthorn,1,13
+Black Diablos,MR,Hunt (Bronze),Blos Medulla,2,9
+Black Diablos,MR,Hunt (Bronze),Large Wyvern Gem,1,3
+Black Diablos,MR,Hunt (Bronze),Diablos Hardhorn,1,2
+Black Diablos,MR,Investigation (Silver),Black Diablos Chine,2,25
+Black Diablos,MR,Investigation (Silver),Black Diablos Cortex,2,21
+Black Diablos,MR,Investigation (Silver),Diablos Tailcase+,1,18
+Black Diablos,MR,Investigation (Silver),Blackcurl Stouthorn,1,16
+Black Diablos,MR,Investigation (Silver),Large Wyvern Gem,1,12
+Black Diablos,MR,Investigation (Silver),Diablos Hardhorn,1,8
+Black Diablos,MR,Investigation (Gold),Blackcurl Stouthorn,1,18
+Black Diablos,MR,Investigation (Gold),Diablos Hardhorn,1,18
+Black Diablos,MR,Investigation (Gold),Large Wyvern Gem,1,18
+Black Diablos,MR,Investigation (Gold),Diablos Tailcase+,1,17
+Black Diablos,MR,Investigation (Gold),Black Diablos Chine,3,16
+Black Diablos,MR,Investigation (Gold),Black Diablos Cortex,3,13
+Black Diablos,MR,Investigation (Purple),Carved Feystone,1,60
+Black Diablos,MR,Investigation (Purple),Ancient Feystone,1,30
+Black Diablos,MR,Investigation (Purple),Sealed Feystone,1,10
+Black Diablos,MR,Guiding Lands (Low),Dragonvein Solidbone,1,63
+Black Diablos,MR,Guiding Lands (Low),Blackcurl Tyranthorn,1,37
+Black Diablos,MR,Guiding Lands (Mid),Blackcurl Tyranthorn,1,63
+Black Diablos,MR,Guiding Lands (Mid),Dragonvein Solidbone,1,37
+Black Diablos,MR,Guiding Lands (High),Blackcurl Tyranthorn,1,100
+Black Diablos,MR,Guiding Lands (Tempered),Blackcurl Temperhorn,1,59
+Black Diablos,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,28
+Black Diablos,MR,Guiding Lands (Tempered),Spiritvein Gem,1,13
 Nergigante,HR,Track,Immortal Dragonscale,1,100
 Nergigante,HR,Body Carve,Immortal Dragonscale,1,32
 Nergigante,HR,Body Carve,Nergigante Carapace,1,24
@@ -1989,10 +3366,10 @@ Nergigante,HR,Body Carve,Nergigante Talon,1,19
 Nergigante,HR,Body Carve,Nergigante Regrowth Plate,1,15
 Nergigante,HR,Body Carve,Nergigante Horn+,1,8
 Nergigante,HR,Body Carve,Nergigante Gem,1,2
+Nergigante,HR,Break Horn,Nergigante Horn+,1,66
+Nergigante,HR,Break Horn,Nergigante Regrowth Plate,2,34
 Nergigante,HR,Break Horns,Nergigante Horn+,1,97
 Nergigante,HR,Break Horns,Nergigante Gem,1,3
-Nergigante,HR,Wound 1 Horn,Nergigante Horn+,1,66
-Nergigante,HR,Wound 1 Horn,Nergigante Regrowth Plate,2,34
 Nergigante,HR,Shiny Drop,Nergigante Regrowth Plate,1,50
 Nergigante,HR,Shiny Drop,Nergigante Talon,1,28
 Nergigante,HR,Shiny Drop,Dragon Treasure,1,22
@@ -2006,6 +3383,8 @@ Nergigante,HR,Plunderblade,Immortal Dragonscale,1,41
 Nergigante,HR,Plunderblade,Nergigante Carapace,1,33
 Nergigante,HR,Plunderblade,Nergigante Regrowth Plate,1,25
 Nergigante,HR,Plunderblade,Nergigante Gem,1,1
+Nergigante,HR,Bandit Mantle,Lustrous Scale,1,70
+Nergigante,HR,Bandit Mantle,Glimmering Scale,1,30
 Nergigante,HR,Hunt (Bronze),Nergigante Carapace,1,27
 Nergigante,HR,Hunt (Bronze),Immortal Dragonscale,1,22
 Nergigante,HR,Hunt (Bronze),Nergigante Regrowth Plate,1,18
@@ -2026,6 +3405,10 @@ Nergigante,HR,Investigation (Gold),Nergigante Tail,1,16
 Nergigante,HR,Investigation (Gold),Nergigante Gem,1,13
 Nergigante,HR,Investigation (Gold),Nergigante Carapace,3,10
 Nergigante,HR,Investigation (Gold),Immortal Dragonscale,3,8
+Nergigante,HR,Investigation (Purple),Worn Feystone,1,70
+Nergigante,HR,Investigation (Purple),Warped Feystone,1,13
+Nergigante,HR,Investigation (Purple),Sullied Streamstone,1,12
+Nergigante,HR,Investigation (Purple),Shining Streamstone,1,5
 Teostra,HR,Track,Fire Dragon Scale+,1,100
 Teostra,HR,Body Carve,Fire Dragon Scale+,1,32
 Teostra,HR,Body Carve,Teostra Carapace,1,24
@@ -2033,11 +3416,13 @@ Teostra,HR,Body Carve,Teostra Claw+,1,19
 Teostra,HR,Body Carve,Teostra Mane,1,15
 Teostra,HR,Body Carve,Teostra Horn+,1,8
 Teostra,HR,Body Carve,Teostra Gem,1,2
-Teostra,HR,Break Horns,Teostra Horn+,1,66
-Teostra,HR,Break Horns,Teostra Mane,1,32
-Teostra,HR,Break Horns,Teostra Gem,1,2
+Teostra,HR,Wound Head,Teostra Horn+,1,66
+Teostra,HR,Wound Head,Teostra Mane,1,32
+Teostra,HR,Wound Head,Teostra Gem,1,2
 Teostra,HR,Wound Wings,Teostra Webbing,1,70
 Teostra,HR,Wound Wings,Teostra Claw+,2,30
+Teostra,HR,Wound Forelegs,Teostra Claw+,1,80
+Teostra,HR,Wound Forelegs,Fire Dragon Scale+,2,20
 Teostra,HR,Shiny Drop,Teostra Powder,1,50
 Teostra,HR,Shiny Drop,Teostra Claw+,1,28
 Teostra,HR,Shiny Drop,Dragon Treasure,1,22
@@ -2051,6 +3436,8 @@ Teostra,HR,Plunderblade,Fire Dragon Scale+,1,45
 Teostra,HR,Plunderblade,Teostra Carapace,1,30
 Teostra,HR,Plunderblade,Teostra Mane,1,24
 Teostra,HR,Plunderblade,Teostra Gem,1,1
+Teostra,HR,Bandit Mantle,Lustrous Scale,1,70
+Teostra,HR,Bandit Mantle,Glimmering Scale,1,30
 Teostra,HR,Hunt (Bronze),Teostra Carapace,1,24
 Teostra,HR,Hunt (Bronze),Fire Dragon Scale+,1,20
 Teostra,HR,Hunt (Bronze),Teostra Claw+,1,18
@@ -2076,6 +3463,67 @@ Teostra,HR,Investigation (Gold),Teostra Webbing,1,11
 Teostra,HR,Investigation (Gold),Teostra Powder,2,11
 Teostra,HR,Investigation (Gold),Teostra Carapace,3,10
 Teostra,HR,Investigation (Gold),Fire Dragon Scale+,3,8
+Teostra,HR,Investigation (Purple),Worn Feystone,1,70
+Teostra,HR,Investigation (Purple),Warped Feystone,1,13
+Teostra,HR,Investigation (Purple),Sullied Streamstone,1,12
+Teostra,HR,Investigation (Purple),Shining Streamstone,1,5
+Teostra,MR,Track,Hellfire Shard,1,100
+Teostra,MR,Body Carve,Hellfire Shard,1,30
+Teostra,MR,Body Carve,Teostra Cortex,1,22
+Teostra,MR,Body Carve,Fire Dragon Hardclaw,1,19
+Teostra,MR,Body Carve,Teostra Mane+,1,14
+Teostra,MR,Body Carve,Teostra Hardhorn,1,8
+Teostra,MR,Body Carve,Teostra Gem,1,5
+Teostra,MR,Body Carve,Large Elder Dragon Gem,1,2
+Teostra,MR,Wound Head,Teostra Hardhorn,1,66
+Teostra,MR,Wound Head,Teostra Mane+,1,32
+Teostra,MR,Wound Head,Large Elder Dragon Gem,1,2
+Teostra,MR,Wound Wings,Teostra Fellwing,1,70
+Teostra,MR,Wound Wings,Fire Dragon Hardclaw,2,30
+Teostra,MR,Shiny Drop,Teostra Powder,1,50
+Teostra,MR,Shiny Drop,Fire Dragon Hardclaw,1,28
+Teostra,MR,Shiny Drop,Old Dragon Treasure,1,22
+Teostra,MR,Tail Carve,Teostra Lash,1,75
+Teostra,MR,Tail Carve,Hellfire Shard,1,22
+Teostra,MR,Tail Carve,Large Elder Dragon Gem,1,3
+Teostra,MR,Palico Bonus,Teostra Powder,1,50
+Teostra,MR,Palico Bonus,Hellfire Shard,1,28
+Teostra,MR,Palico Bonus,Old Dragon Treasure,1,22
+Teostra,MR,Plunderblade,Hellfire Shard,1,45
+Teostra,MR,Plunderblade,Teostra Cortex,1,30
+Teostra,MR,Plunderblade,Teostra Mane+,1,24
+Teostra,MR,Plunderblade,Large Elder Dragon Gem,1,1
+Teostra,MR,Bandit Mantle,Giant Scale,1,70
+Teostra,MR,Bandit Mantle,Magnificent Scale,1,30
+Teostra,MR,Hunt (Bronze),Teostra Cortex,1,26
+Teostra,MR,Hunt (Bronze),Hellfire Shard,1,21
+Teostra,MR,Hunt (Bronze),Teostra Mane+,1,18
+Teostra,MR,Hunt (Bronze),Teostra Lash,1,14
+Teostra,MR,Hunt (Bronze),Large Elder Dragon Bone,1,9
+Teostra,MR,Hunt (Bronze),Pure Dragon Blood,1,9
+Teostra,MR,Hunt (Bronze),Teostra Gem,1,3
+Teostra,MR,Investigation (Silver),Teostra Mane+,1,22
+Teostra,MR,Investigation (Silver),Fire Dragon Hardclaw,1,22
+Teostra,MR,Investigation (Silver),Teostra Fellwing,1,18
+Teostra,MR,Investigation (Silver),Teostra Lash,1,16
+Teostra,MR,Investigation (Silver),Teostra Hardhorn,1,14
+Teostra,MR,Investigation (Silver),Large Elder Dragon Gem,1,8
+Teostra,MR,Investigation (Gold),Teostra Lash,1,22
+Teostra,MR,Investigation (Gold),Teostra Hardhorn,1,18
+Teostra,MR,Investigation (Gold),Teostra Fellwing,1,18
+Teostra,MR,Investigation (Gold),Large Elder Dragon Gem,1,16
+Teostra,MR,Investigation (Gold),Teostra Mane+,2,14
+Teostra,MR,Investigation (Gold),Fire Dragon Hardclaw,2,12
+Teostra,MR,Investigation (Purple),Carved Feystone,1,60
+Teostra,MR,Investigation (Purple),Sealed Feystone,1,40
+Teostra,MR,Guiding Lands (Low),Elder Dragonvein Bone,1,63
+Teostra,MR,Guiding Lands (Low),Hellfire Mane,1,37
+Teostra,MR,Guiding Lands (Mid),Hellfire Mane,1,63
+Teostra,MR,Guiding Lands (Mid),Elder Dragonvein Bone,1,37
+Teostra,MR,Guiding Lands (High),Hellfire Mane,1,100
+Teostra,MR,Guiding Lands (Tempered),Tempered Crimson Mane,1,64
+Teostra,MR,Guiding Lands (Tempered),Elder Spiritvein Bone,1,33
+Teostra,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Lunastra,HR,Track,Lunastra Scale+,1,100
 Lunastra,HR,Body Carve,Lunastra Scale+,1,31
 Lunastra,HR,Body Carve,Lunastra Carapace,1,24
@@ -2083,9 +3531,11 @@ Lunastra,HR,Body Carve,Lunastra Mane,1,19
 Lunastra,HR,Body Carve,Lunastra Tail,1,15
 Lunastra,HR,Body Carve,Lunastra Wing,1,8
 Lunastra,HR,Body Carve,Lunastra Gem,1,3
-Lunastra,HR,Wound Head,Lunastra Horn,1,
-Lunastra,HR,Wound Head,Lunastra Gem,1,
-Lunastra,HR,Wound Wings,Lunastra Wing,1,
+Lunastra,HR,Wound Head,Lunastra Horn,1,65
+Lunastra,HR,Wound Head,Lunastra Mane,2,32
+Lunastra,HR,Wound Head,Lunastra Gem,1,3
+Lunastra,HR,Wound Wings,Lunastra Wing,1,70
+Lunastra,HR,Wound Wings,Lunastra Carapace,2,30
 Lunastra,HR,Shiny Drop,Lunastra Mane,1,50
 Lunastra,HR,Shiny Drop,Lunastra Scale+,1,28
 Lunastra,HR,Shiny Drop,Dragon Treasure,1,20
@@ -2100,13 +3550,94 @@ Lunastra,HR,Plunderblade,Lunastra Scale+,1,45
 Lunastra,HR,Plunderblade,Lunastra Carapace,1,30
 Lunastra,HR,Plunderblade,Lunastra Mane,1,24
 Lunastra,HR,Plunderblade,Lunastra Gem,1,1
-Lunastra,HR,Hunt (Bronze),Lunastra Scale+,1,
-Lunastra,HR,Hunt (Bronze),Lunastra Carapace,1,
-Lunastra,HR,Hunt (Bronze),Lunastra Mane,1,
-Lunastra,HR,Hunt (Bronze),Lunastra Wing,1,
-Lunastra,HR,Hunt (Bronze),Lunastra Horn,1,
-Lunastra,HR,Hunt (Bronze),Elder Dragon Bone,1,
-Lunastra,HR,Hunt (Bronze),Elder Dragon Blood,1,
+Lunastra,HR,Bandit Mantle,Lustrous Scale,1,70
+Lunastra,HR,Bandit Mantle,Glimmering Scale,1,30
+Lunastra,HR,Hunt (Bronze),Lunastra Carapace,1,22
+Lunastra,HR,Hunt (Bronze),Lunastra Scale+,1,18
+Lunastra,HR,Hunt (Bronze),Lunastra Mane,1,18
+Lunastra,HR,Hunt (Bronze),Lunastra Wing,1,12
+Lunastra,HR,Hunt (Bronze),Elder Dragon Blood,2,12
+Lunastra,HR,Hunt (Bronze),Lunastra Horn,1,10
+Lunastra,HR,Hunt (Bronze),Elder Dragon Bone,2,8
+Lunastra,HR,Investigation (Silver),Lunastra Scale+,2,16
+Lunastra,HR,Investigation (Silver),Lunastra Wing,1,16
+Lunastra,HR,Investigation (Silver),Lunastra Tail,1,16
+Lunastra,HR,Investigation (Silver),Lunastra Horn,1,16
+Lunastra,HR,Investigation (Silver),Lunastra Mane,1,14
+Lunastra,HR,Investigation (Silver),Lunastra Carapace,2,12
+Lunastra,HR,Investigation (Silver),Lunastra Gem,1,10
+Lunastra,HR,Investigation (Gold),Lunastra Horn,1,20
+Lunastra,HR,Investigation (Gold),Lunastra Gem,1,18
+Lunastra,HR,Investigation (Gold),Lunastra Wing,1,16
+Lunastra,HR,Investigation (Gold),Lunastra Tail,1,16
+Lunastra,HR,Investigation (Gold),Lunastra Scale+,3,14
+Lunastra,HR,Investigation (Gold),Lunastra Carapace,3,8
+Lunastra,HR,Investigation (Gold),Lunastra Mane,2,8
+Lunastra,HR,Investigation (Purple),Worn Feystone,1,70
+Lunastra,HR,Investigation (Purple),Warped Feystone,1,13
+Lunastra,HR,Investigation (Purple),Sullied Streamstone,1,12
+Lunastra,HR,Investigation (Purple),Shining Streamstone,1,5
+Lunastra,MR,Track,Lunastra Shard,1,100
+Lunastra,MR,Body Carve,Lunastra Shard,1,30
+Lunastra,MR,Body Carve,Lunastra Cortex,1,23
+Lunastra,MR,Body Carve,Lunastra Mane+,1,18
+Lunastra,MR,Body Carve,Lunastra Fellwing,1,13
+Lunastra,MR,Body Carve,Lunastra Hardhorn,1,8
+Lunastra,MR,Body Carve,Lunastra Gem,1,5
+Lunastra,MR,Body Carve,Large Elder Dragon Gem,1,3
+Lunastra,MR,Wound Head,Lunastra Hardhorn,1,65
+Lunastra,MR,Wound Head,Lunastra Mane+,2,32
+Lunastra,MR,Wound Head,Large Elder Dragon Gem,1,3
+Lunastra,MR,Wound Wings,Lunastra Fellwing,1,70
+Lunastra,MR,Wound Wings,Lunastra Cortex,2,30
+Lunastra,MR,Shiny Drop,Lunastra Mane+,1,50
+Lunastra,MR,Shiny Drop,Lunastra Shard,1,28
+Lunastra,MR,Shiny Drop,Old Dragon Treasure,1,20
+Lunastra,MR,Shiny Drop,Large Elder Dragon Gem,1,2
+Lunastra,MR,Tail Carve,Lunastra Lash,1,75
+Lunastra,MR,Tail Carve,Lunastra Shard,1,22
+Lunastra,MR,Tail Carve,Large Elder Dragon Gem,1,3
+Lunastra,MR,Palico Bonus,Lunastra Mane+,1,50
+Lunastra,MR,Palico Bonus,Lunastra Shard,1,28
+Lunastra,MR,Palico Bonus,Old Dragon Treasure,1,22
+Lunastra,MR,Plunderblade,Lunastra Shard,1,45
+Lunastra,MR,Plunderblade,Lunastra Cortex,1,30
+Lunastra,MR,Plunderblade,Lunastra Mane+,1,24
+Lunastra,MR,Plunderblade,Large Elder Dragon Gem,1,1
+Lunastra,MR,Bandit Mantle,Giant Scale,1,70
+Lunastra,MR,Bandit Mantle,Magnificent Scale,1,30
+Lunastra,MR,Hunt (Bronze),Lunastra Cortex,1,22
+Lunastra,MR,Hunt (Bronze),Lunastra Shard,1,18
+Lunastra,MR,Hunt (Bronze),Lunastra Mane+,1,15
+Lunastra,MR,Hunt (Bronze),Lunastra Fellwing,1,12
+Lunastra,MR,Hunt (Bronze),Pure Dragon Blood,1,12
+Lunastra,MR,Hunt (Bronze),Lunastra Lash,1,10
+Lunastra,MR,Hunt (Bronze),Large Elder Dragon Bone,1,8
+Lunastra,MR,Hunt (Bronze),Lunastra Gem,1,3
+Lunastra,MR,Investigation (Silver),Lunastra Fellwing,1,18
+Lunastra,MR,Investigation (Silver),Lunastra Shard,2,16
+Lunastra,MR,Investigation (Silver),Lunastra Lash,1,16
+Lunastra,MR,Investigation (Silver),Lunastra Hardhorn,1,16
+Lunastra,MR,Investigation (Silver),Lunastra Mane+,1,14
+Lunastra,MR,Investigation (Silver),Lunastra Cortex,2,12
+Lunastra,MR,Investigation (Silver),Large Elder Dragon Gem,1,8
+Lunastra,MR,Investigation (Gold),Lunastra Hardhorn,1,20
+Lunastra,MR,Investigation (Gold),Lunastra Lash,1,18
+Lunastra,MR,Investigation (Gold),Lunastra Fellwing,1,16
+Lunastra,MR,Investigation (Gold),Large Elder Dragon Gem,1,16
+Lunastra,MR,Investigation (Gold),Lunastra Shard,3,14
+Lunastra,MR,Investigation (Gold),Lunastra Cortex,3,8
+Lunastra,MR,Investigation (Gold),Lunastra Mane+,2,8
+Lunastra,MR,Investigation (Purple),Carved Feystone,1,60
+Lunastra,MR,Investigation (Purple),Sealed Feystone,1,40
+Lunastra,MR,Guiding Lands (Low),Elder Dragonvein Bone,1,63
+Lunastra,MR,Guiding Lands (Low),Azure Mane,1,37
+Lunastra,MR,Guiding Lands (Mid),Azure Mane,1,63
+Lunastra,MR,Guiding Lands (Mid),Elder Dragonvein Bone,1,37
+Lunastra,MR,Guiding Lands (High),Azure Mane,1,100
+Lunastra,MR,Guiding Lands (Tempered),Tempered Azure Mane,1,64
+Lunastra,MR,Guiding Lands (Tempered),Elder Spiritvein Bone,1,33
+Lunastra,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Kushala Daora,HR,Track,Daora Dragon Scale+,1,100
 Kushala Daora,HR,Body Carve,Daora Dragon Scale+,1,32
 Kushala Daora,HR,Body Carve,Daora Carapace,1,24
@@ -2114,11 +3645,13 @@ Kushala Daora,HR,Body Carve,Daora Claw+,1,19
 Kushala Daora,HR,Body Carve,Daora Webbing,1,15
 Kushala Daora,HR,Body Carve,Daora Horn+,1,8
 Kushala Daora,HR,Body Carve,Daora Gem,1,2
-Kushala Daora,HR,Break Horns,Daora Horn+,1,66
-Kushala Daora,HR,Break Horns,Daora Dragon Scale+,2,32
-Kushala Daora,HR,Break Horns,Daora Gem,1,2
+Kushala Daora,HR,Wound Head,Daora Horn+,1,66
+Kushala Daora,HR,Wound Head,Daora Dragon Scale+,2,32
+Kushala Daora,HR,Wound Head,Daora Gem,1,2
 Kushala Daora,HR,Wound Wings,Daora Webbing,1,70
 Kushala Daora,HR,Wound Wings,Daora Claw+,2,30
+Kushala Daora,HR,Wound Forelegs,Daora Claw+,1,80
+Kushala Daora,HR,Wound Forelegs,Daora Carapace,2,20
 Kushala Daora,HR,Shiny Drop,Daora Dragon Scale+,1,50
 Kushala Daora,HR,Shiny Drop,Daora Claw+,1,28
 Kushala Daora,HR,Shiny Drop,Dragon Treasure,1,22
@@ -2132,6 +3665,8 @@ Kushala Daora,HR,Plunderblade,Daora Dragon Scale+,1,45
 Kushala Daora,HR,Plunderblade,Daora Carapace,1,30
 Kushala Daora,HR,Plunderblade,Daora Claw+,1,24
 Kushala Daora,HR,Plunderblade,Daora Gem,1,1
+Kushala Daora,HR,Bandit Mantle,Lustrous Scale,1,70
+Kushala Daora,HR,Bandit Mantle,Glimmering Scale,1,30
 Kushala Daora,HR,Hunt (Bronze),Daora Carapace,1,27
 Kushala Daora,HR,Hunt (Bronze),Daora Dragon Scale+,1,22
 Kushala Daora,HR,Hunt (Bronze),Daora Claw+,1,18
@@ -2152,6 +3687,69 @@ Kushala Daora,HR,Investigation (Gold),Daora Webbing,1,16
 Kushala Daora,HR,Investigation (Gold),Daora Gem,1,13
 Kushala Daora,HR,Investigation (Gold),Daora Carapace,3,10
 Kushala Daora,HR,Investigation (Gold),Daora Dragon Scale+,3,9
+Kushala Daora,HR,Investigation (Purple),Worn Feystone,1,70
+Kushala Daora,HR,Investigation (Purple),Warped Feystone,1,13
+Kushala Daora,HR,Investigation (Purple),Sullied Streamstone,1,12
+Kushala Daora,HR,Investigation (Purple),Shining Streamstone,1,5
+Kushala Daora,MR,Track,Daora Shard,1,100
+Kushala Daora,MR,Body Carve,Daora Shard,1,30
+Kushala Daora,MR,Body Carve,Daora Cortex,1,22
+Kushala Daora,MR,Body Carve,Daora Hardclaw,1,18
+Kushala Daora,MR,Body Carve,Daora Fellwing,1,15
+Kushala Daora,MR,Body Carve,Daora Hardhorn,1,8
+Kushala Daora,MR,Body Carve,Daora Gem,1,5
+Kushala Daora,MR,Body Carve,Large Elder Dragon Gem,1,2
+Kushala Daora,MR,Wound Head,Daora Hardhorn,1,66
+Kushala Daora,MR,Wound Head,Daora Shard,2,32
+Kushala Daora,MR,Wound Head,Large Elder Dragon Gem,1,2
+Kushala Daora,MR,Wound Wings,Daora Fellwing,1,70
+Kushala Daora,MR,Wound Wings,Daora Hardclaw,2,30
+Kushala Daora,MR,Shiny Drop,Daora Shard,1,50
+Kushala Daora,MR,Shiny Drop,Daora Hardclaw,1,28
+Kushala Daora,MR,Shiny Drop,Old Dragon Treasure,1,22
+Kushala Daora,MR,Tail Carve,Daora Lash,1,70
+Kushala Daora,MR,Tail Carve,Daora Cortex,1,27
+Kushala Daora,MR,Tail Carve,Large Elder Dragon Gem,1,3
+Kushala Daora,MR,Palico Bonus,Daora Shard,1,50
+Kushala Daora,MR,Palico Bonus,Daora Cortex,1,28
+Kushala Daora,MR,Palico Bonus,Old Dragon Treasure,1,22
+Kushala Daora,MR,Plunderblade,Daora Shard,1,45
+Kushala Daora,MR,Plunderblade,Daora Cortex,1,30
+Kushala Daora,MR,Plunderblade,Daora Hardclaw,1,24
+Kushala Daora,MR,Plunderblade,Large Elder Dragon Gem,1,1
+Kushala Daora,MR,Bandit Mantle,Giant Scale,1,70
+Kushala Daora,MR,Bandit Mantle,Magnificent Scale,1,30
+Kushala Daora,MR,Hunt (Bronze),Daora Cortex,1,26
+Kushala Daora,MR,Hunt (Bronze),Daora Shard,1,21
+Kushala Daora,MR,Hunt (Bronze),Daora Hardclaw,1,17
+Kushala Daora,MR,Hunt (Bronze),Daora Lash,1,13
+Kushala Daora,MR,Hunt (Bronze),Pure Dragon Blood,1,12
+Kushala Daora,MR,Hunt (Bronze),Large Elder Dragon Bone,1,8
+Kushala Daora,MR,Hunt (Bronze),Daora Gem,1,3
+Kushala Daora,MR,Investigation (Silver),Daora Fellwing,1,18
+Kushala Daora,MR,Investigation (Silver),Daora Cortex,2,16
+Kushala Daora,MR,Investigation (Silver),Daora Hardhorn,1,16
+Kushala Daora,MR,Investigation (Silver),Daora Lash,1,16
+Kushala Daora,MR,Investigation (Silver),Daora Hardclaw,1,14
+Kushala Daora,MR,Investigation (Silver),Daora Shard,2,12
+Kushala Daora,MR,Investigation (Silver),Large Elder Dragon Gem,1,8
+Kushala Daora,MR,Investigation (Gold),Daora Lash,1,20
+Kushala Daora,MR,Investigation (Gold),Daora Hardhorn,1,18
+Kushala Daora,MR,Investigation (Gold),Daora Fellwing,1,16
+Kushala Daora,MR,Investigation (Gold),Large Elder Dragon Gem,1,16
+Kushala Daora,MR,Investigation (Gold),Daora Cortex,3,14
+Kushala Daora,MR,Investigation (Gold),Daora Shard,3,8
+Kushala Daora,MR,Investigation (Gold),Daora Hardclaw,2,8
+Kushala Daora,MR,Investigation (Purple),Carved Feystone,1,60
+Kushala Daora,MR,Investigation (Purple),Sealed Feystone,1,40
+Kushala Daora,MR,Guiding Lands (Low),Elder Dragonvein Bone,1,63
+Kushala Daora,MR,Guiding Lands (Low),Stormcall Steelwing,1,37
+Kushala Daora,MR,Guiding Lands (Mid),Stormcall Steelwing,1,63
+Kushala Daora,MR,Guiding Lands (Mid),Elder Dragonvein Bone,1,37
+Kushala Daora,MR,Guiding Lands (High),Stormcall Steelwing,1,100
+Kushala Daora,MR,Guiding Lands (Tempered),Tempered Steelwing,1,64
+Kushala Daora,MR,Guiding Lands (Tempered),Elder Spiritvein Bone,1,33
+Kushala Daora,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Vaal Hazak,HR,Track,Deceased Scale,1,100
 Vaal Hazak,HR,Body Carve,Deceased Scale,1,32
 Vaal Hazak,HR,Body Carve,Vaal Hazak Carapace,1,24
@@ -2165,8 +3763,8 @@ Vaal Hazak,HR,Wound Head,Vaal Hazak Membrane,1,32
 Vaal Hazak,HR,Wound Head,Vaal Hazak Gem,1,2
 Vaal Hazak,HR,Wound Body,Vaal Hazak Wing,1,70
 Vaal Hazak,HR,Wound Body,Vaal Hazak Membrane,2,30
-Vaal Hazak,HR,Wound Forearms,Vaal Hazak Talon,1,80
-Vaal Hazak,HR,Wound Forearms,Vaal Hazak Carapace,1,20
+Vaal Hazak,HR,Wound Forelegs,Vaal Hazak Talon,1,80
+Vaal Hazak,HR,Wound Forelegs,Vaal Hazak Carapace,1,20
 Vaal Hazak,HR,Shiny Drop,Vaal Hazak Membrane,1,50
 Vaal Hazak,HR,Shiny Drop,Deceased Scale,1,28
 Vaal Hazak,HR,Shiny Drop,Dragon Treasure,1,22
@@ -2180,6 +3778,8 @@ Vaal Hazak,HR,Plunderblade,Deceased Scale,1,45
 Vaal Hazak,HR,Plunderblade,Vaal Hazak Carapace,1,30
 Vaal Hazak,HR,Plunderblade,Vaal Hazak Talon,1,24
 Vaal Hazak,HR,Plunderblade,Vaal Hazak Gem,1,1
+Vaal Hazak,HR,Bandit Mantle,Lustrous Scale,1,70
+Vaal Hazak,HR,Bandit Mantle,Glimmering Scale,1,30
 Vaal Hazak,HR,Hunt (Bronze),Vaal Hazak Carapace,1,24
 Vaal Hazak,HR,Hunt (Bronze),Deceased Scale,1,19
 Vaal Hazak,HR,Hunt (Bronze),Vaal Hazak Wing,1,14
@@ -2203,13 +3803,29 @@ Vaal Hazak,HR,Investigation (Gold),Vaal Hazak Gem,1,13
 Vaal Hazak,HR,Investigation (Gold),Vaal Hazak Carapace,3,10
 Vaal Hazak,HR,Investigation (Gold),Vaal Hazak Membrane,3,10
 Vaal Hazak,HR,Investigation (Gold),Deceased Scale,3,8
+Vaal Hazak,HR,Investigation (Purple),Worn Feystone,1,70
+Vaal Hazak,HR,Investigation (Purple),Warped Feystone,1,13
+Vaal Hazak,HR,Investigation (Purple),Sullied Streamstone,1,12
+Vaal Hazak,HR,Investigation (Purple),Shining Streamstone,1,5
+Kulve Taroth,HR,Break Horns,Kulve Taroth Golden Spiralhorn,1,72
+Kulve Taroth,HR,Break Horns,Kulve Taroth Golden Spiralhorn,2,25
+Kulve Taroth,HR,Break Horns,Kulve Taroth Golden Glimstone,1,3
 Kulve Taroth,HR,Break Horns,Kulve Taroth Golden Spiralhorn,1,
 Kulve Taroth,HR,Break Horns,Kulve Taroth Golden Glimstone,1,
+Kulve Taroth,HR,Wound Tail,Kulve Taroth Golden Tailshell,1,71
+Kulve Taroth,HR,Wound Tail,Kulve Taroth Golden Tailshell,2,26
+Kulve Taroth,HR,Wound Tail,Kulve Taroth Golden Glimstone,1,3
 Kulve Taroth,HR,Wound Tail,Kulve Taroth Golden Tailshell,1,
 Kulve Taroth,HR,Wound Tail,Kulve Taroth Golden Glimstone,1,
-Kulve Taroth,HR,Shiny Drop,Kulve Taroth Golden Scale,1,
 Kulve Taroth,HR,Gold Plating Carved,Kulve Taroth Golden Shell,1,
 Kulve Taroth,HR,Gold Plating Carved,Kulve Taroth Golden Glimstone,1,
+Kulve Taroth,HR,Siege Progress,Golden Fragment,1,29
+Kulve Taroth,HR,Siege Progress,Advanced Armor Sphere,1,22
+Kulve Taroth,HR,Siege Progress,Fucium Ore,1,22
+Kulve Taroth,HR,Siege Progress,Golden Chunk,1,16
+Kulve Taroth,HR,Siege Progress,Kulve Taroth Golden Nugget,1,11
+Kulve Taroth,HR,Bandit Mantle,Lustrous Scale,1,70
+Kulve Taroth,HR,Bandit Mantle,Glimmering Scale,1,30
 Kulve Taroth,HR,Appraisal (Bronze),Dissolved Weapon,1,33
 Kulve Taroth,HR,Appraisal (Bronze),Hard Armor Sphere,1,23
 Kulve Taroth,HR,Appraisal (Bronze),Kulve Taroth Golden Shell,2,17
@@ -2233,8 +3849,8 @@ Xeno'jiiva,HR,Wound Head,Xeno'jiiva Veil,1,32
 Xeno'jiiva,HR,Wound Head,Xeno'jiiva Gem,1,4
 Xeno'jiiva,HR,Wound Wings,Xeno'jiiva Wing,1,70
 Xeno'jiiva,HR,Wound Wings,Xeno'jiiva Veil,2,30
-Xeno'jiiva,HR,Wound Forearms,Xeno'jiiva Claw,1,80
-Xeno'jiiva,HR,Wound Forearms,Xeno'jiiva Shell,1,20
+Xeno'jiiva,HR,Wound Forelegs,Xeno'jiiva Claw,1,80
+Xeno'jiiva,HR,Wound Forelegs,Xeno'jiiva Shell,1,20
 Xeno'jiiva,HR,Shiny Drop,Xeno'jiiva Veil,1,50
 Xeno'jiiva,HR,Shiny Drop,Xeno'jiiva Soulscale,1,28
 Xeno'jiiva,HR,Shiny Drop,Dragon Treasure,1,22
@@ -2248,6 +3864,8 @@ Xeno'jiiva,HR,Plunderblade,Xeno'jiiva Soulscale,1,45
 Xeno'jiiva,HR,Plunderblade,Xeno'jiiva Shell,1,30
 Xeno'jiiva,HR,Plunderblade,Xeno'jiiva Claw,1,24
 Xeno'jiiva,HR,Plunderblade,Xeno'jiiva Gem,1,1
+Xeno'jiiva,HR,Bandit Mantle,Lustrous Scale,1,70
+Xeno'jiiva,HR,Bandit Mantle,Glimmering Scale,1,30
 Xeno'jiiva,HR,Hunt (Bronze),Xeno'jiiva Shell,1,22
 Xeno'jiiva,HR,Hunt (Bronze),Xeno'jiiva Soulscale,1,18
 Xeno'jiiva,HR,Hunt (Bronze),Xeno'jiiva Veil,1,14
