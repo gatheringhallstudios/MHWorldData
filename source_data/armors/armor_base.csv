@@ -781,691 +781,691 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 690,Shadow Shades α,5,head,both,1,1,1,46,68,84,4,0,4,2,0
 691,Kulu-Ya-Ku Head α,5,head,both,3,1,0,46,68,84,2,0,2,3,2
 692,Wiggler Head α,5,head,both,1,1,0,46,68,84,0,4,0,0,4
-783,Bone Helm α+,9,head,both,3,0,0,114,130,152,2,0,2,0,2
-784,Bone Mail α+,9,chest,both,2,0,0,114,130,152,2,0,2,0,2
-785,Bone Vambraces α+,9,arms,both,2,0,0,114,130,152,2,0,2,0,2
-786,Bone Coil α+,9,waist,both,3,0,0,114,130,152,2,0,2,0,2
-787,Bone Greaves α+,9,legs,both,3,0,0,114,130,152,2,0,2,0,2
-788,Bone Helm β+,9,head,both,4,0,0,114,130,152,2,0,2,0,2
-789,Bone Mail β+,9,chest,both,4,1,0,114,130,152,2,0,2,0,2
-790,Bone Vambraces β+,9,arms,both,4,1,0,114,130,152,2,0,2,0,2
-791,Bone Coil β+,9,waist,both,4,1,0,114,130,152,2,0,2,0,2
-792,Bone Greaves β+,9,legs,both,4,0,0,114,130,152,2,0,2,0,2
-793,Alloy Helm α+,9,head,both,2,0,0,114,130,152,-2,0,-2,-2,0
-794,Alloy Mail α+,9,chest,both,3,0,0,114,130,152,-2,0,-2,-2,0
-795,Alloy Vambraces α+,9,arms,both,3,0,0,114,130,152,-2,0,-2,-2,0
-796,Alloy Coil α+,9,waist,both,3,0,0,114,130,152,-2,0,-2,-2,0
-797,Alloy Greaves α+,9,legs,both,3,0,0,114,130,152,-2,0,-2,-2,0
-798,Alloy Helm β+,9,head,both,4,1,0,114,130,152,-2,0,-2,-2,0
-799,Alloy Mail β+,9,chest,both,4,1,0,114,130,152,-2,0,-2,-2,0
-800,Alloy Vambraces β+,9,arms,both,4,1,0,114,130,152,-2,0,-2,-2,0
-801,Alloy Coil β+,9,waist,both,4,0,0,114,130,152,-2,0,-2,-2,0
-802,Alloy Greaves β+,9,legs,both,4,0,0,114,130,152,-2,0,-2,-2,0
-803,Vespoid Helm α+,9,head,both,3,0,0,116,132,154,-2,1,1,1,2
-804,Vespoid Mail α+,9,chest,both,2,1,0,116,132,154,-2,1,1,1,2
-805,Vespoid Vambraces α+,9,arms,both,3,0,0,116,132,154,-2,1,1,1,2
-806,Vespoid Coil α+,9,waist,both,3,0,0,116,132,154,-2,1,1,1,2
-807,Vespoid Greaves α+,9,legs,both,3,0,0,116,132,154,-2,1,1,1,2
-808,Vespoid Helm β+,9,head,both,4,1,0,116,132,154,-2,1,1,1,2
-809,Vespoid Mail β+,9,chest,both,4,1,0,116,132,154,-2,1,1,1,2
-810,Vespoid Vambraces β+,9,arms,both,4,1,0,116,132,154,-2,1,1,1,2
-811,Vespoid Coil β+,9,waist,both,4,1,0,116,132,154,-2,1,1,1,2
-812,Vespoid Greaves β+,9,legs,both,4,1,0,116,132,154,-2,1,1,1,2
-813,Hornetaur Helm α+,9,head,both,2,0,0,116,132,154,-1,-1,0,0,2
-814,Hornetaur Mail α+,9,chest,both,2,1,0,116,132,154,-1,-1,0,0,2
-815,Hornetaur Vambraces α+,9,arms,both,3,0,0,116,132,154,-1,-1,0,0,2
-816,Hornetaur Coil α+,9,waist,both,2,0,0,116,132,154,-1,-1,0,0,2
-817,Hornetaur Greaves α+,9,legs,both,2,1,0,116,132,154,-1,-1,0,0,2
-818,Hornetaur Helm β+,9,head,both,4,0,0,116,132,154,-1,-1,0,0,2
-819,Hornetaur Mail β+,9,chest,both,4,2,1,116,132,154,-1,-1,0,0,2
-820,Hornetaur Vambraces β+,9,arms,both,4,2,0,116,132,154,-1,-1,0,0,2
-821,Hornetaur Coil β+,9,waist,both,4,1,0,116,132,154,-1,-1,0,0,2
-822,Hornetaur Greaves β+,9,legs,both,4,1,0,116,132,154,-1,-1,0,0,2
-823,Kestodon Guards α+,9,arms,both,1,1,0,116,132,154,4,0,0,0,0
-824,Kestodon Guards β+,9,arms,both,4,1,0,116,132,154,4,0,0,0,0
-825,Gajau Boots α+,9,legs,both,2,1,0,116,132,154,0,5,0,0,0
-826,Gajau Boots β+,9,legs,both,4,1,0,116,132,154,0,5,0,0,0
-827,Shamos Goggles α+,9,head,both,2,1,0,116,132,154,2,2,0,-3,0
-828,Shamos Goggles β+,9,head,both,4,2,0,116,132,154,2,2,0,-3,0
-829,Gastodon Horn α+,9,head,both,1,0,0,116,132,154,3,0,0,0,0
-830,Gastodon Horn β+,9,head,both,4,1,0,116,132,154,3,0,0,0,0
-831,Barnos Jacket α+,9,chest,both,2,2,0,116,132,154,1,1,0,1,-2
-832,Barnos Jacket β+,9,chest,both,4,2,0,116,132,154,1,1,0,1,-2
-833,Wulg Scarf α+,9,head,both,2,1,0,116,132,154,-3,2,-2,3,2
-834,Wulg Scarf β+,9,head,both,4,1,0,116,132,154,-3,2,-2,3,2
-835,Cortos Cape α+,9,chest,both,1,1,0,116,132,154,-3,2,0,2,0
-836,Cortos Cape β+,9,chest,both,4,0,0,116,132,154,-3,2,0,2,0
-837,Jagras Helm α+,9,head,both,2,0,0,116,132,154,-2,2,-1,-1,1
-838,Jagras Mail α+,9,chest,both,3,0,0,116,132,154,-2,2,-1,-1,1
-839,Jagras Vambraces α+,9,arms,both,2,0,0,116,132,154,-2,2,-1,-1,1
-840,Jagras Coil α+,9,waist,both,2,1,0,116,132,154,-2,2,-1,-1,1
-841,Jagras Greaves α+,9,legs,both,2,1,0,116,132,154,-2,2,-1,-1,1
-842,Jagras Helm β+,9,head,both,4,1,0,116,132,154,-2,2,-1,-1,1
-843,Jagras Mail β+,9,chest,both,4,0,0,116,132,154,-2,2,-1,-1,1
-844,Jagras Vambraces β+,9,arms,both,4,0,0,116,132,154,-2,2,-1,-1,1
-845,Jagras Coil β+,9,waist,both,4,1,0,116,132,154,-2,2,-1,-1,1
-846,Jagras Greaves β+,9,legs,both,4,1,0,116,132,154,-2,2,-1,-1,1
-847,Tzitzi Headgear α+,9,head,both,2,1,0,116,132,154,0,0,-3,-2,0
-848,Tzitzi Mail α+,9,chest,both,1,1,0,116,132,154,0,0,-3,-2,0
-849,Tzitzi Vambraces α+,9,arms,both,2,0,0,116,132,154,0,0,-3,-2,0
-850,Tzitzi Coil α+,9,waist,both,2,0,0,116,132,154,0,0,-3,-2,0
-851,Tzitzi Greaves α+,9,legs,both,3,0,0,116,132,154,0,0,-3,-2,0
-852,Tzitzi Headgear β+,9,head,both,4,1,0,116,132,154,0,0,-3,-2,0
-853,Tzitzi Mail β+,9,chest,both,4,1,0,116,132,154,0,0,-3,-2,0
-854,Tzitzi Vambraces β+,9,arms,both,4,0,0,116,132,154,0,0,-3,-2,0
-855,Tzitzi Coil β+,9,waist,both,4,1,0,116,132,154,0,0,-3,-2,0
-856,Tzitzi Greaves β+,9,legs,both,4,0,0,116,132,154,0,0,-3,-2,0
-857,Girros Headgear α+,9,head,both,2,0,0,116,132,154,0,-3,2,0,1
-858,Girros Mail α+,9,chest,both,2,0,0,116,132,154,0,-3,2,0,1
-859,Girros Vambraces α+,9,arms,both,1,0,0,116,132,154,0,-3,2,0,1
-860,Girros Coil α+,9,waist,both,3,0,0,116,132,154,0,-3,2,0,1
-861,Girros Greaves α+,9,legs,both,1,0,0,116,132,154,0,-3,2,0,1
-862,Girros Headgear β+,9,head,both,4,0,0,116,132,154,0,-3,2,0,1
-863,Girros Mail β+,9,chest,both,4,2,0,116,132,154,0,-3,2,0,1
-864,Girros Vambraces β+,9,arms,both,4,0,0,116,132,154,0,-3,2,0,1
-865,Girros Coil β+,9,waist,both,4,2,0,116,132,154,0,-3,2,0,1
-866,Girros Greaves β+,9,legs,both,4,0,0,116,132,154,0,-3,2,0,1
-867,Dodogama Helm α+,9,head,both,3,0,0,120,136,158,2,0,-3,0,2
-868,Dodogama Mail α+,9,chest,both,2,0,0,120,136,158,2,0,-3,0,2
-869,Dodogama Vambraces α+,9,arms,both,2,0,0,120,136,158,2,0,-3,0,2
-870,Dodogama Coil α+,9,waist,both,2,1,0,120,136,158,2,0,-3,0,2
-871,Dodogama Greaves α+,9,legs,both,2,1,0,120,136,158,2,0,-3,0,2
-872,Dodogama Helm β+,9,head,both,4,0,0,120,136,158,2,0,-3,0,2
-873,Dodogama Mail β+,9,chest,both,4,0,0,120,136,158,2,0,-3,0,2
-874,Dodogama Vambraces β+,9,arms,both,4,0,0,120,136,158,2,0,-3,0,2
-875,Dodogama Coil β+,9,waist,both,4,1,0,120,136,158,2,0,-3,0,2
-876,Dodogama Greaves β+,9,legs,both,4,1,0,120,136,158,2,0,-3,0,2
-877,Kulu Headpiece α+,9,head,both,1,0,0,116,132,154,0,-3,0,1,0
-878,Kulu Mail α+,9,chest,both,2,0,0,116,132,154,0,-3,0,1,0
-879,Kulu Vambraces α+,9,arms,both,1,1,0,116,132,154,0,-3,0,1,0
-880,Kulu Coil α+,9,waist,both,3,0,0,116,132,154,0,-3,0,1,0
-881,Kulu Greaves α+,9,legs,both,2,0,0,116,132,154,0,-3,0,1,0
-882,Kulu Headpiece β+,9,head,both,4,0,0,116,132,154,0,-3,0,1,0
-883,Kulu Mail β+,9,chest,both,4,0,0,116,132,154,0,-3,0,1,0
-884,Kulu Vambraces β+,9,arms,both,4,0,0,116,132,154,0,-3,0,1,0
-885,Kulu Coil β+,9,waist,both,4,1,0,116,132,154,0,-3,0,1,0
-886,Kulu Greaves β+,9,legs,both,4,0,0,116,132,154,0,-3,0,1,0
-887,Pukei Hat α+,9,head,both,2,2,0,118,134,156,0,3,-3,0,1
-888,Pukei Mail α+,9,chest,both,2,0,0,118,134,156,0,3,-3,0,1
-889,Pukei Vambraces α+,9,arms,both,1,0,0,118,134,156,0,3,-3,0,1
-890,Pukei Coil α+,9,waist,both,3,0,0,118,134,156,0,3,-3,0,1
-891,Pukei Greaves α+,9,legs,both,3,0,0,118,134,156,0,3,-3,0,1
-892,Pukei Hat β+,9,head,both,4,1,1,118,134,156,0,3,-3,0,1
-893,Pukei Mail β+,9,chest,both,4,0,0,118,134,156,0,3,-3,0,1
-894,Pukei Vambraces β+,9,arms,both,4,0,0,118,134,156,0,3,-3,0,1
-895,Pukei Coil β+,9,waist,both,4,1,0,118,134,156,0,3,-3,0,1
-896,Pukei Greaves β+,9,legs,both,4,2,0,118,134,156,0,3,-3,0,1
-897,Pukei Lagoon Hat α+,9,head,both,1,0,0,132,148,170,0,3,-2,-3,0
-898,Pukei Lagoon Mail α+,9,chest,both,2,0,0,132,148,170,0,3,-2,-3,0
-899,Pukei Lagoon Braces α+,9,arms,both,1,0,0,132,148,170,0,3,-2,-3,0
-900,Pukei Lagoon Coil α+,9,waist,both,2,0,0,132,148,170,0,3,-2,-3,0
-901,Pukei Lagoon Greaves α+,9,legs,both,1,0,0,132,148,170,0,3,-2,-3,0
-902,Pukei Lagoon Hat β+,9,head,both,4,0,0,132,148,170,0,3,-2,-3,0
-903,Pukei Lagoon Mail β+,9,chest,both,4,1,0,132,148,170,0,3,-2,-3,0
-904,Pukei Lagoon Braces β+,9,arms,both,4,1,0,132,148,170,0,3,-2,-3,0
-905,Pukei Lagoon Coil β+,9,waist,both,4,0,0,132,148,170,0,3,-2,-3,0
-906,Pukei Lagoon Greaves β+,9,legs,both,4,1,0,132,148,170,0,3,-2,-3,0
-907,Barroth Helm α+,9,head,both,2,0,0,118,134,156,-3,-1,3,-1,0
-908,Barroth Mail α+,9,chest,both,1,1,0,118,134,156,-3,-1,3,-1,0
-909,Barroth Vambraces α+,9,arms,both,3,1,0,118,134,156,-3,-1,3,-1,0
-910,Barroth Coil α+,9,waist,both,1,0,0,118,134,156,-3,-1,3,-1,0
-911,Barroth Greaves α+,9,legs,both,3,1,0,118,134,156,-3,-1,3,-1,0
-912,Barroth Helm β+,9,head,both,4,1,0,118,134,156,-3,-1,3,-1,0
-913,Barroth Mail β+,9,chest,both,4,1,0,118,134,156,-3,-1,3,-1,0
-914,Barroth Vambraces β+,9,arms,both,4,2,0,118,134,156,-3,-1,3,-1,0
-915,Barroth Coil β+,9,waist,both,4,0,0,118,134,156,-3,-1,3,-1,0
-916,Barroth Greaves β+,9,legs,both,4,2,1,118,134,156,-3,-1,3,-1,0
-917,Jyura Helm α+,9,head,both,1,1,0,118,134,156,-1,2,-3,0,0
-918,Jyura Mail α+,9,chest,both,2,0,0,118,134,156,-1,2,-3,0,0
-919,Jyura Vambraces α+,9,arms,both,2,1,0,118,134,156,-1,2,-3,0,0
-920,Jyura Coil α+,9,waist,both,3,0,0,118,134,156,-1,2,-3,0,0
-921,Jyura Greaves α+,9,legs,both,2,0,0,118,134,156,-1,2,-3,0,0
-922,Jyura Helm β+,9,head,both,4,1,0,118,134,156,-1,2,-3,0,0
-923,Jyura Mail β+,9,chest,both,4,0,0,118,134,156,-1,2,-3,0,0
-924,Jyura Vambraces β+,9,arms,both,4,2,0,118,134,156,-1,2,-3,0,0
-925,Jyura Coil β+,9,waist,both,4,1,0,118,134,156,-1,2,-3,0,0
-926,Jyura Greaves β+,9,legs,both,4,1,0,118,134,156,-1,2,-3,0,0
-927,Beo Helm α+,9,head,both,2,0,0,118,134,156,-3,0,-2,3,2
-928,Beo Mail α+,9,chest,both,3,0,0,118,134,156,-3,0,-2,3,2
-929,Beo Vambraces α+,9,arms,both,3,0,0,118,134,156,-3,0,-2,3,2
-930,Beo Coil α+,9,waist,both,2,0,0,118,134,156,-3,0,-2,3,2
-931,Beo Greaves α+,9,legs,both,2,0,0,118,134,156,-3,0,-2,3,2
-932,Beo Helm β+,9,head,both,4,1,0,118,134,156,-3,0,-2,3,2
-933,Beo Mail β+,9,chest,both,4,2,0,118,134,156,-3,0,-2,3,2
-934,Beo Vambraces β+,9,arms,both,4,0,0,118,134,156,-3,0,-2,3,2
-935,Beo Coil β+,9,waist,both,4,1,0,118,134,156,-3,0,-2,3,2
-936,Beo Greaves β+,9,legs,both,4,0,0,118,134,156,-3,0,-2,3,2
-937,Kadachi Hat α+,9,head,both,2,0,0,120,136,158,0,-3,3,0,0
-938,Kadachi Mail α+,9,chest,both,2,1,0,120,136,158,0,-3,3,0,0
-939,Kadachi Vambraces α+,9,arms,both,2,0,0,120,136,158,0,-3,3,0,0
-940,Kadachi Coil α+,9,waist,both,3,1,0,120,136,158,0,-3,3,0,0
-941,Kadachi Greaves α+,9,legs,both,3,1,0,120,136,158,0,-3,3,0,0
-942,Kadachi Hat β+,9,head,both,4,1,0,120,136,158,0,-3,3,0,0
-943,Kadachi Mail β+,9,chest,both,4,2,0,120,136,158,0,-3,3,0,0
-944,Kadachi Vambraces β+,9,arms,both,4,2,0,120,136,158,0,-3,3,0,0
-945,Kadachi Coil β+,9,waist,both,4,1,0,120,136,158,0,-3,3,0,0
-946,Kadachi Greaves β+,9,legs,both,4,1,1,120,136,158,0,-3,3,0,0
-947,Viper Kadachi Hat α+,9,head,both,1,0,0,132,148,170,1,3,-3,-2,1
-948,Viper Kadachi Mail α+,9,chest,both,1,1,0,132,148,170,1,3,-3,-2,1
-949,Viper Kadachi Braces α+,9,arms,both,2,0,0,132,148,170,1,3,-3,-2,1
-950,Viper Kadachi Coil α+,9,waist,both,2,0,0,132,148,170,1,3,-3,-2,1
-951,Viper Kadachi Greaves α+,9,legs,both,2,0,0,132,148,170,1,3,-3,-2,1
-952,Viper Kadachi Hat β+,9,head,both,4,0,0,132,148,170,1,3,-3,-2,1
-953,Viper Kadachi Mail β+,9,chest,both,4,1,0,132,148,170,1,3,-3,-2,1
-954,Viper Kadachi Braces β+,9,arms,both,4,0,0,132,148,170,1,3,-3,-2,1
-955,Viper Kadachi Coil β+,9,waist,both,4,1,0,132,148,170,1,3,-3,-2,1
-956,Viper Kadachi Greaves β+,9,legs,both,4,1,0,132,148,170,1,3,-3,-2,1
-957,High Metal Helm α+,9,head,both,2,0,0,128,144,166,0,-1,-2,3,0
-958,High Metal Mail α+,9,chest,both,2,0,0,128,144,166,0,-1,-2,3,0
-959,High Metal Braces α+,9,arms,both,2,1,0,128,144,166,0,-1,-2,3,0
-960,High Metal Coil α+,9,waist,both,2,2,0,128,144,166,0,-1,-2,3,0
-961,High Metal Greaves α+,9,legs,both,2,2,1,128,144,166,0,-1,-2,3,0
-962,High Metal Helm β+,9,head,both,4,1,0,128,144,166,0,-1,-2,3,0
-963,High Metal Mail β+,9,chest,both,4,1,0,128,144,166,0,-1,-2,3,0
-964,High Metal Braces β+,9,arms,both,4,1,0,128,144,166,0,-1,-2,3,0
-965,High Metal Coil β+,9,waist,both,4,2,0,128,144,166,0,-1,-2,3,0
-966,High Metal Greaves β+,9,legs,both,4,3,0,128,144,166,0,-1,-2,3,0
-967,Banbaro Helm α+,9,head,both,2,0,0,130,146,168,-2,2,-1,3,-3
-968,Banbaro Mail α+,9,chest,both,3,0,0,130,146,168,-2,2,-1,3,-3
-969,Banbaro Vambraces α+,9,arms,both,2,0,0,130,146,168,-2,2,-1,3,-3
-970,Banbaro Coil α+,9,waist,both,3,0,0,130,146,168,-2,2,-1,3,-3
-971,Banbaro Greaves α+,9,legs,both,3,0,0,130,146,168,-2,2,-1,3,-3
-972,Banbaro Helm β+,9,head,both,4,1,0,130,146,168,-2,2,-1,3,-3
-973,Banbaro Mail β+,9,chest,both,4,1,0,130,146,168,-2,2,-1,3,-3
-974,Banbaro Vambraces β+,9,arms,both,4,0,0,130,146,168,-2,2,-1,3,-3
-975,Banbaro Coil β+,9,waist,both,4,1,0,130,146,168,-2,2,-1,3,-3
-976,Banbaro Greaves β+,9,legs,both,4,1,0,130,146,168,-2,2,-1,3,-3
-977,Anja Helm α+,9,head,both,3,0,0,132,148,170,3,-3,-1,-1,0
-978,Anja Mail α+,9,chest,both,1,1,0,132,148,170,3,-3,-1,-1,0
-979,Anja Vambraces α+,9,arms,both,2,0,0,132,148,170,3,-3,-1,-1,0
-980,Anja Coil α+,9,waist,both,3,1,0,132,148,170,3,-3,-1,-1,0
-981,Anja Greaves α+,9,legs,both,2,0,0,132,148,170,3,-3,-1,-1,0
-982,Anja Helm β+,9,head,both,4,0,0,132,148,170,3,-3,-1,-1,0
-983,Anja Mail β+,9,chest,both,4,1,0,132,148,170,3,-3,-1,-1,0
-984,Anja Vambraces β+,9,arms,both,4,0,0,132,148,170,3,-3,-1,-1,0
-985,Anja Coil β+,9,waist,both,4,2,0,132,148,170,3,-3,-1,-1,0
-986,Anja Greaves β+,9,legs,both,4,1,0,132,148,170,3,-3,-1,-1,0
-987,Fulgur Helm α+,11,head,both,2,1,0,146,154,170,-1,-1,2,-3,0
-988,Fulgur Mail α+,11,chest,both,3,0,0,146,154,170,-1,-1,2,-3,0
-989,Fulgur Vambraces α+,11,arms,both,2,0,0,146,154,170,-1,-1,2,-3,0
-990,Fulgur Coil α+,11,waist,both,1,0,0,146,154,170,-1,-1,2,-3,0
-991,Fulgur Greaves α+,11,legs,both,2,1,0,146,154,170,-1,-1,2,-3,0
-992,Fulgur Helm β+,11,head,both,4,2,0,146,154,170,-1,-1,2,-3,0
-993,Fulgur Mail β+,11,chest,both,4,0,0,146,154,170,-1,-1,2,-3,0
-994,Fulgur Vambraces β+,11,arms,both,4,2,0,146,154,170,-1,-1,2,-3,0
-995,Fulgur Coil β+,11,waist,both,4,1,0,146,154,170,-1,-1,2,-3,0
-996,Fulgur Greaves β+,11,legs,both,4,1,0,146,154,170,-1,-1,2,-3,0
-997,Rathian Helm α+,9,head,both,3,0,0,130,146,168,2,0,-2,0,-3
-998,Rathian Mail α+,9,chest,both,2,2,0,130,146,168,2,0,-2,0,-3
-999,Rathian Vambraces α+,9,arms,both,3,0,0,130,146,168,2,0,-2,0,-3
-1000,Rathian Coil α+,9,waist,both,3,2,0,130,146,168,2,0,-2,0,-3
-1001,Rathian Greaves α+,9,legs,both,3,0,0,130,146,168,2,0,-2,0,-3
-1002,Rathian Helm β+,9,head,both,4,0,0,130,146,168,2,0,-2,0,-3
-1003,Rathian Mail β+,9,chest,both,4,2,0,130,146,168,2,0,-2,0,-3
-1004,Rathian Vambraces β+,9,arms,both,4,0,0,130,146,168,2,0,-2,0,-3
-1005,Rathian Coil β+,9,waist,both,4,2,0,130,146,168,2,0,-2,0,-3
-1006,Rathian Greaves β+,9,legs,both,4,0,0,130,146,168,2,0,-2,0,-3
-1007,Rath Heart Helm α+,9,head,both,3,0,0,132,148,170,3,0,-3,0,-4
-1008,Rath Heart Mail α+,9,chest,both,2,0,0,132,148,170,3,0,-3,0,-4
-1009,Rath Heart Braces α+,9,arms,both,2,0,0,132,148,170,3,0,-3,0,-4
-1010,Rath Heart Coil α+,9,waist,both,3,0,0,132,148,170,3,0,-3,0,-4
-1011,Rath Heart Greaves α+,9,legs,both,2,1,0,132,148,170,3,0,-3,0,-4
-1012,Rath Heart Helm β+,9,head,both,4,1,0,132,148,170,3,0,-3,0,-4
-1013,Rath Heart Mail β+,9,chest,both,4,1,1,132,148,170,3,0,-3,0,-4
-1014,Rath Heart Braces β+,9,arms,both,4,2,0,132,148,170,3,0,-3,0,-4
-1015,Rath Heart Coil β+,9,waist,both,4,0,0,132,148,170,3,0,-3,0,-4
-1016,Rath Heart Greaves β+,9,legs,both,4,2,0,132,148,170,3,0,-3,0,-4
-1017,Lumu Hat α+,9,head,both,3,0,0,130,146,168,-3,2,0,1,0
-1018,Lumu Mail α+,9,chest,both,3,1,0,130,146,168,-3,2,0,1,0
-1019,Lumu Vambraces α+,9,arms,both,2,2,0,130,146,168,-3,2,0,1,0
-1020,Lumu Coil α+,9,waist,both,2,2,0,130,146,168,-3,2,0,1,0
-1021,Lumu Greaves α+,9,legs,both,3,0,0,130,146,168,-3,2,0,1,0
-1022,Lumu Hat β+,9,head,both,4,1,0,130,146,168,-3,2,0,1,0
-1023,Lumu Mail β+,9,chest,both,4,1,0,130,146,168,-3,2,0,1,0
-1024,Lumu Vambraces β+,9,arms,both,4,1,0,130,146,168,-3,2,0,1,0
-1025,Lumu Coil β+,9,waist,both,4,1,0,130,146,168,-3,2,0,1,0
-1026,Lumu Greaves β+,9,legs,both,4,1,0,130,146,168,-3,2,0,1,0
-1027,Lumu Phantasm Hood α+,9,head,both,1,1,0,132,148,170,-3,-3,2,1,1
-1028,Lumu Phantasm Mail α+,9,chest,both,2,0,0,132,148,170,-3,-3,2,1,1
-1029,Lumu Phantasm Braces α+,9,arms,both,2,0,0,132,148,170,-3,-3,2,1,1
-1030,Lumu Phantasm Coil α+,9,waist,both,2,0,0,132,148,170,-3,-3,2,1,1
-1031,Lumu Phantasm Greaves α+,9,legs,both,3,0,0,132,148,170,-3,-3,2,1,1
-1032,Lumu Phantasm Hood β+,9,head,both,4,0,0,132,148,170,-3,-3,2,1,1
-1033,Lumu Phantasm Mail β+,9,chest,both,4,1,0,132,148,170,-3,-3,2,1,1
-1034,Lumu Phantasm Braces β+,9,arms,both,4,0,0,132,148,170,-3,-3,2,1,1
-1035,Lumu Phantasm Coil β+,9,waist,both,4,0,0,132,148,170,-3,-3,2,1,1
-1036,Lumu Phantasm Greaves β+,9,legs,both,4,1,0,132,148,170,-3,-3,2,1,1
-1037,Baan Helm α+,9,head,both,1,1,0,134,150,172,0,2,0,-1,-2
-1038,Baan Mail α+,9,chest,both,3,0,0,134,150,172,0,2,0,-1,-2
-1039,Baan Vambraces α+,9,arms,both,2,0,0,134,150,172,0,2,0,-1,-2
-1040,Baan Coil α+,9,waist,both,1,0,0,134,150,172,0,2,0,-1,-2
-1041,Baan Greaves α+,9,legs,both,2,0,0,134,150,172,0,2,0,-1,-2
-1042,Baan Helm β+,9,head,both,4,0,0,134,150,172,0,2,0,-1,-2
-1043,Baan Mail β+,9,chest,both,4,0,0,134,150,172,0,2,0,-1,-2
-1044,Baan Vambraces β+,9,arms,both,4,0,0,134,150,172,0,2,0,-1,-2
-1045,Baan Coil β+,9,waist,both,4,0,0,134,150,172,0,2,0,-1,-2
-1046,Baan Greaves β+,9,legs,both,4,1,0,134,150,172,0,2,0,-1,-2
-1047,Artian Helm α+,10,head,both,2,0,0,142,152,174,1,-2,-2,2,3
-1048,Artian Mail α+,10,chest,both,1,0,0,142,152,174,1,-2,-2,2,3
-1049,Artian Vambraces α+,10,arms,both,1,1,0,142,152,174,1,-2,-2,2,3
-1050,Artian Coil α+,10,waist,both,1,1,0,142,152,174,1,-2,-2,2,3
-1051,Artian Greaves α+,10,legs,both,1,1,0,142,152,174,1,-2,-2,2,3
-1052,Artian Helm β+,10,head,both,4,1,0,142,152,174,1,-2,-2,2,3
-1053,Artian Mail β+,10,chest,both,4,0,0,142,152,174,1,-2,-2,2,3
-1054,Artian Vambraces β+,10,arms,both,4,0,0,142,152,174,1,-2,-2,2,3
-1055,Artian Coil β+,10,waist,both,4,1,0,142,152,174,1,-2,-2,2,3
-1056,Artian Greaves β+,10,legs,both,4,0,0,142,152,174,1,-2,-2,2,3
-1057,Clockwork Helm α+,10,head,both,1,1,0,142,152,174,2,2,2,-1,-1
-1058,Clockwork Mail α+,10,chest,both,1,1,0,142,152,174,2,2,2,-1,-1
-1059,Clockwork Braces α+,10,arms,both,2,0,0,142,152,174,2,2,2,-1,-1
-1060,Clockwork Coil α+,10,waist,both,2,0,0,142,152,174,2,2,2,-1,-1
-1061,Clockwork Greaves α+,10,legs,both,1,1,0,142,152,174,2,2,2,-1,-1
-1062,Clockwork Helm β+,10,head,both,4,1,0,142,152,174,2,2,2,-1,-1
-1063,Clockwork Mail β+,10,chest,both,4,1,0,142,152,174,2,2,2,-1,-1
-1064,Clockwork Braces β+,10,arms,both,4,0,0,142,152,174,2,2,2,-1,-1
-1065,Clockwork Coil β+,10,waist,both,4,1,0,142,152,174,2,2,2,-1,-1
-1066,Clockwork Greaves β+,10,legs,both,4,0,0,142,152,174,2,2,2,-1,-1
-1067,Ingot Helm α+,10,head,both,2,0,0,136,146,168,-2,0,3,-1,0
-1068,Ingot Mail α+,10,chest,both,3,0,0,136,146,168,-2,0,3,-1,0
-1069,Ingot Vambraces α+,10,arms,both,2,1,0,136,146,168,-2,0,3,-1,0
-1070,Ingot Coil α+,10,waist,both,2,0,0,136,146,168,-2,0,3,-1,0
-1071,Ingot Greaves α+,10,legs,both,2,0,0,136,146,168,-2,0,3,-1,0
-1072,Ingot Helm β+,10,head,both,4,2,0,136,146,168,-2,0,3,-1,0
-1073,Ingot Mail β+,10,chest,both,4,0,0,136,146,168,-2,0,3,-1,0
-1074,Ingot Vambraces β+,10,arms,both,4,0,0,136,146,168,-2,0,3,-1,0
-1075,Ingot Coil β+,10,waist,both,4,1,0,136,146,168,-2,0,3,-1,0
-1076,Ingot Greaves β+,10,legs,both,4,0,0,136,146,168,-2,0,3,-1,0
-1077,Barioth Helm α+,10,head,both,1,1,0,138,148,170,-3,2,-2,3,0
-1078,Barioth Mail α+,10,chest,both,3,0,0,138,148,170,-3,2,-2,3,0
-1079,Barioth Vambraces α+,10,arms,both,2,0,0,138,148,170,-3,2,-2,3,0
-1080,Barioth Faulds α+,10,waist,both,3,0,0,138,148,170,-3,2,-2,3,0
-1081,Barioth Greaves α+,10,legs,both,1,1,0,138,148,170,-3,2,-2,3,0
-1082,Barioth Helm β+,10,head,both,4,1,0,138,148,170,-3,2,-2,3,0
-1083,Barioth Mail β+,10,chest,both,4,1,0,138,148,170,-3,2,-2,3,0
-1084,Barioth Vambraces β+,10,arms,both,4,0,0,138,148,170,-3,2,-2,3,0
-1085,Barioth Faulds β+,10,waist,both,4,0,0,138,148,170,-3,2,-2,3,0
-1086,Barioth Greaves β+,10,legs,both,4,1,0,138,148,170,-3,2,-2,3,0
-1087,Rathalos Helm α+,10,head,both,2,0,0,140,150,172,3,1,-2,1,-3
-1088,Rathalos Mail α+,10,chest,both,1,1,0,140,150,172,3,1,-2,1,-3
-1089,Rathalos Vambraces α+,10,arms,both,3,0,0,140,150,172,3,1,-2,1,-3
-1090,Rathalos Coil α+,10,waist,both,2,0,0,140,150,172,3,1,-2,1,-3
-1091,Rathalos Greaves α+,10,legs,both,3,0,0,140,150,172,3,1,-2,1,-3
-1092,Rathalos Helm β+,10,head,both,4,1,0,140,150,172,3,1,-2,1,-3
-1093,Rathalos Mail β+,10,chest,both,4,0,0,140,150,172,3,1,-2,1,-3
-1094,Rathalos Vambraces β+,10,arms,both,4,3,0,140,150,172,3,1,-2,1,-3
-1095,Rathalos Coil β+,10,waist,both,4,2,0,140,150,172,3,1,-2,1,-3
-1096,Rathalos Greaves β+,10,legs,both,4,0,0,140,150,172,3,1,-2,1,-3
-1097,Rath Soul Helm α+,11,head,both,1,1,0,148,156,172,3,2,2,-3,-4
-1098,Rath Soul Mail α+,11,chest,both,2,0,0,148,156,172,3,2,2,-3,-4
-1099,Rath Soul Braces α+,11,arms,both,2,0,0,148,156,172,3,2,2,-3,-4
-1100,Rath Soul Coil α+,11,waist,both,3,0,0,148,156,172,3,2,2,-3,-4
-1101,Rath Soul Greaves α+,11,legs,both,1,0,0,148,156,172,3,2,2,-3,-4
-1102,Rath Soul Helm β+,11,head,both,4,0,0,148,156,172,3,2,2,-3,-4
-1103,Rath Soul Mail β+,11,chest,both,4,1,0,148,156,172,3,2,2,-3,-4
-1104,Rath Soul Braces β+,11,arms,both,4,1,0,148,156,172,3,2,2,-3,-4
-1105,Rath Soul Coil β+,11,waist,both,4,2,0,148,156,172,3,2,2,-3,-4
-1106,Rath Soul Greaves β+,11,legs,both,4,0,0,148,156,172,3,2,2,-3,-4
-1107,Diablos Helm α+,10,head,both,2,0,0,140,150,172,3,-2,0,-3,2
-1108,Diablos Mail α+,10,chest,both,2,0,0,140,150,172,3,-2,0,-3,2
-1109,Diablos Vambraces α+,10,arms,both,2,0,0,140,150,172,3,-2,0,-3,2
-1110,Diablos Coil α+,10,waist,both,2,0,0,140,150,172,3,-2,0,-3,2
-1111,Diablos Greaves α+,10,legs,both,1,1,0,140,150,172,3,-2,0,-3,2
-1112,Diablos Helm β+,10,head,both,4,0,0,140,150,172,3,-2,0,-3,2
-1113,Diablos Mail β+,10,chest,both,4,1,0,140,150,172,3,-2,0,-3,2
-1114,Diablos Vambraces β+,10,arms,both,4,1,0,140,150,172,3,-2,0,-3,2
-1115,Diablos Coil β+,10,waist,both,4,1,0,140,150,172,3,-2,0,-3,2
-1116,Diablos Greaves β+,10,legs,both,4,1,0,140,150,172,3,-2,0,-3,2
-1117,Diablos Nero Helm α+,11,head,both,1,1,0,148,156,172,2,-3,0,-4,2
-1118,Diablos Nero Mail α+,11,chest,both,2,0,0,148,156,172,2,-3,0,-4,2
-1119,Diablos Nero Braces α+,11,arms,both,1,1,0,148,156,172,2,-3,0,-4,2
-1120,Diablos Nero Coil α+,11,waist,both,2,0,0,148,156,172,2,-3,0,-4,2
-1121,Diablos Nero Greaves α+,11,legs,both,1,0,0,148,156,172,2,-3,0,-4,2
-1122,Diablos Nero Helm β+,11,head,both,4,1,0,148,156,172,2,-3,0,-4,2
-1123,Diablos Nero Mail β+,11,chest,both,4,1,0,148,156,172,2,-3,0,-4,2
-1124,Diablos Nero Braces β+,11,arms,both,4,2,0,148,156,172,2,-3,0,-4,2
-1125,Diablos Nero Coil β+,11,waist,both,4,1,0,148,156,172,2,-3,0,-4,2
-1126,Diablos Nero Greaves β+,11,legs,both,4,0,0,148,156,172,2,-3,0,-4,2
-1127,Legiana Helm α+,10,head,both,2,0,0,140,150,172,-1,2,-3,3,0
-1128,Legiana Mail α+,10,chest,both,1,0,0,140,150,172,-1,2,-3,3,0
-1129,Legiana Vambraces α+,10,arms,both,3,0,0,140,150,172,-1,2,-3,3,0
-1130,Legiana Coil α+,10,waist,both,2,0,0,140,150,172,-1,2,-3,3,0
-1131,Legiana Greaves α+,10,legs,both,3,0,0,140,150,172,-1,2,-3,3,0
-1132,Legiana Helm β+,10,head,both,4,1,0,140,150,172,-1,2,-3,3,0
-1133,Legiana Mail β+,10,chest,both,4,0,0,140,150,172,-1,2,-3,3,0
-1134,Legiana Vambraces β+,10,arms,both,4,2,0,140,150,172,-1,2,-3,3,0
-1135,Legiana Coil β+,10,waist,both,4,1,0,140,150,172,-1,2,-3,3,0
-1136,Legiana Greaves β+,10,legs,both,4,2,0,140,150,172,-1,2,-3,3,0
-1137,Hoarcry Helm α+,11,head,both,1,1,1,146,154,170,-3,2,-1,3,0
-1138,Hoarcry Mail α+,11,chest,both,1,1,0,146,154,170,-3,2,-1,3,0
-1139,Hoarcry Vambraces α+,11,arms,both,1,1,0,146,154,170,-3,2,-1,3,0
-1140,Hoarcry Coil α+,11,waist,both,1,1,0,146,154,170,-3,2,-1,3,0
-1141,Hoarcry Greaves α+,11,legs,both,1,1,0,146,154,170,-3,2,-1,3,0
-1142,Hoarcry Helm β+,11,head,both,4,1,0,146,154,170,-3,2,-1,3,0
-1143,Hoarcry Mail β+,11,chest,both,4,0,0,146,154,170,-3,2,-1,3,0
-1144,Hoarcry Vambraces β+,11,arms,both,4,0,0,146,154,170,-3,2,-1,3,0
-1145,Hoarcry Coil β+,11,waist,both,4,0,0,146,154,170,-3,2,-1,3,0
-1146,Hoarcry Greaves β+,11,legs,both,4,2,0,146,154,170,-3,2,-1,3,0
-1147,Odogaron Helm α+,10,head,both,2,0,0,140,150,172,2,2,-2,-3,0
-1148,Odogaron Mail α+,10,chest,both,3,0,0,140,150,172,2,2,-2,-3,0
-1149,Odogaron Vambraces α+,10,arms,both,1,0,0,140,150,172,2,2,-2,-3,0
-1150,Odogaron Coil α+,10,waist,both,2,0,0,140,150,172,2,2,-2,-3,0
-1151,Odogaron Greaves α+,10,legs,both,1,0,0,140,150,172,2,2,-2,-3,0
-1152,Odogaron Helm β+,10,head,both,4,0,0,140,150,172,2,2,-2,-3,0
-1153,Odogaron Mail β+,10,chest,both,4,1,0,140,150,172,2,2,-2,-3,0
-1154,Odogaron Vambraces β+,10,arms,both,4,0,0,140,150,172,2,2,-2,-3,0
-1155,Odogaron Coil β+,10,waist,both,4,2,0,140,150,172,2,2,-2,-3,0
-1156,Odogaron Greaves β+,10,legs,both,4,0,0,140,150,172,2,2,-2,-3,0
-1157,Death Garon Helm α+,11,head,both,3,0,0,148,156,172,-2,-3,-2,-2,4
-1158,Death Garon Mail α+,11,chest,both,2,0,0,148,156,172,-2,-3,-2,-2,4
-1159,Death Garon Braces α+,11,arms,both,2,1,0,148,156,172,-2,-3,-2,-2,4
-1160,Death Garon Coil α+,11,waist,both,2,1,0,148,156,172,-2,-3,-2,-2,4
-1161,Death Garon Greaves α+,11,legs,both,1,1,0,148,156,172,-2,-3,-2,-2,4
-1162,Death Garon Helm β+,11,head,both,4,2,0,148,156,172,-2,-3,-2,-2,4
-1163,Death Garon Mail β+,11,chest,both,4,1,0,148,156,172,-2,-3,-2,-2,4
-1164,Death Garon Braces β+,11,arms,both,4,1,0,148,156,172,-2,-3,-2,-2,4
-1165,Death Garon Coil β+,11,waist,both,4,2,0,148,156,172,-2,-3,-2,-2,4
-1166,Death Garon Greaves β+,11,legs,both,4,1,1,148,156,172,-2,-3,-2,-2,4
-1167,Lavasioth Helm α+,10,head,both,1,1,0,140,150,172,3,-3,1,-2,2
-1168,Lavasioth Mail α+,10,chest,both,1,1,0,140,150,172,3,-3,1,-2,2
-1169,Lavasioth Vambraces α+,10,arms,both,1,0,0,140,150,172,3,-3,1,-2,2
-1170,Lavasioth Coil α+,10,waist,both,1,0,0,140,150,172,3,-3,1,-2,2
-1171,Lavasioth Greaves α+,10,legs,both,2,0,0,140,150,172,3,-3,1,-2,2
-1172,Lavasioth Helm β+,10,head,both,4,1,0,140,150,172,3,-3,1,-2,2
-1173,Lavasioth Mail β+,10,chest,both,4,1,0,140,150,172,3,-3,1,-2,2
-1174,Lavasioth Vambraces β+,10,arms,both,4,0,0,140,150,172,3,-3,1,-2,2
-1175,Lavasioth Coil β+,10,waist,both,4,0,0,140,150,172,3,-3,1,-2,2
-1176,Lavasioth Greaves β+,10,legs,both,4,1,0,140,150,172,3,-3,1,-2,2
-1177,Uragaan Helm α+,10,head,both,2,1,0,144,154,176,4,-3,1,-2,-2
-1178,Uragaan Mail α+,10,chest,both,3,0,0,144,154,176,4,-3,1,-2,-2
-1179,Uragaan Vambraces α+,10,arms,both,2,0,0,144,154,176,4,-3,1,-2,-2
-1180,Uragaan Coil α+,10,waist,both,2,1,0,144,154,176,4,-3,1,-2,-2
-1181,Uragaan Greaves α+,10,legs,both,1,0,0,144,154,176,4,-3,1,-2,-2
-1182,Uragaan Helm β+,10,head,both,4,3,0,144,154,176,4,-3,1,-2,-2
-1183,Uragaan Mail β+,10,chest,both,4,0,0,144,154,176,4,-3,1,-2,-2
-1184,Uragaan Vambraces β+,10,arms,both,4,0,0,144,154,176,4,-3,1,-2,-2
-1185,Uragaan Coil β+,10,waist,both,4,2,0,144,154,176,4,-3,1,-2,-2
-1186,Uragaan Greaves β+,10,legs,both,4,1,0,144,154,176,4,-3,1,-2,-2
-1187,Nargacuga Helm α+,10,head,both,1,1,0,140,150,172,-2,2,-3,0,0
-1188,Nargacuga Mail α+,10,chest,both,2,0,0,140,150,172,-2,2,-3,0,0
-1189,Nargacuga Braces α+,10,arms,both,1,0,0,140,150,172,-2,2,-3,0,0
-1190,Nargacuga Faulds α+,10,waist,both,1,0,0,140,150,172,-2,2,-3,0,0
-1191,Nargacuga Greaves α+,10,legs,both,1,1,0,140,150,172,-2,2,-3,0,0
-1192,Nargacuga Helm β+,10,head,both,4,1,0,140,150,172,-2,2,-3,0,0
-1193,Nargacuga Mail β+,10,chest,both,4,0,0,140,150,172,-2,2,-3,0,0
-1194,Nargacuga Braces β+,10,arms,both,4,0,0,140,150,172,-2,2,-3,0,0
-1195,Nargacuga Faulds β+,10,waist,both,4,0,0,140,150,172,-2,2,-3,0,0
-1196,Nargacuga Greaves β+,10,legs,both,4,1,0,140,150,172,-2,2,-3,0,0
-1197,Glavenus Helm α+,10,head,both,1,0,0,142,152,174,3,-3,1,-1,-1
-1198,Glavenus Mail α+,10,chest,both,1,0,0,142,152,174,3,-3,1,-1,-1
-1199,Glavenus Braces α+,10,arms,both,1,0,0,142,152,174,3,-3,1,-1,-1
-1200,Glavenus Faulds α+,10,waist,both,1,1,0,142,152,174,3,-3,1,-1,-1
-1201,Glavenus Greaves α+,10,legs,both,2,0,0,142,152,174,3,-3,1,-1,-1
-1202,Glavenus Helm β+,10,head,both,4,0,0,142,152,174,3,-3,1,-1,-1
-1203,Glavenus Mail β+,10,chest,both,4,0,0,142,152,174,3,-3,1,-1,-1
-1204,Glavenus Braces β+,10,arms,both,4,0,0,142,152,174,3,-3,1,-1,-1
-1205,Glavenus Faulds β+,10,waist,both,4,0,0,142,152,174,3,-3,1,-1,-1
-1206,Glavenus Greaves β+,10,legs,both,4,0,0,142,152,174,3,-3,1,-1,-1
-1207,Acidic Glavenus Helm α+,11,head,both,1,0,0,150,158,174,-3,2,-1,2,-1
-1208,Acidic Glavenus Mail α+,11,chest,both,1,0,0,150,158,174,-3,2,-1,2,-1
-1209,Acidic Glavenus Braces α+,11,arms,both,2,1,0,150,158,174,-3,2,-1,2,-1
-1210,Acidic Glavenus Coil α+,11,waist,both,2,0,0,150,158,174,-3,2,-1,2,-1
-1211,Acidic Glavenus Greaves α+,11,legs,both,1,0,0,150,158,174,-3,2,-1,2,-1
-1212,Acidic Glavenus Helm β+,11,head,both,4,0,0,150,158,174,-3,2,-1,2,-1
-1213,Acidic Glavenus Mail β+,11,chest,both,4,1,0,150,158,174,-3,2,-1,2,-1
-1214,Acidic Glavenus Braces β+,11,arms,both,4,2,1,150,158,174,-3,2,-1,2,-1
-1215,Acidic Glavenus Coil β+,11,waist,both,4,0,0,150,158,174,-3,2,-1,2,-1
-1216,Acidic Glavenus Greaves β+,11,legs,both,4,2,0,150,158,174,-3,2,-1,2,-1
-1217,Brachydios Helm α+,10,head,both,3,0,0,142,152,174,3,-2,1,-3,1
-1218,Brachydios Mail α+,10,chest,both,1,0,0,142,152,174,3,-2,1,-3,1
-1219,Brachydios Braces α+,10,arms,both,2,0,0,142,152,174,3,-2,1,-3,1
-1220,Brachydios Faulds α+,10,waist,both,3,0,0,142,152,174,3,-2,1,-3,1
-1221,Brachydios Greaves α+,10,legs,both,2,0,0,142,152,174,3,-2,1,-3,1
-1222,Brachydios Helm β+,10,head,both,4,1,0,142,152,174,3,-2,1,-3,1
-1223,Brachydios Mail β+,10,chest,both,4,0,0,142,152,174,3,-2,1,-3,1
-1224,Brachydios Braces β+,10,arms,both,4,0,0,142,152,174,3,-2,1,-3,1
-1225,Brachydios Faulds β+,10,waist,both,4,2,0,142,152,174,3,-2,1,-3,1
-1226,Brachydios Greaves β+,10,legs,both,4,0,0,142,152,174,3,-2,1,-3,1
-1227,Tigrex Helm α+,10,head,both,1,0,0,142,152,174,2,0,-3,0,-2
-1228,Tigrex Mail α+,10,chest,both,2,0,0,142,152,174,2,0,-3,0,-2
-1229,Tigrex Braces α+,10,arms,both,1,0,0,142,152,174,2,0,-3,0,-2
-1230,Tigrex Tassets α+,10,waist,both,3,1,0,142,152,174,2,0,-3,0,-2
-1231,Tigrex Greaves α+,10,legs,both,3,1,0,142,152,174,2,0,-3,0,-2
-1232,Tigrex Helm β+,10,head,both,4,0,0,142,152,174,2,0,-3,0,-2
-1233,Tigrex Mail β+,10,chest,both,4,1,0,142,152,174,2,0,-3,0,-2
-1234,Tigrex Braces β+,10,arms,both,4,0,0,142,152,174,2,0,-3,0,-2
-1235,Tigrex Tassets β+,10,waist,both,4,2,1,142,152,174,2,0,-3,0,-2
-1236,Tigrex Greaves β+,10,legs,both,4,2,0,142,152,174,2,0,-3,0,-2
-1237,Rex Roar Helm α+,11,head,both,3,0,0,158,166,182,3,-4,-2,0,0
-1238,Rex Roar Mail α+,11,chest,both,3,0,0,158,166,182,3,-4,-2,0,0
-1239,Rex Roar Braces α+,11,arms,both,3,0,0,158,166,182,3,-4,-2,0,0
-1240,Rex Roar Coil α+,11,waist,both,2,0,0,158,166,182,3,-4,-2,0,0
-1241,Rex Roar Greaves α+,11,legs,both,1,0,0,158,166,182,3,-4,-2,0,0
-1242,Rex Roar Helm β+,11,head,both,4,0,0,158,166,182,3,-4,-2,0,0
-1243,Rex Roar Mail β+,11,chest,both,4,1,0,158,166,182,3,-4,-2,0,0
-1244,Rex Roar Braces β+,11,arms,both,4,0,0,158,166,182,3,-4,-2,0,0
-1245,Rex Roar Coil β+,11,waist,both,4,0,0,158,166,182,3,-4,-2,0,0
-1246,Rex Roar Greaves β+,11,legs,both,4,0,0,158,166,182,3,-4,-2,0,0
-1247,Black Belt Helm α+,11,head,both,3,0,0,150,158,174,1,1,1,1,2
-1248,Black Belt Mail α+,11,chest,both,1,1,1,150,158,174,1,1,1,1,2
-1249,Black Belt Braces α+,11,arms,both,3,0,0,150,158,174,1,1,1,1,2
-1250,Black Belt Tassets α+,11,waist,both,3,0,0,150,158,174,1,1,1,1,2
-1251,Black Belt Greaves α+,11,legs,both,2,2,0,150,158,174,1,1,1,1,2
-1252,Black Belt Helm β+,11,head,both,4,2,0,150,158,174,1,1,1,1,2
-1253,Black Belt Mail β+,11,chest,both,4,1,1,150,158,174,1,1,1,1,2
-1254,Black Belt Braces β+,11,arms,both,4,1,0,150,158,174,1,1,1,1,2
-1255,Black Belt Tassets β+,11,waist,both,4,1,0,150,158,174,1,1,1,1,2
-1256,Black Belt Greaves β+,11,legs,both,4,2,0,150,158,174,1,1,1,1,2
-1257,Dober Helm α+,11,head,both,1,0,0,152,160,176,-2,0,-1,-1,4
-1258,Dober Mail α+,11,chest,both,1,1,1,152,160,176,-2,0,-1,-1,4
-1259,Dober Vambraces α+,11,arms,both,2,1,0,152,160,176,-2,0,-1,-1,4
-1260,Dober Coil α+,11,waist,both,2,1,0,152,160,176,-2,0,-1,-1,4
-1261,Dober Greaves α+,11,legs,both,2,0,0,152,160,176,-2,0,-1,-1,4
-1262,Dober Helm β+,11,head,both,4,0,0,152,160,176,-2,0,-1,-1,4
-1263,Dober Mail β+,11,chest,both,4,1,1,152,160,176,-2,0,-1,-1,4
-1264,Dober Vambraces β+,11,arms,both,4,1,0,152,160,176,-2,0,-1,-1,4
-1265,Dober Coil β+,11,waist,both,4,2,0,152,160,176,-2,0,-1,-1,4
-1266,Dober Greaves β+,11,legs,both,4,2,0,152,160,176,-2,0,-1,-1,4
-1267,Damascus Helm α+,11,head,both,3,0,0,152,160,176,4,-2,0,0,0
-1268,Damascus Mail α+,11,chest,both,3,1,0,152,160,176,4,-2,0,0,0
-1269,Damascus Vambraces α+,11,arms,both,2,1,0,152,160,176,4,-2,0,0,0
-1270,Damascus Coil α+,11,waist,both,3,2,0,152,160,176,4,-2,0,0,0
-1271,Damascus Greaves α+,11,legs,both,2,1,0,152,160,176,4,-2,0,0,0
-1272,Damascus Helm β+,11,head,both,4,1,1,152,160,176,4,-2,0,0,0
-1273,Damascus Mail β+,11,chest,both,4,2,1,152,160,176,4,-2,0,0,0
-1274,Damascus Vambraces β+,11,arms,both,4,1,0,152,160,176,4,-2,0,0,0
-1275,Damascus Coil β+,11,waist,both,4,3,1,152,160,176,4,-2,0,0,0
-1276,Damascus Greaves β+,11,legs,both,4,2,0,152,160,176,4,-2,0,0,0
-1277,Pride Helm α+,11,head,both,2,1,0,154,162,178,3,1,-2,-4,-2
-1278,Pride Mail α+,11,chest,both,1,1,0,154,162,178,3,1,-2,-4,-2
-1279,Pride Vambraces α+,11,arms,both,3,0,0,154,162,178,3,1,-2,-4,-2
-1280,Pride Coil α+,11,waist,both,3,0,0,154,162,178,3,1,-2,-4,-2
-1281,Pride Greaves α+,11,legs,both,3,0,0,154,162,178,3,1,-2,-4,-2
-1282,Pride Helm β+,11,head,both,4,1,0,154,162,178,3,1,-2,-4,-2
-1283,Pride Mail β+,11,chest,both,4,1,1,154,162,178,3,1,-2,-4,-2
-1284,Pride Vambraces β+,11,arms,both,4,3,0,154,162,178,3,1,-2,-4,-2
-1285,Pride Coil β+,11,waist,both,4,2,0,154,162,178,3,1,-2,-4,-2
-1286,Pride Greaves β+,11,legs,both,4,2,0,154,162,178,3,1,-2,-4,-2
-1287,Esurient Helm α+,11,head,both,1,0,0,156,164,180,2,1,-3,1,-3
-1288,Esurient Mail α+,11,chest,both,2,0,0,156,164,180,2,1,-3,1,-3
-1289,Esurient Vambraces α+,11,arms,both,2,0,0,156,164,180,2,1,-3,1,-3
-1290,Esurient Faulds α+,11,waist,both,1,0,0,156,164,180,2,1,-3,1,-3
-1291,Esurient Greaves α+,11,legs,both,2,2,0,156,164,180,2,1,-3,1,-3
-1292,Esurient Helm β+,11,head,both,4,3,0,156,164,180,2,1,-3,1,-3
-1293,Esurient Mail β+,11,chest,both,4,2,2,156,164,180,2,1,-3,1,-3
-1294,Esurient Vambraces β+,11,arms,both,4,0,0,156,164,180,2,1,-3,1,-3
-1295,Esurient Faulds β+,11,waist,both,4,1,0,156,164,180,2,1,-3,1,-3
-1296,Esurient Greaves β+,11,legs,both,4,2,0,156,164,180,2,1,-3,1,-3
-1297,Rimeguard Helm α+,12,head,both,3,2,0,154,160,172,-3,2,-1,4,-1
-1298,Rimeguard Mail α+,12,chest,both,1,0,0,154,160,172,-3,2,-1,4,-1
-1299,Rimeguard Vambraces α+,12,arms,both,1,0,0,154,160,172,-3,2,-1,4,-1
-1300,Rimeguard Coil α+,12,waist,both,2,1,0,154,160,172,-3,2,-1,4,-1
-1301,Rimeguard Greaves α+,12,legs,both,1,1,0,154,160,172,-3,2,-1,4,-1
-1302,Rimeguard Helm β+,12,head,both,4,2,0,154,160,172,-3,2,-1,4,-1
-1303,Rimeguard Mail β+,12,chest,both,4,1,0,154,160,172,-3,2,-1,4,-1
-1304,Rimeguard Vambraces β+,12,arms,both,4,0,0,154,160,172,-3,2,-1,4,-1
-1305,Rimeguard Coil β+,12,waist,both,4,1,0,154,160,172,-3,2,-1,4,-1
-1306,Rimeguard Greaves β+,12,legs,both,4,1,0,154,160,172,-3,2,-1,4,-1
-1307,Fellshroud Helm α+,12,head,both,1,0,0,156,162,174,-2,4,1,1,-3
-1308,Fellshroud Mail α+,12,chest,both,3,1,0,156,162,174,-2,4,1,1,-3
-1309,Fellshroud Braces α+,12,arms,both,2,1,1,156,162,174,-2,4,1,1,-3
-1310,Fellshroud Coil α+,12,waist,both,2,1,0,156,162,174,-2,4,1,1,-3
-1311,Fellshroud Greaves α+,12,legs,both,3,2,0,156,162,174,-2,4,1,1,-3
-1312,Fellshroud Helm β+,12,head,both,4,1,0,156,162,174,-2,4,1,1,-3
-1313,Fellshroud Mail β+,12,chest,both,4,2,0,156,162,174,-2,4,1,1,-3
-1314,Fellshroud Braces β+,12,arms,both,4,1,1,156,162,174,-2,4,1,1,-3
-1315,Fellshroud Coil β+,12,waist,both,4,2,0,156,162,174,-2,4,1,1,-3
-1316,Fellshroud Greaves β+,12,legs,both,4,3,0,156,162,174,-2,4,1,1,-3
-1317,Kaiser Crown α+,12,head,both,1,0,0,156,162,174,3,-3,1,-3,1
-1318,Kaiser Mail α+,12,chest,both,2,1,0,156,162,174,3,-3,1,-3,1
-1319,Kaiser Vambraces α+,12,arms,both,2,0,0,156,162,174,3,-3,1,-3,1
-1320,Kaiser Coil α+,12,waist,both,3,0,0,156,162,174,3,-3,1,-3,1
-1321,Kaiser Greaves α+,12,legs,both,2,0,0,156,162,174,3,-3,1,-3,1
-1322,Kaiser Crown β+,12,head,both,4,0,0,156,162,174,3,-3,1,-3,1
-1323,Kaiser Mail β+,12,chest,both,4,1,1,156,162,174,3,-3,1,-3,1
-1324,Kaiser Vambraces β+,12,arms,both,4,3,0,156,162,174,3,-3,1,-3,1
-1325,Kaiser Coil β+,12,waist,both,4,2,1,156,162,174,3,-3,1,-3,1
-1326,Kaiser Greaves β+,12,legs,both,4,0,0,156,162,174,3,-3,1,-3,1
-1327,Kushala Glare α+,12,head,both,2,0,0,156,162,174,0,2,-3,4,-2
-1328,Kushala Cista α+,12,chest,both,1,0,0,156,162,174,0,2,-3,4,-2
-1329,Kushala Grip α+,12,arms,both,1,0,0,156,162,174,0,2,-3,4,-2
-1330,Kushala Cocoon α+,12,waist,both,2,0,0,156,162,174,0,2,-3,4,-2
-1331,Kushala Crus α+,12,legs,both,1,0,0,156,162,174,0,2,-3,4,-2
-1332,Kushala Glare β+,12,head,both,4,1,0,156,162,174,0,2,-3,4,-2
-1333,Kushala Cista β+,12,chest,both,4,2,0,156,162,174,0,2,-3,4,-2
-1334,Kushala Grip β+,12,arms,both,4,2,0,156,162,174,0,2,-3,4,-2
-1335,Kushala Cocoon β+,12,waist,both,4,1,0,156,162,174,0,2,-3,4,-2
-1336,Kushala Crus β+,12,legs,both,4,3,0,156,162,174,0,2,-3,4,-2
-1337,Kirin Horn α+,12,head,both,3,1,0,154,160,172,-3,-2,4,-2,2
-1338,Kirin Jacket α+,12,chest,both,3,2,0,154,160,172,-3,-2,4,-2,2
-1339,Kirin Longarms α+,12,arms,both,3,2,0,154,160,172,-3,-2,4,-2,2
-1340,Kirin Hoop α+,12,waist,both,2,0,0,154,160,172,-3,-2,4,-2,2
-1341,Kirin Leg Guards α+,12,legs,both,1,0,0,154,160,172,-3,-2,4,-2,2
-1342,Kirin Horn β+,12,head,both,4,1,1,154,160,172,-3,-2,4,-2,2
-1343,Kirin Jacket β+,12,chest,both,4,2,0,154,160,172,-3,-2,4,-2,2
-1344,Kirin Longarms β+,12,arms,both,4,2,2,154,160,172,-3,-2,4,-2,2
-1345,Kirin Hoop β+,12,waist,both,4,1,1,154,160,172,-3,-2,4,-2,2
-1346,Kirin Leg Guards β+,12,legs,both,4,0,0,154,160,172,-3,-2,4,-2,2
-1347,Tentacle Cowl α+,12,head,both,1,0,0,158,164,176,-3,4,3,0,-2
-1348,Tentacle Cloak α+,12,chest,both,2,2,0,158,164,176,-3,4,3,0,-2
-1349,Tentacle Gloves α+,12,arms,both,1,0,0,158,164,176,-3,4,3,0,-2
-1350,Tentacle Coil α+,12,waist,both,1,1,1,158,164,176,-3,4,3,0,-2
-1351,Tentacle Greaves α+,12,legs,both,2,1,0,158,164,176,-3,4,3,0,-2
-1352,Tentacle Cowl β+,12,head,both,4,0,0,158,164,176,-3,4,3,0,-2
-1353,Tentacle Cloak β+,12,chest,both,4,2,0,158,164,176,-3,4,3,0,-2
-1354,Tentacle Gloves β+,12,arms,both,4,0,0,158,164,176,-3,4,3,0,-2
-1355,Tentacle Coil β+,12,waist,both,4,1,1,158,164,176,-3,4,3,0,-2
-1356,Tentacle Greaves β+,12,legs,both,4,2,0,158,164,176,-3,4,3,0,-2
-1357,Guild Palace Helm α+,11,head,both,3,0,0,154,162,178,1,2,2,1,1
-1358,Guild Palace Mail α+,11,chest,both,1,1,0,154,162,178,1,2,2,1,1
-1359,Guild Palace Braces α+,11,arms,both,3,0,0,154,162,178,1,2,2,1,1
-1360,Guild Palace Coil α+,11,waist,both,1,1,0,154,162,178,1,2,2,1,1
-1361,Guild Palace Greaves α+,11,legs,both,2,0,0,154,162,178,1,2,2,1,1
-1362,Guild Palace Helm β+,11,head,both,4,2,0,154,162,178,1,2,2,1,1
-1363,Guild Palace Mail β+,11,chest,both,4,2,0,154,162,178,1,2,2,1,1
-1364,Guild Palace Braces β+,11,arms,both,4,1,0,154,162,178,1,2,2,1,1
-1365,Guild Palace Coil β+,11,waist,both,4,1,0,154,162,178,1,2,2,1,1
-1366,Guild Palace Greaves β+,11,legs,both,4,1,0,154,162,178,1,2,2,1,1
-1367,Shara Ishvalda Helm α+,12,head,both,3,1,0,162,168,180,0,-2,3,-3,0
-1368,Shara Ishvalda Mail α+,12,chest,both,3,2,0,162,168,180,0,-2,3,-3,0
-1369,Shara Ishvalda Braces α+,12,arms,both,1,0,0,162,168,180,0,-2,3,-3,0
-1370,Shara Ishvalda Coil α+,12,waist,both,3,2,0,162,168,180,0,-2,3,-3,0
-1371,Shara Ishvalda Greaves α+,12,legs,both,1,1,1,162,168,180,0,-2,3,-3,0
-1372,Shara Ishvalda Helm β+,12,head,both,4,2,0,162,168,180,0,-2,3,-3,0
-1373,Shara Ishvalda Mail β+,12,chest,both,4,2,0,162,168,180,0,-2,3,-3,0
-1374,Shara Ishvalda Braces β+,12,arms,both,4,0,0,162,168,180,0,-2,3,-3,0
-1375,Shara Ishvalda Coil β+,12,waist,both,4,3,0,162,168,180,0,-2,3,-3,0
-1376,Shara Ishvalda Greaves β+,12,legs,both,4,2,1,162,168,180,0,-2,3,-3,0
-1377,Zorah Headgear α+,12,head,both,2,2,0,160,166,178,4,-3,-1,-2,-3
-1378,Zorah Hide α+,12,chest,both,3,1,0,160,166,178,4,-3,-1,-2,-3
-1379,Zorah Claws α+,12,arms,both,1,1,0,160,166,178,4,-3,-1,-2,-3
-1380,Zorah Spine α+,12,waist,both,3,2,0,160,166,178,4,-3,-1,-2,-3
-1381,Zorah Spurs α+,12,legs,both,3,1,0,160,166,178,4,-3,-1,-2,-3
-1382,Zorah Headgear β+,12,head,both,4,2,1,160,166,178,4,-3,-1,-2,-3
-1383,Zorah Hide β+,12,chest,both,4,2,0,160,166,178,4,-3,-1,-2,-3
-1384,Zorah Claws β+,12,arms,both,4,1,0,160,166,178,4,-3,-1,-2,-3
-1385,Zorah Spine β+,12,waist,both,4,3,0,160,166,178,4,-3,-1,-2,-3
-1386,Zorah Spurs β+,12,legs,both,4,3,0,160,166,178,4,-3,-1,-2,-3
-1387,Garuga Helm α+,11,head,both,3,0,0,154,162,178,2,-3,2,-2,-2
-1388,Garuga Mail α+,11,chest,both,1,0,0,154,162,178,2,-3,2,-2,-2
-1389,Garuga Vambraces α+,11,arms,both,1,0,0,154,162,178,2,-3,2,-2,-2
-1390,Garuga Tassets α+,11,waist,both,1,1,0,154,162,178,2,-3,2,-2,-2
-1391,Garuga Greaves α+,11,legs,both,3,3,0,154,162,178,2,-3,2,-2,-2
-1392,Garuga Helm β+,11,head,both,4,2,0,154,162,178,2,-3,2,-2,-2
-1393,Garuga Mail β+,11,chest,both,4,0,0,154,162,178,2,-3,2,-2,-2
-1394,Garuga Vambraces β+,11,arms,both,4,0,0,154,162,178,2,-3,2,-2,-2
-1395,Garuga Tassets β+,11,waist,both,4,3,0,154,162,178,2,-3,2,-2,-2
-1396,Garuga Greaves β+,11,legs,both,4,2,2,154,162,178,2,-3,2,-2,-2
-1397,Zinogre Helm α+,11,head,both,1,0,0,158,166,182,-1,-1,4,-4,1
-1398,Zinogre Mail α+,11,chest,both,3,0,0,158,166,182,-1,-1,4,-4,1
-1399,Zinogre Braces α+,11,arms,both,2,1,0,158,166,182,-1,-1,4,-4,1
-1400,Zinogre Coil α+,11,waist,both,2,0,0,158,166,182,-1,-1,4,-4,1
-1401,Zinogre Greaves α+,11,legs,both,1,0,0,158,166,182,-1,-1,4,-4,1
-1402,Zinogre Helm β+,11,head,both,4,0,0,158,166,182,-1,-1,4,-4,1
-1403,Zinogre Mail β+,11,chest,both,4,0,0,158,166,182,-1,-1,4,-4,1
-1404,Zinogre Braces β+,11,arms,both,4,2,0,158,166,182,-1,-1,4,-4,1
-1405,Zinogre Coil β+,11,waist,both,4,2,0,158,166,182,-1,-1,4,-4,1
-1406,Zinogre Greaves β+,11,legs,both,4,1,0,158,166,182,-1,-1,4,-4,1
-1407,Golden Lunehelm α+,12,head,both,2,2,0,162,168,180,3,-2,-4,0,4
-1408,Golden Lunemail α+,12,chest,both,3,1,0,162,168,180,3,-2,-4,0,4
-1409,Golden Lunebraces α+,12,arms,both,2,0,0,162,168,180,3,-2,-4,0,4
-1410,Golden Lunecoil α+,12,waist,both,2,2,0,162,168,180,3,-2,-4,0,4
-1411,Golden Lunegreaves α+,12,legs,both,1,0,0,162,168,180,3,-2,-4,0,4
-1412,Golden Lunehelm β+,12,head,both,4,2,0,162,168,180,3,-2,-4,0,4
-1413,Golden Lunemail β+,12,chest,both,4,2,1,162,168,180,3,-2,-4,0,4
-1414,Golden Lunebraces β+,12,arms,both,4,2,0,162,168,180,3,-2,-4,0,4
-1415,Golden Lunecoil β+,12,waist,both,4,2,0,162,168,180,3,-2,-4,0,4
-1416,Golden Lunegreaves β+,12,legs,both,4,0,0,162,168,180,3,-2,-4,0,4
-1417,Silver Solhelm α+,12,head,both,2,2,0,164,170,182,4,-3,-2,-2,3
-1418,Silver Solmail α+,12,chest,both,1,0,0,164,170,182,4,-3,-2,-2,3
-1419,Silver Solbraces α+,12,arms,both,2,2,0,164,170,182,4,-3,-2,-2,3
-1420,Silver Solcoil α+,12,waist,both,1,1,0,164,170,182,4,-3,-2,-2,3
-1421,Silver Solgreaves α+,12,legs,both,3,2,0,164,170,182,4,-3,-2,-2,3
-1422,Silver Solhelm β+,12,head,both,4,3,0,164,170,182,4,-3,-2,-2,3
-1423,Silver Solmail β+,12,chest,both,4,0,0,164,170,182,4,-3,-2,-2,3
-1424,Silver Solbraces β+,12,arms,both,4,2,0,164,170,182,4,-3,-2,-2,3
-1425,Silver Solcoil β+,12,waist,both,4,1,0,164,170,182,4,-3,-2,-2,3
-1426,Silver Solgreaves β+,12,legs,both,4,2,1,164,170,182,4,-3,-2,-2,3
-1427,Empress Crown α+,12,head,both,3,0,0,164,170,182,3,1,1,-3,-2
-1428,Empress Mail α+,12,chest,both,2,0,0,164,170,182,3,1,1,-3,-2
-1429,Empress Vambraces α+,12,arms,both,2,1,0,164,170,182,3,1,1,-3,-2
-1430,Empress Coil α+,12,waist,both,2,2,0,164,170,182,3,1,1,-3,-2
-1431,Empress Greaves α+,12,legs,both,3,1,0,164,170,182,3,1,1,-3,-2
-1432,Empress Crown β+,12,head,both,4,2,0,164,170,182,3,1,1,-3,-2
-1433,Empress Mail β+,12,chest,both,4,1,0,164,170,182,3,1,1,-3,-2
-1434,Empress Vambraces β+,12,arms,both,4,1,0,164,170,182,3,1,1,-3,-2
-1435,Empress Coil β+,12,waist,both,4,2,0,164,170,182,3,1,1,-3,-2
-1436,Empress Greaves β+,12,legs,both,4,2,0,164,170,182,3,1,1,-3,-2
-1437,Ruinous Helm α+,12,head,both,3,1,0,166,172,184,1,1,-3,1,-3
-1438,Ruinous Mail α+,12,chest,both,2,2,0,166,172,184,1,1,-3,1,-3
-1439,Ruinous Vambraces α+,12,arms,both,3,0,0,166,172,184,1,1,-3,1,-3
-1440,Ruinous Coil α+,12,waist,both,2,1,0,166,172,184,1,1,-3,1,-3
-1441,Ruinous Greaves α+,12,legs,both,2,0,0,166,172,184,1,1,-3,1,-3
-1442,Ruinous Helm β+,12,head,both,4,2,0,166,172,184,1,1,-3,1,-3
-1443,Ruinous Mail β+,12,chest,both,4,2,0,166,172,184,1,1,-3,1,-3
-1444,Ruinous Vambraces β+,12,arms,both,4,1,0,166,172,184,1,1,-3,1,-3
-1445,Ruinous Coil β+,12,waist,both,4,1,0,166,172,184,1,1,-3,1,-3
-1446,Ruinous Greaves β+,12,legs,both,4,1,0,166,172,184,1,1,-3,1,-3
-1447,Guildwork Head α+,12,head,both,3,2,0,162,168,180,2,1,1,2,2
-1448,Guildwork Body α+,12,chest,both,3,1,1,162,168,180,2,1,1,2,2
-1449,Guildwork Braces α+,12,arms,both,3,2,0,162,168,180,2,1,1,2,2
-1450,Guildwork Waist α+,12,waist,both,3,2,0,162,168,180,2,1,1,2,2
-1451,Guildwork Feet α+,12,legs,both,2,1,0,162,168,180,2,1,1,2,2
-1452,Guildwork Head β+,12,head,both,4,3,0,162,168,180,2,1,1,2,2
-1453,Guildwork Body β+,12,chest,both,4,2,2,162,168,180,2,1,1,2,2
-1454,Guildwork Braces β+,12,arms,both,4,3,0,162,168,180,2,1,1,2,2
-1455,Guildwork Waist β+,12,waist,both,4,3,0,162,168,180,2,1,1,2,2
-1456,Guildwork Feet β+,12,legs,both,4,1,0,162,168,180,2,1,1,2,2
-1457,Oolong Hair α+,9,head,both,4,0,0,120,136,158,1,1,1,4,1
-1458,Oolong Vest α+,9,chest,both,4,0,0,120,136,158,1,1,1,4,1
-1459,Oolong Sleeves α+,9,arms,both,4,0,0,120,136,158,1,1,1,4,1
-1460,Oolong Waist α+,9,waist,both,1,1,0,120,136,158,1,1,1,4,1
-1461,Oolong Boots α+,9,legs,both,4,2,0,120,136,158,1,1,1,4,1
-1462,Astral Veil α+,9,head,both,4,0,0,140,156,178,2,2,2,2,2
-1463,Astral Cloth α+,9,chest,both,1,0,0,140,156,178,2,2,2,2,2
-1464,Astral Scarf α+,9,arms,both,4,1,1,140,156,178,2,2,2,2,2
-1465,Astral Skirt α+,9,waist,both,4,1,0,140,156,178,2,2,2,2,2
-1466,Astral Tights α+,9,legs,both,1,0,0,140,156,178,2,2,2,2,2
-1467,Pearlspring α+,9,head,both,2,1,0,120,136,158,0,0,0,5,0
-1468,Duffel Penguin Mask α+,9,head,both,4,0,0,138,154,176,-1,3,0,4,0
-1469,Sealed Dragon Cloth α+,12,head,both,4,4,0,152,158,170,-3,0,0,1,5
-1470,Wyverian Ears α+,9,head,both,4,0,0,140,156,178,1,1,1,1,5
+783,Bone Helm α+,9,head,both,3,0,0,114,152,172,2,0,2,0,2
+784,Bone Mail α+,9,chest,both,2,0,0,114,152,172,2,0,2,0,2
+785,Bone Vambraces α+,9,arms,both,2,0,0,114,152,172,2,0,2,0,2
+786,Bone Coil α+,9,waist,both,3,0,0,114,152,172,2,0,2,0,2
+787,Bone Greaves α+,9,legs,both,3,0,0,114,152,172,2,0,2,0,2
+788,Bone Helm β+,9,head,both,4,0,0,114,152,172,2,0,2,0,2
+789,Bone Mail β+,9,chest,both,4,1,0,114,152,172,2,0,2,0,2
+790,Bone Vambraces β+,9,arms,both,4,1,0,114,152,172,2,0,2,0,2
+791,Bone Coil β+,9,waist,both,4,1,0,114,152,172,2,0,2,0,2
+792,Bone Greaves β+,9,legs,both,4,0,0,114,152,172,2,0,2,0,2
+793,Alloy Helm α+,9,head,both,2,0,0,114,152,172,-2,0,-2,-2,0
+794,Alloy Mail α+,9,chest,both,3,0,0,114,152,172,-2,0,-2,-2,0
+795,Alloy Vambraces α+,9,arms,both,3,0,0,114,152,172,-2,0,-2,-2,0
+796,Alloy Coil α+,9,waist,both,3,0,0,114,152,172,-2,0,-2,-2,0
+797,Alloy Greaves α+,9,legs,both,3,0,0,114,152,172,-2,0,-2,-2,0
+798,Alloy Helm β+,9,head,both,4,1,0,114,152,172,-2,0,-2,-2,0
+799,Alloy Mail β+,9,chest,both,4,1,0,114,152,172,-2,0,-2,-2,0
+800,Alloy Vambraces β+,9,arms,both,4,1,0,114,152,172,-2,0,-2,-2,0
+801,Alloy Coil β+,9,waist,both,4,0,0,114,152,172,-2,0,-2,-2,0
+802,Alloy Greaves β+,9,legs,both,4,0,0,114,152,172,-2,0,-2,-2,0
+803,Vespoid Helm α+,9,head,both,3,0,0,116,154,174,-2,1,1,1,2
+804,Vespoid Mail α+,9,chest,both,2,1,0,116,154,174,-2,1,1,1,2
+805,Vespoid Vambraces α+,9,arms,both,3,0,0,116,154,174,-2,1,1,1,2
+806,Vespoid Coil α+,9,waist,both,3,0,0,116,154,174,-2,1,1,1,2
+807,Vespoid Greaves α+,9,legs,both,3,0,0,116,154,174,-2,1,1,1,2
+808,Vespoid Helm β+,9,head,both,4,1,0,116,154,174,-2,1,1,1,2
+809,Vespoid Mail β+,9,chest,both,4,1,0,116,154,174,-2,1,1,1,2
+810,Vespoid Vambraces β+,9,arms,both,4,1,0,116,154,174,-2,1,1,1,2
+811,Vespoid Coil β+,9,waist,both,4,1,0,116,154,174,-2,1,1,1,2
+812,Vespoid Greaves β+,9,legs,both,4,1,0,116,154,174,-2,1,1,1,2
+813,Hornetaur Helm α+,9,head,both,2,0,0,116,154,174,-1,-1,0,0,2
+814,Hornetaur Mail α+,9,chest,both,2,1,0,116,154,174,-1,-1,0,0,2
+815,Hornetaur Vambraces α+,9,arms,both,3,0,0,116,154,174,-1,-1,0,0,2
+816,Hornetaur Coil α+,9,waist,both,2,0,0,116,154,174,-1,-1,0,0,2
+817,Hornetaur Greaves α+,9,legs,both,2,1,0,116,154,174,-1,-1,0,0,2
+818,Hornetaur Helm β+,9,head,both,4,0,0,116,154,174,-1,-1,0,0,2
+819,Hornetaur Mail β+,9,chest,both,4,2,1,116,154,174,-1,-1,0,0,2
+820,Hornetaur Vambraces β+,9,arms,both,4,2,0,116,154,174,-1,-1,0,0,2
+821,Hornetaur Coil β+,9,waist,both,4,1,0,116,154,174,-1,-1,0,0,2
+822,Hornetaur Greaves β+,9,legs,both,4,1,0,116,154,174,-1,-1,0,0,2
+823,Kestodon Guards α+,9,arms,both,1,1,0,116,154,174,4,0,0,0,0
+824,Kestodon Guards β+,9,arms,both,4,1,0,116,154,174,4,0,0,0,0
+825,Gajau Boots α+,9,legs,both,2,1,0,116,154,174,0,5,0,0,0
+826,Gajau Boots β+,9,legs,both,4,1,0,116,154,174,0,5,0,0,0
+827,Shamos Goggles α+,9,head,both,2,1,0,116,154,174,2,2,0,-3,0
+828,Shamos Goggles β+,9,head,both,4,2,0,116,154,174,2,2,0,-3,0
+829,Gastodon Horn α+,9,head,both,1,0,0,116,154,174,3,0,0,0,0
+830,Gastodon Horn β+,9,head,both,4,1,0,116,154,174,3,0,0,0,0
+831,Barnos Jacket α+,9,chest,both,2,2,0,116,154,174,1,1,0,1,-2
+832,Barnos Jacket β+,9,chest,both,4,2,0,116,154,174,1,1,0,1,-2
+833,Wulg Scarf α+,9,head,both,2,1,0,116,154,174,-3,2,-2,3,2
+834,Wulg Scarf β+,9,head,both,4,1,0,116,154,174,-3,2,-2,3,2
+835,Cortos Cape α+,9,chest,both,1,1,0,116,154,174,-3,2,0,2,0
+836,Cortos Cape β+,9,chest,both,4,0,0,116,154,174,-3,2,0,2,0
+837,Jagras Helm α+,9,head,both,2,0,0,116,154,174,-2,2,-1,-1,1
+838,Jagras Mail α+,9,chest,both,3,0,0,116,154,174,-2,2,-1,-1,1
+839,Jagras Vambraces α+,9,arms,both,2,0,0,116,154,174,-2,2,-1,-1,1
+840,Jagras Coil α+,9,waist,both,2,1,0,116,154,174,-2,2,-1,-1,1
+841,Jagras Greaves α+,9,legs,both,2,1,0,116,154,174,-2,2,-1,-1,1
+842,Jagras Helm β+,9,head,both,4,1,0,116,154,174,-2,2,-1,-1,1
+843,Jagras Mail β+,9,chest,both,4,0,0,116,154,174,-2,2,-1,-1,1
+844,Jagras Vambraces β+,9,arms,both,4,0,0,116,154,174,-2,2,-1,-1,1
+845,Jagras Coil β+,9,waist,both,4,1,0,116,154,174,-2,2,-1,-1,1
+846,Jagras Greaves β+,9,legs,both,4,1,0,116,154,174,-2,2,-1,-1,1
+847,Tzitzi Headgear α+,9,head,both,2,1,0,116,154,174,0,0,-3,-2,0
+848,Tzitzi Mail α+,9,chest,both,1,1,0,116,154,174,0,0,-3,-2,0
+849,Tzitzi Vambraces α+,9,arms,both,2,0,0,116,154,174,0,0,-3,-2,0
+850,Tzitzi Coil α+,9,waist,both,2,0,0,116,154,174,0,0,-3,-2,0
+851,Tzitzi Greaves α+,9,legs,both,3,0,0,116,154,174,0,0,-3,-2,0
+852,Tzitzi Headgear β+,9,head,both,4,1,0,116,154,174,0,0,-3,-2,0
+853,Tzitzi Mail β+,9,chest,both,4,1,0,116,154,174,0,0,-3,-2,0
+854,Tzitzi Vambraces β+,9,arms,both,4,0,0,116,154,174,0,0,-3,-2,0
+855,Tzitzi Coil β+,9,waist,both,4,1,0,116,154,174,0,0,-3,-2,0
+856,Tzitzi Greaves β+,9,legs,both,4,0,0,116,154,174,0,0,-3,-2,0
+857,Girros Headgear α+,9,head,both,2,0,0,116,154,174,0,-3,2,0,1
+858,Girros Mail α+,9,chest,both,2,0,0,116,154,174,0,-3,2,0,1
+859,Girros Vambraces α+,9,arms,both,1,0,0,116,154,174,0,-3,2,0,1
+860,Girros Coil α+,9,waist,both,3,0,0,116,154,174,0,-3,2,0,1
+861,Girros Greaves α+,9,legs,both,1,0,0,116,154,174,0,-3,2,0,1
+862,Girros Headgear β+,9,head,both,4,0,0,116,154,174,0,-3,2,0,1
+863,Girros Mail β+,9,chest,both,4,2,0,116,154,174,0,-3,2,0,1
+864,Girros Vambraces β+,9,arms,both,4,0,0,116,154,174,0,-3,2,0,1
+865,Girros Coil β+,9,waist,both,4,2,0,116,154,174,0,-3,2,0,1
+866,Girros Greaves β+,9,legs,both,4,0,0,116,154,174,0,-3,2,0,1
+867,Dodogama Helm α+,9,head,both,3,0,0,120,158,178,2,0,-3,0,2
+868,Dodogama Mail α+,9,chest,both,2,0,0,120,158,178,2,0,-3,0,2
+869,Dodogama Vambraces α+,9,arms,both,2,0,0,120,158,178,2,0,-3,0,2
+870,Dodogama Coil α+,9,waist,both,2,1,0,120,158,178,2,0,-3,0,2
+871,Dodogama Greaves α+,9,legs,both,2,1,0,120,158,178,2,0,-3,0,2
+872,Dodogama Helm β+,9,head,both,4,0,0,120,158,178,2,0,-3,0,2
+873,Dodogama Mail β+,9,chest,both,4,0,0,120,158,178,2,0,-3,0,2
+874,Dodogama Vambraces β+,9,arms,both,4,0,0,120,158,178,2,0,-3,0,2
+875,Dodogama Coil β+,9,waist,both,4,1,0,120,158,178,2,0,-3,0,2
+876,Dodogama Greaves β+,9,legs,both,4,1,0,120,158,178,2,0,-3,0,2
+877,Kulu Headpiece α+,9,head,both,1,0,0,116,154,174,0,-3,0,1,0
+878,Kulu Mail α+,9,chest,both,2,0,0,116,154,174,0,-3,0,1,0
+879,Kulu Vambraces α+,9,arms,both,1,1,0,116,154,174,0,-3,0,1,0
+880,Kulu Coil α+,9,waist,both,3,0,0,116,154,174,0,-3,0,1,0
+881,Kulu Greaves α+,9,legs,both,2,0,0,116,154,174,0,-3,0,1,0
+882,Kulu Headpiece β+,9,head,both,4,0,0,116,154,174,0,-3,0,1,0
+883,Kulu Mail β+,9,chest,both,4,0,0,116,154,174,0,-3,0,1,0
+884,Kulu Vambraces β+,9,arms,both,4,0,0,116,154,174,0,-3,0,1,0
+885,Kulu Coil β+,9,waist,both,4,1,0,116,154,174,0,-3,0,1,0
+886,Kulu Greaves β+,9,legs,both,4,0,0,116,154,174,0,-3,0,1,0
+887,Pukei Hat α+,9,head,both,2,2,0,118,156,176,0,3,-3,0,1
+888,Pukei Mail α+,9,chest,both,2,0,0,118,156,176,0,3,-3,0,1
+889,Pukei Vambraces α+,9,arms,both,1,0,0,118,156,176,0,3,-3,0,1
+890,Pukei Coil α+,9,waist,both,3,0,0,118,156,176,0,3,-3,0,1
+891,Pukei Greaves α+,9,legs,both,3,0,0,118,156,176,0,3,-3,0,1
+892,Pukei Hat β+,9,head,both,4,1,1,118,156,176,0,3,-3,0,1
+893,Pukei Mail β+,9,chest,both,4,0,0,118,156,176,0,3,-3,0,1
+894,Pukei Vambraces β+,9,arms,both,4,0,0,118,156,176,0,3,-3,0,1
+895,Pukei Coil β+,9,waist,both,4,1,0,118,156,176,0,3,-3,0,1
+896,Pukei Greaves β+,9,legs,both,4,2,0,118,156,176,0,3,-3,0,1
+897,Pukei Lagoon Hat α+,9,head,both,1,0,0,132,170,190,0,3,-2,-3,0
+898,Pukei Lagoon Mail α+,9,chest,both,2,0,0,132,170,190,0,3,-2,-3,0
+899,Pukei Lagoon Braces α+,9,arms,both,1,0,0,132,170,190,0,3,-2,-3,0
+900,Pukei Lagoon Coil α+,9,waist,both,2,0,0,132,170,190,0,3,-2,-3,0
+901,Pukei Lagoon Greaves α+,9,legs,both,1,0,0,132,170,190,0,3,-2,-3,0
+902,Pukei Lagoon Hat β+,9,head,both,4,0,0,132,170,190,0,3,-2,-3,0
+903,Pukei Lagoon Mail β+,9,chest,both,4,1,0,132,170,190,0,3,-2,-3,0
+904,Pukei Lagoon Braces β+,9,arms,both,4,1,0,132,170,190,0,3,-2,-3,0
+905,Pukei Lagoon Coil β+,9,waist,both,4,0,0,132,170,190,0,3,-2,-3,0
+906,Pukei Lagoon Greaves β+,9,legs,both,4,1,0,132,170,190,0,3,-2,-3,0
+907,Barroth Helm α+,9,head,both,2,0,0,118,156,176,-3,-1,3,-1,0
+908,Barroth Mail α+,9,chest,both,1,1,0,118,156,176,-3,-1,3,-1,0
+909,Barroth Vambraces α+,9,arms,both,3,1,0,118,156,176,-3,-1,3,-1,0
+910,Barroth Coil α+,9,waist,both,1,0,0,118,156,176,-3,-1,3,-1,0
+911,Barroth Greaves α+,9,legs,both,3,1,0,118,156,176,-3,-1,3,-1,0
+912,Barroth Helm β+,9,head,both,4,1,0,118,156,176,-3,-1,3,-1,0
+913,Barroth Mail β+,9,chest,both,4,1,0,118,156,176,-3,-1,3,-1,0
+914,Barroth Vambraces β+,9,arms,both,4,2,0,118,156,176,-3,-1,3,-1,0
+915,Barroth Coil β+,9,waist,both,4,0,0,118,156,176,-3,-1,3,-1,0
+916,Barroth Greaves β+,9,legs,both,4,2,1,118,156,176,-3,-1,3,-1,0
+917,Jyura Helm α+,9,head,both,1,1,0,118,156,176,-1,2,-3,0,0
+918,Jyura Mail α+,9,chest,both,2,0,0,118,156,176,-1,2,-3,0,0
+919,Jyura Vambraces α+,9,arms,both,2,1,0,118,156,176,-1,2,-3,0,0
+920,Jyura Coil α+,9,waist,both,3,0,0,118,156,176,-1,2,-3,0,0
+921,Jyura Greaves α+,9,legs,both,2,0,0,118,156,176,-1,2,-3,0,0
+922,Jyura Helm β+,9,head,both,4,1,0,118,156,176,-1,2,-3,0,0
+923,Jyura Mail β+,9,chest,both,4,0,0,118,156,176,-1,2,-3,0,0
+924,Jyura Vambraces β+,9,arms,both,4,2,0,118,156,176,-1,2,-3,0,0
+925,Jyura Coil β+,9,waist,both,4,1,0,118,156,176,-1,2,-3,0,0
+926,Jyura Greaves β+,9,legs,both,4,1,0,118,156,176,-1,2,-3,0,0
+927,Beo Helm α+,9,head,both,2,0,0,118,156,176,-3,0,-2,3,2
+928,Beo Mail α+,9,chest,both,3,0,0,118,156,176,-3,0,-2,3,2
+929,Beo Vambraces α+,9,arms,both,3,0,0,118,156,176,-3,0,-2,3,2
+930,Beo Coil α+,9,waist,both,2,0,0,118,156,176,-3,0,-2,3,2
+931,Beo Greaves α+,9,legs,both,2,0,0,118,156,176,-3,0,-2,3,2
+932,Beo Helm β+,9,head,both,4,1,0,118,156,176,-3,0,-2,3,2
+933,Beo Mail β+,9,chest,both,4,2,0,118,156,176,-3,0,-2,3,2
+934,Beo Vambraces β+,9,arms,both,4,0,0,118,156,176,-3,0,-2,3,2
+935,Beo Coil β+,9,waist,both,4,1,0,118,156,176,-3,0,-2,3,2
+936,Beo Greaves β+,9,legs,both,4,0,0,118,156,176,-3,0,-2,3,2
+937,Kadachi Hat α+,9,head,both,2,0,0,120,158,178,0,-3,3,0,0
+938,Kadachi Mail α+,9,chest,both,2,1,0,120,158,178,0,-3,3,0,0
+939,Kadachi Vambraces α+,9,arms,both,2,0,0,120,158,178,0,-3,3,0,0
+940,Kadachi Coil α+,9,waist,both,3,1,0,120,158,178,0,-3,3,0,0
+941,Kadachi Greaves α+,9,legs,both,3,1,0,120,158,178,0,-3,3,0,0
+942,Kadachi Hat β+,9,head,both,4,1,0,120,158,178,0,-3,3,0,0
+943,Kadachi Mail β+,9,chest,both,4,2,0,120,158,178,0,-3,3,0,0
+944,Kadachi Vambraces β+,9,arms,both,4,2,0,120,158,178,0,-3,3,0,0
+945,Kadachi Coil β+,9,waist,both,4,1,0,120,158,178,0,-3,3,0,0
+946,Kadachi Greaves β+,9,legs,both,4,1,1,120,158,178,0,-3,3,0,0
+947,Viper Kadachi Hat α+,9,head,both,1,0,0,132,170,190,1,3,-3,-2,1
+948,Viper Kadachi Mail α+,9,chest,both,1,1,0,132,170,190,1,3,-3,-2,1
+949,Viper Kadachi Braces α+,9,arms,both,2,0,0,132,170,190,1,3,-3,-2,1
+950,Viper Kadachi Coil α+,9,waist,both,2,0,0,132,170,190,1,3,-3,-2,1
+951,Viper Kadachi Greaves α+,9,legs,both,2,0,0,132,170,190,1,3,-3,-2,1
+952,Viper Kadachi Hat β+,9,head,both,4,0,0,132,170,190,1,3,-3,-2,1
+953,Viper Kadachi Mail β+,9,chest,both,4,1,0,132,170,190,1,3,-3,-2,1
+954,Viper Kadachi Braces β+,9,arms,both,4,0,0,132,170,190,1,3,-3,-2,1
+955,Viper Kadachi Coil β+,9,waist,both,4,1,0,132,170,190,1,3,-3,-2,1
+956,Viper Kadachi Greaves β+,9,legs,both,4,1,0,132,170,190,1,3,-3,-2,1
+957,High Metal Helm α+,9,head,both,2,0,0,128,166,186,0,-1,-2,3,0
+958,High Metal Mail α+,9,chest,both,2,0,0,128,166,186,0,-1,-2,3,0
+959,High Metal Braces α+,9,arms,both,2,1,0,128,166,186,0,-1,-2,3,0
+960,High Metal Coil α+,9,waist,both,2,2,0,128,166,186,0,-1,-2,3,0
+961,High Metal Greaves α+,9,legs,both,2,2,1,128,166,186,0,-1,-2,3,0
+962,High Metal Helm β+,9,head,both,4,1,0,128,166,186,0,-1,-2,3,0
+963,High Metal Mail β+,9,chest,both,4,1,0,128,166,186,0,-1,-2,3,0
+964,High Metal Braces β+,9,arms,both,4,1,0,128,166,186,0,-1,-2,3,0
+965,High Metal Coil β+,9,waist,both,4,2,0,128,166,186,0,-1,-2,3,0
+966,High Metal Greaves β+,9,legs,both,4,3,0,128,166,186,0,-1,-2,3,0
+967,Banbaro Helm α+,9,head,both,2,0,0,130,168,188,-2,2,-1,3,-3
+968,Banbaro Mail α+,9,chest,both,3,0,0,130,168,188,-2,2,-1,3,-3
+969,Banbaro Vambraces α+,9,arms,both,2,0,0,130,168,188,-2,2,-1,3,-3
+970,Banbaro Coil α+,9,waist,both,3,0,0,130,168,188,-2,2,-1,3,-3
+971,Banbaro Greaves α+,9,legs,both,3,0,0,130,168,188,-2,2,-1,3,-3
+972,Banbaro Helm β+,9,head,both,4,1,0,130,168,188,-2,2,-1,3,-3
+973,Banbaro Mail β+,9,chest,both,4,1,0,130,168,188,-2,2,-1,3,-3
+974,Banbaro Vambraces β+,9,arms,both,4,0,0,130,168,188,-2,2,-1,3,-3
+975,Banbaro Coil β+,9,waist,both,4,1,0,130,168,188,-2,2,-1,3,-3
+976,Banbaro Greaves β+,9,legs,both,4,1,0,130,168,188,-2,2,-1,3,-3
+977,Anja Helm α+,9,head,both,3,0,0,132,170,190,3,-3,-1,-1,0
+978,Anja Mail α+,9,chest,both,1,1,0,132,170,190,3,-3,-1,-1,0
+979,Anja Vambraces α+,9,arms,both,2,0,0,132,170,190,3,-3,-1,-1,0
+980,Anja Coil α+,9,waist,both,3,1,0,132,170,190,3,-3,-1,-1,0
+981,Anja Greaves α+,9,legs,both,2,0,0,132,170,190,3,-3,-1,-1,0
+982,Anja Helm β+,9,head,both,4,0,0,132,170,190,3,-3,-1,-1,0
+983,Anja Mail β+,9,chest,both,4,1,0,132,170,190,3,-3,-1,-1,0
+984,Anja Vambraces β+,9,arms,both,4,0,0,132,170,190,3,-3,-1,-1,0
+985,Anja Coil β+,9,waist,both,4,2,0,132,170,190,3,-3,-1,-1,0
+986,Anja Greaves β+,9,legs,both,4,1,0,132,170,190,3,-3,-1,-1,0
+987,Fulgur Helm α+,11,head,both,2,1,0,146,170,190,-1,-1,2,-3,0
+988,Fulgur Mail α+,11,chest,both,3,0,0,146,170,190,-1,-1,2,-3,0
+989,Fulgur Vambraces α+,11,arms,both,2,0,0,146,170,190,-1,-1,2,-3,0
+990,Fulgur Coil α+,11,waist,both,1,0,0,146,170,190,-1,-1,2,-3,0
+991,Fulgur Greaves α+,11,legs,both,2,1,0,146,170,190,-1,-1,2,-3,0
+992,Fulgur Helm β+,11,head,both,4,2,0,146,170,190,-1,-1,2,-3,0
+993,Fulgur Mail β+,11,chest,both,4,0,0,146,170,190,-1,-1,2,-3,0
+994,Fulgur Vambraces β+,11,arms,both,4,2,0,146,170,190,-1,-1,2,-3,0
+995,Fulgur Coil β+,11,waist,both,4,1,0,146,170,190,-1,-1,2,-3,0
+996,Fulgur Greaves β+,11,legs,both,4,1,0,146,170,190,-1,-1,2,-3,0
+997,Rathian Helm α+,9,head,both,3,0,0,130,168,188,2,0,-2,0,-3
+998,Rathian Mail α+,9,chest,both,2,2,0,130,168,188,2,0,-2,0,-3
+999,Rathian Vambraces α+,9,arms,both,3,0,0,130,168,188,2,0,-2,0,-3
+1000,Rathian Coil α+,9,waist,both,3,2,0,130,168,188,2,0,-2,0,-3
+1001,Rathian Greaves α+,9,legs,both,3,0,0,130,168,188,2,0,-2,0,-3
+1002,Rathian Helm β+,9,head,both,4,0,0,130,168,188,2,0,-2,0,-3
+1003,Rathian Mail β+,9,chest,both,4,2,0,130,168,188,2,0,-2,0,-3
+1004,Rathian Vambraces β+,9,arms,both,4,0,0,130,168,188,2,0,-2,0,-3
+1005,Rathian Coil β+,9,waist,both,4,2,0,130,168,188,2,0,-2,0,-3
+1006,Rathian Greaves β+,9,legs,both,4,0,0,130,168,188,2,0,-2,0,-3
+1007,Rath Heart Helm α+,9,head,both,3,0,0,132,170,190,3,0,-3,0,-4
+1008,Rath Heart Mail α+,9,chest,both,2,0,0,132,170,190,3,0,-3,0,-4
+1009,Rath Heart Braces α+,9,arms,both,2,0,0,132,170,190,3,0,-3,0,-4
+1010,Rath Heart Coil α+,9,waist,both,3,0,0,132,170,190,3,0,-3,0,-4
+1011,Rath Heart Greaves α+,9,legs,both,2,1,0,132,170,190,3,0,-3,0,-4
+1012,Rath Heart Helm β+,9,head,both,4,1,0,132,170,190,3,0,-3,0,-4
+1013,Rath Heart Mail β+,9,chest,both,4,1,1,132,170,190,3,0,-3,0,-4
+1014,Rath Heart Braces β+,9,arms,both,4,2,0,132,170,190,3,0,-3,0,-4
+1015,Rath Heart Coil β+,9,waist,both,4,0,0,132,170,190,3,0,-3,0,-4
+1016,Rath Heart Greaves β+,9,legs,both,4,2,0,132,170,190,3,0,-3,0,-4
+1017,Lumu Hat α+,9,head,both,3,0,0,130,168,188,-3,2,0,1,0
+1018,Lumu Mail α+,9,chest,both,3,1,0,130,168,188,-3,2,0,1,0
+1019,Lumu Vambraces α+,9,arms,both,2,2,0,130,168,188,-3,2,0,1,0
+1020,Lumu Coil α+,9,waist,both,2,2,0,130,168,188,-3,2,0,1,0
+1021,Lumu Greaves α+,9,legs,both,3,0,0,130,168,188,-3,2,0,1,0
+1022,Lumu Hat β+,9,head,both,4,1,0,130,168,188,-3,2,0,1,0
+1023,Lumu Mail β+,9,chest,both,4,1,0,130,168,188,-3,2,0,1,0
+1024,Lumu Vambraces β+,9,arms,both,4,1,0,130,168,188,-3,2,0,1,0
+1025,Lumu Coil β+,9,waist,both,4,1,0,130,168,188,-3,2,0,1,0
+1026,Lumu Greaves β+,9,legs,both,4,1,0,130,168,188,-3,2,0,1,0
+1027,Lumu Phantasm Hood α+,9,head,both,1,1,0,132,170,190,-3,-3,2,1,1
+1028,Lumu Phantasm Mail α+,9,chest,both,2,0,0,132,170,190,-3,-3,2,1,1
+1029,Lumu Phantasm Braces α+,9,arms,both,2,0,0,132,170,190,-3,-3,2,1,1
+1030,Lumu Phantasm Coil α+,9,waist,both,2,0,0,132,170,190,-3,-3,2,1,1
+1031,Lumu Phantasm Greaves α+,9,legs,both,3,0,0,132,170,190,-3,-3,2,1,1
+1032,Lumu Phantasm Hood β+,9,head,both,4,0,0,132,170,190,-3,-3,2,1,1
+1033,Lumu Phantasm Mail β+,9,chest,both,4,1,0,132,170,190,-3,-3,2,1,1
+1034,Lumu Phantasm Braces β+,9,arms,both,4,0,0,132,170,190,-3,-3,2,1,1
+1035,Lumu Phantasm Coil β+,9,waist,both,4,0,0,132,170,190,-3,-3,2,1,1
+1036,Lumu Phantasm Greaves β+,9,legs,both,4,1,0,132,170,190,-3,-3,2,1,1
+1037,Baan Helm α+,9,head,both,1,1,0,134,172,192,0,2,0,-1,-2
+1038,Baan Mail α+,9,chest,both,3,0,0,134,172,192,0,2,0,-1,-2
+1039,Baan Vambraces α+,9,arms,both,2,0,0,134,172,192,0,2,0,-1,-2
+1040,Baan Coil α+,9,waist,both,1,0,0,134,172,192,0,2,0,-1,-2
+1041,Baan Greaves α+,9,legs,both,2,0,0,134,172,192,0,2,0,-1,-2
+1042,Baan Helm β+,9,head,both,4,0,0,134,172,192,0,2,0,-1,-2
+1043,Baan Mail β+,9,chest,both,4,0,0,134,172,192,0,2,0,-1,-2
+1044,Baan Vambraces β+,9,arms,both,4,0,0,134,172,192,0,2,0,-1,-2
+1045,Baan Coil β+,9,waist,both,4,0,0,134,172,192,0,2,0,-1,-2
+1046,Baan Greaves β+,9,legs,both,4,1,0,134,172,192,0,2,0,-1,-2
+1047,Artian Helm α+,10,head,both,2,0,0,142,174,194,1,-2,-2,2,3
+1048,Artian Mail α+,10,chest,both,1,0,0,142,174,194,1,-2,-2,2,3
+1049,Artian Vambraces α+,10,arms,both,1,1,0,142,174,194,1,-2,-2,2,3
+1050,Artian Coil α+,10,waist,both,1,1,0,142,174,194,1,-2,-2,2,3
+1051,Artian Greaves α+,10,legs,both,1,1,0,142,174,194,1,-2,-2,2,3
+1052,Artian Helm β+,10,head,both,4,1,0,142,174,194,1,-2,-2,2,3
+1053,Artian Mail β+,10,chest,both,4,0,0,142,174,194,1,-2,-2,2,3
+1054,Artian Vambraces β+,10,arms,both,4,0,0,142,174,194,1,-2,-2,2,3
+1055,Artian Coil β+,10,waist,both,4,1,0,142,174,194,1,-2,-2,2,3
+1056,Artian Greaves β+,10,legs,both,4,0,0,142,174,194,1,-2,-2,2,3
+1057,Clockwork Helm α+,10,head,both,1,1,0,142,174,194,2,2,2,-1,-1
+1058,Clockwork Mail α+,10,chest,both,1,1,0,142,174,194,2,2,2,-1,-1
+1059,Clockwork Braces α+,10,arms,both,2,0,0,142,174,194,2,2,2,-1,-1
+1060,Clockwork Coil α+,10,waist,both,2,0,0,142,174,194,2,2,2,-1,-1
+1061,Clockwork Greaves α+,10,legs,both,1,1,0,142,174,194,2,2,2,-1,-1
+1062,Clockwork Helm β+,10,head,both,4,1,0,142,174,194,2,2,2,-1,-1
+1063,Clockwork Mail β+,10,chest,both,4,1,0,142,174,194,2,2,2,-1,-1
+1064,Clockwork Braces β+,10,arms,both,4,0,0,142,174,194,2,2,2,-1,-1
+1065,Clockwork Coil β+,10,waist,both,4,1,0,142,174,194,2,2,2,-1,-1
+1066,Clockwork Greaves β+,10,legs,both,4,0,0,142,174,194,2,2,2,-1,-1
+1067,Ingot Helm α+,10,head,both,2,0,0,136,168,188,-2,0,3,-1,0
+1068,Ingot Mail α+,10,chest,both,3,0,0,136,168,188,-2,0,3,-1,0
+1069,Ingot Vambraces α+,10,arms,both,2,1,0,136,168,188,-2,0,3,-1,0
+1070,Ingot Coil α+,10,waist,both,2,0,0,136,168,188,-2,0,3,-1,0
+1071,Ingot Greaves α+,10,legs,both,2,0,0,136,168,188,-2,0,3,-1,0
+1072,Ingot Helm β+,10,head,both,4,2,0,136,168,188,-2,0,3,-1,0
+1073,Ingot Mail β+,10,chest,both,4,0,0,136,168,188,-2,0,3,-1,0
+1074,Ingot Vambraces β+,10,arms,both,4,0,0,136,168,188,-2,0,3,-1,0
+1075,Ingot Coil β+,10,waist,both,4,1,0,136,168,188,-2,0,3,-1,0
+1076,Ingot Greaves β+,10,legs,both,4,0,0,136,168,188,-2,0,3,-1,0
+1077,Barioth Helm α+,10,head,both,1,1,0,138,170,190,-3,2,-2,3,0
+1078,Barioth Mail α+,10,chest,both,3,0,0,138,170,190,-3,2,-2,3,0
+1079,Barioth Vambraces α+,10,arms,both,2,0,0,138,170,190,-3,2,-2,3,0
+1080,Barioth Faulds α+,10,waist,both,3,0,0,138,170,190,-3,2,-2,3,0
+1081,Barioth Greaves α+,10,legs,both,1,1,0,138,170,190,-3,2,-2,3,0
+1082,Barioth Helm β+,10,head,both,4,1,0,138,170,190,-3,2,-2,3,0
+1083,Barioth Mail β+,10,chest,both,4,1,0,138,170,190,-3,2,-2,3,0
+1084,Barioth Vambraces β+,10,arms,both,4,0,0,138,170,190,-3,2,-2,3,0
+1085,Barioth Faulds β+,10,waist,both,4,0,0,138,170,190,-3,2,-2,3,0
+1086,Barioth Greaves β+,10,legs,both,4,1,0,138,170,190,-3,2,-2,3,0
+1087,Rathalos Helm α+,10,head,both,2,0,0,140,172,192,3,1,-2,1,-3
+1088,Rathalos Mail α+,10,chest,both,1,1,0,140,172,192,3,1,-2,1,-3
+1089,Rathalos Vambraces α+,10,arms,both,3,0,0,140,172,192,3,1,-2,1,-3
+1090,Rathalos Coil α+,10,waist,both,2,0,0,140,172,192,3,1,-2,1,-3
+1091,Rathalos Greaves α+,10,legs,both,3,0,0,140,172,192,3,1,-2,1,-3
+1092,Rathalos Helm β+,10,head,both,4,1,0,140,172,192,3,1,-2,1,-3
+1093,Rathalos Mail β+,10,chest,both,4,0,0,140,172,192,3,1,-2,1,-3
+1094,Rathalos Vambraces β+,10,arms,both,4,3,0,140,172,192,3,1,-2,1,-3
+1095,Rathalos Coil β+,10,waist,both,4,2,0,140,172,192,3,1,-2,1,-3
+1096,Rathalos Greaves β+,10,legs,both,4,0,0,140,172,192,3,1,-2,1,-3
+1097,Rath Soul Helm α+,11,head,both,1,1,0,148,172,192,3,2,2,-3,-4
+1098,Rath Soul Mail α+,11,chest,both,2,0,0,148,172,192,3,2,2,-3,-4
+1099,Rath Soul Braces α+,11,arms,both,2,0,0,148,172,192,3,2,2,-3,-4
+1100,Rath Soul Coil α+,11,waist,both,3,0,0,148,172,192,3,2,2,-3,-4
+1101,Rath Soul Greaves α+,11,legs,both,1,0,0,148,172,192,3,2,2,-3,-4
+1102,Rath Soul Helm β+,11,head,both,4,0,0,148,172,192,3,2,2,-3,-4
+1103,Rath Soul Mail β+,11,chest,both,4,1,0,148,172,192,3,2,2,-3,-4
+1104,Rath Soul Braces β+,11,arms,both,4,1,0,148,172,192,3,2,2,-3,-4
+1105,Rath Soul Coil β+,11,waist,both,4,2,0,148,172,192,3,2,2,-3,-4
+1106,Rath Soul Greaves β+,11,legs,both,4,0,0,148,172,192,3,2,2,-3,-4
+1107,Diablos Helm α+,10,head,both,2,0,0,140,172,192,3,-2,0,-3,2
+1108,Diablos Mail α+,10,chest,both,2,0,0,140,172,192,3,-2,0,-3,2
+1109,Diablos Vambraces α+,10,arms,both,2,0,0,140,172,192,3,-2,0,-3,2
+1110,Diablos Coil α+,10,waist,both,2,0,0,140,172,192,3,-2,0,-3,2
+1111,Diablos Greaves α+,10,legs,both,1,1,0,140,172,192,3,-2,0,-3,2
+1112,Diablos Helm β+,10,head,both,4,0,0,140,172,192,3,-2,0,-3,2
+1113,Diablos Mail β+,10,chest,both,4,1,0,140,172,192,3,-2,0,-3,2
+1114,Diablos Vambraces β+,10,arms,both,4,1,0,140,172,192,3,-2,0,-3,2
+1115,Diablos Coil β+,10,waist,both,4,1,0,140,172,192,3,-2,0,-3,2
+1116,Diablos Greaves β+,10,legs,both,4,1,0,140,172,192,3,-2,0,-3,2
+1117,Diablos Nero Helm α+,11,head,both,1,1,0,148,172,192,2,-3,0,-4,2
+1118,Diablos Nero Mail α+,11,chest,both,2,0,0,148,172,192,2,-3,0,-4,2
+1119,Diablos Nero Braces α+,11,arms,both,1,1,0,148,172,192,2,-3,0,-4,2
+1120,Diablos Nero Coil α+,11,waist,both,2,0,0,148,172,192,2,-3,0,-4,2
+1121,Diablos Nero Greaves α+,11,legs,both,1,0,0,148,172,192,2,-3,0,-4,2
+1122,Diablos Nero Helm β+,11,head,both,4,1,0,148,172,192,2,-3,0,-4,2
+1123,Diablos Nero Mail β+,11,chest,both,4,1,0,148,172,192,2,-3,0,-4,2
+1124,Diablos Nero Braces β+,11,arms,both,4,2,0,148,172,192,2,-3,0,-4,2
+1125,Diablos Nero Coil β+,11,waist,both,4,1,0,148,172,192,2,-3,0,-4,2
+1126,Diablos Nero Greaves β+,11,legs,both,4,0,0,148,172,192,2,-3,0,-4,2
+1127,Legiana Helm α+,10,head,both,2,0,0,140,172,192,-1,2,-3,3,0
+1128,Legiana Mail α+,10,chest,both,1,0,0,140,172,192,-1,2,-3,3,0
+1129,Legiana Vambraces α+,10,arms,both,3,0,0,140,172,192,-1,2,-3,3,0
+1130,Legiana Coil α+,10,waist,both,2,0,0,140,172,192,-1,2,-3,3,0
+1131,Legiana Greaves α+,10,legs,both,3,0,0,140,172,192,-1,2,-3,3,0
+1132,Legiana Helm β+,10,head,both,4,1,0,140,172,192,-1,2,-3,3,0
+1133,Legiana Mail β+,10,chest,both,4,0,0,140,172,192,-1,2,-3,3,0
+1134,Legiana Vambraces β+,10,arms,both,4,2,0,140,172,192,-1,2,-3,3,0
+1135,Legiana Coil β+,10,waist,both,4,1,0,140,172,192,-1,2,-3,3,0
+1136,Legiana Greaves β+,10,legs,both,4,2,0,140,172,192,-1,2,-3,3,0
+1137,Hoarcry Helm α+,11,head,both,1,1,1,146,170,190,-3,2,-1,3,0
+1138,Hoarcry Mail α+,11,chest,both,1,1,0,146,170,190,-3,2,-1,3,0
+1139,Hoarcry Vambraces α+,11,arms,both,1,1,0,146,170,190,-3,2,-1,3,0
+1140,Hoarcry Coil α+,11,waist,both,1,1,0,146,170,190,-3,2,-1,3,0
+1141,Hoarcry Greaves α+,11,legs,both,1,1,0,146,170,190,-3,2,-1,3,0
+1142,Hoarcry Helm β+,11,head,both,4,1,0,146,170,190,-3,2,-1,3,0
+1143,Hoarcry Mail β+,11,chest,both,4,0,0,146,170,190,-3,2,-1,3,0
+1144,Hoarcry Vambraces β+,11,arms,both,4,0,0,146,170,190,-3,2,-1,3,0
+1145,Hoarcry Coil β+,11,waist,both,4,0,0,146,170,190,-3,2,-1,3,0
+1146,Hoarcry Greaves β+,11,legs,both,4,2,0,146,170,190,-3,2,-1,3,0
+1147,Odogaron Helm α+,10,head,both,2,0,0,140,172,192,2,2,-2,-3,0
+1148,Odogaron Mail α+,10,chest,both,3,0,0,140,172,192,2,2,-2,-3,0
+1149,Odogaron Vambraces α+,10,arms,both,1,0,0,140,172,192,2,2,-2,-3,0
+1150,Odogaron Coil α+,10,waist,both,2,0,0,140,172,192,2,2,-2,-3,0
+1151,Odogaron Greaves α+,10,legs,both,1,0,0,140,172,192,2,2,-2,-3,0
+1152,Odogaron Helm β+,10,head,both,4,0,0,140,172,192,2,2,-2,-3,0
+1153,Odogaron Mail β+,10,chest,both,4,1,0,140,172,192,2,2,-2,-3,0
+1154,Odogaron Vambraces β+,10,arms,both,4,0,0,140,172,192,2,2,-2,-3,0
+1155,Odogaron Coil β+,10,waist,both,4,2,0,140,172,192,2,2,-2,-3,0
+1156,Odogaron Greaves β+,10,legs,both,4,0,0,140,172,192,2,2,-2,-3,0
+1157,Death Garon Helm α+,11,head,both,3,0,0,148,172,192,-2,-3,-2,-2,4
+1158,Death Garon Mail α+,11,chest,both,2,0,0,148,172,192,-2,-3,-2,-2,4
+1159,Death Garon Braces α+,11,arms,both,2,1,0,148,172,192,-2,-3,-2,-2,4
+1160,Death Garon Coil α+,11,waist,both,2,1,0,148,172,192,-2,-3,-2,-2,4
+1161,Death Garon Greaves α+,11,legs,both,1,1,0,148,172,192,-2,-3,-2,-2,4
+1162,Death Garon Helm β+,11,head,both,4,2,0,148,172,192,-2,-3,-2,-2,4
+1163,Death Garon Mail β+,11,chest,both,4,1,0,148,172,192,-2,-3,-2,-2,4
+1164,Death Garon Braces β+,11,arms,both,4,1,0,148,172,192,-2,-3,-2,-2,4
+1165,Death Garon Coil β+,11,waist,both,4,2,0,148,172,192,-2,-3,-2,-2,4
+1166,Death Garon Greaves β+,11,legs,both,4,1,1,148,172,192,-2,-3,-2,-2,4
+1167,Lavasioth Helm α+,10,head,both,1,1,0,140,172,192,3,-3,1,-2,2
+1168,Lavasioth Mail α+,10,chest,both,1,1,0,140,172,192,3,-3,1,-2,2
+1169,Lavasioth Vambraces α+,10,arms,both,1,0,0,140,172,192,3,-3,1,-2,2
+1170,Lavasioth Coil α+,10,waist,both,1,0,0,140,172,192,3,-3,1,-2,2
+1171,Lavasioth Greaves α+,10,legs,both,2,0,0,140,172,192,3,-3,1,-2,2
+1172,Lavasioth Helm β+,10,head,both,4,1,0,140,172,192,3,-3,1,-2,2
+1173,Lavasioth Mail β+,10,chest,both,4,1,0,140,172,192,3,-3,1,-2,2
+1174,Lavasioth Vambraces β+,10,arms,both,4,0,0,140,172,192,3,-3,1,-2,2
+1175,Lavasioth Coil β+,10,waist,both,4,0,0,140,172,192,3,-3,1,-2,2
+1176,Lavasioth Greaves β+,10,legs,both,4,1,0,140,172,192,3,-3,1,-2,2
+1177,Uragaan Helm α+,10,head,both,2,1,0,144,176,196,4,-3,1,-2,-2
+1178,Uragaan Mail α+,10,chest,both,3,0,0,144,176,196,4,-3,1,-2,-2
+1179,Uragaan Vambraces α+,10,arms,both,2,0,0,144,176,196,4,-3,1,-2,-2
+1180,Uragaan Coil α+,10,waist,both,2,1,0,144,176,196,4,-3,1,-2,-2
+1181,Uragaan Greaves α+,10,legs,both,1,0,0,144,176,196,4,-3,1,-2,-2
+1182,Uragaan Helm β+,10,head,both,4,3,0,144,176,196,4,-3,1,-2,-2
+1183,Uragaan Mail β+,10,chest,both,4,0,0,144,176,196,4,-3,1,-2,-2
+1184,Uragaan Vambraces β+,10,arms,both,4,0,0,144,176,196,4,-3,1,-2,-2
+1185,Uragaan Coil β+,10,waist,both,4,2,0,144,176,196,4,-3,1,-2,-2
+1186,Uragaan Greaves β+,10,legs,both,4,1,0,144,176,196,4,-3,1,-2,-2
+1187,Nargacuga Helm α+,10,head,both,1,1,0,140,172,192,-2,2,-3,0,0
+1188,Nargacuga Mail α+,10,chest,both,2,0,0,140,172,192,-2,2,-3,0,0
+1189,Nargacuga Braces α+,10,arms,both,1,0,0,140,172,192,-2,2,-3,0,0
+1190,Nargacuga Faulds α+,10,waist,both,1,0,0,140,172,192,-2,2,-3,0,0
+1191,Nargacuga Greaves α+,10,legs,both,1,1,0,140,172,192,-2,2,-3,0,0
+1192,Nargacuga Helm β+,10,head,both,4,1,0,140,172,192,-2,2,-3,0,0
+1193,Nargacuga Mail β+,10,chest,both,4,0,0,140,172,192,-2,2,-3,0,0
+1194,Nargacuga Braces β+,10,arms,both,4,0,0,140,172,192,-2,2,-3,0,0
+1195,Nargacuga Faulds β+,10,waist,both,4,0,0,140,172,192,-2,2,-3,0,0
+1196,Nargacuga Greaves β+,10,legs,both,4,1,0,140,172,192,-2,2,-3,0,0
+1197,Glavenus Helm α+,10,head,both,1,0,0,142,174,194,3,-3,1,-1,-1
+1198,Glavenus Mail α+,10,chest,both,1,0,0,142,174,194,3,-3,1,-1,-1
+1199,Glavenus Braces α+,10,arms,both,1,0,0,142,174,194,3,-3,1,-1,-1
+1200,Glavenus Faulds α+,10,waist,both,1,1,0,142,174,194,3,-3,1,-1,-1
+1201,Glavenus Greaves α+,10,legs,both,2,0,0,142,174,194,3,-3,1,-1,-1
+1202,Glavenus Helm β+,10,head,both,4,0,0,142,174,194,3,-3,1,-1,-1
+1203,Glavenus Mail β+,10,chest,both,4,0,0,142,174,194,3,-3,1,-1,-1
+1204,Glavenus Braces β+,10,arms,both,4,0,0,142,174,194,3,-3,1,-1,-1
+1205,Glavenus Faulds β+,10,waist,both,4,0,0,142,174,194,3,-3,1,-1,-1
+1206,Glavenus Greaves β+,10,legs,both,4,0,0,142,174,194,3,-3,1,-1,-1
+1207,Acidic Glavenus Helm α+,11,head,both,1,0,0,150,174,194,-3,2,-1,2,-1
+1208,Acidic Glavenus Mail α+,11,chest,both,1,0,0,150,174,194,-3,2,-1,2,-1
+1209,Acidic Glavenus Braces α+,11,arms,both,2,1,0,150,174,194,-3,2,-1,2,-1
+1210,Acidic Glavenus Coil α+,11,waist,both,2,0,0,150,174,194,-3,2,-1,2,-1
+1211,Acidic Glavenus Greaves α+,11,legs,both,1,0,0,150,174,194,-3,2,-1,2,-1
+1212,Acidic Glavenus Helm β+,11,head,both,4,0,0,150,174,194,-3,2,-1,2,-1
+1213,Acidic Glavenus Mail β+,11,chest,both,4,1,0,150,174,194,-3,2,-1,2,-1
+1214,Acidic Glavenus Braces β+,11,arms,both,4,2,1,150,174,194,-3,2,-1,2,-1
+1215,Acidic Glavenus Coil β+,11,waist,both,4,0,0,150,174,194,-3,2,-1,2,-1
+1216,Acidic Glavenus Greaves β+,11,legs,both,4,2,0,150,174,194,-3,2,-1,2,-1
+1217,Brachydios Helm α+,10,head,both,3,0,0,142,174,194,3,-2,1,-3,1
+1218,Brachydios Mail α+,10,chest,both,1,0,0,142,174,194,3,-2,1,-3,1
+1219,Brachydios Braces α+,10,arms,both,2,0,0,142,174,194,3,-2,1,-3,1
+1220,Brachydios Faulds α+,10,waist,both,3,0,0,142,174,194,3,-2,1,-3,1
+1221,Brachydios Greaves α+,10,legs,both,2,0,0,142,174,194,3,-2,1,-3,1
+1222,Brachydios Helm β+,10,head,both,4,1,0,142,174,194,3,-2,1,-3,1
+1223,Brachydios Mail β+,10,chest,both,4,0,0,142,174,194,3,-2,1,-3,1
+1224,Brachydios Braces β+,10,arms,both,4,0,0,142,174,194,3,-2,1,-3,1
+1225,Brachydios Faulds β+,10,waist,both,4,2,0,142,174,194,3,-2,1,-3,1
+1226,Brachydios Greaves β+,10,legs,both,4,0,0,142,174,194,3,-2,1,-3,1
+1227,Tigrex Helm α+,10,head,both,1,0,0,142,174,194,2,0,-3,0,-2
+1228,Tigrex Mail α+,10,chest,both,2,0,0,142,174,194,2,0,-3,0,-2
+1229,Tigrex Braces α+,10,arms,both,1,0,0,142,174,194,2,0,-3,0,-2
+1230,Tigrex Tassets α+,10,waist,both,3,1,0,142,174,194,2,0,-3,0,-2
+1231,Tigrex Greaves α+,10,legs,both,3,1,0,142,174,194,2,0,-3,0,-2
+1232,Tigrex Helm β+,10,head,both,4,0,0,142,174,194,2,0,-3,0,-2
+1233,Tigrex Mail β+,10,chest,both,4,1,0,142,174,194,2,0,-3,0,-2
+1234,Tigrex Braces β+,10,arms,both,4,0,0,142,174,194,2,0,-3,0,-2
+1235,Tigrex Tassets β+,10,waist,both,4,2,1,142,174,194,2,0,-3,0,-2
+1236,Tigrex Greaves β+,10,legs,both,4,2,0,142,174,194,2,0,-3,0,-2
+1237,Rex Roar Helm α+,11,head,both,3,0,0,158,182,202,3,-4,-2,0,0
+1238,Rex Roar Mail α+,11,chest,both,3,0,0,158,182,202,3,-4,-2,0,0
+1239,Rex Roar Braces α+,11,arms,both,3,0,0,158,182,202,3,-4,-2,0,0
+1240,Rex Roar Coil α+,11,waist,both,2,0,0,158,182,202,3,-4,-2,0,0
+1241,Rex Roar Greaves α+,11,legs,both,1,0,0,158,182,202,3,-4,-2,0,0
+1242,Rex Roar Helm β+,11,head,both,4,0,0,158,182,202,3,-4,-2,0,0
+1243,Rex Roar Mail β+,11,chest,both,4,1,0,158,182,202,3,-4,-2,0,0
+1244,Rex Roar Braces β+,11,arms,both,4,0,0,158,182,202,3,-4,-2,0,0
+1245,Rex Roar Coil β+,11,waist,both,4,0,0,158,182,202,3,-4,-2,0,0
+1246,Rex Roar Greaves β+,11,legs,both,4,0,0,158,182,202,3,-4,-2,0,0
+1247,Black Belt Helm α+,11,head,both,3,0,0,150,174,194,1,1,1,1,2
+1248,Black Belt Mail α+,11,chest,both,1,1,1,150,174,194,1,1,1,1,2
+1249,Black Belt Braces α+,11,arms,both,3,0,0,150,174,194,1,1,1,1,2
+1250,Black Belt Tassets α+,11,waist,both,3,0,0,150,174,194,1,1,1,1,2
+1251,Black Belt Greaves α+,11,legs,both,2,2,0,150,174,194,1,1,1,1,2
+1252,Black Belt Helm β+,11,head,both,4,2,0,150,174,194,1,1,1,1,2
+1253,Black Belt Mail β+,11,chest,both,4,1,1,150,174,194,1,1,1,1,2
+1254,Black Belt Braces β+,11,arms,both,4,1,0,150,174,194,1,1,1,1,2
+1255,Black Belt Tassets β+,11,waist,both,4,1,0,150,174,194,1,1,1,1,2
+1256,Black Belt Greaves β+,11,legs,both,4,2,0,150,174,194,1,1,1,1,2
+1257,Dober Helm α+,11,head,both,1,0,0,152,176,196,-2,0,-1,-1,4
+1258,Dober Mail α+,11,chest,both,1,1,1,152,176,196,-2,0,-1,-1,4
+1259,Dober Vambraces α+,11,arms,both,2,1,0,152,176,196,-2,0,-1,-1,4
+1260,Dober Coil α+,11,waist,both,2,1,0,152,176,196,-2,0,-1,-1,4
+1261,Dober Greaves α+,11,legs,both,2,0,0,152,176,196,-2,0,-1,-1,4
+1262,Dober Helm β+,11,head,both,4,0,0,152,176,196,-2,0,-1,-1,4
+1263,Dober Mail β+,11,chest,both,4,1,1,152,176,196,-2,0,-1,-1,4
+1264,Dober Vambraces β+,11,arms,both,4,1,0,152,176,196,-2,0,-1,-1,4
+1265,Dober Coil β+,11,waist,both,4,2,0,152,176,196,-2,0,-1,-1,4
+1266,Dober Greaves β+,11,legs,both,4,2,0,152,176,196,-2,0,-1,-1,4
+1267,Damascus Helm α+,11,head,both,3,0,0,152,176,196,4,-2,0,0,0
+1268,Damascus Mail α+,11,chest,both,3,1,0,152,176,196,4,-2,0,0,0
+1269,Damascus Vambraces α+,11,arms,both,2,1,0,152,176,196,4,-2,0,0,0
+1270,Damascus Coil α+,11,waist,both,3,2,0,152,176,196,4,-2,0,0,0
+1271,Damascus Greaves α+,11,legs,both,2,1,0,152,176,196,4,-2,0,0,0
+1272,Damascus Helm β+,11,head,both,4,1,1,152,176,196,4,-2,0,0,0
+1273,Damascus Mail β+,11,chest,both,4,2,1,152,176,196,4,-2,0,0,0
+1274,Damascus Vambraces β+,11,arms,both,4,1,0,152,176,196,4,-2,0,0,0
+1275,Damascus Coil β+,11,waist,both,4,3,1,152,176,196,4,-2,0,0,0
+1276,Damascus Greaves β+,11,legs,both,4,2,0,152,176,196,4,-2,0,0,0
+1277,Pride Helm α+,11,head,both,2,1,0,154,178,198,3,1,-2,-4,-2
+1278,Pride Mail α+,11,chest,both,1,1,0,154,178,198,3,1,-2,-4,-2
+1279,Pride Vambraces α+,11,arms,both,3,0,0,154,178,198,3,1,-2,-4,-2
+1280,Pride Coil α+,11,waist,both,3,0,0,154,178,198,3,1,-2,-4,-2
+1281,Pride Greaves α+,11,legs,both,3,0,0,154,178,198,3,1,-2,-4,-2
+1282,Pride Helm β+,11,head,both,4,1,0,154,178,198,3,1,-2,-4,-2
+1283,Pride Mail β+,11,chest,both,4,1,1,154,178,198,3,1,-2,-4,-2
+1284,Pride Vambraces β+,11,arms,both,4,3,0,154,178,198,3,1,-2,-4,-2
+1285,Pride Coil β+,11,waist,both,4,2,0,154,178,198,3,1,-2,-4,-2
+1286,Pride Greaves β+,11,legs,both,4,2,0,154,178,198,3,1,-2,-4,-2
+1287,Esurient Helm α+,11,head,both,1,0,0,156,180,200,2,1,-3,1,-3
+1288,Esurient Mail α+,11,chest,both,2,0,0,156,180,200,2,1,-3,1,-3
+1289,Esurient Vambraces α+,11,arms,both,2,0,0,156,180,200,2,1,-3,1,-3
+1290,Esurient Faulds α+,11,waist,both,1,0,0,156,180,200,2,1,-3,1,-3
+1291,Esurient Greaves α+,11,legs,both,2,2,0,156,180,200,2,1,-3,1,-3
+1292,Esurient Helm β+,11,head,both,4,3,0,156,180,200,2,1,-3,1,-3
+1293,Esurient Mail β+,11,chest,both,4,2,2,156,180,200,2,1,-3,1,-3
+1294,Esurient Vambraces β+,11,arms,both,4,0,0,156,180,200,2,1,-3,1,-3
+1295,Esurient Faulds β+,11,waist,both,4,1,0,156,180,200,2,1,-3,1,-3
+1296,Esurient Greaves β+,11,legs,both,4,2,0,156,180,200,2,1,-3,1,-3
+1297,Rimeguard Helm α+,12,head,both,3,2,0,154,172,192,-3,2,-1,4,-1
+1298,Rimeguard Mail α+,12,chest,both,1,0,0,154,172,192,-3,2,-1,4,-1
+1299,Rimeguard Vambraces α+,12,arms,both,1,0,0,154,172,192,-3,2,-1,4,-1
+1300,Rimeguard Coil α+,12,waist,both,2,1,0,154,172,192,-3,2,-1,4,-1
+1301,Rimeguard Greaves α+,12,legs,both,1,1,0,154,172,192,-3,2,-1,4,-1
+1302,Rimeguard Helm β+,12,head,both,4,2,0,154,172,192,-3,2,-1,4,-1
+1303,Rimeguard Mail β+,12,chest,both,4,1,0,154,172,192,-3,2,-1,4,-1
+1304,Rimeguard Vambraces β+,12,arms,both,4,0,0,154,172,192,-3,2,-1,4,-1
+1305,Rimeguard Coil β+,12,waist,both,4,1,0,154,172,192,-3,2,-1,4,-1
+1306,Rimeguard Greaves β+,12,legs,both,4,1,0,154,172,192,-3,2,-1,4,-1
+1307,Fellshroud Helm α+,12,head,both,1,0,0,156,174,194,-2,4,1,1,-3
+1308,Fellshroud Mail α+,12,chest,both,3,1,0,156,174,194,-2,4,1,1,-3
+1309,Fellshroud Braces α+,12,arms,both,2,1,1,156,174,194,-2,4,1,1,-3
+1310,Fellshroud Coil α+,12,waist,both,2,1,0,156,174,194,-2,4,1,1,-3
+1311,Fellshroud Greaves α+,12,legs,both,3,2,0,156,174,194,-2,4,1,1,-3
+1312,Fellshroud Helm β+,12,head,both,4,1,0,156,174,194,-2,4,1,1,-3
+1313,Fellshroud Mail β+,12,chest,both,4,2,0,156,174,194,-2,4,1,1,-3
+1314,Fellshroud Braces β+,12,arms,both,4,1,1,156,174,194,-2,4,1,1,-3
+1315,Fellshroud Coil β+,12,waist,both,4,2,0,156,174,194,-2,4,1,1,-3
+1316,Fellshroud Greaves β+,12,legs,both,4,3,0,156,174,194,-2,4,1,1,-3
+1317,Kaiser Crown α+,12,head,both,1,0,0,156,174,194,3,-3,1,-3,1
+1318,Kaiser Mail α+,12,chest,both,2,1,0,156,174,194,3,-3,1,-3,1
+1319,Kaiser Vambraces α+,12,arms,both,2,0,0,156,174,194,3,-3,1,-3,1
+1320,Kaiser Coil α+,12,waist,both,3,0,0,156,174,194,3,-3,1,-3,1
+1321,Kaiser Greaves α+,12,legs,both,2,0,0,156,174,194,3,-3,1,-3,1
+1322,Kaiser Crown β+,12,head,both,4,0,0,156,174,194,3,-3,1,-3,1
+1323,Kaiser Mail β+,12,chest,both,4,1,1,156,174,194,3,-3,1,-3,1
+1324,Kaiser Vambraces β+,12,arms,both,4,3,0,156,174,194,3,-3,1,-3,1
+1325,Kaiser Coil β+,12,waist,both,4,2,1,156,174,194,3,-3,1,-3,1
+1326,Kaiser Greaves β+,12,legs,both,4,0,0,156,174,194,3,-3,1,-3,1
+1327,Kushala Glare α+,12,head,both,2,0,0,156,174,194,0,2,-3,4,-2
+1328,Kushala Cista α+,12,chest,both,1,0,0,156,174,194,0,2,-3,4,-2
+1329,Kushala Grip α+,12,arms,both,1,0,0,156,174,194,0,2,-3,4,-2
+1330,Kushala Cocoon α+,12,waist,both,2,0,0,156,174,194,0,2,-3,4,-2
+1331,Kushala Crus α+,12,legs,both,1,0,0,156,174,194,0,2,-3,4,-2
+1332,Kushala Glare β+,12,head,both,4,1,0,156,174,194,0,2,-3,4,-2
+1333,Kushala Cista β+,12,chest,both,4,2,0,156,174,194,0,2,-3,4,-2
+1334,Kushala Grip β+,12,arms,both,4,2,0,156,174,194,0,2,-3,4,-2
+1335,Kushala Cocoon β+,12,waist,both,4,1,0,156,174,194,0,2,-3,4,-2
+1336,Kushala Crus β+,12,legs,both,4,3,0,156,174,194,0,2,-3,4,-2
+1337,Kirin Horn α+,12,head,both,3,1,0,154,172,192,-3,-2,4,-2,2
+1338,Kirin Jacket α+,12,chest,both,3,2,0,154,172,192,-3,-2,4,-2,2
+1339,Kirin Longarms α+,12,arms,both,3,2,0,154,172,192,-3,-2,4,-2,2
+1340,Kirin Hoop α+,12,waist,both,2,0,0,154,172,192,-3,-2,4,-2,2
+1341,Kirin Leg Guards α+,12,legs,both,1,0,0,154,172,192,-3,-2,4,-2,2
+1342,Kirin Horn β+,12,head,both,4,1,1,154,172,192,-3,-2,4,-2,2
+1343,Kirin Jacket β+,12,chest,both,4,2,0,154,172,192,-3,-2,4,-2,2
+1344,Kirin Longarms β+,12,arms,both,4,2,2,154,172,192,-3,-2,4,-2,2
+1345,Kirin Hoop β+,12,waist,both,4,1,1,154,172,192,-3,-2,4,-2,2
+1346,Kirin Leg Guards β+,12,legs,both,4,0,0,154,172,192,-3,-2,4,-2,2
+1347,Tentacle Cowl α+,12,head,both,1,0,0,158,176,196,-3,4,3,0,-2
+1348,Tentacle Cloak α+,12,chest,both,2,2,0,158,176,196,-3,4,3,0,-2
+1349,Tentacle Gloves α+,12,arms,both,1,0,0,158,176,196,-3,4,3,0,-2
+1350,Tentacle Coil α+,12,waist,both,1,1,1,158,176,196,-3,4,3,0,-2
+1351,Tentacle Greaves α+,12,legs,both,2,1,0,158,176,196,-3,4,3,0,-2
+1352,Tentacle Cowl β+,12,head,both,4,0,0,158,176,196,-3,4,3,0,-2
+1353,Tentacle Cloak β+,12,chest,both,4,2,0,158,176,196,-3,4,3,0,-2
+1354,Tentacle Gloves β+,12,arms,both,4,0,0,158,176,196,-3,4,3,0,-2
+1355,Tentacle Coil β+,12,waist,both,4,1,1,158,176,196,-3,4,3,0,-2
+1356,Tentacle Greaves β+,12,legs,both,4,2,0,158,176,196,-3,4,3,0,-2
+1357,Guild Palace Helm α+,11,head,both,3,0,0,154,178,198,1,2,2,1,1
+1358,Guild Palace Mail α+,11,chest,both,1,1,0,154,178,198,1,2,2,1,1
+1359,Guild Palace Braces α+,11,arms,both,3,0,0,154,178,198,1,2,2,1,1
+1360,Guild Palace Coil α+,11,waist,both,1,1,0,154,178,198,1,2,2,1,1
+1361,Guild Palace Greaves α+,11,legs,both,2,0,0,154,178,198,1,2,2,1,1
+1362,Guild Palace Helm β+,11,head,both,4,2,0,154,178,198,1,2,2,1,1
+1363,Guild Palace Mail β+,11,chest,both,4,2,0,154,178,198,1,2,2,1,1
+1364,Guild Palace Braces β+,11,arms,both,4,1,0,154,178,198,1,2,2,1,1
+1365,Guild Palace Coil β+,11,waist,both,4,1,0,154,178,198,1,2,2,1,1
+1366,Guild Palace Greaves β+,11,legs,both,4,1,0,154,178,198,1,2,2,1,1
+1367,Shara Ishvalda Helm α+,12,head,both,3,1,0,162,180,200,0,-2,3,-3,0
+1368,Shara Ishvalda Mail α+,12,chest,both,3,2,0,162,180,200,0,-2,3,-3,0
+1369,Shara Ishvalda Braces α+,12,arms,both,1,0,0,162,180,200,0,-2,3,-3,0
+1370,Shara Ishvalda Coil α+,12,waist,both,3,2,0,162,180,200,0,-2,3,-3,0
+1371,Shara Ishvalda Greaves α+,12,legs,both,1,1,1,162,180,200,0,-2,3,-3,0
+1372,Shara Ishvalda Helm β+,12,head,both,4,2,0,162,180,200,0,-2,3,-3,0
+1373,Shara Ishvalda Mail β+,12,chest,both,4,2,0,162,180,200,0,-2,3,-3,0
+1374,Shara Ishvalda Braces β+,12,arms,both,4,0,0,162,180,200,0,-2,3,-3,0
+1375,Shara Ishvalda Coil β+,12,waist,both,4,3,0,162,180,200,0,-2,3,-3,0
+1376,Shara Ishvalda Greaves β+,12,legs,both,4,2,1,162,180,200,0,-2,3,-3,0
+1377,Zorah Headgear α+,12,head,both,2,2,0,160,178,198,4,-3,-1,-2,-3
+1378,Zorah Hide α+,12,chest,both,3,1,0,160,178,198,4,-3,-1,-2,-3
+1379,Zorah Claws α+,12,arms,both,1,1,0,160,178,198,4,-3,-1,-2,-3
+1380,Zorah Spine α+,12,waist,both,3,2,0,160,178,198,4,-3,-1,-2,-3
+1381,Zorah Spurs α+,12,legs,both,3,1,0,160,178,198,4,-3,-1,-2,-3
+1382,Zorah Headgear β+,12,head,both,4,2,1,160,178,198,4,-3,-1,-2,-3
+1383,Zorah Hide β+,12,chest,both,4,2,0,160,178,198,4,-3,-1,-2,-3
+1384,Zorah Claws β+,12,arms,both,4,1,0,160,178,198,4,-3,-1,-2,-3
+1385,Zorah Spine β+,12,waist,both,4,3,0,160,178,198,4,-3,-1,-2,-3
+1386,Zorah Spurs β+,12,legs,both,4,3,0,160,178,198,4,-3,-1,-2,-3
+1387,Garuga Helm α+,11,head,both,3,0,0,154,178,198,2,-3,2,-2,-2
+1388,Garuga Mail α+,11,chest,both,1,0,0,154,178,198,2,-3,2,-2,-2
+1389,Garuga Vambraces α+,11,arms,both,1,0,0,154,178,198,2,-3,2,-2,-2
+1390,Garuga Tassets α+,11,waist,both,1,1,0,154,178,198,2,-3,2,-2,-2
+1391,Garuga Greaves α+,11,legs,both,3,3,0,154,178,198,2,-3,2,-2,-2
+1392,Garuga Helm β+,11,head,both,4,2,0,154,178,198,2,-3,2,-2,-2
+1393,Garuga Mail β+,11,chest,both,4,0,0,154,178,198,2,-3,2,-2,-2
+1394,Garuga Vambraces β+,11,arms,both,4,0,0,154,178,198,2,-3,2,-2,-2
+1395,Garuga Tassets β+,11,waist,both,4,3,0,154,178,198,2,-3,2,-2,-2
+1396,Garuga Greaves β+,11,legs,both,4,2,2,154,178,198,2,-3,2,-2,-2
+1397,Zinogre Helm α+,11,head,both,1,0,0,158,182,202,-1,-1,4,-4,1
+1398,Zinogre Mail α+,11,chest,both,3,0,0,158,182,202,-1,-1,4,-4,1
+1399,Zinogre Braces α+,11,arms,both,2,1,0,158,182,202,-1,-1,4,-4,1
+1400,Zinogre Coil α+,11,waist,both,2,0,0,158,182,202,-1,-1,4,-4,1
+1401,Zinogre Greaves α+,11,legs,both,1,0,0,158,182,202,-1,-1,4,-4,1
+1402,Zinogre Helm β+,11,head,both,4,0,0,158,182,202,-1,-1,4,-4,1
+1403,Zinogre Mail β+,11,chest,both,4,0,0,158,182,202,-1,-1,4,-4,1
+1404,Zinogre Braces β+,11,arms,both,4,2,0,158,182,202,-1,-1,4,-4,1
+1405,Zinogre Coil β+,11,waist,both,4,2,0,158,182,202,-1,-1,4,-4,1
+1406,Zinogre Greaves β+,11,legs,both,4,1,0,158,182,202,-1,-1,4,-4,1
+1407,Golden Lunehelm α+,12,head,both,2,2,0,162,180,200,3,-2,-4,0,4
+1408,Golden Lunemail α+,12,chest,both,3,1,0,162,180,200,3,-2,-4,0,4
+1409,Golden Lunebraces α+,12,arms,both,2,0,0,162,180,200,3,-2,-4,0,4
+1410,Golden Lunecoil α+,12,waist,both,2,2,0,162,180,200,3,-2,-4,0,4
+1411,Golden Lunegreaves α+,12,legs,both,1,0,0,162,180,200,3,-2,-4,0,4
+1412,Golden Lunehelm β+,12,head,both,4,2,0,162,180,200,3,-2,-4,0,4
+1413,Golden Lunemail β+,12,chest,both,4,2,1,162,180,200,3,-2,-4,0,4
+1414,Golden Lunebraces β+,12,arms,both,4,2,0,162,180,200,3,-2,-4,0,4
+1415,Golden Lunecoil β+,12,waist,both,4,2,0,162,180,200,3,-2,-4,0,4
+1416,Golden Lunegreaves β+,12,legs,both,4,0,0,162,180,200,3,-2,-4,0,4
+1417,Silver Solhelm α+,12,head,both,2,2,0,164,182,202,4,-3,-2,-2,3
+1418,Silver Solmail α+,12,chest,both,1,0,0,164,182,202,4,-3,-2,-2,3
+1419,Silver Solbraces α+,12,arms,both,2,2,0,164,182,202,4,-3,-2,-2,3
+1420,Silver Solcoil α+,12,waist,both,1,1,0,164,182,202,4,-3,-2,-2,3
+1421,Silver Solgreaves α+,12,legs,both,3,2,0,164,182,202,4,-3,-2,-2,3
+1422,Silver Solhelm β+,12,head,both,4,3,0,164,182,202,4,-3,-2,-2,3
+1423,Silver Solmail β+,12,chest,both,4,0,0,164,182,202,4,-3,-2,-2,3
+1424,Silver Solbraces β+,12,arms,both,4,2,0,164,182,202,4,-3,-2,-2,3
+1425,Silver Solcoil β+,12,waist,both,4,1,0,164,182,202,4,-3,-2,-2,3
+1426,Silver Solgreaves β+,12,legs,both,4,2,1,164,182,202,4,-3,-2,-2,3
+1427,Empress Crown α+,12,head,both,3,0,0,164,182,202,3,1,1,-3,-2
+1428,Empress Mail α+,12,chest,both,2,0,0,164,182,202,3,1,1,-3,-2
+1429,Empress Vambraces α+,12,arms,both,2,1,0,164,182,202,3,1,1,-3,-2
+1430,Empress Coil α+,12,waist,both,2,2,0,164,182,202,3,1,1,-3,-2
+1431,Empress Greaves α+,12,legs,both,3,1,0,164,182,202,3,1,1,-3,-2
+1432,Empress Crown β+,12,head,both,4,2,0,164,182,202,3,1,1,-3,-2
+1433,Empress Mail β+,12,chest,both,4,1,0,164,182,202,3,1,1,-3,-2
+1434,Empress Vambraces β+,12,arms,both,4,1,0,164,182,202,3,1,1,-3,-2
+1435,Empress Coil β+,12,waist,both,4,2,0,164,182,202,3,1,1,-3,-2
+1436,Empress Greaves β+,12,legs,both,4,2,0,164,182,202,3,1,1,-3,-2
+1437,Ruinous Helm α+,12,head,both,3,1,0,166,184,204,1,1,-3,1,-3
+1438,Ruinous Mail α+,12,chest,both,2,2,0,166,184,204,1,1,-3,1,-3
+1439,Ruinous Vambraces α+,12,arms,both,3,0,0,166,184,204,1,1,-3,1,-3
+1440,Ruinous Coil α+,12,waist,both,2,1,0,166,184,204,1,1,-3,1,-3
+1441,Ruinous Greaves α+,12,legs,both,2,0,0,166,184,204,1,1,-3,1,-3
+1442,Ruinous Helm β+,12,head,both,4,2,0,166,184,204,1,1,-3,1,-3
+1443,Ruinous Mail β+,12,chest,both,4,2,0,166,184,204,1,1,-3,1,-3
+1444,Ruinous Vambraces β+,12,arms,both,4,1,0,166,184,204,1,1,-3,1,-3
+1445,Ruinous Coil β+,12,waist,both,4,1,0,166,184,204,1,1,-3,1,-3
+1446,Ruinous Greaves β+,12,legs,both,4,1,0,166,184,204,1,1,-3,1,-3
+1447,Guildwork Head α+,12,head,both,3,2,0,162,180,200,2,1,1,2,2
+1448,Guildwork Body α+,12,chest,both,3,1,1,162,180,200,2,1,1,2,2
+1449,Guildwork Braces α+,12,arms,both,3,2,0,162,180,200,2,1,1,2,2
+1450,Guildwork Waist α+,12,waist,both,3,2,0,162,180,200,2,1,1,2,2
+1451,Guildwork Feet α+,12,legs,both,2,1,0,162,180,200,2,1,1,2,2
+1452,Guildwork Head β+,12,head,both,4,3,0,162,180,200,2,1,1,2,2
+1453,Guildwork Body β+,12,chest,both,4,2,2,162,180,200,2,1,1,2,2
+1454,Guildwork Braces β+,12,arms,both,4,3,0,162,180,200,2,1,1,2,2
+1455,Guildwork Waist β+,12,waist,both,4,3,0,162,180,200,2,1,1,2,2
+1456,Guildwork Feet β+,12,legs,both,4,1,0,162,180,200,2,1,1,2,2
+1457,Oolong Hair α+,9,head,both,4,0,0,120,158,178,1,1,1,4,1
+1458,Oolong Vest α+,9,chest,both,4,0,0,120,158,178,1,1,1,4,1
+1459,Oolong Sleeves α+,9,arms,both,4,0,0,120,158,178,1,1,1,4,1
+1460,Oolong Waist α+,9,waist,both,1,1,0,120,158,178,1,1,1,4,1
+1461,Oolong Boots α+,9,legs,both,4,2,0,120,158,178,1,1,1,4,1
+1462,Astral Veil α+,9,head,both,4,0,0,140,178,198,2,2,2,2,2
+1463,Astral Cloth α+,9,chest,both,1,0,0,140,178,198,2,2,2,2,2
+1464,Astral Scarf α+,9,arms,both,4,1,1,140,178,198,2,2,2,2,2
+1465,Astral Skirt α+,9,waist,both,4,1,0,140,178,198,2,2,2,2,2
+1466,Astral Tights α+,9,legs,both,1,0,0,140,178,198,2,2,2,2,2
+1467,Pearlspring α+,9,head,both,2,1,0,120,158,178,0,0,0,5,0
+1468,Duffel Penguin Mask α+,9,head,both,4,0,0,138,176,196,-1,3,0,4,0
+1469,Sealed Dragon Cloth α+,12,head,both,4,4,0,152,170,190,-3,0,0,1,5
+1470,Wyverian Ears α+,9,head,both,4,0,0,140,178,198,1,1,1,1,5

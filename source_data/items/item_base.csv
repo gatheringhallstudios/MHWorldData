@@ -164,6 +164,11 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 134,Heavy Armor Sphere,material,,8,,600,,,Sphere,Red
 1220,King Armor Sphere,material,,9,,700,,,Sphere,Gold
 1221,True Armor Sphere,material,,10,,800,,,Sphere,Cyan
+1275,Dracolite Shard,material,,8,,100,,,Question,DarkRed
+1276,Dracolite,material,,9,,200,,,Question,DarkRed
+1277,Large Dracolite,material,,10,,300,,,Question,DarkRed
+1278,Rigid Dracolite,material,,11,,400,,,Question,DarkRed
+1279,Pure Dracolite,material,,12,,500,,,Question,DarkRed
 144,Great Hornfly,material,,5,,200,,,Bug,Gold
 145,Sinister Cloth,material,,5,,350,,,Question,Gray
 785,Ancient Fragment,material,,9,,540,,,Question,Gray
@@ -646,6 +651,14 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 926,Zinogre Deathly Shocker,material,,9,,7620,,,Carapace,Cyan
 927,Fulgurbug,material,,10,,4600,,,Bug,Blue
 928,Zinogre Skymerald,material,,11,,18000,,,Mantle,Cyan
+1241,Stygian Zinogre Cortex,material,,9,,6630,,,Carapace,Gray
+1242,Stygian Zinogre Dragonlocks,material,,9,,4330,,,Body,Gray
+1243,Stygian Zinogre Hardhorn,material,,9,,9190,,,Fang,Gray
+1244,Stygian Zinogre Hardclaw,material,,9,,8930,,,Fang,Gray
+1245,Stygian Zinogre Lash,material,,9,,9450,,,Tail,Gray
+1246,Stygian Zinogre Dragonhold,material,,9,,9060,,,Carapace,Gray
+1247,Dracophage Bug,material,,10,,5520,,,Bug,Gray
+1248,Stygian Zinogre Skymerald,material,,11,,21000,,,Mantle,Gray
 397,Bazelgeuse Scale+,material,,6,,1600,,,Scale,White
 929,Bazelgeuse Shard,material,,11,,4220,,,Scale,White
 398,Bazelgeuse Carapace,material,,6,,2400,,,Carapace,White
@@ -788,6 +801,14 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 455,Xeno'jiiva Claw,material,,7,,5300,,,Fang,White
 456,Xeno'jiiva Wing,material,,7,,5000,,,Wing,White
 457,Xeno'jiiva Gem,material,,8,,15000,,,Gem,White
+1250,Safi'jiiva Shard,material,,11,,4900,,,Scale,Red
+1251,Safi'jiiva Cortex,material,,11,,7600,,,Carapace,Red
+1252,Pulsing Dragonshell,material,,11,,8100,,,Body,Red
+1253,Safi'jiiva Lash,material,,11,,11800,,,Tail,Red
+1254,Safi'jiiva Hardhorn,material,,11,,11300,,,Fang,Red
+1255,Safi'jiiva Hardclaw,material,,11,,10800,,,Fang,Red
+1256,Safi'jiiva Fellwing,material,,11,,10300,,,Wing,Red
+1257,Zionium Crystal,material,,12,,24000,,,Mantle,Red
 458,Kulve Taroth Golden Scale,material,,7,,3000,,,Scale,Gold
 459,Kulve Taroth Golden Shell,material,,7,,4000,,,Carapace,Gold
 460,Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold
@@ -854,6 +875,10 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1080,Magma Crystal,material,,9,,1200,,,Ore,Red
 1081,Hellfire Crystal,material,,10,,1600,,,Ore,Red
 1082,Guiding Magma Crystal,material,,11,,2000,,,Ore,Red
+1258,Frozen Crystal,material,,9,,800,,,Ore,White
+1259,Rime Crystal,material,,9,,1200,,,Ore,White
+1260,Daybreak Crystal,material,,10,,1600,,,Ore,White
+1261,Guiding Rime Crystal,material,,11,,2000,,,Ore,White
 1009,Mossy Greatbone,material,,9,,800,,,Bone,Green
 1010,Woodland Greatbone,material,,9,,1200,,,Bone,Green
 1045,Slumbering Greatbone,material,,10,,1600,,,Bone,Green
@@ -874,6 +899,10 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1086,Volcanic Wildbone,material,,9,,1200,,,Bone,Red
 1087,Dragonscorched Wildbone,material,,10,,1600,,,Bone,Red
 1088,Guiding Volcanic Dragonbone,material,,11,,2000,,,Bone,Red
+1262,Hoary Icebone,material,,9,,800,,,Bone,Blue
+1263,Tundra Icebone,material,,9,,1200,,,Bone,Blue
+1264,Everfrost Icebone,material,,10,,1600,,,Bone,Blue
+1265,Guiding Tundra Dragonbone,material,,11,,2000,,,Bone,Blue
 1021,Fierce Dragonvein Bone,material,,9,,2000,,,Bone,DarkRed
 1022,Heavy Dragonvein Bone,material,,9,,2500,,,Bone,Gray
 1023,Dragonvein Solidbone,material,,10,,3000,,,Bone,Beige
@@ -894,6 +923,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1100,Tempered Crown,material,,9,,4000,,,Jaw,Beige
 1101,Blinding Cathode,material,,9,,2000,,,Body,Cyan
 1102,Tempered Cathode,material,,9,,4000,,,Body,Cyan
+1266,Enticing Viperthorn,material,,9,,2500,,,Body,Orange
+1267,Tempered Viperthorn,material,,9,,4500,,,Body,Orange
 1103,Ancient Great Horn,material,,9,,2000,,,Fang,LightBeige
 1104,Tempered Great Horn,material,,9,,4000,,,Fang,LightBeige
 1105,Flickering Flamepelt,material,,9,,2500,,,Hide,Pink
@@ -917,10 +948,14 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1121,Tempered Magmafin,material,,10,,5000,,,Body,Gray
 1122,Metallic Scute,material,,10,,3000,,,Body,Gold
 1123,Tempered Scute,material,,10,,5000,,,Body,Gold
+1281,Coldblooded Icefang,material,,10,,3000,,,,
+1280,Tempered Icefang,material,,10,,5000,,,,
 1124,Sinister Silverpelt,material,,10,,4500,,,Body,White
 1125,Tempered Silverpelt,material,,10,,6500,,,Body,White
 1126,Smooth Icehide,material,,10,,3000,,,Hide,Blue
 1127,Tempered Icehide,material,,10,,5000,,,Hide,Blue
+1268,Crystal Frozenhide,material,,10,,3500,,,Hide,White
+1269,Tempered Frosthide,material,,10,,5500,,,Hide,White
 1128,Fatal Rendclaw,material,,10,,3000,,,Fang,DarkRed
 1129,Tempered Rendclaw,material,,10,,5000,,,Fang,DarkRed
 1130,Soulrender Talon,material,,10,,3500,,,Fang,White
@@ -966,10 +1001,13 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1167,Enchanting Finehide,material,,11,,4000,,,Hide,Violet
 1168,Tempered Trancehide,material,,11,,6000,,,Fang,Gray
 1169,Extinction Greathorn,material,,11,,6500,,,Fang,Gray
+1270,Annihilating Temperhorn,material,,11,,9000,,,Fang,Gray
 1170,Moonlight Scale,material,,11,,6500,,,Scale,Gold
 1271,Tempered Gold Scale,material,,11,,9000,,,Scale,Gold
 1171,Scorching Scale,material,,11,,6500,,,Scale,Gray
 1172,Tempered Silver Scale,material,,11,,9000,,,Scale,Gray
+1272,Gushing Dragonhold,material,,11,,4500,,,Carapace,Gray
+1273,Tempered Dragonhold,material,,11,,6500,,,Carapace,Gray
 1173,Bloodthirsty Glimmerpelt,material,,11,,4500,,,Body,Gold
 1174,Tempered Glimmerpelt,material,,11,,6500,,,Body,Gold
 487,Voucher,material,,4,,500,,,Voucher,Gray
@@ -1067,49 +1105,12 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1042,Black Belt Coin,material,,9,,1500,,,Coin,Gray
 1043,Hero King Coin,material,,10,,2000,,,Coin,Gold
 1044,Tigrex Coin,material,,11,,5000,,,Coin,DarkBeige
-1275,Dracolite Shard,material,,8,,,,,Question,DarkRed
-1276,Dracolite,material,,9,,,,,Question,DarkRed
-1277,Large Dracolite,material,,10,,,,,Question,DarkRed
-1278,Rigid Dracolite,material,,11,,,,,Question,DarkRed
-1279,Pure Dracolite,material,,12,,,,,Question,DarkRed
-1241,Stygian Zinogre Cortex,material,,9,,6630,,,Carapace,Gray
-1242,Stygian Zinogre Dragonlocks,material,,9,,4330,,,Body,Gray
-1243,Stygian Zinogre Hardhorn,material,,9,,9190,,,Fang,Gray
-1244,Stygian Zinogre Hardclaw,material,,9,,8930,,,Fang,Gray
-1245,Stygian Zinogre Lash,material,,9,,9450,,,Tail,Gray
-1246,Stygian Zinogre Dragonhold,material,,9,,9060,,,Carapace,Gray
-1247,Dracophage Bug,material,,11,,5520,,,Bug,Gray
-1248,Stygian Zinogre Skymerald,material,,10,,21000,,,Mantle,Gray
-1250,Safi'jiiva Shard,material,,11,,4900,,,Scale,Red
-1251,Safi'jiiva Cortex,material,,11,,7600,,,Carapace,Red
-1252,Pulsing Dragonshell,material,,11,,8100,,,Body,Red
-1253,Safi'jiiva Lash,material,,11,,11800,,,Tail,Red
-1254,Safi'jiiva Hardhorn,material,,11,,11300,,,Fang,Red
-1255,Safi'jiiva Hardclaw,material,,11,,10800,,,Fang,Red
-1256,Safi'jiiva Fellwing,material,,11,,10300,,,Wing,Red
-1257,Zionium Crystal,material,,12,,24000,,,Mantle,Red
-1258,Frozen Crystal,material,,9,,800,,,Ore,White
-1259,Rime Crystal,material,,9,,1200,,,Ore,White
-1260,Daybreak Crystal,material,,10,,1600,,,Ore,White
-1261,Guiding Rime Crystal,material,,11,,2000,,,Ore,White
-1262,Hoary Icebone,material,,9,,800,,,Bone,Blue
-1263,Tundra Icebone,material,,9,,1200,,,Bone,Blue
-1264,Everfrost Icebone,material,,10,,1600,,,Bone,Blue
-1265,Guiding Tundra Dragonbone,material,,11,,2000,,,Bone,Blue
-1266,Enticing Viperthorn,material,,9,,2500,,,Body,Orange
-1267,Tempered Viperthorn,material,,9,,4500,,,Body,Orange
-1268,Crystal Frozenhide,material,,10,,3500,,,Hide,White
-1269,Tempered Frosthide,material,,10,,5500,,,Hide,White
-1270,Annihilating Temperhorn,material,,11,,9000,,,Fang,Gray
-1272,Gushing Dragonhold,material,,11,,4500,,,Carapace,Gray
-1273,Tempered Dragonhold,material,,11,,6500,,,Carapace,Gray
+1274,Dragonforce Chunk,material,,12,,1000,,,Question,Red
 532,Watcher Lens,material,,,,,,,Question,Gray
 533,Nora Brave Trophy,material,,,,,,,Bone,Gold
 534,SFV Ticket,material,,4,,200,,,Voucher,White
 535,SFV Ticket III,material,,6,,400,,,Voucher,Blue
 536,SFV Ticket II,material,,6,,400,,,Voucher,Red
-1281,Tempered Icefang,material,,,,,,,,
-1282,Coldblooded Icefang,material,,,,,,,,
 537,Steel Egg,material,trade,4,,1000,,,Egg,Gray
 538,Silver Egg,material,trade,4,,10000,,,Egg,White
 539,Golden Egg,material,trade,4,,20000,,,Egg,Gold
@@ -1195,7 +1196,6 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 660,Melded Weapon,misc,appraisal,5,,,,,Question,White
 661,Sublimated Weapon,misc,appraisal,6,,,,,Question,Gold
 662,Incandescent Weapon,misc,appraisal,7,,,,,Question,Red
-1274,Dragonforce Chunk,misc,appraisal,12,,,,,Question,Red
 605,White Liver,misc,account,2,,,,40,Meat,White
 606,Wyvern Tear,misc,account,3,,,,200,Body,Blue
 607,Large Wyvern Tear,misc,account,5,,,,500,Body,Blue
@@ -1254,7 +1254,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1205,Crystalized Bone Shard,misc,account,9,,,,100,Bone,Cyan
 1206,Crystalized Monster Bone,misc,account,10,,,,250,Bone,Gold
 1207,Crystalized Elder Dragon Bone,misc,account,11,,,,700,Bone,Violet
-1280,Large Beast Tear,misc,account,5,,,,500,Body,Cyan
+1249,Large Beast Tear,misc,account,5,,,,500,Body,Cyan
 638,First-aid Med,misc,supply,1,,,10,,Liquid,Green
 639,First-aid Med+,misc,supply,2,,,10,,Liquid,Green
 640,EZ Ration,misc,supply,1,,,10,,Meat,DarkBeige
