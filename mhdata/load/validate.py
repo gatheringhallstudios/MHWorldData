@@ -85,12 +85,6 @@ def validate_monster_rewards(mhdata):
     Certain fields (like carve) sum to 100, 
     Others (like quest rewards) must be at least 100%"""
 
-    # Those other than these are validated for 100% drop rate EXACT.
-    # Quest rewards sometimes contain a guaranteed reward.
-    # We should probably separate, but most databases don't separate them.
-    # Investigate further
-    uncapped_conditions = ("Quest Reward (Bronze)")
-
     errors = set()
     
     for monster_id, entry in mhdata.monster_map.items():
@@ -135,18 +129,17 @@ def validate_monster_rewards(mhdata):
                     f" - entries for ({rank}, {condition}) must all be blank or must all have a percentage.")
                 continue
 
-            percentage_sum = sum((int(r['percentage']) for r in items), 0)
+            percentages = [int(r['percentage']) for r in items]
+            if percentages == [100]:
+                percentage_sum = 100 
+            else:
+                percentage_sum = sum((p for p in percentages if p != 100), 0)
 
             key_str = f"(rank {rank} condition {condition})"
             error_start = f"Rewards %'s for monster {monster_name} {key_str}"
-            if condition not in uncapped_conditions:
-                ensure_warn(
-                    percentage_sum == 100, 
-                    f"{error_start} does not sum to 100")
-            else:
-                ensure_warn(
-                    percentage_sum >= 100, 
-                    f"{error_start} does not sum to at least 100")
+            ensure_warn(
+                percentage_sum == 100, 
+                f"{error_start} does not sum to 100")
 
     return errors
 

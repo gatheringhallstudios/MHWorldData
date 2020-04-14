@@ -1100,7 +1100,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1267,Tempered Viperthorn,material,,9,,4500,,,Body,Orange
 1268,Crystal Frozenhide,material,,10,,3500,,,Hide,White
 1269,Tempered Frosthide,material,,10,,5500,,,Hide,White
-1270,Annihilating Temperhorm,material,,11,,9000,,,Fang,Gray
+1270,Annihilating Temperhorn,material,,11,,9000,,,Fang,Gray
 1272,Gushing Dragonhold,material,,11,,4500,,,Carapace,Gray
 1273,Tempered Dragonhold,material,,11,,6500,,,Carapace,Gray
 532,Watcher Lens,material,,,,,,,Question,Gray
@@ -1108,6 +1108,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 534,SFV Ticket,material,,4,,200,,,Voucher,White
 535,SFV Ticket III,material,,6,,400,,,Voucher,Blue
 536,SFV Ticket II,material,,6,,400,,,Voucher,Red
+1281,Tempered Icefang,material,,,,,,,,
+1282,Coldblooded Icefang,material,,,,,,,,
 537,Steel Egg,material,trade,4,,1000,,,Egg,Gray
 538,Silver Egg,material,trade,4,,10000,,,Egg,White
 539,Golden Egg,material,trade,4,,20000,,,Egg,Gold
@@ -1252,6 +1254,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1205,Crystalized Bone Shard,misc,account,9,,,,100,Bone,Cyan
 1206,Crystalized Monster Bone,misc,account,10,,,,250,Bone,Gold
 1207,Crystalized Elder Dragon Bone,misc,account,11,,,,700,Bone,Violet
+1280,Large Beast Tear,misc,account,5,,,,500,Body,Cyan
 638,First-aid Med,misc,supply,1,,,10,,Liquid,Green
 639,First-aid Med+,misc,supply,2,,,10,,Liquid,Green
 640,EZ Ration,misc,supply,1,,,10,,Meat,DarkBeige
