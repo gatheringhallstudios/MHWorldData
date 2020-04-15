@@ -238,6 +238,7 @@ Fury Charm I,Create,Black Spiral Horn+,1,Diablos Ridge+,2,Firecell Stone,1,Spiri
 Fury Charm II,Upgrade,Nergigante Gem,1,Xeno'jiiva Soulscale,6,Firecell Stone,1,Dreamcore Ore,1
 Fury Charm III,Upgrade,Blackcurl Temperhorn,3,Guiding Effluvial Crystal,1,Spiritvein Slogbone,4,Phantomcore Ore,1
 Fury Charm IV,Upgrade,Spattered Hide,3,Shuddering Darkjaw,3,Great Spiritvein Gem,1,Shadowcore Ore,1
+Fury Charm V,Upgrade,Immortal Reactor,1,Garuga Auricle,3,Great Spiritvein Gem,1,Shadowcore Ore,1
 Grit Charm I,Create,Blos Medulla,1,Diablos Ridge+,2,Firecell Stone,1,Spiritcore Ore,1
 Grit Charm II,Upgrade,Daora Gem,1,Daora Tail,2,Dragonvein Crystal,3,Dreamcore Ore,1
 Grit Charm III,Upgrade,Rathian Mantle,1,Tempered Green Scale,3,Spiritvein Slogbone,4,Phantomcore Ore,1
@@ -249,14 +250,17 @@ Power Charm I,Create,Teostra Horn+,3,Teostra Mane,2,Novacrystal,1,Dreamcore Ore,
 Power Charm II,Upgrade,Teostra Gem,1,Teostra Horn+,2,Firecell Stone,1,Dragoncore Ore,1
 Power Charm III,Upgrade,Zinogre Skymerald,1,Tempered Shocker,3,Spiritvein Solidbone,4,Phantomcore Ore,1
 Power Charm IV,Upgrade,Tempered Crimson Mane,3,Tempered Flamepelt,3,Great Spiritvein Gem,1,Shadowcore Ore,1
+Power Charm V,Upgrade,Rajang Heart,1,Zinogre Skymerald,1,Great Spiritvein Gem,1,Shadowcore Ore,1
 Challenger Charm I,Create,Nergigante Gem,1,Nergigante Horn+,2,Novacrystal,1,Dreamcore Ore,1
 Challenger Charm II,Upgrade,Nergigante Gem,1,Nergigante Talon,2,Fucium Ore,1,Dragoncore Ore,1
 Challenger Charm III,Upgrade,Brachydios Pallium,1,Blackcurl Temperhorn,3,Spiritvein Solidbone,4,Phantomcore Ore,1
 Challenger Charm IV,Upgrade,Tempered Azure Mane,3,Twisted Bravehorn,3,Great Spiritvein Gem,1,Shadowcore Ore,1
+Challenger Charm V,Upgrade,Immortal Reactor,1,Annihilating Greathorn,1,Great Spiritvein Gem,1,Shadowcore Ore,1
 Unscathed Charm I,Create,Vaal Hazak Gem,1,Vaal Hazak Fang+,2,Novacrystal,1,Dreamcore Ore,1
 Unscathed Charm II,Upgrade,Vaal Hazak Gem,1,Vaal Hazak Talon,2,Fucium Ore,1,Dragoncore Ore,1
 Mighty Charm I,Create,Nergigante Gem,1,Nergigante Horn+,2,Novacrystal,1,Dreamcore Ore,1
 Mighty Charm II,Upgrade,Xeno'jiiva Gem,1,Xeno'jiiva Tail,2,Novacrystal,1,Dragoncore Ore,1
+Mighty Charm III,Upgrade,Rajang Heart,1,Glavenus Mantle,1,Great Spiritvein Gem,1,Shadowcore Ore,1
 Impact Charm I,Create,Xeno'jiiva Gem,1,Xeno'jiiva Horn,2,Firecell Stone,1,Dreamcore Ore,1
 Impact Charm II,Upgrade,Daora Gem,1,Xeno'jiiva Shell,5,Elder Dragon Bone,2,Dragoncore Ore,1
 Impact Charm III,Upgrade,Elder Dragonvein Bone,3,Serene Crystal,4,Tempered Cragbone,4,Phantomcore Ore,1

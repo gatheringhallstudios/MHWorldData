@@ -1455,6 +1455,56 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1454,Guildwork Braces β+,12,arms,both,4,3,0,162,180,200,2,1,1,2,2
 1455,Guildwork Waist β+,12,waist,both,4,3,0,162,180,200,2,1,1,2,2
 1456,Guildwork Feet β+,12,legs,both,4,1,0,162,180,200,2,1,1,2,2
+1471,Golden Headdress α+,11,head,both,0,0,0,158,182,202,2,0,3,-5,2
+1472,Golden Haori α+,11,chest,both,3,1,0,158,182,202,2,0,3,-5,2
+1473,Golden Kote α+,11,arms,both,2,0,0,158,182,202,2,0,3,-5,2
+1474,Golden Obi α+,11,waist,both,3,1,0,158,182,202,2,0,3,-5,2
+1475,Golden Hakama α+,11,legs,both,2,2,0,158,182,202,2,0,3,-5,2
+1476,Golden Headdress β+,11,head,both,4,1,0,158,182,202,2,0,3,-5,2
+1477,Golden Haori β+,11,chest,both,4,1,1,158,182,202,2,0,3,-5,2
+1478,Golden Kote β+,11,arms,both,4,3,0,158,182,202,2,0,3,-5,2
+1479,Golden Obi β+,11,waist,both,4,3,0,158,182,202,2,0,3,-5,2
+1480,Golden Hakama β+,11,legs,both,4,2,0,158,182,202,2,0,3,-5,2
+1481,Grand God's Peer Mask α+,12,head,both,0,0,0,170,188,208,2,0,3,-5,2
+1482,Grand God's Peer Garb α+,12,chest,both,1,0,0,170,188,208,2,0,3,-5,2
+1483,Grand God's Peer Arms α+,12,arms,both,2,2,0,170,188,208,2,0,3,-5,2
+1484,Grand God's Peer Belt α+,12,waist,both,1,1,1,170,188,208,2,0,3,-5,2
+1485,Grand God's Peer Feet α+,12,legs,both,2,2,0,170,188,208,2,0,3,-5,2
+1486,Grand God's Peer Mask β+,12,head,both,4,0,0,170,188,208,2,0,3,-5,2
+1487,Grand God's Peer Garb β+,12,chest,both,4,2,0,170,188,208,2,0,3,-5,2
+1488,Grand God's Peer Arms β+,12,arms,both,4,2,1,170,188,208,2,0,3,-5,2
+1489,Grand God's Peer Belt β+,12,waist,both,4,2,1,170,188,208,2,0,3,-5,2
+1490,Grand God's Peer Feet β+,12,legs,both,4,4,0,170,188,208,2,0,3,-5,2
+1491,Stygian Helm α+,11,head,both,2,1,0,160,184,204,2,-4,-5,0,4
+1492,Stygian Mail α+,11,chest,both,2,0,0,160,184,204,2,-4,-5,0,4
+1493,Stygian Vambraces α+,11,arms,both,2,0,0,160,184,204,2,-4,-5,0,4
+1494,Stygian Coil α+,11,waist,both,1,1,1,160,184,204,2,-4,-5,0,4
+1495,Stygian Greaves α+,11,legs,both,1,1,0,160,184,204,2,-4,-5,0,4
+1496,Stygian Helm β+,11,head,both,4,1,0,160,184,204,2,-4,-5,0,4
+1497,Stygian Mail β+,11,chest,both,4,0,0,160,184,204,2,-4,-5,0,4
+1498,Stygian Vambraces β+,11,arms,both,4,3,0,160,184,204,2,-4,-5,0,4
+1499,Stygian Coil β+,11,waist,both,4,1,1,160,184,204,2,-4,-5,0,4
+1500,Stygian Greaves β+,11,legs,both,4,1,0,160,184,204,2,-4,-5,0,4
+1501,Safi Crested Crown α+,12,head,both,2,1,1,168,186,206,2,1,1,1,-1
+1502,Safi Crested Chest α+,12,chest,both,3,2,0,168,186,206,2,1,1,1,-1
+1503,Safi Crested Vambraces α+,12,arms,both,2,2,2,168,186,206,2,1,1,1,-1
+1504,Safi Crested Belt α+,12,waist,both,3,0,0,168,186,206,2,1,1,1,-1
+1505,Safi Crested Boots α+,12,legs,both,3,2,1,168,186,206,2,1,1,1,-1
+1506,Safi Crested Crown β+,12,head,both,4,1,1,168,186,206,2,1,1,1,-1
+1507,Safi Crested Chest β+,12,chest,both,4,2,0,168,186,206,2,1,1,1,-1
+1508,Safi Crested Vambraces β+,12,arms,both,4,2,2,168,186,206,2,1,1,1,-1
+1509,Safi Crested Belt β+,12,waist,both,4,1,0,168,186,206,2,1,1,1,-1
+1510,Safi Crested Boots β+,12,legs,both,4,2,1,168,186,206,2,1,1,1,-1
+1511,Brachydium Helm α+,12,head,both,2,2,1,170,188,208,3,-2,1,-3,1
+1512,Brachydium Mail α+,12,chest,both,2,1,1,170,188,208,3,-2,1,-3,1
+1513,Brachydium Braces α+,12,arms,both,2,2,0,170,188,208,3,-2,1,-3,1
+1514,Brachydium Faulds α+,12,waist,both,3,0,0,170,188,208,3,-2,1,-3,1
+1515,Brachydium Greaves α+,12,legs,both,3,1,0,170,188,208,3,-2,1,-3,1
+1516,Brachydium Helm β+,12,head,both,4,4,1,170,188,208,3,-2,1,-3,1
+1517,Brachydium Mail β+,12,chest,both,4,2,1,170,188,208,3,-2,1,-3,1
+1518,Brachydium Braces β+,12,arms,both,4,4,0,170,188,208,3,-2,1,-3,1
+1519,Brachydium Faulds β+,12,waist,both,4,1,0,170,188,208,3,-2,1,-3,1
+1520,Brachydium Greaves β+,12,legs,both,4,1,1,170,188,208,3,-2,1,-3,1
 1457,Oolong Hair α+,9,head,both,4,0,0,120,158,178,1,1,1,4,1
 1458,Oolong Vest α+,9,chest,both,4,0,0,120,158,178,1,1,1,4,1
 1459,Oolong Sleeves α+,9,arms,both,4,0,0,120,158,178,1,1,1,4,1
@@ -1465,6 +1515,11 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1464,Astral Scarf α+,9,arms,both,4,1,1,140,178,198,2,2,2,2,2
 1465,Astral Skirt α+,9,waist,both,4,1,0,140,178,198,2,2,2,2,2
 1466,Astral Tights α+,9,legs,both,1,0,0,140,178,198,2,2,2,2,2
+1521,Rose Headpiece α+,10,head,both,3,2,1,150,182,202,4,1,1,1,1
+1522,Rose Jacket α+,10,chest,both,4,0,0,150,182,202,4,1,1,1,1
+1523,Rose Arms α+,10,arms,both,4,0,0,150,182,202,4,1,1,1,1
+1524,Rose Belt α+,10,waist,both,4,1,0,150,182,202,4,1,1,1,1
+1525,Rose Boots α+,10,legs,both,4,1,0,150,182,202,4,1,1,1,1
 1467,Pearlspring α+,9,head,both,2,1,0,120,158,178,0,0,0,5,0
 1468,Duffel Penguin Mask α+,9,head,both,4,0,0,138,176,196,-1,3,0,4,0
 1469,Sealed Dragon Cloth α+,12,head,both,4,4,0,152,170,190,-3,0,0,1,5

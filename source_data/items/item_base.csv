@@ -635,6 +635,11 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 910,Brachydios Pounder+,material,,10,,6100,,,Body,DarkBlue
 911,Brachydios Lash,material,,10,,6250,,,Tail,DarkBlue
 912,Brachydios Pallium,material,,11,,15000,,,Mantle,DarkBlue
+1282,Indestructible Ebonshell,material,,11,,7800,,,,
+1283,Brach Warhead,material,,11,,10600,,,,
+1284,Flashpoint Slime,material,,11,,7900,,,,
+1285,Brach Obliterator,material,,11,,10900,,,,
+1286,Immortal Reactor,material,,12,,24000,,,,
 913,Garuga Shard,material,,10,,3620,,,Scale,Violet
 914,Garuga Cortex,material,,10,,5520,,,Carapace,Violet
 915,Garuga Auricle,material,,10,,5920,,,Body,Violet
@@ -694,6 +699,9 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1072,Rajang Hardclaw,material,,11,,9180,,,Fang,Gray
 1073,Rajang Tail,material,,11,,9750,,,Tail,Gold
 1074,Gold Rajang Pelt+,material,,11,,21000,,,Body,Gold
+1287,Rajang Apoplexy,material,,11,,7800,,,,
+1288,Ghoulish Gold Gorer,material,,11,,10900,,,,
+1289,Rajang Heart,material,,12,,24000,,,,
 368,Kirin Hide,material,,4,,750,,,Hide,White
 372,Kirin Hide+,material,,7,,1630,,,Hide,White
 943,Kirin Finehide,material,,11,,4300,,,Hide,White
@@ -1071,6 +1079,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1175,VIP Joyful Ticket,material,,12,,10000,,,Voucher,Orange
 1031,Gratitude Ticket,material,,9,,400,,,Voucher,Blue
 1176,VIP Gratitude Ticket,material,,12,,10000,,,Voucher,Blue
+1290,Full Bloom Ticket,material,,9,,400,,,,
 1050,Freezer Ticket,material,,9,,500,,,Voucher,Blue
 1032,Pearlspring Ticket,material,,9,,500,,,Voucher,White
 1177,Black Eagle Blueprint,material,,10,,800,,,Voucher,Blue
