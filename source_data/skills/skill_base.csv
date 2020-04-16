@@ -52,7 +52,7 @@ Airborne,Blue,,
 Latent Power,Red,2,
 Agitator,Red,2,
 Peak Performance,Red,,
-Heroics,Red,,
+Heroics,Red,2,
 Fortify,DarkRed,,
 Resentment,DarkRed,,
 Resuscitate,Cyan,,
@@ -143,6 +143,8 @@ Element Acceleration,,,
 True Element Acceleration,,,
 Gaia's Veil,,,
 True Gaia's Veil,,,
+Dragonvein Awakening,,,
+True Dragonvein Awakening,,,
 Free Meal Secret,,,Free Meal
 Maximum Might Secret,,,Maximum Might
 Bombardier Secret,,,Bombardier
@@ -154,9 +156,12 @@ Tool Specialist Secret,,,Tool Specialist
 Latent Power Secret,,,Latent Power
 Divine Blessing Secret,,,Divine Blessing
 Slinger Ammo Secret,,,Slinger Capacity
+Heroics Secret,,,Heroics
 True Critical Status,,,
 True Critical Element,,,
 Joy's Gift,,,
 Joy's Gratitude,,,
 Gratitude's Gift,,,
 Gratitude's Blessing,,,
+Full Bloom's Gift,,,
+Full Bloom Gratitude,,,
