@@ -1093,6 +1093,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1052,Fest Ticket,material,,10,,800,,,Voucher,Gold
 1053,Unity Symbol,material,,10,,800,,,Voucher,Red
 1054,Meaty Canteen Ticket,material,,10,,800,,,Voucher,DarkBeige
+1291,Whetfish Ticket,material,,10,,800,,,,
 498,Pukei Coin,material,,4,,500,,,Coin,Lime
 499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
 500,Rathian Coin,material,,4,,500,,,Coin,Green

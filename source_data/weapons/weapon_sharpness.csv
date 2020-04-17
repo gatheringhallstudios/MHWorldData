@@ -174,6 +174,12 @@ Empress Galea,great-sword,FALSE,110,30,60,80,40,80,0
 Frozen Speartuna,great-sword,FALSE,110,30,30,110,40,80,0
 Freezer Speartuna,great-sword,FALSE,90,30,30,110,40,100,0
 Xiphias Gladius,great-sword,FALSE,70,30,30,110,40,120,0
+Demon Rod,great-sword,FALSE,110,100,40,50,50,50,0
+Great Demon Rod,great-sword,FALSE,100,100,40,50,60,50,0
+Demonlord Goldrod,great-sword,FALSE,120,20,20,70,40,30,100
+Infernal Executioner,great-sword,FALSE,150,20,20,70,40,30,70
+Infernal Executioner+,great-sword,FALSE,130,20,20,70,40,30,90
+Lightbreak Blade,great-sword,TRUE,150,30,90,30,30,50,20
 Guild Palace Blade,great-sword,FALSE,150,30,30,60,50,50,30
 Royal Venus Blade,great-sword,FALSE,150,30,30,60,50,30,50
 Defender Katana I,long-sword,FALSE,30,60,20,140,0,0,0
@@ -343,6 +349,12 @@ Empress Sword,long-sword,FALSE,110,30,60,80,40,80,0
 "Soulfire Lash ""Ruin""",long-sword,FALSE,120,30,90,30,30,80,20
 "Empress Sword ""Styx""",long-sword,FALSE,110,30,60,80,40,80,0
 "Soulfire Lash ""Styx""",long-sword,FALSE,120,30,90,30,30,80,20
+Demon Halberd,long-sword,FALSE,110,100,40,50,50,50,0
+Great Demon Halberd,long-sword,FALSE,100,100,40,50,60,50,0
+Demonlord Halberd,long-sword,FALSE,120,20,20,70,40,30,100
+Brimstren Drakebone,long-sword,FALSE,150,20,20,70,40,30,70
+Stygian Gula,long-sword,FALSE,130,20,20,70,40,30,90
+Lightbreak Edge,long-sword,TRUE,150,30,90,30,30,50,20
 Mad Scavenger Pickaxe,long-sword,FALSE,110,30,30,110,40,80,0
 Demon Scavenger Pickaxe,long-sword,FALSE,90,30,30,110,40,100,0
 Guild Palace Rapier,long-sword,FALSE,150,30,30,60,50,50,30
@@ -365,7 +377,7 @@ Chrome Knight Sword II,sword-and-shield,FALSE,70,80,30,30,80,110,0
 Chrome Knight Sword III,sword-and-shield,FALSE,110,30,30,60,50,90,30
 Nergal Jack,sword-and-shield,TRUE,110,120,40,50,80,0,0
 Eradication Vanguard,sword-and-shield,TRUE,90,120,40,50,100,0,0
-Ruinous Eradication,sword-and-shield,TRUE,70,30,30,110,40,120,0
+Ruinous Madness,sword-and-shield,TRUE,70,30,30,110,40,120,0
 Flame Knife I,sword-and-shield,FALSE,60,50,80,110,0,0,0
 Flame Knife II,sword-and-shield,FALSE,100,50,80,100,20,0,0
 Heat Edge,sword-and-shield,FALSE,90,50,50,80,80,0,0
@@ -526,6 +538,12 @@ Empress Edge,sword-and-shield,FALSE,90,30,60,80,40,100,0
 Witcher's Silver Sword,sword-and-shield,TRUE,250,20,20,20,30,60,0
 Witcher's Silver Sword+,sword-and-shield,TRUE,240,20,20,20,30,70,0
 Witcher's Silver Sword++,sword-and-shield,TRUE,50,30,30,110,40,140,0
+Rajang Club,sword-and-shield,FALSE,100,100,40,50,60,50,0
+Banned Rajang Club,sword-and-shield,FALSE,90,100,40,50,70,50,0
+Demonlord Mace,sword-and-shield,FALSE,110,20,20,70,40,30,110
+Brimstren Drakescale,sword-and-shield,FALSE,130,20,20,70,40,30,90
+Stygian Luxuria,sword-and-shield,FALSE,100,20,20,70,40,30,120
+Lightbreak Sword,sword-and-shield,TRUE,140,30,30,60,50,60,30
 Guild Palace Sword,sword-and-shield,FALSE,140,30,30,60,50,60,30
 Royal Nova Sword,sword-and-shield,FALSE,140,30,30,60,50,40,50
 Defender Chainsaws I,dual-blades,FALSE,30,60,20,140,0,0,0
@@ -702,6 +720,14 @@ Downy Crake Love,dual-blades,FALSE,90,50,50,80,130,0,0
 Downy Paradise,dual-blades,FALSE,40,80,30,30,80,140,0
 Zireael,dual-blades,FALSE,230,20,20,20,30,80,0
 Zireael+,dual-blades,FALSE,140,20,20,70,40,30,80
+Suzuka Takamaru,dual-blades,FALSE,90,100,40,50,70,50,0
+Suzuka Otakemaru,dual-blades,FALSE,80,100,40,50,80,50,0
+Demonlord Hellfists,dual-blades,FALSE,110,20,20,70,40,30,110
+Drakespirit Hellclaws,dual-blades,FALSE,130,20,20,70,40,30,90
+Stygian Bloodclaws,dual-blades,FALSE,100,20,20,70,40,30,120
+Lightbreak Twins,dual-blades,TRUE,140,30,30,60,50,60,30
+Whetfish Sabers,dual-blades,TRUE,80,50,110,90,40,20,10
+Whetfish Sabers+,dual-blades,TRUE,170,30,30,60,50,30,30
 Guild Palace Sabers,dual-blades,FALSE,130,30,30,60,50,70,30
 Royal Savior Daggers,dual-blades,FALSE,130,30,30,60,50,50,50
 Defender Warhammer I,hammer,FALSE,30,60,20,140,0,0,0
@@ -872,6 +898,12 @@ Empress Mace,hammer,FALSE,110,30,60,80,40,80,0
 "Soulfire Heel ""Ruin""",hammer,FALSE,120,30,90,30,30,80,20
 "Empress Mace ""Styx""",hammer,FALSE,110,30,60,80,40,80,0
 "Soulfire Heel ""Styx""",hammer,FALSE,120,30,90,30,30,80,20
+Mane Malice,hammer,FALSE,110,100,40,50,50,50,0
+Mane Malice Rajang,hammer,FALSE,100,100,40,50,60,50,0
+Demonlord Sledge,hammer,FALSE,120,20,20,70,40,30,100
+Brimstren Drakemaw,hammer,FALSE,150,20,20,70,40,30,70
+Stygian Industria,hammer,FALSE,130,20,20,70,40,30,90
+Lightbreak Hammer,hammer,TRUE,150,30,90,30,30,50,20
 Bristly Pincushion,hammer,FALSE,60,50,80,110,0,0,0
 Bristly Grudge,hammer,FALSE,110,50,50,80,110,0,0
 Bristly Inferno,hammer,FALSE,60,30,30,110,40,130,0
@@ -1047,6 +1079,12 @@ Empress Roar,hunting-horn,FALSE,110,30,60,80,40,80,0
 "Soulfire Chorus ""Ruin""",hunting-horn,FALSE,120,30,90,30,30,80,20
 "Empress Roar ""Styx""",hunting-horn,FALSE,110,30,60,80,40,80,0
 "Soulfire Chorus ""Styx""",hunting-horn,FALSE,120,30,90,30,30,80,20
+Denden Daiko,hunting-horn,FALSE,110,100,40,50,50,50,0
+Denden Doomsounder,hunting-horn,FALSE,100,100,40,50,60,50,0
+Demonlord Wardrum,hunting-horn,FALSE,120,20,20,70,40,30,100
+Brimstren Drakesong,hunting-horn,FALSE,150,20,20,70,40,30,70
+Stygian Tristitia,hunting-horn,FALSE,130,20,20,70,40,30,90
+Lightbreak Timbre,hunting-horn,TRUE,150,30,90,30,30,50,20
 Guild Palace Bard,hunting-horn,FALSE,150,30,30,60,50,50,30
 Royal Song Symphony,hunting-horn,FALSE,140,30,30,60,50,40,50
 Defender Lance I,lance,FALSE,30,60,20,140,0,0,0
@@ -1220,6 +1258,12 @@ Shining Star Lance,lance,FALSE,60,80,30,30,80,120,0
 Fair Wind Lance,lance,FALSE,60,50,80,110,0,0,0
 White Wind Lance,lance,FALSE,220,20,20,20,30,90,0
 Sweeping Gale Lance,lance,FALSE,70,80,30,30,80,110,0
+Demon Lance,lance,FALSE,110,100,40,50,50,50,0
+Great Demon Lance,lance,FALSE,100,100,40,50,60,50,0
+Demonlord Rajang,lance,FALSE,120,20,20,70,40,30,100
+Infernal Warlance,lance,FALSE,140,20,20,70,40,30,80
+Infernal Warlance+,lance,FALSE,110,20,20,70,40,30,110
+Lightbreak Lance,lance,TRUE,120,30,30,60,50,80,30
 Guild Palace Tower,lance,FALSE,150,30,30,60,50,50,30
 Royal Grace Pike,lance,FALSE,140,30,30,60,50,40,50
 Defender Gunlance I,gunlance,FALSE,30,60,20,140,0,0,0
@@ -1382,6 +1426,12 @@ Empress Howl,gunlance,FALSE,100,30,60,80,40,90,0
 "Soulfire Talon ""Ruin""",gunlance,FALSE,110,30,90,30,30,90,20
 "Empress Howl ""Styx""",gunlance,FALSE,100,30,60,80,40,90,0
 "Soulfire Talon ""Styx""",gunlance,FALSE,110,30,90,30,30,90,20
+Demon Gunlance,gunlance,FALSE,100,100,40,50,60,50,0
+Great Demon Gunlance,gunlance,FALSE,90,100,40,50,70,50,0
+Demonlord Gunlance,gunlance,FALSE,110,20,20,70,40,30,110
+Brimstren Drakeblood,gunlance,FALSE,140,20,20,70,40,30,80
+Stygian Avaritia,gunlance,FALSE,110,20,20,70,40,30,110
+Lightbreak Gunlance,gunlance,TRUE,140,30,30,60,50,60,30
 Gajalaka Firestabber,gunlance,FALSE,60,100,40,40,160,0,0
 Gajalaka Firepike,gunlance,FALSE,40,100,40,40,180,0,0
 Guild Palace Order,gunlance,FALSE,140,30,30,60,50,60,30
@@ -1552,6 +1602,12 @@ Empress Axe,switch-axe,FALSE,110,30,60,80,40,80,0
 "Soulfire Scourge ""Ruin""",switch-axe,FALSE,120,30,90,30,30,80,20
 "Empress Axe ""Styx""",switch-axe,FALSE,110,30,60,80,40,80,0
 "Soulfire Scourge ""Styx""",switch-axe,FALSE,120,30,90,30,30,80,20
+Undying Axe,switch-axe,FALSE,110,100,40,50,50,50,0
+Undying Light,switch-axe,FALSE,100,100,40,50,60,50,0
+Demonlord Edge,switch-axe,FALSE,120,20,20,70,40,30,100
+Infernal Cleave-axe,switch-axe,FALSE,150,20,20,70,40,30,70
+Infernal Cleave-axe+,switch-axe,FALSE,130,20,20,70,40,30,90
+Lightbreak Axe,switch-axe,TRUE,150,30,90,30,30,50,20
 Guild Palace Cleaver,switch-axe,FALSE,150,30,30,60,50,50,30
 Royal Titan Axe,switch-axe,FALSE,140,30,30,60,50,40,50
 Defender Shield I,charge-blade,FALSE,30,60,20,140,0,0,0
@@ -1707,6 +1763,12 @@ Empress Alma,charge-blade,FALSE,100,30,60,80,40,90,0
 "Soulfire Brand ""Ruin""",charge-blade,FALSE,110,30,90,30,30,90,20
 "Empress Alma ""Styx""",charge-blade,FALSE,100,30,60,80,40,90,0
 "Soulfire Brand ""Styx""",charge-blade,FALSE,110,30,90,30,30,90,20
+Rajang Beastblade,charge-blade,FALSE,100,100,40,50,60,50,0
+Rajang Beastblade Ikazuchi,charge-blade,FALSE,90,100,40,50,70,50,0
+Demonlord Blade,charge-blade,FALSE,120,20,20,70,40,30,100
+Brimstren Drakeclaw,charge-blade,FALSE,130,20,20,70,40,30,90
+Stygian Maledicta,charge-blade,FALSE,100,20,20,70,40,30,120
+Lightbreak Charge Blade,charge-blade,TRUE,140,30,30,60,50,60,30
 Guild Palace Disc,charge-blade,FALSE,140,30,30,60,50,60,30
 Royal Star Shield,charge-blade,FALSE,140,30,30,60,50,40,50
 Defender Glaive I,insect-glaive,FALSE,30,60,20,140,0,0,0
@@ -1876,6 +1938,12 @@ Empress Cane,insect-glaive,FALSE,100,30,60,80,40,90,0
 "Soulfire Reach ""Ruin""",insect-glaive,FALSE,110,30,90,30,30,90,20
 "Empress Cane ""Styx""",insect-glaive,FALSE,100,30,60,80,40,90,0
 "Soulfire Reach ""Styx""",insect-glaive,FALSE,110,30,90,30,30,90,20
+Metal Mauler,insect-glaive,FALSE,100,100,40,50,60,50,0
+Metalmangler,insect-glaive,FALSE,90,100,40,50,70,50,0
+Demonlord Cudgel,insect-glaive,FALSE,110,20,20,70,40,30,110
+Brimstren Drakerod,insect-glaive,FALSE,130,20,20,70,40,30,90
+Stygian Oblivia,insect-glaive,FALSE,110,20,20,70,40,30,110
+Lightbreak Press,insect-glaive,TRUE,140,30,30,60,50,60,30
 Guild Palace Rod,insect-glaive,FALSE,140,30,30,60,50,60,30
 Royal March Banner,insect-glaive,FALSE,140,30,30,60,50,40,50
 Gold Water Fellsword,great-sword,FALSE,190,70,20,50,30,40,0

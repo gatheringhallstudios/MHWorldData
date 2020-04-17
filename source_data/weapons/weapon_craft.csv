@@ -185,6 +185,12 @@ Empress Galea,great-sword,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane
 Frozen Speartuna,great-sword,Create,Freezer Ticket,1,Monster Toughbone,3,Cryo Sac,3,Gracium,2
 Freezer Speartuna,great-sword,Upgrade,Freezer Ticket,2,Monster Slogbone,5,Cryo Sac,4,Purecrystal,1
 Xiphias Gladius,great-sword,Upgrade,Freezer Ticket,2,Monster Solidbone,6,Cryo Sac,5,Conqueror's Seal,2
+Demon Rod,great-sword,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Great Demon Rod,great-sword,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Goldrod,great-sword,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Infernal Executioner,great-sword,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Infernal Executioner+,great-sword,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Blade,great-sword,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Blade,great-sword,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Venus Blade,great-sword,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Katana I,long-sword,Create,Iron Ore,1,,,,,,
@@ -363,6 +369,12 @@ Empress Sword,long-sword,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,
 "Soulfire Lash ""Ruin""",long-sword,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Sword ""Styx""",long-sword,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Lash ""Styx""",long-sword,Upgrade,Lunastra Shard,4,Lunastra Lash,2,Elder Spiritvein Bone,5,Large Elder Dragon Gem,1
+Demon Halberd,long-sword,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Great Demon Halberd,long-sword,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Halberd,long-sword,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakebone,long-sword,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Gula,long-sword,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Edge,long-sword,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Mad Scavenger Pickaxe,long-sword,Create,Pickaxe Ticket,2,Fine Brachydios Ebonshell,5,Eltalite Ore,15,Meldspar Ore,5
 Demon Scavenger Pickaxe,long-sword,Upgrade,Pickaxe Ticket,1,Wasteland Crystal,5,Twilight Crystal,3,Guiding Forest Dragonbone,1
 Guild Palace Rapier,long-sword,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
@@ -386,7 +398,7 @@ Chrome Knight Sword II,sword-and-shield,Upgrade,Monster Slogbone,3,Eltalite Ore,
 Chrome Knight Sword III,sword-and-shield,Upgrade,Pure Dragon Blood,3,Eltalite Ore,6,Meldspar Ore,3,Purecrystal,1
 Nergal Jack,sword-and-shield,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Eradication Vanguard,sword-and-shield,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
-Ruinous Eradication,sword-and-shield,Upgrade,Annihilating Greathorn,3,Nergigante Hardclaw,4,Eternal Regrowth Plate,5,Large Elder Dragon Gem,1
+Ruinous Madness,sword-and-shield,Upgrade,Annihilating Greathorn,3,Nergigante Hardclaw,4,Eternal Regrowth Plate,5,Large Elder Dragon Gem,1
 Flame Knife I,sword-and-shield,Upgrade,Rathalos Scale,1,Rathalos Webbing,2,Flame Sac,2,Rathalos Marrow,1
 Flame Knife II,sword-and-shield,Upgrade,Rathalos Scale,6,Rathalos Tail,2,Rathalos Plate,1,Inferno Sac,3
 Heat Edge,sword-and-shield,Upgrade,Rathalos Scale+,6,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Medulla,1
@@ -557,6 +569,12 @@ Empress Edge,sword-and-shield,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra 
 Witcher's Silver Sword,sword-and-shield,Create,Leshen Skull,1,Cursed Bone,4,Leshen Antlers,2,Carbalite Ore,2
 Witcher's Silver Sword+,sword-and-shield,Upgrade,Ancient Leshen Skull,1,Ancient Cursed Bone,4,Ancient Leshen Antlers,2,Leshen Resin,5
 Witcher's Silver Sword++,sword-and-shield,Upgrade,Unity Symbol,1,Leshen Skull,1,Zinogre Hardhorn,2,Large Elder Dragon Bone,5
+Rajang Club,sword-and-shield,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Banned Rajang Club,sword-and-shield,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Mace,sword-and-shield,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakescale,sword-and-shield,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Luxuria,sword-and-shield,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Sword,sword-and-shield,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Sword,sword-and-shield,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Nova Sword,sword-and-shield,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Chainsaws I,dual-blades,Create,Iron Ore,1,,,,,,
@@ -744,6 +762,14 @@ Downy Crake Love,dual-blades,Upgrade,Downy Crake Ticket,2,Paolumu Pelt+,3,Coma S
 Downy Paradise,dual-blades,Upgrade,Research Commission Ticket+,2,Paolumu Thickfur,3,Torpor Sac,4,Conqueror's Seal,1
 Zireael,dual-blades,Create,Ancient Leshen Skull,1,Ancient Leshen Claw,8,Ancient Leshen Antlers,3,Novacrystal,2
 Zireael+,dual-blades,Upgrade,Unity Symbol,1,Leshen Skull,1,Namielle Hardclaw,2,Purecrystal,2
+Suzuka Takamaru,dual-blades,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Suzuka Otakemaru,dual-blades,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Hellfists,dual-blades,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Drakespirit Hellclaws,dual-blades,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Bloodclaws,dual-blades,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Twins,dual-blades,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
+Whetfish Sabers,dual-blades,Create,Whetfish Ticket,1,Jyuratodus Shard,2,Jyuratodus Grandfin,1,Eltalite Ore,5
+Whetfish Sabers+,dual-blades,Upgrade,Whetfish Ticket,1,Namielle Whisker,3,Flood Sac,3,Conqueror's Seal,1
 Guild Palace Sabers,dual-blades,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Savior Daggers,dual-blades,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Warhammer I,hammer,Create,Iron Ore,1,,,,,,
@@ -924,6 +950,12 @@ Empress Mace,hammer,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lun
 "Soulfire Heel ""Ruin""",hammer,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Mace ""Styx""",hammer,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Heel ""Styx""",hammer,Upgrade,Lunastra Shard,5,Lunastra Lash,1,Elder Spiritvein Bone,6,Large Elder Dragon Gem,1
+Mane Malice,hammer,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Mane Malice Rajang,hammer,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Sledge,hammer,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakemaw,hammer,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Industria,hammer,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Hammer,hammer,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Bristly Pincushion,hammer,Create,Bristly Crake Ticket,1,Radobaan Scale,3,Sturdy Bone,5,Poison Sac,2
 Bristly Grudge,hammer,Upgrade,Bristly Crake Ticket,2,Radobaan Scale+,3,Toxin Sac,3,High Commendation,1
 Bristly Inferno,hammer,Upgrade,Research Commission Ticket+,2,Deviljho Blackpiel,3,Deadly Poison Sac,4,Conqueror's Seal,1
@@ -1109,6 +1141,12 @@ Empress Roar,hunting-horn,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane
 "Soulfire Chorus ""Ruin""",hunting-horn,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Roar ""Styx""",hunting-horn,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Chorus ""Styx""",hunting-horn,Upgrade,Lunastra Shard,5,Lunastra Lash,1,Elder Spiritvein Bone,6,Large Elder Dragon Gem,1
+Denden Daiko,hunting-horn,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Denden Doomsounder,hunting-horn,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Wardrum,hunting-horn,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakesong,hunting-horn,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Tristitia,hunting-horn,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Timbre,hunting-horn,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Bard,hunting-horn,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Song Symphony,hunting-horn,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Lance I,lance,Create,Iron Ore,1,,,,,,
@@ -1292,6 +1330,12 @@ Shining Star Lance,lance,Upgrade,Research Commission Ticket+,2,Namielle Fellwing
 Fair Wind Lance,lance,Create,Appreciation Ticket,3,Legiana Hide,3,Sturdy Bone,5,Sleep Sac,2
 White Wind Lance,lance,Upgrade,Appreciation Ticket,5,Legiana Hide+,3,Coma Sac,3,High Commendation,1
 Sweeping Gale Lance,lance,Upgrade,Research Commission Ticket+,2,Namielle Whisker,3,Torpor Sac,4,Conqueror's Seal,1
+Demon Lance,lance,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Great Demon Lance,lance,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Rajang,lance,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Infernal Warlance,lance,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Infernal Warlance+,lance,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Lance,lance,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Tower,lance,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Grace Pike,lance,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Gunlance I,gunlance,Create,Iron Ore,1,,,,,,
@@ -1464,6 +1508,12 @@ Empress Howl,gunlance,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,L
 "Soulfire Talon ""Ruin""",gunlance,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Howl ""Styx""",gunlance,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Talon ""Styx""",gunlance,Upgrade,Lunastra Shard,4,Lunastra Lash,2,Elder Spiritvein Bone,5,Large Elder Dragon Gem,1
+Demon Gunlance,gunlance,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Great Demon Gunlance,gunlance,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Gunlance,gunlance,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakeblood,gunlance,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Avaritia,gunlance,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Gunlance,gunlance,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Gajalaka Firestabber,gunlance,Create,Boaboa Ticket,1,Dodogama Mandible,1,Frozen Bone,3,Eltalite Ore,15
 Gajalaka Firepike,gunlance,Upgrade,Monster Solidbone,4,Uragaan Jaw+,2,Uragaan Shard,5,Purecrystal,1
 Guild Palace Order,gunlance,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
@@ -1644,6 +1694,12 @@ Empress Axe,switch-axe,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,
 "Soulfire Scourge ""Ruin""",switch-axe,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Axe ""Styx""",switch-axe,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Scourge ""Styx""",switch-axe,Upgrade,Lunastra Shard,4,Lunastra Lash,2,Elder Spiritvein Bone,5,Large Elder Dragon Gem,1
+Undying Axe,switch-axe,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Undying Light,switch-axe,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Edge,switch-axe,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Infernal Cleave-axe,switch-axe,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Infernal Cleave-axe+,switch-axe,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Axe,switch-axe,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Cleaver,switch-axe,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Titan Axe,switch-axe,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Shield I,charge-blade,Create,Iron Ore,1,,,,,,
@@ -1810,6 +1866,12 @@ Empress Alma,charge-blade,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane
 "Soulfire Brand ""Ruin""",charge-blade,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Alma ""Styx""",charge-blade,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Brand ""Styx""",charge-blade,Upgrade,Lunastra Shard,4,Lunastra Lash,2,Elder Spiritvein Bone,5,Large Elder Dragon Gem,1
+Rajang Beastblade,charge-blade,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Rajang Beastblade Ikazuchi,charge-blade,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Blade,charge-blade,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakeclaw,charge-blade,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Maledicta,charge-blade,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Charge Blade,charge-blade,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Disc,charge-blade,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Star Shield,charge-blade,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Glaive I,insect-glaive,Create,Iron Ore,1,,,,,,
@@ -1990,6 +2052,12 @@ Empress Cane,insect-glaive,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Man
 "Soulfire Reach ""Ruin""",insect-glaive,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Cane ""Styx""",insect-glaive,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Reach ""Styx""",insect-glaive,Upgrade,Lunastra Shard,4,Lunastra Lash,2,Elder Spiritvein Bone,5,Large Elder Dragon Gem,1
+Metal Mauler,insect-glaive,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Metalmangler,insect-glaive,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Cudgel,insect-glaive,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakerod,insect-glaive,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Oblivia,insect-glaive,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Press,insect-glaive,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Rod,insect-glaive,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal March Banner,insect-glaive,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Light Bowgun I,light-bowgun,Create,Iron Ore,1,,,,,,
@@ -2166,6 +2234,12 @@ Empress Shell,light-bowgun,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Man
 "Soulfire Rasp ""Ruin""",light-bowgun,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Shell ""Styx""",light-bowgun,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Rasp ""Styx""",light-bowgun,Upgrade,Lunastra Shard,5,Lunastra Lash,1,Elder Spiritvein Bone,6,Large Elder Dragon Gem,1
+Rajang Barrage,light-bowgun,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Ten Thousand Volts,light-bowgun,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Cannon,light-bowgun,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakekiss,light-bowgun,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Brimstren Drakevow,light-bowgun,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Gun,light-bowgun,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Bowgun,light-bowgun,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Surefire Shot,light-bowgun,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Heavy Bowgun I,heavy-bowgun,Create,Iron Ore,1,,,,,,
@@ -2329,6 +2403,12 @@ Empress Cannon,heavy-bowgun,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Ma
 "Soulfire Roar ""Ruin""",heavy-bowgun,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Cannon ""Styx""",heavy-bowgun,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Roar ""Styx""",heavy-bowgun,Upgrade,Lunastra Shard,5,Lunastra Lash,1,Elder Spiritvein Bone,6,Large Elder Dragon Gem,1
+Rajang Blaster,heavy-bowgun,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Rajang Destroyer,heavy-bowgun,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Demonlord Beastbuster,heavy-bowgun,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakemouth,heavy-bowgun,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Humilitas,heavy-bowgun,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Cannon,heavy-bowgun,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Rifle,heavy-bowgun,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal Light Cortege,heavy-bowgun,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3
 Defender Powerbow I,bow,Create,Iron Ore,1,,,,,,
@@ -2496,5 +2576,11 @@ Empress Arrow,bow,Create,Lunastra Scale+,4,Lunastra Horn,3,Lunastra Mane,3,Lunas
 "Soulfire Arch ""Ruin""",bow,Upgrade,Lunastra Shard,4,Annihilating Greathorn,3,Eternal Regrowth Plate,3,Large Elder Dragon Gem,1
 "Empress Arrow ""Styx""",bow,Upgrade,Research Commission Ticket,1,Lunastra Tail,2,Xeno'jiiva Horn,3,Xeno'jiiva Gem,1
 "Soulfire Arch ""Styx""",bow,Upgrade,Lunastra Shard,5,Lunastra Lash,1,Elder Spiritvein Bone,6,Large Elder Dragon Gem,1
+Beast Thunderbow,bow,Create,Rajang Hardhorn,1,Rajang Hardclaw,1,Rajang Hardfang,2,Rajang Wildpelt,2
+Beastking Thunderbow,bow,Upgrade,Tempered Glimmerpelt,3,Rajang Hardhorn,3,Rajang Hardfang,7,Gold Rajang Pelt+,3
+Archbeast Paragon,bow,Create,Ghoulish Gold Gorer,3,Rajang Apoplexy,2,Gold Rajang Pelt+,5,Rajang Heart,1
+Brimstren Drakesight,bow,Create,Stygian Zinogre Hardhorn,1,Stygian Zinogre Hardclaw,1,Stygian Zinogre Dragonlocks,2,Stygian Zinogre Dragonhold,2
+Stygian Patientia,bow,Upgrade,Tempered Dragonhold,3,Stygian Zinogre Hardhorn,2,Stygian Zinogre Hardclaw,5,Stygian Zinogre Skymerald,1
+Lightbreak Bow,bow,Create,Brach Obliterator,3,Brach Warhead,1,Indestructible Ebonshell,4,Immortal Reactor,1
 Guild Palace Arc,bow,Create,Fest Ticket,2,Amber Hardfang,2,Gracium,5,Purecrystal,1
 Royal North Wing,bow,Upgrade,Hero King Coin,1,Namielle Hardclaw,3,Large Elder Dragon Bone,5,Pure Dragon Blood,3

@@ -174,6 +174,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2077,Frozen Speartuna,great-sword,,,9,912,0,,FALSE,Ice,510,,,,1,0,0,,,,,,,,
 2078,Freezer Speartuna,great-sword,Frozen Speartuna,,10,1008,0,,FALSE,Ice,570,,,,1,0,0,,,,,,,,
 2079,Xiphias Gladius,great-sword,Freezer Speartuna,,11,1152,0,,FALSE,Ice,690,,,,1,0,0,,,,,,,,
+3110,Demon Rod,great-sword,,,11,1392,-15,,FALSE,Thunder,150,,,,4,0,0,,,,,,,,
+3111,Great Demon Rod,great-sword,Demon Rod,,12,1488,-15,,FALSE,Thunder,180,,,,4,0,0,,,,,,,,
+3112,Demonlord Goldrod,great-sword,,,12,1344,15,,FALSE,Thunder,360,,,,0,0,0,,,,,,,,
+3113,Infernal Executioner,great-sword,,,11,1200,0,,FALSE,Dragon,330,,,average,2,0,0,,,,,,,,
+3114,Infernal Executioner+,great-sword,Infernal Executioner,,12,1296,0,,FALSE,Dragon,420,,,average,2,0,0,,,,,,,,
+3115,Lightbreak Blade,great-sword,,,12,1440,0,,FALSE,Blast,360,,,,4,3,0,,,,,,,,
 2080,Guild Palace Blade,great-sword,,,10,1200,10,30,TRUE,Water,480,,,,3,0,0,,,,,,,,
 2081,Royal Venus Blade,great-sword,Guild Palace Blade,,12,1296,15,30,TRUE,Water,570,,,,3,0,0,,,,,,,,
 2082,Defender Katana I,long-sword,,,1,429,0,,FALSE,Blast,180,,,,0,0,0,,,,,,,,
@@ -343,6 +349,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2159,"Soulfire Lash ""Ruin""",long-sword,"Empress Sword ""Ruin""",,12,891,0,,FALSE,Blast,210,,,,2,2,0,,,,,,,,Hasten Recovery
 1197,"Empress Sword ""Styx""",long-sword,Empress Sword,,8,594,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
 2160,"Soulfire Lash ""Styx""",long-sword,"Empress Sword ""Styx""",,12,825,10,,FALSE,Blast,330,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
+3116,Demon Halberd,long-sword,,,11,957,-15,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3117,Great Demon Halberd,long-sword,Demon Halberd,,12,1023,-15,,FALSE,Thunder,120,,,,4,0,0,,,,,,,,
+3118,Demonlord Halberd,long-sword,,,12,957,15,,FALSE,Thunder,270,,,,0,0,0,,,,,,,,
+3119,Brimstren Drakebone,long-sword,,,11,825,0,,FALSE,Dragon,240,,,average,2,0,0,,,,,,,,
+3120,Stygian Gula,long-sword,Brimstren Drakebone,,12,891,0,,FALSE,Dragon,300,,,average,2,0,0,,,,,,,,
+3121,Lightbreak Edge,long-sword,,,12,990,0,,FALSE,Blast,270,,,,4,3,0,,,,,,,,
 2161,Mad Scavenger Pickaxe,long-sword,,,10,825,20,30,TRUE,Blast,510,,,,0,0,0,,,,,,,,
 2162,Demon Scavenger Pickaxe,long-sword,Mad Scavenger Pickaxe,,11,858,30,30,TRUE,Blast,540,,,,0,0,0,,,,,,,,
 2163,Guild Palace Rapier,long-sword,,,10,825,10,30,TRUE,Water,420,,,,3,0,0,,,,,,,,
@@ -365,7 +377,7 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2172,Chrome Knight Sword III,sword-and-shield,Chrome Knight Sword II,,11,364,0,,TRUE,Sleep,330,,,,1,1,0,,,,,,,,
 178,Nergal Jack,sword-and-shield,Chrome Slicer I,,7,280,0,,FALSE,Dragon,120,,,high,1,0,0,,,,,,,,
 179,Eradication Vanguard,sword-and-shield,Nergal Jack,,8,294,0,,FALSE,Dragon,150,,,high,1,0,0,,,,,,,,
-2173,Ruinous Eradication,sword-and-shield,Eradication Vanguard,,12,406,0,,FALSE,Dragon,180,,,high,1,0,0,,,,,,,,
+2173,Ruinous Madness,sword-and-shield,Eradication Vanguard,,12,406,0,,FALSE,Dragon,180,,,high,1,0,0,,,,,,,,
 180,Flame Knife I,sword-and-shield,Steel Knife I,,4,182,10,,FALSE,Fire,120,,,,0,0,0,,,,,,,,
 181,Flame Knife II,sword-and-shield,Flame Knife I,,5,196,10,,FALSE,Fire,120,,,,1,0,0,,,,,,,,
 182,Heat Edge,sword-and-shield,Flame Knife II,,6,224,20,,FALSE,Fire,150,,,,1,0,0,,,,,,,,
@@ -526,6 +538,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 1258,Witcher's Silver Sword,sword-and-shield,,,7,252,0,,FALSE,Dragon,300,,,high,1,0,0,,,,,,,,
 1259,Witcher's Silver Sword+,sword-and-shield,Witcher's Silver Sword,,8,266,0,,FALSE,Dragon,330,,,high,1,0,0,,,,,,,,
 2243,Witcher's Silver Sword++,sword-and-shield,Witcher's Silver Sword+,,12,364,0,,FALSE,Dragon,480,,,high,2,1,0,,,,,,,,
+3122,Rajang Club,sword-and-shield,,,11,406,-15,,FALSE,Thunder,60,,,,4,0,0,,,,,,,,
+3123,Banned Rajang Club,sword-and-shield,Rajang Club,,12,434,-15,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3124,Demonlord Mace,sword-and-shield,,,12,406,15,,FALSE,Thunder,300,,,,0,0,0,,,,,,,,
+3125,Brimstren Drakescale,sword-and-shield,,,11,350,0,,FALSE,Dragon,180,,,average,2,0,0,,,,,,,,
+3126,Stygian Luxuria,sword-and-shield,Brimstren Drakescale,,12,378,0,,FALSE,Dragon,240,,,average,2,0,0,,,,,,,,
+3127,Lightbreak Sword,sword-and-shield,,,12,420,0,,FALSE,Blast,180,,,,4,3,0,,,,,,,,
 2244,Guild Palace Sword,sword-and-shield,,,10,350,10,30,TRUE,Water,330,,,,3,0,0,,,,,,,,
 2245,Royal Nova Sword,sword-and-shield,Guild Palace Sword,,12,378,15,30,TRUE,Water,420,,,,3,0,0,,,,,,,,
 2246,Defender Chainsaws I,dual-blades,,,1,182,0,,FALSE,Blast,120,,,,0,0,0,,,,,,,,
@@ -702,6 +720,14 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2326,Downy Paradise,dual-blades,Downy Crake Love,,11,364,0,,FALSE,Sleep,180,,,,0,0,0,,,,,,,,
 1260,Zireael,dual-blades,,,8,294,0,,TRUE,Dragon,240,,,high,3,0,0,,,,,,,,
 2327,Zireael+,dual-blades,Zireael,,12,364,0,,TRUE,Dragon,300,,,high,4,0,0,,,,,,,,
+3128,Suzuka Takamaru,dual-blades,,,11,406,-10,,FALSE,Thunder,60,,,,4,0,0,,,,,,,,
+3129,Suzuka Otakemaru,dual-blades,Suzuka Takamaru,,12,434,-10,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3130,Demonlord Hellfists,dual-blades,,,12,406,15,,FALSE,Thunder,270,,,,0,0,0,,,,,,,,
+3131,Drakespirit Hellclaws,dual-blades,,,11,350,0,,FALSE,Dragon,150,,,average,2,0,0,,,,,,,,
+3132,Stygian Bloodclaws,dual-blades,Drakespirit Hellclaws,,12,378,0,,FALSE,Dragon,210,,,average,2,0,0,,,,,,,,
+3133,Lightbreak Twins,dual-blades,,,12,420,0,,FALSE,Blast,120,,,,4,3,0,,,,,,,,
+3134,Whetfish Sabers,dual-blades,,,9,280,5,,FALSE,Water,330,,,,0,0,0,,,,,,,,Protective Polish
+3135,Whetfish Sabers+,dual-blades,Whetfish Sabers,,11,322,5,,FALSE,Water,390,,,,0,0,0,,,,,,,,Protective Polish
 2328,Guild Palace Sabers,dual-blades,,,10,350,10,30,TRUE,Water,210,,,,3,0,0,,,,,,,,
 2329,Royal Savior Daggers,dual-blades,Guild Palace Sabers,,12,378,15,30,TRUE,Water,330,,,,3,0,0,,,,,,,,
 2330,Defender Warhammer I,hammer,,,1,676,0,,FALSE,Blast,180,,,,0,0,0,,,,,,,,
@@ -872,6 +898,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2406,"Soulfire Heel ""Ruin""",hammer,"Empress Mace ""Ruin""",,12,1404,0,,FALSE,Blast,210,,,,2,2,0,,,,,,,,Hasten Recovery
 1211,"Empress Mace ""Styx""",hammer,Empress Mace,,8,936,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
 2407,"Soulfire Heel ""Styx""",hammer,"Empress Mace ""Styx""",,12,1300,10,,FALSE,Blast,330,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
+3136,Mane Malice,hammer,,,11,1508,-15,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3137,Mane Malice Rajang,hammer,Mane Malice,,12,1612,-15,,FALSE,Thunder,120,,,,4,0,0,,,,,,,,
+3138,Demonlord Sledge,hammer,,,12,1508,15,,FALSE,Thunder,300,,,,0,0,0,,,,,,,,
+3139,Brimstren Drakemaw,hammer,,,11,1300,0,,FALSE,Dragon,240,,,average,2,0,0,,,,,,,,
+3140,Stygian Industria,hammer,Brimstren Drakemaw,,12,1404,0,,FALSE,Dragon,270,,,average,2,0,0,,,,,,,,
+3141,Lightbreak Hammer,hammer,,,12,1560,0,,FALSE,Blast,270,,,,4,3,0,,,,,,,,
 1212,Bristly Pincushion,hammer,,,3,676,0,,FALSE,Poison,150,,,,0,0,0,,,,,,,,
 1213,Bristly Grudge,hammer,Bristly Pincushion,,7,1040,0,,FALSE,Poison,270,,,,0,0,0,,,,,,,,
 2408,Bristly Inferno,hammer,Bristly Grudge,,11,1352,0,,FALSE,Poison,360,,,,0,0,0,,,,,,,,
@@ -1047,6 +1079,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2488,"Soulfire Chorus ""Ruin""",hunting-horn,"Empress Roar ""Ruin""",,12,1134,0,,FALSE,Blast,210,,,,2,2,0,,,,,,PGO,,Hasten Recovery
 1217,"Empress Roar ""Styx""",hunting-horn,Empress Roar,,8,798,10,,FALSE,Blast,240,,,,3,1,0,,,,,,PBO,,Razor Sharp/Spare Shot
 2489,"Soulfire Chorus ""Styx""",hunting-horn,"Empress Roar ""Styx""",,12,1050,10,,FALSE,Blast,330,,,,3,3,0,,,,,,PBO,,Razor Sharp/Spare Shot
+3142,Denden Daiko,hunting-horn,,,11,1218,-15,,FALSE,Thunder,90,,,,4,0,0,,,,,,PBO,,
+3143,Denden Doomsounder,hunting-horn,Denden Daiko,,12,1302,-15,,FALSE,Thunder,120,,,,4,0,0,,,,,,PBO,,
+3144,Demonlord Wardrum,hunting-horn,,,12,1176,15,,FALSE,Thunder,300,,,,0,0,0,,,,,,PRG,,
+3145,Brimstren Drakesong,hunting-horn,,,11,1050,0,,FALSE,Dragon,270,,,average,2,0,0,,,,,,PYO,,
+3146,Stygian Tristitia,hunting-horn,Brimstren Drakesong,,12,1134,0,,FALSE,Dragon,360,,,average,2,0,0,,,,,,PYO,,
+3147,Lightbreak Timbre,hunting-horn,,,12,1260,0,,FALSE,Blast,270,,,,4,3,0,,,,,,PCO,,
 2490,Guild Palace Bard,hunting-horn,,,10,1050,10,30,TRUE,Water,450,,,,3,0,0,,,,,,PRB,,
 2491,Royal Song Symphony,hunting-horn,Guild Palace Bard,,12,1134,15,30,TRUE,Water,540,,,,3,0,0,,,,,,PRB,,
 2492,Defender Lance I,lance,,,1,299,0,,FALSE,Blast,180,,,,0,0,0,,,,,,,,
@@ -1220,6 +1258,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 1256,Fair Wind Lance,lance,,,4,299,0,,FALSE,Sleep,120,,,,0,0,0,,,,,,,,
 1257,White Wind Lance,lance,Fair Wind Lance,,7,391,0,,FALSE,Sleep,180,,,,0,0,0,,,,,,,,
 2568,Sweeping Gale Lance,lance,White Wind Lance,,11,598,0,,FALSE,Sleep,270,,,,0,0,0,,,,,,,,
+3148,Demon Lance,lance,,,11,667,-15,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3149,Great Demon Lance,lance,Demon Lance,,12,713,-15,,FALSE,Thunder,120,,,,4,0,0,,,,,,,,
+3150,Demonlord Rajang,lance,,,12,667,15,,FALSE,Thunder,360,,,,0,0,0,,,,,,,,
+3151,Infernal Warlance,lance,,,11,575,0,,FALSE,Dragon,270,,,average,2,0,0,,,,,,,,
+3152,Infernal Warlance+,lance,Infernal Warlance,,12,621,0,,FALSE,Dragon,330,,,average,2,0,0,,,,,,,,
+3153,Lightbreak Lance,lance,,,12,690,0,,FALSE,Blast,270,,,,4,3,0,,,,,,,,
 2569,Guild Palace Tower,lance,,,10,575,10,30,TRUE,Water,450,,,,3,0,0,,,,,,,,
 2570,Royal Grace Pike,lance,Guild Palace Tower,,12,621,15,30,TRUE,Water,540,,,,3,0,0,,,,,,,,
 2571,Defender Gunlance I,gunlance,,,1,299,0,,FALSE,Blast,180,,,,0,0,0,,,,wide,1,,,
@@ -1382,6 +1426,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2644,"Soulfire Talon ""Ruin""",gunlance,"Empress Howl ""Ruin""",,12,621,0,,FALSE,Blast,210,,,,2,2,0,,,,wide,5,,,Hasten Recovery
 1227,"Empress Howl ""Styx""",gunlance,Empress Howl,,8,437,10,,FALSE,Blast,240,,,,3,1,0,,,,wide,3,,,Razor Sharp/Spare Shot
 2645,"Soulfire Talon ""Styx""",gunlance,"Empress Howl ""Styx""",,12,575,10,,FALSE,Blast,330,,,,3,3,0,,,,wide,5,,,Razor Sharp/Spare Shot
+3154,Demon Gunlance,gunlance,,,11,644,-15,,FALSE,Thunder,90,,,,4,0,0,,,,wide,5,,,
+3155,Great Demon Gunlance,gunlance,Demon Gunlance,,12,656,-15,,FALSE,Thunder,120,,,,4,0,0,,,,wide,6,,,
+3156,Demonlord Gunlance,gunlance,,,12,644,15,,FALSE,Thunder,300,,,,0,0,0,,,,wide,7,,,
+3157,Brimstren Drakeblood,gunlance,,,11,575,0,,FALSE,Dragon,300,,,average,2,0,0,,,,normal,7,,,
+3158,Stygian Avaritia,gunlance,Brimstren Drakeblood,,12,621,0,,FALSE,Dragon,360,,,average,2,0,0,,,,normal,7,,,
+3159,Lightbreak Gunlance,gunlance,,,12,690,0,,FALSE,Blast,270,,,,4,3,0,,,,wide,7,,,
 2646,Gajalaka Firestabber,gunlance,,,10,575,0,30,TRUE,Dragon,390,,,high,4,0,0,,,,normal,4,,,
 2647,Gajalaka Firepike,gunlance,Gajalaka Firestabber,,11,621,0,30,TRUE,Dragon,450,,,high,4,0,0,,,,normal,5,,,
 2648,Guild Palace Order,gunlance,,,10,575,10,30,TRUE,Water,420,,,,3,0,0,,,,wide,5,,,
@@ -1552,6 +1602,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2729,"Soulfire Scourge ""Ruin""",switch-axe,"Empress Axe ""Ruin""",,12,945,0,,FALSE,Blast,210,,,,2,2,0,,power,,,,,,Hasten Recovery
 1231,"Empress Axe ""Styx""",switch-axe,Empress Axe,,8,630,10,,FALSE,Blast,240,,,,3,3,0,,power,,,,,,Razor Sharp/Spare Shot
 2730,"Soulfire Scourge ""Styx""",switch-axe,"Empress Axe ""Styx""",,12,875,10,,FALSE,Blast,330,,,,3,3,0,,power,,,,,,Razor Sharp/Spare Shot
+3160,Undying Axe,switch-axe,,,11,1015,-15,,FALSE,Thunder,90,,,,4,0,0,,power,,,,,,
+3161,Undying Light,switch-axe,Undying Axe,,12,1085,-15,,FALSE,Thunder,120,,,,4,0,0,,power,,,,,,
+3162,Demonlord Edge,switch-axe,,,12,1015,15,,FALSE,Thunder,300,,,,0,0,0,,power,,,,,,
+3163,Infernal Cleave-axe,switch-axe,,,11,875,0,,FALSE,Dragon,270,,,average,2,0,0,,power,,,,,,
+3164,Infernal Cleave-axe+,switch-axe,Infernal Cleave-axe,,12,945,0,,FALSE,Dragon,300,,,average,2,0,0,,power,,,,,,
+3165,Lightbreak Axe,switch-axe,,,12,1050,0,,FALSE,Blast,270,,,,4,3,0,,power,,,,,,
 2731,Guild Palace Cleaver,switch-axe,,,10,875,10,30,TRUE,Water,420,,,,3,0,0,,power,,,,,,
 2732,Royal Titan Axe,switch-axe,Guild Palace Cleaver,,12,945,15,30,TRUE,Water,510,,,,3,0,0,,power,,,,,,
 2733,Defender Shield I,charge-blade,,,1,468,0,,FALSE,Blast,150,,,,0,0,0,,impact,,,,,,
@@ -1707,6 +1763,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2802,"Soulfire Brand ""Ruin""",charge-blade,"Empress Alma ""Ruin""",,12,972,0,,FALSE,Blast,150,,,,2,2,0,,impact,,,,,,Hasten Recovery
 1236,"Empress Alma ""Styx""",charge-blade,Empress Alma,,8,648,10,,FALSE,Blast,210,,,,3,3,0,,impact,,,,,,Razor Sharp/Spare Shot
 2803,"Soulfire Brand ""Styx""",charge-blade,"Empress Alma ""Styx""",,12,900,10,,FALSE,Blast,240,,,,3,3,0,,impact,,,,,,Razor Sharp/Spare Shot
+3166,Rajang Beastblade,charge-blade,,,11,1044,-15,,FALSE,Thunder,60,,,,4,0,0,,impact,,,,,,
+3167,Rajang Beastblade Ikazuchi,charge-blade,Rajang Beastblade,,12,1116,-15,,FALSE,Thunder,90,,,,4,0,0,,impact,,,,,,
+3168,Demonlord Blade,charge-blade,,,12,1008,15,,FALSE,Thunder,390,,,,0,0,0,,power element,,,,,,
+3169,Brimstren Drakeclaw,charge-blade,,,11,900,0,,FALSE,Dragon,270,,,average,2,0,0,,impact,,,,,,
+3170,Stygian Maledicta,charge-blade,Brimstren Drakeclaw,,12,972,0,,FALSE,Dragon,360,,,average,2,0,0,,impact,,,,,,
+3171,Lightbreak Charge Blade,charge-blade,,,12,1080,0,,FALSE,Blast,210,,,,4,3,0,,impact,,,,,,
 2804,Guild Palace Disc,charge-blade,,,10,900,10,30,TRUE,Water,360,,,,3,0,0,,impact,,,,,,
 2805,Royal Star Shield,charge-blade,Guild Palace Disc,,12,972,15,30,TRUE,Water,450,,,,3,0,0,,impact,,,,,,
 2806,Defender Glaive I,insect-glaive,,,1,403,0,,FALSE,Blast,150,,,,0,0,0,speed,,,,,,,
@@ -1876,6 +1938,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2882,"Soulfire Reach ""Ruin""",insect-glaive,"Empress Cane ""Ruin""",,12,837,0,,FALSE,Blast,150,,,,2,2,0,speed,,,,,,,Hasten Recovery
 1242,"Empress Cane ""Styx""",insect-glaive,Empress Cane,,8,589,10,,FALSE,Blast,210,,,,3,1,0,speed,,,,,,,Razor Sharp/Spare Shot
 2883,"Soulfire Reach ""Styx""",insect-glaive,"Empress Cane ""Styx""",,12,775,10,,FALSE,Blast,240,,,,3,3,0,speed,,,,,,,Razor Sharp/Spare Shot
+3172,Metal Mauler,insect-glaive,,,11,899,-15,,FALSE,Thunder,60,,,,4,0,0,blunt,,,,,,,
+3173,Metalmangler,insect-glaive,Metal Mauler,,12,961,-15,,FALSE,Thunder,90,,,,4,0,0,blunt,,,,,,,
+3174,Demonlord Cudgel,insect-glaive,,,12,899,15,,FALSE,Thunder,300,,,,0,0,0,blunt,,,,,,,
+3175,Brimstren Drakerod,insect-glaive,,,11,775,0,,FALSE,Dragon,180,,,average,2,0,0,spirit_strength,,,,,,,
+3176,Stygian Oblivia,insect-glaive,Brimstren Drakerod,,12,837,0,,FALSE,Dragon,240,,,average,2,0,0,spirit_strength,,,,,,,
+3177,Lightbreak Press,insect-glaive,,,12,930,0,,FALSE,Blast,180,,,,4,3,0,spirit_strength,,,,,,,
 2884,Guild Palace Rod,insect-glaive,,,10,775,10,30,TRUE,Water,360,,,,3,0,0,stamina_health,,,,,,,
 2885,Royal March Banner,insect-glaive,Guild Palace Rod,,12,837,15,30,TRUE,Water,450,,,,3,0,0,stamina_health,,,,,,,
 2886,Defender Light Bowgun I,light-bowgun,,,1,169,0,,FALSE,,,,,,0,0,0,,,,,,,LBG Defender,
@@ -2043,6 +2111,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 2959,"Soulfire Rasp ""Ruin""",light-bowgun,"Empress Shell ""Ruin""",,12,351,0,,FALSE,,,,,,2,2,0,,,,,,,LBG Lunastra/Nergigante 2,Hasten Recovery
 1246,"Empress Shell ""Styx""",light-bowgun,Empress Shell,,8,247,10,,FALSE,,,,,,3,1,0,,,,,,,LBG Lunastra/Xeno'jiiva,Razor Sharp/Spare Shot
 2960,"Soulfire Rasp ""Styx""",light-bowgun,"Empress Shell ""Styx""",,12,338,10,,FALSE,,,,,,3,3,0,,,,,,,LBG Lunastra/Xeno'jiiva 2,Razor Sharp/Spare Shot
+3178,Rajang Barrage,light-bowgun,,,11,377,-15,,FALSE,,,,,,4,0,0,,,,,,,LBG Rajang,
+3179,Ten Thousand Volts,light-bowgun,Rajang Barrage,,12,403,-15,,FALSE,,,,,,4,0,0,,,,,,,LBG Rajang,
+3180,Demonlord Cannon,light-bowgun,,,12,377,20,,FALSE,,,,,,0,0,0,,,,,,,LBG Furious Rajang,
+3181,Brimstren Drakekiss,light-bowgun,,,11,338,0,,FALSE,,,,,,2,0,0,,,,,,,LBG Stygian Zinogre,
+3182,Brimstren Drakevow,light-bowgun,Brimstren Drakekiss,,12,351,0,,FALSE,,,,,,2,0,0,,,,,,,LBG Stygian Zinogre,
+3183,Lightbreak Gun,light-bowgun,,,12,364,0,,FALSE,,,,,,4,2,0,,,,,,,LBG Raging Brachydios,
 2961,Guild Palace Bowgun,light-bowgun,,,10,325,15,30,FALSE,,,,,,3,0,0,,,,,,,LBG Guild Palace,
 2962,Royal Surefire Shot,light-bowgun,Guild Palace Bowgun,,12,351,20,30,FALSE,,,,,,3,0,0,,,,,,,LBG Guild Palace,
 2963,Defender Heavy Bowgun I,heavy-bowgun,,,1,195,0,,FALSE,,,,,,0,0,0,,,,,,,HBG Defender,
@@ -2197,6 +2271,12 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 3028,"Soulfire Roar ""Ruin""",heavy-bowgun,"Empress Cannon ""Ruin""",,12,435,0,,FALSE,,,,,,2,2,0,,,,,,,HBG Lunastra/Nergigante 2,Hasten Recovery
 1251,"Empress Cannon ""Styx""",heavy-bowgun,Empress Cannon,,8,285,10,,FALSE,,,,,,3,1,0,,,,,,,HBG Lunastra/Xeno'jiiva,Razor Sharp/Spare Shot
 3029,"Soulfire Roar ""Styx""",heavy-bowgun,"Empress Cannon ""Styx""",,12,420,10,,FALSE,,,,,,3,3,0,,,,,,,HBG Lunastra/Xeno'jiiva 2,Razor Sharp/Spare Shot
+3184,Rajang Blaster,heavy-bowgun,,,11,465,-15,,FALSE,,,,,,4,0,0,,,,,,,HBG Rajang,
+3185,Rajang Destroyer,heavy-bowgun,Rajang Blaster,,12,495,-15,,FALSE,,,,,,4,0,0,,,,,,,HBG Rajang,
+3186,Demonlord Beastbuster,heavy-bowgun,,,12,450,10,,FALSE,,,,,,0,0,0,,,,,,,HBG Furious Rajang,
+3187,Brimstren Drakemouth,heavy-bowgun,,,11,420,0,,FALSE,,,,,,2,0,0,,,,,,,HBG Stygian Zinogre,
+3188,Stygian Humilitas,heavy-bowgun,Brimstren Drakemouth,,12,435,0,,FALSE,,,,,,2,0,0,,,,,,,HBG Stygian Zinogre,
+3189,Lightbreak Cannon,heavy-bowgun,,,12,450,0,,FALSE,,,,,,4,2,0,,,,,,,HBG Raging Brachydios,
 3030,Guild Palace Rifle,heavy-bowgun,,,10,390,10,30,FALSE,,,,,,3,0,0,,,,,,,HBG Guild Palace,
 3031,Royal Light Cortege,heavy-bowgun,Guild Palace Rifle,,12,435,15,30,FALSE,,,,,,3,0,0,,,,,,,HBG Guild Palace,
 3032,Defender Powerbow I,bow,,,1,156,0,,FALSE,Blast,120,,,,0,0,0,,,,,,,,
@@ -2355,6 +2435,15 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 1254,"Empress Arrow ""Ruin""",bow,Empress Arrow,,8,228,0,,FALSE,Blast,90,,,,2,2,0,,,,,,,,Hasten Recovery
 3106,"Soulfire Arch ""Ruin""",bow,"Empress Arrow ""Ruin""",,12,336,0,,FALSE,Blast,120,,,,2,2,0,,,,,,,,Hasten Recovery
 1255,"Empress Arrow ""Styx""",bow,Empress Arrow,,8,216,10,,FALSE,Blast,180,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
+3107,"Soulfire Arch ""Styx""",bow,"Empress Arrow ""Styx""",,12,312,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
+3190,Beast Thunderbow,bow,,,11,348,-10,,FALSE,Thunder,90,,,,4,0,0,,,,,,,,
+3191,Beastking Thunderbow,bow,Beast Thunderbow,,12,372,-10,,FALSE,Thunder,120,,,,4,0,0,,,,,,,,
+3192,Archbeast Paragon,bow,,,12,360,10,,FALSE,Thunder,240,,,,0,0,0,,,,,,,,
+3193,Brimstren Drakesight,bow,,,11,324,0,,FALSE,Dragon,210,,,average,2,0,0,,,,,,,,
+3194,Stygian Patientia,bow,Brimstren Drakesight,,12,336,0,,FALSE,Dragon,300,,,average,2,0,0,,,,,,,,
+3195,Lightbreak Bow,bow,,,12,360,0,,FALSE,Blast,210,,,,4,2,0,,,,,,,,
+3108,Guild Palace Arc,bow,,,10,300,10,30,TRUE,Water,360,,,,3,0,0,,,,,,,,
+3109,Royal North Wing,bow,Guild Palace Arc,,12,324,15,30,TRUE,Water,420,,,,3,0,0,,,,,,,,
 10001,Gold Water Fellsword,great-sword,,Kulve,6,768,0,20,TRUE,Water,270,,,,0,0,0,,,,,,,,
 10002,Gold Ice Fellsword,great-sword,,Kulve,6,768,10,20,TRUE,Ice,240,,,,0,0,0,,,,,,,,
 10003,Gold Sleep Fellsword,great-sword,,Kulve,6,768,0,30,TRUE,Sleep,210,,,,0,0,0,,,,,,,,
@@ -2812,6 +2901,3 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10455,"Kjárr Bow ""Decay""",bow,,Kulve,8,240,10,,FALSE,Dragon,240,,,average,1,0,0,,,,,,,,Critical Element
 10456,"Kjárr Bow ""Water""",bow,,Kulve,8,240,10,,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
 10457,"Kjárr Bow ""Blast""",bow,,Kulve,8,252,10,,FALSE,Blast,240,,,,0,0,0,,,,,,,,Critical Status
-3107,"Soulfire Arch ""Styx""",bow,"Empress Arrow ""Styx""",,12,312,10,,FALSE,Blast,240,,,,3,3,0,,,,,,,,Razor Sharp/Spare Shot
-3108,Guild Palace Arc,bow,,,10,300,10,30,TRUE,Water,360,,,,3,0,0,,,,,,,,
-3109,Royal North Wing,bow,Guild Palace Arc,,12,324,15,30,TRUE,Water,420,,,,3,0,0,,,,,,,,

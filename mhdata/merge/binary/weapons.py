@@ -212,8 +212,9 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         if weapon_type == cfg.GUNLANCE:
             # first 5 are normals, second 5 are wide, third 5 are long
             if binary.wep1_id >= 15:
-                shelling = ['normal', 'wide', 'long'][binary.wep1_id - 15]
-                level = 6
+                value = binary.wep1_id - 15
+                shelling = ['normal', 'wide', 'long'][value % 3]
+                level = value // 3 + 6
             else:
                 shelling = ['normal', 'wide', 'long'][binary.wep1_id // 5]
                 level = (binary.wep1_id % 5) + 1
