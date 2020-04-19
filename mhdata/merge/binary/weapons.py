@@ -282,7 +282,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
             new_weapon_map.insert(existing_entry)
             continue
             
-        is_kulve = (existing_entry['category'] == 'Kulve')
+        is_special = existing_entry['category'] in ('Kulve', 'Safi')
         binary = weapon_node.binary
         name = weapon_node.name
 
@@ -330,8 +330,8 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
             new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
         elif weapon_type in cfg.weapon_types_gun:
             tree = weapon_node.tree
-            if is_kulve:
-                tree = 'Kulve'
+            if is_special:
+                tree = existing_entry['category']
             (ammo_name, ammo_data) = ammo_reader.create_data_for(
                 wtype=weapon_type, 
                 tree=tree,
