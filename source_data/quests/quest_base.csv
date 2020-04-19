@@ -392,13 +392,6 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 1691,Into the Palace of Flame,optional,MR,6,hunt,Elder's Recess,36000
 1692,Master Hunter of the New World,optional,MR,6,hunt,Elder's Recess,98640
 50901,Banquet in the Earthen Hall,event,HR,9,assignment,Caverns of El Dorado,25200
-51601,"Reveal Thyself, Destroyer",event,MR,6,hunt,Guiding Lands,36000
-51602,Sterling Pride,event,MR,6,hunt,Hoarfrost Reach,36000
-61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
-61811,Flora Frostbite,event,MR,1,deliver,Hoarfrost Reach,9000
-61812,Beef is Never a Mi-steak,event,MR,4,hunt,Wildspire Waste,43200
-61813,50 Shades of White,event,MR,3,hunt,Arena,25200
-61814,A Shocking Climax,event,MR,6,hunt,Coral Highlands,45360
 63004,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
 63005,USJ Beginners Challenge!,event,LR,2,hunt,Arena,1080
 63006,USJ Expert Challenge!,event,LR,4,hunt,Special Arena,1080
@@ -411,28 +404,59 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 63037,Empress in Full Bloom I,event,HR,7,hunt,Arena,4320
 63038,Empress in Full Bloom II,event,HR,7,hunt,Arena,4320
 63039,Empress in Full Bloom III,event,HR,7,hunt,Arena,4320
+61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
+61805,Duffel Duty,event,MR,1,deliver,Hoarfrost Reach,9000
+61811,Flora Frostbite,event,MR,1,deliver,Hoarfrost Reach,9000
 63071,Challenge Quest 1: MR Intermediate,event,MR,2,hunt,Special Arena,25920
 63073,Challenge Quest 1: MR Expert,event,MR,6,hunt,Special Arena,28800
 63142,Farewell to the Frozen,event,MR,5,hunt,Arena,28800
-64801,Balloon Fight,event,MR,2,hunt,Special Arena,28800
-64802,Talk About a Party Foul...,event,MR,5,hunt,Special Arena,36000
 66801,Trophy Fishin',event,MR,1,hunt,Hoarfrost Reach,23040
 66802,The Lord of the Underworld Beckons,event,MR,1,deliver,Rotten Vale,9000
 66803,A Bunch of Sticks in the Mud,event,MR,1,hunt,Wildspire Waste,23040
 66804,Desert Desserts,event,MR,1,deliver,Wildspire Waste,9000
+61803,Every Hunter's Dream II,event,MR,2,capture,Coral Highlands,18000
 66805,A New Troublemaker in Town,event,MR,2,hunt,Ancient Forest,25920
-66806,Colorful Carnival,event,MR,2,hunt,Special Arena,40320
 66807,Hunter-Blunderer,event,MR,2,hunt,Special Arena,28800
+66806,Colorful Carnival,event,MR,2,hunt,Special Arena,40320
+61813,50 Shades of White,event,MR,3,hunt,Arena,25200
+61802,Every Hunter's Dream III,event,MR,3,hunt,Arena,34560
 66808,A Sky & Sea of Fire,event,MR,3,hunt,Elder's Recess,40320
 66809,A Curious Experiment,event,MR,3,hunt,Wildspire Waste,34560
 66810,Soaked and Shivering,event,MR,3,hunt,Coral Highlands,34560
 66811,Fired-Up Bruisers,event,MR,3,hunt,Elder's Recess,40320
+66834,When the Swift Meets the Roar,event,MR,3,hunt,Arena,40320
+61812,Beef is Never a Mi-steak,event,MR,4,hunt,Wildspire Waste,43200
 66812,The Desert Dash,event,MR,4,hunt,Wildspire Waste,43200
-66813,In the Depths of the Forest,event,MR,4,hunt,Ancient Forest,46080
 66814,Servants of the Vale,event,MR,4,hunt,Rotten Vale,46080
+66813,In the Depths of the Forest,event,MR,4,hunt,Ancient Forest,46080
+61806,Scores of Ores,event,MR,5,hunt,Elder's Recess,30240
+61807,A Chilling Entrance,event,MR,5,hunt,Ancient Forest,45360
 66815,We Three Kings,event,MR,5,hunt,Special Arena,75600
 66816,The Winter Blues,event,MR,5,hunt,Coral Highlands,51840
 66817,A Reason Behind The Hunger,event,MR,5,hunt,Elder's Recess,36000
+51601,"Reveal Thyself, Destroyer",event,MR,6,hunt,Guiding Lands,36000
+51602,Sterling Pride,event,MR,6,hunt,Hoarfrost Reach,36000
+67801,RE: Return of the Bioweapon,event,MR,5,hunt,Rotten Vale,36000
+61814,A Shocking Climax,event,MR,6,hunt,Coral Highlands,45360
+66818,Moonlit Howl,event,MR,6,hunt,Coral Highlands,28800
+66819,"I Am Tranquil, I Am Sound",event,MR,6,hunt,Ancient Forest,28800
+66820,A Roar that Splinters the Sky,event,MR,6,hunt,Elder's Recess,36000
+66821,A Glance of Silver,event,MR,6,hunt,Elder's Recess,36000
+66822,The Moon is a Harsh Queen,event,MR,6,hunt,Elder's Recess,36000
+61808,Muscle Monkey Madness,event,MR,6,hunt,Arena,50400
+66824,"Razzled, Frazzled, and Dazzled",event,MR,6,hunt,Wildspire Waste,36000
+66825,Scars Tell the Whole Story,event,MR,6,hunt,Ancient Forest,34560
+66832,Wolf Out of Hell,event,MR,6,hunt,Elder's Recess,36000
+66826,Yodeling in the Forest,event,MR,6,hunt,Ancient Forest,73440
+66827,Heavy Metal in the Waste,event,MR,6,hunt,Wildspire Waste,67320
+66828,Symphony of the Coral,event,MR,6,hunt,Coral Highlands,65520
+66829,Rotten Canzone,event,MR,6,hunt,Rotten Vale,66600
+66830,Alt Rock Recess,event,MR,6,hunt,Elder's Recess,71280
+66831,Ballad of the Hoarfrost,event,MR,6,hunt,Hoarfrost Reach,67320
+66835,The Wrath of Thunder Descends,event,MR,6,hunt,Ancient Forest,34560
+66836,Ode to the Destruction,event,MR,6,hunt,Origin Isle,43200
+64801,Balloon Fight,event,MR,2,hunt,Special Arena,28800
+64802,Talk About a Party Foul...,event,MR,5,hunt,Special Arena,36000
 67101,The Proving,event,HR,6,hunt,Ancient Forest,9000
 67102,Lessons of the Wild,event,LR,5,hunt,Arena,2520
 67607,The Heart of the Nora,event,HR,9,hunt,Ancient Forest,36000

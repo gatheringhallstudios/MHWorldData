@@ -3232,22 +3232,6 @@ base_id,group,item_en,stack,percentage
 50901,B,Novacrystal,1,12
 50901,B,Glowing Feystone,1,7
 50901,B,High Commendation,1,1
-51601,A,Ancient Feystone,1,100
-51601,A,Monster Solidbone,1,38
-51601,A,Hard Armor Sphere,2,25
-51601,A,Monster Slogbone,2,15
-51601,A,Dragoncore Ore,1,13
-51601,A,Purecrystal,1,4
-51601,A,Dragonbone Artifact,1,4
-51601,A,Ancient Feystone,1,1
-51602,A,Conqueror's Seal,1,100
-51602,A,Large Elder Dragon Bone,1,24
-51602,A,Heavy Armor Sphere,1,24
-51602,A,Ancient Feystone,1,20
-51602,A,Pure Dragon Blood,1,18
-51602,A,Phantomcore Ore,1,8
-51602,A,Dragonbone Artifact,1,5
-51602,A,Conqueror's Seal,1,1
 61801,A,Pearlspring Ticket,1,100
 61801,A,Mega Potion,5,26
 61801,A,Well-done Steak,2,26
@@ -3264,6 +3248,22 @@ base_id,group,item_en,stack,percentage
 61801,B,Hot Pepper,2,13
 61801,B,Gracium,1,10
 61801,B,Ancient Feystone,1,1
+61805,A,Penguin Ticket,1,100
+61805,A,Ancient Feystone,1,24
+61805,A,Hard Armor Sphere,1,20
+61805,A,Thick Bone,1,18
+61805,A,Gracium,1,13
+61805,A,Penguin Ticket,1,12
+61805,A,Gloamgrass Bud,1,8
+61805,A,Purecrystal,1,5
+61805,B,Ancient Feystone,1,100
+61805,B,Thick Bone,1,30
+61805,B,Hard Armor Sphere,1,20
+61805,B,Wulg Thickfur,1,13
+61805,B,Gloamgrass Bud,1,13
+61805,B,Hot Pepper,2,13
+61805,B,Gracium,1,10
+61805,B,Ancient Feystone,1,1
 61811,A,Wyverian Ticket,1,100
 61811,A,Ancient Feystone,1,24
 61811,A,Hard Armor Sphere,1,20
@@ -3280,29 +3280,6 @@ base_id,group,item_en,stack,percentage
 61811,B,Hot Pepper,2,13
 61811,B,Gracium,1,10
 61811,B,Ancient Feystone,1,1
-61812,A,Meaty Canteen Ticket,1,100
-61812,A,Ancient Feystone,1,24
-61812,A,Hard Armor Sphere,1,20
-61812,A,Monster Solidbone,1,18
-61812,A,Thick Bone,1,13
-61812,A,Well-done Steak,3,13
-61812,A,Meaty Canteen Ticket,1,12
-61813,A,Fest Ticket,1,100
-61813,A,Ancient Feystone,1,23
-61813,A,Hard Armor Sphere,1,21
-61813,A,Barioth Thickfur,1,18
-61813,A,Gracium,1,13
-61813,A,Fest Ticket,1,12
-61813,A,Amber Hardfang,1,8
-61813,A,Purecrystal,1,5
-61814,A,Unity Symbol,2,100
-61814,A,Ancient Feystone,1,21
-61814,A,Unity Symbol,1,20
-61814,A,Heavy Armor Sphere,1,18
-61814,A,Large Elder Dragon Bone,1,17
-61814,A,Pure Dragon Blood,1,15
-61814,A,Phantomcore Ore,1,8
-61814,A,Unity Symbol,2,1
 63071,A,Dust of Life,1,30
 63071,A,Max Potion,1,28
 63071,A,Hunter King Coin,1,20
@@ -3321,13 +3298,6 @@ base_id,group,item_en,stack,percentage
 63142,A,Golden Egg,1,13
 63142,A,Gourmet Voucher,1,12
 63142,A,Hero King Coin,1,1
-64801,A,Hard Armor Sphere,1,100
-64801,A,Hard Armor Sphere,1,82
-64801,A,Heavy Armor Sphere,1,18
-64802,A,Heavy Armor Sphere,1,100
-64802,A,Hard Armor Sphere,1,67
-64802,A,Heavy Armor Sphere,1,25
-64802,A,King Armor Sphere,1,8
 66801,A,Freezer Ticket,1,100
 66801,A,Beotodus Hardhorn,2,18
 66801,A,Beotodus Grandfin,2,18
@@ -3383,6 +3353,14 @@ base_id,group,item_en,stack,percentage
 66804,B,Nitroshroom,3,13
 66804,B,Purecrystal,1,7
 66804,B,Ancient Feystone,1,1
+61803,A,Wiggler Pot,1,100
+61803,A,Hard Armor Sphere,1,20
+61803,A,Ancient Feystone,1,16
+61803,A,Monster Toughbone,1,15
+61803,A,Wiggler Pot,1,13
+61803,A,Shamos Shard,1,13
+61803,A,Coral Bone,1,13
+61803,A,Bathycite Ore,1,10
 66805,A,Ancient Feystone,1,100
 66805,A,Anjanath Hardfang,1,19
 66805,A,Banbaro Great Horn,1,18
@@ -3392,14 +3370,6 @@ base_id,group,item_en,stack,percentage
 66805,A,Heavy Anjanath Nosebone,1,12
 66805,A,Anjanath Mantle,1,5
 66805,A,Ancient Feystone,1,1
-66806,A,Fey Wyvern Gem,1,100
-66806,A,Tzitzi-Ya-Ku Photomembrane,1,20
-66806,A,Large Pukei-Pukei Sac,1,20
-66806,A,Large Coral Pukei-Pukei Sac,1,20
-66806,A,Large Kulu-Ya-Ku Beak,1,19
-66806,A,Deadly Poison Sac,2,10
-66806,A,Flood Sac,2,10
-66806,A,Fey Wyvern Gem,1,1
 66807,A,Monster Toughbone,3,100
 66807,A,Thick Bone,2,21
 66807,A,Radobaan Oilshell+,1,20
@@ -3408,6 +3378,30 @@ base_id,group,item_en,stack,percentage
 66807,A,Dragonbone Artifact,1,13
 66807,A,Large Wyvern Bonemass,2,11
 66807,A,Monster Toughbone,3,1
+66806,A,Fey Wyvern Gem,1,100
+66806,A,Tzitzi-Ya-Ku Photomembrane,1,20
+66806,A,Large Pukei-Pukei Sac,1,20
+66806,A,Large Coral Pukei-Pukei Sac,1,20
+66806,A,Large Kulu-Ya-Ku Beak,1,19
+66806,A,Deadly Poison Sac,2,10
+66806,A,Flood Sac,2,10
+66806,A,Fey Wyvern Gem,1,1
+61813,A,Fest Ticket,1,100
+61813,A,Ancient Feystone,1,23
+61813,A,Hard Armor Sphere,1,21
+61813,A,Barioth Thickfur,1,18
+61813,A,Gracium,1,13
+61813,A,Fest Ticket,1,12
+61813,A,Amber Hardfang,1,8
+61813,A,Purecrystal,1,5
+61802,A,Black Eagle Blueprint,1,100
+61802,A,Hard Armor Sphere,1,23
+61802,A,Nightshade Paolumu Thickfur,1,18
+61802,A,Nargacuga Blackfur+,1,18
+61802,A,Nightshade Paolumu Fellwing,1,15
+61802,A,Black Eagle Blueprint,1,13
+61802,A,Nargacuga Cutwing+,1,8
+61802,A,Purecrystal,1,5
 66808,A,Ancient Feystone,1,100
 66808,A,Rathalos Lash,1,19
 66808,A,Lavasioth Grandfin,1,19
@@ -3447,6 +3441,17 @@ base_id,group,item_en,stack,percentage
 66811,A,Glavenus Mantle,1,5
 66811,A,Uragaan Pallium,1,5
 66811,A,Monster Slogbone,3,1
+66834,A,Carved Feystone,1,100
+66834,A,Ancient Feystone,1,79
+66834,A,Warped Feystone,1,20
+66834,A,Carved Feystone,1,1
+61812,A,Meaty Canteen Ticket,1,100
+61812,A,Ancient Feystone,1,24
+61812,A,Hard Armor Sphere,1,20
+61812,A,Monster Solidbone,1,18
+61812,A,Thick Bone,1,13
+61812,A,Well-done Steak,3,13
+61812,A,Meaty Canteen Ticket,1,12
 66812,A,Ancient Feystone,1,100
 66812,A,Diablos Tailcase+,1,23
 66812,A,Tigrex Hardclaw,1,18
@@ -3456,16 +3461,6 @@ base_id,group,item_en,stack,percentage
 66812,A,Diablos Hardhorn,1,11
 66812,A,Tigrex Mantle,1,5
 66812,A,Ancient Feystone,1,1
-66813,A,Monster Solidbone,3,100
-66813,A,Monster Slogbone,2,24
-66813,A,Monster Solidbone,1,18
-66813,A,Dragonbone Artifact,1,18
-66813,A,Fulgur Anjanath Lash,1,13
-66813,A,Rathalos Medulla,1,11
-66813,A,Large Wyvern Gem,1,5
-66813,A,Rathalos Mantle,1,5
-66813,A,Fulgur Anjanath Mantle,1,5
-66813,A,Monster Solidbone,3,1
 66814,A,Ancient Feystone,1,100
 66814,A,Ebony Odogaron Hardclaw,1,18
 66814,A,Acidic Glavenus Hardfang,1,18
@@ -3476,6 +3471,30 @@ base_id,group,item_en,stack,percentage
 66814,A,Ebony Odogaron Mantle,1,5
 66814,A,Glavenus Mantle,1,5
 66814,A,Ancient Feystone,1,1
+66813,A,Monster Solidbone,3,100
+66813,A,Monster Slogbone,2,24
+66813,A,Monster Solidbone,1,18
+66813,A,Dragonbone Artifact,1,18
+66813,A,Fulgur Anjanath Lash,1,13
+66813,A,Rathalos Medulla,1,11
+66813,A,Large Wyvern Gem,1,5
+66813,A,Rathalos Mantle,1,5
+66813,A,Fulgur Anjanath Mantle,1,5
+66813,A,Monster Solidbone,3,1
+61806,A,Pickaxe Ticket,1,100
+61806,A,Heavy Armor Sphere,1,24
+61806,A,Ancient Feystone,2,21
+61806,A,Monster Slogbone,2,16
+61806,A,Pickaxe Ticket,1,15
+61806,A,Phantomcore Ore,1,15
+61806,A,Carved Feystone,1,9
+61807,A,Sealed Dragon Cloth,1,100
+61807,A,Large Elder Dragon Bone,1,22
+61807,A,Heavy Armor Sphere,1,22
+61807,A,Ancient Feystone,1,20
+61807,A,Pure Dragon Blood,1,16
+61807,A,Sealed Dragon Cloth,1,12
+61807,A,Phantomcore Ore,1,8
 66815,A,Ancient Feystone,1,100
 66815,A,Kirin Thundertail+,1,17
 66815,A,Daora Fellwing,1,17
@@ -3500,6 +3519,216 @@ base_id,group,item_en,stack,percentage
 66817,A,Dragonbone Artifact,1,18
 66817,A,Heavy Armor Sphere,1,13
 66817,A,Ancient Feystone,1,10
+51601,A,Ancient Feystone,1,100
+51601,A,Monster Solidbone,1,38
+51601,A,Hard Armor Sphere,2,25
+51601,A,Monster Slogbone,2,15
+51601,A,Dragoncore Ore,1,13
+51601,A,Purecrystal,1,4
+51601,A,Dragonbone Artifact,1,4
+51601,A,Ancient Feystone,1,1
+51602,A,Conqueror's Seal,1,100
+51602,A,Large Elder Dragon Bone,1,24
+51602,A,Heavy Armor Sphere,1,24
+51602,A,Ancient Feystone,1,20
+51602,A,Pure Dragon Blood,1,18
+51602,A,Phantomcore Ore,1,8
+51602,A,Dragonbone Artifact,1,5
+51602,A,Conqueror's Seal,1,1
+67801,A,S.T.A.R.S. Badge,3,100
+67801,A,Heavy Armor Sphere,1,24
+67801,A,Pure Dragon Blood,1,21
+67801,A,Ancient Feystone,1,20
+67801,A,Large Elder Dragon Bone,1,14
+67801,A,S.T.A.R.S. Badge,1,12
+67801,A,Phantomcore Ore,1,8
+67801,A,S.T.A.R.S. Badge,3,1
+61814,A,Unity Symbol,2,100
+61814,A,Ancient Feystone,1,21
+61814,A,Unity Symbol,1,20
+61814,A,Heavy Armor Sphere,1,18
+61814,A,Large Elder Dragon Bone,1,17
+61814,A,Pure Dragon Blood,1,15
+61814,A,Phantomcore Ore,1,8
+61814,A,Unity Symbol,2,1
+66818,A,Ancient Feystone,1,100
+66818,A,Zinogre Cortex,1,21
+66818,A,Heavy Armor Sphere,1,20
+66818,A,Zinogre Electrofur+,1,18
+66818,A,Zinogre Deathly Shocker,1,15
+66818,A,Dragoncore Ore,1,11
+66818,A,Fulgurbug,1,11
+66818,A,Zinogre Skymerald,1,3
+66818,A,Ancient Feystone,1,1
+66819,A,Ancient Feystone,1,100
+66819,A,Garuga Cortex,1,23
+66819,A,Heavy Armor Sphere,1,20
+66819,A,Garuga Shard,1,18
+66819,A,Dragoncore Ore,1,11
+66819,A,Garuga Silverpelt,1,11
+66819,A,Garuga Fellwing,1,8
+66819,A,Garuga Lash,1,8
+66819,A,Ancient Feystone,1,1
+66820,A,Ancient Feystone,1,100
+66820,A,Brute Tigrex Cortex,1,21
+66820,A,Heavy Armor Sphere,1,20
+66820,A,Brute Tigrex Shard,1,18
+66820,A,Brute Tigrex Hardclaw,1,13
+66820,A,Dragoncore Ore,1,11
+66820,A,Brute Tigrex Hardfang,1,11
+66820,A,Tigrex Mantle,1,5
+66820,A,Ancient Feystone,1,1
+66821,A,Ancient Feystone,1,100
+66821,A,Silver Rathalos Shard,1,21
+66821,A,Heavy Armor Sphere,1,20
+66821,A,Silver Rathalos Cortex,1,18
+66821,A,Silver Rathalos Fellwing,1,11
+66821,A,Silver Rathalos Lash,1,11
+66821,A,Rath Gleam,1,8
+66821,A,Phantomcore Ore,1,5
+66821,A,Rathalos Mantle,1,5
+66821,A,Ancient Feystone,1,1
+66822,A,Ancient Feystone,1,100
+66822,A,Gold Rathian Cortex,1,21
+66822,A,Heavy Armor Sphere,1,20
+66822,A,Gold Rathian Shard,1,18
+66822,A,Rathian Weave,2,11
+66822,A,Rath Wingtalon+,2,11
+66822,A,Rath Gleam,1,8
+66822,A,Phantomcore Ore,1,5
+66822,A,Rathian Mantle,1,5
+66822,A,Ancient Feystone,1,1
+61808,A,Buff Ticket,1,100
+61808,A,Heavy Armor Sphere,1,20
+61808,A,Ancient Feystone,1,19
+61808,A,Mega Demondrug,1,18
+61808,A,Mega Armorskin,1,18
+61808,A,Buff Ticket,1,17
+61808,A,Gourmet Voucher,1,8
+66824,A,Ancient Feystone,1,100
+66824,A,Rajang Hardfang,1,21
+66824,A,Heavy Armor Sphere,1,20
+66824,A,Rajang Wildpelt,1,16
+66824,A,Rajang Hardclaw,1,13
+66824,A,Rajang Tail,1,11
+66824,A,Rajang Hardhorn,1,8
+66824,A,Phantomcore Ore,1,5
+66824,A,Gold Rajang Pelt+,1,5
+66824,A,Ancient Feystone,1,1
+66825,A,Ancient Feystone,1,100
+66825,A,Heavy Armor Sphere,1,20
+66825,A,Scratched Shell,1,18
+66825,A,Garuga Cortex,1,13
+66825,A,Garuga Shard,1,13
+66825,A,Dragoncore Ore,1,11
+66825,A,Garuga Silverpelt,1,10
+66825,A,Garuga Fellwing,1,7
+66825,A,Garuga Lash,1,7
+66825,A,Ancient Feystone,1,1
+66832,A,Ancient Feystone,1,100
+66832,A,Stygian Zinogre Cortex,1,21
+66832,A,Heavy Armor Sphere,1,20
+66832,A,Stygian Zinogre Dragonlocks,1,18
+66832,A,Stygian Zinogre Dragonhold,1,15
+66832,A,Dragoncore Ore,1,11
+66832,A,Stygian Zinogre Lash,1,6
+66832,A,Stygian Zinogre Hardclaw,1,5
+66832,A,Stygian Zinogre Skymerald,1,3
+66832,A,Ancient Feystone,1,1
+66826,A,Heavy Armor Sphere,2,100
+66826,A,Ancient Feystone,2,18
+66826,A,Rajang Wildpelt,1,12
+66826,A,Anjanath Fur,1,11
+66826,A,Rathalos Cortex,1,11
+66826,A,Nargacuga Blackfur+,1,11
+66826,A,Garuga Cortex,1,11
+66826,A,Anjanath Mantle,1,5
+66826,A,Rathalos Mantle,1,5
+66826,A,Nargacuga Mantle,1,5
+66826,A,Fey Wyvern Gem,1,5
+66826,A,Gold Rajang Pelt+,1,5
+66826,A,Heavy Armor Sphere,2,1
+66827,A,Heavy Armor Sphere,2,100
+66827,A,Ancient Feystone,2,18
+66827,A,Deviljho Blackpiel,1,13
+66827,A,Jyuratodus Cortex,1,12
+66827,A,Nightshade Paolumu Thickfur,1,12
+66827,A,Glavenus Cortex,1,12
+66827,A,Black Diablos Chine,1,12
+66827,A,Deviljho Crook,1,5
+66827,A,Diablos Hardhorn,1,5
+66827,A,Glavenus Mantle,1,5
+66827,A,Large Wyvern Gem,1,5
+66827,A,Heavy Armor Sphere,2,1
+66828,A,Heavy Armor Sphere,2,100
+66828,A,Ancient Feystone,2,18
+66828,A,Zinogre Electrofur+,1,12
+66828,A,Paolumu Thickfur,1,11
+66828,A,Legiana Thickhide,1,11
+66828,A,Coral Pukei-Pukei Cortex,1,11
+66828,A,Hard Ebony Odogaron Sinew,1,11
+66828,A,Large Wyvern Gem,1,5
+66828,A,Legiana Mantle,1,5
+66828,A,Fey Wyvern Gem,1,5
+66828,A,Ebony Odogaron Mantle,1,5
+66828,A,Zinogre Skymerald,1,5
+66828,A,Heavy Armor Sphere,2,1
+66829,A,Heavy Armor Sphere,2,100
+66829,A,Ancient Feystone,2,18
+66829,A,Acidic Glavenus Cortex,1,12
+66829,A,Great Girros Thickhide,1,11
+66829,A,Hard Odogaron Sinew,1,11
+66829,A,Tigrex Cortex,1,11
+66829,A,Fulgur Anjanath Thickfur,1,11
+66829,A,Large Wyvern Gem,1,5
+66829,A,Odogaron Mantle,1,5
+66829,A,Tigrex Mantle,1,5
+66829,A,Fulgur Anjanath Mantle,1,5
+66829,A,Glavenus Mantle,1,5
+66829,A,Heavy Armor Sphere,2,1
+66830,A,Heavy Armor Sphere,2,100
+66830,A,Ancient Feystone,2,18
+66830,A,Flickering Silvershell,1,12
+66830,A,Banbaro Chine,1,11
+66830,A,Uragaan Cortex,1,11
+66830,A,Fine Brachydios Ebonshell,1,11
+66830,A,Azure Rathalos Cortex,1,11
+66830,A,Large Wyvern Gem,1,5
+66830,A,Uragaan Pallium,1,5
+66830,A,Brachydios Pallium,1,5
+66830,A,Rathalos Mantle,1,5
+66830,A,Bazelgeuse Mantle,1,5
+66830,A,Heavy Armor Sphere,2,1
+66831,A,Heavy Armor Sphere,2,100
+66831,A,Ancient Feystone,2,18
+66831,A,Beotodus Cortex,1,14
+66831,A,Viper Tobi-Kadachi Thickfur,1,14
+66831,A,Stygian Zinogre Dragonlocks,1,14
+66831,A,Barioth Thickfur,1,13
+66831,A,Rimed Hide,1,13
+66831,A,Large Wyvern Gem,1,5
+66831,A,Legiana Mantle,1,5
+66831,A,Stygian Zinogre Skymerald,1,3
+66831,A,Heavy Armor Sphere,2,1
+66835,A,Sealed Feystone,1,100
+66835,A,Carved Feystone,1,79
+66835,A,Ancient Feystone,1,20
+66835,A,Sealed Feystone,1,1
+66836,A,Great Spiritvein Gem,1,100
+66836,A,King Armor Sphere,1,20
+66836,A,Nergigante Cortex,1,18
+66836,A,Immortal Shard,1,17
+66836,A,Spiritvein Gem Shard,1,13
+66836,A,Shadowcore Ore,1,13
+66836,A,Spiritvein Gem,1,11
+66836,A,Great Spiritvein Gem,1,8
+64801,A,Hard Armor Sphere,1,100
+64801,A,Hard Armor Sphere,1,82
+64801,A,Heavy Armor Sphere,1,18
+64802,A,Heavy Armor Sphere,1,100
+64802,A,Hard Armor Sphere,1,67
+64802,A,Heavy Armor Sphere,1,25
+64802,A,King Armor Sphere,1,8
 3171,A,Dust of Life,1,30
 3171,A,Max Potion,1,28
 3171,A,Black Belt Coin,1,20

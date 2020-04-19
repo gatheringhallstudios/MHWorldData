@@ -35,12 +35,13 @@ def update_quests(mhdata, item_updater: ItemUpdater, monster_data: MonsterCollec
     print('Quest artifacts written. Copy ids and names to quest_base.csv to add to build')
 
     # Merge the quest data
+    existing_quest_names = set(q['name_en'] for q in mhdata.quest_map.values())
     quest_new = DataMap(languages=[])
     for raw in quest_data:
         existing_entry = mhdata.quest_map.get(raw['id'])
         if existing_entry:
             existing_entry.update(raw)
-        else:
+        elif raw['name']['en'] not in existing_quest_names:
             quest_new.insert(raw)
     print('Quests merged')
 
