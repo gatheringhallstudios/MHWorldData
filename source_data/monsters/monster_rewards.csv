@@ -4716,10 +4716,9 @@ Seething Bazelgeuse,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Blackveil Vaal Hazak,MR,Track,Deceased Shard,1,100
 Blackveil Vaal Hazak,MR,Body Carve,Deceased Shard,1,30
 Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Cortex,1,22
-Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Hardclaw,1,14
-Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Fellwing,1,11
-Blackveil Vaal Hazak,MR,Body Carve,Shadowpierce Fang,1,8
-Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Flail,1,8
+Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Hardclaw,1,18
+Blackveil Vaal Hazak,MR,Body Carve,Shadowpierce Fang,1,14
+Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Fellwing,1,9
 Blackveil Vaal Hazak,MR,Body Carve,Vaal Hazak Gem,1,5
 Blackveil Vaal Hazak,MR,Body Carve,Large Elder Dragon Gem,1,2
 Blackveil Vaal Hazak,MR,Wound Head,Shadowpierce Fang,1,66
@@ -4884,11 +4883,12 @@ Savage Deviljho,MR,Guiding Lands (Tempered),Spattered Hide,1,64
 Savage Deviljho,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,33
 Savage Deviljho,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Ruiner Nergigante,MR,Track,Immortal Shard,1,100
-Ruiner Nergigante,MR,Body Carve,Immortal Shard,1,32
-Ruiner Nergigante,MR,Body Carve,Nergigante Cortex,1,24
+Ruiner Nergigante,MR,Body Carve,Immortal Shard,1,30
+Ruiner Nergigante,MR,Body Carve,Nergigante Cortex,1,22
 Ruiner Nergigante,MR,Body Carve,Nergigante Hardclaw,1,19
-Ruiner Nergigante,MR,Body Carve,Eternal Regrowth Plate,1,15
+Ruiner Nergigante,MR,Body Carve,Eternal Regrowth Plate,1,14
 Ruiner Nergigante,MR,Body Carve,Annihilating Greathorn,1,8
+Ruiner Nergigante,MR,Body Carve,Nergigante Gem,1,5
 Ruiner Nergigante,MR,Body Carve,Large Elder Dragon Gem,1,2
 Ruiner Nergigante,MR,Break Horn,Annihilating Greathorn,1,66
 Ruiner Nergigante,MR,Break Horn,Eternal Regrowth Plate,2,34
@@ -4948,11 +4948,10 @@ Ruiner Nergigante,MR,Guiding Lands (Tempered),Annihilating Temperhorn,1,64
 Ruiner Nergigante,MR,Guiding Lands (Tempered),Elder Spiritvein Bone,1,33
 Ruiner Nergigante,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,3
 Shara Ishvalda,MR,Track,Shara Ishvalda Tenderscale,1,100
-Shara Ishvalda,MR,Body Carve,Shara Ishvalda Tenderscale,1,32
-Shara Ishvalda,MR,Body Carve,Shara Ishvalda Boulderplate,1,24
-Shara Ishvalda,MR,Body Carve,Shara Ishvalda Petalstone,1,18
-Shara Ishvalda,MR,Body Carve,Shara Ishvalda Tenderclaw,1,13
-Shara Ishvalda,MR,Body Carve,Shara Ishvalda Tenderplate,1,9
+Shara Ishvalda,MR,Body Carve,Shara Ishvalda Tenderscale,1,33
+Shara Ishvalda,MR,Body Carve,Shara Ishvalda Boulderplate,1,27
+Shara Ishvalda,MR,Body Carve,Shara Ishvalda Petalstone,1,21
+Shara Ishvalda,MR,Body Carve,Shara Ishvalda Tenderclaw,1,15
 Shara Ishvalda,MR,Body Carve,Shara Ishvalda Gem,1,4
 Shara Ishvalda,MR,Wound Head,Shara Ishvalda Tenderscale,1,64
 Shara Ishvalda,MR,Wound Head,Shara Ishvalda Tenderplate,1,33
@@ -5407,7 +5406,7 @@ Stygian Zinogre,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,31
 Stygian Zinogre,MR,Guiding Lands (Tempered),Great Spiritvein Gem,1,5
 Safi'jiiva,MR,Track,Safi'jiiva Shard,1,100
 Safi'jiiva,MR,Body Carve,Safi'jiiva Shard,1,32
-Safi'jiiva,MR,Body Carve,Safi'jiiva Shard,1,22
+Safi'jiiva,MR,Body Carve,Safi'jiiva Cortex,1,22
 Safi'jiiva,MR,Body Carve,Pulsing Dragonshell,1,16
 Safi'jiiva,MR,Body Carve,Safi'jiiva Lash,1,11
 Safi'jiiva,MR,Body Carve,Safi'jiiva Hardclaw,1,8
@@ -5459,6 +5458,83 @@ Safi'jiiva,MR,Hunt (Bronze),Pulsing Dragonshell,1,13
 Safi'jiiva,MR,Hunt (Bronze),Safi'jiiva Fellwing,1,10
 Safi'jiiva,MR,Hunt (Bronze),Safi'jiiva Hardhorn,1,9
 Safi'jiiva,MR,Hunt (Bronze),Zionium Crystal,1,3
+Furious Rajang,MR,Track,Rajang Apoplexy,1,100
+Furious Rajang,MR,Carve / Capture,Rajang Apoplexy,1,32
+Furious Rajang,MR,Carve / Capture,Rajang Hardclaw,1,23
+Furious Rajang,MR,Carve / Capture,Gold Rajang Pelt+,1,21
+Furious Rajang,MR,Carve / Capture,Rajang Hardhorn,1,15
+Furious Rajang,MR,Carve / Capture,Rajang Heart,1,9
+Furious Rajang,MR,Break Horns,Ghoulish Gold Gorer,1,100
+Furious Rajang,MR,Wound Left Foreleg,Rajang Hardclaw,1,70
+Furious Rajang,MR,Wound Left Foreleg,Rajang Apoplexy,1,30
+Furious Rajang,MR,Wound Right Foreleg,Rajang Hardclaw,1,70
+Furious Rajang,MR,Wound Right Foreleg,Rajang Apoplexy,1,30
+Furious Rajang,MR,Wound Tail,Rajang Tail,1,90
+Furious Rajang,MR,Wound Tail,Gold Rajang Pelt+,1,10
+Furious Rajang,MR,Shiny Drop,Rajang Apoplexy,1,50
+Furious Rajang,MR,Shiny Drop,Gold Rajang Pelt+,1,28
+Furious Rajang,MR,Shiny Drop,Large Beast Tear,1,22
+Furious Rajang,MR,Plunderblade,Rajang Apoplexy,1,45
+Furious Rajang,MR,Plunderblade,Rajang Hardhorn,1,30
+Furious Rajang,MR,Plunderblade,Gold Rajang Pelt+,1,24
+Furious Rajang,MR,Plunderblade,Rajang Heart,1,1
+Furious Rajang,MR,Bandit Mantle,Magnificent Pelt,1,100
+Furious Rajang,MR,Hunt (Bronze),Rajang Apoplexy,1,32
+Furious Rajang,MR,Hunt (Bronze),Rajang Hardclaw,1,23
+Furious Rajang,MR,Hunt (Bronze),Gold Rajang Pelt+,1,17
+Furious Rajang,MR,Hunt (Bronze),Rajang Hardhorn,1,14
+Furious Rajang,MR,Hunt (Bronze),Ghoulish Gold Gorer,1,9
+Furious Rajang,MR,Hunt (Bronze),Rajang Heart,1,5
+Furious Rajang,MR,Investigation (Silver),Rajang Hardclaw,1,23
+Furious Rajang,MR,Investigation (Silver),Rajang Apoplexy,2,16
+Furious Rajang,MR,Investigation (Silver),Gold Rajang Pelt+,1,15
+Furious Rajang,MR,Investigation (Silver),Rajang Hardhorn,1,15
+Furious Rajang,MR,Investigation (Silver),Rajang Hardfang,2,12
+Furious Rajang,MR,Investigation (Silver),Ghoulish Gold Gorer,1,11
+Furious Rajang,MR,Investigation (Silver),Rajang Heart,1,8
+Furious Rajang,MR,Investigation (Gold),Gold Rajang Pelt+,1,21
+Furious Rajang,MR,Investigation (Gold),Rajang Hardhorn,1,21
+Furious Rajang,MR,Investigation (Gold),Ghoulish Gold Gorer,1,18
+Furious Rajang,MR,Investigation (Gold),Rajang Heart,1,16
+Furious Rajang,MR,Investigation (Gold),Rajang Apoplexy,3,12
+Furious Rajang,MR,Investigation (Gold),Rajang Hardclaw,2,12
+Furious Rajang,MR,Guiding Lands (Low),Dragonvein Solidbone,1,100
+Furious Rajang,MR,Guiding Lands (Mid),Dragonvein Solidbone,1,100
+Furious Rajang,MR,Guiding Lands (High),Dragonvein Solidbone,1,100
+Furious Rajang,MR,Guiding Lands (Tempered),Dragonvein Solidbone,1,100
+Raging Brachydios,MR,Carve / Capture,Indestructible Ebonshell,1,36
+Raging Brachydios,MR,Carve / Capture,Flashpoint Slime,1,24
+Raging Brachydios,MR,Carve / Capture,Brach Obliterator,1,21
+Raging Brachydios,MR,Carve / Capture,Brach Warhead,1,14
+Raging Brachydios,MR,Carve / Capture,Immortal Reactor,1,5
+Raging Brachydios,MR,Wound Head,Brach Warhead,1,92
+Raging Brachydios,MR,Wound Head,Immortal Reactor,1,8
+Raging Brachydios,MR,Wound Left Foreleg,Brach Obliterator,1,73
+Raging Brachydios,MR,Wound Left Foreleg,Flashpoint Slime,2,27
+Raging Brachydios,MR,Wound Right Foreleg,Brach Obliterator,1,73
+Raging Brachydios,MR,Wound Right Foreleg,Flashpoint Slime,2,27
+Raging Brachydios,MR,Shiny Drop,Flashpoint Slime,1,100
+Raging Brachydios,MR,Tail Carve,Brachydios Lash,1,53
+Raging Brachydios,MR,Tail Carve,Indestructible Ebonshell,1,38
+Raging Brachydios,MR,Tail Carve,Immortal Reactor,1,9
+Raging Brachydios,MR,Palico Bonus,Indestructible Ebonshell,1,78
+Raging Brachydios,MR,Palico Bonus,Large Wyvern Tear,1,22
+Raging Brachydios,MR,Plunderblade,Indestructible Ebonshell,1,41
+Raging Brachydios,MR,Plunderblade,Flashpoint Slime,1,33
+Raging Brachydios,MR,Plunderblade,Brach Obliterator,1,25
+Raging Brachydios,MR,Plunderblade,Immortal Reactor,1,1
+Raging Brachydios,MR,Bandit Mantle,Giant Scale,1,70
+Raging Brachydios,MR,Bandit Mantle,Magnificent Scale,1,30
+Raging Brachydios,MR,Hunt (Bronze),Indestructible Ebonshell,1,36
+Raging Brachydios,MR,Hunt (Bronze),Flashpoint Slime,1,25
+Raging Brachydios,MR,Hunt (Bronze),Brachydios Lash,1,19
+Raging Brachydios,MR,Hunt (Bronze),Brach Obliterator,1,9
+Raging Brachydios,MR,Hunt (Bronze),Brachydios Pallium,1,8
+Raging Brachydios,MR,Hunt (Bronze),Immortal Reactor,1,3
+Raging Brachydios,MR,Guiding Lands (Low),Dragonvein Solidbone,1,100
+Raging Brachydios,MR,Guiding Lands (Mid),Dragonvein Solidbone,1,100
+Raging Brachydios,MR,Guiding Lands (High),Dragonvein Solidbone,1,100
+Raging Brachydios,MR,Guiding Lands (Tempered),Spiritvein Solidbone,1,100
 Behemoth,HR,Track,Behemoth Mane,1,100
 Behemoth,HR,Body Carve,Behemoth Mane,1,35
 Behemoth,HR,Body Carve,Behemoth Bone,1,29
