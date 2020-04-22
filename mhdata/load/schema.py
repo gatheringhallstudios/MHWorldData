@@ -421,7 +421,7 @@ class QuestBaseSchema(BaseSchema):
     name = fields.Dict()
     objective = fields.Dict()
     description = fields.Dict()
-    category = fields.String(allow_none=True)
+    category = ValidatedStr(None, 'assigned', 'special', 'optional', 'event', 'arena', 'challenge')
     rank = fields.Str()
     stars = fields.Int()
     quest_type = ValidatedStr(None, 'hunt', 'capture', 'deliver', 'assignment')

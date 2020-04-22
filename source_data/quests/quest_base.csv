@@ -26,6 +26,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 804,Land of Convergence,assigned,HR,9,hunt,Confluence of Fates,19800
 805,Beyond the Blasting Scales,assigned,HR,9,hunt,Wildspire Waste,27720
 806,Thunderous Rumble in the Highlands,assigned,HR,9,hunt,Coral Highlands,21600
+241,Learning the Clutch,optional,LR,1,hunt,Arena,300
 151,Butting Heads with Nature,optional,LR,1,hunt,Ancient Forest,720
 152,A Thicket of Thugs,optional,LR,1,hunt,Ancient Forest,720
 153,Fungal Flexin' in the Ancient Forest,optional,LR,1,deliver,Ancient Forest,720
@@ -148,6 +149,8 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 996,Showdown: the Muck and the Maul,optional,HR,9,hunt,Special Arena,15840
 997,"New World Sky, New World Flower",optional,HR,9,hunt,Special Arena,25920
 998,A Summons from Below,optional,HR,9,hunt,Rotten Vale,29520
+961,Beyond the Blasting Scales,optional,HR,9,hunt,Wildspire Waste,27720
+971,Thunderous Rumble in the Highlands,optional,HR,9,hunt,Coral Highlands,21600
 50991,A Visitor from Eorzea,optional,HR,9,hunt,Elder's Recess,25200
 50701,The Food Chain Dominator,special,HR,7,hunt,Ancient Forest,14400
 50801,The Blazing Sun,special,HR,8,hunt,Wildspire Waste,18000
@@ -159,27 +162,6 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 50910,Contract: Trouble in the Ancient Forest,special,HR,9,hunt,Ancient Forest,19800
 50902,The Fury of El Dorado,event,HR,9,assignment,Caverns of El Dorado,36000
 61605,Mosswinin' and Dinin',event,HR,6,hunt,Arena,54000
-63033,Gajalaka Outbreak!,event,HR,6,hunt,Arena,4320
-63051,Challenge Quest 1: Expert,event,HR,9,hunt,Arena,4320
-63052,Challenge Quest 2: Expert,event,HR,9,hunt,Special Arena,4320
-63104,Gale & Fangs Slay Event 1,event,HR,7,hunt,Arena,3240
-63105,Gale & Fangs Slay Event 2,event,HR,7,hunt,Arena,3240
-63106,Gale & Fangs Slay Event 3,event,HR,7,hunt,Arena,3240
-63101,Nergigante Slay Event 1,event,HR,8,hunt,Arena,3240
-63102,Nergigante Slay Event 2,event,HR,8,hunt,Arena,3240
-63103,Nergigante Slay Event 3,event,HR,8,hunt,Special Arena,3240
-63107,Nergigante Slay Event 4,event,HR,8,hunt,Arena,3240
-63108,Deviljho Slay Event,event,HR,7,hunt,Arena,3240
-63109,The Best of the Best,event,HR,8,hunt,Arena,6480
-63110,What Lurks In The Forest,event,HR,7,hunt,Ancient Forest,3240
-63130,When Law Meets War,event,HR,7,hunt,Arena,3240
-63131,The Hunter and The Blue Empress,event,HR,8,hunt,Arena,3240
-61101,Up at the Crack of Dawn,event,LR,1,hunt,Arena,1080
-63003,Vespoid Infestation!,event,LR,2,hunt,Special Arena,2160
-63001,Challenge Quest 1: Beginner,event,LR,2,hunt,Special Arena,1080
-63002,Challenge Quest 2: Beginner,event,LR,4,hunt,Arena,1080
-63031,Challenge Quest 1: Intermediate,event,HR,7,hunt,Arena,2160
-63032,Challenge Quest 2: Intermediate,event,HR,7,hunt,Special Arena,2160
 61103,Where Sun Meets Moon,event,LR,3,hunt,Ancient Forest,5400
 61104,Timberland Troublemakers,event,LR,4,hunt,Ancient Forest,8640
 61105,Every Hunter's Dream,event,LR,5,hunt,Arena,7200
@@ -231,6 +213,19 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66608,A Nose for an Eye,event,HR,9,hunt,Ancient Forest,23400
 66609,No Tomorrow for Usurpers,event,HR,9,hunt,Elder's Recess,18000
 66610,The Thronetaker,event,HR,9,hunt,Elder's Recess,37800
+50901,Banquet in the Earthen Hall,event,HR,9,assignment,Caverns of El Dorado,25200
+63004,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
+63005,USJ Beginners Challenge!,event,LR,2,hunt,Arena,1080
+63006,USJ Expert Challenge!,event,LR,4,hunt,Special Arena,1080
+63007,USJ Beginners Challenge!,event,LR,4,hunt,Arena,2160
+63008,USJ Expert Challenge!,event,LR,5,hunt,Special Arena,2160
+63009,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
+63034,The Awakened Satsui No Hado I,event,HR,8,hunt,Arena,4320
+63035,The Awakened Satsui No Hado II,event,HR,8,hunt,Arena,4320
+63036,The Awakened Satsui No Hado III,event,HR,8,hunt,Arena,4320
+63037,Empress in Full Bloom I,event,HR,7,hunt,Arena,4320
+63038,Empress in Full Bloom II,event,HR,7,hunt,Arena,4320
+63039,Empress in Full Bloom III,event,HR,7,hunt,Arena,4320
 3101,Arena Quest 01,arena,LR,1,hunt,Arena,1080
 3001,Arena Quest 02,arena,LR,2,hunt,Arena,1080
 3002,Arena Quest 03,arena,LR,4,hunt,Arena,1080
@@ -240,7 +235,27 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 3034,Arena Quest 07,arena,HR,7,hunt,Arena,2160
 3051,Arena Quest 08,arena,HR,8,hunt,Special Arena,3240
 3052,Arena Quest 09,arena,HR,8,hunt,Special Arena,3240
-241,Learning the Clutch,optional,LR,1,hunt,Arena,300
+63033,Gajalaka Outbreak!,challenge,HR,6,hunt,Arena,4320
+63104,Gale & Fangs Slay Event 1,challenge,HR,7,hunt,Arena,3240
+63105,Gale & Fangs Slay Event 2,challenge,HR,7,hunt,Arena,3240
+63106,Gale & Fangs Slay Event 3,challenge,HR,7,hunt,Arena,3240
+63101,Nergigante Slay Event 1,challenge,HR,8,hunt,Arena,3240
+63102,Nergigante Slay Event 2,challenge,HR,8,hunt,Arena,3240
+63103,Nergigante Slay Event 3,challenge,HR,8,hunt,Special Arena,3240
+63107,Nergigante Slay Event 4,challenge,HR,8,hunt,Arena,3240
+63108,Deviljho Slay Event,challenge,HR,7,hunt,Arena,3240
+63109,The Best of the Best,challenge,HR,8,hunt,Arena,6480
+63110,What Lurks In The Forest,challenge,HR,7,hunt,Ancient Forest,3240
+63130,When Law Meets War,challenge,HR,7,hunt,Arena,3240
+63131,The Hunter and The Blue Empress,challenge,HR,8,hunt,Arena,3240
+61101,Up at the Crack of Dawn,challenge,LR,1,hunt,Arena,1080
+63003,Vespoid Infestation!,challenge,LR,2,hunt,Special Arena,2160
+63001,Challenge Quest 1: Beginner,challenge,LR,2,hunt,Special Arena,1080
+63002,Challenge Quest 2: Beginner,challenge,LR,4,hunt,Arena,1080
+63031,Challenge Quest 1: Intermediate,challenge,HR,7,hunt,Arena,2160
+63032,Challenge Quest 2: Intermediate,challenge,HR,7,hunt,Special Arena,2160
+63051,Challenge Quest 1: Expert,challenge,HR,9,hunt,Arena,4320
+63052,Challenge Quest 2: Expert,challenge,HR,9,hunt,Special Arena,4320
 1101,Baptism by Ice,assigned,MR,1,hunt,Hoarfrost Reach,14400
 1102,Banbaro Blockade,assigned,MR,1,hunt,Hoarfrost Reach,14400
 1201,Ready to Strike,assigned,MR,2,hunt,Hoarfrost Reach,18000
@@ -384,6 +399,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 1634,Special Arena: MR Brute Tigrex,optional,MR,6,hunt,Special Arena,36000
 1635,Special Arena: MR Gold Rathian,optional,MR,6,hunt,Special Arena,36000
 1636,Special Arena: MR Silver Rathalos,optional,MR,6,hunt,Special Arena,36000
+51621,Special Arena: MR Stygian Zinogre,optional,MR,6,hunt,Special Arena,36000
 1641,Faraway Lorelei,optional,MR,6,hunt,Origin Isle,43200
 1642,Hymn of Moon and Sun,optional,MR,6,hunt,Elder's Recess,57600
 1651,The Storm Brings the Unexpected,optional,MR,6,hunt,Ancient Forest,60480
@@ -391,24 +407,16 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 1671,Divine Surge,optional,MR,6,hunt,Coral Highlands,60480
 1691,Into the Palace of Flame,optional,MR,6,hunt,Elder's Recess,36000
 1692,Master Hunter of the New World,optional,MR,6,hunt,Elder's Recess,98640
-50901,Banquet in the Earthen Hall,event,HR,9,assignment,Caverns of El Dorado,25200
-63004,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
-63005,USJ Beginners Challenge!,event,LR,2,hunt,Arena,1080
-63006,USJ Expert Challenge!,event,LR,4,hunt,Special Arena,1080
-63007,USJ Beginners Challenge!,event,LR,4,hunt,Arena,2160
-63008,USJ Expert Challenge!,event,LR,5,hunt,Special Arena,2160
-63009,"Down the Dark, Muddy Path",event,LR,3,hunt,Arena,1080
-63034,The Awakened Satsui No Hado I,event,HR,8,hunt,Arena,4320
-63035,The Awakened Satsui No Hado II,event,HR,8,hunt,Arena,4320
-63036,The Awakened Satsui No Hado III,event,HR,8,hunt,Arena,4320
-63037,Empress in Full Bloom I,event,HR,7,hunt,Arena,4320
-63038,Empress in Full Bloom II,event,HR,7,hunt,Arena,4320
-63039,Empress in Full Bloom III,event,HR,7,hunt,Arena,4320
+51602,Sterling Pride,special,MR,6,hunt,Hoarfrost Reach,36000
+51601,"Reveal Thyself, Destroyer",special,MR,6,hunt,Guiding Lands,36000
+51603,Across the Lost Path,special,MR,6,hunt,Guiding Lands,36000
+51604,Point of No Return,special,MR,6,hunt,Secluded Valley,36000
+51606,...And My Rage for All,special,MR,6,hunt,Guiding Lands,43200
+51607,The Fury Remains,special,MR,6,hunt,Hoarfrost Reach,43200
 61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
+51605,The Red Dragon,event,MR,6,hunt,Secluded Valley,43200
 61805,Duffel Duty,event,MR,1,deliver,Hoarfrost Reach,9000
 61811,Flora Frostbite,event,MR,1,deliver,Hoarfrost Reach,9000
-63071,Challenge Quest 1: MR Intermediate,event,MR,2,hunt,Special Arena,25920
-63073,Challenge Quest 1: MR Expert,event,MR,6,hunt,Special Arena,28800
 63142,Farewell to the Frozen,event,MR,5,hunt,Arena,28800
 66801,Trophy Fishin',event,MR,1,hunt,Hoarfrost Reach,23040
 66802,The Lord of the Underworld Beckons,event,MR,1,deliver,Rotten Vale,9000
@@ -434,8 +442,6 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66815,We Three Kings,event,MR,5,hunt,Special Arena,75600
 66816,The Winter Blues,event,MR,5,hunt,Coral Highlands,51840
 66817,A Reason Behind The Hunger,event,MR,5,hunt,Elder's Recess,36000
-51601,"Reveal Thyself, Destroyer",event,MR,6,hunt,Guiding Lands,36000
-51602,Sterling Pride,event,MR,6,hunt,Hoarfrost Reach,36000
 67801,RE: Return of the Bioweapon,event,MR,5,hunt,Rotten Vale,36000
 61814,A Shocking Climax,event,MR,6,hunt,Coral Highlands,45360
 66818,Moonlit Howl,event,MR,6,hunt,Coral Highlands,28800
@@ -455,6 +461,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66831,Ballad of the Hoarfrost,event,MR,6,hunt,Hoarfrost Reach,67320
 66835,The Wrath of Thunder Descends,event,MR,6,hunt,Ancient Forest,34560
 66836,Ode to the Destruction,event,MR,6,hunt,Origin Isle,43200
+61809,Paolumu Lullabies,event,MR,2,hunt,Arena,81000
 64801,Balloon Fight,event,MR,2,hunt,Special Arena,28800
 64802,Talk About a Party Foul...,event,MR,5,hunt,Special Arena,36000
 67101,The Proving,event,HR,6,hunt,Ancient Forest,9000
@@ -467,3 +474,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 3074,Arena Master Quest 05,arena,MR,4,hunt,Special Arena,43200
 3091,Arena Master Quest 06,arena,MR,6,hunt,Arena,28800
 3092,Arena Master Quest 07,arena,MR,6,hunt,Special Arena,48960
+63071,Challenge Quest 1: MR Intermediate,challenge,MR,2,hunt,Special Arena,25920
+63072,Challenge Quest 2: MR Intermediate,challenge,MR,4,hunt,Arena,37440
+63073,Challenge Quest 1: MR Expert,challenge,MR,6,hunt,Special Arena,28800
+63074,Challenge Quest 2: MR Expert,challenge,MR,6,hunt,Arena,43200

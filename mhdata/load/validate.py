@@ -243,7 +243,7 @@ def validate_weapons(mhdata):
         name = entry.name('en')
         weapon_type = entry['weapon_type']
 
-        if entry['category'] != 'Kulve':
+        if entry['category'] not in ('Kulve', 'Safi'):
             if not entry.get('craft', {}):
                 errors.append(f"Weapon {name} does not have any recipes")
             else:

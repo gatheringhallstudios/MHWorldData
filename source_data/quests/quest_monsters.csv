@@ -61,6 +61,7 @@ base_id,monster_en,quantity,is_objective
 804,Xeno'jiiva,1,True
 805,Bazelgeuse,2,True
 806,Kirin,1,True
+241,Great Jagras,1,True
 151,Kestodon,12,True
 152,Jagras,7,True
 153,Great Jagras,1,False
@@ -433,6 +434,8 @@ base_id,monster_en,quantity,is_objective
 997,Azure Rathalos,1,True
 998,Vaal Hazak,1,True
 998,Odogaron,1,True
+961,Bazelgeuse,2,True
+971,Kirin,1,True
 50991,Behemoth,1,True
 50701,Deviljho,1,True
 50701,Great Jagras,1,False
@@ -451,40 +454,6 @@ base_id,monster_en,quantity,is_objective
 50910,Pukei-Pukei,1,False
 50902,Kulve Taroth,1,True
 61605,Mosswine,5,True
-63033,Gajalaka,10,True
-63033,Barroth,1,False
-63051,Bazelgeuse,1,True
-63051,Uragaan,1,True
-63052,Nergigante,1,True
-63104,Odogaron,1,True
-63104,Legiana,1,True
-63105,Odogaron,1,True
-63105,Legiana,1,True
-63106,Odogaron,1,True
-63106,Legiana,1,True
-63101,Nergigante,1,True
-63102,Nergigante,1,True
-63103,Nergigante,1,True
-63107,Nergigante,1,True
-63108,Deviljho,1,True
-63109,Teostra,1,True
-63109,Kushala Daora,1,True
-63109,Nergigante,1,True
-63110,Anjanath,1,True
-63110,Rathalos,1,True
-63110,Great Jagras,1,True
-63130,Bazelgeuse,1,True
-63131,Lunastra,1,True
-61101,Kestodon,12,True
-63003,Vespoid,30,True
-63003,Pukei-Pukei,1,False
-63001,Kulu-Ya-Ku,1,True
-63001,Pukei-Pukei,1,True
-63002,Paolumu,1,True
-63002,Tobi-Kadachi,1,True
-63031,Rathalos,1,True
-63031,Tzitzi-Ya-Ku,1,True
-63032,Odogaron,2,True
 61103,Pukei-Pukei,1,True
 61103,Tobi-Kadachi,1,True
 61104,Anjanath,2,True
@@ -590,6 +559,19 @@ base_id,monster_en,quantity,is_objective
 66610,Nergigante,1,True
 66610,Lunastra,1,True
 66610,Teostra,1,True
+50901,Kulve Taroth,1,True
+63004,Barroth,1,True
+63005,Kulu-Ya-Ku,1,True
+63006,Rathian,1,True
+63007,Tzitzi-Ya-Ku,1,True
+63008,Rathalos,1,True
+63009,Barroth,1,True
+63034,Nergigante,1,True
+63035,Nergigante,1,True
+63036,Nergigante,1,True
+63037,Pink Rathian,1,True
+63038,Pink Rathian,1,True
+63039,Pink Rathian,1,True
 3101,Pukei-Pukei,1,True
 3001,Kulu-Ya-Ku,1,True
 3002,Rathian,1,True
@@ -601,7 +583,40 @@ base_id,monster_en,quantity,is_objective
 3051,Uragaan,1,True
 3052,Diablos,1,True
 3052,Black Diablos,1,True
-241,Great Jagras,1,True
+63033,Gajalaka,10,True
+63033,Barroth,1,False
+63104,Odogaron,1,True
+63104,Legiana,1,True
+63105,Odogaron,1,True
+63105,Legiana,1,True
+63106,Odogaron,1,True
+63106,Legiana,1,True
+63101,Nergigante,1,True
+63102,Nergigante,1,True
+63103,Nergigante,1,True
+63107,Nergigante,1,True
+63108,Deviljho,1,True
+63109,Teostra,1,True
+63109,Kushala Daora,1,True
+63109,Nergigante,1,True
+63110,Anjanath,1,True
+63110,Rathalos,1,True
+63110,Great Jagras,1,True
+63130,Bazelgeuse,1,True
+63131,Lunastra,1,True
+61101,Kestodon,12,True
+63003,Vespoid,30,True
+63003,Pukei-Pukei,1,False
+63001,Kulu-Ya-Ku,1,True
+63001,Pukei-Pukei,1,True
+63002,Paolumu,1,True
+63002,Tobi-Kadachi,1,True
+63031,Rathalos,1,True
+63031,Tzitzi-Ya-Ku,1,True
+63032,Odogaron,2,True
+63051,Bazelgeuse,1,True
+63051,Uragaan,1,True
+63052,Nergigante,1,True
 1101,Beotodus,1,True
 1101,Banbaro,1,False
 1102,Banbaro,1,True
@@ -1100,6 +1115,7 @@ base_id,monster_en,quantity,is_objective
 1634,Brute Tigrex,1,True
 1635,Gold Rathian,1,True
 1636,Silver Rathalos,1,True
+51621,Stygian Zinogre,1,True
 1641,Shara Ishvalda,1,True
 1642,Gold Rathian,1,True
 1642,Silver Rathalos,1,True
@@ -1116,23 +1132,20 @@ base_id,monster_en,quantity,is_objective
 1692,Lunastra,1,True
 1692,Velkhana,1,True
 1692,Ruiner Nergigante,1,True
-50901,Kulve Taroth,1,True
-63004,Barroth,1,True
-63005,Kulu-Ya-Ku,1,True
-63006,Rathian,1,True
-63007,Tzitzi-Ya-Ku,1,True
-63008,Rathalos,1,True
-63009,Barroth,1,True
-63034,Nergigante,1,True
-63035,Nergigante,1,True
-63036,Nergigante,1,True
-63037,Pink Rathian,1,True
-63038,Pink Rathian,1,True
-63039,Pink Rathian,1,True
+51602,Kirin,1,True
+51601,Rajang,1,True
+51601,Savage Deviljho,1,False
+51601,Azure Rathalos,1,False
+51603,Stygian Zinogre,1,True
+51604,Safi'jiiva,1,True
+51606,Raging Brachydios,1,True
+51607,Furious Rajang,1,True
+51607,Ruiner Nergigante,1,False
 61801,Beotodus,1,False
 61801,Banbaro,1,False
 61801,Fulgur Anjanath,1,False
 61801,Tigrex,1,False
+51605,Safi'jiiva,1,True
 61805,Viper Tobi-Kadachi,1,False
 61805,Barioth,1,False
 61805,Tigrex,1,False
@@ -1141,9 +1154,6 @@ base_id,monster_en,quantity,is_objective
 61811,Barioth,1,False
 61811,Fulgur Anjanath,1,False
 61811,Shrieking Legiana,1,False
-63071,Tobi-Kadachi,1,True
-63071,Viper Tobi-Kadachi,1,True
-63073,Yian Garuga,1,True
 63142,Velkhana,1,True
 66801,Beotodus,2,True
 66802,Great Girros,1,False
@@ -1232,10 +1242,6 @@ base_id,monster_en,quantity,is_objective
 66817,Dodogama,1,False
 66817,Ebony Odogaron,1,False
 66817,Seething Bazelgeuse,1,False
-51601,Rajang,1,True
-51601,Savage Deviljho,1,False
-51601,Azure Rathalos,1,False
-51602,Kirin,1,True
 67801,Blackveil Vaal Hazak,1,True
 61814,Zinogre,1,True
 61814,Namielle,1,True
@@ -1307,6 +1313,7 @@ base_id,monster_en,quantity,is_objective
 66835,Azure Rathalos,1,False
 66835,Banbaro,1,False
 66836,Ruiner Nergigante,1,True
+61809,Nightshade Paolumu,1,True
 64801,Paolumu,1,True
 64801,Nightshade Paolumu,1,True
 64802,Seething Bazelgeuse,1,True
@@ -1324,3 +1331,9 @@ base_id,monster_en,quantity,is_objective
 3091,Zinogre,1,True
 3092,Tigrex,1,True
 3092,Brute Tigrex,1,True
+63071,Tobi-Kadachi,1,True
+63071,Viper Tobi-Kadachi,1,True
+63072,Anjanath,1,True
+63072,Fulgur Anjanath,1,True
+63073,Yian Garuga,1,True
+63074,Savage Deviljho,1,True

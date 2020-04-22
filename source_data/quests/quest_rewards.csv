@@ -245,6 +245,14 @@ base_id,group,item_en,stack,percentage
 806,A,Novacrystal,1,12
 806,A,Dragoncore Ore,1,11
 806,A,Gleaming Streamstone,1,7
+241,A,Armor Sphere,1,100
+241,A,Monster Bone S,1,28
+241,A,Iron Ore,1,18
+241,A,Ancient Bone,1,16
+241,A,Honey,3,15
+241,A,Bitterbug,3,12
+241,A,Machalite Ore,1,10
+241,A,Armor Sphere,1,1
 151,A,Armor Sphere,1,100
 151,A,Blue Mushroom,2,18
 151,A,Bitterbug,3,16
@@ -1306,6 +1314,22 @@ base_id,group,item_en,stack,percentage
 998,A,Gleaming Streamstone,1,7
 998,A,Vaal Hazak Gem,1,3
 998,A,Odogaron Gem,1,3
+961,A,Streamstone,1,100
+961,A,Monster Hardbone,2,20
+961,A,Bazelgeuse Talon,1,18
+961,A,Bazelgeuse Wing,1,18
+961,A,Hard Armor Sphere,1,18
+961,A,Bazelgeuse Fuse,1,14
+961,A,Streamstone,1,7
+961,A,Bazelgeuse Gem,1,5
+971,A,Gleaming Streamstone,1,100
+971,A,Elder Dragon Bone,1,21
+971,A,Elder Dragon Blood,1,18
+971,A,Hard Armor Sphere,1,18
+971,A,Streamstone,1,13
+971,A,Novacrystal,1,12
+971,A,Dragoncore Ore,1,11
+971,A,Gleaming Streamstone,1,7
 50991,A,Warped Feystone,1,100
 50991,A,Warped Feystone,1,22
 50991,A,Worn Feystone,1,18
@@ -1400,120 +1424,6 @@ base_id,group,item_en,stack,percentage
 61605,A,Golden Egg,1,13
 61605,A,Heavy Armor Sphere,1,7
 61605,A,Faux Ticket,1,1
-63033,A,Great Hornfly,1,21
-63033,A,Quality Bone,1,21
-63033,A,Carbalite Ore,1,21
-63033,A,Novacrystal,1,15
-63033,A,Lifepowder,3,11
-63033,A,Gajalaka Sketch,1,5
-63033,A,Tailraider Voucher,1,5
-63033,A,Summer Insect Field Guide,1,1
-63051,A,Brute Coin,1,23
-63051,A,Flying Coin,1,23
-63051,A,Voucher,2,20
-63051,A,Ancient Potion,2,16
-63051,A,Golden Egg,1,13
-63051,A,Ace Hunter Coin,1,5
-63052,A,Ace Hunter Coin,1,28
-63052,A,Max Potion,2,23
-63052,A,Voucher,2,20
-63052,A,Ancient Potion,2,16
-63052,A,Golden Egg,1,13
-63104,A,Hunter King Coin,1,28
-63104,A,Well-done Steak,2,23
-63104,A,Lifepowder,3,22
-63104,A,Steel Egg,2,14
-63104,A,Voucher,1,13
-63105,A,Hunter King Coin,1,28
-63105,A,Well-done Steak,2,23
-63105,A,Lifepowder,3,22
-63105,A,Steel Egg,2,14
-63105,A,Voucher,1,13
-63106,A,Hunter King Coin,1,28
-63106,A,Well-done Steak,2,23
-63106,A,Lifepowder,3,22
-63106,A,Steel Egg,2,14
-63106,A,Voucher,1,13
-63101,A,Hunter King Coin,1,28
-63101,A,Well-done Steak,2,23
-63101,A,Lifepowder,3,22
-63101,A,Steel Egg,2,14
-63101,A,Voucher,1,13
-63102,A,Hunter King Coin,1,28
-63102,A,Well-done Steak,2,23
-63102,A,Lifepowder,3,22
-63102,A,Steel Egg,2,14
-63102,A,Voucher,1,13
-63103,A,Hunter King Coin,1,28
-63103,A,Well-done Steak,2,23
-63103,A,Lifepowder,3,22
-63103,A,Steel Egg,2,14
-63103,A,Voucher,1,13
-63107,A,Hunter King Coin,1,28
-63107,A,Well-done Steak,2,23
-63107,A,Lifepowder,3,22
-63107,A,Steel Egg,2,14
-63107,A,Voucher,1,13
-63108,A,Hunter King Coin,1,28
-63108,A,Well-done Steak,2,23
-63108,A,Lifepowder,3,22
-63108,A,Steel Egg,2,14
-63108,A,Voucher,1,13
-63109,A,Ace Hunter Coin,1,28
-63109,A,Max Potion,2,23
-63109,A,Voucher,2,20
-63109,A,Ancient Potion,2,16
-63109,A,Golden Egg,1,13
-63110,A,Hunter King Coin,1,28
-63110,A,Well-done Steak,2,23
-63110,A,Lifepowder,3,22
-63110,A,Steel Egg,2,14
-63110,A,Voucher,1,13
-63130,A,Hunter King Coin,1,28
-63130,A,Well-done Steak,2,23
-63130,A,Lifepowder,3,22
-63130,A,Steel Egg,2,14
-63130,A,Voucher,1,13
-63131,A,Hunter King Coin,1,28
-63131,A,Well-done Steak,2,23
-63131,A,Lifepowder,3,22
-63131,A,Steel Egg,2,14
-63131,A,Voucher,1,13
-61101,A,Machalite Ore,1,100
-61101,A,Machalite Ore,1,30
-61101,A,Earth Crystal,1,22
-61101,A,Ancient Bone,1,19
-61101,A,Iron Ore,2,18
-61101,A,Lifepowder,1,11
-63003,A,Great Hornfly,1,21
-63003,A,Monster Fluid,1,18
-63003,A,Vespoid Shell,1,16
-63003,A,Trap Tool,3,16
-63003,A,Vespoid Wing,1,14
-63003,A,Large Barrel,2,14
-63003,A,Spring Insect Field Guide,1,1
-63001,A,Kulu Coin,1,23
-63001,A,Pukei Coin,1,23
-63001,A,Well-done Steak,2,18
-63001,A,Lifepowder,3,18
-63001,A,Voucher,1,13
-63001,A,Pinnacle Coin,1,5
-63002,A,Pinnacle Coin,1,28
-63002,A,Well-done Steak,2,23
-63002,A,Lifepowder,3,22
-63002,A,Steel Egg,2,14
-63002,A,Voucher,1,13
-63031,A,Tzitzi Coin,1,23
-63031,A,Rathalos Coin,1,23
-63031,A,Well-done Steak,2,18
-63031,A,Lifepowder,3,18
-63031,A,Voucher,1,13
-63031,A,Hunter King Coin,1,5
-63032,A,Hunter King Coin,1,28
-63032,A,Well-done Steak,2,23
-63032,A,Lifepowder,3,22
-63032,A,Steel Egg,2,14
-63032,A,Voucher,1,13
 61103,A,Downy Crake Ticket,1,100
 61103,A,Pukei-Pukei Quill,1,23
 61103,A,Steel Egg,2,20
@@ -2037,6 +1947,21 @@ base_id,group,item_en,stack,percentage
 66610,A,Shining Streamstone,1,3
 66610,A,Teostra Gem,1,3
 66610,A,Nergigante Gem,1,3
+50901,A,Kulve Taroth Golden Scale,1,100
+50901,A,Kulve Taroth Golden Shell,1,33
+50901,A,Kulve Taroth Golden Scale,1,21
+50901,A,Kulve Taroth Golden Tailshell,1,18
+50901,A,Kulve Taroth Golden Spiralhorn,1,14
+50901,A,Elder Dragon Bone,3,7
+50901,A,Elder Dragon Blood,3,7
+50901,B,High Commendation,1,100
+50901,B,Hard Armor Sphere,1,25
+50901,B,Fucium Ore,2,23
+50901,B,Mysterious Feystone,2,18
+50901,B,Firecell Stone,1,14
+50901,B,Novacrystal,1,12
+50901,B,Glowing Feystone,1,7
+50901,B,High Commendation,1,1
 3101,A,Lifepowder,2,30
 3101,A,Well-done Steak,1,28
 3101,A,Pinnacle Coin,1,20
@@ -2091,14 +2016,120 @@ base_id,group,item_en,stack,percentage
 3052,A,Ace Hunter Coin,1,20
 3052,A,Steel Egg,3,10
 3052,A,Flying Coin,1,1
-241,A,Armor Sphere,1,100
-241,A,Monster Bone S,1,28
-241,A,Iron Ore,1,18
-241,A,Ancient Bone,1,16
-241,A,Honey,3,15
-241,A,Bitterbug,3,12
-241,A,Machalite Ore,1,10
-241,A,Armor Sphere,1,1
+63033,A,Great Hornfly,1,21
+63033,A,Quality Bone,1,21
+63033,A,Carbalite Ore,1,21
+63033,A,Novacrystal,1,15
+63033,A,Lifepowder,3,11
+63033,A,Gajalaka Sketch,1,5
+63033,A,Tailraider Voucher,1,5
+63033,A,Summer Insect Field Guide,1,1
+63104,A,Hunter King Coin,1,28
+63104,A,Well-done Steak,2,23
+63104,A,Lifepowder,3,22
+63104,A,Steel Egg,2,14
+63104,A,Voucher,1,13
+63105,A,Hunter King Coin,1,28
+63105,A,Well-done Steak,2,23
+63105,A,Lifepowder,3,22
+63105,A,Steel Egg,2,14
+63105,A,Voucher,1,13
+63106,A,Hunter King Coin,1,28
+63106,A,Well-done Steak,2,23
+63106,A,Lifepowder,3,22
+63106,A,Steel Egg,2,14
+63106,A,Voucher,1,13
+63101,A,Hunter King Coin,1,28
+63101,A,Well-done Steak,2,23
+63101,A,Lifepowder,3,22
+63101,A,Steel Egg,2,14
+63101,A,Voucher,1,13
+63102,A,Hunter King Coin,1,28
+63102,A,Well-done Steak,2,23
+63102,A,Lifepowder,3,22
+63102,A,Steel Egg,2,14
+63102,A,Voucher,1,13
+63103,A,Hunter King Coin,1,28
+63103,A,Well-done Steak,2,23
+63103,A,Lifepowder,3,22
+63103,A,Steel Egg,2,14
+63103,A,Voucher,1,13
+63107,A,Hunter King Coin,1,28
+63107,A,Well-done Steak,2,23
+63107,A,Lifepowder,3,22
+63107,A,Steel Egg,2,14
+63107,A,Voucher,1,13
+63108,A,Hunter King Coin,1,28
+63108,A,Well-done Steak,2,23
+63108,A,Lifepowder,3,22
+63108,A,Steel Egg,2,14
+63108,A,Voucher,1,13
+63109,A,Ace Hunter Coin,1,28
+63109,A,Max Potion,2,23
+63109,A,Voucher,2,20
+63109,A,Ancient Potion,2,16
+63109,A,Golden Egg,1,13
+63110,A,Hunter King Coin,1,28
+63110,A,Well-done Steak,2,23
+63110,A,Lifepowder,3,22
+63110,A,Steel Egg,2,14
+63110,A,Voucher,1,13
+63130,A,Hunter King Coin,1,28
+63130,A,Well-done Steak,2,23
+63130,A,Lifepowder,3,22
+63130,A,Steel Egg,2,14
+63130,A,Voucher,1,13
+63131,A,Hunter King Coin,1,28
+63131,A,Well-done Steak,2,23
+63131,A,Lifepowder,3,22
+63131,A,Steel Egg,2,14
+63131,A,Voucher,1,13
+61101,A,Machalite Ore,1,100
+61101,A,Machalite Ore,1,30
+61101,A,Earth Crystal,1,22
+61101,A,Ancient Bone,1,19
+61101,A,Iron Ore,2,18
+61101,A,Lifepowder,1,11
+63003,A,Great Hornfly,1,21
+63003,A,Monster Fluid,1,18
+63003,A,Vespoid Shell,1,16
+63003,A,Trap Tool,3,16
+63003,A,Vespoid Wing,1,14
+63003,A,Large Barrel,2,14
+63003,A,Spring Insect Field Guide,1,1
+63001,A,Kulu Coin,1,23
+63001,A,Pukei Coin,1,23
+63001,A,Well-done Steak,2,18
+63001,A,Lifepowder,3,18
+63001,A,Voucher,1,13
+63001,A,Pinnacle Coin,1,5
+63002,A,Pinnacle Coin,1,28
+63002,A,Well-done Steak,2,23
+63002,A,Lifepowder,3,22
+63002,A,Steel Egg,2,14
+63002,A,Voucher,1,13
+63031,A,Tzitzi Coin,1,23
+63031,A,Rathalos Coin,1,23
+63031,A,Well-done Steak,2,18
+63031,A,Lifepowder,3,18
+63031,A,Voucher,1,13
+63031,A,Hunter King Coin,1,5
+63032,A,Hunter King Coin,1,28
+63032,A,Well-done Steak,2,23
+63032,A,Lifepowder,3,22
+63032,A,Steel Egg,2,14
+63032,A,Voucher,1,13
+63051,A,Brute Coin,1,23
+63051,A,Flying Coin,1,23
+63051,A,Voucher,2,20
+63051,A,Ancient Potion,2,16
+63051,A,Golden Egg,1,13
+63051,A,Ace Hunter Coin,1,5
+63052,A,Ace Hunter Coin,1,28
+63052,A,Max Potion,2,23
+63052,A,Voucher,2,20
+63052,A,Ancient Potion,2,16
+63052,A,Golden Egg,1,13
 1101,A,Ancient Feystone,1,100
 1101,A,Monster Toughbone,1,43
 1101,A,Hard Armor Sphere,1,20
@@ -3154,6 +3185,14 @@ base_id,group,item_en,stack,percentage
 1636,A,Purecrystal,1,4
 1636,A,Dragonbone Artifact,1,4
 1636,A,Ancient Feystone,1,1
+51621,A,Ancient Feystone,1,100
+51621,A,Monster Solidbone,1,38
+51621,A,Hard Armor Sphere,2,25
+51621,A,Monster Slogbone,2,15
+51621,A,Dragoncore Ore,1,13
+51621,A,Purecrystal,1,4
+51621,A,Dragonbone Artifact,1,4
+51621,A,Ancient Feystone,1,1
 1641,A,Conqueror's Seal,1,100
 1641,A,Large Elder Dragon Bone,1,24
 1641,A,Heavy Armor Sphere,1,24
@@ -3217,21 +3256,54 @@ base_id,group,item_en,stack,percentage
 1692,A,Large Elder Dragon Gem,1,7
 1692,A,Velkhana Crystal,1,5
 1692,A,Sealed Feystone,1,1
-50901,A,Kulve Taroth Golden Scale,1,100
-50901,A,Kulve Taroth Golden Shell,1,33
-50901,A,Kulve Taroth Golden Scale,1,21
-50901,A,Kulve Taroth Golden Tailshell,1,18
-50901,A,Kulve Taroth Golden Spiralhorn,1,14
-50901,A,Elder Dragon Bone,3,7
-50901,A,Elder Dragon Blood,3,7
-50901,B,High Commendation,1,100
-50901,B,Hard Armor Sphere,1,25
-50901,B,Fucium Ore,2,23
-50901,B,Mysterious Feystone,2,18
-50901,B,Firecell Stone,1,14
-50901,B,Novacrystal,1,12
-50901,B,Glowing Feystone,1,7
-50901,B,High Commendation,1,1
+51602,A,Conqueror's Seal,1,100
+51602,A,Large Elder Dragon Bone,1,24
+51602,A,Heavy Armor Sphere,1,24
+51602,A,Ancient Feystone,1,20
+51602,A,Pure Dragon Blood,1,18
+51602,A,Phantomcore Ore,1,8
+51602,A,Dragonbone Artifact,1,5
+51602,A,Conqueror's Seal,1,1
+51601,A,Ancient Feystone,1,100
+51601,A,Monster Solidbone,1,38
+51601,A,Hard Armor Sphere,2,25
+51601,A,Monster Slogbone,2,15
+51601,A,Dragoncore Ore,1,13
+51601,A,Purecrystal,1,4
+51601,A,Dragonbone Artifact,1,4
+51601,A,Ancient Feystone,1,1
+51603,A,Ancient Feystone,1,100
+51603,A,Monster Solidbone,1,38
+51603,A,Hard Armor Sphere,2,25
+51603,A,Monster Slogbone,2,15
+51603,A,Dragoncore Ore,1,13
+51603,A,Purecrystal,1,4
+51603,A,Dragonbone Artifact,1,4
+51603,A,Ancient Feystone,1,1
+51604,A,Ancient Feystone,1,100
+51604,A,Hard Armor Sphere,1,22
+51604,A,Mega Potion,5,21
+51604,A,Dust of Life,1,17
+51604,A,Large Elder Dragon Bone,1,15
+51604,A,Max Potion,1,13
+51604,A,Pure Dragon Blood,1,11
+51604,A,Ancient Feystone,1,1
+51606,A,Carved Feystone,1,100
+51606,A,Heavy Armor Sphere,1,31
+51606,A,Monster Solidbone,4,21
+51606,A,Phantomcore Ore,1,18
+51606,A,Carved Feystone,1,8
+51606,A,Purecrystal,1,8
+51606,A,Dragonbone Artifact,1,8
+51606,A,Sealed Feystone,1,6
+51607,A,Carved Feystone,1,100
+51607,A,Heavy Armor Sphere,1,31
+51607,A,Monster Solidbone,4,21
+51607,A,Phantomcore Ore,1,18
+51607,A,Carved Feystone,1,8
+51607,A,Purecrystal,1,8
+51607,A,Dragonbone Artifact,1,8
+51607,A,Sealed Feystone,1,6
 61801,A,Pearlspring Ticket,1,100
 61801,A,Mega Potion,5,26
 61801,A,Well-done Steak,2,26
@@ -3248,6 +3320,14 @@ base_id,group,item_en,stack,percentage
 61801,B,Hot Pepper,2,13
 61801,B,Gracium,1,10
 61801,B,Ancient Feystone,1,1
+51605,A,Large Dracolite,1,100
+51605,A,Dracolite,1,24
+51605,A,Heavy Armor Sphere,1,20
+51605,A,Ancient Feystone,1,19
+51605,A,Pure Dragon Blood,2,15
+51605,A,Large Elder Dragon Bone,2,13
+51605,A,Phantomcore Ore,1,8
+51605,A,Large Dracolite,1,1
 61805,A,Penguin Ticket,1,100
 61805,A,Ancient Feystone,1,24
 61805,A,Hard Armor Sphere,1,20
@@ -3280,18 +3360,6 @@ base_id,group,item_en,stack,percentage
 61811,B,Hot Pepper,2,13
 61811,B,Gracium,1,10
 61811,B,Ancient Feystone,1,1
-63071,A,Dust of Life,1,30
-63071,A,Max Potion,1,28
-63071,A,Hunter King Coin,1,20
-63071,A,Silver Egg,1,13
-63071,A,Gourmet Voucher,1,8
-63071,A,Black Belt Coin,1,1
-63073,A,Dust of Life,1,28
-63073,A,Ancient Potion,1,26
-63073,A,Ace Hunter Coin,1,20
-63073,A,Golden Egg,1,13
-63073,A,Gourmet Voucher,1,12
-63073,A,Hero King Coin,1,1
 63142,A,Dust of Life,1,28
 63142,A,Ancient Potion,1,26
 63142,A,Ace Hunter Coin,1,20
@@ -3519,22 +3587,6 @@ base_id,group,item_en,stack,percentage
 66817,A,Dragonbone Artifact,1,18
 66817,A,Heavy Armor Sphere,1,13
 66817,A,Ancient Feystone,1,10
-51601,A,Ancient Feystone,1,100
-51601,A,Monster Solidbone,1,38
-51601,A,Hard Armor Sphere,2,25
-51601,A,Monster Slogbone,2,15
-51601,A,Dragoncore Ore,1,13
-51601,A,Purecrystal,1,4
-51601,A,Dragonbone Artifact,1,4
-51601,A,Ancient Feystone,1,1
-51602,A,Conqueror's Seal,1,100
-51602,A,Large Elder Dragon Bone,1,24
-51602,A,Heavy Armor Sphere,1,24
-51602,A,Ancient Feystone,1,20
-51602,A,Pure Dragon Blood,1,18
-51602,A,Phantomcore Ore,1,8
-51602,A,Dragonbone Artifact,1,5
-51602,A,Conqueror's Seal,1,1
 67801,A,S.T.A.R.S. Badge,3,100
 67801,A,Heavy Armor Sphere,1,24
 67801,A,Pure Dragon Blood,1,21
@@ -3722,6 +3774,13 @@ base_id,group,item_en,stack,percentage
 66836,A,Shadowcore Ore,1,13
 66836,A,Spiritvein Gem,1,11
 66836,A,Great Spiritvein Gem,1,8
+61809,A,Golden Egg,1,100
+61809,A,Advanced Armor Sphere,1,23
+61809,A,Hard Armor Sphere,1,22
+61809,A,Silver Egg,1,17
+61809,A,Heavy Armor Sphere,1,16
+61809,A,Golden Egg,1,15
+61809,A,King Armor Sphere,1,7
 64801,A,Hard Armor Sphere,1,100
 64801,A,Hard Armor Sphere,1,82
 64801,A,Heavy Armor Sphere,1,18
@@ -3771,3 +3830,27 @@ base_id,group,item_en,stack,percentage
 3092,A,Gourmet Voucher,1,15
 3092,A,Golden Egg,1,13
 3092,A,Tigrex Coin,1,1
+63071,A,Dust of Life,1,30
+63071,A,Max Potion,1,28
+63071,A,Hunter King Coin,1,20
+63071,A,Silver Egg,1,13
+63071,A,Gourmet Voucher,1,8
+63071,A,Black Belt Coin,1,1
+63072,A,Dust of Life,1,30
+63072,A,Max Potion,1,28
+63072,A,Hunter King Coin,1,20
+63072,A,Silver Egg,1,13
+63072,A,Gourmet Voucher,1,8
+63072,A,Black Belt Coin,1,1
+63073,A,Dust of Life,1,28
+63073,A,Ancient Potion,1,26
+63073,A,Ace Hunter Coin,1,20
+63073,A,Golden Egg,1,13
+63073,A,Gourmet Voucher,1,12
+63073,A,Hero King Coin,1,1
+63074,A,Ancient Potion,2,23
+63074,A,Dust of Life,2,23
+63074,A,Ace Hunter Coin,1,20
+63074,A,Golden Egg,1,18
+63074,A,Gourmet Voucher,1,15
+63074,A,Hero King Coin,1,1
