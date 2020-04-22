@@ -692,21 +692,21 @@ Stygian Zinogre,Back (Charged),50,50,50,0,0,0,0,0,0
 Stygian Zinogre,Forelegs (Charged),38,38,33,20,25,30,20,0,0
 Stygian Zinogre,Hindlegs (Charged),25,25,15,10,15,20,10,0,0
 Stygian Zinogre,Tail (Charged),35,35,25,15,20,25,15,0,0
-Safi'jiiva,Head,23,34,25,25,25,25,25,25,100
+Safi'jiiva,Head,24,34,25,25,25,25,25,25,100
 Safi'jiiva,Head (Broken),45,51,35,25,25,25,25,25,100
-Safi'jiiva,Head (SCritical),61,58,38,30,30,30,30,30,100
+Safi'jiiva,Head (SCritical),63,58,38,30,30,30,30,30,100
 Safi'jiiva,Head (Broken+SCritical),68,64,48,30,30,30,30,30,100
-Safi'jiiva,Snout (White),23,34,3,15,15,15,15,15,100
+Safi'jiiva,Snout,24,34,3,15,15,15,15,15,100
 Safi'jiiva,Snout (Broken),45,51,3,15,15,15,15,15,100
-Safi'jiiva,Snout (SCritical),61,58,10,20,20,20,20,20,100
+Safi'jiiva,Snout (SCritical),63,58,10,20,20,20,20,20,100
 Safi'jiiva,Snout (Broken+SCritical),68,64,10,20,20,20,20,20,100
-Safi'jiiva,Neck,25,25,3,3,3,3,3,3,0
-Safi'jiiva,Neck (SCritical),34,33,7,3,3,3,3,3,0
-Safi'jiiva,Body,18,18,3,3,3,3,3,3,0
+Safi'jiiva,Neck,25,25,3,1,1,1,1,1,0
+Safi'jiiva,Neck (SCritical),33,33,7,3,3,3,3,3,0
+Safi'jiiva,Body,18,18,3,1,1,1,1,1,0
 Safi'jiiva,Body (SCritical),30,30,7,3,3,3,3,3,0
 Safi'jiiva,Back,45,45,3,15,15,15,15,15,0
 Safi'jiiva,Back (SCritical),50,50,7,20,20,20,20,20,0
-Safi'jiiva,Chest,20,20,3,3,3,3,3,3,0
+Safi'jiiva,Chest,20,20,3,1,1,1,1,1,0
 Safi'jiiva,Chest (SCritical),75,75,45,30,30,30,30,30,0
 Safi'jiiva,Forelegs,34,23,18,20,20,20,20,20,0
 Safi'jiiva,Forelegs (SCritical),45,65,27,25,25,25,25,25,0
@@ -724,5 +724,26 @@ Safi'jiiva,Wing Tips,20,20,10,15,15,15,15,15,0
 Safi'jiiva,Wing Tips (SCritical),50,65,15,20,20,20,20,20,0
 Safi'jiiva,Webbing,20,20,10,5,5,5,5,5,0
 Safi'jiiva,Webbing (SCritical),50,65,15,10,10,10,10,10,0
-Safi'jiiva,Tail,22,34,15,20,20,20,20,20,0
+Safi'jiiva,Tail,21,34,15,20,20,20,20,20,0
 Safi'jiiva,Tail (SCritical),65,55,35,25,25,25,25,25,0
+Safi'jiiva,Upper Tail,18,34,3,1,1,1,1,1,0
+Safi'jiiva,Upper Tail (Scritical),24,55,10,3,3,3,3,3,0
+Furious Rajang,Head,55,57,45,0,5,20,0,0,100
+Furious Rajang,Head (Rampage),60,62,50,0,5,20,0,0,100
+Furious Rajang,Body,30,35,20,0,5,10,0,0,0
+Furious Rajang,Forelegs,38,38,30,0,5,10,0,0,0
+Furious Rajang,Forelegs (Rampage),5,5,5,0,5,10,0,0,0
+Furious Rajang,Hindlegs,21,21,15,0,5,10,0,0,0
+Furious Rajang,Tail,35,32,25,0,5,10,0,0,0
+Furious Rajang,Tail (Rampage),47,45,35,0,5,10,0,0,0
+Raging Brachydios,Horns,60,65,45,0,10,25,10,5,100
+Raging Brachydios,Horns (Red Slime),75,75,10,0,20,5,0,0,100
+Raging Brachydios,Head,60,65,50,0,5,15,10,5,100
+Raging Brachydios,Neck,32,32,30,0,5,10,5,5,0
+Raging Brachydios,Body,32,32,30,0,10,15,5,0,0
+Raging Brachydios,Forearms,55,50,45,0,10,25,5,0,0
+Raging Brachydios,Forearms (Red Slime),75,75,10,0,20,5,0,0,0
+Raging Brachydios,Hindlegs,32,32,30,0,5,10,5,0,0
+Raging Brachydios,Tail,50,45,55,0,10,15,10,5,0
+Raging Brachydios,Tail Tip,18,30,10,0,10,25,5,10,0
+Raging Brachydios,Tail Tip (Red Slime),75,75,10,0,20,5,0,0,0
