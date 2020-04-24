@@ -242,13 +242,18 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     print("Writing artifact files for weapons (use it to add new weapons)")
     crafted_lines = []
     isolated_lines = []
+    isolated_new_lines = []
     for weapon_type, weapon_tree in weapon_trees.items():
+        make_weapon_line = lambda w: f'{w.name["en"]},{weapon_type}'
         for weapon in weapon_tree.crafted():
-            crafted_lines.append(f'{weapon.name["en"]},{weapon_type}')
+            crafted_lines.append(make_weapon_line(weapon))
         for weapon in weapon_tree.isolated():
-            isolated_lines.append(f'{weapon.name["en"]},{weapon_type}')
+            isolated_lines.append(make_weapon_line(weapon))
+            if not mhdata.weapon_map.entry_of('en', weapon.name['en'], weapon_type):
+                isolated_new_lines.append(make_weapon_line(weapon))
     artifacts.write_artifact('weapons_crafted.txt', *crafted_lines)
     artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
+    artifacts.write_artifact('weapons_isolated_new.txt', *isolated_new_lines)
 
     # Write artifact lines (for shelling)
     weapon_shelling = []

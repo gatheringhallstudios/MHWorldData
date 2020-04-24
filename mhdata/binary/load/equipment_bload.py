@@ -87,6 +87,11 @@ class EquipmentNode():
     @property
     def id(self):
         return self.binary.id
+
+    @property
+    def rarity(self):
+        "Rarity of the armor (1 indexed)"
+        return self.binary.rarity + 1
     
     def add_child(self, child: 'EquipmentNode'):
         child.parent = self
