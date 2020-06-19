@@ -2,6 +2,7 @@ from typing import Type, Mapping, Iterable, Tuple
 from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g
 from mhw_armor_edit.ftypes.ext import rod_inse
 from ..parsers import ask
+from ..metadata import ItemMeta
 
 from mhdata import cfg
 from mhdata.util import Sharpness
@@ -35,6 +36,11 @@ weapon_types = [
     cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
     cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
 ]
+
+mr_variations = {
+    'en': '% (MR)',
+    'es': '% (RM)'
+}
 
 class SharpnessDataReader():
     "A class that loads sharpness data and processes it for binary weapon objects"
@@ -147,8 +153,15 @@ class EquipmentTree():
         for entry in self.isolated():
             yield entry
 
+def apply_variation(name_dict, variation_map):
+    name = { **name_dict }
+    for lang, transform in variation_map.items():
+        name[lang] = transform.replace('%', name[lang])
+    return name
+
 class WeaponDataLoader():
     def __init__(self):
+        self.item_meta = ItemMeta()
         self.weapon_trees = load_text("common/text/steam/wep_series")
         
         # Retrieve all creation data
@@ -174,7 +187,9 @@ class WeaponDataLoader():
         equip_type = self._equip_types[weapon_type]
 
         # First pass - create weapon map (id -> WeaponDataNode objects)
+        named_parent_map = {}
         weapon_map = {}
+        weapon_map_by_name = {}
         for binary in weapon_binaries.entries:
             name = weapon_text[binary.gmd_name_index]
             recipe_key = (equip_type, binary.id)
@@ -183,8 +198,14 @@ class WeaponDataLoader():
             upgrade_entry = self.upgrade_data.get(binary.id, type=equip_type)
             
             # Skip if invalid (has no name. Kulve weapons have no recipe)
-            if not name['en'] or name['en'] in ['Invalid Message', 'Unavailable']:
+            if not name['en'] or name['en'] in ['Invalid Message', 'Unavailable', 'HARDUMMY']:
                 continue
+
+            # Kulve weapons at MR need to be distinguished
+            if name['en'] in self.item_meta.kulve_weapons and (binary.rarity + 1) >= 9:
+                prev_name = name
+                name = apply_variation(name, mr_variations)
+                named_parent_map[name['en']] = prev_name['en']
 
             treename = None
             if binary.tree_id != 0:
@@ -197,15 +218,17 @@ class WeaponDataLoader():
                 tree=treename,
                 craft=craft_entry and craft_entry.items, 
                 upgrade=upgrade_entry and upgrade_entry.items)
-
-            if name['en'] in ['Buster Sword II', 'Defender Great Sword I']:
-                pass
+            weapon_map_by_name[name['en']] = weapon_map[binary.id]
 
         # Second pass - start connecting parents and descendants
         # Iterate on upgrade recipe as that contains the descendant data
         for weapon in weapon_map.values():
             recipe_key = (equip_type, weapon.id)
             upgrade_entry = self.upgrade_data.get(weapon.id, type=equip_type)
+
+            if weapon.name['en'] in named_parent_map:
+                parent = weapon_map_by_name[named_parent_map[weapon.name['en']]]
+                parent.add_child(weapon)
 
             if not upgrade_entry or not upgrade_entry.descendants:
                 continue

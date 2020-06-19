@@ -3,7 +3,7 @@ from typing import Iterable
 
 from os.path import dirname, abspath, join
 
-from mhdata.io.csv import read_csv
+from mhdata.io import read_csv
 
 
 class MonsterMetaEntry:

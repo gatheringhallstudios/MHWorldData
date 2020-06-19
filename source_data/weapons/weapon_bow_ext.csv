@@ -195,6 +195,37 @@ Horn Gold Piercer,bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 "Kjárr Bow ""Decay""",bow,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
 "Kjárr Bow ""Water""",bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 "Kjárr Bow ""Blast""",bow,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Gold Water Piercer (MR),bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Gold Thunder Piercer (MR),bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Gold Blast Piercer (MR),bow,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Thief Gold Piercer (MR),bow,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Spew Gold Piercer (MR),bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Spark Gold Piercer (MR),bow,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Rage Gold Piercer (MR),bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Queen Gold Piercer (MR),bow,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Stream Gold Piercer (MR),bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Decay Gold Piercer (MR),bow,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+King Gold Piercer (MR),bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Horn Gold Piercer (MR),bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Thief"" (MR)",bow,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+"Taroth Arrow ""Spew"" (MR)",bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+"Taroth Arrow ""Spark"" (MR)",bow,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Rage"" (MR)",bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Queen"" (MR)",bow,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+"Taroth Arrow ""Stream"" (MR)",bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Decay"" (MR)",bow,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+"Taroth Arrow ""King"" (MR)",bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Horn"" (MR)",bow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Water"" (MR)",bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+"Taroth Arrow ""Thunder"" (MR)",bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"Taroth Arrow ""Blast"" (MR)",bow,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+"Taroth Arrow ""Fire"" (MR)",bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"Kjárr Bow ""Spark"" (MR)",bow,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+"Kjárr Bow ""Stream"" (MR)",bow,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+"Kjárr Bow ""King"" (MR)",bow,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+"Kjárr Bow ""Decay"" (MR)",bow,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+"Kjárr Bow ""Water"" (MR)",bow,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+"Kjárr Bow ""Blast"" (MR)",bow,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
 Safi's Hellbow,bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 Safi's Aquabow,bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 Safi's Boltbow,bow,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE

@@ -16,6 +16,8 @@ from .stitcher import DataStitcher
 from .datamap import DataMap, DataRow
 from .functions import merge_list
 
+from .csv import read_csv
+
 import os.path
 data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../source_data')
 

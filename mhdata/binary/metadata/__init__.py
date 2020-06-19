@@ -7,3 +7,4 @@ Some of the data here comes from the QuestDataDump project.
 
 from .location_meta import load_area_map
 from .monster_metadata import MonsterMetadata, MonsterMetaEntry
+from .item_meta import ItemMeta

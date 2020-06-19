@@ -184,6 +184,35 @@ class WeaponAmmoLoader():
                 
         raise Exception("No suitable name found")
 
+def write_weapon_artifacts(mhdata, weapon_trees, ammo_reader):
+    crafted_lines = []
+    isolated_lines = []
+    isolated_new_lines = []
+    for weapon_type, weapon_tree in weapon_trees.items():
+        make_weapon_line = lambda w: f'{w.id},{w.name["en"]},{weapon_type}'
+        for weapon in weapon_tree.crafted():
+            crafted_lines.append(make_weapon_line(weapon))
+        for weapon in weapon_tree.isolated():
+            isolated_lines.append(make_weapon_line(weapon))
+            if not mhdata.weapon_map.entry_of('en', weapon.name['en'], weapon_type):
+                isolated_new_lines.append(make_weapon_line(weapon))
+    artifacts.write_artifact('weapons_crafted.txt', *crafted_lines)
+    artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
+    artifacts.write_artifact('weapons_isolated_new.txt', *isolated_new_lines)
+
+    # Write artifact lines (for shelling)
+    weapon_shelling = []
+    for weapon_type in cfg.weapon_types_gun:
+        for weapon in weapon_trees[weapon_type].all():
+            shell_table_id = weapon.binary.shell_table_id
+            shell = ammo_reader.shell_data[shell_table_id]
+            entry = { 'name_en': weapon.name["en"], 'weapon_type': weapon_type, 'shell_table_id': shell_table_id }
+            for btype in bullet_types:
+                entry[f'{btype}_capacity'] = getattr(shell, f'{btype}_capacity')
+                entry[f'{btype}_recoil'] = getattr(shell, f'{btype}_recoil')
+                entry[f'{btype}_reload'] = getattr(shell, f'{btype}_reload')
+            weapon_shelling.append(entry)
+    artifacts.write_dicts_artifact("weapons_shelling.csv", weapon_shelling)
 
 def update_weapons(mhdata, item_updater: ItemUpdater):
     skill_text_handler = SkillTextHandler()
@@ -240,34 +269,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
 
     # Write artifact lines
     print("Writing artifact files for weapons (use it to add new weapons)")
-    crafted_lines = []
-    isolated_lines = []
-    isolated_new_lines = []
-    for weapon_type, weapon_tree in weapon_trees.items():
-        make_weapon_line = lambda w: f'{w.name["en"]},{weapon_type}'
-        for weapon in weapon_tree.crafted():
-            crafted_lines.append(make_weapon_line(weapon))
-        for weapon in weapon_tree.isolated():
-            isolated_lines.append(make_weapon_line(weapon))
-            if not mhdata.weapon_map.entry_of('en', weapon.name['en'], weapon_type):
-                isolated_new_lines.append(make_weapon_line(weapon))
-    artifacts.write_artifact('weapons_crafted.txt', *crafted_lines)
-    artifacts.write_artifact('weapons_isolated.txt', *isolated_lines)
-    artifacts.write_artifact('weapons_isolated_new.txt', *isolated_new_lines)
-
-    # Write artifact lines (for shelling)
-    weapon_shelling = []
-    for weapon_type in cfg.weapon_types_gun:
-        for weapon in weapon_trees[weapon_type].all():
-            shell_table_id = weapon.binary.shell_table_id
-            shell = ammo_reader.shell_data[shell_table_id]
-            entry = { 'name_en': weapon.name["en"], 'weapon_type': weapon_type, 'shell_table_id': shell_table_id }
-            for btype in bullet_types:
-                entry[f'{btype}_capacity'] = getattr(shell, f'{btype}_capacity')
-                entry[f'{btype}_recoil'] = getattr(shell, f'{btype}_recoil')
-                entry[f'{btype}_reload'] = getattr(shell, f'{btype}_reload')
-            weapon_shelling.append(entry)
-    artifacts.write_dicts_artifact("weapons_shelling.csv", weapon_shelling)
+    write_weapon_artifacts(mhdata, weapon_trees, ammo_reader)
 
     # Store new weapon entries
     new_weapon_map = DataMap(languages=["en"], start_id=mhdata.weapon_map.max_id+1, keys_ex=["weapon_type"])

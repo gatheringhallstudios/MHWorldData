@@ -1971,6 +1971,45 @@ Magma Gold Fellsword,great-sword,FALSE,110,120,40,50,80,0,0
 "Taroth Blaze ""Ice""",great-sword,FALSE,60,50,60,120,70,40,0
 "Taroth Blaze ""Sleep""",great-sword,FALSE,80,50,60,120,50,40,0
 "Taroth Blaze ""Thunder""",great-sword,FALSE,80,100,40,40,140,0,0
+"Kjárr Fellsword ""Numb""",great-sword,FALSE,70,60,60,100,80,30,0
+"Kjárr Fellsword ""Decay""",great-sword,FALSE,190,70,20,20,60,40,0
+"Kjárr Fellsword ""King""",great-sword,FALSE,50,50,60,120,80,40,0
+"Kjárr Fellsword ""Magma""",great-sword,FALSE,110,50,50,80,110,0,0
+"Kjárr Fellsword ""Water""",great-sword,FALSE,140,100,30,30,70,30,0
+"Kjárr Fellsword ""Ice""",great-sword,FALSE,50,50,60,120,80,40,0
+"Kjárr Fellsword ""Thunder""",great-sword,FALSE,70,100,40,40,150,0,0
+Gold Water Fellsword (MR),great-sword,TRUE,200,70,20,50,20,40,0
+Gold Ice Fellsword (MR),great-sword,TRUE,100,60,80,80,60,20,0
+Gold Sleep Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+Glutton Gold Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+Spew Gold Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+Mud Gold Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+Numb Gold Fellsword (MR),great-sword,TRUE,90,60,60,100,60,30,0
+Tar Gold Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+Decay Gold Fellsword (MR),great-sword,TRUE,200,70,20,20,50,40,0
+King Gold Fellsword (MR),great-sword,TRUE,70,50,60,120,60,40,0
+Erupter Gold Fellsword (MR),great-sword,TRUE,100,60,60,100,50,30,0
+Magma Gold Fellsword (MR),great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Glutton"" (MR)",great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Spew"" (MR)",great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Mud"" (MR)",great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Numb"" (MR)",great-sword,TRUE,90,60,60,100,60,30,0
+"Taroth Blaze ""Tar"" (MR)",great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Decay"" (MR)",great-sword,TRUE,200,70,20,20,50,40,0
+"Taroth Blaze ""King"" (MR)",great-sword,TRUE,70,50,60,120,60,40,0
+"Taroth Blaze ""Erupter"" (MR)",great-sword,TRUE,100,60,60,100,50,30,0
+"Taroth Blaze ""Magma"" (MR)",great-sword,TRUE,120,120,40,50,70,0,0
+"Taroth Blaze ""Water"" (MR)",great-sword,TRUE,160,100,30,30,50,30,0
+"Taroth Blaze ""Ice"" (MR)",great-sword,TRUE,70,50,60,120,60,40,0
+"Taroth Blaze ""Sleep"" (MR)",great-sword,TRUE,80,50,60,120,50,40,0
+"Taroth Blaze ""Thunder"" (MR)",great-sword,TRUE,90,100,40,40,130,0,0
+"Kjárr Fellsword ""Numb"" (MR)",great-sword,TRUE,80,60,60,100,70,30,0
+"Kjárr Fellsword ""Decay"" (MR)",great-sword,TRUE,200,70,20,20,50,40,0
+"Kjárr Fellsword ""King"" (MR)",great-sword,TRUE,60,50,60,120,70,40,0
+"Kjárr Fellsword ""Magma"" (MR)",great-sword,TRUE,110,50,50,80,110,0,0
+"Kjárr Fellsword ""Water"" (MR)",great-sword,TRUE,150,100,30,30,60,30,0
+"Kjárr Fellsword ""Ice"" (MR)",great-sword,TRUE,60,50,60,120,70,40,0
+"Kjárr Fellsword ""Thunder"" (MR)",great-sword,TRUE,80,100,40,40,140,0,0
 Gold Water Katana,long-sword,FALSE,50,60,20,150,90,30,0
 Gold Poison Katana,long-sword,FALSE,80,60,60,100,70,30,0
 Gold Paralysis Katana,long-sword,FALSE,110,30,60,80,40,80,0
@@ -1998,6 +2037,47 @@ Magma Gold Katana,long-sword,FALSE,120,120,40,50,70,0,0
 "Taroth Sword ""Poison""",long-sword,FALSE,60,50,60,120,70,40,0
 "Taroth Sword ""Paralysis""",long-sword,FALSE,110,30,60,80,40,80,0
 "Taroth Sword ""Fire""",long-sword,FALSE,220,20,20,20,30,90,0
+"Kjárr Sword ""Spark""",long-sword,FALSE,130,100,30,30,80,30,0
+"Kjárr Sword ""Stream""",long-sword,FALSE,210,20,20,20,30,100,0
+"Kjárr Sword ""Decay""",long-sword,FALSE,190,70,20,20,60,40,0
+"Kjárr Sword ""Magma""",long-sword,FALSE,100,50,50,80,120,0,0
+"Kjárr Sword ""Water""",long-sword,FALSE,190,70,20,20,60,40,0
+"Kjárr Sword ""Fire""",long-sword,FALSE,220,20,20,20,30,90,0
+"Kjárr Sword ""Paralysis""",long-sword,FALSE,110,30,60,80,40,80,0
+Gold Water Katana (MR),long-sword,TRUE,60,60,20,150,90,20,0
+Gold Poison Katana (MR),long-sword,TRUE,90,60,60,100,60,30,0
+Gold Paralysis Katana (MR),long-sword,TRUE,120,30,60,80,40,70,0
+Thief Gold Katana (MR),long-sword,TRUE,90,60,80,80,70,20,0
+Mire Gold Katana (MR),long-sword,TRUE,170,100,30,30,40,30,0
+Spark Gold Katana (MR),long-sword,TRUE,140,100,30,30,70,30,0
+Rage Gold Katana (MR),long-sword,TRUE,110,120,40,50,80,0,0
+Lurk Gold Katana (MR),long-sword,TRUE,120,30,60,80,40,70,0
+Flash Gold Katana (MR),long-sword,TRUE,80,50,60,120,50,40,0
+Stream Gold Katana (MR),long-sword,TRUE,230,20,20,20,30,80,0
+Decay Gold Katana (MR),long-sword,TRUE,200,70,20,20,50,40,0
+Gyre Gold Katana (MR),long-sword,TRUE,100,50,50,80,120,0,0
+Magma Gold Katana (MR),long-sword,TRUE,130,120,40,50,60,0,0
+"Taroth Sword ""Thief"" (MR)",long-sword,TRUE,90,60,80,80,70,20,0
+"Taroth Sword ""Mire"" (MR)",long-sword,TRUE,170,100,30,30,40,30,0
+"Taroth Sword ""Spark"" (MR)",long-sword,TRUE,140,100,30,30,70,30,0
+"Taroth Sword ""Rage"" (MR)",long-sword,TRUE,110,120,40,50,80,0,0
+"Taroth Sword ""Lurk"" (MR)",long-sword,TRUE,120,30,60,80,40,70,0
+"Taroth Sword ""Flash"" (MR)",long-sword,TRUE,80,50,60,120,50,40,0
+"Taroth Sword ""Stream"" (MR)",long-sword,TRUE,230,20,20,20,30,80,0
+"Taroth Sword ""Decay"" (MR)",long-sword,TRUE,200,70,20,20,50,40,0
+"Taroth Sword ""Gyre"" (MR)",long-sword,TRUE,100,50,50,80,120,0,0
+"Taroth Sword ""Magma"" (MR)",long-sword,TRUE,130,120,40,50,60,0,0
+"Taroth Sword ""Water"" (MR)",long-sword,TRUE,200,70,20,20,50,40,0
+"Taroth Sword ""Poison"" (MR)",long-sword,TRUE,70,50,60,120,60,40,0
+"Taroth Sword ""Paralysis"" (MR)",long-sword,TRUE,120,30,60,80,40,70,0
+"Taroth Sword ""Fire"" (MR)",long-sword,TRUE,230,20,20,20,30,80,0
+"Kjárr Sword ""Spark"" (MR)",long-sword,TRUE,140,100,30,30,70,30,0
+"Kjárr Sword ""Stream"" (MR)",long-sword,TRUE,220,20,20,20,30,90,0
+"Kjárr Sword ""Decay"" (MR)",long-sword,TRUE,200,70,20,20,50,40,0
+"Kjárr Sword ""Magma"" (MR)",long-sword,TRUE,110,50,50,80,110,0,0
+"Kjárr Sword ""Water"" (MR)",long-sword,TRUE,200,70,20,20,50,40,0
+"Kjárr Sword ""Fire"" (MR)",long-sword,TRUE,230,20,20,20,30,80,0
+"Kjárr Sword ""Paralysis"" (MR)",long-sword,TRUE,120,30,60,80,40,70,0
 Gold Water Scimitar,sword-and-shield,FALSE,90,120,40,50,100,0,0
 Gold Dragon Scimitar,sword-and-shield,FALSE,170,70,20,20,80,40,0
 Gold Blast Scimitar,sword-and-shield,FALSE,80,50,60,120,50,40,0
@@ -2025,6 +2105,47 @@ Myth Gold Scimitar,sword-and-shield,FALSE,130,100,30,30,80,30,0
 "Taroth Slicer ""Dragon""",sword-and-shield,FALSE,170,70,20,20,80,40,0
 "Taroth Slicer ""Blast""",sword-and-shield,FALSE,110,30,60,80,40,80,0
 "Taroth Slicer ""Fire""",sword-and-shield,FALSE,210,20,20,20,30,100,0
+"Kjárr Slicer ""Numb""",sword-and-shield,FALSE,40,120,80,60,50,50,0
+"Kjárr Slicer ""Stream""",sword-and-shield,FALSE,100,30,60,80,40,90,0
+"Kjárr Slicer ""King""",sword-and-shield,FALSE,80,60,60,100,70,30,0
+"Kjárr Slicer ""Myth""",sword-and-shield,FALSE,130,100,30,30,80,30,0
+"Kjárr Slicer ""Water""",sword-and-shield,FALSE,160,70,20,20,90,40,0
+"Kjárr Slicer ""Dragon""",sword-and-shield,FALSE,160,70,20,20,90,40,0
+"Kjárr Slicer ""Blast""",sword-and-shield,FALSE,100,30,60,80,40,90,0
+Gold Water Scimitar (MR),sword-and-shield,TRUE,100,120,40,50,90,0,0
+Gold Dragon Scimitar (MR),sword-and-shield,TRUE,180,70,20,20,70,40,0
+Gold Blast Scimitar (MR),sword-and-shield,TRUE,80,50,60,120,50,40,0
+Glutton Gold Scimitar (MR),sword-and-shield,TRUE,100,120,40,50,90,0,0
+Spew Gold Scimitar (MR),sword-and-shield,TRUE,100,120,40,50,90,0,0
+Mud Gold Scimitar (MR),sword-and-shield,TRUE,110,120,40,50,80,0,0
+Rage Gold Scimitar (MR),sword-and-shield,TRUE,200,70,20,20,50,40,0
+Numb Gold Scimitar (MR),sword-and-shield,TRUE,60,120,80,60,30,50,0
+Drifter Gold Scimitar (MR),sword-and-shield,TRUE,80,50,60,120,50,40,0
+Stream Gold Scimitar (MR),sword-and-shield,TRUE,120,30,60,80,40,70,0
+Tar Gold Scimitar (MR),sword-and-shield,TRUE,110,120,40,50,80,0,0
+King Gold Scimitar (MR),sword-and-shield,TRUE,100,60,60,100,50,30,0
+Myth Gold Scimitar (MR),sword-and-shield,TRUE,140,100,30,30,70,30,0
+"Taroth Slicer ""Glutton"" (MR)",sword-and-shield,TRUE,100,120,40,50,90,0,0
+"Taroth Slicer ""Spew"" (MR)",sword-and-shield,TRUE,100,120,40,50,90,0,0
+"Taroth Slicer ""Mud"" (MR)",sword-and-shield,TRUE,110,120,40,50,80,0,0
+"Taroth Slicer ""Rage"" (MR)",sword-and-shield,TRUE,200,70,20,20,50,40,0
+"Taroth Slicer ""Numb"" (MR)",sword-and-shield,TRUE,60,120,80,60,30,50,0
+"Taroth Slicer ""Drifter"" (MR)",sword-and-shield,TRUE,80,50,60,120,50,40,0
+"Taroth Slicer ""Stream"" (MR)",sword-and-shield,TRUE,120,30,60,80,40,70,0
+"Taroth Slicer ""Tar"" (MR)",sword-and-shield,TRUE,110,120,40,50,80,0,0
+"Taroth Slicer ""King"" (MR)",sword-and-shield,TRUE,100,60,60,100,50,30,0
+"Taroth Slicer ""Myth"" (MR)",sword-and-shield,TRUE,140,100,30,30,70,30,0
+"Taroth Slicer ""Water"" (MR)",sword-and-shield,TRUE,180,70,20,20,70,40,0
+"Taroth Slicer ""Dragon"" (MR)",sword-and-shield,TRUE,180,70,20,20,70,40,0
+"Taroth Slicer ""Blast"" (MR)",sword-and-shield,TRUE,120,30,60,80,40,70,0
+"Taroth Slicer ""Fire"" (MR)",sword-and-shield,TRUE,220,20,20,20,30,90,0
+"Kjárr Slicer ""Numb"" (MR)",sword-and-shield,TRUE,50,120,80,60,40,50,0
+"Kjárr Slicer ""Stream"" (MR)",sword-and-shield,TRUE,110,30,60,80,40,80,0
+"Kjárr Slicer ""King"" (MR)",sword-and-shield,TRUE,90,60,60,100,60,30,0
+"Kjárr Slicer ""Myth"" (MR)",sword-and-shield,TRUE,140,100,30,30,70,30,0
+"Kjárr Slicer ""Water"" (MR)",sword-and-shield,TRUE,170,70,20,20,80,40,0
+"Kjárr Slicer ""Dragon"" (MR)",sword-and-shield,TRUE,170,70,20,20,80,40,0
+"Kjárr Slicer ""Blast"" (MR)",sword-and-shield,TRUE,110,30,60,80,40,80,0
 Gold Water Twinblades,dual-blades,FALSE,190,70,20,20,60,40,0
 Gold Ice Twinblades,dual-blades,FALSE,80,50,60,120,50,40,0
 Gold Poison Twinblades,dual-blades,FALSE,60,60,20,150,90,20,0
@@ -2052,6 +2173,47 @@ Magma Gold Twinblades,dual-blades,FALSE,100,120,40,50,90,0,0
 "Taroth Daggers ""Ice""",dual-blades,FALSE,50,50,60,120,80,40,0
 "Taroth Daggers ""Poison""",dual-blades,FALSE,40,50,60,120,90,40,0
 "Taroth Daggers ""Fire""",dual-blades,FALSE,220,20,20,20,30,90,0
+"Kjárr Daggers ""Spark""",dual-blades,FALSE,220,20,20,50,20,70,0
+"Kjárr Daggers ""Rage""",dual-blades,FALSE,80,50,50,80,140,0,0
+"Kjárr Daggers ""Magma""",dual-blades,FALSE,90,120,40,50,100,0,0
+"Kjárr Daggers ""Lurk""",dual-blades,FALSE,100,30,60,80,40,90,0
+"Kjárr Daggers ""Water""",dual-blades,FALSE,170,70,20,20,80,40,0
+"Kjárr Daggers ""Ice""",dual-blades,FALSE,40,50,60,120,90,40,0
+"Kjárr Daggers ""Dragon""",dual-blades,FALSE,40,50,60,120,90,40,0
+Gold Water Twinblades (MR),dual-blades,TRUE,200,70,20,20,50,40,0
+Gold Ice Twinblades (MR),dual-blades,TRUE,80,50,60,120,50,40,0
+Gold Poison Twinblades (MR),dual-blades,TRUE,60,60,20,150,90,20,0
+Thief Gold Twinblades (MR),dual-blades,TRUE,90,60,60,100,60,30,0
+Mire Gold Twinblades (MR),dual-blades,TRUE,170,100,30,30,40,30,0
+Spark Gold Twinblades (MR),dual-blades,TRUE,230,20,20,50,10,70,0
+Rage Gold Twinblades (MR),dual-blades,TRUE,110,120,40,50,80,0,0
+Lurk Gold Twinblades (MR),dual-blades,TRUE,120,30,60,80,40,70,0
+Flash Gold Twinblades (MR),dual-blades,TRUE,80,50,60,120,50,40,0
+Claw Gold Twinblades (MR),dual-blades,TRUE,50,120,80,60,40,50,0
+Horn Gold Twinblades (MR),dual-blades,TRUE,100,50,60,120,50,20,0
+Erupter Gold Twinblades (MR),dual-blades,TRUE,200,70,20,20,50,40,0
+Magma Gold Twinblades (MR),dual-blades,TRUE,110,120,40,50,80,0,0
+"Taroth Daggers ""Thief"" (MR)",dual-blades,TRUE,90,60,60,100,60,30,0
+"Taroth Daggers ""Mire"" (MR)",dual-blades,TRUE,170,100,30,30,40,30,0
+"Taroth Daggers ""Spark"" (MR)",dual-blades,TRUE,230,20,20,50,10,70,0
+"Taroth Daggers ""Rage"" (MR)",dual-blades,TRUE,110,120,40,50,80,0,0
+"Taroth Daggers ""Lurk"" (MR)",dual-blades,TRUE,120,30,60,80,40,70,0
+"Taroth Daggers ""Flash"" (MR)",dual-blades,TRUE,80,50,60,120,50,40,0
+"Taroth Daggers ""Claw"" (MR)",dual-blades,TRUE,50,120,80,60,40,50,0
+"Taroth Daggers ""Horn"" (MR)",dual-blades,TRUE,100,50,60,120,50,20,0
+"Taroth Daggers ""Erupter"" (MR)",dual-blades,TRUE,200,70,20,20,50,40,0
+"Taroth Daggers ""Magma"" (MR)",dual-blades,TRUE,110,120,40,50,80,0,0
+"Taroth Daggers ""Water"" (MR)",dual-blades,TRUE,200,70,20,20,50,40,0
+"Taroth Daggers ""Ice"" (MR)",dual-blades,TRUE,60,50,60,120,70,40,0
+"Taroth Daggers ""Poison"" (MR)",dual-blades,TRUE,50,50,60,120,80,40,0
+"Taroth Daggers ""Fire"" (MR)",dual-blades,TRUE,230,20,20,20,30,80,0
+"Kjárr Daggers ""Spark"" (MR)",dual-blades,TRUE,230,20,20,50,10,70,0
+"Kjárr Daggers ""Rage"" (MR)",dual-blades,TRUE,90,50,50,80,130,0,0
+"Kjárr Daggers ""Magma"" (MR)",dual-blades,TRUE,100,120,40,50,90,0,0
+"Kjárr Daggers ""Lurk"" (MR)",dual-blades,TRUE,110,30,60,80,40,80,0
+"Kjárr Daggers ""Water"" (MR)",dual-blades,TRUE,180,70,20,20,70,40,0
+"Kjárr Daggers ""Ice"" (MR)",dual-blades,TRUE,50,50,60,120,80,40,0
+"Kjárr Daggers ""Dragon"" (MR)",dual-blades,TRUE,50,50,60,120,80,40,0
 Gold Water Bludgeon,hammer,FALSE,90,60,80,80,70,20,0
 Gold Ice Bludgeon,hammer,FALSE,150,100,30,30,60,30,0
 Gold Thunder Bludgeon,hammer,FALSE,150,100,30,30,60,30,0
@@ -2077,6 +2239,45 @@ Gyre Gold Bludgeon,hammer,FALSE,90,120,40,50,100,0,0
 "Taroth Hammer ""Ice""",hammer,FALSE,190,70,20,20,60,40,0
 "Taroth Hammer ""Thunder""",hammer,FALSE,150,100,30,30,60,30,0
 "Taroth Hammer ""Sleep""",hammer,FALSE,220,20,20,20,30,90,0
+"Kjárr Hammer ""Numb""",hammer,FALSE,80,60,60,100,70,30,0
+"Kjárr Hammer ""Decay""",hammer,FALSE,40,120,80,60,50,50,0
+"Kjárr Hammer ""Gyre""",hammer,FALSE,80,100,40,40,140,0,0
+"Kjárr Hammer ""Water""",hammer,FALSE,60,50,60,120,70,40,0
+"Kjárr Hammer ""Ice""",hammer,FALSE,170,70,20,20,80,40,0
+"Kjárr Hammer ""Thunder""",hammer,FALSE,130,100,30,30,80,30,0
+"Kjárr Hammer ""Blast""",hammer,FALSE,110,50,50,80,110,0,0
+Gold Water Bludgeon (MR),hammer,TRUE,100,60,80,80,60,20,0
+Gold Ice Bludgeon (MR),hammer,TRUE,160,100,30,30,50,30,0
+Gold Thunder Bludgeon (MR),hammer,TRUE,160,100,30,30,50,30,0
+Thief Gold Bludgeon (MR),hammer,TRUE,130,110,40,40,60,20,0
+Spew Gold Bludgeon (MR),hammer,TRUE,110,120,40,50,80,0,0
+Mud Gold Bludgeon (MR),hammer,TRUE,120,120,40,50,70,0,0
+Rage Gold Bludgeon (MR),hammer,TRUE,100,120,40,50,90,0,0
+Numb Gold Bludgeon (MR),hammer,TRUE,100,60,60,100,50,30,0
+Tar Gold Bludgeon (MR),hammer,TRUE,120,120,40,50,70,0,0
+Decay Gold Bludgeon (MR),hammer,TRUE,80,120,80,60,10,50,0
+Horn Gold Bludgeon (MR),hammer,TRUE,100,50,60,120,50,20,0
+Gyre Gold Bludgeon (MR),hammer,TRUE,100,120,40,50,90,0,0
+"Taroth Hammer ""Thief"" (MR)",hammer,TRUE,130,110,40,40,60,20,0
+"Taroth Hammer ""Spew"" (MR)",hammer,TRUE,110,120,40,50,80,0,0
+"Taroth Hammer ""Mud"" (MR)",hammer,TRUE,120,120,40,50,70,0,0
+"Taroth Hammer ""Rage"" (MR)",hammer,TRUE,100,120,40,50,90,0,0
+"Taroth Hammer ""Numb"" (MR)",hammer,TRUE,100,60,60,100,50,30,0
+"Taroth Hammer ""Tar"" (MR)",hammer,TRUE,120,120,40,50,70,0,0
+"Taroth Hammer ""Decay"" (MR)",hammer,TRUE,80,120,80,60,10,50,0
+"Taroth Hammer ""Horn"" (MR)",hammer,TRUE,100,50,60,120,50,20,0
+"Taroth Hammer ""Gyre"" (MR)",hammer,TRUE,100,120,40,50,90,0,0
+"Taroth Hammer ""Water"" (MR)",hammer,TRUE,80,50,60,120,50,40,0
+"Taroth Hammer ""Ice"" (MR)",hammer,TRUE,200,70,20,20,50,40,0
+"Taroth Hammer ""Thunder"" (MR)",hammer,TRUE,160,100,30,30,50,30,0
+"Taroth Hammer ""Sleep"" (MR)",hammer,TRUE,230,20,20,20,30,80,0
+"Kjárr Hammer ""Numb"" (MR)",hammer,TRUE,90,60,60,100,60,30,0
+"Kjárr Hammer ""Decay"" (MR)",hammer,TRUE,50,120,80,60,40,50,0
+"Kjárr Hammer ""Gyre"" (MR)",hammer,TRUE,90,100,40,40,130,0,0
+"Kjárr Hammer ""Water"" (MR)",hammer,TRUE,70,50,60,120,60,40,0
+"Kjárr Hammer ""Ice"" (MR)",hammer,TRUE,180,70,20,20,70,40,0
+"Kjárr Hammer ""Thunder"" (MR)",hammer,TRUE,140,100,30,30,70,30,0
+"Kjárr Hammer ""Blast"" (MR)",hammer,TRUE,110,50,50,80,110,0,0
 Gold Water Flute,hunting-horn,FALSE,80,50,60,120,50,40,0
 Gold Dragon Flute,hunting-horn,FALSE,120,110,40,40,70,20,0
 Gold Paralysis Flute,hunting-horn,FALSE,50,50,50,80,170,0,0
@@ -2102,6 +2303,45 @@ Crusher Gold Flute,hunting-horn,FALSE,120,110,40,40,70,20,0
 "Taroth Pipe ""Dragon""",hunting-horn,FALSE,240,20,20,20,30,70,0
 "Taroth Pipe ""Paralysis""",hunting-horn,FALSE,50,50,50,80,170,0,0
 "Taroth Pipe ""Sleep""",hunting-horn,FALSE,230,20,20,20,30,80,0
+"Kjárr Pipe ""Paralysis""",hunting-horn,FALSE,40,50,50,80,180,0,0
+"Kjárr Pipe ""Rage""",hunting-horn,FALSE,90,100,40,40,130,0,0
+"Kjárr Pipe ""Myth""",hunting-horn,FALSE,220,20,20,50,20,70,0
+"Kjárr Pipe ""Crusher""",hunting-horn,FALSE,110,110,40,40,80,20,0
+"Kjárr Pipe ""Stream""",hunting-horn,FALSE,110,30,60,80,40,80,0
+"Kjárr Pipe ""Water""",hunting-horn,FALSE,100,30,60,80,40,90,0
+"Kjárr Pipe ""Dragon""",hunting-horn,FALSE,220,20,20,20,30,90,0
+Gold Water Flute (MR),hunting-horn,TRUE,80,50,60,120,50,40,0
+Gold Dragon Flute (MR),hunting-horn,TRUE,130,110,40,40,60,20,0
+Gold Paralysis Flute (MR),hunting-horn,TRUE,60,50,50,80,160,0,0
+Buzzer Gold Flute (MR),hunting-horn,TRUE,60,50,50,80,160,0,0
+Thief Gold Flute (MR),hunting-horn,TRUE,100,60,80,80,60,20,0
+Spew Gold Flute (MR),hunting-horn,TRUE,120,120,40,50,70,0,0
+Rage Gold Flute (MR),hunting-horn,TRUE,100,120,40,50,90,0,0
+Drifter Gold Flute (MR),hunting-horn,TRUE,80,50,60,120,50,40,0
+Stream Gold Flute (MR),hunting-horn,TRUE,90,100,40,40,130,0,0
+Tar Gold Flute (MR),hunting-horn,TRUE,120,120,40,50,70,0,0
+Myth Gold Flute (MR),hunting-horn,TRUE,250,20,20,40,10,60,0
+Crusher Gold Flute (MR),hunting-horn,TRUE,130,110,40,40,60,20,0
+"Taroth Pipe ""Buzzer"" (MR)",hunting-horn,TRUE,60,50,50,80,160,0,0
+"Taroth Pipe ""Thief"" (MR)",hunting-horn,TRUE,100,60,80,80,60,20,0
+"Taroth Pipe ""Spew"" (MR)",hunting-horn,TRUE,120,120,40,50,70,0,0
+"Taroth Pipe ""Rage"" (MR)",hunting-horn,TRUE,100,120,40,50,90,0,0
+"Taroth Pipe ""Drifter"" (MR)",hunting-horn,TRUE,80,50,60,120,50,40,0
+"Taroth Pipe ""Stream"" (MR)",hunting-horn,TRUE,90,100,40,40,130,0,0
+"Taroth Pipe ""Tar"" (MR)",hunting-horn,TRUE,120,120,40,50,70,0,0
+"Taroth Pipe ""Myth"" (MR)",hunting-horn,TRUE,250,20,20,40,10,60,0
+"Taroth Pipe ""Crusher"" (MR)",hunting-horn,TRUE,130,110,40,40,60,20,0
+"Taroth Pipe ""Water"" (MR)",hunting-horn,TRUE,120,30,60,80,40,70,0
+"Taroth Pipe ""Dragon"" (MR)",hunting-horn,TRUE,250,20,20,20,30,60,0
+"Taroth Pipe ""Paralysis"" (MR)",hunting-horn,TRUE,60,50,50,80,160,0,0
+"Taroth Pipe ""Sleep"" (MR)",hunting-horn,TRUE,240,20,20,20,30,70,0
+"Kjárr Pipe ""Paralysis"" (MR)",hunting-horn,TRUE,50,50,50,80,170,0,0
+"Kjárr Pipe ""Rage"" (MR)",hunting-horn,TRUE,100,100,40,40,120,0,0
+"Kjárr Pipe ""Myth"" (MR)",hunting-horn,TRUE,230,20,20,50,10,70,0
+"Kjárr Pipe ""Crusher"" (MR)",hunting-horn,TRUE,120,110,40,40,70,20,0
+"Kjárr Pipe ""Stream"" (MR)",hunting-horn,TRUE,120,30,60,80,40,70,0
+"Kjárr Pipe ""Water"" (MR)",hunting-horn,TRUE,110,30,60,80,40,80,0
+"Kjárr Pipe ""Dragon"" (MR)",hunting-horn,TRUE,230,20,20,20,30,80,0
 Gold Water Defender,lance,FALSE,100,50,50,80,120,0,0
 Gold Thunder Defender,lance,FALSE,110,20,20,140,110,0,0
 Gold Sleep Defender,lance,FALSE,90,60,60,100,60,30,0
@@ -2127,6 +2367,45 @@ Crusher Gold Defender,lance,FALSE,90,60,80,80,70,20,0
 "Taroth Crest ""Thunder""",lance,FALSE,110,20,20,140,110,0,0
 "Taroth Crest ""Sleep""",lance,FALSE,90,60,60,100,60,30,0
 "Taroth Crest ""Poison""",lance,FALSE,100,50,50,80,120,0,0
+"Kjárr Crest ""Paralysis""",lance,FALSE,80,50,60,120,50,40,0
+"Kjárr Crest ""Stream""",lance,FALSE,210,20,20,50,20,80,0
+"Kjárr Crest ""Decay""",lance,FALSE,230,20,20,20,30,80,0
+"Kjárr Crest ""King""",lance,FALSE,210,20,20,50,20,80,0
+"Kjárr Crest ""Crusher""",lance,FALSE,80,60,60,100,70,30,0
+"Kjárr Crest ""Water""",lance,FALSE,50,50,60,120,80,40,0
+"Kjárr Crest ""Thunder""",lance,FALSE,110,20,20,120,130,0,0
+Gold Water Defender (MR),lance,TRUE,110,50,50,80,110,0,0
+Gold Thunder Defender (MR),lance,TRUE,110,20,20,150,100,0,0
+Gold Sleep Defender (MR),lance,TRUE,100,60,60,100,50,30,0
+Thief Gold Defender (MR),lance,TRUE,100,60,60,100,50,30,0
+Spew Gold Defender (MR),lance,TRUE,110,120,40,50,80,0,0
+Mud Gold Defender (MR),lance,TRUE,110,120,40,50,80,0,0
+Lurk Gold Defender (MR),lance,TRUE,120,30,60,80,40,70,0
+Stream Gold Defender (MR),lance,TRUE,240,20,20,40,20,60,0
+Claw Gold Defender (MR),lance,TRUE,70,120,80,60,20,50,0
+Decay Gold Defender (MR),lance,TRUE,250,20,20,20,30,60,0
+King Gold Defender (MR),lance,TRUE,240,20,20,40,20,60,0
+Crusher Gold Defender (MR),lance,TRUE,100,60,80,80,60,20,0
+"Taroth Crest ""Thief"" (MR)",lance,TRUE,100,60,60,100,50,30,0
+"Taroth Crest ""Spew"" (MR)",lance,TRUE,110,120,40,50,80,0,0
+"Taroth Crest ""Mud"" (MR)",lance,TRUE,110,120,40,50,80,0,0
+"Taroth Crest ""Lurk"" (MR)",lance,TRUE,120,30,60,80,40,70,0
+"Taroth Crest ""Stream"" (MR)",lance,TRUE,240,20,20,40,20,60,0
+"Taroth Crest ""Claw"" (MR)",lance,TRUE,70,120,80,60,20,50,0
+"Taroth Crest ""Decay"" (MR)",lance,TRUE,250,20,20,20,30,60,0
+"Taroth Crest ""King"" (MR)",lance,TRUE,240,20,20,40,20,60,0
+"Taroth Crest ""Crusher"" (MR)",lance,TRUE,100,60,80,80,60,20,0
+"Taroth Crest ""Water"" (MR)",lance,TRUE,80,50,60,120,50,40,0
+"Taroth Crest ""Thunder"" (MR)",lance,TRUE,110,20,20,150,100,0,0
+"Taroth Crest ""Sleep"" (MR)",lance,TRUE,100,60,60,100,50,30,0
+"Taroth Crest ""Poison"" (MR)",lance,TRUE,110,50,50,80,110,0,0
+"Kjárr Crest ""Paralysis"" (MR)",lance,TRUE,80,50,60,120,50,40,0
+"Kjárr Crest ""Stream"" (MR)",lance,TRUE,220,20,20,50,20,70,0
+"Kjárr Crest ""Decay"" (MR)",lance,TRUE,240,20,20,20,30,70,0
+"Kjárr Crest ""King"" (MR)",lance,TRUE,220,20,20,50,20,70,0
+"Kjárr Crest ""Crusher"" (MR)",lance,TRUE,90,60,60,100,60,30,0
+"Kjárr Crest ""Water"" (MR)",lance,TRUE,60,50,60,120,70,40,0
+"Kjárr Crest ""Thunder"" (MR)",lance,TRUE,110,20,20,130,120,0,0
 Gold Water Exploder,gunlance,FALSE,80,60,80,80,80,20,0
 Gold Poison Exploder,gunlance,FALSE,80,60,60,100,70,30,0
 Gold Sleep Exploder,gunlance,FALSE,90,120,40,50,100,0,0
@@ -2154,6 +2433,47 @@ Bomber Gold Exploder,gunlance,FALSE,90,50,50,80,130,0,0
 "Taroth Buster ""Poison""",gunlance,FALSE,60,50,60,120,70,40,0
 "Taroth Buster ""Sleep""",gunlance,FALSE,180,70,20,20,70,40,0
 "Taroth Buster ""Ice""",gunlance,FALSE,220,20,20,20,30,90,0
+"Kjárr Buster ""Stream""",gunlance,FALSE,160,70,20,20,90,40,0
+"Kjárr Buster ""Decay""",gunlance,FALSE,180,70,20,20,70,40,0
+"Kjárr Buster ""King""",gunlance,FALSE,60,50,50,80,160,0,0
+"Kjárr Buster ""Bomber""",gunlance,FALSE,70,50,50,80,150,0,0
+"Kjárr Buster ""Spark""",gunlance,FALSE,70,50,60,120,60,40,0
+"Kjárr Buster ""Paralysis""",gunlance,FALSE,90,50,50,80,130,0,0
+"Kjárr Buster ""Water""",gunlance,FALSE,60,60,60,100,90,30,0
+Gold Water Exploder (MR),gunlance,TRUE,90,60,80,80,70,20,0
+Gold Poison Exploder (MR),gunlance,TRUE,90,60,60,100,60,30,0
+Gold Sleep Exploder (MR),gunlance,TRUE,100,120,40,50,90,0,0
+Glutton Gold Exploder (MR),gunlance,TRUE,100,120,40,50,90,0,0
+Mire Gold Exploder (MR),gunlance,TRUE,90,60,80,80,70,20,0
+Mud Gold Exploder (MR),gunlance,TRUE,250,20,20,20,30,60,0
+Spark Gold Exploder (MR),gunlance,TRUE,100,50,50,80,120,0,0
+Rage Gold Exploder (MR),gunlance,TRUE,100,120,40,50,90,0,0
+Numb Gold Exploder (MR),gunlance,TRUE,110,50,50,80,110,0,0
+Stream Gold Exploder (MR),gunlance,TRUE,170,70,20,20,80,40,0
+Decay Gold Exploder (MR),gunlance,TRUE,200,70,20,20,50,40,0
+King Gold Exploder (MR),gunlance,TRUE,90,50,50,80,130,0,0
+Bomber Gold Exploder (MR),gunlance,TRUE,100,50,50,80,120,0,0
+"Taroth Buster ""Glutton"" (MR)",gunlance,TRUE,100,120,40,50,90,0,0
+"Taroth Buster ""Mire"" (MR)",gunlance,TRUE,90,60,80,80,70,20,0
+"Taroth Buster ""Mud"" (MR)",gunlance,TRUE,250,20,20,20,30,60,0
+"Taroth Buster ""Spark"" (MR)",gunlance,TRUE,100,50,50,80,120,0,0
+"Taroth Buster ""Rage"" (MR)",gunlance,TRUE,100,120,40,50,90,0,0
+"Taroth Buster ""Numb"" (MR)",gunlance,TRUE,110,50,50,80,110,0,0
+"Taroth Buster ""Stream"" (MR)",gunlance,TRUE,170,70,20,20,80,40,0
+"Taroth Buster ""Decay"" (MR)",gunlance,TRUE,200,70,20,20,50,40,0
+"Taroth Buster ""King"" (MR)",gunlance,TRUE,90,50,50,80,130,0,0
+"Taroth Buster ""Bomber"" (MR)",gunlance,TRUE,100,50,50,80,120,0,0
+"Taroth Buster ""Water"" (MR)",gunlance,TRUE,80,60,60,100,70,30,0
+"Taroth Buster ""Poison"" (MR)",gunlance,TRUE,70,50,60,120,60,40,0
+"Taroth Buster ""Sleep"" (MR)",gunlance,TRUE,190,70,20,20,60,40,0
+"Taroth Buster ""Ice"" (MR)",gunlance,TRUE,230,20,20,20,30,80,0
+"Kjárr Buster ""Stream"" (MR)",gunlance,TRUE,170,70,20,20,80,40,0
+"Kjárr Buster ""Decay"" (MR)",gunlance,TRUE,190,70,20,20,60,40,0
+"Kjárr Buster ""King"" (MR)",gunlance,TRUE,70,50,50,80,150,0,0
+"Kjárr Buster ""Bomber"" (MR)",gunlance,TRUE,80,50,50,80,140,0,0
+"Kjárr Buster ""Spark"" (MR)",gunlance,TRUE,80,50,60,120,50,40,0
+"Kjárr Buster ""Paralysis"" (MR)",gunlance,TRUE,100,50,50,80,120,0,0
+"Kjárr Buster ""Water"" (MR)",gunlance,TRUE,70,60,60,100,80,30,0
 Gold Thunder Chopper,switch-axe,FALSE,110,20,20,140,110,0,0
 Gold Paralysis Chopper,switch-axe,FALSE,110,100,40,40,110,0,0
 Gold Sleep Chopper,switch-axe,FALSE,110,100,40,40,110,0,0
@@ -2181,6 +2501,47 @@ Bomber Gold Chopper,switch-axe,FALSE,100,100,40,40,120,0,0
 "Taroth Axe ""Paralysis""",switch-axe,FALSE,110,100,40,40,110,0,0
 "Taroth Axe ""Sleep""",switch-axe,FALSE,60,50,60,120,70,40,0
 "Taroth Axe ""Water""",switch-axe,FALSE,70,60,60,100,80,30,0
+"Kjárr Axe ""Stream""",switch-axe,FALSE,110,30,60,80,40,80,0
+"Kjárr Axe ""Decay""",switch-axe,FALSE,220,20,20,20,30,90,0
+"Kjárr Axe ""King""",switch-axe,FALSE,80,60,60,100,70,30,0
+"Kjárr Axe ""Bomber""",switch-axe,FALSE,90,100,40,40,130,0,0
+"Kjárr Axe ""Thunder""",switch-axe,FALSE,100,30,60,80,40,90,0
+"Kjárr Axe ""Water""",switch-axe,FALSE,50,50,60,120,80,40,0
+"Kjárr Axe ""Paralysis""",switch-axe,FALSE,80,100,40,40,140,0,0
+Gold Thunder Chopper (MR),switch-axe,TRUE,110,20,20,150,100,0,0
+Gold Paralysis Chopper (MR),switch-axe,TRUE,110,100,40,40,110,0,0
+Gold Sleep Chopper (MR),switch-axe,TRUE,110,100,40,40,110,0,0
+Glutton Gold Chopper (MR),switch-axe,TRUE,120,120,40,50,70,0,0
+Mire Gold Chopper (MR),switch-axe,TRUE,100,120,40,50,90,0,0
+Mud Gold Chopper (MR),switch-axe,TRUE,130,70,30,100,70,0,0
+Drifter Gold Chopper (MR),switch-axe,TRUE,150,100,30,30,60,30,0
+Stream Gold Chopper (MR),switch-axe,TRUE,100,100,40,40,120,0,0
+Decay Gold Chopper (MR),switch-axe,TRUE,250,20,20,20,30,60,0
+King Gold Chopper (MR),switch-axe,TRUE,100,60,80,80,60,20,0
+Horn Gold Chopper (MR),switch-axe,TRUE,100,50,60,120,50,20,0
+Gyre Gold Chopper (MR),switch-axe,TRUE,90,50,80,100,80,0,0
+Bomber Gold Chopper (MR),switch-axe,TRUE,110,100,40,40,110,0,0
+"Taroth Axe ""Glutton"" (MR)",switch-axe,TRUE,120,120,40,50,70,0,0
+"Taroth Axe ""Mire"" (MR)",switch-axe,TRUE,100,120,40,50,90,0,0
+"Taroth Axe ""Mud"" (MR)",switch-axe,TRUE,130,70,30,100,70,0,0
+"Taroth Axe ""Drifter"" (MR)",switch-axe,TRUE,150,100,30,30,60,30,0
+"Taroth Axe ""Stream"" (MR)",switch-axe,TRUE,100,100,40,40,120,0,0
+"Taroth Axe ""Decay"" (MR)",switch-axe,TRUE,250,20,20,20,30,60,0
+"Taroth Axe ""King"" (MR)",switch-axe,TRUE,100,60,80,80,60,20,0
+"Taroth Axe ""Horn"" (MR)",switch-axe,TRUE,100,50,60,120,50,20,0
+"Taroth Axe ""Gyre"" (MR)",switch-axe,TRUE,90,50,80,100,80,0,0
+"Taroth Axe ""Bomber"" (MR)",switch-axe,TRUE,110,100,40,40,110,0,0
+"Taroth Axe ""Thunder"" (MR)",switch-axe,TRUE,130,30,60,80,40,60,0
+"Taroth Axe ""Paralysis"" (MR)",switch-axe,TRUE,110,100,40,40,110,0,0
+"Taroth Axe ""Sleep"" (MR)",switch-axe,TRUE,70,50,60,120,60,40,0
+"Taroth Axe ""Water"" (MR)",switch-axe,TRUE,80,60,60,100,70,30,0
+"Kjárr Axe ""Stream"" (MR)",switch-axe,TRUE,120,30,60,80,40,70,0
+"Kjárr Axe ""Decay"" (MR)",switch-axe,TRUE,230,20,20,20,30,80,0
+"Kjárr Axe ""King"" (MR)",switch-axe,TRUE,90,60,60,100,60,30,0
+"Kjárr Axe ""Bomber"" (MR)",switch-axe,TRUE,100,100,40,40,120,0,0
+"Kjárr Axe ""Thunder"" (MR)",switch-axe,TRUE,110,30,60,80,40,80,0
+"Kjárr Axe ""Water"" (MR)",switch-axe,TRUE,60,50,60,120,70,40,0
+"Kjárr Axe ""Paralysis"" (MR)",switch-axe,TRUE,90,100,40,40,130,0,0
 Gold Ice Cutter,charge-blade,FALSE,90,60,80,80,70,20,0
 Gold Thunder Cutter,charge-blade,FALSE,60,60,20,150,90,20,0
 Gold Sleep Cutter,charge-blade,FALSE,110,50,50,80,110,0,0
@@ -2206,6 +2567,45 @@ Crusher Gold Cutter,charge-blade,FALSE,110,110,40,40,80,20,0
 "Taroth Strongarm ""Thunder""",charge-blade,FALSE,70,50,60,120,60,40,0
 "Taroth Strongarm ""Sleep""",charge-blade,FALSE,70,50,60,120,60,40,0
 "Taroth Strongarm ""Water""",charge-blade,FALSE,210,20,20,20,30,100,0
+"Kjárr Strongarm ""Spark""",charge-blade,FALSE,160,70,20,20,90,40,0
+"Kjárr Strongarm ""Numb""",charge-blade,FALSE,180,70,20,20,70,40,0
+"Kjárr Strongarm ""Decay""",charge-blade,FALSE,180,70,20,20,70,40,0
+"Kjárr Strongarm ""King""",charge-blade,FALSE,60,50,60,120,70,40,0
+"Kjárr Strongarm ""Ice""",charge-blade,FALSE,40,50,60,120,90,40,0
+"Kjárr Strongarm ""Crusher""",charge-blade,FALSE,180,70,20,20,70,40,0
+"Kjárr Strongarm ""Water""",charge-blade,FALSE,210,20,20,20,30,100,0
+Gold Ice Cutter (MR),charge-blade,TRUE,100,60,80,80,60,20,0
+Gold Thunder Cutter (MR),charge-blade,TRUE,60,60,20,150,90,20,0
+Gold Sleep Cutter (MR),charge-blade,TRUE,110,50,50,80,110,0,0
+Glutton Gold Cutter (MR),charge-blade,TRUE,110,120,40,50,80,0,0
+Mire Gold Cutter (MR),charge-blade,TRUE,100,60,60,100,50,30,0
+Spark Gold Cutter (MR),charge-blade,TRUE,200,70,20,20,50,40,0
+Numb Gold Cutter (MR),charge-blade,TRUE,120,110,40,40,70,20,0
+Claw Gold Cutter (MR),charge-blade,TRUE,60,120,80,60,30,50,0
+Decay Gold Cutter (MR),charge-blade,TRUE,200,70,20,20,50,40,0
+King Gold Cutter (MR),charge-blade,TRUE,80,50,60,120,50,40,0
+Horn Gold Cutter (MR),charge-blade,TRUE,100,50,60,120,50,20,0
+Crusher Gold Cutter (MR),charge-blade,TRUE,120,110,40,40,70,20,0
+"Taroth Strongarm ""Glutton"" (MR)",charge-blade,TRUE,110,120,40,50,80,0,0
+"Taroth Strongarm ""Mire"" (MR)",charge-blade,TRUE,100,60,60,100,50,30,0
+"Taroth Strongarm ""Spark"" (MR)",charge-blade,TRUE,200,70,20,20,50,40,0
+"Taroth Strongarm ""Numb"" (MR)",charge-blade,TRUE,120,110,40,40,70,20,0
+"Taroth Strongarm ""Claw"" (MR)",charge-blade,TRUE,60,120,80,60,30,50,0
+"Taroth Strongarm ""Decay"" (MR)",charge-blade,TRUE,200,70,20,20,50,40,0
+"Taroth Strongarm ""King"" (MR)",charge-blade,TRUE,80,50,60,120,50,40,0
+"Taroth Strongarm ""Horn"" (MR)",charge-blade,TRUE,100,50,60,120,50,20,0
+"Taroth Strongarm ""Crusher"" (MR)",charge-blade,TRUE,120,110,40,40,70,20,0
+"Taroth Strongarm ""Ice"" (MR)",charge-blade,TRUE,70,50,60,120,60,40,0
+"Taroth Strongarm ""Thunder"" (MR)",charge-blade,TRUE,80,50,60,120,50,40,0
+"Taroth Strongarm ""Sleep"" (MR)",charge-blade,TRUE,80,50,60,120,50,40,0
+"Taroth Strongarm ""Water"" (MR)",charge-blade,TRUE,220,20,20,20,30,90,0
+"Kjárr Strongarm ""Spark"" (MR)",charge-blade,TRUE,170,70,20,20,80,40,0
+"Kjárr Strongarm ""Numb"" (MR)",charge-blade,TRUE,190,70,20,20,60,40,0
+"Kjárr Strongarm ""Decay"" (MR)",charge-blade,TRUE,190,70,20,20,60,40,0
+"Kjárr Strongarm ""King"" (MR)",charge-blade,TRUE,70,50,60,120,60,40,0
+"Kjárr Strongarm ""Ice"" (MR)",charge-blade,TRUE,50,50,60,120,80,40,0
+"Kjárr Strongarm ""Crusher"" (MR)",charge-blade,TRUE,190,70,20,20,60,40,0
+"Kjárr Strongarm ""Water"" (MR)",charge-blade,TRUE,220,20,20,20,30,90,0
 Gold Water Naginata,insect-glaive,FALSE,80,60,60,100,70,30,0
 Gold Ice Naginata,insect-glaive,FALSE,90,60,80,80,70,20,0
 Gold Paralysis Naginata,insect-glaive,FALSE,100,50,50,80,120,0,0
@@ -2231,76 +2631,6 @@ Crusher Gold Naginata,insect-glaive,FALSE,130,110,40,40,60,20,0
 "Taroth Glaive ""Ice""",insect-glaive,FALSE,110,30,60,80,40,80,0
 "Taroth Glaive ""Paralysis""",insect-glaive,FALSE,70,50,50,80,150,0,0
 "Taroth Glaive ""Sleep""",insect-glaive,FALSE,220,20,20,20,30,90,0
-"Kjárr Fellsword ""Numb""",great-sword,FALSE,70,60,60,100,80,30,0
-"Kjárr Fellsword ""Decay""",great-sword,FALSE,190,70,20,20,60,40,0
-"Kjárr Fellsword ""King""",great-sword,FALSE,50,50,60,120,80,40,0
-"Kjárr Fellsword ""Magma""",great-sword,FALSE,110,50,50,80,110,0,0
-"Kjárr Fellsword ""Water""",great-sword,FALSE,140,100,30,30,70,30,0
-"Kjárr Fellsword ""Ice""",great-sword,FALSE,50,50,60,120,80,40,0
-"Kjárr Fellsword ""Thunder""",great-sword,FALSE,70,100,40,40,150,0,0
-"Kjárr Sword ""Spark""",long-sword,FALSE,130,100,30,30,80,30,0
-"Kjárr Sword ""Stream""",long-sword,FALSE,210,20,20,20,30,100,0
-"Kjárr Sword ""Decay""",long-sword,FALSE,190,70,20,20,60,40,0
-"Kjárr Sword ""Magma""",long-sword,FALSE,100,50,50,80,120,0,0
-"Kjárr Sword ""Water""",long-sword,FALSE,190,70,20,20,60,40,0
-"Kjárr Sword ""Fire""",long-sword,FALSE,220,20,20,20,30,90,0
-"Kjárr Sword ""Paralysis""",long-sword,FALSE,110,30,60,80,40,80,0
-"Kjárr Slicer ""Numb""",sword-and-shield,FALSE,40,120,80,60,50,50,0
-"Kjárr Slicer ""Stream""",sword-and-shield,FALSE,100,30,60,80,40,90,0
-"Kjárr Slicer ""King""",sword-and-shield,FALSE,80,60,60,100,70,30,0
-"Kjárr Slicer ""Myth""",sword-and-shield,FALSE,130,100,30,30,80,30,0
-"Kjárr Slicer ""Water""",sword-and-shield,FALSE,160,70,20,20,90,40,0
-"Kjárr Slicer ""Dragon""",sword-and-shield,FALSE,160,70,20,20,90,40,0
-"Kjárr Slicer ""Blast""",sword-and-shield,FALSE,100,30,60,80,40,90,0
-"Kjárr Daggers ""Spark""",dual-blades,FALSE,220,20,20,50,20,70,0
-"Kjárr Daggers ""Rage""",dual-blades,FALSE,80,50,50,80,140,0,0
-"Kjárr Daggers ""Magma""",dual-blades,FALSE,90,120,40,50,100,0,0
-"Kjárr Daggers ""Lurk""",dual-blades,FALSE,100,30,60,80,40,90,0
-"Kjárr Daggers ""Water""",dual-blades,FALSE,170,70,20,20,80,40,0
-"Kjárr Daggers ""Ice""",dual-blades,FALSE,40,50,60,120,90,40,0
-"Kjárr Daggers ""Dragon""",dual-blades,FALSE,40,50,60,120,90,40,0
-"Kjárr Hammer ""Numb""",hammer,FALSE,80,60,60,100,70,30,0
-"Kjárr Hammer ""Decay""",hammer,FALSE,40,120,80,60,50,50,0
-"Kjárr Hammer ""Gyre""",hammer,FALSE,80,100,40,40,140,0,0
-"Kjárr Hammer ""Water""",hammer,FALSE,60,50,60,120,70,40,0
-"Kjárr Hammer ""Ice""",hammer,FALSE,170,70,20,20,80,40,0
-"Kjárr Hammer ""Thunder""",hammer,FALSE,130,100,30,30,80,30,0
-"Kjárr Hammer ""Blast""",hammer,FALSE,110,50,50,80,110,0,0
-"Kjárr Pipe ""Paralysis""",hunting-horn,FALSE,40,50,50,80,180,0,0
-"Kjárr Pipe ""Rage""",hunting-horn,FALSE,90,100,40,40,130,0,0
-"Kjárr Pipe ""Myth""",hunting-horn,FALSE,220,20,20,50,20,70,0
-"Kjárr Pipe ""Crusher""",hunting-horn,FALSE,110,110,40,40,80,20,0
-"Kjárr Pipe ""Stream""",hunting-horn,FALSE,110,30,60,80,40,80,0
-"Kjárr Pipe ""Water""",hunting-horn,FALSE,100,30,60,80,40,90,0
-"Kjárr Pipe ""Dragon""",hunting-horn,FALSE,220,20,20,20,30,90,0
-"Kjárr Crest ""Paralysis""",lance,FALSE,80,50,60,120,50,40,0
-"Kjárr Crest ""Stream""",lance,FALSE,210,20,20,50,20,80,0
-"Kjárr Crest ""Decay""",lance,FALSE,230,20,20,20,30,80,0
-"Kjárr Crest ""King""",lance,FALSE,210,20,20,50,20,80,0
-"Kjárr Crest ""Crusher""",lance,FALSE,80,60,60,100,70,30,0
-"Kjárr Crest ""Water""",lance,FALSE,50,50,60,120,80,40,0
-"Kjárr Crest ""Thunder""",lance,FALSE,110,20,20,120,130,0,0
-"Kjárr Buster ""Stream""",gunlance,FALSE,160,70,20,20,90,40,0
-"Kjárr Buster ""Decay""",gunlance,FALSE,180,70,20,20,70,40,0
-"Kjárr Buster ""King""",gunlance,FALSE,60,50,50,80,160,0,0
-"Kjárr Buster ""Bomber""",gunlance,FALSE,70,50,50,80,150,0,0
-"Kjárr Buster ""Spark""",gunlance,FALSE,70,50,60,120,60,40,0
-"Kjárr Buster ""Paralysis""",gunlance,FALSE,90,50,50,80,130,0,0
-"Kjárr Buster ""Water""",gunlance,FALSE,60,60,60,100,90,30,0
-"Kjárr Axe ""Stream""",switch-axe,FALSE,110,30,60,80,40,80,0
-"Kjárr Axe ""Decay""",switch-axe,FALSE,220,20,20,20,30,90,0
-"Kjárr Axe ""King""",switch-axe,FALSE,80,60,60,100,70,30,0
-"Kjárr Axe ""Bomber""",switch-axe,FALSE,90,100,40,40,130,0,0
-"Kjárr Axe ""Thunder""",switch-axe,FALSE,100,30,60,80,40,90,0
-"Kjárr Axe ""Water""",switch-axe,FALSE,50,50,60,120,80,40,0
-"Kjárr Axe ""Paralysis""",switch-axe,FALSE,80,100,40,40,140,0,0
-"Kjárr Strongarm ""Spark""",charge-blade,FALSE,160,70,20,20,90,40,0
-"Kjárr Strongarm ""Numb""",charge-blade,FALSE,180,70,20,20,70,40,0
-"Kjárr Strongarm ""Decay""",charge-blade,FALSE,180,70,20,20,70,40,0
-"Kjárr Strongarm ""King""",charge-blade,FALSE,60,50,60,120,70,40,0
-"Kjárr Strongarm ""Ice""",charge-blade,FALSE,40,50,60,120,90,40,0
-"Kjárr Strongarm ""Crusher""",charge-blade,FALSE,180,70,20,20,70,40,0
-"Kjárr Strongarm ""Water""",charge-blade,FALSE,210,20,20,20,30,100,0
 "Kjárr Glaive ""Spark""",insect-glaive,FALSE,170,70,20,20,80,40,0
 "Kjárr Glaive ""Decay""",insect-glaive,FALSE,230,20,20,20,30,80,0
 "Kjárr Glaive ""King""",insect-glaive,FALSE,70,60,60,100,80,30,0
@@ -2308,6 +2638,38 @@ Crusher Gold Naginata,insect-glaive,FALSE,130,110,40,40,60,20,0
 "Kjárr Glaive ""Water""",insect-glaive,FALSE,50,50,60,120,80,40,0
 "Kjárr Glaive ""Ice""",insect-glaive,FALSE,90,30,60,80,40,100,0
 "Kjárr Glaive ""Paralysis""",insect-glaive,FALSE,240,20,20,20,30,70,0
+Gold Water Naginata (MR),insect-glaive,TRUE,90,60,60,100,60,30,0
+Gold Ice Naginata (MR),insect-glaive,TRUE,100,60,80,80,60,20,0
+Gold Paralysis Naginata (MR),insect-glaive,TRUE,110,50,50,80,110,0,0
+Thief Gold Naginata (MR),insect-glaive,TRUE,90,60,60,100,60,30,0
+Spew Gold Naginata (MR),insect-glaive,TRUE,100,120,40,50,90,0,0
+Spark Gold Naginata (MR),insect-glaive,TRUE,200,70,20,20,50,40,0
+Flash Gold Naginata (MR),insect-glaive,TRUE,80,50,60,120,50,40,0
+Claw Gold Naginata (MR),insect-glaive,TRUE,60,120,80,60,30,50,0
+Decay Gold Naginata (MR),insect-glaive,TRUE,250,20,20,20,30,60,0
+King Gold Naginata (MR),insect-glaive,TRUE,100,60,60,100,50,30,0
+Horn Gold Naginata (MR),insect-glaive,TRUE,100,50,60,120,50,20,0
+Crusher Gold Naginata (MR),insect-glaive,TRUE,140,110,40,40,50,20,0
+"Taroth Glaive ""Thief"" (MR)",insect-glaive,TRUE,90,60,60,100,60,30,0
+"Taroth Glaive ""Spew"" (MR)",insect-glaive,TRUE,100,120,40,50,90,0,0
+"Taroth Glaive ""Spark"" (MR)",insect-glaive,TRUE,200,70,20,20,50,40,0
+"Taroth Glaive ""Flash"" (MR)",insect-glaive,TRUE,80,50,60,120,50,40,0
+"Taroth Glaive ""Claw"" (MR)",insect-glaive,TRUE,60,120,80,60,30,50,0
+"Taroth Glaive ""Decay"" (MR)",insect-glaive,TRUE,250,20,20,20,30,60,0
+"Taroth Glaive ""King"" (MR)",insect-glaive,TRUE,100,60,60,100,50,30,0
+"Taroth Glaive ""Horn"" (MR)",insect-glaive,TRUE,100,50,60,120,50,20,0
+"Taroth Glaive ""Crusher"" (MR)",insect-glaive,TRUE,140,110,40,40,50,20,0
+"Taroth Glaive ""Water"" (MR)",insect-glaive,TRUE,80,50,60,120,50,40,0
+"Taroth Glaive ""Ice"" (MR)",insect-glaive,TRUE,120,30,60,80,40,70,0
+"Taroth Glaive ""Paralysis"" (MR)",insect-glaive,TRUE,80,50,50,80,140,0,0
+"Taroth Glaive ""Sleep"" (MR)",insect-glaive,TRUE,230,20,20,20,30,80,0
+"Kjárr Glaive ""Spark"" (MR)",insect-glaive,TRUE,180,70,20,20,70,40,0
+"Kjárr Glaive ""Decay"" (MR)",insect-glaive,TRUE,240,20,20,20,30,70,0
+"Kjárr Glaive ""King"" (MR)",insect-glaive,TRUE,80,60,60,100,70,30,0
+"Kjárr Glaive ""Crusher"" (MR)",insect-glaive,TRUE,250,20,20,20,30,60,0
+"Kjárr Glaive ""Water"" (MR)",insect-glaive,TRUE,60,50,60,120,70,40,0
+"Kjárr Glaive ""Ice"" (MR)",insect-glaive,TRUE,100,30,60,80,40,90,0
+"Kjárr Glaive ""Paralysis"" (MR)",insect-glaive,TRUE,250,20,20,20,30,60,0
 Safi's Hellsplitter,great-sword,FALSE,100,50,50,50,60,90,0
 Safi's Aquasplitter,great-sword,FALSE,100,50,50,50,60,90,0
 Safi's Boltsplitter,great-sword,FALSE,100,50,50,50,60,90,0
