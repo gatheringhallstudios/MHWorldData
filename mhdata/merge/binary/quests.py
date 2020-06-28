@@ -6,12 +6,12 @@ from mhdata.io import create_writer, DataMap
 from mhdata.util import flatten_dict
 from mhdata.load import schema
 
-from mhdata.binary import MonsterCollection
+from mhdata.binary import MonsterCollection, ItemCollection
 from mhdata.binary.load import load_quests
 from mhdata.binary.parsers import struct_to_json
 
 from .artifacts import write_dicts_artifact, create_artifact_writer
-from .items import ItemUpdater
+from .items import ItemUpdater, DummyItemError
 
 def update_quests(mhdata, item_updater: ItemUpdater, monster_data: MonsterCollection, area_map):
     print('Beginning load of quest binary data')
@@ -31,7 +31,7 @@ def update_quests(mhdata, item_updater: ItemUpdater, monster_data: MonsterCollec
             quest_name = q1.name['en']
             print(f'Warning: Quest {quest_name} has exact duplicates.')
 
-    write_quest_raw_data(quests, item_updater, monster_data)
+    write_quest_raw_data(quests, item_updater.data, monster_data)
     print('Quest artifacts written. Copy ids and names to quest_base.csv to add to build')
 
     # Merge the quest data
@@ -192,37 +192,41 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_data: MonsterCollec
             add_monster(monster_id, 1)
 
     # quest rewards
-    for idx, rem in enumerate(quest.reward_data_list):
-        group = ascii_uppercase[idx]
-        group_items = []
+    try:
+        rewards = []
+        for idx, rem in enumerate(quest.reward_data_list):
+            group = ascii_uppercase[idx]
+            group_items = []
 
-        first = True
-        for (item_id, qty, chance) in rem.iter_items():
+            first = True
+            for (item_id, qty, chance) in rem.iter_items():
+                item_name, _ = item_updater.name_and_description_for(item_id)
+                if first and not rem.drop_mechanic:
+                    rewards.append({
+                        'group': group,
+                        'item_en': item_name['en'],
+                        'stack': qty,
+                        'percentage': 100
+                    })
 
-            item_name, _ = item_updater.name_and_description_for(item_id)
-            if first and not rem.drop_mechanic:
-                result['rewards'].append({
-                    'group': group,
+                first = False
+
+                group_items.append({
                     'item_en': item_name['en'],
                     'stack': qty,
-                    'percentage': 100
+                    'percentage': chance
                 })
 
-            first = False
-
-            group_items.append({
-                'item_en': item_name['en'],
-                'stack': qty,
-                'percentage': chance
-            })
-
-        def rank_drop(drop):
-            percentage = drop['percentage']
-            if percentage == 100:
-                return 0
-            return 100 - percentage
-        group_items.sort(key=rank_drop)
-        result['rewards'].extend({ 'group': group, **i } for i in group_items)
+            def rank_drop(drop):
+                percentage = drop['percentage']
+                if percentage == 100:
+                    return 0
+                return 100 - percentage
+            group_items.sort(key=rank_drop)
+            rewards.extend({ 'group': group, **i } for i in group_items)
+        result['rewards'] = rewards
+    except DummyItemError:
+        print(f"ERROR: Quest {quest.id}:{quest.name['en']} has invalid items, skipping rewards")
 
     # more special exceptions
     if quest.name['en'] in ['The Legendary Beast']:
@@ -297,7 +301,7 @@ def get_quests_with_duplicate_names(quest_by_id):
         
     return results
 
-def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_data: MonsterCollection):
+def write_quest_raw_data(quests, item_data: ItemCollection, monster_data: MonsterCollection):
     "Writes the artifact file for the quest"
     quest_artifact_entries = []
     quest_monsters_artifact_entries = []
@@ -347,7 +351,7 @@ def write_quest_raw_data(quests, item_updater: ItemUpdater, monster_data: Monste
         for idx, rem in enumerate(quest.reward_data_list):
             first = True
             for (item_id, qty, chance) in rem.iter_items():
-                item_name, _ = item_updater.name_and_description_for(item_id)
+                item_name = item_data.by_id(item_id).name
                 if first and not rem.drop_mechanic:
                     quest_reward_artifact_entries.append({
                         'id': quest.id,

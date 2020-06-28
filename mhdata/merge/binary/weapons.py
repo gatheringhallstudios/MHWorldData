@@ -9,26 +9,13 @@ from mhdata.binary.parsers.msk import note_colors
 from mhdata.binary import load_schema, load_text, get_chunk_root
 from mhdata.binary import WeaponMelody, WeaponMelodyCollection
 from mhdata.binary.load import SkillTextHandler, SharpnessDataReader, \
-                                WeaponDataLoader, load_kinsect_tree
+                                WeaponDataLoader, load_kinsect_tree, AugmentedWeapon
 from .items import ItemUpdater
 from .util import convert_recipe
 
 from mhdata import cfg
 
 from . import artifacts
-
-elements = [
-    "",
-    "Fire",
-    "Water",
-    "Ice",
-    "Thunder",
-    "Dragon",
-    "Poison",
-    "Paralysis",
-    "Sleep",
-    "Blast"
-]
 
 elderseal = ["", "low", "average", "high"]
 
@@ -225,8 +212,8 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
     coating_data = load_schema(bbtbl.Bbtbl, "common/equip/bottle_table.bbtbl")
     print("Loaded weapon binary data")
 
-    def bind_weapon_blade_ext(weapon_type: str, existing_entry, weapon_node):
-        binary: wp_dat.WpDatEntry = weapon_node.binary
+    def bind_weapon_blade_ext(weapon_type: str, existing_entry, weapon):
+        binary: wp_dat.WpDatEntry = weapon.binary
         for key in ['kinsect_bonus', 'phial', 'phial_power', 'shelling', 'shelling_level', 'notes']:
             existing_entry[key] = None
         if weapon_type == cfg.CHARGE_BLADE:
@@ -237,7 +224,7 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
                 existing_entry['phial'] = phial
                 existing_entry['phial_power'] = power
             except:
-                raise KeyError(f"Failed to load saxe phials for {weapon_node.name['en']} (SAXE ID: {binary.wep1_id})")
+                raise KeyError(f"Failed to load saxe phials for {weapon.name['en']} (SAXE ID: {binary.wep1_id})")
         if weapon_type == cfg.GUNLANCE:
             # first 5 are normals, second 5 are wide, third 5 are long
             if binary.wep1_id >= 15:
@@ -253,12 +240,12 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
             try:
                 existing_entry['kinsect_bonus'] = glaive_boosts[binary.wep1_id]
             except:
-                raise KeyError(f"Failed to load kinsect bonus for {weapon_node.name['en']} (BOOST ID: {binary.wep1_id})")
+                raise KeyError(f"Failed to load kinsect bonus for {weapon.name['en']} (BOOST ID: {binary.wep1_id})")
         if weapon_type == cfg.HUNTING_HORN:
             note_entry = notes_data[binary.wep1_id]
             notes = [note_entry.note1, note_entry.note2, note_entry.note3]
             notes = [str(note_colors[n]) for n in notes]
-            existing_entry['notes'] = "".join(notes)   
+            existing_entry['notes'] = "".join(notes)
 
     # Load weapon tree binary data
     weapon_trees = {}
@@ -266,6 +253,10 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         weapon_tree = weapon_loader.load_tree(weapon_type)
         print(f"Loaded {weapon_type} weapon tree binary data")
         weapon_trees[weapon_type] = weapon_tree
+
+    # Load Kulve Augment Data
+    kulve_augments = weapon_loader.load_kulve_augments()
+    artifacts.write_dicts_artifact("kulve_augments.csv", kulve_augments.flattened())
 
     # Write artifact lines
     print("Writing artifact files for weapons (use it to add new weapons)")
@@ -283,15 +274,16 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         # Therefore its unsorted, we have to work off the spreadsheet order
         multiplier = cfg.weapon_multiplier[weapon_type]
 
-        weapon_node = weapon_tree.by_name(existing_entry.name('en'))
-        if not weapon_node:
+        weapon = weapon_tree.by_name(existing_entry.name('en'))
+        if not weapon:
             print(f"Could not find binary entry for {existing_entry.name('en')}")
             new_weapon_map.insert(existing_entry)
             continue
-            
+        
+        is_kulve = existing_entry['category'] == 'Kulve'
         is_special = existing_entry['category'] in ('Kulve', 'Safi')
-        binary = weapon_node.binary
-        name = weapon_node.name
+        binary = weapon.binary
+        name = weapon.name
 
         new_entry = { **existing_entry }
         
@@ -299,15 +291,22 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         new_entry['name'] = name
         new_entry['weapon_type'] = weapon_type
         new_entry['previous_en'] = None
-        if weapon_node.parent != None:
-            new_entry['previous_en'] = weapon_node.parent.name['en']
+        if weapon.parent != None:
+            new_entry['previous_en'] = weapon.parent.name['en']
+
+        # Apply augmentation if its a kulve weapon that can get augmented
+        if is_kulve:
+            augment_params = kulve_augments.get(weapon_type, weapon.rarity)
+            if augment_params:
+                weapon = AugmentedWeapon(weapon, augment_params, 4)
+                
 
         # Bind info
         new_entry['weapon_type'] = weapon_type
-        new_entry['rarity'] = binary.rarity + 1
-        new_entry['attack'] = (binary.raw_damage * multiplier).quantize(Decimal('1.'), rounding=ROUND_HALF_UP)
-        new_entry['affinity'] = binary.affinity
-        new_entry['defense'] = binary.defense or None
+        new_entry['rarity'] = weapon.rarity
+        new_entry['attack'] = (weapon.attack * multiplier).quantize(Decimal('1.'), rounding=ROUND_HALF_UP)
+        new_entry['affinity'] = weapon.affinity
+        new_entry['defense'] = weapon.defense or None
         new_entry['slot_1'] = binary.gem_slot1_lvl
         new_entry['slot_2'] = binary.gem_slot2_lvl
         new_entry['slot_3'] = binary.gem_slot3_lvl
@@ -318,11 +317,10 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
             print(f"Skipping {name['en']} element data")
         else:
             hidden = binary.hidden_element_id != 0
-            element_id = binary.hidden_element_id if hidden else binary.element_id
-            element_atk = binary.hidden_element_damage if hidden else binary.element_damage
+            element_atk = weapon.element_value
 
             new_entry['element_hidden'] = hidden
-            new_entry['element1'] = elements[element_id]
+            new_entry['element1'] = weapon.element_type
             new_entry['element1_attack'] = element_atk * 10 if element_atk else None
             new_entry['element2'] = None
             new_entry['element2_attack'] = None
@@ -333,16 +331,16 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
         
         # Bind Extras (Blade/Gun/Bow data)
         if weapon_type in cfg.weapon_types_melee:
-            bind_weapon_blade_ext(weapon_type, new_entry, weapon_node)
+            bind_weapon_blade_ext(weapon_type, new_entry, weapon)
             new_entry['sharpness'] = sharpness_reader.sharpness_for(binary)
         elif weapon_type in cfg.weapon_types_gun:
-            tree = weapon_node.tree
+            tree = weapon.tree
             if is_special:
                 tree = existing_entry['category']
             (ammo_name, ammo_data) = ammo_reader.create_data_for(
                 wtype=weapon_type, 
                 tree=tree,
-                binary=weapon_node.binary)
+                binary=weapon.binary)
             new_entry['ammo_config'] = ammo_name
         else:
             # TODO: Bows have an Enabled+ flag. Find out what it means
@@ -359,15 +357,15 @@ def update_weapons(mhdata, item_updater: ItemUpdater):
 
         # crafting data
         new_entry['craft'] = []
-        if weapon_node.craft:
+        if weapon.craft:
             new_entry['craft'].append({
                 'type': 'Create',
-                **convert_recipe(item_updater, weapon_node.craft)
+                **convert_recipe(item_updater, weapon.craft)
             })
-        if weapon_node.upgrade:
+        if weapon.upgrade:
             new_entry['craft'].append({
                 'type': 'Upgrade',
-                **convert_recipe(item_updater, weapon_node.upgrade)
+                **convert_recipe(item_updater, weapon.upgrade)
             })
 
         new_weapon_map.insert(new_entry)

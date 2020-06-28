@@ -2476,38 +2476,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10367,"Kjárr Fellsword ""Water""",great-sword,,Kulve,8,912,20,,FALSE,Water,480,,,,0,0,0,,,,,,,,Critical Element
 10368,"Kjárr Fellsword ""Ice""",great-sword,,Kulve,8,912,20,,FALSE,Ice,450,,,,0,0,0,,,,,,,,Critical Element
 10369,"Kjárr Fellsword ""Thunder""",great-sword,,Kulve,8,1008,10,,FALSE,Thunder,480,,,,0,0,0,,,,,,,,Critical Element
-10458,Gold Water Fellsword (MR),great-sword,Gold Water Fellsword,Kulve,10,768,0,40,TRUE,Water,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10459,Gold Ice Fellsword (MR),great-sword,Gold Ice Fellsword,Kulve,10,768,10,40,TRUE,Ice,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10460,Gold Sleep Fellsword (MR),great-sword,Gold Sleep Fellsword,Kulve,10,768,0,50,TRUE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10461,Glutton Gold Fellsword (MR),great-sword,Glutton Gold Fellsword,Kulve,10,768,0,40,TRUE,Water,150,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10462,Spew Gold Fellsword (MR),great-sword,Spew Gold Fellsword,Kulve,10,768,0,40,FALSE,Poison,270,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10463,Mud Gold Fellsword (MR),great-sword,Mud Gold Fellsword,Kulve,10,864,-20,45,TRUE,Paralysis,180,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10464,Numb Gold Fellsword (MR),great-sword,Numb Gold Fellsword,Kulve,10,672,30,40,FALSE,Paralysis,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10465,Tar Gold Fellsword (MR),great-sword,Tar Gold Fellsword,Kulve,10,816,10,50,FALSE,Sleep,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10466,Decay Gold Fellsword (MR),great-sword,Decay Gold Fellsword,Kulve,10,816,10,40,FALSE,Dragon,150,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10467,King Gold Fellsword (MR),great-sword,King Gold Fellsword,Kulve,10,816,10,40,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10468,Erupter Gold Fellsword (MR),great-sword,Erupter Gold Fellsword,Kulve,10,768,0,40,FALSE,Fire,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10469,Magma Gold Fellsword (MR),great-sword,Magma Gold Fellsword,Kulve,10,768,-20,50,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10470,"Taroth Blaze ""Glutton"" (MR)",great-sword,"Taroth Blaze ""Glutton""",Kulve,11,960,0,40,TRUE,Water,300,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10471,"Taroth Blaze ""Spew"" (MR)",great-sword,"Taroth Blaze ""Spew""",Kulve,11,864,0,40,FALSE,Poison,540,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10472,"Taroth Blaze ""Mud"" (MR)",great-sword,"Taroth Blaze ""Mud""",Kulve,11,1008,-20,45,TRUE,Paralysis,390,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10473,"Taroth Blaze ""Numb"" (MR)",great-sword,"Taroth Blaze ""Numb""",Kulve,11,768,30,40,FALSE,Paralysis,450,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10474,"Taroth Blaze ""Tar"" (MR)",great-sword,"Taroth Blaze ""Tar""",Kulve,11,912,10,50,FALSE,Sleep,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10475,"Taroth Blaze ""Decay"" (MR)",great-sword,"Taroth Blaze ""Decay""",Kulve,11,960,10,40,FALSE,Dragon,300,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10476,"Taroth Blaze ""King"" (MR)",great-sword,"Taroth Blaze ""King""",Kulve,11,912,10,40,FALSE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10477,"Taroth Blaze ""Erupter"" (MR)",great-sword,"Taroth Blaze ""Erupter""",Kulve,11,912,0,40,FALSE,Fire,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10478,"Taroth Blaze ""Magma"" (MR)",great-sword,"Taroth Blaze ""Magma""",Kulve,11,1008,-20,50,FALSE,Blast,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10479,"Taroth Blaze ""Water"" (MR)",great-sword,"Taroth Blaze ""Water""",Kulve,12,912,0,40,TRUE,Water,540,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10480,"Taroth Blaze ""Ice"" (MR)",great-sword,"Taroth Blaze ""Ice""",Kulve,12,912,10,40,TRUE,Ice,510,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10481,"Taroth Blaze ""Sleep"" (MR)",great-sword,"Taroth Blaze ""Sleep""",Kulve,12,912,0,50,TRUE,Sleep,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10482,"Taroth Blaze ""Thunder"" (MR)",great-sword,"Taroth Blaze ""Thunder""",Kulve,12,1008,0,40,TRUE,Thunder,600,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10483,"Kjárr Fellsword ""Numb"" (MR)",great-sword,"Kjárr Fellsword ""Numb""",Kulve,12,840,20,20,FALSE,Paralysis,480,,,,1,0,0,,,,,,,,Critical Status
-10484,"Kjárr Fellsword ""Decay"" (MR)",great-sword,"Kjárr Fellsword ""Decay""",Kulve,12,984,20,20,FALSE,Dragon,360,,,average,1,0,0,,,,,,,,Critical Element
-10485,"Kjárr Fellsword ""King"" (MR)",great-sword,"Kjárr Fellsword ""King""",Kulve,12,936,20,20,FALSE,Fire,300,,,,1,0,0,,,,,,,,Critical Element
-10486,"Kjárr Fellsword ""Magma"" (MR)",great-sword,"Kjárr Fellsword ""Magma""",Kulve,12,984,10,35,FALSE,Blast,480,,,,1,0,0,,,,,,,,Critical Status
-10487,"Kjárr Fellsword ""Water"" (MR)",great-sword,"Kjárr Fellsword ""Water""",Kulve,12,912,20,20,FALSE,Water,480,,,,0,0,0,,,,,,,,Critical Element
-10488,"Kjárr Fellsword ""Ice"" (MR)",great-sword,"Kjárr Fellsword ""Ice""",Kulve,12,912,20,20,FALSE,Ice,450,,,,0,0,0,,,,,,,,Critical Element
-10489,"Kjárr Fellsword ""Thunder"" (MR)",great-sword,"Kjárr Fellsword ""Thunder""",Kulve,12,1008,10,20,FALSE,Thunder,480,,,,0,0,0,,,,,,,,Critical Element
+10458,Gold Water Fellsword (MR),great-sword,Gold Water Fellsword,Kulve,10,1104,0,40,TRUE,Water,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10459,Gold Ice Fellsword (MR),great-sword,Gold Ice Fellsword,Kulve,10,1104,10,40,TRUE,Ice,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10460,Gold Sleep Fellsword (MR),great-sword,Gold Sleep Fellsword,Kulve,10,1104,0,50,TRUE,Sleep,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10461,Glutton Gold Fellsword (MR),great-sword,Glutton Gold Fellsword,Kulve,10,1104,0,40,TRUE,Water,300,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10462,Spew Gold Fellsword (MR),great-sword,Spew Gold Fellsword,Kulve,10,1104,0,40,FALSE,Poison,360,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10463,Mud Gold Fellsword (MR),great-sword,Mud Gold Fellsword,Kulve,10,1200,-20,45,TRUE,Paralysis,270,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10464,Numb Gold Fellsword (MR),great-sword,Numb Gold Fellsword,Kulve,10,1008,30,40,FALSE,Paralysis,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10465,Tar Gold Fellsword (MR),great-sword,Tar Gold Fellsword,Kulve,10,1152,10,50,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10466,Decay Gold Fellsword (MR),great-sword,Decay Gold Fellsword,Kulve,10,1152,10,40,FALSE,Dragon,300,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10467,King Gold Fellsword (MR),great-sword,King Gold Fellsword,Kulve,10,1152,10,40,FALSE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10468,Erupter Gold Fellsword (MR),great-sword,Erupter Gold Fellsword,Kulve,10,1104,0,40,FALSE,Fire,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10469,Magma Gold Fellsword (MR),great-sword,Magma Gold Fellsword,Kulve,10,1104,-20,50,FALSE,Blast,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10470,"Taroth Blaze ""Glutton"" (MR)",great-sword,"Taroth Blaze ""Glutton""",Kulve,11,1296,0,40,TRUE,Water,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10471,"Taroth Blaze ""Spew"" (MR)",great-sword,"Taroth Blaze ""Spew""",Kulve,11,1200,0,40,FALSE,Poison,630,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10472,"Taroth Blaze ""Mud"" (MR)",great-sword,"Taroth Blaze ""Mud""",Kulve,11,1344,-20,45,TRUE,Paralysis,480,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10473,"Taroth Blaze ""Numb"" (MR)",great-sword,"Taroth Blaze ""Numb""",Kulve,11,1104,30,40,FALSE,Paralysis,540,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10474,"Taroth Blaze ""Tar"" (MR)",great-sword,"Taroth Blaze ""Tar""",Kulve,11,1248,10,50,FALSE,Sleep,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10475,"Taroth Blaze ""Decay"" (MR)",great-sword,"Taroth Blaze ""Decay""",Kulve,11,1296,10,40,FALSE,Dragon,450,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10476,"Taroth Blaze ""King"" (MR)",great-sword,"Taroth Blaze ""King""",Kulve,11,1248,10,40,FALSE,Fire,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10477,"Taroth Blaze ""Erupter"" (MR)",great-sword,"Taroth Blaze ""Erupter""",Kulve,11,1248,0,40,FALSE,Fire,480,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10478,"Taroth Blaze ""Magma"" (MR)",great-sword,"Taroth Blaze ""Magma""",Kulve,11,1344,-20,50,FALSE,Blast,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10479,"Taroth Blaze ""Water"" (MR)",great-sword,"Taroth Blaze ""Water""",Kulve,12,1344,0,40,TRUE,Water,690,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10480,"Taroth Blaze ""Ice"" (MR)",great-sword,"Taroth Blaze ""Ice""",Kulve,12,1344,10,40,TRUE,Ice,660,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10481,"Taroth Blaze ""Sleep"" (MR)",great-sword,"Taroth Blaze ""Sleep""",Kulve,12,1344,0,50,TRUE,Sleep,540,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10482,"Taroth Blaze ""Thunder"" (MR)",great-sword,"Taroth Blaze ""Thunder""",Kulve,12,1440,0,40,TRUE,Thunder,750,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10483,"Kjárr Fellsword ""Numb"" (MR)",great-sword,"Kjárr Fellsword ""Numb""",Kulve,12,1272,20,20,FALSE,Paralysis,570,,,,1,0,0,,,,,,,,Critical Status
+10484,"Kjárr Fellsword ""Decay"" (MR)",great-sword,"Kjárr Fellsword ""Decay""",Kulve,12,1416,20,20,FALSE,Dragon,510,,,average,1,0,0,,,,,,,,Critical Element
+10485,"Kjárr Fellsword ""King"" (MR)",great-sword,"Kjárr Fellsword ""King""",Kulve,12,1368,20,20,FALSE,Fire,450,,,,1,0,0,,,,,,,,Critical Element
+10486,"Kjárr Fellsword ""Magma"" (MR)",great-sword,"Kjárr Fellsword ""Magma""",Kulve,12,1416,10,35,FALSE,Blast,570,,,,1,0,0,,,,,,,,Critical Status
+10487,"Kjárr Fellsword ""Water"" (MR)",great-sword,"Kjárr Fellsword ""Water""",Kulve,12,1344,20,20,FALSE,Water,630,,,,0,0,0,,,,,,,,Critical Element
+10488,"Kjárr Fellsword ""Ice"" (MR)",great-sword,"Kjárr Fellsword ""Ice""",Kulve,12,1344,20,20,FALSE,Ice,600,,,,0,0,0,,,,,,,,Critical Element
+10489,"Kjárr Fellsword ""Thunder"" (MR)",great-sword,"Kjárr Fellsword ""Thunder""",Kulve,12,1440,10,20,FALSE,Thunder,630,,,,0,0,0,,,,,,,,Critical Element
 10026,Gold Water Katana,long-sword,,Kulve,6,528,0,20,TRUE,Water,210,,,,0,0,0,,,,,,,,
 10027,Gold Poison Katana,long-sword,,Kulve,6,528,10,20,TRUE,Poison,210,,,,0,0,0,,,,,,,,
 10028,Gold Paralysis Katana,long-sword,,Kulve,6,495,0,20,TRUE,Paralysis,150,,,,0,0,0,,,,,,,,
@@ -2542,40 +2542,40 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10374,"Kjárr Sword ""Water""",long-sword,,Kulve,8,611,15,,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
 10375,"Kjárr Sword ""Fire""",long-sword,,Kulve,8,627,20,,FALSE,Fire,390,,,,0,0,0,,,,,,,,Critical Element
 10376,"Kjárr Sword ""Paralysis""",long-sword,,Kulve,8,528,15,,FALSE,Paralysis,270,,,,0,0,0,,,,,,,,Critical Status
-10490,Gold Water Katana (MR),long-sword,Gold Water Katana,Kulve,10,528,0,40,TRUE,Water,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10491,Gold Poison Katana (MR),long-sword,Gold Poison Katana,Kulve,10,528,10,40,TRUE,Poison,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10492,Gold Paralysis Katana (MR),long-sword,Gold Paralysis Katana,Kulve,10,495,0,40,TRUE,Paralysis,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10493,Thief Gold Katana (MR),long-sword,Thief Gold Katana,Kulve,10,495,20,40,FALSE,Sleep,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10494,Mire Gold Katana (MR),long-sword,Mire Gold Katana,Kulve,10,594,0,40,FALSE,Water,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10495,Spark Gold Katana (MR),long-sword,Spark Gold Katana,Kulve,10,528,30,40,FALSE,Thunder,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10496,Rage Gold Katana (MR),long-sword,Rage Gold Katana,Kulve,10,561,-10,40,FALSE,Fire,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10497,Lurk Gold Katana (MR),long-sword,Lurk Gold Katana,Kulve,10,396,0,40,FALSE,Paralysis,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10498,Flash Gold Katana (MR),long-sword,Flash Gold Katana,Kulve,10,528,0,40,TRUE,Thunder,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10499,Stream Gold Katana (MR),long-sword,Stream Gold Katana,Kulve,10,462,0,40,FALSE,Ice,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10500,Decay Gold Katana (MR),long-sword,Decay Gold Katana,Kulve,10,561,10,40,FALSE,Dragon,120,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10501,Gyre Gold Katana (MR),long-sword,Gyre Gold Katana,Kulve,10,528,0,60,FALSE,Fire,90,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10502,Magma Gold Katana (MR),long-sword,Magma Gold Katana,Kulve,10,528,-20,50,FALSE,Blast,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10503,"Taroth Sword ""Thief"" (MR)",long-sword,"Taroth Sword ""Thief""",Kulve,11,561,20,40,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10504,"Taroth Sword ""Mire"" (MR)",long-sword,"Taroth Sword ""Mire""",Kulve,11,660,0,40,FALSE,Water,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10505,"Taroth Sword ""Spark"" (MR)",long-sword,"Taroth Sword ""Spark""",Kulve,11,594,30,40,FALSE,Thunder,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10506,"Taroth Sword ""Rage"" (MR)",long-sword,"Taroth Sword ""Rage""",Kulve,11,693,-10,40,FALSE,Fire,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10507,"Taroth Sword ""Lurk"" (MR)",long-sword,"Taroth Sword ""Lurk""",Kulve,11,528,0,40,FALSE,Paralysis,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10508,"Taroth Sword ""Flash"" (MR)",long-sword,"Taroth Sword ""Flash""",Kulve,11,627,0,40,TRUE,Thunder,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10509,"Taroth Sword ""Stream"" (MR)",long-sword,"Taroth Sword ""Stream""",Kulve,11,528,0,40,FALSE,Ice,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10510,"Taroth Sword ""Decay"" (MR)",long-sword,"Taroth Sword ""Decay""",Kulve,11,660,10,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10511,"Taroth Sword ""Gyre"" (MR)",long-sword,"Taroth Sword ""Gyre""",Kulve,11,660,0,60,FALSE,Fire,120,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10512,"Taroth Sword ""Magma"" (MR)",long-sword,"Taroth Sword ""Magma""",Kulve,11,726,-20,50,FALSE,Blast,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10513,"Taroth Sword ""Water"" (MR)",long-sword,"Taroth Sword ""Water""",Kulve,12,627,0,40,TRUE,Water,420,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10514,"Taroth Sword ""Poison"" (MR)",long-sword,"Taroth Sword ""Poison""",Kulve,12,627,10,40,TRUE,Poison,420,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10515,"Taroth Sword ""Paralysis"" (MR)",long-sword,"Taroth Sword ""Paralysis""",Kulve,12,561,0,40,TRUE,Paralysis,330,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10516,"Taroth Sword ""Fire"" (MR)",long-sword,"Taroth Sword ""Fire""",Kulve,12,660,0,40,TRUE,Fire,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10517,"Kjárr Sword ""Spark"" (MR)",long-sword,"Kjárr Sword ""Spark""",Kulve,12,627,20,20,FALSE,Thunder,330,,,,1,0,0,,,,,,,,Critical Element
-10518,"Kjárr Sword ""Stream"" (MR)",long-sword,"Kjárr Sword ""Stream""",Kulve,12,561,15,20,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
-10519,"Kjárr Sword ""Decay"" (MR)",long-sword,"Kjárr Sword ""Decay""",Kulve,12,677,15,20,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
-10520,"Kjárr Sword ""Magma"" (MR)",long-sword,"Kjárr Sword ""Magma""",Kulve,12,693,10,35,FALSE,Blast,420,,,,1,0,0,,,,,,,,Critical Status
-10521,"Kjárr Sword ""Water"" (MR)",long-sword,"Kjárr Sword ""Water""",Kulve,12,611,15,20,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
-10522,"Kjárr Sword ""Fire"" (MR)",long-sword,"Kjárr Sword ""Fire""",Kulve,12,627,20,20,FALSE,Fire,390,,,,0,0,0,,,,,,,,Critical Element
-10523,"Kjárr Sword ""Paralysis"" (MR)",long-sword,"Kjárr Sword ""Paralysis""",Kulve,12,528,15,20,FALSE,Paralysis,270,,,,0,0,0,,,,,,,,Critical Status
+10490,Gold Water Katana (MR),long-sword,Gold Water Katana,Kulve,10,759,0,40,TRUE,Water,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10491,Gold Poison Katana (MR),long-sword,Gold Poison Katana,Kulve,10,759,10,40,TRUE,Poison,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10492,Gold Paralysis Katana (MR),long-sword,Gold Paralysis Katana,Kulve,10,726,0,40,TRUE,Paralysis,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10493,Thief Gold Katana (MR),long-sword,Thief Gold Katana,Kulve,10,726,20,40,FALSE,Sleep,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10494,Mire Gold Katana (MR),long-sword,Mire Gold Katana,Kulve,10,825,0,40,FALSE,Water,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10495,Spark Gold Katana (MR),long-sword,Spark Gold Katana,Kulve,10,759,30,40,FALSE,Thunder,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10496,Rage Gold Katana (MR),long-sword,Rage Gold Katana,Kulve,10,792,-10,40,FALSE,Fire,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10497,Lurk Gold Katana (MR),long-sword,Lurk Gold Katana,Kulve,10,627,0,40,FALSE,Paralysis,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10498,Flash Gold Katana (MR),long-sword,Flash Gold Katana,Kulve,10,759,0,40,TRUE,Thunder,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10499,Stream Gold Katana (MR),long-sword,Stream Gold Katana,Kulve,10,693,0,40,FALSE,Ice,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10500,Decay Gold Katana (MR),long-sword,Decay Gold Katana,Kulve,10,792,10,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10501,Gyre Gold Katana (MR),long-sword,Gyre Gold Katana,Kulve,10,759,0,60,FALSE,Fire,240,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10502,Magma Gold Katana (MR),long-sword,Magma Gold Katana,Kulve,10,759,-20,50,FALSE,Blast,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10503,"Taroth Sword ""Thief"" (MR)",long-sword,"Taroth Sword ""Thief""",Kulve,11,792,20,40,FALSE,Sleep,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10504,"Taroth Sword ""Mire"" (MR)",long-sword,"Taroth Sword ""Mire""",Kulve,11,891,0,40,FALSE,Water,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10505,"Taroth Sword ""Spark"" (MR)",long-sword,"Taroth Sword ""Spark""",Kulve,11,825,30,40,FALSE,Thunder,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10506,"Taroth Sword ""Rage"" (MR)",long-sword,"Taroth Sword ""Rage""",Kulve,11,924,-10,40,FALSE,Fire,540,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10507,"Taroth Sword ""Lurk"" (MR)",long-sword,"Taroth Sword ""Lurk""",Kulve,11,759,0,40,FALSE,Paralysis,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10508,"Taroth Sword ""Flash"" (MR)",long-sword,"Taroth Sword ""Flash""",Kulve,11,858,0,40,TRUE,Thunder,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10509,"Taroth Sword ""Stream"" (MR)",long-sword,"Taroth Sword ""Stream""",Kulve,11,759,0,40,FALSE,Ice,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10510,"Taroth Sword ""Decay"" (MR)",long-sword,"Taroth Sword ""Decay""",Kulve,11,891,10,40,FALSE,Dragon,420,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10511,"Taroth Sword ""Gyre"" (MR)",long-sword,"Taroth Sword ""Gyre""",Kulve,11,891,0,60,FALSE,Fire,270,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10512,"Taroth Sword ""Magma"" (MR)",long-sword,"Taroth Sword ""Magma""",Kulve,11,957,-20,50,FALSE,Blast,480,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10513,"Taroth Sword ""Water"" (MR)",long-sword,"Taroth Sword ""Water""",Kulve,12,924,0,40,TRUE,Water,570,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10514,"Taroth Sword ""Poison"" (MR)",long-sword,"Taroth Sword ""Poison""",Kulve,12,924,10,40,TRUE,Poison,540,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10515,"Taroth Sword ""Paralysis"" (MR)",long-sword,"Taroth Sword ""Paralysis""",Kulve,12,858,0,40,TRUE,Paralysis,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10516,"Taroth Sword ""Fire"" (MR)",long-sword,"Taroth Sword ""Fire""",Kulve,12,957,0,40,TRUE,Fire,600,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10517,"Kjárr Sword ""Spark"" (MR)",long-sword,"Kjárr Sword ""Spark""",Kulve,12,924,20,20,FALSE,Thunder,480,,,,1,0,0,,,,,,,,Critical Element
+10518,"Kjárr Sword ""Stream"" (MR)",long-sword,"Kjárr Sword ""Stream""",Kulve,12,858,15,20,FALSE,Ice,540,,,,1,0,0,,,,,,,,Critical Element
+10519,"Kjárr Sword ""Decay"" (MR)",long-sword,"Kjárr Sword ""Decay""",Kulve,12,974,15,20,FALSE,Dragon,480,,,average,1,0,0,,,,,,,,Critical Element
+10520,"Kjárr Sword ""Magma"" (MR)",long-sword,"Kjárr Sword ""Magma""",Kulve,12,990,10,35,FALSE,Blast,540,,,,1,0,0,,,,,,,,Critical Status
+10521,"Kjárr Sword ""Water"" (MR)",long-sword,"Kjárr Sword ""Water""",Kulve,12,908,15,20,FALSE,Water,540,,,,0,0,0,,,,,,,,Critical Element
+10522,"Kjárr Sword ""Fire"" (MR)",long-sword,"Kjárr Sword ""Fire""",Kulve,12,924,20,20,FALSE,Fire,540,,,,0,0,0,,,,,,,,Critical Element
+10523,"Kjárr Sword ""Paralysis"" (MR)",long-sword,"Kjárr Sword ""Paralysis""",Kulve,12,825,15,20,FALSE,Paralysis,390,,,,0,0,0,,,,,,,,Critical Status
 10053,Gold Water Scimitar,sword-and-shield,,Kulve,6,224,10,20,TRUE,Water,210,,,,0,0,0,,,,,,,,
 10054,Gold Dragon Scimitar,sword-and-shield,,Kulve,6,196,0,20,TRUE,Dragon,210,,,average,0,0,0,,,,,,,,
 10055,Gold Blast Scimitar,sword-and-shield,,Kulve,6,224,0,20,TRUE,Blast,180,,,,0,0,0,,,,,,,,
@@ -2610,40 +2610,40 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10381,"Kjárr Slicer ""Water""",sword-and-shield,,Kulve,8,252,15,,FALSE,Water,330,,,,1,0,0,,,,,,,,Critical Element
 10382,"Kjárr Slicer ""Dragon""",sword-and-shield,,Kulve,8,238,10,,FALSE,Dragon,360,,,low,1,0,0,,,,,,,,Critical Element
 10383,"Kjárr Slicer ""Blast""",sword-and-shield,,Kulve,8,224,10,,FALSE,Blast,330,,,,1,0,0,,,,,,,,Critical Status
-10524,Gold Water Scimitar (MR),sword-and-shield,Gold Water Scimitar,Kulve,10,224,10,40,TRUE,Water,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10525,Gold Dragon Scimitar (MR),sword-and-shield,Gold Dragon Scimitar,Kulve,10,196,0,40,TRUE,Dragon,210,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10526,Gold Blast Scimitar (MR),sword-and-shield,Gold Blast Scimitar,Kulve,10,224,0,40,TRUE,Blast,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10527,Glutton Gold Scimitar (MR),sword-and-shield,Glutton Gold Scimitar,Kulve,10,238,0,40,FALSE,Water,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10528,Spew Gold Scimitar (MR),sword-and-shield,Spew Gold Scimitar,Kulve,10,224,0,40,FALSE,Poison,180,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10529,Mud Gold Scimitar (MR),sword-and-shield,Mud Gold Scimitar,Kulve,10,252,-10,45,TRUE,Paralysis,180,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10530,Rage Gold Scimitar (MR),sword-and-shield,Rage Gold Scimitar,Kulve,10,224,-20,40,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10531,Numb Gold Scimitar (MR),sword-and-shield,Numb Gold Scimitar,Kulve,10,196,30,40,FALSE,Paralysis,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10532,Drifter Gold Scimitar (MR),sword-and-shield,Drifter Gold Scimitar,Kulve,10,210,0,40,FALSE,Blast,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10533,Stream Gold Scimitar (MR),sword-and-shield,Stream Gold Scimitar,Kulve,10,196,0,40,FALSE,Ice,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10534,Tar Gold Scimitar (MR),sword-and-shield,Tar Gold Scimitar,Kulve,10,224,10,50,FALSE,Sleep,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10535,King Gold Scimitar (MR),sword-and-shield,King Gold Scimitar,Kulve,10,210,30,40,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10536,Myth Gold Scimitar (MR),sword-and-shield,Myth Gold Scimitar,Kulve,10,196,0,40,FALSE,Thunder,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10537,"Taroth Slicer ""Glutton"" (MR)",sword-and-shield,"Taroth Slicer ""Glutton""",Kulve,11,266,0,40,FALSE,Water,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10538,"Taroth Slicer ""Spew"" (MR)",sword-and-shield,"Taroth Slicer ""Spew""",Kulve,11,252,0,40,FALSE,Poison,390,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10539,"Taroth Slicer ""Mud"" (MR)",sword-and-shield,"Taroth Slicer ""Mud""",Kulve,11,308,-10,45,TRUE,Paralysis,180,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10540,"Taroth Slicer ""Rage"" (MR)",sword-and-shield,"Taroth Slicer ""Rage""",Kulve,11,294,-20,40,FALSE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10541,"Taroth Slicer ""Numb"" (MR)",sword-and-shield,"Taroth Slicer ""Numb""",Kulve,11,224,30,40,FALSE,Paralysis,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10542,"Taroth Slicer ""Drifter"" (MR)",sword-and-shield,"Taroth Slicer ""Drifter""",Kulve,11,252,0,40,FALSE,Blast,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10543,"Taroth Slicer ""Stream"" (MR)",sword-and-shield,"Taroth Slicer ""Stream""",Kulve,11,224,0,40,FALSE,Ice,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10544,"Taroth Slicer ""Tar"" (MR)",sword-and-shield,"Taroth Slicer ""Tar""",Kulve,11,266,10,50,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10545,"Taroth Slicer ""King"" (MR)",sword-and-shield,"Taroth Slicer ""King""",Kulve,11,266,30,40,FALSE,Fire,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10546,"Taroth Slicer ""Myth"" (MR)",sword-and-shield,"Taroth Slicer ""Myth""",Kulve,11,224,0,40,FALSE,Thunder,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10547,"Taroth Slicer ""Water"" (MR)",sword-and-shield,"Taroth Slicer ""Water""",Kulve,12,266,10,40,TRUE,Water,420,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10548,"Taroth Slicer ""Dragon"" (MR)",sword-and-shield,"Taroth Slicer ""Dragon""",Kulve,12,224,0,40,TRUE,Dragon,450,,,low,3,0,0,,,,,,,,Kulve Taroth Essence
-10549,"Taroth Slicer ""Blast"" (MR)",sword-and-shield,"Taroth Slicer ""Blast""",Kulve,12,238,0,40,TRUE,Blast,390,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10550,"Taroth Slicer ""Fire"" (MR)",sword-and-shield,"Taroth Slicer ""Fire""",Kulve,12,252,0,40,TRUE,Fire,390,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10551,"Kjárr Slicer ""Numb"" (MR)",sword-and-shield,"Kjárr Slicer ""Numb""",Kulve,12,252,10,20,FALSE,Paralysis,210,,,,1,0,0,,,,,,,,Critical Status
-10552,"Kjárr Slicer ""Stream"" (MR)",sword-and-shield,"Kjárr Slicer ""Stream""",Kulve,12,238,10,20,FALSE,Ice,300,,,,1,0,0,,,,,,,,Critical Element
-10553,"Kjárr Slicer ""King"" (MR)",sword-and-shield,"Kjárr Slicer ""King""",Kulve,12,266,15,20,FALSE,Fire,240,,,,1,0,0,,,,,,,,Critical Element
-10554,"Kjárr Slicer ""Myth"" (MR)",sword-and-shield,"Kjárr Slicer ""Myth""",Kulve,12,238,10,20,FALSE,Thunder,330,,,,1,0,0,,,,,,,,Critical Element
-10555,"Kjárr Slicer ""Water"" (MR)",sword-and-shield,"Kjárr Slicer ""Water""",Kulve,12,252,15,20,FALSE,Water,330,,,,1,0,0,,,,,,,,Critical Element
-10556,"Kjárr Slicer ""Dragon"" (MR)",sword-and-shield,"Kjárr Slicer ""Dragon""",Kulve,12,238,10,20,FALSE,Dragon,360,,,low,1,0,0,,,,,,,,Critical Element
-10557,"Kjárr Slicer ""Blast"" (MR)",sword-and-shield,"Kjárr Slicer ""Blast""",Kulve,12,224,10,20,FALSE,Blast,330,,,,1,0,0,,,,,,,,Critical Status
+10524,Gold Water Scimitar (MR),sword-and-shield,Gold Water Scimitar,Kulve,10,350,10,40,TRUE,Water,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10525,Gold Dragon Scimitar (MR),sword-and-shield,Gold Dragon Scimitar,Kulve,10,322,0,40,TRUE,Dragon,360,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10526,Gold Blast Scimitar (MR),sword-and-shield,Gold Blast Scimitar,Kulve,10,350,0,40,TRUE,Blast,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10527,Glutton Gold Scimitar (MR),sword-and-shield,Glutton Gold Scimitar,Kulve,10,364,0,40,FALSE,Water,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10528,Spew Gold Scimitar (MR),sword-and-shield,Spew Gold Scimitar,Kulve,10,350,0,40,FALSE,Poison,300,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10529,Mud Gold Scimitar (MR),sword-and-shield,Mud Gold Scimitar,Kulve,10,378,-10,45,TRUE,Paralysis,300,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10530,Rage Gold Scimitar (MR),sword-and-shield,Rage Gold Scimitar,Kulve,10,350,-20,40,FALSE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10531,Numb Gold Scimitar (MR),sword-and-shield,Numb Gold Scimitar,Kulve,10,322,30,40,FALSE,Paralysis,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10532,Drifter Gold Scimitar (MR),sword-and-shield,Drifter Gold Scimitar,Kulve,10,336,0,40,FALSE,Blast,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10533,Stream Gold Scimitar (MR),sword-and-shield,Stream Gold Scimitar,Kulve,10,322,0,40,FALSE,Ice,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10534,Tar Gold Scimitar (MR),sword-and-shield,Tar Gold Scimitar,Kulve,10,350,10,50,FALSE,Sleep,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10535,King Gold Scimitar (MR),sword-and-shield,King Gold Scimitar,Kulve,10,336,30,40,FALSE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10536,Myth Gold Scimitar (MR),sword-and-shield,Myth Gold Scimitar,Kulve,10,322,0,40,FALSE,Thunder,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10537,"Taroth Slicer ""Glutton"" (MR)",sword-and-shield,"Taroth Slicer ""Glutton""",Kulve,11,392,0,40,FALSE,Water,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10538,"Taroth Slicer ""Spew"" (MR)",sword-and-shield,"Taroth Slicer ""Spew""",Kulve,11,378,0,40,FALSE,Poison,510,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10539,"Taroth Slicer ""Mud"" (MR)",sword-and-shield,"Taroth Slicer ""Mud""",Kulve,11,434,-10,45,TRUE,Paralysis,300,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10540,"Taroth Slicer ""Rage"" (MR)",sword-and-shield,"Taroth Slicer ""Rage""",Kulve,11,420,-20,40,FALSE,Fire,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10541,"Taroth Slicer ""Numb"" (MR)",sword-and-shield,"Taroth Slicer ""Numb""",Kulve,11,350,30,40,FALSE,Paralysis,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10542,"Taroth Slicer ""Drifter"" (MR)",sword-and-shield,"Taroth Slicer ""Drifter""",Kulve,11,378,0,40,FALSE,Blast,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10543,"Taroth Slicer ""Stream"" (MR)",sword-and-shield,"Taroth Slicer ""Stream""",Kulve,11,350,0,40,FALSE,Ice,480,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10544,"Taroth Slicer ""Tar"" (MR)",sword-and-shield,"Taroth Slicer ""Tar""",Kulve,11,392,10,50,FALSE,Sleep,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10545,"Taroth Slicer ""King"" (MR)",sword-and-shield,"Taroth Slicer ""King""",Kulve,11,392,30,40,FALSE,Fire,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10546,"Taroth Slicer ""Myth"" (MR)",sword-and-shield,"Taroth Slicer ""Myth""",Kulve,11,350,0,40,FALSE,Thunder,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10547,"Taroth Slicer ""Water"" (MR)",sword-and-shield,"Taroth Slicer ""Water""",Kulve,12,420,10,40,TRUE,Water,570,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10548,"Taroth Slicer ""Dragon"" (MR)",sword-and-shield,"Taroth Slicer ""Dragon""",Kulve,12,378,0,40,TRUE,Dragon,600,,,low,3,0,0,,,,,,,,Kulve Taroth Essence
+10549,"Taroth Slicer ""Blast"" (MR)",sword-and-shield,"Taroth Slicer ""Blast""",Kulve,12,392,0,40,TRUE,Blast,510,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10550,"Taroth Slicer ""Fire"" (MR)",sword-and-shield,"Taroth Slicer ""Fire""",Kulve,12,406,0,40,TRUE,Fire,540,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10551,"Kjárr Slicer ""Numb"" (MR)",sword-and-shield,"Kjárr Slicer ""Numb""",Kulve,12,406,10,20,FALSE,Paralysis,330,,,,1,0,0,,,,,,,,Critical Status
+10552,"Kjárr Slicer ""Stream"" (MR)",sword-and-shield,"Kjárr Slicer ""Stream""",Kulve,12,392,10,20,FALSE,Ice,450,,,,1,0,0,,,,,,,,Critical Element
+10553,"Kjárr Slicer ""King"" (MR)",sword-and-shield,"Kjárr Slicer ""King""",Kulve,12,420,15,20,FALSE,Fire,390,,,,1,0,0,,,,,,,,Critical Element
+10554,"Kjárr Slicer ""Myth"" (MR)",sword-and-shield,"Kjárr Slicer ""Myth""",Kulve,12,392,10,20,FALSE,Thunder,480,,,,1,0,0,,,,,,,,Critical Element
+10555,"Kjárr Slicer ""Water"" (MR)",sword-and-shield,"Kjárr Slicer ""Water""",Kulve,12,406,15,20,FALSE,Water,480,,,,1,0,0,,,,,,,,Critical Element
+10556,"Kjárr Slicer ""Dragon"" (MR)",sword-and-shield,"Kjárr Slicer ""Dragon""",Kulve,12,392,10,20,FALSE,Dragon,510,,,low,1,0,0,,,,,,,,Critical Element
+10557,"Kjárr Slicer ""Blast"" (MR)",sword-and-shield,"Kjárr Slicer ""Blast""",Kulve,12,378,10,20,FALSE,Blast,450,,,,1,0,0,,,,,,,,Critical Status
 10080,Gold Water Twinblades,dual-blades,,Kulve,6,238,0,20,TRUE,Water,120,,,,0,0,0,,,,,,,,
 10081,Gold Ice Twinblades,dual-blades,,Kulve,6,224,0,20,TRUE,Ice,120,,,,0,0,0,,,,,,,,
 10082,Gold Poison Twinblades,dual-blades,,Kulve,6,224,0,20,TRUE,Poison,150,,,,0,0,0,,,,,,,,
@@ -2678,40 +2678,40 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10388,"Kjárr Daggers ""Water""",dual-blades,,Kulve,8,252,10,,FALSE,Water,210,,,,1,0,0,,,,,,,,Critical Element
 10389,"Kjárr Daggers ""Ice""",dual-blades,,Kulve,8,252,15,,FALSE,Ice,210,,,,1,0,0,,,,,,,,Critical Element
 10390,"Kjárr Daggers ""Dragon""",dual-blades,,Kulve,8,252,20,,FALSE,Dragon,210,,,average,1,0,0,,,,,,,,Critical Element
-10558,Gold Water Twinblades (MR),dual-blades,Gold Water Twinblades,Kulve,10,238,0,40,TRUE,Water,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10559,Gold Ice Twinblades (MR),dual-blades,Gold Ice Twinblades,Kulve,10,224,0,40,TRUE,Ice,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10560,Gold Poison Twinblades (MR),dual-blades,Gold Poison Twinblades,Kulve,10,224,0,40,TRUE,Poison,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10561,Thief Gold Twinblades (MR),dual-blades,Thief Gold Twinblades,Kulve,10,210,20,40,FALSE,Sleep,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10562,Mire Gold Twinblades (MR),dual-blades,Mire Gold Twinblades,Kulve,10,182,10,40,FALSE,Water,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10563,Spark Gold Twinblades (MR),dual-blades,Spark Gold Twinblades,Kulve,10,196,10,40,FALSE,Thunder,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10564,Rage Gold Twinblades (MR),dual-blades,Rage Gold Twinblades,Kulve,10,224,-20,40,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10565,Lurk Gold Twinblades (MR),dual-blades,Lurk Gold Twinblades,Kulve,10,182,0,40,TRUE,Paralysis,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10566,Flash Gold Twinblades (MR),dual-blades,Flash Gold Twinblades,Kulve,10,224,0,40,TRUE,Thunder,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10567,Claw Gold Twinblades (MR),dual-blades,Claw Gold Twinblades,Kulve,10,196,20,40,TRUE,Fire,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10568,Horn Gold Twinblades (MR),dual-blades,Horn Gold Twinblades,Kulve,10,266,-10,45,TRUE,Ice,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10569,Erupter Gold Twinblades (MR),dual-blades,Erupter Gold Twinblades,Kulve,10,238,0,40,FALSE,Fire,60,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10570,Magma Gold Twinblades (MR),dual-blades,Magma Gold Twinblades,Kulve,10,238,-20,50,FALSE,Blast,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10571,"Taroth Daggers ""Thief"" (MR)",dual-blades,"Taroth Daggers ""Thief""",Kulve,11,238,20,40,FALSE,Sleep,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10572,"Taroth Daggers ""Mire"" (MR)",dual-blades,"Taroth Daggers ""Mire""",Kulve,11,266,10,40,FALSE,Water,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10573,"Taroth Daggers ""Spark"" (MR)",dual-blades,"Taroth Daggers ""Spark""",Kulve,11,252,10,40,FALSE,Thunder,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10574,"Taroth Daggers ""Rage"" (MR)",dual-blades,"Taroth Daggers ""Rage""",Kulve,11,294,-20,40,FALSE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10575,"Taroth Daggers ""Lurk"" (MR)",dual-blades,"Taroth Daggers ""Lurk""",Kulve,11,238,0,40,TRUE,Paralysis,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10576,"Taroth Daggers ""Flash"" (MR)",dual-blades,"Taroth Daggers ""Flash""",Kulve,11,266,0,40,TRUE,Thunder,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10577,"Taroth Daggers ""Claw"" (MR)",dual-blades,"Taroth Daggers ""Claw""",Kulve,11,252,20,40,TRUE,Fire,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10578,"Taroth Daggers ""Horn"" (MR)",dual-blades,"Taroth Daggers ""Horn""",Kulve,11,322,-10,45,TRUE,Ice,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10579,"Taroth Daggers ""Erupter"" (MR)",dual-blades,"Taroth Daggers ""Erupter""",Kulve,11,266,0,40,FALSE,Fire,150,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10580,"Taroth Daggers ""Magma"" (MR)",dual-blades,"Taroth Daggers ""Magma""",Kulve,11,280,-20,50,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10581,"Taroth Daggers ""Water"" (MR)",dual-blades,"Taroth Daggers ""Water""",Kulve,12,266,0,40,TRUE,Water,270,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10582,"Taroth Daggers ""Ice"" (MR)",dual-blades,"Taroth Daggers ""Ice""",Kulve,12,266,0,40,TRUE,Ice,270,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10583,"Taroth Daggers ""Poison"" (MR)",dual-blades,"Taroth Daggers ""Poison""",Kulve,12,266,0,40,TRUE,Poison,330,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10584,"Taroth Daggers ""Fire"" (MR)",dual-blades,"Taroth Daggers ""Fire""",Kulve,12,252,0,40,TRUE,Fire,180,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10585,"Kjárr Daggers ""Spark"" (MR)",dual-blades,"Kjárr Daggers ""Spark""",Kulve,12,252,15,20,FALSE,Thunder,180,,,,1,0,0,,,,,,,,Critical Element
-10586,"Kjárr Daggers ""Rage"" (MR)",dual-blades,"Kjárr Daggers ""Rage""",Kulve,12,280,5,20,FALSE,Fire,210,,,,0,0,0,,,,,,,,Critical Element
-10587,"Kjárr Daggers ""Magma"" (MR)",dual-blades,"Kjárr Daggers ""Magma""",Kulve,12,266,5,35,FALSE,Blast,180,,,,1,0,0,,,,,,,,Critical Status
-10588,"Kjárr Daggers ""Lurk"" (MR)",dual-blades,"Kjárr Daggers ""Lurk""",Kulve,12,224,10,20,FALSE,Paralysis,90,,,,1,0,0,,,,,,,,Critical Status
-10589,"Kjárr Daggers ""Water"" (MR)",dual-blades,"Kjárr Daggers ""Water""",Kulve,12,252,10,20,FALSE,Water,210,,,,1,0,0,,,,,,,,Critical Element
-10590,"Kjárr Daggers ""Ice"" (MR)",dual-blades,"Kjárr Daggers ""Ice""",Kulve,12,252,15,20,FALSE,Ice,210,,,,1,0,0,,,,,,,,Critical Element
-10591,"Kjárr Daggers ""Dragon"" (MR)",dual-blades,"Kjárr Daggers ""Dragon""",Kulve,12,252,20,20,FALSE,Dragon,210,,,average,1,0,0,,,,,,,,Critical Element
+10558,Gold Water Twinblades (MR),dual-blades,Gold Water Twinblades,Kulve,10,364,0,40,TRUE,Water,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10559,Gold Ice Twinblades (MR),dual-blades,Gold Ice Twinblades,Kulve,10,350,0,40,TRUE,Ice,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10560,Gold Poison Twinblades (MR),dual-blades,Gold Poison Twinblades,Kulve,10,350,0,40,TRUE,Poison,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10561,Thief Gold Twinblades (MR),dual-blades,Thief Gold Twinblades,Kulve,10,336,20,40,FALSE,Sleep,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10562,Mire Gold Twinblades (MR),dual-blades,Mire Gold Twinblades,Kulve,10,308,10,40,FALSE,Water,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10563,Spark Gold Twinblades (MR),dual-blades,Spark Gold Twinblades,Kulve,10,322,10,40,FALSE,Thunder,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10564,Rage Gold Twinblades (MR),dual-blades,Rage Gold Twinblades,Kulve,10,350,-20,40,FALSE,Fire,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10565,Lurk Gold Twinblades (MR),dual-blades,Lurk Gold Twinblades,Kulve,10,308,0,40,TRUE,Paralysis,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10566,Flash Gold Twinblades (MR),dual-blades,Flash Gold Twinblades,Kulve,10,350,0,40,TRUE,Thunder,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10567,Claw Gold Twinblades (MR),dual-blades,Claw Gold Twinblades,Kulve,10,322,20,40,TRUE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10568,Horn Gold Twinblades (MR),dual-blades,Horn Gold Twinblades,Kulve,10,392,-10,45,TRUE,Ice,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10569,Erupter Gold Twinblades (MR),dual-blades,Erupter Gold Twinblades,Kulve,10,364,0,40,FALSE,Fire,240,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10570,Magma Gold Twinblades (MR),dual-blades,Magma Gold Twinblades,Kulve,10,364,-20,50,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10571,"Taroth Daggers ""Thief"" (MR)",dual-blades,"Taroth Daggers ""Thief""",Kulve,11,364,20,40,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10572,"Taroth Daggers ""Mire"" (MR)",dual-blades,"Taroth Daggers ""Mire""",Kulve,11,392,10,40,FALSE,Water,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10573,"Taroth Daggers ""Spark"" (MR)",dual-blades,"Taroth Daggers ""Spark""",Kulve,11,378,10,40,FALSE,Thunder,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10574,"Taroth Daggers ""Rage"" (MR)",dual-blades,"Taroth Daggers ""Rage""",Kulve,11,420,-20,40,FALSE,Fire,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10575,"Taroth Daggers ""Lurk"" (MR)",dual-blades,"Taroth Daggers ""Lurk""",Kulve,11,364,0,40,TRUE,Paralysis,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10576,"Taroth Daggers ""Flash"" (MR)",dual-blades,"Taroth Daggers ""Flash""",Kulve,11,392,0,40,TRUE,Thunder,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10577,"Taroth Daggers ""Claw"" (MR)",dual-blades,"Taroth Daggers ""Claw""",Kulve,11,378,20,40,TRUE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10578,"Taroth Daggers ""Horn"" (MR)",dual-blades,"Taroth Daggers ""Horn""",Kulve,11,448,-10,45,TRUE,Ice,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10579,"Taroth Daggers ""Erupter"" (MR)",dual-blades,"Taroth Daggers ""Erupter""",Kulve,11,392,0,40,FALSE,Fire,330,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10580,"Taroth Daggers ""Magma"" (MR)",dual-blades,"Taroth Daggers ""Magma""",Kulve,11,406,-20,50,FALSE,Blast,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10581,"Taroth Daggers ""Water"" (MR)",dual-blades,"Taroth Daggers ""Water""",Kulve,12,420,0,40,TRUE,Water,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10582,"Taroth Daggers ""Ice"" (MR)",dual-blades,"Taroth Daggers ""Ice""",Kulve,12,420,0,40,TRUE,Ice,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10583,"Taroth Daggers ""Poison"" (MR)",dual-blades,"Taroth Daggers ""Poison""",Kulve,12,420,0,40,TRUE,Poison,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10584,"Taroth Daggers ""Fire"" (MR)",dual-blades,"Taroth Daggers ""Fire""",Kulve,12,406,0,40,TRUE,Fire,360,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10585,"Kjárr Daggers ""Spark"" (MR)",dual-blades,"Kjárr Daggers ""Spark""",Kulve,12,406,15,20,FALSE,Thunder,360,,,,1,0,0,,,,,,,,Critical Element
+10586,"Kjárr Daggers ""Rage"" (MR)",dual-blades,"Kjárr Daggers ""Rage""",Kulve,12,434,5,20,FALSE,Fire,390,,,,0,0,0,,,,,,,,Critical Element
+10587,"Kjárr Daggers ""Magma"" (MR)",dual-blades,"Kjárr Daggers ""Magma""",Kulve,12,420,5,35,FALSE,Blast,300,,,,1,0,0,,,,,,,,Critical Status
+10588,"Kjárr Daggers ""Lurk"" (MR)",dual-blades,"Kjárr Daggers ""Lurk""",Kulve,12,378,10,20,FALSE,Paralysis,210,,,,1,0,0,,,,,,,,Critical Status
+10589,"Kjárr Daggers ""Water"" (MR)",dual-blades,"Kjárr Daggers ""Water""",Kulve,12,406,10,20,FALSE,Water,390,,,,1,0,0,,,,,,,,Critical Element
+10590,"Kjárr Daggers ""Ice"" (MR)",dual-blades,"Kjárr Daggers ""Ice""",Kulve,12,406,15,20,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
+10591,"Kjárr Daggers ""Dragon"" (MR)",dual-blades,"Kjárr Daggers ""Dragon""",Kulve,12,406,20,20,FALSE,Dragon,390,,,average,1,0,0,,,,,,,,Critical Element
 10107,Gold Water Bludgeon,hammer,,Kulve,6,832,0,20,TRUE,Water,180,,,,0,0,0,,,,,,,,
 10108,Gold Ice Bludgeon,hammer,,Kulve,6,832,0,20,TRUE,Ice,210,,,,0,0,0,,,,,,,,
 10109,Gold Thunder Bludgeon,hammer,,Kulve,6,832,0,30,TRUE,Thunder,240,,,,0,0,0,,,,,,,,
@@ -2744,38 +2744,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10395,"Kjárr Hammer ""Ice""",hammer,,Kulve,8,988,10,,FALSE,Ice,480,,,,0,0,0,,,,,,,,Critical Element
 10396,"Kjárr Hammer ""Thunder""",hammer,,Kulve,8,988,15,,FALSE,Thunder,450,,,,0,0,0,,,,,,,,Critical Element
 10397,"Kjárr Hammer ""Blast""",hammer,,Kulve,8,1118,15,,FALSE,Blast,270,,,,0,0,0,,,,,,,,Critical Status
-10592,Gold Water Bludgeon (MR),hammer,Gold Water Bludgeon,Kulve,10,832,0,40,TRUE,Water,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10593,Gold Ice Bludgeon (MR),hammer,Gold Ice Bludgeon,Kulve,10,832,0,40,TRUE,Ice,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10594,Gold Thunder Bludgeon (MR),hammer,Gold Thunder Bludgeon,Kulve,10,832,0,50,TRUE,Thunder,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10595,Thief Gold Bludgeon (MR),hammer,Thief Gold Bludgeon,Kulve,10,884,35,40,TRUE,Sleep,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10596,Spew Gold Bludgeon (MR),hammer,Spew Gold Bludgeon,Kulve,10,780,0,40,FALSE,Poison,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10597,Mud Gold Bludgeon (MR),hammer,Mud Gold Bludgeon,Kulve,10,936,-10,45,TRUE,Paralysis,180,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10598,Rage Gold Bludgeon (MR),hammer,Rage Gold Bludgeon,Kulve,10,884,-20,40,FALSE,Fire,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10599,Numb Gold Bludgeon (MR),hammer,Numb Gold Bludgeon,Kulve,10,728,30,40,FALSE,Paralysis,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10600,Tar Gold Bludgeon (MR),hammer,Tar Gold Bludgeon,Kulve,10,780,10,50,FALSE,Sleep,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10601,Decay Gold Bludgeon (MR),hammer,Decay Gold Bludgeon,Kulve,10,936,0,40,FALSE,Dragon,120,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10602,Horn Gold Bludgeon (MR),hammer,Horn Gold Bludgeon,Kulve,10,988,-25,40,FALSE,Ice,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10603,Gyre Gold Bludgeon (MR),hammer,Gyre Gold Bludgeon,Kulve,10,936,0,50,FALSE,Fire,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10604,"Taroth Hammer ""Thief"" (MR)",hammer,"Taroth Hammer ""Thief""",Kulve,11,884,35,40,TRUE,Sleep,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10605,"Taroth Hammer ""Spew"" (MR)",hammer,"Taroth Hammer ""Spew""",Kulve,11,988,0,40,FALSE,Poison,540,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10606,"Taroth Hammer ""Mud"" (MR)",hammer,"Taroth Hammer ""Mud""",Kulve,11,1092,-10,45,TRUE,Paralysis,390,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10607,"Taroth Hammer ""Rage"" (MR)",hammer,"Taroth Hammer ""Rage""",Kulve,11,1040,-20,40,FALSE,Fire,450,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10608,"Taroth Hammer ""Numb"" (MR)",hammer,"Taroth Hammer ""Numb""",Kulve,11,832,30,40,FALSE,Paralysis,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10609,"Taroth Hammer ""Tar"" (MR)",hammer,"Taroth Hammer ""Tar""",Kulve,11,988,10,50,FALSE,Sleep,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10610,"Taroth Hammer ""Decay"" (MR)",hammer,"Taroth Hammer ""Decay""",Kulve,11,1040,0,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10611,"Taroth Hammer ""Horn"" (MR)",hammer,"Taroth Hammer ""Horn""",Kulve,11,1144,-25,40,FALSE,Ice,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10612,"Taroth Hammer ""Gyre"" (MR)",hammer,"Taroth Hammer ""Gyre""",Kulve,11,1092,0,50,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10613,"Taroth Hammer ""Water"" (MR)",hammer,"Taroth Hammer ""Water""",Kulve,12,988,0,40,TRUE,Water,360,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10614,"Taroth Hammer ""Ice"" (MR)",hammer,"Taroth Hammer ""Ice""",Kulve,12,988,0,40,TRUE,Ice,510,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10615,"Taroth Hammer ""Thunder"" (MR)",hammer,"Taroth Hammer ""Thunder""",Kulve,12,988,0,50,TRUE,Thunder,480,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10616,"Taroth Hammer ""Sleep"" (MR)",hammer,"Taroth Hammer ""Sleep""",Kulve,12,1040,0,50,TRUE,Sleep,300,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10617,"Kjárr Hammer ""Numb"" (MR)",hammer,"Kjárr Hammer ""Numb""",Kulve,12,936,20,20,FALSE,Paralysis,300,,,,1,0,0,,,,,,,,Critical Status
-10618,"Kjárr Hammer ""Decay"" (MR)",hammer,"Kjárr Hammer ""Decay""",Kulve,12,1040,10,20,FALSE,Dragon,330,,,average,1,0,0,,,,,,,,Critical Element
-10619,"Kjárr Hammer ""Gyre"" (MR)",hammer,"Kjárr Hammer ""Gyre""",Kulve,12,1040,10,35,FALSE,Fire,360,,,,1,0,0,,,,,,,,Critical Element
-10620,"Kjárr Hammer ""Water"" (MR)",hammer,"Kjárr Hammer ""Water""",Kulve,12,1040,10,20,FALSE,Water,390,,,,0,0,0,,,,,,,,Critical Element
-10621,"Kjárr Hammer ""Ice"" (MR)",hammer,"Kjárr Hammer ""Ice""",Kulve,12,988,10,20,FALSE,Ice,480,,,,0,0,0,,,,,,,,Critical Element
-10622,"Kjárr Hammer ""Thunder"" (MR)",hammer,"Kjárr Hammer ""Thunder""",Kulve,12,988,15,20,FALSE,Thunder,450,,,,0,0,0,,,,,,,,Critical Element
-10623,"Kjárr Hammer ""Blast"" (MR)",hammer,"Kjárr Hammer ""Blast""",Kulve,12,1118,15,20,FALSE,Blast,270,,,,0,0,0,,,,,,,,Critical Status
+10592,Gold Water Bludgeon (MR),hammer,Gold Water Bludgeon,Kulve,10,1196,0,40,TRUE,Water,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10593,Gold Ice Bludgeon (MR),hammer,Gold Ice Bludgeon,Kulve,10,1196,0,40,TRUE,Ice,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10594,Gold Thunder Bludgeon (MR),hammer,Gold Thunder Bludgeon,Kulve,10,1196,0,50,TRUE,Thunder,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10595,Thief Gold Bludgeon (MR),hammer,Thief Gold Bludgeon,Kulve,10,1248,35,40,TRUE,Sleep,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10596,Spew Gold Bludgeon (MR),hammer,Spew Gold Bludgeon,Kulve,10,1144,0,40,FALSE,Poison,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10597,Mud Gold Bludgeon (MR),hammer,Mud Gold Bludgeon,Kulve,10,1300,-10,45,TRUE,Paralysis,300,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10598,Rage Gold Bludgeon (MR),hammer,Rage Gold Bludgeon,Kulve,10,1248,-20,40,FALSE,Fire,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10599,Numb Gold Bludgeon (MR),hammer,Numb Gold Bludgeon,Kulve,10,1092,30,40,FALSE,Paralysis,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10600,Tar Gold Bludgeon (MR),hammer,Tar Gold Bludgeon,Kulve,10,1144,10,50,FALSE,Sleep,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10601,Decay Gold Bludgeon (MR),hammer,Decay Gold Bludgeon,Kulve,10,1300,0,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10602,Horn Gold Bludgeon (MR),hammer,Horn Gold Bludgeon,Kulve,10,1352,-25,40,FALSE,Ice,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10603,Gyre Gold Bludgeon (MR),hammer,Gyre Gold Bludgeon,Kulve,10,1300,0,50,FALSE,Fire,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10604,"Taroth Hammer ""Thief"" (MR)",hammer,"Taroth Hammer ""Thief""",Kulve,11,1248,35,40,TRUE,Sleep,480,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10605,"Taroth Hammer ""Spew"" (MR)",hammer,"Taroth Hammer ""Spew""",Kulve,11,1352,0,40,FALSE,Poison,660,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10606,"Taroth Hammer ""Mud"" (MR)",hammer,"Taroth Hammer ""Mud""",Kulve,11,1456,-10,45,TRUE,Paralysis,510,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10607,"Taroth Hammer ""Rage"" (MR)",hammer,"Taroth Hammer ""Rage""",Kulve,11,1404,-20,40,FALSE,Fire,600,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10608,"Taroth Hammer ""Numb"" (MR)",hammer,"Taroth Hammer ""Numb""",Kulve,11,1196,30,40,FALSE,Paralysis,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10609,"Taroth Hammer ""Tar"" (MR)",hammer,"Taroth Hammer ""Tar""",Kulve,11,1352,10,50,FALSE,Sleep,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10610,"Taroth Hammer ""Decay"" (MR)",hammer,"Taroth Hammer ""Decay""",Kulve,11,1404,0,40,FALSE,Dragon,420,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10611,"Taroth Hammer ""Horn"" (MR)",hammer,"Taroth Hammer ""Horn""",Kulve,11,1508,-25,40,FALSE,Ice,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10612,"Taroth Hammer ""Gyre"" (MR)",hammer,"Taroth Hammer ""Gyre""",Kulve,11,1456,0,50,FALSE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10613,"Taroth Hammer ""Water"" (MR)",hammer,"Taroth Hammer ""Water""",Kulve,12,1456,0,40,TRUE,Water,510,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10614,"Taroth Hammer ""Ice"" (MR)",hammer,"Taroth Hammer ""Ice""",Kulve,12,1456,0,40,TRUE,Ice,660,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10615,"Taroth Hammer ""Thunder"" (MR)",hammer,"Taroth Hammer ""Thunder""",Kulve,12,1456,0,50,TRUE,Thunder,630,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10616,"Taroth Hammer ""Sleep"" (MR)",hammer,"Taroth Hammer ""Sleep""",Kulve,12,1508,0,50,TRUE,Sleep,420,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10617,"Kjárr Hammer ""Numb"" (MR)",hammer,"Kjárr Hammer ""Numb""",Kulve,12,1404,20,20,FALSE,Paralysis,420,,,,1,0,0,,,,,,,,Critical Status
+10618,"Kjárr Hammer ""Decay"" (MR)",hammer,"Kjárr Hammer ""Decay""",Kulve,12,1508,10,20,FALSE,Dragon,480,,,average,1,0,0,,,,,,,,Critical Element
+10619,"Kjárr Hammer ""Gyre"" (MR)",hammer,"Kjárr Hammer ""Gyre""",Kulve,12,1508,10,35,FALSE,Fire,510,,,,1,0,0,,,,,,,,Critical Element
+10620,"Kjárr Hammer ""Water"" (MR)",hammer,"Kjárr Hammer ""Water""",Kulve,12,1508,10,20,FALSE,Water,540,,,,0,0,0,,,,,,,,Critical Element
+10621,"Kjárr Hammer ""Ice"" (MR)",hammer,"Kjárr Hammer ""Ice""",Kulve,12,1456,10,20,FALSE,Ice,630,,,,0,0,0,,,,,,,,Critical Element
+10622,"Kjárr Hammer ""Thunder"" (MR)",hammer,"Kjárr Hammer ""Thunder""",Kulve,12,1456,15,20,FALSE,Thunder,600,,,,0,0,0,,,,,,,,Critical Element
+10623,"Kjárr Hammer ""Blast"" (MR)",hammer,"Kjárr Hammer ""Blast""",Kulve,12,1586,15,20,FALSE,Blast,390,,,,0,0,0,,,,,,,,Critical Status
 10132,Gold Water Flute,hunting-horn,,Kulve,6,630,10,20,TRUE,Water,300,,,,0,0,0,,,,,,PYO,,
 10133,Gold Dragon Flute,hunting-horn,,Kulve,6,672,0,20,TRUE,Dragon,270,,,low,0,0,0,,,,,,PYO,,
 10134,Gold Paralysis Flute,hunting-horn,,Kulve,6,588,0,20,TRUE,Paralysis,210,,,,0,0,0,,,,,,PBY,,
@@ -2808,38 +2808,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10402,"Kjárr Pipe ""Stream""",hunting-horn,,Kulve,8,672,10,,FALSE,Ice,510,,,,0,0,0,,,,,,PBG,,Critical Element
 10403,"Kjárr Pipe ""Water""",hunting-horn,,Kulve,8,714,15,,FALSE,Water,450,,,,1,0,0,,,,,,PYO,,Critical Element
 10404,"Kjárr Pipe ""Dragon""",hunting-horn,,Kulve,8,756,10,,FALSE,Dragon,420,,,average,0,0,0,,,,,,PYO,,Critical Element
-10624,Gold Water Flute (MR),hunting-horn,Gold Water Flute,Kulve,10,630,10,40,TRUE,Water,300,,,,0,0,0,,,,,,PYO,,Kulve Taroth Essence
-10625,Gold Dragon Flute (MR),hunting-horn,Gold Dragon Flute,Kulve,10,672,0,40,TRUE,Dragon,270,,,low,0,0,0,,,,,,PYO,,Kulve Taroth Essence
-10626,Gold Paralysis Flute (MR),hunting-horn,Gold Paralysis Flute,Kulve,10,588,0,40,TRUE,Paralysis,210,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
-10627,Buzzer Gold Flute (MR),hunting-horn,Buzzer Gold Flute,Kulve,10,546,30,40,FALSE,Paralysis,150,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
-10628,Thief Gold Flute (MR),hunting-horn,Thief Gold Flute,Kulve,10,588,35,40,TRUE,Sleep,180,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
-10629,Spew Gold Flute (MR),hunting-horn,Spew Gold Flute,Kulve,10,630,0,40,FALSE,Poison,270,,,,1,0,0,,,,,,PGC,,Kulve Taroth Essence
-10630,Rage Gold Flute (MR),hunting-horn,Rage Gold Flute,Kulve,10,714,-20,40,FALSE,Fire,210,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
-10631,Drifter Gold Flute (MR),hunting-horn,Drifter Gold Flute,Kulve,10,630,10,40,FALSE,Water,210,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
-10632,Stream Gold Flute (MR),hunting-horn,Stream Gold Flute,Kulve,10,588,0,40,FALSE,Ice,180,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
-10633,Tar Gold Flute (MR),hunting-horn,Tar Gold Flute,Kulve,10,714,10,50,FALSE,Sleep,120,,,,0,0,0,,,,,,PRY,,Kulve Taroth Essence
-10634,Myth Gold Flute (MR),hunting-horn,Myth Gold Flute,Kulve,10,504,0,40,FALSE,Thunder,270,,,,0,0,0,,,,,,PGY,,Kulve Taroth Essence
-10635,Crusher Gold Flute (MR),hunting-horn,Crusher Gold Flute,Kulve,10,714,10,40,FALSE,Blast,90,,,,0,0,0,,,,,,PRB,,Kulve Taroth Essence
-10636,"Taroth Pipe ""Buzzer"" (MR)",hunting-horn,"Taroth Pipe ""Buzzer""",Kulve,11,672,30,40,FALSE,Paralysis,300,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
-10637,"Taroth Pipe ""Thief"" (MR)",hunting-horn,"Taroth Pipe ""Thief""",Kulve,11,714,35,40,TRUE,Sleep,360,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
-10638,"Taroth Pipe ""Spew"" (MR)",hunting-horn,"Taroth Pipe ""Spew""",Kulve,11,756,0,40,FALSE,Poison,540,,,,1,0,0,,,,,,PGC,,Kulve Taroth Essence
-10639,"Taroth Pipe ""Rage"" (MR)",hunting-horn,"Taroth Pipe ""Rage""",Kulve,11,840,-20,40,FALSE,Fire,450,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
-10640,"Taroth Pipe ""Drifter"" (MR)",hunting-horn,"Taroth Pipe ""Drifter""",Kulve,11,714,10,40,FALSE,Water,420,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
-10641,"Taroth Pipe ""Stream"" (MR)",hunting-horn,"Taroth Pipe ""Stream""",Kulve,11,672,0,40,FALSE,Ice,360,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
-10642,"Taroth Pipe ""Tar"" (MR)",hunting-horn,"Taroth Pipe ""Tar""",Kulve,11,798,10,50,FALSE,Sleep,270,,,,0,0,0,,,,,,PRY,,Kulve Taroth Essence
-10643,"Taroth Pipe ""Myth"" (MR)",hunting-horn,"Taroth Pipe ""Myth""",Kulve,11,630,0,40,FALSE,Thunder,540,,,,0,0,0,,,,,,PGY,,Kulve Taroth Essence
-10644,"Taroth Pipe ""Crusher"" (MR)",hunting-horn,"Taroth Pipe ""Crusher""",Kulve,11,798,10,40,FALSE,Blast,150,,,,0,0,0,,,,,,PRB,,Kulve Taroth Essence
-10645,"Taroth Pipe ""Water"" (MR)",hunting-horn,"Taroth Pipe ""Water""",Kulve,12,714,10,40,TRUE,Water,630,,,,3,0,0,,,,,,PYO,,Kulve Taroth Essence
-10646,"Taroth Pipe ""Dragon"" (MR)",hunting-horn,"Taroth Pipe ""Dragon""",Kulve,12,756,0,40,TRUE,Dragon,540,,,average,3,0,0,,,,,,PYO,,Kulve Taroth Essence
-10647,"Taroth Pipe ""Paralysis"" (MR)",hunting-horn,"Taroth Pipe ""Paralysis""",Kulve,12,840,0,40,TRUE,Paralysis,420,,,,3,0,0,,,,,,PBY,,Kulve Taroth Essence
-10648,"Taroth Pipe ""Sleep"" (MR)",hunting-horn,"Taroth Pipe ""Sleep""",Kulve,12,798,0,40,TRUE,Sleep,420,,,,3,0,0,,,,,,PRG,,Kulve Taroth Essence
-10649,"Kjárr Pipe ""Paralysis"" (MR)",hunting-horn,"Kjárr Pipe ""Paralysis""",Kulve,12,798,10,20,FALSE,Paralysis,300,,,,1,0,0,,,,,,PBY,,Critical Status
-10650,"Kjárr Pipe ""Rage"" (MR)",hunting-horn,"Kjárr Pipe ""Rage""",Kulve,12,798,5,20,FALSE,Fire,390,,,,1,0,0,,,,,,PBG,,Critical Element
-10651,"Kjárr Pipe ""Myth"" (MR)",hunting-horn,"Kjárr Pipe ""Myth""",Kulve,12,672,10,20,FALSE,Thunder,510,,,,0,0,0,,,,,,PGY,,Critical Element
-10652,"Kjárr Pipe ""Crusher"" (MR)",hunting-horn,"Kjárr Pipe ""Crusher""",Kulve,12,798,15,20,FALSE,Blast,300,,,,1,0,0,,,,,,PRB,,Critical Status
-10653,"Kjárr Pipe ""Stream"" (MR)",hunting-horn,"Kjárr Pipe ""Stream""",Kulve,12,672,10,20,FALSE,Ice,510,,,,0,0,0,,,,,,PBG,,Critical Element
-10654,"Kjárr Pipe ""Water"" (MR)",hunting-horn,"Kjárr Pipe ""Water""",Kulve,12,714,15,20,FALSE,Water,450,,,,1,0,0,,,,,,PYO,,Critical Element
-10655,"Kjárr Pipe ""Dragon"" (MR)",hunting-horn,"Kjárr Pipe ""Dragon""",Kulve,12,756,10,20,FALSE,Dragon,420,,,average,0,0,0,,,,,,PYO,,Critical Element
+10624,Gold Water Flute (MR),hunting-horn,Gold Water Flute,Kulve,10,1008,10,40,TRUE,Water,450,,,,0,0,0,,,,,,PYO,,Kulve Taroth Essence
+10625,Gold Dragon Flute (MR),hunting-horn,Gold Dragon Flute,Kulve,10,1050,0,40,TRUE,Dragon,420,,,low,0,0,0,,,,,,PYO,,Kulve Taroth Essence
+10626,Gold Paralysis Flute (MR),hunting-horn,Gold Paralysis Flute,Kulve,10,966,0,40,TRUE,Paralysis,330,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
+10627,Buzzer Gold Flute (MR),hunting-horn,Buzzer Gold Flute,Kulve,10,924,30,40,FALSE,Paralysis,270,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
+10628,Thief Gold Flute (MR),hunting-horn,Thief Gold Flute,Kulve,10,966,35,40,TRUE,Sleep,300,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
+10629,Spew Gold Flute (MR),hunting-horn,Spew Gold Flute,Kulve,10,1008,0,40,FALSE,Poison,390,,,,1,0,0,,,,,,PGC,,Kulve Taroth Essence
+10630,Rage Gold Flute (MR),hunting-horn,Rage Gold Flute,Kulve,10,1092,-20,40,FALSE,Fire,360,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
+10631,Drifter Gold Flute (MR),hunting-horn,Drifter Gold Flute,Kulve,10,1008,10,40,FALSE,Water,360,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
+10632,Stream Gold Flute (MR),hunting-horn,Stream Gold Flute,Kulve,10,966,0,40,FALSE,Ice,330,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
+10633,Tar Gold Flute (MR),hunting-horn,Tar Gold Flute,Kulve,10,1092,10,50,FALSE,Sleep,240,,,,0,0,0,,,,,,PRY,,Kulve Taroth Essence
+10634,Myth Gold Flute (MR),hunting-horn,Myth Gold Flute,Kulve,10,882,0,40,FALSE,Thunder,420,,,,0,0,0,,,,,,PGY,,Kulve Taroth Essence
+10635,Crusher Gold Flute (MR),hunting-horn,Crusher Gold Flute,Kulve,10,1092,10,40,FALSE,Blast,210,,,,0,0,0,,,,,,PRB,,Kulve Taroth Essence
+10636,"Taroth Pipe ""Buzzer"" (MR)",hunting-horn,"Taroth Pipe ""Buzzer""",Kulve,11,1050,30,40,FALSE,Paralysis,420,,,,0,0,0,,,,,,PBY,,Kulve Taroth Essence
+10637,"Taroth Pipe ""Thief"" (MR)",hunting-horn,"Taroth Pipe ""Thief""",Kulve,11,1092,35,40,TRUE,Sleep,480,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
+10638,"Taroth Pipe ""Spew"" (MR)",hunting-horn,"Taroth Pipe ""Spew""",Kulve,11,1134,0,40,FALSE,Poison,660,,,,1,0,0,,,,,,PGC,,Kulve Taroth Essence
+10639,"Taroth Pipe ""Rage"" (MR)",hunting-horn,"Taroth Pipe ""Rage""",Kulve,11,1218,-20,40,FALSE,Fire,600,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
+10640,"Taroth Pipe ""Drifter"" (MR)",hunting-horn,"Taroth Pipe ""Drifter""",Kulve,11,1092,10,40,FALSE,Water,570,,,,0,0,0,,,,,,PBC,,Kulve Taroth Essence
+10641,"Taroth Pipe ""Stream"" (MR)",hunting-horn,"Taroth Pipe ""Stream""",Kulve,11,1050,0,40,FALSE,Ice,510,,,,0,0,0,,,,,,PBG,,Kulve Taroth Essence
+10642,"Taroth Pipe ""Tar"" (MR)",hunting-horn,"Taroth Pipe ""Tar""",Kulve,11,1176,10,50,FALSE,Sleep,390,,,,0,0,0,,,,,,PRY,,Kulve Taroth Essence
+10643,"Taroth Pipe ""Myth"" (MR)",hunting-horn,"Taroth Pipe ""Myth""",Kulve,11,1008,0,40,FALSE,Thunder,690,,,,0,0,0,,,,,,PGY,,Kulve Taroth Essence
+10644,"Taroth Pipe ""Crusher"" (MR)",hunting-horn,"Taroth Pipe ""Crusher""",Kulve,11,1176,10,40,FALSE,Blast,270,,,,0,0,0,,,,,,PRB,,Kulve Taroth Essence
+10645,"Taroth Pipe ""Water"" (MR)",hunting-horn,"Taroth Pipe ""Water""",Kulve,12,1176,10,40,TRUE,Water,780,,,,3,0,0,,,,,,PYO,,Kulve Taroth Essence
+10646,"Taroth Pipe ""Dragon"" (MR)",hunting-horn,"Taroth Pipe ""Dragon""",Kulve,12,1218,0,40,TRUE,Dragon,690,,,average,3,0,0,,,,,,PYO,,Kulve Taroth Essence
+10647,"Taroth Pipe ""Paralysis"" (MR)",hunting-horn,"Taroth Pipe ""Paralysis""",Kulve,12,1302,0,40,TRUE,Paralysis,540,,,,3,0,0,,,,,,PBY,,Kulve Taroth Essence
+10648,"Taroth Pipe ""Sleep"" (MR)",hunting-horn,"Taroth Pipe ""Sleep""",Kulve,12,1260,0,40,TRUE,Sleep,540,,,,3,0,0,,,,,,PRG,,Kulve Taroth Essence
+10649,"Kjárr Pipe ""Paralysis"" (MR)",hunting-horn,"Kjárr Pipe ""Paralysis""",Kulve,12,1260,10,20,FALSE,Paralysis,420,,,,1,0,0,,,,,,PBY,,Critical Status
+10650,"Kjárr Pipe ""Rage"" (MR)",hunting-horn,"Kjárr Pipe ""Rage""",Kulve,12,1260,5,20,FALSE,Fire,540,,,,1,0,0,,,,,,PBG,,Critical Element
+10651,"Kjárr Pipe ""Myth"" (MR)",hunting-horn,"Kjárr Pipe ""Myth""",Kulve,12,1134,10,20,FALSE,Thunder,660,,,,0,0,0,,,,,,PGY,,Critical Element
+10652,"Kjárr Pipe ""Crusher"" (MR)",hunting-horn,"Kjárr Pipe ""Crusher""",Kulve,12,1260,15,20,FALSE,Blast,420,,,,1,0,0,,,,,,PRB,,Critical Status
+10653,"Kjárr Pipe ""Stream"" (MR)",hunting-horn,"Kjárr Pipe ""Stream""",Kulve,12,1134,10,20,FALSE,Ice,660,,,,0,0,0,,,,,,PBG,,Critical Element
+10654,"Kjárr Pipe ""Water"" (MR)",hunting-horn,"Kjárr Pipe ""Water""",Kulve,12,1176,15,20,FALSE,Water,600,,,,1,0,0,,,,,,PYO,,Critical Element
+10655,"Kjárr Pipe ""Dragon"" (MR)",hunting-horn,"Kjárr Pipe ""Dragon""",Kulve,12,1218,10,20,FALSE,Dragon,570,,,average,0,0,0,,,,,,PYO,,Critical Element
 10157,Gold Water Defender,lance,,Kulve,6,345,0,20,TRUE,Water,210,,,,0,0,0,,,,,,,,
 10158,Gold Thunder Defender,lance,,Kulve,6,299,20,20,TRUE,Thunder,270,,,,0,0,0,,,,,,,,
 10159,Gold Sleep Defender,lance,,Kulve,6,322,10,20,TRUE,Sleep,210,,,,0,0,0,,,,,,,,
@@ -2872,38 +2872,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10409,"Kjárr Crest ""Crusher""",lance,,Kulve,8,414,15,,FALSE,Blast,270,,,,1,0,0,,,,,,,,Critical Status
 10410,"Kjárr Crest ""Water""",lance,,Kulve,8,437,10,,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
 10411,"Kjárr Crest ""Thunder""",lance,,Kulve,8,414,15,,FALSE,Thunder,420,,,,0,0,0,,,,,,,,Critical Element
-10656,Gold Water Defender (MR),lance,Gold Water Defender,Kulve,10,345,0,40,TRUE,Water,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10657,Gold Thunder Defender (MR),lance,Gold Thunder Defender,Kulve,10,299,20,40,TRUE,Thunder,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10658,Gold Sleep Defender (MR),lance,Gold Sleep Defender,Kulve,10,322,10,40,TRUE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10659,Thief Gold Defender (MR),lance,Thief Gold Defender,Kulve,10,322,10,40,FALSE,Sleep,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10660,Spew Gold Defender (MR),lance,Spew Gold Defender,Kulve,10,345,0,40,FALSE,Poison,270,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10661,Mud Gold Defender (MR),lance,Mud Gold Defender,Kulve,10,345,-20,45,FALSE,Paralysis,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10662,Lurk Gold Defender (MR),lance,Lurk Gold Defender,Kulve,10,299,10,40,TRUE,Blast,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10663,Stream Gold Defender (MR),lance,Stream Gold Defender,Kulve,10,299,0,40,FALSE,Ice,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10664,Claw Gold Defender (MR),lance,Claw Gold Defender,Kulve,10,299,30,40,TRUE,Fire,60,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10665,Decay Gold Defender (MR),lance,Decay Gold Defender,Kulve,10,322,0,40,FALSE,Dragon,120,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10666,King Gold Defender (MR),lance,King Gold Defender,Kulve,10,299,0,40,FALSE,Fire,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10667,Crusher Gold Defender (MR),lance,Crusher Gold Defender,Kulve,10,345,10,40,FALSE,Blast,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10668,"Taroth Crest ""Thief"" (MR)",lance,"Taroth Crest ""Thief""",Kulve,11,391,10,40,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10669,"Taroth Crest ""Spew"" (MR)",lance,"Taroth Crest ""Spew""",Kulve,11,414,0,40,FALSE,Poison,540,,,,1,0,0,,,,,,,,Kulve Taroth Essence
-10670,"Taroth Crest ""Mud"" (MR)",lance,"Taroth Crest ""Mud""",Kulve,11,437,-20,45,FALSE,Paralysis,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10671,"Taroth Crest ""Lurk"" (MR)",lance,"Taroth Crest ""Lurk""",Kulve,11,368,10,40,TRUE,Blast,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10672,"Taroth Crest ""Stream"" (MR)",lance,"Taroth Crest ""Stream""",Kulve,11,368,0,40,FALSE,Ice,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10673,"Taroth Crest ""Claw"" (MR)",lance,"Taroth Crest ""Claw""",Kulve,11,437,30,40,TRUE,Fire,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10674,"Taroth Crest ""Decay"" (MR)",lance,"Taroth Crest ""Decay""",Kulve,11,391,0,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10675,"Taroth Crest ""King"" (MR)",lance,"Taroth Crest ""King""",Kulve,11,368,0,40,FALSE,Fire,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10676,"Taroth Crest ""Crusher"" (MR)",lance,"Taroth Crest ""Crusher""",Kulve,11,391,10,40,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10677,"Taroth Crest ""Water"" (MR)",lance,"Taroth Crest ""Water""",Kulve,12,437,0,40,TRUE,Water,420,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10678,"Taroth Crest ""Thunder"" (MR)",lance,"Taroth Crest ""Thunder""",Kulve,12,368,20,40,TRUE,Thunder,600,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10679,"Taroth Crest ""Sleep"" (MR)",lance,"Taroth Crest ""Sleep""",Kulve,12,414,10,40,TRUE,Sleep,450,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10680,"Taroth Crest ""Poison"" (MR)",lance,"Taroth Crest ""Poison""",Kulve,12,460,-10,40,TRUE,Poison,630,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10681,"Kjárr Crest ""Paralysis"" (MR)",lance,"Kjárr Crest ""Paralysis""",Kulve,12,414,10,20,FALSE,Paralysis,210,,,,0,0,0,,,,,,,,Critical Status
-10682,"Kjárr Crest ""Stream"" (MR)",lance,"Kjárr Crest ""Stream""",Kulve,12,391,10,20,FALSE,Ice,390,,,,1,0,0,,,,,,,,Critical Element
-10683,"Kjárr Crest ""Decay"" (MR)",lance,"Kjárr Crest ""Decay""",Kulve,12,391,10,20,FALSE,Dragon,330,,,average,0,0,0,,,,,,,,Critical Element
-10684,"Kjárr Crest ""King"" (MR)",lance,"Kjárr Crest ""King""",Kulve,12,391,10,20,FALSE,Fire,390,,,,1,0,0,,,,,,,,Critical Element
-10685,"Kjárr Crest ""Crusher"" (MR)",lance,"Kjárr Crest ""Crusher""",Kulve,12,414,15,20,FALSE,Blast,270,,,,1,0,0,,,,,,,,Critical Status
-10686,"Kjárr Crest ""Water"" (MR)",lance,"Kjárr Crest ""Water""",Kulve,12,437,10,20,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
-10687,"Kjárr Crest ""Thunder"" (MR)",lance,"Kjárr Crest ""Thunder""",Kulve,12,414,15,20,FALSE,Thunder,420,,,,0,0,0,,,,,,,,Critical Element
+10656,Gold Water Defender (MR),lance,Gold Water Defender,Kulve,10,529,0,40,TRUE,Water,450,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10657,Gold Thunder Defender (MR),lance,Gold Thunder Defender,Kulve,10,483,20,40,TRUE,Thunder,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10658,Gold Sleep Defender (MR),lance,Gold Sleep Defender,Kulve,10,506,10,40,TRUE,Sleep,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10659,Thief Gold Defender (MR),lance,Thief Gold Defender,Kulve,10,506,10,40,FALSE,Sleep,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10660,Spew Gold Defender (MR),lance,Spew Gold Defender,Kulve,10,529,0,40,FALSE,Poison,390,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10661,Mud Gold Defender (MR),lance,Mud Gold Defender,Kulve,10,529,-20,45,FALSE,Paralysis,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10662,Lurk Gold Defender (MR),lance,Lurk Gold Defender,Kulve,10,483,10,40,TRUE,Blast,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10663,Stream Gold Defender (MR),lance,Stream Gold Defender,Kulve,10,483,0,40,FALSE,Ice,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10664,Claw Gold Defender (MR),lance,Claw Gold Defender,Kulve,10,483,30,40,TRUE,Fire,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10665,Decay Gold Defender (MR),lance,Decay Gold Defender,Kulve,10,506,0,40,FALSE,Dragon,360,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10666,King Gold Defender (MR),lance,King Gold Defender,Kulve,10,483,0,40,FALSE,Fire,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10667,Crusher Gold Defender (MR),lance,Crusher Gold Defender,Kulve,10,529,10,40,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10668,"Taroth Crest ""Thief"" (MR)",lance,"Taroth Crest ""Thief""",Kulve,11,575,10,40,FALSE,Sleep,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10669,"Taroth Crest ""Spew"" (MR)",lance,"Taroth Crest ""Spew""",Kulve,11,598,0,40,FALSE,Poison,660,,,,1,0,0,,,,,,,,Kulve Taroth Essence
+10670,"Taroth Crest ""Mud"" (MR)",lance,"Taroth Crest ""Mud""",Kulve,11,621,-20,45,FALSE,Paralysis,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10671,"Taroth Crest ""Lurk"" (MR)",lance,"Taroth Crest ""Lurk""",Kulve,11,552,10,40,TRUE,Blast,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10672,"Taroth Crest ""Stream"" (MR)",lance,"Taroth Crest ""Stream""",Kulve,11,552,0,40,FALSE,Ice,540,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10673,"Taroth Crest ""Claw"" (MR)",lance,"Taroth Crest ""Claw""",Kulve,11,621,30,40,TRUE,Fire,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10674,"Taroth Crest ""Decay"" (MR)",lance,"Taroth Crest ""Decay""",Kulve,11,575,0,40,FALSE,Dragon,510,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10675,"Taroth Crest ""King"" (MR)",lance,"Taroth Crest ""King""",Kulve,11,552,0,40,FALSE,Fire,540,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10676,"Taroth Crest ""Crusher"" (MR)",lance,"Taroth Crest ""Crusher""",Kulve,11,575,10,40,FALSE,Blast,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10677,"Taroth Crest ""Water"" (MR)",lance,"Taroth Crest ""Water""",Kulve,12,667,0,40,TRUE,Water,660,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10678,"Taroth Crest ""Thunder"" (MR)",lance,"Taroth Crest ""Thunder""",Kulve,12,598,20,40,TRUE,Thunder,840,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10679,"Taroth Crest ""Sleep"" (MR)",lance,"Taroth Crest ""Sleep""",Kulve,12,644,10,40,TRUE,Sleep,570,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10680,"Taroth Crest ""Poison"" (MR)",lance,"Taroth Crest ""Poison""",Kulve,12,690,-10,40,TRUE,Poison,750,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10681,"Kjárr Crest ""Paralysis"" (MR)",lance,"Kjárr Crest ""Paralysis""",Kulve,12,644,10,20,FALSE,Paralysis,330,,,,0,0,0,,,,,,,,Critical Status
+10682,"Kjárr Crest ""Stream"" (MR)",lance,"Kjárr Crest ""Stream""",Kulve,12,621,10,20,FALSE,Ice,630,,,,1,0,0,,,,,,,,Critical Element
+10683,"Kjárr Crest ""Decay"" (MR)",lance,"Kjárr Crest ""Decay""",Kulve,12,621,10,20,FALSE,Dragon,570,,,average,0,0,0,,,,,,,,Critical Element
+10684,"Kjárr Crest ""King"" (MR)",lance,"Kjárr Crest ""King""",Kulve,12,621,10,20,FALSE,Fire,630,,,,1,0,0,,,,,,,,Critical Element
+10685,"Kjárr Crest ""Crusher"" (MR)",lance,"Kjárr Crest ""Crusher""",Kulve,12,644,15,20,FALSE,Blast,390,,,,1,0,0,,,,,,,,Critical Status
+10686,"Kjárr Crest ""Water"" (MR)",lance,"Kjárr Crest ""Water""",Kulve,12,667,10,20,FALSE,Water,540,,,,0,0,0,,,,,,,,Critical Element
+10687,"Kjárr Crest ""Thunder"" (MR)",lance,"Kjárr Crest ""Thunder""",Kulve,12,644,15,20,FALSE,Thunder,660,,,,0,0,0,,,,,,,,Critical Element
 10182,Gold Water Exploder,gunlance,,Kulve,6,322,0,20,TRUE,Water,210,,,,0,0,0,,,,wide,3,,,
 10183,Gold Poison Exploder,gunlance,,Kulve,6,299,15,20,TRUE,Poison,210,,,,0,0,0,,,,normal,3,,,
 10184,Gold Sleep Exploder,gunlance,,Kulve,6,322,0,20,TRUE,Sleep,210,,,,0,0,0,,,,normal,3,,,
@@ -2938,40 +2938,40 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10416,"Kjárr Buster ""Spark""",gunlance,,Kulve,8,414,15,,FALSE,Thunder,330,,,,0,0,0,,,,long,4,,,Critical Element
 10417,"Kjárr Buster ""Paralysis""",gunlance,,Kulve,8,414,15,,FALSE,Paralysis,360,,,,0,0,0,,,,normal,4,,,Critical Status
 10418,"Kjárr Buster ""Water""",gunlance,,Kulve,8,437,10,,FALSE,Water,420,,,,0,0,0,,,,wide,4,,,Critical Element
-10688,Gold Water Exploder (MR),gunlance,Gold Water Exploder,Kulve,10,322,0,40,TRUE,Water,210,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10689,Gold Poison Exploder (MR),gunlance,Gold Poison Exploder,Kulve,10,299,15,40,TRUE,Poison,210,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10690,Gold Sleep Exploder (MR),gunlance,Gold Sleep Exploder,Kulve,10,322,0,40,TRUE,Sleep,210,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10691,Glutton Gold Exploder (MR),gunlance,Glutton Gold Exploder,Kulve,10,322,0,40,FALSE,Sleep,90,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10692,Mire Gold Exploder (MR),gunlance,Mire Gold Exploder,Kulve,10,322,0,40,FALSE,Water,180,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10693,Mud Gold Exploder (MR),gunlance,Mud Gold Exploder,Kulve,10,299,-10,45,TRUE,Paralysis,180,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10694,Spark Gold Exploder (MR),gunlance,Spark Gold Exploder,Kulve,10,322,20,40,FALSE,Thunder,120,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10695,Rage Gold Exploder (MR),gunlance,Rage Gold Exploder,Kulve,10,345,-20,40,FALSE,Fire,210,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10696,Numb Gold Exploder (MR),gunlance,Numb Gold Exploder,Kulve,10,322,10,40,FALSE,Paralysis,210,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10697,Stream Gold Exploder (MR),gunlance,Stream Gold Exploder,Kulve,10,322,10,40,FALSE,Ice,180,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10698,Decay Gold Exploder (MR),gunlance,Decay Gold Exploder,Kulve,10,368,10,40,FALSE,Dragon,120,,,average,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10699,King Gold Exploder (MR),gunlance,King Gold Exploder,Kulve,10,322,20,40,FALSE,Fire,120,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10700,Bomber Gold Exploder (MR),gunlance,Bomber Gold Exploder,Kulve,10,368,0,40,FALSE,Blast,90,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10701,"Taroth Buster ""Glutton"" (MR)",gunlance,"Taroth Buster ""Glutton""",Kulve,11,437,0,40,FALSE,Sleep,180,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10702,"Taroth Buster ""Mire"" (MR)",gunlance,"Taroth Buster ""Mire""",Kulve,11,437,0,40,FALSE,Water,360,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10703,"Taroth Buster ""Mud"" (MR)",gunlance,"Taroth Buster ""Mud""",Kulve,11,391,-10,45,TRUE,Paralysis,390,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10704,"Taroth Buster ""Spark"" (MR)",gunlance,"Taroth Buster ""Spark""",Kulve,11,391,20,40,FALSE,Thunder,270,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10705,"Taroth Buster ""Rage"" (MR)",gunlance,"Taroth Buster ""Rage""",Kulve,11,460,-20,40,FALSE,Fire,450,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10706,"Taroth Buster ""Numb"" (MR)",gunlance,"Taroth Buster ""Numb""",Kulve,11,368,10,40,FALSE,Paralysis,450,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10707,"Taroth Buster ""Stream"" (MR)",gunlance,"Taroth Buster ""Stream""",Kulve,11,368,10,40,FALSE,Ice,360,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
-10708,"Taroth Buster ""Decay"" (MR)",gunlance,"Taroth Buster ""Decay""",Kulve,11,460,10,40,FALSE,Dragon,270,,,average,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10709,"Taroth Buster ""King"" (MR)",gunlance,"Taroth Buster ""King""",Kulve,11,414,20,40,FALSE,Fire,240,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
-10710,"Taroth Buster ""Bomber"" (MR)",gunlance,"Taroth Buster ""Bomber""",Kulve,11,414,0,40,FALSE,Blast,210,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
-10711,"Taroth Buster ""Water"" (MR)",gunlance,"Taroth Buster ""Water""",Kulve,12,437,0,40,TRUE,Water,450,,,,3,0,0,,,,wide,7,,,Kulve Taroth Essence
-10712,"Taroth Buster ""Poison"" (MR)",gunlance,"Taroth Buster ""Poison""",Kulve,12,460,15,40,TRUE,Poison,450,,,,3,0,0,,,,normal,7,,,Kulve Taroth Essence
-10713,"Taroth Buster ""Sleep"" (MR)",gunlance,"Taroth Buster ""Sleep""",Kulve,12,437,0,40,TRUE,Sleep,450,,,,3,0,0,,,,normal,7,,,Kulve Taroth Essence
-10714,"Taroth Buster ""Ice"" (MR)",gunlance,"Taroth Buster ""Ice""",Kulve,12,414,0,40,TRUE,Ice,450,,,,3,0,0,,,,long,6,,,Kulve Taroth Essence
-10715,"Kjárr Buster ""Stream"" (MR)",gunlance,"Kjárr Buster ""Stream""",Kulve,12,414,15,20,FALSE,Ice,390,,,,0,0,0,,,,normal,7,,,Critical Element
-10716,"Kjárr Buster ""Decay"" (MR)",gunlance,"Kjárr Buster ""Decay""",Kulve,12,437,15,20,FALSE,Dragon,300,,,average,0,0,0,,,,long,6,,,Critical Element
-10717,"Kjárr Buster ""King"" (MR)",gunlance,"Kjárr Buster ""King""",Kulve,12,414,15,20,FALSE,Fire,390,,,,0,0,0,,,,long,6,,,Critical Element
-10718,"Kjárr Buster ""Bomber"" (MR)",gunlance,"Kjárr Buster ""Bomber""",Kulve,12,414,20,20,FALSE,Blast,330,,,,1,0,0,,,,wide,7,,,Critical Status
-10719,"Kjárr Buster ""Spark"" (MR)",gunlance,"Kjárr Buster ""Spark""",Kulve,12,414,15,20,FALSE,Thunder,330,,,,0,0,0,,,,long,6,,,Critical Element
-10720,"Kjárr Buster ""Paralysis"" (MR)",gunlance,"Kjárr Buster ""Paralysis""",Kulve,12,414,15,20,FALSE,Paralysis,360,,,,0,0,0,,,,normal,7,,,Critical Status
-10721,"Kjárr Buster ""Water"" (MR)",gunlance,"Kjárr Buster ""Water""",Kulve,12,437,10,20,FALSE,Water,420,,,,0,0,0,,,,wide,7,,,Critical Element
+10688,Gold Water Exploder (MR),gunlance,Gold Water Exploder,Kulve,10,483,0,40,TRUE,Water,390,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10689,Gold Poison Exploder (MR),gunlance,Gold Poison Exploder,Kulve,10,460,15,40,TRUE,Poison,330,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10690,Gold Sleep Exploder (MR),gunlance,Gold Sleep Exploder,Kulve,10,483,0,40,TRUE,Sleep,330,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10691,Glutton Gold Exploder (MR),gunlance,Glutton Gold Exploder,Kulve,10,483,0,40,FALSE,Sleep,210,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10692,Mire Gold Exploder (MR),gunlance,Mire Gold Exploder,Kulve,10,483,0,40,FALSE,Water,360,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10693,Mud Gold Exploder (MR),gunlance,Mud Gold Exploder,Kulve,10,460,-10,45,TRUE,Paralysis,300,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10694,Spark Gold Exploder (MR),gunlance,Spark Gold Exploder,Kulve,10,483,20,40,FALSE,Thunder,300,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10695,Rage Gold Exploder (MR),gunlance,Rage Gold Exploder,Kulve,10,506,-20,40,FALSE,Fire,390,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10696,Numb Gold Exploder (MR),gunlance,Numb Gold Exploder,Kulve,10,483,10,40,FALSE,Paralysis,330,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10697,Stream Gold Exploder (MR),gunlance,Stream Gold Exploder,Kulve,10,483,10,40,FALSE,Ice,360,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10698,Decay Gold Exploder (MR),gunlance,Decay Gold Exploder,Kulve,10,529,10,40,FALSE,Dragon,300,,,average,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10699,King Gold Exploder (MR),gunlance,King Gold Exploder,Kulve,10,483,20,40,FALSE,Fire,300,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10700,Bomber Gold Exploder (MR),gunlance,Bomber Gold Exploder,Kulve,10,529,0,40,FALSE,Blast,210,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10701,"Taroth Buster ""Glutton"" (MR)",gunlance,"Taroth Buster ""Glutton""",Kulve,11,598,0,40,FALSE,Sleep,300,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10702,"Taroth Buster ""Mire"" (MR)",gunlance,"Taroth Buster ""Mire""",Kulve,11,598,0,40,FALSE,Water,540,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10703,"Taroth Buster ""Mud"" (MR)",gunlance,"Taroth Buster ""Mud""",Kulve,11,552,-10,45,TRUE,Paralysis,510,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10704,"Taroth Buster ""Spark"" (MR)",gunlance,"Taroth Buster ""Spark""",Kulve,11,552,20,40,FALSE,Thunder,450,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10705,"Taroth Buster ""Rage"" (MR)",gunlance,"Taroth Buster ""Rage""",Kulve,11,621,-20,40,FALSE,Fire,630,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10706,"Taroth Buster ""Numb"" (MR)",gunlance,"Taroth Buster ""Numb""",Kulve,11,529,10,40,FALSE,Paralysis,570,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10707,"Taroth Buster ""Stream"" (MR)",gunlance,"Taroth Buster ""Stream""",Kulve,11,529,10,40,FALSE,Ice,540,,,,0,0,0,,,,normal,6,,,Kulve Taroth Essence
+10708,"Taroth Buster ""Decay"" (MR)",gunlance,"Taroth Buster ""Decay""",Kulve,11,621,10,40,FALSE,Dragon,450,,,average,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10709,"Taroth Buster ""King"" (MR)",gunlance,"Taroth Buster ""King""",Kulve,11,575,20,40,FALSE,Fire,420,,,,0,0,0,,,,long,5,,,Kulve Taroth Essence
+10710,"Taroth Buster ""Bomber"" (MR)",gunlance,"Taroth Buster ""Bomber""",Kulve,11,575,0,40,FALSE,Blast,330,,,,0,0,0,,,,wide,6,,,Kulve Taroth Essence
+10711,"Taroth Buster ""Water"" (MR)",gunlance,"Taroth Buster ""Water""",Kulve,12,644,0,40,TRUE,Water,630,,,,3,0,0,,,,wide,7,,,Kulve Taroth Essence
+10712,"Taroth Buster ""Poison"" (MR)",gunlance,"Taroth Buster ""Poison""",Kulve,12,667,15,40,TRUE,Poison,570,,,,3,0,0,,,,normal,7,,,Kulve Taroth Essence
+10713,"Taroth Buster ""Sleep"" (MR)",gunlance,"Taroth Buster ""Sleep""",Kulve,12,644,0,40,TRUE,Sleep,570,,,,3,0,0,,,,normal,7,,,Kulve Taroth Essence
+10714,"Taroth Buster ""Ice"" (MR)",gunlance,"Taroth Buster ""Ice""",Kulve,12,621,0,40,TRUE,Ice,630,,,,3,0,0,,,,long,6,,,Kulve Taroth Essence
+10715,"Kjárr Buster ""Stream"" (MR)",gunlance,"Kjárr Buster ""Stream""",Kulve,12,621,15,20,FALSE,Ice,570,,,,0,0,0,,,,normal,7,,,Critical Element
+10716,"Kjárr Buster ""Decay"" (MR)",gunlance,"Kjárr Buster ""Decay""",Kulve,12,644,15,20,FALSE,Dragon,480,,,average,0,0,0,,,,long,6,,,Critical Element
+10717,"Kjárr Buster ""King"" (MR)",gunlance,"Kjárr Buster ""King""",Kulve,12,621,15,20,FALSE,Fire,570,,,,0,0,0,,,,long,6,,,Critical Element
+10718,"Kjárr Buster ""Bomber"" (MR)",gunlance,"Kjárr Buster ""Bomber""",Kulve,12,621,20,20,FALSE,Blast,450,,,,1,0,0,,,,wide,7,,,Critical Status
+10719,"Kjárr Buster ""Spark"" (MR)",gunlance,"Kjárr Buster ""Spark""",Kulve,12,621,15,20,FALSE,Thunder,510,,,,0,0,0,,,,long,6,,,Critical Element
+10720,"Kjárr Buster ""Paralysis"" (MR)",gunlance,"Kjárr Buster ""Paralysis""",Kulve,12,621,15,20,FALSE,Paralysis,480,,,,0,0,0,,,,normal,7,,,Critical Status
+10721,"Kjárr Buster ""Water"" (MR)",gunlance,"Kjárr Buster ""Water""",Kulve,12,644,10,20,FALSE,Water,600,,,,0,0,0,,,,wide,7,,,Critical Element
 10209,Gold Thunder Chopper,switch-axe,,Kulve,6,455,10,20,TRUE,Thunder,240,,,,0,0,0,,power,,,,,,
 10210,Gold Paralysis Chopper,switch-axe,,Kulve,6,525,-20,25,TRUE,Paralysis,210,,,,0,0,0,,power,,,,,,
 10211,Gold Sleep Chopper,switch-axe,,Kulve,6,490,0,20,TRUE,Sleep,180,,,,0,0,0,,power,,,,,,
@@ -3006,40 +3006,40 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10423,"Kjárr Axe ""Thunder""",switch-axe,,Kulve,8,595,15,,FALSE,Thunder,330,,,,0,0,0,,power element,,,,,,Critical Element
 10424,"Kjárr Axe ""Water""",switch-axe,,Kulve,8,665,15,,FALSE,Water,360,,,,0,0,0,,power element,,,,,,Critical Element
 10425,"Kjárr Axe ""Paralysis""",switch-axe,,Kulve,8,700,10,,FALSE,Paralysis,330,,,,0,0,0,,power,,,,,,Critical Status
-10722,Gold Thunder Chopper (MR),switch-axe,Gold Thunder Chopper,Kulve,10,455,10,40,TRUE,Thunder,240,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10723,Gold Paralysis Chopper (MR),switch-axe,Gold Paralysis Chopper,Kulve,10,525,-20,45,TRUE,Paralysis,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10724,Gold Sleep Chopper (MR),switch-axe,Gold Sleep Chopper,Kulve,10,490,0,40,TRUE,Sleep,180,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10725,Glutton Gold Chopper (MR),switch-axe,Glutton Gold Chopper,Kulve,10,560,0,40,FALSE,Sleep,90,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10726,Mire Gold Chopper (MR),switch-axe,Mire Gold Chopper,Kulve,10,560,0,40,FALSE,Water,150,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10727,Mud Gold Chopper (MR),switch-axe,Mud Gold Chopper,Kulve,10,560,-20,45,FALSE,Paralysis,90,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10728,Drifter Gold Chopper (MR),switch-axe,Drifter Gold Chopper,Kulve,10,525,25,40,TRUE,Blast,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10729,Stream Gold Chopper (MR),switch-axe,Stream Gold Chopper,Kulve,10,455,10,40,FALSE,Ice,150,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10730,Decay Gold Chopper (MR),switch-axe,Decay Gold Chopper,Kulve,10,525,0,40,FALSE,Dragon,90,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10731,King Gold Chopper (MR),switch-axe,King Gold Chopper,Kulve,10,490,15,40,FALSE,Fire,90,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10732,Horn Gold Chopper (MR),switch-axe,Horn Gold Chopper,Kulve,10,665,-30,45,TRUE,Ice,120,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10733,Gyre Gold Chopper (MR),switch-axe,Gyre Gold Chopper,Kulve,10,560,10,60,FALSE,Fire,60,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10734,Bomber Gold Chopper (MR),switch-axe,Bomber Gold Chopper,Kulve,10,595,0,40,FALSE,Blast,90,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10735,"Taroth Axe ""Glutton"" (MR)",switch-axe,"Taroth Axe ""Glutton""",Kulve,11,665,0,40,FALSE,Sleep,150,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10736,"Taroth Axe ""Mire"" (MR)",switch-axe,"Taroth Axe ""Mire""",Kulve,11,665,0,40,FALSE,Water,300,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10737,"Taroth Axe ""Mud"" (MR)",switch-axe,"Taroth Axe ""Mud""",Kulve,11,735,-20,45,FALSE,Paralysis,180,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10738,"Taroth Axe ""Drifter"" (MR)",switch-axe,"Taroth Axe ""Drifter""",Kulve,11,595,25,40,TRUE,Blast,420,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10739,"Taroth Axe ""Stream"" (MR)",switch-axe,"Taroth Axe ""Stream""",Kulve,11,560,10,40,FALSE,Ice,300,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10740,"Taroth Axe ""Decay"" (MR)",switch-axe,"Taroth Axe ""Decay""",Kulve,11,595,0,40,FALSE,Dragon,210,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10741,"Taroth Axe ""King"" (MR)",switch-axe,"Taroth Axe ""King""",Kulve,11,665,15,40,FALSE,Fire,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10742,"Taroth Axe ""Horn"" (MR)",switch-axe,"Taroth Axe ""Horn""",Kulve,11,805,-30,45,TRUE,Ice,240,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10743,"Taroth Axe ""Gyre"" (MR)",switch-axe,"Taroth Axe ""Gyre""",Kulve,11,735,10,60,FALSE,Fire,120,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10744,"Taroth Axe ""Bomber"" (MR)",switch-axe,"Taroth Axe ""Bomber""",Kulve,11,630,0,40,FALSE,Blast,180,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
-10745,"Taroth Axe ""Thunder"" (MR)",switch-axe,"Taroth Axe ""Thunder""",Kulve,12,560,10,40,TRUE,Thunder,480,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
-10746,"Taroth Axe ""Paralysis"" (MR)",switch-axe,"Taroth Axe ""Paralysis""",Kulve,12,735,0,50,TRUE,Paralysis,450,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
-10747,"Taroth Axe ""Sleep"" (MR)",switch-axe,"Taroth Axe ""Sleep""",Kulve,12,665,0,40,TRUE,Sleep,360,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
-10748,"Taroth Axe ""Water"" (MR)",switch-axe,"Taroth Axe ""Water""",Kulve,12,700,0,40,TRUE,Water,480,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
-10749,"Kjárr Axe ""Stream"" (MR)",switch-axe,"Kjárr Axe ""Stream""",Kulve,12,595,15,20,FALSE,Ice,330,,,,0,0,0,,power element,,,,,,Critical Element
-10750,"Kjárr Axe ""Decay"" (MR)",switch-axe,"Kjárr Axe ""Decay""",Kulve,12,595,10,20,FALSE,Dragon,270,,,average,1,0,0,,power element,,,,,,Critical Element
-10751,"Kjárr Axe ""King"" (MR)",switch-axe,"Kjárr Axe ""King""",Kulve,12,665,20,20,FALSE,Fire,300,,,,1,0,0,,power element,,,,,,Critical Element
-10752,"Kjárr Axe ""Bomber"" (MR)",switch-axe,"Kjárr Axe ""Bomber""",Kulve,12,665,10,20,FALSE,Blast,270,,,,1,0,0,,power,,,,,,Critical Status
-10753,"Kjárr Axe ""Thunder"" (MR)",switch-axe,"Kjárr Axe ""Thunder""",Kulve,12,595,15,20,FALSE,Thunder,330,,,,0,0,0,,power element,,,,,,Critical Element
-10754,"Kjárr Axe ""Water"" (MR)",switch-axe,"Kjárr Axe ""Water""",Kulve,12,665,15,20,FALSE,Water,360,,,,0,0,0,,power element,,,,,,Critical Element
-10755,"Kjárr Axe ""Paralysis"" (MR)",switch-axe,"Kjárr Axe ""Paralysis""",Kulve,12,700,10,20,FALSE,Paralysis,330,,,,0,0,0,,power,,,,,,Critical Status
+10722,Gold Thunder Chopper (MR),switch-axe,Gold Thunder Chopper,Kulve,10,735,10,40,TRUE,Thunder,420,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10723,Gold Paralysis Chopper (MR),switch-axe,Gold Paralysis Chopper,Kulve,10,805,-20,45,TRUE,Paralysis,330,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10724,Gold Sleep Chopper (MR),switch-axe,Gold Sleep Chopper,Kulve,10,770,0,40,TRUE,Sleep,300,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10725,Glutton Gold Chopper (MR),switch-axe,Glutton Gold Chopper,Kulve,10,840,0,40,FALSE,Sleep,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10726,Mire Gold Chopper (MR),switch-axe,Mire Gold Chopper,Kulve,10,840,0,40,FALSE,Water,330,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10727,Mud Gold Chopper (MR),switch-axe,Mud Gold Chopper,Kulve,10,840,-20,45,FALSE,Paralysis,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10728,Drifter Gold Chopper (MR),switch-axe,Drifter Gold Chopper,Kulve,10,805,25,40,TRUE,Blast,330,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10729,Stream Gold Chopper (MR),switch-axe,Stream Gold Chopper,Kulve,10,735,10,40,FALSE,Ice,330,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10730,Decay Gold Chopper (MR),switch-axe,Decay Gold Chopper,Kulve,10,805,0,40,FALSE,Dragon,270,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10731,King Gold Chopper (MR),switch-axe,King Gold Chopper,Kulve,10,770,15,40,FALSE,Fire,270,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10732,Horn Gold Chopper (MR),switch-axe,Horn Gold Chopper,Kulve,10,945,-30,45,TRUE,Ice,300,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10733,Gyre Gold Chopper (MR),switch-axe,Gyre Gold Chopper,Kulve,10,840,10,60,FALSE,Fire,240,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10734,Bomber Gold Chopper (MR),switch-axe,Bomber Gold Chopper,Kulve,10,875,0,40,FALSE,Blast,210,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10735,"Taroth Axe ""Glutton"" (MR)",switch-axe,"Taroth Axe ""Glutton""",Kulve,11,945,0,40,FALSE,Sleep,270,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10736,"Taroth Axe ""Mire"" (MR)",switch-axe,"Taroth Axe ""Mire""",Kulve,11,945,0,40,FALSE,Water,480,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10737,"Taroth Axe ""Mud"" (MR)",switch-axe,"Taroth Axe ""Mud""",Kulve,11,1015,-20,45,FALSE,Paralysis,300,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10738,"Taroth Axe ""Drifter"" (MR)",switch-axe,"Taroth Axe ""Drifter""",Kulve,11,875,25,40,TRUE,Blast,540,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10739,"Taroth Axe ""Stream"" (MR)",switch-axe,"Taroth Axe ""Stream""",Kulve,11,840,10,40,FALSE,Ice,480,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10740,"Taroth Axe ""Decay"" (MR)",switch-axe,"Taroth Axe ""Decay""",Kulve,11,875,0,40,FALSE,Dragon,390,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10741,"Taroth Axe ""King"" (MR)",switch-axe,"Taroth Axe ""King""",Kulve,11,945,15,40,FALSE,Fire,390,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10742,"Taroth Axe ""Horn"" (MR)",switch-axe,"Taroth Axe ""Horn""",Kulve,11,1085,-30,45,TRUE,Ice,420,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10743,"Taroth Axe ""Gyre"" (MR)",switch-axe,"Taroth Axe ""Gyre""",Kulve,11,1015,10,60,FALSE,Fire,300,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10744,"Taroth Axe ""Bomber"" (MR)",switch-axe,"Taroth Axe ""Bomber""",Kulve,11,910,0,40,FALSE,Blast,300,,,,0,0,0,,power,,,,,,Kulve Taroth Essence
+10745,"Taroth Axe ""Thunder"" (MR)",switch-axe,"Taroth Axe ""Thunder""",Kulve,12,910,10,40,TRUE,Thunder,660,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
+10746,"Taroth Axe ""Paralysis"" (MR)",switch-axe,"Taroth Axe ""Paralysis""",Kulve,12,1085,0,50,TRUE,Paralysis,570,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
+10747,"Taroth Axe ""Sleep"" (MR)",switch-axe,"Taroth Axe ""Sleep""",Kulve,12,1015,0,40,TRUE,Sleep,480,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
+10748,"Taroth Axe ""Water"" (MR)",switch-axe,"Taroth Axe ""Water""",Kulve,12,1050,0,40,TRUE,Water,660,,,,3,0,0,,power,,,,,,Kulve Taroth Essence
+10749,"Kjárr Axe ""Stream"" (MR)",switch-axe,"Kjárr Axe ""Stream""",Kulve,12,945,15,20,FALSE,Ice,510,,,,0,0,0,,power element,,,,,,Critical Element
+10750,"Kjárr Axe ""Decay"" (MR)",switch-axe,"Kjárr Axe ""Decay""",Kulve,12,945,10,20,FALSE,Dragon,450,,,average,1,0,0,,power element,,,,,,Critical Element
+10751,"Kjárr Axe ""King"" (MR)",switch-axe,"Kjárr Axe ""King""",Kulve,12,1015,20,20,FALSE,Fire,480,,,,1,0,0,,power element,,,,,,Critical Element
+10752,"Kjárr Axe ""Bomber"" (MR)",switch-axe,"Kjárr Axe ""Bomber""",Kulve,12,1015,10,20,FALSE,Blast,390,,,,1,0,0,,power,,,,,,Critical Status
+10753,"Kjárr Axe ""Thunder"" (MR)",switch-axe,"Kjárr Axe ""Thunder""",Kulve,12,945,15,20,FALSE,Thunder,510,,,,0,0,0,,power element,,,,,,Critical Element
+10754,"Kjárr Axe ""Water"" (MR)",switch-axe,"Kjárr Axe ""Water""",Kulve,12,1015,15,20,FALSE,Water,540,,,,0,0,0,,power element,,,,,,Critical Element
+10755,"Kjárr Axe ""Paralysis"" (MR)",switch-axe,"Kjárr Axe ""Paralysis""",Kulve,12,1050,10,20,FALSE,Paralysis,450,,,,0,0,0,,power,,,,,,Critical Status
 10236,Gold Ice Cutter,charge-blade,,Kulve,6,504,0,20,TRUE,Ice,180,,,,0,0,0,,impact,,,,,,
 10237,Gold Thunder Cutter,charge-blade,,Kulve,6,504,0,20,TRUE,Thunder,210,,,,0,0,0,,impact,,,,,,
 10238,Gold Sleep Cutter,charge-blade,,Kulve,6,504,0,20,TRUE,Sleep,120,,,,0,0,0,,impact,,,,,,
@@ -3072,38 +3072,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10430,"Kjárr Strongarm ""Ice""",charge-blade,,Kulve,8,684,20,,FALSE,Ice,480,,,,1,0,0,,power element,,,,,,Critical Element
 10431,"Kjárr Strongarm ""Crusher""",charge-blade,,Kulve,8,720,20,,FALSE,Blast,300,,,,0,0,0,,impact,,,,,,Critical Status
 10432,"Kjárr Strongarm ""Water""",charge-blade,,Kulve,8,684,20,,FALSE,Water,330,,,,0,0,0,,power element,,,,,,Critical Element
-10756,Gold Ice Cutter (MR),charge-blade,Gold Ice Cutter,Kulve,10,504,0,40,TRUE,Ice,180,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10757,Gold Thunder Cutter (MR),charge-blade,Gold Thunder Cutter,Kulve,10,504,0,40,TRUE,Thunder,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10758,Gold Sleep Cutter (MR),charge-blade,Gold Sleep Cutter,Kulve,10,504,0,40,TRUE,Sleep,120,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10759,Glutton Gold Cutter (MR),charge-blade,Glutton Gold Cutter,Kulve,10,540,0,40,FALSE,Sleep,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10760,Mire Gold Cutter (MR),charge-blade,Mire Gold Cutter,Kulve,10,576,10,40,FALSE,Water,150,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10761,Spark Gold Cutter (MR),charge-blade,Spark Gold Cutter,Kulve,10,540,15,40,FALSE,Thunder,120,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10762,Numb Gold Cutter (MR),charge-blade,Numb Gold Cutter,Kulve,10,504,30,40,FALSE,Paralysis,150,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10763,Claw Gold Cutter (MR),charge-blade,Claw Gold Cutter,Kulve,10,504,25,40,TRUE,Fire,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10764,Decay Gold Cutter (MR),charge-blade,Decay Gold Cutter,Kulve,10,576,10,40,FALSE,Dragon,120,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10765,King Gold Cutter (MR),charge-blade,King Gold Cutter,Kulve,10,684,20,40,FALSE,Fire,120,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10766,Horn Gold Cutter (MR),charge-blade,Horn Gold Cutter,Kulve,10,684,-30,45,TRUE,Ice,120,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10767,Crusher Gold Cutter (MR),charge-blade,Crusher Gold Cutter,Kulve,10,540,0,40,FALSE,Blast,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10768,"Taroth Strongarm ""Glutton"" (MR)",charge-blade,"Taroth Strongarm ""Glutton""",Kulve,11,684,0,40,FALSE,Sleep,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10769,"Taroth Strongarm ""Mire"" (MR)",charge-blade,"Taroth Strongarm ""Mire""",Kulve,11,684,10,40,FALSE,Water,180,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10770,"Taroth Strongarm ""Spark"" (MR)",charge-blade,"Taroth Strongarm ""Spark""",Kulve,11,684,15,40,FALSE,Thunder,150,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10771,"Taroth Strongarm ""Numb"" (MR)",charge-blade,"Taroth Strongarm ""Numb""",Kulve,11,576,30,40,FALSE,Paralysis,150,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10772,"Taroth Strongarm ""Claw"" (MR)",charge-blade,"Taroth Strongarm ""Claw""",Kulve,11,648,25,40,TRUE,Fire,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10773,"Taroth Strongarm ""Decay"" (MR)",charge-blade,"Taroth Strongarm ""Decay""",Kulve,11,684,10,40,FALSE,Dragon,120,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10774,"Taroth Strongarm ""King"" (MR)",charge-blade,"Taroth Strongarm ""King""",Kulve,11,684,30,40,FALSE,Fire,180,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
-10775,"Taroth Strongarm ""Horn"" (MR)",charge-blade,"Taroth Strongarm ""Horn""",Kulve,11,828,-30,45,TRUE,Ice,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10776,"Taroth Strongarm ""Crusher"" (MR)",charge-blade,"Taroth Strongarm ""Crusher""",Kulve,11,648,0,40,FALSE,Blast,90,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
-10777,"Taroth Strongarm ""Ice"" (MR)",charge-blade,"Taroth Strongarm ""Ice""",Kulve,12,648,0,40,TRUE,Ice,390,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
-10778,"Taroth Strongarm ""Thunder"" (MR)",charge-blade,"Taroth Strongarm ""Thunder""",Kulve,12,684,0,40,TRUE,Thunder,420,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
-10779,"Taroth Strongarm ""Sleep"" (MR)",charge-blade,"Taroth Strongarm ""Sleep""",Kulve,12,684,0,40,TRUE,Sleep,270,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
-10780,"Taroth Strongarm ""Water"" (MR)",charge-blade,"Taroth Strongarm ""Water""",Kulve,12,648,20,40,FALSE,Water,300,,,,3,0,0,,power element,,,,,,Kulve Taroth Essence
-10781,"Kjárr Strongarm ""Spark"" (MR)",charge-blade,"Kjárr Strongarm ""Spark""",Kulve,12,720,15,20,FALSE,Thunder,300,,,,0,0,0,,power element,,,,,,Critical Element
-10782,"Kjárr Strongarm ""Numb"" (MR)",charge-blade,"Kjárr Strongarm ""Numb""",Kulve,12,648,15,20,FALSE,Paralysis,330,,,,1,0,0,,impact,,,,,,Critical Status
-10783,"Kjárr Strongarm ""Decay"" (MR)",charge-blade,"Kjárr Strongarm ""Decay""",Kulve,12,720,15,20,FALSE,Dragon,300,,,average,0,0,0,,power element,,,,,,Critical Element
-10784,"Kjárr Strongarm ""King"" (MR)",charge-blade,"Kjárr Strongarm ""King""",Kulve,12,720,15,20,FALSE,Fire,300,,,,0,0,0,,power element,,,,,,Critical Element
-10785,"Kjárr Strongarm ""Ice"" (MR)",charge-blade,"Kjárr Strongarm ""Ice""",Kulve,12,684,20,20,FALSE,Ice,480,,,,1,0,0,,power element,,,,,,Critical Element
-10786,"Kjárr Strongarm ""Crusher"" (MR)",charge-blade,"Kjárr Strongarm ""Crusher""",Kulve,12,720,20,20,FALSE,Blast,300,,,,0,0,0,,impact,,,,,,Critical Status
-10787,"Kjárr Strongarm ""Water"" (MR)",charge-blade,"Kjárr Strongarm ""Water""",Kulve,12,684,20,20,FALSE,Water,330,,,,0,0,0,,power element,,,,,,Critical Element
+10756,Gold Ice Cutter (MR),charge-blade,Gold Ice Cutter,Kulve,10,756,0,40,TRUE,Ice,330,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10757,Gold Thunder Cutter (MR),charge-blade,Gold Thunder Cutter,Kulve,10,756,0,40,TRUE,Thunder,360,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10758,Gold Sleep Cutter (MR),charge-blade,Gold Sleep Cutter,Kulve,10,756,0,40,TRUE,Sleep,240,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10759,Glutton Gold Cutter (MR),charge-blade,Glutton Gold Cutter,Kulve,10,792,0,40,FALSE,Sleep,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10760,Mire Gold Cutter (MR),charge-blade,Mire Gold Cutter,Kulve,10,828,10,40,FALSE,Water,300,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10761,Spark Gold Cutter (MR),charge-blade,Spark Gold Cutter,Kulve,10,792,15,40,FALSE,Thunder,270,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10762,Numb Gold Cutter (MR),charge-blade,Numb Gold Cutter,Kulve,10,756,30,40,FALSE,Paralysis,270,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10763,Claw Gold Cutter (MR),charge-blade,Claw Gold Cutter,Kulve,10,756,25,40,TRUE,Fire,240,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10764,Decay Gold Cutter (MR),charge-blade,Decay Gold Cutter,Kulve,10,828,10,40,FALSE,Dragon,270,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10765,King Gold Cutter (MR),charge-blade,King Gold Cutter,Kulve,10,936,20,40,FALSE,Fire,270,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10766,Horn Gold Cutter (MR),charge-blade,Horn Gold Cutter,Kulve,10,936,-30,45,TRUE,Ice,270,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10767,Crusher Gold Cutter (MR),charge-blade,Crusher Gold Cutter,Kulve,10,792,0,40,FALSE,Blast,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10768,"Taroth Strongarm ""Glutton"" (MR)",charge-blade,"Taroth Strongarm ""Glutton""",Kulve,11,936,0,40,FALSE,Sleep,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10769,"Taroth Strongarm ""Mire"" (MR)",charge-blade,"Taroth Strongarm ""Mire""",Kulve,11,936,10,40,FALSE,Water,330,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10770,"Taroth Strongarm ""Spark"" (MR)",charge-blade,"Taroth Strongarm ""Spark""",Kulve,11,936,15,40,FALSE,Thunder,300,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10771,"Taroth Strongarm ""Numb"" (MR)",charge-blade,"Taroth Strongarm ""Numb""",Kulve,11,828,30,40,FALSE,Paralysis,270,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10772,"Taroth Strongarm ""Claw"" (MR)",charge-blade,"Taroth Strongarm ""Claw""",Kulve,11,900,25,40,TRUE,Fire,240,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10773,"Taroth Strongarm ""Decay"" (MR)",charge-blade,"Taroth Strongarm ""Decay""",Kulve,11,936,10,40,FALSE,Dragon,270,,,average,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10774,"Taroth Strongarm ""King"" (MR)",charge-blade,"Taroth Strongarm ""King""",Kulve,11,936,30,40,FALSE,Fire,330,,,,0,0,0,,power element,,,,,,Kulve Taroth Essence
+10775,"Taroth Strongarm ""Horn"" (MR)",charge-blade,"Taroth Strongarm ""Horn""",Kulve,11,1080,-30,45,TRUE,Ice,360,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10776,"Taroth Strongarm ""Crusher"" (MR)",charge-blade,"Taroth Strongarm ""Crusher""",Kulve,11,900,0,40,FALSE,Blast,210,,,,0,0,0,,impact,,,,,,Kulve Taroth Essence
+10777,"Taroth Strongarm ""Ice"" (MR)",charge-blade,"Taroth Strongarm ""Ice""",Kulve,12,972,0,40,TRUE,Ice,540,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
+10778,"Taroth Strongarm ""Thunder"" (MR)",charge-blade,"Taroth Strongarm ""Thunder""",Kulve,12,1008,0,40,TRUE,Thunder,570,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
+10779,"Taroth Strongarm ""Sleep"" (MR)",charge-blade,"Taroth Strongarm ""Sleep""",Kulve,12,1008,0,40,TRUE,Sleep,390,,,,3,0,0,,impact,,,,,,Kulve Taroth Essence
+10780,"Taroth Strongarm ""Water"" (MR)",charge-blade,"Taroth Strongarm ""Water""",Kulve,12,972,20,40,FALSE,Water,450,,,,3,0,0,,power element,,,,,,Kulve Taroth Essence
+10781,"Kjárr Strongarm ""Spark"" (MR)",charge-blade,"Kjárr Strongarm ""Spark""",Kulve,12,1044,15,20,FALSE,Thunder,450,,,,0,0,0,,power element,,,,,,Critical Element
+10782,"Kjárr Strongarm ""Numb"" (MR)",charge-blade,"Kjárr Strongarm ""Numb""",Kulve,12,972,15,20,FALSE,Paralysis,450,,,,1,0,0,,impact,,,,,,Critical Status
+10783,"Kjárr Strongarm ""Decay"" (MR)",charge-blade,"Kjárr Strongarm ""Decay""",Kulve,12,1044,15,20,FALSE,Dragon,450,,,average,0,0,0,,power element,,,,,,Critical Element
+10784,"Kjárr Strongarm ""King"" (MR)",charge-blade,"Kjárr Strongarm ""King""",Kulve,12,1044,15,20,FALSE,Fire,450,,,,0,0,0,,power element,,,,,,Critical Element
+10785,"Kjárr Strongarm ""Ice"" (MR)",charge-blade,"Kjárr Strongarm ""Ice""",Kulve,12,1008,20,20,FALSE,Ice,630,,,,1,0,0,,power element,,,,,,Critical Element
+10786,"Kjárr Strongarm ""Crusher"" (MR)",charge-blade,"Kjárr Strongarm ""Crusher""",Kulve,12,1044,20,20,FALSE,Blast,420,,,,0,0,0,,impact,,,,,,Critical Status
+10787,"Kjárr Strongarm ""Water"" (MR)",charge-blade,"Kjárr Strongarm ""Water""",Kulve,12,1008,20,20,FALSE,Water,480,,,,0,0,0,,power element,,,,,,Critical Element
 10261,Gold Water Naginata,insect-glaive,,Kulve,6,465,0,20,TRUE,Water,180,,,,0,0,0,element,,,,,,,
 10262,Gold Ice Naginata,insect-glaive,,Kulve,6,434,0,20,TRUE,Ice,180,,,,0,0,0,element,,,,,,,
 10263,Gold Paralysis Naginata,insect-glaive,,Kulve,6,434,0,30,TRUE,Paralysis,180,,,,0,0,0,blunt,,,,,,,
@@ -3136,38 +3136,38 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10437,"Kjárr Glaive ""Water""",insect-glaive,,Kulve,8,620,10,,FALSE,Water,270,,,,0,0,0,element,,,,,,,Critical Element
 10438,"Kjárr Glaive ""Ice""",insect-glaive,,Kulve,8,558,10,,FALSE,Ice,240,,,,0,0,0,element,,,,,,,Critical Element
 10439,"Kjárr Glaive ""Paralysis""",insect-glaive,,Kulve,8,620,10,,FALSE,Paralysis,210,,,,0,0,0,blunt,,,,,,,Critical Status
-10788,Gold Water Naginata (MR),insect-glaive,Gold Water Naginata,Kulve,10,465,0,40,TRUE,Water,180,,,,0,0,0,element,,,,,,,Kulve Taroth Essence
-10789,Gold Ice Naginata (MR),insect-glaive,Gold Ice Naginata,Kulve,10,434,0,40,TRUE,Ice,180,,,,0,0,0,element,,,,,,,Kulve Taroth Essence
-10790,Gold Paralysis Naginata (MR),insect-glaive,Gold Paralysis Naginata,Kulve,10,434,0,50,TRUE,Paralysis,180,,,,0,0,0,blunt,,,,,,,Kulve Taroth Essence
-10791,Thief Gold Naginata (MR),insect-glaive,Thief Gold Naginata,Kulve,10,465,30,40,TRUE,Sleep,120,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10792,Spew Gold Naginata (MR),insect-glaive,Spew Gold Naginata,Kulve,10,465,0,40,FALSE,Poison,180,,,,1,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10793,Spark Gold Naginata (MR),insect-glaive,Spark Gold Naginata,Kulve,10,465,20,40,FALSE,Thunder,120,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10794,Flash Gold Naginata (MR),insect-glaive,Flash Gold Naginata,Kulve,10,527,0,40,TRUE,Thunder,150,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10795,Claw Gold Naginata (MR),insect-glaive,Claw Gold Naginata,Kulve,10,434,20,40,TRUE,Fire,60,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10796,Decay Gold Naginata (MR),insect-glaive,Decay Gold Naginata,Kulve,10,465,0,40,FALSE,Dragon,90,,,average,0,0,0,blunt,,,,,,,Kulve Taroth Essence
-10797,King Gold Naginata (MR),insect-glaive,King Gold Naginata,Kulve,10,496,20,40,FALSE,Fire,120,,,,0,0,0,sever,,,,,,,Kulve Taroth Essence
-10798,Horn Gold Naginata (MR),insect-glaive,Horn Gold Naginata,Kulve,10,620,-30,45,TRUE,Ice,120,,,,0,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10799,Crusher Gold Naginata (MR),insect-glaive,Crusher Gold Naginata,Kulve,10,465,0,40,FALSE,Blast,90,,,,2,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10800,"Taroth Glaive ""Thief"" (MR)",insect-glaive,"Taroth Glaive ""Thief""",Kulve,11,527,30,40,TRUE,Sleep,210,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10801,"Taroth Glaive ""Spew"" (MR)",insect-glaive,"Taroth Glaive ""Spew""",Kulve,11,558,0,40,FALSE,Poison,390,,,,1,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10802,"Taroth Glaive ""Spark"" (MR)",insect-glaive,"Taroth Glaive ""Spark""",Kulve,11,558,20,40,FALSE,Thunder,240,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10803,"Taroth Glaive ""Flash"" (MR)",insect-glaive,"Taroth Glaive ""Flash""",Kulve,11,589,0,40,TRUE,Thunder,300,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10804,"Taroth Glaive ""Claw"" (MR)",insect-glaive,"Taroth Glaive ""Claw""",Kulve,11,558,20,40,TRUE,Fire,90,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
-10805,"Taroth Glaive ""Decay"" (MR)",insect-glaive,"Taroth Glaive ""Decay""",Kulve,11,527,0,40,FALSE,Dragon,180,,,average,0,0,0,blunt,,,,,,,Kulve Taroth Essence
-10806,"Taroth Glaive ""King"" (MR)",insect-glaive,"Taroth Glaive ""King""",Kulve,11,589,20,40,FALSE,Fire,210,,,,0,0,0,sever,,,,,,,Kulve Taroth Essence
-10807,"Taroth Glaive ""Horn"" (MR)",insect-glaive,"Taroth Glaive ""Horn""",Kulve,11,713,-30,45,TRUE,Ice,240,,,,0,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10808,"Taroth Glaive ""Crusher"" (MR)",insect-glaive,"Taroth Glaive ""Crusher""",Kulve,11,558,0,40,FALSE,Blast,150,,,,2,0,0,stamina_health,,,,,,,Kulve Taroth Essence
-10809,"Taroth Glaive ""Water"" (MR)",insect-glaive,"Taroth Glaive ""Water""",Kulve,12,620,0,40,TRUE,Water,360,,,,3,0,0,element,,,,,,,Kulve Taroth Essence
-10810,"Taroth Glaive ""Ice"" (MR)",insect-glaive,"Taroth Glaive ""Ice""",Kulve,12,527,0,40,TRUE,Ice,390,,,,3,0,0,element,,,,,,,Kulve Taroth Essence
-10811,"Taroth Glaive ""Paralysis"" (MR)",insect-glaive,"Taroth Glaive ""Paralysis""",Kulve,12,620,0,50,TRUE,Paralysis,300,,,,3,0,0,blunt,,,,,,,Kulve Taroth Essence
-10812,"Taroth Glaive ""Sleep"" (MR)",insect-glaive,"Taroth Glaive ""Sleep""",Kulve,12,558,0,40,TRUE,Sleep,270,,,,3,0,0,sever,,,,,,,Kulve Taroth Essence
-10813,"Kjárr Glaive ""Spark"" (MR)",insect-glaive,"Kjárr Glaive ""Spark""",Kulve,12,589,15,20,FALSE,Thunder,300,,,,0,0,0,speed,,,,,,,Critical Element
-10814,"Kjárr Glaive ""Decay"" (MR)",insect-glaive,"Kjárr Glaive ""Decay""",Kulve,12,527,10,20,FALSE,Dragon,360,,,average,0,0,0,blunt,,,,,,,Critical Element
-10815,"Kjárr Glaive ""King"" (MR)",insect-glaive,"Kjárr Glaive ""King""",Kulve,12,589,20,40,FALSE,Fire,270,,,,0,0,0,sever,,,,,,,Critical Element
-10816,"Kjárr Glaive ""Crusher"" (MR)",insect-glaive,"Kjárr Glaive ""Crusher""",Kulve,12,558,10,20,FALSE,Blast,270,,,,0,0,0,stamina_health,,,,,,,Critical Status
-10817,"Kjárr Glaive ""Water"" (MR)",insect-glaive,"Kjárr Glaive ""Water""",Kulve,12,620,10,20,FALSE,Water,270,,,,0,0,0,element,,,,,,,Critical Element
-10818,"Kjárr Glaive ""Ice"" (MR)",insect-glaive,"Kjárr Glaive ""Ice""",Kulve,12,558,10,20,FALSE,Ice,240,,,,0,0,0,element,,,,,,,Critical Element
-10819,"Kjárr Glaive ""Paralysis"" (MR)",insect-glaive,"Kjárr Glaive ""Paralysis""",Kulve,12,620,10,20,FALSE,Paralysis,210,,,,0,0,0,blunt,,,,,,,Critical Status
+10788,Gold Water Naginata (MR),insect-glaive,Gold Water Naginata,Kulve,10,682,0,40,TRUE,Water,330,,,,0,0,0,element,,,,,,,Kulve Taroth Essence
+10789,Gold Ice Naginata (MR),insect-glaive,Gold Ice Naginata,Kulve,10,651,0,40,TRUE,Ice,330,,,,0,0,0,element,,,,,,,Kulve Taroth Essence
+10790,Gold Paralysis Naginata (MR),insect-glaive,Gold Paralysis Naginata,Kulve,10,651,0,50,TRUE,Paralysis,300,,,,0,0,0,blunt,,,,,,,Kulve Taroth Essence
+10791,Thief Gold Naginata (MR),insect-glaive,Thief Gold Naginata,Kulve,10,682,30,40,TRUE,Sleep,240,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10792,Spew Gold Naginata (MR),insect-glaive,Spew Gold Naginata,Kulve,10,682,0,40,FALSE,Poison,300,,,,1,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10793,Spark Gold Naginata (MR),insect-glaive,Spark Gold Naginata,Kulve,10,682,20,40,FALSE,Thunder,270,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10794,Flash Gold Naginata (MR),insect-glaive,Flash Gold Naginata,Kulve,10,744,0,40,TRUE,Thunder,300,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10795,Claw Gold Naginata (MR),insect-glaive,Claw Gold Naginata,Kulve,10,651,20,40,TRUE,Fire,210,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10796,Decay Gold Naginata (MR),insect-glaive,Decay Gold Naginata,Kulve,10,682,0,40,FALSE,Dragon,240,,,average,0,0,0,blunt,,,,,,,Kulve Taroth Essence
+10797,King Gold Naginata (MR),insect-glaive,King Gold Naginata,Kulve,10,713,20,40,FALSE,Fire,270,,,,0,0,0,sever,,,,,,,Kulve Taroth Essence
+10798,Horn Gold Naginata (MR),insect-glaive,Horn Gold Naginata,Kulve,10,837,-30,45,TRUE,Ice,270,,,,0,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10799,Crusher Gold Naginata (MR),insect-glaive,Crusher Gold Naginata,Kulve,10,682,0,40,FALSE,Blast,210,,,,2,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10800,"Taroth Glaive ""Thief"" (MR)",insect-glaive,"Taroth Glaive ""Thief""",Kulve,11,744,30,40,TRUE,Sleep,330,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10801,"Taroth Glaive ""Spew"" (MR)",insect-glaive,"Taroth Glaive ""Spew""",Kulve,11,775,0,40,FALSE,Poison,510,,,,1,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10802,"Taroth Glaive ""Spark"" (MR)",insect-glaive,"Taroth Glaive ""Spark""",Kulve,11,775,20,40,FALSE,Thunder,390,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10803,"Taroth Glaive ""Flash"" (MR)",insect-glaive,"Taroth Glaive ""Flash""",Kulve,11,806,0,40,TRUE,Thunder,450,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10804,"Taroth Glaive ""Claw"" (MR)",insect-glaive,"Taroth Glaive ""Claw""",Kulve,11,775,20,40,TRUE,Fire,240,,,,0,0,0,speed,,,,,,,Kulve Taroth Essence
+10805,"Taroth Glaive ""Decay"" (MR)",insect-glaive,"Taroth Glaive ""Decay""",Kulve,11,744,0,40,FALSE,Dragon,330,,,average,0,0,0,blunt,,,,,,,Kulve Taroth Essence
+10806,"Taroth Glaive ""King"" (MR)",insect-glaive,"Taroth Glaive ""King""",Kulve,11,806,20,40,FALSE,Fire,360,,,,0,0,0,sever,,,,,,,Kulve Taroth Essence
+10807,"Taroth Glaive ""Horn"" (MR)",insect-glaive,"Taroth Glaive ""Horn""",Kulve,11,930,-30,45,TRUE,Ice,390,,,,0,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10808,"Taroth Glaive ""Crusher"" (MR)",insect-glaive,"Taroth Glaive ""Crusher""",Kulve,11,775,0,40,FALSE,Blast,270,,,,2,0,0,stamina_health,,,,,,,Kulve Taroth Essence
+10809,"Taroth Glaive ""Water"" (MR)",insect-glaive,"Taroth Glaive ""Water""",Kulve,12,899,0,40,TRUE,Water,510,,,,3,0,0,element,,,,,,,Kulve Taroth Essence
+10810,"Taroth Glaive ""Ice"" (MR)",insect-glaive,"Taroth Glaive ""Ice""",Kulve,12,806,0,40,TRUE,Ice,540,,,,3,0,0,element,,,,,,,Kulve Taroth Essence
+10811,"Taroth Glaive ""Paralysis"" (MR)",insect-glaive,"Taroth Glaive ""Paralysis""",Kulve,12,899,0,50,TRUE,Paralysis,420,,,,3,0,0,blunt,,,,,,,Kulve Taroth Essence
+10812,"Taroth Glaive ""Sleep"" (MR)",insect-glaive,"Taroth Glaive ""Sleep""",Kulve,12,837,0,40,TRUE,Sleep,390,,,,3,0,0,sever,,,,,,,Kulve Taroth Essence
+10813,"Kjárr Glaive ""Spark"" (MR)",insect-glaive,"Kjárr Glaive ""Spark""",Kulve,12,868,15,20,FALSE,Thunder,450,,,,0,0,0,speed,,,,,,,Critical Element
+10814,"Kjárr Glaive ""Decay"" (MR)",insect-glaive,"Kjárr Glaive ""Decay""",Kulve,12,806,10,20,FALSE,Dragon,510,,,average,0,0,0,blunt,,,,,,,Critical Element
+10815,"Kjárr Glaive ""King"" (MR)",insect-glaive,"Kjárr Glaive ""King""",Kulve,12,868,20,40,FALSE,Fire,420,,,,0,0,0,sever,,,,,,,Critical Element
+10816,"Kjárr Glaive ""Crusher"" (MR)",insect-glaive,"Kjárr Glaive ""Crusher""",Kulve,12,837,10,20,FALSE,Blast,390,,,,0,0,0,stamina_health,,,,,,,Critical Status
+10817,"Kjárr Glaive ""Water"" (MR)",insect-glaive,"Kjárr Glaive ""Water""",Kulve,12,899,10,20,FALSE,Water,420,,,,0,0,0,element,,,,,,,Critical Element
+10818,"Kjárr Glaive ""Ice"" (MR)",insect-glaive,"Kjárr Glaive ""Ice""",Kulve,12,837,10,20,FALSE,Ice,390,,,,0,0,0,element,,,,,,,Critical Element
+10819,"Kjárr Glaive ""Paralysis"" (MR)",insect-glaive,"Kjárr Glaive ""Paralysis""",Kulve,12,899,10,20,FALSE,Paralysis,330,,,,0,0,0,blunt,,,,,,,Critical Status
 10286,Gold Pierce Razer,light-bowgun,,Kulve,6,195,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve,
 10287,Gold Spread Razer,light-bowgun,,Kulve,6,195,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 2,
 10288,Gold Shot Razer,light-bowgun,,Kulve,6,208,0,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 3,
@@ -3201,39 +3201,39 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10443,"Kjárr Blitz ""King""",light-bowgun,,Kulve,8,260,20,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 18,Critical Element
 10444,"Kjárr Blitz ""Thunder""",light-bowgun,,Kulve,8,260,15,,FALSE,,,,,,1,0,0,,,,,,,LBG Kulve 19,Critical Element
 10445,"Kjárr Blitz ""Ice""",light-bowgun,,Kulve,8,260,10,,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 20,Critical Element
-10820,Gold Pierce Razer (MR),light-bowgun,Gold Pierce Razer,Kulve,10,195,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve,Kulve Taroth Essence
-10821,Gold Spread Razer (MR),light-bowgun,Gold Spread Razer,Kulve,10,195,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 2,Kulve Taroth Essence
-10822,Gold Shot Razer (MR),light-bowgun,Gold Shot Razer,Kulve,10,208,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 3,Kulve Taroth Essence
-10823,Glutton Gold Razer (MR),light-bowgun,Glutton Gold Razer,Kulve,10,221,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 4,Kulve Taroth Essence
-10824,Mire Gold Razer (MR),light-bowgun,Mire Gold Razer,Kulve,10,208,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 5,Kulve Taroth Essence
-10825,Mud Gold Razer (MR),light-bowgun,Mud Gold Razer,Kulve,10,221,-10,45,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 6,Kulve Taroth Essence
-10826,Rage Gold Razer (MR),light-bowgun,Rage Gold Razer,Kulve,10,221,-10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 7,Kulve Taroth Essence
-10827,Drifter Gold Razer (MR),light-bowgun,Drifter Gold Razer,Kulve,10,182,20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 8,Kulve Taroth Essence
-10828,Claw Gold Razer (MR),light-bowgun,Claw Gold Razer,Kulve,10,195,30,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 9,Kulve Taroth Essence
-10829,Decay Gold Razer (MR),light-bowgun,Decay Gold Razer,Kulve,10,221,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 10,Kulve Taroth Essence
-10830,King Gold Razer (MR),light-bowgun,King Gold Razer,Kulve,10,195,25,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 11,Kulve Taroth Essence
-10831,Erupter Gold Razer (MR),light-bowgun,Erupter Gold Razer,Kulve,10,208,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 12,Kulve Taroth Essence
-10832,Bomber Gold Razer (MR),light-bowgun,Bomber Gold Razer,Kulve,10,221,-20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 13,Kulve Taroth Essence
-10833,"Taroth Blitz ""Glutton"" (MR)",light-bowgun,"Taroth Blitz ""Glutton""",Kulve,11,260,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 4,Kulve Taroth Essence
-10834,"Taroth Blitz ""Mire"" (MR)",light-bowgun,"Taroth Blitz ""Mire""",Kulve,11,247,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 5,Kulve Taroth Essence
-10835,"Taroth Blitz ""Mud"" (MR)",light-bowgun,"Taroth Blitz ""Mud""",Kulve,11,260,-10,45,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 6,Kulve Taroth Essence
-10836,"Taroth Blitz ""Rage"" (MR)",light-bowgun,"Taroth Blitz ""Rage""",Kulve,11,273,-10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 7,Kulve Taroth Essence
-10837,"Taroth Blitz ""Drifter"" (MR)",light-bowgun,"Taroth Blitz ""Drifter""",Kulve,11,221,20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 8,Kulve Taroth Essence
-10838,"Taroth Blitz ""Claw"" (MR)",light-bowgun,"Taroth Blitz ""Claw""",Kulve,11,234,30,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 9,Kulve Taroth Essence
-10839,"Taroth Blitz ""Decay"" (MR)",light-bowgun,"Taroth Blitz ""Decay""",Kulve,11,260,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 10,Kulve Taroth Essence
-10840,"Taroth Blitz ""King"" (MR)",light-bowgun,"Taroth Blitz ""King""",Kulve,11,247,25,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 11,Kulve Taroth Essence
-10841,"Taroth Blitz ""Erupter"" (MR)",light-bowgun,"Taroth Blitz ""Erupter""",Kulve,11,247,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 12,Kulve Taroth Essence
-10842,"Taroth Blitz ""Bomber"" (MR)",light-bowgun,"Taroth Blitz ""Bomber""",Kulve,11,260,-20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 13,Kulve Taroth Essence
-10843,"Taroth Blitz ""Pierce"" (MR)",light-bowgun,"Taroth Blitz ""Pierce""",Kulve,12,260,0,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve,Kulve Taroth Essence
-10844,"Taroth Blitz ""Spread"" (MR)",light-bowgun,"Taroth Blitz ""Spread""",Kulve,12,247,10,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 2,Kulve Taroth Essence
-10845,"Taroth Blitz ""Shot"" (MR)",light-bowgun,"Taroth Blitz ""Shot""",Kulve,12,273,-10,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 3,Kulve Taroth Essence
-10846,"Taroth Blitz ""Support"" (MR)",light-bowgun,"Taroth Blitz ""Support""",Kulve,12,247,0,50,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 14,Kulve Taroth Essence
-10847,"Kjárr Blitz ""Bomber"" (MR)",light-bowgun,"Kjárr Blitz ""Bomber""",Kulve,12,260,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 15,Critical Status
-10848,"Kjárr Blitz ""Claw"" (MR)",light-bowgun,"Kjárr Blitz ""Claw""",Kulve,12,247,15,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 16,Critical Status
-10849,"Kjárr Blitz ""Decay"" (MR)",light-bowgun,"Kjárr Blitz ""Decay""",Kulve,12,273,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 17,Critical Element
-10850,"Kjárr Blitz ""King"" (MR)",light-bowgun,"Kjárr Blitz ""King""",Kulve,12,260,20,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 18,Critical Element
-10851,"Kjárr Blitz ""Thunder"" (MR)",light-bowgun,"Kjárr Blitz ""Thunder""",Kulve,12,260,15,20,FALSE,,,,,,1,0,0,,,,,,,LBG Kulve 19,Critical Element
-10852,"Kjárr Blitz ""Ice"" (MR)",light-bowgun,"Kjárr Blitz ""Ice""",Kulve,12,260,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 20,Critical Element
+10820,Gold Pierce Razer (MR),light-bowgun,Gold Pierce Razer,Kulve,10,247,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve,Kulve Taroth Essence
+10821,Gold Spread Razer (MR),light-bowgun,Gold Spread Razer,Kulve,10,247,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 2,Kulve Taroth Essence
+10822,Gold Shot Razer (MR),light-bowgun,Gold Shot Razer,Kulve,10,260,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 3,Kulve Taroth Essence
+10823,Glutton Gold Razer (MR),light-bowgun,Glutton Gold Razer,Kulve,10,273,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 4,Kulve Taroth Essence
+10824,Mire Gold Razer (MR),light-bowgun,Mire Gold Razer,Kulve,10,260,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 5,Kulve Taroth Essence
+10825,Mud Gold Razer (MR),light-bowgun,Mud Gold Razer,Kulve,10,273,-10,45,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 6,Kulve Taroth Essence
+10826,Rage Gold Razer (MR),light-bowgun,Rage Gold Razer,Kulve,10,273,-10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 7,Kulve Taroth Essence
+10827,Drifter Gold Razer (MR),light-bowgun,Drifter Gold Razer,Kulve,10,234,20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 8,Kulve Taroth Essence
+10828,Claw Gold Razer (MR),light-bowgun,Claw Gold Razer,Kulve,10,247,30,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 9,Kulve Taroth Essence
+10829,Decay Gold Razer (MR),light-bowgun,Decay Gold Razer,Kulve,10,273,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 10,Kulve Taroth Essence
+10830,King Gold Razer (MR),light-bowgun,King Gold Razer,Kulve,10,247,25,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 11,Kulve Taroth Essence
+10831,Erupter Gold Razer (MR),light-bowgun,Erupter Gold Razer,Kulve,10,260,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 12,Kulve Taroth Essence
+10832,Bomber Gold Razer (MR),light-bowgun,Bomber Gold Razer,Kulve,10,273,-20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 13,Kulve Taroth Essence
+10833,"Taroth Blitz ""Glutton"" (MR)",light-bowgun,"Taroth Blitz ""Glutton""",Kulve,11,312,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 4,Kulve Taroth Essence
+10834,"Taroth Blitz ""Mire"" (MR)",light-bowgun,"Taroth Blitz ""Mire""",Kulve,11,299,10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 5,Kulve Taroth Essence
+10835,"Taroth Blitz ""Mud"" (MR)",light-bowgun,"Taroth Blitz ""Mud""",Kulve,11,312,-10,45,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 6,Kulve Taroth Essence
+10836,"Taroth Blitz ""Rage"" (MR)",light-bowgun,"Taroth Blitz ""Rage""",Kulve,11,325,-10,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 7,Kulve Taroth Essence
+10837,"Taroth Blitz ""Drifter"" (MR)",light-bowgun,"Taroth Blitz ""Drifter""",Kulve,11,273,20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 8,Kulve Taroth Essence
+10838,"Taroth Blitz ""Claw"" (MR)",light-bowgun,"Taroth Blitz ""Claw""",Kulve,11,286,30,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 9,Kulve Taroth Essence
+10839,"Taroth Blitz ""Decay"" (MR)",light-bowgun,"Taroth Blitz ""Decay""",Kulve,11,312,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 10,Kulve Taroth Essence
+10840,"Taroth Blitz ""King"" (MR)",light-bowgun,"Taroth Blitz ""King""",Kulve,11,299,25,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 11,Kulve Taroth Essence
+10841,"Taroth Blitz ""Erupter"" (MR)",light-bowgun,"Taroth Blitz ""Erupter""",Kulve,11,299,0,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 12,Kulve Taroth Essence
+10842,"Taroth Blitz ""Bomber"" (MR)",light-bowgun,"Taroth Blitz ""Bomber""",Kulve,11,312,-20,40,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 13,Kulve Taroth Essence
+10843,"Taroth Blitz ""Pierce"" (MR)",light-bowgun,"Taroth Blitz ""Pierce""",Kulve,12,338,0,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve,Kulve Taroth Essence
+10844,"Taroth Blitz ""Spread"" (MR)",light-bowgun,"Taroth Blitz ""Spread""",Kulve,12,325,10,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 2,Kulve Taroth Essence
+10845,"Taroth Blitz ""Shot"" (MR)",light-bowgun,"Taroth Blitz ""Shot""",Kulve,12,351,-10,40,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 3,Kulve Taroth Essence
+10846,"Taroth Blitz ""Support"" (MR)",light-bowgun,"Taroth Blitz ""Support""",Kulve,12,325,0,50,FALSE,,,,,,3,0,0,,,,,,,LBG Kulve 14,Kulve Taroth Essence
+10847,"Kjárr Blitz ""Bomber"" (MR)",light-bowgun,"Kjárr Blitz ""Bomber""",Kulve,12,338,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 15,Critical Status
+10848,"Kjárr Blitz ""Claw"" (MR)",light-bowgun,"Kjárr Blitz ""Claw""",Kulve,12,325,15,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 16,Critical Status
+10849,"Kjárr Blitz ""Decay"" (MR)",light-bowgun,"Kjárr Blitz ""Decay""",Kulve,12,351,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 17,Critical Element
+10850,"Kjárr Blitz ""King"" (MR)",light-bowgun,"Kjárr Blitz ""King""",Kulve,12,338,20,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 18,Critical Element
+10851,"Kjárr Blitz ""Thunder"" (MR)",light-bowgun,"Kjárr Blitz ""Thunder""",Kulve,12,338,15,20,FALSE,,,,,,1,0,0,,,,,,,LBG Kulve 19,Critical Element
+10852,"Kjárr Blitz ""Ice"" (MR)",light-bowgun,"Kjárr Blitz ""Ice""",Kulve,12,338,10,20,FALSE,,,,,,0,0,0,,,,,,,LBG Kulve 20,Critical Element
 10313,Gold Support Cannon,heavy-bowgun,,Kulve,6,210,20,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve,
 10314,Gold Blast Cannon,heavy-bowgun,,Kulve,6,210,0,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 2,
 10315,Gold Icewater Cannon,heavy-bowgun,,Kulve,6,225,0,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 3,
@@ -3265,37 +3265,37 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10449,"Kjárr Assault ""Magma""",heavy-bowgun,,Kulve,8,315,10,10,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 17,Critical Status
 10450,"Kjárr Assault ""Water""",heavy-bowgun,,Kulve,8,285,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 18,Critical Element
 10451,"Kjárr Assault ""Ice""",heavy-bowgun,,Kulve,8,300,15,,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 19,Critical Element
-10853,Gold Support Cannon (MR),heavy-bowgun,Gold Support Cannon,Kulve,10,210,20,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve,Kulve Taroth Essence
-10854,Gold Blast Cannon (MR),heavy-bowgun,Gold Blast Cannon,Kulve,10,210,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 2,Kulve Taroth Essence
-10855,Gold Icewater Cannon (MR),heavy-bowgun,Gold Icewater Cannon,Kulve,10,225,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 3,Kulve Taroth Essence
-10856,Glutton Gold Cannon (MR),heavy-bowgun,Glutton Gold Cannon,Kulve,10,225,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 4,Kulve Taroth Essence
-10857,Spew Gold Cannon (MR),heavy-bowgun,Spew Gold Cannon,Kulve,10,225,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 5,Kulve Taroth Essence
-10858,Spark Gold Cannon (MR),heavy-bowgun,Spark Gold Cannon,Kulve,10,210,25,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 6,Kulve Taroth Essence
-10859,Rage Gold Cannon (MR),heavy-bowgun,Rage Gold Cannon,Kulve,10,255,-10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 7,Kulve Taroth Essence
-10860,Flash Gold Cannon (MR),heavy-bowgun,Flash Gold Cannon,Kulve,10,210,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 8,Kulve Taroth Essence
-10861,Tar Gold Cannon (MR),heavy-bowgun,Tar Gold Cannon,Kulve,10,225,0,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 9,Kulve Taroth Essence
-10862,Horn Gold Cannon (MR),heavy-bowgun,Horn Gold Cannon,Kulve,10,270,-20,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 10,Kulve Taroth Essence
-10863,Crusher Gold Cannon (MR),heavy-bowgun,Crusher Gold Cannon,Kulve,10,240,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 11,Kulve Taroth Essence
-10864,Magma Gold Cannon (MR),heavy-bowgun,Magma Gold Cannon,Kulve,10,270,-20,50,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 12,Kulve Taroth Essence
-10865,"Taroth Assault ""Glutton"" (MR)",heavy-bowgun,"Taroth Assault ""Glutton""",Kulve,11,270,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 4,Kulve Taroth Essence
-10866,"Taroth Assault ""Spew"" (MR)",heavy-bowgun,"Taroth Assault ""Spew""",Kulve,11,270,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 5,Kulve Taroth Essence
-10867,"Taroth Assault ""Spark"" (MR)",heavy-bowgun,"Taroth Assault ""Spark""",Kulve,11,255,25,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 6,Kulve Taroth Essence
-10868,"Taroth Assault ""Rage"" (MR)",heavy-bowgun,"Taroth Assault ""Rage""",Kulve,11,300,-10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 7,Kulve Taroth Essence
-10869,"Taroth Assault ""Flash"" (MR)",heavy-bowgun,"Taroth Assault ""Flash""",Kulve,11,255,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 8,Kulve Taroth Essence
-10870,"Taroth Assault ""Tar"" (MR)",heavy-bowgun,"Taroth Assault ""Tar""",Kulve,11,270,0,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 9,Kulve Taroth Essence
-10871,"Taroth Assault ""Horn"" (MR)",heavy-bowgun,"Taroth Assault ""Horn""",Kulve,11,330,-10,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 10,Kulve Taroth Essence
-10872,"Taroth Assault ""Crusher"" (MR)",heavy-bowgun,"Taroth Assault ""Crusher""",Kulve,11,285,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 11,Kulve Taroth Essence
-10873,"Taroth Assault ""Magma"" (MR)",heavy-bowgun,"Taroth Assault ""Magma""",Kulve,11,315,-10,50,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 12,Kulve Taroth Essence
-10874,"Taroth Assault ""Support"" (MR)",heavy-bowgun,"Taroth Assault ""Support""",Kulve,12,270,20,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve,Kulve Taroth Essence
-10875,"Taroth Assault ""Blast"" (MR)",heavy-bowgun,"Taroth Assault ""Blast""",Kulve,12,285,10,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 2,Kulve Taroth Essence
-10876,"Taroth Assault ""Icewater"" (MR)",heavy-bowgun,"Taroth Assault ""Icewater""",Kulve,12,285,0,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 3,Kulve Taroth Essence
-10877,"Taroth Assault ""Pierce"" (MR)",heavy-bowgun,"Taroth Assault ""Pierce""",Kulve,12,285,10,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 13,Kulve Taroth Essence
-10878,"Kjárr Assault ""Rage"" (MR)",heavy-bowgun,"Kjárr Assault ""Rage""",Kulve,12,300,10,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 14,Critical Element
-10879,"Kjárr Assault ""Horn"" (MR)",heavy-bowgun,"Kjárr Assault ""Horn""",Kulve,12,330,10,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 15,Critical Status
-10880,"Kjárr Assault ""Spark"" (MR)",heavy-bowgun,"Kjárr Assault ""Spark""",Kulve,12,285,15,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 16,Critical Element
-10881,"Kjárr Assault ""Magma"" (MR)",heavy-bowgun,"Kjárr Assault ""Magma""",Kulve,12,315,10,30,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 17,Critical Status
-10882,"Kjárr Assault ""Water"" (MR)",heavy-bowgun,"Kjárr Assault ""Water""",Kulve,12,285,15,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 18,Critical Element
-10883,"Kjárr Assault ""Ice"" (MR)",heavy-bowgun,"Kjárr Assault ""Ice""",Kulve,12,300,15,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 19,Critical Element
+10853,Gold Support Cannon (MR),heavy-bowgun,Gold Support Cannon,Kulve,10,270,20,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve,Kulve Taroth Essence
+10854,Gold Blast Cannon (MR),heavy-bowgun,Gold Blast Cannon,Kulve,10,270,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 2,Kulve Taroth Essence
+10855,Gold Icewater Cannon (MR),heavy-bowgun,Gold Icewater Cannon,Kulve,10,285,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 3,Kulve Taroth Essence
+10856,Glutton Gold Cannon (MR),heavy-bowgun,Glutton Gold Cannon,Kulve,10,285,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 4,Kulve Taroth Essence
+10857,Spew Gold Cannon (MR),heavy-bowgun,Spew Gold Cannon,Kulve,10,285,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 5,Kulve Taroth Essence
+10858,Spark Gold Cannon (MR),heavy-bowgun,Spark Gold Cannon,Kulve,10,270,25,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 6,Kulve Taroth Essence
+10859,Rage Gold Cannon (MR),heavy-bowgun,Rage Gold Cannon,Kulve,10,315,-10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 7,Kulve Taroth Essence
+10860,Flash Gold Cannon (MR),heavy-bowgun,Flash Gold Cannon,Kulve,10,270,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 8,Kulve Taroth Essence
+10861,Tar Gold Cannon (MR),heavy-bowgun,Tar Gold Cannon,Kulve,10,285,0,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 9,Kulve Taroth Essence
+10862,Horn Gold Cannon (MR),heavy-bowgun,Horn Gold Cannon,Kulve,10,330,-20,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 10,Kulve Taroth Essence
+10863,Crusher Gold Cannon (MR),heavy-bowgun,Crusher Gold Cannon,Kulve,10,300,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 11,Kulve Taroth Essence
+10864,Magma Gold Cannon (MR),heavy-bowgun,Magma Gold Cannon,Kulve,10,330,-20,50,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 12,Kulve Taroth Essence
+10865,"Taroth Assault ""Glutton"" (MR)",heavy-bowgun,"Taroth Assault ""Glutton""",Kulve,11,330,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 4,Kulve Taroth Essence
+10866,"Taroth Assault ""Spew"" (MR)",heavy-bowgun,"Taroth Assault ""Spew""",Kulve,11,330,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 5,Kulve Taroth Essence
+10867,"Taroth Assault ""Spark"" (MR)",heavy-bowgun,"Taroth Assault ""Spark""",Kulve,11,315,25,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 6,Kulve Taroth Essence
+10868,"Taroth Assault ""Rage"" (MR)",heavy-bowgun,"Taroth Assault ""Rage""",Kulve,11,360,-10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 7,Kulve Taroth Essence
+10869,"Taroth Assault ""Flash"" (MR)",heavy-bowgun,"Taroth Assault ""Flash""",Kulve,11,315,10,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 8,Kulve Taroth Essence
+10870,"Taroth Assault ""Tar"" (MR)",heavy-bowgun,"Taroth Assault ""Tar""",Kulve,11,330,0,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 9,Kulve Taroth Essence
+10871,"Taroth Assault ""Horn"" (MR)",heavy-bowgun,"Taroth Assault ""Horn""",Kulve,11,390,-10,45,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 10,Kulve Taroth Essence
+10872,"Taroth Assault ""Crusher"" (MR)",heavy-bowgun,"Taroth Assault ""Crusher""",Kulve,11,345,0,40,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 11,Kulve Taroth Essence
+10873,"Taroth Assault ""Magma"" (MR)",heavy-bowgun,"Taroth Assault ""Magma""",Kulve,11,375,-10,50,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 12,Kulve Taroth Essence
+10874,"Taroth Assault ""Support"" (MR)",heavy-bowgun,"Taroth Assault ""Support""",Kulve,12,360,20,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve,Kulve Taroth Essence
+10875,"Taroth Assault ""Blast"" (MR)",heavy-bowgun,"Taroth Assault ""Blast""",Kulve,12,375,10,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 2,Kulve Taroth Essence
+10876,"Taroth Assault ""Icewater"" (MR)",heavy-bowgun,"Taroth Assault ""Icewater""",Kulve,12,375,0,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 3,Kulve Taroth Essence
+10877,"Taroth Assault ""Pierce"" (MR)",heavy-bowgun,"Taroth Assault ""Pierce""",Kulve,12,375,10,40,FALSE,,,,,,3,0,0,,,,,,,HBG Kulve 13,Kulve Taroth Essence
+10878,"Kjárr Assault ""Rage"" (MR)",heavy-bowgun,"Kjárr Assault ""Rage""",Kulve,12,390,10,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 14,Critical Element
+10879,"Kjárr Assault ""Horn"" (MR)",heavy-bowgun,"Kjárr Assault ""Horn""",Kulve,12,420,10,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 15,Critical Status
+10880,"Kjárr Assault ""Spark"" (MR)",heavy-bowgun,"Kjárr Assault ""Spark""",Kulve,12,375,15,20,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 16,Critical Element
+10881,"Kjárr Assault ""Magma"" (MR)",heavy-bowgun,"Kjárr Assault ""Magma""",Kulve,12,405,10,30,FALSE,,,,,,0,0,0,,,,,,,HBG Kulve 17,Critical Status
+10882,"Kjárr Assault ""Water"" (MR)",heavy-bowgun,"Kjárr Assault ""Water""",Kulve,12,375,15,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 18,Critical Element
+10883,"Kjárr Assault ""Ice"" (MR)",heavy-bowgun,"Kjárr Assault ""Ice""",Kulve,12,390,15,20,FALSE,,,,,,1,0,0,,,,,,,HBG Kulve 19,Critical Element
 10338,Gold Water Piercer,bow,,Kulve,6,180,0,25,TRUE,Water,210,,,,0,0,0,,,,,,,,
 10339,Gold Thunder Piercer,bow,,Kulve,6,168,10,20,TRUE,Thunder,210,,,,0,0,0,,,,,,,,
 10340,Gold Blast Piercer,bow,,Kulve,6,168,0,30,TRUE,Blast,180,,,,0,0,0,,,,,,,,
@@ -3327,37 +3327,37 @@ id,name_en,weapon_type,previous_en,category,rarity,attack,affinity,defense,eleme
 10455,"Kjárr Bow ""Decay""",bow,,Kulve,8,240,10,,FALSE,Dragon,240,,,average,1,0,0,,,,,,,,Critical Element
 10456,"Kjárr Bow ""Water""",bow,,Kulve,8,240,10,,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
 10457,"Kjárr Bow ""Blast""",bow,,Kulve,8,252,10,,FALSE,Blast,240,,,,0,0,0,,,,,,,,Critical Status
-10884,Gold Water Piercer (MR),bow,Gold Water Piercer,Kulve,10,180,0,45,TRUE,Water,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10885,Gold Thunder Piercer (MR),bow,Gold Thunder Piercer,Kulve,10,168,10,40,TRUE,Thunder,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10886,Gold Blast Piercer (MR),bow,Gold Blast Piercer,Kulve,10,168,0,50,TRUE,Blast,180,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10887,Thief Gold Piercer (MR),bow,Thief Gold Piercer,Kulve,10,168,30,40,FALSE,Blast,90,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10888,Spew Gold Piercer (MR),bow,Spew Gold Piercer,Kulve,10,180,0,40,TRUE,Blast,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10889,Spark Gold Piercer (MR),bow,Spark Gold Piercer,Kulve,10,168,20,40,FALSE,Thunder,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10890,Rage Gold Piercer (MR),bow,Rage Gold Piercer,Kulve,10,204,0,40,FALSE,Fire,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10891,Queen Gold Piercer (MR),bow,Queen Gold Piercer,Kulve,10,180,10,40,TRUE,Dragon,330,,,low,0,0,0,,,,,,,,Kulve Taroth Essence
-10892,Stream Gold Piercer (MR),bow,Stream Gold Piercer,Kulve,10,156,0,40,FALSE,Ice,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10893,Decay Gold Piercer (MR),bow,Decay Gold Piercer,Kulve,10,192,0,40,FALSE,Dragon,120,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10894,King Gold Piercer (MR),bow,King Gold Piercer,Kulve,10,168,30,40,FALSE,Fire,120,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10895,Horn Gold Piercer (MR),bow,Horn Gold Piercer,Kulve,10,216,-20,45,TRUE,Ice,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10896,"Taroth Arrow ""Thief"" (MR)",bow,"Taroth Arrow ""Thief""",Kulve,11,204,30,40,FALSE,Blast,150,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10897,"Taroth Arrow ""Spew"" (MR)",bow,"Taroth Arrow ""Spew""",Kulve,11,216,0,40,TRUE,Blast,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10898,"Taroth Arrow ""Spark"" (MR)",bow,"Taroth Arrow ""Spark""",Kulve,11,204,20,40,FALSE,Thunder,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10899,"Taroth Arrow ""Rage"" (MR)",bow,"Taroth Arrow ""Rage""",Kulve,11,252,0,40,FALSE,Fire,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10900,"Taroth Arrow ""Queen"" (MR)",bow,"Taroth Arrow ""Queen""",Kulve,11,216,10,40,TRUE,Dragon,330,,,low,0,0,0,,,,,,,,Kulve Taroth Essence
-10901,"Taroth Arrow ""Stream"" (MR)",bow,"Taroth Arrow ""Stream""",Kulve,11,180,0,40,FALSE,Ice,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10902,"Taroth Arrow ""Decay"" (MR)",bow,"Taroth Arrow ""Decay""",Kulve,11,228,0,40,FALSE,Dragon,270,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
-10903,"Taroth Arrow ""King"" (MR)",bow,"Taroth Arrow ""King""",Kulve,11,216,30,40,FALSE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10904,"Taroth Arrow ""Horn"" (MR)",bow,"Taroth Arrow ""Horn""",Kulve,11,264,-20,45,TRUE,Ice,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
-10905,"Taroth Arrow ""Water"" (MR)",bow,"Taroth Arrow ""Water""",Kulve,12,228,0,50,TRUE,Water,390,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10906,"Taroth Arrow ""Thunder"" (MR)",bow,"Taroth Arrow ""Thunder""",Kulve,12,228,10,40,TRUE,Thunder,360,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10907,"Taroth Arrow ""Blast"" (MR)",bow,"Taroth Arrow ""Blast""",Kulve,12,240,0,50,TRUE,Blast,360,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10908,"Taroth Arrow ""Fire"" (MR)",bow,"Taroth Arrow ""Fire""",Kulve,12,240,10,40,TRUE,Fire,360,,,,3,0,0,,,,,,,,Kulve Taroth Essence
-10909,"Kjárr Bow ""Spark"" (MR)",bow,"Kjárr Bow ""Spark""",Kulve,12,216,15,20,FALSE,Thunder,240,,,,1,0,0,,,,,,,,Critical Element
-10910,"Kjárr Bow ""Stream"" (MR)",bow,"Kjárr Bow ""Stream""",Kulve,12,204,10,20,FALSE,Ice,330,,,,0,0,0,,,,,,,,Critical Element
-10911,"Kjárr Bow ""King"" (MR)",bow,"Kjárr Bow ""King""",Kulve,12,234,15,20,FALSE,Fire,270,,,,1,0,0,,,,,,,,Critical Element
-10912,"Kjárr Bow ""Decay"" (MR)",bow,"Kjárr Bow ""Decay""",Kulve,12,240,10,20,FALSE,Dragon,240,,,average,1,0,0,,,,,,,,Critical Element
-10913,"Kjárr Bow ""Water"" (MR)",bow,"Kjárr Bow ""Water""",Kulve,12,240,10,20,FALSE,Water,300,,,,0,0,0,,,,,,,,Critical Element
-10914,"Kjárr Bow ""Blast"" (MR)",bow,"Kjárr Bow ""Blast""",Kulve,12,252,10,20,FALSE,Blast,240,,,,0,0,0,,,,,,,,Critical Status
+10884,Gold Water Piercer (MR),bow,Gold Water Piercer,Kulve,10,240,0,45,TRUE,Water,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10885,Gold Thunder Piercer (MR),bow,Gold Thunder Piercer,Kulve,10,228,10,40,TRUE,Thunder,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10886,Gold Blast Piercer (MR),bow,Gold Blast Piercer,Kulve,10,228,0,50,TRUE,Blast,300,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10887,Thief Gold Piercer (MR),bow,Thief Gold Piercer,Kulve,10,228,30,40,FALSE,Blast,210,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10888,Spew Gold Piercer (MR),bow,Spew Gold Piercer,Kulve,10,240,0,40,TRUE,Blast,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10889,Spark Gold Piercer (MR),bow,Spark Gold Piercer,Kulve,10,228,20,40,FALSE,Thunder,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10890,Rage Gold Piercer (MR),bow,Rage Gold Piercer,Kulve,10,264,0,40,FALSE,Fire,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10891,Queen Gold Piercer (MR),bow,Queen Gold Piercer,Kulve,10,240,10,40,TRUE,Dragon,450,,,low,0,0,0,,,,,,,,Kulve Taroth Essence
+10892,Stream Gold Piercer (MR),bow,Stream Gold Piercer,Kulve,10,216,0,40,FALSE,Ice,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10893,Decay Gold Piercer (MR),bow,Decay Gold Piercer,Kulve,10,252,0,40,FALSE,Dragon,240,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10894,King Gold Piercer (MR),bow,King Gold Piercer,Kulve,10,228,30,40,FALSE,Fire,240,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10895,Horn Gold Piercer (MR),bow,Horn Gold Piercer,Kulve,10,276,-20,45,TRUE,Ice,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10896,"Taroth Arrow ""Thief"" (MR)",bow,"Taroth Arrow ""Thief""",Kulve,11,264,30,40,FALSE,Blast,270,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10897,"Taroth Arrow ""Spew"" (MR)",bow,"Taroth Arrow ""Spew""",Kulve,11,276,0,40,TRUE,Blast,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10898,"Taroth Arrow ""Spark"" (MR)",bow,"Taroth Arrow ""Spark""",Kulve,11,264,20,40,FALSE,Thunder,390,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10899,"Taroth Arrow ""Rage"" (MR)",bow,"Taroth Arrow ""Rage""",Kulve,11,312,0,40,FALSE,Fire,330,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10900,"Taroth Arrow ""Queen"" (MR)",bow,"Taroth Arrow ""Queen""",Kulve,11,276,10,40,TRUE,Dragon,450,,,low,0,0,0,,,,,,,,Kulve Taroth Essence
+10901,"Taroth Arrow ""Stream"" (MR)",bow,"Taroth Arrow ""Stream""",Kulve,11,240,0,40,FALSE,Ice,510,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10902,"Taroth Arrow ""Decay"" (MR)",bow,"Taroth Arrow ""Decay""",Kulve,11,288,0,40,FALSE,Dragon,390,,,average,0,0,0,,,,,,,,Kulve Taroth Essence
+10903,"Taroth Arrow ""King"" (MR)",bow,"Taroth Arrow ""King""",Kulve,11,276,30,40,FALSE,Fire,360,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10904,"Taroth Arrow ""Horn"" (MR)",bow,"Taroth Arrow ""Horn""",Kulve,11,324,-20,45,TRUE,Ice,420,,,,0,0,0,,,,,,,,Kulve Taroth Essence
+10905,"Taroth Arrow ""Water"" (MR)",bow,"Taroth Arrow ""Water""",Kulve,12,312,0,50,TRUE,Water,510,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10906,"Taroth Arrow ""Thunder"" (MR)",bow,"Taroth Arrow ""Thunder""",Kulve,12,312,10,40,TRUE,Thunder,480,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10907,"Taroth Arrow ""Blast"" (MR)",bow,"Taroth Arrow ""Blast""",Kulve,12,324,0,50,TRUE,Blast,480,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10908,"Taroth Arrow ""Fire"" (MR)",bow,"Taroth Arrow ""Fire""",Kulve,12,324,10,40,TRUE,Fire,480,,,,3,0,0,,,,,,,,Kulve Taroth Essence
+10909,"Kjárr Bow ""Spark"" (MR)",bow,"Kjárr Bow ""Spark""",Kulve,12,300,15,20,FALSE,Thunder,360,,,,1,0,0,,,,,,,,Critical Element
+10910,"Kjárr Bow ""Stream"" (MR)",bow,"Kjárr Bow ""Stream""",Kulve,12,288,10,20,FALSE,Ice,450,,,,0,0,0,,,,,,,,Critical Element
+10911,"Kjárr Bow ""King"" (MR)",bow,"Kjárr Bow ""King""",Kulve,12,318,15,20,FALSE,Fire,390,,,,1,0,0,,,,,,,,Critical Element
+10912,"Kjárr Bow ""Decay"" (MR)",bow,"Kjárr Bow ""Decay""",Kulve,12,324,10,20,FALSE,Dragon,360,,,average,1,0,0,,,,,,,,Critical Element
+10913,"Kjárr Bow ""Water"" (MR)",bow,"Kjárr Bow ""Water""",Kulve,12,324,10,20,FALSE,Water,420,,,,0,0,0,,,,,,,,Critical Element
+10914,"Kjárr Bow ""Blast"" (MR)",bow,"Kjárr Bow ""Blast""",Kulve,12,336,10,20,FALSE,Blast,360,,,,0,0,0,,,,,,,,Critical Status
 20001,Safi's Hellsplitter,great-sword,,Safi,12,1296,5,,FALSE,Fire,150,,,,4,0,0,,,,,,,,
 20002,Safi's Aquasplitter,great-sword,,Safi,12,1296,5,,FALSE,Water,150,,,,4,0,0,,,,,,,,
 20003,Safi's Boltsplitter,great-sword,,Safi,12,1296,5,,FALSE,Thunder,150,,,,4,0,0,,,,,,,,

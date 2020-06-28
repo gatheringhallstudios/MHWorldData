@@ -9,24 +9,40 @@ from . import artifacts
 from mhdata.binary import ItemCollection, Item, DecorationCollection
 from mhdata.binary.load import load_schema, load_text, SkillTextHandler
 
+class DummyItemError(Exception):
+    pass
+
 class ItemUpdater:
     def __init__(self, collection: ItemCollection):
         self.data = collection
         self.encountered_item_ids = set()
+
+    def _check_invalid(self, item):
+        if item.name['en'] in ['HARDUMMY']:
+            raise DummyItemError(f"INVALID ITEM {item.name['en']}")
         
     def add_missing_items(self, encountered_item_ids: Iterable[int]):
+        # Check valid (name_for does that automatically)
+        [self.name_for(item_id) for item_id in encountered_item_ids]
+
         self.encountered_item_ids.update(encountered_item_ids)
 
     def name_and_description_for(self, binary_item_id, track=True):
-        if track: self.encountered_item_ids.add(binary_item_id)
         item = self.data.by_id(binary_item_id)
+        self._check_invalid(item)
+        if track: self.encountered_item_ids.add(binary_item_id)
         return (item.name, item.description)
 
     def name_for(self, binary_item_id):
+        item = self.data.by_id(binary_item_id)
+        self._check_invalid(item)
         self.encountered_item_ids.add(binary_item_id)
-        return self.data.by_id(binary_item_id).name
+        return item.name
 
     def add_encountered_names(self, names: set):
+        for name in names: 
+            for item in self.data.by_name(name):
+                self._check_invalid(item)
         for entry in filter(lambda d: d.name['en'] in names, self.data.items):
             self.encountered_item_ids.add(entry.id)
 
@@ -56,7 +72,8 @@ def update_items(item_updater: ItemUpdater, *, mhdata=None):
 
     # First pass. Iterate over existing ingame items and merge with existing data
     for entry in item_updater.item_data:
-        name_dict, description_dict = item_updater.name_and_description_for(entry.id, track=False)
+        name_dict = entry.name
+        description_dict = entry.description
         existing_item = mhdata.item_map.entry_of('en', name_dict['en'])
 
         is_encountered = entry.id in item_updater.encountered_item_ids

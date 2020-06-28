@@ -1,7 +1,7 @@
 from typing import Type, Mapping, Iterable, Tuple
 from mhw_armor_edit.ftypes import gmd, am_dat, kire, wp_dat, wp_dat_g
 from mhw_armor_edit.ftypes.ext import rod_inse
-from ..parsers import ask
+from ..parsers import ask, lbr
 from ..metadata import ItemMeta
 
 from mhdata import cfg
@@ -35,6 +35,19 @@ weapon_types = [
     cfg.GREAT_SWORD, cfg.SWORD_AND_SHIELD, cfg.DUAL_BLADES, cfg.LONG_SWORD,
     cfg.HAMMER, cfg.HUNTING_HORN, cfg.LANCE, cfg.GUNLANCE, cfg.SWITCH_AXE,
     cfg.CHARGE_BLADE, cfg.INSECT_GLAIVE, cfg.BOW, cfg.HEAVY_BOWGUN, cfg.LIGHT_BOWGUN
+]
+
+elements = [
+    "",
+    "Fire",
+    "Water",
+    "Ice",
+    "Thunder",
+    "Dragon",
+    "Poison",
+    "Paralysis",
+    "Sleep",
+    "Blast"
 ]
 
 mr_variations = {
@@ -91,6 +104,32 @@ class EquipmentNode():
         self.children = []
 
     @property
+    def attack(self):
+        return self.binary.raw_damage
+
+    @property
+    def affinity(self):
+        return self.binary.affinity
+
+    @property
+    def defense(self):
+        return self.binary.defense
+
+    @property
+    def element_id(self):
+        hidden = self.binary.hidden_element_id != 0
+        return self.binary.hidden_element_id if hidden else self.binary.element_id
+
+    @property
+    def element_type(self):
+        return elements[self.element_id]
+
+    @property
+    def element_value(self):
+        hidden = self.binary.hidden_element_id != 0
+        return self.binary.hidden_element_damage if hidden else self.binary.element_damage
+
+    @property
     def id(self):
         return self.binary.id
 
@@ -102,6 +141,57 @@ class EquipmentNode():
     def add_child(self, child: 'EquipmentNode'):
         child.parent = self
         self.children.append(child)
+
+class AugmentProps():
+    def __init__(self):
+        self.attack = 0
+        self.element_value = 0
+
+    def to_dict(self):
+        return self.__dict__
+
+class AugmentTable():
+    def __init__(self, data):
+        self.data = data
+
+    def get(self, weapon_type, rarity) -> Iterable[AugmentProps]:
+        return self.data.get(weapon_type, {}).get(rarity, [])
+
+    def flattened(self):
+        results = []
+        for wtype, rarity_props in self.data.items():
+            for rarity, propList in rarity_props.items():
+                for props in propList:
+                    results.append({ 'wtype': wtype, 'rarity': rarity, **props.to_dict() })
+        return results
+
+class AugmentedWeapon():
+    """A wrapper over the weapon class that can apply safi/kulve augmentations to the weapon"""
+    def __init__(self, weapon, props: Iterable[AugmentProps], levels: int):
+        self.weapon = weapon
+        self.props = props
+        self.levels = levels
+
+    def __getattr__(self, name):
+        # Throws (intentionally) if the weapon doesn't have the prop
+        value = getattr(self.weapon, name)
+
+        props = self.props[:self.levels]
+        if len(props) == 0:
+            return value
+        
+        prop = props[-1] # last prop only
+        source_prop = name
+        destination_prop = name
+
+        statuses = ['Poison', "Paralysis", "Sleep", "Blast"]
+        if source_prop == 'element_value' and self.weapon.element_type in statuses:
+            destination_prop = 'status_value'
+
+        # But if its not in the props, ignore it
+        if not hasattr(prop, destination_prop):
+            return value
+        return value + getattr(prop, destination_prop)
 
 class EquipmentTree():
     def __init__(self, weapon_map: Mapping[int, EquipmentNode]):
@@ -173,6 +263,46 @@ class WeaponDataLoader():
 
         # Used to reverse associate weapon type > equip type
         self._equip_types = {wtype:idx for idx, wtype in enumerate(weapon_types)}
+
+    def _extract_lbr_values(self, lbr, indices):
+        values = { wtype:[] for wtype in weapon_types }
+        for idx, entry_idx in enumerate(indices):
+            values_by_type = lbr.entries[entry_idx].values
+            for (wtype, value) in values_by_type.items():
+                values[wtype].append(value)
+        return values
+
+    def load_kulve_augments(self):
+        safi_lbr = load_schema(lbr.SafiLbr, "common/equip/em104_limit_break_recipe.em104lbr")
+        results = { wtype:{} for wtype in weapon_types }
+        def extract_results(indices, rarity, prop):
+            values = self._extract_lbr_values(safi_lbr, indices)
+            for wtype, values in values.items():
+                
+                if rarity not in results[wtype]:
+                    results[wtype][rarity] = []
+
+                items = results[wtype][rarity]
+                while len(values) > len(items):
+                    items.append(AugmentProps())
+                for idx, value in enumerate(values):
+                    setattr(items[idx], prop, value)
+
+        extract_results([144, 145, 146, 147], 10, 'attack')
+        extract_results([144, 145, 146, 147], 11, 'attack')
+        extract_results([136, 137, 138, 139], 12, 'attack')
+        
+        extract_results([148, 149, 150, 151], 10, 'element_value')
+        extract_results([148, 149, 150, 151], 11, 'element_value')
+        extract_results([140, 141, 142, 143], 12, 'element_value')
+
+        # status, in results its shared with element
+        extract_results([172, 173, 174, 175], 10, 'status_value')
+        extract_results([172, 173, 174, 175], 11, 'status_value')
+        extract_results([168, 169, 170, 171], 12, 'status_value')
+
+        return AugmentTable(results)
+
 
     def load_tree(self, weapon_type: str) -> EquipmentTree:
         "Loads the weapon tree of a type"

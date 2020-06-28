@@ -122,9 +122,16 @@ class DynamicList(Readable):
     def read(self, reader: StructReader):
         try:
             count = reader.read_struct(self.count_type())
-            return [reader.read_struct(self.base) for _ in range(count)]
         except Exception as ex:
-            raise Exception(f"Failed to read list with {count} entries") from ex
+            raise Exception(f"Failed to read the number of entries") from ex
+
+        try:
+            results = []
+            for i in range(count):
+                results.append(reader.read_struct(self.base))
+            return results
+        except Exception as ex:
+            raise Exception(f"Failed to read list with {count} entries - failed at entry {i}") from ex
 
 class AnnotatedStruct(Readable):
     """
