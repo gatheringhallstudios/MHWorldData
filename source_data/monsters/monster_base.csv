@@ -54,38 +54,38 @@ id,name_en,ecology_en,size,pitfall_trap,shock_trap,vine_trap
 46,Vaal Hazak,Elder Dragon,large,,,
 48,Kulve Taroth,Elder Dragon,large,,,
 47,Xeno'jiiva,Elder Dragon,large,,,
-111,Beotodus,Piscine Wyvern,large,TRUE,TRUE,
-112,Banbaro,Brute Wyvern,large,TRUE,TRUE,
-113,Viper Tobi-Kadachi,Fanged Wyvern,large,TRUE,TRUE,
-114,Nightshade Paolumu,Flying Wyvern,large,TRUE,TRUE,
-115,Coral Pukei-Pukei,Bird Wyvern,large,TRUE,TRUE,
-116,Barioth,Flying Wyvern,large,TRUE,TRUE,
-117,Nargacuga,Flying Wyvern,large,TRUE,TRUE,
-118,Glavenus,Brute Wyvern,large,TRUE,TRUE,
-119,Tigrex,Flying Wyvern,large,TRUE,TRUE,
-120,Brachydios,Brute Wyvern,large,TRUE,TRUE,
-121,Shrieking Legiana,Flying Wyvern,large,,,
-122,Fulgur Anjanath,Brute Wyvern,large,,,
-123,Acidic Glavenus,Brute Wyvern,large,,,
-124,Ebony Odogaron,Fanged Wyvern,large,,,
+111,Beotodus,Piscine Wyvern,large,TRUE,TRUE,TRUE
+112,Banbaro,Brute Wyvern,large,TRUE,TRUE,TRUE
+113,Viper Tobi-Kadachi,Fanged Wyvern,large,TRUE,TRUE,TRUE
+114,Nightshade Paolumu,Flying Wyvern,large,TRUE,TRUE,TRUE
+115,Coral Pukei-Pukei,Bird Wyvern,large,TRUE,TRUE,TRUE
+116,Barioth,Flying Wyvern,large,TRUE,TRUE,TRUE
+117,Nargacuga,Flying Wyvern,large,TRUE,TRUE,TRUE
+118,Glavenus,Brute Wyvern,large,TRUE,TRUE,TRUE
+119,Tigrex,Flying Wyvern,large,TRUE,TRUE,TRUE
+120,Brachydios,Brute Wyvern,large,TRUE,TRUE,TRUE
+121,Shrieking Legiana,Flying Wyvern,large,TRUE,TRUE,TRUE
+122,Fulgur Anjanath,Brute Wyvern,large,TRUE,TRUE,TRUE
+123,Acidic Glavenus,Brute Wyvern,large,TRUE,TRUE,TRUE
+124,Ebony Odogaron,Fanged Wyvern,large,TRUE,TRUE,TRUE
 125,Velkhana,Elder Dragon,large,,,
-126,Seething Bazelgeuse,Flying Wyvern,large,,,
+126,Seething Bazelgeuse,Flying Wyvern,large,TRUE,TRUE,TRUE
 127,Blackveil Vaal Hazak,Elder Dragon,large,,,
 128,Namielle,Elder Dragon,large,,,
-129,Savage Deviljho,Brute Wyvern,large,,,
+129,Savage Deviljho,Brute Wyvern,large,TRUE,TRUE,TRUE
 130,Ruiner Nergigante,Elder Dragon,large,,,
 131,Shara Ishvalda,Elder Dragon,large,,,
-132,Zinogre,Fanged Wyvern,large,,,
-133,Yian Garuga,Bird Wyvern,large,,,
-134,Scarred Yian Garuga,Bird Wyvern,large,,,
-135,Brute Tigrex,Flying Wyvern,large,,,
-136,Gold Rathian,Flying Wyvern,large,,,
-137,Silver Rathalos,Flying Wyvern,large,,,
-138,Rajang,Fanged Beast,large,,,
-139,Stygian Zinogre,Fanged Wyvern,large,,,
+132,Zinogre,Fanged Wyvern,large,TRUE,TRUE,TRUE
+133,Yian Garuga,Bird Wyvern,large,TRUE,TRUE,TRUE
+134,Scarred Yian Garuga,Bird Wyvern,large,TRUE,TRUE,TRUE
+135,Brute Tigrex,Flying Wyvern,large,TRUE,TRUE,TRUE
+136,Gold Rathian,Flying Wyvern,large,TRUE,TRUE,TRUE
+137,Silver Rathalos,Flying Wyvern,large,TRUE,TRUE,TRUE
+138,Rajang,Fanged Beast,large,TRUE,TRUE,TRUE
+139,Stygian Zinogre,Fanged Wyvern,large,TRUE,TRUE,TRUE
 140,Safi'jiiva,Elder Dragon,large,,,
-142,Furious Rajang,Fanged Beast,large,,,
-143,Raging Brachydios,Brute Wyvern,large,,,
+142,Furious Rajang,Fanged Beast,large,TRUE,TRUE,TRUE
+143,Raging Brachydios,Brute Wyvern,large,TRUE,TRUE,TRUE
 50,Behemoth,Elder Dragon,large,,,
 51,Leshen,Relict,large,,,
 52,Ancient Leshen,Relict,large,,,
