@@ -653,10 +653,10 @@ def build_weapons(session : sqlalchemy.orm.Session, mhdata):
             skill_id = mhdata.skill_map.id_of('en', entry['skill'])
             setbonus_id = mhdata.armorset_bonus_map.id_of('en', entry['skill'])
             if skill_id:
-            weapon.skills.append(db.WeaponSkill(
-                skilltree_id=skill_id,
-                level=1
-            ))
+                weapon.skills.append(db.WeaponSkill(
+                    skilltree_id=skill_id,
+                    level=1
+                ))
             elif setbonus_id:
                 weapon.armorset_bonus_id = setbonus_id
             else:
