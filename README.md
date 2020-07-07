@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gatheringhallstudios/MHWorldData.svg?branch=master)](https://travis-ci.org/gatheringhallstudios/MHWorldData)
+![build](https://github.com/gatheringhallstudios/MHWorldData/workflows/build/badge.svg)
 
 # MHWorldData
 A project used to generate a database from Monster Hunter World data. This database file is used to power the MHWorld Database Android app, but can be used for other purposes as well.
