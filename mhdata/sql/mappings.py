@@ -388,6 +388,7 @@ class Weapon(Base):
     coating_blast = Column(Integer)
 
     ammo_id = Column(Integer, ForeignKey('weapon_ammo.id'))
+    armorset_bonus_id = Column(Integer)
 
     translations = relationship("WeaponText")
     ammo = relationship("WeaponAmmo")

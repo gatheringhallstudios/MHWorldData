@@ -276,6 +276,14 @@ def validate_weapons(mhdata):
         if is_dragon and not has_elderseal:
             errors.append(f"Weapon {name} has a dragon element but no elderseal")
 
+        # Test that the skill exists
+        skill = entry['skill']
+        if skill:
+            skill_exists = skill in mhdata.skill_map.names('en')
+            setbonus_exists = skill in mhdata.armorset_bonus_map.names('en')
+            if not skill_exists and not setbonus_exists:
+                errors.append(f"Weapon {name} refers to invalid skill {skill}")
+            
     # Validate weapon ammo settings. Bullet types with clip size zero must have "null state" other attributes.
     for name, ammo_entry in mhdata.weapon_ammo_map.items():
         for key, data in ammo_entry.items():
