@@ -1,5 +1,5 @@
 import itertools
-import collections
+from collections import abc
 
 from mhdata import cfg
 from mhdata.io import DataMap
@@ -287,7 +287,7 @@ def validate_weapons(mhdata):
     # Validate weapon ammo settings. Bullet types with clip size zero must have "null state" other attributes.
     for name, ammo_entry in mhdata.weapon_ammo_map.items():
         for key, data in ammo_entry.items():
-            if not isinstance(data, collections.Mapping): continue
+            if not isinstance(data, abc.Mapping): continue
             if 'clip' not in data: continue
 
             if data['clip'] == 0:

@@ -1,5 +1,5 @@
 import typing
-import collections
+from collections import abc
 import copy
 import re
 
@@ -14,12 +14,12 @@ def to_basic(obj, *, stack=[]):
     if obj_id in stack:
         raise Exception("Cyclical reference detected")
 
-    if isinstance(obj, collections.Mapping):
+    if isinstance(obj, abc.Mapping):
         # This can be converted to a dictionary
         return { k:to_basic(v, stack=stack+[obj_id]) for (k, v) in obj.items() }
     elif isinstance(obj, str):
         return obj
-    elif isinstance(obj, collections.Iterable):
+    elif isinstance(obj, abc.Iterable):
         return [to_basic(v, stack=stack+[obj_id]) for v in obj]
     else:
         return obj
@@ -114,7 +114,7 @@ def merge_list(base, rows: typing.Iterable[dict], key=None, groups=[], many=Fals
                 base_entry[key] = data_entries
             else:
                 base_entry[key] = data_entries[0]
-        elif isinstance(data_entries[0], collections.Mapping):
+        elif isinstance(data_entries[0], abc.Mapping):
             util.joindicts(base_entry, data_entries[0])
         else:
             # We cannot merge a dictionary with a non-dictionary

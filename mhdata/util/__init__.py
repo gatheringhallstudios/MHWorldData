@@ -1,5 +1,4 @@
-import collections
-import collections.abc
+from collections.abc import Mapping
 from mhdata import typecheck
 
 from .bidict import bidict
@@ -73,7 +72,7 @@ def check_not_grouped(obj, groups):
     "Checks if any fields have already been grouped, and returns the ones that aren't"
     results = []
     for group in groups:
-        if group in obj and isinstance(obj[group], collections.Mapping):
+        if group in obj and isinstance(obj[group], Mapping):
             continue
         results.append(group)
     return results

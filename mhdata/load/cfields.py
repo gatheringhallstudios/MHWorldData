@@ -2,7 +2,7 @@
 Custom fields used by the marshmallow schema
 """
 
-import collections
+from collections.abc import Mapping
 from marshmallow import fields, ValidationError, Schema, pre_load, post_dump, pre_dump
 
 from mhdata.util import group_fields, ungroup_fields
@@ -76,7 +76,7 @@ class BaseSchema(Schema):
 
     @pre_load
     def group_fields(self, data):
-        if not isinstance(data, collections.Mapping):
+        if not isinstance(data, Mapping):
             raise TypeError("Invalid data type, perhaps you forgot many=true?")
         groups = (list(self.__groups__ or [])
                     + self.identify_prefixes())
