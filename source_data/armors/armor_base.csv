@@ -1505,6 +1505,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1518,Brachydium Braces β+,12,arms,both,4,4,0,170,188,208,3,-2,1,-3,1
 1519,Brachydium Faulds β+,12,waist,both,4,1,0,170,188,208,3,-2,1,-3,1
 1520,Brachydium Greaves β+,12,legs,both,4,1,1,170,188,208,3,-2,1,-3,1
+1526,Kulve Taroth's Fury α+,12,head,both,0,0,0,176,194,214,4,-2,3,-2,-4
+1527,Kulve Taroth's Ire α+,12,chest,both,3,3,0,176,194,214,4,-2,3,-2,-4
+1528,Kulve Taroth's Rage α+,12,arms,both,3,2,0,176,194,214,4,-2,3,-2,-4
+1529,Kulve Taroth's Malice α+,12,waist,both,2,1,1,176,194,214,4,-2,3,-2,-4
+1530,Kulve Taroth's Wrath α+,12,legs,both,2,1,1,176,194,214,4,-2,3,-2,-4
+1531,Kulve Taroth's Fury β+,12,head,both,4,4,1,176,194,214,4,-2,3,-2,-4
+1532,Kulve Taroth's Ire β+,12,chest,both,4,3,0,176,194,214,4,-2,3,-2,-4
+1533,Kulve Taroth's Rage β+,12,arms,both,4,4,0,176,194,214,4,-2,3,-2,-4
+1534,Kulve Taroth's Malice β+,12,waist,both,4,2,0,176,194,214,4,-2,3,-2,-4
+1535,Kulve Taroth's Wrath β+,12,legs,both,4,1,1,176,194,214,4,-2,3,-2,-4
 1457,Oolong Hair α+,9,head,both,4,0,0,120,158,178,1,1,1,4,1
 1458,Oolong Vest α+,9,chest,both,4,0,0,120,158,178,1,1,1,4,1
 1459,Oolong Sleeves α+,9,arms,both,4,0,0,120,158,178,1,1,1,4,1

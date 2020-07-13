@@ -818,11 +818,17 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1256,Safi'jiiva Fellwing,material,,11,,10300,,,Wing,Red
 1257,Zionium Crystal,material,,12,,24000,,,Mantle,Red
 458,Kulve Taroth Golden Scale,material,,7,,3000,,,Scale,Gold
+1292,Kulve Taroth Golden Scale+,material,,11,,9000,,,,
 459,Kulve Taroth Golden Shell,material,,7,,4000,,,Carapace,Gold
+1293,Kulve Taroth Golden Shell+,material,,11,,12000,,,,
 460,Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold
+1294,Kulve Taroth Golden Nugget+,material,,11,,3000,,,,
 461,Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold
+1295,Kulve Taroth Golden Spiralhorn+,material,,11,,18000,,,,
 462,Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold
+1296,Kulve Taroth Golden Tailshell+,material,,11,,15000,,,,
 463,Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold
+1297,Golden Dragonsphire,material,,12,,24000,,,,
 663,Kulve Taroth Emperor Nugget,material,,8,,2000,,,Ore,White
 991,Shara Ishvalda Tenderscale,material,,11,,7600,,,Scale,White
 992,Shara Ishvalda Boulderplate,material,,11,,4900,,,Carapace,DarkBeige
