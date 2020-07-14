@@ -224,9 +224,16 @@ Xeno'jiiva,Left Hindleg,,150,,,orange
 Xeno'jiiva,Right Hindleg,,150,,,orange
 Xeno'jiiva,Wings,,300,600,,white
 Xeno'jiiva,Tail,,350,,1050,green
-Behemoth,Horns,,,0,,orange
-Behemoth,Head,,,,,orange
-Behemoth,Body,,,,,green
-Behemoth,Forearms,,,0,,red
-Behemoth,Hindlegs,,,,,white
-Behemoth,Tail,,,,0,orange
+Alatreon,Head,,555,,,red
+Alatreon,Body,,600,,,orange
+Alatreon,Wings,,375,750,,white
+Alatreon,Arms,,480,,,white
+Alatreon,Legs,,400,,,orange
+Alatreon,Tail,,375,,365,orange
+Behemoth,Horns,,500,750,,orange
+Behemoth,Head,,2500,,,orange
+Behemoth,Back,,2250,,,green
+Behemoth,Belly,,4500,,,green
+Behemoth,Forearms,,2250,6750,,red
+Behemoth,Hindlegs,,1650,,,white
+Behemoth,Tail,,1200,,2000,orange
