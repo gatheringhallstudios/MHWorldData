@@ -413,6 +413,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 51604,Point of No Return,special,MR,6,hunt,Secluded Valley,36000
 51606,...And My Rage for All,special,MR,6,hunt,Guiding Lands,43200
 51607,The Fury Remains,special,MR,6,hunt,Hoarfrost Reach,43200
+51611,Blazing Black Twilight,special,MR,6,hunt,Secluded Valley,43200
 61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
 51605,The Red Dragon,event,MR,6,hunt,Secluded Valley,43200
 61805,Duffel Duty,event,MR,1,deliver,Hoarfrost Reach,9000
@@ -455,6 +456,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66832,Wolf Out of Hell,event,MR,6,hunt,Elder's Recess,36000
 66826,Yodeling in the Forest,event,MR,6,hunt,Ancient Forest,73440
 66827,Heavy Metal in the Waste,event,MR,6,hunt,Wildspire Waste,67320
+66833,The Eternal Gold Rush,event,MR,6,hunt,Caverns of El Dorado,43200
 66828,Symphony of the Coral,event,MR,6,hunt,Coral Highlands,65520
 66829,Rotten Canzone,event,MR,6,hunt,Rotten Vale,66600
 66830,Alt Rock Recess,event,MR,6,hunt,Elder's Recess,71280

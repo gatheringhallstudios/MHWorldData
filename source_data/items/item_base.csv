@@ -1060,6 +1060,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 672,Nergigante Ticket,material,,8,,800,,,Voucher,Gray
 657,Zorah Magdaros Ticket,material,,8,,800,,,Voucher,Gray
 658,Xeno'jiiva Ticket,material,,8,,800,,,Voucher,White
+1298,Namielle Ticket,material,,12,,1600,,,,
 519,Black Bandage,material,,6,,400,,,Question,Gray
 520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
 531,First Fleet Ticket,material,,4,,400,,,Voucher,Red
@@ -1100,6 +1101,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1053,Unity Symbol,material,,10,,800,,,Voucher,Red
 1054,Meaty Canteen Ticket,material,,10,,800,,,Voucher,DarkBeige
 1291,Whetfish Ticket,material,,10,,800,,,,
+1299,Downy Crake Ticket II,material,,10,,800,,,,
 498,Pukei Coin,material,,4,,500,,,Coin,Lime
 499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
 500,Rathian Coin,material,,4,,500,,,Coin,Green

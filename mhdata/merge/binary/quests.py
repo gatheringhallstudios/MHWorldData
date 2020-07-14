@@ -90,6 +90,9 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_data: MonsterCollec
     if binary.header.mapId == 0:
         print(quest.name)
 
+    if binary.header.mapId not in area_map:
+        raise Exception(f'Failed to retrieve map {binary.header.mapId} for quest {quest.name["en"]}')
+
     result = {
         'id': quest.id,
         'name': quest.name,
@@ -106,12 +109,17 @@ def get_quest_data(quest, item_updater: ItemUpdater, monster_data: MonsterCollec
 
     monster_entries = {}
 
+    def get_monster_name(monster_id):
+        try:
+            return monster_data.by_id(monster_id).name['en']
+        except KeyError:
+            raise Exception(f'Failed to retrieve monster {monster_id} for quest {quest.name["en"]}')
+
     def has_monster(monster_id):
-        monster_name = monster_data.by_id(monster_id).name['en']
-        return monster_entries.get(monster_name)
+        return monster_entries.get(get_monster_name(monster_id))
 
     def add_monster(monster_id, quantity, objective=False):
-        monster_name = monster_data.by_id(monster_id).name['en']
+        monster_name = get_monster_name(monster_id)
         existing_entry = monster_entries.get(monster_name)
         if existing_entry:
             existing_entry['quantity'] += quantity

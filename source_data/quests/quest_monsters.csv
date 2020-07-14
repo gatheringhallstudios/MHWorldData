@@ -1141,6 +1141,7 @@ base_id,monster_en,quantity,is_objective
 51606,Raging Brachydios,1,True
 51607,Furious Rajang,1,True
 51607,Ruiner Nergigante,1,False
+51611,Alatreon,1,True
 61801,Beotodus,1,False
 61801,Banbaro,1,False
 61801,Fulgur Anjanath,1,False
@@ -1288,6 +1289,7 @@ base_id,monster_en,quantity,is_objective
 66827,Glavenus,1,True
 66827,Black Diablos,1,True
 66827,Savage Deviljho,1,True
+66833,Kulve Taroth,1,True
 66828,Paolumu,1,True
 66828,Legiana,1,True
 66828,Coral Pukei-Pukei,1,True

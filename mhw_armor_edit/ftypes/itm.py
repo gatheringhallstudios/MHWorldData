@@ -39,4 +39,4 @@ class ItmEntry(Struct):
 
 class Itm(StructFile):
     EntryFactory = ItmEntry
-    MAGIC = 0x00BD
+    MAGIC = 0x00BE

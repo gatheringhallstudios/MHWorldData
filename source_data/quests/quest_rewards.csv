@@ -2629,7 +2629,7 @@ base_id,group,item_en,stack,percentage
 1274,A,Eltalite Ore,2,15
 1274,A,Dreamcore Ore,1,13
 1274,A,Gloamgrass Bud,2,13
-1274,A,Large Wyvern Gem,1,8
+1274,A,Fey Wyvern Gem,1,8
 1274,A,Carved Feystone,1,5
 1274,A,Heavy Armor Sphere,1,1
 1281,A,Ancient Feystone,1,100
@@ -3304,6 +3304,13 @@ base_id,group,item_en,stack,percentage
 51607,A,Purecrystal,1,8
 51607,A,Dragonbone Artifact,1,8
 51607,A,Sealed Feystone,1,6
+51611,A,Sealed Feystone,1,100
+51611,A,King Armor Sphere,1,24
+51611,A,Large Elder Dragon Bone,2,21
+51611,A,Pure Dragon Blood,2,18
+51611,A,Shadowcore Ore,1,16
+51611,A,Carved Feystone,1,13
+51611,A,Sealed Feystone,1,8
 61801,A,Pearlspring Ticket,1,100
 61801,A,Mega Potion,5,26
 61801,A,Well-done Steak,2,26
@@ -3712,6 +3719,13 @@ base_id,group,item_en,stack,percentage
 66827,A,Glavenus Mantle,1,5
 66827,A,Large Wyvern Gem,1,5
 66827,A,Heavy Armor Sphere,2,1
+66833,A,Carved Feystone,1,100
+66833,A,Heavy Armor Sphere,1,31
+66833,A,Large Elder Dragon Bone,2,21
+66833,A,Pure Dragon Blood,2,18
+66833,A,Phantomcore Ore,1,16
+66833,A,Carved Feystone,1,8
+66833,A,Sealed Feystone,1,6
 66828,A,Heavy Armor Sphere,2,100
 66828,A,Ancient Feystone,2,18
 66828,A,Zinogre Electrofur+,1,12
