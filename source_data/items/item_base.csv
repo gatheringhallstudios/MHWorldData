@@ -836,6 +836,13 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 994,Shara Ishvalda Petalstone,material,,11,,4900,,,Ore,DarkBeige
 995,Shara Ishvalda Tenderclaw,material,,11,,10300,,,Fang,White
 996,Shara Ishvalda Gem,material,,12,,24000,,,Mantle,White
+1300,Alatreon Pallium,material,,11,,8800,,,,
+1301,Alatreon Mantle,material,,11,,7800,,,,
+1302,Alatreon Riptalon,material,,11,,8000,,,,
+1303,Alatreon Direwing,material,,11,,10700,,,,
+1304,Alatreon Diretail,material,,11,,11100,,,,
+1305,Skyswayer,material,,11,,11500,,,,
+1306,Azure Dragonsphire,material,,12,,24000,,,,
 464,Behemoth Mane,material,,7,,8000,,,Body,Violet
 465,Behemoth Bone,material,,7,,7000,,,Bone,Violet
 466,Behemoth Great Horn,material,,8,,15000,,,Fang,Violet

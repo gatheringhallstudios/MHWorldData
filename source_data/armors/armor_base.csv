@@ -1505,6 +1505,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1518,Brachydium Braces β+,12,arms,both,4,4,0,170,188,208,3,-2,1,-3,1
 1519,Brachydium Faulds β+,12,waist,both,4,1,0,170,188,208,3,-2,1,-3,1
 1520,Brachydium Greaves β+,12,legs,both,4,1,1,170,188,208,3,-2,1,-3,1
+1536,Escadora Wisdom α+,12,head,both,3,1,0,160,178,198,3,0,0,3,2
+1537,Escadora Soul α+,12,chest,both,2,1,1,160,178,198,3,0,0,3,2
+1538,Escadora Armguards α+,12,arms,both,3,1,0,160,178,198,3,0,0,3,2
+1539,Escadora Might α+,12,waist,both,3,1,0,160,178,198,3,0,0,3,2
+1540,Escadora Sheath α+,12,legs,both,2,2,2,160,178,198,3,0,0,3,2
+1541,Escadora Wisdom β+,12,head,both,4,1,0,160,178,198,3,0,0,3,2
+1542,Escadora Soul β+,12,chest,both,4,1,1,160,178,198,3,0,0,3,2
+1543,Escadora Armguards β+,12,arms,both,4,3,0,160,178,198,3,0,0,3,2
+1544,Escadora Might β+,12,waist,both,4,1,0,160,178,198,3,0,0,3,2
+1545,Escadora Sheath β+,12,legs,both,4,4,2,160,178,198,3,0,0,3,2
 1526,Kulve Taroth's Fury α+,12,head,both,0,0,0,176,194,214,4,-2,3,-2,-4
 1527,Kulve Taroth's Ire α+,12,chest,both,3,3,0,176,194,214,4,-2,3,-2,-4
 1528,Kulve Taroth's Rage α+,12,arms,both,3,2,0,176,194,214,4,-2,3,-2,-4
