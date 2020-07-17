@@ -180,6 +180,8 @@ Demonlord Goldrod,great-sword,FALSE,120,20,20,70,40,30,100
 Infernal Executioner,great-sword,FALSE,150,20,20,70,40,30,70
 Infernal Executioner+,great-sword,FALSE,130,20,20,70,40,30,90
 Lightbreak Blade,great-sword,TRUE,150,30,90,30,30,50,20
+Alatreon Great Sword,great-sword,FALSE,120,20,20,70,40,30,100
+Alatreon Revolution,great-sword,FALSE,80,20,20,70,40,30,140
 Guild Palace Blade,great-sword,FALSE,150,30,30,60,50,50,30
 Royal Venus Blade,great-sword,FALSE,150,30,30,60,50,30,50
 Defender Katana I,long-sword,FALSE,30,60,20,140,0,0,0
@@ -544,6 +546,8 @@ Demonlord Mace,sword-and-shield,FALSE,110,20,20,70,40,30,110
 Brimstren Drakescale,sword-and-shield,FALSE,130,20,20,70,40,30,90
 Stygian Luxuria,sword-and-shield,FALSE,100,20,20,70,40,30,120
 Lightbreak Sword,sword-and-shield,TRUE,140,30,30,60,50,60,30
+Alatreon Sword,sword-and-shield,FALSE,120,20,20,70,40,30,100
+Alatreon Star,sword-and-shield,FALSE,80,20,20,70,40,30,140
 Guild Palace Sword,sword-and-shield,FALSE,140,30,30,60,50,60,30
 Royal Nova Sword,sword-and-shield,FALSE,140,30,30,60,50,40,50
 Defender Chainsaws I,dual-blades,FALSE,30,60,20,140,0,0,0
@@ -726,6 +730,8 @@ Demonlord Hellfists,dual-blades,FALSE,110,20,20,70,40,30,110
 Drakespirit Hellclaws,dual-blades,FALSE,130,20,20,70,40,30,90
 Stygian Bloodclaws,dual-blades,FALSE,100,20,20,70,40,30,120
 Lightbreak Twins,dual-blades,TRUE,140,30,30,60,50,60,30
+Alatreon Dual Blades,dual-blades,FALSE,120,20,20,70,40,30,100
+Alatreon Madness,dual-blades,FALSE,80,20,20,70,40,30,140
 Whetfish Sabers,dual-blades,TRUE,80,50,110,90,40,20,10
 Whetfish Sabers+,dual-blades,TRUE,170,30,30,60,50,30,30
 Guild Palace Sabers,dual-blades,FALSE,130,30,30,60,50,70,30
@@ -904,6 +910,8 @@ Demonlord Sledge,hammer,FALSE,120,20,20,70,40,30,100
 Brimstren Drakemaw,hammer,FALSE,150,20,20,70,40,30,70
 Stygian Industria,hammer,FALSE,130,20,20,70,40,30,90
 Lightbreak Hammer,hammer,TRUE,150,30,90,30,30,50,20
+Alatreon Hammer,hammer,FALSE,120,20,20,70,40,30,100
+Alatreon Metamorph,hammer,FALSE,80,20,20,70,40,30,140
 Bristly Pincushion,hammer,FALSE,60,50,80,110,0,0,0
 Bristly Grudge,hammer,FALSE,110,50,50,80,110,0,0
 Bristly Inferno,hammer,FALSE,60,30,30,110,40,130,0
@@ -1085,6 +1093,8 @@ Demonlord Wardrum,hunting-horn,FALSE,120,20,20,70,40,30,100
 Brimstren Drakesong,hunting-horn,FALSE,150,20,20,70,40,30,70
 Stygian Tristitia,hunting-horn,FALSE,130,20,20,70,40,30,90
 Lightbreak Timbre,hunting-horn,TRUE,150,30,90,30,30,50,20
+Alatreon Harmony,hunting-horn,FALSE,120,20,20,70,40,30,100
+Alatreon Revival,hunting-horn,FALSE,80,20,20,70,40,30,140
 Guild Palace Bard,hunting-horn,FALSE,150,30,30,60,50,50,30
 Royal Song Symphony,hunting-horn,FALSE,140,30,30,60,50,40,50
 Defender Lance I,lance,FALSE,30,60,20,140,0,0,0
@@ -1264,6 +1274,8 @@ Demonlord Rajang,lance,FALSE,120,20,20,70,40,30,100
 Infernal Warlance,lance,FALSE,140,20,20,70,40,30,80
 Infernal Warlance+,lance,FALSE,110,20,20,70,40,30,110
 Lightbreak Lance,lance,TRUE,120,30,30,60,50,80,30
+Alatreon Lance,lance,FALSE,120,20,20,70,40,30,100
+Alatreon Gleam,lance,FALSE,80,20,20,70,40,30,140
 Guild Palace Tower,lance,FALSE,150,30,30,60,50,50,30
 Royal Grace Pike,lance,FALSE,140,30,30,60,50,40,50
 Defender Gunlance I,gunlance,FALSE,30,60,20,140,0,0,0
@@ -1432,6 +1444,8 @@ Demonlord Gunlance,gunlance,FALSE,110,20,20,70,40,30,110
 Brimstren Drakeblood,gunlance,FALSE,140,20,20,70,40,30,80
 Stygian Avaritia,gunlance,FALSE,110,20,20,70,40,30,110
 Lightbreak Gunlance,gunlance,TRUE,140,30,30,60,50,60,30
+Alatreon Gunlance,gunlance,FALSE,120,20,20,70,40,30,100
+Alatreon Melt,gunlance,FALSE,80,20,20,70,40,30,140
 Gajalaka Firestabber,gunlance,FALSE,60,100,40,40,160,0,0
 Gajalaka Firepike,gunlance,FALSE,40,100,40,40,180,0,0
 Guild Palace Order,gunlance,FALSE,140,30,30,60,50,60,30
@@ -1608,6 +1622,8 @@ Demonlord Edge,switch-axe,FALSE,120,20,20,70,40,30,100
 Infernal Cleave-axe,switch-axe,FALSE,150,20,20,70,40,30,70
 Infernal Cleave-axe+,switch-axe,FALSE,130,20,20,70,40,30,90
 Lightbreak Axe,switch-axe,TRUE,150,30,90,30,30,50,20
+Dark Switch Axe,switch-axe,FALSE,120,20,20,70,40,30,100
+Black Harvest,switch-axe,FALSE,80,20,20,70,40,30,140
 Guild Palace Cleaver,switch-axe,FALSE,150,30,30,60,50,50,30
 Royal Titan Axe,switch-axe,FALSE,140,30,30,60,50,40,50
 Defender Shield I,charge-blade,FALSE,30,60,20,140,0,0,0
@@ -1769,6 +1785,8 @@ Demonlord Blade,charge-blade,FALSE,120,20,20,70,40,30,100
 Brimstren Drakeclaw,charge-blade,FALSE,130,20,20,70,40,30,90
 Stygian Maledicta,charge-blade,FALSE,100,20,20,70,40,30,120
 Lightbreak Charge Blade,charge-blade,TRUE,140,30,30,60,50,60,30
+Alatreon Edge,charge-blade,FALSE,120,20,20,70,40,30,100
+Alatreon Morphblade,charge-blade,FALSE,80,20,20,70,40,30,140
 Guild Palace Disc,charge-blade,FALSE,140,30,30,60,50,60,30
 Royal Star Shield,charge-blade,FALSE,140,30,30,60,50,40,50
 Defender Glaive I,insect-glaive,FALSE,30,60,20,140,0,0,0
@@ -1944,6 +1962,8 @@ Demonlord Cudgel,insect-glaive,FALSE,110,20,20,70,40,30,110
 Brimstren Drakerod,insect-glaive,FALSE,130,20,20,70,40,30,90
 Stygian Oblivia,insect-glaive,FALSE,110,20,20,70,40,30,110
 Lightbreak Press,insect-glaive,TRUE,140,30,30,60,50,60,30
+Alatreon Dragonspire,insect-glaive,FALSE,120,20,20,70,40,30,100
+Alatreon Embrace,insect-glaive,FALSE,80,20,20,70,40,30,140
 Guild Palace Rod,insect-glaive,FALSE,140,30,30,60,50,60,30
 Royal March Banner,insect-glaive,FALSE,140,30,30,60,50,40,50
 Gold Water Fellsword,great-sword,FALSE,190,70,20,50,30,40,0
