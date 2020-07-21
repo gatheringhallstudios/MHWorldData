@@ -183,6 +183,7 @@ id,name_en,previous_en,rarity,skill1_name,skill1_level,skill2_name,skill2_level
 262,Demolition Charm IV,Demolition Charm III,11,Blast Attack,4,,
 155,Draw Charm I,,5,Critical Draw,1,,
 156,Draw Charm II,Draw Charm I,7,Critical Draw,2,,
+301,Draw Charm III,Draw Charm II,12,Critical Draw,3,,
 157,Special Shot Charm I,,5,Special Ammo Boost,1,,
 158,Special Shot Charm II,Special Shot Charm I,8,Special Ammo Boost,2,,
 159,Marathon Charm I,,5,Marathon Runner,1,,
@@ -192,6 +193,7 @@ id,name_en,previous_en,rarity,skill1_name,skill1_level,skill2_name,skill2_level
 162,Fitness Charm II,Fitness Charm I,6,Constitution,2,,
 163,Fitness Charm III,Fitness Charm II,7,Constitution,3,,
 264,Fitness Charm IV,Fitness Charm III,11,Constitution,4,,
+303,Fitness Charm V,Fitness Charm IV,12,Constitution,5,,
 164,Surge Charm I,,5,Stamina Surge,1,,
 165,Surge Charm II,Surge Charm I,7,Stamina Surge,2,,
 265,Surge Charm III,Surge Charm II,12,Stamina Surge,3,,
@@ -294,6 +296,7 @@ id,name_en,previous_en,rarity,skill1_name,skill1_level,skill2_name,skill2_level
 290,Guardian Charm III,Guardian Charm II,12,Offensive Guard,3,,
 291,Phoenix Charm I,,11,Coalescence,1,,
 292,Phoenix Charm II,Phoenix Charm I,12,Coalescence,2,,
+302,Phoenix Charm III,Phoenix Charm II,12,Coalescence,3,,
 293,Adamantine Charm,,11,Non-elemental Boost,1,Bludgeoner,1
 294,Razor Sharp Charm,,11,Razor Sharp/Spare Shot,1,,
 295,Sealer's Charm,,11,Elderseal Boost,1,Adrenaline,1

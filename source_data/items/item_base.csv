@@ -598,6 +598,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 873,Barioth Greatspike,material,,10,,6020,,,Body,White
 874,Barioth Lash,material,,10,,6130,,,Tail,White
 875,Amber Hardfang,material,,10,,6240,,,Fang,Beige
+1307,Silverwhite Frostfang,material,,11,,10300,,,,
 876,Nargacuga Shard,material,,10,,2940,,,Scale,Gray
 877,Nargacuga Blackfur+,material,,10,,4440,,,Hide,Gray
 878,Nargacuga Lash,material,,10,,6220,,,Tail,Gray
@@ -1068,6 +1069,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 657,Zorah Magdaros Ticket,material,,8,,800,,,Voucher,Gray
 658,Xeno'jiiva Ticket,material,,8,,800,,,Voucher,White
 1298,Namielle Ticket,material,,12,,1600,,,,
+1308,Frostfang Ticket,material,,11,,1400,,,,
 519,Black Bandage,material,,6,,400,,,Question,Gray
 520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
 531,First Fleet Ticket,material,,4,,400,,,Voucher,Red

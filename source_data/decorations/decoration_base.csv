@@ -217,7 +217,7 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 217,Grinder/Attack Jewel 4,4,10,Speed Sharpening,1,Attack Boost,1,Yellow
 218,Bomber/Attack Jewel 4,4,10,Bombardier,1,Attack Boost,1,Orange
 219,Fungiform/Attack Jewel 4,4,10,Mushroomancer,1,Attack Boost,1,Violet
-220,Slider/Attack Jewel 4,4,9,Affinity Sliding,1,Attack Boost,1,Res
+220,Slider/Attack Jewel 4,4,9,Affinity Sliding,1,Attack Boost,1,Red
 221,Guardian/Attack Jewel 4,4,9,Offensive Guard,1,Attack Boost,1,White
 222,Drain/Expert Jewel 4,4,10,Stamina Thief,1,Critical Eye,1,Cyan
 223,Fortitude/Expert Jewel 4,4,9,Fortify,1,Critical Eye,1,Red
@@ -239,7 +239,7 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 239,Slider/Expert Jewel 4,4,9,Affinity Sliding,1,Critical Eye,1,Red
 240,Guardian/Expert Jewel 4,4,9,Offensive Guard,1,Critical Eye,1,White
 241,Drain/Release Jewel 4,4,11,Stamina Thief,1,Free Elem/Ammo Up,1,Cyan
-242,Fortitude/Release Jewel 4,4,10,Fortify,1,Free Elem/Ammo Up,1,red
+242,Fortitude/Release Jewel 4,4,10,Fortify,1,Free Elem/Ammo Up,1,Red
 243,Crisis/Release Jewel 4,4,10,Resuscitate,1,Free Elem/Ammo Up,1,Cyan
 244,Ironwall/Release Jewel 4,4,11,Guard,1,Free Elem/Ammo Up,1,Gray
 245,Friendship/Release Jewel 4,4,11,Wide-Range,1,Free Elem/Ammo Up,1,White
