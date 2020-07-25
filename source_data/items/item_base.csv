@@ -598,7 +598,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 873,Barioth Greatspike,material,,10,,6020,,,Body,White
 874,Barioth Lash,material,,10,,6130,,,Tail,White
 875,Amber Hardfang,material,,10,,6240,,,Fang,Beige
-1307,Silverwhite Frostfang,material,,11,,10300,,,,
+1307,Silverwhite Frostfang,material,,11,,10300,,,Fang,White
 876,Nargacuga Shard,material,,10,,2940,,,Scale,Gray
 877,Nargacuga Blackfur+,material,,10,,4440,,,Hide,Gray
 878,Nargacuga Lash,material,,10,,6220,,,Tail,Gray
@@ -636,11 +636,11 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 910,Brachydios Pounder+,material,,10,,6100,,,Body,DarkBlue
 911,Brachydios Lash,material,,10,,6250,,,Tail,DarkBlue
 912,Brachydios Pallium,material,,11,,15000,,,Mantle,DarkBlue
-1282,Indestructible Ebonshell,material,,11,,7800,,,,
-1283,Brach Warhead,material,,11,,10600,,,,
-1284,Flashpoint Slime,material,,11,,7900,,,,
-1285,Brach Obliterator,material,,11,,10900,,,,
-1286,Immortal Reactor,material,,12,,24000,,,,
+1282,Indestructible Ebonshell,material,,11,,7800,,,Carapace,LightBeige
+1283,Brach Warhead,material,,11,,10600,,,Jaw,LightBeige
+1284,Flashpoint Slime,material,,11,,7900,,,Liquid,Red
+1285,Brach Obliterator,material,,11,,10900,,,Body,LightBeige
+1286,Immortal Reactor,material,,12,,24000,,,Mantle,LightBeige
 913,Garuga Shard,material,,10,,3620,,,Scale,Violet
 914,Garuga Cortex,material,,10,,5520,,,Carapace,Violet
 915,Garuga Auricle,material,,10,,5920,,,Body,Violet
@@ -700,9 +700,9 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1072,Rajang Hardclaw,material,,11,,9180,,,Fang,Gray
 1073,Rajang Tail,material,,11,,9750,,,Tail,Gold
 1074,Gold Rajang Pelt+,material,,11,,21000,,,Body,Gold
-1287,Rajang Apoplexy,material,,11,,7800,,,,
-1288,Ghoulish Gold Gorer,material,,11,,10900,,,,
-1289,Rajang Heart,material,,12,,24000,,,,
+1287,Rajang Apoplexy,material,,11,,7800,,,Body,Gold
+1288,Ghoulish Gold Gorer,material,,11,,10900,,,Fang,Gold
+1289,Rajang Heart,material,,12,,24000,,,Mantle,Red
 368,Kirin Hide,material,,4,,750,,,Hide,White
 372,Kirin Hide+,material,,7,,1630,,,Hide,White
 943,Kirin Finehide,material,,11,,4300,,,Hide,White
@@ -819,17 +819,17 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1256,Safi'jiiva Fellwing,material,,11,,10300,,,Wing,Red
 1257,Zionium Crystal,material,,12,,24000,,,Mantle,Red
 458,Kulve Taroth Golden Scale,material,,7,,3000,,,Scale,Gold
-1292,Kulve Taroth Golden Scale+,material,,11,,9000,,,,
+1292,Kulve Taroth Golden Scale+,material,,11,,9000,,,Scale,Gold
 459,Kulve Taroth Golden Shell,material,,7,,4000,,,Carapace,Gold
-1293,Kulve Taroth Golden Shell+,material,,11,,12000,,,,
+1293,Kulve Taroth Golden Shell+,material,,11,,12000,,,Carapace,Gold
 460,Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold
-1294,Kulve Taroth Golden Nugget+,material,,11,,3000,,,,
+1294,Kulve Taroth Golden Nugget+,material,,11,,3000,,,Ore,Gold
 461,Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold
-1295,Kulve Taroth Golden Spiralhorn+,material,,11,,18000,,,,
+1295,Kulve Taroth Golden Spiralhorn+,material,,11,,18000,,,Fang,Gold
 462,Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold
-1296,Kulve Taroth Golden Tailshell+,material,,11,,15000,,,,
+1296,Kulve Taroth Golden Tailshell+,material,,11,,15000,,,Body,Gold
 463,Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold
-1297,Golden Dragonsphire,material,,12,,24000,,,,
+1297,Golden Dragonsphire,material,,12,,24000,,,Mantle,Gold
 663,Kulve Taroth Emperor Nugget,material,,8,,2000,,,Ore,White
 991,Shara Ishvalda Tenderscale,material,,11,,7600,,,Scale,White
 992,Shara Ishvalda Boulderplate,material,,11,,4900,,,Carapace,DarkBeige
@@ -837,13 +837,13 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 994,Shara Ishvalda Petalstone,material,,11,,4900,,,Ore,DarkBeige
 995,Shara Ishvalda Tenderclaw,material,,11,,10300,,,Fang,White
 996,Shara Ishvalda Gem,material,,12,,24000,,,Mantle,White
-1300,Alatreon Pallium,material,,11,,8800,,,,
-1301,Alatreon Mantle,material,,11,,7800,,,,
-1302,Alatreon Riptalon,material,,11,,8000,,,,
-1303,Alatreon Direwing,material,,11,,10700,,,,
-1304,Alatreon Diretail,material,,11,,11100,,,,
-1305,Skyswayer,material,,11,,11500,,,,
-1306,Azure Dragonsphire,material,,12,,24000,,,,
+1300,Alatreon Pallium,material,,11,,8800,,,Carapace,Violet
+1301,Alatreon Mantle,material,,11,,7800,,,Scale,Violet
+1302,Alatreon Riptalon,material,,11,,8000,,,Fang,Violet
+1303,Alatreon Direwing,material,,11,,10700,,,Wing,Violet
+1304,Alatreon Diretail,material,,11,,11100,,,Tail,Violet
+1305,Skyswayer,material,,11,,11500,,,Fang,Violet
+1306,Azure Dragonsphire,material,,12,,24000,,,Mantle,Violet
 464,Behemoth Mane,material,,7,,8000,,,Body,Violet
 465,Behemoth Bone,material,,7,,7000,,,Bone,Violet
 466,Behemoth Great Horn,material,,8,,15000,,,Fang,Violet
@@ -970,8 +970,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1121,Tempered Magmafin,material,,10,,5000,,,Body,Gray
 1122,Metallic Scute,material,,10,,3000,,,Body,Gold
 1123,Tempered Scute,material,,10,,5000,,,Body,Gold
-1281,Coldblooded Icefang,material,,10,,3000,,,,
-1280,Tempered Icefang,material,,10,,5000,,,,
+1281,Coldblooded Icefang,material,,10,,3000,,,Fang,Orange
+1280,Tempered Icefang,material,,10,,5000,,,Fang,Orange
 1124,Sinister Silverpelt,material,,10,,4500,,,Body,White
 1125,Tempered Silverpelt,material,,10,,6500,,,Body,White
 1126,Smooth Icehide,material,,10,,3000,,,Hide,Blue
@@ -1068,8 +1068,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 672,Nergigante Ticket,material,,8,,800,,,Voucher,Gray
 657,Zorah Magdaros Ticket,material,,8,,800,,,Voucher,Gray
 658,Xeno'jiiva Ticket,material,,8,,800,,,Voucher,White
-1298,Namielle Ticket,material,,12,,1600,,,,
-1308,Frostfang Ticket,material,,11,,1400,,,,
+1298,Namielle Ticket,material,,12,,1600,,,Voucher,Violet
+1308,Frostfang Ticket,material,,11,,1400,,,Voucher,Gray
 519,Black Bandage,material,,6,,400,,,Question,Gray
 520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray
 531,First Fleet Ticket,material,,4,,400,,,Voucher,Red
@@ -1095,7 +1095,7 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1175,VIP Joyful Ticket,material,,12,,10000,,,Voucher,Orange
 1031,Gratitude Ticket,material,,9,,400,,,Voucher,Blue
 1176,VIP Gratitude Ticket,material,,12,,10000,,,Voucher,Blue
-1290,Full Bloom Ticket,material,,9,,400,,,,
+1290,Full Bloom Ticket,material,,9,,400,,,Voucher,DarkRed
 1050,Freezer Ticket,material,,9,,500,,,Voucher,Blue
 1032,Pearlspring Ticket,material,,9,,500,,,Voucher,White
 1177,Black Eagle Blueprint,material,,10,,800,,,Voucher,Blue
@@ -1109,8 +1109,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 1052,Fest Ticket,material,,10,,800,,,Voucher,Gold
 1053,Unity Symbol,material,,10,,800,,,Voucher,Red
 1054,Meaty Canteen Ticket,material,,10,,800,,,Voucher,DarkBeige
-1291,Whetfish Ticket,material,,10,,800,,,,
-1299,Downy Crake Ticket II,material,,10,,800,,,,
+1291,Whetfish Ticket,material,,10,,800,,,Voucher,Gold
+1299,Downy Crake Ticket II,material,,10,,800,,,Voucher,Gray
 498,Pukei Coin,material,,4,,500,,,Coin,Lime
 499,Kulu Coin,material,,4,,500,,,Coin,LightBeige
 500,Rathian Coin,material,,4,,500,,,Coin,Green
