@@ -1505,6 +1505,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1518,Brachydium Braces β+,12,arms,both,4,4,0,170,188,208,3,-2,1,-3,1
 1519,Brachydium Faulds β+,12,waist,both,4,1,0,170,188,208,3,-2,1,-3,1
 1520,Brachydium Greaves β+,12,legs,both,4,1,1,170,188,208,3,-2,1,-3,1
+1546,Frostfang Helm α+,11,head,both,3,2,1,162,186,206,-3,2,-2,3,0
+1547,Frostfang Mail α+,11,chest,both,3,2,0,162,186,206,-3,2,-2,3,0
+1548,Frostfang Vambraces α+,11,arms,both,2,2,0,162,186,206,-3,2,-2,3,0
+1549,Frostfang Coil α+,11,waist,both,3,3,1,162,186,206,-3,2,-2,3,0
+1550,Frostfang Greaves α+,11,legs,both,1,1,0,162,186,206,-3,2,-2,3,0
+1551,Frostfang Helm β+,11,head,both,4,2,1,162,186,206,-3,2,-2,3,0
+1552,Frostfang Mail β+,11,chest,both,4,2,0,162,186,206,-3,2,-2,3,0
+1553,Frostfang Vambraces β+,11,arms,both,4,4,0,162,186,206,-3,2,-2,3,0
+1554,Frostfang Coil β+,11,waist,both,4,3,1,162,186,206,-3,2,-2,3,0
+1555,Frostfang Greaves β+,11,legs,both,4,4,0,162,186,206,-3,2,-2,3,0
 1536,Escadora Wisdom α+,12,head,both,3,1,0,160,178,198,3,0,0,3,2
 1537,Escadora Soul α+,12,chest,both,2,1,1,160,178,198,3,0,0,3,2
 1538,Escadora Armguards α+,12,arms,both,3,1,0,160,178,198,3,0,0,3,2
