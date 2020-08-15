@@ -48,7 +48,8 @@ Each subsystem (Monster/Armor/Weapons/etc) is stored in its own subdirectory. Th
 ## How to build
 Make sure Python 3.6 or greater is installed on your system, and pipenv is installed (`pip install pipenv`).
 - Open a console window in the root project directory (shift+rightclick or `cd` to navigate to it)
-- `pipenv install` to install all dependencies. Make sure its using python 3.6 or greater.
+- `pipenv --python 3.8` to setup the environment. Make sure its using python 3.6 or greater.
+- `pipenv install` to install all dependencies. 
 - `pipenv shell` to activate the environment
 
 Afterwards, run `pipenv run python build.py` in a terminal to generate an `mhw.sql` file. You can run the tests by executing `pipenv run pytest tests`. 
