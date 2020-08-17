@@ -35,6 +35,8 @@ Frost Blaze III,great-sword,Upgrade,Gracium,2,Eltalite Ore,4,Cryo Sac,1,Wulg Thi
 Icicle Fang,great-sword,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Icicle Fang+,great-sword,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Paladire,great-sword,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Glacial Demon,great-sword,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Glacial Demon,great-sword,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Jagras Blade I,great-sword,Upgrade,Great Jagras Claw,1,Great Jagras Hide,1,Great Jagras Scale,3,Sharp Claw,1
 Jagras Blade II,great-sword,Upgrade,Great Jagras Claw,2,Great Jagras Mane,2,Coral Bone,2,Tzitzi-Ya-Ku Claw,3
 Jagras Blade III,great-sword,Upgrade,Monster Bone+,3,Great Jagras Scale,5,Great Jagras Claw,3,Great Jagras Mane,3
@@ -230,6 +232,8 @@ Blinding Blaze I,long-sword,Upgrade,Tzitzi-Ya-Ku Hardclaw,1,Tzitzi-Ya-Ku Photome
 Blinding Blaze II,long-sword,Upgrade,Legiana Hardclaw,2,Tzitzi-Ya-Ku Hardclaw,2,Tzitzi-Ya-Ku Photomembrane,1,Purecrystal,1
 Ambertooth I,long-sword,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Ambertooth II,long-sword,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
+Adularia Edge,long-sword,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Adularia Edge,long-sword,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 First Dance I,long-sword,Upgrade,Kulu-Ya-Ku Beak,1,Kulu-Ya-Ku Hide,2,Kulu-Ya-Ku Scale,3,,
 First Dance II,long-sword,Upgrade,Radobaan Scale,3,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,2,Boulder Bone,3
 First Dance III,long-sword,Upgrade,Odogaron Claw,2,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,4,Warped Bone,3
@@ -426,6 +430,8 @@ Laguna Blossom II,sword-and-shield,Upgrade,Acidic Glavenus Hardfang,2,Monster So
 Icicle Spike,sword-and-shield,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Icicle Spike+,sword-and-shield,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Nardebosche,sword-and-shield,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Silverbosche,sword-and-shield,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Silverbosche,sword-and-shield,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Glacial Grace I,sword-and-shield,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,,
 Glacial Grace II,sword-and-shield,Upgrade,Paolumu Wing,4,Legiana Claw,4,Legiana Tail Webbing,3,Legiana Plate,1
 Rimespire,sword-and-shield,Upgrade,Legiana Claw+,3,Legiana Scale+,5,Legiana Wing,3,Freezer Sac,2
@@ -625,6 +631,8 @@ Freeze Chain II,dual-blades,Upgrade,Elder Dragon Blood,3,Legiana Claw+,5,Legiana
 Blizzarioths,dual-blades,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Blizzarioths+,dual-blades,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Mountain Blizzarioths,dual-blades,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Bergel Vetra,dual-blades,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Bergel Vetra,dual-blades,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Rending Beaks I,dual-blades,Upgrade,Kulu-Ya-Ku Beak,1,Kulu-Ya-Ku Hide,2,Kulu-Ya-Ku Scale,3,,
 Rending Beaks II,dual-blades,Upgrade,Radobaan Scale,3,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,2,Boulder Bone,3
 Rending Beaks III,dual-blades,Upgrade,Odogaron Claw,2,Kulu-Ya-Ku Beak,2,Kulu-Ya-Ku Plume,4,Warped Bone,3
@@ -819,6 +827,8 @@ Aqua Flora+,hammer,Upgrade,Acidic Glavenus Hardfang,2,Monster Solidbone,3,Large 
 Aqua Florescence,hammer,Upgrade,Namielle Hardclaw,4,Pure Dragon Blood,5,Large Coral Pukei-Pukei Sac,2,Purecrystal,1
 Glacial Bash I,hammer,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Glacial Bash II,hammer,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
+Polaris Bash,hammer,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Polaris Bash,hammer,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Girros Hammer I,hammer,Upgrade,Great Girros Fang,1,Great Girros Scale,3,Girros Fang,3,,
 Girros Hammer II,hammer,Upgrade,Diablos Fang,2,Great Girros Fang,3,Great Girros Hood,2,Paralysis Sac,2
 Malady's Fist I,hammer,Upgrade,Great Girros Fang+,3,Great Girros Scale+,5,Great Girros Tail,2,Girros Scale+,6
@@ -1090,6 +1100,8 @@ Datura Maestro I,hunting-horn,Upgrade,Pukei-Pukei Shard,3,Pukei-Pukei Fellwing,2
 Datura Maestro II,hunting-horn,Upgrade,Monster Slogbone,3,Rathian Surspike,2,Large Pukei-Pukei Sac,1,Pukei-Pukei Lash,1
 Icicle Horn I,hunting-horn,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Icicle Horn II,hunting-horn,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
+Bringuiro,hunting-horn,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Bringuiro,hunting-horn,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Lumu Horn I,hunting-horn,Upgrade,Paolumu Shell,1,Paolumu Scale,3,Paolumu Pelt,2,,
 Lumu Horn II,hunting-horn,Upgrade,Diablos Shell,3,Paolumu Shell,3,Paolumu Webbing,2,Shamos Scale,5
 Lumu Barone I,hunting-horn,Create,Paolumu Pelt+,6,Paolumu Webbing,6,Paolumu Carapace+,4,Wyvern Gem,1
@@ -1201,6 +1213,8 @@ Minqar al-Nasr II,lance,Upgrade,Nargacuga Hardfang,2,Large Kulu-Ya-Ku Beak,2,Lar
 Tusk Lance,lance,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Tusk Lance+,lance,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Sabertooth,lance,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Saber Fang,lance,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Saber Fang,lance,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Gama Pilebunker I,lance,Upgrade,Dodogama Talon,4,Dodogama Scale+,6,Dodogama Hide+,4,,
 Gama Pilebunker II,lance,Upgrade,Fire Dragon Scale+,4,Dodogama Jaw,4,Dodogama Tail,3,Wyvern Gem,1
 Gama Drill I,lance,Upgrade,Dodogama Hardclaw,2,Dodogama Shard,3,Dodogama Thickhide,2,Gastodon Husk,2
@@ -1411,6 +1425,8 @@ Jyura Demolisher II,gunlance,Upgrade,Monster Slogbone,2,Jyuratodus Grandfin,2,Fl
 Twinfang,gunlance,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Twinfang+,gunlance,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Ambermarch,gunlance,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+White Night,gunlance,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+White Night,gunlance,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Glacial Gunlance I,gunlance,Upgrade,Legiana Claw,3,Legiana Scale,4,Frost Sac,2,,
 Glacial Gunlance II,gunlance,Upgrade,Paolumu Wing,4,Legiana Claw,4,Legiana Tail Webbing,3,Legiana Plate,1
 Legiana Cannon I,gunlance,Create,Legiana Claw+,2,Legiana Wing,5,Freezer Sac,3,Legiana Plate,1
@@ -1597,6 +1613,8 @@ Saber's Bite II,switch-axe,Upgrade,Monster Slogbone,3,Great Jagras Hardclaw,3,Gr
 Amber Slash,switch-axe,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Amber Slash+,switch-axe,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Amber Hoarfrost,switch-axe,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Moonstone Hoarfrost,switch-axe,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Moonstone Hoarfrost,switch-axe,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Bazel Raider I,switch-axe,Upgrade,Bazelgeuse Talon,3,Bazelgeuse Scale+,5,Bazelgeuse Fuse,4,Firecell Stone,1
 Bazel Raider II,switch-axe,Upgrade,Teostra Powder,3,Bazelgeuse Wing,4,Bazelgeuse Talon,4,Bazelgeuse Gem,1
 Bazelheart,switch-axe,Upgrade,Bazelgeuse Hardclaw,3,Bazelgeuse Shard,4,Distilled Blast Fluid,3,Meldspar Ore,5
@@ -1770,6 +1788,8 @@ Gigafrost III,charge-blade,Upgrade,Gracium,2,Eltalite Ore,4,Cryo Sac,1,Wulg Thic
 Weissritter,charge-blade,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Weissritter+,charge-blade,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Elder Wolf Fang,charge-blade,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Raging Wolf Fang,charge-blade,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Raging Wolf Fang,charge-blade,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Dear Lutemis,charge-blade,Create,Rathian Shell,5,Machalite Ore,10,Poison Sac,3,Rathian Plate,1
 Dear Lutemis,charge-blade,Upgrade,Rathian Spike,3,Rathian Scale,5,Rathian Shell,4,,
 Dear Lutemia,charge-blade,Upgrade,Rathian Spike+,3,Rathian Scale+,5,Rathian Carapace,4,Rathian Plate,1
@@ -1951,6 +1971,8 @@ Freeze Gale III,insect-glaive,Upgrade,Gracium,2,Eltalite Ore,4,Cryo Sac,1,Wulg T
 Amber Piton,insect-glaive,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Amber Piton+,insect-glaive,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Fenrir Storm,insect-glaive,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Fenrir Rose,insect-glaive,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Fenrir Rose,insect-glaive,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Blooming Glaive I,insect-glaive,Upgrade,Pukei-Pukei Quill,2,Pukei-Pukei Scale,3,Poison Sac,1,,
 Blooming Glaive II,insect-glaive,Upgrade,Coral Crystal,3,Pukei-Pukei Sac,2,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1
 Blooming Glaive III,insect-glaive,Upgrade,Monster Bone+,2,Pukei-Pukei Quill,4,Pukei-Pukei Sac,2,Poison Sac,2
@@ -2154,6 +2176,8 @@ Frost Blitz III,light-bowgun,Upgrade,Gracium,2,Eltalite Ore,4,Cryo Sac,1,Wulg Th
 Blizzard Cannon,light-bowgun,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Blizzard Cannon+,light-bowgun,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
 Blizzard Volley,light-bowgun,Upgrade,Velkhana Hardclaw,2,Barioth Hardclaw,4,Amber Hardfang,2,Large Elder Dragon Bone,5
+Blizzard Gust,light-bowgun,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Blizzard Gust,light-bowgun,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Laguna Blitz I,light-bowgun,Upgrade,Coral Pukei-Pukei Shard,3,Coral Pukei-Pukei Fellwing,2,Flood Sac,2,Bathycite Ore,2
 Laguna Blitz II,light-bowgun,Upgrade,Acidic Glavenus Hardfang,2,Monster Solidbone,3,Large Coral Pukei-Pukei Sac,1,Coral Pukei-Pukei Lash,1
 Hunter's Rifle I,light-bowgun,Create,Monster Bone S,1,,,,,,
@@ -2283,6 +2307,8 @@ Fatal Assault II,heavy-bowgun,Upgrade,Monster Slogbone,3,Eltalite Ore,4,Meldspar
 Fatal Assault III,heavy-bowgun,Upgrade,Pure Dragon Blood,3,Eltalite Ore,6,Meldspar Ore,3,Purecrystal,1
 Icicle Assault I,heavy-bowgun,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Icicle Assault II,heavy-bowgun,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
+Final Guerilla,heavy-bowgun,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Final Guerilla,heavy-bowgun,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Nergal Roar,heavy-bowgun,Upgrade,Nergigante Talon,3,Nergigante Regrowth Plate,4,Nergigante Tail,2,Nergigante Carapace,2
 Destruction's Fusillade,heavy-bowgun,Upgrade,Xeno'jiiva Horn,2,Nergigante Horn+,5,Nergigante Talon,5,Nergigante Gem,1
 Ruinous Destruction,heavy-bowgun,Upgrade,Annihilating Greathorn,3,Nergigante Hardclaw,4,Eternal Regrowth Plate,5,Large Elder Dragon Gem,1
@@ -2500,6 +2526,8 @@ Laguna Shot I,bow,Upgrade,Coral Pukei-Pukei Shard,3,Coral Pukei-Pukei Fellwing,2
 Laguna Shot II,bow,Upgrade,Acidic Glavenus Hardfang,2,Monster Solidbone,3,Large Coral Pukei-Pukei Sac,1,Coral Pukei-Pukei Lash,1
 Icicle Blizzard I,bow,Upgrade,Barioth Hardclaw,3,Barioth Cortex,4,Cryo Sac,4,Frozen Bone,3
 Icicle Blizzard II,bow,Upgrade,Obsidian Icetalon,2,Amber Hardfang,3,Barioth Greatspike,3,Large Wyvern Gem,1
+Edelescha,bow,Create,Frostfang Ticket,3,Silverwhite Frostfang,3,Bergcrusher Claw,2,Large Wyvern Gem,1
+Edelescha,bow,Upgrade,Frostfang Ticket,2,Silverwhite Frostfang,3,Bergcrusher Claw,1,Gracium,5
 Hidden Bow,bow,Upgrade,Nargacuga Hardfang,2,Nargacuga Shard,3,Nargacuga Tailspear,2,Meldspar Ore,1
 Hidden Bow+,bow,Upgrade,Fulgur Anjanath Hardfang,3,Nargacuga Cutwing+,4,Nargacuga Lash,1,Nargacuga Mantle,1
 Night Flight,bow,Upgrade,Shadowpierce Fang,2,Nargacuga Cutwing+,4,Nargacuga Hardfang,4,Purecrystal,1

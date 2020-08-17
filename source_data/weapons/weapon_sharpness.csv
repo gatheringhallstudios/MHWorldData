@@ -34,6 +34,7 @@ Frost Blaze III,great-sword,FALSE,60,50,60,120,70,40,0
 Icicle Fang,great-sword,FALSE,110,30,30,110,40,80,0
 Icicle Fang+,great-sword,FALSE,110,30,30,110,40,80,0
 Paladire,great-sword,FALSE,110,30,30,110,40,80,0
+Glacial Demon,great-sword,FALSE,10,50,50,50,60,120,60
 Jagras Blade I,great-sword,FALSE,80,70,30,70,0,0,0
 Jagras Blade II,great-sword,FALSE,80,50,80,90,0,0,0
 Jagras Blade III,great-sword,FALSE,60,50,80,110,0,0,0
@@ -217,6 +218,7 @@ Blinding Blaze I,long-sword,FALSE,120,30,30,110,40,70,0
 Blinding Blaze II,long-sword,FALSE,90,30,30,110,40,100,0
 Ambertooth I,long-sword,FALSE,110,30,30,110,40,80,0
 Ambertooth II,long-sword,FALSE,110,30,30,110,40,80,0
+Adularia Edge,long-sword,FALSE,10,40,50,50,60,120,70
 First Dance I,long-sword,FALSE,70,70,30,80,0,0,0
 First Dance II,long-sword,FALSE,80,50,80,90,0,0,0
 First Dance III,long-sword,FALSE,60,50,80,110,0,0,0
@@ -404,6 +406,7 @@ Laguna Blossom II,sword-and-shield,FALSE,110,30,30,60,50,70,50
 Icicle Spike,sword-and-shield,FALSE,100,30,30,110,40,90,0
 Icicle Spike+,sword-and-shield,FALSE,100,30,30,110,40,90,0
 Nardebosche,sword-and-shield,FALSE,100,30,30,110,40,90,0
+Silverbosche,sword-and-shield,FALSE,10,30,50,50,60,120,80
 Glacial Grace I,sword-and-shield,FALSE,60,50,80,110,0,0,0
 Glacial Grace II,sword-and-shield,FALSE,100,50,50,80,70,0,0
 Rimespire,sword-and-shield,FALSE,80,50,50,80,90,0,0
@@ -592,6 +595,7 @@ Freeze Chain II,dual-blades,FALSE,80,50,60,120,50,40,0
 Blizzarioths,dual-blades,FALSE,90,30,30,110,40,100,0
 Blizzarioths+,dual-blades,FALSE,90,30,30,110,40,100,0
 Mountain Blizzarioths,dual-blades,FALSE,90,30,30,110,40,100,0
+Bergel Vetra,dual-blades,FALSE,10,30,50,50,60,120,80
 Rending Beaks I,dual-blades,FALSE,60,70,30,90,0,0,0
 Rending Beaks II,dual-blades,FALSE,60,50,80,110,0,0,0
 Rending Beaks III,dual-blades,FALSE,50,50,80,120,0,0,0
@@ -775,6 +779,7 @@ Aqua Flora+,hammer,FALSE,130,30,30,60,50,50,50
 Aqua Florescence,hammer,FALSE,120,30,30,60,50,60,50
 Glacial Bash I,hammer,FALSE,110,30,30,110,40,80,0
 Glacial Bash II,hammer,FALSE,110,30,30,110,40,80,0
+Polaris Bash,hammer,FALSE,10,40,50,50,60,120,70
 Girros Hammer I,hammer,FALSE,80,50,80,90,0,0,0
 Girros Hammer II,hammer,FALSE,70,50,80,100,0,0,0
 Malady's Fist I,hammer,FALSE,60,50,80,150,10,0,0
@@ -1030,6 +1035,7 @@ Datura Maestro I,hunting-horn,FALSE,110,30,30,110,40,80,0
 Datura Maestro II,hunting-horn,FALSE,120,30,30,60,50,60,50
 Icicle Horn I,hunting-horn,FALSE,110,30,30,110,40,80,0
 Icicle Horn II,hunting-horn,FALSE,110,30,30,110,40,80,0
+Bringuiro,hunting-horn,FALSE,10,30,50,50,60,120,80
 Lumu Horn I,hunting-horn,FALSE,120,70,30,80,0,0,0
 Lumu Horn II,hunting-horn,FALSE,100,70,30,100,0,0,0
 Lumu Barone I,hunting-horn,FALSE,110,100,40,40,60,0,0
@@ -1137,6 +1143,7 @@ Minqar al-Nasr II,lance,FALSE,80,30,30,110,40,110,0
 Tusk Lance,lance,FALSE,100,30,30,110,40,90,0
 Tusk Lance+,lance,FALSE,100,30,30,110,40,90,0
 Sabertooth,lance,FALSE,100,30,30,110,40,90,0
+Saber Fang,lance,FALSE,10,30,50,50,60,120,80
 Gama Pilebunker I,lance,FALSE,100,50,50,80,70,0,0
 Gama Pilebunker II,lance,FALSE,90,60,80,80,70,20,0
 Gama Drill I,lance,FALSE,100,80,30,30,80,80,0
@@ -1336,6 +1343,7 @@ Jyura Demolisher II,gunlance,FALSE,90,100,40,50,70,50,0
 Twinfang,gunlance,FALSE,100,30,30,110,40,90,0
 Twinfang+,gunlance,FALSE,100,30,30,110,40,90,0
 Ambermarch,gunlance,FALSE,100,30,30,110,40,90,0
+White Night,gunlance,FALSE,10,30,50,50,60,120,80
 Glacial Gunlance I,gunlance,FALSE,50,50,80,120,0,0,0
 Glacial Gunlance II,gunlance,FALSE,100,50,50,80,70,0,0
 Legiana Cannon I,gunlance,FALSE,80,50,50,80,90,0,0
@@ -1511,6 +1519,7 @@ Saber's Bite II,switch-axe,FALSE,110,80,30,30,80,70,0
 Amber Slash,switch-axe,FALSE,90,100,40,50,70,50,0
 Amber Slash+,switch-axe,FALSE,110,30,30,110,40,80,0
 Amber Hoarfrost,switch-axe,FALSE,110,30,30,110,40,80,0
+Moonstone Hoarfrost,switch-axe,FALSE,10,40,50,50,60,120,70
 Bazel Raider I,switch-axe,FALSE,100,50,50,80,70,0,0
 Bazel Raider II,switch-axe,FALSE,70,120,80,60,20,50,0
 Bazelheart,switch-axe,FALSE,170,30,30,60,50,10,50
@@ -1675,6 +1684,7 @@ Gigafrost III,charge-blade,FALSE,70,60,60,100,80,30,0
 Weissritter,charge-blade,FALSE,100,30,30,110,40,90,0
 Weissritter+,charge-blade,FALSE,100,30,30,110,40,90,0
 Elder Wolf Fang,charge-blade,FALSE,100,30,30,110,40,90,0
+Raging Wolf Fang,charge-blade,FALSE,10,30,50,50,60,120,80
 Dear Lutemis,charge-blade,FALSE,70,50,80,100,0,0,0
 Dear Lutemia,charge-blade,FALSE,100,50,50,80,70,0,0
 Dear Hecatel,charge-blade,FALSE,90,50,50,80,80,0,0
@@ -1845,6 +1855,7 @@ Freeze Gale III,insect-glaive,FALSE,70,60,60,100,80,30,0
 Amber Piton,insect-glaive,FALSE,100,30,30,110,40,90,0
 Amber Piton+,insect-glaive,FALSE,100,30,30,110,40,90,0
 Fenrir Storm,insect-glaive,FALSE,100,30,30,110,40,90,0
+Fenrir Rose,insect-glaive,FALSE,10,30,50,50,60,120,80
 Blooming Glaive I,insect-glaive,FALSE,70,70,30,80,0,0,0
 Blooming Glaive II,insect-glaive,FALSE,70,50,80,100,0,0,0
 Blooming Glaive III,insect-glaive,FALSE,50,50,80,120,0,0,0

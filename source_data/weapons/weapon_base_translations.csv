@@ -34,6 +34,7 @@ Frost Blaze III,great-sword,フロストブレイズⅢ,Croc de givre III,Vampa 
 Icicle Fang,great-sword,アイシクルファング,Croc stalactite,Zanna di ghiaccio,Eiszapfen-Reißzahn,Colmillo carámbano,Presa Frígida,Soplowy kieł,Клык стужи,아이시클팡,冰尖巨牙,ناب ثلجي
 Icicle Fang+,great-sword,アイシクルファング改,Croc stalactite +,Zanna di ghiaccio+,Eiszapfen-Reißzahn+,Colmillo carámbano+,Presa Frígida+,Soplowy kieł+,Клык стужи+,아이시클팡+,冰尖巨牙‧改,ناب ثلجي+
 Paladire,great-sword,グラシュバリエ,Sinistre,Brando del paladino,Palafrost,Palafunesto,Paladinatroz,Paladyr,Паладир,그라슈바리에,斷海冰牙,سيف بالاداير
+Glacial Demon,great-sword,グラシュオグル,Démon de glace,Demone glaciale,Gletscherdämon,Demonio glacial,Demônio Glacial,Lodowcowy demon,Ледяной демон,그라슈오거,狂擊巨兇,العفريت الجليدي
 Jagras Blade I,great-sword,ジャグラスブレイドⅠ,Lame Jagras,Lama Jagras I,Jagras-Klinge I,Espadón Jagras I,Lâmina de Jagras I,Ostrze Jagrasa I,Клинок яграса 1,쟈그라스블레이드Ⅰ,凶豺龍之刃Ⅰ,نصل جاغراس I
 Jagras Blade II,great-sword,ジャグラスブレイドⅡ,Lame Jagras II,Lama Jagras II,Jagras-Klinge II,Espadón Jagras II,Lâmina de Jagras II,Ostrze Jagrasa II,Клинок яграса 2,쟈그라스블레이드Ⅱ,凶豺龍之刃Ⅱ,نصل جاغراس II
 Jagras Blade III,great-sword,ジャグラスブレイドⅢ,Lame Jagras III,Lama Jagras III,Jagras-Klinge III,Espadón Jagras III,Lâmina de Jagras III,Ostrze Jagrasa III,Клинок яграса 3,쟈그라스블레이드Ⅲ,凶豺龍之刃Ⅲ,نصل جاغراس III
@@ -217,6 +218,7 @@ Blinding Blaze I,long-sword,眩惑乱刀【閃光】Ⅰ,Fraternité du brasier,O
 Blinding Blaze II,long-sword,眩惑乱刀【閃光】Ⅱ,Fraternité du brasier II,Orizzonte remoto II,Blendende Lohe II,Llamarada cegadora II,Chama Ofuscante II,Oślepiająca pożoga II,Ослепляющее пламя 2,현혹난도【섬광】Ⅱ,眩惑亂刀【閃光】Ⅱ,لهيب مسبب للعمى II
 Ambertooth I,long-sword,氷牙刀【琥珀】Ⅰ,Dent d'ambre,Dente d’ambra I,Bernsteinzahn I,Diente ámbar I,Caninâmbar I,Bursztynowy ząb I,Янтарный зуб 1,빙아도【호박】Ⅰ,冰牙刀【琥珀】Ⅰ,سن الكهرمان I
 Ambertooth II,long-sword,氷牙刀【琥珀】Ⅱ,Dent d'ambre II,Dente d’ambra II,Bernsteinzahn II,Diente ámbar II,Caninâmbar II,Bursztynowy ząb II,Янтарный зуб 2,빙아도【호박】Ⅱ,冰牙刀【琥珀】Ⅱ,سن الكهرمان II
+Adularia Edge,long-sword,アデュラルエッジ,Lame Adularia,Lama adularia,Adularia-Schneide,Filo Adularia,Gume de Adulária,Adularowe ostrze,Грань адулярии,아듀럴에지,亞鐸霜鋒,نصل الصخر الناري
 First Dance I,long-sword,アルリーシャⅠ,Danse mortelle,Primo ballo I,Erster Tanz I,Primer Baile I,Primeira Dança I,Pierwszy taniec I,Первый танец 1,알리샤Ⅰ,星空太刀Ⅰ,الرقصة الأولى I
 First Dance II,long-sword,アルリーシャⅡ,Danse mortelle II,Primo ballo II,Erster Tanz II,Primer Baile II,Primeira Dança II,Pierwszy taniec II,Первый танец 2,알리샤Ⅱ,星空太刀Ⅱ,الرقصة الأولى II
 First Dance III,long-sword,アルリーシャⅢ,Danse mortelle III,Primo ballo III,Erster Tanz III,Primer Baile III,Primeira Dança III,Pierwszy taniec III,Первый танец 3,알리샤Ⅲ,星空太刀Ⅲ,الرقصة الأولى III
@@ -404,6 +406,7 @@ Laguna Blossom II,sword-and-shield,ラグーナブロッサムⅡ,Éclosion Lagu
 Icicle Spike,sword-and-shield,アイシクルスパイク,Stalactite,Punta di ghiaccio,Eiszapfen,Carámbano,Cravo Frígido,Soplowy kolec,Шип стужи,아이시클스파이크,冰尖利刃,شوك ثلجي
 Icicle Spike+,sword-and-shield,アイシクルスパイク改,Stalactite +,Punta di ghiaccio+,Eiszapfen+,Carámbano+,Cravo Frígido+,Soplowy kolec+,Шип стужи+,아이시클스파이크+,冰尖利刃‧改,شوك ثلجي+
 Nardebosche,sword-and-shield,ナールドボッシェ,Nibelheim,Nardebosche,Nardebosche,Nardebosche,Nardebosche,Nardebosche,Острие севера,날도보시,冰牙銳爪,نارديبوشا
+Silverbosche,sword-and-shield,シルバーボッシュ,Silverbosche,Silverbosche,Silberbosche,Silverbosche,Silverbosche,Silverbosche,Серебряное острие,실버보슈,銀白雪波,السيف والدرع الفضي
 Glacial Grace I,sword-and-shield,グレイスファイターⅠ,Grâce polaire,Grazia glaciale I,Gletscher-Anmut I,Gracia Glacial I,Bênção Glacial I,Gracja lodowcowa I,Ледяная краса 1,그레이스파이터Ⅰ,優雅鬥士Ⅰ,قوة الجليد I
 Glacial Grace II,sword-and-shield,グレイスファイターⅡ,Grâce polaire II,Grazia glaciale II,Gletscher-Anmut II,Gracia Glacial II,Bênção Glacial II,Gracja lodowcowa II,Ледяная краса 2,그레이스파이터Ⅱ,優雅鬥士Ⅱ,قوة الجليد II
 Rimespire,sword-and-shield,トリアングラー,Carnage arctique,Guglia glaciale,Raureifspitze,Aguja de Escarcha,Pilártico,Szronwieża,Ледяной шип,트라이앵글러,三星劍,سيف الصقيع
@@ -592,6 +595,7 @@ Freeze Chain II,dual-blades,フリーズチェーンⅡ,Tronçonneuse de glace I
 Blizzarioths,dual-blades,ニヴルブリザード,Blizzarioths,Tempeste Barioth,Blizzarioth-Klingen,Neviscarioths,Nevascarioths,Śnieszczoty,Клинки вьюги,니블블리자드,暗霧蘊劍,بليزاريوث
 Blizzarioths+,dual-blades,ニヴルブリザード改,Blizzarioths +,Tempeste Barioth+,Blizzarioth-Klingen+,Neviscarioths+,Nevascarioths+,Śnieszczoty+,Клинки вьюги+,니블블리자드+,暗霧蘊劍‧改,بليزاريوث+
 Mountain Blizzarioths,dual-blades,ベルゲルブリザード,Blizzarioths montagneux,Tempeste montane,Blizzarioth-Bergklingen,Monte Neviscarioths,Nevascarioths do Cume,Górskie śnieszczoty,Клинки горной вьюги,베르게르블리자드,寒霜暴風劍,بليزاريوث جبلي
+Bergel Vetra,dual-blades,ベルゲルヴァトラ,Bergel Vetra,Bergel Vetra,Bergel Vetra,Bergel Vetra,Bergel Vetra,Bergel Vetra,Бергель ветра,베르겔바토라,貝古特拉,سيف عملاق الشتاء الأبدي
 Rending Beaks I,dual-blades,ビークダガーⅠ,Coutelas farouches,Becchi laceranti I,Schneidende Schnäbel I,Picos Desgarradores I,Bicos Dilacerantes I,Rozrywające dzioby I,Острый клюв 1,비크대거Ⅰ,釘鉤小刀Ⅰ,مِنقار الشطر I
 Rending Beaks II,dual-blades,ビークダガーⅡ,Coutelas farouches II,Becchi laceranti II,Schneidende Schnäbel II,Picos Desgarradores II,Bicos Dilacerantes II,Rozrywające dzioby II,Острый клюв 2,비크대거Ⅱ,釘鉤小刀Ⅱ,مِنقار الشطر II
 Rending Beaks III,dual-blades,ビークダガーⅢ,Coutelas farouches III,Becchi laceranti III,Schneidende Schnäbel III,Picos Desgarradores III,Bicos Dilacerantes III,Rozrywające dzioby III,Острый клюв 3,비크대거Ⅲ,釘鉤小刀Ⅲ,مِنقار الشطر III
@@ -775,6 +779,7 @@ Aqua Flora+,hammer,アクア・フローラ改,Fleur aquatique +,Flora acquatica
 Aqua Florescence,hammer,アクア・フローレス,Floraison aquatique,Fioritura acquatica,Aqua-Blüte,Florescencia aguamarina,Aquaflorescência,Aqua rozkwit,Аква-расцвет,아크마-플로레스,水流花神,الإزهار المائي
 Glacial Bash I,hammer,アイシクルバッシュⅠ,Assaut polaire I,Distruttore glaciale I,Gletscher-Schlag I,Golpe glacial I,Golpe Glacial I,Lodowcowy młot I,Ледяной удар 1,아이시클배시Ⅰ,冰尖強鎚Ⅰ,ضربة الجليد I
 Glacial Bash II,hammer,アイシクルバッシュⅡ,Assaut polaire II,Distruttore glaciale II,Gletscher-Schlag II,Golpe glacial II,Golpe Glacial II,Lodowcowy młot II,Ледяной удар 2,아이시클배시Ⅱ,冰尖強鎚Ⅱ,ضربة الجليد II
+Polaris Bash,hammer,ポラリスバッシュ,Frappe de Polaris,Schianto polaris,Polaris-Schlag,Mazo Polaris,Golpe Polaris,Młot polarny,Полярный удар,폴라리스배시,北極星重擊,مطرقة نجم الشمال
 Girros Hammer I,hammer,ギルオスハンマーⅠ,Marteau Girros,Martello Girros I,Girros-Hammer I,Martillo Girros I,Martelo de Girros I,Młot Girrosa I,Молот гирроса 1,기르오스해머Ⅰ,凶顎龍鎚Ⅰ,مطرقة غيروس I
 Girros Hammer II,hammer,ギルオスハンマーⅡ,Marteau Girros II,Martello Girros II,Girros-Hammer II,Martillo Girros II,Martelo de Girros II,Młot Girrosa II,Молот гирроса 2,기르오스해머Ⅱ,凶顎龍鎚Ⅱ,مطرقة غيروس II
 Malady's Fist I,hammer,マラドマトラカⅠ,Poing de la mort,Pugno infetto I,Leidensfaust I,Puño de Plaga I,Punho da Aflição I,Pięść zarazy I,Ядовитый кулак 1,마라드마트래커Ⅰ,馬拉多戰鎚Ⅰ,قبضة المرض I
@@ -1030,6 +1035,7 @@ Datura Maestro I,hunting-horn,ダチュラマエストロⅠ,Maestria du diable,
 Datura Maestro II,hunting-horn,ダチュラマエストロⅡ,Maestria du diable II,Maestro datura II,Datura-Maestro II,Maestro Datura II,Maestro de Datura II,Maestro datury II,Маэстро дурмана 2,다추라마에스트로Ⅱ,曼陀羅巨匠Ⅱ,المايسترو داتورا II
 Icicle Horn I,hunting-horn,アイシクルホルンⅠ,Corne de glace,Corno ghiacciolo I,Eiszapfenhorn I,Cuerno carámbano I,Berrante Frígido I,Lodowy róg I,Льдистый рог 1,아이시클호른Ⅰ,冰尖號角Ⅰ,قرن ثلجي I
 Icicle Horn II,hunting-horn,アイシクルホルンⅡ,Corne de glace II,Corno ghiacciolo II,Eiszapfenhorn II,Cuerno carámbano II,Berrante Frígido II,Lodowy róg II,Льдистый рог 2,아이시클호른Ⅱ,冰尖號角Ⅱ,قرن ثلجي II
+Bringuiro,hunting-horn,グィラキエース,Bringuiro,Bringuiro,Bringuiro,Bringuiro,Guirogelante,Bringuiro,Брингуиро,귀라키에이스,瑰麗雪霜,قرن الصقيع
 Lumu Horn I,hunting-horn,ウルムーホルンⅠ,Corne Lumu,Corno Lumu I,Paolumu-Horn I,Cuerno Lumu I,Sonoro de Lumu I,Róg Lumu I,Рог луму 1,우르무호른Ⅰ,浮空龍號角Ⅰ,قرن لومو I
 Lumu Horn II,hunting-horn,ウルムーホルンⅡ,Corne Lumu II,Corno Lumu II,Paolumu-Horn II,Cuerno Lumu II,Sonoro de Lumu II,Róg Lumu II,Рог луму 2,우르무호른Ⅱ,浮空龍號角Ⅱ,قرن لومو II
 Lumu Barone I,hunting-horn,ウルムーバローネⅠ,Barone Lumu,Barone Lumu I,Paolumu-Barone I,Barone Lumu I,Barone de Lumu I,Barone Lumu I,Олифан луму 1,우르무바로네Ⅰ,浮空龍長號Ⅰ,قرن بارون I
@@ -1137,6 +1143,7 @@ Minqar al-Nasr II,lance,ネスルメンカールⅡ,Minqar al-Nasr II,Minqar al-
 Tusk Lance,lance,トゥースランス,Lance défense,Lancia di zanna,Hauer-Lanze,Lanza colmillo,Lança de Presa,Lanca kła,Копье из клыка,투스랜스,冰牙長槍,رمح الناب
 Tusk Lance+,lance,トゥースランス改,Lance défense +,Lancia di zanna+,Hauer-Lanze+,Lanza colmillo+,Lança de Presa+,Lanca kła+,Копье из клыка+,투스랜스+,冰牙長槍‧改,رمح الناب+
 Sabertooth,lance,セイバートゥース,Dent de sabre,Dentiasciabola,Säbelzahn,Diente de sable,Dente-de-sabre,Szabloząb,Саблезуб,세이버투스,冰牙刀鋒,سيف الناب المنحني
+Saber Fang,lance,セイバーロドス,Dent de sabre,Zanna sciabola,Säbelreißzahn,Colmillo sable,Presa de Sabre,Szablokieł,Саблеклык,세이버로도스,騎兵羅德斯,ناب السيف
 Gama Pilebunker I,lance,ガマルパイルⅠ,Ruineur Gama,Maglio Gama I,Gama-Bunkerbrecher I,Perforadora Gama I,Bate-estacas Gama I,Włócznia Gamy I,Штык гамы 1,가마루파일Ⅰ,岩賊龍刺針Ⅰ,مدفع غاما الرشاش I
 Gama Pilebunker II,lance,ガマルパイルⅡ,Ruineur Gama II,Maglio Gama II,Gama-Bunkerbrecher II,Perforadora Gama II,Bate-estacas Gama II,Włócznia Gamy II,Штык гамы 2,가마루파일Ⅱ,岩賊龍刺針Ⅱ,مدفع غاما الرشاش II
 Gama Drill I,lance,ガマルスクリューⅠ,Foreuse Gama,Trivella Gama I,Gama-Bohrer I,Taladro Gama I,Broca Gama I,Wiertło Gamy I,Бур гамы 1,가무르스크루Ⅰ,岩賊龍螺桿Ⅰ,مثقاب غاما I
@@ -1336,6 +1343,7 @@ Jyura Demolisher II,gunlance,シュラムベムスターⅡ,Démolisseur Jyura I
 Twinfang,gunlance,デュアルトゥース,Double peine,Gemelzanna,Zwillingsreißzahn,Colmillo doble,Presadupla,Dwukieł,Двойной клык,듀얼투스,雙鬥冰牙,ناب ثنائي
 Twinfang+,gunlance,デュアルトゥース改,Double peine+,Gemelzanna+,Zwillingsreißzahn+,Colmillo doble+,Presadupla+,Dwukieł+,Двойной клык+,듀얼투스+,雙鬥冰牙‧改,ناب ثنائي+
 Ambermarch,gunlance,アンバーマーチ,Assaut d'ambre,Marciambrata,Bernsteinmarsch,Marcha ambarina,Marchâmbar,Bursztynowy marsz,Янтарный марш,앰버마치,琥珀行軍,مسيرة الكهرمان
+White Night,gunlance,ホワイトナイツ,Chevalier blanc,Notte bianca,Weiße Nacht,Noche blanca,Noite Branca,Biała noc,Белый рыцарь,화이트나이트,白晝之夜,الليل الأبيض
 Glacial Gunlance I,gunlance,グレイスガンランスⅠ,Lancecanon polaire,Lancia-fucile glaciale I,Gletscher-Gewehrlanze I,Lanza pistola Glacial I,Lançarma Glacial I,Lancopał lodowcowy I,Ледяная копьепушка 1,그레이스건랜스Ⅰ,優雅銃槍Ⅰ,بندقية رمح جليدية I
 Glacial Gunlance II,gunlance,グレイスガンランスⅡ,Lancecanon polaire II,Lancia-fucile glaciale II,Gletscher-Gewehrlanze II,Lanza pistola Glacial II,Lançarma Glacial II,Lancopał lodowcowy II,Ледяная копьепушка 2,그레이스건랜스Ⅱ,優雅銃槍Ⅱ,بندقية رمح جليدية II
 Legiana Cannon I,gunlance,ギエナキャノンⅠ,Canon Legiana,Cannone Legia I,Legiana-Kanone I,Cañón Legiana I,Canhão de Legiana I,Działo Legiany I,Пушка легианы 1,기에나캐논Ⅰ,風漂龍加農砲Ⅰ,مدفع ليغيانا I
@@ -1511,6 +1519,7 @@ Saber's Bite II,switch-axe,牙竜剣斧【喰裂】Ⅱ,Morsure de sabre II,Morso
 Amber Slash,switch-axe,アンバースラッシュ,Lame ambrée,Taglio d'ambra,Bernsteinhieb,Tajo ámbar,Corte Âmbar,Bursztynowy wycinacz,Янтарный взмах,앰버슬래시,琥珀碎斷,ضربة الكهرمان
 Amber Slash+,switch-axe,アンバースラッシュ改,Lame ambrée +,Taglio d'ambra+,Bernsteinhieb+,Tajo ámbar+,Corte Âmbar+,Bursztynowy wycinacz+,Янтарный взмах+,앰버슬래시+,琥珀碎斷‧改,ضربة الكهرمان+
 Amber Hoarfrost,switch-axe,ゴアフロストアンバー,Engelure ambrée,Brina d'ambra,Bernstein-Raureif,Helada ambarina,Geada Âmbar,Bursztynowy szron,Янтарный иней,고어프로스트앰버,冰霜琥珀,نطاق صقيع الكهرمان
+Moonstone Hoarfrost,switch-axe,ゴアフロストオラリア,Pierre-de-lune,Brina di luna,Mondstein-Raureif,Piedra luna escarchada,Geada de Pedra Lunar,Księżycowy szron,Иней лунного камня,고어프로스트올레리아,冰霜奧拉烈,صقيع حجر القمر
 Bazel Raider I,switch-axe,バゼルレイダーⅠ,Prédateur Bazel,Predone Bazel I,Bazel-Räuber I,Asalto Bazel I,Saqueador de Bazel I,Siepacz Bazela I,Налетчик базела 1,바젤레이더Ⅰ,爆鱗龍劍斧Ⅰ,مغير بازيل I
 Bazel Raider II,switch-axe,バゼルレイダーⅡ,Prédateur Bazel II,Predone Bazel II,Bazel-Räuber II,Asalto Bazel II,Saqueador de Bazel II,Siepacz Bazela II,Налетчик базела 2,바젤레이더Ⅱ,爆鱗龍劍斧Ⅱ,مغير بازيل II
 Bazelheart,switch-axe,バゼルハート,Cœur Bazel,Cuore Bazel,Bazel-Herz,Corazón Bazel,Bazelalma,Bazelserce,Сердце базела,바젤하트,爆鱗龍心,قلب بازيل
@@ -1675,6 +1684,7 @@ Gigafrost III,charge-blade,ギガフロストⅢ,Géant du froid III,Gigagelo II
 Weissritter,charge-blade,ヴァイスリッタ－,Weissritter,Weissritter,Weißritter,Weissritter,Weissritter,Weissritter,Белый рыцарь,바이스리터,純白騎士,فايسريتر
 Weissritter+,charge-blade,ヴァイスリッタ－改,Weissritter +,Weissritter+,Weißritter+,Weissritter+,Weissritter+,Weissritter+,Белый рыцарь+,바이스리터+,純白騎士‧改,فايسريتر+
 Elder Wolf Fang,charge-blade,エルガーヴォルフ,Croc de loup ancien,Zanna di lupo,Ältestenwolf-Reißzahn,Colmillo de viejo lobo,Presa do Lobo Ancião,Kieł starszego wilka,Клык старого волка,엘가볼프,悍怒之狼,ناب ذئب معمِّر
+Raging Wolf Fang,charge-blade,レイジングヴォルフ,Croc de loup furieux,Zanna lupo furioso,Wütendwolf-Reißzahn,Colmillo lobo furioso,Presa do Lobo Feroz,Kieł wściekłego wilka,Клык неистового волка,레이징볼프,憤怒之狼,ناب الذئب الثائر
 Dear Lutemis,charge-blade,ディア＝ルテミス,Chère Lutemis,Lutemis egregio,Redlicher Lutemis,Caro Lutemis,Querida Lutemis,Droga Lutemis,Благородный Лютемис,디아루테미스,焰火盾斧,دير لوتيميس
 Dear Lutemia,charge-blade,ディア＝ルテミア,Chère Lutemia,Lutemia egregio,Redliche Lutemia,Cara Lutemia,Querida Lutemia,Droga Lutemio,Благородная Лютемия,디아루테미아,雌火盾斧,دير لوتيميا
 Dear Hecatel,charge-blade,ディア＝ヘカテル,Chère Hecatel,Hecatel egregio,Redlicher Hecatel,Caro Hecatel,Querida Hecatel,Droga Hecatel,Благородный Гекатель,디아헤카테르,櫻火盾斧,دير هيكاتيل
@@ -1845,6 +1855,7 @@ Freeze Gale III,insect-glaive,フリーズゲイルⅢ,Vent de glace III,Vento g
 Amber Piton,insect-glaive,アンバーハーケン,Piton ambre,Pitone d'ambra,Bernstein-Haken,Pitón ámbar,Pitão Âmbar,Bursztynowy hak,Янтарный питон,앰버하켄,琥珀曲棍,بيتون الكهرمان
 Amber Piton+,insect-glaive,アンバーハーケン改,Piton ambre+,Pitone d'ambra+,Bernstein-Haken+,Pitón ámbar+,Pitão Âmbar+,Bursztynowy hak+,Янтарный питон+,앰버하켄+,琥珀曲棍‧改,بيتون الكهرمان+
 Fenrir Storm,insect-glaive,フェンリルストーム,Orage Fenrir,Tempesta di Fenrir,Fenrir-Sturm,Tormenta de Fenrir,Tempestade de Fenrir,Burza Fenrira,Волчья буря,펜릴스톰,巨狼暴風雨,عاصفة فينرير
+Fenrir Rose,insect-glaive,フェンリルフローズ,Rose de Fenrir,Rosa Fenrir,Fenrir-Rose,Rosa Fenrir,Rosa de Fenrir,Róża Fenrira,Роза Фенрира,펜릴프로즈,巨狼霜凍,زهرة فينرير
 Blooming Glaive I,insect-glaive,ブルームブレードⅠ,Glaive du tourment,Falcione piumato I,Blühende Glefe I,Glaive Floral I,Lâmina Pujante I,Kwitnące ostrze I,Пестрая глефа 1,블룸블레이드Ⅰ,花朵之刀Ⅰ,السيف المتّقد I
 Blooming Glaive II,insect-glaive,ブルームブレードⅡ,Glaive du tourment II,Falcione piumato II,Blühende Glefe II,Glaive Floral II,Lâmina Pujante II,Kwitnące ostrze II,Пестрая глефа 2,블룸블레이드Ⅱ,花朵之刀Ⅱ,السيف المتّقد II
 Blooming Glaive III,insect-glaive,ブルームブレードⅢ,Glaive du tourment III,Falcione piumato III,Blühende Glefe III,Glaive Floral III,Lâmina Pujante III,Kwitnące ostrze III,Пестрая глефа 3,블룸블레이드Ⅲ,花朵之刀Ⅲ,السيف المتّقد III
@@ -2036,6 +2047,7 @@ Frost Blitz III,light-bowgun,フロストブリッツⅢ,Déchiqueteur de givre 
 Blizzard Cannon,light-bowgun,ブリザードカノン,Canon blizzard,Cannone tormenta,Blizzard-Kanone,Cañón ventisca,Canhão da Nevasca,Działo zamieci,Пушка метели,블리자드캐논,暴風加農,مِدفع العاصفة
 Blizzard Cannon+,light-bowgun,ブリザードカノン改,Canon blizzard +,Cannone tormenta+,Blizzard-Kanone+,Cañón ventisca+,Canhão da Nevasca+,Działo zamieci+,Пушка метели+,블리자드캐논+,暴風加農‧改,مِدفع العاصفة+
 Blizzard Volley,light-bowgun,ブリザードヘイル,Salve blizzard,Raffica tormenta,Blizzard-Salve,Volea de ventisca,Salva da Nevasca,Salwa zamieci,Ледяной залп,블리자드헤일,暴風雹弩,وابل العاصفة
+Blizzard Gust,light-bowgun,ブリザードガスト,Rafale de blizzard,Colpo di bufera,Blizzard-Böe,Ráfaga de granizo,Rajada Gelada,Podmuch śnieżycy,Порыв вьюги,블리자드가스트,暴風突擊,قوة العاصفة
 Laguna Blitz I,light-bowgun,ラグーナブリッツⅠ,Blitz Laguna,Fulmine lagunare I,Laguna-Blitz I,Saeta Coralina I,Bombardeio Laguna I,Blitz laguny I,Разящая лагуна 1,라그나블리츠Ⅰ,潟湖迅擊弩Ⅰ,غارة لاغونا I
 Laguna Blitz II,light-bowgun,ラグーナブリッツⅡ,Blitz Laguna II,Fulmine lagunare II,Laguna-Blitz II,Saeta Coralina II,Bombardeio Laguna II,Blitz laguny II,Разящая лагуна 2,라그나블리츠Ⅱ,潟湖迅擊弩Ⅱ,غارة لاغونا II
 Hunter's Rifle I,light-bowgun,ハンターライフルⅠ,Fusil du chasseur,Fucile da cacciatore I,Jägerbüchse I,Rifle de cazador I,Rifle do Caçador I,Karabin łowcy I,Ружье охотника 1,헌터라이플Ⅰ,獵人步槍Ⅰ,بندقية الصياد I
@@ -2159,6 +2171,7 @@ Fatal Assault II,heavy-bowgun,フェイタルアサルトⅡ,Assaut fatal II,Ass
 Fatal Assault III,heavy-bowgun,フェイタルアサルトⅢ,Assaut fatal III,Assalto fatale III,Tödlicher Überfall III,Asalto fatal III,Assalto Fatal III,Śmiertelna nawała III,Смертельный штурмовик 3,페이털어설트Ⅲ,致命突擊Ⅲ,البطش المميت III
 Icicle Assault I,heavy-bowgun,アイシクルアサルトⅠ,Assaut stalactine I,Assalto di stalattiti I,Eiszapfen-Überfall I,Témpano de asalto I,Assalto Frígido I,Lodowa nawała I,Штурмовик стужи 1,아이시클어설트Ⅰ,冰尖突擊Ⅰ,البطش الثلجي I
 Icicle Assault II,heavy-bowgun,アイシクルアサルトⅡ,Assaut stalactine II,Assalto di stalattiti II,Eiszapfen-Überfall II,Témpano de asalto II,Assalto Frígido II,Lodowa nawała II,Штурмовик стужи 2,아이시클어썰트Ⅱ,冰尖突擊Ⅱ,البطش الثلجي II
+Final Guerilla,heavy-bowgun,ゲェレラスフィーネ,Guérilla finale,Guerriglia finale,Letzter Guerilla,Guerrilla Final,Guerrilha Final,Ostateczne działo,Последняя герилья,게릴라스피네,蓋烈斯咆哮,المدفع النهائي
 Nergal Roar,heavy-bowgun,ネルガルグレア,Hurleur Nergal,Ruggito Nergi,Nergal-Gebrüll,Rugido Nergal,Rugido de Nergal,Nergalny Ryk,Рев нергиганта,네르갈글레어,滅盡龍重弩槍,زئير نيرغال
 Destruction's Fusillade,heavy-bowgun,撃滅の砲火,Fusillade de la destruction,Raffica distruttrice,Zerstörungssalve,Fusiladora,Fuzilaria da Destruição,Kanonada Zniszczenia,Канонада,격멸의포화,擊滅砲火,وابل من الدمار
 Ruinous Destruction,heavy-bowgun,撃滅の砲火【戦】,Destruction exorbitante,Distruzione razziante,Ruinen-Zerstörung,Destrucción regia,Destruição Ferrenha,Niszczycielska szkoda,Губительное разрушение,격멸의포화【전】,擊滅砲火【戰】,دمار الضَرُوس
@@ -2365,6 +2378,7 @@ Laguna Shot I,bow,ラグーナシュートⅠ,Arc Laguna,Colpo lagunare I,Lagune
 Laguna Shot II,bow,ラグーナシュートⅡ,Arc Laguna II,Colpo lagunare II,Lagunenschuss II,Tiro Coralino II,Disparo Laguna II,Strzał laguny II,Выстрел лагуны 2,라그나슛Ⅱ,潟湖射手Ⅱ,طلقة لاغونا II
 Icicle Blizzard I,bow,アイシクルブリザードⅠ,Blizzard glacial I,Tormenta acuminata I,Eiszapfen-Blizzard I,Carámbano ventisca I,Nevasca Frígida I,Lodowa zamieć I,Льдистая метель 1,아이시클블리자드Ⅰ,冰尖暴風Ⅰ,العاصفة الثلجية I
 Icicle Blizzard II,bow,アイシクルブリザードⅡ,Blizzard glacial II,Tormenta acuminata II,Eiszapfen-Blizzard II,Carámbano ventisca II,Nevasca Frígida II,Lodowa zamieć II,Льдистая метель 2,아이시클블리자드Ⅱ,冰尖暴風Ⅱ,العاصفة الثلجية II
+Edelescha,bow,エーデルエスタ,Edelescha,Edelescha,Edelescha,Edelescha,Edelescha,Edelescha,Эдельэсха,에델에스타,高貴邪神,قوس الموت النبيل
 Hidden Bow,bow,ヒドゥンボウ,Arc occulte,Arco occulto,Versteckter Bogen,Arco oculto,Arco Oculto,Ukryty łuk,Скрытый лук,히든보우,隱密長弓,قوس مخفي
 Hidden Bow+,bow,ヒドゥンボウ改,Arc occulte +,Arco occulto+,Versteckter Bogen+,Arco oculto+,Arco Oculto+,Ukryty łuk+,Скрытый лук+,히든보우+,隱密長弓‧改,قوس مخفي+
 Night Flight,bow,闇夜弓【影縫】,Vol de nuit,Volo notturno,Nachtflug,Vuelo nocturno,Voo Noturno,Nocny lot,Полет в ночи,암야궁【영봉】,闇夜弓【影縫】,قوس ليلي
