@@ -224,12 +224,12 @@ Xeno'jiiva,Left Hindleg,,150,,,orange
 Xeno'jiiva,Right Hindleg,,150,,,orange
 Xeno'jiiva,Wings,,300,600,,white
 Xeno'jiiva,Tail,,350,,1050,green
-Alatreon,Head,,555,,,red
-Alatreon,Body,,600,,,orange
-Alatreon,Wings,,375,750,,white
-Alatreon,Arms,,480,,,white
-Alatreon,Legs,,400,,,orange
-Alatreon,Tail,,375,,365,orange
+Alatreon,Head,,555,150,,red
+Alatreon,Body,,600,75,,orange
+Alatreon,Wings,,375,75,,white
+Alatreon,Arms,,480,75,,white
+Alatreon,Legs,,400,75,,orange
+Alatreon,Tail,,375,75,365,orange
 Behemoth,Horns,,500,750,,orange
 Behemoth,Head,,2500,,,orange
 Behemoth,Back,,2250,,,green
@@ -237,3 +237,10 @@ Behemoth,Belly,,4500,,,green
 Behemoth,Forearms,,2250,6750,,red
 Behemoth,Hindlegs,,1650,,,white
 Behemoth,Tail,,1200,,2000,orange
+Frostfang Barioth,Head,,420,,,red
+Frostfang Barioth,Body,,400,,,orange
+Frostfang Barioth,Left Foreleg,,200,,,white
+Frostfang Barioth,Right Foreleg,,200,,,white
+Frostfang Barioth,Left Hindleg,,220,,,orange
+Frostfang Barioth,Right Hindleg,,220,,,orange
+Frostfang Barioth,Tail,,200,,400,green
