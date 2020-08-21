@@ -598,8 +598,8 @@ id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,i
 873,Barioth Greatspike,material,,10,,6020,,,Body,White
 874,Barioth Lash,material,,10,,6130,,,Tail,White
 875,Amber Hardfang,material,,10,,6240,,,Fang,Beige
-1309,Silversnow Pelt,material,,11,,4900,,,,
-1310,Bergcrusher Claw,material,,11,,7600,,,,
+1309,Silversnow Pelt,material,,11,,4900,,,Hide,White
+1310,Bergcrusher Claw,material,,11,,7600,,,Fang,White
 1307,Silverwhite Frostfang,material,,11,,10300,,,Fang,White
 876,Nargacuga Shard,material,,10,,2940,,,Scale,Gray
 877,Nargacuga Blackfur+,material,,10,,4440,,,Hide,Gray
