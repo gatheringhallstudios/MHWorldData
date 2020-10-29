@@ -3,6 +3,7 @@ mhw.db
 .pytest_cache/
 .vscode
 /artifacts
+*.DS_store
 
 # Because different people may have different python versions, we don't commit the lockfile
 Pipfile.lock
