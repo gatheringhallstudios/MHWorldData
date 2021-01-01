@@ -73,18 +73,18 @@ id,result,first,second,quantity
 72,Cluster Bomb 2,Cluster Bomb 1,Gunpowder Level 2,1
 73,Cluster Bomb 3,Cluster Bomb 1,Gunpowder Level 3,1
 74,Slicing Ammo,Slashberry,,1
-75,Flaming Ammo,Normal Ammo 1,Fire Herb,3
-76,Water Ammo,Normal Ammo 1,Flowfern,3
-77,Thunder Ammo,Normal Ammo 1,Thunderbug,6
-78,Freeze Ammo,Normal Ammo 1,Snow Herb,3
+75,Flaming Ammo,Normal Ammo 1,Fire Herb,6
+76,Water Ammo,Normal Ammo 1,Flowfern,6
+77,Thunder Ammo,Normal Ammo 1,Thunderbug,12
+78,Freeze Ammo,Normal Ammo 1,Snow Herb,6
 79,Dragon Ammo,Normal Ammo 1,Dragonfell Berry,1
-80,Poison Ammo 1,Normal Ammo 1,Toadstool,1
+80,Poison Ammo 1,Normal Ammo 1,Toadstool,2
 81,Poison Ammo 2,Poison Ammo 1,Catalyst,1
-82,Paralysis Ammo 1,Normal Ammo 1,Parashroom,1
+82,Paralysis Ammo 1,Normal Ammo 1,Parashroom,2
 83,Paralysis Ammo 2,Paralysis Ammo 1,Catalyst,1
 84,Sleep Ammo 1,Normal Ammo 1,Sleep Herb,1
 85,Sleep Ammo 2,Sleep Ammo 1,Catalyst,1
-86,Exhaust Ammo 1,Normal Ammo 1,Exciteshroom,1
+86,Exhaust Ammo 1,Normal Ammo 1,Exciteshroom,2
 87,Exhaust Ammo 2,Exhaust Ammo 1,Catalyst,1
 88,Recover Ammo 1,Normal Ammo 1,Potion,2
 89,Recover Ammo 2,Recover Ammo 1,Catalyst,2
