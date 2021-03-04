@@ -1535,6 +1535,16 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1533,Kulve Taroth's Rage β+,12,arms,both,4,4,0,176,194,214,4,-2,3,-2,-4
 1534,Kulve Taroth's Malice β+,12,waist,both,4,2,0,176,194,214,4,-2,3,-2,-4
 1535,Kulve Taroth's Wrath β+,12,legs,both,4,1,1,176,194,214,4,-2,3,-2,-4
+1581,Tentacle Cowl  γ+,12,head,both,4,2,0,176,194,214,-3,4,3,0,-2
+1582,Tentacle Cloak  γ+,12,chest,both,4,0,0,176,194,214,-3,4,3,0,-2
+1583,Tentacle Gloves  γ+,12,arms,both,4,2,0,176,194,214,-3,4,3,0,-2
+1584,Tentacle Coil  γ+,12,waist,both,4,2,0,176,194,214,-3,4,3,0,-2
+1585,Tentacle Greaves  γ+,12,legs,both,4,0,0,176,194,214,-3,4,3,0,-2
+1586,Rimeguard Helm  γ+,12,head,both,4,4,1,180,198,218,-3,2,-1,4,-1
+1587,Rimeguard Mail γ+,12,chest,both,4,2,1,180,198,218,-3,2,-1,4,-1
+1588,Rimeguard Vambraces  γ+,12,arms,both,4,3,0,180,198,218,-3,2,-1,4,-1
+1589,Rimeguard Coil  γ+,12,waist,both,4,1,0,180,198,218,-3,2,-1,4,-1
+1590,Rimeguard Greaves  γ+,12,legs,both,4,2,0,180,198,218,-3,2,-1,4,-1
 1457,Oolong Hair α+,9,head,both,4,0,0,120,158,178,1,1,1,4,1
 1458,Oolong Vest α+,9,chest,both,4,0,0,120,158,178,1,1,1,4,1
 1459,Oolong Sleeves α+,9,arms,both,4,0,0,120,158,178,1,1,1,4,1
@@ -1550,6 +1560,36 @@ id,name_en,rarity,type,gender,slot_1,slot_2,slot_3,defense_base,defense_max,defe
 1523,Rose Arms α+,10,arms,both,4,0,0,150,182,202,4,1,1,1,1
 1524,Rose Belt α+,10,waist,both,4,1,0,150,182,202,4,1,1,1,1
 1525,Rose Boots α+,10,legs,both,4,1,0,150,182,202,4,1,1,1,1
+1556,Passionate Headdress α+,10,head,both,3,0,0,156,188,208,1,4,1,1,1
+1557,Passionate Body α+,10,chest,both,4,1,0,156,188,208,1,4,1,1,1
+1558,Passionate Arms α+,10,arms,both,4,3,0,156,188,208,1,4,1,1,1
+1559,Passionate Belt α+,10,waist,both,1,1,0,156,188,208,1,4,1,1,1
+1560,Passionate Leggings α+,10,legs,both,1,1,0,156,188,208,1,4,1,1,1
+1561,Demonlord Hair α+,11,head,both,4,0,0,162,186,206,1,1,1,4,1
+1562,Demonlord Cloak α+,11,chest,both,2,2,0,162,186,206,1,1,1,4,1
+1563,Demonlord Blackarm α+,11,arms,both,4,0,0,162,186,206,1,1,1,4,1
+1564,Demonlord Leather Belt α+,11,waist,both,1,1,0,162,186,206,1,1,1,4,1
+1565,Demonlord Boots α+,11,legs,both,4,0,0,162,186,206,1,1,1,4,1
+1571,Dragonhead α+,12,head,both,3,2,2,180,198,218,-1,2,2,0,-4
+1572,Dragonhide α+,12,chest,both,4,4,3,180,198,218,-1,2,2,0,-4
+1573,Dragonclaws α+,12,arms,both,4,1,0,180,198,218,-1,2,2,0,-4
+1574,Dragonbarbs α+,12,waist,both,4,3,3,180,198,218,-1,2,2,0,-4
+1575,Dragonfeet α+,12,legs,both,4,4,0,180,198,218,-1,2,2,0,-4
+1576,Dragonhead β+,12,head,both,4,4,4,180,198,218,-1,2,2,0,-4
+1577,Dragonhide β+,12,chest,both,4,4,4,180,198,218,-1,2,2,0,-4
+1578,Dragonclaws β+,12,arms,both,4,4,4,180,198,218,-1,2,2,0,-4
+1579,Dragonbarbs β+,12,waist,both,4,4,4,180,198,218,-1,2,2,0,-4
+1580,Dragonfeet β+,12,legs,both,4,4,4,180,198,218,-1,2,2,0,-4
+1566,Azure Age Hair α+,12,head,both,4,0,0,170,188,208,2,2,0,0,3
+1567,Azure Age Haori α+,12,chest,both,4,0,0,170,188,208,2,2,0,0,3
+1568,Azure Age Sleeve α+,12,arms,both,1,1,1,170,188,208,2,2,0,0,3
+1569,Azure Age Obi α+,12,waist,both,4,1,1,170,188,208,2,2,0,0,3
+1570,Azure Age Geta α+,12,legs,both,4,1,0,170,188,208,2,2,0,0,3
+1591,Artemis Head α+,11,head,both,1,1,0,140,164,184,2,2,1,1,2
+1592,Artemis Mail α+,11,chest,both,1,1,0,140,164,184,2,2,1,1,2
+1593,Artemis Guards α+,11,arms,both,2,0,0,140,164,184,2,2,1,1,2
+1594,Artemis Coil α+,11,waist,both,3,0,0,140,164,184,2,2,1,1,2
+1595,Artemis Greaves α+,11,legs,both,4,0,0,140,164,184,2,2,1,1,2
 1467,Pearlspring α+,9,head,both,2,1,0,120,158,178,0,0,0,5,0
 1468,Duffel Penguin Mask α+,9,head,both,4,0,0,138,176,196,-1,3,0,4,0
 1469,Sealed Dragon Cloth α+,12,head,both,4,4,0,152,170,190,-3,0,0,1,5

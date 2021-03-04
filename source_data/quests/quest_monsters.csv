@@ -1,1341 +1,1412 @@
 base_id,monster_en,quantity,is_objective
-101,Jagras,7,True
-102,Kestodon,8,True
-102,Great Jagras,1,False
-103,Great Jagras,1,True
-201,Kulu-Ya-Ku,1,True
-201,Rathalos,1,False
-205,Pukei-Pukei,1,True
-205,Great Jagras,1,False
-205,Anjanath,1,False
-205,Rathalos,1,False
-301,Barroth,1,True
-301,Rathian,1,False
-301,Diablos,1,False
-302,Jyuratodus,1,True
-302,Rathian,1,False
-302,Barroth,1,False
-305,Tobi-Kadachi,1,True
-305,Great Jagras,1,False
-305,Anjanath,1,False
-306,Anjanath,1,True
-306,Great Jagras,1,False
-306,Rathalos,1,False
-401,Zorah Magdaros,1,True
-401,Nergigante,1,False
-405,Paolumu,1,True
-405,Tzitzi-Ya-Ku,1,False
-405,Legiana,1,False
-407,Radobaan,1,True
-407,Great Girros,1,False
-408,Legiana,1,True
-408,Tzitzi-Ya-Ku,1,False
-408,Paolumu,1,False
-501,Odogaron,1,True
-501,Great Girros,1,False
-501,Radobaan,1,False
-502,Rathalos,1,True
-502,Anjanath,1,False
-502,Tobi-Kadachi,1,False
-503,Diablos,1,True
-503,Rathian,1,False
-503,Barroth,1,False
-504,Zorah Magdaros,1,True
-504,Nergigante,1,False
-601,Pukei-Pukei,1,True
-601,Rathian,1,False
-601,Barroth,1,False
-601,Bazelgeuse,1,False
-605,Anjanath,1,True
-605,Barroth,1,False
-605,Diablos,1,False
-605,Bazelgeuse,1,False
-607,Pink Rathian,1,True
-607,Tzitzi-Ya-Ku,1,False
-607,Legiana,1,False
-607,Odogaron,1,False
-701,Nergigante,1,True
-801,Kushala Daora,1,True
-802,Teostra,1,True
-803,Vaal Hazak,1,True
-804,Xeno'jiiva,1,True
-805,Bazelgeuse,2,True
-806,Kirin,1,True
-241,Great Jagras,1,True
-151,Kestodon,12,True
-152,Jagras,7,True
-153,Great Jagras,1,False
-153,Pukei-Pukei,1,False
-153,Anjanath,1,False
-153,Rathalos,1,False
-251,Great Jagras,1,True
-251,Pukei-Pukei,1,False
-252,Kulu-Ya-Ku,1,True
-252,Rathalos,1,False
-261,Kulu-Ya-Ku,1,True
-261,Rathian,1,False
-261,Barroth,1,False
-262,Gajau,7,True
-263,Vespoid,14,True
-351,Pukei-Pukei,1,True
-351,Great Jagras,1,False
-351,Anjanath,1,False
-351,Rathalos,1,False
-352,Tobi-Kadachi,1,True
-352,Great Jagras,1,False
-352,Anjanath,1,False
-352,Rathalos,1,False
-361,Barroth,1,True
-361,Rathian,1,False
-361,Jyuratodus,1,False
-361,Diablos,1,False
-362,Jyuratodus,1,True
-362,Rathian,1,False
-362,Barroth,1,False
-363,Kulu-Ya-Ku,1,False
-363,Rathian,1,False
-363,Barroth,1,False
-363,Diablos,1,False
-364,Kulu-Ya-Ku,1,False
-364,Rathian,1,False
-365,Barroth,1,True
-365,Rathian,1,False
-365,Jyuratodus,1,False
-365,Diablos,1,False
-331,Pukei-Pukei,1,True
-332,Barroth,1,True
-333,Tobi-Kadachi,1,True
-451,Anjanath,1,True
-451,Great Jagras,1,False
-451,Tobi-Kadachi,1,False
-451,Rathalos,1,False
-452,Rathian,1,False
-461,Rathian,1,True
-461,Barroth,1,False
-461,Jyuratodus,1,False
-461,Diablos,1,False
-471,Shamos,11,True
-472,Tzitzi-Ya-Ku,1,True
-472,Paolumu,1,False
-472,Legiana,1,False
-472,Odogaron,1,False
-473,Paolumu,1,True
-473,Tzitzi-Ya-Ku,1,False
-473,Legiana,1,False
-473,Odogaron,1,False
-474,Tzitzi-Ya-Ku,1,False
-475,Paolumu,1,True
-475,Tzitzi-Ya-Ku,1,False
-475,Legiana,1,False
-475,Odogaron,1,False
-481,Hornetaur,14,True
-482,Great Girros,1,True
-482,Radobaan,1,False
-482,Odogaron,1,False
-483,Radobaan,1,True
-483,Great Girros,1,False
-483,Odogaron,1,False
-484,Raphinos,5,True
-5003,Tzitzi-Ya-Ku,2,True
-431,Anjanath,1,True
-432,Rathian,1,True
-433,Paolumu,1,True
-434,Radobaan,1,True
-551,Rathalos,1,True
-551,Tobi-Kadachi,1,False
-551,Anjanath,1,False
-551,Rathian,1,False
-552,Rathalos,1,True
-552,Rathian,1,True
-552,Anjanath,1,False
-561,Diablos,1,True
-561,Rathian,1,False
-561,Barroth,1,False
-571,Legiana,1,True
-571,Tzitzi-Ya-Ku,1,False
-571,Paolumu,1,False
-571,Odogaron,1,False
-572,Kirin,1,True
-581,Odogaron,1,True
-581,Great Girros,1,False
-581,Radobaan,1,False
-582,Odogaron,1,True
-582,Great Girros,1,False
-582,Radobaan,1,False
-531,Legiana,1,True
-532,Odogaron,1,True
-533,Rathalos,1,True
-534,Diablos,1,True
-641,Zorah Magdaros,1,True
-641,Nergigante,1,False
-651,Great Jagras,1,True
-651,Pukei-Pukei,1,False
-651,Anjanath,1,False
-651,Rathalos,1,False
-651,Bazelgeuse,1,False
-651,Deviljho,1,False
-652,Pukei-Pukei,1,True
-652,Great Jagras,1,False
-652,Anjanath,1,False
-652,Rathalos,1,False
-652,Bazelgeuse,1,False
-652,Deviljho,1,False
-653,Tobi-Kadachi,1,True
-653,Anjanath,1,False
-653,Rathian,1,False
-653,Rathalos,1,False
-653,Bazelgeuse,1,False
-653,Deviljho,1,False
-654,Anjanath,1,True
-654,Great Jagras,1,False
-654,Tobi-Kadachi,1,False
-654,Rathalos,1,False
-654,Bazelgeuse,1,False
-654,Deviljho,1,False
-655,Rathian,1,True
-655,Tobi-Kadachi,1,False
-655,Anjanath,1,False
-655,Rathalos,1,False
-655,Bazelgeuse,1,False
-655,Deviljho,1,False
-656,Tobi-Kadachi,1,True
-656,Pukei-Pukei,1,False
-656,Rathian,1,False
-656,Bazelgeuse,1,False
-656,Deviljho,1,False
-661,Kulu-Ya-Ku,1,True
-661,Rathian,1,False
-661,Barroth,1,False
-661,Diablos,1,False
-661,Bazelgeuse,1,False
-661,Deviljho,1,False
-662,Barroth,1,True
-662,Rathian,1,False
-662,Jyuratodus,1,False
-662,Diablos,1,False
-662,Bazelgeuse,1,False
-662,Deviljho,1,False
-663,Pukei-Pukei,1,True
-663,Rathian,1,False
-663,Barroth,1,False
-663,Diablos,1,False
-663,Bazelgeuse,1,False
-663,Deviljho,1,False
-665,Jyuratodus,1,True
-665,Kulu-Ya-Ku,1,False
-665,Rathian,1,False
-665,Barroth,1,False
-665,Bazelgeuse,1,False
-665,Deviljho,1,False
-666,Rathian,1,True
-666,Kulu-Ya-Ku,1,False
-666,Barroth,1,False
-666,Diablos,1,False
-666,Bazelgeuse,1,False
-666,Deviljho,1,False
-667,Anjanath,1,True
-667,Rathian,1,False
-667,Barroth,1,False
-667,Diablos,1,False
-667,Bazelgeuse,1,False
-667,Deviljho,1,False
-671,Tzitzi-Ya-Ku,1,True
-671,Paolumu,1,False
-671,Legiana,1,False
-671,Odogaron,1,False
-671,Deviljho,1,False
-672,Paolumu,1,True
-672,Tzitzi-Ya-Ku,1,False
-672,Legiana,1,False
-672,Odogaron,1,False
-672,Deviljho,1,False
-681,Great Girros,1,True
-681,Radobaan,1,False
-681,Odogaron,1,False
-681,Bazelgeuse,1,False
-681,Deviljho,1,False
-682,Radobaan,1,True
-682,Great Girros,1,False
-682,Odogaron,1,False
-682,Bazelgeuse,1,False
-682,Deviljho,1,False
-683,Great Girros,1,False
-683,Radobaan,1,False
-683,Odogaron,1,False
-683,Bazelgeuse,1,False
-683,Deviljho,1,False
-684,Girros,10,True
-684,Great Girros,1,False
-684,Odogaron,1,False
-684,Bazelgeuse,1,False
-684,Deviljho,1,False
-691,Gastodon,13,True
-691,Bazelgeuse,1,False
-691,Deviljho,1,False
-692,Barnos,5,True
-692,Bazelgeuse,1,False
-692,Deviljho,1,False
-693,Dodogama,1,True
-693,Uragaan,1,False
-693,Lavasioth,1,False
-693,Bazelgeuse,1,False
-693,Deviljho,1,False
-694,Gajalaka,10,True
-694,Bazelgeuse,1,False
-694,Deviljho,1,False
-631,Pukei-Pukei,1,True
-632,Barroth,1,True
-633,Tobi-Kadachi,1,True
-634,Anjanath,1,True
-635,Rathian,1,True
-636,Paolumu,1,True
-637,Radobaan,1,True
-751,Rathalos,1,True
-751,Tobi-Kadachi,1,False
-751,Rathian,1,False
-751,Anjanath,1,False
-751,Bazelgeuse,1,False
-751,Deviljho,1,False
-752,Azure Rathalos,1,True
-752,Rathian,1,False
-752,Anjanath,1,False
-752,Rathalos,1,False
-752,Bazelgeuse,1,False
-752,Deviljho,1,False
-753,Rathalos,1,True
-753,Azure Rathalos,1,True
-753,Rathian,1,False
-753,Bazelgeuse,1,False
-753,Deviljho,1,False
-761,Pink Rathian,1,True
-761,Rathian,1,False
-761,Diablos,1,False
-761,Black Diablos,1,False
-761,Bazelgeuse,1,False
-761,Deviljho,1,False
-762,Diablos,1,True
-762,Rathian,1,False
-762,Barroth,1,False
-762,Bazelgeuse,1,False
-762,Deviljho,1,False
-763,Black Diablos,1,True
-763,Rathian,1,False
-763,Barroth,1,False
-763,Diablos,1,False
-763,Bazelgeuse,1,False
-763,Deviljho,1,False
-764,Diablos,1,True
-764,Black Diablos,1,True
-764,Rathian,1,False
-764,Barroth,1,False
-764,Bazelgeuse,1,False
-764,Deviljho,1,False
-771,Pink Rathian,1,True
-771,Tzitzi-Ya-Ku,1,False
-771,Paolumu,1,False
-771,Legiana,1,False
-771,Odogaron,1,False
-771,Deviljho,1,False
-772,Legiana,1,True
-772,Tzitzi-Ya-Ku,1,False
-772,Paolumu,1,False
-772,Bazelgeuse,1,False
-772,Deviljho,1,False
-773,Odogaron,1,True
-773,Tzitzi-Ya-Ku,1,False
-773,Pink Rathian,1,False
-773,Legiana,1,False
-773,Bazelgeuse,1,False
-773,Deviljho,1,False
-774,Legiana,1,True
-774,Odogaron,1,True
-774,Tzitzi-Ya-Ku,1,False
-774,Deviljho,1,False
-781,Odogaron,1,True
-781,Great Girros,1,False
-781,Radobaan,1,False
-781,Bazelgeuse,1,False
-781,Deviljho,1,False
-791,Lavasioth,1,True
-791,Dodogama,1,False
-791,Uragaan,1,False
-791,Azure Rathalos,1,False
-791,Bazelgeuse,1,False
-791,Deviljho,1,False
-792,Uragaan,1,True
-792,Dodogama,1,False
-792,Lavasioth,1,False
-792,Azure Rathalos,1,False
-792,Bazelgeuse,1,False
-792,Deviljho,1,False
-793,Azure Rathalos,1,True
-793,Dodogama,1,False
-793,Uragaan,1,False
-793,Lavasioth,1,False
-793,Bazelgeuse,1,False
-793,Deviljho,1,False
-794,Bazelgeuse,1,True
-794,Dodogama,1,False
-794,Uragaan,1,False
-794,Azure Rathalos,1,False
-794,Deviljho,1,False
-795,Lavasioth,1,True
-795,Uragaan,1,True
-795,Dodogama,1,False
-795,Bazelgeuse,1,False
-795,Deviljho,1,False
-738,Black Diablos,1,True
-731,Pink Rathian,1,True
-732,Legiana,1,True
-733,Odogaron,1,True
-734,Uragaan,1,True
-735,Rathalos,1,True
-736,Azure Rathalos,1,True
-737,Diablos,1,True
-50751,Deviljho,1,True
-50751,Great Jagras,1,False
-50751,Kulu-Ya-Ku,1,False
-50751,Tobi-Kadachi,1,False
-50751,Bazelgeuse,1,False
-851,Kushala Daora,1,True
-893,Teostra,1,True
-893,Kushala Daora,1,False
-895,Kushala Daora,1,True
-895,Nergigante,1,False
-861,Teostra,1,True
-871,Kirin,1,True
-881,Vaal Hazak,1,True
-881,Odogaron,1,False
-894,Nergigante,1,True
-894,Teostra,1,False
-891,Nergigante,1,True
-891,Kushala Daora,1,False
-892,Kushala Daora,1,True
-892,Teostra,1,False
-896,Teostra,1,True
-896,Nergigante,1,False
-50891,Lunastra,1,True
-50891,Kushala Daora,1,False
-50892,Lunastra,1,True
-50892,Nergigante,1,False
-50861,Teostra,1,True
-50861,Lunastra,1,True
-992,Legiana,1,True
-992,Odogaron,1,True
-992,Diablos,1,True
-992,Rathalos,1,True
-991,Xeno'jiiva,1,True
-995,Kushala Daora,1,True
-995,Teostra,1,True
-995,Nergigante,1,True
-996,Barroth,1,True
-996,Radobaan,1,True
-997,Pink Rathian,1,True
-997,Azure Rathalos,1,True
-998,Vaal Hazak,1,True
-998,Odogaron,1,True
-961,Bazelgeuse,2,True
-971,Kirin,1,True
-50991,Behemoth,1,True
-50701,Deviljho,1,True
-50701,Great Jagras,1,False
-50701,Tobi-Kadachi,1,False
-50801,Teostra,1,True
-50802,Lunastra,1,True
-50802,Teostra,1,False
-50803,Lunastra,1,True
-50803,Teostra,1,True
-50601,Kulu-Ya-Ku,1,True
-50601,Anjanath,1,False
-50601,Barroth,1,False
-50905,Behemoth,1,False
-50906,Behemoth,1,True
-50910,Leshen,1,True
-50910,Pukei-Pukei,1,False
-50902,Kulve Taroth,1,True
-61605,Mosswine,5,True
-61103,Pukei-Pukei,1,True
-61103,Tobi-Kadachi,1,True
-61104,Anjanath,2,True
-61104,Rathalos,1,False
-61105,Paolumu,1,True
-61105,Rathalos,1,True
-61601,Gastodon,10,True
-61603,Rathian,1,True
-61603,Pink Rathian,1,True
-61603,Diablos,1,False
-61604,Rathalos,1,True
-61604,Azure Rathalos,1,True
-61606,Great Jagras,1,True
-61606,Deviljho,1,False
-61607,Lavasioth,1,True
-67105,Great Jagras,3,True
-67103,Odogaron,2,True
-67603,Dodogama,1,True
-67603,Azure Rathalos,1,True
-67605,Anjanath,1,True
-67605,Odogaron,1,True
-67605,Rathalos,1,True
-67605,Teostra,1,True
-67608,Odogaron,1,True
-67608,Deviljho,1,True
-67608,Lunastra,1,True
-67606,Behemoth,1,True
-67610,Ancient Leshen,1,True
-66101,Great Jagras,2,True
-66101,Anjanath,1,False
-66102,Kulu-Ya-Ku,1,True
-66102,Tzitzi-Ya-Ku,1,True
-66106,Great Jagras,1,True
-66106,Pukei-Pukei,1,True
-66106,Paolumu,1,True
-64101,Diablos,1,True
-64101,Barroth,2,True
-66103,Radobaan,1,True
-66103,Odogaron,1,True
-66104,Kirin,2,True
-66105,Pukei-Pukei,1,True
-66105,Rathian,1,True
-66105,Rathalos,1,True
-62608,Zorah Magdaros,1,True
-62608,Nergigante,1,False
-65601,Shamos,13,True
-65602,Tzitzi-Ya-Ku,3,True
-65603,Kulu-Ya-Ku,1,True
-65605,Great Jagras,1,True
-65605,Great Girros,1,True
-65605,Dodogama,1,True
-64601,Uragaan,2,True
-66601,Great Jagras,1,True
-66601,Pukei-Pukei,1,True
-66601,Tobi-Kadachi,1,True
-66601,Anjanath,1,True
-66601,Rathalos,1,True
-66602,Kulu-Ya-Ku,1,True
-66602,Barroth,1,True
-66602,Jyuratodus,1,True
-66602,Rathian,1,True
-66602,Diablos,1,True
-66603,Tzitzi-Ya-Ku,1,True
-66603,Paolumu,1,True
-66603,Pink Rathian,1,True
-66603,Legiana,1,True
-66604,Great Girros,1,True
-66604,Radobaan,1,True
-66604,Odogaron,1,True
-66604,Bazelgeuse,1,True
-66605,Dodogama,1,True
-66605,Uragaan,1,True
-66605,Lavasioth,1,True
-66605,Azure Rathalos,1,True
-66606,Diablos,1,True
-66606,Black Diablos,1,True
-66606,Bazelgeuse,1,False
-66606,Deviljho,1,False
-62502,Vaal Hazak,1,True
-62502,Odogaron,1,False
-62503,Kirin,1,True
-62504,Teostra,1,True
-62504,Kushala Daora,1,False
-62505,Kushala Daora,1,True
-62505,Teostra,1,False
-62506,Nergigante,1,True
-62506,Kushala Daora,1,False
-62506,Teostra,1,False
-62511,Lunastra,1,True
-62511,Teostra,1,False
-62515,Deviljho,1,True
-62515,Dodogama,1,False
-62515,Bazelgeuse,1,False
-62606,Zorah Magdaros,1,True
-62606,Nergigante,1,False
-62607,Xeno'jiiva,1,True
-62609,Xeno'jiiva,1,True
-66607,Pink Rathian,1,True
-66607,Legiana,1,True
-66608,Anjanath,1,True
-66608,Azure Rathalos,1,True
-66609,Bazelgeuse,1,True
-66610,Nergigante,1,True
-66610,Lunastra,1,True
-66610,Teostra,1,True
-50901,Kulve Taroth,1,True
-63004,Barroth,1,True
-63005,Kulu-Ya-Ku,1,True
-63006,Rathian,1,True
-63007,Tzitzi-Ya-Ku,1,True
-63008,Rathalos,1,True
-63009,Barroth,1,True
-63034,Nergigante,1,True
-63035,Nergigante,1,True
-63036,Nergigante,1,True
-63037,Pink Rathian,1,True
-63038,Pink Rathian,1,True
-63039,Pink Rathian,1,True
-3101,Pukei-Pukei,1,True
-3001,Kulu-Ya-Ku,1,True
-3002,Rathian,1,True
-3031,Tzitzi-Ya-Ku,1,True
-3032,Barroth,1,True
-3033,Dodogama,1,True
-3034,Azure Rathalos,1,True
-3051,Radobaan,1,True
-3051,Uragaan,1,True
-3052,Diablos,1,True
-3052,Black Diablos,1,True
-63033,Gajalaka,10,True
-63033,Barroth,1,False
-63104,Odogaron,1,True
-63104,Legiana,1,True
-63105,Odogaron,1,True
-63105,Legiana,1,True
-63106,Odogaron,1,True
-63106,Legiana,1,True
-63101,Nergigante,1,True
-63102,Nergigante,1,True
-63103,Nergigante,1,True
-63107,Nergigante,1,True
-63108,Deviljho,1,True
-63109,Teostra,1,True
-63109,Kushala Daora,1,True
-63109,Nergigante,1,True
-63110,Anjanath,1,True
-63110,Rathalos,1,True
-63110,Great Jagras,1,True
-63130,Bazelgeuse,1,True
-63131,Lunastra,1,True
-61101,Kestodon,12,True
-63003,Vespoid,30,True
-63003,Pukei-Pukei,1,False
-63001,Kulu-Ya-Ku,1,True
-63001,Pukei-Pukei,1,True
-63002,Paolumu,1,True
-63002,Tobi-Kadachi,1,True
-63031,Rathalos,1,True
-63031,Tzitzi-Ya-Ku,1,True
-63032,Odogaron,2,True
-63051,Bazelgeuse,1,True
-63051,Uragaan,1,True
-63052,Nergigante,1,True
-1101,Beotodus,1,True
-1101,Banbaro,1,False
-1102,Banbaro,1,True
-1102,Beotodus,1,False
-1102,Barioth,1,False
-1201,Viper Tobi-Kadachi,1,True
-1201,Beotodus,1,False
-1201,Banbaro,1,False
-1201,Fulgur Anjanath,1,False
-1202,Nightshade Paolumu,1,True
-1202,Barroth,1,False
-1202,Diablos,1,False
-1203,Coral Pukei-Pukei,1,True
-1203,Paolumu,1,False
-1203,Tzitzi-Ya-Ku,1,False
-1301,Barioth,1,True
-1301,Banbaro,1,False
-1301,Viper Tobi-Kadachi,1,False
-1301,Fulgur Anjanath,1,False
-1302,Nargacuga,1,True
-1302,Rathalos,1,False
-1302,Anjanath,1,False
-1303,Glavenus,1,True
-1303,Rathian,1,False
-1303,Diablos,1,False
-1304,Tigrex,1,True
-1304,Radobaan,1,False
-1304,Odogaron,1,False
-1305,Brachydios,1,True
-1305,Uragaan,1,False
-1305,Azure Rathalos,1,False
-1306,Velkhana,1,True
-1401,Shrieking Legiana,1,True
-1401,Legiana,1,False
-1401,Barioth,1,False
-1402,Acidic Glavenus,1,True
-1402,Great Girros,1,False
-1402,Tigrex,1,False
-1403,Ebony Odogaron,1,True
-1403,Legiana,1,False
-1403,Nargacuga,1,False
-1404,Velkhana,1,True
-1405,Fulgur Anjanath,1,True
-1405,Viper Tobi-Kadachi,1,False
-1405,Tigrex,1,False
-1501,Velkhana,1,True
-1502,Seething Bazelgeuse,1,True
-1502,Brachydios,1,False
-1502,Dodogama,1,False
-1502,Savage Deviljho,1,False
-1503,Blackveil Vaal Hazak,1,True
-1504,Namielle,1,True
-1601,Ruiner Nergigante,1,True
-1602,Shara Ishvalda,1,True
-1603,Rathian,1,True
-1603,Nightshade Paolumu,1,True
-1604,Brachydios,1,True
-1604,Glavenus,1,True
-1606,Yian Garuga,1,True
-1606,Deviljho,1,False
-1606,Banbaro,1,False
-1606,Tzitzi-Ya-Ku,1,False
-1121,Beotodus,1,True
-1121,Banbaro,1,False
-1121,Viper Tobi-Kadachi,1,False
-1121,Barioth,1,False
-1122,Banbaro,1,True
-1122,Beotodus,1,False
-1122,Viper Tobi-Kadachi,1,False
-1122,Barioth,1,False
-1123,Beotodus,1,True
-1123,Banbaro,1,False
-1123,Viper Tobi-Kadachi,1,False
-1123,Fulgur Anjanath,1,False
-1124,Wulg,10,True
-1124,Beotodus,1,False
-1124,Banbaro,1,False
-1124,Viper Tobi-Kadachi,1,False
-1124,Barioth,1,False
-1125,Beotodus,1,False
-1125,Banbaro,1,False
-1125,Viper Tobi-Kadachi,1,False
-1125,Tigrex,1,False
-1131,Pukei-Pukei,1,True
-1132,Barroth,1,True
-1133,Tobi-Kadachi,1,True
-1134,Banbaro,1,True
-1151,Great Jagras,1,True
-1151,Anjanath,1,False
-1151,Pukei-Pukei,1,False
-1151,Rathalos,1,False
-1151,Velkhana,1,False
-1152,Pukei-Pukei,1,True
-1152,Tobi-Kadachi,1,False
-1152,Great Jagras,1,False
-1152,Rathalos,1,False
-1152,Velkhana,1,False
-1153,Tobi-Kadachi,1,True
-1153,Anjanath,1,False
-1153,Great Jagras,1,False
-1153,Rathalos,1,False
-1153,Velkhana,1,False
-1154,Kulu-Ya-Ku,1,True
-1154,Tobi-Kadachi,1,False
-1154,Pukei-Pukei,1,False
-1154,Rathalos,1,False
-1154,Velkhana,1,False
-1155,Banbaro,1,True
-1155,Tobi-Kadachi,1,False
-1155,Great Jagras,1,False
-1155,Rathalos,1,False
-1155,Velkhana,1,False
-1161,Kulu-Ya-Ku,1,True
-1161,Diablos,1,False
-1161,Barroth,1,False
-1161,Rathian,1,False
-1161,Velkhana,1,False
-1162,Barroth,1,True
-1162,Jyuratodus,1,False
-1162,Diablos,1,False
-1162,Rathian,1,False
-1162,Velkhana,1,False
-1163,Jyuratodus,1,True
-1163,Barroth,1,False
-1163,Kulu-Ya-Ku,1,False
-1163,Rathian,1,False
-1163,Velkhana,1,False
-1164,Pukei-Pukei,1,True
-1164,Diablos,1,False
-1164,Barroth,1,False
-1164,Kulu-Ya-Ku,1,False
-1164,Velkhana,1,False
-1171,Tzitzi-Ya-Ku,1,True
-1171,Paolumu,1,False
-1171,Odogaron,1,False
-1171,Legiana,1,False
-1171,Velkhana,1,False
-1181,Great Girros,1,True
-1181,Tigrex,1,False
-1181,Radobaan,1,False
-1181,Odogaron,1,False
-1181,Velkhana,1,False
-1191,Dodogama,1,True
-1191,Brachydios,1,False
-1191,Uragaan,1,False
-1191,Lavasioth,1,False
-1191,Velkhana,1,False
-1192,Banbaro,1,True
-1192,Dodogama,1,False
-1192,Uragaan,1,False
-1192,Azure Rathalos,1,False
-1221,Viper Tobi-Kadachi,1,True
-1221,Banbaro,1,False
-1221,Beotodus,1,False
-1221,Fulgur Anjanath,1,False
-1222,Viper Tobi-Kadachi,1,True
-1222,Tigrex,1,False
-1222,Beotodus,1,False
-1222,Fulgur Anjanath,1,False
-1223,Boaboa,14,True
-1223,Beotodus,1,False
-1223,Banbaro,1,False
-1223,Viper Tobi-Kadachi,1,False
-1223,Barioth,1,False
-1224,Beotodus,1,True
-1225,Beotodus,1,True
-1225,Banbaro,1,False
-1225,Viper Tobi-Kadachi,1,False
-1225,Fulgur Anjanath,1,False
-1231,Anjanath,1,True
-1232,Radobaan,1,True
-1233,Coral Pukei-Pukei,1,True
-1234,Viper Tobi-Kadachi,1,True
-1235,Rathian,1,True
-1236,Pink Rathian,1,True
-1237,Paolumu,1,True
-1238,Nightshade Paolumu,1,True
-1251,Anjanath,1,True
-1251,Rathalos,1,False
-1251,Great Jagras,1,False
-1251,Tobi-Kadachi,1,False
-1251,Velkhana,1,False
-1252,Rathian,1,True
-1252,Rathalos,1,False
-1252,Anjanath,1,False
-1252,Banbaro,1,False
-1252,Velkhana,1,False
-1253,Nightshade Paolumu,1,True
-1253,Anjanath,1,False
-1253,Great Jagras,1,False
-1253,Nargacuga,1,False
-1253,Velkhana,1,False
-1261,Rathian,1,True
-1261,Diablos,1,False
-1261,Jyuratodus,1,False
-1261,Banbaro,1,False
-1261,Velkhana,1,False
-1262,Nightshade Paolumu,1,True
-1262,Glavenus,1,False
-1262,Barroth,1,False
-1262,Rathian,1,False
-1262,Velkhana,1,False
-1262,Ebony Odogaron,1,False
-1263,Anjanath,1,True
-1263,Diablos,1,False
-1263,Barroth,1,False
-1263,Pink Rathian,1,False
-1263,Velkhana,1,False
-1264,Rathian,1,True
-1264,Pink Rathian,1,True
-1264,Diablos,1,False
-1271,Paolumu,1,True
-1271,Legiana,1,False
-1271,Tzitzi-Ya-Ku,1,False
-1271,Pink Rathian,1,False
-1271,Velkhana,1,False
-1272,Pink Rathian,1,True
-1272,Tzitzi-Ya-Ku,1,False
-1272,Paolumu,1,False
-1272,Fulgur Anjanath,1,False
-1272,Velkhana,1,False
-1273,Coral Pukei-Pukei,1,True
-1273,Paolumu,1,False
-1273,Tzitzi-Ya-Ku,1,False
-1273,Legiana,1,False
-1273,Velkhana,1,False
-1274,Coral Pukei-Pukei,1,True
-1274,Pink Rathian,1,False
-1274,Tzitzi-Ya-Ku,1,False
-1274,Legiana,1,False
-1281,Radobaan,1,True
-1281,Odogaron,1,False
-1281,Tigrex,1,False
-1281,Great Girros,1,False
-1281,Velkhana,1,False
-1282,Vespoid,15,True
-1282,Hornetaur,20,True
-1282,Radobaan,1,False
-1282,Banbaro,1,False
-1282,Odogaron,1,False
-1282,Great Girros,1,False
-1282,Velkhana,1,False
-1291,Dodogama,1,False
-1291,Brachydios,1,False
-1291,Uragaan,1,False
-1291,Lavasioth,1,False
-1291,Velkhana,1,False
-1321,Barioth,1,True
-1321,Viper Tobi-Kadachi,1,False
-1321,Fulgur Anjanath,1,False
-1321,Banbaro,1,False
-1321,Savage Deviljho,1,False
-1322,Tigrex,1,True
-1322,Shrieking Legiana,1,False
-1322,Banbaro,1,False
-1322,Viper Tobi-Kadachi,1,False
-1322,Savage Deviljho,1,False
-1323,Barioth,1,True
-1323,Tigrex,1,False
-1323,Fulgur Anjanath,1,False
-1323,Banbaro,1,False
-1331,Legiana,1,True
-1332,Odogaron,1,True
-1333,Uragaan,1,True
-1334,Rathalos,1,True
-1335,Diablos,1,True
-1336,Barioth,1,True
-1337,Nargacuga,1,True
-1338,Glavenus,1,True
-1339,Brachydios,1,True
-1340,Tigrex,1,True
-1351,Rathalos,1,True
-1351,Nargacuga,1,False
-1351,Rathian,1,False
-1351,Tigrex,1,False
-1351,Velkhana,1,False
-1351,Savage Deviljho,1,False
-1352,Nargacuga,1,True
-1352,Rathalos,1,False
-1352,Banbaro,1,False
-1352,Pukei-Pukei,1,False
-1352,Velkhana,1,False
-1352,Savage Deviljho,1,False
-1353,Glavenus,1,True
-1353,Great Jagras,1,False
-1353,Rathalos,1,False
-1353,Nargacuga,1,False
-1353,Velkhana,1,False
-1353,Savage Deviljho,1,False
-1354,Rathalos,1,True
-1354,Nargacuga,1,True
-1354,Fulgur Anjanath,1,False
-1354,Anjanath,1,False
-1354,Ebony Odogaron,1,False
-1361,Diablos,1,True
-1361,Fulgur Anjanath,1,False
-1361,Barroth,1,False
-1361,Black Diablos,1,False
-1361,Velkhana,1,False
-1361,Savage Deviljho,1,False
-1362,Glavenus,1,True
-1362,Diablos,1,False
-1362,Tigrex,1,False
-1362,Nightshade Paolumu,1,False
-1362,Velkhana,1,False
-1362,Savage Deviljho,1,False
-1363,Glavenus,1,True
-1363,Rathian,1,True
-1363,Diablos,1,False
-1363,Ebony Odogaron,1,False
-1371,Legiana,1,True
-1371,Odogaron,1,False
-1371,Pink Rathian,1,False
-1371,Tzitzi-Ya-Ku,1,False
-1371,Velkhana,1,False
-1371,Savage Deviljho,1,False
-1372,Nargacuga,1,True
-1372,Fulgur Anjanath,1,False
-1372,Coral Pukei-Pukei,1,False
-1372,Banbaro,1,False
-1372,Velkhana,1,False
-1372,Savage Deviljho,1,False
-1373,Odogaron,1,True
-1373,Paolumu,1,False
-1373,Tzitzi-Ya-Ku,1,False
-1373,Nargacuga,1,False
-1381,Odogaron,1,True
-1381,Banbaro,1,False
-1381,Tigrex,1,False
-1381,Radobaan,1,False
-1381,Velkhana,1,False
-1381,Savage Deviljho,1,False
-1382,Tigrex,1,True
-1382,Acidic Glavenus,1,False
-1382,Great Girros,1,False
-1382,Odogaron,1,False
-1382,Velkhana,1,False
-1382,Savage Deviljho,1,False
-1383,Tigrex,1,True
-1383,Radobaan,1,True
-1383,Fulgur Anjanath,1,False
-1383,Ebony Odogaron,1,False
-1391,Brachydios,1,True
-1391,Tigrex,1,False
-1391,Lavasioth,1,False
-1391,Azure Rathalos,1,False
-1391,Velkhana,1,False
-1391,Savage Deviljho,1,False
-1392,Lavasioth,1,True
-1392,Dodogama,1,False
-1392,Azure Rathalos,1,False
-1392,Uragaan,1,False
-1392,Velkhana,1,False
-1392,Savage Deviljho,1,False
-1393,Uragaan,1,True
-1393,Dodogama,1,False
-1393,Fulgur Anjanath,1,False
-1393,Ebony Odogaron,1,False
-1393,Velkhana,1,False
-1393,Savage Deviljho,1,False
-1394,Brachydios,1,True
-1394,Glavenus,1,False
-1394,Banbaro,1,False
-1394,Uragaan,1,False
-1394,Velkhana,1,False
-1394,Savage Deviljho,1,False
-1395,Brachydios,1,True
-1395,Uragaan,1,True
-1395,Dodogama,1,False
-1395,Fulgur Anjanath,1,False
-1395,Ebony Odogaron,1,False
-1421,Shrieking Legiana,1,True
-1421,Legiana,1,False
-1421,Banbaro,1,False
-1421,Barioth,1,False
-1421,Ebony Odogaron,1,False
-1421,Savage Deviljho,1,False
-1422,Fulgur Anjanath,1,True
-1422,Legiana,1,False
-1422,Tigrex,1,False
-1422,Barioth,1,False
-1422,Ebony Odogaron,1,False
-1422,Savage Deviljho,1,False
-1423,Shrieking Legiana,1,True
-1423,Legiana,1,True
-1423,Barioth,1,False
-1423,Ebony Odogaron,1,False
-1423,Savage Deviljho,1,False
-1424,Shrieking Legiana,1,False
-1424,Legiana,1,False
-1424,Banbaro,1,False
-1424,Tigrex,1,False
-1431,Azure Rathalos,1,True
-1432,Black Diablos,1,True
-1433,Acidic Glavenus,1,True
-1434,Ebony Odogaron,1,True
-1435,Fulgur Anjanath,1,True
-1451,Azure Rathalos,1,True
-1451,Tobi-Kadachi,1,False
-1451,Glavenus,1,False
-1451,Fulgur Anjanath,1,False
-1451,Ebony Odogaron,1,False
-1451,Savage Deviljho,1,False
-1452,Ebony Odogaron,1,True
-1452,Anjanath,1,False
-1452,Rathalos,1,False
-1452,Nargacuga,1,False
-1452,Savage Deviljho,1,False
-1461,Black Diablos,1,True
-1461,Fulgur Anjanath,1,False
-1461,Diablos,1,False
-1461,Glavenus,1,False
-1461,Ebony Odogaron,1,False
-1461,Savage Deviljho,1,False
-1462,Black Diablos,1,True
-1462,Fulgur Anjanath,1,False
-1462,Glavenus,1,False
-1471,Ebony Odogaron,1,True
-1471,Nargacuga,1,False
-1471,Legiana,1,False
-1471,Coral Pukei-Pukei,1,False
-1471,Savage Deviljho,1,False
-1481,Acidic Glavenus,1,True
-1481,Tigrex,1,False
-1481,Odogaron,1,False
-1481,Great Girros,1,False
-1481,Ebony Odogaron,1,False
-1481,Savage Deviljho,1,False
-1482,Acidic Glavenus,1,True
-1482,Fulgur Anjanath,1,False
-1482,Odogaron,1,False
-1482,Great Girros,1,False
-1482,Ebony Odogaron,1,False
-1482,Savage Deviljho,1,False
-1483,Odogaron,1,True
-1483,Ebony Odogaron,1,True
-1483,Tigrex,1,False
-1483,Radobaan,1,False
-1483,Savage Deviljho,1,False
-1491,Azure Rathalos,1,True
-1491,Fulgur Anjanath,1,False
-1491,Glavenus,1,False
-1491,Lavasioth,1,False
-1491,Ebony Odogaron,1,False
-1491,Savage Deviljho,1,False
-1492,Fulgur Anjanath,1,True
-1492,Tigrex,1,False
-1492,Brachydios,1,False
-1492,Uragaan,1,False
-1492,Ebony Odogaron,1,False
-1492,Savage Deviljho,1,False
-1521,Velkhana,1,True
-1521,Savage Deviljho,1,False
-1551,Kushala Daora,1,True
-1551,Savage Deviljho,1,False
-1552,Blackveil Vaal Hazak,1,True
-1552,Savage Deviljho,1,False
-1552,Ebony Odogaron,1,False
-1561,Teostra,1,True
-1561,Savage Deviljho,1,False
-1562,Savage Deviljho,1,True
-1562,Kulu-Ya-Ku,1,False
-1562,Glavenus,1,False
-1562,Black Diablos,1,False
-1571,Kirin,1,True
-1571,Savage Deviljho,1,False
-1572,Namielle,1,True
-1572,Savage Deviljho,1,False
-1581,Blackveil Vaal Hazak,1,True
-1581,Savage Deviljho,1,False
-1581,Ebony Odogaron,1,False
-1591,Kushala Daora,1,True
-1591,Savage Deviljho,1,False
-1591,Teostra,1,False
-1592,Teostra,1,True
-1592,Savage Deviljho,1,False
-1592,Kushala Daora,1,False
-1593,Seething Bazelgeuse,1,True
-1593,Brachydios,1,False
-1593,Azure Rathalos,1,False
-1593,Uragaan,1,False
-1593,Savage Deviljho,1,False
-1594,Seething Bazelgeuse,1,True
-1594,Tigrex,1,False
-1594,Azure Rathalos,1,False
-1594,Dodogama,1,False
-1594,Savage Deviljho,1,False
-1605,Ruiner Nergigante,1,True
-1631,Tigrex,1,True
-1631,Nargacuga,1,True
-1631,Zinogre,1,True
-1631,Brachydios,1,True
-1631,Glavenus,1,True
-1632,Zinogre,1,True
-1633,Yian Garuga,1,True
-1634,Brute Tigrex,1,True
-1635,Gold Rathian,1,True
-1636,Silver Rathalos,1,True
-51621,Stygian Zinogre,1,True
-1641,Shara Ishvalda,1,True
-1642,Gold Rathian,1,True
-1642,Silver Rathalos,1,True
-1651,Kushala Daora,1,True
-1651,Blackveil Vaal Hazak,1,True
-1661,Lunastra,1,True
-1661,Savage Deviljho,1,False
-1671,Kirin,1,True
-1671,Namielle,1,True
-1691,Lunastra,1,True
-1691,Savage Deviljho,1,False
-1691,Kushala Daora,1,False
-1692,Teostra,1,True
-1692,Lunastra,1,True
-1692,Velkhana,1,True
-1692,Ruiner Nergigante,1,True
-51602,Kirin,1,True
-51601,Rajang,1,True
-51601,Savage Deviljho,1,False
-51601,Azure Rathalos,1,False
-51603,Stygian Zinogre,1,True
-51604,Safi'jiiva,1,True
-51606,Raging Brachydios,1,True
-51607,Furious Rajang,1,True
-51607,Ruiner Nergigante,1,False
-51611,Alatreon,1,True
-61801,Beotodus,1,False
-61801,Banbaro,1,False
-61801,Fulgur Anjanath,1,False
-61801,Tigrex,1,False
-51605,Safi'jiiva,1,True
-61805,Viper Tobi-Kadachi,1,False
-61805,Barioth,1,False
-61805,Tigrex,1,False
-61805,Fulgur Anjanath,1,False
-61811,Viper Tobi-Kadachi,1,False
-61811,Barioth,1,False
-61811,Fulgur Anjanath,1,False
-61811,Shrieking Legiana,1,False
-63142,Velkhana,1,True
-66801,Beotodus,2,True
-66802,Great Girros,1,False
-66802,Odogaron,1,False
-66802,Radobaan,1,False
-66802,Tigrex,1,False
-66803,Banbaro,2,True
-66804,Barroth,1,False
-66804,Rathian,1,False
-66804,Pukei-Pukei,1,False
-66804,Diablos,1,False
-61803,Coral Pukei-Pukei,1,True
-61803,Paolumu,1,False
-61803,Tzitzi-Ya-Ku,1,False
-61803,Legiana,1,False
-66805,Anjanath,1,True
-66805,Banbaro,1,True
-66805,Rathalos,1,False
-66805,Great Jagras,1,False
-66805,Tobi-Kadachi,1,False
-66807,Radobaan,1,True
-66807,Viper Tobi-Kadachi,1,True
-66806,Kulu-Ya-Ku,1,True
-66806,Tzitzi-Ya-Ku,1,True
-66806,Pukei-Pukei,1,True
-66806,Coral Pukei-Pukei,1,True
-61813,Barioth,1,True
-61802,Nightshade Paolumu,1,True
-61802,Nargacuga,1,True
-66808,Rathalos,1,True
-66808,Lavasioth,1,True
-66808,Dodogama,1,False
-66808,Glavenus,1,False
-66808,Ebony Odogaron,1,False
-66809,Diablos,1,True
-66809,Nightshade Paolumu,1,True
-66809,Barroth,1,False
-66809,Glavenus,1,False
-66809,Black Diablos,1,False
-66810,Coral Pukei-Pukei,1,True
-66810,Legiana,1,True
-66810,Tzitzi-Ya-Ku,1,False
-66810,Pink Rathian,1,False
-66810,Paolumu,1,False
-66811,Glavenus,1,True
-66811,Uragaan,1,True
-66811,Tigrex,1,False
-66811,Ebony Odogaron,1,False
-66811,Azure Rathalos,1,False
-66834,Tigrex,1,True
-66834,Nargacuga,1,True
-61812,Glavenus,1,True
-61812,Ebony Odogaron,1,True
-61812,Kulu-Ya-Ku,1,False
-61812,Barroth,1,False
-61812,Anjanath,1,False
-66812,Black Diablos,1,True
-66812,Tigrex,1,True
-66812,Fulgur Anjanath,1,False
-66812,Diablos,1,False
-66812,Ebony Odogaron,1,False
-66812,Savage Deviljho,1,False
-66814,Ebony Odogaron,1,True
-66814,Acidic Glavenus,1,True
-66814,Great Girros,1,False
-66814,Banbaro,1,False
-66814,Tigrex,1,False
-66813,Azure Rathalos,1,True
-66813,Fulgur Anjanath,1,True
-66813,Nightshade Paolumu,1,False
-66813,Tobi-Kadachi,1,False
-66813,Tigrex,1,False
-61806,Brachydios,1,True
-61806,Lavasioth,1,False
-61806,Uragaan,1,False
-61806,Glavenus,1,False
-61806,Ebony Odogaron,1,False
-61807,Blackveil Vaal Hazak,1,True
-61807,Velkhana,1,True
-66815,Kirin,1,True
-66815,Kushala Daora,1,True
-66815,Teostra,1,True
-66816,Velkhana,1,True
-66816,Namielle,1,True
-66817,Savage Deviljho,1,True
-66817,Dodogama,1,False
-66817,Ebony Odogaron,1,False
-66817,Seething Bazelgeuse,1,False
-67801,Blackveil Vaal Hazak,1,True
-61814,Zinogre,1,True
-61814,Namielle,1,True
-66818,Zinogre,1,True
-66818,Fulgur Anjanath,1,False
-66818,Paolumu,1,False
-66818,Nargacuga,1,False
-66819,Yian Garuga,1,True
-66819,Zinogre,1,False
-66819,Pukei-Pukei,1,False
-66819,Fulgur Anjanath,1,False
-66820,Brute Tigrex,1,True
-66820,Dodogama,1,False
-66820,Brachydios,1,False
-66820,Azure Rathalos,1,False
-66821,Silver Rathalos,1,True
-66821,Banbaro,1,False
-66821,Uragaan,1,False
-66821,Ebony Odogaron,1,False
-66822,Gold Rathian,1,True
-66822,Dodogama,1,False
-66822,Tigrex,1,False
-66822,Azure Rathalos,1,False
-61808,Rajang,2,True
-66824,Rajang,1,True
-66824,Nightshade Paolumu,1,False
-66824,Black Diablos,1,False
-66824,Savage Deviljho,1,False
-66825,Scarred Yian Garuga,1,True
-66825,Zinogre,1,False
-66825,Pukei-Pukei,1,False
-66825,Rajang,1,False
-66832,Stygian Zinogre,1,True
-66832,Dodogama,1,False
-66832,Brachydios,1,False
-66832,Rathalos,1,False
-66826,Anjanath,1,True
-66826,Rathalos,1,True
-66826,Nargacuga,1,True
-66826,Yian Garuga,1,True
-66826,Rajang,1,True
-66827,Jyuratodus,1,True
-66827,Nightshade Paolumu,1,True
-66827,Glavenus,1,True
-66827,Black Diablos,1,True
-66827,Savage Deviljho,1,True
-66833,Kulve Taroth,1,True
-66828,Paolumu,1,True
-66828,Legiana,1,True
-66828,Coral Pukei-Pukei,1,True
-66828,Ebony Odogaron,1,True
-66828,Zinogre,1,True
-66829,Great Girros,1,True
-66829,Odogaron,1,True
-66829,Tigrex,1,True
-66829,Fulgur Anjanath,1,True
-66829,Acidic Glavenus,1,True
-66830,Banbaro,1,True
-66830,Uragaan,1,True
-66830,Brachydios,1,True
-66830,Azure Rathalos,1,True
-66830,Seething Bazelgeuse,1,True
-66831,Beotodus,1,True
-66831,Viper Tobi-Kadachi,1,True
-66831,Barioth,1,True
-66831,Shrieking Legiana,1,True
-66831,Stygian Zinogre,1,True
-66835,Zinogre,1,True
-66835,Fulgur Anjanath,1,False
-66835,Azure Rathalos,1,False
-66835,Banbaro,1,False
-66836,Ruiner Nergigante,1,True
-61809,Nightshade Paolumu,1,True
-64801,Paolumu,1,True
-64801,Nightshade Paolumu,1,True
-64802,Seething Bazelgeuse,1,True
-67101,Anjanath,1,True
-67102,Barnos,8,True
-67102,Tzitzi-Ya-Ku,1,False
-67607,Deviljho,2,True
-67607,Great Jagras,1,False
-3171,Banbaro,1,True
-3071,Nightshade Paolumu,1,True
-3072,Nargacuga,1,True
-3073,Acidic Glavenus,1,True
-3074,Odogaron,1,True
-3074,Ebony Odogaron,1,True
-3091,Zinogre,1,True
-3092,Tigrex,1,True
-3092,Brute Tigrex,1,True
-63071,Tobi-Kadachi,1,True
-63071,Viper Tobi-Kadachi,1,True
-63072,Anjanath,1,True
-63072,Fulgur Anjanath,1,True
-63073,Yian Garuga,1,True
-63074,Savage Deviljho,1,True
+101,Jagras,7,TRUE
+102,Kestodon,8,TRUE
+102,Great Jagras,1,FALSE
+103,Great Jagras,1,TRUE
+201,Kulu-Ya-Ku,1,TRUE
+201,Rathalos,1,FALSE
+205,Pukei-Pukei,1,TRUE
+205,Great Jagras,1,FALSE
+205,Anjanath,1,FALSE
+205,Rathalos,1,FALSE
+301,Barroth,1,TRUE
+301,Rathian,1,FALSE
+301,Diablos,1,FALSE
+302,Jyuratodus,1,TRUE
+302,Rathian,1,FALSE
+302,Barroth,1,FALSE
+305,Tobi-Kadachi,1,TRUE
+305,Great Jagras,1,FALSE
+305,Anjanath,1,FALSE
+306,Anjanath,1,TRUE
+306,Great Jagras,1,FALSE
+306,Rathalos,1,FALSE
+401,Zorah Magdaros,1,TRUE
+401,Nergigante,1,FALSE
+405,Paolumu,1,TRUE
+405,Tzitzi-Ya-Ku,1,FALSE
+405,Legiana,1,FALSE
+407,Radobaan,1,TRUE
+407,Great Girros,1,FALSE
+408,Legiana,1,TRUE
+408,Tzitzi-Ya-Ku,1,FALSE
+408,Paolumu,1,FALSE
+501,Odogaron,1,TRUE
+501,Great Girros,1,FALSE
+501,Radobaan,1,FALSE
+502,Rathalos,1,TRUE
+502,Anjanath,1,FALSE
+502,Tobi-Kadachi,1,FALSE
+503,Diablos,1,TRUE
+503,Rathian,1,FALSE
+503,Barroth,1,FALSE
+504,Zorah Magdaros,1,TRUE
+504,Nergigante,1,FALSE
+601,Pukei-Pukei,1,TRUE
+601,Rathian,1,FALSE
+601,Barroth,1,FALSE
+601,Bazelgeuse,1,FALSE
+605,Anjanath,1,TRUE
+605,Barroth,1,FALSE
+605,Diablos,1,FALSE
+605,Bazelgeuse,1,FALSE
+607,Pink Rathian,1,TRUE
+607,Tzitzi-Ya-Ku,1,FALSE
+607,Legiana,1,FALSE
+607,Odogaron,1,FALSE
+701,Nergigante,1,TRUE
+801,Kushala Daora,1,TRUE
+802,Teostra,1,TRUE
+803,Vaal Hazak,1,TRUE
+804,Xeno'jiiva,1,TRUE
+805,Bazelgeuse,2,TRUE
+806,Kirin,1,TRUE
+241,Great Jagras,1,TRUE
+151,Kestodon,12,TRUE
+152,Jagras,7,TRUE
+153,Great Jagras,1,FALSE
+153,Pukei-Pukei,1,FALSE
+153,Anjanath,1,FALSE
+153,Rathalos,1,FALSE
+251,Great Jagras,1,TRUE
+251,Pukei-Pukei,1,FALSE
+252,Kulu-Ya-Ku,1,TRUE
+252,Rathalos,1,FALSE
+261,Kulu-Ya-Ku,1,TRUE
+261,Rathian,1,FALSE
+261,Barroth,1,FALSE
+262,Gajau,7,TRUE
+263,Vespoid,14,TRUE
+351,Pukei-Pukei,1,TRUE
+351,Great Jagras,1,FALSE
+351,Anjanath,1,FALSE
+351,Rathalos,1,FALSE
+352,Tobi-Kadachi,1,TRUE
+352,Great Jagras,1,FALSE
+352,Anjanath,1,FALSE
+352,Rathalos,1,FALSE
+361,Barroth,1,TRUE
+361,Rathian,1,FALSE
+361,Jyuratodus,1,FALSE
+361,Diablos,1,FALSE
+362,Jyuratodus,1,TRUE
+362,Rathian,1,FALSE
+362,Barroth,1,FALSE
+363,Kulu-Ya-Ku,1,FALSE
+363,Rathian,1,FALSE
+363,Barroth,1,FALSE
+363,Diablos,1,FALSE
+364,Kulu-Ya-Ku,1,FALSE
+364,Rathian,1,FALSE
+365,Barroth,1,TRUE
+365,Rathian,1,FALSE
+365,Jyuratodus,1,FALSE
+365,Diablos,1,FALSE
+331,Pukei-Pukei,1,TRUE
+332,Barroth,1,TRUE
+333,Tobi-Kadachi,1,TRUE
+451,Anjanath,1,TRUE
+451,Great Jagras,1,FALSE
+451,Tobi-Kadachi,1,FALSE
+451,Rathalos,1,FALSE
+452,Rathian,1,FALSE
+461,Rathian,1,TRUE
+461,Barroth,1,FALSE
+461,Jyuratodus,1,FALSE
+461,Diablos,1,FALSE
+471,Shamos,11,TRUE
+472,Tzitzi-Ya-Ku,1,TRUE
+472,Paolumu,1,FALSE
+472,Legiana,1,FALSE
+472,Odogaron,1,FALSE
+473,Paolumu,1,TRUE
+473,Tzitzi-Ya-Ku,1,FALSE
+473,Legiana,1,FALSE
+473,Odogaron,1,FALSE
+474,Tzitzi-Ya-Ku,1,FALSE
+475,Paolumu,1,TRUE
+475,Tzitzi-Ya-Ku,1,FALSE
+475,Legiana,1,FALSE
+475,Odogaron,1,FALSE
+481,Hornetaur,14,TRUE
+482,Great Girros,1,TRUE
+482,Radobaan,1,FALSE
+482,Odogaron,1,FALSE
+483,Radobaan,1,TRUE
+483,Great Girros,1,FALSE
+483,Odogaron,1,FALSE
+484,Raphinos,5,TRUE
+5003,Tzitzi-Ya-Ku,2,TRUE
+431,Anjanath,1,TRUE
+432,Rathian,1,TRUE
+433,Paolumu,1,TRUE
+434,Radobaan,1,TRUE
+551,Rathalos,1,TRUE
+551,Tobi-Kadachi,1,FALSE
+551,Anjanath,1,FALSE
+551,Rathian,1,FALSE
+552,Rathalos,1,TRUE
+552,Rathian,1,TRUE
+552,Anjanath,1,FALSE
+561,Diablos,1,TRUE
+561,Rathian,1,FALSE
+561,Barroth,1,FALSE
+571,Legiana,1,TRUE
+571,Tzitzi-Ya-Ku,1,FALSE
+571,Paolumu,1,FALSE
+571,Odogaron,1,FALSE
+572,Kirin,1,TRUE
+581,Odogaron,1,TRUE
+581,Great Girros,1,FALSE
+581,Radobaan,1,FALSE
+582,Odogaron,1,TRUE
+582,Great Girros,1,FALSE
+582,Radobaan,1,FALSE
+531,Legiana,1,TRUE
+532,Odogaron,1,TRUE
+533,Rathalos,1,TRUE
+534,Diablos,1,TRUE
+641,Zorah Magdaros,1,TRUE
+641,Nergigante,1,FALSE
+651,Great Jagras,1,TRUE
+651,Pukei-Pukei,1,FALSE
+651,Anjanath,1,FALSE
+651,Rathalos,1,FALSE
+651,Bazelgeuse,1,FALSE
+651,Deviljho,1,FALSE
+652,Pukei-Pukei,1,TRUE
+652,Great Jagras,1,FALSE
+652,Anjanath,1,FALSE
+652,Rathalos,1,FALSE
+652,Bazelgeuse,1,FALSE
+652,Deviljho,1,FALSE
+653,Tobi-Kadachi,1,TRUE
+653,Anjanath,1,FALSE
+653,Rathian,1,FALSE
+653,Rathalos,1,FALSE
+653,Bazelgeuse,1,FALSE
+653,Deviljho,1,FALSE
+654,Anjanath,1,TRUE
+654,Great Jagras,1,FALSE
+654,Tobi-Kadachi,1,FALSE
+654,Rathalos,1,FALSE
+654,Bazelgeuse,1,FALSE
+654,Deviljho,1,FALSE
+655,Rathian,1,TRUE
+655,Tobi-Kadachi,1,FALSE
+655,Anjanath,1,FALSE
+655,Rathalos,1,FALSE
+655,Bazelgeuse,1,FALSE
+655,Deviljho,1,FALSE
+656,Tobi-Kadachi,1,TRUE
+656,Pukei-Pukei,1,FALSE
+656,Rathian,1,FALSE
+656,Bazelgeuse,1,FALSE
+656,Deviljho,1,FALSE
+661,Kulu-Ya-Ku,1,TRUE
+661,Rathian,1,FALSE
+661,Barroth,1,FALSE
+661,Diablos,1,FALSE
+661,Bazelgeuse,1,FALSE
+661,Deviljho,1,FALSE
+662,Barroth,1,TRUE
+662,Rathian,1,FALSE
+662,Jyuratodus,1,FALSE
+662,Diablos,1,FALSE
+662,Bazelgeuse,1,FALSE
+662,Deviljho,1,FALSE
+663,Pukei-Pukei,1,TRUE
+663,Rathian,1,FALSE
+663,Barroth,1,FALSE
+663,Diablos,1,FALSE
+663,Bazelgeuse,1,FALSE
+663,Deviljho,1,FALSE
+665,Jyuratodus,1,TRUE
+665,Kulu-Ya-Ku,1,FALSE
+665,Rathian,1,FALSE
+665,Barroth,1,FALSE
+665,Bazelgeuse,1,FALSE
+665,Deviljho,1,FALSE
+666,Rathian,1,TRUE
+666,Kulu-Ya-Ku,1,FALSE
+666,Barroth,1,FALSE
+666,Diablos,1,FALSE
+666,Bazelgeuse,1,FALSE
+666,Deviljho,1,FALSE
+667,Anjanath,1,TRUE
+667,Rathian,1,FALSE
+667,Barroth,1,FALSE
+667,Diablos,1,FALSE
+667,Bazelgeuse,1,FALSE
+667,Deviljho,1,FALSE
+671,Tzitzi-Ya-Ku,1,TRUE
+671,Paolumu,1,FALSE
+671,Legiana,1,FALSE
+671,Odogaron,1,FALSE
+671,Deviljho,1,FALSE
+672,Paolumu,1,TRUE
+672,Tzitzi-Ya-Ku,1,FALSE
+672,Legiana,1,FALSE
+672,Odogaron,1,FALSE
+672,Deviljho,1,FALSE
+681,Great Girros,1,TRUE
+681,Radobaan,1,FALSE
+681,Odogaron,1,FALSE
+681,Bazelgeuse,1,FALSE
+681,Deviljho,1,FALSE
+682,Radobaan,1,TRUE
+682,Great Girros,1,FALSE
+682,Odogaron,1,FALSE
+682,Bazelgeuse,1,FALSE
+682,Deviljho,1,FALSE
+683,Great Girros,1,FALSE
+683,Radobaan,1,FALSE
+683,Odogaron,1,FALSE
+683,Bazelgeuse,1,FALSE
+683,Deviljho,1,FALSE
+684,Girros,10,TRUE
+684,Great Girros,1,FALSE
+684,Odogaron,1,FALSE
+684,Bazelgeuse,1,FALSE
+684,Deviljho,1,FALSE
+691,Gastodon,13,TRUE
+691,Bazelgeuse,1,FALSE
+691,Deviljho,1,FALSE
+692,Barnos,5,TRUE
+692,Bazelgeuse,1,FALSE
+692,Deviljho,1,FALSE
+693,Dodogama,1,TRUE
+693,Uragaan,1,FALSE
+693,Lavasioth,1,FALSE
+693,Bazelgeuse,1,FALSE
+693,Deviljho,1,FALSE
+694,Gajalaka,10,TRUE
+694,Bazelgeuse,1,FALSE
+694,Deviljho,1,FALSE
+631,Pukei-Pukei,1,TRUE
+632,Barroth,1,TRUE
+633,Tobi-Kadachi,1,TRUE
+634,Anjanath,1,TRUE
+635,Rathian,1,TRUE
+636,Paolumu,1,TRUE
+637,Radobaan,1,TRUE
+751,Rathalos,1,TRUE
+751,Tobi-Kadachi,1,FALSE
+751,Rathian,1,FALSE
+751,Anjanath,1,FALSE
+751,Bazelgeuse,1,FALSE
+751,Deviljho,1,FALSE
+752,Azure Rathalos,1,TRUE
+752,Rathian,1,FALSE
+752,Anjanath,1,FALSE
+752,Rathalos,1,FALSE
+752,Bazelgeuse,1,FALSE
+752,Deviljho,1,FALSE
+753,Rathalos,1,TRUE
+753,Azure Rathalos,1,TRUE
+753,Rathian,1,FALSE
+753,Bazelgeuse,1,FALSE
+753,Deviljho,1,FALSE
+761,Pink Rathian,1,TRUE
+761,Rathian,1,FALSE
+761,Diablos,1,FALSE
+761,Black Diablos,1,FALSE
+761,Bazelgeuse,1,FALSE
+761,Deviljho,1,FALSE
+762,Diablos,1,TRUE
+762,Rathian,1,FALSE
+762,Barroth,1,FALSE
+762,Bazelgeuse,1,FALSE
+762,Deviljho,1,FALSE
+763,Black Diablos,1,TRUE
+763,Rathian,1,FALSE
+763,Barroth,1,FALSE
+763,Diablos,1,FALSE
+763,Bazelgeuse,1,FALSE
+763,Deviljho,1,FALSE
+764,Diablos,1,TRUE
+764,Black Diablos,1,TRUE
+764,Rathian,1,FALSE
+764,Barroth,1,FALSE
+764,Bazelgeuse,1,FALSE
+764,Deviljho,1,FALSE
+771,Pink Rathian,1,TRUE
+771,Tzitzi-Ya-Ku,1,FALSE
+771,Paolumu,1,FALSE
+771,Legiana,1,FALSE
+771,Odogaron,1,FALSE
+771,Deviljho,1,FALSE
+772,Legiana,1,TRUE
+772,Tzitzi-Ya-Ku,1,FALSE
+772,Paolumu,1,FALSE
+772,Bazelgeuse,1,FALSE
+772,Deviljho,1,FALSE
+773,Odogaron,1,TRUE
+773,Tzitzi-Ya-Ku,1,FALSE
+773,Pink Rathian,1,FALSE
+773,Legiana,1,FALSE
+773,Bazelgeuse,1,FALSE
+773,Deviljho,1,FALSE
+774,Legiana,1,TRUE
+774,Odogaron,1,TRUE
+774,Tzitzi-Ya-Ku,1,FALSE
+774,Deviljho,1,FALSE
+781,Odogaron,1,TRUE
+781,Great Girros,1,FALSE
+781,Radobaan,1,FALSE
+781,Bazelgeuse,1,FALSE
+781,Deviljho,1,FALSE
+791,Lavasioth,1,TRUE
+791,Dodogama,1,FALSE
+791,Uragaan,1,FALSE
+791,Azure Rathalos,1,FALSE
+791,Bazelgeuse,1,FALSE
+791,Deviljho,1,FALSE
+792,Uragaan,1,TRUE
+792,Dodogama,1,FALSE
+792,Lavasioth,1,FALSE
+792,Azure Rathalos,1,FALSE
+792,Bazelgeuse,1,FALSE
+792,Deviljho,1,FALSE
+793,Azure Rathalos,1,TRUE
+793,Dodogama,1,FALSE
+793,Uragaan,1,FALSE
+793,Lavasioth,1,FALSE
+793,Bazelgeuse,1,FALSE
+793,Deviljho,1,FALSE
+794,Bazelgeuse,1,TRUE
+794,Dodogama,1,FALSE
+794,Uragaan,1,FALSE
+794,Azure Rathalos,1,FALSE
+794,Deviljho,1,FALSE
+795,Lavasioth,1,TRUE
+795,Uragaan,1,TRUE
+795,Dodogama,1,FALSE
+795,Bazelgeuse,1,FALSE
+795,Deviljho,1,FALSE
+738,Black Diablos,1,TRUE
+731,Pink Rathian,1,TRUE
+732,Legiana,1,TRUE
+733,Odogaron,1,TRUE
+734,Uragaan,1,TRUE
+735,Rathalos,1,TRUE
+736,Azure Rathalos,1,TRUE
+737,Diablos,1,TRUE
+50751,Deviljho,1,TRUE
+50751,Great Jagras,1,FALSE
+50751,Kulu-Ya-Ku,1,FALSE
+50751,Tobi-Kadachi,1,FALSE
+50751,Bazelgeuse,1,FALSE
+851,Kushala Daora,1,TRUE
+893,Teostra,1,TRUE
+893,Kushala Daora,1,FALSE
+895,Kushala Daora,1,TRUE
+895,Nergigante,1,FALSE
+861,Teostra,1,TRUE
+871,Kirin,1,TRUE
+881,Vaal Hazak,1,TRUE
+881,Odogaron,1,FALSE
+894,Nergigante,1,TRUE
+894,Teostra,1,FALSE
+891,Nergigante,1,TRUE
+891,Kushala Daora,1,FALSE
+892,Kushala Daora,1,TRUE
+892,Teostra,1,FALSE
+896,Teostra,1,TRUE
+896,Nergigante,1,FALSE
+50891,Lunastra,1,TRUE
+50891,Kushala Daora,1,FALSE
+50892,Lunastra,1,TRUE
+50892,Nergigante,1,FALSE
+50861,Teostra,1,TRUE
+50861,Lunastra,1,TRUE
+992,Legiana,1,TRUE
+992,Odogaron,1,TRUE
+992,Diablos,1,TRUE
+992,Rathalos,1,TRUE
+991,Xeno'jiiva,1,TRUE
+995,Kushala Daora,1,TRUE
+995,Teostra,1,TRUE
+995,Nergigante,1,TRUE
+996,Barroth,1,TRUE
+996,Radobaan,1,TRUE
+997,Pink Rathian,1,TRUE
+997,Azure Rathalos,1,TRUE
+998,Vaal Hazak,1,TRUE
+998,Odogaron,1,TRUE
+961,Bazelgeuse,2,TRUE
+971,Kirin,1,TRUE
+50991,Behemoth,1,TRUE
+50701,Deviljho,1,TRUE
+50701,Great Jagras,1,FALSE
+50701,Tobi-Kadachi,1,FALSE
+50801,Teostra,1,TRUE
+50802,Lunastra,1,TRUE
+50802,Teostra,1,FALSE
+50803,Lunastra,1,TRUE
+50803,Teostra,1,TRUE
+50601,Kulu-Ya-Ku,1,TRUE
+50601,Anjanath,1,FALSE
+50601,Barroth,1,FALSE
+50905,Behemoth,1,FALSE
+50906,Behemoth,1,TRUE
+50910,Leshen,1,TRUE
+50910,Pukei-Pukei,1,FALSE
+50902,Kulve Taroth,1,TRUE
+61605,Mosswine,5,TRUE
+61103,Pukei-Pukei,1,TRUE
+61103,Tobi-Kadachi,1,TRUE
+61104,Anjanath,2,TRUE
+61104,Rathalos,1,FALSE
+61105,Paolumu,1,TRUE
+61105,Rathalos,1,TRUE
+61601,Gastodon,10,TRUE
+61603,Rathian,1,TRUE
+61603,Pink Rathian,1,TRUE
+61603,Diablos,1,FALSE
+61604,Rathalos,1,TRUE
+61604,Azure Rathalos,1,TRUE
+61606,Great Jagras,1,TRUE
+61606,Deviljho,1,FALSE
+61607,Lavasioth,1,TRUE
+67105,Great Jagras,3,TRUE
+67103,Odogaron,2,TRUE
+67603,Dodogama,1,TRUE
+67603,Azure Rathalos,1,TRUE
+67605,Anjanath,1,TRUE
+67605,Odogaron,1,TRUE
+67605,Rathalos,1,TRUE
+67605,Teostra,1,TRUE
+67608,Odogaron,1,TRUE
+67608,Deviljho,1,TRUE
+67608,Lunastra,1,TRUE
+67606,Behemoth,1,TRUE
+67610,Ancient Leshen,1,TRUE
+66101,Great Jagras,2,TRUE
+66101,Anjanath,1,FALSE
+66102,Kulu-Ya-Ku,1,TRUE
+66102,Tzitzi-Ya-Ku,1,TRUE
+66106,Great Jagras,1,TRUE
+66106,Pukei-Pukei,1,TRUE
+66106,Paolumu,1,TRUE
+64101,Diablos,1,TRUE
+64101,Barroth,2,TRUE
+66103,Radobaan,1,TRUE
+66103,Odogaron,1,TRUE
+66104,Kirin,2,TRUE
+66105,Pukei-Pukei,1,TRUE
+66105,Rathian,1,TRUE
+66105,Rathalos,1,TRUE
+62608,Zorah Magdaros,1,TRUE
+62608,Nergigante,1,FALSE
+65601,Shamos,13,TRUE
+65602,Tzitzi-Ya-Ku,3,TRUE
+65603,Kulu-Ya-Ku,1,TRUE
+65605,Great Jagras,1,TRUE
+65605,Great Girros,1,TRUE
+65605,Dodogama,1,TRUE
+64601,Uragaan,2,TRUE
+66601,Great Jagras,1,TRUE
+66601,Pukei-Pukei,1,TRUE
+66601,Tobi-Kadachi,1,TRUE
+66601,Anjanath,1,TRUE
+66601,Rathalos,1,TRUE
+66602,Kulu-Ya-Ku,1,TRUE
+66602,Barroth,1,TRUE
+66602,Jyuratodus,1,TRUE
+66602,Rathian,1,TRUE
+66602,Diablos,1,TRUE
+66603,Tzitzi-Ya-Ku,1,TRUE
+66603,Paolumu,1,TRUE
+66603,Pink Rathian,1,TRUE
+66603,Legiana,1,TRUE
+66604,Great Girros,1,TRUE
+66604,Radobaan,1,TRUE
+66604,Odogaron,1,TRUE
+66604,Bazelgeuse,1,TRUE
+66605,Dodogama,1,TRUE
+66605,Uragaan,1,TRUE
+66605,Lavasioth,1,TRUE
+66605,Azure Rathalos,1,TRUE
+66606,Diablos,1,TRUE
+66606,Black Diablos,1,TRUE
+66606,Bazelgeuse,1,FALSE
+66606,Deviljho,1,FALSE
+62502,Vaal Hazak,1,TRUE
+62502,Odogaron,1,FALSE
+62503,Kirin,1,TRUE
+62504,Teostra,1,TRUE
+62504,Kushala Daora,1,FALSE
+62505,Kushala Daora,1,TRUE
+62505,Teostra,1,FALSE
+62506,Nergigante,1,TRUE
+62506,Kushala Daora,1,FALSE
+62506,Teostra,1,FALSE
+62511,Lunastra,1,TRUE
+62511,Teostra,1,FALSE
+62515,Deviljho,1,TRUE
+62515,Dodogama,1,FALSE
+62515,Bazelgeuse,1,FALSE
+62606,Zorah Magdaros,1,TRUE
+62606,Nergigante,1,FALSE
+62607,Xeno'jiiva,1,TRUE
+62609,Xeno'jiiva,1,TRUE
+66607,Pink Rathian,1,TRUE
+66607,Legiana,1,TRUE
+66608,Anjanath,1,TRUE
+66608,Azure Rathalos,1,TRUE
+66609,Bazelgeuse,1,TRUE
+66610,Nergigante,1,TRUE
+66610,Lunastra,1,TRUE
+66610,Teostra,1,TRUE
+50901,Kulve Taroth,1,TRUE
+63004,Barroth,1,TRUE
+63005,Kulu-Ya-Ku,1,TRUE
+63006,Rathian,1,TRUE
+63007,Tzitzi-Ya-Ku,1,TRUE
+63008,Rathalos,1,TRUE
+63009,Barroth,1,TRUE
+63034,Nergigante,1,TRUE
+63035,Nergigante,1,TRUE
+63036,Nergigante,1,TRUE
+63037,Pink Rathian,1,TRUE
+63038,Pink Rathian,1,TRUE
+63039,Pink Rathian,1,TRUE
+3101,Pukei-Pukei,1,TRUE
+3001,Kulu-Ya-Ku,1,TRUE
+3002,Rathian,1,TRUE
+3031,Tzitzi-Ya-Ku,1,TRUE
+3032,Barroth,1,TRUE
+3033,Dodogama,1,TRUE
+3034,Azure Rathalos,1,TRUE
+3051,Radobaan,1,TRUE
+3051,Uragaan,1,TRUE
+3052,Diablos,1,TRUE
+3052,Black Diablos,1,TRUE
+63033,Gajalaka,10,TRUE
+63033,Barroth,1,FALSE
+63104,Odogaron,1,TRUE
+63104,Legiana,1,TRUE
+63105,Odogaron,1,TRUE
+63105,Legiana,1,TRUE
+63106,Odogaron,1,TRUE
+63106,Legiana,1,TRUE
+63101,Nergigante,1,TRUE
+63102,Nergigante,1,TRUE
+63103,Nergigante,1,TRUE
+63107,Nergigante,1,TRUE
+63108,Deviljho,1,TRUE
+63109,Teostra,1,TRUE
+63109,Kushala Daora,1,TRUE
+63109,Nergigante,1,TRUE
+63110,Anjanath,1,TRUE
+63110,Rathalos,1,TRUE
+63110,Great Jagras,1,TRUE
+63130,Bazelgeuse,1,TRUE
+63131,Lunastra,1,TRUE
+61101,Kestodon,12,TRUE
+63003,Vespoid,30,TRUE
+63003,Pukei-Pukei,1,FALSE
+63001,Kulu-Ya-Ku,1,TRUE
+63001,Pukei-Pukei,1,TRUE
+63002,Paolumu,1,TRUE
+63002,Tobi-Kadachi,1,TRUE
+63031,Rathalos,1,TRUE
+63031,Tzitzi-Ya-Ku,1,TRUE
+63032,Odogaron,2,TRUE
+63051,Bazelgeuse,1,TRUE
+63051,Uragaan,1,TRUE
+63052,Nergigante,1,TRUE
+1101,Beotodus,1,TRUE
+1101,Banbaro,1,FALSE
+1102,Banbaro,1,TRUE
+1102,Beotodus,1,FALSE
+1102,Barioth,1,FALSE
+1201,Viper Tobi-Kadachi,1,TRUE
+1201,Beotodus,1,FALSE
+1201,Banbaro,1,FALSE
+1201,Fulgur Anjanath,1,FALSE
+1202,Nightshade Paolumu,1,TRUE
+1202,Barroth,1,FALSE
+1202,Diablos,1,FALSE
+1203,Coral Pukei-Pukei,1,TRUE
+1203,Paolumu,1,FALSE
+1203,Tzitzi-Ya-Ku,1,FALSE
+1301,Barioth,1,TRUE
+1301,Banbaro,1,FALSE
+1301,Viper Tobi-Kadachi,1,FALSE
+1301,Fulgur Anjanath,1,FALSE
+1302,Nargacuga,1,TRUE
+1302,Rathalos,1,FALSE
+1302,Anjanath,1,FALSE
+1303,Glavenus,1,TRUE
+1303,Rathian,1,FALSE
+1303,Diablos,1,FALSE
+1304,Tigrex,1,TRUE
+1304,Radobaan,1,FALSE
+1304,Odogaron,1,FALSE
+1305,Brachydios,1,TRUE
+1305,Uragaan,1,FALSE
+1305,Azure Rathalos,1,FALSE
+1306,Velkhana,1,TRUE
+1401,Shrieking Legiana,1,TRUE
+1401,Legiana,1,FALSE
+1401,Barioth,1,FALSE
+1402,Acidic Glavenus,1,TRUE
+1402,Great Girros,1,FALSE
+1402,Tigrex,1,FALSE
+1403,Ebony Odogaron,1,TRUE
+1403,Legiana,1,FALSE
+1403,Nargacuga,1,FALSE
+1404,Velkhana,1,TRUE
+1405,Fulgur Anjanath,1,TRUE
+1405,Viper Tobi-Kadachi,1,FALSE
+1405,Tigrex,1,FALSE
+1501,Velkhana,1,TRUE
+1502,Seething Bazelgeuse,1,TRUE
+1502,Brachydios,1,FALSE
+1502,Dodogama,1,FALSE
+1502,Savage Deviljho,1,FALSE
+1503,Blackveil Vaal Hazak,1,TRUE
+1504,Namielle,1,TRUE
+1601,Ruiner Nergigante,1,TRUE
+1602,Shara Ishvalda,1,TRUE
+1603,Rathian,1,TRUE
+1603,Nightshade Paolumu,1,TRUE
+1604,Brachydios,1,TRUE
+1604,Glavenus,1,TRUE
+1606,Yian Garuga,1,TRUE
+1606,Deviljho,1,FALSE
+1606,Banbaro,1,FALSE
+1606,Tzitzi-Ya-Ku,1,FALSE
+1121,Beotodus,1,TRUE
+1121,Banbaro,1,FALSE
+1121,Viper Tobi-Kadachi,1,FALSE
+1121,Barioth,1,FALSE
+1122,Banbaro,1,TRUE
+1122,Beotodus,1,FALSE
+1122,Viper Tobi-Kadachi,1,FALSE
+1122,Barioth,1,FALSE
+1123,Beotodus,1,TRUE
+1123,Banbaro,1,FALSE
+1123,Viper Tobi-Kadachi,1,FALSE
+1123,Fulgur Anjanath,1,FALSE
+1124,Wulg,10,TRUE
+1124,Beotodus,1,FALSE
+1124,Banbaro,1,FALSE
+1124,Viper Tobi-Kadachi,1,FALSE
+1124,Barioth,1,FALSE
+1125,Beotodus,1,FALSE
+1125,Banbaro,1,FALSE
+1125,Viper Tobi-Kadachi,1,FALSE
+1125,Tigrex,1,FALSE
+1131,Pukei-Pukei,1,TRUE
+1132,Barroth,1,TRUE
+1133,Tobi-Kadachi,1,TRUE
+1134,Banbaro,1,TRUE
+1151,Great Jagras,1,TRUE
+1151,Anjanath,1,FALSE
+1151,Pukei-Pukei,1,FALSE
+1151,Rathalos,1,FALSE
+1151,Velkhana,1,FALSE
+1152,Pukei-Pukei,1,TRUE
+1152,Tobi-Kadachi,1,FALSE
+1152,Great Jagras,1,FALSE
+1152,Rathalos,1,FALSE
+1152,Velkhana,1,FALSE
+1153,Tobi-Kadachi,1,TRUE
+1153,Anjanath,1,FALSE
+1153,Great Jagras,1,FALSE
+1153,Rathalos,1,FALSE
+1153,Velkhana,1,FALSE
+1154,Kulu-Ya-Ku,1,TRUE
+1154,Tobi-Kadachi,1,FALSE
+1154,Pukei-Pukei,1,FALSE
+1154,Rathalos,1,FALSE
+1154,Velkhana,1,FALSE
+1155,Banbaro,1,TRUE
+1155,Tobi-Kadachi,1,FALSE
+1155,Great Jagras,1,FALSE
+1155,Rathalos,1,FALSE
+1155,Velkhana,1,FALSE
+1161,Kulu-Ya-Ku,1,TRUE
+1161,Diablos,1,FALSE
+1161,Barroth,1,FALSE
+1161,Rathian,1,FALSE
+1161,Velkhana,1,FALSE
+1162,Barroth,1,TRUE
+1162,Jyuratodus,1,FALSE
+1162,Diablos,1,FALSE
+1162,Rathian,1,FALSE
+1162,Velkhana,1,FALSE
+1163,Jyuratodus,1,TRUE
+1163,Barroth,1,FALSE
+1163,Kulu-Ya-Ku,1,FALSE
+1163,Rathian,1,FALSE
+1163,Velkhana,1,FALSE
+1164,Pukei-Pukei,1,TRUE
+1164,Diablos,1,FALSE
+1164,Barroth,1,FALSE
+1164,Kulu-Ya-Ku,1,FALSE
+1164,Velkhana,1,FALSE
+1171,Tzitzi-Ya-Ku,1,TRUE
+1171,Paolumu,1,FALSE
+1171,Odogaron,1,FALSE
+1171,Legiana,1,FALSE
+1171,Velkhana,1,FALSE
+1181,Great Girros,1,TRUE
+1181,Tigrex,1,FALSE
+1181,Radobaan,1,FALSE
+1181,Odogaron,1,FALSE
+1181,Velkhana,1,FALSE
+1191,Dodogama,1,TRUE
+1191,Brachydios,1,FALSE
+1191,Uragaan,1,FALSE
+1191,Lavasioth,1,FALSE
+1191,Velkhana,1,FALSE
+1192,Banbaro,1,TRUE
+1192,Dodogama,1,FALSE
+1192,Uragaan,1,FALSE
+1192,Azure Rathalos,1,FALSE
+1221,Viper Tobi-Kadachi,1,TRUE
+1221,Banbaro,1,FALSE
+1221,Beotodus,1,FALSE
+1221,Fulgur Anjanath,1,FALSE
+1222,Viper Tobi-Kadachi,1,TRUE
+1222,Tigrex,1,FALSE
+1222,Beotodus,1,FALSE
+1222,Fulgur Anjanath,1,FALSE
+1223,Boaboa,14,TRUE
+1223,Beotodus,1,FALSE
+1223,Banbaro,1,FALSE
+1223,Viper Tobi-Kadachi,1,FALSE
+1223,Barioth,1,FALSE
+1224,Beotodus,1,TRUE
+1225,Beotodus,1,TRUE
+1225,Banbaro,1,FALSE
+1225,Viper Tobi-Kadachi,1,FALSE
+1225,Fulgur Anjanath,1,FALSE
+1231,Anjanath,1,TRUE
+1232,Radobaan,1,TRUE
+1233,Coral Pukei-Pukei,1,TRUE
+1234,Viper Tobi-Kadachi,1,TRUE
+1235,Rathian,1,TRUE
+1236,Pink Rathian,1,TRUE
+1237,Paolumu,1,TRUE
+1238,Nightshade Paolumu,1,TRUE
+1251,Anjanath,1,TRUE
+1251,Rathalos,1,FALSE
+1251,Great Jagras,1,FALSE
+1251,Tobi-Kadachi,1,FALSE
+1251,Velkhana,1,FALSE
+1252,Rathian,1,TRUE
+1252,Rathalos,1,FALSE
+1252,Anjanath,1,FALSE
+1252,Banbaro,1,FALSE
+1252,Velkhana,1,FALSE
+1253,Nightshade Paolumu,1,TRUE
+1253,Anjanath,1,FALSE
+1253,Great Jagras,1,FALSE
+1253,Nargacuga,1,FALSE
+1253,Velkhana,1,FALSE
+1261,Rathian,1,TRUE
+1261,Diablos,1,FALSE
+1261,Jyuratodus,1,FALSE
+1261,Banbaro,1,FALSE
+1261,Velkhana,1,FALSE
+1262,Nightshade Paolumu,1,TRUE
+1262,Glavenus,1,FALSE
+1262,Barroth,1,FALSE
+1262,Rathian,1,FALSE
+1262,Velkhana,1,FALSE
+1262,Ebony Odogaron,1,FALSE
+1263,Anjanath,1,TRUE
+1263,Diablos,1,FALSE
+1263,Barroth,1,FALSE
+1263,Pink Rathian,1,FALSE
+1263,Velkhana,1,FALSE
+1264,Rathian,1,TRUE
+1264,Pink Rathian,1,TRUE
+1264,Diablos,1,FALSE
+1271,Paolumu,1,TRUE
+1271,Legiana,1,FALSE
+1271,Tzitzi-Ya-Ku,1,FALSE
+1271,Pink Rathian,1,FALSE
+1271,Velkhana,1,FALSE
+1272,Pink Rathian,1,TRUE
+1272,Tzitzi-Ya-Ku,1,FALSE
+1272,Paolumu,1,FALSE
+1272,Fulgur Anjanath,1,FALSE
+1272,Velkhana,1,FALSE
+1273,Coral Pukei-Pukei,1,TRUE
+1273,Paolumu,1,FALSE
+1273,Tzitzi-Ya-Ku,1,FALSE
+1273,Legiana,1,FALSE
+1273,Velkhana,1,FALSE
+1274,Coral Pukei-Pukei,1,TRUE
+1274,Pink Rathian,1,FALSE
+1274,Tzitzi-Ya-Ku,1,FALSE
+1274,Legiana,1,FALSE
+1281,Radobaan,1,TRUE
+1281,Odogaron,1,FALSE
+1281,Tigrex,1,FALSE
+1281,Great Girros,1,FALSE
+1281,Velkhana,1,FALSE
+1282,Vespoid,15,TRUE
+1282,Hornetaur,20,TRUE
+1282,Radobaan,1,FALSE
+1282,Banbaro,1,FALSE
+1282,Odogaron,1,FALSE
+1282,Great Girros,1,FALSE
+1282,Velkhana,1,FALSE
+1291,Dodogama,1,FALSE
+1291,Brachydios,1,FALSE
+1291,Uragaan,1,FALSE
+1291,Lavasioth,1,FALSE
+1291,Velkhana,1,FALSE
+1321,Barioth,1,TRUE
+1321,Viper Tobi-Kadachi,1,FALSE
+1321,Fulgur Anjanath,1,FALSE
+1321,Banbaro,1,FALSE
+1321,Savage Deviljho,1,FALSE
+1322,Tigrex,1,TRUE
+1322,Shrieking Legiana,1,FALSE
+1322,Banbaro,1,FALSE
+1322,Viper Tobi-Kadachi,1,FALSE
+1322,Savage Deviljho,1,FALSE
+1323,Barioth,1,TRUE
+1323,Tigrex,1,FALSE
+1323,Fulgur Anjanath,1,FALSE
+1323,Banbaro,1,FALSE
+1331,Legiana,1,TRUE
+1332,Odogaron,1,TRUE
+1333,Uragaan,1,TRUE
+1334,Rathalos,1,TRUE
+1335,Diablos,1,TRUE
+1336,Barioth,1,TRUE
+1337,Nargacuga,1,TRUE
+1338,Glavenus,1,TRUE
+1339,Brachydios,1,TRUE
+1340,Tigrex,1,TRUE
+1351,Rathalos,1,TRUE
+1351,Nargacuga,1,FALSE
+1351,Rathian,1,FALSE
+1351,Tigrex,1,FALSE
+1351,Velkhana,1,FALSE
+1351,Savage Deviljho,1,FALSE
+1352,Nargacuga,1,TRUE
+1352,Rathalos,1,FALSE
+1352,Banbaro,1,FALSE
+1352,Pukei-Pukei,1,FALSE
+1352,Velkhana,1,FALSE
+1352,Savage Deviljho,1,FALSE
+1353,Glavenus,1,TRUE
+1353,Great Jagras,1,FALSE
+1353,Rathalos,1,FALSE
+1353,Nargacuga,1,FALSE
+1353,Velkhana,1,FALSE
+1353,Savage Deviljho,1,FALSE
+1354,Rathalos,1,TRUE
+1354,Nargacuga,1,TRUE
+1354,Fulgur Anjanath,1,FALSE
+1354,Anjanath,1,FALSE
+1354,Ebony Odogaron,1,FALSE
+1361,Diablos,1,TRUE
+1361,Fulgur Anjanath,1,FALSE
+1361,Barroth,1,FALSE
+1361,Black Diablos,1,FALSE
+1361,Velkhana,1,FALSE
+1361,Savage Deviljho,1,FALSE
+1362,Glavenus,1,TRUE
+1362,Diablos,1,FALSE
+1362,Tigrex,1,FALSE
+1362,Nightshade Paolumu,1,FALSE
+1362,Velkhana,1,FALSE
+1362,Savage Deviljho,1,FALSE
+1363,Glavenus,1,TRUE
+1363,Rathian,1,TRUE
+1363,Diablos,1,FALSE
+1363,Ebony Odogaron,1,FALSE
+1371,Legiana,1,TRUE
+1371,Odogaron,1,FALSE
+1371,Pink Rathian,1,FALSE
+1371,Tzitzi-Ya-Ku,1,FALSE
+1371,Velkhana,1,FALSE
+1371,Savage Deviljho,1,FALSE
+1372,Nargacuga,1,TRUE
+1372,Fulgur Anjanath,1,FALSE
+1372,Coral Pukei-Pukei,1,FALSE
+1372,Banbaro,1,FALSE
+1372,Velkhana,1,FALSE
+1372,Savage Deviljho,1,FALSE
+1373,Odogaron,1,TRUE
+1373,Paolumu,1,FALSE
+1373,Tzitzi-Ya-Ku,1,FALSE
+1373,Nargacuga,1,FALSE
+1381,Odogaron,1,TRUE
+1381,Banbaro,1,FALSE
+1381,Tigrex,1,FALSE
+1381,Radobaan,1,FALSE
+1381,Velkhana,1,FALSE
+1381,Savage Deviljho,1,FALSE
+1382,Tigrex,1,TRUE
+1382,Acidic Glavenus,1,FALSE
+1382,Great Girros,1,FALSE
+1382,Odogaron,1,FALSE
+1382,Velkhana,1,FALSE
+1382,Savage Deviljho,1,FALSE
+1383,Tigrex,1,TRUE
+1383,Radobaan,1,TRUE
+1383,Fulgur Anjanath,1,FALSE
+1383,Ebony Odogaron,1,FALSE
+1391,Brachydios,1,TRUE
+1391,Tigrex,1,FALSE
+1391,Lavasioth,1,FALSE
+1391,Azure Rathalos,1,FALSE
+1391,Velkhana,1,FALSE
+1391,Savage Deviljho,1,FALSE
+1392,Lavasioth,1,TRUE
+1392,Dodogama,1,FALSE
+1392,Azure Rathalos,1,FALSE
+1392,Uragaan,1,FALSE
+1392,Velkhana,1,FALSE
+1392,Savage Deviljho,1,FALSE
+1393,Uragaan,1,TRUE
+1393,Dodogama,1,FALSE
+1393,Fulgur Anjanath,1,FALSE
+1393,Ebony Odogaron,1,FALSE
+1393,Velkhana,1,FALSE
+1393,Savage Deviljho,1,FALSE
+1394,Brachydios,1,TRUE
+1394,Glavenus,1,FALSE
+1394,Banbaro,1,FALSE
+1394,Uragaan,1,FALSE
+1394,Velkhana,1,FALSE
+1394,Savage Deviljho,1,FALSE
+1395,Brachydios,1,TRUE
+1395,Uragaan,1,TRUE
+1395,Dodogama,1,FALSE
+1395,Fulgur Anjanath,1,FALSE
+1395,Ebony Odogaron,1,FALSE
+1421,Shrieking Legiana,1,TRUE
+1421,Legiana,1,FALSE
+1421,Banbaro,1,FALSE
+1421,Barioth,1,FALSE
+1421,Ebony Odogaron,1,FALSE
+1421,Savage Deviljho,1,FALSE
+1422,Fulgur Anjanath,1,TRUE
+1422,Legiana,1,FALSE
+1422,Tigrex,1,FALSE
+1422,Barioth,1,FALSE
+1422,Ebony Odogaron,1,FALSE
+1422,Savage Deviljho,1,FALSE
+1423,Shrieking Legiana,1,TRUE
+1423,Legiana,1,TRUE
+1423,Barioth,1,FALSE
+1423,Ebony Odogaron,1,FALSE
+1423,Savage Deviljho,1,FALSE
+1424,Shrieking Legiana,1,FALSE
+1424,Legiana,1,FALSE
+1424,Banbaro,1,FALSE
+1424,Tigrex,1,FALSE
+1431,Azure Rathalos,1,TRUE
+1432,Black Diablos,1,TRUE
+1433,Acidic Glavenus,1,TRUE
+1434,Ebony Odogaron,1,TRUE
+1435,Fulgur Anjanath,1,TRUE
+1451,Azure Rathalos,1,TRUE
+1451,Tobi-Kadachi,1,FALSE
+1451,Glavenus,1,FALSE
+1451,Fulgur Anjanath,1,FALSE
+1451,Ebony Odogaron,1,FALSE
+1451,Savage Deviljho,1,FALSE
+1452,Ebony Odogaron,1,TRUE
+1452,Anjanath,1,FALSE
+1452,Rathalos,1,FALSE
+1452,Nargacuga,1,FALSE
+1452,Savage Deviljho,1,FALSE
+1461,Black Diablos,1,TRUE
+1461,Fulgur Anjanath,1,FALSE
+1461,Diablos,1,FALSE
+1461,Glavenus,1,FALSE
+1461,Ebony Odogaron,1,FALSE
+1461,Savage Deviljho,1,FALSE
+1462,Black Diablos,1,TRUE
+1462,Fulgur Anjanath,1,FALSE
+1462,Glavenus,1,FALSE
+1471,Ebony Odogaron,1,TRUE
+1471,Nargacuga,1,FALSE
+1471,Legiana,1,FALSE
+1471,Coral Pukei-Pukei,1,FALSE
+1471,Savage Deviljho,1,FALSE
+1481,Acidic Glavenus,1,TRUE
+1481,Tigrex,1,FALSE
+1481,Odogaron,1,FALSE
+1481,Great Girros,1,FALSE
+1481,Ebony Odogaron,1,FALSE
+1481,Savage Deviljho,1,FALSE
+1482,Acidic Glavenus,1,TRUE
+1482,Fulgur Anjanath,1,FALSE
+1482,Odogaron,1,FALSE
+1482,Great Girros,1,FALSE
+1482,Ebony Odogaron,1,FALSE
+1482,Savage Deviljho,1,FALSE
+1483,Odogaron,1,TRUE
+1483,Ebony Odogaron,1,TRUE
+1483,Tigrex,1,FALSE
+1483,Radobaan,1,FALSE
+1483,Savage Deviljho,1,FALSE
+1491,Azure Rathalos,1,TRUE
+1491,Fulgur Anjanath,1,FALSE
+1491,Glavenus,1,FALSE
+1491,Lavasioth,1,FALSE
+1491,Ebony Odogaron,1,FALSE
+1491,Savage Deviljho,1,FALSE
+1492,Fulgur Anjanath,1,TRUE
+1492,Tigrex,1,FALSE
+1492,Brachydios,1,FALSE
+1492,Uragaan,1,FALSE
+1492,Ebony Odogaron,1,FALSE
+1492,Savage Deviljho,1,FALSE
+1521,Velkhana,1,TRUE
+1521,Savage Deviljho,1,FALSE
+1551,Kushala Daora,1,TRUE
+1551,Savage Deviljho,1,FALSE
+1552,Blackveil Vaal Hazak,1,TRUE
+1552,Savage Deviljho,1,FALSE
+1552,Ebony Odogaron,1,FALSE
+1561,Teostra,1,TRUE
+1561,Savage Deviljho,1,FALSE
+1562,Savage Deviljho,1,TRUE
+1562,Kulu-Ya-Ku,1,FALSE
+1562,Glavenus,1,FALSE
+1562,Black Diablos,1,FALSE
+1571,Kirin,1,TRUE
+1571,Savage Deviljho,1,FALSE
+1572,Namielle,1,TRUE
+1572,Savage Deviljho,1,FALSE
+1581,Blackveil Vaal Hazak,1,TRUE
+1581,Savage Deviljho,1,FALSE
+1581,Ebony Odogaron,1,FALSE
+1591,Kushala Daora,1,TRUE
+1591,Savage Deviljho,1,FALSE
+1591,Teostra,1,FALSE
+1592,Teostra,1,TRUE
+1592,Savage Deviljho,1,FALSE
+1592,Kushala Daora,1,FALSE
+1593,Seething Bazelgeuse,1,TRUE
+1593,Brachydios,1,FALSE
+1593,Azure Rathalos,1,FALSE
+1593,Uragaan,1,FALSE
+1593,Savage Deviljho,1,FALSE
+1594,Seething Bazelgeuse,1,TRUE
+1594,Tigrex,1,FALSE
+1594,Azure Rathalos,1,FALSE
+1594,Dodogama,1,FALSE
+1594,Savage Deviljho,1,FALSE
+1605,Ruiner Nergigante,1,TRUE
+1631,Tigrex,1,TRUE
+1631,Nargacuga,1,TRUE
+1631,Zinogre,1,TRUE
+1631,Brachydios,1,TRUE
+1631,Glavenus,1,TRUE
+1632,Zinogre,1,TRUE
+1633,Yian Garuga,1,TRUE
+1634,Brute Tigrex,1,TRUE
+1635,Gold Rathian,1,TRUE
+1636,Silver Rathalos,1,TRUE
+51621,Stygian Zinogre,1,TRUE
+1641,Shara Ishvalda,1,TRUE
+1642,Gold Rathian,1,TRUE
+1642,Silver Rathalos,1,TRUE
+1651,Kushala Daora,1,TRUE
+1651,Blackveil Vaal Hazak,1,TRUE
+1661,Lunastra,1,TRUE
+1661,Savage Deviljho,1,FALSE
+1671,Kirin,1,TRUE
+1671,Namielle,1,TRUE
+1691,Lunastra,1,TRUE
+1691,Savage Deviljho,1,FALSE
+1691,Kushala Daora,1,FALSE
+1692,Teostra,1,TRUE
+1692,Lunastra,1,TRUE
+1692,Velkhana,1,TRUE
+1692,Ruiner Nergigante,1,TRUE
+51602,Kirin,1,TRUE
+51601,Rajang,1,TRUE
+51601,Savage Deviljho,1,FALSE
+51601,Azure Rathalos,1,FALSE
+51603,Stygian Zinogre,1,TRUE
+51604,Safi'jiiva,1,TRUE
+51606,Raging Brachydios,1,TRUE
+51607,Furious Rajang,1,TRUE
+51607,Ruiner Nergigante,1,FALSE
+51611,Alatreon,1,TRUE
+61801,Beotodus,1,FALSE
+61801,Banbaro,1,FALSE
+61801,Fulgur Anjanath,1,FALSE
+61801,Tigrex,1,FALSE
+51605,Safi'jiiva,1,TRUE
+61805,Viper Tobi-Kadachi,1,FALSE
+61805,Barioth,1,FALSE
+61805,Tigrex,1,FALSE
+61805,Fulgur Anjanath,1,FALSE
+61811,Viper Tobi-Kadachi,1,FALSE
+61811,Barioth,1,FALSE
+61811,Fulgur Anjanath,1,FALSE
+61811,Shrieking Legiana,1,FALSE
+63142,Velkhana,1,TRUE
+66801,Beotodus,2,TRUE
+66802,Great Girros,1,FALSE
+66802,Odogaron,1,FALSE
+66802,Radobaan,1,FALSE
+66802,Tigrex,1,FALSE
+66803,Banbaro,2,TRUE
+66804,Barroth,1,FALSE
+66804,Rathian,1,FALSE
+66804,Pukei-Pukei,1,FALSE
+66804,Diablos,1,FALSE
+61803,Coral Pukei-Pukei,1,TRUE
+61803,Paolumu,1,FALSE
+61803,Tzitzi-Ya-Ku,1,FALSE
+61803,Legiana,1,FALSE
+66805,Anjanath,1,TRUE
+66805,Banbaro,1,TRUE
+66805,Rathalos,1,FALSE
+66805,Great Jagras,1,FALSE
+66805,Tobi-Kadachi,1,FALSE
+66807,Radobaan,1,TRUE
+66807,Viper Tobi-Kadachi,1,TRUE
+66806,Kulu-Ya-Ku,1,TRUE
+66806,Tzitzi-Ya-Ku,1,TRUE
+66806,Pukei-Pukei,1,TRUE
+66806,Coral Pukei-Pukei,1,TRUE
+61813,Barioth,1,TRUE
+61802,Nightshade Paolumu,1,TRUE
+61802,Nargacuga,1,TRUE
+66808,Rathalos,1,TRUE
+66808,Lavasioth,1,TRUE
+66808,Dodogama,1,FALSE
+66808,Glavenus,1,FALSE
+66808,Ebony Odogaron,1,FALSE
+66809,Diablos,1,TRUE
+66809,Nightshade Paolumu,1,TRUE
+66809,Barroth,1,FALSE
+66809,Glavenus,1,FALSE
+66809,Black Diablos,1,FALSE
+66810,Coral Pukei-Pukei,1,TRUE
+66810,Legiana,1,TRUE
+66810,Tzitzi-Ya-Ku,1,FALSE
+66810,Pink Rathian,1,FALSE
+66810,Paolumu,1,FALSE
+66811,Glavenus,1,TRUE
+66811,Uragaan,1,TRUE
+66811,Tigrex,1,FALSE
+66811,Ebony Odogaron,1,FALSE
+66811,Azure Rathalos,1,FALSE
+66834,Tigrex,1,TRUE
+66834,Nargacuga,1,TRUE
+61812,Glavenus,1,TRUE
+61812,Ebony Odogaron,1,TRUE
+61812,Kulu-Ya-Ku,1,FALSE
+61812,Barroth,1,FALSE
+61812,Anjanath,1,FALSE
+66812,Black Diablos,1,TRUE
+66812,Tigrex,1,TRUE
+66812,Fulgur Anjanath,1,FALSE
+66812,Diablos,1,FALSE
+66812,Ebony Odogaron,1,FALSE
+66812,Savage Deviljho,1,FALSE
+66814,Ebony Odogaron,1,TRUE
+66814,Acidic Glavenus,1,TRUE
+66814,Great Girros,1,FALSE
+66814,Banbaro,1,FALSE
+66814,Tigrex,1,FALSE
+66813,Azure Rathalos,1,TRUE
+66813,Fulgur Anjanath,1,TRUE
+66813,Nightshade Paolumu,1,FALSE
+66813,Tobi-Kadachi,1,FALSE
+66813,Tigrex,1,FALSE
+61806,Brachydios,1,TRUE
+61806,Lavasioth,1,FALSE
+61806,Uragaan,1,FALSE
+61806,Glavenus,1,FALSE
+61806,Ebony Odogaron,1,FALSE
+61807,Blackveil Vaal Hazak,1,TRUE
+61807,Velkhana,1,TRUE
+66815,Kirin,1,TRUE
+66815,Kushala Daora,1,TRUE
+66815,Teostra,1,TRUE
+66816,Velkhana,1,TRUE
+66816,Namielle,1,TRUE
+66817,Savage Deviljho,1,TRUE
+66817,Dodogama,1,FALSE
+66817,Ebony Odogaron,1,FALSE
+66817,Seething Bazelgeuse,1,FALSE
+67801,Blackveil Vaal Hazak,1,TRUE
+61814,Zinogre,1,TRUE
+61814,Namielle,1,TRUE
+66818,Zinogre,1,TRUE
+66818,Fulgur Anjanath,1,FALSE
+66818,Paolumu,1,FALSE
+66818,Nargacuga,1,FALSE
+66819,Yian Garuga,1,TRUE
+66819,Zinogre,1,FALSE
+66819,Pukei-Pukei,1,FALSE
+66819,Fulgur Anjanath,1,FALSE
+66820,Brute Tigrex,1,TRUE
+66820,Dodogama,1,FALSE
+66820,Brachydios,1,FALSE
+66820,Azure Rathalos,1,FALSE
+66821,Silver Rathalos,1,TRUE
+66821,Banbaro,1,FALSE
+66821,Uragaan,1,FALSE
+66821,Ebony Odogaron,1,FALSE
+66822,Gold Rathian,1,TRUE
+66822,Dodogama,1,FALSE
+66822,Tigrex,1,FALSE
+66822,Azure Rathalos,1,FALSE
+61808,Rajang,2,TRUE
+66824,Rajang,1,TRUE
+66824,Nightshade Paolumu,1,FALSE
+66824,Black Diablos,1,FALSE
+66824,Savage Deviljho,1,FALSE
+66825,Scarred Yian Garuga,1,TRUE
+66825,Zinogre,1,FALSE
+66825,Pukei-Pukei,1,FALSE
+66825,Rajang,1,FALSE
+66832,Stygian Zinogre,1,TRUE
+66832,Dodogama,1,FALSE
+66832,Brachydios,1,FALSE
+66832,Rathalos,1,FALSE
+66826,Anjanath,1,TRUE
+66826,Rathalos,1,TRUE
+66826,Nargacuga,1,TRUE
+66826,Yian Garuga,1,TRUE
+66826,Rajang,1,TRUE
+66827,Jyuratodus,1,TRUE
+66827,Nightshade Paolumu,1,TRUE
+66827,Glavenus,1,TRUE
+66827,Black Diablos,1,TRUE
+66827,Savage Deviljho,1,TRUE
+66833,Kulve Taroth,1,TRUE
+66828,Paolumu,1,TRUE
+66828,Legiana,1,TRUE
+66828,Coral Pukei-Pukei,1,TRUE
+66828,Ebony Odogaron,1,TRUE
+66828,Zinogre,1,TRUE
+66829,Great Girros,1,TRUE
+66829,Odogaron,1,TRUE
+66829,Tigrex,1,TRUE
+66829,Fulgur Anjanath,1,TRUE
+66829,Acidic Glavenus,1,TRUE
+66830,Banbaro,1,TRUE
+66830,Uragaan,1,TRUE
+66830,Brachydios,1,TRUE
+66830,Azure Rathalos,1,TRUE
+66830,Seething Bazelgeuse,1,TRUE
+66831,Beotodus,1,TRUE
+66831,Viper Tobi-Kadachi,1,TRUE
+66831,Barioth,1,TRUE
+66831,Shrieking Legiana,1,TRUE
+66831,Stygian Zinogre,1,TRUE
+66835,Zinogre,1,TRUE
+66835,Fulgur Anjanath,1,FALSE
+66835,Azure Rathalos,1,FALSE
+66835,Banbaro,1,FALSE
+66836,Ruiner Nergigante,1,TRUE
+61809,Nightshade Paolumu,1,TRUE
+64801,Paolumu,1,TRUE
+64801,Nightshade Paolumu,1,TRUE
+64802,Seething Bazelgeuse,1,TRUE
+67101,Anjanath,1,TRUE
+67102,Barnos,8,TRUE
+67102,Tzitzi-Ya-Ku,1,FALSE
+67607,Deviljho,2,TRUE
+67607,Great Jagras,1,FALSE
+3171,Banbaro,1,TRUE
+3071,Nightshade Paolumu,1,TRUE
+3072,Nargacuga,1,TRUE
+3073,Acidic Glavenus,1,TRUE
+3074,Odogaron,1,TRUE
+3074,Ebony Odogaron,1,TRUE
+3091,Zinogre,1,TRUE
+3092,Tigrex,1,TRUE
+3092,Brute Tigrex,1,TRUE
+63071,Tobi-Kadachi,1,TRUE
+63071,Viper Tobi-Kadachi,1,TRUE
+63072,Anjanath,1,TRUE
+63072,Fulgur Anjanath,1,TRUE
+63073,Yian Garuga,1,TRUE
+63074,Savage Deviljho,1,TRUE
+67802,Alatreon,1,TRUE
+67803,Fatalis,1,TRUE
+67804,Furious Rajang,2,TRUE
+67805,Yian Garuga,1,TRUE
+67806,Furious Rajang,1,TRUE
+67807,Shara Ishvalda,1,TRUE
+67808,Blackveil Vaal Hazak,1,TRUE
+67808,Furious Rajang,1,FALSE
+67809,Zinogre,1,TRUE
+67810,Brute Tigrex,1,TRUE
+67811,Furious Rajang,1,TRUE
+67812,Alatreon,1,TRUE
+67813,Alatreon,1,TRUE
+67814,Kushala Daora,1,TRUE
+67815,Teostra,1,TRUE
+67816,Lunastra,1,TRUE
+67817,Namielle,1,TRUE
+67818,Frostfang Barioth,1,TRUE
+67818,Banbaro,1,FALSE
+67818,Shrieking Legiana,1,FALSE
+67818,Ebony Odogaron,1,FALSE
+67819,Velkhana,1,TRUE
+67820,Fatalis,1,TRUE
+67821,Frostfang Barioth,1,TRUE
+67822,Jyuratodus,1,FALSE
+67822,Barroth,1,FALSE
+67822,Banbaro,1,FALSE
+67822,Tigrex,1,FALSE
+67823,Tzitzi-Ya-Ku,1,FALSE
+67823,Fulgur Anjanath,1,FALSE
+67823,Legiana,1,FALSE
+67823,Nargacuga,1,FALSE
+67824,Rathalos,1,TRUE
+67825,Black Diablos,1,TRUE
+67826,Paolumu,1,FALSE
+67826,Rajang,1,FALSE
+67826,Ebony Odogaron,1,FALSE
+67826,Legiana,1,FALSE
+67827,Rathian,1,TRUE
+67827,Rajang,1,FALSE
+67827,Banbaro,1,FALSE
+67827,Tobi-Kadachi,1,FALSE
+67828,Tobi-Kadachi,1,TRUE
+67828,Viper Tobi-Kadachi,1,TRUE
+67829,Tigrex,1,TRUE
+67830,Tigrex,1,TRUE
+67831,Nargacuga,1,TRUE
+67831,Ebony Odogaron,1,FALSE
+67831,Tobi-Kadachi,1,FALSE
+67831,Nightshade Paolumu,1,FALSE
+67832,Velkhana,1,TRUE
+67833,Banbaro,1,TRUE
+67833,Barioth,1,TRUE
+67833,Shrieking Legiana,1,TRUE
+67834,Namielle,1,TRUE
+67835,Velkhana,1,TRUE
+67836,Frostfang Barioth,1,TRUE
+67836,Banbaro,1,FALSE
+67836,Fulgur Anjanath,1,FALSE
+67836,Shrieking Legiana,1,FALSE
+67837,Namielle,1,TRUE
+67838,Furious Rajang,1,TRUE
+67838,Shrieking Legiana,1,FALSE
+67838,Viper Tobi-Kadachi,1,FALSE
+67838,Beotodus,1,FALSE
+67838,Ruiner Nergigante,1,FALSE
+67838,Kirin,1,FALSE
+67839,Scarred Yian Garuga,1,TRUE
+67840,Stygian Zinogre,1,TRUE
+67840,Ruiner Nergigante,1,TRUE
+67841,Raging Brachydios,1,TRUE

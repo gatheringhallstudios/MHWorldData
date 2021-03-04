@@ -302,3 +302,17 @@ id,name_en,previous_en,rarity,skill1_name,skill1_level,skill2_name,skill2_level
 295,Sealer's Charm,,11,Elderseal Boost,1,Adrenaline,1
 296,Gutsy Charm,,11,Guts,1,,
 234,Fair Wind Charm,,3,Attack Boost,1,Divine Blessing,1
+304,Attack Charm V,Attack Charm IV,12,Attack Boost,5,,
+305,Windproof Charm V,Windproof Charm IV,12,Windproof,5,,
+306,Survival Charm I,,3,Survival Expert,1,,
+307,Survival Charm II,Survival Charm I,3,Survival Expert,2,,
+308,Survival Charm III,Survival Charm II,3,Survival Expert,3,,
+309,Master's Charm V,Master's Charm IV,12,Critical Eye,5,,
+310,Evasion Charm V,Evasion Charm IV,12,Evade Window,5,,
+311,Handicraft Charm V,Handicraft Charm IV,12,Handicraft,5,,
+312,Earplugs Charm V,Earplugs Charm IV,12,Earplugs,5,,
+313,Exploiter Charm III,Exploiter Charm II,12,Weakness Exploit,3,,
+314,Grit Charm V,Grit Charm IV,12,Heroics,5,,
+315,Unscathed Charm III,Unscathed Charm II,12,Peak Performance,3,,
+316,Critical Charm III,Critical Charm II,12,Critical Boost,3,,
+317,Shaver Charm,,9,Clutch Claw Boost,1,Cliffhanger,1

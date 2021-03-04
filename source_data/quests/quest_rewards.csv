@@ -3868,3 +3868,310 @@ base_id,group,item_en,stack,percentage
 63074,A,Golden Egg,1,18
 63074,A,Gourmet Voucher,1,15
 63074,A,Hero King Coin,1,1
+67802,A,Conqueror's Seal,1,100
+67802,A,Heavy Armor Sphere,1,24
+67802,A,Large Elder Dragon Bone,1,24
+67802,A,Ancient Feystone,1,20
+67802,A,Pure Dragon Blood,1,18
+67802,A,Phantomcore Ore,1,8
+67802,A,Dragonbone Artifact,1,5
+67802,A,Conqueror's Seal,1,1
+67803,A,Sealed Feystone,2,100
+67803,A,King Armor Sphere,1,30
+67803,A,Shadowcore Ore,1,22
+67803,A,Large Elder Dragon Gem,1,13
+67803,A,Large Elder Dragon Bone,5,12
+67803,A,Pure Dragon Blood,5,11
+67803,A,Sealed Feystone,1,11
+67803,A,Sealed Feystone,2,1
+67804,A,Buff Ticket+,1,100
+67804,A,Catalyst,7,20
+67804,A,Nourishing Extract,7,18
+67804,A,Immunizer,5,15
+67804,A,Great Sushifish Scale,7,15
+67804,A,Mandragora,5,11
+67804,A,Godbug,5,11
+67804,A,Buff Ticket+,1,10
+67805,A,Shepherd Hare Ticket,1,100
+67805,A,Fancy Beak,1,18
+67805,A,Garuga Auricle,1,16
+67805,A,Heavy Armor Sphere,1,15
+67805,A,Ancient Feystone,1,13
+67805,A,Screamer Sac,4,11
+67805,A,Fey Wyvern Gem,1,11
+67805,A,Shepherd Hare Ticket,1,11
+67805,A,Purecrystal,1,5
+67806,A,Goldspring Ticket,1,100
+67806,A,Heavy Armor Sphere,1,19
+67806,A,Rajang Apoplexy,1,19
+67806,A,Sealed Feystone,1,16
+67806,A,Ghoulish Gold Gorer,1,12
+67806,A,Goldspring Ticket,1,11
+67806,A,Carved Feystone,1,6
+67806,A,Rajang Heart,1,5
+67807,A,Inner Eye Ticket,1,100
+67807,A,Shara Ishvalda Tenderplate,1,18
+67807,A,King Armor Sphere,1,15
+67807,A,Shara Ishvalda Tenderclaw,1,13
+67807,A,Shara Ishvalda Petalstone,1,11
+67807,A,Inner Eye Ticket,1,11
+67807,A,Shara Ishvalda Tenderscale,3,9
+67807,A,Shara Ishvalda Boulderplate,3,9
+67807,A,Shara Ishvalda Gem,1,8
+67807,A,Sealed Feystone,1,6
+67808,A,Black Bandana,1,100
+67808,A,Spiritvein Gem Shard,1,24
+67808,A,King Armor Sphere,1,21
+67808,A,Spiritvein Gem,1,21
+67808,A,Deceased Shard,2,13
+67808,A,Vaal Hazak Cortex,2,12
+67808,A,Great Spiritvein Gem,1,8
+67808,A,Black Bandana,1,1
+67809,A,Giant Dragonvein Coal,1,100
+67809,A,Dragonvein Coal,1,45
+67809,A,Dragonvein Coal Chunk,1,30
+67809,A,Zinogre Ticket,1,24
+67809,A,Giant Dragonvein Coal,1,1
+67810,A,True Armor Sphere,1,100
+67810,A,Heavy Armor Sphere,1,45
+67810,A,King Armor Sphere,1,30
+67810,A,Brute Tigrex Ticket,1,24
+67810,A,True Armor Sphere,1,1
+67811,A,Great Spiritvein Gem,1,100
+67811,A,Astral Melding Ticket,1,63
+67811,A,Sealed Feystone,1,36
+67811,A,Great Spiritvein Gem,1,1
+67812,A,Sealed Feystone,1,100
+67812,A,King Armor Sphere,1,24
+67812,A,Large Elder Dragon Bone,2,21
+67812,A,Pure Dragon Blood,2,18
+67812,A,Shadowcore Ore,1,16
+67812,A,Carved Feystone,1,13
+67812,A,Sealed Feystone,1,8
+67813,A,Sealed Feystone,1,100
+67813,A,King Armor Sphere,1,24
+67813,A,Large Elder Dragon Bone,2,21
+67813,A,Pure Dragon Blood,2,18
+67813,A,Shadowcore Ore,1,16
+67813,A,Carved Feystone,1,13
+67813,A,Sealed Feystone,1,8
+67814,A,Sealed Feystone,3,100
+67814,A,Ancient Feystone,1,50
+67814,A,Carved Feystone,1,41
+67814,A,Sealed Feystone,1,8
+67814,A,Sealed Feystone,3,1
+67815,A,Sealed Feystone,3,100
+67815,A,Ancient Feystone,1,50
+67815,A,Carved Feystone,1,41
+67815,A,Sealed Feystone,1,8
+67815,A,Sealed Feystone,3,1
+67816,A,Sealed Feystone,3,100
+67816,A,Ancient Feystone,1,50
+67816,A,Carved Feystone,1,41
+67816,A,Sealed Feystone,1,8
+67816,A,Sealed Feystone,3,1
+67817,A,Namielle Ticket,1,100
+67817,A,King Armor Sphere,1,24
+67817,A,Carved Feystone,1,21
+67817,A,Shadowcore Ore,1,18
+67817,A,Sealed Feystone,1,18
+67817,A,Namielle Ticket,1,11
+67817,A,Large Elder Dragon Gem,1,8
+67818,A,Frostfang Ticket,1,100
+67818,A,Heavy Armor Sphere,1,21
+67818,A,Frostfang Ticket,1,19
+67818,A,Cryo Sac,1,16
+67818,A,Phantomcore Ore,1,15
+67818,A,Purecrystal,1,12
+67818,A,Gracium,2,11
+67818,A,Sealed Feystone,1,6
+67819,A,Velkhana Ticket,1,100
+67819,A,Research Commission Ticket+,1,24
+67819,A,Sealed Feystone,1,4
+67819,A,Carved Feystone,1,23
+67819,A,King Armor Sphere,1,18
+67819,A,Velkhana Ticket,1,11
+67820,A,Sealed Feystone,2,100
+67820,A,King Armor Sphere,1,30
+67820,A,Fatalis Cortex,1,21
+67820,A,Fatalis Shard,1,19
+67820,A,Large Elder Dragon Gem,1,13
+67820,A,Sealed Feystone,1,11
+67820,A,Fatalis Evil Eye,1,5
+67820,A,Sealed Feystone,2,1
+67821,A,Gold Melding Ticket,1,100
+67821,A,Silver Melding Ticket,1,35
+67821,A,Gold Melding Ticket,1,25
+67821,A,Heavy Armor Sphere,1,20
+67821,A,Golden Egg,1,20
+67822,A,Whetfish Ticket,1,100
+67822,A,Whetfish Fin,1,45
+67822,A,Whetfish Fin+,1,36
+67822,A,Eltalite Ore,2,18
+67822,A,Whetfish Ticket,1,1
+67822,B,Ancient Feystone,1,100
+67822,B,Thick Bone,1,33
+67822,B,Hard Armor Sphere,1,20
+67822,B,Might Seed,2,13
+67822,B,Nitroshroom,3,13
+67822,B,Screamer Sac,2,13
+67822,B,Purecrystal,1,7
+67822,B,Ancient Feystone,1,1
+67823,A,Herbivore Ticket I,1,100
+67823,A,Mega Potion,5,29
+67823,A,Well-done Steak,2,27
+67823,A,Mega Nutrients,2,16
+67823,A,Tranq Bomb,3,15
+67823,A,Gourmet Voucher,1,6
+67823,A,Silver Egg,1,6
+67823,A,Herbivore Ticket I,1,1
+67823,B,Ancient Feystone,1,100
+67823,B,Thick Bone,1,30
+67823,B,Hard Armor Sphere,1,20
+67823,B,Nulberry,3,13
+67823,B,Adamant Seed,2,13
+67823,B,Tough Claw,1,13
+67823,B,Bathycite Ore,1,10
+67823,B,Ancient Feystone,1,1
+67824,A,Artemis's Notebook,1,100
+67824,A,Mega Potion,5,38
+67824,A,Ration,3,29
+67824,A,Max Potion,1,19
+67824,A,Ancient Potion,1,13
+67824,A,Artemis's Notebook,1,1
+67825,A,Chocolate,5,100
+67825,A,Mega Potion,5,38
+67825,A,Ration,3,29
+67825,A,Max Potion,1,19
+67825,A,Ancient Potion,1,13
+67825,A,Chocolate,5,1
+67826,A,Downy Crake Ticket II,1,100
+67826,A,Mega Potion,5,29
+67826,A,Well-done Steak,2,27
+67826,A,Mega Nutrients,2,16
+67826,A,Tranq Bomb,3,15
+67826,A,Gourmet Voucher,1,6
+67826,A,Silver Egg,1,6
+67826,A,Downy Crake Ticket II,1,1
+67826,B,Ancient Feystone,1,100
+67826,B,Thick Bone,1,30
+67826,B,Hard Armor Sphere,1,20
+67826,B,Nulberry,3,13
+67826,B,Adamant Seed,2,13
+67826,B,Tough Claw,1,13
+67826,B,Bathycite Ore,1,10
+67826,B,Ancient Feystone,1,1
+67827,A,Herbivore Ticket II,1,100
+67827,A,Rathian Weave,2,18
+67827,A,Rathian Surspike,1,17
+67827,A,Conflagrant Sac,2,14
+67827,A,Eltalite Ore,1,13
+67827,A,Monster Toughbone,1,13
+67827,A,Rathian Shard,4,12
+67827,A,Rathian Cortex,4,12
+67827,A,Herbivore Ticket II,1,1
+67828,A,Scarf Ticket,1,100
+67828,A,Mega Potion,10,18
+67828,A,Mega Nutrients,5,18
+67828,A,Pitfall Trap,1,16
+67828,A,Shock Trap,1,16
+67828,A,Tranq Bomb,8,13
+67828,A,Gourmet Voucher,1,9
+67828,A,Golden Egg,1,9
+67828,A,Scarf Ticket,1,1
+67829,A,Spirited Canteen Ticket,1,100
+67829,A,Well-done Steak,3,24
+67829,A,Ration,4,21
+67829,A,Gourmet Voucher,1,18
+67829,A,Dash Juice,1,13
+67829,A,Raw Meat,5,13
+67829,A,Spirited Canteen Ticket,1,11
+67830,A,Black Belt Coin,1,100
+67830,A,Dust of Life,1,30
+67830,A,Max Potion,1,28
+67830,A,Hunter King Coin,1,20
+67830,A,Silver Egg,1,13
+67830,A,Gourmet Voucher,1,8
+67830,A,Black Belt Coin,1,1
+67831,A,Heavy Armor Sphere,2,100
+67831,A,Monster Slogbone,2,24
+67831,A,Meldspar Ore,2,15
+67831,A,Phantomcore Ore,1,15
+67831,A,Ancient Feystone,2,15
+67831,A,Gloamgrass Bud,2,13
+67831,A,Carved Feystone,1,9
+67831,A,Large Wyvern Gem,1,8
+67831,A,Heavy Armor Sphere,2,1
+67832,A,Azure Era Seal,1,100
+67832,A,Heavy Armor Sphere,1,21
+67832,A,Ancient Feystone,1,20
+67832,A,Large Elder Dragon Bone,1,18
+67832,A,Azure Era Seal,1,17
+67832,A,Pure Dragon Blood,1,16
+67832,A,Phantomcore Ore,1,8
+67833,A,Black Belt Coin,1,100
+67833,A,Dust of Life,2,27
+67833,A,Max Potion,2,25
+67833,A,Hunter King Coin,1,20
+67833,A,Silver Egg,1,19
+67833,A,Gourmet Voucher,1,8
+67833,A,Black Belt Coin,1,1
+67834,A,Hero King Coin,1,100
+67834,A,Dust of Life,1,28
+67834,A,Ancient Potion,1,26
+67834,A,Ace Hunter Coin,1,20
+67834,A,Golden Egg,1,13
+67834,A,Gourmet Voucher,1,12
+67834,A,Hero King Coin,1,1
+67835,A,Hero King Coin,1,100
+67835,A,Dust of Life,1,28
+67835,A,Ancient Potion,1,26
+67835,A,Ace Hunter Coin,1,20
+67835,A,Golden Egg,1,13
+67835,A,Gourmet Voucher,1,12
+67835,A,Hero King Coin,1,1
+67836,A,Large Azure Era Gem,1,100
+67836,A,Ancient Feystone,1,21
+67836,A,Heavy Armor Sphere,1,19
+67836,A,Large Azure Era Gem,1,17
+67836,A,Monster Solidbone,1,16
+67836,A,Phantomcore Ore,1,11
+67836,A,Purecrystal,1,8
+67836,A,Dragonbone Artifact,1,8
+67837,A,Hero King Coin,1,100
+67837,A,Dust of Life,1,28
+67837,A,Ancient Potion,1,26
+67837,A,Ace Hunter Coin,1,20
+67837,A,Golden Egg,1,13
+67837,A,Gourmet Voucher,1,12
+67837,A,Hero King Coin,1,1
+67838,A,Carved Feystone,1,100
+67838,A,Heavy Armor Sphere,1,31
+67838,A,Monster Solidbone,4,21
+67838,A,Phantomcore Ore,1,18
+67838,A,Purecrystal,1,8
+67838,A,Dragonbone Artifact,1,8
+67838,A,Carved Feystone,1,8
+67838,A,Sealed Feystone,1,6
+67839,A,Hero King Coin,1,100
+67839,A,Dust of Life,1,28
+67839,A,Ancient Potion,1,26
+67839,A,Ace Hunter Coin,1,20
+67839,A,Golden Egg,1,13
+67839,A,Gourmet Voucher,1,12
+67839,A,Hero King Coin,1,1
+67840,A,Hero King Coin,1,100
+67840,A,Ancient Potion,2,23
+67840,A,Dust of Life,2,23
+67840,A,Ace Hunter Coin,1,20
+67840,A,Golden Egg,1,18
+67840,A,Gourmet Voucher,1,15
+67840,A,Hero King Coin,1,1
+67841,A,Carved Feystone,1,100
+67841,A,Heavy Armor Sphere,1,31
+67841,A,Monster Solidbone,4,21
+67841,A,Phantomcore Ore,1,18
+67841,A,Purecrystal,1,8
+67841,A,Dragonbone Artifact,1,8
+67841,A,Carved Feystone,1,8
+67841,A,Sealed Feystone,1,6

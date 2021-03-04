@@ -396,3 +396,10 @@ id,name_en,slot,rarity,skill1_name,skill1_level,skill2_name,skill2_level,icon_co
 396,Tenderizer/Evasion Jewel 4,4,12,Weakness Exploit,1,Evade Window,1,Violet
 397,Handicraft/Evasion Jewel 4,4,12,Handicraft,1,Evade Window,1,White
 398,Release/Evasion Jewel 4,4,12,Free Elem/Ammo Up,1,Evade Window,1,Cyan
+399,Survival Jewel 1,1,9,Survival Expert,1,,,Beige
+400,Guardian Jewel 2,2,10,Offensive Guard,1,,,White
+402,Cooling Jewel 2,2,9,Heat Guard,1,,,Orange
+403,Warming Jewel 2,2,9,Coldproof,1,,,White
+404,Diversion Jewel 3,3,11,Provoker,1,,,Orange
+405,Acrobat Jewel 3,3,11,Safe Landing,1,,,Blue
+406,Shaver Jewel 3,3,11,Clutch Claw Boost,1,,,Red

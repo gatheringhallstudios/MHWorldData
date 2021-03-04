@@ -781,7 +781,7 @@ def build_charms(session : sqlalchemy.orm.Session, mhdata):
         for language in cfg.supported_languages:
             charm.translations.append(db.CharmText(
                 lang_id=language,
-                name=entry.name(language)
+                name=get_translated(entry, 'name', language)
             ))
 
         # Add charm skills

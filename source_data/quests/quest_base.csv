@@ -171,6 +171,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 61606,The Greatest Jagras,event,HR,9,hunt,Ancient Forest,12600
 61607,The Name's Lavasioth!,event,HR,9,hunt,Elder's Recess,25200
 67105,USJ: Gold Star Treatment,event,LR,3,hunt,Arena,3960
+67821,"Old Dog, New Trick",event,MR,6,hunt,Arena,36000
 67103,A Rush of Blood,event,HR,7,hunt,Arena,21600
 67603,USJ Blazing Azure Stars!,event,HR,7,hunt,Elder's Recess,18000
 67605,Code: Red,event,HR,8,hunt,Arena,36000
@@ -392,7 +393,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 1592,Mark of the Sun,optional,MR,5,hunt,Elder's Recess,36000
 1593,Seething with Anger,optional,MR,5,hunt,Elder's Recess,36000
 1594,The Purr-fect Room: Silver,optional,MR,5,capture,Elder's Recess,46800
-1605,To the Very Ends with You,optional,MR,6,hunt,Guiding Lands,36000
+1605,To the Very Ends with You,assigned,MR,6,hunt,Guiding Lands,36000
 1631,We Run This Town,optional,MR,6,hunt,Special Arena,71280
 1632,Special Arena: MR Zinogre,optional,MR,6,hunt,Special Arena,28800
 1633,Special Arena: MR Yian Garuga,optional,MR,6,hunt,Special Arena,28800
@@ -414,6 +415,8 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 51606,...And My Rage for All,special,MR,6,hunt,Guiding Lands,43200
 51607,The Fury Remains,special,MR,6,hunt,Hoarfrost Reach,43200
 51611,Blazing Black Twilight,special,MR,6,hunt,Secluded Valley,43200
+67802,Dawn's Triumph,special,MR,6,hunt,Secluded Valley,28800
+67803,The Black Dragon,special,MR,6,hunt,Castle Schrade,57600
 61801,Pearl Snatchers,event,MR,1,deliver,Hoarfrost Reach,9000
 51605,The Red Dragon,event,MR,6,hunt,Secluded Valley,43200
 61805,Duffel Duty,event,MR,1,deliver,Hoarfrost Reach,9000
@@ -451,6 +454,7 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66821,A Glance of Silver,event,MR,6,hunt,Elder's Recess,36000
 66822,The Moon is a Harsh Queen,event,MR,6,hunt,Elder's Recess,36000
 61808,Muscle Monkey Madness,event,MR,6,hunt,Arena,50400
+67804,Mighty Muscle Monkey Madness,event,MR,6,hunt,Arena,60480
 66824,"Razzled, Frazzled, and Dazzled",event,MR,6,hunt,Wildspire Waste,36000
 66825,Scars Tell the Whole Story,event,MR,6,hunt,Ancient Forest,34560
 66832,Wolf Out of Hell,event,MR,6,hunt,Elder's Recess,36000
@@ -463,6 +467,22 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 66831,Ballad of the Hoarfrost,event,MR,6,hunt,Hoarfrost Reach,67320
 66835,The Wrath of Thunder Descends,event,MR,6,hunt,Ancient Forest,34560
 66836,Ode to the Destruction,event,MR,6,hunt,Origin Isle,43200
+67805,Don't Forget The Earplugs!,event,MR,6,hunt,Arena,28800
+67806,Monkey Business,event,MR,6,hunt,Hoarfrost Reach,43200
+67807,The Naked Truth,event,MR,6,hunt,Origin Isle,43200
+67808,Tears from Nirvana,event,MR,6,hunt,Rotten Vale,43200
+67809,A Farewell to Zinogre,event,MR,6,hunt,Arena,28800
+67810,Brand New Brute,event,MR,6,hunt,Arena,36000
+67811,Mew are Number One!,event,MR,6,hunt,Arena,210000
+67812,The Evening Star,event,MR,6,hunt,Secluded Valley,43200
+67813,Dawn of the Death Star,event,MR,6,hunt,Secluded Valley,43200
+67814,In the Tempest's Wake,event,MR,6,hunt,Seliana Supply Cache,43200
+67815,Day of Ruin,event,MR,6,hunt,Seliana Supply Cache,43200
+67816,The Cold Never Bothered Me,event,MR,6,hunt,Seliana Supply Cache,43200
+67817,The Distant Dark Tide,event,MR,6,hunt,Coral Highlands,54000
+67818,The Last White Knight,event,MR,6,hunt,Hoarfrost Reach,43200
+67819,The Place Where Winter Sleeps,event,MR,6,hunt,Elder's Recess,57600
+67820,Fade to Black,event,MR,6,hunt,Castle Schrade,57600
 61809,Paolumu Lullabies,event,MR,2,hunt,Arena,81000
 64801,Balloon Fight,event,MR,2,hunt,Special Arena,28800
 64802,Talk About a Party Foul...,event,MR,5,hunt,Special Arena,36000
@@ -480,3 +500,23 @@ id,name_en,category,rank,stars,quest_type,location_en,zenny
 63072,Challenge Quest 2: MR Intermediate,challenge,MR,4,hunt,Arena,37440
 63073,Challenge Quest 1: MR Expert,challenge,MR,6,hunt,Special Arena,28800
 63074,Challenge Quest 2: MR Expert,challenge,MR,6,hunt,Arena,43200
+67822,A Fish to Whet Your Appetite,event,MR,1,deliver,Wildspire Waste,9000
+67823,Fetching Light Pearls,event,MR,1,deliver,Coral Highlands,9000
+67824,To Our World,event,MR,1,hunt,Ancient Forest,25200
+67825,The New World,event,MR,1,hunt,Wildspire Waste,18000
+67826,Skyward Snipers,event,MR,1,deliver,Coral Highlands,9000
+67827,Camoflawed,event,MR,2,hunt,Ancient Forest,18000
+67828,Kadachi Twins,event,MR,2,hunt,Arena,25920
+67829,Seeing is Believing,event,MR,3,hunt,Arena,25200
+67830,The True Tyrant,challenge,MR,3,hunt,Arena,25200
+67831,The Assassin,event,MR,5,hunt,Ancient Forest,30240
+67832,USJ: Shine On Forever,event,MR,5,hunt,Seliana Supply Cache,2800
+67833,The Conqueror of Hoarfrost,challenge,MR,5,hunt,Hoarfrost Reach,42840
+67834,A Star That Will Never Dim,challenge,MR,5,hunt,Arena,28800
+67835,Wearer of the Iceborne Crown,challenge,MR,5,hunt,Arena,28800
+67836,USJ: Ballet of Frost,event,MR,5,hunt,Hoarfrost Reach,36000
+67837,Aiming for the Light,challenge,MR,5,hunt,Arena,28800
+67838,All That Glitters is Furious,optional,MR,6,hunt,Hoarfrost Reach,43200
+67839,Fear No Scars,challenge,MR,6,hunt,Arena,34560
+67840,Power and Technique,challenge,MR,6,hunt,Arena,50400
+67841,Achy Brachy Heart,optional,MR,6,hunt,Guiding Lands,43200

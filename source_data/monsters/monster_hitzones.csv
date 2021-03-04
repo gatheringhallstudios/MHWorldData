@@ -727,7 +727,7 @@ Safi'jiiva,Webbing (SCritical),50,65,15,10,10,10,10,10,0
 Safi'jiiva,Tail,21,34,15,20,20,20,20,20,0
 Safi'jiiva,Tail (SCritical),65,55,35,25,25,25,25,25,0
 Safi'jiiva,Upper Tail,18,34,3,1,1,1,1,1,0
-Safi'jiiva,Upper Tail (Scritical),24,55,10,3,3,3,3,3,0
+Safi'jiiva,Upper Tail (SCritical),24,55,10,3,3,3,3,3,0
 Furious Rajang,Head,55,57,45,0,5,0,20,0,100
 Furious Rajang,Head (Rampage),60,62,50,0,5,0,20,0,100
 Furious Rajang,Body,30,35,20,0,5,0,10,0,0
@@ -778,3 +778,12 @@ Frostfang Barioth,Forelegs,40,45,35,15,0,10,0,5,0
 Frostfang Barioth,Hindlegs,25,24,25,5,5,5,0,5,0
 Frostfang Barioth,Tail,45,23,45,10,0,5,0,5,0
 Frostfang Barioth,Tail Tip,60,40,40,15,0,10,0,5,0
+Fatalis,Head,75,75,33,17,5,5,12,25,0
+Fatalis,Neck,40,40,7,10,5,5,5,13,0
+Fatalis,Chest,45,45,45,13,5,5,10,15,0
+Fatalis,Back,25,25,5,7,5,5,5,10,0
+Fatalis,Forelegs,45,45,45,15,5,5,12,17,0
+Fatalis,Hindlegs,25,25,5,10,5,5,5,13,0
+Fatalis,Wings,25,30,35,10,5,5,5,13,0
+Fatalis,Tail,25,20,5,10,5,5,5,13,0
+Fatalis,Chest (Critical State),70,70,48,5,5,5,10,15,0
